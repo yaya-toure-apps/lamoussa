@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16800,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 15,
+    "t": "Calea celui nebun este dreaptă în ochii săi, dar cel înțelept ascultă sfatul."
+  },
+  {
+    "i": 16801,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 16,
+    "t": "Cel nebun își arată mânia îndată, dar omul priceput ascunde disprețul."
+  },
+  {
+    "i": 16802,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 17,
+    "t": "Cel ce descoperă adevărul vestește dreptatea, martorul mincinos nu este decât înșelăciune."
+  },
+  {
+    "i": 16803,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 18,
+    "t": "Cel ce vorbește nechibzuit rănește ca o sabie, dar limba celor înțelepți tămăduiește."
+  },
+  {
+    "i": 16804,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 19,
+    "t": "Buza sinceră este statornică pe vecie, dar limba mincinoasă doar pentru o clipă."
+  },
+  {
+    "i": 16805,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 20,
+    "t": "În inima care cugetă răul se află înșelăciunea, dar la sfătuitorii pașnici se află bucuria."
+  },
+  {
+    "i": 16806,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 21,
+    "t": "Celui drept nu-i vine nicio nenorocire, dar cei răi sunt copleșiți de necaz."
+  },
+  {
+    "i": 16807,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 22,
+    "t": "Urâciune înaintea Domnului sunt buzele mincinoase, dar El iubește pe cei ce practică adevărul."
+  },
+  {
+    "i": 16808,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 23,
+    "t": "Omul priceput își ascunde știința, dar inima nebunilor își publică nebunia."
+  },
+  {
+    "i": 16809,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 24,
+    "t": "Mâna harnică va domni, dar mâna leneșă va trudi."
+  },
+  {
+    "i": 16810,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 25,
+    "t": "O supărare în inima omului îl deprimă, dar o vorbă bună îl înveselește."
+  },
+  {
+    "i": 16811,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 26,
+    "t": "Un om drept arată calea prietenului său, dar calea celor răi îi rătăcește."
+  },
+  {
+    "i": 16812,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 27,
+    "t": "Lenea nu prăjește vânatul, dar sârguința este o comoară de preț pentru om."
+  },
+  {
+    "i": 16813,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 28,
+    "t": "Pe cărarea dreptății se află viața, dar calea celor nelegiuiți duce la moarte."
+  },
+  {
+    "i": 16814,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 1,
+    "t": "Fiul înțelept ascultă disciplina tatălui său, dar batjocoritorul nu ascultă mustrarea."
+  },
+  {
+    "i": 16815,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 2,
+    "t": "Prin rodul gurii sale, omul se hrănește cu ceea ce este bun, dar sufletul celor necredincioși se hrănește cu violență."
+  },
+  {
+    "i": 16816,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 3,
+    "t": "Cel ce își păzește gura își păzește viața, dar cel ce își deschide larg buzele se pierde."
+  },
+  {
+    "i": 16817,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 4,
+    "t": "Leneșul așteaptă, dar nimic nu-i vine în ajutor; foamea celor harnici este potolită."
+  },
+  {
+    "i": 16818,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 5,
+    "t": "Cel drept urăște vorba mincinoasă, dar cel rău dezonorează și calomniază."
+  },
+  {
+    "i": 16819,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 6,
+    "t": "Dreptatea îl păzește pe cel a cărui cale este cinstită, dar păcatul cauzează ruina celui rău."
+  },
+  {
+    "i": 16820,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 7,
+    "t": "Unul se preface că este bogat, deși nu are nimic, altul se preface că este sărac, deși are mari bogății."
+  },
+  {
+    "i": 16821,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 8,
+    "t": "Bogăția este răscumpărarea vieții unui om, dar săracul nu aude mustrarea."
+  },
+  {
+    "i": 16822,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 9,
+    "t": "Lumina celor drepți este bucuroasă, dar candela celor răi se stinge."
+  },
+  {
+    "i": 16823,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 10,
+    "t": "Îndrăzneala nu naște decât ceartă, dar la cel ce primește sfaturi se găsește înțelepciunea."
+  },
+  {
+    "i": 16824,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 11,
+    "t": "Averea dobândită repede se împuținează, dar cel ce adună puțin câte puțin se îmbogățește."
+  },
+  {
+    "i": 16825,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 12,
+    "t": "Speranța amânată îmbolnăvește inima, dar dorința împlinită este un pom de viață."
+  },
+  {
+    "i": 16826,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 13,
+    "t": "Cel ce disprețuiește cuvântul se va pierde, dar cel ce respectă porunca va fi salvat."
+  },
+  {
+    "i": 16827,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 14,
+    "t": "Învățătura celui înțelept este izvor de viață, pentru a evita cursele morții."
+  },
+  {
+    "i": 16828,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 15,
+    "t": "Un bun simț desăvârșit aduce favoare, dar calea celor necredincioși este aspră."
+  },
+  {
+    "i": 16829,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 16,
+    "t": "Orice om priceput acționează cu chibzuință, dar nebunul își etalează nebunia."
+  },
+  {
+    "i": 16830,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 17,
+    "t": "Solul viclean cade în nenorocire, dar solul credincios aduce vindecare."
+  },
+  {
+    "i": 16831,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 18,
+    "t": "Sărăcie și dispreț pentru cel ce părăsește disciplina, dar cinste pentru cel ce respectă mustrarea."
+  },
+  {
+    "i": 16832,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 19,
+    "t": "Dorința împlinită este dulce pentru suflet. Urâciune pentru nebuni este să se întoarcă de la rău."
+  },
+  {
+    "i": 16833,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 20,
+    "t": "Cel ce umblă cu cei înțelepți devine înțelept, dar cel ce se însoțește cu nebunii devine rău."
+  },
+  {
+    "i": 16834,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 21,
+    "t": "Necazul urmărește pe păcătos, dar fericirea îi răsplătește pe cei drepți."
+  },
+  {
+    "i": 16835,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 22,
+    "t": "Omul de bine lasă moștenire copiilor copiilor săi, dar celui drept îi este rezervată averea păcătoșilor."
+  },
+  {
+    "i": 16836,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 23,
+    "t": "Cultivarea săracilor aduce belșug de hrană, dar unii pier din lipsă de dreptate."
+  },
+  {
+    "i": 16837,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 24,
+    "t": "Cel ce cruță nuiaua își urăște fiul, dar cel ce-l iubește dăruiește corecție."
+  },
+  {
+    "i": 16838,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 25,
+    "t": "Cel drept mănâncă și se satură, dar pântecele celor răi strigă de foame."
+  },
+  {
+    "i": 16839,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 1,
+    "t": "Înțelepciunea își zidește casa, dar Nebunia o dărâmă cu mâna ei."
+  },
+  {
+    "i": 16840,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 2,
+    "t": "Cel ce umblă în dreptatea sa se teme de Domnul, dar cel ce se abate de la căile Sale îl disprețuiește."
+  },
+  {
+    "i": 16841,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 3,
+    "t": "În gura celui nebun se află un lăstar de mândrie, dar buzele celor înțelepți îi păzesc."
+  },
+  {
+    "i": 16842,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 4,
+    "t": "Unde nu sunt boi, jgheabul este gol, dar taurul viguros aduce venituri abundente."
+  },
+  {
+    "i": 16843,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 5,
+    "t": "Martorul veridic nu minte, dar martorul fals emană minciună."
+  },
+  {
+    "i": 16844,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 6,
+    "t": "Batjocoritorul urmărește înțelepciunea, dar în zadar, pentru omul inteligent cunoașterea este un lucru ușor."
+  },
+  {
+    "i": 16845,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 7,
+    "t": "Depărtează-te de nebun, căci nu vei cunoaște buzele învățate."
+  },
+  {
+    "i": 16846,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 8,
+    "t": "Pentru omul priceput, înțelepciunea este să-și supravegheze purtarea, dar nebunia celor nebuni nu este decât înșelăciune."
+  },
+  {
+    "i": 16847,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 9,
+    "t": "Nebunii batjocoresc jertfa pentru păcat, dar printre oamenii drepți se află favoarea."
+  },
+  {
+    "i": 16848,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 10,
+    "t": "Inima își cunoaște propria amărăciune și niciun străin nu-i împărtășește bucuria."
+  },
+  {
+    "i": 16849,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 11,
+    "t": "Casa celor răi va fi distrusă, dar cortul oamenilor drepți va prospera."
+  },
+  {
+    "i": 16850,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 12,
+    "t": "O cale pare dreaptă cuiva, dar la sfârșit este calea morții."
+  },
+  {
+    "i": 16851,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 13,
+    "t": "Chiar și în râs, inima găsește durere, și bucuria se sfârșește în amărăciune."
+  },
+  {
+    "i": 16852,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 14,
+    "t": "Inima rătăcită se satură de căile sale, și omul de bine de faptele sale."
+  },
+  {
+    "i": 16853,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 15,
+    "t": "Cel neghiob crede tot ce se spune, dar omul priceput își supraveghează pașii."
+  },
+  {
+    "i": 16854,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 16,
+    "t": "Cel înțelept se teme de rău și se întoarce, dar nebunul este insolent și sigur pe sine."
+  },
+  {
+    "i": 16855,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 17,
+    "t": "Omul iute la mânie face prostii, omul rău intenționat este odios."
+  },
+  {
+    "i": 16856,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 18,
+    "t": "Partea nebunilor este nebunia, dar oamenii pricepuți își fac din știință o coroană."
+  },
+  {
+    "i": 16857,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 19,
+    "t": "Înaintea celor buni, cei răi se prosternează, și la porțile celor drepți, cei nelegiuiți."
+  },
+  {
+    "i": 16858,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 20,
+    "t": "Chiar și vecinului său, săracul îi este odios, dar mulți sunt cei ce-l iubesc pe bogat."
+  },
+  {
+    "i": 16859,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 21,
+    "t": "Păcătuiește cel ce disprețuiește pe aproapele său, dar ferice de cel ce are milă de săraci."
+  },
+  {
+    "i": 16860,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 22,
+    "t": "Nu este oare rătăcire să mașinezi răul? Milă și credincioșie pentru cel ce se aplică la bine."
+  },
+  {
+    "i": 16861,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 23,
+    "t": "Orice trudă aduce profit, dar flecăreala nu produce decât lipsă."
+  },
+  {
+    "i": 16862,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 24,
+    "t": "Coroana celor înțelepți este bogăția lor, dar nebunia celor nebuni este nebunie."
+  },
+  {
+    "i": 16863,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 25,
+    "t": "Un martor veridic salvează vieți, dar cel ce spune minciuni este un impostor."
+  },
+  {
+    "i": 16864,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 26,
+    "t": "În teama de Domnul se află o puternică siguranță; pentru copiii săi El este un refugiu."
+  },
+  {
+    "i": 16865,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 27,
+    "t": "Teama de Domnul este izvor de viață, pentru a evita cursele morții."
+  },
+  {
+    "i": 16866,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 28,
+    "t": "Popor numeros, slava regelui; scăderea populației, ruina prințului."
+  },
+  {
+    "i": 16867,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 29,
+    "t": "Omul încet la mânie este plin de inteligență, dar cel cu firea iute înalță nebunia."
+  },
+  {
+    "i": 16868,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 30,
+    "t": "Viață pentru trup este o inimă pașnică, dar invidia este carie pentru oase."
+  },
+  {
+    "i": 16869,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 31,
+    "t": "A asupri pe cel slab înseamnă a-l insulta pe Creatorul său; a-L cinsti înseamnă a fi bun cu cei nenorociți."
+  },
+  {
+    "i": 16870,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 32,
+    "t": "Prin propria răutate, cel rău este doborât, dar cel drept găsește un refugiu în integritatea sa."
+  },
+  {
+    "i": 16871,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 33,
+    "t": "În inima inteligentă sălășluiește înțelepciunea; ea nu este recunoscută în inima nebunilor."
+  },
+  {
+    "i": 16872,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 34,
+    "t": "Dreptatea înalță o națiune, dar păcatul este rușinea popoarelor."
+  },
+  {
+    "i": 16873,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 35,
+    "t": "Favoarea regelui se îndreaptă spre servitorul inteligent, iar mânia sa spre cel ce face rușine."
+  },
+  {
+    "i": 16874,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 1,
+    "t": "Un răspuns amabil potolește furia, dar o vorbă rănitoare stârnește mânia."
+  },
+  {
+    "i": 16875,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 2,
+    "t": "Limba celor înțelepți face cunoașterea plăcută, dar gura nebunilor regurgitează nebunia."
+  },
+  {
+    "i": 16876,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 3,
+    "t": "În tot locul sunt ochii Domnului, ei observă pe cei răi și pe cei buni."
+  },
+  {
+    "i": 16877,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 4,
+    "t": "O limbă liniștitoare este un pom de viață, dar o limbă perversă frânge inima."
+  },
+  {
+    "i": 16878,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 5,
+    "t": "Nebunul disprețuiește corectarea paternă, dar cel ce respectă mustrarea este priceput."
+  },
+  {
+    "i": 16879,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 6,
+    "t": "Avere abundentă în casa celui drept, dar veniturile celui rău sunt izvor de neliniște."
+  },
+  {
+    "i": 16880,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 7,
+    "t": "Buzele celui înțelept răspândesc știința, dar inima celor nesocotiți nu o face."
+  },
+  {
+    "i": 16881,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 8,
+    "t": "Jertfa celor răi este o urâciune înaintea Domnului, dar rugăciunea celor drepți îi este plăcută."
+  },
+  {
+    "i": 16882,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 9,
+    "t": "Calea cea rea este o urâciune înaintea Domnului, dar El iubește pe cel ce urmărește dreptatea."
+  },
+  {
+    "i": 16883,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 10,
+    "t": "Mustrare aspră primește cel ce se abate de la cărare, iar cel ce urăște dojana va muri."
+  },
+  {
+    "i": 16884,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 11,
+    "t": "Locuința morților și adâncul sunt înaintea Domnului, cu cât mai mult inimile fiilor oamenilor!"
+  },
+  {
+    "i": 16885,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 12,
+    "t": "Batjocoritorul nu iubește pe cel ce-l mustră și nu merge la cei înțelepți."
+  },
+  {
+    "i": 16886,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 13,
+    "t": "Inima veselă înfrumusețează fața, dar inima tristă robește duhul."
+  },
+  {
+    "i": 16887,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 14,
+    "t": "Inima celui priceput caută știința, dar gura celor nesocotiți se hrănește cu nebunie."
+  },
+  {
+    "i": 16888,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 15,
+    "t": "Pentru cel nenorocit toate zilele sunt rele, dar pentru cel cu inimă veselă este sărbătoare neîncetată."
+  },
+  {
+    "i": 16889,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 16,
+    "t": "Mai bine puțin cu frica Domnului decât o comoară mare cu tulburare."
+  },
+  {
+    "i": 16890,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 17,
+    "t": "Mai bine o porție de verdețuri unde este dragoste, decât un bou îngrășat unde este ură."
+  },
+  {
+    "i": 16891,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 18,
+    "t": "Cel iute la mânie stârnește ceartă, dar cel încet la mânie potolește gâlceava."
+  },
+  {
+    "i": 16892,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 19,
+    "t": "Calea leneșului este ca un gard de spini, dar cărarea celor drepți este netezită."
+  },
+  {
+    "i": 16893,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 20,
+    "t": "Fiul înțelept bucură pe tatăl său, dar omul nesocotit disprețuiește pe mama sa."
+  },
+  {
+    "i": 16894,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 21,
+    "t": "Nebunia este bucurie celui lipsit de minte, dar omul priceput merge drept pe calea sa."
+  },
+  {
+    "i": 16895,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 22,
+    "t": "Unde nu este chibzuință, planurile se zădărnicesc, dar prin mulțimea sfătuitorilor se împlinesc."
+  },
+  {
+    "i": 16896,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 23,
+    "t": "Omul se bucură de răspunsul gurii sale, și cât de bună este o vorbă spusă la timpul potrivit!"
+  },
+  {
+    "i": 16897,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 24,
+    "t": "Pentru cel înțelept, cărarea vieții duce în sus, ca să se ferească de locuința morților, care este jos."
+  },
+  {
+    "i": 16898,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 25,
+    "t": "Domnul dărâmă casa celor mândri, dar întărește hotarul văduvei."
+  },
+  {
+    "i": 16899,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 26,
+    "t": "Gândurile rele sunt o urâciune înaintea Domnului, dar cuvintele blânde sunt curate."
+  }
+]

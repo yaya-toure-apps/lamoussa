@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3100,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 50,
+    "t": "Duhovnik naj preišče okužbo in zapre stvar za sedem dni."
+  },
+  {
+    "i": 3101,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 51,
+    "t": "Če vidi sedmi dan, da se je okužba razširila po obleki, tkanini, prevleki, koži ali kateri koli stvari, narejeni iz kože, je to primer nalezljive gobavosti: prizadeta stvar je nečista."
+  },
+  {
+    "i": 3102,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 52,
+    "t": "Sežge naj to obleko, tkanino, volneno ali laneno prevleko, kateri koli usnjen predmet, na katerem se je pojavila okužba, kajti to je nalezljiva gobavost, ki mora biti uničena z ognjem."
+  },
+  {
+    "i": 3103,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 53,
+    "t": "Toda če duhovnik ob pregledu ugotovi, da se okužba ni razširila na obleko, tkanino, prevleko ali kateri koli usnjen predmet,"
+  },
+  {
+    "i": 3104,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 54,
+    "t": "naj naroči, da se okužena stvar očisti, in jo drugič zapre za sedem dni."
+  },
+  {
+    "i": 3105,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 55,
+    "t": "Po čiščenju naj preišče okužbo, in če ugotovi, da se ni spremenila in se ne širi, je stvar nečista. Sežgeš jo z ognjem: na notranji in zunanji strani je korozija."
+  },
+  {
+    "i": 3106,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 56,
+    "t": "Toda če duhovnik ob pregledu ugotovi, da je okužba po čiščenju zbledela, jo odtrga z obleke, kože, tkanine ali prevleke."
+  },
+  {
+    "i": 3107,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 57,
+    "t": "Če pa se okužba ponovno pojavi na obleki, tkanini, prevleki ali katerem koli usnjenem predmetu, je to aktivna okužba in sežgeš z ognjem tisto, kar je prizadeto."
+  },
+  {
+    "i": 3108,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 58,
+    "t": "Kar zadeva obleko, tkanino, prevleko in kateri koli usnjen predmet, s katerega je okužba po čiščenju izginila, bo po ponovnem čiščenju čist."
+  },
+  {
+    "i": 3109,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 59,
+    "t": "To je zakon v primeru gobavosti volnene ali lanene obleke, tkanine, prevleke ali usnjenega predmeta, ko jih je treba razglasiti za čiste ali nečiste."
+  },
+  {
+    "i": 3110,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 1,
+    "t": "Gospod je rekel Mojzesu in dejal:"
+  },
+  {
+    "i": 3111,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 2,
+    "t": "To je zakon, ki se uporablja za gobavca na dan njegovega očiščenja. Pripeljemo ga k duhovniku,"
+  },
+  {
+    "i": 3112,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 3,
+    "t": "in duhovnik pojde iz tabora. Če po pregledu ugotovi, da je gobavec ozdravljen gobavosti,"
+  },
+  {
+    "i": 3113,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 4,
+    "t": "naj naroči, naj vzamejo za človeka, ki se bo očistil, dve živi in čisti ptici, cedrov les, škrlat in izop."
+  },
+  {
+    "i": 3114,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 5,
+    "t": "Nato naj naroči, naj eno ptico zakoljejo nad glineno posodo nad živo vodo."
+  },
+  {
+    "i": 3115,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 6,
+    "t": "Kar zadeva še živo ptico, naj jo vzame skupaj s cedrovim lesom, škrlatom, izopom in vse (vključno z živo ptico) potopi v kri ptice, ki je bila zaklana nad tekočo vodo."
+  },
+  {
+    "i": 3116,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 7,
+    "t": "Nato naj sedemkrat poškropi človeka, ki se bo očistil gobavosti, in ga, ko ga razglasi za čistega, spusti živo ptico na polje."
+  },
+  {
+    "i": 3117,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 8,
+    "t": "Tisti, ki se očisti, naj si opere oblačila, obrije vse dlake, se umije z vodo in bo čist. Potem naj se vrne v tabor, vendar naj sedem dni ostane zunaj svojega šotora."
+  },
+  {
+    "i": 3118,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 9,
+    "t": "Sedmi dan naj si obrije vse dlake: lase, brado, obrvi; vse dlake naj si obrije. Ko si umije oblačila in se umije z vodo, bo čist."
+  },
+  {
+    "i": 3119,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 10,
+    "t": "Osmi dan naj vzame dve jagnjeti brezhibni, eno leto staro jagnje brezhibno, tri desetine bele moke, umešane v olje, za daritev in vrček olja."
+  },
+  {
+    "i": 3120,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 11,
+    "t": "Duhovnik, ki opravlja očiščevanje, naj postavi človeka, ki se bo očistil, in njegove daritve ob vhod v Shodni šotor pred Gospodom."
+  },
+  {
+    "i": 3121,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 12,
+    "t": "Nato naj vzame eno od jagnjet. Daruje naj ga v daritev za krivdo skupaj z vrčkom olja. Z njima naj opravi gesto darovanja pred Gospodom."
+  },
+  {
+    "i": 3122,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 13,
+    "t": "Zakolje naj jagnje na svetem kraju, kjer se koljejo žrtve za greh in žgalne daritve. Ta daritev za krivdo pripade duhovniku kot žrtev za greh, to je zelo sveta stvar."
+  },
+  {
+    "i": 3123,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 14,
+    "t": "Duhovnik naj vzame kri te žrtve. Da naj jo na ušesno mečico desnega ušesa tistega, ki se očiščuje, na palec desne roke in na palec desne noge."
+  },
+  {
+    "i": 3124,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 15,
+    "t": "Nato naj vzame vrček olja in ga nekaj izlije v dlan svoje leve roke."
+  },
+  {
+    "i": 3125,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 16,
+    "t": "S prstom svoje desne roke naj pomaka v olje, ki je v dlani njegove leve roke, in s tem oljem naj s prstom sedemkrat poškropi pred Gospodom."
+  },
+  {
+    "i": 3126,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 17,
+    "t": "Nato naj nekaj olja, ki mu je ostalo v dlani, da na ušesno mečico desnega ušesa tistega, ki se očiščuje, na palec desne roke in na palec desne noge, poleg krvi žrtve za krivdo."
+  },
+  {
+    "i": 3127,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 18,
+    "t": "Ostanek olja, ki ga ima v dlani, naj da na glavo tistega, ki se očiščuje. Tako bo nad njim opravil spravni obred pred Gospodom."
+  },
+  {
+    "i": 3128,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 19,
+    "t": "Duhovnik naj nato daruje za greh in nad tistim, ki se očiščuje, opravi spravni obred njegove nečistosti. Po tem naj zakolje žgalno daritev,"
+  },
+  {
+    "i": 3129,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 20,
+    "t": "naj daruje na oltar žgalno daritev in daritev. Ko bo duhovnik tako nad tem človekom opravil spravni obred, bo čist."
+  },
+  {
+    "i": 3130,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 21,
+    "t": "Če je reven in nima dovolj sredstev, naj vzame samo eno jagnje, to je jagnje daritve za krivdo, in ga daruje po gesti darovanja, da bi nad tem človekom opravil spravni obred. Vzel naj vzame le desetino bele moke, umešane v olje, za daritev, in vrček olja,"
+  },
+  {
+    "i": 3131,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 22,
+    "t": "in dva grlici ali dva goloba – če si ju lahko priskrbi – od katerih bo en namenjen za daritev za greh in drugi za žgalno daritev."
+  },
+  {
+    "i": 3132,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 23,
+    "t": "Osmi dan jih bo v namen svojega očiščenja prinesel duhovniku ob vhod v Shodni šotor pred Gospodom."
+  },
+  {
+    "i": 3133,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 24,
+    "t": "Duhovnik naj vzame jagnje daritve za krivdo in vrček olja. Daruje naj ju v gesti darovanja pred Gospodom."
+  },
+  {
+    "i": 3134,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 25,
+    "t": "Nato, ko zakolje to jagnje daritve za krivdo, naj vzame kri in jo da na ušesno mečico desnega ušesa tistega, ki se očiščuje, na palec desne roke in na palec desne noge."
+  },
+  {
+    "i": 3135,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 26,
+    "t": "Izlije naj olje v dlan svoje leve roke,"
+  },
+  {
+    "i": 3136,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 27,
+    "t": "in s tem oljem, ki je v dlani njegove leve roke, naj s prstom sedemkrat poškropi pred Gospodom."
+  },
+  {
+    "i": 3137,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 28,
+    "t": "Da naj ga na ušesno mečico desnega ušesa tistega, ki se očiščuje, na palec desne roke, na palec desne noge, na mesto, kjer je bila dana kri daritve za krivdo."
+  },
+  {
+    "i": 3138,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 29,
+    "t": "Ostanek olja, ki ga ima v dlani, naj da na glavo tistega, ki se očiščuje, in tako opravi nad njim spravni obred pred Gospodom."
+  },
+  {
+    "i": 3139,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 30,
+    "t": "Iz ene od dveh grlic ali enega od dveh golobov – od tistega, kar si lahko priskrbi – naj daruje"
+  },
+  {
+    "i": 3140,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 31,
+    "t": "daritev za greh in iz drugega žgalno daritev, ki jo spremlja daritev – s tem, kar si bo lahko priskrbel. Duhovnik bo tako opravil spravni obred pred Gospodom nad tistim, ki se očiščuje."
+  },
+  {
+    "i": 3141,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 32,
+    "t": "To je zakon, ki zadeva tistega, ki je okužen z gobavostjo in ni sposoben poskrbeti za svoje očiščenje."
+  },
+  {
+    "i": 3142,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 33,
+    "t": "Gospod je rekel Mojzesu in Aaronu in dejal:"
+  },
+  {
+    "i": 3143,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 34,
+    "t": "Ko boste prišli v kanaansko deželo, ki vam jo dajem v last, če prizadenem s gobavostjo hišo v deželi, ki jo boste imeli v posesti,"
+  },
+  {
+    "i": 3144,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 35,
+    "t": "bo njen lastnik prišel k duhovniku in dejal: \"Videti je, kot da je v hiši gobavost."
+  },
+  {
+    "i": 3145,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 36,
+    "t": "Duhovnik naj naroči, naj izpraznijo hišo, preden pride preiskovat okužbo; tako se nič od tega, kar je v njej, ne bo onesnažilo. Po tem naj duhovnik pride opazovat hišo,"
+  },
+  {
+    "i": 3146,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 37,
+    "t": "in če po pregledu na stenah hiše ugotovi zelenkaste ali rdečkaste votline, ki se pogrezajo v steno,"
+  },
+  {
+    "i": 3147,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 38,
+    "t": "naj duhovnik izstopi iz hiše pri vratih in jo zapre za sedem dni."
+  },
+  {
+    "i": 3148,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 39,
+    "t": "Vrne se sedmi dan in če po pregledu ugotovi, da se je okužba razširila po stenah hiše,"
+  },
+  {
+    "i": 3149,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 40,
+    "t": "naj naroči, da odstranijo kamne, ki jih je prizadela okužba, in jih vržejo zunaj mesta na nečist kraj."
+  },
+  {
+    "i": 3150,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 41,
+    "t": "Nato naj ostruže vse notranje stene hiše in omet, ki se bo tako odtrgal, raztresejo na nečist kraj zunaj mesta."
+  },
+  {
+    "i": 3151,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 42,
+    "t": "Vzamejo naj druge kamne, da nadomestijo prve, in drug omet, da hišo ponovno ometajo."
+  },
+  {
+    "i": 3152,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 43,
+    "t": "Če se okužba ponovno razširi po odstranitvi kamnov, odstranjevanju in ometanju hiše,"
+  },
+  {
+    "i": 3153,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 44,
+    "t": "naj duhovnik pride in jo preišče; če ugotovi, da se je okužba razširila, je to nalezljiva gobavost v hiši; ta je nečista."
+  },
+  {
+    "i": 3154,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 45,
+    "t": "Porušijo naj jo, njene kamne, ogrodje in ves omet naj odnesejo na nečist kraj zunaj mesta."
+  },
+  {
+    "i": 3155,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 46,
+    "t": "Kdor bo vstopil v hišo ves čas, ko bo zaprta, bo nečist do večera."
+  },
+  {
+    "i": 3156,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 47,
+    "t": "Kdor bo v njej spal, naj si opere oblačila. Kdor bo v njej jedel, naj si opere oblačila."
+  },
+  {
+    "i": 3157,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 48,
+    "t": "Toda če duhovnik, ko pride preiskovat okužbo, ugotovi, da se po ometanju ni razširila v hiši, jo razglasi za čisto, kajti okužba je ozdravljena."
+  },
+  {
+    "i": 3158,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 49,
+    "t": "V namen daritve za greh hiše naj vzame dve ptici, cedrov les, škrlat in izop."
+  },
+  {
+    "i": 3159,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 50,
+    "t": "Zakolje naj eno od ptic nad glineno posodo nad tekočo vodo."
+  },
+  {
+    "i": 3160,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 51,
+    "t": "Nato naj vzame cedrov les, izop, škrlat in še živo ptico, da jih potopi v kri zaklane ptice in v tekočo vodo. Sedemkrat naj poškropi hišo,"
+  },
+  {
+    "i": 3161,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 52,
+    "t": "in potem, ko je s krvjo ptice, tekočo vodo, živo ptico, cedrovim lesom, izopom in škrlatom opravil daritev za greh hiše,"
+  },
+  {
+    "i": 3162,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 53,
+    "t": "naj izpusti živo ptico zunaj mesta na polje. Spravni obred, ki je bil tako opravljen nad hišo, bo čista."
+  },
+  {
+    "i": 3163,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 54,
+    "t": "To je zakon, ki zadeva vse primere gobavosti in krast,"
+  },
+  {
+    "i": 3164,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 55,
+    "t": "gobavost oblačil in hiš,"
+  },
+  {
+    "i": 3165,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 56,
+    "t": "otekline, izpuščaje in lise."
+  },
+  {
+    "i": 3166,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 57,
+    "t": "Določa čas nečistosti in čistosti. To je zakon o gobavosti."
+  },
+  {
+    "i": 3167,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 1,
+    "t": "Gospod je rekel Mojzesu in Aaronu in dejal:"
+  },
+  {
+    "i": 3168,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 2,
+    "t": "Govorite Izraelcem in jim recite: Ko ima moški izcedek iz svojega telesa, je ta izcedek nečist."
+  },
+  {
+    "i": 3169,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 3,
+    "t": "To je njegova nečistost, dokler ima ta izcedek: Če njegovo meso spušča izcedek ali pa ga zadržuje, je nečist."
+  },
+  {
+    "i": 3170,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 4,
+    "t": "Vsa postelja, na kateri bo ta človek spal, bo nečista, in ves pohištvo, na katerem bo sedel, bo nečisto."
+  },
+  {
+    "i": 3171,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 5,
+    "t": "Tisti, ki se bo dotaknil njegove postelje, naj si opere oblačila, se umije z vodo in bo nečist do večera."
+  },
+  {
+    "i": 3172,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 6,
+    "t": "Tisti, ki bo sedel na pohištvo, na katerem je sedel ta človek, naj si opere oblačila, se umije z vodo in bo nečist do večera."
+  },
+  {
+    "i": 3173,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 7,
+    "t": "Tisti, ki se bo dotaknil telesa tega človeka, naj si opere oblačila, se umije z vodo in bo nečist do večera."
+  },
+  {
+    "i": 3174,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 8,
+    "t": "Če ta človek pljune na čisto osebo, naj si ta opere oblačila, se umije z vodo in bo nečista do večera."
+  },
+  {
+    "i": 3175,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 9,
+    "t": "Ves sedež, na katerem je potoval ta človek, bo nečist."
+  },
+  {
+    "i": 3176,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 10,
+    "t": "Vsi tisti, ki se bodo dotaknili kakršnega koli predmeta, ki bo bil pod njim, bodo nečisti do večera. Tisti, ki bo prenašal tak predmet, naj si opere oblačila, se umije z vodo in bo nečist do večera."
+  },
+  {
+    "i": 3177,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 11,
+    "t": "Vsi tisti, ki se bodo dotaknili tega človeka, ne da bi si umili roke, naj si operejo oblačila, se umijejo z vodo in bodo nečisti do večera."
+  },
+  {
+    "i": 3178,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 12,
+    "t": "Glina posoda, ki se je bo dotaknil ta človek, bo razbita in vsa lesena posoda bo sprana."
+  },
+  {
+    "i": 3179,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 13,
+    "t": "Ko bo ta človek ozdravljen, naj šteje sedem dni za svoje očiščenje. Oprati si mora oblačila, umiti svoje telo s tekočo vodo in bo čist."
+  },
+  {
+    "i": 3180,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 14,
+    "t": "Osmi dan vzame dve grlici ali dva golobiča in pride pred GOSPODA k vhodu v shodni šotor in ju izroči duhovniku."
+  },
+  {
+    "i": 3181,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 15,
+    "t": "Iz enega napravi daritev za greh, iz drugega pa žgalno daritev. Duhovnik tako pred GOSPODOM opravi spravno dejanje zanj zaradi njegovega iztoka."
+  },
+  {
+    "i": 3182,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 16,
+    "t": "Če moškemu izteka seme, mora umiti vse svoje telo z vodo in bo nečist do večera."
+  },
+  {
+    "i": 3183,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 17,
+    "t": "Vsako oblačilo in vsako usnje, ki ga je dosegel iztok semena, je treba umiti z vodo in bo nečisto do večera."
+  },
+  {
+    "i": 3184,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 18,
+    "t": "Ko bo mož ležal z ženo in bo imel spolni odnos, se morata oba umiti z vodo in bosta nečista do večera."
+  },
+  {
+    "i": 3185,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 19,
+    "t": "Če ima žena izliv krvi in ji izteka kri iz telesa, naj bo sedem dni v nečistosti zaradi svoje mesečnega perila. Kdorkoli se je dotakne, bo nečist do večera."
+  },
+  {
+    "i": 3186,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 20,
+    "t": "Vsaka postelja, na kateri leži med svojo nečistostjo, bo nečista; vsak stol, na katerem sedi, bo nečist."
+  },
+  {
+    "i": 3187,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 21,
+    "t": "Kdor se dotakne njene postelje, naj opere svoja oblačila, se umije z vodo in bo nečist do večera."
+  },
+  {
+    "i": 3188,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 22,
+    "t": "Kdor se dotakne katerega koli stola, na katerem je sedela, naj opere svoja oblačila, se umije z vodo in bo nečist do večera."
+  },
+  {
+    "i": 3189,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 23,
+    "t": "Če je kaj na postelji ali na stolu, na katerem je sedela, bo tisti, ki se ga dotakne, nečist do večera."
+  },
+  {
+    "i": 3190,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 24,
+    "t": "Če mož leži z njo in se ga dotakne njena nečistost zaradi mesečnega perila, bo nečist sedem dni. Vsaka postelja, na kateri bo ležal, bo nečista."
+  },
+  {
+    "i": 3191,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 25,
+    "t": "Če ženi teče kri več dni, ne da bi imela mesečno perilo, ali če se ji mesečno perilo podaljša, naj bo ves čas svojega iztoka v istem stanju nečistosti kot v času svojega mesečnega perila."
+  },
+  {
+    "i": 3192,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 26,
+    "t": "Vsaka postelja, na kateri leži ves čas svojega iztoka, naj bo kot postelja, na kateri leži med svojim mesečnim perilom. Vsak stol, na katerem sedi, naj bo nečist kot med njenim mesečnim perilom."
+  },
+  {
+    "i": 3193,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 27,
+    "t": "Kdor se jih dotakne, bo nečist, naj opere svoja oblačila, se umije z vodo in bo nečist do večera."
+  },
+  {
+    "i": 3194,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 28,
+    "t": "Ko ozdravi svojega iztoka, naj si šteje sedem dni, potem bo čista."
+  },
+  {
+    "i": 3195,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 29,
+    "t": "Osmi dan vzame dve grlici ali dva golobiča in ju prinese duhovniku k vhodu v shodni šotor."
+  },
+  {
+    "i": 3196,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 30,
+    "t": "Duhovnik napravi iz enega daritev za greh, iz drugega pa žgalno daritev. Duhovnik tako pred GOSPODOM opravi spravno dejanje zanjo zaradi njenega iztoka, ki jo je onesnaževal."
+  },
+  {
+    "i": 3197,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 31,
+    "t": "Posvarite Izraelove sinove pred njihovo nečistostjo, da ne bi umrli zaradi nje, ko bi onesnaževali moje prebivališče, ki je sredi njih."
+  },
+  {
+    "i": 3198,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 32,
+    "t": "To je postava o moškem, ki ima iztok, in o tistem, ki ga onesnažuje izliv semena,"
+  },
+  {
+    "i": 3199,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 33,
+    "t": "o ženi med njeno nečistostjo zaradi mesečnega perila, o moškem ali ženi, ki ima iztok, in o moškem, ki leži z ženo, ki je nečista."
+  }
+]

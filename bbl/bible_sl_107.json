@@ -1,0 +1,802 @@
+[
+  {
+    "i": 10700,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 26,
+    "t": "Močni junaki: Asahel, brat Joaba, Elhanan, sin Dodov, iz Betlehema,"
+  },
+  {
+    "i": 10701,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 27,
+    "t": "Šamot Harorejec, Helec Pelonec,"
+  },
+  {
+    "i": 10702,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 28,
+    "t": "Ira, sin Ikešev, iz Tekoe, Abiezer iz Anatota,"
+  },
+  {
+    "i": 10703,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 29,
+    "t": "Sibekaj iz Huše, Ilaj iz Ahoha,"
+  },
+  {
+    "i": 10704,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 30,
+    "t": "Maharaj iz Netofe, Heled, sin Baanov, iz Netofe,"
+  },
+  {
+    "i": 10705,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 31,
+    "t": "Itaj, sin Ribajev, iz Gibeje Benjaminovih sinov, Benaja iz Pireatona,"
+  },
+  {
+    "i": 10706,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 32,
+    "t": "Huraj, iz potokov Gaaševih, Abiel iz Bet-Arabe,"
+  },
+  {
+    "i": 10707,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 33,
+    "t": "Azmavet iz Bahurima, Eliahba iz Šaalbona,"
+  },
+  {
+    "i": 10708,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 34,
+    "t": "Bene-Hašem iz Gizona, Jonatan, sin Šagejev, iz Hararja,"
+  },
+  {
+    "i": 10709,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 35,
+    "t": "Ahijam, sin Sakarjev, iz Hararja, Elifelet, sin Ura,"
+  },
+  {
+    "i": 10710,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 36,
+    "t": "Hefer iz Mekere, Ahija Pelonec,"
+  },
+  {
+    "i": 10711,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 37,
+    "t": "Hecro iz Karmela, Naraj, sin Ezbajev,"
+  },
+  {
+    "i": 10712,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 38,
+    "t": "Joel, brat Natanov, Mibhar, sin Hagrijev,"
+  },
+  {
+    "i": 10713,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 39,
+    "t": "Celek Amonec, Nahraj iz Beerota, ščitonoša Joaba, sina Cerujinega,"
+  },
+  {
+    "i": 10714,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 40,
+    "t": "Ira iz Jatirja, Gareb iz Jatirja,"
+  },
+  {
+    "i": 10715,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 41,
+    "t": "Urija Hetit, Zabad, sin Ahlajev,"
+  },
+  {
+    "i": 10716,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 42,
+    "t": "Adina, sin Šize Rubenita, poglavar Rubenitov in odgovoren za Trideset,"
+  },
+  {
+    "i": 10717,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 43,
+    "t": "Hanan, sin Maakin, Jozafat Mitnijec,"
+  },
+  {
+    "i": 10718,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 44,
+    "t": "Uzija iz Aštarota. Šama in Jeuel, sinova Hotamova, iz Aroerja,"
+  },
+  {
+    "i": 10719,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 45,
+    "t": "Jediael, sin Šimrijev, in Joha, njegov brat, Tisijec,"
+  },
+  {
+    "i": 10720,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 46,
+    "t": "Eliel Mahavijec, Jeribaj in Jošavja, sinova Elnaamova, Jitma Moabec,"
+  },
+  {
+    "i": 10721,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 47,
+    "t": "Eliel, Obed in Jaasiel iz Cobe,"
+  },
+  {
+    "i": 10722,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 1,
+    "t": "To so tisti, ki so se pridružili Davidu v Ciklagu, ko je bil še zadržan stran od Savla, sina Kiševega; bili so junaki, vojščaki v vojni,"
+  },
+  {
+    "i": 10723,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 2,
+    "t": "ki so znali streljati z lokom z desnico in levico, uporabljajoč kamenje in puščice. Izmed bratov Savla Benjaminovih:"
+  },
+  {
+    "i": 10724,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 3,
+    "t": "Ahiezer, poglavar, in Joaš, sin Hašemajev iz Gibeje, Jeziel in Pelet, sinova Azmavetova, Beraka in Jehu iz Anatota,"
+  },
+  {
+    "i": 10725,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 4,
+    "t": "Išmaja iz Gabaona, junak med Tridesetimi in na čelu Tridesetih;"
+  },
+  {
+    "i": 10726,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 5,
+    "t": "Jeremija, Jahaziel, Johanan in Jozabad iz Gederota,"
+  },
+  {
+    "i": 10727,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 6,
+    "t": "Eleuzaj, Jerimot, Bealija, Šemarijahu, Šefatijahu iz Harifa,"
+  },
+  {
+    "i": 10728,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 7,
+    "t": "Elkana, Jišijahu, Azarel, Joezer, Jašobeam, Korejci,"
+  },
+  {
+    "i": 10729,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 8,
+    "t": "Joela, Zebadija, sin Jerohama iz Gedora,"
+  },
+  {
+    "i": 10730,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 9,
+    "t": "Izmed Gaditov so se ločili in se pridružili Davidu v njegovem pribežališču v puščavi. Bili so močni junaki, možje vojne, pripravljeni za boj, znani po uporabi ščita in kopja. Bili so kot levi; po gibčnosti pa so bili podobni gazelam na gorah."
+  },
+  {
+    "i": 10731,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 10,
+    "t": "Ezer je bil poglavar, Obadija drugi, Eliab tretji,"
+  },
+  {
+    "i": 10732,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 11,
+    "t": "Mašmana četrti, Jeremija peti,"
+  },
+  {
+    "i": 10733,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 12,
+    "t": "Ataj šesti, Eliel sedmi,"
+  },
+  {
+    "i": 10734,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 13,
+    "t": "Johanan osmi, Elzabad deveti,"
+  },
+  {
+    "i": 10735,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 14,
+    "t": "Jeremijahu deseti, Makbanaj enajsti."
+  },
+  {
+    "i": 10736,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 15,
+    "t": "Takšni so bili Gadovi sinovi, poveljniki teles; en je poveljeval stotim, če je bil majhen, tisočim, če je bil velik."
+  },
+  {
+    "i": 10737,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 16,
+    "t": "Ti so prečkali Jordan v prvem mesecu, ko teče povsod v polnem obsegu, in pognali v beg obrežne prebivalce tako na vzhodu kot na zahodu."
+  },
+  {
+    "i": 10738,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 17,
+    "t": "Nekateri Benjaminovci in Judežani so se tudi prišli k Davidu v njegovo pribežališče."
+  },
+  {
+    "i": 10739,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 18,
+    "t": "David jim je šel naproti, spregovoril in rekel: \"Če prihajate k meni kot prijatelji, da mi pomagate, sem pripravljen, da se združim z vami, če pa mi želite prevarati v korist mojih sovražnikov, medtem ko moje roke niso storile nobene krivice, naj to vidi Bog naših očetov in sodi!"
+  },
+  {
+    "i": 10740,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 19,
+    "t": "Duh je tedaj obdal Amasaja, poglavarja Tridesetih: \"Tebi, David! Mir bodi s teboj, sin Jesejev, mir tebi, mir tistim, ki ti pomagajo, kajti tvoja pomoč je tvoj Bog.\" David jih je sprejel in jih postavil med poveljnike čet."
+  },
+  {
+    "i": 10741,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 20,
+    "t": "Nekateri Manasetovi so se odpravili k Davidu, ko se je bojeval s Filistejci proti Savlu. Vendar jim niso pomagali, kajti po posvetovanju so knezje Filistejcev Davida poslali nazaj, rekoč: \"Šel bi se poklonit svojemu gospodu Savlu za ceno naših glav!"
+  },
+  {
+    "i": 10742,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 21,
+    "t": "Odpotoval je torej v Ciklag, ko so se mu pridružili nekateri Manasetovi: Adnah, Jozabad, Jediael, Mihael, Jozabad, Elihu, Cilletaj, poglavarji tisočev iz Manaseja."
+  },
+  {
+    "i": 10743,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 22,
+    "t": "To je bila okrepitev za Davida in njegovo četo, kajti vsi so bili močni junaki in so postali častniki v vojski."
+  },
+  {
+    "i": 10744,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 23,
+    "t": "Dan za dnem je David namreč prejemal okrepitve, tako da je njegov tabor postal velikanski tabor."
+  },
+  {
+    "i": 10745,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 24,
+    "t": "To je število vojakov, opremljenih za vojno, ki so se pridružili Davidu v Hebronu, da bi mu prenesli Savlovo kraljestvo po Gospodovi zapovedi:"
+  },
+  {
+    "i": 10746,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 25,
+    "t": "Judovi sinovi, ki so nosili ščit in kopje: 6.800 vojakov, opremljenih za vojno;"
+  },
+  {
+    "i": 10747,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 26,
+    "t": "izmed Simeonijevih sinov, 7.100 močnih junakov v vojni;"
+  },
+  {
+    "i": 10748,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 27,
+    "t": "izmed Levijevih sinov, 4.600,"
+  },
+  {
+    "i": 10749,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 28,
+    "t": "prav tako Jehojada, ki je poveljeval Aronovcem s 3.700 slednjih,"
+  },
+  {
+    "i": 10750,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 29,
+    "t": "Sadoq, mlad močan junak, in dvaindvajset častnikov iz njegove družine;"
+  },
+  {
+    "i": 10751,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 30,
+    "t": "izmed Benjaminovih sinov, tri tisoč bratov Savlovih, večina od njih je do takrat ostala v službi Savlove hiše;"
+  },
+  {
+    "i": 10752,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 31,
+    "t": "izmed Efraimovih sinov, 20.800 močnih junakov, slavnih mož iz njihove družine;"
+  },
+  {
+    "i": 10753,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 32,
+    "t": "izmed polovice Manasetovega plemena, osemnajst tisoč mož, imenovanih, da gredo razglašat Davida za kralja;"
+  },
+  {
+    "i": 10754,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 33,
+    "t": "izmed Isaharovih sinov, ki so znali razpoznati čas, ko naj bi Izrael deloval in kako, dvesto poglavarjev in vsi njihovi bratje pod njihovim poveljstvom;"
+  },
+  {
+    "i": 10755,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 34,
+    "t": "izmed Zebulonovih, petdeset tisoč mož, sposobnih za vojaško službo, v bojnem redu, z vsemi vrstami orožja in pripravljeni pomagati s srcem, polnim odločnosti;"
+  },
+  {
+    "i": 10756,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 35,
+    "t": "izmed Neftalijevih, tisoč častnikov in z njimi sedemintrideset tisoč mož, opremljenih s ščitom in kopjem;"
+  },
+  {
+    "i": 10757,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 36,
+    "t": "izmed Danovcev, 28.600 mož v bojnem redu;"
+  },
+  {
+    "i": 10758,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 37,
+    "t": "izmed Aserjevih, štirideset tisoč mož, ki so odšli v vojno v bojnem redu;"
+  },
+  {
+    "i": 10759,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 38,
+    "t": "iz Transjordanije, sto dvajset tisoč mož iz Rubena, Gada, polovice Manasetovega plemena, z vsemi vrstami vojnega orožja."
+  },
+  {
+    "i": 10760,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 39,
+    "t": "Vsi ti vojaki, ki so prišli v okrepitev v dobrem redu, so se odpravili v Hebron s polnim srcem, da bi razglasili Davida za kralja nad vsem Izraelom; vsi drugi Izraelci so bili poleg tega enotni, da podelijo kraljestvo Davidu."
+  },
+  {
+    "i": 10761,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 40,
+    "t": "Tri dni so ostali tam, jedli in pili z Davidom. Njihovi bratje so vse pripravili za njih;"
+  },
+  {
+    "i": 10762,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 41,
+    "t": "poleg tega so jim iz okolice in celo iz Isaharja, Zebulona in Neftalija pošiljali živila po oslih, kamelah, mulah in volih: moko, fige in rozine, vino in olje, veliko in malo živine v velikih količinah, kajti v Izraelu je bilo veselje."
+  },
+  {
+    "i": 10763,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 1,
+    "t": "David se je posvetoval s častniki tisočev in stotic in z vsemi poveljniki."
+  },
+  {
+    "i": 10764,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 2,
+    "t": "Rekel je vsej izraelski zborovalnici: \"Če se vam zdi prav in če se Gospod, naš Bog, tako odloči, bomo poslali poslance k našim drugim bratom v vse dežele Izraela, pa tudi k duhovnikom in levitom v njihovih mestih in okoliških poljih, da se nam pridružijo."
+  },
+  {
+    "i": 10765,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 3,
+    "t": "Potem bomo pripeljali k sebi skrinjo našega Boga; zanjo se nismo brigali v času Savla."
+  },
+  {
+    "i": 10766,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 4,
+    "t": "Vsa zborovalnica se je odločila tako ravnati, kajti to se je zdelo pravilno v očeh vsega ljudstva."
+  },
+  {
+    "i": 10767,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 5,
+    "t": "David je zbral ves Izrael, od Šihora v Egiptu do vhoda v Hamat, da bi pripeljal Božjo skrinjo iz Kirjat-Jearima."
+  },
+  {
+    "i": 10768,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 6,
+    "t": "Nato so David in ves Izrael šli v Baalo, proti Kirjat-Jearimu v Judi, da bi od tam prinesli Božjo skrinjo, ki nosi Gospodovo ime, ki sedi na kerubih."
+  },
+  {
+    "i": 10769,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 7,
+    "t": "V hiši Abinadaba so naložili Božjo skrinjo na nov voz. Uza in Ahjo sta vodila voz."
+  },
+  {
+    "i": 10770,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 8,
+    "t": "David in ves Izrael so plesali pred Bogom z vso močjo, pojoč ob zvoku citer, harf, bobnov, cimbal in trobent."
+  },
+  {
+    "i": 10771,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 9,
+    "t": "Ko so prispeli do Podstavka kopja, je Uza iztegnil roko, da bi zadržal skrinjo, kajti voli so jo nagibali."
+  },
+  {
+    "i": 10772,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 10,
+    "t": "Tedaj se je Božja jeza vnela proti Uzi in ga je udaril, ker je položil roko na skrinjo; Uza je tam umrl pred Bogom."
+  },
+  {
+    "i": 10773,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 11,
+    "t": "Davida je razjezilo, ker je Gospod planil na Uza, in je temu mestu dal ime Perec-Uza, ki ga ima še danes."
+  },
+  {
+    "i": 10774,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 12,
+    "t": "Tistega dne se je David bal Boga in rekel: \"Kako naj pride Božja skrinja k meni?"
+  },
+  {
+    "i": 10775,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 13,
+    "t": "In David ni peljal skrinje k sebi, v Davidovo mesto, ampak jo je dal odpeljati v hišo Obed-Edoma iz Gata."
+  },
+  {
+    "i": 10776,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 14,
+    "t": "Božja skrinja je ostala tri mesece pri Obed-Edomu, v njegovi hiši; Gospod je blagoslovil hišo Obed-Edoma in vse, kar mu je pripadalo."
+  },
+  {
+    "i": 10777,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 1,
+    "t": "Hiram, kralj Tira, je poslal poslanstvo k Davidu, z lesom cedre, kamnoseki in tesarji, da bi mu zgradili hišo."
+  },
+  {
+    "i": 10778,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 2,
+    "t": "Tedaj je David spoznal, da ga je Gospod potrdil kot kralja Izraela in da je njegovo kraljestvo visoko povzdignjeno zaradi Izraela, svojega ljudstva."
+  },
+  {
+    "i": 10779,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 3,
+    "t": "V Jeruzalemu je David spet vzel žene in spet rodil sinove in hčere."
+  },
+  {
+    "i": 10780,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 4,
+    "t": "In ta imena sinov, ki so se mu rodili v Jeruzalemu: Šamua, Šobab, Natan, Salomon,"
+  },
+  {
+    "i": 10781,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 5,
+    "t": "Ibhar, Elišua, Elpalet,"
+  },
+  {
+    "i": 10782,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 6,
+    "t": "Nogah, Nefeg, Jafija,"
+  },
+  {
+    "i": 10783,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 7,
+    "t": "Elišama, Baaljada, Elifelet."
+  },
+  {
+    "i": 10784,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 8,
+    "t": "Ko so Filistejci slišali, da so Davida mazilili za kralja nad vsem Izraelom, so se vsi povzpeli, da bi ga zajeli. David je to slišal in jim šel naproti."
+  },
+  {
+    "i": 10785,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 9,
+    "t": "Filistejci so prišli in se razporedili v Refaimski dolini."
+  },
+  {
+    "i": 10786,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 10,
+    "t": "David je tedaj povprašal Boga: \"Ali naj napadem Filistejce?\" je vprašal. \"Ali jih boš izročil v moje roke?\" Gospod mu je odgovoril: \"Napadi! Izročil jih bom v tvoje roke."
+  },
+  {
+    "i": 10787,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 11,
+    "t": "Povzpeli so se v Baal-Perazim in tam jih je David porazil. In David je rekel: \"Po moji roki je Bog naredil prelom v mojih sovražnikih, kakor prelom, ki ga naredijo vode.\" Zato so tisti kraj imenovali Baal-Perazim."
+  },
+  {
+    "i": 10788,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 12,
+    "t": "Tam so zapustili svoje bogove: \"Naj zgorejo v ognju!\" je rekel David."
+  },
+  {
+    "i": 10789,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 13,
+    "t": "Filistejci so se znova razporedili v dolini."
+  },
+  {
+    "i": 10790,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 14,
+    "t": "David je znova povprašal Boga in Bog mu je odgovoril: \"Ne napadaj jih. Pojdi za njimi, nekoliko oddaljen, jih obkroži in jih napadi nasproti murvam."
+  },
+  {
+    "i": 10791,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 15,
+    "t": "Ko boš zaslišal šum korakov na vrhu murv, tedaj se spusti v boj, kajti Bog gre pred teboj, da porazi filistejsko vojsko."
+  },
+  {
+    "i": 10792,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 16,
+    "t": "David je storil, kakor mu je Bog zapovedal. Poral je filistejsko vojsko od Gabaona do Gezerja."
+  },
+  {
+    "i": 10793,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 17,
+    "t": "Davidovo ime se je razširilo po vseh deželah in Gospod je storil, da so se ga bale vse narode."
+  },
+  {
+    "i": 10794,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 1,
+    "t": "Zgradil si je stavbe v Davidovem mestu, pripravil je prostor za Božjo skrinjo, postavil je zanjo šotor,"
+  },
+  {
+    "i": 10795,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 2,
+    "t": "potem je rekel: \"Božje skrinje ne smejo nositi drugi kakor leviti, kajti Gospod jih je izbral, da nosijo Gospodovo skrinjo in za večno opravljajo službo zanjo."
+  },
+  {
+    "i": 10796,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 3,
+    "t": "Tedaj je David zbral vsega Izraela v Jeruzalemu, da bi prinesli Gospodovo skrinjo na prostor, ki ji ga je pripravil."
+  },
+  {
+    "i": 10797,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 4,
+    "t": "Zbral je Aronove sinove in Levijeve sinove:"
+  },
+  {
+    "i": 10798,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 5,
+    "t": "za Kehatove sinove, Uriel, poveljnik, in njegovih sto dvajset bratov,"
+  },
+  {
+    "i": 10799,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 6,
+    "t": "za Merarijeve sinove, Asaja, poveljnik, in njegovih dvesto dvajset bratov,"
+  }
+]

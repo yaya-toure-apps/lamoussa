@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2200,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 6,
+    "t": "de l’huile pour le luminaire, des aromates pour l’huile d’onction et l’encens aromatique ;"
+  },
+  {
+    "i": 2201,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 7,
+    "t": "des pierres de cornaline et des pierres à enchâsser dans l’éphod et le pectoral."
+  },
+  {
+    "i": 2202,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 8,
+    "t": "Fais-moi un sanctuaire, que je puisse résider parmi eux."
+  },
+  {
+    "i": 2203,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 9,
+    "t": "Tu feras tout selon le modèle de la Demeure et le modèle de son mobilier que je vais te montrer."
+  },
+  {
+    "i": 2204,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 10,
+    "t": "\"Tu feras en bois d’acacia une arche longue de deux coudées et demie, large d’une coudée et demie et haute d’une coudée et demie."
+  },
+  {
+    "i": 2205,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 11,
+    "t": "Tu la plaqueras d’or pur, au-dedans et au-dehors, et tu feras sur elle une moulure d’or, tout autour."
+  },
+  {
+    "i": 2206,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 12,
+    "t": "Tu fondras pour elle quatre anneaux d’or, et tu les mettras à ses quatre pieds : deux anneaux d’un côté et deux anneaux de l’autre."
+  },
+  {
+    "i": 2207,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 13,
+    "t": "Tu feras aussi des barres en bois d’acacia ; tu les plaqueras d’or,"
+  },
+  {
+    "i": 2208,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 14,
+    "t": "et tu engageras dans les anneaux fixés sur les côtés de l’arche les barres qui serviront à la porter."
+  },
+  {
+    "i": 2209,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 15,
+    "t": "Les barres resteront dans les anneaux de l’arche et n’en seront pas ôtées."
+  },
+  {
+    "i": 2210,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 16,
+    "t": "Tu mettras dans l’arche le Témoignage que je te donnerai."
+  },
+  {
+    "i": 2211,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 17,
+    "t": "Tu feras aussi un propitiatoire d’or pur, de deux coudées et demie de long et d’une coudée et demie de large."
+  },
+  {
+    "i": 2212,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 18,
+    "t": "Tu feras deux chérubins d’or repoussé, tu les feras aux deux extrémités du propitiatoire."
+  },
+  {
+    "i": 2213,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 19,
+    "t": "Fais l’un des chérubins à une extrémité et l’autre chérubin à l’autre extrémité : tu feras les chérubins faisant corps avec le propitiatoire, à ses deux extrémités."
+  },
+  {
+    "i": 2214,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 20,
+    "t": "Les chérubins auront les ailes déployées vers le haut et protégeront le propitiatoire de leurs ailes en se faisant face. Les faces des chérubins seront tournées vers le propitiatoire."
+  },
+  {
+    "i": 2215,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 21,
+    "t": "Tu mettras le propitiatoire sur le dessus de l’arche, et tu mettras dans l’arche le Témoignage que je te donnerai."
+  },
+  {
+    "i": 2216,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 22,
+    "t": "C’est là que je te rencontrerai. C’est de sur le propitiatoire, d’entre les deux chérubins qui sont sur l’arche du Témoignage, que je te donnerai mes ordres pour les Israélites."
+  },
+  {
+    "i": 2217,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 23,
+    "t": "\"Tu feras une table en bois d’acacia, longue de deux coudées, large d’une coudée et haute d’une coudée et demie."
+  },
+  {
+    "i": 2218,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 24,
+    "t": "Tu la plaqueras d’or pur, et tu lui feras tout autour une moulure d’or."
+  },
+  {
+    "i": 2219,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 25,
+    "t": "Tout autour, tu lui feras des entretoises larges d’une palme, et tu feras autour des entretoises une moulure d’or."
+  },
+  {
+    "i": 2220,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 26,
+    "t": "Tu lui feras quatre anneaux d’or, et tu mettras les anneaux aux quatre angles formés par les quatre pieds."
+  },
+  {
+    "i": 2221,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 27,
+    "t": "Les anneaux seront placés près des entretoises pour loger les barres qui serviront à porter la table."
+  },
+  {
+    "i": 2222,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 28,
+    "t": "Tu feras les barres en bois d’acacia et tu les plaqueras d’or ; elles serviront à porter la table."
+  },
+  {
+    "i": 2223,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 29,
+    "t": "Tu feras ses plats, ses coupes, ses aiguières ainsi que ses bols pour les libations ; c’est d’or pur que tu les feras,"
+  },
+  {
+    "i": 2224,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 30,
+    "t": "et tu placeras toujours sur la table, devant moi, les pains d’oblation."
+  },
+  {
+    "i": 2225,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 31,
+    "t": "Tu feras un candélabre d’or pur ; le candélabre, sa base et son fût seront repoussés ; ses calices, boutons et fleurs feront corps avec lui."
+  },
+  {
+    "i": 2226,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 32,
+    "t": "Six branches s’en détacheront sur les côtés : trois branches du candélabre d’un côté, trois branches du candélabre de l’autre côté."
+  },
+  {
+    "i": 2227,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 33,
+    "t": "La première branche portera trois calices en forme de fleur d’amandier, avec bouton et fleur ; la deuxième branche portera aussi trois calices en forme de fleur d’amandier, avec bouton et fleur ; il en sera ainsi pour les six branches partant du candélab"
+  },
+  {
+    "i": 2228,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 34,
+    "t": "Le candélabre lui-même portera quatre calices en forme de fleur d’amandier, avec bouton et fleur :"
+  },
+  {
+    "i": 2229,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 35,
+    "t": "un bouton sous les deux premières branches partant du candélabre, un bouton sous les deux branches suivantes et un bouton sous les deux dernières branches — donc aux six branches se détachant du candélabre."
+  },
+  {
+    "i": 2230,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 36,
+    "t": "Les boutons et les branches feront corps avec le candélabre et le tout sera fait d’un bloc d’or pur repoussé."
+  },
+  {
+    "i": 2231,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 37,
+    "t": "Puis tu feras ses sept lampes. On montera les lampes de telle sorte qu’elles éclairent en avant de lui."
+  },
+  {
+    "i": 2232,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 38,
+    "t": "Ses mouchettes et ses cendriers seront d’or pur."
+  },
+  {
+    "i": 2233,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 39,
+    "t": "Tu le feras, avec tous ses accessoires, d’un talent d’or pur."
+  },
+  {
+    "i": 2234,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 40,
+    "t": "Regarde et exécute selon le modèle qui t’est montré sur la montagne."
+  },
+  {
+    "i": 2235,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 1,
+    "t": "\"Quant à la demeure, tu la feras de dix bandes d’étoffe de fin lin retors, de pourpre violette et écarlate et de cramoisi. Tu les feras brodées de chérubins."
+  },
+  {
+    "i": 2236,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 2,
+    "t": "La longueur d’une bande sera de vingt-huit coudées, sa largeur de quatre coudées, et toutes les bandes auront la même dimension."
+  },
+  {
+    "i": 2237,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 3,
+    "t": "Cinq des bandes seront assemblées l’une à l’autre, et les cinq autres bandes seront assemblées l’une à l’autre."
+  },
+  {
+    "i": 2238,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 4,
+    "t": "Tu feras des brides de pourpre violette à la lisière de la première bande, à l’extrémité de l’assemblage, et tu feras de même à la lisière de la bande qui termine le second assemblage."
+  },
+  {
+    "i": 2239,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 5,
+    "t": "Tu feras cinquante brides à la première bande, et cinquante brides à l’extrémité de la bande du second assemblage, les brides se correspondant l’une à l’autre."
+  },
+  {
+    "i": 2240,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 6,
+    "t": "Tu feras aussi cinquante agrafes d’or, et tu assembleras les bandes l’une à l’autre avec les agrafes. Ainsi la Demeure sera d’un seul tenant."
+  },
+  {
+    "i": 2241,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 7,
+    "t": "Tu feras des bandes d’étoffe en poil de chèvre pour former une tente au-dessus de la Demeure. Tu en feras onze."
+  },
+  {
+    "i": 2242,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 8,
+    "t": "La longueur d’une bande sera de trente coudées et sa largeur de quatre coudées ; les onze bandes auront mêmes dimensions."
+  },
+  {
+    "i": 2243,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 9,
+    "t": "Tu assembleras cinq bandes d’une part et six bandes d’autre part, et tu rabattras la sixième sur le devant de la tente."
+  },
+  {
+    "i": 2244,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 10,
+    "t": "Tu feras cinquante brides à la lisière de la première bande, à l’extrémité du premier assemblage, et cinquante brides à la lisière de la bande du second assemblage."
+  },
+  {
+    "i": 2245,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 11,
+    "t": "Tu feras cinquante agrafes de bronze, et tu introduiras les agrafes dans les brides pour assembler la tente qui sera ainsi d’un seul tenant."
+  },
+  {
+    "i": 2246,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 12,
+    "t": "De ce qui retombera en surplus des bandes de la tente, la moitié de la bande en surplus retombera sur l’arrière de la Demeure."
+  },
+  {
+    "i": 2247,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 13,
+    "t": "La coudée en surplus de part et d’autre, sur la longueur des bandes de la tente, retombera sur les côtés de la Demeure, de part et d’autre, pour la couvrir."
+  },
+  {
+    "i": 2248,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 14,
+    "t": "Tu feras pour la tente une couverture en peaux de béliers teintes en rouge, et une couverture en cuir fin, par-dessus."
+  },
+  {
+    "i": 2249,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 15,
+    "t": "\"Tu feras pour la Demeure des cadres en bois d’acacia qui seront dressés debout."
+  },
+  {
+    "i": 2250,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 16,
+    "t": "Chaque cadre sera long de dix coudées et large d’une coudée et demie."
+  },
+  {
+    "i": 2251,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 17,
+    "t": "Chaque cadre aura deux tenons jumelés ; tu feras de même pour tous les cadres de la Demeure."
+  },
+  {
+    "i": 2252,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 18,
+    "t": "Tu feras les cadres pour constituer la Demeure : vingt cadres pour le côté sud, vers le midi."
+  },
+  {
+    "i": 2253,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 19,
+    "t": "Tu feras quarante socles d’argent sous les vingt cadres : deux socles sous un cadre pour ses deux tenons, deux socles sous un autre cadre pour ses deux tenons."
+  },
+  {
+    "i": 2254,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 20,
+    "t": "Du second côté de la Demeure, le côté nord, il y aura vingt cadres"
+  },
+  {
+    "i": 2255,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 21,
+    "t": "et quarante socles d’argent : deux socles sous un cadre, deux socles sous un autre cadre."
+  },
+  {
+    "i": 2256,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 22,
+    "t": "Pour le fond de la Demeure, vers la mer, tu feras six cadres,"
+  },
+  {
+    "i": 2257,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 23,
+    "t": "et tu feras deux cadres pour les angles du fond de la Demeure."
+  },
+  {
+    "i": 2258,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 24,
+    "t": "Les cadres seront jumelés à leur base et le resteront jusqu’à leur sommet, à la hauteur du premier anneau. Ainsi en sera-t-il pour les deux cadres destinés aux deux angles."
+  },
+  {
+    "i": 2259,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 25,
+    "t": "Il y aura donc huit cadres avec leurs socles d’argent, soit seize socles : deux socles sous un premier cadre, deux socles sous un autre cadre."
+  },
+  {
+    "i": 2260,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 26,
+    "t": "Tu feras des traverses en bois d’acacia : cinq pour les cadres du premier côté de la Demeure,"
+  },
+  {
+    "i": 2261,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 27,
+    "t": "cinq traverses pour les cadres du second côté de la Demeure, et cinq traverses pour les cadres qui forment le fond de la Demeure, vers l’ouest."
+  },
+  {
+    "i": 2262,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 28,
+    "t": "La traverse médiane, placée à mi-hauteur, assemblera les cadres d’une extrémité à l’autre."
+  },
+  {
+    "i": 2263,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 29,
+    "t": "Tu plaqueras d’or les cadres, tu leur feras des anneaux d’or où se logeront les traverses, et tu plaqueras les traverses d’or."
+  },
+  {
+    "i": 2264,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 30,
+    "t": "Ainsi tu dresseras la Demeure, selon le modèle qui t’a été montré sur la montagne."
+  },
+  {
+    "i": 2265,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 31,
+    "t": "\"Tu feras un rideau de pourpre violette et écarlate, de cramoisi et de fin lin retors, brodé de chérubins."
+  },
+  {
+    "i": 2266,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 32,
+    "t": "Tu le mettras sur quatre colonnes d’acacia plaquées d’or, munies de crochets d’or, posées sur quatre socles d’argent."
+  },
+  {
+    "i": 2267,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 33,
+    "t": "Tu mettras le rideau sous les agrafes, tu introduiras là, derrière le rideau, l’arche du Témoignage, et le rideau marquera pour vous la séparation entre le Saint et le Saint des Saints."
+  },
+  {
+    "i": 2268,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 34,
+    "t": "Tu mettras le propitiatoire sur l’arche du Témoignage, dans le Saint des Saints."
+  },
+  {
+    "i": 2269,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 35,
+    "t": "Tu placeras la table à l’extérieur du rideau, et le candélabre en face d’elle, du côté sud de la Demeure, et tu mettras la table du côté nord."
+  },
+  {
+    "i": 2270,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 36,
+    "t": "Tu feras pour l’entrée de la tente un voile broché de pourpre violette et écarlate, de cramoisi et de fin lin retors."
+  },
+  {
+    "i": 2271,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 37,
+    "t": "Tu feras pour ce voile cinq colonnes d’acacia et tu les plaqueras d’or, leurs crochets seront en or, et tu couleras pour elles cinq socles de bronze."
+  },
+  {
+    "i": 2272,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 1,
+    "t": "\"Tu feras l’autel en bois d’acacia ; de cinq coudées de long et de cinq coudées de large, l’autel sera carré ; il aura trois coudées de haut."
+  },
+  {
+    "i": 2273,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 2,
+    "t": "Tu feras à ses quatre angles des cornes faisant corps avec lui, et tu le plaqueras de bronze."
+  },
+  {
+    "i": 2274,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 3,
+    "t": "Tu feras ses vases pour en ôter les cendres grasses, ses pelles, ses bols à aspersion, ses fourchettes et ses encensoirs. Tous les accessoires de l’autel, tu les feras de bronze."
+  },
+  {
+    "i": 2275,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 4,
+    "t": "Tu lui feras un treillis de bronze en forme de filet, et tu feras aux quatre extrémités de ce filet quatre anneaux de bronze."
+  },
+  {
+    "i": 2276,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 5,
+    "t": "Tu le mettras sous la corniche de l’autel, en bas, de telle sorte qu’il soit à mi-hauteur de l’autel."
+  },
+  {
+    "i": 2277,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 6,
+    "t": "Tu feras des barres pour l’autel, des barres en bois d’acacia, et tu les plaqueras de bronze."
+  },
+  {
+    "i": 2278,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 7,
+    "t": "On engagera les barres dans les anneaux, de telle sorte que les barres soient des deux côtés de l’autel lorsqu’on le transporte."
+  },
+  {
+    "i": 2279,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 8,
+    "t": "Tu le feras creux, en planches ; tu le feras comme on t’a montré sur la montagne.e"
+  },
+  {
+    "i": 2280,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 9,
+    "t": "\"Tu feras le parvis de la Demeure. Pour le côté sud, vers le midi, les courtines du parvis, de fin lin retors, auront une longueur de cent coudées (pour le premier côté)."
+  },
+  {
+    "i": 2281,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 10,
+    "t": "Ses vingt colonnes et ses vingt socles seront en bronze ; les crochets des colonnes et leurs tringles en argent."
+  },
+  {
+    "i": 2282,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 11,
+    "t": "De même pour le côté nord, tu feras des rideaux d’une longueur de cent coudées, ses vingt colonnes et leurs vingt socles seront en bronze ; les crochets des colonnes et leurs tringles en argent."
+  },
+  {
+    "i": 2283,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 12,
+    "t": "La largeur du parvis, du côté de la mer, comportera cinquante coudées de courtines, avec leurs dix colonnes et leurs dix socles."
+  },
+  {
+    "i": 2284,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 13,
+    "t": "La largeur du parvis sur le côté est, à l’orient, sera de cinquante coudées."
+  },
+  {
+    "i": 2285,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 14,
+    "t": "Quinze coudées de courtines pour un côté de l’entrée, avec leurs trois colonnes et leurs trois socles ;"
+  },
+  {
+    "i": 2286,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 15,
+    "t": "pour le second côté de l’entrée, quinze coudées de courtines, avec leurs trois colonnes et leurs trois socles."
+  },
+  {
+    "i": 2287,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 16,
+    "t": "À la porte du parvis il y aura vingt coudées de voile damassé, de pourpre violette et écarlate, de cramoisi et de fin lin retors, avec leurs quatre colonnes et leurs quatre socles."
+  },
+  {
+    "i": 2288,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 17,
+    "t": "Toutes les colonnes autour du parvis seront réunies par des tringles d’argent ; leurs crochets seront d’argent et leurs socles de bronze."
+  },
+  {
+    "i": 2289,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 18,
+    "t": "La longueur du parvis sera de cent coudées, sa largeur de cinquante coudées et sa hauteur de cinq coudées. Tous les rideaux seront de fin lin retors et leurs socles de bronze."
+  },
+  {
+    "i": 2290,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 19,
+    "t": "Tous les accessoires pour le service général de la Demeure, tous ses piquets et ceux du parvis seront de bronze."
+  },
+  {
+    "i": 2291,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 20,
+    "t": "\"Quant à toi, tu ordonneras aux Israélites de te procurer de l’huile d’olives broyées pour le luminaire, afin qu’une lampe brûle en permanence."
+  },
+  {
+    "i": 2292,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 21,
+    "t": "Aaron et ses fils disposeront cette lampe dans la Tente du Rendez-vous, à l’extérieur du rideau qui pend devant le Témoignage, pour qu’elle brûle du soir au matin devant Yahvé. C’est un décret perpétuel pour les générations des Israélites."
+  },
+  {
+    "i": 2293,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 1,
+    "t": "\"Quant à toi, fais approcher de toi Aaron ton frère et ses fils, d’entre les Israélites, pour qu’il exerce mon sacerdoce : Aaron, Nadab et Abihu, Eléazar et Itamar, fils d’Aaron."
+  },
+  {
+    "i": 2294,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 2,
+    "t": "Tu feras pour Aaron ton frère des vêtements sacrés qui lui feront une glorieuse parure."
+  },
+  {
+    "i": 2295,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 3,
+    "t": "Tu t’adresseras à tous les hommes habiles que j’ai comblés d’habileté et ils feront les vêtements d’Aaron, pour qu’il soit consacré à l’exercice de mon sacerdoce."
+  },
+  {
+    "i": 2296,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 4,
+    "t": "Voici les vêtements qu’ils feront : un pectoral, un éphod, un manteau et une tunique brodée, un turban et une ceinture. Ils feront des vêtements sacrés pour ton frère Aaron et pour ses fils, afin qu’ils exercent mon sacerdoce."
+  },
+  {
+    "i": 2297,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 5,
+    "t": "Ils prendront l’or, la pourpre violette et écarlate, le cramoisi et le fin lin."
+  },
+  {
+    "i": 2298,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 6,
+    "t": "\"Ils feront l’éphod brodé en or, en pourpre violette et écarlate, en cramoisi et en fin lin retors."
+  },
+  {
+    "i": 2299,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 7,
+    "t": "Deux épaulettes y seront fixées : il y sera fixé par ses deux bords."
+  }
+]

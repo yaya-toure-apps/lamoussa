@@ -1,0 +1,802 @@
+[
+  {
+    "i": 29700,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 28,
+    "t": "\"Dobrześ odpowiedział, rzekł mu Jezus; czyń to, a żyć będziesz."
+  },
+  {
+    "i": 29701,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 29,
+    "t": "Lecz on, chcąc się usprawiedliwić, rzekł do Jezusa: \"A któż jest moim bliźnim?"
+  },
+  {
+    "i": 29702,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 30,
+    "t": "A Jezus, odpowiadając, rzekł: \"Pewien człowiek szedł z Jeruzalemu do Jerycha i wpadł w ręce zbójców, którzy go obrabowali, zranili i odeszli, zostawiwszy go na pół umarłego."
+  },
+  {
+    "i": 29703,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 31,
+    "t": "Przypadkiem zaś pewien kapłan szedł tą drogą, a ujrzawszy go, minął go."
+  },
+  {
+    "i": 29704,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 32,
+    "t": "Podobnie i Lewita, gdy przyszedł na to miejsce i ujrzał go, minął go."
+  },
+  {
+    "i": 29705,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 33,
+    "t": "Lecz pewien Samarytanin, wędrując, przyszedł do niego i, ujrzawszy go, ulitował się."
+  },
+  {
+    "i": 29706,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 34,
+    "t": "I przystąpiwszy, opatrzył rany jego, zalewając je oliwą i winem, i wsadziwszy go na swoje bydlę, zawiózł go do gospody i pielęgnował go."
+  },
+  {
+    "i": 29707,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 35,
+    "t": "A nazajutrz wyjąwszy dwa denary, dał je gospodarzowi i rzekł mu: Pielęgnuj go, a cokolwiek więcej wydasz, ja ci przy powrocie zapłacę."
+  },
+  {
+    "i": 29708,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 36,
+    "t": "Któryż tedy z tych trzech zda ci się być bliźnim tego, który wpadł w ręce zbójców?"
+  },
+  {
+    "i": 29709,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 37,
+    "t": "A on rzekł: \"Ten, który mu okazał miłosierdzie.\" Wtedy Jezus rzekł mu: \"Idź i ty czyń podobnie."
+  },
+  {
+    "i": 29710,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 38,
+    "t": "A gdy szli, wszedł do pewnej wioski; a pewna niewiasta, imieniem Marta, przyjęła go do swego domu."
+  },
+  {
+    "i": 29711,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 39,
+    "t": "A miała ona siostrę, imieniem Maria, która usiadłszy u stóp Jezusa, słuchała jego słów."
+  },
+  {
+    "i": 29712,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 40,
+    "t": "Marta zaś krzątała się około wielu posług, a przystąpiwszy, rzekła: \"Panie, czyż ci to obojętne, że siostra moja zostawiła mnie samą, abym usługiwała? Powiedz jej więc, żeby mi pomogła."
+  },
+  {
+    "i": 29713,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 41,
+    "t": "A Jezus, odpowiadając, rzekł jej: \"Marto, Marto, troszczysz się i kłopoczesz o wiele rzeczy;"
+  },
+  {
+    "i": 29714,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 42,
+    "t": "A potrzeba mało albo tylko jednego; Maria bowiem wybrała dobrą cząstkę, która nie będzie jej odjęta."
+  },
+  {
+    "i": 29715,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 1,
+    "t": "I stało się, gdy się modlił w pewnym miejscu, że gdy przestał, rzekł do niego jeden z uczniów jego: \"Panie, naucz nas się modlić, jak i Jan nauczył uczniów swoich."
+  },
+  {
+    "i": 29716,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 2,
+    "t": "A on rzekł im: \"Gdy się modlicie, mówcie: Ojcze nasz, który jesteś w niebie, święć się imię twoje, przyjdź królestwo twoje;"
+  },
+  {
+    "i": 29717,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 3,
+    "t": "chleba naszego powszedniego dawaj nam na każdy dzień;"
+  },
+  {
+    "i": 29718,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 4,
+    "t": "i odpuść nam grzechy nasze, bo i my odpuszczamy każdemu, który nam zawinił, i nie wódź nas na pokuszenie, ale nas zbaw ode złego."
+  },
+  {
+    "i": 29719,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 5,
+    "t": "I rzekł im: \"Kto z was, mając przyjaciela, pójdzie do niego o północy i powie mu: Przyjacielu, pożycz mi trzy chleby;"
+  },
+  {
+    "i": 29720,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 6,
+    "t": "gdyż przyjaciel mój przybył do mnie z drogi, a nie mam co przed nim położyć;"
+  },
+  {
+    "i": 29721,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 7,
+    "t": "a tamten z wewnątrz, odpowiadając, rzeknie: Nie naprzykrzaj mi się; drzwi już są zamknięte, a dzieci moje są ze mną w łóżku; nie mogę wstać i dać ci."
+  },
+  {
+    "i": 29722,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 8,
+    "t": "Powiadam wam, że choćby nie wstał i nie dał mu dlatego, że jest jego przyjacielem, to jednak dla jego natręctwa wstanie i da mu, ile potrzebuje."
+  },
+  {
+    "i": 29723,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 9,
+    "t": "\"I ja wam powiadam: Proście, a będzie wam dane; szukajcie, a znajdziecie; kołaczcie, a otworzą wam."
+  },
+  {
+    "i": 29724,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 10,
+    "t": "Każdy bowiem, kto prosi, otrzymuje, a kto szuka, znajduje, a kto kołacze, temu otworzą."
+  },
+  {
+    "i": 29725,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 11,
+    "t": "Któryż to bowiem z was, ojców, gdy syn prosi go o rybę, zamiast ryby da mu węża?"
+  },
+  {
+    "i": 29726,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 12,
+    "t": "Albo gdy prosi o jajko, da mu skorpiona?"
+  },
+  {
+    "i": 29727,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 13,
+    "t": "Jeśli więc wy, będąc złymi, umiecie dawać dobre dary swoim dzieciom, o ileż bardziej Ojciec z nieba da Ducha Świętego tym, którzy go proszą."
+  },
+  {
+    "i": 29728,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 14,
+    "t": "I wypędzał demona, który był niemy. A gdy demon wyszedł, niemy przemówił i zdumiał się lud."
+  },
+  {
+    "i": 29729,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 15,
+    "t": "Lecz niektórzy z nich mówili: \"Przez Belzebuba, księcia demonów, wypędza demony."
+  },
+  {
+    "i": 29730,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 16,
+    "t": "A inni, wystawiając go na próbę, domagali się od niego znaku z nieba."
+  },
+  {
+    "i": 29731,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 17,
+    "t": "Ale on, znając ich myśli, rzekł im: \"Każde królestwo, wewnętrznie podzielone, pustoszeje, i dom na dom się wali."
+  },
+  {
+    "i": 29732,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 18,
+    "t": "Jeżeli więc i szatan jest wewnętrznie podzielony, jakże ostoi się jego królestwo? Mówicie bowiem, że ja przez Belzebuba wypędzam demony."
+  },
+  {
+    "i": 29733,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 19,
+    "t": "Jeśli ja przez Belzebuba wypędzam demony, to przez kogo wypędzają je wasi synowie? Dlatego oni będą waszymi sędziami."
+  },
+  {
+    "i": 29734,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 20,
+    "t": "Lecz jeśli ja palcem Bożym wypędzam demony, to przyszło już do was królestwo Boże."
+  },
+  {
+    "i": 29735,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 21,
+    "t": "Gdy mocarz uzbrojony strzeże swego dworu, jego dobytek jest bezpieczny."
+  },
+  {
+    "i": 29736,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 22,
+    "t": "Ale gdy przyjdzie mocniejszy od niego, pokona go i zabierze całą jego broń, na której polegał, i rozda jego łupy."
+  },
+  {
+    "i": 29737,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 23,
+    "t": "\"Kto nie jest ze mną, jest przeciwko mnie, a kto nie zbiera ze mną, rozprasza."
+  },
+  {
+    "i": 29738,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 24,
+    "t": "\"Gdy duch nieczysty wyjdzie z człowieka, wędruje po miejscach bezwodnych, szukając wytchnienia. A gdy go nie znajduje, mówi: Wrócę do domu swego, skąd wyszedłem."
+  },
+  {
+    "i": 29739,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 25,
+    "t": "A przyszedłszy, zastaje go wymiecionym i ozdobionym."
+  },
+  {
+    "i": 29740,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 26,
+    "t": "Wtedy idzie i bierze siedem innych duchów, gorszych od siebie, i wchodzą, i tam mieszkają. I stan końcowy tego człowieka jest gorszy niż początkowy."
+  },
+  {
+    "i": 29741,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 27,
+    "t": "I stało się, gdy to mówił, pewna niewiasta z tłumu, podniósłszy głos, rzekła do niego: \"Błogosławione łono, które cię nosiło, i piersi, które ssałeś."
+  },
+  {
+    "i": 29742,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 28,
+    "t": "A on rzekł: \"Owszem, błogosławieni ci, którzy słuchają słowa Bożego i strzegą go."
+  },
+  {
+    "i": 29743,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 29,
+    "t": "A gdy się tłumy gromadziły, począł mówić: \"To pokolenie jest pokoleniem złym; żąda znaku, ale nie będzie mu dany znak, jedynie znak Jonasza."
+  },
+  {
+    "i": 29744,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 30,
+    "t": "Jak bowiem Jonasz był znakiem dla Niniwczyków, tak i Syn Człowieczy będzie dla tego pokolenia."
+  },
+  {
+    "i": 29745,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 31,
+    "t": "Królowa z Południa powstanie na sądzie z mężami tego pokolenia i potępi ich, bo przyszła z krańców ziemi, aby słuchać mądrości Salomona, a oto tu jest więcej niż Salomon."
+  },
+  {
+    "i": 29746,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 32,
+    "t": "Mężowie z Niniwy powstaną na sądzie z tym pokoleniem i potępią je, bo pokutowali na kazanie Jonasza, a oto tu jest więcej niż Jonasz."
+  },
+  {
+    "i": 29747,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 33,
+    "t": "\"Nikt, zapaliwszy świecę, nie stawia jej w ukryciu ani pod korcem, lecz na świeczniku, aby ci, którzy wchodzą, widzieli światło."
+  },
+  {
+    "i": 29748,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 34,
+    "t": "Światłem ciała jest oko twoje. Gdy oko twoje jest zdrowe, i całe twoje ciało jest jasne, a gdy jest chore, i twoje ciało jest ciemne."
+  },
+  {
+    "i": 29749,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 35,
+    "t": "Uważaj więc, żeby światło, które jest w tobie, nie było ciemnością."
+  },
+  {
+    "i": 29750,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 36,
+    "t": "Jeśli więc całe twoje ciało jest jasne i nie ma w nim żadnej ciemnej części, całe będzie jasne, tak jak gdyby cię świeca oświecała swoim blaskiem."
+  },
+  {
+    "i": 29751,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 37,
+    "t": "A gdy mówił, pewien faryzeusz zaprosił go do siebie na obiad. I wszedł, i usiadł za stołem."
+  },
+  {
+    "i": 29752,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 38,
+    "t": "Widząc to faryzeusz, zdziwił się, że się nie umył przed obiadem."
+  },
+  {
+    "i": 29753,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 39,
+    "t": "Wtedy Pan rzekł do niego: \"Teraz wy, faryzeusze, oczyszczacie z zewnątrz kielich i misę, a wasze wnętrze pełne jest grabieży i zła."
+  },
+  {
+    "i": 29754,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 40,
+    "t": "Głupi! Czyż ten, który uczynił to, co jest na zewnątrz, nie uczynił i tego, co jest wewnątrz?"
+  },
+  {
+    "i": 29755,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 41,
+    "t": "Raczej dawajcie jałmużnę z tego, co jest wewnątrz, a wszystko będzie dla was czyste."
+  },
+  {
+    "i": 29756,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 42,
+    "t": "Ale biada wam, faryzeusze, że dajecie dziesięcinę z mięty, ruty i wszelkiego ziela, a zaniedbujecie sprawiedliwości i miłości Bożej. To trzeba było czynić i tamtego nie zaniedbywać."
+  },
+  {
+    "i": 29757,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 43,
+    "t": "Biada wam, faryzeusze, że lubicie pierwsze miejsca w synagogach i pozdrowienia na rynkach."
+  },
+  {
+    "i": 29758,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 44,
+    "t": "Biada wam, uczeni w Piśmie i faryzeusze obłudnicy, bo jesteście jak groby niewidoczne, po których ludzie chodzą i nie wiedzą o tym."
+  },
+  {
+    "i": 29759,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 45,
+    "t": "Wtedy jeden z uczonych w Piśmie, odpowiadając, rzekł mu: \"Nauczycielu, mówiąc to, nam też ubliżasz."
+  },
+  {
+    "i": 29760,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 46,
+    "t": "A on rzekł: \"I wam, uczeni w Piśmie, biada, że nakładacie na ludzi ciężary nie do uniesienia, a sami nawet jednym palcem nie dotykacie tych ciężarów."
+  },
+  {
+    "i": 29761,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 47,
+    "t": "\"Biada wam, bo budujecie grobowce prorokom, a wasi ojcowie ich zabili."
+  },
+  {
+    "i": 29762,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 48,
+    "t": "Tak więc świadczycie i przyzwalacie na uczynki waszych ojców; oni bowiem zabili, a wy budujecie."
+  },
+  {
+    "i": 29763,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 49,
+    "t": "Dlatego też mądrość Boża powiedziała: Poślę do nich proroków i apostołów, a niektórych z nich zabiją i prześladować będą;"
+  },
+  {
+    "i": 29764,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 50,
+    "t": "aby od tego pokolenia zażądano krwi wszystkich proroków, która została przelana od założenia świata;"
+  },
+  {
+    "i": 29765,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 51,
+    "t": "od krwi Abla aż do krwi Zachariasza, który zginął między ołtarzem a świątynią. Zaprawdę powiadam wam, od tego pokolenia będzie się jej żądać."
+  },
+  {
+    "i": 29766,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 52,
+    "t": "Biada wam, uczeni w Piśmie, bo zabraliście klucz poznania; sami nie weszliście i przeszkodziliście tym, którzy chcieli wejść."
+  },
+  {
+    "i": 29767,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 53,
+    "t": "A gdy im to mówił, uczeni w Piśmie i faryzeusze poczęli się na niego gwałtownie gniewać i zasypywać go pytaniami o wiele spraw;"
+  },
+  {
+    "i": 29768,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 54,
+    "t": "czyhając na niego, aby go podchwycić na jakimś słowie."
+  },
+  {
+    "i": 29769,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 1,
+    "t": "A gdy zebrało się mnóstwo ludu, tak że jedni drugich deptali, począł mówić najpierw do swoich uczniów: \"Strzeżcie się kwasu faryzeuszów, to jest obłudy."
+  },
+  {
+    "i": 29770,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 2,
+    "t": "Nie ma bowiem nic zakrytego, co by nie miało być odkryte, ani nic tajnego, co by nie miało być poznane."
+  },
+  {
+    "i": 29771,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 3,
+    "t": "Dlatego to, co mówiliście w ciemności, w świetle będzie słyszane, a to, co w izbach szeptaliście do ucha, na dachach będzie głoszone."
+  },
+  {
+    "i": 29772,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 4,
+    "t": "\"Powiadam wam, przyjaciołom moim: Nie bójcie się tych, którzy zabijają ciało, a potem nic więcej nie mogą uczynić."
+  },
+  {
+    "i": 29773,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 5,
+    "t": "Pokażę wam, kogo macie się bać: Bójcie się tego, który po zabiciu ma moc wrzucić do piekła. Tak, powiadam wam, tego się bójcie."
+  },
+  {
+    "i": 29774,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 6,
+    "t": "Czyż nie sprzedają pięciu wróbli za dwa grosze? A przecież ani jeden z nich nie jest zapomniany przed Bogiem."
+  },
+  {
+    "i": 29775,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 7,
+    "t": "U was zaś nawet włosy na głowie wszystkie są policzone. Nie bójcie się więc, jesteście ważniejsi niż wiele wróbli."
+  },
+  {
+    "i": 29776,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 8,
+    "t": "\"Powiadam wam: Każdy, kto mnie wyzna przed ludźmi, tego i Syn Człowieczy wyzna przed aniołami Bożymi;"
+  },
+  {
+    "i": 29777,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 9,
+    "t": "a kto się mnie zaprze przed ludźmi, tego i ja się zaprę przed aniołami Bożymi."
+  },
+  {
+    "i": 29778,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 10,
+    "t": "\"Każdemu, kto powie słowo przeciwko Synowi Człowieczemu, będzie odpuszczone, ale temu, kto bluźni przeciwko Duchowi Świętemu, nie będzie odpuszczone."
+  },
+  {
+    "i": 29779,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 11,
+    "t": "\"Gdy was będą prowadzić do synagog, urzędów i władz, nie troszczcie się, jak się bronić albo co mówić,"
+  },
+  {
+    "i": 29780,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 12,
+    "t": "Albowiem Duch Święty nauczy was w tejże godzinie, co macie rzec."
+  },
+  {
+    "i": 29781,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 13,
+    "t": "Rzekł Mu tedy ktoś z tłumu: \"Mistrzu, powiedz bratu memu, aby się podzielił ze mną dziedzictwem."
+  },
+  {
+    "i": 29782,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 14,
+    "t": "A On mu rzekł: \"Człowieku, któż Mię postanowił sędzią albo rozjemcą nad wami?"
+  },
+  {
+    "i": 29783,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 15,
+    "t": "I rzekł im: \"Uważajcie i strzeżcie się wszelkiej chciwości, albowiem nie w obfitości dóbr zależy życie człowieka."
+  },
+  {
+    "i": 29784,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 16,
+    "t": "I opowiedział im przypowieść, mówiąc: \"Człowieka pewnego bogatego obficie obrodziła ziemia."
+  },
+  {
+    "i": 29785,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 17,
+    "t": "I rozmyślał sam w sobie, mówiąc: Co mam czynić? Bo nie mam gdzie zebrać urodzajów moich."
+  },
+  {
+    "i": 29786,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 18,
+    "t": "I rzekł: Tak uczynię: Poburzę spichlerze moje, a pobuduję większe, i tam zgromadzę wszelki urodzaj mój i dobra moje,"
+  },
+  {
+    "i": 29787,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 19,
+    "t": "i powiem duszy mojej: Duszo, masz wiele dóbr złożonych na wiele lat; odpoczywaj, jedz, pij, używaj."
+  },
+  {
+    "i": 29788,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 20,
+    "t": "Ale rzekł mu Bóg: Głupi! Tej nocy duszę twą odejmą od ciebie; a to, co nagromadziłeś, czyje będzie?"
+  },
+  {
+    "i": 29789,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 21,
+    "t": "Tak bywa z każdym, który skarby gromadzi dla siebie, a nie jest bogaty przed Bogiem."
+  },
+  {
+    "i": 29790,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 22,
+    "t": "I rzekł do uczniów swoich: \"Przetoż powiadam wam: Nie troszczcie się o życie wasze, co będziecie jeść, ani o ciało, czym się odziejecie."
+  },
+  {
+    "i": 29791,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 23,
+    "t": "Albowiem życie jest więcej niż pokarm, a ciało niż odzienie."
+  },
+  {
+    "i": 29792,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 24,
+    "t": "Przypatrzcie się krukom, że nie sieją, ani żną, nie mają spichlerza ani gumna, a Bóg je żywi. O ileż wy więcej znaczycie niż ptaki!"
+  },
+  {
+    "i": 29793,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 25,
+    "t": "Któż z was, troszcząc się, może dodać do wzrostu swego jedną piędź?"
+  },
+  {
+    "i": 29794,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 26,
+    "t": "Jeśli więc najmniejszej rzeczy nie możecie, czemuż troszczycie się o inne?"
+  },
+  {
+    "i": 29795,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 27,
+    "t": "Przypatrzcie się liliom, jak rosną; nie pracują ani przędą. A powiadam wam, że nawet Salomon w całej chwale swojej nie był tak ubrany jak jedna z nich."
+  },
+  {
+    "i": 29796,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 28,
+    "t": "Jeśli więc Bóg trawę, która dziś jest na polu, a jutro będzie wrzucona do pieca, tak odziewa, o ileż bardziej was, o małowierni!"
+  },
+  {
+    "i": 29797,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 29,
+    "t": "I wy nie pytajcie, co będziecie jeść i co pić, i nie bądźcie niespokojni."
+  },
+  {
+    "i": 29798,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 30,
+    "t": "Albowiem tego wszystkiego narody świata szukają; ale Ojciec wasz wie, że tego potrzebujecie."
+  },
+  {
+    "i": 29799,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 31,
+    "t": "Ale szukajcie Królestwa Jego, a wszystko to będzie wam przydane."
+  }
+]

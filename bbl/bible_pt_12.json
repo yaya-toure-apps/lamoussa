@@ -1,0 +1,802 @@
+[
+  {
+    "i": 1200,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 6,
+    "t": "Eis que, após eles, brotaram sete espigas mirradas e queimadas pelo vento oriental."
+  },
+  {
+    "i": 1201,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 7,
+    "t": "E as espigas mirradas devoraram as sete espigas boas e cheias. Então Faraó despertou, e eis que era um sonho!"
+  },
+  {
+    "i": 1202,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 8,
+    "t": "Pela manhã, seu espírito estava perturbado, e Faraó mandou chamar todos os magos e sábios do Egito. Contou-lhes o seu sonho, mas ninguém pôde interpretá-lo para Faraó."
+  },
+  {
+    "i": 1203,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 9,
+    "t": "Então o copeiro-chefe falou a Faraó, dizendo: \"Eu me lembro hoje das minhas ofensas!"
+  },
+  {
+    "i": 1204,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 10,
+    "t": "Faraó se indignou contra os seus servos e me colocou em prisão na casa do capitão da guarda, tanto a mim quanto ao padeiro-chefe."
+  },
+  {
+    "i": 1205,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 11,
+    "t": "E na mesma noite, nós dois tivemos um sonho, cada um com sua própria interpretação."
+  },
+  {
+    "i": 1206,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 12,
+    "t": "Ora, estava ali conosco um jovem hebreu, servo do capitão da guarda. Contamos-lhe os nossos sonhos, e ele os interpretou para nós, dando a cada um a interpretação do seu sonho."
+  },
+  {
+    "i": 1207,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 13,
+    "t": "E, como ele nos interpretou, assim aconteceu: fui restaurado ao meu cargo, e o outro foi enforcado."
+  },
+  {
+    "i": 1208,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 14,
+    "t": "Então Faraó mandou chamar José, e o trouxeram depressa da prisão. Ele se barbeou, trocou de roupa e se apresentou a Faraó."
+  },
+  {
+    "i": 1209,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 15,
+    "t": "E Faraó disse a José: \"Tive um sonho, e ninguém consegue interpretá-lo. Mas ouvi dizer que, quando ouves um sonho, és capaz de interpretá-lo."
+  },
+  {
+    "i": 1210,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 16,
+    "t": "José respondeu a Faraó: \"Isso não depende de mim. É Deus quem dará a Faraó uma resposta favorável."
+  },
+  {
+    "i": 1211,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 17,
+    "t": "Então Faraó disse a José: \"Em meu sonho, eu estava em pé na margem do Nilo."
+  },
+  {
+    "i": 1212,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 18,
+    "t": "E eis que subiram do Nilo sete vacas gordas e de boa aparência, e pastavam no junco."
+  },
+  {
+    "i": 1213,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 19,
+    "t": "Depois delas, subiram outras sete vacas, magras, muito feias e mirradas. Nunca vi vacas tão feias em toda a terra do Egito."
+  },
+  {
+    "i": 1214,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 20,
+    "t": "E as vacas magras e feias devoraram as sete primeiras vacas, as gordas."
+  },
+  {
+    "i": 1215,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 21,
+    "t": "Depois de as terem devorado, não se podia notar que as tinham devorado, pois a sua aparência continuava tão feia como antes. Então acordei."
+  },
+  {
+    "i": 1216,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 22,
+    "t": "Em meu sonho também vi sete espigas que cresciam num só pé, cheias e boas."
+  },
+  {
+    "i": 1217,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 23,
+    "t": "Depois delas, brotaram sete espigas secas, mirradas e queimadas pelo vento oriental."
+  },
+  {
+    "i": 1218,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 24,
+    "t": "E as espigas mirradas devoraram as sete espigas boas. Contei isso aos magos, mas ninguém conseguiu me dar uma explicação."
+  },
+  {
+    "i": 1219,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 25,
+    "t": "José disse a Faraó: \"O sonho de Faraó é um só. Deus revelou a Faraó o que está para fazer."
+  },
+  {
+    "i": 1220,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 26,
+    "t": "As sete vacas boas são sete anos, e as sete espigas boas são sete anos; o sonho é um só."
+  },
+  {
+    "i": 1221,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 27,
+    "t": "As sete vacas magras e feias que subiram depois são sete anos, como também as sete espigas mirradas e queimadas pelo vento oriental: serão sete anos de fome."
+  },
+  {
+    "i": 1222,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 28,
+    "t": "É como eu disse a Faraó: Deus revelou a Faraó o que está para fazer:"
+  },
+  {
+    "i": 1223,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 29,
+    "t": "virão sete anos de grande fartura em toda a terra do Egito,"
+  },
+  {
+    "i": 1224,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 30,
+    "t": "seguidos por sete anos de fome, que farão esquecer toda a fartura no Egito; a fome consumirá a terra."
+  },
+  {
+    "i": 1225,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 31,
+    "t": "A fartura da terra será esquecida por causa da fome que virá depois, pois será terrível."
+  },
+  {
+    "i": 1226,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 32,
+    "t": "O fato de o sonho de Faraó ter vindo duas vezes significa que a questão já foi decidida por Deus, e Deus se apressa em cumpri-la."
+  },
+  {
+    "i": 1227,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 33,
+    "t": "\"Portanto, escolha Faraó um homem criterioso e sábio, e coloque-o sobre a terra do Egito."
+  },
+  {
+    "i": 1228,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 34,
+    "t": "Nomeie Faraó supervisores para administrarem a terra e arrecadarem um quinto da colheita do Egito durante os sete anos de fartura."
+  },
+  {
+    "i": 1229,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 35,
+    "t": "Ajuntem eles todos os cereais dos bons anos que estão chegando e armazenem o trigo sob o controle de Faraó, para suprimento das cidades e para conservá-lo."
+  },
+  {
+    "i": 1230,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 36,
+    "t": "Assim, esses cereais serão um depósito para a terra, para os sete anos de fome que virão sobre o Egito, para que a terra não seja assolada pela fome."
+  },
+  {
+    "i": 1231,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 37,
+    "t": "A proposta agradou a Faraó e a todos os seus conselheiros."
+  },
+  {
+    "i": 1232,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 38,
+    "t": "Então Faraó lhes perguntou: \"Acaso encontraríamos alguém como este homem, em quem está o espírito de Deus?"
+  },
+  {
+    "i": 1233,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 39,
+    "t": "Disse, pois, Faraó a José: \"Já que Deus lhe revelou tudo isso, não há ninguém tão criterioso e sábio como você."
+  },
+  {
+    "i": 1234,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 40,
+    "t": "Você estará no comando do meu palácio, e todo o meu povo cumprirá as suas ordens. Somente no trono serei superior a você."
+  },
+  {
+    "i": 1235,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 41,
+    "t": "E Faraó continuou: \"Entrego a você o comando de toda a terra do Egito."
+  },
+  {
+    "i": 1236,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 42,
+    "t": "Então Faraó tirou do dedo o seu anel de selar e o colocou no dedo de José. Mandou vesti-lo com roupas de linho fino e colocou uma corrente de ouro em seu pescoço."
+  },
+  {
+    "i": 1237,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 43,
+    "t": "Também o fez montar em sua segunda carruagem real, e homens iam à frente gritando: \"Abrek!\" Assim José foi posto no comando de toda a terra do Egito."
+  },
+  {
+    "i": 1238,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 44,
+    "t": "Disse ainda Faraó a José: \"Eu sou Faraó, mas sem a sua ordem ninguém levantará a mão ou o pé em toda a terra do Egito."
+  },
+  {
+    "i": 1239,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 45,
+    "t": "Faraó deu a José o nome de Zafenate-Paneia e lhe deu por mulher Asenate, filha de Potífera, sacerdote de On. E José saiu para inspecionar toda a terra do Egito."
+  },
+  {
+    "i": 1240,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 46,
+    "t": "José tinha trinta anos de idade quando se apresentou a Faraó, rei do Egito. E saiu da presença de Faraó e percorreu toda a terra do Egito."
+  },
+  {
+    "i": 1241,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 47,
+    "t": "Durante os sete anos de fartura a terra produziu abundantemente."
+  },
+  {
+    "i": 1242,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 48,
+    "t": "José recolheu todos os cereais produzidos nos sete anos de fartura no Egito e os armazenou nas cidades. Em cada cidade armazenou os cereais dos campos ao redor."
+  },
+  {
+    "i": 1243,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 49,
+    "t": "José armazenou tanto cereal como a areia do mar; era tanto que ele parou de medir, porque era incalculável."
+  },
+  {
+    "i": 1244,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 50,
+    "t": "Antes de chegarem os anos de fome, Asenate, filha de Potífera, sacerdote de On, deu a José dois filhos."
+  },
+  {
+    "i": 1245,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 51,
+    "t": "Ao primeiro filho José deu o nome de Manassés, dizendo: \"Deus me fez esquecer de todo o meu sofrimento e de toda a casa de meu pai."
+  },
+  {
+    "i": 1246,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 52,
+    "t": "Ao segundo filho chamou Efraim, dizendo: \"Deus me fez prosperar na terra do meu sofrimento."
+  },
+  {
+    "i": 1247,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 53,
+    "t": "Assim terminaram os sete anos de fartura no Egito."
+  },
+  {
+    "i": 1248,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 54,
+    "t": "E começaram a vir os sete anos de fome, conforme José tinha predito. Houve fome em todas as terras, mas em todo o Egito havia alimento."
+  },
+  {
+    "i": 1249,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 55,
+    "t": "Quando toda a terra do Egito começou a sentir a fome, o povo clamou a Faraó por alimento. Então Faraó disse a todos os egípcios: \"Vão a José e façam o que ele lhes disser\"."
+  },
+  {
+    "i": 1250,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 56,
+    "t": "A fome espalhou-se por toda a terra. Então José abriu os armazéns e começou a vender cereal aos egípcios, pois a fome assolava o Egito."
+  },
+  {
+    "i": 1251,
+    "b": 0,
+    "c": 141,
+    "r": 141,
+    "o": 57,
+    "t": "E de toda a terra vinham ao Egito para comprar cereal de José, porque a fome assolava toda a terra."
+  },
+  {
+    "i": 1252,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 1,
+    "t": "Quando Jacó soube que havia cereal no Egito, disse a seus filhos: \"Por que vocês ficam aí olhando uns para os outros?"
+  },
+  {
+    "i": 1253,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 2,
+    "t": "Ouvi dizer que há cereal no Egito. Desçam até lá e comprem cereal para nós, para que sobrevivamos e não morramos."
+  },
+  {
+    "i": 1254,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 3,
+    "t": "Assim, dez dos irmãos de José desceram para comprar cereal no Egito."
+  },
+  {
+    "i": 1255,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 4,
+    "t": "Mas Jacó não enviou Benjamim, o irmão de José, com seus irmãos, pois temia que lhe acontecesse alguma desgraça."
+  },
+  {
+    "i": 1256,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 5,
+    "t": "Assim, os filhos de Israel foram comprar cereal entre outros que também estavam indo, pois a fome assolava a terra de Canaã."
+  },
+  {
+    "i": 1257,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 6,
+    "t": "José era o governador da terra e era quem vendia cereal a todo o povo. Quando os irmãos de José chegaram, prostraram-se diante dele com o rosto em terra."
+  },
+  {
+    "i": 1258,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 7,
+    "t": "Ao vê-los, José reconheceu seus irmãos, mas fingiu não os conhecer e lhes falou asperamente. \"De onde vocês vêm?\", perguntou. \"Da terra de Canaã, para comprar alimento\", responderam."
+  },
+  {
+    "i": 1259,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 8,
+    "t": "Embora José reconhecesse seus irmãos, eles não o reconheceram."
+  },
+  {
+    "i": 1260,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 9,
+    "t": "Então José se lembrou dos sonhos que tivera a respeito deles e lhes disse: \"Vocês são espiões! Vieram para ver os pontos fracos da nossa terra!"
+  },
+  {
+    "i": 1261,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 10,
+    "t": "\"Não, meu senhor!\", responderam eles. \"Teus servos vieram comprar alimento."
+  },
+  {
+    "i": 1262,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 11,
+    "t": "Somos todos filhos de um mesmo pai. Somos homens honestos; teus servos não são espiões."
+  },
+  {
+    "i": 1263,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 12,
+    "t": "\"Não!\", insistiu José. \"Vocês vieram para ver os pontos fracos da nossa terra!"
+  },
+  {
+    "i": 1264,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 13,
+    "t": "Eles responderam: \"Nós, teus servos, éramos doze irmãos, filhos de um mesmo pai, na terra de Canaã. O mais novo está hoje com nosso pai, e um já não existe."
+  },
+  {
+    "i": 1265,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 14,
+    "t": "José insistiu: \"É como eu lhes disse: vocês são espiões!"
+  },
+  {
+    "i": 1266,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 15,
+    "t": "É assim que vocês serão postos à prova: Juro pelo faraó que vocês não sairão daqui, a menos que seu irmão mais novo venha!"
+  },
+  {
+    "i": 1267,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 16,
+    "t": "Enviem um de vocês para buscar seu irmão; os demais ficarão presos. Assim se provará se vocês estão falando a verdade. Caso contrário, juro pelo faraó que vocês são espiões!"
+  },
+  {
+    "i": 1268,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 17,
+    "t": "E mandou colocá-los na prisão por três dias."
+  },
+  {
+    "i": 1269,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 18,
+    "t": "No terceiro dia, José lhes disse: \"Façam o seguinte, e viverão, pois eu temo a Deus:"
+  },
+  {
+    "i": 1270,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 19,
+    "t": "Se vocês são honestos, que um de seus irmãos fique preso aqui na prisão, enquanto os demais vão levar cereal para matar a fome de suas famílias."
+  },
+  {
+    "i": 1271,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 20,
+    "t": "Mas tragam-me seu irmão mais novo, para que se confirme que vocês estão falando a verdade, e não morrerão\". E eles concordaram em fazer assim."
+  },
+  {
+    "i": 1272,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 21,
+    "t": "Diziam, então, uns aos outros: \"Sem dúvida estamos sendo castigados por causa do nosso irmão. Vimos a angústia da sua alma quando ele nos implorava, mas não lhe demos ouvidos; por isso nos sobreveio esta angústia."
+  },
+  {
+    "i": 1273,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 22,
+    "t": "Rubem lhes respondeu: \"Eu não lhes disse que não pecassem contra o menino? Mas vocês não quiseram me ouvir, e agora temos que prestar contas do sangue dele!"
+  },
+  {
+    "i": 1274,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 23,
+    "t": "Eles não sabiam que José os entendia, pois ele usava um intérprete."
+  },
+  {
+    "i": 1275,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 24,
+    "t": "Então José se afastou deles e chorou. Depois voltou a falar com eles e, tomando Simeão, mandou amarrá-lo na presença deles."
+  },
+  {
+    "i": 1276,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 25,
+    "t": "José ordenou que lhes enchessem de cereal as bagagens, que devolvessem o dinheiro de cada um, colocando-o em sua bagagem, e que lhes dessem provisões para o caminho. E assim foi feito."
+  },
+  {
+    "i": 1277,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 26,
+    "t": "Eles carregaram o cereal sobre os seus jumentos e partiram."
+  },
+  {
+    "i": 1278,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 27,
+    "t": "Quando um deles, ao chegarem ao local de descanso para a noite, abriu sua bagagem para dar comida ao seu jumento, viu que o dinheiro estava na boca do saco."
+  },
+  {
+    "i": 1279,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 28,
+    "t": "\"Meu dinheiro foi devolvido!\", disse ele a seus irmãos. \"Está aqui na minha bagagem!\" Então o coração deles desfaleceu e, tremendo, diziam uns aos outros: \"Que é isto que Deus nos fez?"
+  },
+  {
+    "i": 1280,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 29,
+    "t": "E, chegando eles a seu pai Jacó, na terra de Canaã, contaram-lhe tudo o que lhes havia acontecido."
+  },
+  {
+    "i": 1281,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 30,
+    "t": "E disseram: \"O homem, que é senhor daquela terra, falou-nos asperamente e tomou-nos por espias da terra."
+  },
+  {
+    "i": 1282,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 31,
+    "t": "Nós, porém, lhe dissemos: Somos homens sinceros, não somos espias,"
+  },
+  {
+    "i": 1283,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 32,
+    "t": "somos doze irmãos, filhos de um mesmo pai; um já não existe, e o mais novo está hoje com nosso pai na terra de Canaã."
+  },
+  {
+    "i": 1284,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 33,
+    "t": "Então, o homem, senhor da terra, nos disse: Nisto conhecerei se sois sinceros: deixai comigo um de vossos irmãos; e tomai o mantimento para a fome de vossas casas e ide-vos,"
+  },
+  {
+    "i": 1285,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 34,
+    "t": "e trazei-me vosso irmão mais novo, para que eu saiba que não sois espias, mas homens sinceros; então, vos restituirei vosso irmão, e negociareis na terra."
+  },
+  {
+    "i": 1286,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 35,
+    "t": "E aconteceu que, esvaziando eles os seus sacos, eis que o dinheiro de cada um estava no seu saco; e, vendo eles e seu pai o seu dinheiro, temeram."
+  },
+  {
+    "i": 1287,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 36,
+    "t": "E Jacó, seu pai, lhes disse: \"Haveis-me desfilhado: José já não existe, nem Simeão, e levareis Benjamim; todas estas coisas vieram sobre mim!"
+  },
+  {
+    "i": 1288,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 37,
+    "t": "Então, Rúben falou a seu pai, dizendo: \"Mata meus dois filhos, se eu não o tornar a trazer a ti; entrega-o na minha mão, e eu to tornarei a trazer."
+  },
+  {
+    "i": 1289,
+    "b": 0,
+    "c": 142,
+    "r": 142,
+    "o": 38,
+    "t": "Ele, porém, disse: \"Meu filho não descerá convosco, porquanto seu irmão é morto, e ele ficou só; e, se lhe acontecer algum desastre no caminho em que fordes, fareis descer meus cabelos brancos ao Sheol com tristeza."
+  },
+  {
+    "i": 1290,
+    "b": 0,
+    "c": 143,
+    "r": 143,
+    "o": 1,
+    "t": "E a fome era grave na terra."
+  },
+  {
+    "i": 1291,
+    "b": 0,
+    "c": 143,
+    "r": 143,
+    "o": 2,
+    "t": "E aconteceu que, acabando eles de comer o grão que trouxeram do Egito, disse-lhes seu pai: \"Voltai, comprai-nos um pouco de mantimento."
+  },
+  {
+    "i": 1292,
+    "b": 0,
+    "c": 143,
+    "r": 143,
+    "o": 3,
+    "t": "Então, Judá lhe respondeu, dizendo: \"Aquele homem protestou solenemente, dizendo: Não vereis a minha face, a menos que vosso irmão esteja convosco."
+  },
+  {
+    "i": 1293,
+    "b": 0,
+    "c": 143,
+    "r": 143,
+    "o": 4,
+    "t": "Se tu enviares nosso irmão conosco, desceremos e te compraremos mantimento,"
+  },
+  {
+    "i": 1294,
+    "b": 0,
+    "c": 143,
+    "r": 143,
+    "o": 5,
+    "t": "mas, se não o enviares, não desceremos, porquanto aquele homem nos disse: Não vereis a minha face, a menos que vosso irmão esteja convosco."
+  },
+  {
+    "i": 1295,
+    "b": 0,
+    "c": 143,
+    "r": 143,
+    "o": 6,
+    "t": "Então, Israel disse: \"Por que fizestes-me este mal, fazendo saber àquele homem que tínheis ainda outro irmão?"
+  },
+  {
+    "i": 1296,
+    "b": 0,
+    "c": 143,
+    "r": 143,
+    "o": 7,
+    "t": "Eles responderam: \"Aquele homem perguntou particularmente por nós e pela nossa parentela, dizendo: Vosso pai ainda vive? Tendes outro irmão? E nós lhe respondemos conforme estas palavras. Poderíamos nós saber que ele diria: Trazei vosso irmão?"
+  },
+  {
+    "i": 1297,
+    "b": 0,
+    "c": 143,
+    "r": 143,
+    "o": 8,
+    "t": "Então, Judá disse a Israel, seu pai: \"Deixa ir o jovem comigo, e levantar-nos-emos e iremos, para que vivamos e não morramos, nem nós, nem tu, nem os nossos pequeninos."
+  },
+  {
+    "i": 1298,
+    "b": 0,
+    "c": 143,
+    "r": 143,
+    "o": 9,
+    "t": "Eu serei fiador por ele; da minha mão o requererás; se eu não o tornar a trazer a ti e o não puser perante a tua face, então, serei culpado para contigo para sempre."
+  },
+  {
+    "i": 1299,
+    "b": 0,
+    "c": 143,
+    "r": 143,
+    "o": 10,
+    "t": "Porque, se não nos tivéssemos detido, certamente já teríamos voltado segunda vez."
+  }
+]

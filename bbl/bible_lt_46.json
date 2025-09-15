@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4600,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 24,
+    "t": "Šitaip darysite kiekvieną dieną septynias dienas. Tai auka, maloniai kvepiantis atnašas Viešpačiui, aukojamas papildomai prie nuolatinės deginamosios aukos ir jos atnašaujamos aukos."
+  },
+  {
+    "i": 4601,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 25,
+    "t": "Septintą dieną turėsite šventą susirinkimą; jokio sunkaus darbo nedirbsite."
+  },
+  {
+    "i": 4602,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 26,
+    "t": "Pirmųjų vaisių dieną, kai aukosite Viešpačiui naują atnašą per savo Savaičių šventę, turėsite šventą susirinkimą; jokio sunkaus darbo nedirbsite."
+  },
+  {
+    "i": 4603,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 27,
+    "t": "Aukosite deginamąją auką, maloniai kvepiantį atnašą Viešpačiui: du jaučius, vieną aviną ir septynis metų amžiaus avinėlius."
+  },
+  {
+    "i": 4604,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 28,
+    "t": "Jų atnašaujama auka iš smulkiai sumaltų miltų, sumaišytų su aliejumi: trys dešimtosios efos dalys kiekvienam jaučiui, dvi dešimtosios kiekvienam avinui,"
+  },
+  {
+    "i": 4605,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 29,
+    "t": "po vieną dešimtoją kiekvienam iš septynių avinėlių."
+  },
+  {
+    "i": 4606,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 30,
+    "t": "Ir ožys aukai už nuodėmę, kad atliktumėte apvalymo apeigas dėl jūsų."
+  },
+  {
+    "i": 4607,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 31,
+    "t": "Visa tai darysite papildomai prie nuolatinės deginamosios aukos, jos atnašaujamos aukos ir atnašaujamų aukų."
+  },
+  {
+    "i": 4608,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 1,
+    "t": "Septinto mėnesio pirmąją dieną turėsite šventą susirinkimą; jokio sunkaus darbo nedirbsite. Tai bus jums trimitų diena."
+  },
+  {
+    "i": 4609,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 2,
+    "t": "Aukosite deginamąją auką, maloniai kvepiantį atnašą Viešpačiui: vieną jautį, vieną aviną ir septynis metų amžiaus avinėlius be trūkumų."
+  },
+  {
+    "i": 4610,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 3,
+    "t": "Jų atnašaujama auka iš smulkiai sumaltų miltų, sumaišytų su aliejumi: trys dešimtosios efos dalys jaučiui, dvi dešimtosios avinui,"
+  },
+  {
+    "i": 4611,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 4,
+    "t": "po vieną dešimtoją kiekvienam iš septynių avinėlių."
+  },
+  {
+    "i": 4612,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 5,
+    "t": "Ir ožys aukai už nuodėmę, kad atliktumėte apvalymo apeigas dėl jūsų."
+  },
+  {
+    "i": 4613,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 6,
+    "t": "Visa tai papildomai prie mėnesinės deginamosios aukos ir jos atnašaujamos aukos, prie nuolatinės deginamosios aukos ir jos atnašaujamos aukos bei jų atnašaujamų aukų pagal įstatą – maloniai kvepiantis atnašas, ugnies auka Viešpačiui."
+  },
+  {
+    "i": 4614,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 7,
+    "t": "Šio septinto mėnesio dešimtąją dieną turėsite šventą susirinkimą. Niekas nedirbsite ir pasninkausite."
+  },
+  {
+    "i": 4615,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 8,
+    "t": "Aukosite Viešpačiui deginamąją auką, maloniai kvepiantį atnašą: vieną jautį, vieną aviną ir septynis metų amžiaus avinėlius be trūkumų."
+  },
+  {
+    "i": 4616,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 9,
+    "t": "Jų atnašaujama auka iš smulkiai sumaltų miltų, sumaišytų su aliejumi: trys dešimtosios efos dalys jaučiui, dvi dešimtosios avinui,"
+  },
+  {
+    "i": 4617,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 10,
+    "t": "po vieną dešimtoją kiekvienam iš septynių avinėlių."
+  },
+  {
+    "i": 4618,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 11,
+    "t": "Ir ožys aukai už nuodėmę. Visa tai papildomai prie Permaldavimo dienos aukos už nuodėmę, prie nuolatinės deginamosios aukos ir jos atnašaujamos aukos bei jų atnašaujamų aukų."
+  },
+  {
+    "i": 4619,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 12,
+    "t": "Šio septinto mėnesio penkioliktąją dieną turėsite šventą susirinkimą; jokio sunkaus darbo nedirbsite. Septynias dienas švęsite Viešpačiui šventę."
+  },
+  {
+    "i": 4620,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 13,
+    "t": "Aukosite deginamąją auką, ugnies auką, maloniai kvepiantį atnašą Viešpačiui: trylika jaučių, du avinus ir keturiolika metų amžiaus avinėlių be trūkumų."
+  },
+  {
+    "i": 4621,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 14,
+    "t": "Jų atnašaujamos aukos iš smulkiai sumaltų miltų, sumaišytų su aliejumi: trys dešimtosios efos dalys kiekvienam iš trylikos jaučių, dvi dešimtosios kiekvienam iš dviejų avinų,"
+  },
+  {
+    "i": 4622,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 15,
+    "t": "po vieną dešimtoją kiekvienam iš keturiolikos avinėlių."
+  },
+  {
+    "i": 4623,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 16,
+    "t": "Ir ožys aukai už nuodėmę. Visa tai papildomai prie nuolatinės deginamosios aukos, jos atnašaujamos aukos ir jos atnašaujamos aukos."
+  },
+  {
+    "i": 4624,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 17,
+    "t": "Antrą dieną – dvylika jaučių, du avinai ir keturiolika metų amžiaus avinėlių be trūkumų,"
+  },
+  {
+    "i": 4625,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 18,
+    "t": "jų atnašaujamos ir atnašaujamos aukos pagal įstatą, atsižvelgiant į jaučių, avinų ir avinėlių skaičių."
+  },
+  {
+    "i": 4626,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 19,
+    "t": "Ir ožys aukai už nuodėmę; papildomai prie nuolatinės deginamosios aukos, jos atnašaujamos aukos ir jos atnašaujamų aukų."
+  },
+  {
+    "i": 4627,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 20,
+    "t": "Trečią dieną – vienuolika jaučių, du avinai ir keturiolika metų amžiaus avinėlių be trūkumų,"
+  },
+  {
+    "i": 4628,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 21,
+    "t": "jų atnašaujamos ir atnašaujamos aukos pagal įstatą, atsižvelgiant į jaučių, avinų ir avinėlių skaičių."
+  },
+  {
+    "i": 4629,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 22,
+    "t": "Ir ožys aukai už nuodėmę; papildomai prie nuolatinės deginamosios aukos, jos atnašaujamos aukos ir jos atnašaujamos aukos."
+  },
+  {
+    "i": 4630,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 23,
+    "t": "Ketvirtą dieną – dešimt jaučių, du avinai ir keturiolika metų amžiaus avinėlių be trūkumų,"
+  },
+  {
+    "i": 4631,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 24,
+    "t": "jų atnašaujamos ir atnašaujamos aukos pagal įstatą, atsižvelgiant į jaučių, avinų ir avinėlių skaičių."
+  },
+  {
+    "i": 4632,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 25,
+    "t": "Ir ožys aukai už nuodėmę; papildomai prie nuolatinės deginamosios aukos, jos atnašaujamos aukos ir jos atnašaujamos aukos."
+  },
+  {
+    "i": 4633,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 26,
+    "t": "Penktą dieną – devyni jaučiai, du avinai ir keturiolika metų amžiaus avinėlių be trūkumų,"
+  },
+  {
+    "i": 4634,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 27,
+    "t": "jų atnašaujamos ir atnašaujamos aukos pagal įstatą, atsižvelgiant į jaučių, avinų ir avinėlių skaičių."
+  },
+  {
+    "i": 4635,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 28,
+    "t": "Ir ožys aukai už nuodėmę; papildomai prie nuolatinės deginamosios aukos, jos atnašaujamos aukos ir jos atnašaujamos aukos."
+  },
+  {
+    "i": 4636,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 29,
+    "t": "Šeštą dieną – aštuoni jaučiai, du avinai ir keturiolika metų amžiaus avinėlių be trūkumų,"
+  },
+  {
+    "i": 4637,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 30,
+    "t": "jų atnašaujamos ir atnašaujamos aukos pagal įstatą, atsižvelgiant į jaučių, avinų ir avinėlių skaičių."
+  },
+  {
+    "i": 4638,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 31,
+    "t": "Ir ožys aukai už nuodėmę; papildomai prie nuolatinės deginamosios aukos, jos atnašaujamos aukos ir jos atnašaujamų aukų."
+  },
+  {
+    "i": 4639,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 32,
+    "t": "Septintą dieną – septyni jaučiai, du avinai ir keturiolika metų amžiaus avinėlių be trūkumų,"
+  },
+  {
+    "i": 4640,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 33,
+    "t": "jų atnašaujamos ir atnašaujamos aukos pagal įstatą, atsižvelgiant į jaučių, avinų ir avinėlių skaičių."
+  },
+  {
+    "i": 4641,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 34,
+    "t": "Ir ožys aukai už nuodėmę; papildomai prie nuolatinės deginamosios aukos, jos atnašaujamos aukos ir jos atnašaujamos aukos."
+  },
+  {
+    "i": 4642,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 35,
+    "t": "Aštuntą dieną turėsite užbaigimo iškilmę. Jokio sunkaus darbo nedirbsite."
+  },
+  {
+    "i": 4643,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 36,
+    "t": "Aukosite deginamąją auką, ugnies auką, maloniai kvepiantį atnašą Viešpačiui: vieną jautį, vieną aviną ir septynis metų amžiaus avinėlius be trūkumų."
+  },
+  {
+    "i": 4644,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 37,
+    "t": "jų atnašaujamos ir atnašaujamos aukos pagal įstatą, atsižvelgiant į jaučių, avinų ir avinėlių skaičių."
+  },
+  {
+    "i": 4645,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 38,
+    "t": "Ir ožys aukai už nuodėmę; papildomai prie nuolatinės deginamosios aukos, jos atnašaujamos aukos ir jos atnašaujamos aukos."
+  },
+  {
+    "i": 4646,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 39,
+    "t": "Visa tai aukosite Viešpačiui per savo iškilmes, papildomai prie savo įžadų ir savo laisvanoriškų aukų, prie savo deginamųjų aukų, atnašaujamų ir atnašaujamų aukų bei prie savo bendravimo aukų."
+  },
+  {
+    "i": 4647,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 1,
+    "t": "Mozė kalbėjo Izraelio vaikams pagal visa tai, ką Viešpats jam buvo įsakęs."
+  },
+  {
+    "i": 4648,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 2,
+    "t": "Mozė kalbėjo Izraelio vaikų giminių galvoms ir sakė: „Štai ką Viešpats įsakė."
+  },
+  {
+    "i": 4649,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 3,
+    "t": "Jei vyras duoda Viešpačiui įžadą ar prisiekia įsipareigojimą, jis neturi sulaužyti savo žodžio; visa, kas išėjo iš jo burnos, jis turi išpildyti."
+  },
+  {
+    "i": 4650,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 4,
+    "t": "Jei moteris duoda Viešpačiui įžadą ar prisiekia įsipareigojimą, būdama jauna ir gyvendama savo tėvo namuose,"
+  },
+  {
+    "i": 4651,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 5,
+    "t": "ir jei jos tėvas, išgirdęs jos įžadą ar įsipareigojimą, jai nieko nesako, tai visi jos įžadai galioja ir visi jos įsipareigojimai galioja."
+  },
+  {
+    "i": 4652,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 6,
+    "t": "Bet jei jos tėvas, išgirdęs apie tai, prieštarauja, nė vienas iš jos įžadų ar įsipareigojimų negalioja. Viešpats neatleis jai, nes jos tėvas prieštaravo."
+  },
+  {
+    "i": 4653,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 7,
+    "t": "Jei ji yra įsipareigojusi įžadais ar neapgalvotai išsakytais žodžiais ir išteka,"
+  },
+  {
+    "i": 4654,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 8,
+    "t": "ir jei jos vyras, išgirdęs apie tai, jai nieko nesako tą dieną, kai apie tai sužino, tai jos įžadai galioja ir jos įsipareigojimai galioja."
+  },
+  {
+    "i": 4655,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 9,
+    "t": "Bet jei tą dieną, kai jis apie tai sužino, jos vyras prieštarauja, jis anuliuoja jos įžadą ar neapgalvotai išsakytą įsipareigojimą. Viešpats neatleis jai."
+  },
+  {
+    "i": 4656,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 10,
+    "t": "Našlės ar išsiskyrusios moters įžadas ir visi jos įsipareigojimai jai galioja."
+  },
+  {
+    "i": 4657,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 11,
+    "t": "Jei ji duoda įžadą ar prisiekia įsipareigojimą būdama savo vyro namuose,"
+  },
+  {
+    "i": 4658,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 12,
+    "t": "ir jei jos vyras, išgirdęs apie tai, jai nieko nesako ir neprieštarauja, tai visi jos įžadai galioja ir visi jos įsipareigojimai galioja."
+  },
+  {
+    "i": 4659,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 13,
+    "t": "Bet jei jos vyras, išgirdęs apie tai, anuliuoja juos tą dieną, kai apie tai sužino, tai nė vienas iš jos žodžių, įžadų ar įsipareigojimų, negalioja. Jos vyrui anuliavus, Viešpats neatleis jai."
+  },
+  {
+    "i": 4660,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 14,
+    "t": "Kiekvieną įžadą ir kiekvieną priesaiką, kuri įpareigoja moterį, jos vyras gali patvirtinti arba anuliuoti."
+  },
+  {
+    "i": 4661,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 15,
+    "t": "Jei jos vyras kitą dieną jai nieko nesako, tai jis patvirtina jos įžadą ar įsipareigojimą. Jis patvirtino, jei nieko nesako tą dieną, kai apie tai sužino."
+  },
+  {
+    "i": 4662,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 16,
+    "t": "Bet jei, sužinojęs apie tai, jis vėliau juos anuliuoja, tai jis nešios kaltės naštą, kuri tektų jos žmonai.“"
+  },
+  {
+    "i": 4663,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 17,
+    "t": "Tokie yra įstatai, kuriuos Viešpats per Mozę įsakė dėl santykio tarp vyro ir jo žmonos ir tarp tėvo ir jo dukters, kai ji jauna ir gyvena savo tėvo namuose."
+  },
+  {
+    "i": 4664,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 1,
+    "t": "Viešpats kalbėjo Mozei ir sakė:"
+  },
+  {
+    "i": 4665,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 2,
+    "t": "Atlik Izraelio vaikų kerštą prieš madianitus. Paskui būsi prijungtas prie savo tautos.“"
+  },
+  {
+    "i": 4666,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 3,
+    "t": "Mozė kalbėjo tautai ir sakė: „Tegul kai kurie iš jūsų apginkluojasi žygiui Viešpaties vardan prieš Madianą, kad atkeršytume Madianui už Viešpatį."
+  },
+  {
+    "i": 4667,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 4,
+    "t": "Siųskite į žygį po tūkstantį vyrų iš kiekvienos Izraelio giminės.“"
+  },
+  {
+    "i": 4668,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 5,
+    "t": "Izraelio tūkstančiai davė dvylika tūkstančių vyrų, apginkluotų žygiui, po tūkstantį iš kiekvienos giminės."
+  },
+  {
+    "i": 4669,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 6,
+    "t": "Mozė pasiuntė juos į žygį, po tūkstantį iš kiekvienos giminės, ir su jais Pinchą, kunigo Eleazaro sūnų, nešantį šventuosius reikmenis ir trimitus šaukti."
+  },
+  {
+    "i": 4670,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 7,
+    "t": "Jie žygiavo prieš Madianą, kaip Viešpats buvo įsakęs Mozei, ir išžudė visus vyrus."
+  },
+  {
+    "i": 4671,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 8,
+    "t": "Jie taip pat išžudė Madiano karalius: Evį, Rekemą, Cūrą, Hūrą ir Rebą, penkis Madiano karalius; jie taip pat ietimi nukovė Bileamą, Beoro sūnų."
+  },
+  {
+    "i": 4672,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 9,
+    "t": "Izraelio vaikai paėmė nelaisvėn Madiano moteris ir jų mažylius, išplėšė visus jų gyvulius, visus jų bandų gyvulius ir visą jų turtą."
+  },
+  {
+    "i": 4673,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 10,
+    "t": "Jie padegė ugnimi visus jų miestus ir visas jų stovyklavietes."
+  },
+  {
+    "i": 4674,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 11,
+    "t": "Paskui, paėmę visą savo grobį, visa, ką buvo pagrobę, gyvulius ir žmones,"
+  },
+  {
+    "i": 4675,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 12,
+    "t": "jie atvedė nelaisvus, grobį ir visą turtą pas Mozę, kunigą Eleazarą ir visą Izraelio vaikų bendruomenę į stovyklą Moabo lygumose, prie Jordano, priešais Jerichą."
+  },
+  {
+    "i": 4676,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 13,
+    "t": "Mozė, kunigas Eleazaras ir visi bendruomenės kunigaikščiai išėjo iš stovyklos jų pasitikti."
+  },
+  {
+    "i": 4677,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 14,
+    "t": "Mozė įniršo ant kariuomenės vadų, tūkstantininkų ir šimtininkų, grįžusių iš žygio."
+  },
+  {
+    "i": 4678,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 15,
+    "t": "Jis jiems tarė: „Kodėl palikote gyvas visas moteris?"
+  },
+  {
+    "i": 4679,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 16,
+    "t": "Juk tai jos Bileamo patarimu įviliojo Izraelio vaikus į neištikimybę Viešpačiui Peoro atveju, todėl Viešpaties bendruomenę ištiko maras."
+  },
+  {
+    "i": 4680,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 17,
+    "t": "Tad nužudykite visus berniukus, taip pat visas moteris, kurios yra pažinusios vyrą suguldamos su juo."
+  },
+  {
+    "i": 4681,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 18,
+    "t": "Bet visas mergaites, kurios nėra pažinusios vyro suguldamos su juo, pasilikite sau."
+  },
+  {
+    "i": 4682,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 19,
+    "t": "O jūs, visi, kurie užmušėte ką nors ar prisilietėte prie lavono, apsistokite už stovyklos septynias dienas. Apsivalykite trečią ir septintą dieną – jūs ir jūsų belaisviai."
+  },
+  {
+    "i": 4683,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 20,
+    "t": "Taip pat apvalykite visus drabužius, visus odinius daiktus, visus ožkos vilnos audinius ir visus medinius daiktus."
+  },
+  {
+    "i": 4684,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 21,
+    "t": "Kunigas Eleazaras tarė kariams, grįžusiems iš mūšio: \"Tai yra Įstatymo nuostata, kurią Viešpats įsakė Mozei."
+  },
+  {
+    "i": 4685,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 22,
+    "t": "Tačiau auksą, sidabrą, varį, geležį, alavą ir šviną,"
+  },
+  {
+    "i": 4686,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 23,
+    "t": "viską, kas atlaiko ugnį, praveskite per ugnį, ir tai bus švaru. Bet tai bus apvalyta apšlakstant apvalymo vandeniu. O visa, kas neatlaiko ugnies, praveskite per vandenį."
+  },
+  {
+    "i": 4687,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 24,
+    "t": "Septintą dieną išskalbsite savo drabužius ir būsite švarūs. Po to galėsite grįžti į stovyklą."
+  },
+  {
+    "i": 4688,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 25,
+    "t": "Viešpats kalbėjo Mozei, sakydamas:"
+  },
+  {
+    "i": 4689,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 26,
+    "t": "\"Su kunigu Eleazaru ir bendruomenės šeimų galvomis suskaičiuokite grobį ir belaisvius, žmones ir gyvulius."
+  },
+  {
+    "i": 4690,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 27,
+    "t": "Tada padalinkite grobį pusiau tarp kareivių, kurie dalyvavo mūšyje, ir visos bendruomenės."
+  },
+  {
+    "i": 4691,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 28,
+    "t": "Kaip atnašą Viešpačiui, imkite iš kareivių, kurie dalyvavo mūšyje, vieną iš penkių šimtų žmonių, galvijų, asilų ir smulkių gyvulių."
+  },
+  {
+    "i": 4692,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 29,
+    "t": "Paimkite tai iš jiems tenkančios pusės ir atiduokite kunigui Eleazarui kaip atnašą Viešpačiui."
+  },
+  {
+    "i": 4693,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 30,
+    "t": "Iš pusės, kuri atitenka izraelitams, paimkite vieną iš penkiasdešimties žmonių, galvijų, asilų ir smulkių gyvulių, visų gyvulių, ir atiduokite levitams, kurie prižiūri Viešpaties buveinę."
+  },
+  {
+    "i": 4694,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 31,
+    "t": "Mozė ir kunigas Eleazaras padarė taip, kaip Viešpats įsakė Mozei."
+  },
+  {
+    "i": 4695,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 32,
+    "t": "O grobio, likusio turto, kurį kariuomenė, išėjusi į mūšį, pagrobė, buvo šimtai tūkstančių smulkių gyvulių,"
+  },
+  {
+    "i": 4696,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 33,
+    "t": "septyniasdešimt du tūkstančiai galvijų,"
+  },
+  {
+    "i": 4697,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 34,
+    "t": "šešiasdešimt vienas tūkstantis asilų,"
+  },
+  {
+    "i": 4698,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 35,
+    "t": "ir žmonių, moterų, kurios nėra pažinusios vyro suguldamos su juo, iš viso tūkstantis asmenų."
+  },
+  {
+    "i": 4699,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 36,
+    "t": "Pusė to buvo paskirta tiems, kurie dalyvavo mūšyje, būtent 337 500 smulkių gyvulių,"
+  }
+]

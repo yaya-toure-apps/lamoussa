@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26300,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 19,
+    "t": "Dòng dõi nào xứng đáng được tôn kính? Ấy là dòng dõi loài người. Dòng dõi nào xứng đáng được tôn kính? Ấy là những kẻ kính sợ Chúa. Dòng dõi nào đáng khinh bỉ? Ấy là dòng dõi loài người. Dòng dõi nào đáng khinh bỉ? Ấy là những kẻ phạm giới răn."
+  },
+  {
+    "i": 26301,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 20,
+    "t": "Kẻ làm đầu được tôn trọng giữa anh em mình, những kẻ kính sợ Chúa được người tôn trọng."
+  },
+  {
+    "i": 26302,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 21,
+    "t": "Được Đức Chúa Trời chấp nhận bắt nguồn từ sự kính sợ Ngài, nhưng sự chối bỏ bắt nguồn từ sự cứng lòng và kiêu ngạo."
+  },
+  {
+    "i": 26303,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 22,
+    "t": "Người mới nhập đạo, người ngoại quốc hay kẻ nghèo khó, niềm kiêu hãnh của họ ở trong sự kính sợ Chúa."
+  },
+  {
+    "i": 26304,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 23,
+    "t": "Khinh miệt kẻ nghèo khó mà thông minh là điều chẳng hay, tôn vinh kẻ tội lỗi là điều chẳng nên."
+  },
+  {
+    "i": 26305,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 24,
+    "t": "Người lớn, quan chức, kẻ quyền thế đáng được tôn trọng, nhưng chẳng ai lớn hơn người kính sợ Chúa."
+  },
+  {
+    "i": 26306,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 25,
+    "t": "Người nô lệ khôn ngoan có những người tự do làm tôi tớ, và người được giáo dục không than phiền."
+  },
+  {
+    "i": 26307,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 26,
+    "t": "Chớ làm điều gian ác khi ngươi thi hành công việc của mình, chớ khoe khoang khi ngươi gặp khó khăn."
+  },
+  {
+    "i": 26308,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 27,
+    "t": "Thà làm người siêng năng làm việc và sống dư dật hơn là kẻ khoe khoang mà thiếu bánh ăn."
+  },
+  {
+    "i": 26309,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 28,
+    "t": "Hỡi con, hãy khiêm nhường mà tự tôn vinh mình, và hãy tự đánh giá đúng mực."
+  },
+  {
+    "i": 26310,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 29,
+    "t": "Ai dám biện minh cho kẻ tự làm hại mình, và ai dám tôn trọng kẻ tự khinh miệt mình?"
+  },
+  {
+    "i": 26311,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 30,
+    "t": "Người ta tôn trọng kẻ nghèo vì sự khôn ngoan của họ, và người giàu vì sự giàu có của họ."
+  },
+  {
+    "i": 26312,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 31,
+    "t": "Được tôn trọng trong nghèo khó, huống hồ trong giàu có! Bị khinh miệt trong giàu có, huống hồ trong nghèo khó!"
+  },
+  {
+    "i": 26313,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 1,
+    "t": "Người nghèo, nếu khôn ngoan, ngẩng cao đầu và ngồi giữa những người quyền thế."
+  },
+  {
+    "i": 26314,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 2,
+    "t": "Chớ khen ngợi ai vì vẻ bề ngoài của họ, và chớ ghét bỏ ai vì dáng vẻ của họ."
+  },
+  {
+    "i": 26315,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 3,
+    "t": "Con ong tuy nhỏ bé giữa các loài có cánh, nhưng những gì nó tạo ra thì ngọt ngào vô cùng."
+  },
+  {
+    "i": 26316,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 4,
+    "t": "Chớ kiêu hãnh vì những bộ quần áo ngươi mặc, và chớ tự hào khi được người ta tôn trọng: vì công việc của Chúa thật diệu kỳ, nhưng chúng bị che giấu khỏi loài người."
+  },
+  {
+    "i": 26317,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 5,
+    "t": "Thường thì các bậc vua chúa ngồi trên đất, còn kẻ vô danh lại nhận vương miện."
+  },
+  {
+    "i": 26318,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 6,
+    "t": "Thường thì những người quyền thế bị hạ nhục cay đắng, còn những người lừng lẫy lại rơi vào tay kẻ khác."
+  },
+  {
+    "i": 26319,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 7,
+    "t": "Chớ trách móc trước khi đã xem xét, trước tiên hãy suy nghĩ, rồi mới bày tỏ lời trách móc của ngươi."
+  },
+  {
+    "i": 26320,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 8,
+    "t": "Chớ đáp lời trước khi đã nghe, chớ xen vào giữa cuộc đàm thoại."
+  },
+  {
+    "i": 26321,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 9,
+    "t": "Chớ nóng giận vì một việc chẳng liên quan đến ngươi, và chớ xen vào những cuộc cãi vã của kẻ tội lỗi."
+  },
+  {
+    "i": 26322,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 10,
+    "t": "Hỡi con, chớ bắt tay vào nhiều việc; nếu con gia tăng chúng, con sẽ chẳng thoát khỏi nguy hiểm; dù con chạy nhanh đến đâu, con cũng chẳng đến được đích và con không thể trốn thoát bằng cách bỏ chạy."
+  },
+  {
+    "i": 26323,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 11,
+    "t": "Có những kẻ vất vả, mệt nhọc và hối hả chỉ để bị bỏ lại phía sau."
+  },
+  {
+    "i": 26324,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 12,
+    "t": "Có những người yếu đuối kêu cứu, nghèo túng và thiếu thốn; Chúa đoái thương họ, Ngài giải cứu họ khỏi cảnh khốn cùng."
+  },
+  {
+    "i": 26325,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 13,
+    "t": "Ngài khiến họ ngẩng cao đầu và nhiều người kinh ngạc về điều đó."
+  },
+  {
+    "i": 26326,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 14,
+    "t": "Thiện và ác, sống và chết, nghèo khó và giàu có, tất cả đều đến từ Chúa."
+  },
+  {
+    "i": 26327,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 15,
+    "t": "Sự khôn ngoan, tri thức và sự hiểu biết Luật pháp đến từ Chúa, tình yêu và việc thực hành những việc lành đến từ Ngài."
+  },
+  {
+    "i": 26328,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 16,
+    "t": "Sự dại dột và bóng tối được tạo ra cho kẻ tội lỗi; đối với những kẻ vui thích trong điều ác, điều ác sẽ đồng hành cùng tuổi già."
+  },
+  {
+    "i": 26329,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 17,
+    "t": "Món quà của Chúa vẫn trung tín với người tin kính, và lòng nhân từ của Ngài sẽ dẫn dắt họ mãi mãi."
+  },
+  {
+    "i": 26330,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 18,
+    "t": "Có những người làm giàu bằng lòng tham, đây sẽ là phần thưởng của họ:"
+  },
+  {
+    "i": 26331,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 19,
+    "t": "Ngày họ nói: \"Ta đã tìm được sự nghỉ ngơi, giờ ta có thể sống trên tài sản của mình\", họ không biết điều đó sẽ kéo dài bao lâu: họ sẽ phải để lại cho người khác và chết đi."
+  },
+  {
+    "i": 26332,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 20,
+    "t": "Hãy gắn bó với công việc của ngươi, hãy làm tốt công việc đó và hãy già đi trong công việc của ngươi."
+  },
+  {
+    "i": 26333,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 21,
+    "t": "Chớ kinh ngạc trước việc làm của kẻ tội lỗi, hãy tin cậy Chúa và gắn bó với công việc của ngươi. Vì đối với Chúa, thật dễ dàng, nhanh chóng, trong một khoảnh khắc, để làm giàu cho người nghèo."
+  },
+  {
+    "i": 26334,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 22,
+    "t": "Phước lành của Chúa là phần thưởng cho người tin kính, trong một khoảnh khắc, Đức Chúa Trời làm cho phước lành của Ngài nảy nở."
+  },
+  {
+    "i": 26335,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 23,
+    "t": "Chớ nói: \"Ta cần gì? Từ nay về sau tài sản của ta sẽ là gì?"
+  },
+  {
+    "i": 26336,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 24,
+    "t": "Chớ nói: \"Ta đã đủ, tai họa nào có thể giáng xuống ta?"
+  },
+  {
+    "i": 26337,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 25,
+    "t": "Ngày vui vẻ người ta không nhớ đến những điều xấu, và ngày tai họa người ta quên đi niềm hạnh phúc."
+  },
+  {
+    "i": 26338,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 26,
+    "t": "Ấy là vì Chúa dễ dàng, vào ngày chết, trả lại cho mỗi người theo việc làm của họ."
+  },
+  {
+    "i": 26339,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 27,
+    "t": "Một giờ thử thách làm người ta quên đi sự sung túc, và chính vào giờ cuối cùng mà việc làm của một người được tiết lộ."
+  },
+  {
+    "i": 26340,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 28,
+    "t": "Chớ khen ngợi hạnh phúc của ai trước khi kết thúc, vì chính trong sự kết thúc mà người ta được biết đến."
+  },
+  {
+    "i": 26341,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 29,
+    "t": "Chớ đưa bất kỳ ai vào nhà ngươi, vì mưu mẹo của kẻ gièm pha thì vô số."
+  },
+  {
+    "i": 26342,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 30,
+    "t": "Như chim đa đa bị giam trong lồng, thì lòng kẻ kiêu ngạo cũng vậy, như kẻ gián điệp, nó rình rập sự hủy hoại của ngươi."
+  },
+  {
+    "i": 26343,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 31,
+    "t": "Thay đổi điều tốt thành điều xấu, nó luôn rình rập, đối với những phẩm chất tốt nhất, nó tìm ra những điểm xấu."
+  },
+  {
+    "i": 26344,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 32,
+    "t": "Một tia lửa làm cháy một đám cháy lớn, kẻ tội lỗi luôn rình rập để làm đổ máu."
+  },
+  {
+    "i": 26345,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 33,
+    "t": "Hãy cẩn thận với kẻ gian ác vì nó âm mưu điều ác, hãy sợ rằng nó sẽ giáng cho ngươi một vết nhơ đời đời."
+  },
+  {
+    "i": 26346,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 34,
+    "t": "Đưa người lạ vào, nó sẽ gây rắc rối trong nhà ngươi và nó sẽ khiến cả gia đình ngươi xa lánh ngươi."
+  },
+  {
+    "i": 26347,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 1,
+    "t": "Nếu ngươi làm điều tốt, hãy biết ngươi làm cho ai và những việc lành của ngươi sẽ không bị mất đi."
+  },
+  {
+    "i": 26348,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 2,
+    "t": "Hãy làm điều tốt cho người tin kính, người đó sẽ trả lại cho ngươi, nếu không phải chính người đó thì ít nhất là qua Đấng Tối Cao."
+  },
+  {
+    "i": 26349,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 3,
+    "t": "Chẳng có việc lành nào cho kẻ kiên trì trong điều ác và từ chối làm việc thiện."
+  },
+  {
+    "i": 26350,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 4,
+    "t": "Hãy cho người tin kính và chớ giúp đỡ kẻ tội lỗi."
+  },
+  {
+    "i": 26351,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 5,
+    "t": "Hãy làm điều tốt cho người khiêm nhường và chớ cho kẻ vô đạo. Hãy từ chối bánh của hắn, chớ cho hắn, hắn sẽ trở nên mạnh hơn ngươi. Vì ngươi sẽ bị trả gấp đôi bằng sự gian ác cho tất cả những việc lành mà ngươi đã ban cho hắn."
+  },
+  {
+    "i": 26352,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 6,
+    "t": "Vì chính Đấng Tối Cao ghê tởm kẻ tội lỗi và Ngài sẽ giáng hình phạt lên kẻ gian ác. Ngài giữ chúng cho đến ngày trừng phạt chúng."
+  },
+  {
+    "i": 26353,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 7,
+    "t": "Hãy cho người tốt, nhưng chớ giúp đỡ kẻ tội lỗi."
+  },
+  {
+    "i": 26354,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 8,
+    "t": "Trong sự thịnh vượng người ta không thể nhận ra người bạn đích thực, và trong nghịch cảnh kẻ thù không thể che giấu mình."
+  },
+  {
+    "i": 26355,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 9,
+    "t": "Khi một người hạnh phúc, kẻ thù của người đó buồn bã; khi người đó bất hạnh, ngay cả bạn bè của người đó cũng bỏ rơi người đó."
+  },
+  {
+    "i": 26356,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 10,
+    "t": "Đừng bao giờ tin tưởng kẻ thù của ngươi; giống như đồng bị gỉ, sự gian ác của nó cũng vậy."
+  },
+  {
+    "i": 26357,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 11,
+    "t": "Ngay cả khi nó khiêm nhường và tiến đến bằng cách cúi đầu, hãy coi chừng và hãy nghi ngờ nó. Hãy đối xử với nó như thể ngươi đang đánh bóng một tấm gương, hãy biết rằng sự gỉ sét của nó sẽ không kéo dài đến cuối cùng."
+  },
+  {
+    "i": 26358,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 12,
+    "t": "Chớ đặt nó gần ngươi, nó có thể lật đổ ngươi và chiếm chỗ của ngươi. Chớ cho nó ngồi bên hữu ngươi, nó sẽ tìm cách cướp ghế của ngươi, và cuối cùng ngươi sẽ hiểu lời ta, ngươi sẽ hối hận khi nghĩ đến lời nói của ta."
+  },
+  {
+    "i": 26359,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 13,
+    "t": "Ai thương xót kẻ bỏ bùa bị rắn cắn và tất cả những ai đối mặt với thú dữ?"
+  },
+  {
+    "i": 26360,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 14,
+    "t": "Cũng như vậy đối với kẻ kết bạn với kẻ tội lỗi và tham gia vào tội lỗi của hắn."
+  },
+  {
+    "i": 26361,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 15,
+    "t": "Nó ở lại với ngươi một thời gian, nhưng nếu ngươi vấp ngã, nó sẽ không kiềm chế được nữa."
+  },
+  {
+    "i": 26362,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 16,
+    "t": "Kẻ thù chỉ có sự ngọt ngào trên môi, nhưng trong lòng nó mưu tính ném ngươi vào hố. Kẻ thù có nước mắt trong mắt, và nếu nó tìm được cơ hội, nó sẽ không no máu."
+  },
+  {
+    "i": 26363,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 17,
+    "t": "Nếu số phận chống lại ngươi, ngươi sẽ thấy nó ở đó trước ngươi, và với lý do giúp đỡ ngươi, nó sẽ túm lấy gót chân ngươi."
+  },
+  {
+    "i": 26364,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 18,
+    "t": "Nó sẽ gật đầu và vỗ tay, nó sẽ chỉ lẩm bẩm và thay đổi sắc mặt."
+  },
+  {
+    "i": 26365,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 1,
+    "t": "Ai chạm vào nhựa đường thì sẽ dính, ai giao du với kẻ kiêu ngạo thì sẽ trở nên giống hắn."
+  },
+  {
+    "i": 26366,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 2,
+    "t": "Chớ gánh vác gánh nặng quá lớn, chớ kết giao với người mạnh và giàu hơn ngươi. Tại sao lại đặt nồi đất với nồi sắt? Nếu nó va vào nó, nó sẽ vỡ."
+  },
+  {
+    "i": 26367,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 3,
+    "t": "Người giàu phạm bất công, hắn tỏ ra kiêu ngạo; người nghèo bị tổn hại, hắn van xin."
+  },
+  {
+    "i": 26368,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 4,
+    "t": "Nếu ngươi hữu ích với hắn, hắn sẽ lợi dụng ngươi, nếu ngươi thiếu sót, hắn sẽ tránh xa ngươi."
+  },
+  {
+    "i": 26369,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 5,
+    "t": "Ngươi có tài sản gì không? Hắn sẽ sống với ngươi, hắn sẽ tước đoạt ngươi mà không hề hối hận."
+  },
+  {
+    "i": 26370,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 6,
+    "t": "Hắn có cần ngươi không? Hắn sẽ dụ dỗ ngươi, mỉm cười với ngươi và cho ngươi hy vọng, hắn sẽ nói với ngươi những lời tốt đẹp và nói: \"Ngươi cần gì?"
+  },
+  {
+    "i": 26371,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 7,
+    "t": "Hắn sẽ hạ nhục ngươi trong những bữa tiệc của hắn, cho đến khi tước đoạt ngươi hai ba lần, và cuối cùng hắn sẽ chế nhạo ngươi. Rồi nếu hắn thấy ngươi, hắn sẽ tránh xa ngươi bằng cách lắc đầu về phía ngươi."
+  },
+  {
+    "i": 26372,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 8,
+    "t": "Hãy cẩn thận để không bị dụ dỗ, để không bị hạ nhục trong sự dại dột của ngươi."
+  },
+  {
+    "i": 26373,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 9,
+    "t": "Khi một người lớn gọi ngươi, hãy trốn đi, hắn sẽ gọi ngươi lớn hơn."
+  },
+  {
+    "i": 26374,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 10,
+    "t": "Chớ vội vàng, kẻo bị đẩy ra; chớ đứng quá xa, kẻo bị lãng quên."
+  },
+  {
+    "i": 26375,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 11,
+    "t": "Chớ nghĩ rằng mình quen thuộc với hắn, chớ tin cậy vào sự ngọt ngào của hắn. Bằng lời lẽ của mình, hắn thử thách ngươi, như thể đùa giỡn hắn tìm hiểu."
+  },
+  {
+    "i": 26376,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 12,
+    "t": "Kẻ lan truyền lời nói thì vô tình; hắn không tha cho ngươi cả đòn roi lẫn xiềng xích."
+  },
+  {
+    "i": 26377,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 13,
+    "t": "Hãy coi chừng và hãy cẩn thận, vì ngươi đang đi cùng với sự hủy hoại của chính mình."
+  },
+  {
+    "i": 26378,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 14,
+    "t": "Khi ngươi nghe thấy điều đó trong giấc ngủ, hãy thức dậy; cả đời ngươi, hãy yêu mến Chúa và cầu khẩn Ngài cho sự cứu rỗi của ngươi."
+  },
+  {
+    "i": 26379,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 15,
+    "t": "Mọi sinh vật đều yêu mến đồng loại của mình và mọi người đều yêu mến người lân cận của mình."
+  },
+  {
+    "i": 26380,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 16,
+    "t": "Hết thảy xác thịt kết hợp tùy theo loại nó, và người ta thì kết giao với đồng loại mình."
+  },
+  {
+    "i": 26381,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 17,
+    "t": "Làm sao chó sói hòa hợp với chiên con? Kẻ tội lỗi và người công chính cũng vậy."
+  },
+  {
+    "i": 26382,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 18,
+    "t": "Hyena và chó có thể có hòa bình gì? Giữa người giàu và người nghèo thì sao?"
+  },
+  {
+    "i": 26383,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 19,
+    "t": "Lừa hoang là mồi của sư tử trong sa mạc, cũng vậy, người nghèo là con mồi của người giàu."
+  },
+  {
+    "i": 26384,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 20,
+    "t": "Đối với kẻ kiêu ngạo, sự khiêm nhường là một sự ghê tởm: cũng vậy, người giàu kinh tởm người nghèo."
+  },
+  {
+    "i": 26385,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 21,
+    "t": "Khi người giàu vấp ngã, bạn bè nâng đỡ hắn; khi người khốn khó ngã xuống, bạn bè ruồng bỏ hắn."
+  },
+  {
+    "i": 26386,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 22,
+    "t": "Khi người giàu vấp ngã, nhiều người dang tay đón lấy hắn, nếu hắn nói điều dại dột, người ta ưng thuận hắn. Khi người khốn khó vấp ngã, người ta khiển trách hắn, nếu hắn nói điều khôn ngoan, chẳng ai để chỗ cho hắn."
+  },
+  {
+    "i": 26387,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 23,
+    "t": "Khi người giàu nói, mọi người đều im lặng và tán dương lời hắn. Khi người nghèo nói, người ta hỏi: \"Người đó là ai?\" Và nếu hắn vấp ngã, người ta quăng hắn xuống đất."
+  },
+  {
+    "i": 26388,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 24,
+    "t": "Giàu có là tốt khi không có tội lỗi, nghèo khó là xấu xa theo lời kẻ gian ác."
+  },
+  {
+    "i": 26389,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 25,
+    "t": "Lòng người tạo hình diện mạo của nó, hoặc tốt hoặc xấu."
+  },
+  {
+    "i": 26390,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 26,
+    "t": "Lòng hân hoan làm cho mặt tươi tỉnh; việc nghĩ ra câu tục ngữ đòi hỏi những suy tư gian khổ."
+  },
+  {
+    "i": 26391,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 1,
+    "t": "Phước thay người nào không phạm tội trong lời nói và không bị giày vò vì hối tiếc những lỗi lầm của mình."
+  },
+  {
+    "i": 26392,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 2,
+    "t": "Phước thay người nào không tự trách mình và không chìm vào tuyệt vọng."
+  },
+  {
+    "i": 26393,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 3,
+    "t": "Sự giàu có không thích hợp với người nhỏ mọn, và của cải lớn thì ích gì cho người tham lam?"
+  },
+  {
+    "i": 26394,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 4,
+    "t": "Ai tích trữ bằng cách tước đoạt chính mình thì tích trữ cho người khác, người khác sẽ ăn no nê những của cải của hắn."
+  },
+  {
+    "i": 26395,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 5,
+    "t": "Ai khắc nghiệt với chính mình thì tốt cho ai? Hắn thậm chí không hưởng thụ của cải của mình."
+  },
+  {
+    "i": 26396,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 6,
+    "t": "Không có người nào tàn nhẫn hơn kẻ tự hành hạ mình, đó là tiền công cho sự gian ác của hắn."
+  },
+  {
+    "i": 26397,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 7,
+    "t": "Nếu hắn làm điều tốt, thì đó là do vô tình, cuối cùng hắn để lộ sự gian ác của mình."
+  },
+  {
+    "i": 26398,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 8,
+    "t": "Kẻ gian ác là người có ánh mắt tham lam, kẻ ngoảnh mặt đi và khinh rẻ mạng sống của người khác."
+  },
+  {
+    "i": 26399,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 9,
+    "t": "Kẻ ghen tị không hài lòng với những gì mình có, lòng tham làm khô héo tâm hồn."
+  }
+]

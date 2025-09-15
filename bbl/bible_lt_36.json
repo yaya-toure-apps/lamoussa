@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3600,
+    "b": 2,
+    "c": 327,
+    "r": 327,
+    "o": 32,
+    "t": "Kiekviena dešimtinė stambaus ir smulkaus galvijo bus atskirta Viešpačiui, dešimtoji dalis viso to, kas pereina po lazda."
+  },
+  {
+    "i": 3601,
+    "b": 2,
+    "c": 327,
+    "r": 327,
+    "o": 33,
+    "t": "Nesirinksite gero ar blogo, nedarysite pakaitalų: jei tai padarysite, gyvulys ir jo pakaitalas bus atskirti, be galimybės išpirkti."
+  },
+  {
+    "i": 3602,
+    "b": 2,
+    "c": 327,
+    "r": 327,
+    "o": 34,
+    "t": "Tokie yra įsakymai, kuriuos Viešpats davė Mozei ant Sinajaus kalno Izraelio vaikams."
+  },
+  {
+    "i": 3603,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 1,
+    "t": "Ir Viešpats kalbėjo Mozei Sinajaus dykumoje, Susitikimo Palapinėje, antros metų dienos pirmąją antrojo mėnesio dieną po jų išėjimo iš Egipto šalies. Jis tarė:"
+  },
+  {
+    "i": 3604,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 2,
+    "t": "\"Suskaitykite visą Izraelio bendruomenę pagal gimines ir šeimas, suskaičiuodami visų vyrų vardus, kiekvieną atskirai."
+  },
+  {
+    "i": 3605,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 3,
+    "t": "Visus Izraelio vyrus, kuriems sukako dvidešimt metų ir daugiau, tinkamus kariauti, užrašykite juos, tu ir Aaronas, pagal jų kovinius būrius."
+  },
+  {
+    "i": 3606,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 4,
+    "t": "Prie jūsų bus prijungtas po vieną vyrą iš kiekvienos giminės, šeimos galvą."
+  },
+  {
+    "i": 3607,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 5,
+    "t": "\"Štai vardai tų, kurie jums padės: Iš Rubeno – Elitsūras, Šedeūro sūnus."
+  },
+  {
+    "i": 3608,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 6,
+    "t": "Iš Simeono – Šelumielis, Tsurishadajo sūnus."
+  },
+  {
+    "i": 3609,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 7,
+    "t": "Iš Judo – Nahšonas, Aminadabo sūnus."
+  },
+  {
+    "i": 3610,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 8,
+    "t": "Iš Isacharo – Netanelis, Suaro sūnus."
+  },
+  {
+    "i": 3611,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 9,
+    "t": "Iš Zabulono – Eliabas, Helono sūnus."
+  },
+  {
+    "i": 3612,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 10,
+    "t": "Iš Juozapo sūnų: iš Efraimo – Elišama, Amihudo sūnus; iš Manaso – Gamlielis, Pedatsūro sūnus."
+  },
+  {
+    "i": 3613,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 11,
+    "t": "Iš Benjamino – Abidanas, Gideonio sūnus."
+  },
+  {
+    "i": 3614,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 12,
+    "t": "Iš Dano – Ahiezeras, Amišadajo sūnus."
+  },
+  {
+    "i": 3615,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 13,
+    "t": "Iš Ašero – Pagielis, Okrano sūnus."
+  },
+  {
+    "i": 3616,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 14,
+    "t": "Iš Gado – Eliasafo, Reuelio sūnus."
+  },
+  {
+    "i": 3617,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 15,
+    "t": "Iš Neftalio – Ahira, Enano sūnus."
+  },
+  {
+    "i": 3618,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 16,
+    "t": "Tai buvo vyrai, gerbiami bendruomenėje; jie buvo savo tėvų giminės kunigaikščiai; jie vadovavo Izraelio tūkstančiams."
+  },
+  {
+    "i": 3619,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 17,
+    "t": "Mozė ir Aaronas pasiėmė tuos vyrus, kurie buvo paskirti vardu,"
+  },
+  {
+    "i": 3620,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 18,
+    "t": "ir surinko visą bendruomenę antro mėnesio pirmąją dieną. Izraelitai nustatė savo giminystės ryšius pagal gimines ir šeimas, ir buvo surašomi vyrų, kuriems sukako dvidešimt metų ir daugiau, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3621,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 19,
+    "t": "Kaip Viešpats jam buvo įsakęs, Mozė juos užrašė Sinajaus dykumoje."
+  },
+  {
+    "i": 3622,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 20,
+    "t": "Kai buvo nustatyti Rubeno, Izraelio pirmagimio, sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3623,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 21,
+    "t": "Jų buvo suskaičiuota 46 500 Rubeno giminei."
+  },
+  {
+    "i": 3624,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 22,
+    "t": "Kai buvo nustatyti Simeono sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3625,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 23,
+    "t": "Jų buvo suskaičiuota 59 300 Simeono giminei."
+  },
+  {
+    "i": 3626,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 24,
+    "t": "Kai buvo nustatyti Gado sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3627,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 25,
+    "t": "Jų buvo suskaičiuota 45 650 Gado giminei."
+  },
+  {
+    "i": 3628,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 26,
+    "t": "Kai buvo nustatyti Judo sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3629,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 27,
+    "t": "Jų buvo suskaičiuota 74 600 Judo giminei."
+  },
+  {
+    "i": 3630,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 28,
+    "t": "Kai buvo nustatyti Isacharo sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3631,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 29,
+    "t": "Jų buvo suskaičiuota 54 400 Isacharo giminei."
+  },
+  {
+    "i": 3632,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 30,
+    "t": "Kai buvo nustatyti Zabulono sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3633,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 31,
+    "t": "Jų buvo suskaičiuota 57 400 Zabulono giminei."
+  },
+  {
+    "i": 3634,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 32,
+    "t": "Juozapo sūnūs: Kai buvo nustatyti Efraimo sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3635,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 33,
+    "t": "Jų buvo suskaičiuota 40 500 Efraimo giminei."
+  },
+  {
+    "i": 3636,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 34,
+    "t": "Kai buvo nustatyti Manaso sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3637,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 35,
+    "t": "Jų buvo suskaičiuota trys tūkstančiai du tūkstančiai du šimtai Manaso giminei."
+  },
+  {
+    "i": 3638,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 36,
+    "t": "Kai buvo nustatyti Benjamino sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3639,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 37,
+    "t": "Jų buvo suskaičiuota 35 400 Benjamino giminei."
+  },
+  {
+    "i": 3640,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 38,
+    "t": "Kai buvo nustatyti Dano sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3641,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 39,
+    "t": "Jų buvo suskaičiuota 62 700 Dano giminei."
+  },
+  {
+    "i": 3642,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 40,
+    "t": "Kai buvo nustatyti Ašero sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3643,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 41,
+    "t": "Jų buvo suskaičiuota 41 500 Ašero giminei."
+  },
+  {
+    "i": 3644,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 42,
+    "t": "Kai buvo nustatyti Neftalio sūnų giminystės ryšiai pagal gimines ir šeimas, buvo surašyti visų vyrų, kuriems sukako dvidešimt metų ir daugiau, tinkamų kariauti, vardai, kiekvienas atskirai."
+  },
+  {
+    "i": 3645,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 43,
+    "t": "Jų buvo suskaičiuota 53 400 Neftalio giminei."
+  },
+  {
+    "i": 3646,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 44,
+    "t": "Tokie buvo tie, kuriuos suskaičiavo Mozė, Aaronas ir Izraelio kunigaikščiai, dvylika, po vieną iš kiekvienos savo šeimos."
+  },
+  {
+    "i": 3647,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 45,
+    "t": "Visi izraelitai, kuriems sukako dvidešimt metų ir daugiau, visi Izraelio vyrai, tinkami kariauti, buvo suskaičiuoti pagal šeimas."
+  },
+  {
+    "i": 3648,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 46,
+    "t": "Bendras suskaičiuotųjų skaičius buvo 603 550."
+  },
+  {
+    "i": 3649,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 47,
+    "t": "Tačiau levitai nebuvo suskaičiuoti kartu su jais, nei jų patriarchalinė giminė."
+  },
+  {
+    "i": 3650,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 48,
+    "t": "Ir Viešpats kalbėjo Mozei, sakydamas:"
+  },
+  {
+    "i": 3651,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 49,
+    "t": "\"Tačiau neužrašyk Levio giminės ir nesuskaičiuok jos tarp Izraelio vaikų."
+  },
+  {
+    "i": 3652,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 50,
+    "t": "Bet pats užrašyk levitus tarnauti Liudijimo Padangtei, visiems jos baldams ir viskam, kas jai priklauso. Jie neš Padangtę ir visus jos baldus, jie atliks jos tarnybą ir stovės aplink ją."
+  },
+  {
+    "i": 3653,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 51,
+    "t": "Kai Padangtė bus perkeliama, levitai ją išardys; kai Padangtė sustos, levitai ją pastatys. Kiekvienas pašalinis, kuris prie jos prisiartins, bus nužudytas."
+  },
+  {
+    "i": 3654,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 52,
+    "t": "Izraelitai stovės kiekvienas savo stovykloje, kiekvienas prie savo vėliavos, pagal savo būrius."
+  },
+  {
+    "i": 3655,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 53,
+    "t": "Bet levitai stovės aplink Liudijimo Padangtę. Taip pyktis neužklups Izraelio bendruomenės. Ir levitai atliks Liudijimo Padangtės tarnybą."
+  },
+  {
+    "i": 3656,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 54,
+    "t": "Izraelitai viskuo pakluso tam, ką Viešpats įsakė Mozei. Taip jie padarė."
+  },
+  {
+    "i": 3657,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 1,
+    "t": "Ir Viešpats kalbėjo Mozei ir Aaronui, sakydamas:"
+  },
+  {
+    "i": 3658,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 2,
+    "t": "\"Izraelitai stovės kiekvienas prie savo vėliavos, po savo šeimų ženklais. Jie stovės aplink Susitikimo Palapinę tam tikru atstumu."
+  },
+  {
+    "i": 3659,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 3,
+    "t": "Tie, kurie stovės rytuose: rytuose – Judo stovyklos vėliava pagal jų būrius. Judo sūnų kunigaikštis: Nahšonas, Aminadabo sūnus."
+  },
+  {
+    "i": 3660,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 4,
+    "t": "Jo būrys: 74 600 suskaičiuotųjų."
+  },
+  {
+    "i": 3661,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 5,
+    "t": "Stovyklaus šalia jo: Isacharo giminė. Isacharo sūnų kunigaikštis: Netanelis, Suaro sūnus."
+  },
+  {
+    "i": 3662,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 6,
+    "t": "Jo būrys: 54 400 suskaičiuotųjų."
+  },
+  {
+    "i": 3663,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 7,
+    "t": "Zabulono giminė. Zabulono sūnų kunigaikštis: Eliabas, Helono sūnus."
+  },
+  {
+    "i": 3664,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 8,
+    "t": "Jo būrys: 57 400 suskaičiuotųjų."
+  },
+  {
+    "i": 3665,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 9,
+    "t": "Judo stovyklos suskaičiuotieji pagal jų būrius iš viso yra 186 400. Jie pirmieji išjungs stovyklą."
+  },
+  {
+    "i": 3666,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 10,
+    "t": "Pietuose – Rubeno stovyklos vėliava pagal jų būrius. Rubeno sūnų kunigaikštis: Elitsūras, Šedeūro sūnus."
+  },
+  {
+    "i": 3667,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 11,
+    "t": "Jo būrys: 46 500 suskaičiuotųjų."
+  },
+  {
+    "i": 3668,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 12,
+    "t": "Stovyklaus šalia jo: Simeono giminė. Simeono sūnų kunigaikštis: Šelumielis, Tsurishadajo sūnus."
+  },
+  {
+    "i": 3669,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 13,
+    "t": "Jo būrys: 59 300 suskaičiuotųjų."
+  },
+  {
+    "i": 3670,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 14,
+    "t": "Gado giminė. Gado sūnų kunigaikštis: Eliasafas, Reuelio sūnus."
+  },
+  {
+    "i": 3671,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 15,
+    "t": "Jo būrys: 45 650 suskaičiuotųjų."
+  },
+  {
+    "i": 3672,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 16,
+    "t": "Rubeno stovyklos suskaičiuotieji pagal jų būrius iš viso yra 151 450. Jie antri išjungs stovyklą."
+  },
+  {
+    "i": 3673,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 17,
+    "t": "Tada Susitikimo Palapinė iškeliaus, levitų stovykla bus kitų stovyklų viduryje. Iškeliaus ta tvarka, kuria stovėjo, kiekvienas po savo vėliava."
+  },
+  {
+    "i": 3674,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 18,
+    "t": "Vakaruose – Efraimo stovyklos vėliava pagal jų būrius. Efraimo sūnų kunigaikštis: Elišama, Amihudo sūnus."
+  },
+  {
+    "i": 3675,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 19,
+    "t": "Jo būrys: 40 500 suskaičiuotųjų."
+  },
+  {
+    "i": 3676,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 20,
+    "t": "Šalia jo: Manaso giminė. Manaso sūnų kunigaikštis: Gamlielis, Pedatsūro sūnus."
+  },
+  {
+    "i": 3677,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 21,
+    "t": "Jo būrys: trys tūkstančiai du tūkstančiai du šimtai suskaičiuotųjų."
+  },
+  {
+    "i": 3678,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 22,
+    "t": "Benjamino giminė. Benjamino sūnų kunigaikštis: Abidanas, Gideonio sūnus."
+  },
+  {
+    "i": 3679,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 23,
+    "t": "Jo būrys: 35 400 suskaičiuotųjų."
+  },
+  {
+    "i": 3680,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 24,
+    "t": "Efraimo stovyklos suskaičiuotieji pagal savo būrius iš viso šimtas aštuoni tūkstančiai ir šimtas. Jie keliaus treti."
+  },
+  {
+    "i": 3681,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 25,
+    "t": "Šiaurėje bus Dano stovyklos vėliava pagal jų būrius. Dano sūnų kunigaikštis: Ahiezeras, Amišadajo sūnus."
+  },
+  {
+    "i": 3682,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 26,
+    "t": "Jo būrys: šešiasdešimt du tūkstančiai septyni šimtai suskaičiuotųjų."
+  },
+  {
+    "i": 3683,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 27,
+    "t": "Šalia jo stovyklaus: Ašero giminė. Ašero sūnų kunigaikštis: Pagielis, Okrano sūnus."
+  },
+  {
+    "i": 3684,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 28,
+    "t": "Jo būrys: keturiasdešimt vienas tūkstantis penki šimtai suskaičiuotųjų."
+  },
+  {
+    "i": 3685,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 29,
+    "t": "Neftalio giminė. Neftalio sūnų kunigaikštis: Ahira, Enano sūnus."
+  },
+  {
+    "i": 3686,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 30,
+    "t": "Jo būrys: penkiasdešimt trys tūkstančiai keturi šimtai suskaičiuotųjų."
+  },
+  {
+    "i": 3687,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 31,
+    "t": "Dano stovyklos suskaičiuotieji iš viso šimtas penkiasdešimt septyni tūkstančiai šeši šimtai; jie keliaus paskutiniai. Visi pagal savo vėliavas."
+  },
+  {
+    "i": 3688,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 32,
+    "t": "Tokie buvo izraelitai, kurie buvo suskaičiuoti pagal savo šeimas. Šių stovyklų suskaičiuotieji pagal savo būrius iš viso šeši šimtai trys tūkstančiai penki šimtai penkiasdešimt."
+  },
+  {
+    "i": 3689,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 33,
+    "t": "Bet levitai nebuvo suskaičiuoti kartu su izraelitais, kaip Viešpats buvo įsakęs Mozei."
+  },
+  {
+    "i": 3690,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 34,
+    "t": "Izraelitai viską padarė taip, kaip Viešpats buvo įsakęs Mozei. Taip jie stovyklavo, išsidėstę pagal vėliavas. Taip jie keliavo, kiekvienas pagal savo klaną, kiekvienas su savo šeima."
+  },
+  {
+    "i": 3691,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 1,
+    "t": "Štai Aarono ir Mozės palikuonys tuo metu, kai Viešpats kalbėjo Mozei prie Sinajaus kalno."
+  },
+  {
+    "i": 3692,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 2,
+    "t": "Štai Aarono sūnų vardai: Nadabas, vyriausiasis, paskui Abihus, Eleazaras, Itamaras."
+  },
+  {
+    "i": 3693,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 3,
+    "t": "Tokie yra Aarono sūnų, kunigų, kurie buvo patepti aliejumi ir kurie buvo įšventinti, kad tarnautų kunigais, vardai."
+  },
+  {
+    "i": 3694,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 4,
+    "t": "Nadabas ir Abihus mirė prieš Viešpatį Sinajaus dykumoje, kai atnašavo prieš jį neteisėtą ugnį. Jie neturėjo vaikų, todėl Eleazaras ir Itamaras tarnavo kunigais savo tėvo Aarono akivaizdoje."
+  },
+  {
+    "i": 3695,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 5,
+    "t": "Viešpats kalbėjo Mozei ir tarė:"
+  },
+  {
+    "i": 3696,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 6,
+    "t": "„Privesk Levio giminę ir pastatyk ją prie kunigo Aarono: jie bus jo tarnai."
+  },
+  {
+    "i": 3697,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 7,
+    "t": "Jie prisiims pareigą, tenkančią jam, taip pat visai bendruomenei, prieš Susitikimo palapinę, atlikdami Padangtės tarnybą."
+  },
+  {
+    "i": 3698,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 8,
+    "t": "Jie rūpinsis visais Susitikimo palapinės reikmenimis ir prisiims pareigą, tenkančią izraelitams, atlikdami Padangtės tarnybą."
+  },
+  {
+    "i": 3699,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 9,
+    "t": "Tu duosi Aaronui ir jo sūnums levitus, kaip dovanotus; jie bus jam duoti iš izraelitų."
+  }
+]

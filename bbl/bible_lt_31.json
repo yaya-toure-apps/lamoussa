@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3100,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 50,
+    "t": "Kunigas apžiūrės tą piktybę ir uždarys daiktą septynioms dienoms."
+  },
+  {
+    "i": 3101,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 51,
+    "t": "Jei septintą dieną matys, kad piktybė išplito ant drabužio, audinio, uždangalo, odos ar bet kokio odos gaminio, tai yra užkrečiama raupsų rūšis – daiktas suterštas."
+  },
+  {
+    "i": 3102,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 52,
+    "t": "Jis sudegins tą drabužį, audinį, vilnonį ar lininį uždangalą, bet kokį odos gaminį, ant kurio pasireiškė piktybė, nes tai yra užkrečiami raupsai, kurie turi būti sunaikinti ugnyje."
+  },
+  {
+    "i": 3103,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 53,
+    "t": "Bet jei, apžiūrėjęs, kunigas mato, kad piktybė neišplito ant drabužio, audinio, uždangalo ar bet kokio odos gaminio,"
+  },
+  {
+    "i": 3104,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 54,
+    "t": "jis įsakys išplauti paveiktą daiktą ir uždarys antrą kartą septynioms dienoms."
+  },
+  {
+    "i": 3105,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 55,
+    "t": "Po išplovimo jis apžiūrės tą piktybę, ir jei matys, kad ji nepakeitė išvaizdos, nors ir neišplito, daiktas yra suterštas. Sunaikink jį ugnyje: tai yra korozija priekinėje ir atvirkštinėje pusėje."
+  },
+  {
+    "i": 3106,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 56,
+    "t": "Bet jei apžiūrėjęs kunigas mato, kad po išplovimo piktybė nublanko, jis išplėš ją iš drabužio, odos, audinio ar uždangalo."
+  },
+  {
+    "i": 3107,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 57,
+    "t": "Tačiau jei piktybė vėl pasirodo ant to drabužio, audinio, uždangalo ar bet kokio odos gaminio, tai reiškia, kad piktybė yra aktyvi, ir tu sunaikinsi ugnyje tai, kas yra paveikta."
+  },
+  {
+    "i": 3108,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 58,
+    "t": "O drabužis, audinys, uždangalas ir bet koks odos gaminys, nuo kurio piktybė dingo po išplovimo, bus švarus, kai bus išplautas antrą kartą."
+  },
+  {
+    "i": 3109,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 59,
+    "t": "Toks yra įstatymas dėl raupsų vilnoniame ar lininiame drabužyje, audinyje, uždangale ar bet kokiame odos gaminyje, kai reikia juos paskelbti švariais ar suterštais."
+  },
+  {
+    "i": 3110,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 1,
+    "t": "Viešpats kalbėjo Mozei, tardamas:"
+  },
+  {
+    "i": 3111,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 2,
+    "t": "Štai įstatymas, kurį reikia taikyti raupsuotajam jo apvalymo dieną. Jis bus nuvestas pas kunigą,"
+  },
+  {
+    "i": 3112,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 3,
+    "t": "ir kunigas išeis iš stovyklos. Jei po apžiūros jis konstatuos, kad raupsuotasis išgydytas nuo raupsų,"
+  },
+  {
+    "i": 3113,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 4,
+    "t": "jis įsakys paimti žmogui, kurį reikia apvalyti, du gyvus ir švarius paukščius, kedro medienos, karmino raudonio ir izopo."
+  },
+  {
+    "i": 3114,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 5,
+    "t": "Tada jis įsakys paaukoti vieną paukštį virš molinio indo su gyvu vandeniu."
+  },
+  {
+    "i": 3115,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 6,
+    "t": "O gyvą paukštį jis paims kartu su kedro mediena, karmino raudoniu, izopu ir panardins visa tai (įskaitant gyvą paukštį) į paaukoto paukščio kraują virš tekančio vandens."
+  },
+  {
+    "i": 3116,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 7,
+    "t": "Tada septynis kartus apšlakstys žmogų, kurį reikia apvalyti nuo raupsų, ir, paskelbęs jį švariu, paleis gyvą paukštį į laukus."
+  },
+  {
+    "i": 3117,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 8,
+    "t": "Tas, kuris apsivalo, išsivalys savo drabužius, nusiskus visus plaukus, nusipraus vandeniu ir bus švarus. Po to jis grįš į stovyklą, bet septynias dienas liks už savo palapinės ribų."
+  },
+  {
+    "i": 3118,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 9,
+    "t": "Septintą dieną jis nusiskus visus plaukus: plaukus, barzdą, antakius; jis turės nusiskusti visus plaukus. Išsivalęs drabužius ir nusiprausęs vandeniu, jis bus švarus."
+  },
+  {
+    "i": 3119,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 10,
+    "t": "Aštuntą dieną jis paims du ėriukus be trūkumų, vieną metinę avytę be trūkumų, tris dešimtadalius smulkaus miltų, sumaišytų su aliejumi, kaip atnašą, ir vieną pintą aliejaus."
+  },
+  {
+    "i": 3120,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 11,
+    "t": "Kunigas, atliekantis apvalymą, pastatys žmogų, kurį reikia apvalyti, ir jo atnašas prie Susitikimo Palapinės įėjimo, priešais Viešpatį."
+  },
+  {
+    "i": 3121,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 12,
+    "t": "Tada jis paims vieną iš ėriukų. Jis paaukos jį kaip atnašą už kaltę ir pintą aliejaus. Jis padarys su jais atnašavimo gestą priešais Viešpatį."
+  },
+  {
+    "i": 3122,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 13,
+    "t": "Jis paaukos ėriuką šventoje vietoje, kur aukojamos aukos už nuodėmę ir deginamosios aukos. Ši auka už kaltę priklausys kunigui kaip auka už nuodėmę, tai yra labai šventas dalykas."
+  },
+  {
+    "i": 3123,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 14,
+    "t": "Kunigas paims kraujo iš šios aukos. Jis užteps jo ant dešiniojo ausies spenelio to, kuris apsivalo, ant dešinės rankos nykščio ir ant dešinės kojos didžiojo piršto."
+  },
+  {
+    "i": 3124,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 15,
+    "t": "Tada jis paims pintą aliejaus ir įpils šiek tiek į kairės rankos delną."
+  },
+  {
+    "i": 3125,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 16,
+    "t": "Jis pamirkys dešinės rankos pirštą į aliejų, esantį kairės rankos delne, ir su šiuo pirštu septynis kartus apšlakstys priešais Viešpatį."
+  },
+  {
+    "i": 3126,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 17,
+    "t": "Tada jis užteps šiek tiek aliejaus, kuris jam liko delne, ant dešiniojo ausies spenelio to, kuris apsivalo, ant dešinės rankos nykščio ir ant dešinės kojos didžiojo piršto, be kraujo aukos už kaltę."
+  },
+  {
+    "i": 3127,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 18,
+    "t": "Likusį aliejų, kurį turi delne, jis užteps ant galvos to, kuris apsivalo. Taip jis bus apvalytas priešais Viešpatį."
+  },
+  {
+    "i": 3128,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 19,
+    "t": "Kunigas tada atliks auką už nuodėmę ir apvalys tą, kuris apsivalo, nuo jo nešvarumo. Po to jis paaukos deginamąją auką,"
+  },
+  {
+    "i": 3129,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 20,
+    "t": "jis atneš ant aukuro deginamąją auką ir atnašą. Kai kunigas taip apvalys šį žmogų, jis bus švarus."
+  },
+  {
+    "i": 3130,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 21,
+    "t": "Jei jis yra vargšas ir neturi pakankamai išteklių, jis paims tik vieną ėriuką, tą, kuris skirtas aukai už kaltę, ir jis bus paaukotas pagal atnašavimo gestą, kad būtų apvalytas šis žmogus. Jis taip pat paims tik vieną dešimtadalį smulkaus miltų, sumaišytų su aliejumi, kaip atnašą, ir pintą aliejaus,"
+  },
+  {
+    "i": 3131,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 22,
+    "t": "galiausiai du purplelius arba du balandžius – jei jis gali juos įsigyti – iš kurių vienas bus skirtas aukai už nuodėmę, o kitas – deginamajai aukai."
+  },
+  {
+    "i": 3132,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 23,
+    "t": "Aštuntą dieną jis atneš juos kunigui prie Susitikimo Palapinės įėjimo, priešais Viešpatį, kad būtų apvalytas."
+  },
+  {
+    "i": 3133,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 24,
+    "t": "Kunigas paims ėriuką, skirtą aukai už kaltę, ir pintą aliejaus. Jis paaukos juos atnašavimo gestu priešais Viešpatį."
+  },
+  {
+    "i": 3134,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 25,
+    "t": "Tada, paaukojęs šį ėriuką, skirtą aukai už kaltę, jis paims jo kraujo ir užteps ant dešiniojo ausies spenelio to, kuris apsivalo, ant dešinės rankos nykščio ir ant dešinės kojos didžiojo piršto."
+  },
+  {
+    "i": 3135,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 26,
+    "t": "Jis įpils aliejaus į kairės rankos delną"
+  },
+  {
+    "i": 3136,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 27,
+    "t": "ir su šiuo pirštu septynis kartus apšlakstys nuo aliejaus, esančio kairės rankos delne, priešais Viešpatį."
+  },
+  {
+    "i": 3137,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 28,
+    "t": "Jis užteps jo ant dešiniojo ausies spenelio to, kuris apsivalo, ant dešinės rankos nykščio, ant dešinės kojos didžiojo piršto, toje vietoje, kur buvo užteptas kraujas aukos už kaltę."
+  },
+  {
+    "i": 3138,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 29,
+    "t": "Likusį aliejų, kurį turi delne, jis užteps ant galvos to, kuris apsivalo, apvalydamas jį priešais Viešpatį."
+  },
+  {
+    "i": 3139,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 30,
+    "t": "Iš vieno iš dviejų purplelių ar vieno iš dviejų balandžių – iš to, ką jis gali įsigyti – jis atliks"
+  },
+  {
+    "i": 3140,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 31,
+    "t": "vieną auką už nuodėmę, o kitą – deginamąją auką kartu su atnaša – su tuo, ką jis gali įsigyti. Kunigas taip apvalys tą, kuris apsivalo, priešais Viešpatį."
+  },
+  {
+    "i": 3141,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 32,
+    "t": "Toks yra įstatymas dėl to, kuris serga raupsais ir negali pasirūpinti savo apvalymu."
+  },
+  {
+    "i": 3142,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 33,
+    "t": "Viešpats kalbėjo Mozei ir Aaronui, tardamas:"
+  },
+  {
+    "i": 3143,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 34,
+    "t": "Kai atvyksite į Kanaano kraštą, kurį aš jums atiduodu kaip nuosavybę, jei aš paliesiu raupsais namą krašte, kurį valdysite,"
+  },
+  {
+    "i": 3144,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 35,
+    "t": "jo savininkas ateis įspėti kunigą ir sakys: \"Mačiau kažką panašaus į raupsus name."
+  },
+  {
+    "i": 3145,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 36,
+    "t": "Kunigas įsakys ištuštinti namą, prieš jam ateinant apžiūrėti tą piktybę; tokiu būdu niekas netaps nešvariu iš to, kas jame yra. Po to kunigas ateis apžiūrėti namo,"
+  },
+  {
+    "i": 3146,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 37,
+    "t": "ir jei, apžiūrėjęs, jis pastebės ant namo sienų žalsvus ar rausvus įdubimus, kurie įdubę sienoje,"
+  },
+  {
+    "i": 3147,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 38,
+    "t": "kunigas išeis iš namo, prie durų, ir jis uždarys jį septynioms dienoms."
+  },
+  {
+    "i": 3148,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 39,
+    "t": "Jis grįš septintą dieną, ir jei, apžiūrėjęs, pastebės, kad piktybė išsiplėtė ant namo sienų,"
+  },
+  {
+    "i": 3149,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 40,
+    "t": "jis įsakys pašalinti akmenis, kuriuos pažeidė piktybė, ir išmesti juos už miesto į nešvarią vietą."
+  },
+  {
+    "i": 3150,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 41,
+    "t": "Tada jis nutarkuos visas vidines namo sienas ir paskleis taip atskirtą tinką nešvarioje vietoje už miesto."
+  },
+  {
+    "i": 3151,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 42,
+    "t": "Bus paimti kiti akmenys, kad pakeistų pirmuosius, ir kitas tinkas, kad būtų iš naujo tinkuojamas namas."
+  },
+  {
+    "i": 3152,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 43,
+    "t": "Jei piktybė vėl išplis po akmenų pašalinimo, nutarkavimo ir namo tinkavimo,"
+  },
+  {
+    "i": 3153,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 44,
+    "t": "kunigas ateis jo apžiūrėti; jei jis pastebės, kad piktybė išsiplėtė, tai yra užkrečiama raupsų rūšis name; jis yra nešvarus."
+  },
+  {
+    "i": 3154,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 45,
+    "t": "Jis bus nugriautas, jo akmenys, jo medinės konstrukcijos ir visas tinkas bus nunešti į nešvarią vietą už miesto."
+  },
+  {
+    "i": 3155,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 46,
+    "t": "Kas įeis į namą visą laiką, kol jis bus uždarytas, bus nešvarus iki vakaro."
+  },
+  {
+    "i": 3156,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 47,
+    "t": "Kas jame miegos, turės išsivalyti drabužius. Kas jame valgys, turės išsivalyti drabužius."
+  },
+  {
+    "i": 3157,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 48,
+    "t": "Bet jei kunigas, atėjęs apžiūrėti tą piktybę, pastebės, kad ji neišsiplėtė namuose po tinkavimo, jis paskelbs namą švariu, nes piktybė yra išgydyta."
+  },
+  {
+    "i": 3158,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 49,
+    "t": "Aukos už namo nuodėmę atlikimui jis paims du paukščius, kedro medienos, karmino raudonio ir izopo."
+  },
+  {
+    "i": 3159,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 50,
+    "t": "Jis paaukos vieną iš paukščių virš molinio indo su tekančiu vandeniu."
+  },
+  {
+    "i": 3160,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 51,
+    "t": "Tada jis paims kedro medieną, izopą, karmino raudonį ir gyvą paukštį, kad panardintų juos į paaukoto paukščio kraują ir į tekantį vandenį. Jis septynis kartus apšlakstys namą"
+  },
+  {
+    "i": 3161,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 52,
+    "t": "ir, atlikęs auką už namo nuodėmę su paukščio krauju, tekančiu vandeniu, gyvu paukščiu, kedro mediena, izopu ir karmino raudoniu,"
+  },
+  {
+    "i": 3162,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 53,
+    "t": "jis paleis gyvą paukštį už miesto į laukus. Taip apvalius namą, jis bus švarus."
+  },
+  {
+    "i": 3163,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 54,
+    "t": "Toks yra įstatymas dėl visų raupsų ir žvynų atvejų,"
+  },
+  {
+    "i": 3164,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 55,
+    "t": "drabužių ir namų raupsų,"
+  },
+  {
+    "i": 3165,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 56,
+    "t": "navikų, spuogų ir dėmių."
+  },
+  {
+    "i": 3166,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 57,
+    "t": "Jis nustato nešvarumo ir švarumo laikotarpius. Toks yra įstatymas dėl raupsų."
+  },
+  {
+    "i": 3167,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 1,
+    "t": "Viešpats kalbėjo Mozei ir Aaronui, tardamas:"
+  },
+  {
+    "i": 3168,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 2,
+    "t": "Kalbėkite izraelitams, jūs jiems sakysite: Kai vyras turi išskyras iš savo kūno, tos išskyros yra nešvarios."
+  },
+  {
+    "i": 3169,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 3,
+    "t": "Štai kuo pasireikš jo nešvarumas, kol jis turi šias išskyras: Nesvarbu, ar jo kūnas išskiria išskyras, ar jas sulaiko, jis yra nešvarus."
+  },
+  {
+    "i": 3170,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 4,
+    "t": "Kiekviena lova, kurioje miegos šis žmogus, bus nešvari, ir kiekvienas baldas, ant kurio jis atsisės, bus nešvarus."
+  },
+  {
+    "i": 3171,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 5,
+    "t": "Tas, kuris palies jo lovą, turės išsivalyti drabužius, nusiprausti vandeniu, ir jis bus nešvarus iki vakaro."
+  },
+  {
+    "i": 3172,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 6,
+    "t": "Tas, kuris atsisės ant baldo, ant kurio sėdėjo šis žmogus, turės išsivalyti drabužius, nusiprausti vandeniu, ir jis bus nešvarus iki vakaro."
+  },
+  {
+    "i": 3173,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 7,
+    "t": "Tas, kuris palies šio žmogaus kūną, turės išsivalyti drabužius, nusiprausti vandeniu, ir jis bus nešvarus iki vakaro."
+  },
+  {
+    "i": 3174,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 8,
+    "t": "Jei šis žmogus spjaus ant švaraus žmogaus, tas žmogus turės išsivalyti drabužius, nusiprausti vandeniu, ir jis bus nešvarus iki vakaro."
+  },
+  {
+    "i": 3175,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 9,
+    "t": "Kiekviena sėdynė, kuria keliavo šis žmogus, bus nešvari."
+  },
+  {
+    "i": 3176,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 10,
+    "t": "Visi, kurie palies bet kokį daiktą, kuris bus po juo, bus nešvarūs iki vakaro. Tas, kuris perneš tokį daiktą, turės išsivalyti drabužius, nusiprausti vandeniu, ir jis bus nešvarus iki vakaro."
+  },
+  {
+    "i": 3177,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 11,
+    "t": "Visi, kuriuos palies šis žmogus, nenusiplovęs rankų, turės išsivalyti drabužius, nusiprausti vandeniu, ir jie bus nešvarūs iki vakaro."
+  },
+  {
+    "i": 3178,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 12,
+    "t": "Molinis indas, kurį palies šis žmogus, bus sudaužytas, ir kiekvienas medinis įrankis turės būti nuplautas."
+  },
+  {
+    "i": 3179,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 13,
+    "t": "Kai šis žmogus pasveiks, jis suskaičiuos septynias dienas savo apvalymui. Jis turės išsivalyti drabužius, nuplauti savo kūną tekančiu vandeniu, ir jis bus švarus."
+  },
+  {
+    "i": 3180,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 14,
+    "t": "Aštuntąją dieną jis paims du purplelius arba du balandžius ir ateis prieš Viešpatį prie Susitikimo Palapinės įėjimo atiduoti juos kunigui."
+  },
+  {
+    "i": 3181,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 15,
+    "t": "Iš vieno kunigas atnašaus auką už nuodėmę, o iš kito – deginamąją auką. Taip kunigas atliks jam atpirkimo apeigas prieš Viešpatį už jo ištekėjimą."
+  },
+  {
+    "i": 3182,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 16,
+    "t": "Jei vyras turės sėklos išsiliejimą, jis turės nusiprausti vandeniu visą kūną ir bus netyras iki vakaro."
+  },
+  {
+    "i": 3183,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 17,
+    "t": "Kiekvienas drabužis ir oda, kuriuos pasieks sėklos išsiliejimas, turės būti išvalyti vandeniu ir bus netyri iki vakaro."
+  },
+  {
+    "i": 3184,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 18,
+    "t": "Kai moteris gulsis su vyru, jie abu turės nusiprausti vandeniu ir bus netyri iki vakaro."
+  },
+  {
+    "i": 3185,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 19,
+    "t": "Kai moteris turės kraujo ištekėjimą ir kraujas tekės iš jos kūno, ji liks septynias dienas savo mėnesinių nešvarumoje. Kas ją palies, bus netyras iki vakaro."
+  },
+  {
+    "i": 3186,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 20,
+    "t": "Kiekviena lova, ant kurios ji gulės taip suteršta, bus netyra; kiekvienas baldas, ant kurio ji sėdės, bus netyras."
+  },
+  {
+    "i": 3187,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 21,
+    "t": "Kas palies jos lovą, turės išsivalyti savo drabužius, nusiprausti vandeniu ir bus netyras iki vakaro."
+  },
+  {
+    "i": 3188,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 22,
+    "t": "Kas palies baldą, kokį tik bebūtų, ant kurio ji bus atsisėdusi, turės išsivalyti savo drabužius, nusiprausti vandeniu ir bus netyras iki vakaro."
+  },
+  {
+    "i": 3189,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 23,
+    "t": "Jei koks nors daiktas bus ant lovos ar ant baldo, ant kurio ji atsisėdo, kas jį palies, bus netyras iki vakaro."
+  },
+  {
+    "i": 3190,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 24,
+    "t": "Jei vyras su ja suguls, jos mėnesinių nešvarumas jį pasieks. Jis bus netyras septynias dienas. Kiekviena lova, ant kurios jis gulės, bus netyra."
+  },
+  {
+    "i": 3191,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 25,
+    "t": "Kai moteris turės kraujo ištekėjimą daugelį dienų ne mėnesinių metu arba jei jos mėnesinės užsitęs, ji visą tą ištekėjimo laiką bus tokioje pačioje nešvarumo būsenoje, kaip ir mėnesinių metu."
+  },
+  {
+    "i": 3192,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 26,
+    "t": "Su kiekviena lova, ant kurios ji gulės visą savo ištekėjimo laiką, bus kaip su lova, kurioje ji guli per savo mėnesines. Kiekvienas baldas, ant kurio ji sėdės, bus netyras kaip per jos mėnesines."
+  },
+  {
+    "i": 3193,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 27,
+    "t": "Kas juos palies, bus netyras, turės išsivalyti savo drabužius, nusiprausti vandeniu ir bus netyras iki vakaro."
+  },
+  {
+    "i": 3194,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 28,
+    "t": "Kai ji pasveiks nuo savo ištekėjimo, ji suskaičiuos septynias dienas, tada ji bus švari."
+  },
+  {
+    "i": 3195,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 29,
+    "t": "Aštuntąją dieną ji paims du purplelius arba du balandžius, kuriuos atneš kunigui prie Susitikimo Palapinės įėjimo."
+  },
+  {
+    "i": 3196,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 30,
+    "t": "Iš vieno kunigas atnašaus auką už nuodėmę, o iš kito – deginamąją auką. Taip kunigas atliks jai prieš Viešpatį atpirkimo apeigas už jos ištekėjimą, kuris ją darė netyra."
+  },
+  {
+    "i": 3197,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 31,
+    "t": "Įspėsite Izraelio vaikus apie jų nešvarumus, kad dėl jų nemirtų, suteršdami mano Būstą, kuris yra jų tarpe."
+  },
+  {
+    "i": 3198,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 32,
+    "t": "Toks yra įstatymas dėl vyro, kuris turi ištekėjimą, to, kurį daro netyru sėklos išsiliejimas,"
+  },
+  {
+    "i": 3199,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 33,
+    "t": "moters per jos mėnesinių nešvarumą, vyro ar moters, turinčių ištekėjimą, vyro, kuris guli su netyra moterimi."
+  }
+]

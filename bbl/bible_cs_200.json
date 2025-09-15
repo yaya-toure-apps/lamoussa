@@ -1,0 +1,802 @@
+[
+  {
+    "i": 20000,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 12,
+    "t": "\"Vezmi jej a měj na něj oko své, neučiň mu nic zlého, ale jakž by se sám žádal, tak s ním čiň."
+  },
+  {
+    "i": 20001,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 13,
+    "t": "Svěřil tuto věc (Nebuzardanovi, veliteli stráže,) Nebusasbanovi, nejvyššímu hodnostáři, Nergalšareserovi, knížeti mudřců, a všem úředníkům krále babylonského. —"
+  },
+  {
+    "i": 20002,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 14,
+    "t": "Poslali lidi, aby Jeremiáše vyvedli ze dvora stráže a svěřili jej Godoliášovi, synu Achikama, syna Safanova, aby jej zavedl do domu a on přebýval uprostřed lidu."
+  },
+  {
+    "i": 20003,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 15,
+    "t": "Zatímco Jeremiáš byl uvězněn na dvoře stráže, stalo se mu slovo Hospodinovo řkoucí:"
+  },
+  {
+    "i": 20004,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 16,
+    "t": "Jdi a pověz Kúšijci Ebed-Melechovi: Takto praví Hospodin zástupů, Bůh Izraele. Hle, já naplním proti tomuto městu slova svá plná neštěstí, a ne štěstí. V ten den se před očima tvýma naplní."
+  },
+  {
+    "i": 20005,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 17,
+    "t": "Ale já tě v ten den vysvobodím – výrok Hospodinův – a nebudeš vydán do rukou lidí, kteří tě děsí."
+  },
+  {
+    "i": 20006,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 18,
+    "t": "Ano, jistě tě nechám uniknout: nepadneš mečem, budeš mít život svůj za kořist, neboť jsi vložil v mne svou důvěru, výrok Hospodinův."
+  },
+  {
+    "i": 20007,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 1,
+    "t": "Slovo, kteréž se stalo k Jeremiášovi od Hospodina, po tom, když jej Nebuzardan, velitel stráže, propustil z Rámy, vzav ho, když byl spoután uprostřed všech zajatců z Jeruzaléma a Judy, kteříž se stěhovali do Babylonu."
+  },
+  {
+    "i": 20008,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 2,
+    "t": "I vzal velitel stráže Jeremiáše a řekl mu: \"Hospodin, Bůh tvůj, předpověděl toto zlé pro tuto zemi,"
+  },
+  {
+    "i": 20009,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 3,
+    "t": "a uvedl je. Hospodin učinil podle hrozeb svých. Neboť jste hřešili proti Hospodinu a neposlouchali jste hlasu jeho: protož se vám toto zlé přihodilo."
+  },
+  {
+    "i": 20010,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 4,
+    "t": "Nyní, viz, já tě dnes propouštím z pout, které máš na rukou. Jestliže se ti líbí jít se mnou do Babylonu, pojď, budu mít na tebe oči své. Jestliže se ti nelíbí jít se mnou, zdrž se. Viz, celá země je před tebou; můžeš jít, kamkoli se ti zdá dobré a spravedlivé jít."
+  },
+  {
+    "i": 20011,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 5,
+    "t": "A poněvadž se Jeremiáš ještě nevracel, dodal: \"Můžeš se obrátit ke Godoliášovi, synu Achikama, syna Safanova, kterého král babylonský ustanovil správcem judských měst, a zůstat s ním uprostřed lidu, anebo jít, kamkoli se ti zdá dobré.\" Potom velitel stráže, dáv mu zásoby a dar, ho propustil."
+  },
+  {
+    "i": 20012,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 6,
+    "t": "I přišel Jeremiáš do Micpy ke Godoliášovi, synu Achikama, a přebýval s ním mezi těmi z lidu, kteří zůstali v zemi."
+  },
+  {
+    "i": 20013,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 7,
+    "t": "Všichni velitelé vojska, kteříž se svými muži byli na poli, uslyšeli, že král babylonský ustanovil Godoliáše, syna Achikama, za správce země a svěřil mu muže, ženy a děti a ty z malého lidu, kteříž nebyli odvedeni do Babylonu."
+  },
+  {
+    "i": 20014,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 8,
+    "t": "Přišli ke Godoliášovi do Micpy: Izmael, syn Netaniášův, Jochanan a Jonatan, synové Káreovi, Seraja, syn Tanchumetův, synové Efaje Netofatského, Jezaniáš, syn Maakatitského, oni i muži jejich."
+  },
+  {
+    "i": 20015,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 9,
+    "t": "Godoliáš, syn Achikama, syna Safanova, jim učinil přísahu, jim i mužům jejich: \"Nebojte se sloužit Kaldejcům, zůstaňte v zemi, služte králi babylonskému a dobře se vám povede."
+  },
+  {
+    "i": 20016,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 10,
+    "t": "Já, hle, usazuji se v Micpě jako odpovědný před Kaldejci, kteří k nám přicházejí. Vy pak sbírejte víno, ovoce a olej, naplňte své džbány a přebývejte ve svých městech, kteréž obsazujete."
+  },
+  {
+    "i": 20017,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 11,
+    "t": "Podobně i všichni Judejci, kteříž byli v Moábu, u Amonitů, v Edómu a v každé jiné zemi, uslyšeli, že král babylonský zanechal ostatek v Judě a ustanovil nad ním Godoliáše, syna Achikama, syna Safanova."
+  },
+  {
+    "i": 20018,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 12,
+    "t": "Všichni tito Judejci se tedy vrátili ze všech míst, kamž byli rozptýleni; navrátivše se do judské země, k Godoliášovi, do Micpy, učinili velmi hojnou sklizeň vína a ovoce."
+  },
+  {
+    "i": 20019,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 13,
+    "t": "Jochanan, syn Káreův, a všichni velitelé vojska, kteříž byli na poli, přišli ke Godoliášovi do Micpy"
+  },
+  {
+    "i": 20020,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 14,
+    "t": "a řekli mu: \"Víš, že Baalis, král Amonitů, pověřil Izmaela, syna Netaniášova, aby ti vzal život?\" Ale Godoliáš, syn Achikama, jim nevěřil."
+  },
+  {
+    "i": 20021,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 15,
+    "t": "Jochanan, syn Káreův, dokonce řekl tajně Godoliášovi v Micpě: \"Půjdu a zabiju Izmaela, syna Netaniášova, aniž by to někdo věděl. Proč by ti měl vzít život a proč by všichni Judejci shromáždění kolem tebe měli být rozptýleni? Proč by měl zbytek Judy zahynout?"
+  },
+  {
+    "i": 20022,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 16,
+    "t": "Ale Godoliáš, syn Achikama, odpověděl Jochananovi, synu Káreovu: \"Nečiň to, neboť to, co říkáš o Izmaelovi, je lež!"
+  },
+  {
+    "i": 20023,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 1,
+    "t": "V sedmém měsíci pak přišel Izmael, syn Netaniášův, syn Elíšamův, kterýž byl z královského rodu, s knížaty královskými a deseti muži ke Godoliášovi, synu Achikama, do Micpy. A zatímco spolu hodovali tam v Micpě,"
+  },
+  {
+    "i": 20024,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 2,
+    "t": "Izmael, syn Netaniášův, povstal se svými deseti muži a pobili mečem Godoliáše, syna Achikama, syna Safanova. Tak zabili toho, kterého král babylonský ustanovil nad zemí."
+  },
+  {
+    "i": 20025,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 3,
+    "t": "Stejně tak všechny Judejce, kteříž byli s ním, Godoliášem, v Micpě, i Kaldejce, kteříž se tam nacházeli – to byli muži váleční – Izmael pobil."
+  },
+  {
+    "i": 20026,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 4,
+    "t": "Druhý den po zabití Godoliáše, když o tom ještě nikdo nevěděl,"
+  },
+  {
+    "i": 20027,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 5,
+    "t": "přišli muži ze Sichemu, Silo a Samaří, v počtu osmdesáti, s oholenými vousy, roztrhanými rouchy a těla svá zohavená zářezy; nesli oběti a kadidlo, kteréž chtěli obětovat v chrámě Hospodinově."
+  },
+  {
+    "i": 20028,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 6,
+    "t": "Izmael, syn Netaniášův, vyšel z Micpy proti nim a postupoval plače. Když je dostihl, řekl jim: \"Pojďte ke Godoliášovi, synu Achikama."
+  },
+  {
+    "i": 20029,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 7,
+    "t": "Ale když vešli doprostřed města, Izmael, syn Netaniášův, je pobil, za pomoci svých mužů, a dal je vrhnout do hlubin cisterny."
+  },
+  {
+    "i": 20030,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 8,
+    "t": "Však mezi těmito lidmi se našlo deset, kteříž řekli Izmaelovi: \"Nech nás naživu, neboť máme na polích zásoby ukryté, pšenici, ječmen, olej a med.\" Tedy je ušetřil a nedal je zabít s bratry jejich."
+  },
+  {
+    "i": 20031,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 9,
+    "t": "Cisterna, do kteréž Izmael vrhl všechna těla mrtvých lidí, kteréž pobil, byla velká cisterna, tu, kterou král Asa udělal proti Básovi, králi Izraele. Tu naplnil Izmael, syn Netaniášův, zabitými muži."
+  },
+  {
+    "i": 20032,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 10,
+    "t": "Potom Izmael zajal celý zbytek lidu, kterýž byl v Micpě, dcery královské a veškerý lid, kterýž zůstal v Micpě a kterýž Nebuzardan, velitel stráže, svěřil Godoliášovi, synu Achikama; Izmael, syn Netaniášův, je zajal a vydal se na cestu, aby přešel k Amonitům."
+  },
+  {
+    "i": 20033,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 11,
+    "t": "Když Jochanan, syn Káreův, a všichni velitelé, kteříž byli s ním, uslyšeli o všech zločinech Izmaela, syna Netaniášova,"
+  },
+  {
+    "i": 20034,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 12,
+    "t": "shromáždili všechny své muže a vytáhli, aby napadli Izmaela, syna Netaniášova. Dostihli jej u velkého rybníka v Gibeonu."
+  },
+  {
+    "i": 20035,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 13,
+    "t": "Když lidé kolem Izmaela spatřili Jochanana, syna Káreova, a všechny velitele, kteříž ho provázeli, veškerý lid kolem Izmaela propukl v radost."
+  },
+  {
+    "i": 20036,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 14,
+    "t": "Všichni ti lidé, kteréž Izmael odvedl z Micpy, se obrátili nazpět, navrátili se a šli k Jochananovi, synu Káreovu."
+  },
+  {
+    "i": 20037,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 15,
+    "t": "Izmael pak, syn Netaniášův, unikl Jochananovi s osmi muži a odešel k Amonitům."
+  },
+  {
+    "i": 20038,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 16,
+    "t": "Tedy Jochanan, syn Káreův, a všichni velitelé, kteříž ho provázeli, shromáždili veškerý zbytek lidu, kterýž Izmael, syn Netaniášův, odvedl z Micpy jako zajatce, poté, co zabil Godoliáše, syna Achikama: muže – muže válečné –, ženy a děti, i eunuchy, přivedené jimi z Gibeonu."
+  },
+  {
+    "i": 20039,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 17,
+    "t": "Vydali se na cestu a zastavili se v Chánu Kimhama, blízko Betléma, aby potom přešli do Egypta,"
+  },
+  {
+    "i": 20040,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 18,
+    "t": "daleko od Kaldejců, kterýchž se báli, neboť Izmael, syn Netaniášův, zabil Godoliáše, syna Achikama, kterého král babylonský ustanovil nad zemí."
+  },
+  {
+    "i": 20041,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 1,
+    "t": "Tedy všichni velitelé, zejména Jochanan, syn Káreův, a Azariáš, syn Hóšajův, i veškerý lid, malí i velcí, přišli"
+  },
+  {
+    "i": 20042,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 2,
+    "t": "a řekli proroku Jeremiášovi: \"Ať se tě dotkne naše prosba! Přimlouvej se u Hospodina, Boha svého, za nás a za celý tento zbytek – neboť jsme zůstali jen málo z počtu, jak jsme byli, jak to vidíš na vlastní oči –"
+  },
+  {
+    "i": 20043,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 3,
+    "t": "aby nám Hospodin, Bůh tvůj, ukázal, kterou cestou máme jít a co máme činit."
+  },
+  {
+    "i": 20044,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 4,
+    "t": "Prorok Jeremiáš jim odpověděl: \"Slyším. Budu se přimlouvat u Hospodina, Boha vašeho, podle vaší žádosti; a každé slovo, které vám Hospodin odpoví, vám oznámím, aniž bych vám něco tajil."
+  },
+  {
+    "i": 20045,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 5,
+    "t": "Ze své strany řekli Jeremiášovi: \"Ať je Hospodin proti nám svědkem, pravdivým a věrným, jestliže nebudeme jednat přesně podle slova, kteréž Hospodin, Bůh tvůj, pošle skrze tebe k nám."
+  },
+  {
+    "i": 20046,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 6,
+    "t": "Ať je to příjemné nebo nepříjemné, poslechneme hlasu Hospodina, Boha svého, k němuž tě vysíláme: tak budeme šťastní, protože jsme poslechli hlasu Hospodina, Boha svého."
+  },
+  {
+    "i": 20047,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 7,
+    "t": "Po deseti dnech se stalo slovo Hospodinovo k Jeremiášovi."
+  },
+  {
+    "i": 20048,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 8,
+    "t": "Tedy svolal Jochanana, syna Káreova, a všechny velitele, kteříž byli u něho, i veškerý lid, malé i velké."
+  },
+  {
+    "i": 20049,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 9,
+    "t": "Řekl jim: \"Takto praví Hospodin, Bůh Izraele, k němuž jste mě vyslali, abych mu přednesl vaši prosbu."
+  },
+  {
+    "i": 20050,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 10,
+    "t": "Jestliže opravdu zůstanete v této zemi, vybuduji vás a nebudu vás již bořit, zasadím vás a nebudu vás již vykořeňovat. Neboť budu litovat toho zlého, kteréž jsem vám učinil."
+  },
+  {
+    "i": 20051,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 11,
+    "t": "Nebojte se krále babylonského, před nímž jste se lekli. Nebojte se ho – výrok Hospodinův – neboť jsem s vámi, abych vás zachránil a vysvobodil z jeho ruky."
+  },
+  {
+    "i": 20052,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 12,
+    "t": "Učiním, že se nad vámi slituje, aby se nad vámi slitoval a nechal vás vrátit se na vaši půdu."
+  },
+  {
+    "i": 20053,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 13,
+    "t": "Jestliže však řeknete: Nezůstaneme v této zemi, neposlouchajíce tak hlasu Hospodina, Boha svého,"
+  },
+  {
+    "i": 20054,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 14,
+    "t": "jestliže řeknete: Ne! Do egyptské země půjdeme; tam již neuvidíme válku, neuslyšíme volání rohu a nebudeme mít nedostatek chleba; tam chceme přebývat,"
+  },
+  {
+    "i": 20055,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 15,
+    "t": "nuže! v tom případě, zbytku judský, slyšte slovo Hospodinovo: Takto praví Hospodin zástupů, Bůh Izraele. Jste-li rozhodnuti jít do Egypta a vstoupíte-li tam, abyste se tam usadili,"
+  },
+  {
+    "i": 20056,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 16,
+    "t": "meč, jehož se bojíte, vás tam dostihne, v egyptské zemi; a hlad, který vás znepokojuje, se vám přilepí na paty, tam v Egyptě: tam zemřete!"
+  },
+  {
+    "i": 20057,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 17,
+    "t": "A všichni muži rozhodnutí jít do Egypta, aby se tam usadili, zemřou mečem, hladem a morem: ani jediný přeživší ani zachráněný neunikne neštěstí, kteréž na ně uvedu."
+  },
+  {
+    "i": 20058,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 18,
+    "t": "Ano, takto praví Hospodin zástupů, Bůh Izraele. Jako se vylila má zloba a mé rozhořčení na obyvatele Jeruzaléma, tak se mé rozhořčení vylije na vás, jestliže se vydáte do Egypta. Budete předmětem ohavnosti, úžasu, prokletí a posměchu a již nikdy neuvidíte tato místa."
+  },
+  {
+    "i": 20059,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 19,
+    "t": "Zbytku judský, Hospodin vám prohlásil: Nechoďte do Egypta! Vězte dobře, že dnes jsem vás slavnostně varoval."
+  },
+  {
+    "i": 20060,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 20,
+    "t": "Sami jste se zmýlili, když jste mě vyslali k Hospodinu, Bohu svému, řkouce: Přimlouvej se za nás u Hospodina, Boha svého, a vše, co Hospodin, Bůh náš, nařídí, oznam nám to, abychom to vykonali."
+  },
+  {
+    "i": 20061,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 21,
+    "t": "A dnes vám to oznamuji, ale vy neposloucháte hlasu Hospodina, Boha svého, v ničem z toho, co mě posílá vám říci."
+  },
+  {
+    "i": 20062,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 22,
+    "t": "Vězte tedy dobře, že zemřete mečem, hladem a morem na místě, kamž jste si přáli jít, abyste se tam usadili."
+  },
+  {
+    "i": 20063,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 1,
+    "t": "Když Jeremiáš dokončil říkat veškerému lidu všechna slova Hospodina, jejich Boha, jimiž jej Hospodin, jejich Bůh, pověřil pro ně – všechna slova uvedená –"
+  },
+  {
+    "i": 20064,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 2,
+    "t": "Azariáš, syn Hóšajův, Jochanan, syn Káreův, a všichni ti muži zpupní odpověděli Jeremiášovi: \"Lež to mluvíš. Hospodin, Bůh náš, tě nepověřil, abys řekl: Nechoďte do Egypta, abyste se tam usadili."
+  },
+  {
+    "i": 20065,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 3,
+    "t": "Ale Baruch, syn Nerijův, tě proti nám podněcuje, aby nás vydal do rukou Kaldejců, kteří nás usmrtí anebo nás odvlečou do Babylonu."
+  },
+  {
+    "i": 20066,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 4,
+    "t": "Také Jochanan, syn Káreův, ani žádný z velitelů, ani nikdo z lidu neposlechl hlasu Hospodina, aby zůstal v judské zemi."
+  },
+  {
+    "i": 20067,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 5,
+    "t": "Jochanan, syn Káreův, a všichni vojevůdci odvedli celý zbytek Judy, ty, kteříž se navrátili ode všech národů, kamž byli rozptýleni, aby bydlili v judské zemi,"
+  },
+  {
+    "i": 20068,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 6,
+    "t": "muže, ženy a děti, i dcery královské a všechny osoby, kteréž Nebuzardan, velitel stráže, zanechal u Godoliáše, syna Achikama, syna Safanova, zejména proroka Jeremiáše a Barucha, syna Nerijova."
+  },
+  {
+    "i": 20069,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 7,
+    "t": "Vydali se tedy do Egypta, protože neposlechli hlasu Hospodina, a došli do Tachpanches."
+  },
+  {
+    "i": 20070,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 8,
+    "t": "I stalo se slovo Hospodinovo k Jeremiášovi v Tachpanches řkoucí:"
+  },
+  {
+    "i": 20071,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 9,
+    "t": "Vezmi velké kameny a v přítomnosti Judejců je zahrabej do malty na terase, kteráž se nachází u vchodu do paláce faraónova v Tachpanches."
+  },
+  {
+    "i": 20072,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 10,
+    "t": "Potom řekni těmto lidem: \"Takto praví Hospodin zástupů, Bůh Izraele. Hle, já pošlu pro Nebukadnesara, krále babylonského, služebníka svého; on si postaví trůn svůj na těchto kamenech, kteréž jsem zahrabal, a rozprostře nad nimi baldachýn svůj."
+  },
+  {
+    "i": 20073,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 11,
+    "t": "Přijde a udeří zemi egyptskou: Kdo je pro mor, k moru! Kdo je pro zajetí, do zajetí! Kdo je pro meč, k meči!"
+  },
+  {
+    "i": 20074,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 12,
+    "t": "Zapálí chrámy bohů egyptských, spálí tyto bohy anebo je odvleče, obalí se zemí egyptskou, jako se pastýř obaluje pláštěm svým, potom z ní vyjde v pokoji."
+  },
+  {
+    "i": 20075,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 13,
+    "t": "Zlomí obelisky chrámu Slunce, kterýž se nachází v Egyptě, a zapálí chrámy bohů egyptských."
+  },
+  {
+    "i": 20076,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 1,
+    "t": "Slovo, kteréž se stalo k Jeremiášovi pro všechny Judejce usazené v egyptské zemi, bydlící v Migdolu, Tachpanches, Nof a v zemi Patros."
+  },
+  {
+    "i": 20077,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 2,
+    "t": "Takto praví Hospodin zástupů, Bůh Izraele. Viděli jste všechno neštěstí, kteréž jsem uvedl na Jeruzalém a na všechna města judská: hle, jsou dnes v troskách a bez obyvatel."
+  },
+  {
+    "i": 20078,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 3,
+    "t": "To je kvůli zlým činům, kteréž spáchali, aby mě popudili, tím, že šli pálit kadidlo a sloužit cizím bohům, kteréž neznali ani oni, ani vy, ani otcové vaši."
+  },
+  {
+    "i": 20079,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 4,
+    "t": "Poslal jsem vám bez ustání všechny své služebníky proroky, poslal jsem je, aby řekli: \"Nečiňte tu ohavnost, kterou nenávidím!"
+  },
+  {
+    "i": 20080,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 5,
+    "t": "Avšak neposlouchali a nenaklonili ucha svého, aby se odvrátili od zlosti své a nekadili bohům jiným."
+  },
+  {
+    "i": 20081,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 6,
+    "t": "Protož vylita jest prchlivost má a hněv můj, a roznícena jest v městech Judských a na ulice Jeruzalémské, a učiněny jsou v pustiny a v spoušť, jakož se ukazuje tohoto dne."
+  },
+  {
+    "i": 20082,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 7,
+    "t": "A nyní takto dí Hospodin Bůh zástupů, Bůh Izraelský: Proč vy činíte proti sobě takové zlé věci, abyste vyplénili z sebe muže i ženu, dítě i nemluvňátko z prostředku Judského, tak aby vám žádný pozůstatek nezůstal?"
+  },
+  {
+    "i": 20083,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 8,
+    "t": "Rozhorlujíce mne skutky rukou svých, kadíce bohům jiným v zemi Egyptské, kamž jste přišli k přebývání, abyste se vyplénili, a abyste byli v prokletí a v pohanění všech národům země."
+  },
+  {
+    "i": 20084,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 9,
+    "t": "Zdali jste zapomenuli na zlé skutky otců svých, a na zlé skutky králů Judských, i na zlé skutky knížat svých, i na zlé skutky své, i na zlé skutky manželek svých, kteříž činili v zemi Judské a na ulice Jeruzalémské?"
+  },
+  {
+    "i": 20085,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 10,
+    "t": "Aniž se pokořili až do tohoto dne, ani se báli, aniž chodili v zákoně mém a v ustanoveních mých, kteréž jsem předložil vám i otcům vašim."
+  },
+  {
+    "i": 20086,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 11,
+    "t": "Protož takto dí Hospodin zástupů, Bůh Izraelský: Aj, já obracím tvář svou proti vám k zlému, a vypléním všecken lid Judský."
+  },
+  {
+    "i": 20087,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 12,
+    "t": "A vezmu ostatek Judských, kteříž obrátili tváře své, aby šli do země Egyptské, k přebývání tam, a sehltí budou všickni v zemi Egyptské. Padnou mečem, zhynou hladem, od malého až do velikého. Mečem a hladem zemrou, a budou v prokletí, v hrůze, v proklínání a v pohanění."
+  },
+  {
+    "i": 20088,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 13,
+    "t": "Neb navštívím ty, kteříž bydlí v zemi Egyptské, jako jsem navštívil Jeruzalém mečem, hladem a morem."
+  },
+  {
+    "i": 20089,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 14,
+    "t": "Tak že neujde žádný, ani pozůstane z ostatku Judských, kteříž přišli k přebývání v zemi Egyptské, aby se navrátili do země Judské, po nížto žádost mají, aby se tam zase navrátili k přebývání; neboť se tam nenavrátí, kromě některých maličko utečenců."
+  },
+  {
+    "i": 20090,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 15,
+    "t": "Odpověděli Jeremiášovi všickni muži, kteříž věděli, že manželky jejich kadí bohům jiným, i všecky ženy, zástup veliký, i všecken lid, kteříž bydlili v zemi Egyptské, v Patros, řkouce:"
+  },
+  {
+    "i": 20091,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 16,
+    "t": "Slova, kteréž jsi nám mluvil ve jménu Hospodinovu, neuposlechneme tobě,"
+  },
+  {
+    "i": 20092,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 17,
+    "t": "Ale jistě učiníme všecko to, což vyšlo z úst našich, abychom kadili královně nebeské, a obětovali jí mokré oběti, jakož jsme činili my i otcové naši, králové naši i knížata naše, v městech Judských a na ulice Jeruzalémské. I byli jsme nasyceni chlebem, a dobře nám bylo, a zla jsme neviděli."
+  },
+  {
+    "i": 20093,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 18,
+    "t": "Ale jakž jsme přestali kaditi královně nebeské a obětovati jí mokré oběti, nedostatek jsme ve všem měli, a zhynuli jsme mečem a hladem."
+  },
+  {
+    "i": 20094,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 19,
+    "t": "Nebo když my kadíme královně nebeské a obětujeme jí mokré oběti, zdali bez vědomí mužů svých dělali jsme jí koláče, ku poctě její, a obětovali jsme jí mokré oběti?"
+  },
+  {
+    "i": 20095,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 20,
+    "t": "Tedy mluvil Jeremiáš ke všemu lidu, mužům i ženám, i ke všem, kteříž mu odpovídali to slovo, řka:"
+  },
+  {
+    "i": 20096,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 21,
+    "t": "To kadění, kteréž jste kadili v městech Judských a na ulice Jeruzalémské, vy i otcové vaši, králové vaši i knížata vaše, i lid země, zdali na to nezpomněl Hospodin, a nevkročilo to do srdce jeho?"
+  },
+  {
+    "i": 20097,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 22,
+    "t": "Tak že již nemohl Hospodin déle snášeti zlosti skutků vašich, a ohavností, kteréž jste činili; protož učiněna jest země vaše v pustinu, v hrůzu a v prokletí, tak že žádného není, kdož by bydlil v ní, jakož se ukazuje tohoto dne."
+  },
+  {
+    "i": 20098,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 23,
+    "t": "Proto že jste kadili a hřešili proti Hospodinu, a neuposlechli jste hlasu Hospodinova, a nechodili jste v zákoně jeho, a v ustanoveních jeho, a v svědectvích jeho, protož přišlo na vás toto zlé, jakož se ukazuje tohoto dne."
+  },
+  {
+    "i": 20099,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 24,
+    "t": "Mluvil ještě Jeremiáš ke všemu lidu, i ke všem ženám: Slyšte slovo Hospodinovo, všecken Jude, kteříž jste v zemi Egyptské."
+  }
+]

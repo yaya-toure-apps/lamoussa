@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13000,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 22,
+    "t": "Oare v-am zis Eu: „Dați-Mi daruri, aduceți-Mi ofrande din averile voastre?”"
+  },
+  {
+    "i": 13001,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 23,
+    "t": "Sau: „Izbăviți-mă din strânsoarea asupritorului, sloboziți-mă din mâinile celui silnic?”"
+  },
+  {
+    "i": 13002,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 24,
+    "t": "Învățați-mă și voi tăcea; arătați-mi în ce am greșit."
+  },
+  {
+    "i": 13003,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 25,
+    "t": "Cuvintele drepte sunt plăcute, dar ce urmăresc mustrările voastre?"
+  },
+  {
+    "i": 13004,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 26,
+    "t": "Vreți să osândiți cuvintele, graiurile deznădejdii ce le spulberă vântul?"
+  },
+  {
+    "i": 13005,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 27,
+    "t": "Până acolo ați merge, încât să aruncați la sorți un orfan, să faceți negoț cu prietenul vostru!"
+  },
+  {
+    "i": 13006,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 28,
+    "t": "Acum, vă rog, uitați-vă la mine! În față nu voi minți."
+  },
+  {
+    "i": 13007,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 29,
+    "t": "Întoarceți-vă, să nu fie nedreptate; întoarceți-vă, căci rămân în dreptatea mea."
+  },
+  {
+    "i": 13008,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 30,
+    "t": "Este vreo nelegiuire pe buzele mele? Nu mai știe cerul gurii mele să deosebească nenorocirea?"
+  },
+  {
+    "i": 13009,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 1,
+    "t": "Oare nu este o slujbă timpul omului pe pământ, nu duce el viața unui mercenar?"
+  },
+  {
+    "i": 13010,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 2,
+    "t": "Precum robul suspină după umbră sau lucrătorul așteaptă cu nerăbdare plata sa,"
+  },
+  {
+    "i": 13011,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 3,
+    "t": "așa am eu parte de luni de amăgire, în socoteala mea nopți de suferință."
+  },
+  {
+    "i": 13012,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 4,
+    "t": "Întins pe patul meu, zic: „Când va fi ziua?” Abia m-am sculat: „Când va fi seara?” Și gânduri nebune mă apasă până la amurg."
+  },
+  {
+    "i": 13013,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 5,
+    "t": "Viermi și cruste pământoase îmi acoperă carnea, pielea mea crapă și supurează."
+  },
+  {
+    "i": 13014,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 6,
+    "t": "Zilele mele au alergat mai repede decât suveica și au dispărut fără nicio speranță."
+  },
+  {
+    "i": 13015,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 7,
+    "t": "Adu-ți aminte că viața mea nu este decât o suflare, că ochii mei nu vor mai revedea fericirea!"
+  },
+  {
+    "i": 13016,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 8,
+    "t": "De acum înainte voi fi nevăzut de nicio privire, ochii Tăi vor fi asupra mea și voi fi dispărut."
+  },
+  {
+    "i": 13017,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 9,
+    "t": "Precum norul se risipește și trece, cel ce coboară în sheol nu se mai ridică."
+  },
+  {
+    "i": 13018,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 10,
+    "t": "Nu se mai întoarce să locuiască în casa lui și locuința lui nu-l mai cunoaște."
+  },
+  {
+    "i": 13019,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 11,
+    "t": "Și de aceea nu pot tăcea, voi vorbi în strâmtorarea duhului meu, mă voi plânge în amărăciunea sufletului meu."
+  },
+  {
+    "i": 13020,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 12,
+    "t": "Sunt eu oare Marea sau balaurul de mare, ca să pui strajă împotriva mea?"
+  },
+  {
+    "i": 13021,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 13,
+    "t": "Dacă zic: „Patul meu mă va alina, așternutul meu va atenua plângerea mea”,"
+  },
+  {
+    "i": 13022,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 14,
+    "t": "atunci Tu mă înspăimânți prin vise, mă îngrozești prin vedenii."
+  },
+  {
+    "i": 13023,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 15,
+    "t": "Ah! Aș vrea să fiu strangulat: mai bine moartea decât durerile mele."
+  },
+  {
+    "i": 13024,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 16,
+    "t": "Mă istovesc, nu voi trăi mereu; de aceea, lasă-mă, zilele mele nu sunt decât o suflare!"
+  },
+  {
+    "i": 13025,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 17,
+    "t": "Ce este omul, ca să faci atâta caz de el, ca să ațintești asupra lui atenția Ta,"
+  },
+  {
+    "i": 13026,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 18,
+    "t": "ca să-l cercetezi în fiecare dimineață, ca să-l iscodești în tot ceasul?"
+  },
+  {
+    "i": 13027,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 19,
+    "t": "Nu vei înceta oare odată să Te mai uiți la mine, ca să-mi lași timp să-mi înghit saliva?"
+  },
+  {
+    "i": 13028,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 20,
+    "t": "Dacă am păcătuit, ce Ți-am făcut Ție, Păzitorule al oamenilor? Pentru ce m-ai luat drept țintă, de ce îți sunt o povară?"
+  },
+  {
+    "i": 13029,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 21,
+    "t": "Nu poți Tu oare să-mi ierți greșeala, să treci peste păcatul meu? Căci în curând voi fi culcat în țărână, mă vei căuta și nu voi mai fi."
+  },
+  {
+    "i": 13030,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 1,
+    "t": "Bildad din Şuah a luat cuvântul și a zis:"
+  },
+  {
+    "i": 13031,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 2,
+    "t": "Până când vei vorbi astfel și vei rosti cuvinte asemenea unui vânt puternic?"
+  },
+  {
+    "i": 13032,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 3,
+    "t": "Poate Dumnezeu să strâmbe dreptul, poate Şaddai să pervertească dreptatea?"
+  },
+  {
+    "i": 13033,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 4,
+    "t": "Dacă fiii tăi au păcătuit împotriva Lui, i-a pedepsit pentru faptele lor."
+  },
+  {
+    "i": 13034,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 5,
+    "t": "Caută pe Dumnezeu, imploră pe Şaddai!"
+  },
+  {
+    "i": 13035,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 6,
+    "t": "Căci tu, de ești ireproșabil și drept, de acum, lumina Sa va străluci asupra ta și El va restaura casa unui om drept."
+  },
+  {
+    "i": 13036,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 7,
+    "t": "Starea ta de mai înainte ți se va părea ca nimic, atât de mare va fi viitorul tău."
+  },
+  {
+    "i": 13037,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 8,
+    "t": "Întreabă generația trecută, cugetă la experiența dobândită de părinții ei."
+  },
+  {
+    "i": 13038,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 9,
+    "t": "Noi, născuți ieri, nu știm nimic, viața noastră pe pământ trece ca o umbră."
+  },
+  {
+    "i": 13039,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 10,
+    "t": "Dar ei te vor învăța, îți vor vorbi și gândul lor va da aceste sentințe:"
+  },
+  {
+    "i": 13040,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 11,
+    "t": "„Crește papirusul oare în afara mlaștinilor? Fără apă, trestia poate să crească?"
+  },
+  {
+    "i": 13041,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 12,
+    "t": "Când este încă verde și neculeasă, mai înainte decât orice altă iarbă se usucă."
+  },
+  {
+    "i": 13042,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 13,
+    "t": "Aceasta este soarta celor ce uită pe Dumnezeu, așa piere speranța celui nelegiuit."
+  },
+  {
+    "i": 13043,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 14,
+    "t": "Încrederea sa nu este decât un fir subțire, siguranța lui, o casă de păianjen."
+  },
+  {
+    "i": 13044,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 15,
+    "t": "Se sprijină oare pe locuința lui, ea cedează; se agață de ea, ea se prăbușește."
+  },
+  {
+    "i": 13045,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 16,
+    "t": "Plin de sevă la soare, deasupra grădinii își lăsa lăstarii tineri."
+  },
+  {
+    "i": 13046,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 17,
+    "t": "Rădăcinile lui se împleteau pe un dâmb pietros, își sorbea viața din mijlocul stâncilor."
+  },
+  {
+    "i": 13047,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 18,
+    "t": "Este smuls din locul lui; locul lui se leapădă de el: Niciodată nu te-am văzut!"
+  },
+  {
+    "i": 13048,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 19,
+    "t": "Și iată-l putrezind pe drum, în timp ce din pământ alții răsar."
+  },
+  {
+    "i": 13049,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 20,
+    "t": "Nu, Dumnezeu nu respinge pe omul integru, nu dă ajutor celor răi."
+  },
+  {
+    "i": 13050,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 21,
+    "t": "Râsul poate umple din nou gura ta, bucuria să izbucnească pe buzele tale."
+  },
+  {
+    "i": 13051,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 22,
+    "t": "Vrăjmașii tăi vor fi acoperiți de rușine și cortul celor răi va dispărea.`\""
+  },
+  {
+    "i": 13052,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 1,
+    "t": "Iov a luat cuvântul și a zis:"
+  },
+  {
+    "i": 13053,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 2,
+    "t": "Adevărat, știu bine că așa este: s-ar putea oare justifica omul înaintea lui Dumnezeu?"
+  },
+  {
+    "i": 13054,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 3,
+    "t": "Celui ce-i place să se certe cu El, nu-i răspunde nici măcar o dată din o mie."
+  },
+  {
+    "i": 13055,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 4,
+    "t": "Printre cei mai înțelepți și mai puternici cine oare I-ar ține piept nepedepsit?"
+  },
+  {
+    "i": 13056,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 5,
+    "t": "El mută munții pe neștiute și-i răstoarnă în mânia Sa."
+  },
+  {
+    "i": 13057,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 6,
+    "t": "El cutremură pământul din locul lui și face să se clatine stâlpii lui."
+  },
+  {
+    "i": 13058,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 7,
+    "t": "La porunca Sa, soarele nu se mai ridică, El pune un sigiliu pe stele."
+  },
+  {
+    "i": 13059,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 8,
+    "t": "El singur a desfășurat Cerurile și a călcat spinarea Mării."
+  },
+  {
+    "i": 13060,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 9,
+    "t": "El a făcut Ursa și Orion, Pleiadele și Cămările Sudului."
+  },
+  {
+    "i": 13061,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 10,
+    "t": "El este autorul unor lucrări grandioase și nepătrunse, a unor minuni ce nu pot fi numărate."
+  },
+  {
+    "i": 13062,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 11,
+    "t": "Dacă trece pe lângă mine, nu-L văd și El alunecă imperceptibil."
+  },
+  {
+    "i": 13063,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 12,
+    "t": "Dacă răpește o pradă, cine Îl va împiedica și cine va îndrăzni să-I zică: „Ce faci?”"
+  },
+  {
+    "i": 13064,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 13,
+    "t": "Dumnezeu nu renunță la mânia Sa: sub El zac prosternați sateliții lui Rahab."
+  },
+  {
+    "i": 13065,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 14,
+    "t": "Și eu, aș vrea să mă apăr, să-mi aleg argumentele împotriva Lui?"
+  },
+  {
+    "i": 13066,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 15,
+    "t": "Chiar dacă sunt în dreptate, la ce bun să-I răspund? Pe Judecătorul meu ar trebui să-L implor."
+  },
+  {
+    "i": 13067,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 16,
+    "t": "Și dacă, la apelul meu, ar binevoi să compară, nu pot crede că mi-ar asculta vocea,"
+  },
+  {
+    "i": 13068,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 17,
+    "t": "El, care mă zdrobește pentru un fir de păr, care îmi înmulțește fără motiv rănile"
+  },
+  {
+    "i": 13069,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 18,
+    "t": "și nu mă lasă nici măcar să-mi trag sufletul, atât de mult mă satură cu amărăciune!"
+  },
+  {
+    "i": 13070,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 19,
+    "t": "Să recurg la forță? El este mai presus în vigoare! La tribunal? Dar cine oare Îl va cita?"
+  },
+  {
+    "i": 13071,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 20,
+    "t": "Dacă mă justific, gura Sa mă poate osândi; dacă mă socotesc desăvârșit, mă va declara pervers."
+  },
+  {
+    "i": 13072,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 21,
+    "t": "Dar sunt oare desăvârșit? Nici eu nu mai știu și nu mai țin cont de existență!"
+  },
+  {
+    "i": 13073,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 22,
+    "t": "Căci totuna este și îndrăznesc să zic: El face să piară deopotrivă omul integru și pe cel rău."
+  },
+  {
+    "i": 13074,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 23,
+    "t": "Când un flagel mortal se abate pe neașteptate, El râde de suferința nevinovaților."
+  },
+  {
+    "i": 13075,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 24,
+    "t": "Într-o țară dată în puterea unui ticălos, El pune un văl pe fața judecătorilor. Dacă nu El, cine oare atunci?"
+  },
+  {
+    "i": 13076,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 25,
+    "t": "Zilele mele trec, mai repede decât un alergător, ele fug fără să vadă fericirea."
+  },
+  {
+    "i": 13077,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 26,
+    "t": "Alunecă precum luntrile de papură, precum un vultur se năpustește asupra prăzii sale."
+  },
+  {
+    "i": 13078,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 27,
+    "t": "Dacă mă hotărăsc să-mi înăbuș plângerea, să-mi schimb înfățișarea ca să fac o față veselă,"
+  },
+  {
+    "i": 13079,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 28,
+    "t": "groaza mă cuprinde în fața tuturor relelor mele, căci, știu bine, Tu nu mă socotești nevinovat."
+  },
+  {
+    "i": 13080,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 29,
+    "t": "De am greșit, atunci pentru ce să mă mai trudesc în zadar?"
+  },
+  {
+    "i": 13081,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 30,
+    "t": "Chiar dacă mă spăl cu leșie și îmi curăț mâinile cu sodă,"
+  },
+  {
+    "i": 13082,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 31,
+    "t": "Tu mă vei arunca în groapă, și hainele mele mă vor urî!"
+  },
+  {
+    "i": 13083,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 32,
+    "t": "Căci El nu este om ca mine, ca să-I pot răspunde și să ne înfățișăm împreună la judecată."
+  },
+  {
+    "i": 13084,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 33,
+    "t": "Nu este niciun arbitru între noi, ca să-și pună mâna pe amândoi,"
+  },
+  {
+    "i": 13085,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 34,
+    "t": "ca să îndepărteze de la mine rigoarea Sa și să gonească spaima terorii Sale!"
+  },
+  {
+    "i": 13086,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 35,
+    "t": "Voi vorbi totuși, fără să Mă tem de El, căci nu sunt așa în ochii Mei!"
+  },
+  {
+    "i": 13087,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 1,
+    "t": "Întrucât viața îmi este în dezgust, voi da frâu liber plângerii mele, voi vărsa amărăciunea sufletului meu."
+  },
+  {
+    "i": 13088,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 2,
+    "t": "Voi zice lui Dumnezeu: Nu mă osândi, spune-mi de ce mă acuzi."
+  },
+  {
+    "i": 13089,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 3,
+    "t": "Îți este bine Ție să mă asuprești, să disprețuiești lucrul mâinilor Tale și să favorizezi planurile celor răi?"
+  },
+  {
+    "i": 13090,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 4,
+    "t": "Ai Tu oare ochi de carne și felul Tău de a vedea este cel al oamenilor?"
+  },
+  {
+    "i": 13091,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 5,
+    "t": "Existența Ta este oare cea a muritorilor, anii Tăi trec ca zilele omului?"
+  },
+  {
+    "i": 13092,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 6,
+    "t": "Tu, care cercetezi greșeala mea și faci o anchetă asupra păcatului meu,"
+  },
+  {
+    "i": 13093,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 7,
+    "t": "Tu știi bine că sunt nevinovat și că nimeni nu mă poate smulge din mâinile Tale!"
+  },
+  {
+    "i": 13094,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 8,
+    "t": "Mâinile Tale m-au modelat, m-au creat; apoi, răzgândindu-Te, ai vrea să mă distrugi!"
+  },
+  {
+    "i": 13095,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 9,
+    "t": "Adu-Ți aminte: Tu m-ai făcut ca pe lutul frământat și mă vei trimite înapoi în țărână."
+  },
+  {
+    "i": 13096,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 10,
+    "t": "Nu m-ai turnat Tu ca laptele și m-ai făcut să se închege ca brânza,"
+  },
+  {
+    "i": 13097,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 11,
+    "t": "m-ai îmbrăcat cu piele și carne, m-ai țesut cu oase și cu nervi?"
+  },
+  {
+    "i": 13098,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 12,
+    "t": "Apoi m-ai gratificat cu viața și vegheai cu solicitudine asupra suflării mele."
+  },
+  {
+    "i": 13099,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 13,
+    "t": "Dar Tu păstrai un gând ascuns; știu că Te rezervai"
+  }
+]

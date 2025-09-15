@@ -1,0 +1,795 @@
+[
+  {
+    "i": 100,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 21,
+    "t": "A brat mu bija Jubal, on bija otac svima koji sviraju harfu i sviralu."
+  },
+  {
+    "i": 101,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 22,
+    "t": "A Sila rodi Tubal-Kaina, on bija kovač svih oruđa od mjedi i željeza; a sestra Tubal-Kainova bijaše Naama."
+  },
+  {
+    "i": 102,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 23,
+    "t": "Lamek reče svojim ženama: \"Ado i Silo, poslušajte moj glas; žene Lamekove, čujte moju besjedu: Ubih čovjeka za ranu, i mladića za ozljedu svoju.\""
+  },
+  {
+    "i": 103,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 24,
+    "t": "Ako će se Kajin osvetiti sedam puta, Lamek će se osvetiti sedamdeset i sedam puta!\""
+  },
+  {
+    "i": 104,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 25,
+    "t": "Adam opet pozna ženu svoju, i ona rodi sina, i nadjenu mu ime Šet, jer reče: \"Bog mi postavi drugo potomstvo umjesto Abela, jer ga Kajin ubi.\""
+  },
+  {
+    "i": 105,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 26,
+    "t": "I Šetu se rodi sin, i nadjenu mu ime Enoš. Tada ljudi počeše prizivati ime Jahvino."
+  },
+  {
+    "i": 106,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 1,
+    "t": "Ovo je knjiga potomstva Adamova: Onoga dana kad Bog stvori Adama, na sliku Božju ga stvori."
+  },
+  {
+    "i": 107,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 2,
+    "t": "Muško i žensko stvori ih, blagoslovi ih i nazva ih imenom Čovjek, onoga dana kad su stvoreni."
+  },
+  {
+    "i": 108,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 3,
+    "t": "A kad je Adam živio sto i trideset godina, rodi sina na svoju sliku, po svojoj prilici, i nadjenu mu ime Šet."
+  },
+  {
+    "i": 109,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 4,
+    "t": "A poslije rođenja Šeta Adam živje osam stotina godina, i rodi sinove i kćeri."
+  },
+  {
+    "i": 110,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 5,
+    "t": "I Adam proživje svih godina devet stotina i trideset, pa umrije."
+  },
+  {
+    "i": 111,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 6,
+    "t": "A kad je Šet živio sto i pet godina, rodi Enoša."
+  },
+  {
+    "i": 112,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 7,
+    "t": "A poslije rođenja Enoša Šet živje osam stotina i sedam godina, i rodi sinove i kćeri."
+  },
+  {
+    "i": 113,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 8,
+    "t": "I Šet proživje svih godina devet stotina i dvanaest, pa umrije."
+  },
+  {
+    "i": 114,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 9,
+    "t": "A kad je Enoš živio devedeset godina, rodi Kenana."
+  },
+  {
+    "i": 115,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 10,
+    "t": "A poslije rođenja Kenana Enoš živje osam stotina i petnaest godina, i rodi sinove i kćeri."
+  },
+  {
+    "i": 116,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 11,
+    "t": "I Enoš proživje svih godina devet stotina i pet, pa umrije."
+  },
+  {
+    "i": 117,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 12,
+    "t": "A kad je Kenan živio sedamdeset godina, rodi Mahalalela."
+  },
+  {
+    "i": 118,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 13,
+    "t": "A poslije rođenja Mahalalela Kenan živje osam stotina i četrdeset godina, i rodi sinove i kćeri."
+  },
+  {
+    "i": 119,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 14,
+    "t": "I Kenan proživje svih godina devet stotina i deset, pa umrije."
+  },
+  {
+    "i": 120,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 15,
+    "t": "A kad je Mahalalel živio šezdeset i pet godina, rodi Jareda."
+  },
+  {
+    "i": 121,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 16,
+    "t": "A poslije rođenja Jareda Mahalalel živje osam stotina i trideset godina, i rodi sinove i kćeri."
+  },
+  {
+    "i": 122,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 17,
+    "t": "I Mahalalel proživje svih godina osam stotina i osamdeset i pet, pa umrije."
+  },
+  {
+    "i": 123,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 18,
+    "t": "A kad je Jared živio sto šezdeset i dvije godine, rodi Henoka."
+  },
+  {
+    "i": 124,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 19,
+    "t": "A poslije rođenja Henoka Jared živje osam stotina godina, i rodi sinove i kćeri."
+  },
+  {
+    "i": 125,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 20,
+    "t": "I Jared proživje svih godina devet stotina i šezdeset i dvije, pa umrije."
+  },
+  {
+    "i": 126,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 21,
+    "t": "A kad je Henok živio šezdeset i pet godina, rodi Metušelaha."
+  },
+  {
+    "i": 127,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 22,
+    "t": "I Henok hodaše s Bogom. A poslije rođenja Metušelaha Henok živje tri stotine godina, i rodi sinove i kćeri."
+  },
+  {
+    "i": 128,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 23,
+    "t": "I Henok proživje svih godina tri stotine i šezdeset i pet."
+  },
+  {
+    "i": 129,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 24,
+    "t": "I Henok hodaše s Bogom, i nestade ga, jer ga Bog uze."
+  },
+  {
+    "i": 130,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 25,
+    "t": "A kad je Metušelah živio sto osamdeset i sedam godina, rodi Lameka."
+  },
+  {
+    "i": 131,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 26,
+    "t": "A poslije rođenja Lameka Metušelah živje sedam stotina i osamdeset i dvije godine, i rodi sinove i kćeri."
+  },
+  {
+    "i": 132,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 27,
+    "t": "I Metušelah proživje svih godina devet stotina i šezdeset i devet, pa umrije."
+  },
+  {
+    "i": 133,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 28,
+    "t": "A kad je Lamek živio sto osamdeset i dvije godine, rodi sina."
+  },
+  {
+    "i": 134,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 29,
+    "t": "I nadjenu mu ime Noa, govoreći: \"Ovaj će nas utješiti od posla našega i od truda ruku naših, od zemlje koju je Jahve prokleo.\""
+  },
+  {
+    "i": 135,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 30,
+    "t": "A poslije rođenja Noe Lamek živje pet stotina devedeset i pet godina, i rodi sinove i kćeri."
+  },
+  {
+    "i": 136,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 31,
+    "t": "I Lamek proživje svih godina sedam stotina sedamdeset i sedam, pa umrije."
+  },
+  {
+    "i": 137,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 32,
+    "t": "A kad je Noa živio pet stotina godina, rodi Noa Šema, Hama i Jafeta."
+  },
+  {
+    "i": 138,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 1,
+    "t": "A kad su se ljudi počeli množiti po licu zemlje, i kćeri im se rodiše,"
+  },
+  {
+    "i": 139,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 2,
+    "t": "vide sinovi Božji da su kćeri ljudske lijepe, pa uzimahu sebi za žene koje su god htjeli."
+  },
+  {
+    "i": 140,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 3,
+    "t": "Reče Jahve: \"Neće moj duh dovijeka ostati u čovjeku, jer je on put; neka mu vijek bude sto i dvadeset godina.\""
+  },
+  {
+    "i": 141,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 4,
+    "t": "U one dane - a i kasnije - bili su na zemlji divovi, kad su sinovi Božji odlazili k ljudskim kćerima i one im rađale djecu. To su oni od davnine po snazi glasoviti ljudi."
+  },
+  {
+    "i": 142,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 5,
+    "t": "Jahve vidje kako je čovjekova zloća na zemlji velika i kako je svaka pomisao u njegovoj pameti uvijek samo zlo."
+  },
+  {
+    "i": 143,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 6,
+    "t": "Jahve se pokaja što je stvorio čovjeka na zemlji, i ražalosti se u srcu svojemu."
+  },
+  {
+    "i": 144,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 7,
+    "t": "Reče Jahve: \"Izbrisat ću sa zemlje čovjeka kojega sam stvorio - čovjeka i stoku, gmazove i ptice nebeske - jer se kajem što sam ih stvorio.\""
+  },
+  {
+    "i": 145,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 8,
+    "t": "Ali je Noa našao milost u Jahvinim očima."
+  },
+  {
+    "i": 146,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 9,
+    "t": "Ovo je povijest Noina: Noa bijaše čovjek pravedan, neporočan u svom naraštaju. Noa je hodao s Bogom."
+  },
+  {
+    "i": 147,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 10,
+    "t": "Noa rodi tri sina: Šema, Hama i Jafeta."
+  },
+  {
+    "i": 148,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 11,
+    "t": "Zemlja se iskvarila pred Bogom, napunila se nasiljem."
+  },
+  {
+    "i": 149,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 12,
+    "t": "I vidje Bog zemlju, i gle, bijaše iskvarena, jer se svako tijelo izopačilo na zemlji."
+  },
+  {
+    "i": 150,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 13,
+    "t": "Tada reče Bog Noi: \"Odlučio sam da uništim svako tijelo, jer se zemlja napunila nasiljem zbog njih; i uništit ću ih sa zemljom."
+  },
+  {
+    "i": 151,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 14,
+    "t": "Napravi sebi korablju od smolasta drveta; načini u njoj sobice i oblijepi je iznutra i izvana paklinom."
+  },
+  {
+    "i": 152,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 15,
+    "t": "Napravi je ovako: neka korablja bude trista lakata duga, pedeset lakata široka i trideset lakata visoka."
+  },
+  {
+    "i": 153,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 16,
+    "t": "Napravi korablji prozor, dovrši ga jedan lakat od vrha; vrata korablje postavi sa strane; načini u njoj donji, srednji i gornji kat."
+  },
+  {
+    "i": 154,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 17,
+    "t": "\"Jer, evo, ja ću pustiti potop - vode na zemlju - da uništim svako tijelo pod nebom u kojem ima dah života: sve što je na zemlji poginut će."
+  },
+  {
+    "i": 155,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 18,
+    "t": "Ali ću s tobom sklopiti svoj savez; ući ćeš u korablju ti i tvoji sinovi, tvoja žena i žene tvojih sinova s tobom."
+  },
+  {
+    "i": 156,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 19,
+    "t": "A od svega živog, od svakog tijela, uvedi u korablju po dvoje od svake vrste, da sačuvaš život s sobom; neka bude muško i žensko."
+  },
+  {
+    "i": 157,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 20,
+    "t": "Od ptica po vrstama njihovim, od stoke po vrstama njezinim, od svih gmazova na zemlji po vrstama njihovim - po dvoje od svake vrste neka uđu k tebi da im sačuvaš život."
+  },
+  {
+    "i": 158,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 21,
+    "t": "A ti si nabavi svake hrane kojom se hrane i skupi je k sebi, neka bude hrane tebi i njima.\""
+  },
+  {
+    "i": 159,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 22,
+    "t": "I učini Noa sve kako mu je Bog naredio."
+  },
+  {
+    "i": 160,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 1,
+    "t": "Tada Jahve reče Noi: \"Uđi u korablju, ti i sav tvoj dom, jer sam tebe opazio pravedna u ovom naraštaju."
+  },
+  {
+    "i": 161,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 2,
+    "t": "Od svih životinja čistih uzmi sa sobom po sedam pari, muško i žensko; a od životinja nečistih samo po jedan par, muško i žensko,"
+  },
+  {
+    "i": 162,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 3,
+    "t": "(također i od ptica nebeskih po sedam pari, muško i žensko) da im se sačuva sjeme po svoj zemlji."
+  },
+  {
+    "i": 163,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 4,
+    "t": "Jer za sedam dana pustit ću da pada kiša na zemlju četrdeset dana i četrdeset noći, i zbrisat ću s lica zemlje svako biće što sam ga stvorio.\""
+  },
+  {
+    "i": 164,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 5,
+    "t": "I učini Noa sve kako mu je Jahve naredio."
+  },
+  {
+    "i": 165,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 6,
+    "t": "Noi je bilo šest stotina godina kad su vode potopne preplavile zemlju."
+  },
+  {
+    "i": 166,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 7,
+    "t": "I uđe Noa - sa svojim sinovima, svojom ženom i ženama svojih sinova - u korablju da se skloni pred vodama potopnim."
+  },
+  {
+    "i": 167,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 8,
+    "t": "(Od životinja čistih i od životinja nečistih, od ptica i od svega što gmiže po zemlji,"
+  },
+  {
+    "i": 168,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 9,
+    "t": "po dvoje uđe s Noom u korablju - muško i žensko - kako je Bog naredio Noi.)"
+  },
+  {
+    "i": 169,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 10,
+    "t": "Poslije sedam dana vode potopne preplaviše zemlju."
+  },
+  {
+    "i": 170,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 11,
+    "t": "U šest stotina godini Noina vijeka, drugoga mjeseca, sedamnaestoga dana toga mjeseca, baš toga dana provreše svi izvori velikoga bezdana i otvoriše se ustave nebeske."
+  },
+  {
+    "i": 171,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 12,
+    "t": "I udari kiša na zemlju četrdeset dana i četrdeset noći."
+  },
+  {
+    "i": 172,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 13,
+    "t": "Toga dana uđe u korablju Noa, pa Šem, Ham i Jafet, Noini sinovi, Noina žena i tri žene njegovih sinova s njima,"
+  },
+  {
+    "i": 173,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 14,
+    "t": "oni i sve zvijeri po vrstama njihovim, sva stoka po vrstama njezinim i svi gmazovi što gmižu po zemlji po vrstama njihovim, sve ptice po vrstama njihovim, sve ptice krilate."
+  },
+  {
+    "i": 174,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 15,
+    "t": "Po dvoje od svega tijela u kojem ima dah života uđe s Noom u korablju,"
+  },
+  {
+    "i": 175,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 16,
+    "t": "I uđoše: muško i žensko od svakoga tijela, kako je Bog naredio Noi. Onda Jahve zatvori za njim."
+  },
+  {
+    "i": 176,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 17,
+    "t": "Potop je trajao na zemlji četrdeset dana. Vode su nabujale i podigle korablju, te se ona podiže iznad zemlje."
+  },
+  {
+    "i": 177,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 18,
+    "t": "Vode su rasle i silno se povećavale na zemlji, i korablja je plovila po površini voda."
+  },
+  {
+    "i": 178,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 19,
+    "t": "Vode su sve silnije navaljivale na zemlju, tako da su prekrile sva visoka brda pod svim nebom."
+  },
+  {
+    "i": 179,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 20,
+    "t": "Petnaest lakata nadvisile su vode brda."
+  },
+  {
+    "i": 180,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 21,
+    "t": "I izginu svako tijelo što se kreće po zemlji: ptice, stoka, zvijeri, svi gmazovi što gmižu po zemlji i svi ljudi."
+  },
+  {
+    "i": 181,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 22,
+    "t": "Sve što je imalo dah života u nosnicama, sve što je živjelo na suhu, pomrije."
+  },
+  {
+    "i": 182,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 23,
+    "t": "Tako zatre Jahve svako biće što bijaše na licu zemlje: ljude i stoku, gmazove i ptice nebeske. Sve to bijaše zbrisano sa zemlje. Samo Noa ostade i oni koji bijahu s njim u korablji."
+  },
+  {
+    "i": 183,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 24,
+    "t": "Vode su navaljivale na zemlju sto i pedeset dana."
+  },
+  {
+    "i": 184,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 1,
+    "t": "Tada se Bog spomenu Noe i svih zvijeri i sve stoke što bijahu s njim u korablji, pa Bog pusti vjetar da zapuše zemljom, i vode se počeše povlačiti."
+  },
+  {
+    "i": 185,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 2,
+    "t": "Zatvoriše se izvori bezdana i ustave nebeske - ustavi se daždu s neba -"
+  },
+  {
+    "i": 186,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 3,
+    "t": "i vode se stadoše povlačiti sa zemlje. Poslije sto i pedeset dana vode se počeše smanjivati."
+  },
+  {
+    "i": 187,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 4,
+    "t": "Sedmoga mjeseca, sedamnaestoga dana toga mjeseca, korablja se zaustavi na gorama Ararata."
+  },
+  {
+    "i": 188,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 5,
+    "t": "Vode su neprestano opadale sve do desetoga mjeseca. Prvoga dana desetoga mjeseca pokazaše se vrhovi brda."
+  },
+  {
+    "i": 189,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 6,
+    "t": "Poslije četrdeset dana otvori Noa prozor što ga bijaše načinio na korablji,"
+  },
+  {
+    "i": 190,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 7,
+    "t": "i pusti gavrana. A on poletje amo-tamo dok se voda sa zemlje nije isušila."
+  },
+  {
+    "i": 191,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 8,
+    "t": "Zatim pusti golubicu da vidi je li voda opala s površja zemlje."
+  },
+  {
+    "i": 192,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 9,
+    "t": "Ali golubica ne nađe uporišta za svoju nogu, pa se vrati k njemu u korablju, jer je voda još pokrivala svu zemlju. On ispruži ruku, uhvati je te je unese k sebi u korablju."
+  },
+  {
+    "i": 193,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 10,
+    "t": "Počeka još sedam dana pa opet pusti golubicu iz korablje."
+  },
+  {
+    "i": 194,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 11,
+    "t": "Golubica se vrati k njemu pred večer, i gle! u kljunu joj svjež maslinov list! Tada Noa spozna da je voda opala sa zemlje."
+  },
+  {
+    "i": 195,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 12,
+    "t": "Počeka još sedam dana pa pusti golubicu, ali mu se više nije vratila."
+  },
+  {
+    "i": 196,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 13,
+    "t": "U šest stotina i prvoj godini Noina vijeka, prvoga mjeseca, prvoga dana toga mjeseca, usahnu voda sa zemlje. Tada Noa skine pokrov s korablje, pogleda i vidje da se površje zemlje osušilo."
+  },
+  {
+    "i": 197,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 14,
+    "t": "Drugoga mjeseca, dvadeset i sedmoga dana toga mjeseca, zemlja bijaše suha."
+  },
+  { "i": 198, "b": 0, "c": 108, "r": 108, "o": 15, "t": "Tada reče Bog Noi:" },
+  {
+    "i": 199,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 16,
+    "t": "\"Iziđi iz korablje ti, tvoja žena, tvoji sinovi i žene tvojih sinova s tobom."
+  }
+]

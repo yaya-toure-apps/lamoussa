@@ -1,0 +1,802 @@
+[
+  {
+    "i": 11000,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 15,
+    "t": "Fils de Moïse : Gershom et Eliézer."
+  },
+  {
+    "i": 11001,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 16,
+    "t": "Fils de Gershom : Shebuel, le premier."
+  },
+  {
+    "i": 11002,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 17,
+    "t": "Il y eut des fils d’Eliézer : Rehabya, le premier. Eliézer n’eut pas d’autres fils, mais les fils de Rehabya furent extrêmement nombreux."
+  },
+  {
+    "i": 11003,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 18,
+    "t": "Fils de Yiçhar : Shelomit le premier."
+  },
+  {
+    "i": 11004,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 19,
+    "t": "Fils de Hébrôn : Yeriyyahu le premier, Amarya le second, Yahaziel le troisième, Yeqaméam le quatrième."
+  },
+  {
+    "i": 11005,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 20,
+    "t": "Fils d’Uzziel : Mika le premier, Yishshiyya le second."
+  },
+  {
+    "i": 11006,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 21,
+    "t": "Fils de Merari : Mahli et Mushi. Fils de Mahli : Eléazar et Qish."
+  },
+  {
+    "i": 11007,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 22,
+    "t": "Eléazar mourut sans avoir de fils, mais des filles qu’enlevèrent les fils de Qish leurs frères."
+  },
+  {
+    "i": 11008,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 23,
+    "t": "Fils de Mushi : Mahli, Eder, Yerémot, trois en tout."
+  },
+  {
+    "i": 11009,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 24,
+    "t": "Tels étaient les fils de Lévi par familles, les chefs de maison et ceux qu’on recensait nominativement, tête par tête ; quiconque était âgé de vingt ans et plus était affecté au service de la maison de Yahvé."
+  },
+  {
+    "i": 11010,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 25,
+    "t": "Car David avait dit : \"Yahvé, Dieu d’Israël, a donné le repos à son peuple et il demeure pour toujours à Jérusalem."
+  },
+  {
+    "i": 11011,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 26,
+    "t": "Les lévites n’auront plus à transporter la Demeure et les objets destinés à son service.\""
+  },
+  {
+    "i": 11012,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 27,
+    "t": "En effet, selon les dernières paroles de David, les lévites qui furent comptés étaient âgés de vingt ans et plus."
+  },
+  {
+    "i": 11013,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 28,
+    "t": "Ils sont chargés de se tenir sous les ordres des fils d’Aaron pour le service du Temple de Yahvé dans les parvis et les salles, pour la purification de chaque chose consacrée ; ils font le service du Temple de Dieu."
+  },
+  {
+    "i": 11014,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 29,
+    "t": "Ils sont aussi chargés du pain à disposer en rangées, de la fleur de farine destinée à l’oblation, des galettes sans levain, de celles qui étaient préparées à la plaque ou sous forme de mélange, et de toutes les mesures de capacité et de longueur."
+  },
+  {
+    "i": 11015,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 30,
+    "t": "Ils ont à s’y tenir chaque matin pour célébrer et pour louer Yahvé, et de même le soir,"
+  },
+  {
+    "i": 11016,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 31,
+    "t": "ainsi que pour toute offrande d’holocaustes à Yahvé lors des sabbats, des néoménies et des solennités, selon le nombre fixé par la règle. Cette charge leur incombe en permanence devant Yahvé."
+  },
+  {
+    "i": 11017,
+    "b": 12,
+    "c": 1323,
+    "r": 1323,
+    "o": 32,
+    "t": "Ils observent, au service du Temple de Yahvé, le rituel de la Tente du Rendez-vous, le rituel du sanctuaire et le rituel des fils d’Aaron, leurs frères."
+  },
+  {
+    "i": 11018,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 1,
+    "t": "Classes des fils d’Aaron : fils d’Aaron : Nadab, Abihu, Eléazar et Itamar."
+  },
+  {
+    "i": 11019,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 2,
+    "t": "Nadab et Abihu moururent en présence de leur père sans laisser de fils, et c’est Eléazar et Itamar qui devinrent prêtres."
+  },
+  {
+    "i": 11020,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 3,
+    "t": "David les répartit en classes, ainsi que Sadoq, l’un des fils d’Eléazar, et Ahimélek, l’un des fils d’Itamar, et les recensa selon leurs services."
+  },
+  {
+    "i": 11021,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 4,
+    "t": "Les fils d’Eléazar se trouvèrent avoir plus de chefs de preux que les fils d’Itamar ; on forma seize classes avec les chefs de famille des fils d’Eléazar et huit avec les chefs de famille des fils d’Itamar."
+  },
+  {
+    "i": 11022,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 5,
+    "t": "On les répartit au sort, les uns comme les autres ; il y eut des officiers consacrés, des officiers de Dieu, parmi les fils d’Eléazar comme parmi les fils d’Itamar."
+  },
+  {
+    "i": 11023,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 6,
+    "t": "L’un des lévites, le scribe Shemaya, fils de Netanéel, les inscrivit en présence du roi, des officiers, du prêtre Sadoq, d’Ahimélek fils d’Ebyatar, des chefs de familles sacerdotales et lévitiques ; on tirait une fois au sort pour chaque famille des fils d’Eléazar, toutes les deux fois pour les fils d’Itamar."
+  },
+  {
+    "i": 11024,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 7,
+    "t": "Yehoyarib fut le premier sur qui tomba le sort, Yedaya le second,"
+  },
+  {
+    "i": 11025,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 8,
+    "t": "Harim le troisième, Séorim le quatrième,"
+  },
+  {
+    "i": 11026,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 9,
+    "t": "Malkiyya le cinquième, Miyyamîn le sixième,"
+  },
+  {
+    "i": 11027,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 10,
+    "t": "Haqqoç le septième, Abiyya le huitième,"
+  },
+  {
+    "i": 11028,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 11,
+    "t": "Yéshua le neuvième, Shekanyahu le dixième,"
+  },
+  {
+    "i": 11029,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 12,
+    "t": "Elyashib le onzième, Yaqim le douzième,"
+  },
+  {
+    "i": 11030,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 13,
+    "t": "Huppa le treizième, Ishbaal le quatorzième,"
+  },
+  {
+    "i": 11031,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 14,
+    "t": "Bilga le quinzième, Immer le seizième,"
+  },
+  {
+    "i": 11032,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 15,
+    "t": "Hézir le dix-septième, Happiçèç le dix-huitième,"
+  },
+  {
+    "i": 11033,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 16,
+    "t": "Petahya le dix-neuvième, Yehèzqel le vingtième,"
+  },
+  {
+    "i": 11034,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 17,
+    "t": "Yakîn le vingt et unième, Gamul le vingt-deuxième,"
+  },
+  {
+    "i": 11035,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 18,
+    "t": "Delayahu le vingt-troisième, Maazyahu le vingt-quatrième."
+  },
+  {
+    "i": 11036,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 19,
+    "t": "Tels sont ceux qui furent recensés selon leur service, pour entrer dans le Temple de Yahvé, conformément à leur règle, règle transmise par Aaron, leur père, comme le lui avait prescrit Yahvé, Dieu d’Israël."
+  },
+  {
+    "i": 11037,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 20,
+    "t": "Quant aux autres fils de Lévi : Pour les fils de Amram : Shubaël. Pour les fils de Shubaël, Yèhdeyahu."
+  },
+  {
+    "i": 11038,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 21,
+    "t": "Pour Rehabyahu, pour les fils de Rehabyahu, l’aîné Yishshiyya."
+  },
+  {
+    "i": 11039,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 22,
+    "t": "Pour les Yiçharites, Shelomot ; pour les fils de Shelomot, Yahat."
+  },
+  {
+    "i": 11040,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 23,
+    "t": "Fils de Hébrôn : Yeriyya le premier, Amaryahu le second, Yahaziel le troisième, Yeqaméam le quatrième."
+  },
+  {
+    "i": 11041,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 24,
+    "t": "Fils de Uzziel : Mika ; pour les fils de Mika, Shamir ;"
+  },
+  {
+    "i": 11042,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 25,
+    "t": "frère de Mika, Yishshiyya ; pour les fils de Yishshiyya, Zekaryahu."
+  },
+  {
+    "i": 11043,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 26,
+    "t": "Fils de Merari : Mahli et Mushi. Fils de Yaaziyyahu, son fils ;"
+  },
+  {
+    "i": 11044,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 27,
+    "t": "fils de Merari : pour Yaaziyyahu son fils : Shoham, Zakkur et Ibri ;"
+  },
+  {
+    "i": 11045,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 28,
+    "t": "pour Mahli, Eléazar qui n’eut pas de fils ;"
+  },
+  {
+    "i": 11046,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 29,
+    "t": "pour Qish : fils de Qish, Yerahméel."
+  },
+  {
+    "i": 11047,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 30,
+    "t": "Fils de Mushi : Mahli, Eder, Yerimot. Tels furent les fils de Lévi, répartis par familles."
+  },
+  {
+    "i": 11048,
+    "b": 12,
+    "c": 1324,
+    "r": 1324,
+    "o": 31,
+    "t": "Comme les fils d’Aaron, leurs frères, ils tirèrent au sort en présence du roi David, de Sadoq, d’Ahimélek, et des chefs de familles sacerdotales et lévitiques, les premières familles comme les plus petites."
+  },
+  {
+    "i": 11049,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 1,
+    "t": "Pour le service, David et les officiers mirent à part les fils d’Asaph, de Hémân et de Yedutûn, les prophètes qui s’accompagnaient de lyres, de cithares et de cymbales, et l’on compta les hommes affectés à ce service."
+  },
+  {
+    "i": 11050,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 2,
+    "t": "Pour les fils d’Asaph : Zakkur, Yoseph, Netanya, Asarééla ; les fils d’Asaph dépendaient de leur père qui prophétisait sous la direction du roi."
+  },
+  {
+    "i": 11051,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 3,
+    "t": "Pour Yedutûn : fils de Yedutûn : Gedalyahu, Ceri, Yeshayahu, Hashabyahu, Mattityahu ; ils étaient six sous la direction de leur père Yedutûn qui prophétisait au son des lyres en l’honneur et à la louange de Yahvé."
+  },
+  {
+    "i": 11052,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 4,
+    "t": "Pour Hémân : fils de Hémân : Buqqiyyahu, Mattanyahu, Uzziel, Shebuel, Yerimot, Hananya, Hanani, Eliata, Giddalti, Româmti-Ezer, Yoshbeqasha, Malloti, Hotir, Mahaziot."
+  },
+  {
+    "i": 11053,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 5,
+    "t": "Tous ceux-là étaient fils de Hémân, le voyant du roi ; aux paroles de Dieu, ils sonnaient de la trompe. Dieu donna à Hémân quatorze fils et trois filles ;"
+  },
+  {
+    "i": 11054,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 6,
+    "t": "ils chantaient tous sous la direction de leur père dans le Temple de Yahvé, au son des cymbales, des cithares et des lyres, au service du Temple de Dieu, sous les ordres du roi. Asaph, Yedutûn, Hémân,"
+  },
+  {
+    "i": 11055,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 7,
+    "t": "ceux qui avaient appris à chanter pour Yahvé, furent comptés avec leurs frères ; ils étaient en tout 288 à s’y entendre."
+  },
+  {
+    "i": 11056,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 8,
+    "t": "Ils tirèrent au sort l’ordre à observer, pour le petit comme pour le grand, pour le maître comme pour l’élève."
+  },
+  {
+    "i": 11057,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 9,
+    "t": "Le premier sur qui tomba le sort fut l’Asaphite Yoseph. Le second fut Gedalyahu ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11058,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 10,
+    "t": "Le troisième fut Zakkur ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11059,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 11,
+    "t": "Le quatrième fut Yiçri ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11060,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 12,
+    "t": "Le cinquième fut Netanyahu ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11061,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 13,
+    "t": "Le sixième fut Buqqiyyahu ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11062,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 14,
+    "t": "Le septième fut Yesarééla ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11063,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 15,
+    "t": "Le huitième fut Yeshayahu ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11064,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 16,
+    "t": "Le neuvième fut Mattanyahu ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11065,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 17,
+    "t": "Le dixième fut Shiméï ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11066,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 18,
+    "t": "Le onzième fut Azaréel ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11067,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 19,
+    "t": "Le douzième fut Hashabyahu ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11068,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 20,
+    "t": "Le treizième fut Shubaël ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11069,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 21,
+    "t": "Le quatorzième fut Mattityahu ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11070,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 22,
+    "t": "Le quinzième fut Yerémot ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11071,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 23,
+    "t": "Le seizième fut Hananyahu ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11072,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 24,
+    "t": "Le dix-septième fut Yoshbeqasha ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11073,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 25,
+    "t": "Le dix-huitième fut Hanani ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11074,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 26,
+    "t": "Le dix-neuvième fut Malloti ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11075,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 27,
+    "t": "Le vingtième fut Elyata ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11076,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 28,
+    "t": "Le vingt et unième fut Hotir ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11077,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 29,
+    "t": "Le vingt-deuxième fut Giddalti ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11078,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 30,
+    "t": "Le vingt-troisième fut Mahaziot ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11079,
+    "b": 12,
+    "c": 1325,
+    "r": 1325,
+    "o": 31,
+    "t": "Le vingt-quatrième fut Româmti-Ezer ; avec ses fils et ses frères ils étaient douze."
+  },
+  {
+    "i": 11080,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 1,
+    "t": "Quant aux classes de portiers : Pour les Coréites : Meshélémyahu, fils de Qoré, l’un des fils d’Ebyasaph."
+  },
+  {
+    "i": 11081,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 2,
+    "t": "Meshélémyahu eut des fils : Zekaryahu le premier, Yediael le second, Zebadyahu le troisième, Yatniel le quatrième,"
+  },
+  {
+    "i": 11082,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 3,
+    "t": "Elam le cinquième, Yehohanân le sixième, Elyehoénaï le septième."
+  },
+  {
+    "i": 11083,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 4,
+    "t": "Obed-Édom eut des fils : Shemaya l’aîné, Yehozabad le second, Yoah le troisième, Sakar le quatrième, Netanéel le cinquième,"
+  },
+  {
+    "i": 11084,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 5,
+    "t": "Ammiel le sixième, Issachar le septième, Péulletaï le huitième ; Dieu en effet l’avait béni."
+  },
+  {
+    "i": 11085,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 6,
+    "t": "À son fils Shemaya naquirent des fils qui eurent autorité sur leurs familles, car ce furent des preux valeureux."
+  },
+  {
+    "i": 11086,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 7,
+    "t": "Fils de Shemaya : Otni, Rephaël, Obed, Elzabad, et ses frères les vaillants Elihu et Semakyahu."
+  },
+  {
+    "i": 11087,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 8,
+    "t": "Tous ceux-là étaient fils d’Obed-Édom. Eux, leurs fils et leurs frères eurent dans leur service une haute valeur. Pour Obed-Édom, 62."
+  },
+  {
+    "i": 11088,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 9,
+    "t": "Meshélémyahu eut des fils et des frères : dix-huit hommes vaillants."
+  },
+  {
+    "i": 11089,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 10,
+    "t": "Hosa, l’un des fils de Merari, eut des fils. Shimri était le premier, car, sans qu’il fût l’aîné, son père l’avait mis en tête."
+  },
+  {
+    "i": 11090,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 11,
+    "t": "Hilqiyya était le second, Tebalyahu le troisième, Zekaryahu le quatrième. Treize en tout, fils et frères de Hosa."
+  },
+  {
+    "i": 11091,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 12,
+    "t": "Ceux-ci eurent leurs classes de portiers. Les chefs de ces preux avaient des charges correspondant à celles de leurs frères au service du Temple de Yahvé."
+  },
+  {
+    "i": 11092,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 13,
+    "t": "Pour chaque porte, on tira au sort par famille, qu’elle soit petite ou grande."
+  },
+  {
+    "i": 11093,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 14,
+    "t": "Pour l’est, le sort tomba sur Shélèmyahu, dont le fils Zekaryahu donnait des conseils avisés. On tira les sorts et le nord échut à ce dernier."
+  },
+  {
+    "i": 11094,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 15,
+    "t": "Obed-Édom eut le sud et ses fils les magasins."
+  },
+  {
+    "i": 11095,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 16,
+    "t": "Shuppim et Hosa eurent l’ouest avec la porte du Tronc abattu sur la chaussée supérieure. Règles correspondant aux charges :"
+  },
+  {
+    "i": 11096,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 17,
+    "t": "six par jour à l’est, quatre par jour au nord, quatre par jour au sud, deux par deux aux magasins ;"
+  },
+  {
+    "i": 11097,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 18,
+    "t": "pour le Parbar à l’ouest : quatre pour la chaussée, deux pour le Parbar."
+  },
+  {
+    "i": 11098,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 19,
+    "t": "Telles étaient les classes de portiers chez les Coréites et les Merarites."
+  },
+  {
+    "i": 11099,
+    "b": 12,
+    "c": 1326,
+    "r": 1326,
+    "o": 20,
+    "t": "Les lévites, leurs frères, étaient responsables des trésors du Temple de Dieu, et affectés aux trésors des offrandes consacrées."
+  }
+]

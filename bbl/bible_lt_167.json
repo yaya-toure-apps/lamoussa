@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16700,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 32,
+    "t": "\"O dabar, mano sūnūs, paklausykite manęs: palaiminti tie, kurie laikosi mano kelių!"
+  },
+  {
+    "i": 16701,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 33,
+    "t": "\"Klausykite pamokymo ir įgykite išminties, nenuvertinkite jo."
+  },
+  {
+    "i": 16702,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 34,
+    "t": "\"Palaimintas žmogus, kuris manęs klauso, kuris kasdien budi prie mano durų, saugodamas jų staktas!"
+  },
+  {
+    "i": 16703,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 35,
+    "t": "\"Nes kas mane randa, randa gyvenimą, jis pelno Jahvės malonę;"
+  },
+  {
+    "i": 16704,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 36,
+    "t": "\"bet kas prieš mane nusideda, žeidžia savo sielą, kas manęs nekenčia, brangina mirtį."
+  },
+  {
+    "i": 16705,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 1,
+    "t": "\"Išmintis pasistatė savo namą, ji išsikalė septynias kolonas,"
+  },
+  {
+    "i": 16706,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 2,
+    "t": "\"ji papjovė savo gyvulius, paruošė savo vyną, ji taip pat padengė savo stalą."
+  },
+  {
+    "i": 16707,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 3,
+    "t": "\"Ji išsiuntė savo tarnaites ir paskelbė ant kalvų, miesto viršuje:"
+  },
+  {
+    "i": 16708,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 4,
+    "t": "\"Kas yra paprastas? Teateina čia!\" Kvailam žmogui ji sako:"
+  },
+  {
+    "i": 16709,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 5,
+    "t": "\"Ateikite, valgykite mano duonos, gerkite vyno, kurį aš paruošiau!"
+  },
+  {
+    "i": 16710,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 6,
+    "t": "\"Palikite kvailystę ir gyvensite, eikite tiesiai į išminties kelią."
+  },
+  {
+    "i": 16711,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 7,
+    "t": "\"Kas pataiso pašaipūną, užsitraukia panieką, kas bara nedorėlį, patiria gėdą."
+  },
+  {
+    "i": 16712,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 8,
+    "t": "\"Nebark pašaipūno, jis tavęs nekęs, bark išmintingą, jis tave mylės."
+  },
+  {
+    "i": 16713,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 9,
+    "t": "\"Duok išmintingam: jis taps dar išmintingesnis; mokyk teisųjį, jis padidins savo įgūdžius."
+  },
+  {
+    "i": 16714,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 10,
+    "t": "\"Išminties pradžia: Jahvės baimė! Šventųjų pažinimas – štai išmintis."
+  },
+  {
+    "i": 16715,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 11,
+    "t": "\"Nes per mane tavo dienos padaugės ir tau pailgės gyvenimo metai."
+  },
+  {
+    "i": 16716,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 12,
+    "t": "\"Jei esi išmintingas, esi toks sau, jei esi pašaipūnas, vienas pats neši atsakomybę."
+  },
+  {
+    "i": 16717,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 13,
+    "t": "\"Ponia Kvailystė yra impulsyvi, naivi ir nieko nežino!"
+  },
+  {
+    "i": 16718,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 14,
+    "t": "\"Ji sėdi prie savo namo durų, soste, miesto viršuje,"
+  },
+  {
+    "i": 16719,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 15,
+    "t": "\"kad šauktų praeivius, tuos, kurie eina tiesiai savo keliu."
+  },
+  {
+    "i": 16720,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 16,
+    "t": "\"Kas yra paprastas? Teateina čia!\" Kvailam žmogui ji sako:"
+  },
+  {
+    "i": 16721,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 17,
+    "t": "\"Vogti vandenys yra saldūs, ir gardi paslapties duona!"
+  },
+  {
+    "i": 16722,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 18,
+    "t": "\"O jis nežino, kad ten yra Šešėliai ir kad jos svečiai yra Šeolo slėniuose."
+  },
+  {
+    "i": 16723,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 1,
+    "t": "\"Saliamono patarlės. Išmintingas sūnus džiugina savo tėvą, kvailas sūnus liūdina savo motiną."
+  },
+  {
+    "i": 16724,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 2,
+    "t": "\"Neteisingai įgyti turtai neduoda naudos, bet teisumas išgelbsti nuo mirties."
+  },
+  {
+    "i": 16725,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 3,
+    "t": "\"Jahvė nepalieka teisiojo alkstančio, bet pažaboja nedorėlių godulį."
+  },
+  {
+    "i": 16726,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 4,
+    "t": "\"Aplaidus ranka nuskurdina, darbščiųjų ranka praturtina."
+  },
+  {
+    "i": 16727,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 5,
+    "t": "\"Rinkti vasarą yra išmintingo žmogaus darbas, miegoti per pjūtį yra nevertas darbas."
+  },
+  {
+    "i": 16728,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 6,
+    "t": "\"Palaiminimai ant teisiojo galvos, bet nedorėlių burna apgaubia smurtą."
+  },
+  {
+    "i": 16729,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 7,
+    "t": "\"Teisiojo atminimas yra palaiminimas, nedorėlių vardas sunyksta."
+  },
+  {
+    "i": 16730,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 8,
+    "t": "\"Išmintingos širdies žmogus priima įsakymus, kvailų lūpų žmogus puola į pražūtį."
+  },
+  {
+    "i": 16731,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 9,
+    "t": "\"Kas eina sąžiningai, eina saugiai, kas eina klaidžiu keliu, yra demaskuojamas."
+  },
+  {
+    "i": 16732,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 10,
+    "t": "\"Kas mirksi akimi, sukelia kančią, kas bara į akis, suteikia ramybę."
+  },
+  {
+    "i": 16733,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 11,
+    "t": "\"Gyvenimo šaltinis: teisiojo burna, bet nedorėlių burna apgaubia smurtą."
+  },
+  {
+    "i": 16734,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 12,
+    "t": "\"Neapykanta sukelia kivirčus, meilė uždengia visus nusižengimus."
+  },
+  {
+    "i": 16735,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 13,
+    "t": "\"Ant protingo žmogaus lūpų randama išmintis, ant kvailio nugaros – lazda."
+  },
+  {
+    "i": 16736,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 14,
+    "t": "\"Išmintingi žmonės kaupia žinias, bet kvailio burna kelia grėsmę."
+  },
+  {
+    "i": 16737,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 15,
+    "t": "\"Turtingo žmogaus turtas – štai jo tvirtovė; silpnųjų blogis – jų skurdas."
+  },
+  {
+    "i": 16738,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 16,
+    "t": "\"Teisiojo atlyginimas atneša gyvenimą, nedorėlio pajamos – nuodėmę."
+  },
+  {
+    "i": 16739,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 17,
+    "t": "\"Jis eina į gyvenimą, kas laikosi drausmės; kas atmeta barimą, klysta."
+  },
+  {
+    "i": 16740,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 18,
+    "t": "\"Melo lūpos slepia neapykantą; kas skleidžia šmeižtą, yra kvailys."
+  },
+  {
+    "i": 16741,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 19,
+    "t": "\"Gausybė žodžių neapsieina be nusižengimo; kas sulaiko savo lūpas, yra apdairus."
+  },
+  {
+    "i": 16742,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 20,
+    "t": "\"Teisiojo liežuvis yra grynas sidabras, nedorėlių širdis mažai verta."
+  },
+  {
+    "i": 16743,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 21,
+    "t": "\"Teisiojo lūpos maitina daugybę, bet kvailiai miršta dėl proto trūkumo."
+  },
+  {
+    "i": 16744,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 22,
+    "t": "\"Jahvės palaiminimas praturtina, be jokio žmogaus pastangų."
+  },
+  {
+    "i": 16745,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 23,
+    "t": "\"Kvailiui yra žaidimas pasiduoti nusikaltimui, o protingam žmogui – ugdyti išmintį."
+  },
+  {
+    "i": 16746,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 24,
+    "t": "\"Ko bijo nedorėlis, tas jį ištinka, kas teisiojo trokšta, tas jam duodama."
+  },
+  {
+    "i": 16747,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 25,
+    "t": "\"Kai audra praėjo, nedorėlio nebėra! Bet teisusis amžinai įsitvirtinęs."
+  },
+  {
+    "i": 16748,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 26,
+    "t": "\"Actas dantims, dūmai akims – toks tinginys tam, kuris jį siunčia."
+  },
+  {
+    "i": 16749,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 27,
+    "t": "\"Jahvės baimė prailgina dienas, nedorėlio metai bus sutrumpinti."
+  },
+  {
+    "i": 16750,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 28,
+    "t": "\"Teisiųjų viltis yra džiaugsmas, nedorėlių viltis pražus."
+  },
+  {
+    "i": 16751,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 29,
+    "t": "\"Jahvės kelias yra apsauga sąžiningam žmogui, piktadariams – pražūtis."
+  },
+  {
+    "i": 16752,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 30,
+    "t": "\"Niekada teisusis nebus sudrebintas, bet nedorėliai negyvens šalyje."
+  },
+  {
+    "i": 16753,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 31,
+    "t": "\"Teisiojo burna išsako išmintį, perversos liežuvis bus nukirstas."
+  },
+  {
+    "i": 16754,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 32,
+    "t": "\"Teisiojo lūpos pažįsta gerumą, nedorėlių burna – perversumą."
+  },
+  {
+    "i": 16755,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 1,
+    "t": "\"Netikros svarstyklės yra pasibjaurėjimas Jahvei, bet teisingas svoris pelno jo malonę."
+  },
+  {
+    "i": 16756,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 2,
+    "t": "\"Ateik įžūlumas, ateis panieka, bet pas nuolankiuosius randama išmintis."
+  },
+  {
+    "i": 16757,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 3,
+    "t": "\"Jų sąžiningumas veda tiesius žmones, jų perversumas veda išdavikus į pražūtį."
+  },
+  {
+    "i": 16758,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 4,
+    "t": "\"Įniršio dieną turtas bus nenaudingas, bet teisumas išgelbsti nuo mirties."
+  },
+  {
+    "i": 16759,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 5,
+    "t": "\"Sąžiningo žmogaus teisumas ištiesina jo kelią, nedorėlis žūva savo nedorumu."
+  },
+  {
+    "i": 16760,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 6,
+    "t": "\"Jų teisumas gelbsti tiesius žmones, išdavikai patenka į savo godulį."
+  },
+  {
+    "i": 16761,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 7,
+    "t": "\"Nedorėlio viltis žūva jam mirus, viltis, dedama į turtus, sunaikinama."
+  },
+  {
+    "i": 16762,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 8,
+    "t": "\"Teisusis išvengia kančios, nedorėlis ateina į jo vietą."
+  },
+  {
+    "i": 16763,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 9,
+    "t": "\"Savo burna nedorėlis žlugdo savo artimą, per pažinimą teisusis išsisuka."
+  },
+  {
+    "i": 16764,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 10,
+    "t": "\"Dėl teisiųjų laimės miestas džiūgauja, dėl nedorėlių pražūties pasigirsta džiaugsmo šūksnis."
+  },
+  {
+    "i": 16765,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 11,
+    "t": "\"Per teisiųjų palaiminimą iškyla miestas, per nedorėlių burną jis sugriaunamas."
+  },
+  {
+    "i": 16766,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 12,
+    "t": "\"Kas niekina savo artimą, neturi proto; protingas žmogus tyli."
+  },
+  {
+    "i": 16767,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 13,
+    "t": "\"Kas atskleidžia paslaptis, yra apkalbų skleidėjas, kas slepia reikalą, yra patikimas dvasia."
+  },
+  {
+    "i": 16768,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 14,
+    "t": "\"Dėl vadovavimo stokos tauta žlunga, sėkmė priklauso nuo didelio patarėjų skaičiaus."
+  },
+  {
+    "i": 16769,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 15,
+    "t": "\"Kas laiduoja už svetimą, sau daro žalą, kas vengia laiduoti, yra saugus."
+  },
+  {
+    "i": 16770,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 16,
+    "t": "\"Maloninga moteris įgyja garbę, smurtautojai įgyja turtus."
+  },
+  {
+    "i": 16771,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 17,
+    "t": "\"Gailestingas žmogus daro gera sau, bet negailestingas žmogus vargina savo kūną."
+  },
+  {
+    "i": 16772,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 18,
+    "t": "\"Nedorėlis atlieka apgaulingą darbą, tam, kuris sėja teisumą, atlygis garantuotas."
+  },
+  {
+    "i": 16773,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 19,
+    "t": "\"Kas įtvirtina teisumą, eina į gyvenimą, kas siekia blogio, eina į mirtį."
+  },
+  {
+    "i": 16774,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 20,
+    "t": "\"Pasibjaurėjimas Jahvei: klastingos širdys; jis myli tuos, kurių elgesys sąžiningas."
+  },
+  {
+    "i": 16775,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 21,
+    "t": "\"Tikrai, nedorėlis neliks nenubaustas, bet teisiųjų giminė bus išgelbėta."
+  },
+  {
+    "i": 16776,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 22,
+    "t": "\"Aukso žiedas kiaulės snukyje: graži moteris, bet neturinti proto."
+  },
+  {
+    "i": 16777,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 23,
+    "t": "\"Teisiųjų noras yra tik gėris, nedorėlių viltis – pyktis."
+  },
+  {
+    "i": 16778,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 24,
+    "t": "\"Vienas dosnus, ir jo turtas auga, kitas kaupia be saiko ir tik nuskursta."
+  },
+  {
+    "i": 16779,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 25,
+    "t": "\"Siela, kuri laimina, klestės, ir kas girdo, bus pagirdytas."
+  },
+  {
+    "i": 16780,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 26,
+    "t": "Žmonės prakeikia tą, kuris kaupia grūdus, bet palaima tebūna ant galvos to, kuris juos parduoda."
+  },
+  {
+    "i": 16781,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 27,
+    "t": "Kas siekia gero, tas randa malonę, bet kas vejasi pikta, tą pikta pasivys."
+  },
+  {
+    "i": 16782,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 28,
+    "t": "Kas pasitiki savo turtais, tas kris, bet teisūs klestės kaip žali lapai."
+  },
+  {
+    "i": 16783,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 29,
+    "t": "Kas savo namus apleidžia, tas paveldi vėją, ir kvailys tampa išmintingo vergu."
+  },
+  {
+    "i": 16784,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 30,
+    "t": "Teisiojo vaisius yra gyvybės medis, o išmintingas žmogus laimi sielas."
+  },
+  {
+    "i": 16785,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 31,
+    "t": "Jei teisusis žemėje atgauna atlygį, tai kiek gi labiau nedorėlis ir nusidėjėlis."
+  },
+  {
+    "i": 16786,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 1,
+    "t": "Kas myli pamokymą, myli pažinimą, o kas nekenčia barimo, tas yra kvailas."
+  },
+  {
+    "i": 16787,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 2,
+    "t": "Geras žmogus pelno Viešpaties malonę, bet klastingą žmogų Jis pasmerkia."
+  },
+  {
+    "i": 16788,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 3,
+    "t": "Nedorumu niekas neįsitvirtina, bet teisiųjų šaknis niekada nesvyruoja."
+  },
+  {
+    "i": 16789,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 4,
+    "t": "Gera žmona yra savo vyro karūna, bet netikusi moteris yra kaip puvinys jo kauluose."
+  },
+  {
+    "i": 16790,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 5,
+    "t": "Teisiųjų mintys yra teisingos, o nedorėlių sumanymai – apgaulė."
+  },
+  {
+    "i": 16791,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 6,
+    "t": "Nedorėlių žodžiai yra kraujo pinklės, bet tiesiųjų burna juos išgelbsti."
+  },
+  {
+    "i": 16792,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 7,
+    "t": "Nedorėliai nuverčiami ir jų nebėra, bet teisiųjų namai išlieka."
+  },
+  {
+    "i": 16793,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 8,
+    "t": "Žmogus giriamas pagal savo išmintį, o suktakiai yra paniekinti."
+  },
+  {
+    "i": 16794,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 9,
+    "t": "Geriau būti paprastam žmogui, turinčiam tarną, negu save didinančiam, bet stokojančiam duonos."
+  },
+  {
+    "i": 16795,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 10,
+    "t": "Teisusis rūpinasi savo gyvulių gerove, bet nedorėlio širdis yra žiauri."
+  },
+  {
+    "i": 16796,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 11,
+    "t": "Kas dirba savo žemę, tas bus sotus duonos, bet kas vaikosi miražų, tas yra beprotiškas."
+  },
+  {
+    "i": 16797,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 12,
+    "t": "Bedievis džiaugiasi nedorėlių tinklu, bet teisiųjų šaknis duoda vaisių."
+  },
+  {
+    "i": 16798,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 13,
+    "t": "Nusikaltimas lūpomis yra mirtina pinklė, bet teisusis ištrūksta iš vargo."
+  },
+  {
+    "i": 16799,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 14,
+    "t": "Iš savo burnos vaisių žmogus pasisotina gerumu, ir kiekvienas atgauna pagal savo darbus."
+  }
+]

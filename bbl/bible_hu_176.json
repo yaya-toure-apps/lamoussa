@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17600,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 11,
+    "t": "A bölcs szavai mint az ösztökék, és mint a bevert szegek a nyájak mestereitől; egyazon pásztor adta őket."
+  },
+  {
+    "i": 17601,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 12,
+    "t": "Ezenfelül, fiam, intlek téged: Könyvek írásának nincs vége, és a sok tanulás fárasztja a testet."
+  },
+  {
+    "i": 17602,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 13,
+    "t": "A beszéd vége, mindent hallván: Féld az Istent, és tartsd meg az ő parancsolatait; mert ez az embernek teljes kötelessége!"
+  },
+  {
+    "i": 17603,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 14,
+    "t": "Mert Isten minden cselekedetet ítéletre visz, minden titkolt dolgot is, akár jó, akár gonosz."
+  },
+  {
+    "i": 17604,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 1,
+    "t": "Énekek Éneke, mely Salamoné."
+  },
+  {
+    "i": 17605,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 2,
+    "t": "Csókoljon meg engem szájának csókjaival; mert jobb a te szerelmed a bornál."
+  },
+  {
+    "i": 17606,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 3,
+    "t": "A te keneteid illatosak; kiöntött olaj a te neved, azért szeretnek téged a leányok."
+  },
+  {
+    "i": 17607,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 4,
+    "t": "Vonj engem magad után, fussunk! Bevitt engem a király az ő palotáiba; örüljünk és vígadjunk tebenned; emlegessük a te szerelmedet inkább, mint a bort; méltán szeretnek téged!"
+  },
+  {
+    "i": 17608,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 5,
+    "t": "Fekete vagyok, de szép, Jeruzsálem leányai, mint Kédár sátrai, mint Salamon kárpitjai!"
+  },
+  {
+    "i": 17609,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 6,
+    "t": "Ne nézzetek rám, hogy fekete vagyok, mert a nap sütött engem; anyámnak fiai megharagudtak rám, a szőlők őrzőjévé tettek engem, a magam szőlőjét nem őriztem."
+  },
+  {
+    "i": 17610,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 7,
+    "t": "Mondd meg nékem, te, akit szeret az én lelkem: hol legeltetsz, hol deleltetsz? Miért legyek olyan, mint a fátyolos a te társaid nyájainál?"
+  },
+  {
+    "i": 17611,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 8,
+    "t": "Ha nem tudod, te asszonyok közt legszebb, eredj a juhok nyomába, és legeltesd a te kecskéidet a pásztorok sátorai mellett!"
+  },
+  {
+    "i": 17612,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 9,
+    "t": "A Fáraó szekerei közé fogott lovakhoz hasonlítlak, én mátkám!"
+  },
+  {
+    "i": 17613,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 10,
+    "t": "Szépek a te orcáid a függőkkel, a te nyakad a gyöngysorokkal."
+  },
+  {
+    "i": 17614,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 11,
+    "t": "Jeruzsálem leányai."
+  },
+  {
+    "i": 17615,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 12,
+    "t": "Aranyfüggőket csinálunk néked, ezüstből való gyöngyökkel."
+  },
+  {
+    "i": 17616,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 13,
+    "t": "Míg a király asztalánál ül, az én nárdusom ontja illatát."
+  },
+  {
+    "i": 17617,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 14,
+    "t": "Egy köteg mirha az én szerelmesem nékem, kebleim közt hál."
+  },
+  {
+    "i": 17618,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 15,
+    "t": "Egy fürt cziprus az én szerelmesem nékem, az Engedi szőlőjében."
+  },
+  {
+    "i": 17619,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 16,
+    "t": "Ímé, szép vagy, én mátkám, ímé szép vagy! A te szemeid galambszemek."
+  },
+  {
+    "i": 17620,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 17,
+    "t": "Ímé, szép vagy, én szerelmesem, gyönyörűséges is! A mi ágyunk zöldellő."
+  },
+  {
+    "i": 17621,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 1,
+    "t": "A mi házunk gerendái czédrusfák, a mi mennyezetünk fenyőkből van."
+  },
+  {
+    "i": 17622,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 2,
+    "t": "Nárcisza vagyok Sáronnak, és völgyek lilioma."
+  },
+  {
+    "i": 17623,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 3,
+    "t": "Mint a liliom a tövisek közt, olyan az én mátkám a leányok közt."
+  },
+  {
+    "i": 17624,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 4,
+    "t": "Mint az almafa az erdő fái közt, olyan az én szerelmesem a fiak közt. Kívánatos árnyékában ültem, és gyümölcse édes az én ínyemnek."
+  },
+  {
+    "i": 17625,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 5,
+    "t": "Bevitt engem a borozó házba, és zászlója fölöttem a szeretet."
+  },
+  {
+    "i": 17626,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 6,
+    "t": "Erősítsetek engem aszúszőlővel, üdítsétek fel engem almákkal, mert beteg vagyok a szerelemben!"
+  },
+  {
+    "i": 17627,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 7,
+    "t": "Bal keze fejem alatt, és jobb keze átölel engem."
+  },
+  {
+    "i": 17628,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 8,
+    "t": "Kényszerítelek titeket, Jeruzsálem leányai, a vadkecskékre és a mező szarvasaira, ne költsétek, ne ébresszétek fel a szerelmet, míg maga nem akarja!"
+  },
+  {
+    "i": 17629,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 9,
+    "t": "Hallom az én szerelmesemnek szavát! Ímé, ő jő, ugrál a hegyeken, szökell a halmokon!"
+  },
+  {
+    "i": 17630,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 10,
+    "t": "Hasonlatos az én szerelmesem a vadkecskéhez, vagy a fiatal szarvashoz! Ímé, itt áll a mi falunk mögött, néz be az ablakon, betekint a rostélyon!"
+  },
+  {
+    "i": 17631,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 11,
+    "t": "Szól az én szerelmesem, és azt mondja nékem: Kelj fel, én mátkám, én szépem, jer ide!"
+  },
+  {
+    "i": 17632,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 12,
+    "t": "Mert ímé, a tél elmúlt, az eső elvonult, elment."
+  },
+  {
+    "i": 17633,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 13,
+    "t": "A virágok megjelennek a földön, eljött az éneklésnek ideje, és a gerlice szava hallatik a mi földünkön."
+  },
+  {
+    "i": 17634,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 14,
+    "t": "A fügefa megérlelte korai gyümölcsét, a szőlők virágba borultak, illatoznak. Kelj fel, én mátkám, én szépem, jer ide!"
+  },
+  {
+    "i": 17635,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 15,
+    "t": "Én galambom, a kősziklának hasadékaiban, a meredek ormok rejtekeiben, mutasd meg nékem a te orcádat, hallasd a te szódat; mert a te szód gyönyörűséges, és a te orcád kedves."
+  },
+  {
+    "i": 17636,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 16,
+    "t": "Fogjátok meg nékünk a rókákat, a kiskutyákat, a szőlőpusztítókat; mert a mi szőlőink virágban vannak!"
+  },
+  {
+    "i": 17637,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 17,
+    "t": "Én szerelmesem enyém, és én az övé, aki a liliomok közt legeltet."
+  },
+  {
+    "i": 17638,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 1,
+    "t": "Míg hűs lesz a nap, és az árnyékok elvonulnak, térj meg, légy hasonló, én szerelmesem, a vadkecskéhez, vagy a fiatal szarvashoz a Béter hegyein!"
+  },
+  {
+    "i": 17639,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 2,
+    "t": "Éjjel az én ágyamban kerestem azt, a kit szeret az én lelkem; kerestem őt, de nem találtam meg!"
+  },
+  {
+    "i": 17640,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 3,
+    "t": "Felkelek azért, és bejárom a várost, az utczákon és a tereken keresem azt, a kit szeret az én lelkem; kerestem őt, de nem találtam meg!"
+  },
+  {
+    "i": 17641,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 4,
+    "t": "Megtaláltak engem az őrök, a kik a várost járják. Nem láttátok-é azt, a kit szeret az én lelkem?"
+  },
+  {
+    "i": 17642,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 5,
+    "t": "Alighogy elmentem tőlük, megtaláltam azt, a kit szeret az én lelkem; megragadtam őt, és nem bocsátottam el, míg be nem vittem őt anyámnak házába, annak a szobájába, a ki engem szűlt."
+  },
+  {
+    "i": 17643,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 6,
+    "t": "Kényszerítelek titeket, Jeruzsálem leányai, a vadkecskékre és a mező szarvasaira, ne költsétek, ne ébresszétek fel a szerelmet, míg maga nem akarja!"
+  },
+  {
+    "i": 17644,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 7,
+    "t": "Ki az, a ki feljő a pusztából, mint egy füstoszlop, mirha és tömjén illatában, a kalmárok mindenféle illatos porával?"
+  },
+  {
+    "i": 17645,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 8,
+    "t": "Ímé, Salamon hordozószéke! Hatvan vitéz veszi körül, Izráel vitézei közül valók mindnyájan."
+  },
+  {
+    "i": 17646,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 9,
+    "t": "Mindnyájan kardforgatásban jártasak, a harczhoz értők. Kinek-kinek kard van az oldalán, az éjjeli félelem miatt."
+  },
+  {
+    "i": 17647,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 10,
+    "t": "Hordozószéket csináltatott magának Salamon király Libanon fájából."
+  },
+  {
+    "i": 17648,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 11,
+    "t": "Oszlopait ezüstből készítette, támláját aranyból, ülését bíborból; belseje ébenfával rakott."
+  },
+  {
+    "i": 17649,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 1,
+    "t": "Menjetek ki, Sion leányai, nézzétek Salamon királyt, a koronában, a mellyel megkoronázta őt az anyja, az ő jegyességének napján, és az ő szíve vígasságának napján!"
+  },
+  {
+    "i": 17650,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 2,
+    "t": "Ímé, szép vagy, én mátkám, ímé szép vagy! A te szemeid galambszemek a te fátyolod mögött; a te hajad olyan, mint a kecskenyáj, a mely a Gileád hegyéről jő alá."
+  },
+  {
+    "i": 17651,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 3,
+    "t": "A te fogaid, mint a nyírott juhok nyája, a mely a fürdőből jő fel; mindegyiknek ikre van, és nincs köztük magtalan."
+  },
+  {
+    "i": 17652,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 4,
+    "t": "Mint a karmazsin szalag, olyanok a te ajkaid, és a te beszéded kedves; mint a gránátalma szeletei, olyanok a te orcáid a te fátyolod mögött."
+  },
+  {
+    "i": 17653,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 5,
+    "t": "A te nyakad, mint a Dávid tornya, a mely építtetett erős bástyákkal; ezer paizs függ rajta, mind a vitézek fegyvere."
+  },
+  {
+    "i": 17654,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 6,
+    "t": "A te két emlőd, mint két fiatal vadkecske, a gazellának ikrei, a melyek a liliomok közt legelnek."
+  },
+  {
+    "i": 17655,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 7,
+    "t": "Míg hűs lesz a nap, és az árnyékok elvonulnak, elmegyek a mirha hegyére, és a tömjén halmára."
+  },
+  {
+    "i": 17656,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 8,
+    "t": "Teljesen szép vagy, én mátkám, és semmi fogyatkozás nincs benned!"
+  },
+  {
+    "i": 17657,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 9,
+    "t": "Jőjj Libanonból, én mátkám, jőjj Libanonból, jőjj el! Tekints alá az Amana ormáról, a Szenir és Hermon ormáról, az oroszlánok barlangjaiból, a párduczok hegyeiről!"
+  },
+  {
+    "i": 17658,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 10,
+    "t": "Elraboltad szívemet, én húgom, én mátkám; elraboltad szívemet szemeid egyikével, a te nyaklánczod egyik függőjével!"
+  },
+  {
+    "i": 17659,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 11,
+    "t": "Mily gyönyörűséges a te szerelmed, én húgom, én mátkám! Mily sokkal jobb a te szerelmed a bornál! És a te keneteidnek illata minden fűszernél!"
+  },
+  {
+    "i": 17660,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 12,
+    "t": "Mézet csepegnek a te ajkaid, én mátkám; méz és tej van a te nyelved alatt; és a te ruháidnak illata olyan, mint a Libanon illata!"
+  },
+  {
+    "i": 17661,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 13,
+    "t": "Bezárt kert az én húgom, én mátkám; bezárt forrás, bepecsételt kút!"
+  },
+  {
+    "i": 17662,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 14,
+    "t": "Hajtásaid gránátalma-liget, a drága gyümölcsökkel."
+  },
+  {
+    "i": 17663,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 15,
+    "t": "Nárdus és sáfrány, illatos nádszál és czinege, minden tömjénfával; mirha és áloe, minden drága fűszerrel."
+  },
+  {
+    "i": 17664,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 16,
+    "t": "Kertek forrása, élő vizek kútja, a Libanonból folyó patakok!"
+  },
+  {
+    "i": 17665,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 1,
+    "t": "Serkenj fel északi szél, és jőjj el déli szél, fújj az én kertemre, hogy illatjai kiáradjanak! Jőjjön be az én szerelmesem az ő kertjébe, és egye drága gyümölcsét!"
+  },
+  {
+    "i": 17666,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 2,
+    "t": "Bemegyek az én kertembe, én húgom, én mátkám! Leszedem az én mirhámat és az én balzsamomat; megeszem az én mézemet az én lépesemmel; megiszom az én boromat az én tejemmel. Egyetek, barátaim! Igyatok, és részegedjetek meg, én szerelmeseim!"
+  },
+  {
+    "i": 17667,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 3,
+    "t": "Én alszom, de az én szívem ébren van. Ímé, az én szerelmesem zörget: Nyisd meg nékem, én húgom, én mátkám, én galambom, én tökéletesem; mert fejem tele van harmattal, és fürtjeim éjjeli nedvességgel!"
+  },
+  {
+    "i": 17668,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 4,
+    "t": "Levetettem a ruhámat, mimódon öltözzem fel újra? Megmostam a lábamat, mimódon piszkoljam be?"
+  },
+  {
+    "i": 17669,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 5,
+    "t": "Az én szerelmesem benyujtotta kezét a lyukon, és az én bensőm megindult ő miatta."
+  },
+  {
+    "i": 17670,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 6,
+    "t": "Felkeltem, hogy megnyissam az én szerelmesemnek, és az én kezeimről mirha csepegett, az én ujjaimról folyó mirha az ózárra."
+  },
+  {
+    "i": 17671,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 7,
+    "t": "Megnyitottam az én szerelmesemnek, de az én szerelmesem elfordult, elment. Az én lelkem elszáradt, a mikor szólt; kerestem őt, de nem találtam, kiáltottam neki, de nem felelt."
+  },
+  {
+    "i": 17672,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 8,
+    "t": "Megtaláltak engem az őrök, a kik a várost járják; megvertek engem, megsebeztek engem; elvették tőlem a fátyolomat a vár őrei."
+  },
+  {
+    "i": 17673,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 9,
+    "t": "Kényszerítelek titeket, Jeruzsálem leányai, ha megtaláljátok az én szerelmesemet, mit mondjatok néki? Azt, hogy én beteg vagyok a szerelemben."
+  },
+  {
+    "i": 17674,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 10,
+    "t": "Mivel különb a te szerelmesed a többi szerelmesnél, te asszonyok közt legszebb? Mivel különb a te szerelmesed a többi szerelmesnél, hogy ennyire kényszerítesz minket?"
+  },
+  {
+    "i": 17675,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 11,
+    "t": "Az én szerelmesem fehér és piros, tízezer között kitünő."
+  },
+  {
+    "i": 17676,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 12,
+    "t": "A feje tiszta arany, a haja göndör, fekete, mint a holló."
+  },
+  {
+    "i": 17677,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 13,
+    "t": "A szemei, mint a galambok a vizek patakjai mellett, tejben mosdók, a folyóvíz mellett ülvén."
+  },
+  {
+    "i": 17678,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 14,
+    "t": "Az orcái, mint a fűszeres kertek, illatos növényekkel beültetve; az ajkai, mint a liliomok, folyó mirhát csepegtetnek."
+  },
+  {
+    "i": 17679,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 15,
+    "t": "A kezei arany hengerek, berakva Társis kövekkel; a hasa elefántcsont, beborítva zafir kövekkel."
+  },
+  {
+    "i": 17680,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 16,
+    "t": "Lábai alabástrom oszlopok, aranytalpakra helyezve. Tekintete a Libanoné, nincs párja a cédrusok között."
+  },
+  {
+    "i": 17681,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 1,
+    "t": "Beszéde maga a gyönyörűség, és mindenestől báj. Ilyen az én szerelmesem, ilyen az én férjem, Jeruzsálem leányai!"
+  },
+  {
+    "i": 17682,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 2,
+    "t": "Hová ment a te szerelmesed, ó legszebb asszony? Hová fordult a te szerelmesed, hogy keressük őt veled?"
+  },
+  {
+    "i": 17683,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 3,
+    "t": "Az én szerelmesem lement az ő kertjébe, a balzsamos ágyásokhoz, hogy legeltesse nyáját a kertekben, és hogy liliomokat szedjen."
+  },
+  {
+    "i": 17684,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 4,
+    "t": "Én a szerelmesemé vagyok, és az én szerelmesem az enyém! Ő legelteti nyáját a liliomok között."
+  },
+  {
+    "i": 17685,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 5,
+    "t": "Szép vagy, én barátném, mint Tirca, bájos, mint Jeruzsálem, félelmetes, mint a hadseregek!"
+  },
+  {
+    "i": 17686,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 6,
+    "t": "Fordítsd el tőlem tekintetedet, mert elborít engem! Hajad olyan, mint a kecskenyáj, mely hullámzik Gileád lejtőin."
+  },
+  {
+    "i": 17687,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 7,
+    "t": "Fogaid olyanok, mint a juhnyáj, mely feljön a fürdőből. Mindegyiknek van ikertestvére, és egyik sem nélkülöz."
+  },
+  {
+    "i": 17688,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 8,
+    "t": "Hatvan királynő van és nyolcvan ágyas! (és számtalan fiatal lány.)"
+  },
+  {
+    "i": 17689,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 9,
+    "t": "Egyetlen az én galambom, az én tökéletesem. Ő az egyetlen az anyjának, a kedvence annak, aki őt szülte. A fiatal lányok látták és dicsőítették, királynők és ágyasok magasztalták őt:"
+  },
+  {
+    "i": 17690,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 10,
+    "t": "\"Ki ez, aki feljön, mint a hajnal, szép, mint a hold, ragyogó, mint a nap, félelmetes, mint a hadseregek?"
+  },
+  {
+    "i": 17691,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 11,
+    "t": "A dióskertbe lementem, hogy lássam a völgy ifjú sarjait, hogy lássam, vajon a szőlő virágzik-e, vajon a gránátalmák virágoznak-e."
+  },
+  {
+    "i": 17692,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 12,
+    "t": "Nem tudom, de vágyam Aminadáb szekerére vetett!"
+  },
+  {
+    "i": 17693,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 1,
+    "t": "Térj vissza, térj vissza, Sulamit! Térj vissza, térj vissza, hogy megnézzünk! Miért nézitek a Sulamitot, aki úgy táncol, mint egy kettős karban?"
+  },
+  {
+    "i": 17694,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 2,
+    "t": "Mily szépek lábaid saruidban, fejedelem leánya! Csípőd íve olyan, mint egy nyakék, egy művész kezeinek alkotása."
+  },
+  {
+    "i": 17695,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 3,
+    "t": "Köldököd kelyhet formál, melyből a borok ki ne fogyjanak! Hasad búzakazal, liliomokkal körülvéve."
+  },
+  {
+    "i": 17696,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 4,
+    "t": "Két melled olyan, mint két gidó, egy gazella ikrei."
+  },
+  {
+    "i": 17697,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 5,
+    "t": "Nyakad elefántcsont torony. Szemeid Hesbon tavacskái, Bat-Rabbim kapuja mellett. Orrod a Libanon tornya, Damaszkusz felé forduló őrszem."
+  },
+  {
+    "i": 17698,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 6,
+    "t": "Főnököd a Kármelhez hasonlóan magasodik, és fürtjei olyanok, mint a bíbor; egy király akadt a te fürtjeidbe."
+  },
+  {
+    "i": 17699,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 7,
+    "t": "Mily szép vagy, mily bájos vagy, ó szerelem, ó gyönyörűség!"
+  }
+]

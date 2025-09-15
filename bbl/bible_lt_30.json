@@ -1,0 +1,795 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "Laikysite kiškį nešvariu, nes nors ir atrajotojas, bet neturi perskeltų nagų;"
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "Laikysite barsuką nešvariu, nes nors ir atrajotojas, bet neturi perskeltų nagų;"
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "Laikysite kiaulę nešvaria, nes nors ir turi perskeltus nagus, bet neatrajoja."
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "Nevalgysite jų mėsos ir neliesite jų lavonų, laikysite juos nešvariais."
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "Iš visko, kas gyvena vandenyje, galite valgyti štai ką. Visa, kas turi pelekus ir žvynus ir gyvena vandenyje, jūrose ar upėse, galite valgyti."
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "Bet visa, kas neturi pelekų ir žvynų, jūrose ar upėse, tarp visų vandens gyvių ir visų ten esančių gyvų būtybių, laikysite juos bjauriais."
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "Laikysite juos bjauriais, nevalgysite jų mėsos ir turėsite pasibjaurėjimą jų lavonais."
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "Visa, kas gyvena vandenyje neturėdami pelekų ir žvynų, laikysite bjauriais."
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "Štai, tarp paukščių, kuriuos laikysite bjauriais; nevalgysite jų, tai yra bjaurus dalykas: grifas, erelis, jūrinis erelis,"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "juodasis peslys, įvairių rūšių raudonieji pesliai,"
+  },
+  { "i": 3010, "b": 2, "c": 311, "r": 311, "o": 15, "t": "visų rūšių varnas," },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "stručiai, pelėdos, žuvėdros ir įvairių rūšių vanagai,"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "apučiai, kormoranai, pelėdos,"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "ibiai, pelikanai, baltieji grifai,"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "gandrai ir įvairių rūšių garniai, kukutis, šikšnosparnis."
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "Visus sparnuotus gyvius, kurie vaikšto keturiais, laikysite bjauriais."
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "Iš visų tų sparnuotų gyvių, kurie vaikšto keturiais, galite valgyti tik tuos: tuos, kurie turi kojas virš savo pėdų, kad galėtų šokinėti ant žemės."
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "Štai kuriuos galite valgyti: įvairių rūšių skėriai migrantai, skėriai solham, skėriai hargol, skėriai hagab."
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "Bet visus sparnuotus gyvius, kurie vaikšto keturiais, laikysite bjauriais."
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "Užsitrauksite per juos nešvarumą: kas palies jų lavoną, bus nešvarus iki vakaro."
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "Kas neš jų lavoną, turės išsiskalbti drabužius ir bus nešvarus iki vakaro."
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "Gyvulius, kurie turi nagą, bet neperskeltą, ir neatrajoja, laikysite nešvariais, kas juos palies, bus nešvarus."
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "Gyvulius, kurie vaikšto keturiais ir mina visa pėda, laikysite nešvariais; kas palies jų lavoną, bus nešvarus iki vakaro,"
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "ir kas neš jų lavoną, turės išsiskalbti drabužius ir bus nešvarus iki vakaro. Laikysite juos nešvariais."
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "Štai, tarp gyvių, kurie ropoja ant žemės, kuriuos laikysite nešvariais: kurmis, žiurkė ir įvairių rūšių driežai:"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "gekonas, koah, letaah, chameleonas ir tinchametas."
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "Iš visų gyvių, tai yra gyvuliai, kuriuos laikysite nešvariais. Kas juos palies, kai jie mirę, bus nešvarus iki vakaro."
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "Bet kuris daiktas, ant kurio užkris vienas iš jų, kai miręs, tampa nešvarus: bet kuris medinis įrankis, drabužis, oda, maišas, bet kuris įrankis. Jį panardinsite į vandenį ir jis liks nešvarus iki vakaro; tada jis bus švarus."
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "Bet kurį molinį indą, į kurį įkris vienas iš jų, sudaužysite; jo turinys yra nešvarus."
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "Bet kuris maistas, kurį valgote, bus nešvarus, net jei sudrėkintas vandeniu; bet kuris gėrimas, kurį geriate, bus nešvarus, nesvarbu, kokiame inde."
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "Visa, ant ko užkris vienas iš jų lavonų, bus nešvaru; krosnys ir židiniai bus sunaikinti, nes jie yra nešvarūs ir nešvarūs bus jums."
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "(Tačiau šaltiniai, cisternos ir vandens telkiniai liks švarūs); kas palies vieną iš jų lavonų, bus nešvarus."
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "Jei vienas iš jų lavonų užkris ant bet kurios sėklos, ji liks švari,"
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "bet jei sėkla buvo sudrėkinta vandeniu ir ant jos užkris vienas iš jų lavonų, laikysite ją nešvaria."
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "Jei numirs gyvulys, kuris tarnauja jums kaip maistas, tas, kuris palies jo lavoną, bus nešvarus iki vakaro,"
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "tas, kuris valgys jo mėsą, turės išsiskalbti drabužius ir bus nešvarus iki vakaro, tas, kuris neš jo lavoną, turės išsiskalbti drabužius ir bus nešvarus iki vakaro."
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "Bet kuris gyvulys, kuris knibždėte knibžda ant žemės, yra bjaurus, nevalgysite jo."
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "Visa, kas šliaužioja ant pilvo, visa, kas vaikšto keturiais ar daugiau kojų, trumpai tariant, visi gyvuliai, kurie knibždėte knibžda ant žemės, nevalgysite jų, nes jie yra bjaurūs."
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "Nesitepkite patys su visais šiais knibždančiais gyvuliais, neužkrėskite savęs jais ir nebūkite užkrėsti jų."
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "Nes aš esu Viešpats, jūsų Dievas. Jūs esate pasišventę ir tapote šventais, nes aš esu šventas; nesitepkite tad su visais šiais gyvuliais, kurie ropoja ant žemės."
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "Taip, aš esu Viešpats, kuris jus išvedžiau iš Egipto krašto, kad būčiau jūsų Dievas: būsite tad šventi, nes aš esu šventas."
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "Toks yra įstatymas dėl gyvulių, paukščių, visų gyvų būtybių, kurios juda vandenyje, ir visų būtybių, kurios ropoja ant žemės."
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "Jo tikslas yra atskirti švarų nuo nešvaraus, gyvulius, kuriuos galima valgyti, ir tuos, kurių negalima valgyti."
+  },
+  {
+    "i": 3043,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 1,
+    "t": "Viešpats kalbėjo Mozei ir tarė:"
+  },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Kalbėk Izraelio vaikams, sakyk jiems: jei moteris pastoja ir pagimdo berniuką, ji bus nešvari septynias dienas kaip per savo mėnesinių suteršimą."
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "Aštuntą dieną apipjaustysite vaiko apyvarpę."
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "Ir dar trisdešimt tris dienas ji liks valyti savo kraują. Ji nelies nieko pašvęsto ir neis į šventovę, kol nebus pasibaigęs jos apvalymo laikas."
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "Jei ji pagimdo mergaitę, ji bus nešvari dvi savaites, kaip per savo mėnesines, ir dar šešiasdešimt šešias dienas liks valyti savo kraują."
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "Kai pasibaigs jos apvalymo laikotarpis, ar tai būtų berniukui ar mergaitei, ji atneš kunigui, prie Susitikimo Palapinės įėjimo, metukų amžiaus ėriuką deginamajai aukai ir balandį arba purplelę už nuodėmę."
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "Kunigas jį paaukos prieš Viešpatį, atliks jai atpirkimo apeigas ir ji bus apvalyta nuo savo kraujo srauto. Toks yra įstatymas dėl moters, kuri pagimdo berniuką ar mergaitę."
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "Jei ji negali rasti sumos, reikalingos smulkiam gyvuliui, ji paims dvi purpleles arba du balandžius, vieną deginamajai aukai, o kitą už nuodėmę. Kunigas atliks jai atpirkimo apeigas ir ji bus apvalyta."
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "Viešpats kalbėjo Mozei ir Aaronui ir tarė:"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "Jei ant žmogaus odos susidaro guzas, dėmė ar dėmelė, reikia numatyti odos raupų atvejį. Jį nuvesite pas Aaroną, kunigą, arba pas vieną iš kunigų jo sūnų."
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "Kunigas apžiūrės odos ligą. Jei sergančioje vietoje plaukai pasidarė balti, jei ši liga įdubusi į odos epidermį, tai tikrai yra raupų atvejis; apžiūrėjęs kunigas paskelbs žmogų nešvariu."
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "Bet jei ant odos yra balta dėmelė, be matomo odos įdubimo ir be plaukų pabaltinimo, kunigas izoliuos sergantįjį septynioms dienoms."
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "Jis apžiūrės jį septintą dieną. Jei jis savo akimis pastebės, kad liga išlieka, neplisdama ant odos, jis izoliuos jį dar septynioms dienoms."
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "Ir vėl apžiūrės jį septintą dieną. Jei jis pastebės, kad liga tapo matine ir neplito ant odos, kunigas paskelbs šį žmogų švariu: tai yra dėmė. Išsiskalbęs savo drabužius, jis bus švarus."
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "Bet jei dėmė išplito ant odos po to, kai sergantįjį apžiūrėjo kunigas ir paskelbė jį švariu, jis vėl pasirodys jam."
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "Apžiūrėjęs jį ir pastebėjęs dėmės išplitimą ant odos, kunigas paskelbs jį nešvariu: tai yra raupai."
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "Kai ant žmogaus pasirodys liga, panaši į raupus, jį nuvesite pas kunigą."
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "Kunigas jį apžiūrės, ir jei jis pastebės ant odos balkšvą guzą su plaukų pabaltinimu ir opa,"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "tai yra įsisenėję raupai ant odos. Kunigas paskelbs jį nešvariu. Jis neizoliuos jo, be jokios abejonės, jis yra nešvarus."
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "Bet jei raupai plinta ant odos, jei liga ją apima visą ir išplinta nuo galvos iki kojų, kur tik kunigas pažvelgs,"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "šis apžiūrės sergantįjį ir, pastebėjęs, kad raupai apėmė visą jo kūną, jis paskelbs sergantįjį švariu. Kadangi viskas pasidarė balta, jis yra švarus."
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "Tačiau tą dieną, kai ant jo pasirodys opa, jis bus nešvarus."
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "Apžiūrėjęs opą, kunigas paskelbs jį nešvariu: opa yra nešvarus dalykas, tai yra raupai."
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "Bet jei opa vėl pasidarys balta, žmogus eis pas kunigą,"
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "šis jį apžiūrės ir, jei pastebės, kad liga pasidarė balta, jis paskelbs sergantįjį švariu: jis yra švarus."
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "Kai ant kažkieno odos susidarė opa, kuri išgyjo,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "jei opos vietoje susidaro balkšvas guzas arba rausvai balta dėmelė, šis žmogus pasirodys kunigui."
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "Šis jį apžiūrės; jei jis pastebės matomą odos įdubimą ir plaukų pabaltinimą, kunigas paskelbs jį nešvariu: tai yra raupų atvejis, kuris plinta odoje."
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "Jei, apžiūrėdamas, kunigas nepastebės nei baltų plaukų, nei odos įdubimo, bet ligos neryškumą, jis izoliuos sergantįjį septynioms dienoms."
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "Jis paskelbs jį nešvariu, jei liga išplito ant odos: tai yra raupų atvejis."
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "Bet jei dėmelė liko stacionari, neplisdama, tai yra opos randas: kunigas paskelbs šį žmogų švariu."
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Kai ant kažkieno odos susidarė nudegimas, jei ant nudegimo susidaro pūlinys, rausvai balta arba balkšva dėmelė,"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "kunigas jį apžiūrės. Jei jis pastebės plaukų pabaltinimą arba matomą dėmelės įdubimą odoje, tai yra raupai, kurie plinta nudegime. Kunigas paskelbs žmogų nešvariu: tai yra raupų atvejis."
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "Jei, priešingai, kunigas, apžiūrėdamas, nepastebės nei baltų plaukų dėmelėje, nei odos įdubimo, bet šios dėmelės neryškumą, kunigas jį izoliuos septynioms dienoms."
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "Jis apžiūrės jį septintą dieną ir, jei liga išplito ant odos, jis paskelbs jį nešvariu: tai yra raupų atvejis."
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "Jei dėmelė liko stacionari, neplisdama ant odos, jei ji, priešingai, pasidarė neryški, tai tik guzas dėl nudegimo. Kunigas paskelbs žmogų švariu, tai tik nudegimo randas."
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "Jei vyras ar moteris turi žaizdą ant galvos ar smakro,"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "Tad kunigas apžiūrės tą votį, ir jei matys įdubimą odoje su gelsvai plonais plaukais, paskelbs jį netyru. Tai yra niežai, tai yra raupsai galvos ar barzdos."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "Jei kunigas, apžiūrėjęs niežus, nematys įdubimo odoje ir gelsvų plaukų, tada uždarys niežuotąjį septynioms dienoms."
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "Septintą dieną jis apžiūrės tą votį, ir jei niežai neišplito, ir nėra gelsvų plaukų, ir nėra įdubimo odoje,"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "tada ligonis nusiskus, išskyrus niežų vietą, ir kunigas jį uždarys antrą kartą septynioms dienoms."
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "Septintą dieną jis apžiūrės tą votį, ir jei nematys, kad išplito odoje, ir nėra įdubimo odoje, kunigas paskelbs tą ligonį švariu. Išsivalęs drabužius, jis bus švarus."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "Bet jei po to apvalymo niežai išplis odoje,"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "kunigas jį apžiūrės: jei matys, kad niežai išplito odoje, tai ligonis yra netvarus, ir netikrins, ar plaukai yra gelsvi."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "Jei niežai atrodo stovintys ir juose auga juodi plaukai, tai ligonis yra pagijęs. Jis yra švarus, ir kunigas jį paskelbs švariu."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "Jei ant vyro ar moters odos atsiranda dėmių ir tos dėmės yra baltos,"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "kunigas jas apžiūrės. Jei matys, kad tos dėmės odoje yra blankiai baltos, tai yra bėrimas, išplitęs odoje: ligonis yra švarus."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "Jei vyras praranda plaukus nuo savo kaukolės, tai yra kaukolės plikimas, jis yra švarus."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "Jei plaukus praranda priekinėje galvos dalyje, tai yra kaktos plikimas, jis yra švarus."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "Bet jei ant kaukolės ar kaktos yra baltai rausva votis, tai raupsai plinta ant to vyro kaukolės ar kaktos."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "Kunigas jį apžiūrės, ir jei matys ant kaukolės ar kaktos baltai rausvą iškilimą, tokios pat išvaizdos kaip raupsai ant odos,"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "tai žmogus yra raupsuotas; jis yra netyras. Kunigas turi jį paskelbti netyru, jis yra užsikrėtęs raupsais galvoje."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "Raupsuotasis, paliestas šios ligos, nešios sudraskytus drabužius ir susitaršiusius plaukus; jis užsidengs ūsus ir šauks: „Netyras! Netyras!“"
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "Kol tęsis jo liga, jis bus netyras, ir būdamas netyras, jis pasiliks atskirai: jo buveinė bus už stovyklos ribų."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "Kai drabužis yra paliestas raupsų, ar tai būtų vilnonis, ar lininis drabužis,"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "vilnonis ar lininis audinys ar uždangalas, oda ar bet koks odos dirbinys,"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "jei to drabužio, tos odos, to audinio, to uždangalo ar to odos dirbinio dėmė atrodo žalsva arba rausva, tai yra raupsų atvejis, kurį reikia parodyti kunigui."
+  }
+]

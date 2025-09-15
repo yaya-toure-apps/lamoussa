@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13500,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 18,
+    "t": "Užistavil si dom ako pavúk, postavil si búdu strážcu:"
+  },
+  {
+    "i": 13501,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 19,
+    "t": "boháč líha, ale to je naposledy; keď otvorí oči, nič viac niet."
+  },
+  {
+    "i": 13502,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 20,
+    "t": "Hrôzy ho prepadajú za bieleho dňa, v noci ho vír odnáša."
+  },
+  {
+    "i": 13503,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 21,
+    "t": "Východný vietor ho dvíha a unáša, vytrháva ho z jeho miesta prebývania."
+  },
+  {
+    "i": 13504,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 22,
+    "t": "Bez zľutovania je vzatý za cieľ, musí utekať pred hroziacimi rukami."
+  },
+  {
+    "i": 13505,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 23,
+    "t": "Tlieskajú jeho skaze, všade, kam ide, ho vypískajú."
+  },
+  {
+    "i": 13506,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 1,
+    "t": "Pre striebro sú bane, pre zlato miesto, kde ho prečisťujú."
+  },
+  {
+    "i": 13507,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 2,
+    "t": "Železo sa ťaží zo zeme, tavením kameňa sa získava meď."
+  },
+  {
+    "i": 13508,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 3,
+    "t": "Ukončujú sa temnoty, preskúmava sa až do krajnej medze kameň temný a tmavý."
+  },
+  {
+    "i": 13509,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 4,
+    "t": "Cudzí ľudia prerážajú rokliny na miestach nefrekventovaných, a kolíšu sa, visiac, ďaleko od ľudí."
+  },
+  {
+    "i": 13510,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 5,
+    "t": "Zem, z ktorej pochádza chlieb, je pod ňou spustošená ohňom."
+  },
+  {
+    "i": 13511,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 6,
+    "t": "Tam sú kamene ložiskom zafíru, a tiež kúsky zlata."
+  },
+  {
+    "i": 13512,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 7,
+    "t": "Dravý vták nepozná jeho chodník, oko supa ho nevidí."
+  },
+  {
+    "i": 13513,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 8,
+    "t": "Nie je pošliapaný dravými šelmami pyšnými, lev ho nikdy nevyšliapal."
+  },
+  {
+    "i": 13514,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 9,
+    "t": "Človek sa púšťa do kremeňa, prevracia hory v ich koreňoch."
+  },
+  {
+    "i": 13515,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 10,
+    "t": "V skalách vŕta kanály, oko otvorené na každý drahocenný predmet."
+  },
+  {
+    "i": 13516,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 11,
+    "t": "Skúma pramene riek, vynáša na svetlo, čo zostalo skryté."
+  },
+  {
+    "i": 13517,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 12,
+    "t": "Ale Múdrosť, odkiaľ pochádza? Kde sa nachádza, Inteligencia?"
+  },
+  {
+    "i": 13518,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 13,
+    "t": "Človek nepozná jej cestu, nenachádza sa v zemi živých."
+  },
+  {
+    "i": 13519,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 14,
+    "t": "Priepasť vyhlasuje: \"Neobsahujem ju!\" a More: \"Nie je u mňa!"
+  },
+  {
+    "i": 13520,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 15,
+    "t": "Nemožno ju získať s masívnym zlatom, zaplatiť za ňu váhou striebra,"
+  },
+  {
+    "i": 13521,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 16,
+    "t": "oceniť ju zlatom z Ofíru, drahým achátom alebo zafírom."
+  },
+  {
+    "i": 13522,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 17,
+    "t": "Neporovnáva sa s ňou zlato alebo sklo, nevymieňa sa za nádobu z rýdzeho zlata."
+  },
+  {
+    "i": 13523,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 18,
+    "t": "Koraly a krištáľ si nezaslúžia zmienku, lepšie by bolo loviť Múdrosť ako perly."
+  },
+  {
+    "i": 13524,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 19,
+    "t": "Pri nej je topás z Kušu bezcenný a rýdze zlato stráca svoju výmennú váhu."
+  },
+  {
+    "i": 13525,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 20,
+    "t": "Ale Múdrosť, odkiaľ pochádza? Kde sa nachádza, Inteligencia?"
+  },
+  {
+    "i": 13526,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 21,
+    "t": "Ukryje sa pred očami všetkých živých, skryje sa pred vtáctvom nebeským."
+  },
+  {
+    "i": 13527,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 22,
+    "t": "Zahynutie a Smrť vyhlasujú: \"Chýr o jej povesti sa dostal k našim ušiam."
+  },
+  {
+    "i": 13528,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 23,
+    "t": "Len Boh rozlíšil jej cestu a poznal, On, kde sa nachádza."
+  },
+  {
+    "i": 13529,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 24,
+    "t": "(Lebo vidí až do končín zeme, vníma všetko, čo je pod nebom.)"
+  },
+  {
+    "i": 13530,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 25,
+    "t": "Keď chcel dať vetru váhu, odmerať vody mierou;"
+  },
+  {
+    "i": 13531,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 26,
+    "t": "keď ustanovil zákon pre dážď, cestu pre hrmenie hromu,"
+  },
+  {
+    "i": 13532,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 27,
+    "t": "vtedy ju videl a zhodnotil, prenikol ju a dokonca ju skúmal."
+  },
+  {
+    "i": 13533,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 28,
+    "t": "Potom povedal človeku: \"Bázeň pred Pánom, to je múdrosť; vyhýbať sa zlu, to je inteligencia."
+  },
+  {
+    "i": 13534,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 1,
+    "t": "Jób pokračoval vo vyjadrovaní sa v sentenciách a povedal:"
+  },
+  {
+    "i": 13535,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 2,
+    "t": "Kto mi navráti mesiace dávnych čias, tie dni, keď Boh bdel nado mnou,"
+  },
+  {
+    "i": 13536,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 3,
+    "t": "kde jeho lampa svietila nad mojou hlavou a jeho svetlo ma viedlo v temnote!"
+  },
+  {
+    "i": 13537,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 4,
+    "t": "Kiežby som mohol znova vidieť dni mojej jesene, keď Boh chránil môj stan,"
+  },
+  {
+    "i": 13538,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 5,
+    "t": "že Šaddaj prebýval so mnou a že ma moji chlapci obklopovali;"
+  },
+  {
+    "i": 13539,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 6,
+    "t": "keď sa moje nohy kúpali v mlieku a zo skaly prúdili potoky oleja!"
+  },
+  {
+    "i": 13540,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 7,
+    "t": "Ak som vyšiel k bráne mesta, ak som si postavil svoje sedadlo na námestí,"
+  },
+  {
+    "i": 13541,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 8,
+    "t": "na môj pohľad sa mladí ľudia stiahli, starci sa postavili."
+  },
+  {
+    "i": 13542,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 9,
+    "t": "Vážení zastavili svoje reči a položili si ruku na ústa."
+  },
+  {
+    "i": 13543,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 10,
+    "t": "Hlas vodcov sa dusil a ich jazyk sa im lepil na podnebie."
+  },
+  {
+    "i": 13544,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 11,
+    "t": "Keď ma počuli, blahoželali mi, keď ma videli, svedčili o mne."
+  },
+  {
+    "i": 13545,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 12,
+    "t": "Lebo som oslobodzoval chudobného v tiesni a sirotu zbavenú opory."
+  },
+  {
+    "i": 13546,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 13,
+    "t": "Požehnanie zomierajúceho spočívalo na mne a vracal som radosť do srdca vdovy."
+  },
+  {
+    "i": 13547,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 14,
+    "t": "Odel som sa spravodlivosťou ako odev, mal som právo ako plášť a turban."
+  },
+  {
+    "i": 13548,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 15,
+    "t": "Bol som očami slepého, nohami chromého."
+  },
+  {
+    "i": 13549,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 16,
+    "t": "Bol som otcom chudobných; prípad neznámeho, preskúmal som ho."
+  },
+  {
+    "i": 13550,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 17,
+    "t": "Rozbíjal som tesáky bezbožného človeka, spomedzi jeho zubov som vytrhával jeho korisť."
+  },
+  {
+    "i": 13551,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 18,
+    "t": "A hovoril som: \"Zomriem vo svojej pýche, po dňoch početných ako piesok."
+  },
+  {
+    "i": 13552,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 19,
+    "t": "Moje korene majú prístup k vode, rosa sa v noci ukladá na mojom lístí."
+  },
+  {
+    "i": 13553,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 20,
+    "t": "Moja sláva bude vždy nová a v mojej ruke môj luk znova nadobudne silu."
+  },
+  {
+    "i": 13554,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 21,
+    "t": "Počúvali ma, v očakávaní, ticho, aby počuli môj názor."
+  },
+  {
+    "i": 13555,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 22,
+    "t": "Keď som prehovoril, nikto neodpovedal, a na nich, kvapka po kvapke, padali moje slová."
+  },
+  {
+    "i": 13556,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 23,
+    "t": "Čakali ma ako dážď, ich ústa sa otvárali ako pre neskorý dážď."
+  },
+  {
+    "i": 13557,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 24,
+    "t": "Ak som sa na nich usmial, neodvážili sa tomu veriť, zbierali na mojej tvári každé znamenie priazne."
+  },
+  {
+    "i": 13558,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 25,
+    "t": "Ukázal som im cestu, sediac na ich čele, ako kráľ usadený medzi svojimi vojskami, a viedol som ich všade podľa svojej vôle."
+  },
+  {
+    "i": 13559,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 1,
+    "t": "A teraz som na posmech ľuďom, ktorí sú mladší ako ja, a ktorých otcovia boli príliš nízki v mojich očiach, aby som ich primiešal k psom môjho stáda."
+  },
+  {
+    "i": 13560,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 2,
+    "t": "Rovnako tak, sila ich rúk by mi bola zbytočná: stratili všetku silu,"
+  },
+  {
+    "i": 13561,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 3,
+    "t": "vyčerpaní nedostatkom a hladom, lebo hrýzli korene stepi, toto temné miesto ruiny a zúfalstva;"
+  },
+  {
+    "i": 13562,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 4,
+    "t": "zbierali lobodu na kríku, robili si chlieb z koreňov kručinky."
+  },
+  {
+    "i": 13563,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 5,
+    "t": "Vyhnaní zo spoločnosti ľudí, ktorí na nich kričia ako na zlodejov,"
+  },
+  {
+    "i": 13564,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 6,
+    "t": "bývajú na úbočí roklín, v jaskyniach alebo skalných puklinách."
+  },
+  {
+    "i": 13565,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 7,
+    "t": "Z kríkov ich počuť revať, hromadia sa pod bodliakmi."
+  },
+  {
+    "i": 13566,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 8,
+    "t": "Synovia darebákov, ba čo viac, ľudí bez mena, sú odmietnutí krajinou."
+  },
+  {
+    "i": 13567,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 9,
+    "t": "A teraz, hľa, oni ma vysmievajú. Činia zo mňa svoju bájku!"
+  },
+  {
+    "i": 13568,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 10,
+    "t": "Pohnutí hrôzou, držia sa v ústraní, predo mnou bez zábran pľujú."
+  },
+  {
+    "i": 13569,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 11,
+    "t": "A pretože uvoľnil môj luk a zrazil ma, odhadzujú uzdu v mojej prítomnosti."
+  },
+  {
+    "i": 13570,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 12,
+    "t": "Ich potomstvo sa vynára po mojej pravici, špehuje, či som pokojný a razí si ku mne svoje cesty zlovestné."
+  },
+  {
+    "i": 13571,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 13,
+    "t": "Zatvárajú mi každý východ, využívajú to, aby ma stratili a nik ich nezastaví,"
+  },
+  {
+    "i": 13572,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 14,
+    "t": "vnikajú ako cez široký prielom a som zvalený pod trosky."
+  },
+  {
+    "i": 13573,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 15,
+    "t": "Hrôzy sa obracajú proti mne, moja istota je zahnaná ako vetrom, moja nádej na spásu mizne ako oblak."
+  },
+  {
+    "i": 13574,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 16,
+    "t": "A teraz, život vo mne odteká, dni trápenia ma uchvátili."
+  },
+  {
+    "i": 13575,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 17,
+    "t": "V noci mi zlo preniká kosti a moji hlodavci nespia."
+  },
+  {
+    "i": 13576,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 18,
+    "t": "S násilím ma chytil za odev, zovrel golier mojej tuniky."
+  },
+  {
+    "i": 13577,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 19,
+    "t": "Hodím ma do blata, som ako prach a popol."
+  },
+  {
+    "i": 13578,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 20,
+    "t": "Kričím k Tebe a neodpovedáš; predstavujem sa bez toho, aby si si ma všimol."
+  },
+  {
+    "i": 13579,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 21,
+    "t": "Stal si sa ku mne krutým, tvoja mocná ruka sa na mne zúrivo prejavuje."
+  },
+  {
+    "i": 13580,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 22,
+    "t": "Ty ma vyzdvihuješ na vietor a rozpúšťaš ma v búrke."
+  },
+  {
+    "i": 13581,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 23,
+    "t": "Viem, že ma vedieš späť k smrti, k miestu stretnutia všetkého živého."
+  },
+  {
+    "i": 13582,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 24,
+    "t": "Či som pozdvihol ruku proti úbohému, keď vo svojej tiesni volal o spravodlivosť?"
+  },
+  {
+    "i": 13583,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 25,
+    "t": "Či som neplakal nad tým, ktorého život je ťažký, a necítil som ľútosť nad núdznym?"
+  },
+  {
+    "i": 13584,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 26,
+    "t": "Očakával som šťastie, a prišlo nešťastie; čakal som svetlo, a hľa, tma."
+  },
+  {
+    "i": 13585,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 27,
+    "t": "Moje vnútro neprestajne vrie, dni utrpenia ma postihli."
+  },
+  {
+    "i": 13586,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 28,
+    "t": "Ak kráčam s ponurou tvárou, nikto ma nepoteší, ak sa postavím v zhromaždení, je to, aby som kričal."
+  },
+  {
+    "i": 13587,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 29,
+    "t": "Stal som sa bratom šakalov a spoločníkom pštrosom."
+  },
+  {
+    "i": 13588,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 30,
+    "t": "Moja koža na mne sčernela, moje kosti sú spálené horúčkou."
+  },
+  {
+    "i": 13589,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 31,
+    "t": "Moja harfa je naladená na piesne smútku, moja flauta na hlas plačúcich."
+  },
+  {
+    "i": 13590,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 1,
+    "t": "Učinil som zmluvu so svojimi očami, aby som nehľadel na žiadnu pannu."
+  },
+  {
+    "i": 13591,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 2,
+    "t": "Aký podiel dáva teda Boh zhora a aký údel priraďuje Všemohúci zo svojho neba?"
+  },
+  {
+    "i": 13592,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 3,
+    "t": "Či nie je nešťastie to, čo vyhradil pre nespravodlivého, a protivenstvo pre zlých mužov?"
+  },
+  {
+    "i": 13593,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 4,
+    "t": "Či nevidí moje správanie, nepočíta všetky moje kroky?"
+  },
+  {
+    "i": 13594,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 5,
+    "t": "Či som kráčal po ceste s klamstvom, či som sa ponáhľal k faloši?"
+  },
+  {
+    "i": 13595,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 6,
+    "t": "Nech ma odváži na presnej váhe: on, Boh, spozná moju bezúhonnosť!"
+  },
+  {
+    "i": 13596,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 7,
+    "t": "Ak sa moje kroky odklonili od správnej cesty, ak moje srdce bolo strhnuté mojimi očami a ak sa k mojim rukám prilepila nečistota,"
+  },
+  {
+    "i": 13597,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 8,
+    "t": "nech iný zje to, čo som zasial, a nech sú vytrhnuté moje mladé výhonky!"
+  },
+  {
+    "i": 13598,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 9,
+    "t": "Ak moje srdce bolo zvedené ženou, ak som špehoval pri dverách môjho blížneho,"
+  },
+  {
+    "i": 13599,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 10,
+    "t": "nech moja žena melie pre iného, nech s ňou majú iní obcovanie!"
+  }
+]

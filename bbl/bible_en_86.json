@@ -1,0 +1,802 @@
+[
+  {
+    "i": 8600,
+    "b": 9,
+    "c": 1021,
+    "r": 1021,
+    "o": 20,
+    "t": "And there was yet a battle in Gath, where was a man of great stature, that had on every hand six fingers, and on every foot six toes, four and twenty in number; and he also was born to the giant."
+  },
+  {
+    "i": 8601,
+    "b": 9,
+    "c": 1021,
+    "r": 1021,
+    "o": 21,
+    "t": "And when he defied Israel, Jonathan the son of Shimea the brother of David slew him."
+  },
+  {
+    "i": 8602,
+    "b": 9,
+    "c": 1021,
+    "r": 1021,
+    "o": 22,
+    "t": "These four were born to the giant in Gath, and fell by the hand of David, and by the hand of his servants."
+  },
+  {
+    "i": 8603,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 1,
+    "t": "And David spake unto the LORD the words of this song in the day that the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul:"
+  },
+  {
+    "i": 8604,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 2,
+    "t": "And he said, The LORD is my rock, and my fortress, and my deliverer;"
+  },
+  {
+    "i": 8605,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 3,
+    "t": "The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence."
+  },
+  {
+    "i": 8606,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 4,
+    "t": "I will call on the LORD, who is worthy to be praised: so shall I be saved from mine enemies."
+  },
+  {
+    "i": 8607,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 5,
+    "t": "When the waves of death compassed me, the floods of ungodly men made me afraid;"
+  },
+  {
+    "i": 8608,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 6,
+    "t": "The sorrows of hell compassed me about; the snares of death prevented me;"
+  },
+  {
+    "i": 8609,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 7,
+    "t": "In my distress I called upon the LORD, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears."
+  },
+  {
+    "i": 8610,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 8,
+    "t": "Then the earth shook and trembled; the foundations of heaven moved and shook, because he was wroth."
+  },
+  {
+    "i": 8611,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 9,
+    "t": "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it."
+  },
+  {
+    "i": 8612,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 10,
+    "t": "He bowed the heavens also, and came down; and darkness was under his feet."
+  },
+  {
+    "i": 8613,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 11,
+    "t": "And he rode upon a cherub, and did fly: and he was seen upon the wings of the wind."
+  },
+  {
+    "i": 8614,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 12,
+    "t": "And he made darkness pavilions round about him, dark waters, and thick clouds of the skies."
+  },
+  {
+    "i": 8615,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 13,
+    "t": "Through the brightness before him were coals of fire kindled."
+  },
+  {
+    "i": 8616,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 14,
+    "t": "The LORD thundered from heaven, and the most High uttered his voice."
+  },
+  {
+    "i": 8617,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 15,
+    "t": "And he sent out arrows, and scattered them; lightning, and discomfited them."
+  },
+  {
+    "i": 8618,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 16,
+    "t": "And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of the LORD, at the blast of the breath of his nostrils."
+  },
+  {
+    "i": 8619,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 17,
+    "t": "He sent from above, he took me; he drew me out of many waters;"
+  },
+  {
+    "i": 8620,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 18,
+    "t": "He delivered me from my strong enemy, and from them that hated me: for they were too strong for me."
+  },
+  {
+    "i": 8621,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 19,
+    "t": "They prevented me in the day of my calamity: but the LORD was my stay."
+  },
+  {
+    "i": 8622,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 20,
+    "t": "He brought me forth also into a large place: he delivered me, because he delighted in me."
+  },
+  {
+    "i": 8623,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 21,
+    "t": "The LORD rewarded me according to my righteousness: according to the cleanness of my hands hath he recompensed me."
+  },
+  {
+    "i": 8624,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 22,
+    "t": "For I have kept the ways of the LORD, and have not wickedly departed from my God."
+  },
+  {
+    "i": 8625,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 23,
+    "t": "For all his judgments were before me: and as for his statutes, I did not depart from them."
+  },
+  {
+    "i": 8626,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 24,
+    "t": "I was also upright before him, and have kept myself from mine iniquity."
+  },
+  {
+    "i": 8627,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 25,
+    "t": "Therefore the LORD hath recompensed me according to my righteousness; according to my cleanness in his eye sight."
+  },
+  {
+    "i": 8628,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 26,
+    "t": "With the merciful thou wilt shew thyself merciful, and with the upright man thou wilt shew thyself upright."
+  },
+  {
+    "i": 8629,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 27,
+    "t": "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself unsavoury."
+  },
+  {
+    "i": 8630,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 28,
+    "t": "And the afflicted people thou wilt save: but thine eyes are upon the haughty, that thou mayest bring them down."
+  },
+  {
+    "i": 8631,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 29,
+    "t": "For thou art my lamp, O LORD: and the LORD will lighten my darkness."
+  },
+  {
+    "i": 8632,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 30,
+    "t": "For by thee I have run through a troop: by my God have I leaped over a wall."
+  },
+  {
+    "i": 8633,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 31,
+    "t": "As for God, his way is perfect; the word of the LORD is tried: he is a buckler to all them that trust in him."
+  },
+  {
+    "i": 8634,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 32,
+    "t": "For who is God, save the LORD? and who is a rock, save our God?"
+  },
+  {
+    "i": 8635,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 33,
+    "t": "God is my strength and power: and he maketh my way perfect."
+  },
+  {
+    "i": 8636,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 34,
+    "t": "He maketh my feet like hinds' feet: and setteth me upon my high places."
+  },
+  {
+    "i": 8637,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 35,
+    "t": "He teacheth my hands to war; so that a bow of steel is broken by mine arms."
+  },
+  {
+    "i": 8638,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 36,
+    "t": "Thou hast also given me the shield of thy salvation: and thy gentleness hath made me great."
+  },
+  {
+    "i": 8639,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 37,
+    "t": "Thou hast enlarged my steps under me; so that my feet did not slip."
+  },
+  {
+    "i": 8640,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 38,
+    "t": "I have pursued mine enemies, and destroyed them; and turned not again until I had consumed them."
+  },
+  {
+    "i": 8641,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 39,
+    "t": "And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet."
+  },
+  {
+    "i": 8642,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 40,
+    "t": "For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me."
+  },
+  {
+    "i": 8643,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 41,
+    "t": "Thou hast also given me the necks of mine enemies, that I might destroy them that hate me."
+  },
+  {
+    "i": 8644,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 42,
+    "t": "They looked, but there was none to save; even unto the LORD, but he answered them not."
+  },
+  {
+    "i": 8645,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 43,
+    "t": "Then did I beat them as small as the dust of the earth, I did stamp them as the mire of the street, and did spread them abroad."
+  },
+  {
+    "i": 8646,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 44,
+    "t": "Thou also hast delivered me from the strivings of my people, thou hast kept me to be head of the heathen: a people whom I have not known shall serve me."
+  },
+  {
+    "i": 8647,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 45,
+    "t": "Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me."
+  },
+  {
+    "i": 8648,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 46,
+    "t": "Strangers shall fade away, and they shall be afraid out of their close places."
+  },
+  {
+    "i": 8649,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 47,
+    "t": "The LORD liveth; and blessed be my rock; and exalted be the God of the rock of my salvation."
+  },
+  {
+    "i": 8650,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 48,
+    "t": "It is God that avengeth me, and that subdueth the people under me,"
+  },
+  {
+    "i": 8651,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 49,
+    "t": "And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man."
+  },
+  {
+    "i": 8652,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 50,
+    "t": "Therefore I will give thanks unto thee, O LORD, among the heathen, and I will sing praises unto thy name."
+  },
+  {
+    "i": 8653,
+    "b": 9,
+    "c": 1022,
+    "r": 1022,
+    "o": 51,
+    "t": "He is the tower of salvation for his king: and sheweth mercy to his anointed, unto David, and to his seed for evermore."
+  },
+  {
+    "i": 8654,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 1,
+    "t": "Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,"
+  },
+  {
+    "i": 8655,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 2,
+    "t": "The Spirit of the LORD spake by me, and his word was in my tongue."
+  },
+  {
+    "i": 8656,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 3,
+    "t": "The God of Israel said, the Rock of Israel spake to me, He that ruleth over men must be just, ruling in the fear of God."
+  },
+  {
+    "i": 8657,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 4,
+    "t": "And he shall be as the light of the morning, when the sun riseth, even a morning without clouds; as the tender grass springing out of the earth by clear shining after rain."
+  },
+  {
+    "i": 8658,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 5,
+    "t": "Although my house be not so with God; yet he hath made with me an everlasting covenant, ordered in all things, and sure: for this is all my salvation, and all my desire, although he make it not to grow."
+  },
+  {
+    "i": 8659,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 6,
+    "t": "But the sons of Belial shall be all of them as thorns thrust away, because they cannot be taken with hands:"
+  },
+  {
+    "i": 8660,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 7,
+    "t": "But the man that shall touch them must be fenced with iron and the staff of a spear; and they shall be utterly burned with fire in the same place."
+  },
+  {
+    "i": 8661,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 8,
+    "t": "These be the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same was Adino the Eznite: he lift up his spear against eight hundred whom he slew at one time."
+  },
+  {
+    "i": 8662,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 9,
+    "t": "And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away:"
+  },
+  {
+    "i": 8663,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 10,
+    "t": "He arose, and smote the Philistines until his hand was weary, and his hand clave unto the sword: and the LORD wrought a great victory that day; and the people returned after him only to spoil."
+  },
+  {
+    "i": 8664,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 11,
+    "t": "And after him was Shammah the son of Agee the Hararite. And the Philistines were gathered together into a troop, where was a piece of ground full of lentiles: and the people fled from the Philistines."
+  },
+  {
+    "i": 8665,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 12,
+    "t": "But he stood in the midst of the ground, and defended it, and slew the Philistines: and the LORD wrought a great victory."
+  },
+  {
+    "i": 8666,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 13,
+    "t": "And three of the thirty chief went down, and came to David in the harvest time unto the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim."
+  },
+  {
+    "i": 8667,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 14,
+    "t": "And David was then in an hold, and the garrison of the Philistines was then in Bethlehem."
+  },
+  {
+    "i": 8668,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 15,
+    "t": "And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, which is by the gate!"
+  },
+  {
+    "i": 8669,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 16,
+    "t": "And the three mighty men brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink thereof, but poured it out unto the LORD."
+  },
+  {
+    "i": 8670,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 17,
+    "t": "And he said, Be it far from me, O LORD, that I should do this: is not this the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did these three mighty men."
+  },
+  {
+    "i": 8671,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 18,
+    "t": "And Abishai, the brother of Joab, the son of Zeruiah, was chief among three: and he lifted up his spear against three hundred, and slew them, and had the name among three."
+  },
+  {
+    "i": 8672,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 19,
+    "t": "Was he not most honourable of three? therefore he was their captain: howbeit he attained not unto the first three."
+  },
+  {
+    "i": 8673,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 20,
+    "t": "And Benaiah the son of Jehoiada, the son of a valiant man, of Kabzeel, who had done many acts, he slew two lionlike men of Moab: he went down also and slew a lion in the midst of a pit in time of snow:"
+  },
+  {
+    "i": 8674,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 21,
+    "t": "And he slew an Egyptian, a goodly man: and the Egyptian had a spear in his hand; but he went down to him with a staff, and plucked the spear out of the Egyptian's hand, and slew him with his own spear."
+  },
+  {
+    "i": 8675,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 22,
+    "t": "These things did Benaiah the son of Jehoiada, and had the name among three mighty men."
+  },
+  {
+    "i": 8676,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 23,
+    "t": "He was more honourable than the thirty, but he attained not to the first three: and David set him over his guard."
+  },
+  {
+    "i": 8677,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 24,
+    "t": "Asahel the brother of Joab was one of the thirty; Elhanan the son of Dodo of Bethlehem,"
+  },
+  {
+    "i": 8678,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 25,
+    "t": "Shammah the Harodite, Elika the Harodite,"
+  },
+  {
+    "i": 8679,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 26,
+    "t": "Helez the Paltite, Ira the son of Ikkesh the Tekoite,"
+  },
+  {
+    "i": 8680,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 27,
+    "t": "Abiezer the Anathothite, and Sibbecai the Hushathite,"
+  },
+  {
+    "i": 8681,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 28,
+    "t": "Salmon the Ahohite, Maharai the Netophathite,"
+  },
+  {
+    "i": 8682,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 29,
+    "t": "Heled the son of Baanah the Netophathite, Ittai the son of Ribai from Gibeah of the children of Benjamin,"
+  },
+  {
+    "i": 8683,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 30,
+    "t": "Benaiah the Pirathonite, Hiddai from the brooks of Gaash,"
+  },
+  {
+    "i": 8684,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 31,
+    "t": "Abi-albon the Arbathite, Azmaveth the Barhumite,"
+  },
+  {
+    "i": 8685,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 32,
+    "t": "Eliahba the Shaalbonite, of the sons of Jashen, Jonathan,"
+  },
+  {
+    "i": 8686,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 33,
+    "t": "Shammah the Hararite, Ahiam the son of Sharar the Hararite,"
+  },
+  {
+    "i": 8687,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 34,
+    "t": "Eliphelet the son of Ahasbai, the son of the Maachathite, Eliam the son of Ahithophel the Gilonite,"
+  },
+  {
+    "i": 8688,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 35,
+    "t": "Hezrai the Carmelite, Paarai the Arbite,"
+  },
+  {
+    "i": 8689,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 36,
+    "t": "Igal the son of Nathan of Zobah, Bani the Gadite,"
+  },
+  {
+    "i": 8690,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 37,
+    "t": "Zelek the Ammonite, Naharai the Beerothite, armourbearer to Joab the son of Zeruiah,"
+  },
+  {
+    "i": 8691,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 38,
+    "t": "Ira the Ithrite, Gareb the Ithrite,"
+  },
+  {
+    "i": 8692,
+    "b": 9,
+    "c": 1023,
+    "r": 1023,
+    "o": 39,
+    "t": "Uriah the Hittite: thirty and seven in all."
+  },
+  {
+    "i": 8693,
+    "b": 9,
+    "c": 1024,
+    "r": 1024,
+    "o": 1,
+    "t": "And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah."
+  },
+  {
+    "i": 8694,
+    "b": 9,
+    "c": 1024,
+    "r": 1024,
+    "o": 2,
+    "t": "For the king said to Joab the captain of the host, which was with him, Go now through all the tribes of Israel, from Dan even to Beersheba, and number ye the people, that I may know the number of the people."
+  },
+  {
+    "i": 8695,
+    "b": 9,
+    "c": 1024,
+    "r": 1024,
+    "o": 3,
+    "t": "And Joab said unto the king, Now the LORD thy God add unto the people, how many soever they be, an hundredfold, and that the eyes of my lord the king may see it: but why doth my lord the king delight in this thing?"
+  },
+  {
+    "i": 8696,
+    "b": 9,
+    "c": 1024,
+    "r": 1024,
+    "o": 4,
+    "t": "Notwithstanding the king's word prevailed against Joab, and against the captains of the host. And Joab and the captains of the host went out from the presence of the king, to number the people of Israel."
+  },
+  {
+    "i": 8697,
+    "b": 9,
+    "c": 1024,
+    "r": 1024,
+    "o": 5,
+    "t": "And they passed over Jordan, and pitched in Aroer, on the right side of the city that lieth in the midst of the river of Gad, and toward Jazer:"
+  },
+  {
+    "i": 8698,
+    "b": 9,
+    "c": 1024,
+    "r": 1024,
+    "o": 6,
+    "t": "Then they came to Gilead, and to the land of Tahtimhodshi; and they came to Danjaan, and about to Zidon,"
+  },
+  {
+    "i": 8699,
+    "b": 9,
+    "c": 1024,
+    "r": 1024,
+    "o": 7,
+    "t": "And came to the strong hold of Tyre, and to all the cities of the Hivites, and of the Canaanites: and they went out to the south of Judah, even to Beersheba."
+  }
+]

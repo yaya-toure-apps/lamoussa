@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16800,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 15,
+    "t": "O caminho do insensato é reto aos seus próprios olhos, mas o sábio dá ouvidos ao conselho."
+  },
+  {
+    "i": 16801,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 16,
+    "t": "O insensato manifesta de pronto sua ira, mas o prudente dissimula o desprezo."
+  },
+  {
+    "i": 16802,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 17,
+    "t": "Aquele que revela a verdade proclama a justiça, mas a testemunha falsa não é senão engano."
+  },
+  {
+    "i": 16803,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 18,
+    "t": "Há quem fale impensadamente como golpes de espada, mas a língua dos sábios sara."
+  },
+  {
+    "i": 16804,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 19,
+    "t": "O lábio sincero permanece para sempre, mas a língua mentirosa, apenas por um instante."
+  },
+  {
+    "i": 16805,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 20,
+    "t": "No coração que maquina o mal há engano; mas para os conselheiros da paz há alegria."
+  },
+  {
+    "i": 16806,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 21,
+    "t": "Nenhum mal sobrevirá ao justo, mas os ímpios serão cumulados de desgraça."
+  },
+  {
+    "i": 16807,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 22,
+    "t": "Lábios mentirosos são abominação para o Senhor, mas os que praticam a verdade são o seu deleite."
+  },
+  {
+    "i": 16808,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 23,
+    "t": "O homem prudente oculta o seu saber, mas o coração dos insensatos proclama a sua insensatez."
+  },
+  {
+    "i": 16809,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 24,
+    "t": "A mão diligente dominará, mas a mão preguiçosa será sujeita a trabalhos forçados."
+  },
+  {
+    "i": 16810,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 25,
+    "t": "A ansiedade no coração do homem o abate, mas uma boa palavra o alegra."
+  },
+  {
+    "i": 16811,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 26,
+    "t": "O justo serve de guia ao seu companheiro, mas o caminho dos ímpios os desgarra."
+  },
+  {
+    "i": 16812,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 27,
+    "t": "O preguiçoso não assa a sua caça, mas a diligência é um precioso bem do homem."
+  },
+  {
+    "i": 16813,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 28,
+    "t": "No caminho da justiça está a vida, mas na vereda dos perversos há morte."
+  },
+  {
+    "i": 16814,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 1,
+    "t": "O filho sábio atende à disciplina do seu pai, mas o escarnecedor não ouve a repreensão."
+  },
+  {
+    "i": 16815,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 2,
+    "t": "Pelo fruto da sua boca, o homem se alimenta do que é bom, mas a alma dos traiçoeiros se banqueteia com a violência."
+  },
+  {
+    "i": 16816,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 3,
+    "t": "O que guarda a sua boca preserva a sua vida, mas o que muito abre os seus lábios se arruína."
+  },
+  {
+    "i": 16817,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 4,
+    "t": "O preguiçoso deseja, mas não alcança, a alma dos diligentes, porém, será satisfeita."
+  },
+  {
+    "i": 16818,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 5,
+    "t": "O justo aborrece a palavra mentirosa, mas o ímpio se torna repugnante e se cobre de vergonha."
+  },
+  {
+    "i": 16819,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 6,
+    "t": "A justiça guarda aquele cujo caminho é reto, mas a impiedade transtorna o pecador."
+  },
+  {
+    "i": 16820,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 7,
+    "t": "Há quem se faça rico sem ter nada, e quem se faça pobre, tendo grandes riquezas."
+  },
+  {
+    "i": 16821,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 8,
+    "t": "As riquezas do homem são o resgate da sua vida, mas o pobre não ouve a ameaça."
+  },
+  {
+    "i": 16822,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 9,
+    "t": "A luz dos justos resplandece, mas a lâmpada dos ímpios se apagará."
+  },
+  {
+    "i": 16823,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 10,
+    "t": "Da soberba só provém a contenda, mas com os que recebem conselhos está a sabedoria."
+  },
+  {
+    "i": 16824,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 11,
+    "t": "A riqueza que vem depressa diminui, mas quem a ajunta pouco a pouco a aumenta."
+  },
+  {
+    "i": 16825,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 12,
+    "t": "A esperança demorada entristece o coração, mas o desejo cumprido é árvore de vida."
+  },
+  {
+    "i": 16826,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 13,
+    "t": "Quem despreza a palavra perecerá, mas o que teme o mandamento será galardoado."
+  },
+  {
+    "i": 16827,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 14,
+    "t": "O ensino do sábio é fonte de vida, para desviar dos laços da morte."
+  },
+  {
+    "i": 16828,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 15,
+    "t": "O bom entendimento conquista favor, mas o caminho dos traiçoeiros é árduo."
+  },
+  {
+    "i": 16829,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 16,
+    "t": "Todo homem prudente age com conhecimento, mas o insensato espalha a sua loucura."
+  },
+  {
+    "i": 16830,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 17,
+    "t": "O mensageiro ímpio cai no mal, mas o mensageiro fiel traz a cura."
+  },
+  {
+    "i": 16831,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 18,
+    "t": "Pobreza e vergonha virão sobre o que rejeita a disciplina, mas o que guarda a repreensão será honrado."
+  },
+  {
+    "i": 16832,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 19,
+    "t": "O desejo cumprido deleita a alma, mas apartar-se do mal é abominação para os insensatos."
+  },
+  {
+    "i": 16833,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 20,
+    "t": "Quem anda com os sábios será sábio, mas o companheiro dos insensatos se tornará mau."
+  },
+  {
+    "i": 16834,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 21,
+    "t": "O mal persegue os pecadores, mas os justos serão recompensados com o bem."
+  },
+  {
+    "i": 16835,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 22,
+    "t": "O homem bom deixa herança aos filhos de seus filhos, mas a riqueza do pecador é depositada para o justo."
+  },
+  {
+    "i": 16836,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 23,
+    "t": "Na lavoura dos pobres há muito alimento, mas por falta de justiça muitos se perdem."
+  },
+  {
+    "i": 16837,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 24,
+    "t": "O que retém a vara aborrece a seu filho, mas o que o ama, diligentemente o corrige."
+  },
+  {
+    "i": 16838,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 25,
+    "t": "O justo come até satisfazer a sua alma, mas o ventre dos ímpios passará fome."
+  },
+  {
+    "i": 16839,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 1,
+    "t": "A sabedoria edifica a sua casa, mas a insensatez, com as próprias mãos, a derruba."
+  },
+  {
+    "i": 16840,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 2,
+    "t": "Quem anda na retidão teme ao Senhor, mas o que se desvia dos seus caminhos o despreza."
+  },
+  {
+    "i": 16841,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 3,
+    "t": "Na boca do insensato há uma vara para a sua soberba, mas os lábios dos sábios os preservam."
+  },
+  {
+    "i": 16842,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 4,
+    "t": "Não havendo bois, o celeiro fica limpo, mas pela força do boi há abundância de colheitas."
+  },
+  {
+    "i": 16843,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 5,
+    "t": "A testemunha verdadeira não mente, mas a testemunha falsa profere mentiras."
+  },
+  {
+    "i": 16844,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 6,
+    "t": "O escarnecedor busca a sabedoria e não a encontra, mas para o entendido o conhecimento é fácil."
+  },
+  {
+    "i": 16845,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 7,
+    "t": "Afasta-te da presença do insensato, pois não encontrarás nele lábios que falem com conhecimento."
+  },
+  {
+    "i": 16846,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 8,
+    "t": "A sabedoria do prudente é entender o seu caminho, mas a estultícia dos insensatos é engano."
+  },
+  {
+    "i": 16847,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 9,
+    "t": "Os insensatos zombam do pecado, mas entre os retos há boa vontade."
+  },
+  {
+    "i": 16848,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 10,
+    "t": "O coração conhece a sua própria amargura, e da sua alegria não participará o estranho."
+  },
+  {
+    "i": 16849,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 11,
+    "t": "A casa dos ímpios será destruída, mas a tenda dos retos florescerá."
+  },
+  {
+    "i": 16850,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 12,
+    "t": "Há caminho que ao homem parece direito, mas ao cabo dá em caminhos de morte."
+  },
+  {
+    "i": 16851,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 13,
+    "t": "Até no riso o coração sente dor, e o fim da alegria é tristeza."
+  },
+  {
+    "i": 16852,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 14,
+    "t": "O infiel de coração se fartará dos seus caminhos, mas o homem bom se satisfará das suas obras."
+  },
+  {
+    "i": 16853,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 15,
+    "t": "O simples dá crédito a toda palavra, mas o prudente atenta para os seus passos."
+  },
+  {
+    "i": 16854,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 16,
+    "t": "O sábio teme e se desvia do mal, mas o insensato é arrogante e dá-se por seguro."
+  },
+  {
+    "i": 16855,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 17,
+    "t": "O que depressa se ira faz loucuras, e o homem de maus intentos é odiado."
+  },
+  {
+    "i": 16856,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 18,
+    "t": "Os simples herdarão a estultícia, mas os prudentes serão coroados de conhecimento."
+  },
+  {
+    "i": 16857,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 19,
+    "t": "Os maus se inclinarão diante dos bons, e os ímpios, às portas do justo."
+  },
+  {
+    "i": 16858,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 20,
+    "t": "O pobre é odiado até pelo seu próximo, mas os amigos do rico são muitos."
+  },
+  {
+    "i": 16859,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 21,
+    "t": "O que despreza o seu próximo peca, mas bem-aventurado é o que se compadece dos pobres."
+  },
+  {
+    "i": 16860,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 22,
+    "t": "Porventura não erram os que maquinam o mal? Mas misericórdia e fidelidade haverá para os que planejam o bem."
+  },
+  {
+    "i": 16861,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 23,
+    "t": "Em todo trabalho há proveito, mas as palavras vãs levam à pobreza."
+  },
+  {
+    "i": 16862,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 24,
+    "t": "A coroa dos sábios é a sua riqueza, mas a estultícia dos insensatos é pura estultícia."
+  },
+  {
+    "i": 16863,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 25,
+    "t": "A testemunha verdadeira livra almas, mas o que profere mentiras é enganoso."
+  },
+  {
+    "i": 16864,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 26,
+    "t": "No temor do Senhor há firme confiança, e os seus filhos terão um refúgio."
+  },
+  {
+    "i": 16865,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 27,
+    "t": "O temor do Senhor é fonte de vida, para evitar os laços da morte."
+  },
+  {
+    "i": 16866,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 28,
+    "t": "Na multidão do povo está a glória do rei, mas na diminuição do povo a ruína do príncipe."
+  },
+  {
+    "i": 16867,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 29,
+    "t": "O longânimo é grande em entendimento, mas o que se exaspera revela a sua loucura."
+  },
+  {
+    "i": 16868,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 30,
+    "t": "O coração tranqüilo é a vida da carne, mas a inveja é a podridão dos ossos."
+  },
+  {
+    "i": 16869,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 31,
+    "t": "O que oprime ao pobre insulta ao seu Criador, mas o que se compadece do necessitado o honra."
+  },
+  {
+    "i": 16870,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 32,
+    "t": "Pela sua própria maldade é derrubado o ímpio, mas o justo encontra refúgio na sua integridade."
+  },
+  {
+    "i": 16871,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 33,
+    "t": "No coração do entendido reside a sabedoria, mas entre os insensatos ela se dá a conhecer."
+  },
+  {
+    "i": 16872,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 34,
+    "t": "A justiça exalta as nações, mas o pecado é o opróbrio dos povos."
+  },
+  {
+    "i": 16873,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 35,
+    "t": "O servo prudente recebe o favor do rei, mas a sua ira é contra o que causa vergonha."
+  },
+  {
+    "i": 16874,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 1,
+    "t": "A resposta branda desvia o furor, mas a palavra dura suscita a ira."
+  },
+  {
+    "i": 16875,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 2,
+    "t": "A língua dos sábios adorna o conhecimento, mas a boca dos insensatos derrama a estultícia."
+  },
+  {
+    "i": 16876,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 3,
+    "t": "Os olhos do Senhor estão em todo lugar, contemplando os maus e os bons."
+  },
+  {
+    "i": 16877,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 4,
+    "t": "A língua benigna é árvore de vida, mas a perversidade nela quebranta o espírito."
+  },
+  {
+    "i": 16878,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 5,
+    "t": "O insensato despreza a instrução de seu pai, mas o que observa a repreensão mostra-se prudente."
+  },
+  {
+    "i": 16879,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 6,
+    "t": "Na casa do justo há grande tesouro, mas nos ganhos do ímpio há perturbação."
+  },
+  {
+    "i": 16880,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 7,
+    "t": "Os lábios do justo derramam conhecimento, mas o coração dos tolos não o possui."
+  },
+  {
+    "i": 16881,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 8,
+    "t": "O sacrifício dos ímpios é abominação ao Senhor, mas a oração dos retos é o seu deleite."
+  },
+  {
+    "i": 16882,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 9,
+    "t": "O proceder perverso é abominação ao Senhor, mas ele ama aquele que segue a justiça."
+  },
+  {
+    "i": 16883,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 10,
+    "t": "Dura correção receberá aquele que abandona o caminho; quem odeia a repreensão morrerá."
+  },
+  {
+    "i": 16884,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 11,
+    "t": "O Seol e a Destruição estão diante do Senhor; quanto mais o coração dos filhos dos homens!"
+  },
+  {
+    "i": 16885,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 12,
+    "t": "O escarnecedor não ama aquele que o repreende, nem procura os sábios."
+  },
+  {
+    "i": 16886,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 13,
+    "t": "O coração alegre aformoseia o rosto, mas pela tristeza do coração o espírito se abate."
+  },
+  {
+    "i": 16887,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 14,
+    "t": "O coração entendido busca o conhecimento, mas a boca dos tolos alimenta-se de estultícia."
+  },
+  {
+    "i": 16888,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 15,
+    "t": "Todos os dias são maus para o aflito, mas o de coração alegre tem um banquete contínuo."
+  },
+  {
+    "i": 16889,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 16,
+    "t": "Melhor é o pouco com o temor do Senhor do que um grande tesouro com inquietação."
+  },
+  {
+    "i": 16890,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 17,
+    "t": "Melhor é um prato de hortaliças, onde há amor, do que um boi gordo, e com ele ódio."
+  },
+  {
+    "i": 16891,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 18,
+    "t": "O homem iracundo suscita contendas, mas o longânimo aquieta a rixa."
+  },
+  {
+    "i": 16892,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 19,
+    "t": "O caminho do preguiçoso é como uma sebe de espinhos, mas a vereda dos retos está nivelada."
+  },
+  {
+    "i": 16893,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 20,
+    "t": "O filho sábio alegra a seu pai, mas o homem insensato despreza a sua mãe."
+  },
+  {
+    "i": 16894,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 21,
+    "t": "A estultícia alegra ao que carece de entendimento, mas o homem inteligente anda retamente."
+  },
+  {
+    "i": 16895,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 22,
+    "t": "Os planos fracassam por falta de conselho, mas com muitos conselheiros há bom êxito."
+  },
+  {
+    "i": 16896,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 23,
+    "t": "O homem se alegra com a resposta da sua boca, e a palavra a seu tempo, quão boa é!"
+  },
+  {
+    "i": 16897,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 24,
+    "t": "Para o entendido, o caminho da vida leva para cima, para que ele se desvie do Seol embaixo."
+  },
+  {
+    "i": 16898,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 25,
+    "t": "O Senhor destrói a casa dos soberbos, mas estabelece os limites da viúva."
+  },
+  {
+    "i": 16899,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 26,
+    "t": "Os pensamentos perversos são abominação ao Senhor, mas as palavras bondosas são puras."
+  }
+]

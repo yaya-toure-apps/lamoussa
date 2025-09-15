@@ -1,0 +1,788 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "Smatrajte jazavca nečistim, jer premda preživa, nema razdvojenih papaka;"
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "Smatrajte zeca nečistim, jer premda preživa, nema razdvojenih papaka;"
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "Smatrajte svinju nečistom, jer premda ima razdvojene papke, ne preživa."
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "Meso njihovo ne jedite niti se mrtvih tijela njihovih dotičite; smatrajte ih nečistima."
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "Od svega što živi u vodi, ovo smijete jesti: što god ima peraje i ljuske, u morima i rijekama, to jedite."
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "A što god nema peraja i ljusaka, u morima i rijekama, od svih živih stvorova koji se ondje nalaze, smatrajte gadljivim."
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "Smatrajte ih gadljivim, mesa njihova ne jedite, i mrtvih tijela njihovih se gnušajte."
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "Što god živi u vodi, a nema peraja ni ljusaka, smatrajte gadljivim."
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "Od ptica, ovo smatrajte gadljivim; ne jedite ih, jer su gadljive: strvinar, jastreb, orao ribar,"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "crni lunj, i različite vrste crvenih lunjeva,"
+  },
+  { "i": 3010, "b": 2, "c": 311, "r": 311, "o": 15, "t": "sve vrste gavrana," },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "noj, ćuk, galeb i različite vrste sokola,"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "sova ušara, vranac, sova,"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "ibis, pelikan, bjeloglavi sup,"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "roda i različite vrste čaplji, pupavac, šišmiš."
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "Sve krilate životinje koje hode na četiri noge, smatrajte gadljivima."
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "Od svih tih krilatih životinja koje hode na četiri noge, smijete jesti samo one koje imaju noge iznad svojih stopala, da skaču po tlu."
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "Ovo smijete jesti: različite vrste migratornih skakavaca, solham skakavaca, hargol skakavaca, hagab skakavaca."
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "Ali sve krilate životinje koje hode na četiri noge, smatrajte gadljivima."
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "Od njih ćete se onečistiti: tko se dotakne mrtvog tijela njihova, bit će nečist do večeri."
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "Tko ponese mrtvo tijelo njihovo, neka opere haljine svoje i bit će nečist do večeri."
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "Što se tiče životinja koje imaju papak, ali ne razdvojen, i koje ne preživaju, smatrajte ih nečistima; tko ih se dotakne, bit će nečist."
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "One od životinja na četiri noge koje hode po tabanu, smatrajte nečistima; tko se dotakne mrtvog tijela njihova, bit će nečist do večeri,"
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "i tko ponese mrtvo tijelo njihovo, neka opere haljine svoje i bit će nečist do večeri. Smatrajte ih nečistima."
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "Ovo su od životinja koje gmižu po zemlji one koje smatrajte nečistima: krtica, štakor i različite vrste guštera:"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "gekon, koah, letaah, kameleon i tinhamet."
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "Od svih tih životinja, to su one koje ćete smatrati nečistima. Tko ih se dotakne kad su mrtve, bit će nečist do večeri."
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "Svaki predmet na koji padne jedan od njih, kad umre, postaje nečist: svaki drveni pribor, odjeća, koža, vreća, bilo kakav pribor. Stavit će se u vodu i bit će nečist do večeri; tada će biti čist."
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "Svaka glinena posuda u koju padne jedan od njih, razbit ćete je; sadržaj njezin je nečist."
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "Svaka hrana koju jedete bit će nečista, čak i ako je navlažena vodom; svako piće koje pijete bit će nečisto, bez obzira na posudu."
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "Sve na što padne jedan od njihovih mrtvih tijela bit će nečisto; peć i ognjište bit će uništeni, jer nečisti su i nečisti će vam biti"
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "(ipak, izvori, cisterne i prostranstva vode ostat će čisti); tko se dotakne jednog od njihovih mrtvih tijela, bit će nečist."
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "Ako jedan od njihovih mrtvih tijela padne na bilo koje sjeme, ostat će čisto,"
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "ali ako je sjeme navlaženo vodom i ako jedan od njihovih mrtvih tijela padne na njega, smatrajte ga nečistim."
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "Ako umre jedna od životinja koje vam služe za hranu, onaj tko se dotakne mrtvog tijela njezina bit će nečist do večeri,"
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "onaj tko jede od mesa njezina mrtvog tijela neka opere haljine svoje i bit će nečist do večeri, onaj tko ponese mrtvo tijelo njezino neka opere haljine svoje i bit će nečist do večeri."
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "Svaka životinja koja gmiže po zemlji je gadljiva, ne jedite je."
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "Sve što se vuče po trbuhu, sve što hoda na četiri noge ili više, ukratko, sve životinje koje gmižu po zemlji, ne jedite ih, jer su gadljive."
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "Ne onečišćujte se svim tim životinjama koje gmižu, ne prljajte se njima i ne budite onečišćeni njima."
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "Jer ja sam Jahve, Bog vaš. Posvetite se i budite sveti, jer ja sam svet; stoga se ne onečišćujte svim tim životinjama koje gmižu po zemlji."
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "Da, ja sam Jahve, koji vas je izveo iz zemlje egipatske da vam budem Bog: stoga budite sveti, jer ja sam svet."
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "To je zakon o životinjama, pticama, svim živim bićima koja se kreću u vodi i svim bićima koja gmižu po zemlji."
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "Njegova je svrha odvojiti čisto od nečistog, životinje koje se smiju jesti od onih koje se ne smiju jesti."
+  },
+  { "i": 3043, "b": 2, "c": 312, "r": 312, "o": 1, "t": "Jahve reče Mojsiju:" },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Govori Izraelcima i reci im: Ako žena zatrudni i rodi dječaka, bit će nečista sedam dana, kao u vrijeme nečistoće mjesečnice."
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "Osmoga dana neka se obreže prepucij djeteta,"
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "i trideset i tri dana neka ostane u čišćenju krvi svoje. Ništa posvećeno neka se ne dotiče i neka ne ide u svetište dok se ne navrši vrijeme njezina čišćenja."
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "Ako rodi djevojčicu, bit će nečista dva tjedna, kao za vrijeme mjesečnice, i šezdeset i šest dana neka ostane u čišćenju krvi svoje."
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "Kad se navrši razdoblje njezina čišćenja, bilo za dječaka ili za djevojčicu, neka donese svećeniku, na ulazu u Šator sastanka, janje od jedne godine za žrtvu paljenicu i goluba ili grlicu za žrtvu za grijeh."
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "Svećenik će ga prinijeti pred Jahvom, obaviti nad njom obred pomirenja i bit će očišćena od tečenja krvi svoje. To je zakon o ženi koja rađa dječaka ili djevojčicu."
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "Ako ne može naći novac za janje, neka uzme dvije grlice ili dva goluba, jednoga za žrtvu paljenicu, a drugoga za žrtvu za grijeh. Svećenik će nad njom obaviti obred pomirenja i bit će očišćena."
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "Jahve reče Mojsiju i Aronu:"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "Ako se na koži čovjeka pojavi oteklina, lišaj ili mrlja, treba predvidjeti slučaj kožne gube. Neka ga odvedu Aronu, svećeniku, ili jednom od njegovih sinova svećenika."
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "Svećenik neka pregleda bolest na koži. Ako je na bolesnom mjestu dlaka pobijelila, ako bolest čini udubinu u epidermi, to je slučaj gube; nakon promatranja svećenik će proglasiti čovjeka nečistim."
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "Ali ako je na koži bijela mrlja, bez vidljive depresije kože i bez pobijeljenja dlake, svećenik će bolesnika zatvoriti na sedam dana."
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "Pregledat će ga sedmoga dana. Ako svojim očima vidi da bolest postoji bez da se širi po koži, zatvorit će ga još sedam dana"
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "i ponovno ga pregledati sedmoga dana. Ako utvrdi da je bolest postala mat i da se nije proširila po koži, svećenik će proglasiti tog čovjeka čistim: to je lišaj. Nakon što opere odjeću, bit će čist."
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "Ali ako se lišaj proširi po koži nakon što je bolesnika pregledao svećenik i proglasio ga čistim, ponovno će se pojaviti pred njim."
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "Nakon što ga pregleda i nakon što utvrdi da se lišaj proširio po koži, svećenik će ga proglasiti nečistim: to je guba."
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "Kada se na čovjeku pojavi bolest nalik gubi, neka ga odvedu svećeniku."
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "Svećenik će ga pregledati, i ako na koži primijeti bjelkastu oteklinu s pobijeljelom dlakom i pojavom čira,"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "to je kronična guba na koži. Svećenik će ga proglasiti nečistim. Neće ga zatvoriti, bez sumnje je nečist."
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "Ali ako se guba širi po koži, ako bolest prekrije cijelu kožu i proteže se od glave do pete, kamo god svećenik pogleda,"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "ovaj će pregledati bolesnika i, utvrdivši da je guba prekrila cijelo njegovo tijelo, proglasit će bolesnika čistim. Budući da je sve pobijelilo, čist je."
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "Međutim, na dan kad se na njemu pojavi čir, bit će nečist."
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "Nakon pregleda čira, svećenik će ga proglasiti nečistim: čir je nečist, to je guba."
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "Ali ako čir ponovno postane bijel, čovjek će otići svećeniku,"
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "ovaj će ga pregledati i, ako utvrdi da je bolest pobijelila, proglasit će bolesnika čistim: on je čist."
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "Kada se na koži nekoga pojavi čir koji je zacijelio,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "ako se na mjestu čira pojavi bjelkasta oteklina ili mrlja crvenkasto-bijele boje, taj će se čovjek pokazati svećeniku."
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "Ovaj će ga pregledati; ako primijeti vidljivo spuštanje kože i pobijeljenje dlake, svećenik će ga proglasiti nečistim: to je slučaj gube koja se širi u čiru."
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "Ako svećenik pri pregledu ne primijeti bijele dlake, niti spuštanje kože, već zamagljenost bolesti, zatvorit će bolesnika na sedam dana."
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "Proglasit će ga nečistim ako se bolest proširila po koži: to je slučaj gube."
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "Ali ako je mrlja ostala stacionarna bez širenja, to je ožiljak od čira: svećenik će proglasiti tog čovjeka čistim."
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Kada se na koži nekoga dogodi opeklina, ako se na opeklinu formira apsces, crvenkasto-bijela ili bjelkasta mrlja,"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "svećenik će je pregledati. Ako primijeti pobijeljenje dlake ili vidljivo spuštanje mrlje u koži, to je guba koja se širi u opeklinu. Svećenik će proglasiti čovjeka nečistim: to je slučaj gube."
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "Ako, naprotiv, svećenik, pri pregledu, ne primijeti bijele dlake u mrlji, niti spuštanje kože, već zamagljenost te mrlje, svećenik će ga zatvoriti na sedam dana."
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "Pregledat će ga sedmoga dana i, ako se bolest proširila po koži, proglasit će ga nečistim: to je slučaj gube."
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "Ako je mrlja ostala stacionarna bez širenja po koži, ako je, naprotiv, potamnjela, to je samo oteklina zbog opekline. Svećenik će proglasiti čovjeka čistim, to je samo ožiljak od opekline."
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "Ako muškarac ili žena ima ranu na glavi ili bradi,"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "svećenik će pregledati tu ranu i, ako na njoj primijeti vidljivu depresiju kože sa žućkastom i tankom dlakom, proglasit će bolesnika nečistim. To je krasta, odnosno guba glave ili brade."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "Ako svećenik pri pregledu ovog slučaja kraste primijeti da nema vidljive depresije kože, niti žućkaste dlake, zatvorit će krastavog na sedam dana."
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "Pregledat će bolest sedmoga dana i, ako primijeti da se krasta nije proširila, da na njoj nema žućkaste dlake, da nema vidljive depresije kože,"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "bolesnik će se obrijati, izostavljajući ipak krastavi dio, i svećenik će ga drugi put zatvoriti na sedam dana."
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "Pregledat će bolest sedmoga dana, i, ako primijeti da se nije proširila po koži, da nema vidljive depresije kože, svećenik će proglasiti tog bolesnika čistim. Nakon što opere odjeću, bit će čist."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "Ako se, međutim, nakon tog pročišćenja krasta proširila po koži,"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "svećenik će ga pregledati: ako primijeti širenje kraste po koži, to znači da je bolesnik nečist i neće se provjeravati je li dlaka žućkasta."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "Dok ako se krasta pojavi stacionarna i ako na njoj izraste crna dlaka, to znači da je bolesnik ozdravio. On je čist i svećenik će ga proglasiti čistim."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "Ako se na koži muškarca ili žene pojave mrlje i ako su te mrlje bijele,"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "svećenik će ih pregledati. Ako primijeti da su te mrlje na koži mutno bijele, to je osip koji se proširio po koži: bolesnik je čist."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "Ako čovjek izgubi kosu s glave, to je ćelavost glave, čist je."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "Ako kosu gubi na prednjem dijelu glave, to je ćelavost čela, čist je."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "Ali ako na lubanji ili čelu ima crvenkasto-bijelu bolest, to je guba koja se širi na lubanji ili čelu tog čovjeka."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "Svećenik će ga pregledati i, ako na lubanji ili čelu primijeti crvenkasto-bijelu oteklinu, istog izgleda kao guba kože,"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "to znači da je čovjek gubav; on je nečist. Svećenik će ga morati proglasiti nečistim, ima gubu na glavi."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "Gubavac koji je pogođen tom bolešću nosit će poderanu odjeću i raspuštenu kosu; pokriti će brkove i vikati: \"Nečist! Nečist!\""
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "Dok traje bolest, bit će nečist i, budući da je nečist, ostat će odvojen: njegovo će boravište biti izvan logora."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "Kada je odjevni predmet pogođen gubom, bilo da je od vune ili lana,"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "tkanina ili pokrivač od vune ili lana, kože ili bilo kakvog rada u koži,"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "ako se na tom odjevnom predmetu, koži, tkanini, pokrivaču ili kožnom predmetu pojavi zelenkasta ili crvenkasta mrlja, to je slučaj gube koji treba pokazati svećeniku."
+  }
+]

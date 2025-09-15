@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4000,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 14,
+    "t": "Kìa, lá cờ của trại quân Giu-đa dẫn đầu, tùy theo đội ngũ của họ. Người chỉ huy đạo quân Giu-đa là Na-sôn, con trai của A-mi-na-đáp;"
+  },
+  {
+    "i": 4001,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 15,
+    "t": "Người chỉ huy đạo quân của chi phái Y-sa-ca, tùy theo đội ngũ của họ, là Nê-tha-nê-ên, con trai của Xu-a;"
+  },
+  {
+    "i": 4002,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 16,
+    "t": "Người chỉ huy đạo quân của chi phái Sa-bu-lôn, tùy theo đội ngũ của họ, là Ê-li-áp, con trai của Hê-lôn."
+  },
+  {
+    "i": 4003,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 17,
+    "t": "Rồi Đền Tạm bị dỡ xuống, các con trai của Ghẹt-sôn và các con trai của Mê-ra-ri, là những người khiêng Đền Tạm, liền lên đường."
+  },
+  {
+    "i": 4004,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 18,
+    "t": "Kế đến, lá cờ của trại quân Ru-bên lên đường, tùy theo đội ngũ của họ. Người chỉ huy đạo quân là Ê-li-xu, con trai Sê-đê-ua;"
+  },
+  {
+    "i": 4005,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 19,
+    "t": "Người chỉ huy đạo quân của chi phái Si-mê-ôn, tùy theo đội ngũ của họ, là Sê-lu-mi-ên, con trai của Xuri-sát-đai;"
+  },
+  {
+    "i": 4006,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 20,
+    "t": "Người chỉ huy đạo quân của chi phái Gát, tùy theo đội ngũ của họ, là Ê-li-a-sáp, con trai của Rê-u-ên."
+  },
+  {
+    "i": 4007,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 21,
+    "t": "Bấy giờ, các con trai của Kê-hát, là những người khiêng nơi thánh (Đền Tạm được dựng lên trước khi họ đến), liền lên đường."
+  },
+  {
+    "i": 4008,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 22,
+    "t": "Kế đến, lá cờ của trại quân Ép-ra-im lên đường, tùy theo đội ngũ của họ. Người chỉ huy đạo quân là Ê-li-sa-ma, con trai của A-mi-hút;"
+  },
+  {
+    "i": 4009,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 23,
+    "t": "Người chỉ huy đạo quân của chi phái Ma-na-se, tùy theo đội ngũ của họ, là Gam-li-ên, con trai của Pê-đa-xu;"
+  },
+  {
+    "i": 4010,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 24,
+    "t": "Người chỉ huy đạo quân của chi phái Bên-gia-min, tùy theo đội ngũ của họ, là A-bi-đan, con trai của Ghi-đê-ô-ni."
+  },
+  {
+    "i": 4011,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 25,
+    "t": "Cuối cùng, lá cờ của trại quân Đan lên đường, làm hậu quân cho tất cả các trại, tùy theo đội ngũ của họ. Người chỉ huy đạo quân là A-hi-ê-xe, con trai của A-mi-sát-đai;"
+  },
+  {
+    "i": 4012,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 26,
+    "t": "Người chỉ huy đạo quân của chi phái A-se, tùy theo đội ngũ của họ, là Pha-ghi-ên, con trai của Óc-ran;"
+  },
+  {
+    "i": 4013,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 27,
+    "t": "Người chỉ huy đạo quân của các con trai Nép-ta-li, tùy theo đội ngũ của họ, là A-hi-ra, con trai của Ê-nan."
+  },
+  {
+    "i": 4014,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 28,
+    "t": "Ấy là thứ tự hành quân của dân Y-sơ-ra-ên, tùy theo đội ngũ của họ. Rồi họ lên đường."
+  },
+  {
+    "i": 4015,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 29,
+    "t": "Môi-se nói với Hô-báp, con trai Rê-u-ên người Ma-đi-an, nhạc gia của ông: \"Chúng ta lên đường đến xứ mà Đức Giê-hô-va đã phán: Ta sẽ ban cho các ngươi. Hãy đi với chúng ta, và chúng ta sẽ đãi ngươi tử tế, vì Đức Giê-hô-va đã hứa ban phước cho Y-sơ-ra-ên\"—"
+  },
+  {
+    "i": 4016,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 30,
+    "t": "Người đáp: \"Tôi sẽ không đi đâu, nhưng tôi sẽ trở về xứ tôi và đến với bà con tôi\"—"
+  },
+  {
+    "i": 4017,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 31,
+    "t": "Môi-se đáp: \"Xin chớ lìa bỏ chúng tôi, vì ông biết rõ những nơi mà chúng ta phải đóng trại trong đồng vắng, và ông sẽ là đôi mắt cho chúng ta."
+  },
+  {
+    "i": 4018,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 32,
+    "t": "Nếu ông đi với chúng ta, phước hạnh nào Đức Giê-hô-va ban cho chúng ta, chúng ta sẽ chia cho ông."
+  },
+  {
+    "i": 4019,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 33,
+    "t": "Vậy, họ rời núi của Đức Giê-hô-va mà đi ba ngày đường. Hòm Giao Ước của Đức Giê-hô-va đi trước họ trong ba ngày ấy để tìm một nơi an nghỉ."
+  },
+  {
+    "i": 4020,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 34,
+    "t": "Trong ngày, trụ mây của Đức Giê-hô-va ở trên họ, khi họ rời trại."
+  },
+  {
+    "i": 4021,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 35,
+    "t": "Mỗi khi Hòm Giao Ước lên đường, Môi-se thường nói: \"Hỡi Đức Giê-hô-va, xin hãy trỗi dậy, để kẻ thù Ngài tản lạc, và những người ghét Ngài phải trốn trước mặt Ngài!"
+  },
+  {
+    "i": 4022,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 36,
+    "t": "Còn khi dừng lại, ông nói: \"Hỡi Đức Giê-hô-va, xin hãy trở lại cùng vô số ngàn người của Y-sơ-ra-ên!"
+  },
+  {
+    "i": 4023,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 1,
+    "t": "Vả, dân sự kêu ca điều ác đến tai Đức Giê-hô-va, Ngài nghe thấy vậy. Cơn giận của Ngài bừng lên, và lửa của Đức Giê-hô-va cháy giữa họ; nó thiêu đốt một đầu trại quân."
+  },
+  {
+    "i": 4024,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 2,
+    "t": "Dân sự kêu cầu Môi-se, ông khẩn nài Đức Giê-hô-va, và lửa tắt."
+  },
+  {
+    "i": 4025,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 3,
+    "t": "Vậy, người ta gọi chỗ đó là Ta-bê-ra, vì lửa của Đức Giê-hô-va đã cháy giữa họ."
+  },
+  {
+    "i": 4026,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 4,
+    "t": "Đám ô hợp lẫn lộn ở giữa dân sự, thèm thuồng quá đỗi. Dân Y-sơ-ra-ên cũng bắt đầu khóc lóc mà nói: \"Ai sẽ cho chúng ta thịt ăn đây ?"
+  },
+  {
+    "i": 4027,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 5,
+    "t": "Ôi! Chúng ta nhớ lại những cá mà chúng ta ăn nhưng không ở Ai Cập, những dưa chuột, dưa gang, tỏi tây, hành và tỏi!"
+  },
+  {
+    "i": 4028,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 6,
+    "t": "Bây giờ chúng ta khô héo, không còn gì cả; mắt chúng ta chẳng thấy gì ngoài ma-na!"
+  },
+  {
+    "i": 4029,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 7,
+    "t": "Ma-na giống như hạt ngò và có hình dáng của nhựa thơm."
+  },
+  {
+    "i": 4030,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 8,
+    "t": "Dân sự đi khắp nơi mà lượm; rồi họ dùng cối xay hoặc giã trong cối; sau đó họ nấu trong nồi để làm bánh. Bánh có vị như bánh rán dầu."
+  },
+  {
+    "i": 4031,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 9,
+    "t": "Khi sương xuống trên trại quân ban đêm, thì ma-na cũng rơi xuống."
+  },
+  {
+    "i": 4032,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 10,
+    "t": "Môi-se nghe dân sự khóc lóc, mỗi gia đình ở cửa lều mình. Cơn giận của Đức Giê-hô-va bừng bừng nổi lên. Môi-se rất buồn bực,"
+  },
+  {
+    "i": 4033,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 11,
+    "t": "Ông thưa với Đức Giê-hô-va: \"Sao Ngài lại làm khổ tôi tớ Ngài? Sao tôi không được ơn trước mặt Ngài mà Ngài lại đặt gánh nặng của cả dân sự này trên tôi?"
+  },
+  {
+    "i": 4034,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 12,
+    "t": "Há tôi đã hoài thai cả dân sự này, há tôi đã sinh nó, mà Ngài phán với tôi rằng: Hãy ẵm nó vào lòng, như vú em ẵm con thơ, đến xứ mà Ta đã thề hứa ban cho tổ phụ chúng nó?"
+  },
+  {
+    "i": 4035,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 13,
+    "t": "Tôi sẽ tìm đâu ra thịt để cho cả dân sự này, khi chúng nó khóc lóc trước mặt tôi mà nói rằng: Hãy cho chúng tôi thịt ăn?"
+  },
+  {
+    "i": 4036,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 14,
+    "t": "Một mình tôi không thể nào gánh nổi cả dân sự này; gánh nặng ấy quá sức đối với tôi."
+  },
+  {
+    "i": 4037,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 15,
+    "t": "Nếu Ngài muốn đối xử với tôi như vậy, thì xin Ngài hãy giết tôi đi! Nếu tôi được ơn trước mặt Ngài, xin chớ để tôi thấy cảnh khốn khổ của mình!"
+  },
+  {
+    "i": 4038,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 16,
+    "t": "Đức Giê-hô-va phán với Môi-se: \"Hãy tập trung cho Ta bảy mươi người trong số các trưởng lão Y-sơ-ra-ên, là những người mà ngươi biết là trưởng lão và ký lục của dân sự. Hãy dẫn họ đến Lều Hội Kiến, nơi họ sẽ đứng đó với ngươi."
+  },
+  {
+    "i": 4039,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 17,
+    "t": "Ta sẽ xuống phán với ngươi; Ta sẽ lấy một phần Thánh Linh đang ở trên ngươi mà đặt trên họ. Như vậy, họ sẽ cùng ngươi gánh gánh nặng của dân sự này, để ngươi không còn một mình gánh chịu nữa."
+  },
+  {
+    "i": 4040,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 18,
+    "t": "Ngươi hãy nói với dân sự rằng: Hãy tự thánh hóa để ngày mai các ngươi sẽ có thịt ăn, vì các ngươi đã khóc lóc đến tai Đức Giê-hô-va mà nói rằng: Ai sẽ cho chúng ta thịt ăn? Chúng ta sung sướng ở Ai Cập! Vậy, Đức Giê-hô-va sẽ cho các ngươi thịt ăn."
+  },
+  {
+    "i": 4041,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 19,
+    "t": "Các ngươi sẽ không ăn chỉ một ngày, hai ngày, năm ngày, mười ngày hay hai mươi ngày,"
+  },
+  {
+    "i": 4042,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 20,
+    "t": "nhưng cả một tháng, cho đến khi nó trào ra lỗ mũi và làm các ngươi kinh tởm, vì các ngươi đã chối bỏ Đức Giê-hô-va Đấng ngự giữa các ngươi, và đã khóc lóc trước mặt Ngài mà nói rằng: Sao chúng ta lại ra khỏi Ai Cập?"
+  },
+  {
+    "i": 4043,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 21,
+    "t": "Môi-se thưa: \"Dân sự mà tôi đang ở giữa đây có sáu trăm ngàn bộ binh, mà Ngài lại phán: Ta sẽ cho chúng nó thịt ăn cả một tháng!"
+  },
+  {
+    "i": 4044,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 22,
+    "t": "Nếu người ta giết chiên và bò cho chúng nó, chúng nó có ăn đủ chăng? Nếu người ta bắt hết các cá dưới biển cho chúng nó, chúng nó có ăn đủ chăng?"
+  },
+  {
+    "i": 4045,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 23,
+    "t": "Đức Giê-hô-va đáp với Môi-se: \"Há tay Đức Giê-hô-va lại ngắn đi ư? Ngươi sẽ thấy lời Ta phán có ứng nghiệm hay không."
+  },
+  {
+    "i": 4046,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 24,
+    "t": "Môi-se đi ra thuật lại cho dân sự những lời của Đức Giê-hô-va. Rồi ông tập trung bảy mươi trưởng lão trong dân sự và đặt họ đứng chung quanh Lều Hội Kiến."
+  },
+  {
+    "i": 4047,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 25,
+    "t": "Đức Giê-hô-va ngự xuống trong trụ mây. Ngài phán với ông, rồi lấy một phần Thánh Linh đang ở trên ông mà đặt trên bảy mươi trưởng lão. Khi Thánh Linh ngự trên họ, họ liền nói tiên tri, nhưng sau đó không lặp lại nữa."
+  },
+  {
+    "i": 4048,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 26,
+    "t": "Hai người ở lại trong trại; một người tên là Ên-đát, người kia tên là Mê-đát. Thánh Linh ngự trên họ; dù không đến Lều Hội Kiến, họ vẫn được ghi danh vào số các trưởng lão. Họ bắt đầu nói tiên tri trong trại."
+  },
+  {
+    "i": 4049,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 27,
+    "t": "Một thanh niên chạy đến báo cho Môi-se: \"Kìa, Ên-đát và Mê-đát đang nói tiên tri trong trại!"
+  },
+  {
+    "i": 4050,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 28,
+    "t": "Giô-suê, con trai của Nun, là người phục vụ Môi-se từ thuở trẻ, lên tiếng thưa: \"Thưa Chúa Môi-se, xin hãy cấm họ!"
+  },
+  {
+    "i": 4051,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 29,
+    "t": "Môi-se đáp: \"Ngươi ghen vì ta sao? Ước gì cả dân sự của Đức Giê-hô-va đều là những nhà tiên tri, để Đức Giê-hô-va ban Thánh Linh của Ngài trên họ!"
+  },
+  {
+    "i": 4052,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 30,
+    "t": "Rồi Môi-se và các trưởng lão Y-sơ-ra-ên trở về trại."
+  },
+  {
+    "i": 4053,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 31,
+    "t": "Một ngọn gió từ Đức Giê-hô-va thổi đến, cuốn chim cút từ biển đem đến và thả xuống trên trại. Số chim ấy nhiều đến nỗi bay cao hơn mặt đất khoảng chín tấc, và xa đến một ngày đường chung quanh trại."
+  },
+  {
+    "i": 4054,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 32,
+    "t": "Dân sự đứng dậy suốt ngày, suốt đêm và cả ngày hôm sau để lượm chim cút: ai lượm ít nhất cũng được mười gô-me. Rồi họ đem trải chim cút chung quanh trại."
+  },
+  {
+    "i": 4055,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 33,
+    "t": "Thịt còn ở giữa răng chúng nó, chưa kịp nhai, thì cơn giận của Đức Giê-hô-va đã bừng lên chống lại dân sự. Đức Giê-hô-va giáng một tai họa rất lớn trên dân sự."
+  },
+  {
+    "i": 4056,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 34,
+    "t": "Người ta gọi chỗ đó là Kíp-rốt-Ha-Ta-a-va, vì tại đó người ta chôn những kẻ đã buông mình theo lòng thèm thuồng."
+  },
+  {
+    "i": 4057,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 35,
+    "t": "Từ Kíp-rốt-Ha-Ta-a-va, dân sự lên đường đến Hát-sê-rốt và đóng trại tại đó."
+  },
+  {
+    "i": 4058,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 1,
+    "t": "Mi-ri-am và A-rôn nói hành Môi-se vì cớ người nữ Ê-thi-ô-pi mà ông đã cưới. Vì ông đã cưới một người nữ Ê-thi-ô-pi."
+  },
+  {
+    "i": 4059,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 2,
+    "t": "Họ nói: \"Há Đức Giê-hô-va chỉ phán với Môi-se thôi sao? Ngài há chẳng phán với chúng ta nữa ư?\" Đức Giê-hô-va nghe thấy."
+  },
+  {
+    "i": 4060,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 3,
+    "t": "Vả, Môi-se là một người rất khiêm tốn, khiêm tốn hơn mọi người trên mặt đất."
+  },
+  {
+    "i": 4061,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 4,
+    "t": "Thình lình, Đức Giê-hô-va phán với Môi-se, A-rôn và Mi-ri-am: \"Cả ba con hãy đến Lều Hội Kiến.\" Cả ba người liền đi."
+  },
+  {
+    "i": 4062,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 5,
+    "t": "Đức Giê-hô-va ngự xuống trong trụ mây và đứng tại cửa Lều. Ngài gọi A-rôn và Mi-ri-am; cả hai người đều bước ra."
+  },
+  {
+    "i": 4063,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 6,
+    "t": "Đức Giê-hô-va phán: \"Hãy nghe lời Ta: Nếu trong các ngươi có một tiên tri, Ta sẽ tỏ mình cho người đó trong khải tượng, và phán với người đó trong giấc mơ."
+  },
+  {
+    "i": 4064,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 7,
+    "t": "Nhưng đối với tôi tớ Ta là Môi-se thì không như vậy; Ta giao cả nhà Ta cho nó quản lý."
+  },
+  {
+    "i": 4065,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 8,
+    "t": "Ta phán với nó đối diện cách rõ ràng, chứ không phải bằng những câu đố, và nó thấy hình dáng của Đức Giê-hô-va. Sao các ngươi dám nói hành tôi tớ Ta là Môi-se?"
+  },
+  {
+    "i": 4066,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 9,
+    "t": "Cơn giận của Đức Giê-hô-va bừng lên chống lại họ. Ngài bèn rời khỏi."
+  },
+  {
+    "i": 4067,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 10,
+    "t": "Khi trụ mây rời khỏi Lều thì thấy Mi-ri-am mắc bệnh phong cùi, trắng như tuyết. A-rôn quay sang nhìn Mi-ri-am: thấy chị mình đã mắc bệnh phong cùi."
+  },
+  {
+    "i": 4068,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 11,
+    "t": "A-rôn thưa với Môi-se: \"Ôi, thưa chúa tôi! Xin chớ phạt chúng tôi vì tội mà chúng tôi đã dại dột phạm phải."
+  },
+  {
+    "i": 4069,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 12,
+    "t": "Xin chớ để chị tôi như một thai chết non mà thịt đã bị hao mòn phân nửa khi mới ra khỏi lòng mẹ!"
+  },
+  {
+    "i": 4070,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 13,
+    "t": "Môi-se kêu cầu Đức Giê-hô-va: \"Hỡi Đức Chúa Trời, xin chữa lành cho chị ấy!"
+  },
+  {
+    "i": 4071,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 14,
+    "t": "Đức Giê-hô-va phán với Môi-se: \"Nếu cha chị ấy nhổ vào mặt chị ấy, há chị ấy chẳng phải xấu hổ trong bảy ngày sao? Vậy, hãy đuổi chị ấy ra khỏi trại bảy ngày, rồi sau đó cho chị ấy trở vào."
+  },
+  {
+    "i": 4072,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 15,
+    "t": "Mi-ri-am bị đuổi ra khỏi trại bảy ngày. Dân sự không lên đường cho đến khi Mi-ri-am trở vào."
+  },
+  {
+    "i": 4073,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 16,
+    "t": "Rồi dân sự rời Hát-sê-rốt và đóng trại trong đồng vắng Pha-ran."
+  },
+  {
+    "i": 4074,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán với Môi-se rằng:"
+  },
+  {
+    "i": 4075,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 2,
+    "t": "\"Hãy sai người đi do thám xứ Ca-na-an mà Ta ban cho dân Y-sơ-ra-ên. Mỗi chi phái hãy sai một người, tất cả đều là những vị thủ lĩnh."
+  },
+  {
+    "i": 4076,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 3,
+    "t": "Theo lệnh của Đức Giê-hô-va, Môi-se sai họ đi từ đồng vắng Pha-ran. Những người này đều là thủ lĩnh của dân Y-sơ-ra-ên."
+  },
+  {
+    "i": 4077,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 4,
+    "t": "Đây là tên của họ: Về chi phái Ru-bên, có Sam-mu-a, con trai của Xắc-cua;"
+  },
+  {
+    "i": 4078,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 5,
+    "t": "về chi phái Si-mê-ôn, có Sa-phát, con trai của Hô-ri;"
+  },
+  {
+    "i": 4079,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 6,
+    "t": "về chi phái Giu-đa, có Ca-lép, con trai của Giê-phu-nê;"
+  },
+  {
+    "i": 4080,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 7,
+    "t": "về chi phái Y-sa-ca, có Di-ga-ên, con trai của Giô-xép;"
+  },
+  {
+    "i": 4081,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 8,
+    "t": "về chi phái Ép-ra-im, có Hô-sê-a, con trai của Nun;"
+  },
+  {
+    "i": 4082,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 9,
+    "t": "về chi phái Bên-gia-min, có Pan-ti, con trai của Ra-phu;"
+  },
+  {
+    "i": 4083,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 10,
+    "t": "về chi phái Sa-bu-lôn, có Gát-đi-ên, con trai của Sô-đi;"
+  },
+  {
+    "i": 4084,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 11,
+    "t": "về chi phái Giô-xép, tức chi phái Ma-na-se, có Gát-đi, con trai của Su-si;"
+  },
+  {
+    "i": 4085,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 12,
+    "t": "về chi phái Đan, có Am-mi-ên, con trai của Ghê-ma-li;"
+  },
+  {
+    "i": 4086,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 13,
+    "t": "về chi phái A-se, có Sê-tu, con trai của Mi-ca-ên;"
+  },
+  {
+    "i": 4087,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 14,
+    "t": "về chi phái Nép-ta-li, có Na-bi, con trai của Váp-si;"
+  },
+  {
+    "i": 4088,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 15,
+    "t": "về chi phái Gát, có Ghê-u-ên, con trai của Ma-ki."
+  },
+  {
+    "i": 4089,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 16,
+    "t": "Đó là tên của những người mà Môi-se sai đi do thám xứ. Rồi Môi-se đổi tên Hô-sê-a, con trai của Nun, thành Giô-suê."
+  },
+  {
+    "i": 4090,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 17,
+    "t": "Khi sai họ đi do thám xứ Ca-na-an, Môi-se dặn: \"Hãy đi lên Nê-ghép, rồi lên vùng núi."
+  },
+  {
+    "i": 4091,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 18,
+    "t": "Hãy xem xứ đó như thế nào; dân sự ở đó mạnh hay yếu, ít hay đông;"
+  },
+  {
+    "i": 4092,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 19,
+    "t": "xứ đó như thế nào, tốt hay xấu; các thành họ ở ra sao, là trại quân hay thành kiên cố;"
+  },
+  {
+    "i": 4093,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 20,
+    "t": "đất đai ra sao, màu mỡ hay cằn cỗi, có rừng hay không. Hãy dạn dĩ lên. Hãy đem về một ít sản vật của xứ.\" Bấy giờ là mùa nho đầu mùa."
+  },
+  {
+    "i": 4094,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 21,
+    "t": "Họ lên do thám xứ từ đồng vắng Xin cho đến Rê-hốp, là đường vào Ha-mát."
+  },
+  {
+    "i": 4095,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 22,
+    "t": "Họ lên qua Nê-ghép và đến Hếp-rôn, nơi có A-hi-man, Sê-sai và Tanh-mai, là con cháu của A-nác. (Hếp-rôn được xây cất trước Ta-nít của Ai Cập bảy năm.)"
+  },
+  {
+    "i": 4096,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 23,
+    "t": "Họ đến thung lũng Ê-xkôn; tại đó họ chặt một nhánh nho có một chùm nho lớn đến nỗi hai người phải dùng đòn khiêng, và họ cũng hái lựu và vả."
+  },
+  {
+    "i": 4097,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 24,
+    "t": "Người ta gọi chỗ đó là thung lũng Ê-xkôn, vì chùm nho mà dân Y-sơ-ra-ên đã chặt tại đó."
+  },
+  {
+    "i": 4098,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 25,
+    "t": "Sau bốn mươi ngày, họ trở về sau khi đã do thám xứ."
+  },
+  {
+    "i": 4099,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 26,
+    "t": "Họ đến gặp Môi-se, A-rôn và cả cộng đồng Y-sơ-ra-ên trong đồng vắng Pha-ran, tại Ca-đe. Họ trình báo cho Môi-se, A-rôn, và cả cộng đồng, đồng thời cho họ xem sản vật của xứ."
+  }
+]

@@ -1,0 +1,753 @@
+[
+  {
+    "i": 13800,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 6,
+    "t": "Sa ano nalagay ang kaniyang mga patibayan? O sinong naglagay ng batong panulok niyaon;"
+  },
+  {
+    "i": 13801,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 7,
+    "t": "Nang magsiawit na magkakasama ang mga bituin pang-umaga. At ang lahat ng mga anak ng Dios ay naghihiyawan sa kagalakan?"
+  },
+  {
+    "i": 13802,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 8,
+    "t": "O sinong nagsara ng mga pinto sa dagat, nang magpumiglas na gaya ng pagpiglas mula sa bahay-bata?"
+  },
+  {
+    "i": 13803,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 9,
+    "t": "Nang gawin ko ang alapaap na bihisan niyaon, at ang salimuot na kadiliman na pinakabalot niyaon,"
+  },
+  {
+    "i": 13804,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 10,
+    "t": "At aking itinatag doon ang aking pasiya, at nilagyan ko ng mga halang at mga pinto,"
+  },
+  {
+    "i": 13805,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 11,
+    "t": "At aking sinabi, Hanggang dito ay darating ka, nguni't hindi ka na lalagpas: at dito'y titigil ang iyong mga palalong alon?"
+  },
+  {
+    "i": 13806,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 12,
+    "t": "Nagutos ka ba sa umaga mula sa iyong mga kaarawan, at ipinabatid mo ba sa bukang liwayway ang kaniyang dako;"
+  },
+  {
+    "i": 13807,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 13,
+    "t": "Upang humawak sa mga wakas ng lupa, at ang masasama ay maugoy doon?"
+  },
+  {
+    "i": 13808,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 14,
+    "t": "Nababagong parang putik sa ilalim ng tatak; at lahat ng mga bagay ay nagiging gaya ng bihisan:"
+  },
+  {
+    "i": 13809,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 15,
+    "t": "At sa masama ay inalis ang kanilang liwanag, at ang mataas na kamay ay mababali."
+  },
+  {
+    "i": 13810,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 16,
+    "t": "Pumasok ka ba sa mga bukal ng dagat? O lumakad ka ba sa mga landas ng kalaliman?"
+  },
+  {
+    "i": 13811,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 17,
+    "t": "Nangahayag ba sa iyo ang mga pintuan ng kamatayan? O nakita mo ba ang mga pinto ng anino ng kamatayan?"
+  },
+  {
+    "i": 13812,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 18,
+    "t": "Iyo bang nabatid ang kaluwangan ng lupa? Ipahayag mo, kung iyong nalalamang lahat."
+  },
+  {
+    "i": 13813,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 19,
+    "t": "Saan nandoon ang daan na patungo sa tahanan ng liwanag, at tungkol sa kadiliman, saan nandoon ang dako niyaon;"
+  },
+  {
+    "i": 13814,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 20,
+    "t": "Upang iyong madala sa hangganan niyaon, at upang iyong gunitain ang mga landas hanggang sa bahay niyaon?"
+  },
+  {
+    "i": 13815,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 21,
+    "t": "Marahil nalalaman mo, sapagka't ikaw nga'y ipinanganak noon, at ang bilang ng iyong mga kaarawan ay marami?"
+  },
+  {
+    "i": 13816,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 22,
+    "t": "Pumasok ka ba sa mga tipunan ng nieve, o nakita mo ba ang mga tipunan ng granizo,"
+  },
+  {
+    "i": 13817,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 23,
+    "t": "Na aking itinaan laban sa panahon ng kabagabagan, laban sa kaarawan ng pagbabaka at pagdidigma?"
+  },
+  {
+    "i": 13818,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 24,
+    "t": "Sa aling daan naghiwalay ang liwanag, o sa hanging silanganan na lumalaganap sa ibabaw ng lupa?"
+  },
+  {
+    "i": 13819,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 25,
+    "t": "Sinong humukay ng bangbang sa mga bugso ng tubig, o ng daanan ng kidlat ng kulog;"
+  },
+  {
+    "i": 13820,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 26,
+    "t": "Upang magpaulan sa lupa, na hindi tinatahanan ng tao, sa ilang na doon ay walang tao."
+  },
+  {
+    "i": 13821,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 27,
+    "t": "Upang busugin ang giba at sirang lupa; at upang pasibulin ang sariwang damo?"
+  },
+  {
+    "i": 13822,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 28,
+    "t": "May ama ba ang ulan? O sinong nanganak sa mga patak ng hamog?"
+  },
+  {
+    "i": 13823,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 29,
+    "t": "Sa kaninong bahay-bata nagmula ang hielo? At ang escarcha sa himpapawid, ay ipinanganak nino?"
+  },
+  {
+    "i": 13824,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 30,
+    "t": "Ang mga tubig ay nakukubling gaya ng bato, at ang ibabaw ng kalaliman ay namumuno."
+  },
+  {
+    "i": 13825,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 31,
+    "t": "Matatalian mo ba ang pagkakaumpukan ng mga bituin na Pleyade, o makakalagan ang tali ng mga bituin na Orion?"
+  },
+  {
+    "i": 13826,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 32,
+    "t": "Mailalabas mo ba ang mga bituin na mga tanda ng Zodiaco sa kanilang kapanahunan? O mapapatnubayan mo ba ang Oso na kasama ng kaniyang mga anak?"
+  },
+  {
+    "i": 13827,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 33,
+    "t": "Nalalaman mo ba ang mga alituntunin ng langit? Maitatatag mo ba ang kapangyarihan niyaon sa lupa?"
+  },
+  {
+    "i": 13828,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 34,
+    "t": "Mailalakas mo ba ang iyong tinig hanggang sa mga alapaap, upang takpan ka ng saganang tubig?"
+  },
+  {
+    "i": 13829,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 35,
+    "t": "Makapagsusugo ka ba ng mga kidlat, upang magsiyaon, at magsabi sa iyo: Nangarito kami?"
+  },
+  {
+    "i": 13830,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 36,
+    "t": "Sinong naglagay ng karunungan sa mga pinakaloob na bahagi? O sinong nagbigay ng kaalaman sa pagiisip?"
+  },
+  {
+    "i": 13831,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 37,
+    "t": "Sinong makabibilang ng mga alapaap sa pamamagitan ng karunungan? O sinong makatutuyo ng mga botelya ng langit,"
+  },
+  {
+    "i": 13832,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 38,
+    "t": "Pagka ang alabok ay napuputik, at ang mga bugal ay nanganinikit na maigi?"
+  },
+  {
+    "i": 13833,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 39,
+    "t": "Huhuli ka ba ng mahuhuli na ukol sa leong babae? O bubusugin mo baga ang kagutoman ng mga batang leon,"
+  },
+  {
+    "i": 13834,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 40,
+    "t": "Pagka sila'y nagsisihilig sa kanilang mga lungga, at nagsisitahan sa guwang upang bumakay?"
+  },
+  {
+    "i": 13835,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 41,
+    "t": "Sinong naghahanda sa uwak ng pagkain niya, pagka ang kaniyang mga inakay ay nagsisidaing sa Dios, at nagsisigala sa kakulangan ng pagkain."
+  },
+  {
+    "i": 13836,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 1,
+    "t": "Nalalaman mo ba ang panahong ipinanganganak ng mga kambing bundok? O matatandaan mo ba ang mga pagdaramdam ng mga usa?"
+  },
+  {
+    "i": 13837,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 2,
+    "t": "Mabibilang mo ba ang mga buwan ng kanilang kagampanan? O nalalaman mo ba ang panahong kanilang ipinanganak?"
+  },
+  {
+    "i": 13838,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 3,
+    "t": "Sila'y nagsisiyuko, kanilang inilalabas ang kanilang mga anak, kaniyang iniwawaksi ang kanilang kapanglawan."
+  },
+  {
+    "i": 13839,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 4,
+    "t": "Ang kanilang mga anak ay nagiging malakas, sila'y nagsisilaki sa kaparangan; sila'y nagsisiyao at hindi na nagsisibalik."
+  },
+  {
+    "i": 13840,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 5,
+    "t": "Sinong nagpakawala sa mabangis na asno? O sinong nagkalag ng mga tali ng mailap na asno?"
+  },
+  {
+    "i": 13841,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 6,
+    "t": "Na ginawa kong bahay niya ang ilang, at ang lupaing maasin na kaniyang tahanan."
+  },
+  {
+    "i": 13842,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 7,
+    "t": "Kaniyang nililibak ang kaguluhan ng bayan. Ni hindi niya dinidinig ang sigaw ng nagpapatakbo ng hayop."
+  },
+  {
+    "i": 13843,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 8,
+    "t": "Ang libot ng mga bundok ay kaniyang pastulan, at kaniyang sinasaliksik ang bawa't sariwang bagay."
+  },
+  {
+    "i": 13844,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 9,
+    "t": "Matutuwa ba ang bakang gubat na maglingkod sa iyo? O matitira ba sa siping ng iyong pasabsaban?"
+  },
+  {
+    "i": 13845,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 10,
+    "t": "Matatalian mo ba ang bakang gubat ng iyong panali sa pangbukid? O magbubusagsag ba ng mga libis sa likuran mo?"
+  },
+  {
+    "i": 13846,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 11,
+    "t": "Aasa ka ba sa kaniya, dahil sa siya'y totoong malakas? O iiwan mo ba ang iyong gawain sa kaniya?"
+  },
+  {
+    "i": 13847,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 12,
+    "t": "Ipagkakatiwala mo ba sa kaniya na iuuwi sa bahay ang iyong binhi, at pipisanin ang mga butil sa iyong giikan?"
+  },
+  {
+    "i": 13848,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 13,
+    "t": "Ang pakpak ng avestruz ay nagagalak; nguni't may kagandahang loob ba ang kanilang mga pakpak at mga balahibo?"
+  },
+  {
+    "i": 13849,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 14,
+    "t": "Sapagka't nagiiwan ng kaniyang mga itlog sa lupa, at pinaiinit ang mga yaon sa alabok,"
+  },
+  {
+    "i": 13850,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 15,
+    "t": "At kinalilimutang mangapipisa ng paa, o mangayuyurakan ng mabangis na hayop."
+  },
+  {
+    "i": 13851,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 16,
+    "t": "Siya'y nagmamatigas laban sa kaniyang mga sisiw na tila hindi kaniya: bagaman ang kaniyang gawa ay mawalang kabuluhan, hindi niya ikinatatakot;"
+  },
+  {
+    "i": 13852,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 17,
+    "t": "Sapagka't binawian siya ng Dios ng karunungan, ni hindi siya binahaginan ng unawa."
+  },
+  {
+    "i": 13853,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 18,
+    "t": "Anomang panahon na siya'y napaiitaas, hinahamak niya ang kabayo at ang sakay nito."
+  },
+  {
+    "i": 13854,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 19,
+    "t": "Nagbigay ka ba sa kabayo ng kalakasan? Binihisan mo ba ang kaniyang leeg ng buhok na gumagalaw?"
+  },
+  {
+    "i": 13855,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 20,
+    "t": "Pinalulukso mo ba siya na parang balang? Ang kaluwalhatian ng kaniyang bahin ay kakilakilabot."
+  },
+  {
+    "i": 13856,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 21,
+    "t": "Siya'y kumukutkot sa libis, at nagagalak sa kaniyang kalakasan, siya'y sumasagupa sa mga taong may sandata."
+  },
+  {
+    "i": 13857,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 22,
+    "t": "Tinutuya niya ang takot at hindi nanglulupaypay: ni hindi tinatalikuran ang tabak."
+  },
+  {
+    "i": 13858,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 23,
+    "t": "Ang suksukan ng pana ay tumutunog laban sa kaniya, ang makintab na sibat at ang kalasag."
+  },
+  {
+    "i": 13859,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 24,
+    "t": "Kaniyang sinasakmal ang lupa na may kabangisan at poot; ni hindi siya naniniwala na yao'y tunog ng pakakak."
+  },
+  {
+    "i": 13860,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 25,
+    "t": "Kaniyang sinasabi sa tuwing tutunog ang mga pakakak: Aha! At kaniyang naaamoy ang pagbabaka sa malayo, ang sigaw ng mga kapitan at ang hiyaw."
+  },
+  {
+    "i": 13861,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 26,
+    "t": "Lumilipad ba ang uwak sa pamamagitan ng inyong karunungan, at iniuunat ba ang kaniyang mga pakpak sa dakong timugan?"
+  },
+  {
+    "i": 13862,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 27,
+    "t": "Napaiilanglang ba ang agila sa iyong utos, at gumagawa ba ng kaniyang pugad sa itaas?"
+  },
+  {
+    "i": 13863,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 28,
+    "t": "Sila'y nananahan sa malaking bato, at doon tumitira, sa taluktok ng burol at sa katibayan,"
+  },
+  {
+    "i": 13864,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 29,
+    "t": "Mula roo'y tumitingin siya ng madadagit; ang kaniyang mga mata ay tumatanaw sa malayo."
+  },
+  {
+    "i": 13865,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 30,
+    "t": "Ang mga anak naman niya ay nagsisihitit ng dugo: at kung saan naroon ang pinatay ay naroon siya."
+  },
+  {
+    "i": 13866,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 1,
+    "t": "Bukod dito'y sumagot ang Panginoon kay Job, at nagsabi,"
+  },
+  {
+    "i": 13867,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 2,
+    "t": "Magmamatapang ba siya na makipagtalo sa Makapangyarihan sa lahat? Siyang nakikipagkatuwiranan sa Dios, ay sagutin niya ito."
+  },
+  {
+    "i": 13868,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 3,
+    "t": "Nang magkagayo'y sumagot si Job sa Panginoon, at nagsabi,"
+  },
+  {
+    "i": 13869,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 4,
+    "t": "Narito, ako'y walang kabuluhan; anong isasagot ko sa iyo? Aking inilalagay ang aking kamay sa aking bibig,"
+  },
+  {
+    "i": 13870,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 5,
+    "t": "Minsan ay nagsalita ako, at hindi ako sasagot: Oo, makalawa, nguni't hindi ako magpapatuloy."
+  },
+  {
+    "i": 13871,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 6,
+    "t": "Nang magkagayo'y sumagot ang Panginoon kay Job mula sa ipoipo, at nagsabi,"
+  },
+  {
+    "i": 13872,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 7,
+    "t": "Magbigkis ka ng iyong mga balakang ngayon na parang lalake: ako'y magtatanong sa iyo at magpahayag ka sa akin."
+  },
+  {
+    "i": 13873,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 8,
+    "t": "Iyo bang wawaling kabuluhan ang aking kahatulan? Iyo bang hahatulan ako, upang ikaw ay ariing ganap?"
+  },
+  {
+    "i": 13874,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 9,
+    "t": "O mayroon ka bang kamay na parang Dios? At makakukulog ka ba ng tinig na gaya niya?"
+  },
+  {
+    "i": 13875,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 10,
+    "t": "Magpakagayak ka ngayon ng karilagan at karapatan; at magbihis ka ng karangalan at kalakhan."
+  },
+  {
+    "i": 13876,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 11,
+    "t": "Ibugso mo ang mga alab ng iyong galit: at tunghan mo ang bawa't palalo, at abain mo siya."
+  },
+  {
+    "i": 13877,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 12,
+    "t": "Masdan mo ang bawa't palalo, at papangumbabain mo siya; at iyong tungtungan ang masama sa kaniyang tayuan."
+  },
+  {
+    "i": 13878,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 13,
+    "t": "Ikubli mo sila sa alabok na magkakasama; talian mo ang kanilang mukha sa lihim na dako."
+  },
+  {
+    "i": 13879,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 14,
+    "t": "Kung magkagayo'y ipahayag naman kita; na maililigtas ka ng iyong kanan."
+  },
+  {
+    "i": 13880,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 15,
+    "t": "Narito ngayon, ang hayop na behemot na aking ginawang kasama mo: siya'y kumakain ng damo na gaya ng baka."
+  },
+  {
+    "i": 13881,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 16,
+    "t": "Narito, ngayon, ang kaniyang lakas ay nasa kaniyang mga balakang, at ang kaniyang kalakasan ay nasa kalamnan ng kaniyang tiyan."
+  },
+  {
+    "i": 13882,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 17,
+    "t": "Kaniyang iginagalaw ang kaniyang buntot na parang isang cedro: ang mga litid ng kaniyang mga hita ay nangagkakasabiran."
+  },
+  {
+    "i": 13883,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 18,
+    "t": "Ang kaniyang mga buto ay parang mga tubong tanso; ang kaniyang mga paa ay parang mga halang na bakal."
+  },
+  {
+    "i": 13884,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 19,
+    "t": "Siya ang pinakapangulo sa mga daan ng Dios: ang lumalang sa kaniya, ang makapaglalapit lamang ng tabak sa kaniya."
+  },
+  {
+    "i": 13885,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 20,
+    "t": "Tunay na ang mga bundok ay naglalabas sa kaniya ng pagkain; na pinaglalaruan ng lahat ng mga hayop sa parang."
+  },
+  {
+    "i": 13886,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 21,
+    "t": "Siya'y humihiga sa ilalim ng punong loto, sa puwang ng mga tambo, at mga lumbak."
+  },
+  {
+    "i": 13887,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 22,
+    "t": "Nilililiman siya ng mga puno ng loto ng kanilang lilim; nililigid sa palibot ng mga sauce sa batis."
+  },
+  {
+    "i": 13888,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 23,
+    "t": "Narito, kung bumubugso ang isang ilog hindi nanginginig: siya'y tiwasay bagaman umapaw ang Jordan hanggang sa kaniyang bunganga."
+  },
+  {
+    "i": 13889,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 24,
+    "t": "May kukuha ba sa kaniya pag siya'y natatanod, o may tutuhog ba ng kaniyang ilong sa pamamagitan ng isang silo."
+  },
+  { "i": 13890, "b": 17, "c": 1840, "r": 1840, "o": 25, "t": null },
+  { "i": 13891, "b": 17, "c": 1840, "r": 1840, "o": 27, "t": null },
+  { "i": 13892, "b": 17, "c": 1840, "r": 1840, "o": 28, "t": null },
+  { "i": 13893, "b": 17, "c": 1840, "r": 1840, "o": 29, "t": null },
+  { "i": 13894, "b": 17, "c": 1840, "r": 1840, "o": 30, "t": null },
+  { "i": 13895, "b": 17, "c": 1840, "r": 1840, "o": 31, "t": null },
+  { "i": 13896, "b": 17, "c": 1840, "r": 1840, "o": 32, "t": null },
+  {
+    "i": 13897,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 1,
+    "t": "Mahuhuli mo ba ang buwaya ng isang bingwit? O mailalabas mo ba ang kaniyang dila ng isang panali?"
+  },
+  {
+    "i": 13898,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 2,
+    "t": "Makapaglalagay ka ba ng tali sa kaniyang ilong? O makabubutas sa kaniyang panga ng isang taga ng bingwit?"
+  },
+  {
+    "i": 13899,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 3,
+    "t": "Mamamanhik ba siya ng marami sa iyo? O magsasalita ba siya ng mga malumanay na salita sa iyo?"
+  }
+]

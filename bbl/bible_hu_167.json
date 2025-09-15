@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16700,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 32,
+    "t": "\"És most, fiaim, hallgassatok rám: boldogok, akik megőrzik útjaimat!"
+  },
+  {
+    "i": 16701,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 33,
+    "t": "Hallgassatok az oktatásra és legyetek bölcsek, ne vessétek meg azt!"
+  },
+  {
+    "i": 16702,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 34,
+    "t": "Boldog az ember, aki engem hallgat, aki napról napra virraszt kapuimnál, hogy őrizze azok záróköveit!"
+  },
+  {
+    "i": 16703,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 35,
+    "t": "Mert aki engem talál, életet talál, és elnyeri az Úr kegyét;"
+  },
+  {
+    "i": 16704,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 36,
+    "t": "de aki vétkezik ellenem, megbántja a lelkét, aki gyűlöl engem, a halált szereti."
+  },
+  {
+    "i": 16705,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 1,
+    "t": "A Bölcsesség felépítette házát, kivágta hét oszlopát,"
+  },
+  {
+    "i": 16706,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 2,
+    "t": "levágta barmát, elkészítette borát, és megterítette asztalát is."
+  },
+  {
+    "i": 16707,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 3,
+    "t": "Elküldte szolgálóit, és kihirdette a halmokon, a város tetején:"
+  },
+  {
+    "i": 16708,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 4,
+    "t": "\"Aki együgyű, jöjjön ide!\" Az esztelen embernek ezt mondja:"
+  },
+  {
+    "i": 16709,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 5,
+    "t": "\"Jöjjetek, egyetek az én kenyeremből, igyatok a borból, amelyet készítettem!"
+  },
+  {
+    "i": 16710,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 6,
+    "t": "Hagyjátok el az ostobaságot, és élni fogtok, járjatok egyenesen az értelem útján."
+  },
+  {
+    "i": 16711,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 7,
+    "t": "Aki megfeddi a gúnyolót, gyalázatot von magára, aki meginti a gonoszt, becstelenséget."
+  },
+  {
+    "i": 16712,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 8,
+    "t": "Ne fedd meg a gúnyolót, mert gyűlölni fog téged, fedd meg a bölcset, és szeretni fog téged."
+  },
+  {
+    "i": 16713,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 9,
+    "t": "Adj a bölcsnek: még bölcsebb lesz; tanítsd az igazat, és gyarapítja tudását."
+  },
+  {
+    "i": 16714,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 10,
+    "t": "A bölcsesség kezdete az Úr félelme! A szentek tudománya az értelem."
+  },
+  {
+    "i": 16715,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 11,
+    "t": "Mert általam megsokasodnak napjaid, és meghosszabbodnak életed évei."
+  },
+  {
+    "i": 16716,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 12,
+    "t": "Ha bölcs vagy, magadnak vagy az, ha gúnyoló vagy, egyedül te viseled annak büntetését."
+  },
+  {
+    "i": 16717,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 13,
+    "t": "Asszony Bolondság hirtelenkedő, együgyű, és semmit sem tud!"
+  },
+  {
+    "i": 16718,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 14,
+    "t": "Leül háza ajtajában, trónon, a város tetején,"
+  },
+  {
+    "i": 16719,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 15,
+    "t": "hogy szólítsa az arra járókat, akik egyenesen mennek útjukon."
+  },
+  {
+    "i": 16720,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 16,
+    "t": "\"Aki együgyű, térjen be ide!\" Az esztelen embernek ezt mondja:"
+  },
+  {
+    "i": 16721,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 17,
+    "t": "\"Az orvott vizek édesek, és ízletes a titkos kenyér!"
+  },
+  {
+    "i": 16722,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 18,
+    "t": "Pedig nem tudja, hogy ott árnyak vannak, és hogy vendégei a seol völgyeiben vannak."
+  },
+  {
+    "i": 16723,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 1,
+    "t": "Salamon példabeszédei. A bölcs fiú örvendezteti apját, az ostoba fiú szomorítja anyját."
+  },
+  {
+    "i": 16724,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 2,
+    "t": "A rosszul szerzett kincsek nem használnak, de az igazság megszabadít a haláltól."
+  },
+  {
+    "i": 16725,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 3,
+    "t": "Az Úr nem hagyja éhezni az igazat, de elnyomja a gonoszok kívánságát."
+  },
+  {
+    "i": 16726,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 4,
+    "t": "A lusta kéz szegénységet hoz, a szorgalmasok keze gazdagságot szerez."
+  },
+  {
+    "i": 16727,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 5,
+    "t": "Nyáron gyűjteni okos ember dolga, aratáskor aludni méltatlan ember dolga."
+  },
+  {
+    "i": 16728,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 6,
+    "t": "Áldások az igaz fejére, de az istentelenek szája erőszakot takar."
+  },
+  {
+    "i": 16729,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 7,
+    "t": "Az igaz emléke áldás, a gonoszok neve elrothad."
+  },
+  {
+    "i": 16730,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 8,
+    "t": "A bölcs szívű ember elfogadja a parancsokat, az ostoba ajkú a vesztébe rohan."
+  },
+  {
+    "i": 16731,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 9,
+    "t": "Aki becsületesen jár, biztonságban jár, aki görbe úton jár, lelepleződik."
+  },
+  {
+    "i": 16732,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 10,
+    "t": "Aki hunyorog a szemével, gyötrelmet okoz, aki szemtől szemben megfeddi, békességet szerez."
+  },
+  {
+    "i": 16733,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 11,
+    "t": "Élet forrása az igaz szája, de az istentelenek szája erőszakot takar."
+  },
+  {
+    "i": 16734,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 12,
+    "t": "A gyűlölet viszályokat szít, a szeretet elfedez minden vétket."
+  },
+  {
+    "i": 16735,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 13,
+    "t": "Az értelmes ember ajkán bölcsesség található, az esztelen hátán pedig a bot."
+  },
+  {
+    "i": 16736,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 14,
+    "t": "A bölcsek kincset halmoznak fel a tudásból, de a bolond szája fenyegető veszély."
+  },
+  {
+    "i": 16737,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 15,
+    "t": "A gazdag vagyona az ő erős vára; a szegények nyomorúsága a szegénységük."
+  },
+  {
+    "i": 16738,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 16,
+    "t": "Az igaz bére életet szerez, a gonosz jövedelme bűn."
+  },
+  {
+    "i": 16739,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 17,
+    "t": "Élet felé halad az, aki megtartja a fegyelmet; aki elhagyja a feddést, tévelyeg."
+  },
+  {
+    "i": 16740,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 18,
+    "t": "A hazug ajkak gyűlöletet takarnak; aki rágalmat mond, bolond."
+  },
+  {
+    "i": 16741,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 19,
+    "t": "A sok beszéd nem marad vétek nélkül; aki visszatartja ajkait, okos."
+  },
+  {
+    "i": 16742,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 20,
+    "t": "Az igaz nyelve tiszta ezüst, a gonoszok szíve keveset ér."
+  },
+  {
+    "i": 16743,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 21,
+    "t": "Az igaz ajkai sokakat táplálnak, de a bolondok meghalnak értelem híján."
+  },
+  {
+    "i": 16744,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 22,
+    "t": "Az Úr áldása az, ami gazdaggá tesz, anélkül, hogy erőfeszítést kellene hozzátenni."
+  },
+  {
+    "i": 16745,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 23,
+    "t": "Játék a bolondnak bűnt elkövetni, és az értelmes embernek bölcsességet művelni."
+  },
+  {
+    "i": 16746,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 24,
+    "t": "Amitől a gonosz fél, az éri, amit az igaz kíván, az megadatik neki."
+  },
+  {
+    "i": 16747,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 25,
+    "t": "Amikor a vihar elmúlik, nincs többé gonosz! De az igaz örökké megáll."
+  },
+  {
+    "i": 16748,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 26,
+    "t": "Mint ecet a fognak, füst a szemnek, olyan a lusta annak, aki küldi."
+  },
+  {
+    "i": 16749,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 27,
+    "t": "Az Úr félelme meghosszabbítja a napokat, a gonoszok évei megrövidülnek."
+  },
+  {
+    "i": 16750,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 28,
+    "t": "Az igazak reménysége öröm, a gonoszok reménysége elvész."
+  },
+  {
+    "i": 16751,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 29,
+    "t": "Az Úr útja bástya a becsületes ember számára, a gonosztevőknek pedig romlás."
+  },
+  {
+    "i": 16752,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 30,
+    "t": "Soha nem rendül meg az igaz, de a gonoszok nem lakják a földet."
+  },
+  {
+    "i": 16753,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 31,
+    "t": "Az igaz szája bölcsességet szól, a perverz nyelv kivágatik."
+  },
+  {
+    "i": 16754,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 32,
+    "t": "Az igaz ajkai ismerik a jótékonyságot, a gonoszok szája a romlottságot."
+  },
+  {
+    "i": 16755,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 1,
+    "t": "A hamis mérleg utálatos az Úr előtt, de a pontos súly kedves neki."
+  },
+  {
+    "i": 16756,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 2,
+    "t": "Jöjjön a szemtelenség, jön a megvetés, de az alázatosaknál bölcsesség található."
+  },
+  {
+    "i": 16757,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 3,
+    "t": "Becsületességük vezeti az igaz embereket, perverzitásuk a hűtleneket a pusztulásba viszi."
+  },
+  {
+    "i": 16758,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 4,
+    "t": "A harag napján a gazdagság haszontalan, de az igazság megszabadít a haláltól."
+  },
+  {
+    "i": 16759,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 5,
+    "t": "A becsületes ember igazsága egyenessé teszi az útját, a gonosz a gonoszságában bukik el."
+  },
+  {
+    "i": 16760,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 6,
+    "t": "Igazságuk megmenti az igaz embereket, kívánságukban a hűtlenek foglyul esnek."
+  },
+  {
+    "i": 16761,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 7,
+    "t": "A gonosz reménysége elvész halálakor, a gazdagságba vetett remény semmivé lesz."
+  },
+  {
+    "i": 16762,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 8,
+    "t": "Az igaz megszabadul a szorongattatástól, a gonosz pedig a helyébe kerül."
+  },
+  {
+    "i": 16763,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 9,
+    "t": "Szájával a gonosz tönkreteszi a felebarátját, a tudással az igazak kikerülnek a bajból."
+  },
+  {
+    "i": 16764,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 10,
+    "t": "Az igazak boldogságára a város ujjong, a gonoszok elvesztésére örömkiáltás hallatszik."
+  },
+  {
+    "i": 16765,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 11,
+    "t": "A becsületes emberek áldásával emelkedik egy város, a gonoszok szájával pedig lerombolják."
+  },
+  {
+    "i": 16766,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 12,
+    "t": "Aki megveti a felebarátját, annak nincs értelme; az okos ember hallgat."
+  },
+  {
+    "i": 16767,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 13,
+    "t": "Pletykafészek az, aki felfedi a titkokat, biztos lélek az, aki elrejti a dolgot."
+  },
+  {
+    "i": 16768,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 14,
+    "t": "Irányítás hiányában egy nép elbukik, a siker a tanácsadók nagy számától függ."
+  },
+  {
+    "i": 16769,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 15,
+    "t": "Aki kezességet vállal az idegenért, kárt okoz magának, aki irtózik a kézfogástól, biztonságban van."
+  },
+  {
+    "i": 16770,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 16,
+    "t": "Egy bájos asszony tiszteletet szerez, az erőszakosak gazdagságot szereznek."
+  },
+  {
+    "i": 16771,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 17,
+    "t": "A könyörületes ember jót tesz magának, de a kemény ember gyötri a saját testét."
+  },
+  {
+    "i": 16772,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 18,
+    "t": "A gonosz csalóka munkát végez, aki igazságot vet, annak biztos a jutalma."
+  },
+  {
+    "i": 16773,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 19,
+    "t": "Aki igazságot szerez, életre jut, aki gonoszt követ, halálra."
+  },
+  {
+    "i": 16774,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 20,
+    "t": "Utálatos az Úr előtt a csalárd szív; szereti azokat, akiknek becsületes a magaviseletük."
+  },
+  {
+    "i": 16775,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 21,
+    "t": "Bizony, a gonosz nem marad büntetlenül, de az igazak nemzetsége megmenekül."
+  },
+  {
+    "i": 16776,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 22,
+    "t": "Aranykarika a disznó orrában: egy szép asszony, de híján van az értelemnek."
+  },
+  {
+    "i": 16777,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 23,
+    "t": "Az igazak kívánsága csak a jó, a gonoszok reménysége a harag."
+  },
+  {
+    "i": 16778,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 24,
+    "t": "Van, aki bőkezű, és gazdagsága gyarapszik, van, aki mértéktelenül halmoz, és csak elszegényedik."
+  },
+  {
+    "i": 16779,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 25,
+    "t": "Aki áldást ad, virulni fog, és aki itat, maga is itatva lesz."
+  },
+  {
+    "i": 16780,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 26,
+    "t": "Átkozott legyen a nép a gabona felhalmozóját, áldás pedig annak fejére, aki árulja azt."
+  },
+  {
+    "i": 16781,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 27,
+    "t": "Aki a jót keresi, jóindulatot talál, aki pedig a rosszat hajhássza, utoléri az."
+  },
+  {
+    "i": 16782,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 28,
+    "t": "Aki a gazdagságban bízik, elbukik, de az igazak zöldellnek, mint a lomb."
+  },
+  {
+    "i": 16783,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 29,
+    "t": "Aki felforgatja házát, szelet örököl, és a bolond a bölcs szolgájává lesz."
+  },
+  {
+    "i": 16784,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 30,
+    "t": "Az igaznak gyümölcse élet fája, és a bölcs lelkeket győz meg."
+  },
+  {
+    "i": 16785,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 31,
+    "t": "Ha az igaz itt a földön elnyeri jutalmát, mennyivel inkább a gonosz és a bűnös!"
+  },
+  {
+    "i": 16786,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 1,
+    "t": "Aki szereti a fegyelmet, szereti a tudást, aki gyűlöli a feddést, az oktalan."
+  },
+  {
+    "i": 16787,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 2,
+    "t": "A jó ember elnyeri az Úr jóindulatát, de a rossz szándékút elítéli."
+  },
+  {
+    "i": 16788,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 3,
+    "t": "A gonoszság nem alapoz meg szilárdan senkit, de az igazak gyökere nem rendül meg."
+  },
+  {
+    "i": 16789,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 4,
+    "t": "A derék asszony férjének koronája, de a szégyenletes asszony olyan, mint a csontjaiban a rothadás."
+  },
+  {
+    "i": 16790,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 5,
+    "t": "Az igazak gondolatai igazságosak, a gonoszok tervei pedig álnokok."
+  },
+  {
+    "i": 16791,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 6,
+    "t": "A gonoszok beszéde vér leselkedése, de az igazak szája megmenti őket."
+  },
+  {
+    "i": 16792,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 7,
+    "t": "Elpusztulnak a gonoszok, és nincsenek többé, de az igazak háza megáll."
+  },
+  {
+    "i": 16793,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 8,
+    "t": "Értelmességéért dicsérik az embert, a hamis szívű pedig gyalázatba esik."
+  },
+  {
+    "i": 16794,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 9,
+    "t": "Jobb a közönséges ember, akinek szolgája van, mint aki magát dicsőíti, és kenyérben szűkölködik."
+  },
+  {
+    "i": 16795,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 10,
+    "t": "Az igaz gondoskodik állatainak szükségleteiről, de a gonosz szíve kegyetlen."
+  },
+  {
+    "i": 16796,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 11,
+    "t": "Aki földjét műveli, jóllakik kenyérrel, aki pedig hiábavalóságot hajszol, annak nincs esze."
+  },
+  {
+    "i": 16797,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 12,
+    "t": "A gonosz örül a gonoszok hálójának, de az igazak gyökere terem."
+  },
+  {
+    "i": 16798,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 13,
+    "t": "Ajakainak vétke veszedelmes tőr, de az igaz kikerül a szorongatásból."
+  },
+  {
+    "i": 16799,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 14,
+    "t": "Szájának gyümölcsével jóllakik az ember a jóval, és cselekedeteinek jutalmát nyeri el."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3200,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 1,
+    "t": "E l'Eterno parlò a Mosè, dopo la morte de' due figliuoli d'Aaronne, quando si offersero dinanzi all'Eterno, e morirono."
+  },
+  {
+    "i": 3201,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 2,
+    "t": "E l'Eterno disse a Mosè: Di' ad Aaronne, tuo fratello, che non entri in qualunque tempo nel santuario, di dentro dal velo, dinanzi al propiziatorio ch'è sopra l'arca, acciocché non muoia; perciocché io apparirò nella nuvola sopra il propiziatorio."
+  },
+  {
+    "i": 3202,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 3,
+    "t": "Aaronne entrerà così nel santuario: con un giovenco per sacrificio per lo peccato, e con un montone per olocausto."
+  },
+  {
+    "i": 3203,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 4,
+    "t": "E si vestirà la tunica di lino sacra, ed avrà le brache di lino addosso, e si cingerà la cintura di lino, e si metterà in capo la mitra di lino; queste sono vesti sacre; e si laverà il corpo con acqua, e le vestirà."
+  },
+  {
+    "i": 3204,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 5,
+    "t": "Poi prenderà dalla raunanza de' figliuoli d'Israele due becchi di capre per sacrificio per lo peccato, ed un montone per olocausto."
+  },
+  {
+    "i": 3205,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 6,
+    "t": "Ed Aaronne offerirà il giovenco per sacrificio per lo suo peccato, e farà purgamento per sé, e per la sua casa."
+  },
+  {
+    "i": 3206,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 7,
+    "t": "Poi prenderà i due becchi di capre, e li farà comparire davanti all'Eterno, all'entrata del Tabernacolo della convenenza."
+  },
+  {
+    "i": 3207,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 8,
+    "t": "E getterà le sorti sopra i due becchi di capre; una sorte per l'Eterno, e l'altra sorte per Azazel."
+  },
+  {
+    "i": 3208,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 9,
+    "t": "Ed Aaronne farà accostare il becco di capre sopra il quale sarà caduta la sorte per l'Eterno, e l'offerirà per sacrificio per lo peccato."
+  },
+  {
+    "i": 3209,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 10,
+    "t": "Ma il becco di capre sopra il quale sarà caduta la sorte per Azazel sarà fatto comparire vivente davanti all'Eterno, per far purgamento sopra lui, per mandarlo ad Azazel nel deserto."
+  },
+  {
+    "i": 3210,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 11,
+    "t": "Ed Aaronne farà accostare il giovenco per sacrificio per lo suo peccato, e farà purgamento per sé, e per la sua casa; e scannnerà il giovenco per sacrificio per lo suo peccato."
+  },
+  {
+    "i": 3211,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 12,
+    "t": "Poi prenderà un turibolo pieno di braciuoli di fuoco, tolti d'in su l'altare d'innanzi all'Eterno, e due pugni pieni d'incenso odorifero minuto; e porterà quelle cose di dentro dal velo."
+  },
+  {
+    "i": 3212,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 13,
+    "t": "E metterà l'incenso sopra il fuoco, davanti all'Eterno, acciocché la nuvola dell'incenso copra il propiziatorio ch'è sopra la Testimonianza, e non muoia."
+  },
+  {
+    "i": 3213,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 14,
+    "t": "Poi prenderà del sangue del giovenco, e ne spanderà col dito sopra il propiziatorio, dal lato di Oriente; e spanderà col dito del sangue sette volte davanti al propiziatorio."
+  },
+  {
+    "i": 3214,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 15,
+    "t": "Poi scannnerà il becco di capre per sacrificio per lo peccato del popolo, e porterà il sangue di esso di dentro dal velo, e farà di quel sangue come ha fatto del sangue del giovenco; e lo spanderà sopra il propiziatorio, e davanti al propiziatorio."
+  },
+  {
+    "i": 3215,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 16,
+    "t": "Così farà purgamento per lo santuario, per cagione delle immondizie de' figliuoli d'Israele, e per cagione delle lor trasgressioni, di tutti i lor peccati; e farà altresì così per lo Tabernacolo della convenenza, il quale dimora con loro nel mezzo delle lor immondizie."
+  },
+  {
+    "i": 3216,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 17,
+    "t": "E niuno sia nel Tabernacolo della convenenza, quando Aaronne entrerà nel santuario per far purgamento, finch'egli non sia uscito, ed abbia fatto purgamento per sé, e per la sua casa, e per tutta la raunanza d'Israele."
+  },
+  {
+    "i": 3217,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 18,
+    "t": "Poi uscirà verso l'altare ch'è davanti all'Eterno, e farà purgamento per l'altare; e prenderà del sangue del giovenco, e del sangue del becco di capre, e ne metterà sopra i corni intorno all'altare."
+  },
+  {
+    "i": 3218,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 19,
+    "t": "E spanderà col dito del sangue sopra l'altare sette volte; e lo purificherà, e lo santificherà dalle immondizie de' figliuoli d'Israele."
+  },
+  {
+    "i": 3219,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 20,
+    "t": "E quando avrà compiuto di far purgamento per lo santuario, e per lo Tabernacolo della convenenza, e per l'altare, farà accostare il becco di capre vivente."
+  },
+  {
+    "i": 3220,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 21,
+    "t": "Ed Aaronne metterà ambe le mani sopra la testa del becco di capre vivente, e confesserà sopra esso tutte le iniquità de' figliuoli d'Israele, e tutte le lor trasgressioni, tutti i lor peccati; e li metterà sopra la testa del becco di capre; e lo manderà nel deserto per lo mezzo d'un uomo apparecchiato a ciò."
+  },
+  {
+    "i": 3221,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 22,
+    "t": "E quel becco di capre porterà sopra sé tutte le lor iniquità in un paese solitario; ed egli manderà quel becco di capre nel deserto."
+  },
+  {
+    "i": 3222,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 23,
+    "t": "Poi Aaronne entrerà nel Tabernacolo della convenenza, e si spoglierà le vesti di lino, le quali egli avea vestite, quando era entrato nel santuario, e le riporrà quivi."
+  },
+  {
+    "i": 3223,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 24,
+    "t": "E laverà il corpo con acqua in un luogo santo, e si vestirà le sue vesti; poi uscirà, ed offerirà il suo olocausto, e l'olocausto del popolo; e farà purgamento per sé, e per il popolo."
+  },
+  {
+    "i": 3224,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 25,
+    "t": "E farà fumare il grasso del sacrificio per lo peccato sopra l'altare."
+  },
+  {
+    "i": 3225,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 26,
+    "t": "E colui che avrà menato il becco di capre per Azazel laverà le sue vesti, e laverà il suo corpo con acqua; poi entrerà nel campo."
+  },
+  {
+    "i": 3226,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 27,
+    "t": "E il giovenco per sacrificio per lo peccato, ed il becco di capre per sacrificio per lo peccato, il cui sangue sarà portato dentro al santuario per far purgamento, saranno portati fuori del campo; e si abbruceranno al fuoco le lor pelli, e la lor carne, e la lor feccia."
+  },
+  {
+    "i": 3227,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 28,
+    "t": "E colui che gli avrà abbrucciati laverà le sue vesti, e laverà il suo corpo con acqua; poi entrerà nel campo."
+  },
+  {
+    "i": 3228,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 29,
+    "t": "E questo vi sarà per legge perpetua; nel settimo mese, al decimo giorno del mese, affliggerete le anime vostre, e non farete alcuna opera; né il natio, né lo straniero che dimora fra voi."
+  },
+  {
+    "i": 3229,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 30,
+    "t": "Perciocché in quel giorno si farà purgamento per voi, per purificarvi; voi sarete purificati da tutti i vostri peccati davanti all'Eterno."
+  },
+  {
+    "i": 3230,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 31,
+    "t": "Esso vi sarà un sabato di riposo, e affliggerete le anime vostre; questa è una legge perpetua."
+  },
+  {
+    "i": 3231,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 32,
+    "t": "E il sacerdote ch'è unto, e ch'è consacrato, per amministrare l'ufficio del sacerdozio in luogo del suo padre, farà il purgamento; e si vestirà le vesti di lino, le vesti sacre."
+  },
+  {
+    "i": 3232,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 33,
+    "t": "E farà purgamento per lo santuario santo, e farà purgamento per lo Tabernacolo della convenenza, e per l'altare; e farà purgamento per i sacerdoti, e per tutta la raunanza del popolo."
+  },
+  {
+    "i": 3233,
+    "b": 2,
+    "c": 316,
+    "r": 316,
+    "o": 34,
+    "t": "E questo vi sarà per legge perpetua, per far purgamento una volta l'anno per i figliuoli d'Israele, per tutti i lor peccati. E Mosè fece come l'Eterno gli avea comandato."
+  },
+  {
+    "i": 3234,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 1,
+    "t": "E l'Eterno parlò a Mosè, dicendo:"
+  },
+  {
+    "i": 3235,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 2,
+    "t": "Parla ad Aaronne, ed a' suoi figliuoli, ed a tutti i figliuoli d'Israele, e di' loro: Questo è ciò che l'Eterno ha comandato, dicendo:"
+  },
+  {
+    "i": 3236,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 3,
+    "t": "Qualunque uomo della casa d'Israele scannnerà bue, ovvero agnello, ovvero capra, dentro al campo, ovvero fuori del campo."
+  },
+  {
+    "i": 3237,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 4,
+    "t": "E non lo menerà all'entrata del Tabernacolo della convenenza, per offerire un'offerta all'Eterno davanti al Tabernacolo dell'Eterno; quel tale sarà reo di sangue; egli ha sparso sangue; quel tale sarà sterminato d'infra il suo popolo."
+  },
+  {
+    "i": 3238,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 5,
+    "t": "Acciocché i figliuoli d'Israele rechino all'Eterno i lor sacrificii, i quali offeriscono per campagna; e li rechino all'Eterno, all'entrata del Tabernacolo della convenenza, al sacerdote, e li offerischino per sacrificii da render grazie all'Eterno."
+  },
+  {
+    "i": 3239,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 6,
+    "t": "E il sacerdote spanderà il sangue sopra l'altare dell'Eterno, all'entrata del Tabernacolo della convenenza; e farà fumare il grasso in odor soave all'Eterno."
+  },
+  {
+    "i": 3240,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 7,
+    "t": "Ed essi non offeriranno più i lor sacrificii a' demoni, dietro a' quali vanno fornicando; questo sarà loro una legge perpetua, di generazione in generazione."
+  },
+  {
+    "i": 3241,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 8,
+    "t": "E dirai loro: Qualunque uomo della casa d'Israele, ovvero degli stranieri che dimorano fra voi, offerirà olocausto, ovvero sacrificio."
+  },
+  {
+    "i": 3242,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 9,
+    "t": "E non lo menerà all'entrata del Tabernacolo della convenenza, per offerirlo all'Eterno; quel tale sarà sterminato d'infra il suo popolo."
+  },
+  {
+    "i": 3243,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 10,
+    "t": "E qualunque uomo della casa d'Israele, ovvero degli stranieri che dimorano fra voi, mangierà del sangue di qualunque specie; io metterò la mia faccia contro quella persona che mangierà il sangue, e la sterminerò d'infra il suo popolo."
+  },
+  {
+    "i": 3244,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 11,
+    "t": "Perciocché l'anima della carne è nel sangue; e io ve l'ho dato sopra l'altare, per fare purgamento per le anime vostre; perciocché il sangue è quello che fa purgamento per l'anima."
+  },
+  {
+    "i": 3245,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 12,
+    "t": "Perciò, ho detto a' figliuoli d'Israele: Nessuno di voi mangi sangue; e lo straniero che dimora fra voi non mangi sangue."
+  },
+  {
+    "i": 3246,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 13,
+    "t": "E qualunque uomo de' figliuoli d'Israele, ovvero degli stranieri che dimorano fra voi, prenderà cacciando alcuna bestia, o uccello che si possa mangiare, spanderà il sangue di esso, e lo coprirà di terra."
+  },
+  {
+    "i": 3247,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 14,
+    "t": "Perciocché l'anima d'ogni carne è il suo sangue; perciò, ho detto a' figliuoli d'Israele: Non mangiate sangue d'alcuna carne; perciocché l'anima d'ogni carne è il suo sangue; chiunque lo mangerà sarà sterminato."
+  },
+  {
+    "i": 3248,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 15,
+    "t": "E qualunque persona mangerà una bestia morta da sé, ovvero lacerata, sia natio, sia straniero, laverà le sue vesti, e si laverà con acqua, e sarà immondo fino alla sera; poi sarà mondo."
+  },
+  {
+    "i": 3249,
+    "b": 2,
+    "c": 317,
+    "r": 317,
+    "o": 16,
+    "t": "Ma se non le lava, e non lava il suo corpo, porterà la sua iniquità."
+  },
+  {
+    "i": 3250,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 1,
+    "t": "E l'Eterno parlò a Mosè, dicendo:"
+  },
+  {
+    "i": 3251,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 2,
+    "t": "Parla a' figliuoli d'Israele, e di' loro: Io sono l'Eterno Iddio vostro."
+  },
+  {
+    "i": 3252,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 3,
+    "t": "Non fate come si fa nel paese d'Egitto, dove avete dimorato; e non fate come si fa nel paese di Canaan, dove io vi meno; e non camminate secondo i lor costumi."
+  },
+  {
+    "i": 3253,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 4,
+    "t": "Fate i miei statuti, e osservate le mie leggi, per camminarvi dentro; io sono l'Eterno Iddio vostro."
+  },
+  {
+    "i": 3254,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 5,
+    "t": "Osservate adunque le mie leggi, ed i miei statuti; l'uomo che li farà, vivrà per essi; io sono l'Eterno."
+  },
+  {
+    "i": 3255,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 6,
+    "t": "Nessuno s'accosti a colei ch'è sua congiunta carnale, per iscuoprire la sua nudità; io sono l'Eterno."
+  },
+  {
+    "i": 3256,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 7,
+    "t": "Non iscuoprire la nudità di tuo padre, né la nudità di tua madre; è tua madre, non iscuoprire la sua nudità."
+  },
+  {
+    "i": 3257,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 8,
+    "t": "Non iscuoprire la nudità della moglie di tuo padre; ella è la nudità del padre tuo."
+  },
+  {
+    "i": 3258,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 9,
+    "t": "Non iscuoprire la nudità della tua sorella, figliuola di tuo padre, o figliuola di tua madre, nata in casa, o nata fuori; non iscuoprire la sua nudità."
+  },
+  {
+    "i": 3259,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 10,
+    "t": "Non iscuoprire la nudità della figliuola del tuo figliuolo, né la nudità della figliuola della tua figliuola; perciocché esse sono la tua nudità."
+  },
+  {
+    "i": 3260,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 11,
+    "t": "Non iscuoprire la nudità della figliuola della moglie di tuo padre, generata da tuo padre; ella è tua sorella, non iscuoprire la sua nudità."
+  },
+  {
+    "i": 3261,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 12,
+    "t": "Non iscuoprire la nudità della sorella di tuo padre; ella è congiunta carnale del padre tuo."
+  },
+  {
+    "i": 3262,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 13,
+    "t": "Non iscuoprire la nudità della sorella della tua madre; perciocché ella è congiunta carnale della tua madre."
+  },
+  {
+    "i": 3263,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 14,
+    "t": "Non iscuoprire la nudità del fratello di tuo padre, non ti accostare alla moglie sua; ella è tua zia."
+  },
+  {
+    "i": 3264,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 15,
+    "t": "Non iscuoprire la nudità della tua nuora; ella è la moglie del tuo figliuolo, non iscuoprire la sua nudità."
+  },
+  {
+    "i": 3265,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 16,
+    "t": "Non iscuoprire la nudità della moglie del tuo fratello; ella è la nudità del tuo fratello."
+  },
+  {
+    "i": 3266,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 17,
+    "t": "Non iscuoprire la nudità di una donna, né della figliuola di lei; non prender la figliuola del suo figliuolo, né la figliuola della sua figliuola, per iscuoprir la sua nudità; esse sono congiunte carnale; è scelleratezza."
+  },
+  {
+    "i": 3267,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 18,
+    "t": "Non prender la moglie insieme con sua sorella, per farle tue nemiche, iscuoprendo la nudità dell'una, mentre l'altra è viva."
+  },
+  {
+    "i": 3268,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 19,
+    "t": "Non accostarti alla donna per iscuoprire la sua nudità, mentre ella è immonda per cagione de' suoi corsi."
+  },
+  {
+    "i": 3269,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 20,
+    "t": "E non darai il tuo letto alla moglie del tuo prossimo, per contaminarti con essa."
+  },
+  {
+    "i": 3270,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 21,
+    "t": "E non darai de' tuoi figliuoli per farli passare a Molec; e non profanerai il Nome del tuo Dio; io sono l'Eterno."
+  },
+  {
+    "i": 3271,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 22,
+    "t": "Non giacerai con maschio come si giace con donna; ciò è abbominazione."
+  },
+  {
+    "i": 3272,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 23,
+    "t": "E non darai la tua persona ad alcuna bestia, per contaminarti con essa; né la donna si offerirà davanti alla bestia, per abbisognarsi con essa; ciò è scelleratezza."
+  },
+  {
+    "i": 3273,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 24,
+    "t": "Non vi contaminate in alcuna di queste cose; perciocché in tutte queste cose si son contaminate le genti ch'io caccio d'innanzi a voi."
+  },
+  {
+    "i": 3274,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 25,
+    "t": "E il paese è stato contaminato; perciò, io ho visitata sopra lui la sua iniquità; onde il paese ha vomitati i suoi abitanti."
+  },
+  {
+    "i": 3275,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 26,
+    "t": "Guardate adunque voi i miei statuti, e le mie leggi; e non fate alcuna di tutte queste abbominazioni; né il natio, né lo straniero che dimora fra voi."
+  },
+  {
+    "i": 3276,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 27,
+    "t": "Perciocché tutte queste abbominazioni hanno fatte gli uomini del paese, che son stati davanti a voi; ed il paese è stato contaminato."
+  },
+  {
+    "i": 3277,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 28,
+    "t": "Acciocché il paese non vi vomiti, quando l'avrete contaminato, come ha vomitato le genti ch'eran davanti a voi."
+  },
+  {
+    "i": 3278,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 29,
+    "t": "Perciocché chiunque farà alcuna di tutte queste abbominazioni, le persone che le faranno saranno sterminate d'infra il lor popolo."
+  },
+  {
+    "i": 3279,
+    "b": 2,
+    "c": 318,
+    "r": 318,
+    "o": 30,
+    "t": "Osservate adunque quello ch'io vi comando che osserviate, acciocché non facciate alcuno de' costumi abbominevoli, i quali sono stati fatti davanti a voi; e non vi contaminate per essi; io sono l'Eterno Iddio vostro."
+  },
+  {
+    "i": 3280,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 1,
+    "t": "E l'Eterno parlò a Mosè, dicendo:"
+  },
+  {
+    "i": 3281,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 2,
+    "t": "Parla a tutta la raunanza dei figliuoli d'Israele, e di' loro: Siate santi, perciocchè io, l'Eterno Iddio vostro, son santo."
+  },
+  {
+    "i": 3282,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 3,
+    "t": "Ciascuno di voi tema sua madre, e suo padre, e osservate i miei sabati. Io sono l'Eterno Iddio vostro."
+  },
+  {
+    "i": 3283,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 4,
+    "t": "Non vi rivolgete agl'idoli, e non vi fate degli di di getto. Io sono l'Eterno Iddio vostro."
+  },
+  {
+    "i": 3284,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 5,
+    "t": "E quando offerirete un sacrificio di azioni di grazie all'Eterno, offeritelo in guisa che vi sia accettevole."
+  },
+  {
+    "i": 3285,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 6,
+    "t": "Il dì che l'offrirete, e l'indomani, sarà mangiato; e quel che ne resta fino al terzo giorno, sia arso col fuoco."
+  },
+  {
+    "i": 3286,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 7,
+    "t": "E se pur alcuno ne mangiasse nel terzo giorno, esso è cosa abominevole; non sarà accettevole."
+  },
+  {
+    "i": 3287,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 8,
+    "t": "Ma chiunque ne mangia, porterà la sua iniquità; perciocchè avrà profanato le cose sacre all'Eterno; e quella persona sarà sterminata dal suo popolo."
+  },
+  {
+    "i": 3288,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 9,
+    "t": "E quando mieterete la messe del vostro paese, non mieterai del tutto i canti del tuo campo; e non raccoglierai la spigolatura della tua messe."
+  },
+  {
+    "i": 3289,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 10,
+    "t": "E non racimolerai la tua vigna, e non raccoglierai il frutto caduto della tua vigna; lasciagli al povero, ed al forestiere. Io sono l'Eterno Iddio vostro."
+  },
+  {
+    "i": 3290,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 11,
+    "t": "Non furtiate, e non mentite; e non ingannate l'uno il suo prossimo."
+  },
+  {
+    "i": 3291,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 12,
+    "t": "E non giurate falsamente per lo mio Nome, perciocchè tu profaneresti il Nome dell'Iddio tuo. Io sono l'Eterno."
+  },
+  {
+    "i": 3292,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 13,
+    "t": "Non opprimerai il tuo prossimo, e non lo spoglierai; il salario dell'uomo a giornata non dimorerà appresso di te fino alla mattina."
+  },
+  {
+    "i": 3293,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 14,
+    "t": "Non maledirai al sordo, e non metterai inciampo davanti al cieco; ma temi il tuo Dio. Io sono l'Eterno."
+  },
+  {
+    "i": 3294,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 15,
+    "t": "Non fate ingiustizia in giudicio; non riguardare alla qualità del povero, e non onorare la persona del grande; giudica il tuo prossimo con giustizia."
+  },
+  {
+    "i": 3295,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 16,
+    "t": "Non andare attorno diffamando il tuo popolo; non ti attenere al sangue del tuo prossimo. Io sono l'Eterno."
+  },
+  {
+    "i": 3296,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 17,
+    "t": "Non odierai il tuo fratello nel tuo cuore; riprendi liberamente il tuo prossimo, e non ti caricare di peccato per cagion di lui."
+  },
+  {
+    "i": 3297,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 18,
+    "t": "Non ti vendicare, e non ritener rancore contro a' figliuoli del tuo popolo; ma ama il tuo prossimo come te stesso. Io sono l'Eterno."
+  },
+  {
+    "i": 3298,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 19,
+    "t": "Osservate le mie leggi. Non accoppiare le tue bestie di diverse spezie; non seminare il tuo campo di diverse sementi; e non ti vestire di pannilano, e di lino insieme."
+  },
+  {
+    "i": 3299,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 20,
+    "t": "E quando alcuno giacerà carnalmente con una femmina, ch'è serva promessa ad un uomo, e non riscattata, nè fatta libera, se ne farà inquisizione; non saranno fatti morire; perciocchè ella non era libera."
+  }
+]

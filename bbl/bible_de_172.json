@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17200,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 21,
+    "t": "Wenn deinen Feind hungert, so speise ihn; dürstet ihn, so tränke ihn;"
+  },
+  {
+    "i": 17201,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 22,
+    "t": "denn damit wirst du feurige Kohlen auf sein Haupt sammeln, und der HERR wird dir's vergelten."
+  },
+  {
+    "i": 17202,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 23,
+    "t": "Nordwind bringt Regen, und eine heimliche Zunge ein finsteres Angesicht."
+  },
+  {
+    "i": 17203,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 24,
+    "t": "Es ist besser, auf einem Winkel des Daches zu wohnen, denn mit einem zänkischen Weibe in einem Hause."
+  },
+  {
+    "i": 17204,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 25,
+    "t": "Wie kühles Wasser einer durstigen Kehle, also ist eine gute Botschaft aus fernem Lande."
+  },
+  {
+    "i": 17205,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 26,
+    "t": "Ein getretener Brunnen und eine verderbte Quelle ist ein Gerechter, der vor Gottlosen wankt."
+  },
+  {
+    "i": 17206,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 27,
+    "t": "Zu viel Honig essen ist nicht gut, und Ehre suchen ist beschwerlich."
+  },
+  {
+    "i": 17207,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 28,
+    "t": "Ein Mann, der seine Brust nicht halten kann, ist wie eine Stadt, darin die Mauern zerbrochen sind."
+  },
+  {
+    "i": 17208,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 1,
+    "t": "Wie Schnee im Sommer und Regen in der Ernte, so ziemt dem Narren keine Ehre."
+  },
+  {
+    "i": 17209,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 2,
+    "t": "Wie ein Vogel entflieht und eine Schwalbe davonfliegt, also ist ein unverdienter Fluch: er kommt nicht."
+  },
+  {
+    "i": 17210,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 3,
+    "t": "Eine Geißel dem Pferde, ein Zaum dem Esel und eine Rute dem Narren Rücken."
+  },
+  {
+    "i": 17211,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 4,
+    "t": "Antworte dem Narren nicht nach seiner Narrheit, auf daß du ihm nicht auch gleich werdest."
+  },
+  {
+    "i": 17212,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 5,
+    "t": "Antworte dem Narren nach seiner Narrheit, auf daß er nicht weise dünke."
+  },
+  {
+    "i": 17213,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 6,
+    "t": "Wer eine Botschaft sendet durch einen Narren, der haut sich selbst die Füße ab und trinkt Schaden."
+  },
+  {
+    "i": 17214,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 7,
+    "t": "Wie lahmende Füße am Hinkenden, so ist ein Spruch im Munde der Narren."
+  },
+  {
+    "i": 17215,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 8,
+    "t": "Wie wer einen Stein in die Schleuder bindet, so ist, wer dem Narren Ehre gibt."
+  },
+  {
+    "i": 17216,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 9,
+    "t": "Wie ein Dornzweig dem Trunkenen in die Hand fällt, so ist ein Spruch im Munde der Narren."
+  },
+  {
+    "i": 17217,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 10,
+    "t": "Wie ein Schütze alle verwundet, so ist, wer einen Narren oder Vorübergehenden dingen will."
+  },
+  {
+    "i": 17218,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 11,
+    "t": "Wie ein Hund wieder frißt, was er gespieen hat, so ist der Narr, der seine Narrheit wieder treibt."
+  },
+  {
+    "i": 17219,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 12,
+    "t": "Siehst du einen Mann, der sich weise achtet, so ist mehr Hoffnung an einem Narren denn an ihm."
+  },
+  {
+    "i": 17220,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 13,
+    "t": "Der Faule spricht: Es ist ein Löwe auf dem Wege, ein Leu ist auf den Gassen."
+  },
+  {
+    "i": 17221,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 14,
+    "t": "Die Tür wendet sich in ihrem Angel, und der Faule auf seinem Bette."
+  },
+  {
+    "i": 17222,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 15,
+    "t": "Der Faule steckt seine Hand in die Schüssel und ist müde, sie zum Munde zu führen."
+  },
+  {
+    "i": 17223,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 16,
+    "t": "Der Faule achtet sich weiser denn sieben, die da vernünftig antworten."
+  },
+  {
+    "i": 17224,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 17,
+    "t": "Wer vorübergeht und sich in einen fremden Handel mengt, der ist wie einer, der einen Hund bei den Ohren faßt."
+  },
+  {
+    "i": 17225,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 18,
+    "t": "Wie ein Unsinniger mit Brandpfeilen, Geschossen und Tod um sich wirft,"
+  },
+  {
+    "i": 17226,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 19,
+    "t": "also ist, wer seinen Nächsten betrügt und spricht: Ich habe gescherzt."
+  },
+  {
+    "i": 17227,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 20,
+    "t": "Wenn kein Holz da ist, so verlöscht das Feuer; und wenn kein Verleumder da ist, so höret der Zank auf."
+  },
+  {
+    "i": 17228,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 21,
+    "t": "Wie Kohlen die Glut und Holz das Feuer, so zankt ein Haderer, daß er den Zank anrichte."
+  },
+  {
+    "i": 17229,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 22,
+    "t": "Die Worte des Verleumders sind wie Leckerbissen und gehen durchs Herz."
+  },
+  {
+    "i": 17230,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 23,
+    "t": "Wie silberne Spreu, die mit Scherben überzogen ist, so sind feurige Lippen und böses Herz."
+  },
+  {
+    "i": 17231,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 24,
+    "t": "Wer da haßt, der stellt sich freundlich mit seinem Munde, aber in seinem Herzen liegt Falschheit."
+  },
+  {
+    "i": 17232,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 25,
+    "t": "Wenn er freundlich redet, so glaube ihm nicht; denn sieben Greuel sind in seinem Herzen."
+  },
+  {
+    "i": 17233,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 26,
+    "t": "Wenn er seinen Haß mit List verdeckt, so wird doch seine Bosheit offenbar werden vor der Gemeinde."
+  },
+  {
+    "i": 17234,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 27,
+    "t": "Wer eine Grube macht, der wird hineinfallen; und wer einen Stein wälzt, über den wird er wiederkommen."
+  },
+  {
+    "i": 17235,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 28,
+    "t": "Eine falsche Zunge haßt, die sie verletzt; und ein glatter Mund richtet Schaden an."
+  },
+  {
+    "i": 17236,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 1,
+    "t": "Rühme dich nicht des morgenden Tages; denn du weißt nicht, was ein Tag zeugen mag."
+  },
+  {
+    "i": 17237,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 2,
+    "t": "Laß dich einen andern loben, und nicht deinen Mund; einen Fremden, und nicht deine Lippen."
+  },
+  {
+    "i": 17238,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 3,
+    "t": "Ein Stein ist schwer und Sand beschwerlich; aber des Narren Zorn ist schwerer denn beide."
+  },
+  {
+    "i": 17239,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 4,
+    "t": "Grimm ist ein Ungestüm und Zorn ein reißendes Wasser; wer aber kann vor dem Neide bestehen?"
+  },
+  {
+    "i": 17240,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 5,
+    "t": "Offenbare Strafe ist besser denn verborgene Liebe."
+  },
+  {
+    "i": 17241,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 6,
+    "t": "Die Schläge des Liebhabers meinen's gut; aber die Küsse des Hassers sind betrüglich."
+  },
+  {
+    "i": 17242,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 7,
+    "t": "Eine volle Seele tritt Honigseim mit Füßen; aber einer hungrigen Seele ist alles Bittere süße."
+  },
+  {
+    "i": 17243,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 8,
+    "t": "Wie ein Vogel, der von seinem Nest umherirrt, also ist ein Mann, der von seinem Ort umherirrt."
+  },
+  {
+    "i": 17244,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 9,
+    "t": "Salbe und Räuchwerk erfreuen das Herz; aber besser ist der Freund um seines Rates willen, denn sich selbst verlassen."
+  },
+  {
+    "i": 17245,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 10,
+    "t": "Verlaß deinen Freund und deines Vaters Freund nicht; und gehe nicht in deines Bruders Haus, wenn dir's übel geht. Ein Nachbar nahe ist besser denn ein Bruder ferne."
+  },
+  {
+    "i": 17246,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 11,
+    "t": "Sei weise, mein Sohn, und erfreue mein Herz, auf daß ich antworten möge dem, der mich schmäht."
+  },
+  {
+    "i": 17247,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 12,
+    "t": "Ein Kluger sieht das Unglück und verbirgt sich; aber die Unverständigen gehen hindurch und werden beschädigt."
+  },
+  {
+    "i": 17248,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 13,
+    "t": "Nimm ihm sein Kleid, der für einen andern Bürge geworden ist; und pfände ihn für die Fremde."
+  },
+  {
+    "i": 17249,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 14,
+    "t": "Wer seinen Nächsten frühe am Morgen mit lauter Stimme segnet, das wird ihm für einen Fluch gerechnet."
+  },
+  {
+    "i": 17250,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 15,
+    "t": "Ein stetiger Tropfen zur Zeit des Regens und ein zänkisches Weib sind ganz gleich."
+  },
+  {
+    "i": 17251,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 16,
+    "t": "Wer sie aufhalten will, der hält den Wind auf und wird die Salbe seiner rechten Hand gewahr."
+  },
+  {
+    "i": 17252,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 17,
+    "t": "Eisen schärft Eisen, also schärft ein Mann das Angesicht des andern."
+  },
+  {
+    "i": 17253,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 18,
+    "t": "Wer einen Feigenbaum wartet, der wird seine Frucht essen; und wer seinen Herrn wartet, wird geehrt werden."
+  },
+  {
+    "i": 17254,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 19,
+    "t": "Wie sich im Wasser ein Angesicht spiegelt, also spiegelt sich des Menschen Herz im Menschen."
+  },
+  {
+    "i": 17255,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 20,
+    "t": "Hölle und Abgrund sind nimmerdar satt; also sind auch der Menschen Augen nimmerdar satt."
+  },
+  {
+    "i": 17256,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 21,
+    "t": "Die Hütte ist für Silber, der Ofen für Gold; also wird ein Mann bewährt durch den Mund, der ihn rühmt."
+  },
+  {
+    "i": 17257,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 22,
+    "t": "Wenn du den Narren im Mörser zerstießest mit dem Stampfer, würde doch seine Narrheit nicht von ihm weichen."
+  },
+  {
+    "i": 17258,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 23,
+    "t": "Besorge dich, daß du deine Herde recht weißt, und richte dein Herz auf deine Haufen;"
+  },
+  {
+    "i": 17259,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 24,
+    "t": "denn das Gut währet nicht ewig, und das Zepter nicht für und für."
+  },
+  {
+    "i": 17260,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 25,
+    "t": "Wenn das Gras weg ist und das Heu erscheint und die Kräuter der Berge gesammelt werden,"
+  },
+  {
+    "i": 17261,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 26,
+    "t": "so hast du Lämmer genug zu deiner Kleidung und Böcke zum Kaufackers,"
+  },
+  {
+    "i": 17262,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 27,
+    "t": "und Ziegenmilch genug zu deiner Speise und zur Speise deines Hauses und zur Nahrung deiner Dirnen."
+  },
+  {
+    "i": 17263,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 1,
+    "t": "Der Gottlose flieht, obgleich niemand ihn jagt; aber die Gerechten sind kühn wie ein junger Löwe."
+  },
+  {
+    "i": 17264,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 2,
+    "t": "Um der Sünde willen des Landes sind ihrer viel Fürsten; aber um eines Verständigen und Klugen willen bleibt es lange."
+  },
+  {
+    "i": 17265,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 3,
+    "t": "Ein armer Mann, der den Geringen Gewalt tut, ist wie ein reißender Regen, der keine Nahrung läßt."
+  },
+  {
+    "i": 17266,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 4,
+    "t": "Die das Gesetz verlassen, loben den Gottlosen; aber die das Gesetz halten, sind wider sie."
+  },
+  {
+    "i": 17267,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 5,
+    "t": "Böse Leute verstehen das Recht nicht; aber die den HERRN suchen, verstehen alles wohl."
+  },
+  {
+    "i": 17268,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 6,
+    "t": "Ein Armer, der in seiner Frömmigkeit wandelt, ist besser denn ein Reicher, der verkehrte Wege geht."
+  },
+  {
+    "i": 17269,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 7,
+    "t": "Wer das Gesetz hält, der ist ein kluger Sohn; wer aber der Schlemmer Geselle ist, der schändet seinen Vater."
+  },
+  {
+    "i": 17270,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 8,
+    "t": "Wer sein Gut mehrt mit Zinsen und Wucher, der sammelt es für den, der sich der Armen erbarmt."
+  },
+  {
+    "i": 17271,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 9,
+    "t": "Wer sein Ohr abwendet, das Gesetz nicht zu hören, des Gebet ist ein Greuel."
+  },
+  {
+    "i": 17272,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 10,
+    "t": "Wer die Frommen verführt auf bösem Wege, der wird in seine Grube fallen; aber die Frommen werden Gutes erben."
+  },
+  {
+    "i": 17273,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 11,
+    "t": "Ein Reicher achtet sich weise; aber ein Armer, der verständig ist, erforscht ihn."
+  },
+  {
+    "i": 17274,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 12,
+    "t": "Wenn die Gerechten herrschen, so ist große Herrlichkeit; wenn aber die Gottlosen aufkommen, so versteckt sich jedermann."
+  },
+  {
+    "i": 17275,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 13,
+    "t": "Wer seine Missetat leugnet, dem wird's nicht gelingen; wer sie aber bekennet und läßt, der wird Barmherzigkeit erlangen."
+  },
+  {
+    "i": 17276,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 14,
+    "t": "Wohl dem, der sich stets fürchtet; wer aber sein Herz verhärtet, wird in Unglück fallen."
+  },
+  {
+    "i": 17277,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 15,
+    "t": "Ein brüllender Löwe und gieriger Bär ist ein gottloser Herrscher über ein armes Volk."
+  },
+  {
+    "i": 17278,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 16,
+    "t": "Ein Fürst, der wenig Verstand hat, ist großer Gewalttäter; wer aber ungerechtem Gewinn abhold ist, der wird lange leben."
+  },
+  {
+    "i": 17279,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 17,
+    "t": "Ein Mensch, der Blutschuld auf sich hat, flieht bis zum Grabe; niemand halte ihn auf!"
+  },
+  {
+    "i": 17280,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 18,
+    "t": "Wer rechtschaffen wandelt, dem wird geholfen; wer aber verkehrte Wege geht, wird auf einem davon fallen."
+  },
+  {
+    "i": 17281,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 19,
+    "t": "Wer sein Land bebaut, wird Brot die Fülle haben; wer aber eitlen Dingen nachgeht, wird Armut die Fülle haben."
+  },
+  {
+    "i": 17282,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 20,
+    "t": "Ein treuer Mann wird reichlich gesegnet; wer aber hastig reich werden will, wird nicht ungestraft bleiben."
+  },
+  {
+    "i": 17283,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 21,
+    "t": "Person ansehen ist nicht gut; denn um eines Bissen Brotes willen vergreift sich ein Mann."
+  },
+  {
+    "i": 17284,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 22,
+    "t": "Wer eifersüchtig ist, eilt nach Reichtum und weiß nicht, dass Mangel über ihn kommen wird."
+  },
+  {
+    "i": 17285,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 23,
+    "t": "Wer einen Menschen zurechtweist, wird hernach mehr Gnade finden als der, der da heuchelt."
+  },
+  {
+    "i": 17286,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 24,
+    "t": "Wer seinem Vater und seiner Mutter raubt und spricht: »Es ist keine Sünde«, der ist ein Gefährte des Verderbers."
+  },
+  {
+    "i": 17287,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 25,
+    "t": "Wer stolzen Geistes ist, erweckt Zank; wer sich aber auf den HERRN verlässt, wird gesättigt werden."
+  },
+  {
+    "i": 17288,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 26,
+    "t": "Wer sich auf sein Herz verlässt, ist ein Narr; wer aber in Weisheit wandelt, wird errettet werden."
+  },
+  {
+    "i": 17289,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 27,
+    "t": "Wer dem Armen gibt, dem wird nichts mangeln; wer aber seine Augen vor ihm verschließt, wird viel Verwünschungen haben."
+  },
+  {
+    "i": 17290,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 28,
+    "t": "Wenn die Gottlosen aufkommen, verbergen sich die Leute; wenn sie aber umkommen, mehren sich die Gerechten."
+  },
+  {
+    "i": 17291,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 1,
+    "t": "Wer oft ermahnt wird und halsstarrig bleibt, der wird plötzlich zerbrochen, und zwar ohne Heilung."
+  },
+  {
+    "i": 17292,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 2,
+    "t": "Wenn die Gerechten herrschen, freut sich das Volk; wenn aber ein Gottloser regiert, seufzt das Volk."
+  },
+  {
+    "i": 17293,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 3,
+    "t": "Wer Weisheit liebt, erfreut seinen Vater; wer aber mit Huren umgeht, vergeudet sein Gut."
+  },
+  {
+    "i": 17294,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 4,
+    "t": "Durch Recht erhält ein König das Land; wer aber viel Abgaben fordert, zerstört es."
+  },
+  {
+    "i": 17295,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 5,
+    "t": "Ein Mann, der seinem Nächsten schmeichelt, breitet ihm ein Netz vor seine Füße."
+  },
+  {
+    "i": 17296,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 6,
+    "t": "In der Übertretung des Bösen ist ein Fallstrick, aber der Gerechte jubelt und ist fröhlich."
+  },
+  {
+    "i": 17297,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 7,
+    "t": "Der Gerechte kennt die Sache der Geringen, aber der Gottlose hat kein Verständnis dafür."
+  },
+  {
+    "i": 17298,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 8,
+    "t": "Spötter bringen eine Stadt in Aufruhr, aber die Weisen stillen den Zorn."
+  },
+  {
+    "i": 17299,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 9,
+    "t": "Wenn ein Weiser mit einem Narren rechten will, so mag er zürnen oder lachen, er wird doch keine Ruhe finden."
+  }
+]

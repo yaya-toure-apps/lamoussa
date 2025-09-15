@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26400,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 10,
+    "t": "Skopuh je skop z mrhlico kruha, pomanjkanje pa je na njegovi mizi."
+  },
+  {
+    "i": 26401,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 11,
+    "t": "Sin moj, če imaš, dobro se ti godi in Gospodu daruj daritve, ki jih zahteva."
+  },
+  {
+    "i": 26402,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 12,
+    "t": "Ne pozabi, da smrt ne bo zamujala in da ti zaveza šeola ni bila razodeta."
+  },
+  {
+    "i": 26403,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 13,
+    "t": "Preden umreš, stori dobro svojim prijateljem in glede na svoje zmožnosti bodi radodaren."
+  },
+  {
+    "i": 26404,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 14,
+    "t": "Ne odrekaj si sedanje sreče, ne pusti, da bi ušlo nič od legitimne želje."
+  },
+  {
+    "i": 26405,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 15,
+    "t": "Ali ne boš prepustil svojega bogastva drugim? In ali ne bo tvoje imetje razdeljeno z žrebom?"
+  },
+  {
+    "i": 26406,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 16,
+    "t": "Daruj in prejemaj, odpravi svoje skrbi, kajti v šeolu ni mogoče iskati veselja."
+  },
+  {
+    "i": 26407,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 17,
+    "t": "Vsako meso se obrabi kot oblačilo, večen zakon je, da je treba umreti."
+  },
+  {
+    "i": 26408,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 18,
+    "t": "Kakor zeleno listje na košatem drevesu včasih pade in včasih požene, tako rodovi mesa in krvi: eni umrejo in drugi se rodijo."
+  },
+  {
+    "i": 26409,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 19,
+    "t": "Vsako pokvarljivo delo mine in njegov avtor odide z njim."
+  },
+  {
+    "i": 26410,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 20,
+    "t": "Blagor človeku, ki premišljuje o modrosti in razmišlja z razumevanjem,"
+  },
+  {
+    "i": 26411,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 21,
+    "t": "ki v svojem srcu razmišlja o poteh modrosti in se posveča njenim skrivnostim."
+  },
+  {
+    "i": 26412,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 22,
+    "t": "Sledi ji kot lovec, preži na njeni sledi;"
+  },
+  {
+    "i": 26413,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 23,
+    "t": "skloni se ob njenih oknih in posluša pri njenih vratih;"
+  },
+  {
+    "i": 26414,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 24,
+    "t": "postavi se blizu njenega bivališča in zatakne kol v njeno obzidje;"
+  },
+  {
+    "i": 26415,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 25,
+    "t": "postavi si šotor blizu nje in se naseli v srečnem zatočišču;"
+  },
+  {
+    "i": 26416,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 26,
+    "t": "postavi svoje otroke pod njeno zaščito in pod njenimi vejami najde zavetje;"
+  },
+  {
+    "i": 26417,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 27,
+    "t": "v njeni senci je zaščiten pred vročino in se naseli v njeni slavi."
+  },
+  {
+    "i": 26418,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 1,
+    "t": "Tako dela tisti, ki se boji Gospoda; kdor se oprime postave, prejme modrost."
+  },
+  {
+    "i": 26419,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 2,
+    "t": "Pride mu naproti kot mati, kot devica žena ga sprejme;"
+  },
+  {
+    "i": 26420,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 3,
+    "t": "hrani ga s kruhom preudarnosti, napaja ga z vodo modrosti;"
+  },
+  {
+    "i": 26421,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 4,
+    "t": "nasloni se nanjo in ne omahne, naveže se nanjo in ni zmeden."
+  },
+  {
+    "i": 26422,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 5,
+    "t": "Povzdigne ga nad njegove tovariše, sredi zbora mu odpre usta."
+  },
+  {
+    "i": 26423,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 6,
+    "t": "Najde srečo in krono veselja, v delež dobi večno slavo."
+  },
+  {
+    "i": 26424,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 7,
+    "t": "Nikoli je ne bodo posedovali neumni in grešniki je ne bodo nikoli videli."
+  },
+  {
+    "i": 26425,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 8,
+    "t": "Ona se drži stran od ponosa in lažnivci ne pomislijo nanjo."
+  },
+  {
+    "i": 26426,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 9,
+    "t": "Hvalnica ne pristaja grešnikovim ustom, kajti Gospod mu je ne podeli."
+  },
+  {
+    "i": 26427,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 10,
+    "t": "Kajti hvalnica se izraža v modrosti in Gospod jo vodi."
+  },
+  {
+    "i": 26428,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 11,
+    "t": "Ne reci: \"Gospod me je navedel k grehu,\" kajti on ne stori tistega, kar mu je gnusno."
+  },
+  {
+    "i": 26429,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 12,
+    "t": "Ne reci: \"On me je zapeljal,\" kajti nima kaj početi z grešnikom."
+  },
+  {
+    "i": 26430,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 13,
+    "t": "Gospod sovraži vsakršno gnusobo in nobena ni ljubljena tistim, ki se ga bojijo."
+  },
+  {
+    "i": 26431,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 14,
+    "t": "On je v začetku ustvaril človeka in ga prepustil njegovemu nasvetu."
+  },
+  {
+    "i": 26432,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 15,
+    "t": "Če želiš, boš ohranil zapovedi in ostal zvest njegovi dobri volji."
+  },
+  {
+    "i": 26433,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 16,
+    "t": "Pred teboj je postavil ogenj in vodo, po svoji želji iztegni roko."
+  },
+  {
+    "i": 26434,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 17,
+    "t": "Pred ljudmi sta življenje in smrt, po svoji volji jim je dano eno ali drugo."
+  },
+  {
+    "i": 26435,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 18,
+    "t": "Kajti velika je Gospodova modrost, on je vsemogočen in vidi vse."
+  },
+  {
+    "i": 26436,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 19,
+    "t": "Njegove oči so obrnjene k tistim, ki se ga bojijo, sam pozna vsa človeška dela."
+  },
+  {
+    "i": 26437,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 20,
+    "t": "Nikomur ni ukazal, naj bo brezbožen, nikomur ni dal dovoljenja za greh."
+  },
+  {
+    "i": 26438,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 1,
+    "t": "Ne želi si številnega potomstva iz ničvrednih in ne veseli se brezbožnih sinov."
+  },
+  {
+    "i": 26439,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 2,
+    "t": "Ne glede na njihovo število se ne veseli, če nimajo Božjega strahu."
+  },
+  {
+    "i": 26440,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 3,
+    "t": "Ne računaj na dolgo življenje, ne pričakuj, da bodo trajali, kajti tarnal boš zaradi prezgodnje žalosti, nenadoma boš spoznal njihov konec. Da, bolje en sam kot tisoč in umreti brez otrok kot imeti brezbožne sinove."
+  },
+  {
+    "i": 26441,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 4,
+    "t": "Po enem samem inteligentnem človeku se mesto poseli, a rod pokvarjencev bo uničen."
+  },
+  {
+    "i": 26442,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 5,
+    "t": "Z lastnimi očmi sem videl veliko podobnih stvari in s svojimi ušesi sem slišal še hujše."
+  },
+  {
+    "i": 26443,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 6,
+    "t": "V zboru grešnikov se vname ogenj, v uporniškem rodu se je vnelo srdenje."
+  },
+  {
+    "i": 26444,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 7,
+    "t": "Bog ni odpustil velikanom iz davnine, ki so se uprli, ponosni na svojo moč."
+  },
+  {
+    "i": 26445,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 8,
+    "t": "Ni prizanesel mestu, kjer je prebival Lot: njihova oholost mu je bila gnusna."
+  },
+  {
+    "i": 26446,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 9,
+    "t": "Ni se usmilil rodu pogube: tistih, ki so se hvalili s svojimi grehi. Vse to je storil za narode s trdim srcem in množice svojih svetih se ni ganil."
+  },
+  {
+    "i": 26447,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 10,
+    "t": "Enako je ravnal s šeststo tisoč pešci, ki so se povezali v trdoti svojega srca. Biča in se usmili, rani in zdravi: Gospod bedi sočutno in kaznuje."
+  },
+  {
+    "i": 26448,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 11,
+    "t": "Če bi bil le en sam človek s trdim vratom, bi bilo neslišno, da bi ostal nekaznovan, kajti usmiljenje in jeza pripadata Gospodu, močnemu v odpuščanju, ki razliva jezo."
+  },
+  {
+    "i": 26449,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 12,
+    "t": "Kolikor je njegovo usmiljenje, toliko je velika njegova zavrnitev, sodil bo ljudem po njihovih delih."
+  },
+  {
+    "i": 26450,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 13,
+    "t": "Ne bo pustil nekaznovanega grešnika z njegovimi ropi, ne bo preprečil potrpežljivosti pobožnega človeka."
+  },
+  {
+    "i": 26451,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 14,
+    "t": "Upošteval bo vsako dejanje dobrodelnosti in vsak bo obravnavan po svojih delih."
+  },
+  {
+    "i": 26452,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 15,
+    "t": "Gospod je zakrknil srce faraonu, da ga ni spoznal, da bi razodel svoja dejanja pod nebom."
+  },
+  {
+    "i": 26453,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 16,
+    "t": "Vsemu stvarstvu se razodeva njegovo usmiljenje, delil je svojo svetlobo in senco med ljudi."
+  },
+  {
+    "i": 26454,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 17,
+    "t": "Ne reci: \"Skril se bom, da ubežim Gospodu; tam zgoraj se me bo kdo spomnil? Sredi množice ne bom prepoznan, kaj sem v neskončnem stvarstvu?"
+  },
+  {
+    "i": 26455,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 18,
+    "t": "Glej, nebo, najvišje od nebes, brezno in zemlja se stresejo ob njegovem obisku. Vesolje je bilo ustvarjeno in obstaja po njegovi volji."
+  },
+  {
+    "i": 26456,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 19,
+    "t": "Hkrati se gore in temelji zemlje tresejo pod njegovim pogledom."
+  },
+  {
+    "i": 26457,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 20,
+    "t": "Ampak o vsem tem se ne razmišlja; kdo se torej zanima za njegove poti?"
+  },
+  {
+    "i": 26458,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 21,
+    "t": "Tudi vihar ostaja neviden, večina njegovih del je v skrivnosti."
+  },
+  {
+    "i": 26459,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 22,
+    "t": "\"Kdo bo oznanil dela pravičnosti? Kdo jih bo pričakoval? Kajti odlok je daleč.\" Preiskava vsega bo opravljena ob koncu."
+  },
+  {
+    "i": 26460,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 23,
+    "t": "Kratkega razuma je tisti, ki ima takšna razmišljanja; neumni, izgubljeni, sanjajo samo neumnosti."
+  },
+  {
+    "i": 26461,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 24,
+    "t": "Poslušaj me, sin moj, in pridobi spoznanje, posveti svoje srce mojim besedam."
+  },
+  {
+    "i": 26462,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 25,
+    "t": "Z mero ti bom razodel disciplino, s skrbnostjo bom razglasil spoznanje."
+  },
+  {
+    "i": 26463,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 26,
+    "t": "Ko je Gospod na začetku ustvaril svoja dela, jim je, takoj ko so bila narejena, določil mesto."
+  },
+  {
+    "i": 26464,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 27,
+    "t": "Za vekomaj je uredil svoja dela, od njihovih začetkov do njihovih daljnih rodov. Ne trpijo lakote in utrujenosti in nikoli ne opustijo svoje naloge."
+  },
+  {
+    "i": 26465,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 28,
+    "t": "Nobeno se ni nikoli udarilo ob drugo in nikoli ne ubogajo njegove besede."
+  },
+  {
+    "i": 26466,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 29,
+    "t": "Nato je Gospod vrgel oči na zemljo in jo napolnil s svojimi dobrinami."
+  },
+  {
+    "i": 26467,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 30,
+    "t": "Z vsakovrstnimi živalmi je pokril njen obraz in vrnile se bodo v zemljo."
+  },
+  {
+    "i": 26468,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 1,
+    "t": "Gospod je vzel človeka iz zemlje, da bi ga nato vrnil vanjo."
+  },
+  {
+    "i": 26469,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 2,
+    "t": "Ljudem je določil natančno število dni in določen čas, v njihovo oblast je prepustil tisto, kar je na zemlji. b"
+  },
+  {
+    "i": 26470,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 3,
+    "t": "Oblekel jih je z močjo, kot sebe, po svoji podobi jih je ustvaril."
+  },
+  {
+    "i": 26471,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 4,
+    "t": "Vsakemu mesu je vdihnil strah pred človekom, da bi gospodoval nad divjimi zvermi in pticami."
+  },
+  {
+    "i": 26472,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 5,
+    "t": "Prejeli so uporabo petih Gospodovih moči, kot šesta jim je bilo v delež dano razumevanje in kot sedma um, ki razlaga njegove moči."
+  },
+  {
+    "i": 26473,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 6,
+    "t": "Dal jim je sodbo, jezik, oči, ušesa in srce za razmišljanje."
+  },
+  {
+    "i": 26474,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 7,
+    "t": "Napolnil jih je z znanjem in razumevanjem ter jim dal spoznati dobro in zlo."
+  },
+  {
+    "i": 26475,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 8,
+    "t": "V njihovo srce je dal svoj strah, da bi jim pokazal veličino svojih del. In dal jim je, da za vedno slavijo njegova čudesa."
+  },
+  {
+    "i": 26476,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 9,
+    "t": "Hvalili bodo njegovo sveto ime,"
+  },
+  {
+    "i": 26477,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 10,
+    "t": "pripovedovali o veličini njegovih del."
+  },
+  {
+    "i": 26478,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 11,
+    "t": "Dal jim je še spoznanje, podaril jim je postavo življenja, da bi razumeli, da so smrtni, tisti, ki sedaj obstajajo."
+  },
+  {
+    "i": 26479,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 12,
+    "t": "sklenil je z njimi večno zavezo in jim dal spoznati svoje sodbe;"
+  },
+  {
+    "i": 26480,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 13,
+    "t": "Njih oči so zrle v veličino njegovega veličastva, njih ušesa so slišala sijaj njegovega glasu."
+  },
+  {
+    "i": 26481,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 14,
+    "t": "Rekel jim je: \"Varujte se vsakega zla\", dal jim je zapovedi drug do drugega."
+  },
+  {
+    "i": 26482,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 15,
+    "t": "Njihovo obnašanje je vedno pred njim, nikoli skrito njegovim očem."
+  },
+  {
+    "i": 26483,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 16,
+    "t": "Že od mladosti jih njih pota vodijo v zlo in niso mogli spremeniti svojih kamnitih src v srce iz mesa,"
+  },
+  {
+    "i": 26484,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 17,
+    "t": "kajti pri razdelitvi ljudstev in vse zemlje je nad vsako ljudstvo postavil kneza; toda Izrael je Gospodova delež,"
+  },
+  {
+    "i": 26485,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 18,
+    "t": "njegov prvorojenec, ki ga hrani z disciplino, kateremu podarja svetlobo svoje ljubezni, ne da bi ga zapustil."
+  },
+  {
+    "i": 26486,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 19,
+    "t": "Vsa njihova dejanja so pred njim kot sonce, njegovi pogledi pozorno opazujejo njihovo obnašanje."
+  },
+  {
+    "i": 26487,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 20,
+    "t": "Njihove krivice mu niso skrite, vsi njihovi grehi so pred Gospodom."
+  },
+  {
+    "i": 26488,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 21,
+    "t": "Toda Gospod je dober in pozna svoje stvarstvo, ne uniči jih in ne zapusti, temveč jih prizanese."
+  },
+  {
+    "i": 26489,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 22,
+    "t": "Milostinja človeka je zanj kot pečat, ohranja dobrodelnost kot zenico očesa, podeljujoč svojim sinovom in hčeram kesanje."
+  },
+  {
+    "i": 26490,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 23,
+    "t": "Nekega dne bo vstal in jih nagradil, na njih glave bo poslal njihovo plačilo."
+  },
+  {
+    "i": 26491,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 24,
+    "t": "Toda tistim, ki se pokesajo, podeli povratek, tolaži tiste, ki so izgubili vztrajnost."
+  },
+  {
+    "i": 26492,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 25,
+    "t": "Spreobrni se h Gospodu in se odpovej svojim grehom, ponižno ga prosi v obraz, nehaj ga žaliti."
+  },
+  {
+    "i": 26493,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 26,
+    "t": "Vrni se k Najvišjemu, odvrni se od krivice, kajti on te bo vodil iz teme v razsvetljenje odrešenja. In močno sovraži krivičnost."
+  },
+  {
+    "i": 26494,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 27,
+    "t": "Kdo bo namreč hvalil Najvišjega v Sheolu, če mu živi ne izkazujejo slave?"
+  },
+  {
+    "i": 26495,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 28,
+    "t": "Hvalnica je neznana mrtvim, kakor tistim, ki jih ni, tisti, ki ima življenje in zdravje, slavi Gospoda."
+  },
+  {
+    "i": 26496,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 29,
+    "t": "Kako velika je usmiljenost Gospodova, njegova prizanesljivost do tistih, ki se obračajo k njemu!"
+  },
+  {
+    "i": 26497,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 30,
+    "t": "Kajti človek ne more imeti vsega, saj sin človekov ni nesmrten."
+  },
+  {
+    "i": 26498,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 31,
+    "t": "Kaj je svetlejše od sonca? Pa vendar izgine. Meso in kri lahko hranita samo hudobijo."
+  },
+  {
+    "i": 26499,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 32,
+    "t": "On je tisti, ki nadzoruje moči v višavah nebes, in vsi ljudje so le zemlja in pepel."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13800,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 6,
+    "t": "Mire támaszkodnak annak oszlopai? Ki helyezte el annak szegletkövét,"
+  },
+  {
+    "i": 13801,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 7,
+    "t": "a hajnalcsillagok örvendezése közepette és az Isten fiainak egyhangú ujjongásával?"
+  },
+  {
+    "i": 13802,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 8,
+    "t": "Ki zárta el a tengert ajtókkal, mikor az kitört az anyaméhből, ugrándozva?"
+  },
+  {
+    "i": 13803,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 9,
+    "t": "Mikor felhőt adtam neki ruhául, és sötét felhőket pólyájául?"
+  },
+  {
+    "i": 13804,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 10,
+    "t": "Mikor kijelöltem számára a határát, és kapukat, zárakat helyeztem el?"
+  },
+  {
+    "i": 13805,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 11,
+    "t": "„Ne menj tovább!” – mondtam neki, „itt megtörik hullámaid gőgje!”"
+  },
+  {
+    "i": 13806,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 12,
+    "t": "Parancsoltál-e valaha életedben a hajnalnak? Kirendelted-e a hajnalpírt a helyére,"
+  },
+  {
+    "i": 13807,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 13,
+    "t": "hogy megragadja a földet a széleinél, és lerázza róla a gonoszokat?"
+  },
+  {
+    "i": 13808,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 14,
+    "t": "Akkor az pecsétagyagként változik meg, és színes lesz, mint egy ruha;"
+  },
+  {
+    "i": 13809,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 15,
+    "t": "elveszi a gonoszoktól a világosságot, és eltöri a felemelt kart."
+  },
+  {
+    "i": 13810,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 16,
+    "t": "Behatoltál-e a tenger forrásaihoz, jártál-e a mélység fenekén?"
+  },
+  {
+    "i": 13811,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 17,
+    "t": "Megmutatták-e neked a halál kapuit, láttad-e az árnyék országának kapuőreit?"
+  },
+  {
+    "i": 13812,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 18,
+    "t": "Van-e fogalmad a föld kiterjedéséről? Beszélj, ha mindezt tudod!"
+  },
+  {
+    "i": 13813,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 19,
+    "t": "Melyik oldalon lakik a világosság, és a sötétség, hol van a lakhelye,"
+  },
+  {
+    "i": 13814,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 20,
+    "t": "hogy elvezethesd őket a birodalmukba, elvihesd őket a lakhelyükre?"
+  },
+  {
+    "i": 13815,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 21,
+    "t": "Ha tudod, akkor már megszületettél, és igen sok napod van!"
+  },
+  {
+    "i": 13816,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 22,
+    "t": "Eljutottál-e a hóraktárakig? Láttad-e a jégeső készleteit,"
+  },
+  {
+    "i": 13817,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 23,
+    "t": "melyeket a szükség idejére tartogatok, a harc és a háború napjaira?"
+  },
+  {
+    "i": 13818,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 24,
+    "t": "Melyik oldalon oszlik el a villám, hol terjed szét a földön a keleti szél?"
+  },
+  {
+    "i": 13819,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 25,
+    "t": "Ki vág csatornát a zápornak, utat a mennydörgésnek,"
+  },
+  {
+    "i": 13820,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 26,
+    "t": "hogy esőt hullasson a lakatlan földre, a sivatagra, ahol senki sem lakik,"
+  },
+  {
+    "i": 13821,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 27,
+    "t": "hogy megitassa a pusztákat, a kietlen helyeket, és füvet sarjasszon a sztyeppén?"
+  },
+  {
+    "i": 13822,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 28,
+    "t": "Van-e apja az esőnek, vagy ki nemzi a harmatcseppeket?"
+  },
+  {
+    "i": 13823,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 29,
+    "t": "Melyik méhből jön ki a jég, és az ég dérét, ki szüli azt,"
+  },
+  {
+    "i": 13824,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 30,
+    "t": "amikor a vizek kőkeménnyé válnak, és a mélység felszíne összezárul?"
+  },
+  {
+    "i": 13825,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 31,
+    "t": "Meg tudod-e kötni a Fiastyúk kötelékeit, fel tudod-e oldani az Orion szalagjait,"
+  },
+  {
+    "i": 13826,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 32,
+    "t": "elő tudod-e hozni a Koszorút a maga idejében, el tudod-e vezetni a Göncölszekeret a fiaival együtt?"
+  },
+  {
+    "i": 13827,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 33,
+    "t": "Ismered-e az egek törvényeit, alkalmazod-e azokat a földön?"
+  },
+  {
+    "i": 13828,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 34,
+    "t": "Felér-e a hangod a felhőkig, és engedelmeskedik-e neked a vizek tömege?"
+  },
+  {
+    "i": 13829,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 35,
+    "t": "Parancsodra indulnak-e el a villámok, ezt mondva neked: „Itt vagyunk!”?"
+  },
+  {
+    "i": 13830,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 36,
+    "t": "Ki helyezett bölcsességet az íbiszbe, ki adott értelmet a kakasnak?"
+  },
+  {
+    "i": 13831,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 37,
+    "t": "Ki számolja meg a felhőket hozzáértéssel, és dönti ki az egek tömlőit,"
+  },
+  {
+    "i": 13832,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 38,
+    "t": "mialatt a por összeáll, és a rögök egymáshoz ragadnak?"
+  },
+  {
+    "i": 13833,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 39,
+    "t": "Vadászol-e oroszlányra zsákmányt, csillapítod-e az oroszlánkölykök étvágyát,"
+  },
+  {
+    "i": 13834,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 40,
+    "t": "amikor rejtekhelyeikben lapulnak, lesben állnak a bozótban?"
+  },
+  {
+    "i": 13835,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 41,
+    "t": "Ki készíti el a hollónak az élelmét, amikor a kicsinyei Istenhez kiáltanak, és táplálék nélkül emelkednek fel?"
+  },
+  {
+    "i": 13836,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 1,
+    "t": "Tudod-e, mikor ellenek a kőszáli kecskék? Megfigyelted-e a szarvastehenek vajúdását?"
+  },
+  {
+    "i": 13837,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 2,
+    "t": "Hány hónapig tart vemhességük, mi a szülés ideje?"
+  },
+  {
+    "i": 13838,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 3,
+    "t": "Akkor leguggolnak, hogy elljenek, megszabadulnak a terheiktől."
+  },
+  {
+    "i": 13839,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 4,
+    "t": "És amikor a kicsinyeik megerősödnek és megnőnek, elmennek a sivatagba, és nem térnek többé vissza hozzájuk."
+  },
+  {
+    "i": 13840,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 5,
+    "t": "Ki engedte szabadon a vadszamarat, ki oldotta fel a mezei szamár kötelét?"
+  },
+  {
+    "i": 13841,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 6,
+    "t": "Neki adtam a sztyeppét lakóhelyül, a sós síkságot élőhelyül."
+  },
+  {
+    "i": 13842,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 7,
+    "t": "Kineveti a városok zaját, és nem hallja a hajtár kiabálását."
+  },
+  {
+    "i": 13843,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 8,
+    "t": "A hegyeket járja, a legelőjét, minden zöldet keresve."
+  },
+  {
+    "i": 13844,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 9,
+    "t": "A vadbika akar-e neked szolgálni, nálad tölteni az éjszakát a jászol előtt?"
+  },
+  {
+    "i": 13845,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 10,
+    "t": "Kötéllel rögzíted-e a nyakát, szánt-e a barázdákat utánad?"
+  },
+  {
+    "i": 13846,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 11,
+    "t": "Bízhatsz-e a nagy erejében, és rábízhatod-e munkáid terhét?"
+  },
+  {
+    "i": 13847,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 12,
+    "t": "Megbizonyosodsz-e visszatéréséről, hogy begyűjtse a gabonádat a szérűdre?"
+  },
+  {
+    "i": 13848,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 13,
+    "t": "A strucc szárnya összehasonlítható-e a gólya és a sólyom tollazatával?"
+  },
+  {
+    "i": 13849,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 14,
+    "t": "A földön hagyja el a tojásait, a talaj hőjére bízza azokat."
+  },
+  {
+    "i": 13850,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 15,
+    "t": "Elfelejti, hogy egy láb letaposhatja, egy vadállat összetörheti azokat."
+  },
+  {
+    "i": 13851,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 16,
+    "t": "Kemény a kicsinyeihez, mintha idegenek lennének, nem aggódik a hiábavaló fáradtság miatt."
+  },
+  {
+    "i": 13852,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 17,
+    "t": "Mert Isten megfosztotta bölcsességtől, nem adott neki értelmet."
+  },
+  {
+    "i": 13853,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 18,
+    "t": "De amint felemelkedik és magasra emelkedik, dacol a lóval és lovasával."
+  },
+  {
+    "i": 13854,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 19,
+    "t": "Te adod-e a lónak a bátorságot, te öltözteted-e a nyakát sörénnyel?"
+  },
+  {
+    "i": 13855,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 20,
+    "t": "Ugrálsz-e vele, mint a sáska? Fenséges nyerítése félelmet kelt."
+  },
+  {
+    "i": 13856,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 21,
+    "t": "Örömmel toporzékol a völgyben, erőteljesen rohan a fegyverek elé."
+  },
+  {
+    "i": 13857,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 22,
+    "t": "Kicsúfolja a félelmet, és nem fél semmitől, nem hátrál meg a kard előtt."
+  },
+  {
+    "i": 13858,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 23,
+    "t": "Rajta zeng a tegez, a csillogó lándzsa és a dárda."
+  },
+  {
+    "i": 13859,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 24,
+    "t": "Izgalomtól remegve falja a teret; nem bírja magát, amikor megszólal a trombita:"
+  },
+  {
+    "i": 13860,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 25,
+    "t": "minden trombitaszóra felkiált: Heah! Messziről szimatolja a harcot, a vezérek mennydörgő hangját és a kiáltásokat."
+  },
+  {
+    "i": 13861,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 26,
+    "t": "A te bölcsességeddel repül-e a sólyom, terjeszti-e ki szárnyait dél felé?"
+  },
+  {
+    "i": 13862,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 27,
+    "t": "A te parancsodra emelkedik-e fel a sas, és helyezi fészkét a magasba?"
+  },
+  {
+    "i": 13863,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 28,
+    "t": "A sziklát teszi éjszakai lakóhelyévé, egy sziklacsúcsot erődjévé."
+  },
+  {
+    "i": 13864,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 29,
+    "t": "Onnan lesi a zsákmányát, és szeme messziről meglátja azt."
+  },
+  {
+    "i": 13865,
+    "b": 17,
+    "c": 1839,
+    "r": 1839,
+    "o": 30,
+    "t": "A kicsinyei vért isznak, ahol megöltek vannak, ott van ő is."
+  },
+  {
+    "i": 13866,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 1,
+    "t": "Akkor Jahve szólt Jóbhoz, mondván:"
+  },
+  {
+    "i": 13867,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 2,
+    "t": "Szelídülni fog-e a Saddaí ellenfele? Válaszol-e az Isten bírája?"
+  },
+  {
+    "i": 13868,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 3,
+    "t": "És Jób válaszolt Jahvénak:"
+  },
+  {
+    "i": 13869,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 4,
+    "t": "Könnyelműen szóltam: mit válaszolhatnék neked? Inkább kezem fogom a számra."
+  },
+  {
+    "i": 13870,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 5,
+    "t": "Egyszer szóltam, nem ismétlem meg; kétszer, nem teszek hozzá semmit."
+  },
+  {
+    "i": 13871,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 6,
+    "t": "Jahve válaszolt Jóbna a viharból, mondván:"
+  },
+  {
+    "i": 13872,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 7,
+    "t": "Övezd fel derekadat, mint egy vitéz: kérdezni foglak, és te oktass engem!"
+  },
+  {
+    "i": 13873,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 8,
+    "t": "Valóban meg akarod-e semmisíteni ítéletemet, elítélni engem, hogy biztosítsd a jogodat?"
+  },
+  {
+    "i": 13874,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 9,
+    "t": "Karodnak van-e isteni ereje, hangod képes-e hasonlóképpen mennydörögni?"
+  },
+  {
+    "i": 13875,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 10,
+    "t": "Rajta, öltözz fel méltósággal és nagysággal, öltözz fel pompával és dicsőséggel!"
+  },
+  {
+    "i": 13876,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 11,
+    "t": "Engedd szabadjára haragod dühét, egy pillantással hajlítsd meg a gőgöst!"
+  },
+  {
+    "i": 13877,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 12,
+    "t": "Egy pillantással alázd meg a kevély embert, tipord el helyben a gonoszokat!"
+  },
+  {
+    "i": 13878,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 13,
+    "t": "Temesd el őket együtt a földbe, zárd be őket mindegyiket a börtönbe!"
+  },
+  {
+    "i": 13879,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 14,
+    "t": "És én magam adok neked tiszteletet, mert jobbod által biztosíthatod a szabadulásodat."
+  },
+  {
+    "i": 13880,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 15,
+    "t": "Ímé, nézd csak a Behemótot, melyet én teremtettem, mint téged! Füvet eszik, mint az ökör."
+  },
+  {
+    "i": 13881,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 16,
+    "t": "Íme, ereje a derekában van, és izma hasának inai."
+  },
+  {
+    "i": 13882,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 17,
+    "t": "Farkát, mint a cédrust merevíti, combjának inai egymásba fonódnak."
+  },
+  {
+    "i": 13883,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 18,
+    "t": "Csontjai rézcsövek, vázát, mint a kovácsolt vas."
+  },
+  {
+    "i": 13884,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 19,
+    "t": "Ő az Isten alkotásainak kezdete. Alkotója karddal sújtott le rá,"
+  },
+  {
+    "i": 13885,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 20,
+    "t": "megtiltotta neki a hegyek vidékét és minden vadat, mely ott tobzódik."
+  },
+  {
+    "i": 13886,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 21,
+    "t": "Lótuszok alatt fekszik, a mocsarak nádjaiban rejtőzik."
+  },
+  {
+    "i": 13887,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 22,
+    "t": "A lótuszok árnyéka védi őt, és a patak fűzfái oltalmazzák."
+  },
+  {
+    "i": 13888,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 23,
+    "t": "Ha a folyó kiárad, nem mozdul; egy Jordán törne elő szájából, és ő meg se rezzen."
+  },
+  {
+    "i": 13889,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 24,
+    "t": "Ki ragadja hát meg a szeménél fogva, és fúrja át orrát cövekekkel?"
+  },
+  {
+    "i": 13890,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 25,
+    "t": "És a Leviatánt, kifogod-e horgon, kötéllel szorítod-e meg nyelvét?"
+  },
+  {
+    "i": 13891,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 27,
+    "t": "Vajon könyörög-e hozzád hosszan, és beszél-e hozzád félénk hangon?"
+  },
+  {
+    "i": 13892,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 28,
+    "t": "Köt-e szerződést veled, hogy örök rabszolgád legyen?"
+  },
+  {
+    "i": 13893,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 29,
+    "t": "Játszadozol-e vele, mint egy verébbel, és megkötözöd-e lányaid örömére?"
+  },
+  {
+    "i": 13894,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 30,
+    "t": "Eladásra kerül-e a társak által, majd elosztják a kereskedők között?"
+  },
+  {
+    "i": 13895,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 31,
+    "t": "Vajon megtöltöd-e bőrét nyilakkal, és szigonyozod-e a fejét, mint egy halat?"
+  },
+  {
+    "i": 13896,
+    "b": 17,
+    "c": 1840,
+    "r": 1840,
+    "o": 32,
+    "t": "Csak tedd rá kezed: a harc emléke miatt többé nem kezded újra!"
+  },
+  {
+    "i": 13897,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 1,
+    "t": "Reményed hiábavaló lenne, mert puszta látványa is elég a legyőzéshez."
+  },
+  {
+    "i": 13898,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 2,
+    "t": "Vad lesz, ha felébresztik, ki állhat neki szembe?"
+  },
+  {
+    "i": 13899,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 3,
+    "t": "Ki szállt szembe vele anélkül, hogy kárt szenvedett volna? Senki az ég alatt!"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 10500,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 30,
+    "t": "syn Chášabjáše, syn Amasjáše, syn Chilkijáše,"
+  },
+  {
+    "i": 10501,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 31,
+    "t": "syn Amcího, syn Baniho, syn Šémerova,"
+  },
+  {
+    "i": 10502,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 32,
+    "t": "syn Machliho, syn Mušiho, syn Merariho, syn Léviho."
+  },
+  {
+    "i": 10503,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 33,
+    "t": "Bratří jejich, levité, byli zcela oddáni službě domu chrámu Božího."
+  },
+  {
+    "i": 10504,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 34,
+    "t": "Áron a synové jeho pálili oběti na oltáři zápalném a na oltáři kadidlovém; obstarávali výhradně věci svaté nanejvýš a obřad smíření nad Izraelem; činili vše, co přikázal Mojžíš, služebník Boží."
+  },
+  {
+    "i": 10505,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 35,
+    "t": "Toto jsou synové Áronovi: Eleazar syn jeho, Pinchas syn jeho, Abišua syn jeho,"
+  },
+  {
+    "i": 10506,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 36,
+    "t": "Bukki syn jeho, Uzzi syn jeho, Zerachjá syn jeho,"
+  },
+  {
+    "i": 10507,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 37,
+    "t": "Merajot syn jeho, Amarjá syn jeho, Achitub syn jeho,"
+  },
+  {
+    "i": 10508,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 38,
+    "t": "Sádok syn jeho, Achimaas syn jeho."
+  },
+  {
+    "i": 10509,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 39,
+    "t": "Toto jsou místa jejich obydlí, podle hranic jejich ležení: Synům Áronovým, z rodu Kehatova (neboť na ně padl los),"
+  },
+  {
+    "i": 10510,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 40,
+    "t": "byl dán Hebron, v zemi Judově, s pastvinami okolními."
+  },
+  {
+    "i": 10511,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 41,
+    "t": "Pole a vesnice jeho byly dány Kálebovi, synu Jefunovu,"
+  },
+  {
+    "i": 10512,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 42,
+    "t": "ale synům Áronovým byly dány města útočištná: Hebron, Libna a pastviny její, Jattir, Eštemoa a pastviny její,"
+  },
+  {
+    "i": 10513,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 43,
+    "t": "Chilen a pastviny jeho, Debir a pastviny jeho,"
+  },
+  {
+    "i": 10514,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 44,
+    "t": "Ašan a pastviny jeho, Bét-Šemeš a pastviny jeho."
+  },
+  {
+    "i": 10515,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 45,
+    "t": "Z pokolení Benjamínova jim byl dán Gaba a pastviny její, Alemet a pastviny její, Anatot a pastviny její. Rodiny jejich čítaly celkem třináct měst."
+  },
+  {
+    "i": 10516,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 46,
+    "t": "Ostatní synové Kehatovi obdrželi losem deset měst od rodin z pokolení, z polopokolenstva, poloviny Manassesova."
+  },
+  {
+    "i": 10517,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 47,
+    "t": "Synové Geršomovi a rodiny jejich obdrželi třináct měst z pokolení Isacharova, pokolení Ašerova, pokolení Neftaliho a pokolení Manassesova v Bášanu."
+  },
+  {
+    "i": 10518,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 48,
+    "t": "Synové Merariho a rodiny jejich obdrželi losem dvanáct měst z pokolení Rúbenova, pokolení Gádova a pokolení Zabulonova."
+  },
+  {
+    "i": 10519,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 49,
+    "t": "Synové Izraelovi dali levitům tato města s pastvinami jejich."
+  },
+  {
+    "i": 10520,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 50,
+    "t": "Z pokolení synů Judových, synů Šimeonových a synů Benjamínových jim losem přidělili města, kterým dali jména svá."
+  },
+  {
+    "i": 10521,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 51,
+    "t": "Na pokolení Efraimově byla vzata města z území některých rodin synů Kehatových."
+  },
+  {
+    "i": 10522,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 52,
+    "t": "Byla jim dána tato města útočištná: Šekem a pastviny jeho na hoře Efraim, Gezer a pastviny jeho,"
+  },
+  {
+    "i": 10523,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 53,
+    "t": "Jokmeam a pastviny jeho, Bét-Chorón a pastviny jeho,"
+  },
+  {
+    "i": 10524,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 54,
+    "t": "Ajjalón a pastviny jeho, Gat-Rimmón a pastviny jeho,"
+  },
+  {
+    "i": 10525,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 55,
+    "t": "a také z polopokolenstva Manassesova: Aner a pastviny jeho, Bileam a pastviny jeho. Toto pro rod ostatních synů Kehatových."
+  },
+  {
+    "i": 10526,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 56,
+    "t": "Pro syny Geršomovy bylo vzato, z rodin polopokolenstva Manassesova, Golán v Bášanu a pastviny jeho, Aštarot a pastviny jeho, —"
+  },
+  {
+    "i": 10527,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 57,
+    "t": "z pokolení Isacharova, Kedeš a pastviny jeho, Daberat a pastviny jeho,"
+  },
+  {
+    "i": 10528,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 58,
+    "t": "Ramot a pastviny jeho, Anem a pastviny jeho, —"
+  },
+  {
+    "i": 10529,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 59,
+    "t": "z pokolení Ašerova, Mašal a pastviny jeho, Abdón a pastviny jeho,"
+  },
+  {
+    "i": 10530,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 60,
+    "t": "Chukok a pastviny jeho, Rechob a pastviny jeho, —"
+  },
+  {
+    "i": 10531,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 61,
+    "t": "z pokolení Neftaliho, Kedeš v Galileji a pastviny jeho, Chammón a pastviny jeho, Kirjatajim a pastviny jeho."
+  },
+  {
+    "i": 10532,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 62,
+    "t": "Pro ostatní syny Merariho: z pokolení Zabulonova: Rimmón a pastviny jeho, Tábor a pastviny jeho, —"
+  },
+  {
+    "i": 10533,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 63,
+    "t": "za Jordánem směrem k Jerichu, na východ od Jordánu, z pokolení Rúbenova: Becer v poušti a pastviny jeho, Jahca a pastviny jeho,"
+  },
+  {
+    "i": 10534,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 64,
+    "t": "Kedemot a pastviny jeho, Mefaat a pastviny jeho, —"
+  },
+  {
+    "i": 10535,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 65,
+    "t": "z pokolení Gádova: Ramot v Gileádu a pastviny jeho, Machanajim a pastviny jeho,"
+  },
+  {
+    "i": 10536,
+    "b": 12,
+    "c": 1306,
+    "r": 1306,
+    "o": 66,
+    "t": "Chešbón a pastviny jeho, Jazer a pastviny jeho."
+  },
+  {
+    "i": 10537,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 1,
+    "t": "Pro syny Isacharovy: Tola, Pua, Jašub, Šimrón: čtyři."
+  },
+  {
+    "i": 10538,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 2,
+    "t": "Synové Tolovi: Uzzi, Refaja, Jeriel, Jachmaji, Jibsám, Šemuel, vůdcové rodin Tolových. Tyto čítaly za dnů Davidových 22 600 udatných bojovníků, seskupených podle příbuzenství."
+  },
+  {
+    "i": 10539,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 3,
+    "t": "Synové Uzziho: Jizrachja. Synové Jizrachji: Míkael, Obadja, Jóel, Jiššijja. Celkem pět vůdců,"
+  },
+  {
+    "i": 10540,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 4,
+    "t": "odpovědných za bojové oddíly, čítající třicet šest tisíc mužů, rozdělených podle příbuzenství a rodin; bylo tam totiž mnoho žen a dětí."
+  },
+  {
+    "i": 10541,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 5,
+    "t": "Měli bratry patřící ke všem rodům Isacharovým, statečné bojovníky v počtu osmdesát sedm tisíc mužů, všichni patřili k jednomu uskupení."
+  },
+  {
+    "i": 10542,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 6,
+    "t": "Benjamin: Béla, Beker, Jediael: tři."
+  },
+  {
+    "i": 10543,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 7,
+    "t": "Synové Bélovi: Ecbón, Uzzi, Uzziel, Jerimot a Iri: pět, vůdcové rodin, stateční bojovníci, seskupující 22 034 mužů."
+  },
+  {
+    "i": 10544,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 8,
+    "t": "Synové Bekerovi: Zemira, Joáš, Eliézer, Eljoenaji, Omri, Jeremot, Abijja, Anatot, Alemet, ti všichni byli synové Bekerovi;"
+  },
+  {
+    "i": 10545,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 9,
+    "t": "vůdcové jejich rodin, stateční bojovníci, seskupili podle příbuzenství 20 200 mužů."
+  },
+  {
+    "i": 10546,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 10,
+    "t": "Synové Jediaelovi: Bilhán. Synové Bilhánovi: Jeuš, Benjamin, Ehud, Kenaana, Zetán, Taršiš, Achišachar."
+  },
+  {
+    "i": 10547,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 11,
+    "t": "Všichni tito synové Jediaelovi se stali vůdci rodin, stateční bojovníci, v počtu 17 200 mužů schopných tažení a boje."
+  },
+  {
+    "i": 10548,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 12,
+    "t": "Šuppim a Chuppim. Synové Irovi: Chušim; syn jeho: Aher."
+  },
+  {
+    "i": 10549,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 13,
+    "t": "Synové Neftaliho: Jahaciel, Guni, Jecer, Šallum. Byli syny Bilhy."
+  },
+  {
+    "i": 10550,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 14,
+    "t": "Synové Manassesovi: Asriel, kterého porodila jeho konkubína aramejská. Porodila Makíra, otce Gileádova."
+  },
+  {
+    "i": 10551,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 15,
+    "t": "Makír vzal ženu pro Chuppima a Šuppima. Jméno jeho sestry bylo Maaka. Jméno druhého bylo Celofechad. Celofechad měl dcery."
+  },
+  {
+    "i": 10552,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 16,
+    "t": "Maaka, žena Makírova, porodila syna, kterého nazvala Pereš. Jeho bratr se jmenoval Šereš a jeho synové Ulam a Rekem."
+  },
+  {
+    "i": 10553,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 17,
+    "t": "Syn Ulamův: Bedán. Takoví byli synové Gileádovi, syna Makírova, syna Manassesova."
+  },
+  {
+    "i": 10554,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 18,
+    "t": "Měl sestru Hammolékét. Porodila Išehoda, Abiezera a Machlu."
+  },
+  {
+    "i": 10555,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 19,
+    "t": "Šemida měl syny: Achjana, Šekem, Likhi a Aniam."
+  },
+  {
+    "i": 10556,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 20,
+    "t": "Synové Efraimovi: Šutélach. Bered syn jeho, Tahat syn jeho, Eleada syn jeho, Tahat syn jeho,"
+  },
+  {
+    "i": 10557,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 21,
+    "t": "Zabad syn jeho, Šutélach syn jeho, Ezer a Elead. Lidé z Gatu, domorodci, je zabili, neboť sestoupili, aby uloupili jejich stáda."
+  },
+  {
+    "i": 10558,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 22,
+    "t": "Otec jejich Efraim se dlouho rmoutil a bratři jeho přišli ho utěšit."
+  },
+  {
+    "i": 10559,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 23,
+    "t": "Potom odešel za ženou svou; počala a porodila syna, kterého nazval Beria, neboť „dům jeho byl v neštěstí“."
+  },
+  {
+    "i": 10560,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 24,
+    "t": "Měl dceru Šééru, která vystavěla Bét-Chorón, dolní i horní, a Uzén-Šééru."
+  },
+  {
+    "i": 10561,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 25,
+    "t": "Refach syn jeho, Šutélach syn jeho, Tachán syn jeho,"
+  },
+  {
+    "i": 10562,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 26,
+    "t": "Ladan syn jeho, Ammihud syn jeho, Elišama syn jeho,"
+  },
+  {
+    "i": 10563,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 27,
+    "t": "Nún syn jeho, Jozue syn jeho."
+  },
+  {
+    "i": 10564,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 28,
+    "t": "Vlastnili majetky a bydleli v Bételu a v jeho závislostech, v Naaráně na východě, v Gezeru a v jeho závislostech na západě, v Šekemu a v jeho závislostech, a dokonce v Ajji a v jejích závislostech."
+  },
+  {
+    "i": 10565,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 29,
+    "t": "Bét-Šeán s jeho závislostmi, Tanak s jeho závislostmi, Megido s jeho závislostmi, Dor s jeho závislostmi byly v rukou synů Manassesových. Tam přebývali synové Josefovi, syna Izraele."
+  },
+  {
+    "i": 10566,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 30,
+    "t": "Synové Ašerovi: Jimna, Jišva, Jišvi, Beria; Serach jejich sestra."
+  },
+  {
+    "i": 10567,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 31,
+    "t": "Synové Beriovi: Cheber a Malkiel. To je otec Birzajitův."
+  },
+  {
+    "i": 10568,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 32,
+    "t": "Cheber zplodil Jafleta, Šémera, Chotama a Šuu jejich sestru."
+  },
+  {
+    "i": 10569,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 33,
+    "t": "Synové Jafletovi: Pasak, Bimhal a Ašvat. Takoví jsou synové Jafletovi."
+  },
+  {
+    "i": 10570,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 34,
+    "t": "Synové Šémerovi, jeho bratra: Rohga, Hubba a Aram."
+  },
+  {
+    "i": 10571,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 35,
+    "t": "Synové Chelemovi, jeho bratra: Cofach, Jimna, Šéleš a Amal."
+  },
+  {
+    "i": 10572,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 36,
+    "t": "Synové Cofachovi: Suach, Harnéfer, Šual, Béri a Jimra,"
+  },
+  {
+    "i": 10573,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 37,
+    "t": "Becer, Hod, Šamma, Šilša, Jitran a Bééra."
+  },
+  {
+    "i": 10574,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 38,
+    "t": "Synové Jitranovi: Jefunné, Pispa, Ara."
+  },
+  {
+    "i": 10575,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 39,
+    "t": "Synové Ullovi: Arach, Chaniel, Ricja."
+  },
+  {
+    "i": 10576,
+    "b": 12,
+    "c": 1307,
+    "r": 1307,
+    "o": 40,
+    "t": "Ti všichni byli synové Ašerovi, vůdcové rodin, muži vybraní, stateční bojovníci, první z knížat, seskupili se v bojové oddíly čítající dvacet šest tisíc mužů."
+  },
+  {
+    "i": 10577,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 1,
+    "t": "Benjamin zplodil Bélu, prvorozeného svého, Ašbela druhého, Achirama třetího,"
+  },
+  {
+    "i": 10578,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 2,
+    "t": "Nohu čtvrtého, Rafu pátého."
+  },
+  {
+    "i": 10579,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 3,
+    "t": "Béla měl syny: Addara, Géru, otce Ehudova,"
+  },
+  {
+    "i": 10580,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 4,
+    "t": "Abíšua, Naamán a Achoach,"
+  },
+  {
+    "i": 10581,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 5,
+    "t": "Gera, Šefufam a Chúram."
+  },
+  {
+    "i": 10582,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 6,
+    "t": "Toto jsou synové Echúdovi. To jsou ti, kteříž byli přední v rodinách obyvatelů Gaba, a přenesli je do Manáchat:"
+  },
+  {
+    "i": 10583,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 7,
+    "t": "Naamán, Achija a Gera. On je přenesl, a zplodil Uzzi a Achíchúda."
+  },
+  {
+    "i": 10584,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 8,
+    "t": "Zplodil Šaharaima v krajině Moábské, když propustil ženy své, Chušim a Baaru."
+  },
+  {
+    "i": 10585,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 9,
+    "t": "Z ženy pak své Chodes zplodil Jobaba, Sibiáš, Méšu, Malkama."
+  },
+  {
+    "i": 10586,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 10,
+    "t": "Jeuše, Sakias, Mirmu. Tiť jsou synové jeho, přední v rodinách."
+  },
+  {
+    "i": 10587,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 11,
+    "t": "Chušim pak zplodila Abítoba a Elpaála."
+  },
+  {
+    "i": 10588,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 12,
+    "t": "Synové Elpaálovi: Heber, Meseam a Semed, ten, kterýž vystavěl Ono a Lod s dcerami jeho."
+  },
+  {
+    "i": 10589,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 13,
+    "t": "Beriáš a Sema, kteříž byli přední v rodinách obyvatelů Ajalon, oni vyhnali obyvatele Gatské."
+  },
+  {
+    "i": 10590,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 14,
+    "t": "Bratr jeho Sasek, Jeremot,"
+  },
+  {
+    "i": 10591,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 15,
+    "t": "Zebadiáš, Arad, Eder,"
+  },
+  {
+    "i": 10592,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 16,
+    "t": "Michael, Jesfa a Jocha, synové Beriášovi."
+  },
+  {
+    "i": 10593,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 17,
+    "t": "Zebadiáš, Mesullam, Hizki, Heber,"
+  },
+  {
+    "i": 10594,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 18,
+    "t": "Jesmérai, Jezliáš, Jobab, synové Elpaálovi."
+  },
+  {
+    "i": 10595,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 19,
+    "t": "Jákim, Zikri, Zabdi,"
+  },
+  {
+    "i": 10596,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 20,
+    "t": "Elienai, Selletai, Eliel,"
+  },
+  {
+    "i": 10597,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 21,
+    "t": "Adaiáš, Baraiáš, Simrat, synové Simei."
+  },
+  {
+    "i": 10598,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 22,
+    "t": "Jesfan, Heber, Eliel,"
+  },
+  {
+    "i": 10599,
+    "b": 12,
+    "c": 1308,
+    "r": 1308,
+    "o": 23,
+    "t": "Abdon, Zikri, Chánan,"
+  }
+]

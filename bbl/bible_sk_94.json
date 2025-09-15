@@ -1,0 +1,802 @@
+[
+  {
+    "i": 9400,
+    "b": 10,
+    "c": 1119,
+    "r": 1119,
+    "o": 13,
+    "t": "A hľa, ako Eliáš počul, zahalil si tvár svoj plášťom a vyšiel a postavil sa ku vchodu do jaskyne. I stalo sa mu slovo Hospodinovo, hovoriace: \"Čo tu robíš, Eliáš?"
+  },
+  {
+    "i": 9401,
+    "b": 10,
+    "c": 1119,
+    "r": 1119,
+    "o": 14,
+    "t": "A on riekol: \"Horlím horlivosťou za Hospodina, Boha zástupov, lebo synovia Izraelovi opustili tvoju smluvu, tvoje oltáre zbúrali a tvojich prorokov mečom pomordovali. I zostal som iba ja sám, a hľadajú mi život, aby mi ho vzali."
+  },
+  {
+    "i": 9402,
+    "b": 10,
+    "c": 1119,
+    "r": 1119,
+    "o": 15,
+    "t": "I riekol mu Hospodin: \"Choď, vráť sa svojou cestou k púšti damašskej. A keď ta prídeš, pomažeš Chazaela za kráľa nad Sýriou."
+  },
+  {
+    "i": 9403,
+    "b": 10,
+    "c": 1119,
+    "r": 1119,
+    "o": 16,
+    "t": "A Jéhu, syna Nimšiho, pomažeš za kráľa nad Izraelom, a Elizea, syna Šafatovho, z Abel-Mecholy, pomažeš za proroka miesto seba."
+  },
+  {
+    "i": 9404,
+    "b": 10,
+    "c": 1119,
+    "r": 1119,
+    "o": 17,
+    "t": "A stane sa, že kto ujde meču Chazaelovmu, toho zamorduje Jéhu, a kto ujde meču Jéhuovmu, toho zamorduje Elizeus."
+  },
+  {
+    "i": 9405,
+    "b": 10,
+    "c": 1119,
+    "r": 1119,
+    "o": 18,
+    "t": "Ale ponechám v Izraelovi sedem tisíc, všetkých kolien, ktoré sa neohýbali pred Bálom, a každé ústa, ktoré ho nebozkávali."
+  },
+  {
+    "i": 9406,
+    "b": 10,
+    "c": 1119,
+    "r": 1119,
+    "o": 19,
+    "t": "A odišiel odtiaľ a našiel Elizea, syna Šafatovho, ktorý oral dvanástimi záprahmi dobytka, a on sám bol pri dvanástom. A Eliáš prešiel popri ňom a hodil na neho svoj plášť."
+  },
+  {
+    "i": 9407,
+    "b": 10,
+    "c": 1119,
+    "r": 1119,
+    "o": 20,
+    "t": "A on zanechal dobytok a bežal za Eliášom a riekol: \"Nechže pobozkám svojho otca i svoju matku, a potom pôjdem za tebou.\" A on mu riekol: \"Choď, navráť sa zase, lebo čo som ti učinil?"
+  },
+  {
+    "i": 9408,
+    "b": 10,
+    "c": 1119,
+    "r": 1119,
+    "o": 21,
+    "t": "A navrátil sa od neho a vzal záprah dobytka a zabil ich a v náradí dobytka navaril mäso z nich a dal ľudu, a jedli. Potom vstal a išiel za Eliášom a slúžil mu."
+  },
+  {
+    "i": 9409,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 1,
+    "t": "A Ben-Hadad, kráľ sýrsky, shromaždil celú svoju vojsku, a s ním bolo tridsať a dvaja kráľovia, kone a vozy, a išiel a obľahol Samáriu a bojoval proti nej."
+  },
+  {
+    "i": 9410,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 2,
+    "t": "A poslal poslov do mesta ku Achabovi, kráľovi Izraelovmu,"
+  },
+  {
+    "i": 9411,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 3,
+    "t": "a riekol mu: \"Takto hovorí Ben-Hadad: Tvoje striebro a tvoje zlato je moje, i tvoje ženy a tvoji synovia, i to najkrajšie, to je moje."
+  },
+  {
+    "i": 9412,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 4,
+    "t": "A kráľ Izraelov odpovedal a riekol: \"Podľa tvojho slova, pane kráľu, tvoj som i ja i všetko, čo mám."
+  },
+  {
+    "i": 9413,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 5,
+    "t": "A poslovia sa zase navrátili a riekli: \"Takto hovorí Ben-Hadad, ktorý ti poslal, rieknuc: Daj mi svoje striebro a svoje zlato, svoje ženy a svojich synov,"
+  },
+  {
+    "i": 9414,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 6,
+    "t": "lebo zajtra okolo tohoto času pošlem svojich služobníkov k tebe, ktorí prehľadajú tvoj dom i domy tvojich služobníkov, a všetko, čo je žiaduce v tvojich očiach, vezmú do svojej ruky a odnesú."
+  },
+  {
+    "i": 9415,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 7,
+    "t": "Vtedy povolal kráľ Izraelov všetkých starších zeme a riekol: \"Poznajte, prosím, a vidzte, že tento hľadá zlého. Lebo poslal ku mne pre moje ženy a pre mojich synov i pre moje striebro a pre moje zlato, a neodoprel som mu."
+  },
+  {
+    "i": 9416,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 8,
+    "t": "A všetci starší i celý ľud mu riekli: \"Neposlúchni ani nepristaň!"
+  },
+  {
+    "i": 9417,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 9,
+    "t": "Preto riekol poslom Ben-Hadadovým: \"Povedzte môjmu pánu, kráľovi: Všetko, prečo si poslal ku svojmu služobníkovi prvý raz, to učiním, ale toto nemôžem učiniť.\" A poslovia odišli a doniesli mu nazpät zprávu."
+  },
+  {
+    "i": 9418,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 10,
+    "t": "Vtedy poslal k nemu Ben-Hadad a riekol: \"Nech mi to urobia bohovia a nech mi to ešte pridajú, ak bude stačiť prachu Samárie pre všetok ľud, ktorý ma nasleduje."
+  },
+  {
+    "i": 9419,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 11,
+    "t": "Ale kráľ Izraelov odpovedal a riekol: \"Povedzte: Nech sa nechváli ten, kto sa opásava, jako ten, kto sa rozopásava."
+  },
+  {
+    "i": 9420,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 12,
+    "t": "A stalo sa, keď to počul Ben-Hadad, keď pil so kráľmi v stánkoch, že riekol svojim služobníkom: \"Pripravte sa!\" A pripravili sa proti mestu."
+  },
+  {
+    "i": 9421,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 13,
+    "t": "A hľa, pristúpil prorok ku Achabovi, kráľovi Izraelovmu, a riekol: \"Takto hovorí Hospodin: Či si videl tú celú túto velikú mnohosť? Hľa, dám ti ju dnes do tvojej ruky, a zvieš, že ja som Hospodin."
+  },
+  {
+    "i": 9422,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 14,
+    "t": "A Achab riekol: \"Skrze koho?\" A on riekol: \"Takto hovorí Hospodin: Skrze mladíkov kniežat krajín.\" A riekol: \"Kto začne bitku?\" A on riekol: \"Ty."
+  },
+  {
+    "i": 9423,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 15,
+    "t": "Vtedy spočítal mladíkov kniežat krajín, a bolo ich dvesto tridsať a dvaja. A po nich spočítal všetok ľud, všetkých synov Izraelových, sedem tisíc."
+  },
+  {
+    "i": 9424,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 16,
+    "t": "A vyšli napoludnie, keď Ben-Hadad pil a opíjal sa v stánkoch, on i tridsať a dvaja kráľovia, ktorí boli s ním."
+  },
+  {
+    "i": 9425,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 17,
+    "t": "A vyšli mladíci kniežat krajín prvý raz. A Ben-Hadadovi poslali a oznámili, rieknuc: \"Vyšli mužovia zo Samárie."
+  },
+  {
+    "i": 9426,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 18,
+    "t": "A on riekol: \"Ak vyšli pre pokoj, chyťte ich živých, a ak vyšli pre bitku, chyťte ich živých."
+  },
+  {
+    "i": 9427,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 19,
+    "t": "Tak tedy vyšli z mesta mladíci kniežat krajín a vojsko, ktoré išlo za nimi."
+  },
+  {
+    "i": 9428,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 20,
+    "t": "A bili každý svojho. A Sýria utiekla, a Izrael ich stíhal. A Ben-Hadad, kráľ sýrsky, ušiel na koni so jazdcami."
+  },
+  {
+    "i": 9429,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 21,
+    "t": "A vyšiel kráľ Izraelov a pobil kone a vozy a spôsobil Sýrii velikú porážku."
+  },
+  {
+    "i": 9430,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 22,
+    "t": "A pristúpil prorok ku kráľovi Izraelovmu a riekol mu: \"Choď, posilni sa a vedz, pozoruj, čo máš robiť, lebo na návrat roku vystúpi proti tebe kráľ sýrsky."
+  },
+  {
+    "i": 9431,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 23,
+    "t": "A služobníci kráľa sýrskeho mu riekli: \"Bohom vrchov je ich Bôh, preto nás premohli, ale budeme bojovať proti nim na rovine, či ich nepremôžeme?"
+  },
+  {
+    "i": 9432,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 24,
+    "t": "A preto učiň toto: Odstav kráľov a postav namiesto nich krajinských hajtmanov."
+  },
+  {
+    "i": 9433,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 25,
+    "t": "A ty spočítaj si vojsko, jako vojsko, ktoré ti padlo, koňa za koňa a voz za voz, a budeme bojovať proti nim na rovine, či ich nepremôžeme?\" A poslúchol na ich hlas a učinil tak."
+  },
+  {
+    "i": 9434,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 26,
+    "t": "A stalo sa na návrat roku, že spočítal Ben-Hadad Sýriu a vystúpil do Afeka, aby bojoval proti Izraelovi."
+  },
+  {
+    "i": 9435,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 27,
+    "t": "A Izrael spočítali a vystrojili a išli im v ústrety. A Izraeliti sa položili táborom naproti nim, jako dve malé stádečká kozliat, a Sýria naplnila zem."
+  },
+  {
+    "i": 9436,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 28,
+    "t": "Vtedy pristúpil muž Boží a hovoril kráľovi Izraelovmu a riekol: \"Takto hovorí Hospodin: Preto, že vraveli Sýria: Hospodin je Bohom vrchov a nie je Bohom dolín, dám ti všetku túto velikú mnohosť do tvojej ruky, a zvieš, že ja som Hospodin."
+  },
+  {
+    "i": 9437,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 29,
+    "t": "A položili sa táborom sedem dní, jedni proti druhým. A stalo sa siedmeho dňa, že sa strhla bitka, a synovia Izraelovi zbili zo Sýrie sto tisíc peších jedného dňa."
+  },
+  {
+    "i": 9438,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 30,
+    "t": "A ostatní utiekli do Afeka, do mesta. A múr padol na dvadsať a sedem tisíc mužov, ktorí zostali. A Ben-Hadad ušiel a prišiel do mesta, do izby v izbe."
+  },
+  {
+    "i": 9439,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 31,
+    "t": "Vtedy mu povedali jeho služobníci: \"Hľa, počuli sme, že kráľovia domu Izraelovho sú kráľovia milosrdní. Nech tedy vložíme vrece na svoje bedrá a povraz na svoju hlavu a pôjdeme ku kráľovi Izraelovmu, azda nechá tvoju dušu živú."
+  },
+  {
+    "i": 9440,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 32,
+    "t": "Tak opásali vrecami svoje bedrá a povrazom svoje hlavy a prišli ku kráľovi Izraelovmu a riekli: \"Tvoj služobník, Ben-Hadad, hovorí: Nechže žijem!\" A on riekol: \"Či ešte žije? Môj brat je!"
+  },
+  {
+    "i": 9441,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 33,
+    "t": "A mužovia pozorne pozorovali a ponáhľali sa a chytili ho za slovo a riekli: \"Tvoj brat, Ben-Hadad!\" A on riekol: \"Poďte, priveďte ho.\" Vtedy vyšiel k nemu Ben-Hadad, a on ho nechal vystúpiť na svoj voz."
+  },
+  {
+    "i": 9442,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 34,
+    "t": "A riekol mu: \"Mestá, ktoré vzal môj otec od tvojho otca, navrátim, a ulice si narobíš v Damašku, jako narobil môj otec v Samárii.\" A ja ťa prepustím so smluvou, riekol Achab. A učinil s ním smluvu a prepustil ho."
+  },
+  {
+    "i": 9443,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 35,
+    "t": "Vtedy jeden muž z prorockých synov riekol svojmu druhovi slovo Hospodinovo: \"Udri ma!\" Ale muž nechcel ho udrieť."
+  },
+  {
+    "i": 9444,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 36,
+    "t": "A riekol mu: \"Preto, že si neposlúchol hlasu Hospodinovho, hľa, len čo odídeš odo mňa, zabije ťa lev.\" A len čo odišiel od neho, našiel ho lev a zabil ho."
+  },
+  {
+    "i": 9445,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 37,
+    "t": "Potom našiel iného muža a riekol: \"Udri ma, prosím!\" A muž ho udrel a zranil ho."
+  },
+  {
+    "i": 9446,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 38,
+    "t": "A tak odišiel prorok a položil sa kráľovi na cestu a zastal sa pri ceste. A bol premenený, na svoje oči mal šat."
+  },
+  {
+    "i": 9447,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 39,
+    "t": "A stalo sa, keď kráľ išiel mimo, že zakričal na kráľa a riekol: \"Tvoj služobník išiel do bitky, a hľa, niekto sa uhnul a priviedol ku mne muža a riekol: Stráž tohoto muža! Ak ho nejakým spôsobom bude chýbať, potom tvoja duša bude miesto jeho duše, alebo zaplatíš talent striebra."
+  },
+  {
+    "i": 9448,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 40,
+    "t": "A stalo sa, keď tvoj služobník robil sem a tam, a hľa, on ho nebolo.\" A kráľ Izraelov mu riekol: \"Taký je tvoj súd, sám si ho vyslovil."
+  },
+  {
+    "i": 9449,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 41,
+    "t": "Vtedy rýchle odňal šat so svojich očí, a kráľ Izraelov ho poznal, že je z prorokov."
+  },
+  {
+    "i": 9450,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 42,
+    "t": "A riekol mu: \"Takto hovorí Hospodin: Preto, že si prepustil muža, ktorý bol zlorečený mne, bude tvoja duša miesto jeho duše a tvoj ľud miesto jeho ľudu."
+  },
+  {
+    "i": 9451,
+    "b": 10,
+    "c": 1120,
+    "r": 1120,
+    "o": 43,
+    "t": "A kráľ Izraelov odišiel do svojho domu, mrzutý a nahnevaný, a prišiel do Samárie."
+  },
+  {
+    "i": 9452,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 1,
+    "t": "A stalo sa po týchto veciach, že Nabot Jizreelský mal vinicu v Jizreeli, vedľa paláca Achaba, kráľa Samárie."
+  },
+  {
+    "i": 9453,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 2,
+    "t": "A Achab hovoril k Nabotovi, rieknuc: \"Daj mi svoju vinicu, nech ju mám za zelnú záhradu, lebo je blízko pri mojom dome, a dám ti miesto nej vinicu lepšiu od nej, alebo, ak sa ti vidí dobré, dám ti za ňu peniaze, ako stojí."
+  },
+  {
+    "i": 9454,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 3,
+    "t": "Ale Nabot riekol Achabovi: \"Ochraňuj ma Hospodin, aby som ti dal dedičstvo svojich otcov!"
+  },
+  {
+    "i": 9455,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 4,
+    "t": "Preto vošiel Achab do svojho domu, mrzutý a nahnevaný, pre slovo, ktoré mu hovoril Nabot Jizreelský, hovoriac: \"Nedám ti dedičstvo svojich otcov.\" A ľahnul si na svoju posteľ a odvrátil svoju tvár a nechcel jesť chleba."
+  },
+  {
+    "i": 9456,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 5,
+    "t": "A vošla k nemu jeho žena Jezábeľ a riekla mu: \"Prečo je tvoj duch mrzutý, a nejdeš chleba?"
+  },
+  {
+    "i": 9457,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 6,
+    "t": "A riekol jej: \"Preto, že som hovoril k Nabotovi Jizreelskému a riekol som mu: Daj mi svoju vinicu za peniaze, alebo, ak sa ti vidí dobré, dám ti inú vinicu miesto nej. A on riekol: Nedám ti svojej vinice."
+  },
+  {
+    "i": 9458,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 7,
+    "t": "Vtedy mu riekla jeho žena Jezábeľ: \"Či ty teraz kraľuješ nad Izraelom? Vstaň, jedz chlieb, a nech je dobré tvoje srdce, ja ti dám vinicu Nabota Jizreelského."
+  },
+  {
+    "i": 9459,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 8,
+    "t": "Potom napísala listy v mene Achabovom a zapečatila ich jeho pečaťou a poslala listy starším a šľachticom, ktorí bývali s Nabotom v jeho meste."
+  },
+  {
+    "i": 9460,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 9,
+    "t": "A napísala v listoch, rieknuc: \"Vyhláste pôst a posaďte Nabota na popredné miesto v ľude."
+  },
+  {
+    "i": 9461,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 10,
+    "t": "A posaďte proti nemu dvoch mužov, synov Belialových, ktorí by svedčili proti nemu, rieknuc: Rúhal si sa Bohu i kráľovi! Potom ho vyveďte a ukameňujte ho, nech zomrie."
+  },
+  {
+    "i": 9462,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 11,
+    "t": "A tak urobili mužovia jeho mesta, starší a šľachtici, ktorí bývali v jeho meste, tak, ako im Jezábeľ bola poslal, jako bolo napísané v listoch, ktoré im bola poslala."
+  },
+  {
+    "i": 9463,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 12,
+    "t": "Vyhlásili pôst a posadili Nabota na popredné miesto v ľude."
+  },
+  {
+    "i": 9464,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 13,
+    "t": "A prišli dvaja mužovia, synovia Belialovi, a posadili sa proti nemu, a svedčili proti Nabotovi pred ľudom, rieknuc: Nabot sa rúhal Bohu i kráľovi! Potom ho vyviedli von za mesto a ukameňovali ho kameňmi, a zomrel."
+  },
+  {
+    "i": 9465,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 14,
+    "t": "Potom poslali Jezábeli a povedali: \"Nabot je ukameňovaný a zomrel."
+  },
+  {
+    "i": 9466,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 15,
+    "t": "A stalo sa, keď Jezábeľ počula, že Nabot je ukameňovaný a zomrel, že riekla Jezábeľ Achabovi: \"Vstaň, zaujmi vinicu Nabota Jizreelského, ktorú ti nechcel dať za peniaze, lebo Nabota už niet na žive, zomrel."
+  },
+  {
+    "i": 9467,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 16,
+    "t": "A stalo sa, keď Achab počul, že Nabot zomrel, že vstal Achab, aby sišiel do vinice Nabota Jizreelského, aby ju zaujal."
+  },
+  {
+    "i": 9468,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 17,
+    "t": "Vtedy sa stalo slovo Hospodinovo k Eliášovi Tisbejskému, rieknuc:"
+  },
+  {
+    "i": 9469,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 18,
+    "t": "\"Vstaň, siđi v ústrety Achabovi, kráľovi Izraelovmu, ktorý je v Samárii, hľa, je vo vinici Nabotovej, kam si sišiel, aby ju zaujal,"
+  },
+  {
+    "i": 9470,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 19,
+    "t": "a povieš mu, rieknuc: Takto hovorí Hospodin: Či si zamordoval i si zaujal? A povieš mu, rieknuc: Takto hovorí Hospodin: Na mieste, na ktorom lízali psy krv Nabotovu, budú lízať psy aj tvoju krv, áno, i tvoju."
+  },
+  {
+    "i": 9471,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 20,
+    "t": "A Achab riekol Eliášovi: \"Či si ma našiel, môj nepriateľu?\" A on riekol: \"Našiel som ťa, preto, že robíš zlé v očiach Hospodinových."
+  },
+  {
+    "i": 9472,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 21,
+    "t": "Hľa, uvediem zlé na teba a zametiem po tebe a vyhubím Achabovi každého, kto močí na stenu, i zadržaného i opusteného v Izraelovi,"
+  },
+  {
+    "i": 9473,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 22,
+    "t": "a učiním tvoj dom jako dom Jeroboáma, syna Nebatovho, a jako dom Bázu, syna Achiášovho, pre urážku, ktorou si ma urazil, a zviedol si Izraela na hriech."
+  },
+  {
+    "i": 9474,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 23,
+    "t": "I o Jezábeli hovoril Hospodin, rieknuc: Psi budú žrať Jezábeľ pri vale Jizreelskom."
+  },
+  {
+    "i": 9475,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 24,
+    "t": "Kto z Achabových zomrie v meste, toho budú žrať psi, a kto zomrie na poli, toho budú žrať nebeskí vtáci."
+  },
+  {
+    "i": 9476,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 25,
+    "t": "Ale nebolo jako Achab, ktorý by sa bol zapredal činiť zlé v očiach Hospodinových, do čoho ho ponukovala jeho žena Jezábeľ."
+  },
+  {
+    "i": 9477,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 26,
+    "t": "A veľmi ohavne sa choval nasledujúc modly, tak jako učinili Amorejci, ktorých vyhnal Hospodin zpomedzi tvári synov Izraelových."
+  },
+  {
+    "i": 9478,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 27,
+    "t": "A stalo sa, keď Achab počul tieto slová, že roztrhol svoje rúcha a položil na svoje telo vrece a postil sa a ležal vo vreci a chodil pomaly."
+  },
+  {
+    "i": 9479,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 28,
+    "t": "Vtedy sa stalo slovo Hospodinovo k Eliášovi Tisbejskému, rieknuc:"
+  },
+  {
+    "i": 9480,
+    "b": 10,
+    "c": 1121,
+    "r": 1121,
+    "o": 29,
+    "t": "\"Či si videl, ako sa Acháb predo mnou pokoril? Pretože sa predo mnou pokoril, neprinesiem nešťastie za jeho života, ale za života jeho syna uvediem nešťastie na jeho dom."
+  },
+  {
+    "i": 9481,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 1,
+    "t": "I nastal pokoj na tri roky, bez boja medzi Aramom a Izraelom."
+  },
+  {
+    "i": 9482,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 2,
+    "t": "A stalo sa tretieho roku, že Jozafat, kráľ Júdov, navštívil izraelského kráľa."
+  },
+  {
+    "i": 9483,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 3,
+    "t": "A izraelský kráľ riekol svojim služobníkom: \"Viete, že Rámot Gileád je náš, a my sa ničoho nedobýjame, aby sme ho vyrvali z rúk aramejského kráľa."
+  },
+  {
+    "i": 9484,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 4,
+    "t": "A riekol Jozafatovi: \"Pôjdeš so mnou bojovať do Rámotu Gileádu?\" Jozafat odpovedal izraelskému kráľovi: \"Ako ty, tak i ja, ako môj ľud, tak i tvoj ľud, ako moje kone, tak i tvoje kone."
+  },
+  {
+    "i": 9485,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 5,
+    "t": "Avšak Jozafat riekol izraelskému kráľovi: \"Prosím, dotazuj sa najprv na slovo Hospodinovo."
+  },
+  {
+    "i": 9486,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 6,
+    "t": "A izraelský kráľ zhromaždil prorokov, okolo štyristo mužov, a spýtal sa ich: \"Mám ísť bojovať proti Rámotu Gileádu, alebo mám nechať toho?\" A oni odpovedali: \"Vytiahni, Hospodin ho dá do ruky kráľa."
+  },
+  {
+    "i": 9487,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 7,
+    "t": "Ale Jozafat riekol: \"Či niet tu ešte iného proroka Hospodinovho, aby sme sa ho spýtali?"
+  },
+  {
+    "i": 9488,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 8,
+    "t": "A izraelský kráľ odpovedal Jozafatovi: \"Je tu ešte jeden muž, skrze ktorého sa môžeme dotazovať Hospodina, ale ho nenávidím, lebo mi nikdy neveští dobré, ale len zlé, Micheáš, syn Jimlov.\" Jozafat riekol: \"Nech takto nehovorí kráľ!"
+  },
+  {
+    "i": 9489,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 9,
+    "t": "A izraelský kráľ zavolal eunucha a riekol: \"Rýchlo priveď Micheáša, syna Jimlovho!"
+  },
+  {
+    "i": 9490,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 10,
+    "t": "A izraelský kráľ a Jozafat, kráľ Júdov, sedeli každý na svojom tróne, oblečení v slávnostných rúchach, na priestranstve pred bránou Samárie, a všetci proroci prorokovali pred nimi."
+  },
+  {
+    "i": 9491,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 11,
+    "t": "A Sedekiáš, syn Kenaanov, si narobil železné rohy a riekol: \"Takto hovorí Hospodin: Týmto budeš bodať Aramčanov, až ich zničíš."
+  },
+  {
+    "i": 9492,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 12,
+    "t": "A všetci proroci prorokovali to isté, hovoriac: \"Vytiahni do Rámotu Gileádu a budeš mať úspech, Hospodin ho dá do ruky kráľa."
+  },
+  {
+    "i": 9493,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 13,
+    "t": "A posol, ktorý išiel zavolať Micheáša, mu riekol: \"Hľa, proroci jednými ústami veštia kráľovi dobré. Nech je tvoja reč ako jedného z nich a vešti dobré!"
+  },
+  {
+    "i": 9494,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 14,
+    "t": "Ale Micheáš odpovedal: \"Akože žije Hospodin, čo mi povie Hospodin, to budem hovoriť!"
+  },
+  {
+    "i": 9495,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 15,
+    "t": "A keď prišiel pred kráľa, kráľ sa ho spýtal: \"Micheáš, máme ísť bojovať do Rámotu Gileádu, alebo máme nechať toho?\" A on mu odpovedal: \"Vytiahni a budeš mať úspech, Hospodin ho dá do ruky kráľa."
+  },
+  {
+    "i": 9496,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 16,
+    "t": "Ale kráľ mu riekol: \"Koľkokrát ťa mám zaprisahať, aby si mi nehovoril nič iné ako pravdu v mene Hospodinovom?"
+  },
+  {
+    "i": 9497,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 17,
+    "t": "Vtedy riekol: \"Videl som celý Izrael roztrúsený po vrchoch ako ovce bez pastiera. A Hospodin riekol: Nemajú pána, nech sa každý vráti v pokoji domov!"
+  },
+  {
+    "i": 9498,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 18,
+    "t": "A izraelský kráľ riekol Jozafatovi: \"Či som ti nehovoril, že mi neveští dobré, ale len zlé?"
+  },
+  {
+    "i": 9499,
+    "b": 10,
+    "c": 1122,
+    "r": 1122,
+    "o": 19,
+    "t": "A Micheáš riekol: \"Počuj radšej slovo Hospodinovo. Videl som Hospodina sedieť na svojom tróne a celé nebeské vojsko stáť pred ním, po jeho pravici i po jeho ľavici."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 32300,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 1,
+    "t": "Ano nga ang kahigitan ng Judio? o ano ang mapapakinabang sa pagtutuli?"
+  },
+  {
+    "i": 32301,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 2,
+    "t": "Marami sa anomang paraan: ang una sa lahat, ay ipinagkatiwala sa kanila ang mga aral ng Dios."
+  },
+  {
+    "i": 32302,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 3,
+    "t": "Ano nga kung ang ilan ay hindi nangagsisampalataya? ang di pananampalataya nila ay nagpapawalang halaga baga sa pagtatapat ng Dios?"
+  },
+  {
+    "i": 32303,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 4,
+    "t": "Huwag nawang mangyari: oo, bagkus pa nga ang Dios ay tapat, datapuwa't ang bawa't tao'y sinungaling; gaya ng nasusulat, Upang ikaw ay ariing ganap sa iyong mga salita, At makapagtagumpay ka kung ikaw ay mahatulan."
+  },
+  {
+    "i": 32304,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 5,
+    "t": "Datapuwa't kung ang ating kalikuan ay nagbibigay dilag sa katuwiran ng Dios, ano ang ating sasabihin? Liko baga ang Dios na dumadalaw na may poot? (nagsasalita akong ayon sa pagkatao.)"
+  },
+  {
+    "i": 32305,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 6,
+    "t": "Huwag nawang mangyari: sapagka't kung gayo'y paanong paghatol ng Dios sa sanglibutan?"
+  },
+  {
+    "i": 32306,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 7,
+    "t": "Datapuwa't kung ang katotohanan ng Dios sa pamamagitan ng aking kasinungalingan ay sumagana sa ikaluluwalhati niya, bakit pa naman ako'y hinahatulang tulad sa isang makasalanan?"
+  },
+  {
+    "i": 32307,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 8,
+    "t": "At bakit hindi (gaya ng pagkalibak sa atin, at gaya ng pinatotohanan ng ilan na ating sinasabi), Magsigawa tayo ng masama upang dumating ang mabuti? ang kaparusahan sa mga gayon ay matuwid."
+  },
+  {
+    "i": 32308,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 9,
+    "t": "Ano nga? tayo baga'y lalong mabuti kay sa kanila? Hindi, sa anomang paraan: sapagka't ating kapuwa isinasakdal na muna ang mga Judio at ang mga Griego, na silang lahat ay nangasa ilalim ng kasalanan;"
+  },
+  {
+    "i": 32309,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 10,
+    "t": "Gaya ng nasusulat, Walang matuwid, wala, wala kahit isa;"
+  },
+  {
+    "i": 32310,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 11,
+    "t": "Walang nakatatalastas, Walang humahanap sa Dios;"
+  },
+  {
+    "i": 32311,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 12,
+    "t": "Silang lahat ay nagsilihis, magkakasamang nawalan ng kasaysayan; Walang gumagawa ng mabuti, wala, wala kahit isa:"
+  },
+  {
+    "i": 32312,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 13,
+    "t": "Ang kanilang lalamunan ay isang libingang bukas; Nagsigamit ng daya sa pamamagitan ng kanilang mga dila: Ang kamandag ng mga ulupong ang siyang nasa ilalim ng kanilang mga labi:"
+  },
+  {
+    "i": 32313,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 14,
+    "t": "Ang kanilang bibig ay puno ng panunumpa at ng kapaitan:"
+  },
+  {
+    "i": 32314,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 15,
+    "t": "Ang kanilang mga paa ay matulin sa pagbububo ng dugo;"
+  },
+  {
+    "i": 32315,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 16,
+    "t": "Kagibaan at kahirapan ang nasa kanilang mga daan;"
+  },
+  {
+    "i": 32316,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 17,
+    "t": "At ang daan ng kapayapaan ay hindi nila nakilala;"
+  },
+  {
+    "i": 32317,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 18,
+    "t": "Walang pagkatakot sa Dios sa harap ng kanilang mga mata."
+  },
+  {
+    "i": 32318,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 19,
+    "t": "Ngayon ay nalalaman natin na ang anomang sinasabi ng kautusan, yaon ay sinasabi sa nangasa ilalim ng kautusan; upang matikom ang bawa't bibig, at ang buong sanglibutan ay mapasa ilalim ng hatol ng Dios:"
+  },
+  {
+    "i": 32319,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 20,
+    "t": "Sapagka't sa pamamagitan ng mga gawa ng kautusan ay walang laman na aariing-ganap sa paningin niya; sapagka't sa pamamagitan ng kautusan ay ang pagkakilala ng kasalanan."
+  },
+  {
+    "i": 32320,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 21,
+    "t": "Datapuwa't ngayon bukod sa kautusan ay ipinahahayag ang isang katuwiran ng Dios, na sinasaksihan ng kautusan at ng mga propeta;"
+  },
+  {
+    "i": 32321,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 22,
+    "t": "Sa makatuwid baga'y ang katuwiran ng Dios sa pamamagitan ng pananampalataya kay Jesucristo sa lahat ng mga nagsisisampalataya; sapagka't walang pagkakaiba;"
+  },
+  {
+    "i": 32322,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 23,
+    "t": "Sapagka't ang lahat ay nangagkasala nga, at hindi nangakaabot sa kaluwalhatian ng Dios;"
+  },
+  {
+    "i": 32323,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 24,
+    "t": "Palibhasa'y inaring-ganap na walang bayad ng kaniyang biyaya sa pamamagitan ng pagtubos na nasa kay Cristo Jesus:"
+  },
+  {
+    "i": 32324,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 25,
+    "t": "Na siyang inilagay ng Dios na maging pangpalubagloob, sa pamamagitan ng pananampalataya, sa kaniyang dugo, upang maipakilala ang kaniyang katuwiran dahil sa hindi pagpansin sa mga kasalanan na nagawa nang nagdaang panahon sa pagpapahinuhod ng Dios;"
+  },
+  {
+    "i": 32325,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 26,
+    "t": "Sa pagpapakilala'y aking sinasabi, ng kaniyang katuwiran sa panahong kasalukuyan, upang siya'y maging ganap at tagaaring-ganap sa may pananampalataya kay Cristo."
+  },
+  {
+    "i": 32326,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 27,
+    "t": "Kaya nga saan naroon ang pagmamapuri? Ito'y inihiwalay na. Sa pamamagitan ng anong kautusan? ng mga gawa? Hindi: kundi sa pamamagitan ng kautusan ng pananampalataya."
+  },
+  {
+    "i": 32327,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 28,
+    "t": "Kaya nga maipasisiya natin na ang tao ay inaaring-ganap sa pananampalataya na hiwalay sa mga gawa ng kautusan."
+  },
+  {
+    "i": 32328,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 29,
+    "t": "O ang Dios baga ay Dios ng mga Judio lamang? hindi baga siya ang Dios din ng mga Gentil? Oo, ng mga Gentil din naman:"
+  },
+  {
+    "i": 32329,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 30,
+    "t": "Kung gayon nga na iisa ang Dios, at kaniyang aariing-ganap ang pagtutuli sa pamamagitan ng pananampalataya, at ang di pagtutuli sa pamamagitan ng pananampalataya."
+  },
+  {
+    "i": 32330,
+    "b": 51,
+    "c": 5303,
+    "r": 5303,
+    "o": 31,
+    "t": "Niwawalan kaya nating kabuluhan ang kautusan sa pamamagitan ng pananampalataya? Huwag nawang mangyari: kundi pinagtitibay pa nga natin ang kautusan."
+  },
+  {
+    "i": 32331,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 1,
+    "t": "Ano nga ang ating sasabihin, na nasumpungan ni Abraham na ating magulang ayon sa laman?"
+  },
+  {
+    "i": 32332,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 2,
+    "t": "Sapagka't kung si Abraham ay inaring-ganap sa pamamagitan ng mga gawa, ay mayroon sana siyang ipagmamapuri; datapuwa't hindi sa Dios."
+  },
+  {
+    "i": 32333,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 3,
+    "t": "Sapagka't ano ang sinasabi ng kasulatan? At sumampalataya si Abraham sa Dios, at sa kaniya'y ibinilang na katuwiran."
+  },
+  {
+    "i": 32334,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 4,
+    "t": "Ngayon sa kaniya na gumagawa'y, hindi ibinibilang na biyaya ang ganti, kundi utang."
+  },
+  {
+    "i": 32335,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 5,
+    "t": "Datapuwa't sa kaniya na hindi gumagawa, nguni't sumasampalataya sa kaniya na umaaring ganap sa masama, ang kaniyang pananampalataya ay ibibilang na katuwiran."
+  },
+  {
+    "i": 32336,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 6,
+    "t": "Gaya naman ng sinasambit ni David na kapalaran ng tao, na sa kaniya'y ibinibilang ng Dios ang katuwiran nang walang mga gawa,"
+  },
+  {
+    "i": 32337,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 7,
+    "t": "Na sinasabi, Mapapalad yaong ang kanilang mga pagsalangsang ay ipinatawad, At ang kanilang mga kasalanan ay nangatakpan."
+  },
+  {
+    "i": 32338,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 8,
+    "t": "Mapalad ang tao na sa kaniya'y hindi ibibilang ng Panginoon ang kasalanan."
+  },
+  {
+    "i": 32339,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 9,
+    "t": "Sinambit nga baga ang kapalarang ito tungkol sa pagtutuli, o tungkol din naman sa di-pagtutuli? sapagka't sinasabi natin, Kay Abraham ay ibinilang na katuwiran ang kaniyang pananampalataya."
+  },
+  {
+    "i": 32340,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 10,
+    "t": "Paano ngang ito'y ibinilang? nang siya baga'y nasa pagtutuli, o sa di-pagtutuli? Hindi sa pagtutuli, kundi sa di-pagtutuli:"
+  },
+  {
+    "i": 32341,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 11,
+    "t": "At tinanggap niya ang tanda ng pagtutuli, na isang tatak ng katuwiran ng pananampalataya na nasa kaniya samantalang siya'y nasa di-pagtutuli: upang siya'y maging ama ng lahat ng mga nagsisisampalataya, bagaman sila'y nasa di-pagtutuli, upang ang katuwiran ay maibilang sa kanila;"
+  },
+  {
+    "i": 32342,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 12,
+    "t": "At ang ama ng pagtutuli nila na hindi lamang sa pagtutuli, kundi pati naman sa mga nagsisilakad sa mga bakas niyaong pananampalataya ng ating amang si Abraham na nasa kaniya nang siya'y nasa di-pagtutuli."
+  },
+  {
+    "i": 32343,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 13,
+    "t": "Sapagka't hindi sa pamamagitan ng kautusan ginawa ang pangako kay Abraham o sa kaniyang binhi na siyang magmamana ng sanglibutan, kundi sa pamamagitan ng katuwiran ng pananampalataya."
+  },
+  {
+    "i": 32344,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 14,
+    "t": "Sapagka't kung silang nangasa kautusan ay siyang mga tagapagmana, ay walang kabuluhan ang pananampalataya, at nawawalang kabuluhan ang pangako:"
+  },
+  {
+    "i": 32345,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 15,
+    "t": "Sapagka't ang kautusan ay gumagawa ng galit; datapuwa't kung saan walang kautusan ay wala ring pagsalangsang."
+  },
+  {
+    "i": 32346,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 16,
+    "t": "Dahil dito'y sa pananampalataya, upang maging ayon sa biyaya; upang ang pangako ay lumagi sa lahat ng binhi; hindi lamang sa nasa kautusan, kundi pati naman sa nasa pananampalataya ni Abraham, na ama nating lahat."
+  },
+  {
+    "i": 32347,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 17,
+    "t": "(Gaya ng nasusulat, Ginawa kitang ama ng maraming bansa) sa harapan niyaong kaniyang pinanampalatayanan, sa makatuwid baga'y ang Dios, na nagbibigay ng buhay sa mga patay, at tumatawag sa mga bagay na hindi pa hayag na tila hayag na."
+  },
+  {
+    "i": 32348,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 18,
+    "t": "Siya na sumampalataya na nasa pagasa laban sa pagasa, upang maging ama ng maraming bansa ayon sa sabi, Magiging gayon ang iyong binhi."
+  },
+  {
+    "i": 32349,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 19,
+    "t": "At hindi humina sa pananampalataya na ipinalagay man ang kaniyang katawang tulad sa patay na (gayon siya'y may mga isang daang taon na), at ang pagkabaog ng bahay-bata ni Sara;"
+  },
+  {
+    "i": 32350,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 20,
+    "t": "Kundi, sa pagtingin niya sa pangako ng Dios, ay hindi nagalinlangan sa pamamagitan ng di pananampalataya, kundi lumakas ng lumakas sa pamamagitan ng pananampalataya, na niluluwalhati ang Dios,"
+  },
+  {
+    "i": 32351,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 21,
+    "t": "At lubos nanalig na ang Dios na nangako ay may kapangyarihang makagawa noon."
+  },
+  {
+    "i": 32352,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 22,
+    "t": "Dahil dito'y ibinilang naman na katuwiran sa kaniya."
+  },
+  {
+    "i": 32353,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 23,
+    "t": "Ngayo'y hindi lamang dahil sa kaniya isinulat, na sa kaniya'y ibinilang;"
+  },
+  {
+    "i": 32354,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 24,
+    "t": "Kundi dahil din naman sa atin, na ibibilang sa ating mga nagsisisampalataya sa kaniya na bumuhay na maguli sa mga patay, kay Jesus na ating Panginoon,"
+  },
+  {
+    "i": 32355,
+    "b": 51,
+    "c": 5304,
+    "r": 5304,
+    "o": 25,
+    "t": "Na ibinigay dahil sa ating mga kasuwayan, at binuhay na maguli sa ikaaaring-ganap natin."
+  },
+  {
+    "i": 32356,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 1,
+    "t": "Yaman nga na mga inaaring-ganap sa pananampalataya, mayroon tayong kapayapaan sa Dios sa pamamagitan ng ating Panginoong Jesucristo;"
+  },
+  {
+    "i": 32357,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 2,
+    "t": "Sa pamamagitan din naman niya'y nangagkaroon tayo ng ating pagpasok sa pamamagitan ng pananampalataya sa biyayang ito na diyan ay nagsisilagi tayo; at nangagagalak tayo sa pagasa ng kaluwalhatian ng Dios."
+  },
+  {
+    "i": 32358,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 3,
+    "t": "At hindi lamang gayon, kundi naman nangagagalak tayo sa ating mga kapighatian na nalalamang ang kapighatian ay gumagawa ng katiyagaan;"
+  },
+  {
+    "i": 32359,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 4,
+    "t": "At ang katiyagaan, ng pagpapatunay; at ang pagpapatunay, ng pagasa:"
+  },
+  {
+    "i": 32360,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 5,
+    "t": "At ang pagasa ay hindi humihiya; sapagka't ang pagibig ng Dios ay nabubuhos sa ating mga puso sa pamamagitan ng Espiritu Santo na ibinigay sa atin."
+  },
+  {
+    "i": 32361,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 6,
+    "t": "Sapagka't nang tayo ay mahihina pa ay namatay si Cristo sa kapanahunan dahil sa mga masama."
+  },
+  {
+    "i": 32362,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 7,
+    "t": "Sapagka't ang isang tao'y bahagya nang mamatay dahil sa isang taong matuwid: bagama't dahil sa isang taong mabuti marahil ay may mangangahas mamatay."
+  },
+  {
+    "i": 32363,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 8,
+    "t": "Datapuwa't ipinagtatagubilin ng Dios ang kaniyang pagibig sa atin, na nang tayo'y mga makasalanan pa, si Cristo ay namatay dahil sa atin."
+  },
+  {
+    "i": 32364,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 9,
+    "t": "Lubha pa nga ngayong inaaring-ganap sa pamamagitan ng kaniyang dugo, ay mangaliligtas tayo sa galit ng Dios sa pamamagitan niya."
+  },
+  {
+    "i": 32365,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 10,
+    "t": "Sapagka't kung, noong tayo'y mga kaaway ay pinakipagkasundo tayo sa Dios sa pamamagitan ng kamatayan ng kaniyang Anak, lubha pa, ngayong nangagkakasundo na, ay mangaliligtas tayo sa kaniyang buhay;"
+  },
+  {
+    "i": 32366,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 11,
+    "t": "At hindi lamang gayon, kundi tayo'y nangagagalak naman sa Dios sa pamamagitan ng ating Panginoong Jesucristo, na sa pamamagitan niya'y tinamo natin ngayon ang pagkakasundo."
+  },
+  {
+    "i": 32367,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 12,
+    "t": "Kaya, kung paano na sa pamamagitan ng isang tao ay pumasok ang kasalanan sa sanglibutan, at ang kamataya'y sa pamamagitan ng kasalanan; at sa ganito'y ang kamatayan ay naranasan ng lahat ng mga tao, sapagka't ang lahat ay nangagkasala:"
+  },
+  {
+    "i": 32368,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 13,
+    "t": "Sapagka't ang kasalanan ay nasa sanglibutan hanggang sa dumating ang kautusan: nguni't hindi ibinibilang ang kasalanan kung walang kautusan."
+  },
+  {
+    "i": 32369,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 14,
+    "t": "Bagaman ang kamatayan ay naghari mula kay Adam hanggang kay Moises, kahit doon sa hindi nangagkasala man ng tulad sa pagsalangsang ni Adam, na siyang anyo niyaong darating."
+  },
+  {
+    "i": 32370,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 15,
+    "t": "Datapuwa't gayon din ang kaloob na walang bayad ay hindi gaya ng pagsuway. Sapagka't kung sa pagsuway ng isa ay nangamatay ang marami, lubha pang sumagana sa marami ang biyaya ng Dios, at ang kaloob dahil sa biyaya ng isang lalaking si Jesucristo."
+  },
+  {
+    "i": 32371,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 16,
+    "t": "At ang kaloob ay hindi gaya ng nangyari sa pamamagitan ng isang nagkasala: sapagka't ang kahatulan ay dumating sa isa sa ipagdurusa, datapuwa't ang kaloob na walang bayad ay dumating sa maraming pagsuway sa ikaaaring ganap."
+  },
+  {
+    "i": 32372,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 17,
+    "t": "Sapagka't kung, sa pagsuway ng isa, ay naghari ang kamatayan sa pamamagitan ng isa; lubha pang magsisipaghari sa buhay ang nagsisitanggap ng kasaganaan ng biyaya at kaloob ng katuwiran sa pamamagitan ng isa, sa makatuwid baga'y si Jesucristo."
+  },
+  {
+    "i": 32373,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 18,
+    "t": "Kaya kung paanong sa pamamagitan ng isang pagsuway ay dumating ang hatol sa lahat ng mga tao sa ipagdurusa; gayon din naman sa pamamagitan ng isang gawa ng katuwiran, ang kaloob na walang bayad ay dumating sa lahat ng mga tao sa ikaaaring-ganap ng buhay."
+  },
+  {
+    "i": 32374,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 19,
+    "t": "Sapagka't kung paanong sa pamamagitan ng pagsuway ng isang tao ang marami ay naging mga makasalanan, gayon din sa pamamagitan ng pagtalima ng isa ang marami ay magiging mga matuwid."
+  },
+  {
+    "i": 32375,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 20,
+    "t": "At bukod sa rito ay pumasok ang kautusan, upang ang pagsuway ay makapanagana; datapuwa't kung saan nanagana ang kasalanan, ay nanaganang lubha ang biyaya:"
+  },
+  {
+    "i": 32376,
+    "b": 51,
+    "c": 5305,
+    "r": 5305,
+    "o": 21,
+    "t": "Upang, kung paanong ang kasalanan ay naghari sa ikamamatay, ay gayon din naman ang biyaya ay makapaghahari sa pamamagitan ng katuwiran sa ikabubuhay na walang hanggan sa pamamagitan ni Jesucristo na Panginoon natin."
+  },
+  {
+    "i": 32377,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 1,
+    "t": "Ano nga ang ating sasabihin? Magpapatuloy baga tayo sa pagkakasala upang ang biyaya ay makapanagana?"
+  },
+  {
+    "i": 32378,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 2,
+    "t": "Huwag nawang mangyari. Tayong mga patay na sa pagkakasala, paano nga tayong mabubuhay pa riyan?"
+  },
+  {
+    "i": 32379,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 3,
+    "t": "O hindi baga ninyo nalalaman na tayong lahat na mga nabautismuhan kay Cristo Jesus ay nangabautismuhan sa kaniyang kamatayan?"
+  },
+  {
+    "i": 32380,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 4,
+    "t": "Tayo nga'y nangalibing na kalakip niya sa pamamagitan ng bautismo sa kamatayan: na kung paanong si Cristo ay nabuhay na maguli sa mga patay sa pamamagitan ng kaluwalhatian ng Ama, ay gayon din naman tayo'y makalalakad sa panibagong buhay."
+  },
+  {
+    "i": 32381,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 5,
+    "t": "Sapagka't kung tayo nga ay naging kalakip niya dahil sa kawangisan ng kaniyang kamatayan, ay magkakagayon din naman tayo dahil sa kawangisan ng kaniyang pagkabuhay na maguli;"
+  },
+  {
+    "i": 32382,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 6,
+    "t": "Na nalalaman natin, na ang ating datihang pagkatao ay kalakip niyang napako sa krus, upang ang katawang salarin ay magiba, at nang sa gayo'y huwag na tayong maalipin pa ng kasalanan;"
+  },
+  {
+    "i": 32383,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 7,
+    "t": "Sapagka't ang namatay ay ligtas na sa kasalanan."
+  },
+  {
+    "i": 32384,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 8,
+    "t": "Datapuwa't kung tayo'y nangamatay na kalakip ni Cristo, ay naniniwala tayo na mangabubuhay naman tayong kalakip niya;"
+  },
+  {
+    "i": 32385,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 9,
+    "t": "Na nalalaman nating si Cristo na nabuhay na maguli sa mga patay ay hindi na mamamatay; ang kamataya'y hindi naghahari sa kaniya."
+  },
+  {
+    "i": 32386,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 10,
+    "t": "Sapagka't ang kamatayan na ikinamatay niya, ay kaniyang ikinamatay na minsan sa kasalanan: datapuwa't ang buhay na kaniyang ikinabubuhay, ay kaniyang ikinabubuhay sa Dios."
+  },
+  {
+    "i": 32387,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 11,
+    "t": "Gayon din naman kayo, ibilang ninyong kayo'y tunay na mga patay na sa kasalanan, nguni't mga buhay sa Dios kay Cristo Jesus."
+  },
+  {
+    "i": 32388,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 12,
+    "t": "Huwag ngang maghari ang kasalanan sa inyong katawang may kamatayan, upang kayo'y magsisunod sa kaniyang mga pita:"
+  },
+  {
+    "i": 32389,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 13,
+    "t": "At huwag din naman ninyong ihandog ang inyong mga sangkap sa kasalanan na pinaka kasangkapan ng kalikuan; kundi ihandog ninyo ang inyong sarili sa Dios, na tulad sa nangabuhay sa mga patay, at ang inyong mga sangkap na pinaka kasangkapan ng katuwiran sa Dios."
+  },
+  {
+    "i": 32390,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 14,
+    "t": "Sapagka't ang kasalanan ay hindi makapaghahari sa inyo: sapagka't wala kayo sa ilalim ng kautusan, kundi sa ilalim ng biyaya."
+  },
+  {
+    "i": 32391,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 15,
+    "t": "Ano nga? mangagkakasala baga tayo, dahil sa tayo'y wala sa ilalim ng kautusan, kundi sa ilalim ng biyaya? Huwag nawang mangyari."
+  },
+  {
+    "i": 32392,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 16,
+    "t": "Hindi baga ninyo nalalaman, na kung kanino ninyo inihahandog ang inyong mga sarili na pinaka alipin upang tumalima ay kayo'y mga alipin niyaong inyong tinatalima; maging ng kasalanan sa ikamamatay, maging ng pagtalima sa ikapagiging matuwid?"
+  },
+  {
+    "i": 32393,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 17,
+    "t": "Datapuwa't salamat sa Dios, na, bagama't kayo'y naging mga alipin ng kasalanan, kayo'y naging mga matalimahin sa puso doon sa uri ng aral na pinagbigyan sa inyo;"
+  },
+  {
+    "i": 32394,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 18,
+    "t": "At yamang pinalaya kayo sa kasalanan ay naging mga alipin kayo ng katuwiran."
+  },
+  {
+    "i": 32395,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 19,
+    "t": "Nagsasalita ako ayon sa kaugalian ng mga tao dahil sa karupukan ng inyong laman: sapagka't kung paanong inyong inihandog ang inyong mga sangkap ng katawan na pinaka alipin ng karumihan at ng lalo't lalong kasamaan, gayon din ihandog ninyo ngayon ang inyong mga sangkap na pinaka alipin ng katuwiran sa ikababanal."
+  },
+  {
+    "i": 32396,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 20,
+    "t": "Sapagka't nang kayo ay mga alipin ng kasalanan, kayo'y laya tungkol sa katuwiran."
+  },
+  {
+    "i": 32397,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 21,
+    "t": "Ano nga ang ibinunga ninyo sa panahong yaon sa mga bagay na ngayo'y ikinahihiya ninyo? sapagka't ang wakas ng mga bagay na yaon ay kamatayan."
+  },
+  {
+    "i": 32398,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 22,
+    "t": "Datapuwa't ngayong mga laya na kayo sa kasalanan at naging mga alipin ng Dios, kayo ay mayroong inyong bunga sa ikababanal, at ang wakas ay ang buhay na walang hanggan."
+  },
+  {
+    "i": 32399,
+    "b": 51,
+    "c": 5306,
+    "r": 5306,
+    "o": 23,
+    "t": "Sapagka't ang kabayaran ng kasalanan ay kamatayan; datapuwa't ang kaloob na walang bayad ng Dios ay buhay na walang hanggan kay Cristo Jesus na Panginoon natin."
+  }
+]

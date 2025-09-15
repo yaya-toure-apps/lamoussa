@@ -1,0 +1,802 @@
+[
+  {
+    "i": 29700,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 28,
+    "t": "\"Gerai atsakei, – tarė Jėzus, – tai daryk, ir gyvensi."
+  },
+  {
+    "i": 29701,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 29,
+    "t": "Bet anas, norėdamas pasiteisinti, paklausė Jėzų: \"O kas gi mano artimas?"
+  },
+  {
+    "i": 29702,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 30,
+    "t": "Jėzus atsakė: \"Vienas žmogus keliavo iš Jeruzalės į Jerichą ir pakliuvo į plėšikų rankas. Tie jį apiplėšė, sumušė ir nuėjo palikdami pusgyvį."
+  },
+  {
+    "i": 29703,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 31,
+    "t": "Atsitiktinai tuo pačiu keliu ėjo kunigas, bet pamatęs jį, praėjo pro šalį."
+  },
+  {
+    "i": 29704,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 32,
+    "t": "Taip pat ir levitas, užtikęs tą vietą, pamatė jį ir praėjo pro šalį."
+  },
+  {
+    "i": 29705,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 33,
+    "t": "O vienas Samarietis keliaudamas užtiko jį ir, pamatęs, pagailėjo."
+  },
+  {
+    "i": 29706,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 34,
+    "t": "Jis priėjo prie jo, aprišo žaizdas, užpildamas aliejaus ir vyno, užsodino ant savo gyvulio, nugabeno į smuklę ir pasirūpino juo."
+  },
+  {
+    "i": 29707,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 35,
+    "t": "Kitą dieną išsiėmęs du denarus, davė smuklininkui ir tarė: 'Globok jį, o jeigu išleisi ką daugiau, sugrįžęs aš tau atsilyginsiu'."
+  },
+  {
+    "i": 29708,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 36,
+    "t": "Kas iš šitų trijų tau atrodo buvęs artimas pakliuvusiajam į plėšikų rankas?"
+  },
+  {
+    "i": 29709,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 37,
+    "t": "Jis atsakė: \"Tas, kuris jam gailestingumą parodė\". Jėzus jam tarė: \"Eik ir tu taip daryk!"
+  },
+  {
+    "i": 29710,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 38,
+    "t": "Jiems keliaujant, jis užsuko į vieną kaimą. Ten jį priėmė į namus moteris, vardu Morta."
+  },
+  {
+    "i": 29711,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 39,
+    "t": "Ji turėjo seserį, vardu Marija, kuri atsisėdusi prie Viešpaties kojų, klausėsi jo žodžių."
+  },
+  {
+    "i": 29712,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 40,
+    "t": "Morta rūpinosi visokiais patarnavimais. Ji priėjusi pasiskundė: \"Viešpatie, tau nerūpi, kad sesuo paliko mane vieną tarnauti? Pasakyk jai, kad man padėtų!"
+  },
+  {
+    "i": 29713,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 41,
+    "t": "Viešpats jai atsakė: \"Morta, Morta, tu rūpiniesi ir nerimauji dėl daugelio dalykų,"
+  },
+  {
+    "i": 29714,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 42,
+    "t": "o tereikia vieno. Marija išsirinko geriausią dalį, kuri iš jos nebus atimta\"."
+  },
+  {
+    "i": 29715,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 1,
+    "t": "Ir įvyko, kad kartą jis meldėsi vienoje vietoje. Pasibaigus maldai, vienas iš jo mokinių paprašė: \"Viešpatie, išmokyk mus melstis, kaip ir Jonas išmokė savuosius mokinius."
+  },
+  {
+    "i": 29716,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 2,
+    "t": "Jis atsakė jiems: \"Kai melsitės, sakykite: Tėve, teesie šventas tavo vardas, teateinie tavo karalystė!"
+  },
+  {
+    "i": 29717,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 3,
+    "t": "Duok mums kasdienės duonos,"
+  },
+  {
+    "i": 29718,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 4,
+    "t": "ir atleisk mums mūsų nuodėmes, nes ir mes atleidžiame kiekvienam savo skolininkui. Ir nevesk mūsų į pagundą!"
+  },
+  {
+    "i": 29719,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 5,
+    "t": "Jis dar tarė: \"Kas iš jūsų turės draugą ir nuėjęs pas jį vidurnaktį, sakys: 'Bičiuli, paskolink man tris kepalus duonos,"
+  },
+  {
+    "i": 29720,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 6,
+    "t": "nes vienas draugas atkeliavo pas mane iš kelionės, ir aš neturiu ką jam pavaišinti',"
+  },
+  {
+    "i": 29721,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 7,
+    "t": "o anas iš vidaus atsakys: 'Nekvaršink man galvos! Durys jau užrakintos, ir aš su vaikais sugulęs. Negaliu keltis ir tau duoti',"
+  },
+  {
+    "i": 29722,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 8,
+    "t": "sakau jums, jeigu nesikels ir neduos jam dėl draugystės, tai dėl jo įžūlumo atsikels ir duos, kiek tik jam reikia."
+  },
+  {
+    "i": 29723,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 9,
+    "t": "\"Tad aš jums sakau: prašykite, ir jums bus duota, ieškokite, ir rasite, belskite, ir jums bus atidaryta."
+  },
+  {
+    "i": 29724,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 10,
+    "t": "Kiekvienas, kuris prašo, gauna, kas ieško, randa, ir kas beldžia, tam atidaroma."
+  },
+  {
+    "i": 29725,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 11,
+    "t": "Argi atsiras tėvas, kuris savo vaikui, prašančiam žuvies, atiduotų gyvatę?"
+  },
+  {
+    "i": 29726,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 12,
+    "t": "Arba, jeigu jis prašytų kiaušinio, atiduotų jam skorpioną?"
+  },
+  {
+    "i": 29727,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 13,
+    "t": "Jei tad jūs, būdami pikti, mokate savo vaikams duoti gerų daiktų, juo labiau jūsų Tėvas iš dangaus duos Šventąją Dvasią tiems, kurie jį prašo!"
+  },
+  {
+    "i": 29728,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 14,
+    "t": "Jis išvarė demoną, kuris buvo nebylus. Kai demonas išėjo, nebylys prakalbėjo, ir žmonių minios stebėjosi."
+  },
+  {
+    "i": 29729,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 15,
+    "t": "Bet kai kurie iš jų sakė: \"Jis išvaro demonus Belzebulo, demonų kunigaikščio, galia\"."
+  },
+  {
+    "i": 29730,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 16,
+    "t": "Kiti, norėdami jį išbandyti, reikalavo ženklo iš dangaus."
+  },
+  {
+    "i": 29731,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 17,
+    "t": "Bet jis, žinodamas jų mintis, tarė: \"Kiekviena karalystė, suskilusi į priešingas puses, bus nuniokota, ir namas ant namo grius."
+  },
+  {
+    "i": 29732,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 18,
+    "t": "Jei tad ir šėtonas suskilęs į priešingas puses, kaip išsilaikys jo karalystė? Jūs sakote, kad aš išvarau demonus Belzebulo galia."
+  },
+  {
+    "i": 29733,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 19,
+    "t": "Jei aš išvarau demonus Belzebulo galia, tai kieno galia juos išvaro jūsų sūnūs? Todėl jie bus jūsų teisėjai."
+  },
+  {
+    "i": 29734,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 20,
+    "t": "Bet jei aš išvarau demonus Dievo pirštu, tai iš tikrųjų pas jus atėjo Dievo karalystė."
+  },
+  {
+    "i": 29735,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 21,
+    "t": "Kai stiprus ginkluotas žmogus saugo savo namus, jo turtas yra saugus."
+  },
+  {
+    "i": 29736,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 22,
+    "t": "Bet jei užpuola už jį stipresnis ir jį nugalėjęs, atima visus ginklus, kuriais jis pasitikėjo, ir išdalija grobį."
+  },
+  {
+    "i": 29737,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 23,
+    "t": "\"Kas ne su manimi, tas prieš mane, ir kas nerenka su manimi, tas išbarsto."
+  },
+  {
+    "i": 29738,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 24,
+    "t": "\"Kai netyroji dvasia išeina iš žmogaus, ji klaidžioja po sausas vietas, ieškodama atilsio. Neradusi sako: 'Sugrįšiu į savo namus, iš kur išėjau'."
+  },
+  {
+    "i": 29739,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 25,
+    "t": "Sugrįžusi randa juos iššluotus ir išpuoštus."
+  },
+  {
+    "i": 29740,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 26,
+    "t": "Tuomet ji nueina, pasiima kitas septynias dvasias, dar piktesnes už save, ir įėjusios apsigyvena ten. Ir tam žmogui pasidaro blogiau negu pirma\"."
+  },
+  {
+    "i": 29741,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 27,
+    "t": "Jam taip kalbant, viena moteris iš minios pakėlė balsą ir tarė: \"Palaimintas įsčiose tave nešiojęs ir žindęs krūtys!"
+  },
+  {
+    "i": 29742,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 28,
+    "t": "Bet jis atsakė: \"Dar labiau palaiminti tie, kurie klauso Dievo žodžio ir jo laikosi!"
+  },
+  {
+    "i": 29743,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 29,
+    "t": "Susirinkus milžiniškai miniai, jis pradėjo kalbėti: \"Ši karta yra pikta karta. Ji reikalauja ženklo, bet nebus jai duotas kitas ženklas, kaip tik Jonos ženklas."
+  },
+  {
+    "i": 29744,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 30,
+    "t": "Kaip Jona buvo ženklas nineviečiams, taip Žmogaus Sūnus bus ženklas šiai kartai."
+  },
+  {
+    "i": 29745,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 31,
+    "t": "Pietų karalienė teismo dieną prisikels kartu su šios kartos vyrais ir ją pasmerks, nes ji atkeliavo iš tolimiausių žemės pakraščių pasiklausyti Saliamono išminties. O čia yra daugiau negu Saliamonas!"
+  },
+  {
+    "i": 29746,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 32,
+    "t": "Ninevės vyrai teismo dieną prisikels kartu su šia karta ir ją pasmerks, nes jie atgailavo išgirdę Jonos pamokslą. O čia yra daugiau negu Jona!"
+  },
+  {
+    "i": 29747,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 33,
+    "t": "\"Niekas neuždega žiburio ir nestato jo slaptoje vietoje ar po indu, bet ant žibintuvo, kad įeinantys matytų šviesą."
+  },
+  {
+    "i": 29748,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 34,
+    "t": "Tavo kūno žiburys yra akis. Jei tavo akis sveika, visas tavo kūnas šviesus, bet jei akis serga, ir tavo kūnas tamsus."
+  },
+  {
+    "i": 29749,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 35,
+    "t": "Žiūrėk, kad šviesa, kuri tavyje, nebūtų tamsa."
+  },
+  {
+    "i": 29750,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 36,
+    "t": "Jei visas tavo kūnas šviesus ir neturi jokios tamsios dalies, jis bus visiškai šviesus, tarsi žiburys apšviestų tave savo spindesiu\"."
+  },
+  {
+    "i": 29751,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 37,
+    "t": "Jam kalbant, vienas fariziejus pakvietė jį pietų į savo namus. Jis nuėjęs sėdo prie stalo."
+  },
+  {
+    "i": 29752,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 38,
+    "t": "Tai pamatęs, fariziejus nustebo, kad jis prieš pietus nenusiplovė rankų."
+  },
+  {
+    "i": 29753,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 39,
+    "t": "Tada Viešpats jam tarė: \"Štai jūs, fariziejai, valote taurės ir dubens išorę, o jūsų vidus pilnas plėšikavimo ir nedorumo!"
+  },
+  {
+    "i": 29754,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 40,
+    "t": "Neišmanėliai! Argi tas, kuris padarė išorę, nepadarė ir vidaus?"
+  },
+  {
+    "i": 29755,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 41,
+    "t": "Verčiau duokite iš to, kas viduje, išmaldą, ir tuomet viskas jums bus švaru."
+  },
+  {
+    "i": 29756,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 42,
+    "t": "Bet vargas jums, fariziejai! Jūs duodate dešimtinę nuo mėtų, rūtų ir visokių daržovių, o apleidžiate teisingumą ir Dievo meilę. Reikėjo tai daryti ir ano neapleisti!"
+  },
+  {
+    "i": 29757,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 43,
+    "t": "Vargas jums, fariziejai! Jūs mėgstate aukščiausias vietas sinagogose ir sveikinimus turgavietėse."
+  },
+  {
+    "i": 29758,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 44,
+    "t": "Vargas jums! Jūs esate kaip nepastebimi kapai, kuriais žmonės vaikščioja to nežinodami!"
+  },
+  {
+    "i": 29759,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 45,
+    "t": "Atsiliepdamas vienas Įstatymo mokytojas jam atsakė: \"Mokytojau, taip kalbėdamas, tu įžeidi ir mus!"
+  },
+  {
+    "i": 29760,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 46,
+    "t": "Jis atsakė: \"Vargas ir jums, Įstatymo mokytojai! Jūs kraunate žmonėms nepakeliamas naštas, o patys nė pirštu prie jų neprisiliečiate."
+  },
+  {
+    "i": 29761,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 47,
+    "t": "\"Vargas jums! Jūs statote paminklus pranašams, kuriuos nužudė jūsų tėvai."
+  },
+  {
+    "i": 29762,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 48,
+    "t": "Taip jūs liudijate ir pritariate savo tėvų darbams. Jie žudė, o jūs statote!"
+  },
+  {
+    "i": 29763,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 49,
+    "t": "Todėl Dievo Išmintis pasakė: 'Aš siųsiu jiems pranašų ir apaštalų, ir jie vienus žudys, kitus persekios',"
+  },
+  {
+    "i": 29764,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 50,
+    "t": "kad šiai kartai būtų pareikalauta atsakyti už visų pranašų kraują, išlietą nuo pasaulio sukūrimo,"
+  },
+  {
+    "i": 29765,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 51,
+    "t": "nuo Abelio kraujo iki Zacharijo kraujo, kuris buvo nužudytas tarp aukuro ir šventyklos. Iš tiesų sakau jums, šiai kartai iš jo bus pareikalauta."
+  },
+  {
+    "i": 29766,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 52,
+    "t": "Vargas jums, Įstatymo mokytojai! Jūs atėmėte pažinimo raktą, patys neįėjote ir trukdėte įeiti kitiems!"
+  },
+  {
+    "i": 29767,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 53,
+    "t": "Jam iš ten išėjus, Rašto aiškintojai ir fariziejai ėmė labai piktintis ir klausinėti jo apie daugelį dalykų,"
+  },
+  {
+    "i": 29768,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 54,
+    "t": "sąmoningai tykodami išgauti kokį nors jo žodį."
+  },
+  {
+    "i": 29769,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 1,
+    "t": "Tuomet susirinko milžiniška minia, tiek kad vieni kitus trypė. Jėzus pirmiausia prabilo į savo mokinius: \"Saugokitės fariziejų raugo, tai yra veidmainystės!"
+  },
+  {
+    "i": 29770,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 2,
+    "t": "Nėra nieko uždengta, kas nebus atidengta, ir nieko paslėpta, kas nebus sužinota."
+  },
+  {
+    "i": 29771,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 3,
+    "t": "Todėl visa, ką jūs esate kalbėję tamsoje, bus išgirsta šviesoje, ir ką esate kalbėję į ausį uždaruose kambariuose, bus paskelbta nuo stogų."
+  },
+  {
+    "i": 29772,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 4,
+    "t": "\"Sakau jums, savo bičiuliams: nebijokite tų, kurie žudo kūną ir paskui nebegali nieko daugiau padaryti."
+  },
+  {
+    "i": 29773,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 5,
+    "t": "Aš jums parodysiu, ko turite bijoti: bijokite to, kuris nužudęs turi galią įstumti į pragarą. Taip, sakau jums, to bijokite!"
+  },
+  {
+    "i": 29774,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 6,
+    "t": "Argi ne penki žvirbliai parduodami už du skatikus? Ir nė vienas iš jų nėra Dievo užmirštas!"
+  },
+  {
+    "i": 29775,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 7,
+    "t": "O jūsų net visi galvos plaukai suskaičiuoti. Nebijokite! Jūs vertesni už daugybę žvirblių."
+  },
+  {
+    "i": 29776,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 8,
+    "t": "\"Sakau jums: kas išpažins mane prieš žmones, tą ir Žmogaus Sūnus išpažins prieš Dievo angelus,"
+  },
+  {
+    "i": 29777,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 9,
+    "t": "o kas manęs išsigins prieš žmones, to bus išsiginta prieš Dievo angelus."
+  },
+  {
+    "i": 29778,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 10,
+    "t": "\"Kiekvienam, kuris taria žodį prieš Žmogaus Sūnų, bus atleista, bet kas piktžodžiauja Šventajai Dvasiai, tam nebus atleista."
+  },
+  {
+    "i": 29779,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 11,
+    "t": "\"Kai ves jus į sinagogas pas valdžias ir pareigūnus, nesirūpinkite, kaip ginsitės ar ką atsakysite,"
+  },
+  {
+    "i": 29780,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 12,
+    "t": "nes Šventoji Dvasia tą pačią valandą išmokys jus, ką turite sakyti."
+  },
+  {
+    "i": 29781,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 13,
+    "t": "Ir kažkas iš minios Jam tarė: \"Mokytojau, įsakyk mano broliui pasidalyti su manimi palikimu."
+  },
+  {
+    "i": 29782,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 14,
+    "t": "Jis jam atsakė: \"Žmogau, kas mane paskyrė jūsų teisėju ar dalytoju?"
+  },
+  {
+    "i": 29783,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 15,
+    "t": "Ir Jis tarė jiems: \"Sergėkitės ir saugokitės bet kokio godumo, nes net ir turint apsčiai, žmogaus gyvybė nepriklauso nuo jo turto."
+  },
+  {
+    "i": 29784,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 16,
+    "t": "Ir Jis papasakojo jiems palyginimą: \"Vieno turtingo žmogaus laukai davė gausų derlių."
+  },
+  {
+    "i": 29785,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 17,
+    "t": "Ir jis svarstė savo širdyje: Ką darysiu? Nes neturiu kur sukrauti savo derliaus."
+  },
+  {
+    "i": 29786,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 18,
+    "t": "Ir jis tarė sau: Štai ką padarysiu: nugriausiu savo kluonus, statysiu didesnius ir sukrausiu ten visus savo javus ir turtą,"
+  },
+  {
+    "i": 29787,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 19,
+    "t": "ir sakysiu savo sielai: Siela, tu turi daug gėrybių sukauptų daugelį metų; ilsėkis, valgyk, gerk, linksminkis."
+  },
+  {
+    "i": 29788,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 20,
+    "t": "Bet Dievas jam tarė: Kvaily, šią naktį bus pareikalauta tavo sielos. O kas atiteks tai, ką sukaupei?"
+  },
+  {
+    "i": 29789,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 21,
+    "t": "Taip yra tam, kuris krauna turtus sau, o ne turtėja Dieve."
+  },
+  {
+    "i": 29790,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 22,
+    "t": "Ir Jis tarė savo mokiniams: \"Todėl sakau jums: nesirūpinkite savo gyvybe, ką valgysite, nei savo kūnu, ką apsivilksite."
+  },
+  {
+    "i": 29791,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 23,
+    "t": "Gyvybė juk yra daugiau negu maistas, o kūnas daugiau negu drabužiai."
+  },
+  {
+    "i": 29792,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 24,
+    "t": "Pažvelkite į varnus: jie nesėja, nepjauna, neturi nei sandėlio, nei kluono, ir Dievas juos maitina. Kiek gi jūs vertesni už paukščius!"
+  },
+  {
+    "i": 29793,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 25,
+    "t": "Kas iš jūsų, rūpindamasis, gali pridėti bent vieną uolektį prie savo amžiaus?"
+  },
+  {
+    "i": 29794,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 26,
+    "t": "Jei negalite padaryti nė mažiausio dalyko, kam rūpinatės kitais?"
+  },
+  {
+    "i": 29795,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 27,
+    "t": "Pažvelkite į lelijas, kaip jos auga: nei verpia, nei audžia. Bet sakau jums, net Saliamonas visoje savo šlovėje nebuvo taip apsirengęs kaip viena iš jų."
+  },
+  {
+    "i": 29796,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 28,
+    "t": "Jei Dievas taip aprengia žolę laukuose, kuri šiandien žaliuoja, o rytoj bus įmesta į krosnį, kiek labiau pasirūpins jumis, mažatikiai!"
+  },
+  {
+    "i": 29797,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 29,
+    "t": "Ir jūs neieškokite, ką valgysite ar ką gersite; nepersiimkite nerimu."
+  },
+  {
+    "i": 29798,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 30,
+    "t": "Visų šių dalykų ieško pasaulio pagonys, bet jūsų Tėvas žino, kad jums jų reikia."
+  },
+  {
+    "i": 29799,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 31,
+    "t": "Verčiau ieškokite Jo Karalystės, ir visa tai bus jums pridėta."
+  }
+]

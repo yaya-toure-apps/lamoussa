@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16800,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 15,
+    "t": "A bolondnak útja helyesnek tetszik szeme előtt, de a bölcs tanácsot hallgat."
+  },
+  {
+    "i": 16801,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 16,
+    "t": "A bolond azonnal kimutatja bosszúságát, de az okos ember elrejti a gyalázatot."
+  },
+  {
+    "i": 16802,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 17,
+    "t": "Aki igazságot szól, igazságot hirdet, a hamis tanú pedig csak álnokságot."
+  },
+  {
+    "i": 16803,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 18,
+    "t": "Van, aki meggondolatlanul szól, mint tőrrel szúrna, de a bölcsek nyelve gyógyít."
+  },
+  {
+    "i": 16804,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 19,
+    "t": "Az igaz ajak örökké megáll, de a hazug nyelv csak egy pillanatig."
+  },
+  {
+    "i": 16805,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 20,
+    "t": "A gonoszt tervező szívben csalárdság lakozik, a békés tanácsadókban öröm."
+  },
+  {
+    "i": 16806,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 21,
+    "t": "Az igazat semmi méltatlanság nem éri, de a gonoszok telve vannak szerencsétlenséggel."
+  },
+  {
+    "i": 16807,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 22,
+    "t": "Utálat az Úr előtt a hazug ajak, de szereti azokat, akik az igazságot cselekszik."
+  },
+  {
+    "i": 16808,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 23,
+    "t": "A bölcs ember elrejti tudását, a bolondok szíve pedig hirdeti bolondságát."
+  },
+  {
+    "i": 16809,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 24,
+    "t": "A szorgalmas kéz uralkodik, a lusta kéz pedig robotol."
+  },
+  {
+    "i": 16810,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 25,
+    "t": "A szívben lakozó fájdalom lehangolja az embert, de a jó szó felvidítja."
+  },
+  {
+    "i": 16811,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 26,
+    "t": "Az igaz megmutatja az utat társának, a gonoszok útja pedig eltévelyíti őket."
+  },
+  {
+    "i": 16812,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 27,
+    "t": "A restség nem süti meg a vadat, de a szorgalom az ember becses kincse."
+  },
+  {
+    "i": 16813,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 28,
+    "t": "Az igazság ösvényén élet van, a gonoszok útja pedig halálba vezet."
+  },
+  {
+    "i": 16814,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 1,
+    "t": "A bölcs fiú hallgat apja intésére, a gúnyolódó pedig nem hallja a dorgálást."
+  },
+  {
+    "i": 16815,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 2,
+    "t": "Szájának gyümölcséből jóval táplálkozik az ember, de az álnokok lelke erőszakkal lakik jól."
+  },
+  {
+    "i": 16816,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 3,
+    "t": "Aki vigyáz szájára, megőrzi életét, aki nagyra nyitja ajkait, elvész."
+  },
+  {
+    "i": 16817,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 4,
+    "t": "A lusta vár, de semmi sincs az éhségére, a szorgalmasok éhsége pedig eltelik."
+  },
+  {
+    "i": 16818,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 5,
+    "t": "Az igaz gyűlöli a hazug szót, de a gonosz gyalázkodik és rágalmaz."
+  },
+  {
+    "i": 16819,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 6,
+    "t": "Az igazság megőrzi azt, akinek útja becsületes, a bűn pedig a gonosz romlását okozza."
+  },
+  {
+    "i": 16820,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 7,
+    "t": "Van, aki gazdagnak tetteti magát, pedig semmije sincs, van, aki szegénynek tetteti magát, pedig nagy vagyona van."
+  },
+  {
+    "i": 16821,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 8,
+    "t": "Az ember életének váltságdíja a gazdagsága, de a szegény nem hallja a dorgálást."
+  },
+  {
+    "i": 16822,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 9,
+    "t": "Az igazak világossága örömteli, a gonoszok lámpása pedig kialszik."
+  },
+  {
+    "i": 16823,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 10,
+    "t": "A vakmerőség csak viszályt szül, de aki elfogadja a tanácsokat, abban bölcsesség van."
+  },
+  {
+    "i": 16824,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 11,
+    "t": "A hirtelen szerzett vagyon csökken, aki pedig apránként gyűjt, meggazdagodik."
+  },
+  {
+    "i": 16825,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 12,
+    "t": "A halogatott remény beteggé teszi a szívet, de az elért vágy az élet fája."
+  },
+  {
+    "i": 16826,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 13,
+    "t": "Aki megveti a szót, elveszik, aki pedig tiszteli a parancsolatot, az megmenekül."
+  },
+  {
+    "i": 16827,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 14,
+    "t": "A bölcs tanítása az élet forrása, hogy elkerüljük a halál csapdáit."
+  },
+  {
+    "i": 16828,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 15,
+    "t": "A nagy józanság kegyességet szerez, az álnokok útja pedig kemény."
+  },
+  {
+    "i": 16829,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 16,
+    "t": "Minden okos ember megfontoltan cselekszik, a bolond pedig fitogtatja bolondságát."
+  },
+  {
+    "i": 16830,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 17,
+    "t": "A gonosz követ a szerencsétlenségbe esik, a hű követ pedig gyógyulást hoz."
+  },
+  {
+    "i": 16831,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 18,
+    "t": "Nyomorúság és gyalázat éri azt, aki elhagyja az intést, de tisztelet illeti azt, aki megtartja a dorgálást."
+  },
+  {
+    "i": 16832,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 19,
+    "t": "A teljesült vágy édesség a léleknek. Utálat a bolondoknak a gonosztól való elfordulás."
+  },
+  {
+    "i": 16833,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 20,
+    "t": "Aki a bölcsekkel jár, bölcs lesz, aki pedig a bolondokkal barátkozik, az megromlik."
+  },
+  {
+    "i": 16834,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 21,
+    "t": "A bűnöst üldözi a szerencsétlenség, de az igazakat a boldogság jutalmazza."
+  },
+  {
+    "i": 16835,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 22,
+    "t": "Unokáinak hagy örökséget a jó ember, az igaznak pedig a bűnösök vagyona van félretéve."
+  },
+  {
+    "i": 16836,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 23,
+    "t": "Bőven van élelem a szegények földjén, de van, aki igazságtalanság miatt elpusztul."
+  },
+  {
+    "i": 16837,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 24,
+    "t": "Aki kíméli a vesszőt, gyűlöli a fiát, aki pedig szereti, megfenyíti."
+  },
+  {
+    "i": 16838,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 25,
+    "t": "Az igaz eszik és jóllakik, a gonoszok hasa pedig éhezik."
+  },
+  {
+    "i": 16839,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 1,
+    "t": "A Bölcsesség építi házát, a Bolondság pedig lerombolja azt kezével."
+  },
+  {
+    "i": 16840,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 2,
+    "t": "Aki egyenesen jár, féli az Urat, aki pedig letér útjairól, megveti őt."
+  },
+  {
+    "i": 16841,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 3,
+    "t": "A bolond szájában gőgös sarj van, a bölcsek ajkai pedig megőrzik őket."
+  },
+  {
+    "i": 16842,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 4,
+    "t": "Nincs ökör, üres a jászol, erős tulok, bőséges jövedelem."
+  },
+  {
+    "i": 16843,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 5,
+    "t": "Az igaz tanú nem hazudik, de a hamis tanú hazugságot lehel."
+  },
+  {
+    "i": 16844,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 6,
+    "t": "A gúnyolódó keresi a bölcsességet, de hiába, az okos ember számára a tudás könnyű."
+  },
+  {
+    "i": 16845,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 7,
+    "t": "Kerüld a bolondot, mert nem ismernéd a bölcs ajkakat."
+  },
+  {
+    "i": 16846,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 8,
+    "t": "Az okos ember számára a bölcsesség az, hogy vigyázzon viselkedésére, de a bolondok bolondsága csak csalárdság."
+  },
+  {
+    "i": 16847,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 9,
+    "t": "A bolondok kigúnyolják a bűnért való áldozatot, de az igaz emberek között kegy van."
+  },
+  {
+    "i": 16848,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 10,
+    "t": "A szív ismeri saját bánatát, és idegen nem osztozik örömében."
+  },
+  {
+    "i": 16849,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 11,
+    "t": "A gonoszok háza elpusztul, az igaz emberek sátra pedig virágzik."
+  },
+  {
+    "i": 16850,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 12,
+    "t": "Van út, amely helyesnek látszik valakinek, de végül a halál útja az."
+  },
+  {
+    "i": 16851,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 13,
+    "t": "Még a nevetésben is fájdalom van a szívben, és az öröm szomorúságba torkollik."
+  },
+  {
+    "i": 16852,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 14,
+    "t": "A tévelygő szív betelik cselekedeteivel, a jó ember pedig tetteivel."
+  },
+  {
+    "i": 16853,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 15,
+    "t": "Az együgyű elhisz mindent, amit mondanak, az okos ember pedig vigyáz lépéseire."
+  },
+  {
+    "i": 16854,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 16,
+    "t": "A bölcs féli a gonoszt és elfordul tőle, a bolond pedig vakmerő és magabiztos."
+  },
+  {
+    "i": 16855,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 17,
+    "t": "A hirtelen haragú ember bolondságokat cselekszik, a rossz szándékú ember pedig gyűlöletes."
+  },
+  {
+    "i": 16856,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 18,
+    "t": "A bolondok része a bolondság, a bölcsek pedig tudást szereznek maguknak koronául."
+  },
+  {
+    "i": 16857,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 19,
+    "t": "A jók előtt a gonoszok leborulnak, és az igazak kapuinál a gonoszok."
+  },
+  {
+    "i": 16858,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 20,
+    "t": "Még a szomszédja előtt is gyűlöletes a szegény, de sokan szeretik a gazdagot."
+  },
+  {
+    "i": 16859,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 21,
+    "t": "Vétkezik, aki megveti felebarátját, boldog, aki könyörül a szegényeken."
+  },
+  {
+    "i": 16860,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 22,
+    "t": "Nem tévelyegnek-é, akik gonoszt terveznek? Irgalom és hűség illeti azt, aki a jót cselekszi."
+  },
+  {
+    "i": 16861,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 23,
+    "t": "Minden munkának haszna van, a fecsegés pedig csak szűkölködést szül."
+  },
+  {
+    "i": 16862,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 24,
+    "t": "A bölcsek koronája a gazdagságuk, a bolondok bolondsága pedig bolondság."
+  },
+  {
+    "i": 16863,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 25,
+    "t": "Az igaz tanú életeket ment meg, aki pedig hazugságot szól, csaló."
+  },
+  {
+    "i": 16864,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 26,
+    "t": "Az Úr félelmében hatalmas biztonság van, gyermekeinek pedig menedék."
+  },
+  {
+    "i": 16865,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 27,
+    "t": "Az Úr félelme az élet forrása, hogy elkerüljük a halál csapdáit."
+  },
+  {
+    "i": 16866,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 28,
+    "t": "Nagy nép a király dicsősége, a népesség csökkenése pedig a fejedelem romlása."
+  },
+  {
+    "i": 16867,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 29,
+    "t": "Aki lassan haragszik, tele van értelemmel, aki pedig hirtelen haragú, bolondságot magasztal."
+  },
+  {
+    "i": 16868,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 30,
+    "t": "A test élete a békés szív, de az irigység a csontok rothadása."
+  },
+  {
+    "i": 16869,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 31,
+    "t": "Elnyomni a gyengét, meggyalázni Teremtőjét, de tisztelni őt, jónak lenni a szerencsétlenekhez."
+  },
+  {
+    "i": 16870,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 32,
+    "t": "Saját gonoszsága által terül el a gonosz, az igaz pedig fedezéket talál feddhetetlenségében."
+  },
+  {
+    "i": 16871,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 33,
+    "t": "Az okos szívben lakozik a bölcsesség, a bolondok szívében pedig nem ismerik fel azt."
+  },
+  {
+    "i": 16872,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 34,
+    "t": "Az igazság felmagasztalja a nemzetet, a bűn pedig a népek szégyene."
+  },
+  {
+    "i": 16873,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 35,
+    "t": "A király kegye a bölcs szolgához van, haragja pedig ahhoz, aki szégyent hoz."
+  },
+  {
+    "i": 16874,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 1,
+    "t": "A kedves válasz elhárítja a haragot, a bántó szó pedig felgerjeszti a dühöt."
+  },
+  {
+    "i": 16875,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 2,
+    "t": "A bölcsek nyelve kellemessé teszi a tudást, a bolondok szája pedig bolondságot öklendezik."
+  },
+  {
+    "i": 16876,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 3,
+    "t": "Mindenütt ott vannak az Úr szemei, figyelik a gonoszokat és a jókat."
+  },
+  {
+    "i": 16877,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 4,
+    "t": "A szelíd nyelv az élet fája, a romlott nyelv pedig megtöri a szívet."
+  },
+  {
+    "i": 16878,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 5,
+    "t": "A bolond megveti apja intését, aki pedig megtartja a dorgálást, okos."
+  },
+  {
+    "i": 16879,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 6,
+    "t": "Bőven van jószág az igaz ember házában, de a gonosz jövedelme aggodalom forrása."
+  },
+  {
+    "i": 16880,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 7,
+    "t": "A bölcsek ajkai árasztják az ismeretet, de a bolondok szíve nem."
+  },
+  {
+    "i": 16881,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 8,
+    "t": "A gonoszok áldozata utálatos az Úr előtt, de az igazak imádsága gyönyörűség néki."
+  },
+  {
+    "i": 16882,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 9,
+    "t": "Utálatos az Úr előtt a gonosz élet, de szereti, aki igazságra törekszik."
+  },
+  {
+    "i": 16883,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 10,
+    "t": "Szigorú büntetés vár arra, aki elhagyja az ösvényt; aki gyűlöli a feddést, meghal."
+  },
+  {
+    "i": 16884,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 11,
+    "t": "A Seol és a Pusztulás nyilvánvaló az Úr előtt, mennyivel inkább az emberek fiainak szíve!"
+  },
+  {
+    "i": 16885,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 12,
+    "t": "A csúfoló nem szereti, ha megfeddik, a bölcsekhez nem megy szívesen."
+  },
+  {
+    "i": 16886,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 13,
+    "t": "A vidám szív derűs arcot szerez, a bánatos szív pedig levertté teszi a lelket."
+  },
+  {
+    "i": 16887,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 14,
+    "t": "Az okos szív ismeretet keres, a bolondok szája pedig bolondsággal táplálkozik."
+  },
+  {
+    "i": 16888,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 15,
+    "t": "A szegénynek minden napja rossz, a vidám szívnek pedig szüntelen lakoma."
+  },
+  {
+    "i": 16889,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 16,
+    "t": "Jobb a kevés az Úr félelmével, mint a nagy kincs nyugtalansággal."
+  },
+  {
+    "i": 16890,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 17,
+    "t": "Jobb egy tál zöldség szeretettel, mint a hizlalt ökör gyűlölettel."
+  },
+  {
+    "i": 16891,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 18,
+    "t": "A hirtelen haragú ember viszályt szít, a haragra lassú pedig lecsendesíti a perpatvart."
+  },
+  {
+    "i": 16892,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 19,
+    "t": "A lusta útja tövisbokorral van bekerítve, az igazak ösvénye pedig kövezett út."
+  },
+  {
+    "i": 16893,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 20,
+    "t": "A bölcs fiú örömet szerez atyjának, a bolond ember pedig megveti anyját."
+  },
+  {
+    "i": 16894,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 21,
+    "t": "A bolondság öröm a tapasztalatlan embernek, az okos ember pedig egyenesen jár az úton."
+  },
+  {
+    "i": 16895,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 22,
+    "t": "Tanács hiányában meghiúsulnak a tervek, de a sok tanácsadó által célhoz érnek."
+  },
+  {
+    "i": 16896,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 23,
+    "t": "Öröm az embernek a szájának felelete, és milyen jó a helyénvaló válasz!"
+  },
+  {
+    "i": 16897,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 24,
+    "t": "Az okos embernek az élet ösvénye felfelé vezet, hogy elkerülje a Seolt odalent."
+  },
+  {
+    "i": 16898,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 25,
+    "t": "Az Úr lerontja a kevélyek házát, de megerősíti az özvegy határkövét."
+  },
+  {
+    "i": 16899,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 26,
+    "t": "Utálatos az Úr előtt a gonosz gondolat, de a kedves szavak tiszták."
+  }
+]

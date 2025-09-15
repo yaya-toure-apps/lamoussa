@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26600,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 6,
+    "t": "Kas nekenčia papeikimo, tas eina nuodėmingojo keliu, o kas bijo Viešpaties, tas atsiverčia savo širdyje."
+  },
+  {
+    "i": 26601,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 7,
+    "t": "Gražbylius pažįsta visi, bet apmąstantis žmogus pažįsta jo silpnybes."
+  },
+  {
+    "i": 26602,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 8,
+    "t": "Statyti namą už svetimus pinigus - tai kaupti akmenis savo kapui."
+  },
+  {
+    "i": 26603,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 9,
+    "t": "Nusidėjėlių susirinkimas yra kuokštas pakulų, kuris baigsis liepsnoje ir ugnyje."
+  },
+  {
+    "i": 26604,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 10,
+    "t": "Nusidėjėlių kelias gerai išklotas, bet veda į Šeolo bedugnę."
+  },
+  {
+    "i": 26605,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 11,
+    "t": "Kas saugo įstatymą, tas valdo savo polinkį, o Viešpaties baimės tobulumas yra išmintis."
+  },
+  {
+    "i": 26606,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 12,
+    "t": "Vienas negali nieko išmokti dėl natūralių dovanų stokos, bet yra dovanų, kurios sukelia kartėlį."
+  },
+  {
+    "i": 26607,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 13,
+    "t": "Išminčiaus mokslas gausus kaip tvanas, o jo patarimas - kaip gyvas šaltinis."
+  },
+  {
+    "i": 26608,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 14,
+    "t": "Kvailio širdis - kaip sudužęs indas, kuris nesulaiko jokio pažinimo."
+  },
+  {
+    "i": 26609,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 15,
+    "t": "Jei išmintingas žmogus išgirsta išmintingą žodį, jis jį įvertina ir prideda savąjį; jei palaidūnas jį išgirsta, jam jis nepatinka, jis jį atmeta už savęs."
+  },
+  {
+    "i": 26610,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 16,
+    "t": "Kvailio kalba slegianti kaip našta kelionėje, bet ant išminčiaus lūpų randama malonė."
+  },
+  {
+    "i": 26611,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 17,
+    "t": "Protingo žmogaus žodis ieškomas susirinkime, ką jis sako, kiekvienas apmąsto savo širdyje."
+  },
+  {
+    "i": 26612,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 18,
+    "t": "Namas griuvėsiuose - tokia yra kvailio išmintis, o bepročio mokslas - nerišli kalbos."
+  },
+  {
+    "i": 26613,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 19,
+    "t": "Drausmė bepročiui - tai pančiai jo kojoms ir antrankiai jo dešinei rankai."
+  },
+  {
+    "i": 26614,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 20,
+    "t": "Kvailys garsiai klykia juokdamasis, o išmintingo žmogaus juokas retas ir diskretiškas."
+  },
+  {
+    "i": 26615,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 21,
+    "t": "Išmintingam žmogui drausmė yra aukso brangakmenis, apyrankė ant jo dešinės rankos."
+  },
+  {
+    "i": 26616,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 22,
+    "t": "Kvailys skuba įeiti, o patyręs žmogus laikosi kuklaus požiūrio;"
+  },
+  {
+    "i": 26617,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 23,
+    "t": "nuo durų kvailys žiūri į vidų, o gerai išauklėtas žmogus lieka lauke."
+  },
+  {
+    "i": 26618,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 24,
+    "t": "Klausytis prie durų yra blogo auklėjimo dalykas, protingas žmogus jaučia dėl to gėdą."
+  },
+  {
+    "i": 26619,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 25,
+    "t": "Plepus lūpos plepa apie tai, kas jiems nerūpi, o išminčių žodžiai kruopščiai pasveriami."
+  },
+  {
+    "i": 26620,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 26,
+    "t": "Kvailių širdis yra jų burnoje, o išminčių burna yra jų širdis."
+  },
+  {
+    "i": 26621,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 27,
+    "t": "Kai bedievis keikia Šėtoną, jis keikia pats save."
+  },
+  {
+    "i": 26622,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 28,
+    "t": "Šmeižikas kenkia pats sau ir sukelia neapykantą iš savo aplinkos."
+  },
+  {
+    "i": 26623,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 1,
+    "t": "Tingusis panašus į purvu apdrabstytą akmenį, visi jį tyčiojasi už jo gėdą."
+  },
+  {
+    "i": 26624,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 2,
+    "t": "Tingusis panašus į saują šiukšlių, kas jį paliečia, tas purto ranką."
+  },
+  {
+    "i": 26625,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 3,
+    "t": "Tėvui gėda pagimdyti blogai išauklėtą sūnų, o jei tai dukra, ji sukelia žalą."
+  },
+  {
+    "i": 26626,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 4,
+    "t": "Išmintinga dukra susiras vyrą, o nedora dukra yra sielvartas tam, kuris ją pagimdė."
+  },
+  {
+    "i": 26627,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 5,
+    "t": "Įžūli dukra suteršia savo tėvą ir savo vyrą, vienas ir kitas jos išsižada."
+  },
+  {
+    "i": 26628,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 6,
+    "t": "Neproporcingi priekaištai: muzika gedulo dieną; botagai ir pataisymas - štai visais laikais išmintis."
+  },
+  {
+    "i": 26629,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 7,
+    "t": "Vaikai, kurie gyvena sąžiningą gyvenimą, nieko nestokodami, priverčia pamiršti neaiškią savo tėvų kilmę."
+  },
+  {
+    "i": 26630,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 8,
+    "t": "Paniekinantys, blogai išauklėti, išdidumo pilni vaikai suteršia savo šeimos kilnumą."
+  },
+  {
+    "i": 26631,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 9,
+    "t": "Mokyti kvailį - tai klijuoti šukes, tai pažadinti žmogų, apdujusį nuo miego."
+  },
+  {
+    "i": 26632,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 10,
+    "t": "Ginčytis su kvailiu - tai ginčytis su snaudžiančiu žmogumi, galiausiai jis pasakys: \"Apie ką čia?"
+  },
+  {
+    "i": 26633,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 11,
+    "t": "Apverk mirusįjį: jis prarado šviesą, apverk beprotį: jis prarado protą; tyliau apverk mirusįjį, nes jis rado ramybę, o bepročiui gyvenimas yra liūdnesnis už mirtį."
+  },
+  {
+    "i": 26634,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 12,
+    "t": "Dėl mirusiojo gedulas trunka septynias dienas, o dėl bepročio ir bedievio - visas jų gyvenimo dienas."
+  },
+  {
+    "i": 26635,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 13,
+    "t": "Nesakyk bepročiui ilgų kalbų, neik bepročiui į priekį, nes jis, būdamas nejautrus, apipils tave panieka, saugokis jo, kad neturėtum bėdų, kad nesusiteptum nuo jo sąlyčio. Atsitrauk nuo jo, rasi ramybę, jo kliedesiai tavęs nevargins."
+  },
+  {
+    "i": 26636,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 14,
+    "t": "Kas sunkesnis už šviną? Kaip tai vadinama? Beprotis."
+  },
+  {
+    "i": 26637,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 15,
+    "t": "Smėlį, druską, geležies masę lengviau nešti nei beprotį."
+  },
+  {
+    "i": 26638,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 16,
+    "t": "Medinis karkasas, surinktas į statinį, neleidžia išardyti žemės drebėjimui; ryžtingos širdies, gerai apgalvojus, negalima sujaudinti pavojuje."
+  },
+  {
+    "i": 26639,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 17,
+    "t": "Širdis, pagrįsta išmintingu apmąstymu, yra kaip ornamentas, iškaltas ant poliruotos sienos."
+  },
+  {
+    "i": 26640,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 18,
+    "t": "Maži akmenukai sienos viršuje neatlaiko vėjo: kvailio širdis, išgąsdinta savo vaizduotės, negali atlaikyti baimės."
+  },
+  {
+    "i": 26641,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 19,
+    "t": "Mušant į akį, byra ašaros, mušant į širdį, pasirodo jausmai."
+  },
+  {
+    "i": 26642,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 20,
+    "t": "Kas meta akmenį į paukščius, tas juos nubaido, kas priekaištauja savo draugui, tas žudo draugystę."
+  },
+  {
+    "i": 26643,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 21,
+    "t": "Jei išsitraukei kalaviją prieš savo draugą, nenusimink: jis gali sugrįžti;"
+  },
+  {
+    "i": 26644,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 22,
+    "t": "jei atvėrei burną prieš savo draugą, nebijok: susitaikymas įmanomas, išskyrus įžeidimo, paniekos, paslapties išdavystės, klastingo smūgio atvejus, nes tada kiekvienas draugas išeis."
+  },
+  {
+    "i": 26645,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 23,
+    "t": "Įgyk savo artimo pasitikėjimą jo skurde, kad jo klestėjime džiaugtumėtės su juo jo turtu; išbandymų dienomis lik jam ištikimas, kad gautum, jei jam ateis paveldėti, savo dalį paveldo. Nes niekada nereikia niekinti kontūrų ir žavėtis bepročiu turtingu žmogumi."
+  },
+  {
+    "i": 26646,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 24,
+    "t": "Prieš liepsnas matosi žarijos garai ir dūmai; taigi prieš kraują - įžeidimai."
+  },
+  {
+    "i": 26647,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 25,
+    "t": "Nesigėdysiu ginti draugo ir nuo jo nesislėpsiu;"
+  },
+  {
+    "i": 26648,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 26,
+    "t": "ir jei man nutiks jam blogo, visi, kurie tai sužinos, saugosis jo."
+  },
+  {
+    "i": 26649,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 27,
+    "t": "Kas uždės sargą ant mano burnos ir ant mano lūpų įžvalgos antspaudą, kad nepargriūčiau dėl jų fakto, kad mano liežuvis nesukeltų mano pražūties?"
+  },
+  {
+    "i": 26650,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 1,
+    "t": "Viešpatie, mano gyvenimo tėve ir mokytojau, neleisk man suklupti dėl jų fakto."
+  },
+  {
+    "i": 26651,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 2,
+    "t": "Kas pritaikys botagą mano mintims ir mano širdžiai išminties drausmę, kad mano klaidų nebūtų gailima ir kad mano nuodėmės nepabėgtų?"
+  },
+  {
+    "i": 26652,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 3,
+    "t": "Kad mano klaidos nepadaugėtų ir kad mano nuodėmės nepadidėtų, kad nepatekčiau į savo priešų rankas ir kad mano priešas manęs netyčiotų. Jiems toli tavo gailestingumo viltis."
+  },
+  {
+    "i": 26653,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 4,
+    "t": "Viešpatie, mano gyvenimo tėve ir Dieve, nepalik manęs jų užgaidoms, kad mano žvilgsnis nebūtų įžūlus"
+  },
+  {
+    "i": 26654,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 5,
+    "t": "atitolink nuo manęs godulį,"
+  },
+  {
+    "i": 26655,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 6,
+    "t": "kad seksualinis apetitas ir gašlumas neapimtų manęs, neatiduok manęs įžūliam troškimui."
+  },
+  {
+    "i": 26656,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 7,
+    "t": "Klausykite, mano vaikai, nurodymų apie burną, kas ją saugo, tas nebus sumaištytas."
+  },
+  {
+    "i": 26657,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 8,
+    "t": "Nusidėjėlį pagauna jo paties lūpos, jos numeta šmeižiką ir išdidžiuolį."
+  },
+  {
+    "i": 26658,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 9,
+    "t": "Nepratink savo burnos duoti priesaikų, neįprask tarti Šventojo vardą."
+  },
+  {
+    "i": 26659,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 10,
+    "t": "Nes kaip tarnas, kurį visada stebi, neišvengs smūgių, taip ir tas, kuris be reikalo prisiekia ir šaukiasi Vardo, nebus atleistas nuo kaltės."
+  },
+  {
+    "i": 26660,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 11,
+    "t": "Priesaikų dosnus žmogus pilnas bedievystės, ir rykštė neatsitrauks nuo jo namų. Jei jis nusideda, jo kaltė bus ant jo; jei jis pasielgė lengvabūdiškai, jis nusidėjo dvigubai; jei jis davė neteisingą priesaiką, jis nebus išteisintas, nes jo namai bus pilni nelaimių."
+  },
+  {
+    "i": 26661,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 12,
+    "t": "Yra kalbėjimo būdas, kuris primena mirtį, tegul jis nebūna naudojamas Jokūbo pavelde, nes dievobaimingi žmonės visa tai atstumia, jie nesivolioja nuodėmėse."
+  },
+  {
+    "i": 26662,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 13,
+    "t": "Nepratink savo burnos prie nešvarios šiurkštumo, kur randamas nuodėmės žodis."
+  },
+  {
+    "i": 26663,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 14,
+    "t": "Prisimink savo tėvą ir motiną, kai sėdi tarp didžiųjų, kad nepamirštum savęs jų akivaizdoje, kad nesielgtum kaip kvailys ir kad nepradėtum linkėti, kad nebūtum gimęs, ir nekeikti savo gimimo dienos."
+  },
+  {
+    "i": 26664,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 15,
+    "t": "Žmogus, įpratęs prie smerkiamų žodžių, nepasitaisys savo gyvenime."
+  },
+  {
+    "i": 26665,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 16,
+    "t": "Dvi būtybės daugybę nuodėmių, o trečioji traukia pyktį: aistrą, degančią kaip žarija: ji neužges, kol nebus patenkinta; žmogus, geidžiantis savo paties kūno: jis nesiliaus, kol ugnis jo nesunaikins;"
+  },
+  {
+    "i": 26666,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 17,
+    "t": "nepadoriam žmogui visas maistas yra saldus, jis nusiramins tik mirdamas."
+  },
+  {
+    "i": 26667,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 18,
+    "t": "Vyras, neištikimas savo guoliui, kuris sako savo širdyje: \"Kas mane mato? Šešėlis mane supa, sienos mane saugo, niekas manęs nemato, ko bijočiau? Aukščiausiasis neprisimins mano kaltės."
+  },
+  {
+    "i": 26668,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 19,
+    "t": "Jis bijo žmonių akių, jis nežino, kad Viešpaties akys yra dešimt tūkstančių kartų šviesesnės už saulę, kad jos stebi visus žmonių veiksmus ir prasiskverbia į slapčiausius užkampius."
+  },
+  {
+    "i": 26669,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 20,
+    "t": "Prieš jam sukuriant, jam viskas buvo žinoma, jam vis dar žinoma po jų užbaigimo."
+  },
+  {
+    "i": 26670,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 21,
+    "t": "Šiame mieste šis žmogus bus nubaustas, kai jis mažiausiai to tikėsis, jis bus pagautas."
+  },
+  {
+    "i": 26671,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 22,
+    "t": "Tas pats pasakytina ir apie moterį, neištikimą savo vyrui, kuri atneša jam įpėdinį, pradėtą nuo svetimšalio."
+  },
+  {
+    "i": 26672,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 23,
+    "t": "Visų pirma, ji nepakluso Aukščiausiojo įstatymui, antra, ji kalta prieš savo vyrą; trečia, ji susitepė svetimavimu ir pagimdė vaikų nuo svetimšalio."
+  },
+  {
+    "i": 26673,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 24,
+    "t": "Ji bus atvesta prieš susirinkimą ir bus apžiūrėti jos vaikai."
+  },
+  {
+    "i": 26674,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 25,
+    "t": "Jos vaikai neturės šaknų, jos šakos neduos vaisių."
+  },
+  {
+    "i": 26675,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 26,
+    "t": "Ji paliks prakeiksmo atminimą ir jos gėda niekada nebus ištrinta."
+  },
+  {
+    "i": 26676,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 27,
+    "t": "Ir tie, kurie ateis po jos, žinos, kad niekas neprilygsta Viešpaties baimei ir kad niekas nėra saldesnis už prisirišimą prie Viešpaties įsakymų."
+  },
+  {
+    "i": 26677,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 28,
+    "t": "Sekti Dievą yra didelė garbė; pratęsti savo dienas - būti jo priimtam."
+  },
+  {
+    "i": 26678,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 1,
+    "t": "Išmintis pati save giria, savo tautos tarpe ji rodo savo pasididžiavimą."
+  },
+  {
+    "i": 26679,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 2,
+    "t": "Aukščiausiojo susirinkime ji atveria burną ir prieš jo Galybę ji rodo savo pasididžiavimą."
+  },
+  {
+    "i": 26680,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 3,
+    "t": "\"Aš išėjau iš Aukščiausiojo burnos ir kaip rūkas apgaubiau žemę."
+  },
+  {
+    "i": 26681,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 4,
+    "t": "Aš gyvenau danguje, ir mano sostas buvo debesies stulpas."
+  },
+  {
+    "i": 26682,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 5,
+    "t": "Viena aš apėjau dangaus ratą, ištyriau bedugnių gelmes."
+  },
+  {
+    "i": 26683,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 6,
+    "t": "Jūros bangose, visoje žemėje, tarp visų tautų ir genčių aš viešpatavau."
+  },
+  {
+    "i": 26684,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 7,
+    "t": "Tarp jų visų aš ieškojau poilsio, ieškojau, kuriame pavelde įsikurti."
+  },
+  {
+    "i": 26685,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 8,
+    "t": "Tada visatos kūrėjas davė man įsakymą, tas, kuris mane sukūrė, liepė man pastatyti palapinę, Jis man tarė: \"Įsikurk Jokūbe, Izraelyje gauk savo paveldą."
+  },
+  {
+    "i": 26686,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 9,
+    "t": "Prieš amžius, nuo pat pradžių jis mane sukūrė, amžinai aš gyvuosiu."
+  },
+  {
+    "i": 26687,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 10,
+    "t": "Šventoje Palapinėje, jo akivaizdoje, aš tarnavau; taip aš įsitvirtinau Sione,"
+  },
+  {
+    "i": 26688,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 11,
+    "t": "ir mylimame mieste radau savo poilsį, Jeruzalėje aš vykdau savo valdžią."
+  },
+  {
+    "i": 26689,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 12,
+    "t": "Aš įsišaknijau tarp šlovingos tautos, Viešpaties valdoje yra mano paveldas."
+  },
+  {
+    "i": 26690,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 13,
+    "t": "Aš augau kaip Libano kedras, kaip kiparisas ant Hermono kalno."
+  },
+  {
+    "i": 26691,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 14,
+    "t": "Aš augau kaip Engadžio palmė, kaip Jerichos rožių daigai, kaip nuostabus alyvmedis lygumoje, aš augau kaip platanas."
+  },
+  {
+    "i": 26692,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 15,
+    "t": "Kaip cinamonas ir akantas aš skleidžiau kvapą, kaip pasirinktas miros aliejus skleidžiau aromatą, kaip galbanas, oniksas, labdanas, kaip smilkalų dūmai Palapinėje."
+  },
+  {
+    "i": 26693,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 16,
+    "t": "Aš išskleidžiau savo šakas kaip terpentinas, tai šlovės ir malonės šakos."
+  },
+  {
+    "i": 26694,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 17,
+    "t": "Aš esu kaip vynmedis su grakščiomis atžalomis, ir mano žiedai yra šlovės ir turto vaisiai."
+  },
+  {
+    "i": 26695,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 18,
+    "t": "Aš esu gražios meilės ir baimės, pažinimo ir šventos vilties motina. Visiems savo vaikams aš duodu amžiną turtą, tiems, kuriuos jis išsirinko."
+  },
+  {
+    "i": 26696,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 19,
+    "t": "Ateikite pas mane, kurie manęs trokštate; ir pasisotinkite mano vaisiais."
+  },
+  {
+    "i": 26697,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 20,
+    "t": "Nes mano atminimas yra saldesnis už medų, mano paveldas saldesnis už korį."
+  },
+  {
+    "i": 26698,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 21,
+    "t": "Tie, kurie mane valgo, vis dar alks, tie, kurie mane geria, vis dar trokšta."
+  },
+  {
+    "i": 26699,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 22,
+    "t": "Tas, kuris manęs klauso, neturės gėdytis, ir tie, kurie per mane darbuojasi, nenusidės."
+  }
+]

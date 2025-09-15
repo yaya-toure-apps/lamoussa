@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17300,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 10,
+    "t": "Mężowie krwawi nienawidzą sprawiedliwego, ale prawi szukają jego towarzystwa."
+  },
+  {
+    "i": 17301,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 11,
+    "t": "Głupiec daje upust całej swej zapalczywości, lecz mędrzec ją poskramia i ucisza."
+  },
+  {
+    "i": 17302,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 12,
+    "t": "Gdy władca słucha fałszywych wieści, wszyscy jego słudzy są niegodziwi."
+  },
+  {
+    "i": 17303,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 13,
+    "t": "Ubogi i ciemięzca spotykają się: obydwom Pan daje światło."
+  },
+  {
+    "i": 17304,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 14,
+    "t": "Król, który sprawiedliwie sądzi ubogich, umacnia swój tron na wieki."
+  },
+  {
+    "i": 17305,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 15,
+    "t": "Karcenie rózgą daje mądrość, a młodzieniec pozostawiony samemu sobie przynosi wstyd swojej matce."
+  },
+  {
+    "i": 17306,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 16,
+    "t": "Gdy mnożą się bezbożni, mnoży się i występek, lecz sprawiedliwi ujrzą ich upadek."
+  },
+  {
+    "i": 17307,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 17,
+    "t": "Karc syna swego, a da ci pokój i radość duszy twojej."
+  },
+  {
+    "i": 17308,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 18,
+    "t": "Gdzie nie ma proroctwa, lud się rozprzęga, lecz błogosławiony, kto strzeże Prawa."
+  },
+  {
+    "i": 17309,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 19,
+    "t": "Słowami nie poprawi się sługi, bo choć rozumie, nie usłucha."
+  },
+  {
+    "i": 17310,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 20,
+    "t": "Widzisz męża, który śpieszy do mowy? Więcej można się spodziewać po głupcu."
+  },
+  {
+    "i": 17311,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 21,
+    "t": "Jeśli od młodości rozpieszczasz sługę, na koniec stanie się on niewdzięczny."
+  },
+  {
+    "i": 17312,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 22,
+    "t": "Człowiek porywczy wznieca spory, a zapalczywy mnoży występki."
+  },
+  {
+    "i": 17313,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 23,
+    "t": "Pycha człowieka go poniża, a pokorny duchem dostąpi chwały."
+  },
+  {
+    "i": 17314,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 24,
+    "t": "Kto dzieli się z złodziejem, nienawidzi własnej duszy; słyszy zaklęcie, a nie donosi."
+  },
+  {
+    "i": 17315,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 25,
+    "t": "Lęk przed człowiekiem jest sidłem, lecz kto ufa Panu, jest bezpieczny."
+  },
+  {
+    "i": 17316,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 26,
+    "t": "Wielu zabiega o łaskę władcy, lecz sprawiedliwość każdego pochodzi od Pana."
+  },
+  {
+    "i": 17317,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 27,
+    "t": "Obrzydliwością dla sprawiedliwych jest mąż nieprawy, obrzydliwością dla bezbożnego jest ten, którego droga jest prosta."
+  },
+  {
+    "i": 17318,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 1,
+    "t": "Słowa Agura, syna Jake, z Massa. Wyrocznia tego męża dla Itiela, dla Itiela i dla Ukala."
+  },
+  {
+    "i": 17319,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 2,
+    "t": "Zaiste, jestem najgłupszy z ludzi i brak mi ludzkiego rozumu,"
+  },
+  {
+    "i": 17320,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 3,
+    "t": "Nie nauczyłem się mądrości i nie znam wiedzy świętych."
+  },
+  {
+    "i": 17321,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 4,
+    "t": "Kto wstąpił do nieba i zstąpił? Kto zebrał wiatr w swoje dłonie? Kto zawarł wody w płaszczu? Kto utwierdził wszystkie krańce ziemi? Jakie jest jego imię? Jakie jest imię jego syna, jeśli wiesz?"
+  },
+  {
+    "i": 17322,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 5,
+    "t": "Każde słowo Boże jest czyste, On tarczą dla tych, którzy Mu ufają."
+  },
+  {
+    "i": 17323,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 6,
+    "t": "Nic nie dodawaj do Jego słów, aby cię nie skarcił i nie uznał za kłamcę."
+  },
+  {
+    "i": 17324,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 7,
+    "t": "O dwie rzeczy Cię proszę, nie odmawiaj mi ich, zanim umrę:"
+  },
+  {
+    "i": 17325,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 8,
+    "t": "Oddal ode mnie fałsz i słowa kłamliwe, nie dawaj mi ubóstwa ani bogactwa, karm mnie chlebem, którego mi potrzeba,"
+  },
+  {
+    "i": 17326,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 9,
+    "t": "Abym syty nie zaparł się i nie rzekł: \"Kim jest Pan?\", albo ubogi nie kradł i nie znieważał imienia mojego Boga."
+  },
+  {
+    "i": 17327,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 10,
+    "t": "Nie oczerniaj sługi przed jego panem, aby cię nie przeklął i abyś nie poniósł za to kary."
+  },
+  {
+    "i": 17328,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 11,
+    "t": "Pokolenie, które przeklina swego ojca i nie błogosławi swojej matki,"
+  },
+  {
+    "i": 17329,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 12,
+    "t": "Pokolenie, które uważa się za czyste, lecz nie zostało obmyte ze swego brudu,"
+  },
+  {
+    "i": 17330,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 13,
+    "t": "Pokolenie o wyniosłych oczach i podniesionych powiekach,"
+  },
+  {
+    "i": 17331,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 14,
+    "t": "Pokolenie, którego zęby są mieczami, a szczęki nożami, aby pożerać ubogich i wytracać ich z ziemi, a nędzarzy spośród ludzi."
+  },
+  {
+    "i": 17332,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 15,
+    "t": "Pijawka ma dwie córki: \"Daj! Daj!\" Są trzy rzeczy nienasycone i cztery, które nigdy nie mówią: \"Dość!\":"
+  },
+  {
+    "i": 17333,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 16,
+    "t": "Szeol, łono bezpłodne, ziemia, której woda nie może nasycić, ogień, który nigdy nie mówi: \"Dość!"
+  },
+  {
+    "i": 17334,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 17,
+    "t": "Oko, które szydzi z ojca i gardzi posłuszeństwem matki, wykują kruki potoku, a orły je pożrą."
+  },
+  {
+    "i": 17335,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 18,
+    "t": "Są trzy rzeczy, które mnie zadziwiają, i cztery, których nie znam:"
+  },
+  {
+    "i": 17336,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 19,
+    "t": "Droga orła w powietrzu, droga węża po skale, droga okrętu po pełnym morzu, droga mężczyzny do młodej kobiety."
+  },
+  {
+    "i": 17337,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 20,
+    "t": "Taki jest postępek kobiety cudzołożnej: je, potem wyciera usta, mówiąc: \"Nie zrobiłam nic złego!"
+  },
+  {
+    "i": 17338,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 21,
+    "t": "Z powodu trzech rzeczy drży ziemia i są cztery, których nie może znieść:"
+  },
+  {
+    "i": 17339,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 22,
+    "t": "Sługa, który zostaje królem, głupiec nasycony jedzeniem,"
+  },
+  {
+    "i": 17340,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 23,
+    "t": "Kobieta nienawistna, która wychodzi za mąż, służąca, która dziedziczy po swojej pani."
+  },
+  {
+    "i": 17341,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 24,
+    "t": "Są cztery stworzenia małe na ziemi, lecz mądre między mądrymi:"
+  },
+  {
+    "i": 17342,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 25,
+    "t": "Mrówki, lud słaby, lecz latem gromadzą zapasy;"
+  },
+  {
+    "i": 17343,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 26,
+    "t": "Świstaki, lud bez siły, lecz mieszkają w skałach;"
+  },
+  {
+    "i": 17344,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 27,
+    "t": "U szarańczy nie ma króla, lecz wszystkie maszerują w szyku;"
+  },
+  {
+    "i": 17345,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 28,
+    "t": "Jaszczurkę można pochwycić ręką, lecz przebywa w pałacach królewskich."
+  },
+  {
+    "i": 17346,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 29,
+    "t": "Trzy rzeczy mają piękny wygląd i cztery piękne kroki:"
+  },
+  {
+    "i": 17347,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 30,
+    "t": "Lew, najmężniejszy ze zwierząt, który przed nikim się nie cofa;"
+  },
+  {
+    "i": 17348,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 31,
+    "t": "Kogut dobrze opasły albo kozioł i król, gdy przemawia do ludu."
+  },
+  {
+    "i": 17349,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 32,
+    "t": "Jeśliś głupio postąpił, unosząc się gniewem, i jeśliś się nad tym zastanowił, połóż rękę na usta swoje!"
+  },
+  {
+    "i": 17350,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 33,
+    "t": "Bo ugniatając mleko, otrzymuje się masło, ugniatając nos, otrzymuje się krew, ugniatając gniew, otrzymuje się spór."
+  },
+  {
+    "i": 17351,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 1,
+    "t": "Słowa Lemuela, króla Massa, których go nauczyła jego matka."
+  },
+  {
+    "i": 17352,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 2,
+    "t": "Co, synu mój! Co, synu mego łona! Co, synu moich ślubów!"
+  },
+  {
+    "i": 17353,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 3,
+    "t": "Nie oddawaj swojej siły kobietom ani dróg swoich tym, którzy gubią królów."
+  },
+  {
+    "i": 17354,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 4,
+    "t": "Nie przystoi królom, Lemuelu, nie przystoi królom pić wina ani książętom lubić napojów,"
+  },
+  {
+    "i": 17355,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 5,
+    "t": "Aby pijąc, nie zapomnieli o tym, co postanowione, i nie wypaczali sprawy wszystkich ubogich."
+  },
+  {
+    "i": 17356,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 6,
+    "t": "Daj napoje mocne temu, który ma zginąć, a wino temu, który jest pełen goryczy:"
+  },
+  {
+    "i": 17357,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 7,
+    "t": "Niech pije i zapomni o swojej nędzy, niech już nie pamięta o swoim nieszczęściu!"
+  },
+  {
+    "i": 17358,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 8,
+    "t": "Otwórz usta w obronie niemego, w sprawie wszystkich opuszczonych;"
+  },
+  {
+    "i": 17359,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 9,
+    "t": "Otwórz usta, sądź sprawiedliwie, broń sprawy ubogiego i nieszczęśliwego."
+  },
+  {
+    "i": 17360,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 10,
+    "t": "Niewiastę dzielną, któż ją znajdzie? Jej wartość przewyższa perły!"
+  },
+  {
+    "i": 17361,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 11,
+    "t": "Serce jej męża jej ufa i nie brak mu zysku."
+  },
+  {
+    "i": 17362,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 12,
+    "t": "Dobrze mu czyni, a nie źle, przez wszystkie dni swego życia."
+  },
+  {
+    "i": 17363,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 13,
+    "t": "Szuka wełny i lnu i pracuje ochotnie rękami swymi."
+  },
+  {
+    "i": 17364,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 14,
+    "t": "Podobna jest do okrętów handlowych: z daleka sprowadza swój pokarm."
+  },
+  {
+    "i": 17365,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 15,
+    "t": "Wstaje, gdy jeszcze jest noc, rozdzielając żywność swojej rodzinie i obowiązki swoim służącym."
+  },
+  {
+    "i": 17366,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 16,
+    "t": "Myśli o polu i kupuje je; z owocu swoich rąk sadzi winnicę."
+  },
+  {
+    "i": 17367,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 17,
+    "t": "Przepasuje mocno swoje biodra i wzmacnia swoje ramiona."
+  },
+  {
+    "i": 17368,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 18,
+    "t": "Przekonuje się, że jej interesy dobrze idą; jej lampa nie gaśnie w nocy."
+  },
+  {
+    "i": 17369,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 19,
+    "t": "Wyciąga rękę po kądziel, jej palce chwytają wrzeciono."
+  },
+  {
+    "i": 17370,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 20,
+    "t": "Otwiera rękę swoją dla ubogiego, wyciąga ramiona do nędzarza."
+  },
+  {
+    "i": 17371,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 21,
+    "t": "Nie boi się śniegu dla swojej rodziny, bo cała jej rodzina jest ubrana w podwójne szaty."
+  },
+  {
+    "i": 17372,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 22,
+    "t": "Sama sobie robi narzuty, jej ubranie jest z lnu i purpury."
+  },
+  {
+    "i": 17373,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 23,
+    "t": "Jej mąż jest znany w bramach miasta, zasiada wśród starszych kraju."
+  },
+  {
+    "i": 17374,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 24,
+    "t": "Tka płótna i sprzedaje je, a kupcowi dostarcza pasy."
+  },
+  {
+    "i": 17375,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 25,
+    "t": "Siła i godność są jej strojem, śmieje się z dnia przyszłego."
+  },
+  {
+    "i": 17376,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 26,
+    "t": "Otwiera usta swoje z mądrością, a na jej języku nauka pobożności."
+  },
+  {
+    "i": 17377,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 27,
+    "t": "Dba o to, co się dzieje w jej domu, i nie je chleba lenistwa."
+  },
+  {
+    "i": 17378,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 28,
+    "t": "Jej synowie powstają, aby ją ogłosić błogosławioną, a jej mąż, aby ją chwalić:"
+  },
+  {
+    "i": 17379,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 29,
+    "t": "\"Wiele kobiet dokonało bohaterskich czynów, ale ty przewyższasz je wszystkie!"
+  },
+  {
+    "i": 17380,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 30,
+    "t": "Zwodniczy wdzięk i próżna piękność! Niewiasta, która boi się Jahwe, ta wysławiona będzie!"
+  },
+  {
+    "i": 17381,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 31,
+    "t": "Dajcie jej z owocu jej rąk, niech jej uczynki chwalą ją w bramach!"
+  },
+  {
+    "i": 17382,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 1,
+    "t": "Słowa Koheleta, syna Dawida, króla w Jeruzalem."
+  },
+  {
+    "i": 17383,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 2,
+    "t": "Marność nad marnościami, mówi Kohelet; marność nad marnościami, wszystko marność."
+  },
+  {
+    "i": 17384,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 3,
+    "t": "Jakiż pożytek ma człowiek z całego trudu swego, który ponosi pod słońcem?"
+  },
+  {
+    "i": 17385,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 4,
+    "t": "Pokolenie odchodzi i pokolenie przychodzi, ale ziemia trwa na wieki."
+  },
+  {
+    "i": 17386,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 5,
+    "t": "Słońce wschodzi i słońce zachodzi, i spieszy się na miejsce swoje, skąd wschodzi na nowo."
+  },
+  {
+    "i": 17387,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 6,
+    "t": "Wiatr wieje ku południowi i zawraca ku północy, krąży, krąży i wraca wciąż na swoje krążenie."
+  },
+  {
+    "i": 17388,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 7,
+    "t": "Wszystkie rzeki płyną do morza, a morze nie przepełnia się. Do miejsca, gdzie płyną rzeki, tam znowu płyną."
+  },
+  {
+    "i": 17389,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 8,
+    "t": "Wszystkie słowa są uciążliwe! Człowiek nie potrafi powiedzieć, czy oko nasycone jest patrzeniem, czy ucho napełnione słuchaniem."
+  },
+  {
+    "i": 17390,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 9,
+    "t": "Co było, to będzie, co się stało, to się stanie, i nic nowego nie ma pod słońcem!"
+  },
+  {
+    "i": 17391,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 10,
+    "t": "Czy jest coś, o czym by można powiedzieć: \"Patrz, to jest nowe\"? To już było w wiekach, które były przed nami."
+  },
+  {
+    "i": 17392,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 11,
+    "t": "Nie ma pamięci o tym, co było przedtem, i nawet o tym, co będzie potem, nie będzie pamięci u tych, którzy nastąpią."
+  },
+  {
+    "i": 17393,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 12,
+    "t": "Ja, Kohelet, byłem królem Izraela w Jeruzalem."
+  },
+  {
+    "i": 17394,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 13,
+    "t": "I przyłożyłem serce swoje do tego, by badać i dociekać mądrze wszystkiego, co się dzieje pod niebem. To ciężkie zajęcie dał Bóg synom ludzkim, aby się nim trudzili."
+  },
+  {
+    "i": 17395,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 14,
+    "t": "Widziałem wszystkie sprawy, które się dzieją pod słońcem, i oto wszystko jest marnością i pogonią za wiatrem!"
+  },
+  {
+    "i": 17396,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 15,
+    "t": "To, co krzywe, nie da się wyprostować, a to, czego brakuje, nie da się policzyć."
+  },
+  {
+    "i": 17397,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 16,
+    "t": "I rzekłem w sercu swoim: Oto nagromadziłem i powiększyłem mądrość bardziej niż wszyscy, którzy byli przede mną w Jeruzalem, i serce moje doświadczyło wszelkiej mądrości i wiedzy."
+  },
+  {
+    "i": 17398,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 17,
+    "t": "I przyłożyłem serce swoje do poznania mądrości i wiedzy, głupoty i szaleństwa, i poznałem, że to również jest pogonią za wiatrem."
+  },
+  {
+    "i": 17399,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 18,
+    "t": "Bo gdzie wiele mądrości, tam wiele zgryzoty, a kto pomnaża wiedzę, pomnaża cierpienie."
+  }
+]

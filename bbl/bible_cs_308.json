@@ -1,0 +1,802 @@
+[
+  {
+    "i": 30800,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 10,
+    "t": "Zloděj nepřichází, leč aby kradl, zabíjel a hubil. Já jsem přišel, aby ovce měly život, a to v hojnosti."
+  },
+  {
+    "i": 30801,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 11,
+    "t": "Já jsem dobrý pastýř. Dobrý pastýř dává svůj život za ovce."
+  },
+  {
+    "i": 30802,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 12,
+    "t": "Nádeník, který není pastýř a jemuž ovce nepatří, vidí-li, že se blíží vlk, opustí ovce a uteče; a vlk je uchvátí a rozplaší."
+  },
+  {
+    "i": 30803,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 13,
+    "t": "Nádeník utíká, protože je nádeník a na ovcích mu nezáleží."
+  },
+  {
+    "i": 30804,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 14,
+    "t": "Já jsem dobrý pastýř; znám své ovce a mé ovce znají mne,"
+  },
+  {
+    "i": 30805,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 15,
+    "t": "jako mne zná Otec a já znám Otce; a svůj život dávám za ovce."
+  },
+  {
+    "i": 30806,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 16,
+    "t": "Mám i jiné ovce, které nejsou z tohoto ovčince. I ty musím přivést; i ony uslyší můj hlas a bude jedno stádo a jeden pastýř."
+  },
+  {
+    "i": 30807,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 17,
+    "t": "Proto mne Otec miluje, že dávám svůj život, abych jej opět přijal."
+  },
+  {
+    "i": 30808,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 18,
+    "t": "Nikdo mi jej nebere, ale já jej dávám sám od sebe. Mám moc svůj život dát a mám moc jej opět přijmout. Takový příkaz jsem přijal od svého Otce."
+  },
+  {
+    "i": 30809,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 19,
+    "t": "Pro ta slova nastala mezi Židy opět roztržka."
+  },
+  {
+    "i": 30810,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 20,
+    "t": "Mnozí z nich říkali: \"Je posedlý démonem, blouzní. Proč ho posloucháte?"
+  },
+  {
+    "i": 30811,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 21,
+    "t": "Jiní říkali: \"To nejsou slova posedlého. Což démon může otvírat oči slepým?"
+  },
+  {
+    "i": 30812,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 22,
+    "t": "V Jeruzalémě se slavily svátky Posvěcení chrámu. Byla zima."
+  },
+  {
+    "i": 30813,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 23,
+    "t": "Ježíš chodil po chrámě v sloupoví Šalamounově."
+  },
+  {
+    "i": 30814,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 24,
+    "t": "Obklopili ho Židé a řekli mu: \"Dokdy nás budeš držet v nejistotě? Jsi-li Mesiáš, řekni nám to otevřeně."
+  },
+  {
+    "i": 30815,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 25,
+    "t": "Ježíš jim odpověděl: \"Řekl jsem vám to, a nevěříte. Skutky, které činím ve jménu svého Otce, svědčí o mně."
+  },
+  {
+    "i": 30816,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 26,
+    "t": "Ale vy nevěříte, neboť nejste z mých ovcí."
+  },
+  {
+    "i": 30817,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 27,
+    "t": "Mé ovce slyší můj hlas, já je znám a ony mne následují,"
+  },
+  {
+    "i": 30818,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 28,
+    "t": "já jim dávám věčný život, nezahynou na věky a nikdo je nevytrhne z mé ruky."
+  },
+  {
+    "i": 30819,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 29,
+    "t": "Můj Otec, který mi je dal, je větší nade všecky, a nikdo je nemůže vyrvat z Otcovy ruky."
+  },
+  {
+    "i": 30820,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 30,
+    "t": "Já a Otec jsme jedno."
+  },
+  {
+    "i": 30821,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 31,
+    "t": "Židé se opět chopili kamenů, aby ho ukamenovali."
+  },
+  {
+    "i": 30822,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 32,
+    "t": "Ježíš jim řekl: \"Ukázal jsem vám mnoho dobrých skutků od Otce; pro který z nich mne kamenujete?"
+  },
+  {
+    "i": 30823,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 33,
+    "t": "Židé mu odpověděli: \"Ne pro dobrý skutek tě kamenujeme, ale pro rouhání, že jsa člověk, činíš se Bohem."
+  },
+  {
+    "i": 30824,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 34,
+    "t": "Ježíš jim odpověděl: \"Není psáno ve vašem Zákoně: 'Já jsem řekl: Bohové jste'?"
+  },
+  {
+    "i": 30825,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 35,
+    "t": "Jestliže nazval bohy ty, k nimž bylo slovo Boží (a Písmo nemůže být zrušeno),"
+  },
+  {
+    "i": 30826,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 36,
+    "t": "proč říkáte tomu, kterého Otec posvětil a poslal na svět: 'Rouháš se', protože jsem řekl: 'Jsem Syn Boží'?"
+  },
+  {
+    "i": 30827,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 37,
+    "t": "Nečiním-li skutky svého Otce, nevěřte mi;"
+  },
+  {
+    "i": 30828,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 38,
+    "t": "ale činím-li je, i když nevěříte mně, věřte těm skutkům, abyste poznali a věděli, že Otec je ve mně a já v Otci."
+  },
+  {
+    "i": 30829,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 39,
+    "t": "Proto se ho opět pokoušeli zatknout, ale unikl jim z rukou."
+  },
+  {
+    "i": 30830,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 40,
+    "t": "A odešel opět za Jordán na místo, kde Jan dříve křtil, a zůstal tam."
+  },
+  {
+    "i": 30831,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 41,
+    "t": "A mnozí k němu přišli a říkali: \"Jan sice neučinil žádné znamení, ale všechno, co Jan o tomto řekl, byla pravda."
+  },
+  {
+    "i": 30832,
+    "b": 49,
+    "c": 5110,
+    "r": 5110,
+    "o": 42,
+    "t": "A mnozí tam v něho uvěřili."
+  },
+  {
+    "i": 30833,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 1,
+    "t": "Byl nemocný jeden, Lazar z Betanie, z městečka Marie a její sestry Marty."
+  },
+  {
+    "i": 30834,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 2,
+    "t": "Byla to ta Marie, která pomazala Pána vonným olejem a utřela mu nohy svými vlasy; její bratr Lazar byl nemocný."
+  },
+  {
+    "i": 30835,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 3,
+    "t": "Poslaly tedy sestry Ježíšovi vzkaz: \"Pane, ten, kterého miluješ, je nemocný."
+  },
+  {
+    "i": 30836,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 4,
+    "t": "Když to Ježíš uslyšel, řekl: \"Ta nemoc není k smrti, ale k slávě Boží, aby skrze ni byl oslaven Syn Boží."
+  },
+  {
+    "i": 30837,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 5,
+    "t": "Ježíš miloval Martu, její sestru i Lazara."
+  },
+  {
+    "i": 30838,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 6,
+    "t": "Když uslyšel, že je nemocný, zůstal ještě dva dny tam, kde byl."
+  },
+  {
+    "i": 30839,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 7,
+    "t": "Pak teprve řekl učedníkům: \"Pojďme opět do Judska."
+  },
+  {
+    "i": 30840,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 8,
+    "t": "Učedníci mu řekli: \"Mistře, Židé tě nedávno chtěli ukamenovat, a chceš tam jít zase?"
+  },
+  {
+    "i": 30841,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 9,
+    "t": "Ježíš odpověděl: \"Což nemá den dvanáct hodin? Kdo chodí ve dne, neklopýtne, neboť vidí světlo tohoto světa;"
+  },
+  {
+    "i": 30842,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 10,
+    "t": "ale kdo chodí v noci, klopýtne, neboť v něm není světlo."
+  },
+  {
+    "i": 30843,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 11,
+    "t": "To řekl a dodal: \"Náš přítel Lazar usnul; ale jdu ho probudit."
+  },
+  {
+    "i": 30844,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 12,
+    "t": "Učedníci mu řekli: \"Pane, jestliže usnul, uzdraví se."
+  },
+  {
+    "i": 30845,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 13,
+    "t": "Ježíš mluvil o jeho smrti, ale oni se domnívali, že mluví o obyčejném spánku."
+  },
+  {
+    "i": 30846,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 14,
+    "t": "Tehdy jim Ježíš řekl otevřeně: \"Lazar zemřel,"
+  },
+  {
+    "i": 30847,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 15,
+    "t": "a jsem rád, že jsem tam nebyl, abyste uvěřili. Ale pojďme k němu!"
+  },
+  {
+    "i": 30848,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 16,
+    "t": "Tomáš, zvaný Didymos, řekl ostatním učedníkům: \"Pojďme i my, abychom zemřeli s ním!"
+  },
+  {
+    "i": 30849,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 17,
+    "t": "Když Ježíš přišel, shledal, že Lazar je již čtyři dny v hrobě."
+  },
+  {
+    "i": 30850,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 18,
+    "t": "Betanie byla blízko Jeruzaléma, asi patnáct honů vzdálena,"
+  },
+  {
+    "i": 30851,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 19,
+    "t": "a mnozí z Židů přišli k Martě a Marii, aby je potěšili nad ztrátou bratra."
+  },
+  {
+    "i": 30852,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 20,
+    "t": "Když Marta uslyšela, že Ježíš přichází, šla mu naproti, ale Marie zůstala sedět doma."
+  },
+  {
+    "i": 30853,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 21,
+    "t": "Marta řekla Ježíšovi: \"Pane, kdybys tu byl, můj bratr by nebyl zemřel."
+  },
+  {
+    "i": 30854,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 22,
+    "t": "Ale i nyní vím, že cokoli bys žádal od Boha, Bůh ti dá."
+  },
+  {
+    "i": 30855,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 23,
+    "t": "Ježíš jí řekl: \"Tvůj bratr vstane z mrtvých."
+  },
+  {
+    "i": 30856,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 24,
+    "t": "\"Vím, že vstane,\" řekla Marta, \"při vzkříšení v poslední den."
+  },
+  {
+    "i": 30857,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 25,
+    "t": "Ježíš jí řekl: \"Já jsem vzkříšení a život. Kdo věří ve mne, i kdyby zemřel, bude žít;"
+  },
+  {
+    "i": 30858,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 26,
+    "t": "a každý, kdo žije a věří ve mne, neumře na věky. Věříš tomu?"
+  },
+  {
+    "i": 30859,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 27,
+    "t": "Řekla mu: \"Ano, Pane, já jsem uvěřila, že ty jsi Mesiáš, Syn Boží, který má přijít na svět."
+  },
+  {
+    "i": 30860,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 28,
+    "t": "Když to řekla, odešla a tajně zavolala svou sestru Marii: \"Mistr je tu a volá tě!"
+  },
+  {
+    "i": 30861,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 29,
+    "t": "Ta, jakmile to uslyšela, rychle vstala a šla k němu."
+  },
+  {
+    "i": 30862,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 30,
+    "t": "Ježíš ještě nepřišel do městečka, ale byl stále na místě, kde se s ním Marta setkala."
+  },
+  {
+    "i": 30863,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 31,
+    "t": "Když Židé, kteří s ní byli v domě a potěšovali ji, uviděli, že Marie rychle vstala a vyšla ven, šli za ní, domnívajíce se, že jde k hrobu plakat."
+  },
+  {
+    "i": 30864,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 32,
+    "t": "Jakmile Marie přišla tam, kde byl Ježíš, a spatřila ho, padla mu k nohám a řekla mu: \"Pane, kdybys tu byl, můj bratr by nebyl zemřel!"
+  },
+  {
+    "i": 30865,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 33,
+    "t": "Když ji Ježíš viděl plakat a také Židy, kteří s ní přišli, plakat, v duchu se rozhorlil a pohnulo se jím."
+  },
+  {
+    "i": 30866,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 34,
+    "t": "Řekl: \"Kam jste ho položili?\" Řekli mu: \"Pane, pojď se podívat!"
+  },
+  {
+    "i": 30867,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 35,
+    "t": "Ježíš zaplakal."
+  },
+  {
+    "i": 30868,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 36,
+    "t": "Židé tehdy říkali: \"Hle, jak ho miloval!"
+  },
+  {
+    "i": 30869,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 37,
+    "t": "Někteří z nich však říkali: \"Nemohl ten, který otevřel oči slepému, zabránit, aby tento nezemřel?"
+  },
+  {
+    "i": 30870,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 38,
+    "t": "Ježíš se opět v duchu rozhorlil a šel k hrobu. Byla to jeskyně a byl na ní položen kámen."
+  },
+  {
+    "i": 30871,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 39,
+    "t": "Ježíš řekl: \"Odkulte ten kámen!\" Marta, sestra zemřelého, mu řekla: \"Pane, již zapáchá, neboť je tam již čtvrtý den."
+  },
+  {
+    "i": 30872,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 40,
+    "t": "Ježíš jí řekl: \"Neřekl jsem ti, že uvěříš-li, uvidíš slávu Boží?"
+  },
+  {
+    "i": 30873,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 41,
+    "t": "Odkulili tedy kámen. Ježíš pozdvihl oči vzhůru a řekl: \"Otče, děkuji ti, že jsi mne vyslyšel."
+  },
+  {
+    "i": 30874,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 42,
+    "t": "Věděl jsem, že mne vždycky slyšíš, ale řekl jsem to kvůli tomuto zástupu, který stojí kolem, aby uvěřili, že jsi mne poslal."
+  },
+  {
+    "i": 30875,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 43,
+    "t": "Když to řekl, zvolal silným hlasem: \"Lazare, pojď ven!"
+  },
+  {
+    "i": 30876,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 44,
+    "t": "A ten mrtvý vyšel, nohy i ruce ovinuté pruhy plátna a jeho tvář byla obvázána rouškou. Ježíš jim řekl: \"Rozvažte ho a nechte ho jít!"
+  },
+  {
+    "i": 30877,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 45,
+    "t": "Mnozí z Židů, kteří přišli k Marii a viděli, co učinil, v něho uvěřili."
+  },
+  {
+    "i": 30878,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 46,
+    "t": "Někteří z nich však odešli k farizeům a oznámili jim, co Ježíš učinil."
+  },
+  {
+    "i": 30879,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 47,
+    "t": "Velkněží a farizeové svolali radu a řekli: \"Co si počneme? Vždyť ten člověk činí mnoho znamení!"
+  },
+  {
+    "i": 30880,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 48,
+    "t": "Jestliže ho necháme takto, všichni v něho uvěří, a přijdou Římané a zničí naše svaté místo i národ."
+  },
+  {
+    "i": 30881,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 49,
+    "t": "Jeden z nich, Kaifáš, který toho roku byl veleknězem, jim řekl: \"Vy ničemu nerozumíte."
+  },
+  {
+    "i": 30882,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 50,
+    "t": "Aniž byste uvážili, že je pro vás lépe, aby jeden člověk zemřel za lid, a nezahynul celý národ."
+  },
+  {
+    "i": 30883,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 51,
+    "t": "To však neřekl sám od sebe, ale jako velekněz toho roku prorokoval, že Ježíš má zemřít za národ –"
+  },
+  {
+    "i": 30884,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 52,
+    "t": "a nejen za národ, ale i proto, aby shromáždil v jedno rozptýlené děti Boží."
+  },
+  {
+    "i": 30885,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 53,
+    "t": "Od toho dne se tedy usnesli, že ho zabijí."
+  },
+  {
+    "i": 30886,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 54,
+    "t": "Proto Ježíš již nechodil veřejně mezi Židy, ale odešel do kraje blízko pouště, do města zvaného Efraim, a tam pobýval se svými učedníky."
+  },
+  {
+    "i": 30887,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 55,
+    "t": "Blížila se však židovská Velikonoce, a mnozí z venkova vystupovali před Velikonocemi do Jeruzaléma, aby se očistili."
+  },
+  {
+    "i": 30888,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 56,
+    "t": "Hledali Ježíše a říkali si mezi sebou v chrámě: \"Co myslíte? Nepřijde na svátek?"
+  },
+  {
+    "i": 30889,
+    "b": 49,
+    "c": 5111,
+    "r": 5111,
+    "o": 57,
+    "t": "Velekněží a farizeové však vydali nařízení, že kdokoliv by věděl, kde je, má to oznámit, aby ho mohli zatknout."
+  },
+  {
+    "i": 30890,
+    "b": 49,
+    "c": 5112,
+    "r": 5112,
+    "o": 1,
+    "t": "Šest dní před Velikonocemi přišel Ježíš do Betanie, kde bydlel Lazar, kterého Ježíš vzkřísil z mrtvých."
+  },
+  {
+    "i": 30891,
+    "b": 49,
+    "c": 5112,
+    "r": 5112,
+    "o": 2,
+    "t": "Připravili mu tam večeři. Marta obsluhovala a Lazar byl jedním z těch, kteří s ním stolovali."
+  },
+  {
+    "i": 30892,
+    "b": 49,
+    "c": 5112,
+    "r": 5112,
+    "o": 3,
+    "t": "Marie pak vzala libru drahého oleje z pravého nardu, pomazala Ježíšovy nohy a utřela je svými vlasy; a dům se naplnil vůní toho oleje."
+  },
+  {
+    "i": 30893,
+    "b": 49,
+    "c": 5112,
+    "r": 5112,
+    "o": 4,
+    "t": "Jeden z jeho učedníků, Jidáš Iškariotský, který ho měl zradit, řekl:"
+  },
+  {
+    "i": 30894,
+    "b": 49,
+    "c": 5112,
+    "r": 5112,
+    "o": 5,
+    "t": "\"Proč nebyl ten olej prodán za tři sta denárů a peníze dány chudým?"
+  },
+  {
+    "i": 30895,
+    "b": 49,
+    "c": 5112,
+    "r": 5112,
+    "o": 6,
+    "t": "To však neřekl proto, že by mu záleželo na chudých, ale protože byl zloděj a jako pokladník kradl z toho, co se do pokladny dávalo."
+  },
+  {
+    "i": 30896,
+    "b": 49,
+    "c": 5112,
+    "r": 5112,
+    "o": 7,
+    "t": "Ježíš tedy řekl: \"Nech ji, uchovala to ke dni mého pohřbu."
+  },
+  {
+    "i": 30897,
+    "b": 49,
+    "c": 5112,
+    "r": 5112,
+    "o": 8,
+    "t": "Chudé totiž máte vždycky s sebou, ale mne nebudete mít vždycky."
+  },
+  {
+    "i": 30898,
+    "b": 49,
+    "c": 5112,
+    "r": 5112,
+    "o": 9,
+    "t": "Velký zástup Židů se dozvěděl, že je tam, a přišli nejen kvůli Ježíši, ale i proto, aby viděli Lazara, kterého vzkřísil z mrtvých."
+  },
+  {
+    "i": 30899,
+    "b": 49,
+    "c": 5112,
+    "r": 5112,
+    "o": 10,
+    "t": "Velekněží se rozhodli, že zabijí i Lazara,"
+  }
+]

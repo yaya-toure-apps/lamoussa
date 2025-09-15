@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16600,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 17,
+    "t": "Naj bodo tebi samemu in ne tujcem s teboj!"
+  },
+  {
+    "i": 16601,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 18,
+    "t": "Blagoslovljen bodi tvoj izvir! Veseli se žene svoje mladosti:"
+  },
+  {
+    "i": 16602,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 19,
+    "t": "ljubezniva košuta, prijetna gazela! Naj te njene dojke vedno omamljajo, v njenem ljubeznivem objemu neprestano uživaj!"
+  },
+  {
+    "i": 16603,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 20,
+    "t": "Zakaj, moj sin, bi se dal zapeljati tujki in objemati nedrje neznanke?"
+  },
+  {
+    "i": 16604,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 21,
+    "t": "Kajti Gospodove oči gledajo na človekove poti in opazujejo vse njegove steze."
+  },
+  {
+    "i": 16605,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 22,
+    "t": "Hudobnež se ujame v lastne grehe, v spone svoje krivde je ujet."
+  },
+  {
+    "i": 16606,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 23,
+    "t": "Umrl bo zaradi pomanjkanja discipline, zaradi preobilja svoje norosti bo zašel s poti."
+  },
+  {
+    "i": 16607,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 1,
+    "t": "Sin moj, če si porok postal za svojega bližnjega, če si z roko potrdil za tujca,"
+  },
+  {
+    "i": 16608,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 2,
+    "t": "če si se zavezal z besedami svojih ust, če si ujet z besedami svojih ust,"
+  },
+  {
+    "i": 16609,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 3,
+    "t": "naredi torej to, moj sin, da se rešiš, ker si padel v roke svojega bližnjega: pojdi, ponižaj se, nadleguj svojega bližnjega,"
+  },
+  {
+    "i": 16610,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 4,
+    "t": "ne daj spanja svojim očem, ne počitka svojim vekam,"
+  },
+  {
+    "i": 16611,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 5,
+    "t": "reši se, kakor gazela iz mreže, kakor ptica iz roke ptičarja."
+  },
+  {
+    "i": 16612,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 6,
+    "t": "Pojdi k mravlji, lenuh! Opazuj njene navade in postani moder:"
+  },
+  {
+    "i": 16613,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 7,
+    "t": "ki nima ne poveljnika, ne nadzornika, ne voditelja,"
+  },
+  {
+    "i": 16614,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 8,
+    "t": "poleti si pripravlja hrano in zbira ob žetvi svojo jed."
+  },
+  {
+    "i": 16615,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 9,
+    "t": "Do kdaj boš ležal, lenuh? Kdaj boš vstal s svojega spanja?"
+  },
+  {
+    "i": 16616,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 10,
+    "t": "Malo spati, malo zadremati, malo skleniti roke in počivati,"
+  },
+  {
+    "i": 16617,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 11,
+    "t": "in prišla bo nadte revščina kakor ropar, pomanjkanje kakor oboroženec."
+  },
+  {
+    "i": 16618,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 12,
+    "t": "Ničvrednež, hudoben človek hodi naokoli z lažnivimi usti,"
+  },
+  {
+    "i": 16619,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 13,
+    "t": "mežika z očmi, vleče z nogami, kaže s prsti."
+  },
+  {
+    "i": 16620,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 14,
+    "t": "Prevara je v njegovem srcu, vedno snuje hudobijo, povzroča prepire."
+  },
+  {
+    "i": 16621,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 15,
+    "t": "Zato bo nenadoma prišla nadenj poguba, v trenutku bo strt, brez ozdravljenja."
+  },
+  {
+    "i": 16622,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 16,
+    "t": "Šest reči sovraži Gospod, sedem jih je gnusobnih njegovi duši:"
+  },
+  {
+    "i": 16623,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 17,
+    "t": "oči prevzetne, jezik lažniv, roke, ki prelivajo nedolžno kri,"
+  },
+  {
+    "i": 16624,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 18,
+    "t": "srce, ki snuje hudobne naklepe, noge, ki hitijo teči v zlo,"
+  },
+  {
+    "i": 16625,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 19,
+    "t": "lažniva priča, ki govori laži, tisti, ki seje prepire med brati."
+  },
+  {
+    "i": 16626,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 20,
+    "t": "Sin moj, ohranjaj zapoved svojega očeta, ne zavračaj nauka svoje matere."
+  },
+  {
+    "i": 16627,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 21,
+    "t": "Stalno ju veži na svoje srce, zavezuj ju okrog svojega vratu."
+  },
+  {
+    "i": 16628,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 22,
+    "t": "V tvojem življenju te bosta vodila, v tvojem počitku te bosta varovala, ob tvojem prebujanju se bosta pogovarjala s teboj."
+  },
+  {
+    "i": 16629,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 23,
+    "t": "Kajti zapoved je svetilka, nauk je luč, opomini vzgoje so pot življenja,"
+  },
+  {
+    "i": 16630,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 24,
+    "t": "da te obvarujejo pred hudobno ženo, pred sladkim jezikom tujke."
+  },
+  {
+    "i": 16631,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 25,
+    "t": "Ne poželi v svojem srcu njene lepote, ne pusti se ujeti njenim očem,"
+  },
+  {
+    "i": 16632,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 26,
+    "t": "kajti vlačugi zadošča kos kruha, poročena žena pa stremi po dragocenem življenju."
+  },
+  {
+    "i": 16633,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 27,
+    "t": "Ali lahko kdo nosi ogenj v svojem naročju, da se ne bi vžgala njegova oblačila?"
+  },
+  {
+    "i": 16634,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 28,
+    "t": "Ali lahko kdo hodi po žerjavici, da si ne bi ožgal stopal?"
+  },
+  {
+    "i": 16635,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 29,
+    "t": "Tako je tisti, ki hodi k ženi svojega bližnjega: kdor se je dotakne, ne bo ostal nekaznovan."
+  },
+  {
+    "i": 16636,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 30,
+    "t": "Ne zaničujejo tatu, ki krade, da bi napolnil svojo želodec, ko je lačen;"
+  },
+  {
+    "i": 16637,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 31,
+    "t": "vendar, če ga dobijo, bo moral povrniti sedemkratno, dati vse imetje svoje hiše."
+  },
+  {
+    "i": 16638,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 32,
+    "t": "Kdor prešuštvuje, nima razuma, uničuje samega sebe, kdor to dela!"
+  },
+  {
+    "i": 16639,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 33,
+    "t": "Nabral si bo udarcev in sramote, njegova sramota ne bo nikoli izbrisana."
+  },
+  {
+    "i": 16640,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 34,
+    "t": "Kajti ljubosumnost vzbuja moževo besnost, na dan maščevanja ne bo imel usmiljenja,"
+  },
+  {
+    "i": 16641,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 35,
+    "t": "ne bo se oziral na nobeno odškodnino, ne bo privolil v nič, čeprav boš pomnožil darila."
+  },
+  {
+    "i": 16642,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 1,
+    "t": "Sin moj, ohranjaj moje besede, pri sebi hrani moje zapovedi."
+  },
+  {
+    "i": 16643,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 2,
+    "t": "Ohranjaj moje zapovedi in boš živel, naj bo moj nauk kakor zenica tvojih oči."
+  },
+  {
+    "i": 16644,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 3,
+    "t": "Veži jih na svoje prste, zapiši jih na tablico svojega srca."
+  },
+  {
+    "i": 16645,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 4,
+    "t": "Reci modrosti: »Ti si moja sestra!« Razumnosti reci sorodnica,"
+  },
+  {
+    "i": 16646,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 5,
+    "t": "da te obvaruje pred tujo ženo, pred neznanko z gladkimi besedami."
+  },
+  {
+    "i": 16647,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 6,
+    "t": "Ko sem stal pri oknu svoje hiše, sem gledal skozi rešetko,"
+  },
+  {
+    "i": 16648,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 7,
+    "t": "in sem videl med mladimi naivneži, opazil sem med otroki fanta brez razuma."
+  },
+  {
+    "i": 16649,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 8,
+    "t": "Ko je šel po ulici blizu njenega vogala, je stopil na pot proti njeni hiši,"
+  },
+  {
+    "i": 16650,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 9,
+    "t": "v somraku, ob večerni zarji, v mračnem objemu noči."
+  },
+  {
+    "i": 16651,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 10,
+    "t": "In glej, prišla mu je naproti žena, oblečena kakor vlačuga, prevara v njenem srcu."
+  },
+  {
+    "i": 16652,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 11,
+    "t": "Glasna in razvratna je, njene noge ne morejo obstati doma."
+  },
+  {
+    "i": 16653,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 12,
+    "t": "Časih na ulici, časih na trgih, pri vsakem vogalu preži."
+  },
+  {
+    "i": 16654,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 13,
+    "t": "Zgrabi ga in ga poljubi in z nesramnim obrazom mu reče:"
+  },
+  {
+    "i": 16655,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 14,
+    "t": "»Darovati sem morala mirovilno daritev, danes sem izpolnila svoje obljube,"
+  },
+  {
+    "i": 16656,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 15,
+    "t": "zato sem ti šla naproti, da bi te poiskala, in sem te našla."
+  },
+  {
+    "i": 16657,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 16,
+    "t": "Svojo posteljo sem pregrnila s preprogami, z vezeninami, z egipčansko tkanino,"
+  },
+  {
+    "i": 16658,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 17,
+    "t": "svojo ležišče sem poškropila z miro, alojevino in cimetom."
+  },
+  {
+    "i": 16659,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 18,
+    "t": "Pridi! Napojiva se z ljubeznijo do jutra! Uživajva v sladkosti!"
+  },
+  {
+    "i": 16660,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 19,
+    "t": "Kajti moža ni doma, odšel je na daljno potovanje,"
+  },
+  {
+    "i": 16661,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 20,
+    "t": "vzel je s seboj denarnico, ob polni luni se bo vrnil domov.«"
+  },
+  {
+    "i": 16662,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 21,
+    "t": "S svojo veliko zgovornostjo ga zapelje, s sladkim šarmom svojih ust ga premaga."
+  },
+  {
+    "i": 16663,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 22,
+    "t": "Takoj ji sledi, kakor vol, ki gre v klavnico, kakor nor, ki gre v okove kazni,"
+  },
+  {
+    "i": 16664,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 23,
+    "t": "dokler mu puščica ne prebode jeter, kakor ptica, ki hiti v past, ne vedoč, da gre za življenje."
+  },
+  {
+    "i": 16665,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 24,
+    "t": "Zdaj torej, sinovi, poslušajte me, bodite pozorni na besede mojih ust:"
+  },
+  {
+    "i": 16666,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 25,
+    "t": "naj se tvoje srce ne nagiba na njene poti, ne zaiti na njene steze,"
+  },
+  {
+    "i": 16667,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 26,
+    "t": "kajti mnogo jih je smrtno ranila in najmočnejši so bili njene žrtve."
+  },
+  {
+    "i": 16668,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 27,
+    "t": "Njena hiša je pot v podzemlje, ki vodi v dvorane smrti."
+  },
+  {
+    "i": 16669,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 1,
+    "t": "Ali ne kliče modrost in ali ne dviga razumnost svojega glasu?"
+  },
+  {
+    "i": 16670,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 2,
+    "t": "Na vrhu višin, ki gledajo na pot, na križišču cest stoji;"
+  },
+  {
+    "i": 16671,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 3,
+    "t": "blizu vrat, pri vhodu v mesto, ob vhodih vpije:"
+  },
+  {
+    "i": 16672,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 4,
+    "t": "»Ljudje! Vas kličem, moj glas je namenjen otrokom človeškim."
+  },
+  {
+    "i": 16673,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 5,
+    "t": "Neumni, spoznajte spretnost, bedaki, postanite razumni."
+  },
+  {
+    "i": 16674,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 6,
+    "t": "Poslušajte, imam vam povedati pomembne stvari, odpiram usta, da povem, kar je prav."
+  },
+  {
+    "i": 16675,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 7,
+    "t": "Resnico oznanja moje grlo, kajti hudobija je gnusoba mojim ustnicam."
+  },
+  {
+    "i": 16676,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 8,
+    "t": "Vse besede mojih ust so pravične, v njih ni nič krivičnega ali sprevrženega."
+  },
+  {
+    "i": 16677,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 9,
+    "t": "Vse so jasne tistemu, ki razume, poštene tistemu, ki je našel znanje."
+  },
+  {
+    "i": 16678,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 10,
+    "t": "Sprejmite moj nauk in ne denarja, znanje raje kot čisto zlato."
+  },
+  {
+    "i": 16679,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 11,
+    "t": "Kajti modrost je boljša kot biseri in nič od tega, kar si človek želi, se ne more primerjati z njo.«"
+  },
+  {
+    "i": 16680,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 12,
+    "t": "\"Jaz, Modrost, prebivam z razumnostjo in imam spoznanje premišljevanja."
+  },
+  {
+    "i": 16681,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 13,
+    "t": "\"(Strah Gospodov je sovraštvo do zla.) Sovražim napuh in oholost, hudobno pot in lažnive ustnice."
+  },
+  {
+    "i": 16682,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 14,
+    "t": "\"Moja sta nasvet in modrost, jaz sem razumnost, moja je moč!"
+  },
+  {
+    "i": 16683,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 15,
+    "t": "\"Po meni kralji kraljujejo in knezi razglašajo pravico;"
+  },
+  {
+    "i": 16684,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 16,
+    "t": "\"po meni vladajo vladarji in plemeniti, vsi pravični sodniki."
+  },
+  {
+    "i": 16685,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 17,
+    "t": "\"Ljubim tiste, ki me ljubijo, in kdor me goreče išče, me najde."
+  },
+  {
+    "i": 16686,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 18,
+    "t": "\"Pri meni je bogastvo in slava, trajno premoženje in pravičnost."
+  },
+  {
+    "i": 16687,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 19,
+    "t": "\"Moj sad je boljši od zlata, od čistega zlata, moj donos boljši od srebra."
+  },
+  {
+    "i": 16688,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 20,
+    "t": "\"Hodim po poti pravičnosti, po stezi pravice,"
+  },
+  {
+    "i": 16689,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 21,
+    "t": "\"da obogatim tiste, ki me ljubijo, in napolnim njihove zakladnice."
+  },
+  {
+    "i": 16690,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 22,
+    "t": "\"Gospod me je ustvaril kot začetek svojega dela, pred svojimi deli iz davnine."
+  },
+  {
+    "i": 16691,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 23,
+    "t": "\"Od vekomaj sem postavljena, od začetka, pred nastankom zemlje."
+  },
+  {
+    "i": 16692,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 24,
+    "t": "\"Ko še ni bilo globin, sem bila rojena, ko še ni bilo studencev, bogatih z vodo."
+  },
+  {
+    "i": 16693,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 25,
+    "t": "\"Preden so bile vstavljene gore, pred hribi sem bila rojena;"
+  },
+  {
+    "i": 16694,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 26,
+    "t": "\"preden je ustvaril zemljo in polja in prvine sveta."
+  },
+  {
+    "i": 16695,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 27,
+    "t": "\"Ko je utrjeval nebesa, sem bila tam, ko je začrtal krog nad obličjem globočine,"
+  },
+  {
+    "i": 16696,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 28,
+    "t": "\"ko je zgostil oblake na višavi, ko so se napolnili studenci globočine,"
+  },
+  {
+    "i": 16697,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 29,
+    "t": "\"ko je določil mejo morju – in vode ne bodo prestopile njegovega roba – ko je postavil temelje zemlji,"
+  },
+  {
+    "i": 16698,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 30,
+    "t": "\"sem bila ob njem kot umetnica, dan za dnem sem bila njegova radost, ves čas sem se igrala pred njim,"
+  },
+  {
+    "i": 16699,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 31,
+    "t": "\"sem se igrala na obličju njegove zemlje in našla veselje med otroki človeškimi."
+  }
+]

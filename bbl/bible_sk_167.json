@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16700,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 32,
+    "t": "\"Teraz tedy, synovia moji, počúvajte ma: Blažení tí, ktorí strážia moje cesty!"
+  },
+  {
+    "i": 16701,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 33,
+    "t": "Počúvajte napomenutie a zmúdrite, nepohŕdajte ním."
+  },
+  {
+    "i": 16702,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 34,
+    "t": "Blahoslavený človek, ktorý ma počúva, ktorý deň čo deň bdie pri mojich dverách, aby strážil moje veraje!"
+  },
+  {
+    "i": 16703,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 35,
+    "t": "Lebo kto ma nájde, nájde život a obdrží priazeň od Hospodina."
+  },
+  {
+    "i": 16704,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 36,
+    "t": "Ale kto hreší proti mne, ubližuje svojej duši, kto ma nenávidí, miluje smrť."
+  },
+  {
+    "i": 16705,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 1,
+    "t": "Múdrosť si postavila dom, vytesala si svojich sedem stĺpov,"
+  },
+  {
+    "i": 16706,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 2,
+    "t": "zabíjala si zvieratá, prichystala si víno, aj si prestrela stôl."
+  },
+  {
+    "i": 16707,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 3,
+    "t": "Vysielala svoje služobníčky a hlásala na návršiach, na vrchu mesta:"
+  },
+  {
+    "i": 16708,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 4,
+    "t": "\"Kto je prostý, nech sem vstúpi!\" Tomu, kto je nerozumný, povedala:"
+  },
+  {
+    "i": 16709,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 5,
+    "t": "\"Poďte, jedzte z môjho chleba a pite víno, ktoré som prichystala!"
+  },
+  {
+    "i": 16710,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 6,
+    "t": "Opustite hlúposť a budete žiť, kráčajte priamo cestou rozumnosti."
+  },
+  {
+    "i": 16711,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 7,
+    "t": "Kto karhá posmievača, privoláva na seba pohanu, kto napomína bezbožného, hanbu."
+  },
+  {
+    "i": 16712,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 8,
+    "t": "Nenapomínaj posmievača, lebo ťa bude nenávidieť, napomínaj múdreho, a bude ťa milovať."
+  },
+  {
+    "i": 16713,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 9,
+    "t": "Daj múdremu, a bude ešte múdrejší, pouč spravodlivého, a zveľadí svoje poznanie."
+  },
+  {
+    "i": 16714,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 10,
+    "t": "Začiatok múdrosti je bázeň pred Hospodinom! Poznanie svätých, to je rozumnosť."
+  },
+  {
+    "i": 16715,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 11,
+    "t": "Lebo skrze mňa sa rozmnožia tvoje dni a pribudnú ti roky života."
+  },
+  {
+    "i": 16716,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 12,
+    "t": "Ak si múdry, si múdry pre seba, ak si posmievač, sám ponesieš následky."
+  },
+  {
+    "i": 16717,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 13,
+    "t": "Pani Pochabosť je hlučná, je hlúpa a nič nevie!"
+  },
+  {
+    "i": 16718,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 14,
+    "t": "Sedí pri dverách svojho domu, na tróne, na vrchu mesta,"
+  },
+  {
+    "i": 16719,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 15,
+    "t": "aby volala na okoloidúcich, na tých, čo kráčajú priamo svojou cestou:"
+  },
+  {
+    "i": 16720,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 16,
+    "t": "\"Kto je prostý, nech sem zabočí!\" Tomu, kto je nerozumný, hovorí:"
+  },
+  {
+    "i": 16721,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 17,
+    "t": "\"Kradnuté vody sú sladké a chlieb tajný chutí!"
+  },
+  {
+    "i": 16722,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 18,
+    "t": "Ale nevie, že tam sú tiene a že jej pozvaní sú v hlbinách šeolu."
+  },
+  {
+    "i": 16723,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 1,
+    "t": "Príslovia Šalamúnove. Múdry syn obveseľuje otca, hlúpy syn zarmucuje matku."
+  },
+  {
+    "i": 16724,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 2,
+    "t": "Poklady získané bezbožnosťou neprospievajú, ale spravodlivosť vyslobodzuje zo smrti."
+  },
+  {
+    "i": 16725,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 3,
+    "t": "Hospodin nenechá spravodlivého hladovať, ale utláča žiadostivosť bezbožných."
+  },
+  {
+    "i": 16726,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 4,
+    "t": "Lenivá ruka ochudobňuje, ale ruka usilovných obohacuje."
+  },
+  {
+    "i": 16727,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 5,
+    "t": "Kto zhromažďuje v lete, je rozumný syn, kto spí počas žatvy, je syn hanebný."
+  },
+  {
+    "i": 16728,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 6,
+    "t": "Žehnanie spočíva na hlave spravodlivého, ale ústa bezbožných zakrývajú násilie."
+  },
+  {
+    "i": 16729,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 7,
+    "t": "Pamiatka na spravodlivého je požehnaná, ale meno bezbožných zhnije."
+  },
+  {
+    "i": 16730,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 8,
+    "t": "Múdry srdcom prijíma príkazy, ale bláznivý svojimi perami padne."
+  },
+  {
+    "i": 16731,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 9,
+    "t": "Kto chodí poctivo, chodí bezpečne, ale kto chodí krivo, bude odhalený."
+  },
+  {
+    "i": 16732,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 10,
+    "t": "Kto žmurká očami, pôsobí trápenie, ale kto karhá otvorene, pôsobí pokoj."
+  },
+  {
+    "i": 16733,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 11,
+    "t": "Ústa spravodlivého sú prameň života, ale ústa bezbožných zakrývajú násilie."
+  },
+  {
+    "i": 16734,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 12,
+    "t": "Nenávisť vyvoláva sváry, ale láska zakrýva všetky priestupky."
+  },
+  {
+    "i": 16735,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 13,
+    "t": "Na perách rozumného sa nachádza múdrosť, ale na chrbte nerozumného palica."
+  },
+  {
+    "i": 16736,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 14,
+    "t": "Múdri skrývajú poznanie, ale ústa blázna sú blízko zrúcaniny."
+  },
+  {
+    "i": 16737,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 15,
+    "t": "Majetok bohatého je jeho silným mestom, chudoba slabých je ich záhubou."
+  },
+  {
+    "i": 16738,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 16,
+    "t": "Plat spravodlivého vedie k životu, zárobok bezbožného k hriechu."
+  },
+  {
+    "i": 16739,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 17,
+    "t": "Kráča k životu, kto zachováva napomenutie, kto opúšťa karhanie, blúdi."
+  },
+  {
+    "i": 16740,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 18,
+    "t": "Kto skrýva nenávisť, má lživé pery, kto šíri ohováranie, je hlúpy."
+  },
+  {
+    "i": 16741,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 19,
+    "t": "V mnohých slovách nechýba priestupok, ale kto ovláda svoje pery, je rozumný."
+  },
+  {
+    "i": 16742,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 20,
+    "t": "Jazyk spravodlivého je rýdze striebro, srdce bezbožných má malú cenu."
+  },
+  {
+    "i": 16743,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 21,
+    "t": "Pery spravodlivého živia mnohých, ale hlúpi umierajú pre nedostatok rozumu."
+  },
+  {
+    "i": 16744,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 22,
+    "t": "Hospodinovo požehnanie obohacuje, a námaha k tomu nič nepridá."
+  },
+  {
+    "i": 16745,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 23,
+    "t": "Bláznovi je zábava páchať zločin, a rozumnému človeku pestovať múdrosť."
+  },
+  {
+    "i": 16746,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 24,
+    "t": "Čoho sa bojí bezbožný, to ho postihne, čo si praje spravodlivý, to sa mu splní."
+  },
+  {
+    "i": 16747,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 25,
+    "t": "Keď prejde víchrica, bezbožníka niet, ale spravodlivý je navždy pevne postavený."
+  },
+  {
+    "i": 16748,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 26,
+    "t": "Ako ocot pre zuby a dym pre oči, taký je lenivec pre toho, kto ho posiela."
+  },
+  {
+    "i": 16749,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 27,
+    "t": "Bázeň pred Hospodinom predlžuje dni, ale roky bezbožného budú skrátené."
+  },
+  {
+    "i": 16750,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 28,
+    "t": "Nádej spravodlivých je radosť, nádej bezbožných zahynie."
+  },
+  {
+    "i": 16751,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 29,
+    "t": "Hospodinova cesta je pevnosťou pre človeka bezúhonného, ale pre tých, čo páchajú neprávosť, záhubou."
+  },
+  {
+    "i": 16752,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 30,
+    "t": "Spravodlivý sa nikdy nepohne, ale bezbožníci nebudú bývať v krajine."
+  },
+  {
+    "i": 16753,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 31,
+    "t": "Ústa spravodlivého vyjadrujú múdrosť, ale jazyk prevrátený bude vyrezaný."
+  },
+  {
+    "i": 16754,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 32,
+    "t": "Pery spravodlivého poznajú priazeň, ústa bezbožných prevrátenosť."
+  },
+  {
+    "i": 16755,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 1,
+    "t": "Falošné váhy sú ohavnosťou pre Hospodina, ale spravodlivá váha je mu milá."
+  },
+  {
+    "i": 16756,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 2,
+    "t": "Keď príde pýcha, príde aj potupa, ale pri pokorných je múdrosť."
+  },
+  {
+    "i": 16757,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 3,
+    "t": "Ich poctivosť vedie priamych, ich prevrátenosť privedie zradných do záhuby."
+  },
+  {
+    "i": 16758,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 4,
+    "t": "V deň hnevu bohatstvo neosoží, ale spravodlivosť vyslobodzuje zo smrti."
+  },
+  {
+    "i": 16759,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 5,
+    "t": "Spravodlivosť bezúhonného urovnáva jeho cestu, bezbožník padne vo svojej bezbožnosti."
+  },
+  {
+    "i": 16760,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 6,
+    "t": "Spravodlivosť vyslobodzuje priamych, zradní sa chytia do svojej žiadostivosti."
+  },
+  {
+    "i": 16761,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 7,
+    "t": "Keď zomrie bezbožník, jeho nádej zahynie, očakávanie od bohatstva zanikne."
+  },
+  {
+    "i": 16762,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 8,
+    "t": "Spravodlivý unikne úzkosti, a bezbožník príde na jeho miesto."
+  },
+  {
+    "i": 16763,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 9,
+    "t": "Svojimi ústami bezbožný ruinuje svojho blížneho, ale skrze poznanie sa spravodliví zachránia."
+  },
+  {
+    "i": 16764,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 10,
+    "t": "Pri šťastí spravodlivých mesto plesá, pri zahynutí bezbožných je jasot."
+  },
+  {
+    "i": 16765,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 11,
+    "t": "Požehnaním priamych sa mesto pozdvihuje, ústami bezbožných sa rozvracia."
+  },
+  {
+    "i": 16766,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 12,
+    "t": "Kto pohŕda svojím blížnym, je zbavený rozumu, človek rozumný mlčí."
+  },
+  {
+    "i": 16767,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 13,
+    "t": "Kto roznáša ohováranie, prezrádza tajnosti, kto je verný duchom, skrýva vec."
+  },
+  {
+    "i": 16768,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 14,
+    "t": "Keď chýba vedenie, ľud padá, úspech závisí od veľkého počtu radcov."
+  },
+  {
+    "i": 16769,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 15,
+    "t": "Kto sa zaručí za cudzieho, zle sa mu povedie, kto sa zdráha dať ruku, je v bezpečí."
+  },
+  {
+    "i": 16770,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 16,
+    "t": "Žena pôvabná získava česť, násilníci získavajú bohatstvo."
+  },
+  {
+    "i": 16771,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 17,
+    "t": "Človek milosrdný robí dobre svojej duši, ale človek neúprosný trápi svoje telo."
+  },
+  {
+    "i": 16772,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 18,
+    "t": "Bezbožný koná prácu klamlivú, kto rozsievava spravodlivosť, odmenu istú."
+  },
+  {
+    "i": 16773,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 19,
+    "t": "Kto sa drží spravodlivosti, smeruje k životu, kto sa ženie za zlom, k smrti."
+  },
+  {
+    "i": 16774,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 20,
+    "t": "Ohavnosťou pre Hospodina sú prevrátené srdcia, má v obľube tých, ktorí sú bezúhonní v konaní."
+  },
+  {
+    "i": 16775,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 21,
+    "t": "Bezbožný určite nezostane bez trestu, ale potomstvo spravodlivých bude zachránené."
+  },
+  {
+    "i": 16776,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 22,
+    "t": "Zlatý krúžok v rypáku svine: žena krásna, ale bez rozumu."
+  },
+  {
+    "i": 16777,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 23,
+    "t": "Želanie spravodlivých je len dobro, nádej bezbožných je hnev."
+  },
+  {
+    "i": 16778,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 24,
+    "t": "Jeden rozdáva a jeho majetok sa rozhojňuje, iný zadržiava, čo patrí, a chudobnie."
+  },
+  {
+    "i": 16779,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 25,
+    "t": "Duša, ktorá žehná, zbohatne, a kto napája, bude napojený."
+  },
+  {
+    "i": 16780,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 26,
+    "t": "Ľud zlorečí tomu, kto zadržiava obilie, požehnanie však nech spočíva na hlave toho, kto ho predáva."
+  },
+  {
+    "i": 16781,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 27,
+    "t": "Kto sa usiluje o dobro, hľadá priazeň, ale kto sa ženie za zlom, toho ono dostihne."
+  },
+  {
+    "i": 16782,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 28,
+    "t": "Kto sa spolieha na bohatstvo, padne, ale spravodliví sa budú zelenať ako lístie."
+  },
+  {
+    "i": 16783,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 29,
+    "t": "Kto rozvracia svoj dom, zdedí vietor, a blázon bude sluhom múdreho."
+  },
+  {
+    "i": 16784,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 30,
+    "t": "Ovocie spravodlivého je strom života a múdry získava duše."
+  },
+  {
+    "i": 16785,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 31,
+    "t": "Ak spravodlivý už tu na zemi dostáva odplatu, o čo viac bezbožný a hriešnik!"
+  },
+  {
+    "i": 16786,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 1,
+    "t": "Kto miluje napomínanie, miluje poznanie, kto nenávidí karhanie, je hlúpy."
+  },
+  {
+    "i": 16787,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 2,
+    "t": "Dobrého človeka si Pán obľúbi, ale muža zlomyseľného odsúdi."
+  },
+  {
+    "i": 16788,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 3,
+    "t": "Človek nezakorení nešetrnosťou, ale koreň spravodlivých sa nepohne."
+  },
+  {
+    "i": 16789,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 4,
+    "t": "Žena statočná je korunou svojho muža, ale hanebná žena je ako kaz v jeho kostiach."
+  },
+  {
+    "i": 16790,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 5,
+    "t": "Myšlienky spravodlivých sú spravodlivé, úmysly bezbožných sú klamlivé."
+  },
+  {
+    "i": 16791,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 6,
+    "t": "Reči bezbožných číhajú na krv, ale ústa statočných ich vyslobodzujú."
+  },
+  {
+    "i": 16792,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 7,
+    "t": "Keď budú bezbožní zvrhnutí, nebude ich, ale dom spravodlivých obstojí."
+  },
+  {
+    "i": 16793,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 8,
+    "t": "Človek sa chváli podľa svojej múdrosti, ale prevrátené srdce bude v opovrhnutí."
+  },
+  {
+    "i": 16794,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 9,
+    "t": "Lepší je obyčajný človek, ktorý má sluhu, ako ten, čo sa vystatuje a nemá chleba."
+  },
+  {
+    "i": 16795,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 10,
+    "t": "Spravodlivý pozná potreby svojho dobytka, ale srdce bezbožných je kruté."
+  },
+  {
+    "i": 16796,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 11,
+    "t": "Kto obrába svoju pôdu, bude nasýtený chlebom, ale kto sa ženie za márnosťami, je nerozumný."
+  },
+  {
+    "i": 16797,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 12,
+    "t": "Bezbožný prahne po koristi zloduchov, ale koreň spravodlivých prináša úrodu."
+  },
+  {
+    "i": 16798,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 13,
+    "t": "V previnení úst je nebezpečný osídlom, ale spravodlivý unikne z tiesne."
+  },
+  {
+    "i": 16799,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 14,
+    "t": "Z ovocia svojich úst sa človek nasýti dobra, a každému sa odplatí podľa jeho skutkov."
+  }
+]

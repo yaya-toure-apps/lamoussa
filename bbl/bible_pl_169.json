@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16900,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 27,
+    "t": "Kto pożąda grabieży, ten dom swój turbuje, lecz kto darów nienawidzi, żyć będzie."
+  },
+  {
+    "i": 16901,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 28,
+    "t": "Serce sprawiedliwego rozmyśla, co ma odpowiedzieć, lecz usta niegodziwych wyrzucają złość."
+  },
+  {
+    "i": 16902,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 29,
+    "t": "Daleki jest Pan od niegodziwych, lecz modlitwę sprawiedliwych wysłuchuje."
+  },
+  {
+    "i": 16903,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 30,
+    "t": "Jasne oczy radują serce, a dobra nowina krzepi kości."
+  },
+  {
+    "i": 16904,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 31,
+    "t": "Ucho, które słucha zbawiennych upomnień, zamieszka pośród mądrych."
+  },
+  {
+    "i": 16905,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 32,
+    "t": "Kto odrzuca karcenie, gardzi duszą swoją, lecz kto słucha upomnień, nabywa rozumu."
+  },
+  {
+    "i": 16906,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 33,
+    "t": "Bojaźń Pańska jest szkołą mądrości, a przed chwałą idzie pokora."
+  },
+  {
+    "i": 16907,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 1,
+    "t": "Człowiek układa w sercu zamysły swoje, ale od Pana pochodzi odpowiedź języka."
+  },
+  {
+    "i": 16908,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 2,
+    "t": "Wszystkie drogi człowieka zda się mu czyste, ale Pan bada duchy."
+  },
+  {
+    "i": 16909,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 3,
+    "t": "Powierz Panu sprawy swoje, a spełnią się zamysły twoje."
+  },
+  {
+    "i": 16910,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 4,
+    "t": "Pan uczynił wszystko dla siebie, nawet niegodziwego na dzień zły."
+  },
+  {
+    "i": 16911,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 5,
+    "t": "Obrzydliwością dla Pana jest wszelki pyszny w sercu; z pewnością nie ujdzie on bezkarnie."
+  },
+  {
+    "i": 16912,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 6,
+    "t": "Przez miłość i wierność oczyszcza się wina, a przez bojaźń Pańską unika się zła."
+  },
+  {
+    "i": 16913,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 7,
+    "t": "Gdy Panu podobają się drogi człowieka, to nawet jego wrogów skłania ku zgodzie z nim."
+  },
+  {
+    "i": 16914,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 8,
+    "t": "Lepsze jest mało z sprawiedliwością, niż wielkie dochody bez prawa."
+  },
+  {
+    "i": 16915,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 9,
+    "t": "Serce człowieka obmyśla drogę swoją, lecz Pan kieruje jego krokami."
+  },
+  {
+    "i": 16916,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 10,
+    "t": "Wyrocznia jest na ustach króla, w sądzie nie zbłądzi jego usta."
+  },
+  {
+    "i": 16917,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 11,
+    "t": "Waga i szala sprawiedliwa należy do Pana, wszystkie odważniki w worku są Jego dziełem."
+  },
+  {
+    "i": 16918,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 12,
+    "t": "Obrzydliwością dla królów jest czynić zło, bo na sprawiedliwości opiera się tron."
+  },
+  {
+    "i": 16919,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 13,
+    "t": "Usta sprawiedliwe zyskują łaskę króla, a miłuje on tego, który mówi szczerze."
+  },
+  {
+    "i": 16920,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 14,
+    "t": "Gniew króla jest zwiastunem śmierci, ale człowiek mądry go uśmierza."
+  },
+  {
+    "i": 16921,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 15,
+    "t": "W jasności oblicza królewskiego jest życie, a łaska jego jest jak obłok deszczu wiosennego."
+  },
+  {
+    "i": 16922,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 16,
+    "t": "O ileż lepsze jest nabywanie mądrości niż złota! Nabywanie rozumu jest bardziej pożądane niż srebra."
+  },
+  {
+    "i": 16923,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 17,
+    "t": "Droga prawych wiedzie z dala od zła; kto strzeże drogi swej, ten strzeże życia swego."
+  },
+  {
+    "i": 16924,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 18,
+    "t": "Pycha poprzedza upadek, a wyniosłość ducha ruinę."
+  },
+  {
+    "i": 16925,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 19,
+    "t": "Lepiej być pokornym z ubogimi, niż dzielić łupy z pysznymi."
+  },
+  {
+    "i": 16926,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 20,
+    "t": "Kto zważa na słowo, znajduje szczęście, a kto ufa Panu, jest błogosławiony."
+  },
+  {
+    "i": 16927,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 21,
+    "t": "Serce mądre nazywają rozumnym, a słodycz ust pomnaża wiedzę."
+  },
+  {
+    "i": 16928,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 22,
+    "t": "Rozum jest źródłem życia dla tego, kto go posiada, a karą głupich jest ich głupota."
+  },
+  {
+    "i": 16929,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 23,
+    "t": "Serce mądrego poucza usta jego i dodaje wiedzy jego wargom."
+  },
+  {
+    "i": 16930,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 24,
+    "t": "Słowa uprzejme są jak plaster miodu: słodkie dla duszy i lekarstwem dla ciała."
+  },
+  {
+    "i": 16931,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 25,
+    "t": "Niejedna droga zda się człowiekowi prosta, lecz na końcu prowadzi do śmierci."
+  },
+  {
+    "i": 16932,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 26,
+    "t": "Głód robotnika pracuje dla niego, bo zmusza go do tego jego własne usta."
+  },
+  {
+    "i": 16933,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 27,
+    "t": "Człowiek podły knuje zło, a na jego wargach jest jak ogień palący."
+  },
+  {
+    "i": 16934,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 28,
+    "t": "Człowiek przewrotny wznieca spory, a potwarca skłóca przyjaciół."
+  },
+  {
+    "i": 16935,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 29,
+    "t": "Człowiek gwałtowny zwodzi bliźniego swego i prowadzi go drogą niedobrą."
+  },
+  {
+    "i": 16936,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 30,
+    "t": "Kto mruży oczy, obmyśla przewrotności, kto zaciska usta, doprowadza do zła."
+  },
+  {
+    "i": 16937,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 31,
+    "t": "Koroną chwały są siwe włosy, znajdują się na drodze sprawiedliwości."
+  },
+  {
+    "i": 16938,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 32,
+    "t": "Lepszy jest cierpliwy niż bohater, a panujący nad sobą niż zdobywca miasta."
+  },
+  {
+    "i": 16939,
+    "b": 19,
+    "c": 2116,
+    "r": 2116,
+    "o": 33,
+    "t": "Los rzuca się w zanadrze, lecz od Pana zależy wszelki wyrok."
+  },
+  {
+    "i": 16940,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 1,
+    "t": "Lepszy jest kawałek suchego chleba w spokoju, niż dom pełen ofiar przy sporach."
+  },
+  {
+    "i": 16941,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 2,
+    "t": "Sługa roztropny panuje nad synem niegodnym, a wśród braci dzieli dziedzictwo."
+  },
+  {
+    "i": 16942,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 3,
+    "t": "Tygliel dla srebra, piec dla złota, a Pan bada serca."
+  },
+  {
+    "i": 16943,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 4,
+    "t": "Zły zważa na wargi złośliwe, a kłamca nakłania ucha ku językowi przewrotnemu."
+  },
+  {
+    "i": 16944,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 5,
+    "t": "Kto drwi z ubogiego, znieważa Stwórcę jego, a kto się cieszy z nieszczęścia, nie ujdzie bezkarnie."
+  },
+  {
+    "i": 16945,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 6,
+    "t": "Koroną starców są wnuki, a chwałą synów są ich ojcowie."
+  },
+  {
+    "i": 16946,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 7,
+    "t": "Nie przystoi głupiemu język dostojny, a tym bardziej księciu język kłamliwy."
+  },
+  {
+    "i": 16947,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 8,
+    "t": "Dar jest jak amulet w oczach tego, który go ma: gdziekolwiek się obróci, ma powodzenie."
+  },
+  {
+    "i": 16948,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 9,
+    "t": "Kto pokrywa występek, szuka miłości, a kto powtarza sprawę, skłóca przyjaciół."
+  },
+  {
+    "i": 16949,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 10,
+    "t": "Więcej znaczy nagana dla rozumnego, niż sto batów dla głupiego."
+  },
+  {
+    "i": 16950,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 11,
+    "t": "Zły dąży tylko do buntu, lecz okrutny posłaniec zostanie przeciw niemu wysłany."
+  },
+  {
+    "i": 16951,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 12,
+    "t": "Lepiej spotkać niedźwiedzicę pozbawioną młodych, niż głupiego w jego szaleństwie."
+  },
+  {
+    "i": 16952,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 13,
+    "t": "Kto oddaje złem za dobre, zło nie odstąpi od domu jego."
+  },
+  {
+    "i": 16953,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 14,
+    "t": "Zaczynanie sporu jest jak spuszczanie wody; zanim wybuchnie kłótnia, odstąp od niej."
+  },
+  {
+    "i": 16954,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 15,
+    "t": "Uniewinnianie winnego i potępianie sprawiedliwego: obojgu tym brzydzi się Pan."
+  },
+  {
+    "i": 16955,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 16,
+    "t": "Po co głupiemu pieniądze w ręku? Czyżby miał kupić mądrość? Przecież nie ma serca!"
+  },
+  {
+    "i": 16956,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 17,
+    "t": "Przyjaciel kocha w każdym czasie, a brat rodzi się w utrapieniu."
+  },
+  {
+    "i": 16957,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 18,
+    "t": "Człowiek nierozumny daje rękę i ręczy za bliźniego swego."
+  },
+  {
+    "i": 16958,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 19,
+    "t": "Kto kocha spór, kocha występek, a kto podwyższa bramę swoją, szuka upadku."
+  },
+  {
+    "i": 16959,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 20,
+    "t": "Serce przewrotne nie znajduje szczęścia, a kto ma język złośliwy, wpada w nieszczęście."
+  },
+  {
+    "i": 16960,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 21,
+    "t": "Kto rodzi głupiego, rodzi ku smutkowi swemu; nie ma radości ojciec bezrozumnego."
+  },
+  {
+    "i": 16961,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 22,
+    "t": "Serce radosne dobrze robi ciału, a duch przygnębiony wysusza kości."
+  },
+  {
+    "i": 16962,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 23,
+    "t": "Niegodziwy przyjmuje podarunek spod płaszcza, aby skrzywić ścieżki prawa."
+  },
+  {
+    "i": 16963,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 24,
+    "t": "Człowiek rozumny ma przed sobą mądrość, ale oczy głupiego błądzą po krańcach ziemi."
+  },
+  {
+    "i": 16964,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 25,
+    "t": "Zmartwieniem dla ojca jest syn głupi, a goryczą dla tej, która go urodziła."
+  },
+  {
+    "i": 16965,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 26,
+    "t": "Nie jest dobrze karać sprawiedliwego, ani bić szlachetnych z powodu prawości."
+  },
+  {
+    "i": 16966,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 27,
+    "t": "Kto powściąga słowa swoje, ten zna się na rzeczy, a człowiek spokojnego ducha jest roztropny."
+  },
+  {
+    "i": 16967,
+    "b": 19,
+    "c": 2117,
+    "r": 2117,
+    "o": 28,
+    "t": "Nawet głupi, gdy milczy, uchodzi za mądrego, a kto zamyka usta swoje, za roztropnego."
+  },
+  {
+    "i": 16968,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 1,
+    "t": "Kto żyje w odosobnieniu, szuka swego upodobania i sprzeciwia się wszelkiej mądrości."
+  },
+  {
+    "i": 16969,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 2,
+    "t": "Głupi nie ma upodobania w rozumie, ale w tym, aby objawić swoje zdanie."
+  },
+  {
+    "i": 16970,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 3,
+    "t": "Gdy przychodzi zły, przychodzi też pogarda, a z hańbą – zniewaga."
+  },
+  {
+    "i": 16971,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 4,
+    "t": "Głębokie wody to słowa ust ludzkich, a strumień wylewny – źródło mądrości."
+  },
+  {
+    "i": 16972,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 5,
+    "t": "Niedobrze jest sprzyjać złemu, aby wykrzywiać prawo w sądzie."
+  },
+  {
+    "i": 16973,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 6,
+    "t": "Usta głupiego wiodą do sporu, a jego usta wołają o razy."
+  },
+  {
+    "i": 16974,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 7,
+    "t": "Usta głupiego są jego zgubą, a jego wargi sidłem dla jego duszy."
+  },
+  {
+    "i": 16975,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 8,
+    "t": "Słowa potwarcy są jak smakołyki: zstępują do głębi wnętrzności."
+  },
+  {
+    "i": 16976,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 9,
+    "t": "Kto jest niedbały w pracy swojej, ten jest bratem niszczyciela."
+  },
+  {
+    "i": 16977,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 10,
+    "t": "Wieżą warowną jest imię Pańskie: sprawiedliwy biegnie do niej i jest bezpieczny."
+  },
+  {
+    "i": 16978,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 11,
+    "t": "Bogactwo bogatego jest jego warownym miastem i w jego wyobrażeniu wysokim murem."
+  },
+  {
+    "i": 16979,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 12,
+    "t": "Przed upadkiem serce człowieka się wynosi, a przed chwałą idzie pokora."
+  },
+  {
+    "i": 16980,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 13,
+    "t": "Kto odpowiada, zanim usłyszy, głupotą i hańbą sobie okrywa."
+  },
+  {
+    "i": 16981,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 14,
+    "t": "Duch człowieka znosi chorobę, lecz ducha złamanego któż podźwignie?"
+  },
+  {
+    "i": 16982,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 15,
+    "t": "Serce rozumne nabywa wiedzy, a ucho mądrych szuka poznania."
+  },
+  {
+    "i": 16983,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 16,
+    "t": "Dar otwiera człowiekowi drogę i wiedzie go przed oblicze możnych."
+  },
+  {
+    "i": 16984,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 17,
+    "t": "Pierwszy w sporze wydaje się prawy, lecz gdy przyjdzie jego przeciwnik, wtedy rzecz się wyjaśni."
+  },
+  {
+    "i": 16985,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 18,
+    "t": "Los kładzie kres sporom i rozsądza między potężnymi."
+  },
+  {
+    "i": 16986,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 19,
+    "t": "Brat obrażony jest trudniejszy do zdobycia niż miasto warowne, a zwady są jak zawory u baszty."
+  },
+  {
+    "i": 16987,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 20,
+    "t": "Z owocu ust swoich człowiek nasyca żołądek, a płody warg jego go nasycają."
+  },
+  {
+    "i": 16988,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 21,
+    "t": "Śmierć i życie są w mocy języka, a którzy go miłują, będą jedli jego owoc."
+  },
+  {
+    "i": 16989,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 22,
+    "t": "Kto znalazł żonę, znalazł dobro i dostąpił łaski u Pana."
+  },
+  {
+    "i": 16990,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 23,
+    "t": "Ubogi mówi błagalnie, a bogaty odpowiada twardo."
+  },
+  {
+    "i": 16991,
+    "b": 19,
+    "c": 2118,
+    "r": 2118,
+    "o": 24,
+    "t": "Człowiek o wielu przyjaciołach bywa nieszczęśliwy, ale bywa i przyjaciel bardziej oddany niż brat."
+  },
+  {
+    "i": 16992,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 1,
+    "t": "Lepszy ubogi, który żyje uczciwie, niż ten, co ma usta przewrotne i jest głupcem."
+  },
+  {
+    "i": 16993,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 2,
+    "t": "Niedobrze jest, gdy zapałowi brak wiedzy, a kto się spieszy, błądzi."
+  },
+  {
+    "i": 16994,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 3,
+    "t": "Głupota człowieka podkopuje jego drogę, a serce jego gniewa się na Pana."
+  },
+  {
+    "i": 16995,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 4,
+    "t": "Bogactwo przysparza przyjaciół, a ubogi opuszczony jest przez swego przyjaciela."
+  },
+  {
+    "i": 16996,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 5,
+    "t": "Świadek fałszywy nie ujdzie kary, a kto kłamie, nie uniknie sądu."
+  },
+  {
+    "i": 16997,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 6,
+    "t": "Wielu zabiega o względy hojnego człowieka, a każdy jest przyjacielem dawcy darów."
+  },
+  {
+    "i": 16998,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 7,
+    "t": "Wszyscy bracia ubogiego go nienawidzą, a tym bardziej oddalają się od niego przyjaciele jego. On szuka słów, lecz ich nie znajduje!"
+  },
+  {
+    "i": 16999,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 8,
+    "t": "Kto nabywa mądrości, kocha swoją duszę, a kto strzeże rozumu, znajdzie szczęście."
+  }
+]

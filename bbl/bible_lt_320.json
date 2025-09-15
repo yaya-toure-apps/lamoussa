@@ -1,0 +1,795 @@
+[
+  {
+    "i": 32000,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 28,
+    "t": "Šaukdami garsiai: „Vyrai izraelitai, ateikite į pagalbą! Tai yra tas žmogus, kuris visur ir visiems moko prieš mūsų tautą, prieš Įstatymą ir prieš šią vietą! Be to, jis įvedė graikus į Šventyklą ir suteršė šią šventą vietą.“"
+  },
+  {
+    "i": 32001,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 29,
+    "t": "Iš tiesų, jie anksčiau mieste buvo matę efeziečių Trofimą kartu su juo ir manė, kad Paulius įvedė jį į Šventyklą."
+  },
+  {
+    "i": 32002,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 30,
+    "t": "Visas miestas buvo sujudintas, ir žmonės susibūrė iš visų pusių. Jie sučiupo Paulių, pradėjo tempti jį iš Šventyklos, ir durys tuojau buvo uždarytos."
+  },
+  {
+    "i": 32003,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 31,
+    "t": "Jie norėjo jį nužudyti, kai ši žinia pasiekė kohortos tribūną: „Visas Jeruzalė apsiverčia aukštyn kojomis!“"
+  },
+  {
+    "i": 32004,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 32,
+    "t": "Tuojau pat, pasiėmęs su savimi kareivius ir šimtininkus, jis puolė ant minios. Pamatę tribūną ir kareivius, jie nustojo mušti Paulių."
+  },
+  {
+    "i": 32005,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 33,
+    "t": "Tada tribūnas priėjo, sučiupo jį ir įsakė surišti dviem grandinėmis; paskui paklausė, kas jis yra ir ką padarė."
+  },
+  {
+    "i": 32006,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 34,
+    "t": "Tačiau minioje vieni šaukė viena, kiti - kita. Negalėdamas toje sumaištyje nieko tiksliai sužinoti, jis įsakė nuvesti Paulių į tvirtovę."
+  },
+  {
+    "i": 32007,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 35,
+    "t": "Kai jis pasiekė laiptus, kareiviai turėjo jį nešti dėl minios įniršio."
+  },
+  {
+    "i": 32008,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 36,
+    "t": "Nes žmonės masiškai sekė iš paskos šaukdami: „Mirtis jam!“"
+  },
+  {
+    "i": 32009,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 37,
+    "t": "Besiruošiant įvesti jį į tvirtovę, Paulius tarė tribūnui: „Ar man būtų leista tau ką nors pasakyti?“ - „Ar tu moki graikų kalbą? - paklausė šis."
+  },
+  {
+    "i": 32010,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 38,
+    "t": "Ar tu ne tas egiptietis, kuris pastaruoju metu sukėlė keturis tūkstančius plėšikų ir nusivedė juos į dykumą?“"
+  },
+  {
+    "i": 32011,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 39,
+    "t": "„Aš esu žydas, - atsakė Paulius, - iš Tarso Kilikijoje, garsaus miesto pilietis. Prašau tave, leisk man pasikalbėti su žmonėmis.“"
+  },
+  {
+    "i": 32012,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 40,
+    "t": "Leidimą gavęs, Paulius, stovėdamas ant laiptų, ranka davė ženklą žmonėms. Pasidarė didelė tyla. Tada jis kreipėsi į juos hebrajų kalba."
+  },
+  {
+    "i": 32013,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 1,
+    "t": "„Broliai ir tėvai, išklausykite, ką dabar turiu jums pasakyti savo gynybai.“"
+  },
+  {
+    "i": 32014,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 2,
+    "t": "Išgirdę, kad jis kreipiasi į juos hebrajų kalba, jie dar labiau nutylo. Jis tęsė:"
+  },
+  {
+    "i": 32015,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 3,
+    "t": "„Aš esu žydas. Gimiau Tarse Kilikijoje, tačiau buvau užaugintas čia, šiame mieste, ir prie Gamalielio kojų buvau išmokytas tiksliai laikytis mūsų tėvų Įstatymo, ir buvau kupinas Dievo uolumo, kaip ir jūs visi šiandien."
+  },
+  {
+    "i": 32016,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 4,
+    "t": "Aš persekiojau šį Kelią iki mirties, surišdavau grandinėmis ir mesdavau į kalėjimą vyrus ir moteris,"
+  },
+  {
+    "i": 32017,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 5,
+    "t": "kaip man liudija vyriausiasis kunigas ir visa vyresniųjų kolegija. Aš netgi buvau gavęs iš jų laiškus broliams Damaske ir keliavau ten, kad atvesčiau tuos iš ten surištus į Jeruzalę, kad būtų nubausti."
+  },
+  {
+    "i": 32018,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 6,
+    "t": "„Kelionėje artinantis prie Damasko, staiga apie vidurdienį didelė šviesa iš dangaus apšvietė mane savo spindesiu."
+  },
+  {
+    "i": 32019,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 7,
+    "t": "Aš kritau ant žemės ir išgirdau balsą, kuris man sakė: „Sauliau, Sauliau, kodėl mane persekioji?“"
+  },
+  {
+    "i": 32020,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 8,
+    "t": "Aš atsakiau: „Kas tu esi, Viešpatie?“ Jis man tarė: „Aš esu Jėzus Nazarėnas, kurį tu persekioji.“"
+  },
+  {
+    "i": 32021,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 9,
+    "t": "Tie, kurie buvo su manimi, matė šviesą, bet negirdėjo to, kuris su manimi kalbėjo, balso."
+  },
+  {
+    "i": 32022,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 10,
+    "t": "Aš paklausiau: „Ką man daryti, Viešpatie?“ Viešpats man tarė: „Kelkis. Eik į Damaską. Ten tau bus pasakyta viskas, ką tau skirta padaryti.“"
+  },
+  {
+    "i": 32023,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 11,
+    "t": "Bet kadangi nieko nebemačiau dėl tos šviesos spindesio, tai, vedamas mano palydovų už rankos, atvykau į Damaską."
+  },
+  {
+    "i": 32024,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 12,
+    "t": "„Ten buvo tam tikras Ananijas, pamaldus žmogus pagal Įstatymą ir turintis gerą visų miesto žydų liudijimą;"
+  },
+  {
+    "i": 32025,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 13,
+    "t": "jis atėjo pas mane ir, priėjęs prie manęs, tarė: „Sauliau, mano broli, atgauk regėjimą.“ Ir aš, tą pačią akimirką, galėjau jį matyti."
+  },
+  {
+    "i": 32026,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 14,
+    "t": "Tada jis tarė: „Mūsų tėvų Dievas iš anksto paskyrė tave pažinti Jo valią, matyti Teisųjį ir girdėti balsą, išeinantį iš Jo burnos;"
+  },
+  {
+    "i": 32027,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 15,
+    "t": "nes Jam tu turi būti liudytojas prieš visus žmones to, ką matei ir girdėjai.“"
+  },
+  {
+    "i": 32028,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 16,
+    "t": "Kodėl dar delsi? Eik! Pasikrikštyk ir apsivalyk nuo savo nuodėmių, šaukdamasis Jo vardo."
+  },
+  {
+    "i": 32029,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 17,
+    "t": "„Grįžęs į Jeruzalę, man atsitiko, vieną dieną meldžiantis Šventykloje, patekti į ekstazę."
+  },
+  {
+    "i": 32030,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 18,
+    "t": "Aš mačiau Viešpatį, kuris man tarė: „Skubėk, greitai išeik iš Jeruzalės, nes jie nepriims tavo liudijimo apie mane.“"
+  },
+  {
+    "i": 32031,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 19,
+    "t": "„Viešpatie, - atsakiau aš, - jie juk gerai žino, kad sinagogoje po sinagogos mesdavau į kalėjimą ir plakdavau rykštėmis tuos, kurie tiki Tavimi;"
+  },
+  {
+    "i": 32032,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 20,
+    "t": "ir kai buvo praliejamas Stepono, Tavo liudytojo, kraujas, aš irgi ten buvau, sutikdamas su tais, kurie jį žudė, ir saugojau jų drabužius.“"
+  },
+  {
+    "i": 32033,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 21,
+    "t": "Tada Jis man tarė: „Eik; toli, pas pagonis, Aš noriu tave siųsti.““"
+  },
+  {
+    "i": 32034,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 22,
+    "t": "Iki tol jie jo klausėsi. Bet išgirdę šiuos žodžius, jie pradėjo šaukti: „Pašalinkite tokį žmogų nuo žemės! Jis nevertas gyventi!“"
+  },
+  {
+    "i": 32035,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 23,
+    "t": "Jie klykdavo, mėtydavo savo drabužius ir svaidydavo dulkes į orą."
+  },
+  {
+    "i": 32036,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 24,
+    "t": "Tada tribūnas įsakė įvesti jį į tvirtovę ir įsakė jį tardyti plakant, kad sužinotų, dėl kokios priežasties jie taip prieš jį šaukiasi."
+  },
+  {
+    "i": 32037,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 25,
+    "t": "Kai jis buvo pririštas diržais, Paulius tarė budinčiam šimtininkui: „Ar jums leidžiama plakti Romos pilietį, kuris net nebuvo teisiamas?“"
+  },
+  {
+    "i": 32038,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 26,
+    "t": "Išgirdęs šiuos žodžius, šimtininkas nuėjo pas tribūną ir perspėjo jį: „Ką tu ketini daryti? Šis žmogus yra Romos pilietis.“"
+  },
+  {
+    "i": 32039,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 27,
+    "t": "Tada tribūnas atėjo paklausti Pauliaus: „Sakyk man, ar tu esi Romos pilietis?“ - „Taip“, - atsakė jis."
+  },
+  {
+    "i": 32040,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 28,
+    "t": "Tribūnas atsakė: „Man reikėjo sumokėti didelę sumą, kad įgyčiau šią pilietybės teisę.“ - „O aš ją turiu iš gimimo“, - tarė Paulius."
+  },
+  {
+    "i": 32041,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 29,
+    "t": "Tuojau pat tie, kurie ketino jį tardyti, atsitraukė nuo jo, ir pats tribūnas išsigando, žinodamas, kad jis surišo grandinėmis Romos pilietį."
+  },
+  {
+    "i": 32042,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 30,
+    "t": "Kitą dieną, norėdamas sužinoti, kuo žydai jį iš tikrųjų kaltina, jis atrišo jį ir įsakė vyriausiesiems kunigams bei visam Sinedrionui susirinkti; tada atvedė Paulių ir pastatė jį prieš juos."
+  },
+  {
+    "i": 32043,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 1,
+    "t": "Įdėmiai pažvelgęs į Sinedrioną, Paulius tarė: „Broliai, aš visai sąžiningai elgiausi prieš Dievą iki šios dienos.“"
+  },
+  {
+    "i": 32044,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 2,
+    "t": "Bet vyriausiasis kunigas Ananijas įsakė jo padėjėjams smogti jam per burną."
+  },
+  {
+    "i": 32045,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 3,
+    "t": "Tada Paulius jam tarė: „Dievas tave smogs, tu nubalintas sienau! Kaip? Tu sėdi, kad teistum mane pagal Įstatymą, ir, nepaisydamas Įstatymo, įsakai mane mušti!“"
+  },
+  {
+    "i": 32046,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 4,
+    "t": "Padėjėjai jam tarė: „Ar tu įžeidinėji Dievo vyriausiąjį kunigą?“"
+  },
+  {
+    "i": 32047,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 5,
+    "t": "Paulius atsakė: „Aš nežinojau, broliai, kad tai vyriausiasis kunigas. Juk parašyta: „Neiškeik savo tautos vado.““"
+  },
+  {
+    "i": 32048,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 6,
+    "t": "Paulius žinojo, kad ten viena pusė yra sadukiejų partija, o kita - fariziejų. Todėl jis sušuko Sinedrione: „Broliai, aš esu fariziejus, fariziejų sūnus. Už mūsų viltį, mirusiųjų prisikėlimą, aš esu teisiamas.“"
+  },
+  {
+    "i": 32049,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 7,
+    "t": "Vos tik jis tai pasakė, kilo konfliktas tarp fariziejų ir sadukiejų, ir susirinkimas pasidalijo."
+  },
+  {
+    "i": 32050,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 8,
+    "t": "Sadukiejai iš tiesų sako, kad nėra nei prisikėlimo, nei angelo, nei dvasios, o fariziejai išpažįsta ir vieną, ir kitą."
+  },
+  {
+    "i": 32051,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 9,
+    "t": "Todėl kilo didelis triukšmas. Kai kurie Rašto žinovai iš fariziejų partijos atsistojo ir energingai protestavo: „Mes nerandame nieko blogo šiame žmoguje. O jei jam būtų kalbėjusi dvasia? Arba angelas?“"
+  },
+  {
+    "i": 32052,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 10,
+    "t": "Ginčas darėsi vis aršesnis. Tribūnas, bijodamas, kad jie nesudraskytų Pauliaus į gabalus, įsakė kareiviams nusileisti, kad ištrauktų jį iš jų tarpo ir sugrąžintų į tvirtovę."
+  },
+  {
+    "i": 32053,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 11,
+    "t": "Kitą naktį Viešpats atėjo pas jį ir tarė: „Būk drąsus! Kaip tu liudijai apie Mane Jeruzalėje, taip tau dar reikia liudyti ir Romoje.“"
+  },
+  {
+    "i": 32054,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 12,
+    "t": "Kai išaušo, žydai surengė susirinkimą, kuriame prisiekė anatemą nevalgyti ir negerti, kol nenužudys Pauliaus."
+  },
+  {
+    "i": 32055,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 13,
+    "t": "Jų buvo daugiau nei keturiasdešimt, kurie sudarė šį sąmokslą."
+  },
+  {
+    "i": 32056,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 14,
+    "t": "Jie nuėjo pas vyriausiuosius kunigus ir vyresniuosius ir tarė jiems: „Mes prisiekėme anatemą nieko neimti, kol nenužudysime Pauliaus.“"
+  },
+  {
+    "i": 32057,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 15,
+    "t": "Todėl dabar jūs, susitarę su Sinedrionu, paaiškinkite tribūnui, kad jis turi atvesti jį jums, prisidengiant tuo, kad norite išsamiau išnagrinėti jo bylą. Iš savo pusės mes esame pasiruošę jį nužudyti, kol jis neatvyks.“"
+  },
+  {
+    "i": 32058,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 16,
+    "t": "Bet Pauliaus sesers sūnus sužinojo apie pasalą. Jis nuėjo į tvirtovę, įėjo ir įspėjo Paulių."
+  },
+  {
+    "i": 32059,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 17,
+    "t": "Pašaukęs vieną iš šimtininkų, Paulius jam tarė: „Nuvesk šį jaunuolį pas tribūną; jis turi jam ką nors pranešti.“"
+  },
+  {
+    "i": 32060,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 18,
+    "t": "Šimtininkas paėmė jį ir nuvedė pas tribūną. „Kalynys Paulius, - tarė jis, - mane pašaukė ir paprašė atvesti šį jaunuolį, kuris turi tau ką nors pasakyti.“"
+  },
+  {
+    "i": 32061,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 19,
+    "t": "Tribūnas paėmė jaunuolį už rankos, pasitraukė į šalį ir paklausė jo: „Ką tu nori man pranešti?“"
+  },
+  {
+    "i": 32062,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 20,
+    "t": "„Žydai, - atsakė jis, - susitarė paprašyti tave atvesti Paulių rytoj į Sinedrioną, prisidengiant tuo, kad nori išsamiau ištirti jo bylą."
+  },
+  {
+    "i": 32063,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 21,
+    "t": "Nepasitikėk jais. Daugiau nei keturiasdešimt iš jų tyko jo, kurie prisiekė anatemą nevalgyti ir negerti, kol jo nenužudys. Ir dabar jie visiškai pasiruošę, tikėdamiesi tavo sutikimo.“"
+  },
+  {
+    "i": 32064,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 22,
+    "t": "Tribūnas išsiuntė jaunuolį su šiuo nurodymu: „Niekam nepasakok, kad man atskleidei šiuos dalykus.“"
+  },
+  {
+    "i": 32065,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 23,
+    "t": "Tada jis pašaukė du iš šimtininkų ir tarė jiems: „Paruoškite išvykti į Cezarėją jau trečią nakties valandą du šimtus kareivių, septyniasdešimt raitelių ir du šimtus ginkluotų vyrų."
+  },
+  {
+    "i": 32066,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 24,
+    "t": "Taip pat tegul būna arklių Paului užsodinti ir saugiai nuvesti pas valdytoją Feliksą.“"
+  },
+  {
+    "i": 32067,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 25,
+    "t": "Ir jis parašė laišką tokio turinio:"
+  },
+  {
+    "i": 32068,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 26,
+    "t": "„Klaudijus Lizijas garbingajam valdytojui Feliksui, sveikinimai!"
+  },
+  {
+    "i": 32069,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 27,
+    "t": "Šį vyrą buvo sučiupę žydai, ir jie ketino jį nužudyti, kai aš atvykau su kariauna ir išplėšiau jį iš jų, sužinojęs, kad jis yra Romos pilietis."
+  },
+  {
+    "i": 32070,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 28,
+    "t": "Norėjau iš tikrųjų sužinoti, kodėl jie jį kaltina, ir atvedžiau jį į jų Sinedrioną."
+  },
+  {
+    "i": 32071,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 29,
+    "t": "Nustačiau, kad kaltinimas yra susijęs su ginčytinais jų Įstatymo klausimais, bet nebuvo jokių kaltinimų, kurie užtrauktų mirtį ar grandines."
+  },
+  {
+    "i": 32072,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 30,
+    "t": "Įspėtas, kad prieš šį žmogų rengiamas sąmokslas, aš tuojau pat išsiunčiau jį tau ir informavau jo kaltintojus, kad jie turi pateikti tau savo skundą prieš jį.“"
+  },
+  {
+    "i": 32073,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 31,
+    "t": "Pagal gautus įsakymus kareiviai paėmė Paulių ir naktį nuvedė jį į Antipatridą."
+  },
+  {
+    "i": 32074,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 32,
+    "t": "Kitą dieną jie leido raiteliams išvykti su juo ir grįžo į tvirtovę."
+  },
+  {
+    "i": 32075,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 33,
+    "t": "Atvykę į Cezarėją, raiteliai įteikė laišką valdytojui ir pristatė jam Paulių."
+  },
+  {
+    "i": 32076,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 34,
+    "t": "Perskaitęs laišką, valdytojas pasidomėjo, iš kokios jis provincijos. Sužinojęs, kad jis iš Kilikijos:"
+  },
+  {
+    "i": 32077,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 35,
+    "t": "„Išklausysiu tave, - tarė jis, - kai tavo kaltintojai taip pat atvyks.“ Ir jis įsakė jį saugoti Erodo pretoriume."
+  },
+  {
+    "i": 32078,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 1,
+    "t": "Po penkių dienų vyriausiasis kunigas Ananijas nuvyko su keliais vyresniaisiais ir advokatu, tam tikru Tertulu, ir, valdytojui akivaizdoje, jie pasiskelbė Pauliaus kaltintojais."
+  },
+  {
+    "i": 32079,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 2,
+    "t": "Šis buvo pašauktas, ir Tertulas pradėjo kaltinimą tokiais žodžiais: „Gilioji taika, kuria džiaugiamės tavo dėka, ir reformos, už kurias ši tauta yra dėkinga tavo apvaizdai,"
+  },
+  {
+    "i": 32080,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 3,
+    "t": "Visais būdais ir visokeriopai dėkojame tau, kilniausiasis Feliksai."
+  },
+  {
+    "i": 32081,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 4,
+    "t": "Tačiau, kad per daug netrukdyčiau, maldauju tave išklausyti mus trumpai su tavajam maloningumu."
+  },
+  {
+    "i": 32082,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 5,
+    "t": "Šitas žmogus, kaip patyrėme, yra maras: jis kelia sąmyšį tarp visų žydų visame pasaulyje ir yra Nazareto sektos vadas."
+  },
+  {
+    "i": 32083,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 6,
+    "t": "Jis netgi mėgino suteršti šventyklą, todėl jį suėmėme."
+  },
+  { "i": 32084, "b": 50, "c": 5224, "r": 5224, "o": 7, "t": "[ … ]" },
+  {
+    "i": 32085,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 8,
+    "t": "Iš jo pats galėsi, jį apklausęs, išsiaiškinti visų kaltinimų, kuriuos jam metame, pagrįstumą."
+  },
+  {
+    "i": 32086,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 9,
+    "t": "Žydai pritarė, patvirtindami, kad taip ir yra."
+  },
+  {
+    "i": 32087,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 10,
+    "t": "Tuomet valdytojas, pamojęs jam kalbėti, Paulius atsakė: \"Žinau, kad jau daugelį metų esi šios tautos teisėjas; todėl su pasitikėjimu ginsiu savo bylą."
+  },
+  {
+    "i": 32088,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 11,
+    "t": "Gali įsitikinti: ne daugiau kaip dvylika dienų praėjo nuo to laiko, kai atvykau į Jeruzalę kaip piligrimas."
+  },
+  {
+    "i": 32089,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 12,
+    "t": "Ir nei šventykloje, nei sinagogose, nei mieste manęs niekas nerado besiginčijančio ar kurstančio minios."
+  },
+  {
+    "i": 32090,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 13,
+    "t": "Jie negali tau įrodyti to, kuo dabar mane kaltina."
+  },
+  {
+    "i": 32091,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 14,
+    "t": "\"Tačiau aš tau prisipažįstu: pagal Tą Kelią, kurį jie vadina sekta, aš tarnauju savo tėvų Dievui, laikydamasis viso, kas parašyta Įstatyme ir Pranašų knygose."
+  },
+  {
+    "i": 32092,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 15,
+    "t": "Turėdamas viltį Dieve, kaip ir jie patys, kad bus teisiųjų ir nedorėlių prisikėlimas."
+  },
+  {
+    "i": 32093,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 16,
+    "t": "Todėl aš irgi stengiuosi visada turėti nepriekaištingą sąžinę Dievo ir žmonių akivaizdoje."
+  },
+  {
+    "i": 32094,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 17,
+    "t": "\"Po daugelio metų atvykau nešti išmaldos savo tautai ir aukoti atnašas:"
+  },
+  {
+    "i": 32095,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 18,
+    "t": "štai taip jie mane rado šventykloje; buvau apsivalęs ir nesukėliau nei sambūrio, nei riaušių."
+  },
+  {
+    "i": 32096,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 19,
+    "t": "Bet kai kurie žydai iš Azijos... jie turėjo pasirodyti prieš tave ir mane apkaltinti, jei ką nors turi prieš mane!"
+  },
+  {
+    "i": 32097,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 20,
+    "t": "Tegul bent jau šitie pasako, kokį nusikaltimą jie rado manyje, kai pasirodžiau prieš Sinedrioną!"
+  },
+  {
+    "i": 32098,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 21,
+    "t": "Nebent tai būtų tas vienintelis žodis, kurį aš sušukau, stovėdamas tarp jų: Dėl mirusiųjų prisikėlimo aš šiandien esu teisiamas prieš jus."
+  },
+  {
+    "i": 32099,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 22,
+    "t": "Feliksas, kuris buvo gerai susipažinęs su tuo, kas susiję su Keliu, atidėjo juos sakydamas: \"Kai tik tribūnas Lisijas atvyks, aš nuspręsiu jūsų bylą."
+  }
+]

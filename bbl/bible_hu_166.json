@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16600,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 17,
+    "t": "Legyenek azok egyedül a tieid, és ne osztozzanak rajtuk idegenek teveled!"
+  },
+  {
+    "i": 16601,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 18,
+    "t": "Áldott legyen a te forrásod! Örülj ifjúságod feleségének,"
+  },
+  {
+    "i": 16602,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 19,
+    "t": "A kedves szarvasünőnek és a bájos zerge nősténynek; az ő emlői elégítsenek meg téged minden időben, és az ő szerelmében gyönyörködj szüntelen!"
+  },
+  {
+    "i": 16603,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 20,
+    "t": "Miért bolyongsz, fiam, idegen nő után, és miért öleled az idegen nő keblét?"
+  },
+  {
+    "i": 16604,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 21,
+    "t": "Mert az Úr szemei látják az ember útjait, és figyelik minden ösvényét."
+  },
+  {
+    "i": 16605,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 22,
+    "t": "A gonoszt saját bűnei fogják meg, és vétkeinek kötelei tartják fogva."
+  },
+  {
+    "i": 16606,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 23,
+    "t": "Fegyelem nélkül hal meg, és nagy bolondsága miatt eltévelyedik."
+  },
+  {
+    "i": 16607,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 1,
+    "t": "Fiam, ha kezes lettél a te barátodért, ha kezet adtál idegenért,"
+  },
+  {
+    "i": 16608,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 2,
+    "t": "A te szád beszédével estél tőrbe, a te szád beszédével fogattattál meg."
+  },
+  {
+    "i": 16609,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 3,
+    "t": "Cselekedd ezt, fiam, és szabadítsd meg magad, mert barátod kezébe jutottál: menj, alázd meg magad, és ostromold barátodat."
+  },
+  {
+    "i": 16610,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 4,
+    "t": "Ne adj álmot a te szemeidnek, se szunnyadást a te szemöldökeidnek."
+  },
+  {
+    "i": 16611,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 5,
+    "t": "Szabadítsd meg magad, mint a zerge a hálóból, és mint a madár a madarász kezéből."
+  },
+  {
+    "i": 16612,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 6,
+    "t": "Menj a hangyához, te lusta, nézd meg az ő útjait, és légy bölcs!"
+  },
+  {
+    "i": 16613,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 7,
+    "t": "A kinek nincs vezére, felügyelője, sem ura,"
+  },
+  {
+    "i": 16614,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 8,
+    "t": "Nyárban szerzi meg az ő eleségét, aratáskor gyűjti be az ő eledelét."
+  },
+  {
+    "i": 16615,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 9,
+    "t": "Meddig fekszel, te lusta? Mikor kelsz fel a te álmodból?"
+  },
+  {
+    "i": 16616,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 10,
+    "t": "Egy kevés alvás, egy kevés szunnyadás, egy kevés összekulcsolt kézzel való pihenés,"
+  },
+  {
+    "i": 16617,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 11,
+    "t": "És eljő mint az útonjáró a te szegénységed, és a te szükséged mint egy fegyveres."
+  },
+  {
+    "i": 16618,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 12,
+    "t": "A haszontalan ember, a bűnös férfiú álnoksággal jár szájában,"
+  },
+  {
+    "i": 16619,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 13,
+    "t": "A szemével kacsint, a lábával jelez, az ujjaival mutat."
+  },
+  {
+    "i": 16620,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 14,
+    "t": "Álnokság van az ő szívében, gonoszt tervez minden időben; háborúságot szít."
+  },
+  {
+    "i": 16621,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 15,
+    "t": "Annakokáért hirtelen jön el a veszedelme; egy szempillantás alatt összetöretik, és nincsen orvosság."
+  },
+  {
+    "i": 16622,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 16,
+    "t": "Ezt a hat dolgot gyűlöli az Úr, sőt hét dolog útálat előtte:"
+  },
+  {
+    "i": 16623,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 17,
+    "t": "A kevély szemeket, a hazug nyelvet, és az ártatlan vért ontó kezeket,"
+  },
+  {
+    "i": 16624,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 18,
+    "t": "A gonosz gondolatokat koholó szívet, a gonoszra siető lábakat,"
+  },
+  {
+    "i": 16625,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 19,
+    "t": "A hazugságot szóló hamis tanút, és a testvérek között háborúságot szítót."
+  },
+  {
+    "i": 16626,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 20,
+    "t": "Fiam, tartsd meg a te atyád parancsolatját, és a te anyád tanítását el ne hagyd!"
+  },
+  {
+    "i": 16627,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 21,
+    "t": "Kösd azokat a te szívedre szüntelen, akaszd a te nyakadra!"
+  },
+  {
+    "i": 16628,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 22,
+    "t": "Mikor jársz, vezet téged; mikor fekszel, őriz téged; mikor felébredsz, beszélget veled."
+  },
+  {
+    "i": 16629,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 23,
+    "t": "Mert a parancsolat szövétnek, a tanítás világosság, és a fenyítő intések az életnek útja:"
+  },
+  {
+    "i": 16630,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 24,
+    "t": "Hogy megőrizzen téged a gonosz asszonytól, az idegen asszonynak hízelgő nyelvétől."
+  },
+  {
+    "i": 16631,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 25,
+    "t": "Ne kívánd meg a te szívedben az ő szépségét, és ne ejtsen meg téged a te pillantásoddal!"
+  },
+  {
+    "i": 16632,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 26,
+    "t": "Mert a paráznáért egy darab kenyérig, a férfiú pedig drága életre vadászik."
+  },
+  {
+    "i": 16633,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 27,
+    "t": "Vajjon vehet-é valaki tüzet az ölébe, hogy a ruhái meg ne égjenek?"
+  },
+  {
+    "i": 16634,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 28,
+    "t": "Vajjon járhat-é valaki eleven parázzson, hogy a lábai meg ne perzselődjenek?"
+  },
+  {
+    "i": 16635,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 29,
+    "t": "Így van, a ki az ő felebarátja feleségéhez megy; a ki illeti azt, büntetlen nem marad."
+  },
+  {
+    "i": 16636,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 30,
+    "t": "Nem útálják a tolvajt, ha lop, hogy éhségét betöltse, mikor éhezik,"
+  },
+  {
+    "i": 16637,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 31,
+    "t": "De ha rajtakapják, hétszeresen fizet meg, az ő házának minden vagyonát odaadja."
+  },
+  {
+    "i": 16638,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 32,
+    "t": "A ki asszonynyal paráználkodik, bolond; a ki ezt cselekszi, elveszti az ő lelkét."
+  },
+  {
+    "i": 16639,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 33,
+    "t": "Sebet és gyalázatot nyer, és az ő gyalázata el nem töröltetik."
+  },
+  {
+    "i": 16640,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 34,
+    "t": "Mert a féltékenység a férfiúnak haragja, és nem könyörül a bosszúállás napján."
+  },
+  {
+    "i": 16641,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 35,
+    "t": "Semmi váltságra nem tekint, és nem enged semmi ajándéknak, még ha sokat adsz is."
+  },
+  {
+    "i": 16642,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 1,
+    "t": "Fiam, tartsd meg az én beszédeimet, és az én parancsolataimat rejtsd el magadnál."
+  },
+  {
+    "i": 16643,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 2,
+    "t": "Tartsd meg az én parancsolataimat, és élj, és az én tanításomat mint a te szemed fényét."
+  },
+  {
+    "i": 16644,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 3,
+    "t": "Kösd azokat a te ujjaidra, írd be a te szíved táblájára."
+  },
+  {
+    "i": 16645,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 4,
+    "t": "Mondjad a bölcseségnek: Én húgom vagy te; és a tudományt rokonodnak nevezd:"
+  },
+  {
+    "i": 16646,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 5,
+    "t": "Hogy megőrizzen téged az idegen asszonytól, az idegen nő hízelgő szavaitól."
+  },
+  {
+    "i": 16647,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 6,
+    "t": "Mert az én házam ablakából, a rácson át néztem,"
+  },
+  {
+    "i": 16648,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 7,
+    "t": "És láttam az együgyűek között, észrevettem az ifjak között egy esztelen ifjat,"
+  },
+  {
+    "i": 16649,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 8,
+    "t": "A ki átment az utczán annak szeglete mellett, és az ő házának útján járt,"
+  },
+  {
+    "i": 16650,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 9,
+    "t": "Alkonyatkor, estvének napján, éjszaka sötétségében."
+  },
+  {
+    "i": 16651,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 10,
+    "t": "És ímé elébe jött egy asszony, paráznának öltözve és álnok szívű,"
+  },
+  {
+    "i": 16652,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 11,
+    "t": "Ricsajos, és zabolátlan; az ő lábai nem maradnak meg a házában,"
+  },
+  {
+    "i": 16653,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 12,
+    "t": "Most az utczán, most a tereken, és minden szegleten leselkedik."
+  },
+  {
+    "i": 16654,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 13,
+    "t": "És megragadta őt, és megcsókolta őt, és szemérmetlen arczczal mondta néki:"
+  },
+  {
+    "i": 16655,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 14,
+    "t": "Hálaáldozatom volt, fogadásaimat e napon töltöttem be."
+  },
+  {
+    "i": 16656,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 15,
+    "t": "Annakokáért jöttem ki eléd, a te orczádat keresni, és megtaláltalak téged."
+  },
+  {
+    "i": 16657,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 16,
+    "t": "Az én ágyamat megvetettem szőnyegekkel, hímzett takarókkal Égyiptomból."
+  },
+  {
+    "i": 16658,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 17,
+    "t": "Az én ágyamat megöntöttem mirrhával, áloéval és fahéjjal."
+  },
+  {
+    "i": 16659,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 18,
+    "t": "Jer, teljünk be szerelemmel reggelig; gyönyörködjünk szerelmeskedésben!"
+  },
+  {
+    "i": 16660,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 19,
+    "t": "Mert a férfiú nincs itthon, messze útra ment el."
+  },
+  {
+    "i": 16661,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 20,
+    "t": "A pénzes zacskót kezébe vitte, holdtöltekor tér haza házába."
+  },
+  {
+    "i": 16662,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 21,
+    "t": "Elcsábította őt az ő sok beszédével, az ő ajkainak hízelgésével elragadta őt."
+  },
+  {
+    "i": 16663,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 22,
+    "t": "Mindjárt utána ment, mint a barmok a vágóhídra, és mint a bolond a testfenyítő helyre,"
+  },
+  {
+    "i": 16664,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 23,
+    "t": "Míg a nyíl át nem hat a máján, mint a madár siet a tőrhöz, és nem tudja, hogy az ő élete ellen van."
+  },
+  {
+    "i": 16665,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 24,
+    "t": "Most azért, fiaim, hallgassatok engem, és figyelmezzetek az én számnak beszédeire!"
+  },
+  {
+    "i": 16666,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 25,
+    "t": "Ne hajoljon a te szíved annak útaira, ne tévelyegj el annak ösvényein!"
+  },
+  {
+    "i": 16667,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 26,
+    "t": "Mert sok sebesültet ejtett le, és mindnyájan erősek, a kiket megölt."
+  },
+  {
+    "i": 16668,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 27,
+    "t": "Az ő háza a pokolba vezető út, a halál kamráiba ereszkedő."
+  },
+  {
+    "i": 16669,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 1,
+    "t": "Vajjon nem kiált-é a bölcseség, és a tudomány nem ad-é ki hangot?"
+  },
+  {
+    "i": 16670,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 2,
+    "t": "A magas helyek tetején, az út mellett, a keresztutaknál áll."
+  },
+  {
+    "i": 16671,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 3,
+    "t": "A kapuk mellett a város bemeneténél, a bejáró nyílásoknál kiált:"
+  },
+  {
+    "i": 16672,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 4,
+    "t": "Néktek kiáltok, óh férfiak, és az én szavam az emberek fiainak szól."
+  },
+  {
+    "i": 16673,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 5,
+    "t": "Értsétek meg, ti együgyűek, az eszességet, és ti bolondok, vegyétek eszetekbe a szivet!"
+  },
+  {
+    "i": 16674,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 6,
+    "t": "Halljátok meg, mert fontos dolgokat szólok, és az én ajkaimnak felnyitása igaz."
+  },
+  {
+    "i": 16675,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 7,
+    "t": "Mert az én szám igazságot szól, és az én ajkaim útálják a gonoszságot."
+  },
+  {
+    "i": 16676,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 8,
+    "t": "Igaz minden az én szájamból való beszéd; nincs azokban semmi fondorkodás, semmi hamisság."
+  },
+  {
+    "i": 16677,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 9,
+    "t": "Mindnyájan egyenesek az értelmes előtt, és helyesek azoknak, a kik tudományt nyertek."
+  },
+  {
+    "i": 16678,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 10,
+    "t": "Vegyétek az én tanításomat, és ne a pénzt; és a tudományt inkább, mint a választott aranyat."
+  },
+  {
+    "i": 16679,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 11,
+    "t": "Mert jobb a bölcseség a gyöngyöknél; semmi egyéb drága dolog meg nem egyenlíthető vele."
+  },
+  {
+    "i": 16680,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 12,
+    "t": "\"Én, a Bölcsesség, lakozom a fortéllyal, és az okosság tudománya az enyém."
+  },
+  {
+    "i": 16681,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 13,
+    "t": "(Az Úrnak félelme a gonosznak gyűlölete). Gyűlölöm a kevélységet és a gőgöt, a gonosz utat és a hamis szájat."
+  },
+  {
+    "i": 16682,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 14,
+    "t": "Enyém a tanács és az okosság, én vagyok az értelem, enyém az erő!"
+  },
+  {
+    "i": 16683,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 15,
+    "t": "Énáltalam uralkodnak a királyok, és a fejedelmek igazságot rendelnek;"
+  },
+  {
+    "i": 16684,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 16,
+    "t": "Énáltalam kormányoznak a fejedelmek és a nagyok, a földnek minden bírája."
+  },
+  {
+    "i": 16685,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 17,
+    "t": "Én szeretem azokat, akik engem szeretnek, és akik engem szorgalmasan keresnek, megtalálnak engem."
+  },
+  {
+    "i": 16686,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 18,
+    "t": "Énnálam van a gazdagság és a tisztesség, az állandó jószág és az igazság."
+  },
+  {
+    "i": 16687,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 19,
+    "t": "Jobb az én gyümölcsöm az aranynál, még a színaranynál is, és az én jövedelmem a választott ezüstnél."
+  },
+  {
+    "i": 16688,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 20,
+    "t": "Az igazságnak útján járok, az igaz ítéletnek ösvényein,"
+  },
+  {
+    "i": 16689,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 21,
+    "t": "Hogy megáldjam azokat, akik engem szeretnek, és kincsekkel töltsem meg az ő tárházaikat."
+  },
+  {
+    "i": 16690,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 22,
+    "t": "Az Úr alkotott engem az ő útjának kezdetéül, az ő munkái előtt régen."
+  },
+  {
+    "i": 16691,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 23,
+    "t": "Öröktől fogva felkenettem, kezdettől, a földnek eleitől fogva."
+  },
+  {
+    "i": 16692,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 24,
+    "t": "Mikor még mélységek nem voltak, születtem, mikor még nem voltak a bővizű források."
+  },
+  {
+    "i": 16693,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 25,
+    "t": "Mielőtt a hegyek lehelyeztettek, a halmok előtt születtem;"
+  },
+  {
+    "i": 16694,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 26,
+    "t": "Mikor még nem alkotta meg a földet, sem a mezőket, sem a világ porának kezdetét."
+  },
+  {
+    "i": 16695,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 27,
+    "t": "Mikor az eget készíté, ott valék; mikor a mélység színén kereket vona,"
+  },
+  {
+    "i": 16696,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 28,
+    "t": "Mikor felül megerősíté a felhőket, mikor erősek voltak a mélységnek forrásai,"
+  },
+  {
+    "i": 16697,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 29,
+    "t": "Mikor felveté a tengernek határát, hogy a vizek át ne hágják az ő parancsolatját; mikor megállapítá a földnek fundamentumait,"
+  },
+  {
+    "i": 16698,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 30,
+    "t": "Én mellette valék mint kézműves, és gyönyörűség valék néki minden nap, játszva ő előtte minden időben;"
+  },
+  {
+    "i": 16699,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 31,
+    "t": "Játszva az ő földének kerekségén, és gyönyörűségemet lelve az emberek fiaiban."
+  }
+]

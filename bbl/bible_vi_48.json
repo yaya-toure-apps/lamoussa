@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4800,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 41,
+    "t": "Từ Hôr trên núi, họ dời đi và đóng trại tại Calmona."
+  },
+  {
+    "i": 4801,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 42,
+    "t": "Từ Calmona, họ dời đi và đóng trại tại Punôn."
+  },
+  {
+    "i": 4802,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 43,
+    "t": "Từ Punôn, họ dời đi và đóng trại tại Obot."
+  },
+  {
+    "i": 4803,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 44,
+    "t": "Từ Obot, họ dời đi và đóng trại tại Y-a-ba-rim, trên lãnh thổ Mô-áp."
+  },
+  {
+    "i": 4804,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 45,
+    "t": "Từ Y-im, họ dời đi và đóng trại tại Đi-bôn Ga."
+  },
+  {
+    "i": 4805,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 46,
+    "t": "Từ Đi-bôn Ga, họ dời đi và đóng trại tại An-môn Đíp-la-tay-im."
+  },
+  {
+    "i": 4806,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 47,
+    "t": "Từ An-môn Đíp-la-tay-im, họ dời đi và đóng trại tại các núi A-ba-rim đối diện Nê-bô."
+  },
+  {
+    "i": 4807,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 48,
+    "t": "Từ các núi A-ba-rim, họ dời đi và đóng trại tại các đồng bằng Mô-áp, gần sông Giô-đan đối diện Giê-ri-cô."
+  },
+  {
+    "i": 4808,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 49,
+    "t": "Họ đóng trại gần sông Giô-đan, giữa Bết-ha-Giê-si-mốt và A-bên Si-tim, trong các đồng bằng Mô-áp."
+  },
+  {
+    "i": 4809,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 50,
+    "t": "Đức Giê-hô-va phán cùng Môi-se trong các đồng bằng Mô-áp, gần sông Giô-đan đối diện Giê-ri-cô, mà rằng:"
+  },
+  {
+    "i": 4810,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 51,
+    "t": "“Hãy nói với dân Y-sơ-ra-ên và bảo chúng: Khi các ngươi đã qua sông Giô-đan vào đất Ca-na-an,"
+  },
+  {
+    "i": 4811,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 52,
+    "t": "thì các ngươi sẽ đuổi hết dân bản xứ khỏi trước mặt các ngươi. Các ngươi sẽ phá hủy các tượng chạm, các tượng đúc, và các nơi cao của chúng."
+  },
+  {
+    "i": 4812,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 53,
+    "t": "Các ngươi sẽ chiếm lấy xứ đó và định cư tại đó, vì ta đã ban xứ này cho các ngươi làm cơ nghiệp."
+  },
+  {
+    "i": 4813,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 54,
+    "t": "Các ngươi sẽ bắt thăm chia xứ cho các dòng họ mình. Cho dòng họ nào đông người thì cho nhiều phần, cho dòng họ nào ít người thì cho ít phần. Phải cho mỗi người phần cơ nghiệp tùy theo số thăm mà người đó đã bắt được. Các ngươi sẽ chia đất theo các chi tộc mình."
+  },
+  {
+    "i": 4814,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 55,
+    "t": "Nhưng nếu các ngươi không đuổi dân bản xứ khỏi trước mặt mình, thì những người còn lại trong số chúng sẽ thành gai trong mắt và dằm trong hông các ngươi, chúng sẽ quấy nhiễu các ngươi trong xứ mà các ngươi đang ở."
+  },
+  {
+    "i": 4815,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 56,
+    "t": "Và ta sẽ đối xử với các ngươi như ta đã định đối xử với chúng.”"
+  },
+  {
+    "i": 4816,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán cùng Môi-se mà rằng:"
+  },
+  {
+    "i": 4817,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 2,
+    "t": "“Hãy truyền cho dân Y-sơ-ra-ên và bảo chúng: Khi các ngươi vào đất Ca-na-an, thì đây là đất mà các ngươi sẽ nhận làm cơ nghiệp, tức là đất Ca-na-an theo các giới hạn của nó."
+  },
+  {
+    "i": 4818,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 3,
+    "t": "Phía nam của xứ các ngươi sẽ bắt đầu từ sa mạc Xin, giáp với Ê-đôm. Biên giới phía nam của các ngươi sẽ khởi đầu từ tận cùng biển Muối ở phía đông."
+  },
+  {
+    "i": 4819,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 4,
+    "t": "Rồi biên giới sẽ chạy vòng về phía nam đến dốc Bọ Cạp, qua Xin, và chấm dứt ở phía nam Ca-đe Ba-nê. Rồi biên giới sẽ đi đến Hát-xa A-đa và qua Át-môn."
+  },
+  {
+    "i": 4820,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 5,
+    "t": "Từ Át-môn, biên giới sẽ chạy vòng đến suối Ai Cập và chấm dứt ở Biển."
+  },
+  {
+    "i": 4821,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 6,
+    "t": "Biển Lớn sẽ là biên giới biển của các ngươi. Biên giới này sẽ là biên giới phía tây của các ngươi."
+  },
+  {
+    "i": 4822,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 7,
+    "t": "Đây là biên giới phía bắc của các ngươi: Các ngươi sẽ vạch một đường từ Biển Lớn đến Hôr trên núi,"
+  },
+  {
+    "i": 4823,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 8,
+    "t": "rồi từ Hôr trên núi các ngươi sẽ vạch một đường đến lối vào Ha-mát, và biên giới sẽ chấm dứt tại Xê-đát."
+  },
+  {
+    "i": 4824,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 9,
+    "t": "Biên giới sẽ đi đến Xíp-rôn và chấm dứt tại Hát-xa Ê-nan. Đó sẽ là biên giới phía bắc của các ngươi."
+  },
+  {
+    "i": 4825,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 10,
+    "t": "Các ngươi sẽ vạch biên giới phía đông từ Hát-xa Ê-nan đến Sê-pham."
+  },
+  {
+    "i": 4826,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 11,
+    "t": "Biên giới sẽ đi xuống từ Sê-pham đến Hạt-bê-la, ở phía đông A-in. Biên giới sẽ tiếp tục đi xuống và đụng đến bờ phía đông biển Ki-nê-rết."
+  },
+  {
+    "i": 4827,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 12,
+    "t": "Biên giới sẽ theo sông Giô-đan đến biển Muối. Đó sẽ là xứ của các ngươi, với các biên giới bao quanh.”"
+  },
+  {
+    "i": 4828,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 13,
+    "t": "Môi-se truyền lệnh này cho dân Y-sơ-ra-ên: “Đây là xứ mà các ngươi sẽ bắt thăm chia, là xứ mà Đức Giê-hô-va đã truyền cho chín chi tộc rưỡi.”"
+  },
+  {
+    "i": 4829,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 14,
+    "t": "Vì chi tộc Ru-bên và chi tộc Gát, theo các gia tộc, đã nhận được cơ nghiệp mình rồi. Nửa chi tộc Ma-na-se cũng đã nhận được cơ nghiệp mình."
+  },
+  {
+    "i": 4830,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 15,
+    "t": "Hai chi tộc rưỡi này đã nhận cơ nghiệp mình ở bên kia sông Giô-đan, đối diện Giê-ri-cô, về phía đông, hướng mặt trời mọc.”"
+  },
+  {
+    "i": 4831,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 16,
+    "t": "Đức Giê-hô-va phán cùng Môi-se mà rằng:"
+  },
+  {
+    "i": 4832,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 17,
+    "t": "“Đây là tên những người sẽ chia xứ cho các ngươi: Ê-lê-a-xa thầy tế lễ và Giô-suê con trai Nun,"
+  },
+  {
+    "i": 4833,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 18,
+    "t": "và các ngươi sẽ chọn một vị thủ lãnh cho mỗi chi tộc để chia xứ."
+  },
+  {
+    "i": 4834,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 19,
+    "t": "Đây là tên những người ấy: Cho chi tộc Giu-đa, Ca-lép con trai Giê-phu-nê;"
+  },
+  {
+    "i": 4835,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 20,
+    "t": "cho chi tộc Si-mê-ôn, Sê-mu-ên con trai A-mi-hút;"
+  },
+  {
+    "i": 4836,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 21,
+    "t": "cho chi tộc Bên-gia-min, Ê-li-đát con trai Kít-lôn;"
+  },
+  {
+    "i": 4837,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 22,
+    "t": "cho chi tộc Đan, thủ lãnh Búc-ki con trai Giốt-li;"
+  },
+  {
+    "i": 4838,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 23,
+    "t": "cho các con trai Giô-sép, cho chi tộc Ma-na-se, thủ lãnh Ha-ni-ên con trai Ê-phốt;"
+  },
+  {
+    "i": 4839,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 24,
+    "t": "cho chi tộc Ép-ra-im, thủ lãnh Kê-mu-ên con trai Síp-tan;"
+  },
+  {
+    "i": 4840,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 25,
+    "t": "cho chi tộc Xê-bu-lôn, thủ lãnh Ê-li-xa-phan con trai Pha-nác;"
+  },
+  {
+    "i": 4841,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 26,
+    "t": "cho chi tộc Y-sa-ca, thủ lãnh Phanh-ti-ên con trai Át-xan;"
+  },
+  {
+    "i": 4842,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 27,
+    "t": "cho chi tộc A-se, thủ lãnh A-hi-hút con trai Sê-lô-mi;"
+  },
+  {
+    "i": 4843,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 28,
+    "t": "cho chi tộc Nép-ta-li, thủ lãnh Pê-đa-hên con trai A-mi-hút.”"
+  },
+  {
+    "i": 4844,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 29,
+    "t": "Đó là những người mà Đức Giê-hô-va đã truyền phải chia cơ nghiệp cho dân Y-sơ-ra-ên trong đất Ca-na-an."
+  },
+  {
+    "i": 4845,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán cùng Môi-se trong các đồng bằng Mô-áp, gần sông Giô-đan đối diện Giê-ri-cô, mà rằng:"
+  },
+  {
+    "i": 4846,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 2,
+    "t": "“Hãy truyền cho dân Y-sơ-ra-ên rằng: Từ cơ nghiệp mà các ngươi sẽ chiếm hữu, các ngươi phải cấp cho người Lê-vi các thành để họ ở, và các ngươi sẽ cấp cho họ những đồng cỏ xung quanh các thành. Các ngươi sẽ cấp các thành này cho người Lê-vi."
+  },
+  {
+    "i": 4847,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 3,
+    "t": "Các thành sẽ là nơi cho họ ở, còn các đồng cỏ của các thành sẽ là nơi cho bầy súc vật, tài sản và mọi thú vật của họ."
+  },
+  {
+    "i": 4848,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 4,
+    "t": "Các đồng cỏ của các thành mà các ngươi cấp cho người Lê-vi sẽ trải ra một ngàn cu-bít từ tường thành."
+  },
+  {
+    "i": 4849,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 5,
+    "t": "Các ngươi sẽ đo hai ngàn cu-bít bên ngoài thành về phía đông, hai ngàn cu-bít về phía nam, hai ngàn cu-bít về phía tây, hai ngàn cu-bít về phía bắc, thành ở giữa. Đó sẽ là đồng cỏ của các thành."
+  },
+  {
+    "i": 4850,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 6,
+    "t": "Các thành mà các ngươi sẽ cấp cho người Lê-vi sẽ là sáu thành ẩn náu, mà các ngươi sẽ nhường cho những người vô tình giết người có thể trốn đến đó. Ngoài ra, các ngươi sẽ cấp thêm bốn mươi hai thành nữa."
+  },
+  {
+    "i": 4851,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 7,
+    "t": "Tổng cộng các ngươi sẽ cấp cho người Lê-vi bốn mươi tám thành, kể cả các đồng cỏ."
+  },
+  {
+    "i": 4852,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 8,
+    "t": "Về các thành mà các ngươi sẽ cấp từ sản nghiệp của dân Y-sơ-ra-ên, các ngươi sẽ cấp nhiều từ người có nhiều, và ít từ người có ít. Mỗi người sẽ cấp thành của mình cho người Lê-vi theo tỷ lệ cơ nghiệp mà mình đã nhận được.”"
+  },
+  {
+    "i": 4853,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 9,
+    "t": "Đức Giê-hô-va phán cùng Môi-se mà rằng:"
+  },
+  {
+    "i": 4854,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 10,
+    "t": "“Hãy nói với dân Y-sơ-ra-ên rằng: Khi các ngươi đã qua sông Giô-đan vào đất Ca-na-an,"
+  },
+  {
+    "i": 4855,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 11,
+    "t": "thì các ngươi sẽ chọn ra các thành để làm thành ẩn náu, là nơi mà người vô tình giết người có thể trốn đến."
+  },
+  {
+    "i": 4856,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 12,
+    "t": "Các thành này sẽ là nơi ẩn náu cho các ngươi, khỏi người báo thù huyết; để người giết người khỏi phải chết trước khi ra trước hội chúng chịu xét xử."
+  },
+  {
+    "i": 4857,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 13,
+    "t": "Các thành mà các ngươi sẽ cấp sẽ là sáu thành ẩn náu:"
+  },
+  {
+    "i": 4858,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 14,
+    "t": "Ba thành các ngươi sẽ cấp ở bên kia sông Giô-đan, và ba thành các ngươi sẽ cấp trong đất Ca-na-an. Đó sẽ là các thành ẩn náu."
+  },
+  {
+    "i": 4859,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 15,
+    "t": "Sáu thành này sẽ là nơi ẩn náu cho dân Y-sơ-ra-ên, khách ngoại bang và người ngụ cư giữa các ngươi, để ai vô tình giết người cũng có thể trốn đến đó."
+  },
+  {
+    "i": 4860,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 16,
+    "t": "Nhưng nếu ai đánh người khác bằng vật bằng sắt và làm cho người ấy chết, thì người ấy là kẻ giết người. Kẻ giết người phải bị xử tử."
+  },
+  {
+    "i": 4861,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 17,
+    "t": "Nếu ai đánh người khác bằng đá có thể giết người và làm cho người ấy chết, thì người ấy là kẻ giết người. Kẻ giết người phải bị xử tử."
+  },
+  {
+    "i": 4862,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 18,
+    "t": "Hoặc nếu ai đánh người khác bằng khí cụ bằng gỗ có thể giết người và làm cho người ấy chết, thì người ấy là kẻ giết người. Kẻ giết người phải bị xử tử."
+  },
+  {
+    "i": 4863,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 19,
+    "t": "Người báo thù huyết sẽ giết kẻ giết người. Khi gặp kẻ đó, người báo thù huyết sẽ giết hắn."
+  },
+  {
+    "i": 4864,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 20,
+    "t": "Nếu ai xô người khác vì ghét, hoặc ném vật gì vào người ấy một cách cố ý,"
+  },
+  {
+    "i": 4865,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 21,
+    "t": "hoặc đánh người ấy bằng tay mình một cách cố ý, và làm cho người ấy chết, thì kẻ đã đánh người ấy phải bị xử tử. Người đó là kẻ giết người. Người báo thù huyết sẽ giết kẻ giết người, khi gặp hắn."
+  },
+  {
+    "i": 4866,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 22,
+    "t": "Nhưng nếu ai xô người khác một cách bất ngờ, không vì ghét, hoặc ném vật gì vào người ấy một cách vô ý,"
+  },
+  {
+    "i": 4867,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 23,
+    "t": "hoặc ném đá, vô tình làm trúng người ấy và làm cho người ấy chết, trong khi người ném đá không thù oán người kia và không có ý làm hại,"
+  },
+  {
+    "i": 4868,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 24,
+    "t": "thì hội chúng sẽ xét xử, theo các điều lệ này, giữa người đánh và người báo thù huyết,"
+  },
+  {
+    "i": 4869,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 25,
+    "t": "và sẽ giải cứu người giết người khỏi tay người báo thù huyết. Hội chúng sẽ đưa người ấy trở về thành ẩn náu mà người ấy đã trốn đến, và người ấy phải ở đó cho đến khi thầy tế lễ thượng phẩm, là người đã được xức dầu thánh, qua đời."
+  },
+  {
+    "i": 4870,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 26,
+    "t": "Nếu người giết người ra khỏi ranh giới thành ẩn náu mà mình đã trốn đến,"
+  },
+  {
+    "i": 4871,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 27,
+    "t": "và người báo thù huyết gặp người ấy bên ngoài ranh giới thành ẩn náu của người ấy, thì người báo thù huyết có thể giết người ấy mà không bị coi là phạm tội giết người,"
+  },
+  {
+    "i": 4872,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 28,
+    "t": "vì người giết người phải ở lại trong thành ẩn náu của mình cho đến khi thầy tế lễ thượng phẩm qua đời. Sau khi thầy tế lễ thượng phẩm qua đời, người giết người có thể trở về xứ mình."
+  },
+  {
+    "i": 4873,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 29,
+    "t": "Các điều lệ này sẽ là luật lệ cho các ngươi và cho các thế hệ sau các ngươi, trong mọi nơi các ngươi ở."
+  },
+  {
+    "i": 4874,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 30,
+    "t": "Trong mọi vụ án giết người, kẻ giết người sẽ bị xử tử dựa trên lời khai của các nhân chứng; nhưng một nhân chứng duy nhất không đủ để buộc tội tử hình."
+  },
+  {
+    "i": 4875,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 31,
+    "t": "Các ngươi không được nhận tiền chuộc mạng cho kẻ giết người đáng phải chết, vì hắn phải bị xử tử."
+  },
+  {
+    "i": 4876,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 32,
+    "t": "Các ngươi không được nhận tiền chuộc của ai đã trốn đến thành ẩn náu, để cho người ấy có thể trở về xứ mình trước khi thầy tế lễ thượng phẩm qua đời."
+  },
+  {
+    "i": 4877,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 33,
+    "t": "Các ngươi chớ làm ô uế xứ mà các ngươi đang ở, vì huyết làm ô uế xứ, và xứ không thể được chuộc tội huyết đã đổ ra, ngoại trừ bằng huyết của kẻ đã làm đổ huyết."
+  },
+  {
+    "i": 4878,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 34,
+    "t": "Các ngươi chớ làm ô uế xứ mà các ngươi đang ở, là nơi ta ngự giữa các ngươi. Vì ta là Đức Giê-hô-va, ta ngự giữa dân Y-sơ-ra-ên.”"
+  },
+  {
+    "i": 4879,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 1,
+    "t": "Các trưởng tộc của dòng họ con cháu Ga-la-át, con trai Ma-kia, con trai Ma-na-se, một trong các dòng họ con cháu Giô-sép, đến gần. Họ tâu trình với Môi-se và các vị thủ lãnh, là các trưởng tộc của dân Y-sơ-ra-ên,"
+  },
+  {
+    "i": 4880,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 2,
+    "t": "và thưa: “Đức Giê-hô-va đã truyền cho chúa chúng tôi phải chia xứ cho dân Y-sơ-ra-ên bằng cách bắt thăm. Chúa chúng tôi cũng đã nhận mệnh lệnh từ Đức Giê-hô-va phải cấp phần cơ nghiệp của Xê-lô-phê-hát, anh em chúng tôi, cho các con gái của người."
+  },
+  {
+    "i": 4881,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 3,
+    "t": "Nếu chúng lấy chồng thuộc một chi tộc khác của Y-sơ-ra-ên, thì phần của chúng sẽ bị trừ khỏi phần của tổ phụ chúng tôi. Phần của chi tộc mà chúng sẽ thuộc về sẽ được thêm vào, và phần mà chúng tôi đã bắt thăm được sẽ bị giảm bớt."
+  },
+  {
+    "i": 4882,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 4,
+    "t": "Và khi năm hân hỉ đến với dân Y-sơ-ra-ên, thì phần của các phụ nữ này sẽ được thêm vào phần của chi tộc mà chúng sẽ thuộc về, và nó sẽ bị trừ khỏi phần của chi tộc chúng tôi.”"
+  },
+  {
+    "i": 4883,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 5,
+    "t": "Theo lệnh của Đức Giê-hô-va, Môi-se truyền lệnh này cho dân Y-sơ-ra-ên: “Chi tộc con cháu Giô-sép đã nói đúng."
+  },
+  {
+    "i": 4884,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 6,
+    "t": "Đây là điều mà Đức Giê-hô-va truyền lệnh cho các con gái của Xê-lô-phê-hát: Họ được phép lấy bất cứ người nào mà họ thích, miễn là họ lấy người thuộc một dòng họ trong chi tộc tổ phụ của họ."
+  },
+  {
+    "i": 4885,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 7,
+    "t": "Phần của dân Y-sơ-ra-ên sẽ không được chuyển từ chi tộc này sang chi tộc khác; mỗi người Y-sơ-ra-ên sẽ gắn bó với phần của chi tộc mình."
+  },
+  {
+    "i": 4886,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 8,
+    "t": "Bất cứ con gái nào sở hữu một phần trong một trong các chi tộc Y-sơ-ra-ên phải lấy chồng thuộc một dòng họ trong chi tộc tổ phụ của mình, để dân Y-sơ-ra-ên giữ được phần của tổ phụ mình."
+  },
+  {
+    "i": 4887,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 9,
+    "t": "Phần sẽ không được chuyển từ chi tộc này sang chi tộc khác: Mỗi chi tộc của dân Y-sơ-ra-ên sẽ gắn bó với phần của mình.”"
+  },
+  {
+    "i": 4888,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 10,
+    "t": "Các con gái của Xê-lô-phê-hát đã làm theo như Đức Giê-hô-va đã truyền cho Môi-se."
+  },
+  {
+    "i": 4889,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 11,
+    "t": "Mạt-la, Tiệt-xa, Hốt-la, Minh-ca và Nô-a, các con gái của Xê-lô-phê-hát, đã lấy các con trai của các chú mình."
+  },
+  {
+    "i": 4890,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 12,
+    "t": "Vì họ đã lấy chồng thuộc các dòng họ con cháu Ma-na-se, con trai Giô-sép, nên phần của họ đã thuộc về chi tộc của dòng họ tổ phụ của họ."
+  },
+  {
+    "i": 4891,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 13,
+    "t": "Đó là những điều răn và luật lệ mà Đức Giê-hô-va đã truyền cho dân Y-sơ-ra-ên, qua Môi-se, trong các đồng bằng Mô-áp, gần sông Giô-đan, đối diện Giê-ri-cô."
+  },
+  {
+    "i": 4892,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 1,
+    "t": "Đây là những lời mà Môi-se đã nói với toàn thể Y-sơ-ra-ên ở bên kia sông Giô-đan, trong sa mạc, trong A-ra-ba, đối diện Su-phơ, giữa Pa-ran và Tô-phên, La-ban, Hát-xê-rốt và Đi-xa-háp. –"
+  },
+  {
+    "i": 4893,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 2,
+    "t": "Từ Hô-rếp, theo đường núi Sê-ia, đến Ca-đe Ba-nê, đi mất mười một ngày đường. –"
+  },
+  {
+    "i": 4894,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 3,
+    "t": "Năm thứ bốn mươi, ngày mồng một tháng mười một, Môi-se đã nói với dân Y-sơ-ra-ên theo mọi điều mà Đức Giê-hô-va đã truyền dặn về họ."
+  },
+  {
+    "i": 4895,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 4,
+    "t": "Ông đã đánh bại Si-hôn, vua dân A-mô-rít, là người cư ngụ tại Hết-bôn, và Óc, vua Ba-san, là người cư ngụ tại Át-ta-rốt và tại Ét-rê-i."
+  },
+  {
+    "i": 4896,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 5,
+    "t": "Chính ở bên kia sông Giô-đan, tại xứ Mô-áp, Môi-se quyết định khắc ghi Luật Pháp này. Ông nói:"
+  },
+  {
+    "i": 4897,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 6,
+    "t": "“Đức Giê-hô-va, Đức Chúa Trời của chúng ta, đã phán cùng chúng ta tại Hô-rếp: Các ngươi đã ở lại trên núi này đủ rồi."
+  },
+  {
+    "i": 4898,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 7,
+    "t": "Hãy đi đi, hãy lên đường và đi đến vùng núi của dân A-mô-rít, đến với tất cả những người cư ngụ ở A-ra-ba, vùng Núi, vùng Đồng Bằng, vùng Nê-ghép và bờ biển, hãy đi đến đất Ca-na-an và đến Li-băng, đến sông lớn, sông Ơ-phơ-rát."
+  },
+  {
+    "i": 4899,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 8,
+    "t": "Này, ta đã ban cho các ngươi xứ này; vậy, hãy đi chiếm xứ mà Đức Giê-hô-va đã thề với tổ phụ các ngươi, Áp-ra-ham, Y-sác và Gia-cốp, cùng dòng dõi họ sau này.”"
+  }
+]

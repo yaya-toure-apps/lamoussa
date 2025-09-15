@@ -1,0 +1,802 @@
+[
+  {
+    "i": 21200,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 14,
+    "t": "Bét-Togarmából lovakat, igáslovakat és öszvéreket hoztak neked áruba."
+  },
+  {
+    "i": 21201,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 15,
+    "t": "Dédán fiai kereskedtek veled; sok sziget volt a te vevőd, elefántcsontért és ébenfáért fizettek neked."
+  },
+  {
+    "i": 21202,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 16,
+    "t": "Edom volt a te vevőd, termékeid bősége miatt; karbunkulusokat, bíbort, hímzéseket, biszust, korallt és rubinokat adtak áruidért."
+  },
+  {
+    "i": 21203,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 17,
+    "t": "Júda és Izrael földje is kereskedett veled; minniti gabonát, pannagot, mézet, olajat és balzsamot hoztak cserébe."
+  },
+  {
+    "i": 21204,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 18,
+    "t": "Damaskus volt a te vevőd, termékeid bősége, mindenféle javak sokasága miatt; helbóni bort és cahari gyapjút szállítottak neked."
+  },
+  {
+    "i": 21205,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 19,
+    "t": "Dán és Jáván, Uzálból, kovácsolt vasat, kassziát és nádat hoztak áruidért cserébe."
+  },
+  {
+    "i": 21206,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 20,
+    "t": "Dédán lovaglópokrócokkal kereskedett veled."
+  },
+  {
+    "i": 21207,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 21,
+    "t": "Arábia és Kédár fejedelmei maguk voltak a te vevőid; bárányokkal, kosokkal és bakokkal fizettek."
+  },
+  {
+    "i": 21208,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 22,
+    "t": "Seba és Ráma kereskedői kereskedtek veled; a legfinomabb illatszereket, mindenféle drágakövet és aranyat hoztak áruként."
+  },
+  {
+    "i": 21209,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 23,
+    "t": "Hárán, Kanne és Éden, Seba, Assur és Kilmad kereskedői kereskedtek veled."
+  },
+  {
+    "i": 21210,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 24,
+    "t": "Gazdag ruhákkal, bíbor palástokkal és hímzésekkel, tarka szövetekkel és erős, fonott kötelekkel kereskedtek piacodon."
+  },
+  {
+    "i": 21211,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 25,
+    "t": "Tarsis hajói a te kereskedelmedet szolgálták. Túláradtál és megnehezedtél a tengerek szívében."
+  },
+  {
+    "i": 21212,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 26,
+    "t": "A nyílt tengeren evezőseid vezettek téged. A keleti szél összetört a tengerek szívében."
+  },
+  {
+    "i": 21213,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 27,
+    "t": "A te gazdagságod, a te áruid és a te rakományod, a te tengerészeid és a te hajósaid, a te hajójavítóid, a te kereskedelmed közvetítői és minden hadviselő férfi, akit hordasz, és minden utas, aki a fedélzeteden van, elsüllyed a tengerek szívében, a te hajótörésed napján."
+  },
+  {
+    "i": 21214,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 28,
+    "t": "A te hajósaid kiáltásának hallatára megremegnek a partok."
+  },
+  {
+    "i": 21215,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 29,
+    "t": "Akkor lejönnek hajóikról mind az evezősök. A tengerészek, minden tengeri ember a szárazföldön marad."
+  },
+  {
+    "i": 21216,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 30,
+    "t": "Hangot adnak rólad, keservesen kiáltanak. Port szórnak fejükre, hamuba hemperednek."
+  },
+  {
+    "i": 21217,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 31,
+    "t": "Kopaszra borotválják fejüket miattad, zsákba öltöznek. Keserűségükben keserves siralmat énekelnek rólad."
+  },
+  {
+    "i": 21218,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 32,
+    "t": "Siralmukban panaszdalt mondanak rólad, siránkoznak fölötted: „Ki volt hasonlatos Tíruszhoz a tenger közepén?"
+  },
+  {
+    "i": 21219,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 33,
+    "t": "Amikor kiraktad áruidat, hogy jóllakassz annyi népet, gazdagságod és termékeid bősége által meggazdagítottad a föld királyait."
+  },
+  {
+    "i": 21220,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 34,
+    "t": "Most összetörtél a hullámok által a vizek mélyén. A te rakományod és minden utasod veled együtt süllyedt el."
+  },
+  {
+    "i": 21221,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 35,
+    "t": "A szigetek minden lakosa döbbenetbe esett miattad. Királyaik borzalommal remegtek, arcuk eltorzult."
+  },
+  {
+    "i": 21222,
+    "b": 25,
+    "c": 2727,
+    "r": 2727,
+    "o": 36,
+    "t": "A népek kereskedői rádsziszegtek, mert a borzalom tárgyává lettél, vége van veled mindörökké!"
+  },
+  {
+    "i": 21223,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 1,
+    "t": "Az Úr szava így szólt hozzám:"
+  },
+  {
+    "i": 21224,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 2,
+    "t": "Embernek fia, mondd Tírusz fejedelmének: Így szól az Úr Isten. Mivel szíved felfuvalkodott, azt mondtad: „Én Isten vagyok, isteni lakhelyen lakom, a tenger szívében.” Holott ember vagy, és nem Isten, szívedet az Isten szívéhez hasonlítod."
+  },
+  {
+    "i": 21225,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 3,
+    "t": "Íme, bölcsebb vagy, mint Dániel; nincs bölcs, aki hozzád fogható."
+  },
+  {
+    "i": 21226,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 4,
+    "t": "Bölcsességeddel és értelmeddel vagyont szereztél magadnak, aranyat és ezüstöt halmoztál kincseidbe."
+  },
+  {
+    "i": 21227,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 5,
+    "t": "Oly nagy a jártasságod a kereskedelemben! Megsokasítottad vagyonodat, és szíved felfuvalkodott vagyonod miatt."
+  },
+  {
+    "i": 21228,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 6,
+    "t": "Ezért így szól az Úr Isten. Mivel szívedet az Isten szívéhez hasonlítod,"
+  },
+  {
+    "i": 21229,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 7,
+    "t": "íme, én idegeneket hozok ellened, a nemzetek legbarbárabbjait. Kardot rántanak szép bölcsességed ellen, megszentségtelenítik a te dicsőségedet."
+  },
+  {
+    "i": 21230,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 8,
+    "t": "Lejuttatnak a sírba, és erőszakos halállal halsz meg a tengerek szívében."
+  },
+  {
+    "i": 21231,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 9,
+    "t": "Mondod-e még: „Én Isten vagyok”, a gyilkosaid előtt? Hiszen ember vagy, és nem Isten, azok kezében, akik átdöfnek téged."
+  },
+  {
+    "i": 21232,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 10,
+    "t": "A körülmetéletlenek halálával halsz meg, idegenek keze által, mert én szóltam, az Úr szava."
+  },
+  {
+    "i": 21233,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 11,
+    "t": "Az Úr szava így szólt hozzám:"
+  },
+  {
+    "i": 21234,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 12,
+    "t": "Embernek fia, mondj panaszdalt Tírusz királya fölött. Mondd neki: Így szól az Úr Isten. Te a tökéletesség mintaképe voltál, bölcsességgel teljes, csodálatos a szépséged,"
+  },
+  {
+    "i": 21235,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 13,
+    "t": "Édenben voltál, Isten kertjében. Mindenféle drágakő alkotta a te köpenyedet: szárdiusz, topáz, gyémánt, krizolit, ónix, jáspis, zafír, karbunkulus, smaragd, aranyból készültek a te függőid és a te flittereid; mindez elkészült teremtésed napján."
+  },
+  {
+    "i": 21236,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 14,
+    "t": "Én téged szárnyas kerúbnak tettem, aki oltalmaz, Isten szent hegyén voltál, a tüzes kövek között jártál."
+  },
+  {
+    "i": 21237,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 15,
+    "t": "Példás volt a magatartásod teremtésed napjától fogva, amíg igazságtalanság nem találtatott benned."
+  },
+  {
+    "i": 21238,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 16,
+    "t": "Kereskedelmed által erőszakkal és bűnökkel teltél meg. Letaszítottalak Isten hegyéről, és elpusztítottalak, kerúb, aki oltalmaz, a tüzes kövek közül."
+  },
+  {
+    "i": 21239,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 17,
+    "t": "Szíved felfuvalkodott szépséged miatt. Megrontottad bölcsességedet ragyogásod miatt. A földre dobtalak, a királyok elé adtalak látványosságul."
+  },
+  {
+    "i": 21240,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 18,
+    "t": "Bűneid sokasága, kereskedelmed tisztességtelensége által megszentségtelenítetted szentélyeidet. Tüzet támasztottam benned, hogy elpusztítson; hamuvá tettem a földön, mindazok szeme láttára, akik néztek téged."
+  },
+  {
+    "i": 21241,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 19,
+    "t": "Aki ismer téged a népek között, döbbenetbe esik miattad. A borzalom tárgyává lettél, vége van veled mindörökké."
+  },
+  {
+    "i": 21242,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 20,
+    "t": "Az Úr szava így szólt hozzám:"
+  },
+  {
+    "i": 21243,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 21,
+    "t": "Embernek fia, fordulj Szidón felé, és prófétálj ellene."
+  },
+  {
+    "i": 21244,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 22,
+    "t": "Mondd: Így szól az Úr Isten. Én kijelentem ellened, Szidón, dicsőítve leszek a te közepedben. Tudni fogják, hogy én vagyok az Úr, amikor igazságot teszek rajta, és amikor megnyilvánítom benne szentségemet."
+  },
+  {
+    "i": 21245,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 23,
+    "t": "Pestist küldök rá, vér lesz az utcáin, halottak fognak elhullni a közepén a kard csapásai alatt, amelyet minden oldalról felemelnek ellene, és tudni fogják, hogy én vagyok az Úr."
+  },
+  {
+    "i": 21246,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 24,
+    "t": "Nem lesz többé Izrael házának tüske, amely sebez, sem tövis, amely szaggat mindazok között, akik körülveszik és megvetik őt, és tudni fogják, hogy én vagyok az Úr."
+  },
+  {
+    "i": 21247,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 25,
+    "t": "Így szól az Úr Isten: Amikor összegyűjtöm Izrael házát a népek közül, ahová szétszórattak, megnyilvánítom benne szentségemet a nemzetek szeme láttára. Lakni fog azon a földön, amelyet szolgámnak, Jákobnak adtam."
+  },
+  {
+    "i": 21248,
+    "b": 25,
+    "c": 2728,
+    "r": 2728,
+    "o": 26,
+    "t": "Biztonságban laknak ott, házakat építenek és szőlőket ültetnek; biztonságban laknak. Amikor igazságot teszek mindazokon, akik körülveszik és megvetik őket, tudni fogják, hogy én vagyok az Úr, az ő Istenük."
+  },
+  {
+    "i": 21249,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 1,
+    "t": "A tizedik esztendőben, a tizedik hónapban, a hónap tizenkettedik napján az Úr szava így szólt hozzám:"
+  },
+  {
+    "i": 21250,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 2,
+    "t": "Embernek fia, fordulj Fáraóhoz, Egyiptom királyához, és prófétálj ellene és egész Egyiptom ellen."
+  },
+  {
+    "i": 21251,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 3,
+    "t": "Szólj és mondd neki: Így szól az Úr Isten. Én kijelentem ellened, Fáraó, Egyiptom királya, nagy krokodil, aki a Nílusai közepén fekszel, aki azt mondtad: „Az én Nílusom az enyém, én csináltam magamnak.”"
+  },
+  {
+    "i": 21252,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 4,
+    "t": "Horgokat teszek az állkapcsaidba, ráragasztom a pikkelyeidre a Nílusaid halait, és kiráncigállak a Nílusaid közepéből, a Nílusaid összes halával együtt, amelyek a pikkelyeidre ragadtak."
+  },
+  {
+    "i": 21253,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 5,
+    "t": "Kidoblak a sivatagba, a Nílusaid összes halával együtt. A nyílt mezőn zuhansz le, nem szednek össze és nem temetnek el. A föld vadjainak és az ég madarainak adlak eledelül,"
+  },
+  {
+    "i": 21254,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 6,
+    "t": "és Egyiptom minden lakosa tudni fogja, hogy én vagyok az Úr. Mert nádszál támasztéka voltak Izrael házának."
+  },
+  {
+    "i": 21255,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 7,
+    "t": "Amikor megragadtak téged, eltörtél a kezükben, és felszaggattad az egész kezüket. Amikor rád támaszkodtak, eltörtél, megrendítetted az összes ágyékot."
+  },
+  {
+    "i": 21256,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 8,
+    "t": "Ezért így szól az Úr Isten. Íme, kardot küldök ellened, hogy kivágjak belőled embereket és állatokat."
+  },
+  {
+    "i": 21257,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 9,
+    "t": "Egyiptom földje pusztasággá és rommá lesz, és tudni fogják, hogy én vagyok az Úr. Mert azt mondta: „Az én Nílusom az enyém, én csináltam magamnak.”"
+  },
+  {
+    "i": 21258,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 10,
+    "t": "Nos hát! Kijelentem ellened és a Nílusaid ellen. Egyiptom földjét rommá és pusztasággá teszem, Migdolttól Sziénéig és Etiópia határáig."
+  },
+  {
+    "i": 21259,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 11,
+    "t": "Ember lába nem fog ott járni, állatok lába nem fog ott járni, negyven évig lakatlan marad."
+  },
+  {
+    "i": 21260,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 12,
+    "t": "Egyiptom földjét pusztasággá teszem a pusztává tett országok között; városai pusztasággá lesznek a lerombolt városok között, negyven éven át. És szétszórom az egyiptomiakat a nemzetek közé, elszórom őket az országok közé."
+  },
+  {
+    "i": 21261,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 13,
+    "t": "Mert így szól az Úr Isten. Negyven év elteltével összegyűjtöm az egyiptomiakat a nemzetek közül, ahová szétszóródtak."
+  },
+  {
+    "i": 21262,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 14,
+    "t": "Visszahozom az egyiptomi foglyokat, és visszahelyezem őket Patrosz földjére, az őshazájukba. Ott szerény királyságot alkotnak."
+  },
+  {
+    "i": 21263,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 15,
+    "t": "Egyiptom lesz a legkisebb a királyságok közül, és nem emelkedik fel többé a nemzetek fölé; megalázom, hogy ne uralkodjon többé a nemzetek fölött."
+  },
+  {
+    "i": 21264,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 16,
+    "t": "Nem lesz többé Izrael háza számára bizalom tárgya, mert emlékeztet arra a vétekre, hogy hozzá fordultak. És tudni fogják, hogy én vagyok az Úr Isten."
+  },
+  {
+    "i": 21265,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 17,
+    "t": "A huszonhetedik esztendőben, az első hónapban, a hónap első napján az Úr szava így szólt hozzám:"
+  },
+  {
+    "i": 21266,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 18,
+    "t": "Embernek fia, Nabukodonozor, Babilon királya hadba vitte seregét egy nagyszabású vállalkozásban Tírusz ellen. Minden fej kopaszra lett nyírva, és minden váll felsértve, de sem ő, sem a serege nem húzott hasznot a Tírusz ellen folytatott vállalkozásból."
+  },
+  {
+    "i": 21267,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 19,
+    "t": "Ezért így szól az Úr Isten: Íme, Nabukodonozornak, Babilon királyának adom Egyiptom földjét. Elhordja gazdagságát, megszerzi a zsákmányát, kifosztja, ez lesz a seregének a bére."
+  },
+  {
+    "i": 21268,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 20,
+    "t": "A fáradságáért cserébe adom neki Egyiptom földjét (mert értem dolgoztak), az Úr szava."
+  },
+  {
+    "i": 21269,
+    "b": 25,
+    "c": 2729,
+    "r": 2729,
+    "o": 21,
+    "t": "Azon a napon sarjat támasztok Izrael házának, és megengedem neked, hogy megnyisd a szádat közöttük. Akkor tudni fogják, hogy én vagyok az Úr."
+  },
+  {
+    "i": 21270,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 1,
+    "t": "Az Úr szava így szólt hozzám:"
+  },
+  {
+    "i": 21271,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 2,
+    "t": "Embernek fia, prófétálj és mondd: Így szól az Úr Isten. Kiáltsatok: „Jaj! Milyen nap!”"
+  },
+  {
+    "i": 21272,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 3,
+    "t": "Mert közel van a nap, közel van az Úr napja; felhőkkel terhes nap lesz, a nemzetek ideje lesz az."
+  },
+  {
+    "i": 21273,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 4,
+    "t": "Kard jön Egyiptomra, szorongás Kús földjére, amikor halottak hullanak el Egyiptomban, amikor elhordják gazdagságát, és lerombolják alapjait."
+  },
+  {
+    "i": 21274,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 5,
+    "t": "Kús, Put és Lúd, egész Arábia, Kúb és a szövetség földjének fiai kard által hullanak el velük együtt."
+  },
+  {
+    "i": 21275,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 6,
+    "t": "Így szól az Úr. Elesnek Egyiptom támaszai; összeomlik erejének büszkesége: Migdolttól Sziénéig kard által esnek el ott, az Úr szava."
+  },
+  {
+    "i": 21276,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 7,
+    "t": "Pusztává lesznek a pusztává tett országok között, városai a lerombolt városok között lesznek."
+  },
+  {
+    "i": 21277,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 8,
+    "t": "És tudni fogják, hogy én vagyok az Úr, amikor tüzet gyújtok Egyiptomban, és amikor összezúznak minden támasztóját."
+  },
+  {
+    "i": 21278,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 9,
+    "t": "Azon a napon a követek, akiket küldök, hajókon indulnak el, hogy megzavarják Kúst biztonságában. Szorongás terjed lakosai között, Egyiptom napján – igen! Íme, eljön!"
+  },
+  {
+    "i": 21279,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 10,
+    "t": "Így szól az Úr Isten: Elpusztítom Egyiptom sokaságát Nabukodonozor, Babilon királya keze által."
+  },
+  {
+    "i": 21280,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 11,
+    "t": "Ő és népe vele, a legvadabb nemzetek közül valók, elhozatnak, hogy elpusztítsák a földet. Kivonják a kardot Egyiptom ellen, és holttestekkel töltik meg a földet."
+  },
+  {
+    "i": 21281,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 12,
+    "t": "Kiszipolyozom a Nílusokat, eladom a földet gonoszoknak. Elpusztítom a földet és mindazt, ami benne van, idegenek keze által. Én, az Úr, szóltam."
+  },
+  {
+    "i": 21282,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 13,
+    "t": "Így szól az Úr Isten: Elpusztítom a bálványokat, eltávolítom Nóf városából a hamis isteneket. Nem lesz többé fejedelem Egyiptom földjén. Félelmet terjesztek Egyiptom földjén."
+  },
+  {
+    "i": 21283,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 14,
+    "t": "Elpusztítom Patroszt, felgyújtom Coánt, igazságot teszek Nó fölött."
+  },
+  {
+    "i": 21284,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 15,
+    "t": "Kiöntöm haragomat Sínre, Egyiptom erősségére; kiirtom Nó sokaságát."
+  },
+  {
+    "i": 21285,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 16,
+    "t": "Felgyújtom Egyiptomot, Sín görcsbe rándul, Nónál rést törnek, és a vizek szétáradnak."
+  },
+  {
+    "i": 21286,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 17,
+    "t": "Ón és Pi-Bészet ifjai kard által hullanak el, és maguk a városok fogságba mennek."
+  },
+  {
+    "i": 21287,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 18,
+    "t": "Tahpanhesznél sötétség lesz, amikor összetöröm ott Egyiptom pálcáit, és véget ér erejének büszkesége. Felhő borítja el, és lányai fogságba mennek."
+  },
+  {
+    "i": 21288,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 19,
+    "t": "Így teszek igazságot Egyiptomon, és megtudják, hogy én vagyok az Úr."
+  },
+  {
+    "i": 21289,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 20,
+    "t": "A tizenegyedik évben, az első hónapban, a hónap hetedik napján szólt hozzám az Úr szava, mondván:"
+  },
+  {
+    "i": 21290,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 21,
+    "t": "Embernek fia, eltörtem a fáraó, Egyiptom királyának karját, és ímé, senki sem kötözte be sebét, nem alkalmazott rá gyógyszereket, nem tett rá kötést, és nem gyógyította meg, hogy visszanyerje erejét a kard forgatásához."
+  },
+  {
+    "i": 21291,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 22,
+    "t": "Ezért így szól az Úr Isten: Ímé, én a fáraó, Egyiptom királya ellen fordulok; eltöröm karjait, azt is, amelyik ép, azt is, amelyik törött, és kiütöm a kardot a kezéből."
+  },
+  {
+    "i": 21292,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 23,
+    "t": "Szétszórom Egyiptomot a nemzetek közé, elszélesztem a tartományokba."
+  },
+  {
+    "i": 21293,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 24,
+    "t": "Megszilárdítom Babilon királyának karjait, és kardomat a kezébe adom. Eltöröm a fáraó karjait, és az haldokló jajveszékelését hallatja ellensége előtt."
+  },
+  {
+    "i": 21294,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 25,
+    "t": "Megszilárdítom Babilon királyának karjait, a fáraó karjai pedig lehanyatlik. És megtudják, hogy én vagyok az Úr, amikor kardomat Babilon királyának kezébe adom, és az felemeli azt Egyiptom földje ellen."
+  },
+  {
+    "i": 21295,
+    "b": 25,
+    "c": 2730,
+    "r": 2730,
+    "o": 26,
+    "t": "Szétszórom az egyiptomiakat a nemzetek közé, elszélesztem őket a tartományokba, és megtudják, hogy én vagyok az Úr."
+  },
+  {
+    "i": 21296,
+    "b": 25,
+    "c": 2731,
+    "r": 2731,
+    "o": 1,
+    "t": "A tizenegyedik évben, a harmadik hónapban, a hónap első napján szólt hozzám az Úr szava, mondván:"
+  },
+  {
+    "i": 21297,
+    "b": 25,
+    "c": 2731,
+    "r": 2731,
+    "o": 2,
+    "t": "Embernek fia, mondd a fáraónak, Egyiptom királyának és sokaságának: Mihez hasonlítsalak nagyságodban?"
+  },
+  {
+    "i": 21298,
+    "b": 25,
+    "c": 2731,
+    "r": 2731,
+    "o": 3,
+    "t": "Ímé, a Libanonon lévő cédrushoz, melynek gyönyörű ágai, sűrű lombja és magas termete van. A felhők közül emelkedik ki a teteje."
+  },
+  {
+    "i": 21299,
+    "b": 25,
+    "c": 2731,
+    "r": 2731,
+    "o": 4,
+    "t": "A vizek nevelték, a mélység növelte, folyóit ültetvénye körül folyatta, patakjait a mező minden fája felé küldte."
+  }
+]

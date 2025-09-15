@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26900,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 25,
+    "t": "Nu te îmbăta cu vin, căci vinul a pierdut pe mulți."
+  },
+  {
+    "i": 26901,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 26,
+    "t": "Cuptorul cerne tăria oțelului, așa și vinul cerne inimile în turnirul lăudăroșilor."
+  },
+  {
+    "i": 26902,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 27,
+    "t": "Vinul este viață pentru om, când îl bea cu măsură. Ce viață duce cel lipsit de vin? El a fost zidit spre bucuria oamenilor."
+  },
+  {
+    "i": 26903,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 28,
+    "t": "Veselie a inimii și bucurie a sufletului, iată vinul ce se bea la vreme și cu prisosință."
+  },
+  {
+    "i": 26904,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 29,
+    "t": "Amărăciune a sufletului, iată vinul ce se bea cu prea multă poftă, din patimă și sfidare."
+  },
+  {
+    "i": 26905,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 30,
+    "t": "Beția ațâță furia nebunului spre pierzanie, îi micșorează puterea și atrage lovituri."
+  },
+  {
+    "i": 26906,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 31,
+    "t": "La ospăț nu provoca pe aproapele tău și nu râde de el dacă este vesel, nu-i adresa reproșuri, nu-l supăra cu cererile tale."
+  },
+  {
+    "i": 26907,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 1,
+    "t": "Ai fost făcut președinte? Nu te socoti mai presus, fii cu comesenii ca unul dintre ei, ai grijă de ei și apoi așază-te."
+  },
+  {
+    "i": 26908,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 2,
+    "t": "După ce ți-ai împlinit toate îndatoririle, ia loc ca să te veselești cu ei și să primești cununa, prețul izbânzii tale."
+  },
+  {
+    "i": 26909,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 3,
+    "t": "Vorbește, bătrâne, căci aceasta ți se cuvine, dar cu discreție: nu opri muzica."
+  },
+  {
+    "i": 26910,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 4,
+    "t": "În timpul unei audiții nu împroșca discursuri, nu predica la nepotrivire."
+  },
+  {
+    "i": 26911,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 5,
+    "t": "Un sigiliu de rubin pe o bijuterie, așa este un concert muzical în timpul unui ospăț."
+  },
+  {
+    "i": 26912,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 6,
+    "t": "Un sigiliu de smarald pe o montură de aur, așa este o melodie cu un vin de soi."
+  },
+  {
+    "i": 26913,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 7,
+    "t": "Vorbește, tinere, când este necesar, de două ori cel mult, dacă ești întrebat."
+  },
+  {
+    "i": 26914,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 8,
+    "t": "Rezumă-ți discursul, spune mult în puține cuvinte, arată-te deopotrivă înțelegător și tăcut."
+  },
+  {
+    "i": 26915,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 9,
+    "t": "Nu trata cu cei mari de la egal la egal, dacă un altul vorbește, fii cumpătat în vorbe."
+  },
+  {
+    "i": 26916,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 10,
+    "t": "Fulgerul precede tunetul, harul se avântă înaintea omului smerit."
+  },
+  {
+    "i": 26917,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 11,
+    "t": "Când sosește ceasul, pleacă, nu zăbovi, aleargă spre casă, nu te plimba fără țintă."
+  },
+  {
+    "i": 26918,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 12,
+    "t": "Acolo, distrează-te, fă ce-ți place, dar nu păcătui vorbind cu obrăznicie."
+  },
+  {
+    "i": 26919,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 13,
+    "t": "Și pentru aceasta binecuvântează pe Ziditor, cel care te copleșește cu binefacerile sale."
+  },
+  {
+    "i": 26920,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 14,
+    "t": "Cel care se teme de Domnul aude învățăturile sale, cei care-L caută găsesc bunăvoința Sa."
+  },
+  {
+    "i": 26921,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 15,
+    "t": "Cel care cercetează legea se satură, dar pentru fățarnic ea este un scandal."
+  },
+  {
+    "i": 26922,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 16,
+    "t": "Cei care se tem de Domnul găsesc decizia bună, ei fac să strălucească faptele lor bune ca o lumină."
+  },
+  {
+    "i": 26923,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 17,
+    "t": "Păcătosul nu primește mustrarea, pentru a-și urma voința el găsește scuze."
+  },
+  {
+    "i": 26924,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 18,
+    "t": "Omul înțelept nu disprețuiește sfaturile, străinul și orgoliosul nu cunosc teama."
+  },
+  {
+    "i": 26925,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 19,
+    "t": "Nu face nimic fără reflecție, nu te vei căi de faptele tale."
+  },
+  {
+    "i": 26926,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 20,
+    "t": "Nu urma o cale accidentată, de teamă să nu te împiedici de pietre."
+  },
+  {
+    "i": 26927,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 21,
+    "t": "Nu te încrede în calea netedă,"
+  },
+  {
+    "i": 26928,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 22,
+    "t": "și ferește-te de copiii tăi."
+  },
+  {
+    "i": 26929,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 23,
+    "t": "În toate, veghează asupra ta însuți, aceasta înseamnă de asemenea a respecta poruncile."
+  },
+  {
+    "i": 26930,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 24,
+    "t": "Cel care are încredere în lege respectă preceptele sale, cel care își pune încrederea în Domnul nu suferă nicio pagubă."
+  },
+  {
+    "i": 26931,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 1,
+    "t": "Cel care se teme de Domnul, răul nu-l va lovi, și chiar în încercare, va fi izbăvit."
+  },
+  {
+    "i": 26932,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 2,
+    "t": "Cel care urăște legea nu este înțelept, dar cel care o observă în mod fals este ca o corabie în furtună."
+  },
+  {
+    "i": 26933,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 3,
+    "t": "Omul înțelept își pune încrederea în lege, legea este pentru el demnă de încredere ca un oracol."
+  },
+  {
+    "i": 26934,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 4,
+    "t": "Pregătește-ți discursurile și vei fi ascultat, adună-ți știința înainte de a răspunde."
+  },
+  {
+    "i": 26935,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 5,
+    "t": "Sentimentele nebunului sunt ca o roată de căruță, raționamentul său ca o osie care se învârte."
+  },
+  {
+    "i": 26936,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 6,
+    "t": "Un cal în călduri este ca un prieten batjocoritor, de îndată ce vrei să-l încaleci el nechează."
+  },
+  {
+    "i": 26937,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 7,
+    "t": "De ce o zi este mai mare decât alta, din moment ce, tot anul, lumina vine de la soare?"
+  },
+  {
+    "i": 26938,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 8,
+    "t": "Pentru că ele au fost distinse în gândirea Domnului, care a diversificat anotimpurile și sărbătorile."
+  },
+  {
+    "i": 26939,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 9,
+    "t": "El a înălțat și a consacrat pe unii și a făcut din alții zile obișnuite."
+  },
+  {
+    "i": 26940,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 10,
+    "t": "Toți oamenii vin din țărână, din pământ a fost plăsmuit Adam."
+  },
+  {
+    "i": 26941,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 11,
+    "t": "În marea sa înțelepciune, Domnul i-a deosebit, El a diversificat condițiile lor."
+  },
+  {
+    "i": 26942,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 12,
+    "t": "El a binecuvântat și a înălțat pe unii, i-a consacrat și i-a pus aproape de El. El a blestemat și a umilit și i-a respins din locul lor."
+  },
+  {
+    "i": 26943,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 13,
+    "t": "Așa cum lutul în mâna olarului, care îl modelează după bunul său plac, așa sunt oamenii în mâna Creatorului lor, care îi răsplătește după dreptatea Sa."
+  },
+  {
+    "i": 26944,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 14,
+    "t": "Față de rău există binele, față de moarte, viața. Astfel, față de omul pios, păcătosul."
+  },
+  {
+    "i": 26945,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 15,
+    "t": "Contemplă deci toate operele Celui Preaînalt, toate merg în perechi, față în față."
+  },
+  {
+    "i": 26946,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 16,
+    "t": "Pentru mine, ultimul venit, am vegheat ca un culegător după culegătorii de vie."
+  },
+  {
+    "i": 26947,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 17,
+    "t": "Prin binecuvântarea Domnului ajung primul și ca culegătorul am umplut teascul."
+  },
+  {
+    "i": 26948,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 18,
+    "t": "Recunoașteți că n-am lucrat pentru mine singur, ci pentru toți cei care caută învățătura."
+  },
+  {
+    "i": 26949,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 19,
+    "t": "Ascultați-mă deci, mari ai poporului, președinți ai adunării, dați-mi ascultare."
+  },
+  {
+    "i": 26950,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 20,
+    "t": "Fiului tău, soției tale, fratelui tău, prietenului tău, nu le da putere asupra ta cât ești în viață. Nu da altuia bunurile tale, ai putea regreta și ar trebui să le ceri înapoi."
+  },
+  {
+    "i": 26951,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 21,
+    "t": "Cât trăiești și cât îți mai rămâne suflare, nu te da în puterea nimănui."
+  },
+  {
+    "i": 26952,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 22,
+    "t": "Căci este mai bine ca copiii tăi să te implore, decât să întorci spre ei priviri imploratoare."
+  },
+  {
+    "i": 26953,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 23,
+    "t": "În tot ceea ce faci, rămâi stăpânul, nu păta reputația ta."
+  },
+  {
+    "i": 26954,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 24,
+    "t": "Când se vor consuma zilele vieții tale, la ceasul morții, împarte moștenirea ta."
+  },
+  {
+    "i": 26955,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 25,
+    "t": "Asinului, nutrețul, bastonul, poverile, servitorului, pâinea, pedeapsa, munca."
+  },
+  {
+    "i": 26956,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 26,
+    "t": "Pune-l pe sclavul tău să muncească, vei găsi odihna; lasă-i mâinile libere, el va căuta libertatea."
+  },
+  {
+    "i": 26957,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 27,
+    "t": "Jugul și frâul fac să se plece ceafa, servitorului rău, tortura și întrebarea."
+  },
+  {
+    "i": 26958,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 28,
+    "t": "Pune-l la muncă pentru ca să nu rămână inactiv,"
+  },
+  {
+    "i": 26959,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 29,
+    "t": "căci inactivitatea învață toate farsele rele."
+  },
+  {
+    "i": 26960,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 30,
+    "t": "Pune-l la lucru așa cum i se cuvine și dacă nu ascultă pune-l în lanțuri. Dar nu fi prea exigent cu nimeni, nu face nimic contrar dreptății."
+  },
+  {
+    "i": 26961,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 31,
+    "t": "Nu ai decât un sclav? Să fie ca tine însuți, din moment ce l-ai dobândit cu sânge. Nu ai decât un sclav? Tratează-l ca pe un frate, căci ai nevoie de el ca de tine însuți."
+  },
+  {
+    "i": 26962,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 32,
+    "t": "Dacă îl maltratezi și el o ia la fugă,"
+  },
+  {
+    "i": 26963,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 33,
+    "t": "pe ce drum vei merge să-l cauți?"
+  },
+  {
+    "i": 26964,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 1,
+    "t": "Speranțele vane și înșelătoare sunt pentru nesăbuit și visele dau aripi nebunilor."
+  },
+  {
+    "i": 26965,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 2,
+    "t": "Înseamnă a prinde o umbră și a urmări vântul a te opri la vise."
+  },
+  {
+    "i": 26966,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 3,
+    "t": "Oglinda și visele sunt lucruri asemănătoare: în fața unei fețe apare imaginea ei."
+  },
+  {
+    "i": 26967,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 4,
+    "t": "Din impur ce se poate scoate pur? Din minciună ce se poate scoate adevăr?"
+  },
+  {
+    "i": 26968,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 5,
+    "t": "Ghicitorie, auguri, vise, atâtea vanități, acestea sunt reverii de femeie însărcinată."
+  },
+  {
+    "i": 26969,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 6,
+    "t": "Doar dacă nu sunt trimiși în vizită de Cel Preaînalt, nu-ți aplica inima la ele."
+  },
+  {
+    "i": 26970,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 7,
+    "t": "Visele au rătăcit pe mulți oameni, cei care au contat pe ele au eșuat."
+  },
+  {
+    "i": 26971,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 8,
+    "t": "Fără minciună se împlinește Legea și înțelepciunea este desăvârșită în sinceritate."
+  },
+  {
+    "i": 26972,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 9,
+    "t": "S-a învățat mult când s-a călătorit mult și un om cu experiență vorbește cu inteligență."
+  },
+  {
+    "i": 26973,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 10,
+    "t": "Cel care n-a fost la încercare știe puține lucruri,"
+  },
+  {
+    "i": 26974,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 11,
+    "t": "dar cel care a călătorit abundă în știință de carte."
+  },
+  {
+    "i": 26975,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 12,
+    "t": "Am văzut multe în timpul călătoriilor mele și am înțeles mai mult decât aș putea spune."
+  },
+  {
+    "i": 26976,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 13,
+    "t": "De multe ori am fost în pericol de moarte, și am fost salvat, iată cum:"
+  },
+  {
+    "i": 26977,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 14,
+    "t": "Cei care se tem de Domnul, duhul lor va trăi,"
+  },
+  {
+    "i": 26978,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 15,
+    "t": "căci nădejdea lor se sprijină pe cel care îi poate salva."
+  },
+  {
+    "i": 26979,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 16,
+    "t": "Cel care se teme de Domnul nu se teme de nimic, el nu tremură, căci Dumnezeu este nădejdea lui."
+  },
+  {
+    "i": 26980,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 17,
+    "t": "Ferice de suflet este cel ce se teme de Domnul:"
+  },
+  {
+    "i": 26981,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 18,
+    "t": "pe cine se sprijină el și cine îi este ajutor?"
+  },
+  {
+    "i": 26982,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 19,
+    "t": "Ochii Domnului sunt ațintiți asupra celor ce-L iubesc, ocrotire puternică, sprijin plin de vigoare, adăpost împotriva vântului pustiului, umbră împotriva arșiței de la amiază, protecție împotriva obstacolelor, asigurare împotriva căderilor."
+  },
+  {
+    "i": 26983,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 20,
+    "t": "El înalță sufletul, El luminează ochii, El dă sănătate, viață și binecuvântare."
+  },
+  {
+    "i": 26984,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 21,
+    "t": "A jertfi un bun dobândit pe nedrept înseamnă a-și bate joc,"
+  },
+  {
+    "i": 26985,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 22,
+    "t": "darurile celor răi nu sunt plăcute."
+  },
+  {
+    "i": 26986,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 23,
+    "t": "Cel Preaînalt nu primește ofrandele celor nelegiuiți, nu pentru abundența victimelor iartă El păcatele."
+  },
+  {
+    "i": 26987,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 24,
+    "t": "Este ca și cum ai imola fiul în prezența tatălui său, oferind un sacrificiu cu bunurile săracilor."
+  },
+  {
+    "i": 26988,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 25,
+    "t": "O hrană săracă este viața săracilor, a-i priva de ea înseamnă a comite o crimă."
+  },
+  {
+    "i": 26989,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 26,
+    "t": "Este a ucide pe aproapele tău, a-i lua cele de trebuință,"
+  },
+  {
+    "i": 26990,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 27,
+    "t": "este a vărsa sânge, a priva pe salariat de ceea ce i se cuvine."
+  },
+  {
+    "i": 26991,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 28,
+    "t": "Unul zidește, altul dărâmă; ce câștigă ei, dacă nu necaz?"
+  },
+  {
+    "i": 26992,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 29,
+    "t": "Unul binecuvântează, altul blestemă: a cui voce va asculta Stăpânul?"
+  },
+  {
+    "i": 26993,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 30,
+    "t": "Cel ce se purifică de atingerea unui mort și din nou îl atinge, la ce-i folosește spălarea?"
+  },
+  {
+    "i": 26994,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 31,
+    "t": "Astfel, omul care postește pentru păcatele sale, apoi pleacă și le comite din nou; cine-i va asculta rugăciunea? Ce-i folosește să se umilească?"
+  },
+  {
+    "i": 26995,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 1,
+    "t": "A respecta legea înseamnă a multiplica ofrandele,"
+  },
+  {
+    "i": 26996,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 2,
+    "t": "a te atașa de precepte înseamnă a oferi sacrificii de comuniune."
+  },
+  {
+    "i": 26997,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 3,
+    "t": "A te arăta milostiv înseamnă a face o oblăție de floare de făină,"
+  },
+  {
+    "i": 26998,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 4,
+    "t": "a face milostenie înseamnă a oferi un sacrificiu de laudă."
+  },
+  {
+    "i": 26999,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 5,
+    "t": "Ceea ce-I place Domnului este ca omul să se întoarcă de la rău, a fugi de nedreptate este a oferi un sacrificiu ispășitor."
+  }
+]

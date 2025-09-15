@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17300,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 10,
+    "t": "Kruvinieji žmonės nekenčia teisiojo, bet tiesūs žmonės ieško jo artumo."
+  },
+  {
+    "i": 17301,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 11,
+    "t": "Kvailys išlieja visą savo įniršį, bet išmintingasis jį sutramdo ir nuramina."
+  },
+  {
+    "i": 17302,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 12,
+    "t": "Kai valdovas klauso melagingų pranešimų, visi jo tarnai tampa nedorėliais."
+  },
+  {
+    "i": 17303,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 13,
+    "t": "Vargšas ir engėjas susitinka: abu jie gauna šviesą iš Viešpaties."
+  },
+  {
+    "i": 17304,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 14,
+    "t": "Karalius, kuris teisingai teisia vargšus, jo sostas bus įtvirtintas amžinai."
+  },
+  {
+    "i": 17305,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 15,
+    "t": "Lazda ir pamokymai teikia išmintį, o jaunuolis, paliktas savo valiai, yra savo motinos gėda."
+  },
+  {
+    "i": 17306,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 16,
+    "t": "Kai nedorėlių daugėja, nusikaltimai dauginasi, bet teisūs matys jų nuopuolį."
+  },
+  {
+    "i": 17307,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 17,
+    "t": "Drausmink savo sūnų, ir jis tau suteiks ramybę bei džiugins tavo sielą."
+  },
+  {
+    "i": 17308,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 18,
+    "t": "Kur nėra apreiškimo, ten žmonės tampa nevaldomi; palaimintas, kas laikosi įstatymo."
+  },
+  {
+    "i": 17309,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 19,
+    "t": "Vergas nebus pataisytas žodžiais: net jei jis supranta, jis neklauso."
+  },
+  {
+    "i": 17310,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 20,
+    "t": "Ar matei žmogų, greitą kalbėti? Daugiau galima tikėtis iš kvailio."
+  },
+  {
+    "i": 17311,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 21,
+    "t": "Jei nuo vaikystės lepinsi savo vergą, galiausiai jis taps nedėkingas."
+  },
+  {
+    "i": 17312,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 22,
+    "t": "Pykčio žmogus sukelia kivirčus, o įniršęs žmogus padaugina nusižengimus."
+  },
+  {
+    "i": 17313,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 23,
+    "t": "Žmogaus išdidumas jį pažemins, o nuolankios dvasios sulauks garbės."
+  },
+  {
+    "i": 17314,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 24,
+    "t": "Tai tas pats, kas dalintis su vagimi ir nekęsti savęs, girdint priesaiką ir nepranešant apie tai."
+  },
+  {
+    "i": 17315,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 25,
+    "t": "Bijoti žmonių yra spąstai, bet kas pasitiki Viešpačiu, yra saugus."
+  },
+  {
+    "i": 17316,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 26,
+    "t": "Daugelis ieško valdovo palankumo, bet teisumas kiekvienam ateina iš Viešpaties."
+  },
+  {
+    "i": 17317,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 27,
+    "t": "Nedorėlis yra pasibjaurėjimas teisiajam, o teisus kelias – pasibjaurėjimas nedorėliui."
+  },
+  {
+    "i": 17318,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 1,
+    "t": "Aguro, Jakeho sūnaus, žodžiai, iš Massos. Šio žmogaus pranašystė Iteeliui, Iteeliui ir Ukalui."
+  },
+  {
+    "i": 17319,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 2,
+    "t": "Aš esu pats kvailiausias iš visų žmonių, neturintis jokio žmogiško supratimo,"
+  },
+  {
+    "i": 17320,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 3,
+    "t": "aš nesimokiau išminties ir nežinau šventųjų mokslo."
+  },
+  {
+    "i": 17321,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 4,
+    "t": "Kas pakilo į dangų ir vėl nusileido? Kas savo saujose surinko vėją? Kas savo apsiaustu suspaudė vandenis? Kas įtvirtino visus žemės pakraščius? Koks jo vardas? Koks jo sūnaus vardas, jei žinai?"
+  },
+  {
+    "i": 17322,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 5,
+    "t": "Kiekvienas Dievo žodis yra ištirtas, Jis yra skydas tiems, kurie Jame randa prieglobstį."
+  },
+  {
+    "i": 17323,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 6,
+    "t": "Nepridėk nieko prie Jo žodžių, kad Jis tavęs neapgailėtų ir nelaikytų melagiu."
+  },
+  {
+    "i": 17324,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 7,
+    "t": "Prašau Tavęs dviejų dalykų, neatmesk jų, kol aš nemiriau:"
+  },
+  {
+    "i": 17325,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 8,
+    "t": "pašalink nuo manęs neteisybę ir melagingus žodžius, neduok man nei skurdo, nei turtų, leisk man ragauti savo duonos dalį,"
+  },
+  {
+    "i": 17326,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 9,
+    "t": "kad būdamas sotus, neatsukčiau nugaros ir nesakyčiau: „Kas yra Viešpats?“ Arba būdamas beturtis nevogčiau ir nepaneigčiau savo Dievo vardo."
+  },
+  {
+    "i": 17327,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 10,
+    "t": "Nešmeižk vergo savo šeimininkui, kad jis tavęs neprakeiktų ir tau netektų nešti atsakomybės."
+  },
+  {
+    "i": 17328,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 11,
+    "t": "Giminė, kuri keikia savo tėvą ir neblėsta savo motinos,"
+  },
+  {
+    "i": 17329,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 12,
+    "t": "giminė, kuri yra švari savo akyse, bet kurios purvas nėra nuvalytas,"
+  },
+  {
+    "i": 17330,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 13,
+    "t": "giminė aukštomis akimis ir išdidžiais vokais,"
+  },
+  {
+    "i": 17331,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 14,
+    "t": "giminė, kurios dantys yra kardai, o žandikauliai – peiliai, kad surytų vargšus ir ištrintų juos iš šalies, o nelaimėlius – iš žmonių."
+  },
+  {
+    "i": 17332,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 15,
+    "t": "Dėlei yra dvi dukterys: „Duok! Duok!“ Yra trys dalykai, kurių negalima pasotinti, ir keturi, kurie niekada nesako: „Gana!“:"
+  },
+  {
+    "i": 17333,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 16,
+    "t": "Šeolas, nevaisinga įsčios, žemė, kurios vanduo negali pasotinti, ugnis, kuri niekada nesako: „Gana!“"
+  },
+  {
+    "i": 17334,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 17,
+    "t": "Akis, kuri šaiposi iš tėvo ir niekina paklusnumą motinai, upelio varnai išlupinės ją, ereliai ją suris."
+  },
+  {
+    "i": 17335,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 18,
+    "t": "Yra trys dalykai, kurie mane pranoksta, ir keturi, kurių nežinau:"
+  },
+  {
+    "i": 17336,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 19,
+    "t": "erelio kelias danguje, gyvatės kelias ant uolos, laivo kelias jūros gelmėje, vyro kelias pas jauną moterį."
+  },
+  {
+    "i": 17337,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 20,
+    "t": "Toks yra svetimautojos elgesys: ji valgo, paskui nusivalo burną sakydama: „Aš nieko blogo nepadariau!“"
+  },
+  {
+    "i": 17338,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 21,
+    "t": "Po trimis dalykais dreba žemė, ir keturių ji negali pakelti:"
+  },
+  {
+    "i": 17339,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 22,
+    "t": "vergo, kuris tampa karaliumi, šiurkštaus žmogaus, prisivalgiusio maisto,"
+  },
+  {
+    "i": 17340,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 23,
+    "t": "nekenčiamos dukters, kuri išteka, tarnaitės, kuri paveldi savo šeimininkę."
+  },
+  {
+    "i": 17341,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 24,
+    "t": "Yra keturi maži padarai žemėje, bet išmintingi tarp išmintingų:"
+  },
+  {
+    "i": 17342,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 25,
+    "t": "skruzdėlės, silpna tauta, bet vasarą pasirūpina savo maistu;"
+  },
+  {
+    "i": 17343,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 26,
+    "t": "damanai, bejėgė tauta, bet gyvena uolose;"
+  },
+  {
+    "i": 17344,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 27,
+    "t": "pas skėrius nėra karaliaus! bet jie visi žygiuoja darniai;"
+  },
+  {
+    "i": 17345,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 28,
+    "t": "driežas, kurį galima sugauti ranka, bet jis lankosi karaliaus rūmuose."
+  },
+  {
+    "i": 17346,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 29,
+    "t": "Trys dalykai turi gražų vaizdą ir keturi turi gražų žingsnį:"
+  },
+  {
+    "i": 17347,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 30,
+    "t": "liūtas, drąsiausias iš gyvūnų, kuris nieko nebijo;"
+  },
+  {
+    "i": 17348,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 31,
+    "t": "gerai sudėtas gaidys, arba ožys, ir karalius, kai jis kreipiasi į tautą."
+  },
+  {
+    "i": 17349,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 32,
+    "t": "Jei buvai pakankamai kvailas, kad susierzinai, ir jei susimąstei, uždėk ranką ant burnos!"
+  },
+  {
+    "i": 17350,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 33,
+    "t": "Nes spaudžiant pieną, gaunamas sviestas, spaudžiant nosį, gaunamas kraujas, spaudžiant pyktį, gaunamas kivirčas."
+  },
+  {
+    "i": 17351,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 1,
+    "t": "Lemuelio, karaliaus iš Massos, žodžiai, kuriuos jį išmokė jo motina."
+  },
+  {
+    "i": 17352,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 2,
+    "t": "Kas, mano sūnau! Kas, mano įsčių sūnau! Kas, mano įžadų sūnau!"
+  },
+  {
+    "i": 17353,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 3,
+    "t": "Neatiduok savo stiprybės moterims, nei savo kelių toms, kurios pražudo karalius."
+  },
+  {
+    "i": 17354,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 4,
+    "t": "Nereikia karaliams, Lemueli, nereikia karaliams gerti vyno, nei kunigaikščiams mėgti stiprių gėrimų,"
+  },
+  {
+    "i": 17355,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 5,
+    "t": "kad gerdami jie nepamirštų to, kas nustatyta, ir neiškraipytų visų vargšų bylos."
+  },
+  {
+    "i": 17356,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 6,
+    "t": "Duok stiprių gėrimų tam, kuris miršta, vyno tam, kuris pilnas kartėlio:"
+  },
+  {
+    "i": 17357,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 7,
+    "t": "tegu jis geria, tegu pamiršta savo vargą, tegu nebeatsimena savo nelaimės!"
+  },
+  {
+    "i": 17358,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 8,
+    "t": "Atverk burną nebylio labui, visų apleistųjų bylos labui;"
+  },
+  {
+    "i": 17359,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 9,
+    "t": "atverk burną, teisk teisingai, gink vargšo ir nelaimėlio bylą."
+  },
+  {
+    "i": 17360,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 10,
+    "t": "Gera moteris, kas ją suras? Jos vertė didesnė už perlus!"
+  },
+  {
+    "i": 17361,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 11,
+    "t": "Jos vyro širdis ja pasitiki, jam netrūksta naudos."
+  },
+  {
+    "i": 17362,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 12,
+    "t": "Ji teikia jam laimę, o ne nelaimę, visas savo gyvenimo dienas."
+  },
+  {
+    "i": 17363,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 13,
+    "t": "Ji ieško vilnos ir lino ir dirba džiugia ranka."
+  },
+  {
+    "i": 17364,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 14,
+    "t": "Ji panaši į prekybos laivus: iš toli ji atgabena savo maistą."
+  },
+  {
+    "i": 17365,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 15,
+    "t": "Dar naktis, o ji jau keliasi, dalindama savo namiškiams maistą ir įsakymus savo tarnaitėms."
+  },
+  {
+    "i": 17366,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 16,
+    "t": "Ar mato lauką, ji jį įsigyja; iš savo rankų darbo ji pasodina vynuogyną."
+  },
+  {
+    "i": 17367,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 17,
+    "t": "Ji stipriai susijuosia strėnas ir demonstruoja savo rankų jėgą."
+  },
+  {
+    "i": 17368,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 18,
+    "t": "Ji žino, kad jos reikalai klesti, naktį jos lempa neužgęsta."
+  },
+  {
+    "i": 17369,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 19,
+    "t": "Ji deda ranką prie verpstės, jos pirštai ima suklį."
+  },
+  {
+    "i": 17370,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 20,
+    "t": "Ji tiesia rankas vargšui, ji ištiesia rankas nelaimėliui."
+  },
+  {
+    "i": 17371,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 21,
+    "t": "Ji nebijo sniego savo namams, nes visi jos namiškiai vilki dvigubus drabužius."
+  },
+  {
+    "i": 17372,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 22,
+    "t": "Ji pasidaro uždangalus, jos drabužiai iš lino ir purpuro."
+  },
+  {
+    "i": 17373,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 23,
+    "t": "Prie miesto vartų jos vyras žinomas, jis sėdi tarp šalies seniūnų."
+  },
+  {
+    "i": 17374,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 24,
+    "t": "Ji audžia audinius ir juos parduoda, prekeiviui ji patiekia diržą."
+  },
+  {
+    "i": 17375,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 25,
+    "t": "Jėga ir orumas yra jos drabužiai, ji juokiasi į ateinančią dieną."
+  },
+  {
+    "i": 17376,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 26,
+    "t": "Išmintingai ji atveria burną, ant jos liežuvio – pamaldumo doktrina."
+  },
+  {
+    "i": 17377,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 27,
+    "t": "Ji prižiūri savo namiškių veiklą, nevalgo tinginystės duonos."
+  },
+  {
+    "i": 17378,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 28,
+    "t": "Jos sūnūs keliasi, kad paskelbtų ją palaiminta, jos vyras – pagirti ją:"
+  },
+  {
+    "i": 17379,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 29,
+    "t": "„Daugelis moterų atliko žygdarbius, bet tu pranoksti jas visas!“"
+  },
+  {
+    "i": 17380,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 30,
+    "t": "Apgaulė – malonė! Tuštybė – grožis! Moteris, kuri bijo Viešpaties, bus pagirta!"
+  },
+  {
+    "i": 17381,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 31,
+    "t": "Duokite jai dalį jos rankų darbo vaisių, ir jos darbai tegu ją giria prie vartų!"
+  },
+  {
+    "i": 17382,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 1,
+    "t": "Koheleto, Dovydo sūnaus, karaliaus Jeruzalėje, žodžiai:"
+  },
+  {
+    "i": 17383,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 2,
+    "t": "Tuštybių tuštybė, – sako Koheletas, – tuštybių tuštybė, viskas yra tuštybė!"
+  },
+  {
+    "i": 17384,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 3,
+    "t": "Kokia nauda žmogui iš visų jo pastangų, kuriomis jis triūsia po saule?"
+  },
+  {
+    "i": 17385,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 4,
+    "t": "Viena karta praeina, kita ateina, bet žemė lieka per amžius."
+  },
+  {
+    "i": 17386,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 5,
+    "t": "Saulė teka, saulė leidžiasi, ji skuba į savo vietą ir ten vėl teka."
+  },
+  {
+    "i": 17387,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 6,
+    "t": "Vėjas pučia į pietus ir sukasi į šiaurę; jis sukasi, sukasi ir eina, ir grįžta atgal savo keliu."
+  },
+  {
+    "i": 17388,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 7,
+    "t": "Visos upės teka į jūrą, bet jūra neprisipildo. Į vietą, iš kur teka upės, ten jos vėl teka."
+  },
+  {
+    "i": 17389,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 8,
+    "t": "Visa kalba vargina! Niekas negali pasakyti, kad akis nepasisotina matymu, o ausis – girdėjimu."
+  },
+  {
+    "i": 17390,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 9,
+    "t": "Kas buvo, tas bus, kas padaryta, tas vėl bus padaryta, ir nėra nieko naujo po saule!"
+  },
+  {
+    "i": 17391,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 10,
+    "t": "Ar yra kas nors, apie ką būtų galima pasakyti: „Štai kas naujo!“ Tai jau buvo amžiais, kurie buvo prieš mus."
+  },
+  {
+    "i": 17392,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 11,
+    "t": "Nėra atminimo apie tai, kas buvo anksčiau, ir netgi apie tuos, kurie bus ateityje, nebus jokio atminimo tarp tų, kurie ateis po jų."
+  },
+  {
+    "i": 17393,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 12,
+    "t": "Aš, Koheletas, buvau Izraelio karalius Jeruzalėje."
+  },
+  {
+    "i": 17394,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 13,
+    "t": "Visą savo širdį atidaviau išminties paieškoms ir tyrinėjimams apie visa, kas daroma po dangumi. Tai sunkus darbas, kurį Dievas davė žmonių vaikams, kad jie juo užsiimtų."
+  },
+  {
+    "i": 17395,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 14,
+    "t": "Pažvelgiau į visus darbus, kurie daromi po saule, ir štai, viskas yra tuštybė ir vėjo vaikymasis!"
+  },
+  {
+    "i": 17396,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 15,
+    "t": "Kas kreiva, to neištiesinsi, ko trūksta, to nesuskaičiuosi."
+  },
+  {
+    "i": 17397,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 16,
+    "t": "Aš sau pasakiau: štai aš sukaupiau ir prikaupiau išminties daugiau nei kas nors kitas prieš mane Jeruzalėje, ir savo širdyje aš pažinau visokią išmintį ir pažinimą."
+  },
+  {
+    "i": 17398,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 17,
+    "t": "Aš visą savo širdį atidaviau suprasti išmintį ir pažinimą, kvailystę ir beprotybę, ir supratau, kad visa tai taip pat yra vėjo vaikymasis."
+  },
+  {
+    "i": 17399,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 18,
+    "t": "Daug išminties – daug sielvarto; kuo daugiau pažinimo, tuo daugiau skausmo."
+  }
+]

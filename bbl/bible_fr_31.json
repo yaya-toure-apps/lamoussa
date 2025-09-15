@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3100,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 50,
+    "t": "Le prêtre examinera le mal et séquestrera l’objet pendant sept jours."
+  },
+  {
+    "i": 3101,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 51,
+    "t": "S’il observe au septième jour que le mal s’est étendu sur ce vêtement, ce tissu, cette couverture, ce cuir ou cet objet fait en cuir, quel qu’il soit, c’est un cas de lèpre contagieuse : l’objet atteint est impur."
+  },
+  {
+    "i": 3102,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 52,
+    "t": "Il brûlera ce vêtement, ce tissu, cette couverture de laine ou de lin, cet objet de cuir quel qu’il soit, sur lequel s’est déclaré le mal, car c’est une lèpre contagieuse qui doit être consumée par le feu."
+  },
+  {
+    "i": 3103,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 53,
+    "t": "Mais si, à l’examen, le prêtre constate que le mal ne s’est pas étendu sur ce vêtement, ce tissu, cette couverture, ou sur cet objet de cuir quel qu’il soit,"
+  },
+  {
+    "i": 3104,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 54,
+    "t": "il ordonnera de nettoyer l’objet attaqué et le séquestrera une seconde fois pendant sept jours."
+  },
+  {
+    "i": 3105,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 55,
+    "t": "Après nettoiement il examinera le mal et, s’il constate qu’il n’a pas changé d’aspect, tout en ne s’étendant pas, l’objet est impur. Tu le consumeras par le feu : il y a corrosion à l’endroit et à l’envers."
+  },
+  {
+    "i": 3106,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 56,
+    "t": "Mais si, à l’examen, le prêtre constate qu’après nettoiement le mal a terni, il l’arrachera du vêtement, du cuir, du tissu ou de la couverture."
+  },
+  {
+    "i": 3107,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 57,
+    "t": "Toutefois, si le mal reparaît sur ce vêtement, ce tissu, cette couverture ou cet objet de cuir quel qu’il soit, c’est que le mal est actif et tu consumeras par le feu ce qui en est atteint."
+  },
+  {
+    "i": 3108,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 58,
+    "t": "Quant au vêtement, au tissu, à la couverture et à l’objet quelconque en cuir dont le mal aura disparu après nettoiement, il sera pur après avoir été nettoyé une seconde fois."
+  },
+  {
+    "i": 3109,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 59,
+    "t": "Telle est la loi pour le cas de lèpre d’un vêtement en laine ou en lin, d’un tissu, d’une couverture ou d’un objet en cuir quel qu’il soit, lorsqu’il s’agit de les déclarer purs ou impurs."
+  },
+  {
+    "i": 3110,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 1,
+    "t": "Yahvé parla à Moïse et dit :"
+  },
+  {
+    "i": 3111,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 2,
+    "t": "Voici la loi à appliquer au lépreux le jour de sa purification. On le conduira au prêtre,"
+  },
+  {
+    "i": 3112,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 3,
+    "t": "et le prêtre sortira du camp. S’il constate, après examen, que le lépreux est guéri de sa lèpre,"
+  },
+  {
+    "i": 3113,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 4,
+    "t": "il ordonnera de prendre pour l’homme à purifier deux oiseaux vivants et purs, du bois de cèdre, du rouge de cochenille et de l’hysope."
+  },
+  {
+    "i": 3114,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 5,
+    "t": "Il ordonnera ensuite d’immoler un oiseau sur un pot d’argile au-dessus d’une eau vive."
+  },
+  {
+    "i": 3115,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 6,
+    "t": "Quant à l’oiseau encore vivant, il le prendra ainsi que le bois de cèdre, le rouge de cochenille, l’hysope, et il plongera le tout (y compris l’oiseau vivant) dans le sang de l’oiseau immolé au-dessus de l’eau courante."
+  },
+  {
+    "i": 3116,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 7,
+    "t": "Il fera alors sept aspersions sur l’homme à purifier de la lèpre et, l’ayant déclaré pur, il lâchera l’oiseau vivant dans la campagne."
+  },
+  {
+    "i": 3117,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 8,
+    "t": "Celui qui se purifie nettoiera ses vêtements, il se rasera tous les poils, il se lavera à l’eau et sera pur. Après quoi il rentrera au camp, mais il restera sept jours hors de sa tente."
+  },
+  {
+    "i": 3118,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 9,
+    "t": "Le septième jour il se rasera tous les poils : cheveux, barbe, sourcils ; il devra se raser tous les poils. Après avoir nettoyé ses vêtements et s’être lavé à l’eau, il sera pur."
+  },
+  {
+    "i": 3119,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 10,
+    "t": "Le huitième jour il prendra deux agneaux sans défaut, une agnelle d’un an sans défaut, trois dixièmes de fleur de farine pétrie à l’huile, pour l’oblation, et une pinte d’huile."
+  },
+  {
+    "i": 3120,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 11,
+    "t": "Le prêtre qui accomplit la purification placera l’homme à purifier, ainsi que ses offrandes, à l’entrée de la Tente du Rendez-vous, devant Yahvé."
+  },
+  {
+    "i": 3121,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 12,
+    "t": "Puis il prendra l’un des agneaux. Il l’offrira en sacrifice de réparation ainsi que la pinte d’huile. Il fera avec eux le geste de présentation devant Yahvé."
+  },
+  {
+    "i": 3122,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 13,
+    "t": "Il immolera l’agneau à l’endroit du lieu saint où l’on immole les victimes du sacrifice pour le péché et de l’holocauste. Cette victime de réparation reviendra au prêtre comme un sacrifice pour le péché, c’est une chose très sainte."
+  },
+  {
+    "i": 3123,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 14,
+    "t": "Le prêtre prendra du sang de ce sacrifice. Il le mettra sur le lobe de l’oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit."
+  },
+  {
+    "i": 3124,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 15,
+    "t": "Il prendra ensuite la pinte d’huile et en versera un peu dans le creux de sa main gauche."
+  },
+  {
+    "i": 3125,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 16,
+    "t": "Il trempera un doigt de sa main droite dans l’huile qui est au creux de sa main gauche et de cette huile il fera avec son doigt sept aspersions devant Yahvé."
+  },
+  {
+    "i": 3126,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 17,
+    "t": "Puis il mettra un peu de l’huile qui lui reste dans le creux de la main sur le lobe de l’oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit, en plus du sang du sacrifice de réparation."
+  },
+  {
+    "i": 3127,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 18,
+    "t": "Le reste d’huile qu’il a dans le creux de la main, il le mettra sur la tête de celui qui se purifie. Il aura fait ainsi sur lui le rite d’expiation devant Yahvé."
+  },
+  {
+    "i": 3128,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 19,
+    "t": "Le prêtre fera alors le sacrifice pour le péché et accomplira sur celui qui se purifie le rite d’expiation de son impureté. Après quoi il immolera l’holocauste,"
+  },
+  {
+    "i": 3129,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 20,
+    "t": "il fera monter à l’autel holocauste et oblation. Quand le prêtre aura ainsi accompli sur cet homme le rite d’expiation, il sera pur."
+  },
+  {
+    "i": 3130,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 21,
+    "t": "S’il est pauvre et dépourvu des ressources suffisantes, il prendra un seul agneau, celui du sacrifice de réparation, et on l’offrira selon le geste de présentation pour accomplir sur cet homme le rite d’expiation. Il ne prendra aussi qu’un dixième de fleur de farine pétrie à l’huile, pour l’oblation, et la pinte d’huile,"
+  },
+  {
+    "i": 3131,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 22,
+    "t": "enfin deux tourterelles ou deux pigeons — s’il est en mesure de se les procurer — dont l’un sera destiné au sacrifice pour le péché et l’autre à l’holocauste."
+  },
+  {
+    "i": 3132,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 23,
+    "t": "C’est le huitième jour qu’en vue de sa purification il les apportera au prêtre, à l’entrée de la Tente du Rendez-vous, devant Yahvé."
+  },
+  {
+    "i": 3133,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 24,
+    "t": "Le prêtre prendra l’agneau du sacrifice de réparation et la pinte d’huile. Il les offrira en geste de présentation devant Yahvé."
+  },
+  {
+    "i": 3134,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 25,
+    "t": "Puis, ayant immolé cet agneau du sacrifice de réparation, il en prendra du sang et le mettra sur le lobe de l’oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le gros orteil de son pied droit."
+  },
+  {
+    "i": 3135,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 26,
+    "t": "Il versera de l’huile dans le creux de sa main gauche"
+  },
+  {
+    "i": 3136,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 27,
+    "t": "et, de cette huile qui est dans le creux de sa main gauche, il fera avec son doigt sept aspersions devant Yahvé."
+  },
+  {
+    "i": 3137,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 28,
+    "t": "Il en mettra sur le lobe de l’oreille droite de celui qui se purifie, sur le pouce de sa main droite, sur le gros orteil de son pied droit, à l’endroit où a été posé le sang du sacrifice de réparation."
+  },
+  {
+    "i": 3138,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 29,
+    "t": "Ce qui lui reste d’huile dans le creux de la main, il le mettra sur la tête de celui qui se purifie en faisant sur lui le rite d’expiation devant Yahvé."
+  },
+  {
+    "i": 3139,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 30,
+    "t": "De l’une des deux tourterelles ou de l’un des deux pigeons — de ce qu’il est en mesure de se procurer — il fera"
+  },
+  {
+    "i": 3140,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 31,
+    "t": "un sacrifice pour le péché et, de l’autre, un holocauste accompagné d’oblation — avec ce qu’il aura été en mesure de se procurer. Le prêtre aura fait ainsi le rite d’expiation devant Yahvé sur celui qui se purifie."
+  },
+  {
+    "i": 3141,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 32,
+    "t": "Telle est la loi concernant celui qui est atteint de lèpre sans être à même de pourvoir à sa purification."
+  },
+  {
+    "i": 3142,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 33,
+    "t": "Yahvé parla à Moïse et à Aaron et dit :"
+  },
+  {
+    "i": 3143,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 34,
+    "t": "Lorsque vous serez arrivés au pays de Canaan que je vous donne pour domaine, si je frappe de la lèpre une maison du pays que vous posséderez,"
+  },
+  {
+    "i": 3144,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 35,
+    "t": "son propriétaire viendra avertir le prêtre et dira : \"J’ai vu comme de la lèpre dans la maison.\""
+  },
+  {
+    "i": 3145,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 36,
+    "t": "Le prêtre ordonnera de vider la maison avant qu’il ne vienne examiner le mal ; ainsi rien ne deviendra impur de ce qui s’y trouve. Après quoi le prêtre viendra observer la maison,"
+  },
+  {
+    "i": 3146,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 37,
+    "t": "et si, après examen, il constate sur les murs de la maison des cavités verdâtres ou rougeâtres qui font creux dans le mur,"
+  },
+  {
+    "i": 3147,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 38,
+    "t": "le prêtre sortira de la maison, à la porte, et il la fera fermer sept jours."
+  },
+  {
+    "i": 3148,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 39,
+    "t": "Il reviendra le septième jour et si, après examen, il constate que le mal s’est développé sur les murs de la maison,"
+  },
+  {
+    "i": 3149,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 40,
+    "t": "il ordonnera que l’on retire les pierres attaquées par le mal et qu’on les jette hors de la ville en un lieu impur."
+  },
+  {
+    "i": 3150,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 41,
+    "t": "Puis il fera gratter toutes les parois intérieures de la maison et l’on répandra le crépi ainsi détaché dans un lieu impur à l’extérieur de la ville."
+  },
+  {
+    "i": 3151,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 42,
+    "t": "On prendra d’autres pierres pour remplacer les premières et un autre enduit pour recrépir la maison."
+  },
+  {
+    "i": 3152,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 43,
+    "t": "Si le mal prolifère à nouveau après l’enlèvement des pierres, le décapage et le crépissage de la maison,"
+  },
+  {
+    "i": 3153,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 44,
+    "t": "le prêtre viendra l’examiner ; s’il constate que le mal s’est développé, c’est une lèpre contagieuse dans la maison ; celle-ci est impure."
+  },
+  {
+    "i": 3154,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 45,
+    "t": "On la démolira, on portera dans un lieu impur, hors de la ville, ses pierres, ses charpentes et tout son crépi."
+  },
+  {
+    "i": 3155,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 46,
+    "t": "Quiconque entrera dans la maison, pendant tout le temps qu’on la tient fermée, sera impur jusqu’au soir."
+  },
+  {
+    "i": 3156,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 47,
+    "t": "Quiconque y couchera devra nettoyer ses vêtements. Quiconque y mangera devra nettoyer ses vêtements."
+  },
+  {
+    "i": 3157,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 48,
+    "t": "Mais si le prêtre, lorsqu’il vient examiner le mal, constate qu’il ne s’est pas développé dans la maison après le crépissage, il déclarera pure la maison, car le mal est guéri."
+  },
+  {
+    "i": 3158,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 49,
+    "t": "En vue d’un sacrifice pour le péché de la maison, il prendra deux oiseaux, du bois de cèdre, du rouge de cochenille et de l’hysope."
+  },
+  {
+    "i": 3159,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 50,
+    "t": "Il immolera un des oiseaux sur un pot d’argile au-dessus d’une eau courante."
+  },
+  {
+    "i": 3160,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 51,
+    "t": "Puis il prendra le bois de cèdre, l’hysope, le rouge de cochenille et l’oiseau encore vivant, pour les plonger dans le sang de l’oiseau immolé et dans l’eau courante. Il fera sept aspersions sur la maison"
+  },
+  {
+    "i": 3161,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 52,
+    "t": "et, après avoir fait le sacrifice pour le péché de la maison par le sang de l’oiseau, l’eau courante, l’oiseau vivant, le bois de cèdre, l’hysope et le rouge de cochenille,"
+  },
+  {
+    "i": 3162,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 53,
+    "t": "il lâchera l’oiseau vivant hors de la ville, dans la campagne. Le rite d’expiation ainsi fait sur la maison, elle sera pure."
+  },
+  {
+    "i": 3163,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 54,
+    "t": "Telle est la loi concernant tous cas de lèpre et de teigne,"
+  },
+  {
+    "i": 3164,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 55,
+    "t": "la lèpre des vêtements et des maisons,"
+  },
+  {
+    "i": 3165,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 56,
+    "t": "les tumeurs, dartres et taches."
+  },
+  {
+    "i": 3166,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 57,
+    "t": "Elle fixe les temps d’impureté et de pureté. Telle est la loi sur la lèpre."
+  },
+  {
+    "i": 3167,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 1,
+    "t": "Yahvé parla à Moïse et à Aaron, et dit :"
+  },
+  {
+    "i": 3168,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 2,
+    "t": "Parlez aux Israélites, vous leur direz : Lorsqu’un homme a un écoulement sortant de son corps, cet écoulement est impur."
+  },
+  {
+    "i": 3169,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 3,
+    "t": "Voici en quoi consistera son impureté tant qu’il a cet écoulement : Que sa chair laisse échapper l’écoulement ou qu’elle le retienne, il est impur."
+  },
+  {
+    "i": 3170,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 4,
+    "t": "Tout lit où couchera cet homme sera impur et tout meuble où il s’assiéra sera impur."
+  },
+  {
+    "i": 3171,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 5,
+    "t": "Celui qui touchera son lit devra nettoyer ses vêtements, se laver à l’eau, et il sera impur jusqu’au soir."
+  },
+  {
+    "i": 3172,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 6,
+    "t": "Celui qui s’assiéra sur un meuble où cet homme se sera assis devra nettoyer ses vêtements, se laver à l’eau, et il sera impur jusqu’au soir."
+  },
+  {
+    "i": 3173,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 7,
+    "t": "Celui qui touchera le corps de cet homme devra nettoyer ses vêtements, se laver à l’eau, et il sera impur jusqu’au soir."
+  },
+  {
+    "i": 3174,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 8,
+    "t": "Si cet homme crache sur une personne pure, celle-ci devra nettoyer ses vêtements, se laver à l’eau, et elle sera impure jusqu’au soir."
+  },
+  {
+    "i": 3175,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 9,
+    "t": "Tout siège sur lequel aura voyagé cet homme sera impur."
+  },
+  {
+    "i": 3176,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 10,
+    "t": "Tous ceux qui toucheront à un objet quelconque qui se sera trouvé sous lui seront impurs jusqu’au soir. Celui qui transportera un tel objet devra nettoyer ses vêtements, se laver à l’eau, et il sera impur jusqu’au soir."
+  },
+  {
+    "i": 3177,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 11,
+    "t": "Tous ceux que touchera cet homme sans s’être rincé les mains devront nettoyer leurs vêtements, se laver à l’eau, et ils seront impurs jusqu’au soir."
+  },
+  {
+    "i": 3178,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 12,
+    "t": "Le vase d’argile que touchera cet homme sera brisé et tout ustensile en bois devra être rincé."
+  },
+  {
+    "i": 3179,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 13,
+    "t": "Quand cet homme sera guéri, il comptera sept jours pour sa purification. Il devra nettoyer ses vêtements, laver son corps à l’eau courante, et il sera pur."
+  },
+  {
+    "i": 3180,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 14,
+    "t": "Le huitième jour il prendra deux tourterelles ou deux pigeons et viendra devant Yahvé à l’entrée de la Tente du Rendez-vous pour les remettre au prêtre."
+  },
+  {
+    "i": 3181,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 15,
+    "t": "De l’un celui-ci fera un sacrifice pour le péché et de l’autre un holocauste. Le prêtre fera ainsi sur lui devant Yahvé le rite d’expiation de son écoulement."
+  },
+  {
+    "i": 3182,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 16,
+    "t": "Lorsqu’un homme aura un épanchement séminal, il devra se laver à l’eau tout le corps et il sera impur jusqu’au soir."
+  },
+  {
+    "i": 3183,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 17,
+    "t": "Tout vêtement et tout cuir qu’aura atteint l’épanchement séminal devra être nettoyé à l’eau et sera impur jusqu’au soir."
+  },
+  {
+    "i": 3184,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 18,
+    "t": "Quand une femme aura couché maritalement avec un homme, ils devront tous deux se laver à l’eau, et ils seront impurs jusqu’au soir."
+  },
+  {
+    "i": 3185,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 19,
+    "t": "Lorsqu’une femme a un écoulement de sang et que du sang s’écoule de son corps, elle restera pendant sept jours dans la souillure de ses règles. Qui la touchera sera impur jusqu’au soir."
+  },
+  {
+    "i": 3186,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 20,
+    "t": "Toute couche sur laquelle elle s’étendra ainsi souillée, sera impure ; tout meuble sur lequel elle s’assiéra sera impur."
+  },
+  {
+    "i": 3187,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 21,
+    "t": "Quiconque touchera son lit devra nettoyer ses vêtements, se laver à l’eau, et il sera impur jusqu’au soir."
+  },
+  {
+    "i": 3188,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 22,
+    "t": "Quiconque touchera un meuble, quel qu’il soit, où elle se sera assise, devra nettoyer ses vêtements, se laver à l’eau, et il sera impur jusqu’au soir."
+  },
+  {
+    "i": 3189,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 23,
+    "t": "Si quelque objet se trouve sur le lit ou sur le meuble sur lequel elle s’est assise, celui qui le touchera sera impur jusqu’au soir."
+  },
+  {
+    "i": 3190,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 24,
+    "t": "Si un homme couche avec elle, la souillure de ses règles l’atteindra. Il sera impur pendant sept jours. Tout lit sur lequel il couchera sera impur."
+  },
+  {
+    "i": 3191,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 25,
+    "t": "Lorsqu’une femme aura un écoulement de sang de plusieurs jours hors du temps de ses règles ou si ses règles se prolongent, elle sera pendant toute la durée de cet écoulement dans le même état d’impureté que pendant le temps de ses règles."
+  },
+  {
+    "i": 3192,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 26,
+    "t": "Il en sera de tout lit sur lequel elle couchera pendant toute la durée de son écoulement comme du lit où elle couche lors de ses règles. Tout meuble sur lequel elle s’assiéra sera impur comme lors de ses règles."
+  },
+  {
+    "i": 3193,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 27,
+    "t": "Quiconque les touchera sera impur, devra nettoyer ses vêtements, se laver à l’eau, et il sera impur jusqu’au soir."
+  },
+  {
+    "i": 3194,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 28,
+    "t": "Lorsqu’elle sera guérie de son écoulement, elle comptera sept jours puis elle sera pure."
+  },
+  {
+    "i": 3195,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 29,
+    "t": "Le huitième jour elle prendra deux tourterelles ou deux pigeons qu’elle apportera au prêtre à l’entrée de la Tente du Rendez-vous."
+  },
+  {
+    "i": 3196,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 30,
+    "t": "De l’un le prêtre fera un sacrifice pour le péché et de l’autre un holocauste. Le prêtre fera ainsi sur elle, devant Yahvé, le rite d’expiation de son écoulement qui la rendait impure."
+  },
+  {
+    "i": 3197,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 31,
+    "t": "Vous avertirez les Israélites de leurs impuretés, afin qu’à cause d’elles ils ne meurent pas en souillant ma Demeure qui se trouve au milieu d’eux."
+  },
+  {
+    "i": 3198,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 32,
+    "t": "Telle est la loi concernant l’homme qui a un écoulement, celui que rend impur un épanchement séminal,"
+  },
+  {
+    "i": 3199,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 33,
+    "t": "la femme lors de la souillure de ses règles, l’homme ou la femme qui a un écoulement, l’homme qui couche avec une femme impure."
+  }
+]

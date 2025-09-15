@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17300,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 10,
+    "t": "Muži krvežízniví nenávidí spravedlivého, ale muži přímí hledají jeho blízkost."
+  },
+  {
+    "i": 17301,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 11,
+    "t": "Blázen vypouští veškerý svůj hněv, ale moudrý jej potlačuje a uklidňuje."
+  },
+  {
+    "i": 17302,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 12,
+    "t": "Když vladař poslouchá lživé zprávy, všichni jeho služebníci jsou zlí."
+  },
+  {
+    "i": 17303,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 13,
+    "t": "Chudý a utlačovatel se setkávají: oběma dává Hospodin světlo."
+  },
+  {
+    "i": 17304,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 14,
+    "t": "Král, který soudí chudé spravedlivě, upevní svůj trůn navěky."
+  },
+  {
+    "i": 17305,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 15,
+    "t": "Hůl a domluva dávají moudrost, mladík ponechaný sám sobě je hanbou své matky."
+  },
+  {
+    "i": 17306,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 16,
+    "t": "Když se množí bezbožní, množí se i přestupky, ale spravedliví budou svědky jejich pádu."
+  },
+  {
+    "i": 17307,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 17,
+    "t": "Napomínej svého syna, a on ti dá pokoj a potěšení tvé duši."
+  },
+  {
+    "i": 17308,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 18,
+    "t": "Kde není vidění, lid se rozptýlí, blaze tomu, kdo zachovává zákon."
+  },
+  {
+    "i": 17309,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 19,
+    "t": "Otroka nenapravíš slovy, i když rozumí, neposlechne."
+  },
+  {
+    "i": 17310,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 20,
+    "t": "Vidíš muže, který spěchá do řeči? Více naděje je v bláznu."
+  },
+  {
+    "i": 17311,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 21,
+    "t": "Když od dětství hýčkáš svého otroka, nakonec se stane nevděčným."
+  },
+  {
+    "i": 17312,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 22,
+    "t": "Člověk hněvivý vyvolává svár, člověk prchlivý rozmnožuje přestupky."
+  },
+  {
+    "i": 17313,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 23,
+    "t": "Pýcha člověka ho ponižuje, ale pokorný duch získá čest."
+  },
+  {
+    "i": 17314,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 24,
+    "t": "Spolčuješ se se zlodějem a nenávidíš sám sebe, když slyšíš přísahu a neoznámíš."
+  },
+  {
+    "i": 17315,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 25,
+    "t": "Bát se lidí je léčka, kdo doufá v Hospodina, je v bezpečí."
+  },
+  {
+    "i": 17316,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 26,
+    "t": "Mnozí hledají přízeň vladaře, ale od Hospodina pochází právo každého."
+  },
+  {
+    "i": 17317,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 27,
+    "t": "Ohavnost pro spravedlivé: člověk bezbožný; ohavnost pro bezbožného: ten, jehož cesta je přímá."
+  },
+  {
+    "i": 17318,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 1,
+    "t": "Slova Agurova, syna Jakeho, z Massy. Proroctví tohoto muže pro Iťéla, pro Iťéla a pro Ukala."
+  },
+  {
+    "i": 17319,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 2,
+    "t": "Ano, jsem nejhloupější z lidí, bez jakéhokoli lidského rozumu,"
+  },
+  {
+    "i": 17320,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 3,
+    "t": "neučil jsem se moudrosti a neznám vědu svatých."
+  },
+  {
+    "i": 17321,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 4,
+    "t": "Kdo vystoupil do nebe a sestoupil? Kdo do svých dlaní sebral vítr? Kdo do svého pláště svinul vody? Kdo upevnil všechny končiny země? Jaké je jeho jméno? Jaké je jméno jeho syna, znáš-li je?"
+  },
+  {
+    "i": 17322,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 5,
+    "t": "Každé slovo Boží je vyzkoušené, on je štítem pro ty, kdo se k němu utíkají."
+  },
+  {
+    "i": 17323,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 6,
+    "t": "K jeho slovům nic nepřidávej, abys nebyl pokárán a nebyl považován za lháře."
+  },
+  {
+    "i": 17324,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 7,
+    "t": "O dvě věci tě prosím, neodmítej mi je, než zemřu:"
+  },
+  {
+    "i": 17325,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 8,
+    "t": "vzdal ode mě klam a lživá slova, nedávej mi chudobu ani bohatství, nech mě okusit svůj díl chleba,"
+  },
+  {
+    "i": 17326,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 9,
+    "t": "abych se nenasytil a neřekl: „Kdo je Hospodin?“ Anebo abych, jsouc v nouzi, nekradl a nezneuctil jméno svého Boha."
+  },
+  {
+    "i": 17327,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 10,
+    "t": "Nepomlouvej otroka u jeho pána, aby tě neproklel a tys nenesl trest."
+  },
+  {
+    "i": 17328,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 11,
+    "t": "Pokolení, které zlořečí svému otci a nežehná své matce,"
+  },
+  {
+    "i": 17329,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 12,
+    "t": "pokolení čisté ve svých vlastních očích, ale jehož nečistota nebyla smyta,"
+  },
+  {
+    "i": 17330,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 13,
+    "t": "pokolení s povýšeným pohledem a pyšnýma víčkama,"
+  },
+  {
+    "i": 17331,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 14,
+    "t": "pokolení, jehož zuby jsou meče, čelisti nože, aby pohltilo chudé a vykořenilo je ze země a ubožáky z lidí."
+  },
+  {
+    "i": 17332,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 15,
+    "t": "Pijavice má dvě dcery: „Dej! Dej!“ Tři věci jsou nenasytné a čtyři, které nikdy neřeknou: „Dost!“:"
+  },
+  {
+    "i": 17333,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 16,
+    "t": "šeol, neplodné lůno, země, kterou voda nemůže nasytit, oheň, který nikdy neřekne: „Dost!“"
+  },
+  {
+    "i": 17334,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 17,
+    "t": "Oko, které se posmívá otci a pohrdá poslušností matce, krkavci z potoka je vyklovou, orlice je sežerou."
+  },
+  {
+    "i": 17335,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 18,
+    "t": "Tři věci jsou mi příliš divné a čtyři, které neznám:"
+  },
+  {
+    "i": 17336,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 19,
+    "t": "cesta orla po obloze, cesta hada po skále, cesta lodi po širém moři, cesta muže k mladé ženě."
+  },
+  {
+    "i": 17337,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 20,
+    "t": "Takové je chování cizoložné ženy: jí a pak si utírá ústa a říká: „Neudělala jsem nic špatného!“"
+  },
+  {
+    "i": 17338,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 21,
+    "t": "Pod třemi věcmi se země třese a čtyři jsou, které nemůže snést:"
+  },
+  {
+    "i": 17339,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 22,
+    "t": "otroka, který se stane králem, hrubiána přeplněného jídlem,"
+  },
+  {
+    "i": 17340,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 23,
+    "t": "nenáviděnou dceru, která se vdá, služebnici, která zdědí po své paní."
+  },
+  {
+    "i": 17341,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 24,
+    "t": "Jsou čtyři tvorové maličcí na zemi, ale moudří mezi moudrými:"
+  },
+  {
+    "i": 17342,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 25,
+    "t": "mravenci, lid chatrný, ale kteří v létě zajišťují svou potravu,"
+  },
+  {
+    "i": 17343,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 26,
+    "t": "damané, lid bez síly, ale kteří přebývají ve skalách,"
+  },
+  {
+    "i": 17344,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 27,
+    "t": "u kobylek není král! ale všechny kráčejí v dobrém pořádku,"
+  },
+  {
+    "i": 17345,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 28,
+    "t": "ještěrku lze chytit rukou, ale přebývá v královských palácích."
+  },
+  {
+    "i": 17346,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 29,
+    "t": "Tři věci mají krásný vzhled a čtyři krásný krok:"
+  },
+  {
+    "i": 17347,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 30,
+    "t": "lev, nejstatečnější ze zvířat, který před ničím neustoupí,"
+  },
+  {
+    "i": 17348,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 31,
+    "t": "kohout s napjatými svaly nebo kozel a král, když promlouvá k lidu."
+  },
+  {
+    "i": 17349,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 32,
+    "t": "Byl-li jsi tak hloupý, že ses rozhněval, a přemýšlel jsi o tom, polož si ruku na ústa!"
+  },
+  {
+    "i": 17350,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 33,
+    "t": "Neboť lisováním mléka se získává máslo, lisováním nosu se získává krev, lisováním hněvu se získává svár."
+  },
+  {
+    "i": 17351,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 1,
+    "t": "Slova Lemuelova, krále z Massy, které ho naučila jeho matka."
+  },
+  {
+    "i": 17352,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 2,
+    "t": "Co, můj synu! Co, synu mého lůna! Co, synu mých slibů!"
+  },
+  {
+    "i": 17353,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 3,
+    "t": "Nevydávej svou sílu ženám ani své cesty těm, které ničí krále."
+  },
+  {
+    "i": 17354,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 4,
+    "t": "Nepatří se králům, Lemueli, nepatří se králům pít víno ani knížatům milovat opojný nápoj,"
+  },
+  {
+    "i": 17355,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 5,
+    "t": "aby, když pijí, nezapomněli, co bylo ustanoveno, a nepřevraceli právo všech chudých."
+  },
+  {
+    "i": 17356,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 6,
+    "t": "Pořizuj silné nápoje těm, kdo umírají, víno těm, kdo jsou plni hořkosti:"
+  },
+  {
+    "i": 17357,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 7,
+    "t": "ať pijí, ať zapomenou na svou bídu, ať si už nevzpomenou na své neštěstí!"
+  },
+  {
+    "i": 17358,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 8,
+    "t": "Otevři ústa ve prospěch němého, pro věc všech opuštěných;"
+  },
+  {
+    "i": 17359,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 9,
+    "t": "otevři ústa, suď spravedlivě, obhajuj věc chudého a ubožáka."
+  },
+  {
+    "i": 17360,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 10,
+    "t": "Ženu statečnou kdo nalezne? Její cena je daleko vyšší než perly!"
+  },
+  {
+    "i": 17361,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 11,
+    "t": "Srdce jejího muže v ni doufá, a nemá nouzi o zisk."
+  },
+  {
+    "i": 17362,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 12,
+    "t": "Činí mu dobře a ne zle, po všechny dny svého života."
+  },
+  {
+    "i": 17363,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 13,
+    "t": "Hledá vlnu a len a pracuje s ochotnou rukou."
+  },
+  {
+    "i": 17364,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 14,
+    "t": "Je podobná obchodním lodím: zdaleka přináší své potraviny."
+  },
+  {
+    "i": 17365,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 15,
+    "t": "Ještě za noci vstává a rozdává své čeledi pokrm a příkazy svým služkám."
+  },
+  {
+    "i": 17366,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 16,
+    "t": "Má-li v úmyslu pole, získá je; z výtěžku svých rukou vysadí vinici."
+  },
+  {
+    "i": 17367,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 17,
+    "t": "Opásuje si bedra silou a napíná sílu svých paží."
+  },
+  {
+    "i": 17368,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 18,
+    "t": "Ví, že se jí dobře daří, v noci její lampa nezhasíná."
+  },
+  {
+    "i": 17369,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 19,
+    "t": "Přikládá ruku k přeslici, její prsty uchopují vřeteno."
+  },
+  {
+    "i": 17370,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 20,
+    "t": "Otevírá ruce chudému, podává ruce ubožákům."
+  },
+  {
+    "i": 17371,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 21,
+    "t": "Nebojí se sněhu pro svůj dům, neboť celá její čeleď nosí dvojí oděv."
+  },
+  {
+    "i": 17372,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 22,
+    "t": "Dělá si pokrývky, z plátna a purpuru je její oděv."
+  },
+  {
+    "i": 17373,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 23,
+    "t": "U bran města je její muž znám, sedí mezi staršími země."
+  },
+  {
+    "i": 17374,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 24,
+    "t": "Tká látky a prodává je, obchodníkovi dodává opasek."
+  },
+  {
+    "i": 17375,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 25,
+    "t": "Síla a důstojnost jsou jejím oděvem, směje se příštímu dni."
+  },
+  {
+    "i": 17376,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 26,
+    "t": "S moudrostí otevírá ústa, na jejím jazyku je nauka zbožnosti."
+  },
+  {
+    "i": 17377,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 27,
+    "t": "Dohlíží na chod své čeledi, nejí chléb zahálky."
+  },
+  {
+    "i": 17378,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 28,
+    "t": "Její synové vstávají, aby ji prohlásili za blahoslavenou, její muž, aby ji chválil:"
+  },
+  {
+    "i": 17379,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 29,
+    "t": "„Mnohé ženy dokázaly hrdinské činy, ale ty je všechny předčíš!“"
+  },
+  {
+    "i": 17380,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 30,
+    "t": "Klamný půvab a marná krása; žena, jež se bojí Hospodina, ta budiž chválena!"
+  },
+  {
+    "i": 17381,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 31,
+    "t": "Dejte jí z ovoce rukou jejích, a skutky její ať ji chválí v branách!"
+  },
+  {
+    "i": 17382,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 1,
+    "t": "Slova Kazatele, syna Davidova, krále v Jeruzalémě."
+  },
+  {
+    "i": 17383,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 2,
+    "t": "Pomíjivost, samá pomíjivost, praví Kazatel, pomíjivost, samá pomíjivost, všechno je pomíjivost."
+  },
+  {
+    "i": 17384,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 3,
+    "t": "Jaký má člověk zisk ze vší své práce, kterou vynakládá pod sluncem?"
+  },
+  {
+    "i": 17385,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 4,
+    "t": "Pokolení odchází a pokolení přichází, ale země stojí navěky."
+  },
+  {
+    "i": 17386,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 5,
+    "t": "Slunce vychází a slunce zapadá a spěchá k místu svému, kde vychází."
+  },
+  {
+    "i": 17387,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 6,
+    "t": "Vítr spěje k jihu, točí se k severu, točí se, točí a vítr se vrací v okruhu svém."
+  },
+  {
+    "i": 17388,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 7,
+    "t": "Všechny řeky tečou do moře, a moře se nepřeplní; k místu, kam řeky tečou, tam se vracejí, aby tekly znova."
+  },
+  {
+    "i": 17389,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 8,
+    "t": "Všechny věci jsou plny námahy, nikdo to nemůže vyjádřit. Oko se nenasytí díváním a ucho se nenaplní slyšením."
+  },
+  {
+    "i": 17390,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 9,
+    "t": "Co bylo, to bude, a co se dělo, to se bude dít; nic nového pod sluncem."
+  },
+  {
+    "i": 17391,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 10,
+    "t": "Je-li něco, o čem se říká: „Hle, to je nové!“, už to bylo v dávných dobách, které byly před námi."
+  },
+  {
+    "i": 17392,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 11,
+    "t": "Není památky na to, co bylo, ani na to, co bude; nebude památky na to u těch, kteří přijdou potom."
+  },
+  {
+    "i": 17393,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 12,
+    "t": "Já, Kazatel, jsem byl králem nad Izraelem v Jeruzalémě."
+  },
+  {
+    "i": 17394,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 13,
+    "t": "Věnoval jsem se pilně zkoumání a hledání moudrosti ve všem, co se děje pod nebem. Bůh uložil lidem toto trápení, aby se jím zaměstnávali."
+  },
+  {
+    "i": 17395,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 14,
+    "t": "Viděl jsem všechny skutky, které se dějí pod sluncem, a hle, všechno je pomíjivost a honění větru!"
+  },
+  {
+    "i": 17396,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 15,
+    "t": "Co je křivé, nemůže být napraveno, a co chybí, nemůže být dopočítáno."
+  },
+  {
+    "i": 17397,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 16,
+    "t": "Řekl jsem si v srdci: Hle, nashromáždil jsem si a rozmnožil moudrost více než všichni, kteří byli přede mnou v Jeruzalémě, a mé srdce poznalo mnoho moudrosti a vědění."
+  },
+  {
+    "i": 17398,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 17,
+    "t": "Věnoval jsem se pilně poznávání moudrosti a vědění, bláznovství a pošetilosti. Poznal jsem, že i to je honění větru."
+  },
+  {
+    "i": 17399,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 18,
+    "t": "Neboť kde je mnoho moudrosti, tam je mnoho hoře, a kdo rozmnožuje vědění, rozmnožuje bolest."
+  }
+]

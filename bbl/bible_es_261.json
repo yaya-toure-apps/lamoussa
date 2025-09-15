@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26100,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 6,
+    "t": "El que glorifica a su padre verá largos días, y el que obedece al Señor da satisfacción a su madre."
+  },
+  {
+    "i": 26101,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 7,
+    "t": "El que teme al Señor honra a su padre, y sirve a sus padres como a su Señor."
+  },
+  {
+    "i": 26102,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 8,
+    "t": "En hechos y en palabras honra a tu padre, para que venga sobre ti bendición de él."
+  },
+  {
+    "i": 26103,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 9,
+    "t": "Porque la bendición de un padre establece la casa de sus hijos, mas la maldición de una madre destruye sus cimientos."
+  },
+  {
+    "i": 26104,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 10,
+    "t": "No te gloríes en la deshonra de tu padre, pues ninguna gloria hay para ti en la deshonra de tu padre."
+  },
+  {
+    "i": 26105,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 11,
+    "t": "Porque la gloria del hombre es la honra de su padre, y la vergüenza para los hijos, una madre despreciada."
+  },
+  {
+    "i": 26106,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 12,
+    "t": "Hijo mío, socorre a tu padre en su vejez, y no le causes tristeza mientras viva."
+  },
+  {
+    "i": 26107,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 13,
+    "t": "Aunque su entendimiento se debilite, sé indulgente, no le desprecies tú que estás en pleno vigor."
+  },
+  {
+    "i": 26108,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 14,
+    "t": "Porque la caridad hecha a un padre no será olvidada, y por tus pecados te valdrá reparación."
+  },
+  {
+    "i": 26109,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 15,
+    "t": "En el día de tu aflicción Dios se acordará de ti, como el hielo al sol, se desvanecerán tus pecados."
+  },
+  {
+    "i": 26110,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 16,
+    "t": "Como un blasfemador es el que abandona a su padre, y maldito del Señor el que exaspera a su madre."
+  },
+  {
+    "i": 26111,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 17,
+    "t": "Hijo mío, conduce tus negocios con mansedumbre, y serás más amado que un hombre dadivoso."
+  },
+  {
+    "i": 26112,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 18,
+    "t": "Cuanto más grande seas, más debes humillarte, para hallar gracia delante del Señor,"
+  },
+  {
+    "i": 26113,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 19,
+    "t": "Muchos son los que se creen grandes y famosos, pero es a los humildes a quienes él revela sus secretos."
+  },
+  {
+    "i": 26114,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 20,
+    "t": "Porque grande es el poder del Señor, mas él es honrado por los humildes."
+  },
+  {
+    "i": 26115,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 21,
+    "t": "No busques lo que es demasiado difícil para ti, ni escudriñes lo que está por encima de tus fuerzas."
+  },
+  {
+    "i": 26116,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 22,
+    "t": "En lo que te ha sido asignado ejercita tu mente, no tienes por qué ocuparte de cosas misteriosas."
+  },
+  {
+    "i": 26117,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 23,
+    "t": "No te afanes por lo que te sobrepasa, la enseñanza que has recibido ya es demasiado vasta para la mente humana."
+  },
+  {
+    "i": 26118,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 24,
+    "t": "Porque muchos se han extraviado en sus concepciones, una opinión errónea ha descarriado sus pensamientos."
+  },
+  {
+    "i": 26119,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 25,
+    "t": "A falta de pupila careces de luz; si estás desprovisto de ciencia, no hagas declaración."
+  },
+  {
+    "i": 26120,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 26,
+    "t": "Un corazón obstinado acabará en la desgracia, y quien ama el peligro, en él perecerá."
+  },
+  {
+    "i": 26121,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 27,
+    "t": "Un corazón obstinado se carga de penas, el pecador acumula pecado sobre pecado."
+  },
+  {
+    "i": 26122,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 28,
+    "t": "Al mal del orgulloso no hay curación, porque la maldad está enraizada en él."
+  },
+  {
+    "i": 26123,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 29,
+    "t": "El hombre prudente medita en su corazón las parábolas, un oído que le escucha es el sueño del sabio."
+  },
+  {
+    "i": 26124,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 30,
+    "t": "El agua apaga las llamas, la limosna remite los pecados."
+  },
+  {
+    "i": 26125,
+    "b": 45,
+    "c": 4703,
+    "r": 4703,
+    "o": 31,
+    "t": "Quien responde con beneficios prepara el futuro, en el día de su caída encontrará un apoyo."
+  },
+  {
+    "i": 26126,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 1,
+    "t": "Hijo mío, no niegues al pobre su sustento, y no hagas languidecer los ojos del menesteroso."
+  },
+  {
+    "i": 26127,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 2,
+    "t": "No hagas sufrir al que tiene hambre, no exasperes al indigente."
+  },
+  {
+    "i": 26128,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 3,
+    "t": "No te ensañes con un corazón exasperado, no hagas languidecer tras tu limosna al necesitado."
+  },
+  {
+    "i": 26129,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 4,
+    "t": "No rechaces al suplicante duramente probado, no apartes del pobre tu mirada."
+  },
+  {
+    "i": 26130,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 5,
+    "t": "No apartes tus ojos del necesitado, no des a nadie la ocasión de maldecirte."
+  },
+  {
+    "i": 26131,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 6,
+    "t": "Si alguien te maldice en su angustia, su Creador escuchará su imprecación."
+  },
+  {
+    "i": 26132,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 7,
+    "t": "Hazte amar de la comunidad, ante un grande baja la cabeza."
+  },
+  {
+    "i": 26133,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 8,
+    "t": "Presta oído al pobre y devuélvele su saludo con dulzura."
+  },
+  {
+    "i": 26134,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 9,
+    "t": "Libra al oprimido de las manos del opresor, y no seas cobarde al hacer justicia."
+  },
+  {
+    "i": 26135,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 10,
+    "t": "Sé para los huérfanos un padre, y como un marido para su madre. Y serás como un hijo del Altísimo, que te amará más que tu madre."
+  },
+  {
+    "i": 26136,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 11,
+    "t": "La Sabiduría eleva a sus hijos y cuida de los que la buscan."
+  },
+  {
+    "i": 26137,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 12,
+    "t": "El que la ama ama la vida, los que la buscan desde la mañana serán colmados de alegría."
+  },
+  {
+    "i": 26138,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 13,
+    "t": "El que la posee heredará la gloria; donde ponga sus pasos el Señor le bendice."
+  },
+  {
+    "i": 26139,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 14,
+    "t": "Los que la sirven rinden culto al Santo, y los que la aman son amados del Señor."
+  },
+  {
+    "i": 26140,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 15,
+    "t": "El que la escucha juzga las naciones, el que se aplica a ella habita en seguridad."
+  },
+  {
+    "i": 26141,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 16,
+    "t": "Si se confía en ella, la tendrá en herencia, y su posteridad conservará su disfrute."
+  },
+  {
+    "i": 26142,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 17,
+    "t": "Porque ella puede conducirlo primero por un camino sinuoso, haciendo venir sobre él temor y temblor, atormentarle con su disciplina hasta que pueda confiar en él, probarle con sus exigencias,"
+  },
+  {
+    "i": 26143,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 18,
+    "t": "luego vuelve hacia él por el camino recto, y le alegra, y le descubre sus secretos."
+  },
+  {
+    "i": 26144,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 19,
+    "t": "Si se extravía, ella le abandona y le deja ir a su perdición."
+  },
+  {
+    "i": 26145,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 20,
+    "t": "Ten en cuenta las circunstancias y guárdate del mal, y no tengas que avergonzarte de ti mismo."
+  },
+  {
+    "i": 26146,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 21,
+    "t": "Porque hay una vergüenza que conduce al pecado, y hay una vergüenza que es gloria y gracia."
+  },
+  {
+    "i": 26147,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 22,
+    "t": "No seas demasiado severo contigo mismo, y no te avergüences por tu pérdida."
+  },
+  {
+    "i": 26148,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 23,
+    "t": "No calles una palabra cuando puede salvar, y no escondas tu sabiduría."
+  },
+  {
+    "i": 26149,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 24,
+    "t": "Porque es en el discurso donde se conoce la sabiduría, y en la palabra donde aparece la instrucción."
+  },
+  {
+    "i": 26150,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 25,
+    "t": "No hables contra la verdad, mas avergüénzate de tu ignorancia."
+  },
+  {
+    "i": 26151,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 26,
+    "t": "No te avergüences de confesar tus pecados, no te opongas a la corriente del río."
+  },
+  {
+    "i": 26152,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 27,
+    "t": "No te prosternes ante un necio, no seas parcial en favor del poderoso."
+  },
+  {
+    "i": 26153,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 28,
+    "t": "Hasta la muerte lucha por la verdad, el Señor Dios combatirá por ti."
+  },
+  {
+    "i": 26154,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 29,
+    "t": "No seas osado en palabras, perezoso y cobarde en tus actos."
+  },
+  {
+    "i": 26155,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 30,
+    "t": "No seas como un león en casa y un cobarde con tus siervos."
+  },
+  {
+    "i": 26156,
+    "b": 45,
+    "c": 4704,
+    "r": 4704,
+    "o": 31,
+    "t": "Que tu mano no esté tendida para recibir, y cerrada cuando se trata de dar."
+  },
+  {
+    "i": 26157,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 1,
+    "t": "No te confíes en tus riquezas, y no digas: \"Esto me basta."
+  },
+  {
+    "i": 26158,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 2,
+    "t": "No dejes que tu deseo y tu fuerza te arrastren a seguir las pasiones de tu corazón."
+  },
+  {
+    "i": 26159,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 3,
+    "t": "No digas: \"¿Quién tiene poder sobre mí?\" porque el Señor no dejará de castigarte."
+  },
+  {
+    "i": 26160,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 4,
+    "t": "No digas: \"¡He pecado! ¿Qué me ha sucedido?\" porque el Señor sabe esperar."
+  },
+  {
+    "i": 26161,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 5,
+    "t": "No estés tan seguro del perdón que amontones pecado sobre pecado."
+  },
+  {
+    "i": 26162,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 6,
+    "t": "No digas: \"Grande es su misericordia, me perdonará la multitud de mis pecados!\" porque en él hay piedad y cólera, y su furor se abate sobre los pecadores."
+  },
+  {
+    "i": 26163,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 7,
+    "t": "No tardes en volver al Señor, y no lo dejes de día en día, porque de repente estalla la cólera del Señor, y en el día del castigo serías aniquilado."
+  },
+  {
+    "i": 26164,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 8,
+    "t": "No te fíes de las riquezas mal adquiridas, te serán inútiles en el día de la desgracia."
+  },
+  {
+    "i": 26165,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 9,
+    "t": "No aventes a todo viento, no te comprometas en todo sendero (así le ocurre al pecador de palabra doble)."
+  },
+  {
+    "i": 26166,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 10,
+    "t": "Sé firme en tu sentimiento, y no tengas más que una palabra."
+  },
+  {
+    "i": 26167,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 11,
+    "t": "Sé pronto para escuchar, y lento para dar tu respuesta."
+  },
+  {
+    "i": 26168,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 12,
+    "t": "Si sabes algo, responde a tu prójimo, si no, pon la mano sobre tu boca."
+  },
+  {
+    "i": 26169,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 13,
+    "t": "Honra y confusión están en la palabra, y la lengua del hombre causa su desgracia."
+  },
+  {
+    "i": 26170,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 14,
+    "t": "No te hagas tratar de difamador, y no seas un astuto discutidor; porque si la vergüenza es para el ladrón, una dura condenación alcanza al embustero."
+  },
+  {
+    "i": 26171,
+    "b": 45,
+    "c": 4705,
+    "r": 4705,
+    "o": 15,
+    "t": "En las grandes como en las pequeñas cosas evita las faltas, y de amigo no te conviertas en enemigo."
+  },
+  {
+    "i": 26172,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 1,
+    "t": "Porque una mala reputación produce confusión e infamia; así le ocurre al pecador de palabra doble."
+  },
+  {
+    "i": 26173,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 2,
+    "t": "No te exaltes en tu pasión, no sea que tu fuerza sea desgarrada como un toro,"
+  },
+  {
+    "i": 26174,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 3,
+    "t": "que devores tu follaje y que pierdas tus frutos, que te encuentres como madera seca."
+  },
+  {
+    "i": 26175,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 4,
+    "t": "Una pasión perversa es la pérdida de un hombre, le convierte en la burla de sus enemigos."
+  },
+  {
+    "i": 26176,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 5,
+    "t": "Una boca agradable multiplica los amigos, una lengua afable atrae muchas respuestas amables."
+  },
+  {
+    "i": 26177,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 6,
+    "t": "Que sean numerosas tus relaciones, mas para los consejeros, toma uno entre mil."
+  },
+  {
+    "i": 26178,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 7,
+    "t": "Si quieres hacerte un amigo, empieza por probarle, y no te apresures a confiarte a él."
+  },
+  {
+    "i": 26179,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 8,
+    "t": "Porque tal entabla amistad cuando le place, que no permanecerá fiel en el día de tu aflicción."
+  },
+  {
+    "i": 26180,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 9,
+    "t": "Tal es el amigo que se trueca en enemigo, y que descubrirá tu contienda para tu confusión."
+  },
+  {
+    "i": 26181,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 10,
+    "t": "Tal es el amigo que se sienta a tu mesa, mas no permanecerá fiel en el día de tu tribulación."
+  },
+  {
+    "i": 26182,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 11,
+    "t": "En tu prosperidad será otro tú mismo, hablando libremente a tus siervos,"
+  },
+  {
+    "i": 26183,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 12,
+    "t": "mas en tu abatimiento se volverá contra ti y esquivará tu rostro."
+  },
+  {
+    "i": 26184,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 13,
+    "t": "Apártate de tus enemigos y guárdate de tus amigos."
+  },
+  {
+    "i": 26185,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 14,
+    "t": "Un amigo fiel es un poderoso apoyo: quien lo ha hallado, ha hallado un tesoro."
+  },
+  {
+    "i": 26186,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 15,
+    "t": "Un amigo fiel no tiene precio, no se puede estimar su valor."
+  },
+  {
+    "i": 26187,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 16,
+    "t": "Un amigo fiel es bálsamo de vida; lo encontrarán aquellos que temen al Señor."
+  },
+  {
+    "i": 26188,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 17,
+    "t": "Quien teme al Señor gobierna bien sus amistades, pues cual uno es, tal es el amigo que tiene."
+  },
+  {
+    "i": 26189,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 18,
+    "t": "¡Hijo mío! desde tu juventud elige la instrucción, y hasta tus canas hallarás la sabiduría."
+  },
+  {
+    "i": 26190,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 19,
+    "t": "Como el labrador y el sembrador, cultívala y cuenta con sus frutos excelentes, pues algún tiempo te afanarás en cultivarla, mas pronto comerás de sus productos."
+  },
+  {
+    "i": 26191,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 20,
+    "t": "Ella es muy áspera para los ignorantes, y el hombre falto de juicio no se apega a ella."
+  },
+  {
+    "i": 26192,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 21,
+    "t": "Pesará sobre él como piedra de toque, y no tardará en rechazarla."
+  },
+  {
+    "i": 26193,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 22,
+    "t": "Pues la sabiduría merece bien su nombre; no es al gran número a quien se muestra."
+  },
+  {
+    "i": 26194,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 23,
+    "t": "Escucha, hijo mío, acoge mi pensamiento, no rechaces mi consejo:"
+  },
+  {
+    "i": 26195,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 24,
+    "t": "Mete tus pies en sus ataduras y tu cuello en su collar."
+  },
+  {
+    "i": 26196,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 25,
+    "t": "Presenta tu hombro a su carga, no te impacientes por sus lazos."
+  },
+  {
+    "i": 26197,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 26,
+    "t": "Con toda tu alma acércate a ella, con todas tus fuerzas sigue sus caminos."
+  },
+  {
+    "i": 26198,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 27,
+    "t": "Ponte sobre su huella y búscala: ella se hará conocer a ti; si la tienes, no la sueltes."
+  },
+  {
+    "i": 26199,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 28,
+    "t": "Pues al final encontrarás en ella el reposo, y para ti ella se trocará en alegría."
+  }
+]

@@ -1,0 +1,795 @@
+[
+  {
+    "i": 5300,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 11,
+    "t": "Toate păsările curate vei putea mânca,"
+  },
+  {
+    "i": 5301,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 12,
+    "t": "dar iată pe cele dintre păsări pe care să nu le mănânci: vulturul, zgripțorul, acvila pleșuvă,"
+  },
+  {
+    "i": 5302,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 13,
+    "t": "vulturul negru, eretele și felurile lui,"
+  },
+  { "i": 5303, "b": 4, "c": 514, "r": 514, "o": 14, "t": "orice fel de corb," },
+  {
+    "i": 5304,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 15,
+    "t": "struțul, bufnița, pescărușul și uliul, cu felurile lui,"
+  },
+  {
+    "i": 5305,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 16,
+    "t": "cucuveaua, șorecarul, ibisul,"
+  },
+  {
+    "i": 5306,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 17,
+    "t": "pelicanul, vulturul alb, cormoranul,"
+  },
+  {
+    "i": 5307,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 18,
+    "t": "barza, bâtlanul, cu felurile lui, pupăza și liliacul."
+  },
+  {
+    "i": 5308,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 19,
+    "t": "Toate vietățile zburătoare să vi le socotiți necurate și să nu le mâncați."
+  },
+  {
+    "i": 5309,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 20,
+    "t": "Toate păsările curate să le mâncați."
+  },
+  {
+    "i": 5310,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 21,
+    "t": "Să nu mâncați nici o hoitură. S-o dai străinului care este în mijlocul tău, ca s-o mănânce, sau s-o vinzi celui de alt neam; căci tu ești un popor sfânt pentru Domnul, Dumnezeul tău. Să nu fierbi iedul în laptele maicii sale."
+  },
+  {
+    "i": 5311,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 22,
+    "t": "Să iei, negreșit, zeciuială din tot rodul seminței tale, care va ieși din țarină în fiecare an."
+  },
+  {
+    "i": 5312,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 23,
+    "t": "Și să mănânci înaintea Domnului, Dumnezeului tău, în locul pe care-l va alege, ca să pună acolo numele Său, zeciuiala din grâul tău, din mustul tău, din untdelemnul tău și întâii-născuți din cirezile tale și din oile tale, ca să înveți să te temi pururea de Domnul, Dumnezeul tău."
+  },
+  {
+    "i": 5313,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 24,
+    "t": "Iar de va fi drumul prea lung pentru tine, așa încât să nu poți duce zeciuiala, pentru că va fi prea departe de tine locul pe care-l va alege Domnul, Dumnezeul tău, ca să pună acolo numele Său, când te va binecuvânta Domnul, Dumnezeul tău,"
+  },
+  {
+    "i": 5314,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 25,
+    "t": "atunci s-o prefaci în bani, să legi banii în mâna ta și să mergi la locul pe care-l va alege Domnul, Dumnezeul tău."
+  },
+  {
+    "i": 5315,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 26,
+    "t": "Și să cumperi cu banii aceștia tot ce-ți va pofti sufletul: boi, oi, vin și băuturi amețitoare și orice-ți va cere sufletul. Și să mănânci acolo înaintea Domnului, Dumnezeului tău, și să te veselești, tu și casa ta."
+  },
+  {
+    "i": 5316,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 27,
+    "t": "Pe levitul care va fi în mijlocul tău să nu-l părăsești, căci el n-are parte, nici moștenire cu tine."
+  },
+  {
+    "i": 5317,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 28,
+    "t": "După trei ani să scoți toată zeciuiala ta din anul acela și s-o pui la porțile tale."
+  },
+  {
+    "i": 5318,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 29,
+    "t": "Și să vină levitul, căci el n-are parte, nici moștenire cu tine, și străinul, și orfanul, și văduva, care vor fi în cetățile tale, și să mănânce și să se sature, ca să binecuvânteze Domnul, Dumnezeul tău, tot lucrul mâinilor tale, pe care-l vei face."
+  },
+  {
+    "i": 5319,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 1,
+    "t": "La fiecare șapte ani să faci iertare."
+  },
+  {
+    "i": 5320,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 2,
+    "t": "Iată ce înseamnă iertarea: tot cel care a împrumutat pe aproapele său să ierte ceea ce a împrumutat; să nu silească pe aproapele său și pe fratele său, căci s-a vestit iertarea Domnului."
+  },
+  {
+    "i": 5321,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 3,
+    "t": "Pe cel de alt neam să-l silești; iar de la fratele tău să ceri înapoi ce ai împrumutat."
+  },
+  {
+    "i": 5322,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 4,
+    "t": "De aceea nu vor fi săraci la tine, căci Domnul te va binecuvânta în pământul pe care Domnul, Dumnezeul tău, ți-l va da moștenire, ca să-l stăpânești,"
+  },
+  {
+    "i": 5323,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 5,
+    "t": "numai să asculți cu luare aminte glasul Domnului, Dumnezeului tău, ca să împlinești toate poruncile acestea pe care ți le dau eu astăzi."
+  },
+  {
+    "i": 5324,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 6,
+    "t": "Căci Domnul, Dumnezeul tău, te va binecuvânta, precum ți-a spus, și vei da cu împrumut multor neamuri, dar tu nu vei lua cu împrumut; vei stăpâni peste multe neamuri, dar ele nu te vor stăpâni pe tine."
+  },
+  {
+    "i": 5325,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 7,
+    "t": "Dacă va fi la tine vreun sărac dintre frații tăi, în vreo cetate din pământul tău pe care Domnul, Dumnezeul tău, ți-l dă, să nu-ți împietrești inima, nici să-ți închizi mâna înaintea fratelui tău celui sărac,"
+  },
+  {
+    "i": 5326,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 8,
+    "t": "ci să-ți deschizi mâna către el și să-i dai cu împrumut după trebuința lui, de ceea ce-i va lipsi."
+  },
+  {
+    "i": 5327,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 9,
+    "t": "Să nu-ți intre în cuget vorbă nelegiuită și să nu zici: «Se apropie anul al șaptelea, anul iertării!», și să te uiți cu ochi rău la fratele tău cel sărac și să nu-i dai, ca să nu strige el către Domnul împotriva ta și să se facă păcat asupra ta."
+  },
+  {
+    "i": 5328,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 10,
+    "t": "Ci să-i dai bucuros, și pentru aceasta te va binecuvânta Domnul, Dumnezeul tău, în toate lucrările tale și în tot ce vei face cu mâna ta."
+  },
+  {
+    "i": 5329,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 11,
+    "t": "Căci sărac va fi totdeauna în pământul tău; de aceea îți poruncesc eu și-ți zic: Să-ți deschizi mâna fratelui tău, celui necăjit și sărac în pământul tău."
+  },
+  {
+    "i": 5330,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 12,
+    "t": "Dacă fratele tău evreu sau sora ta evreică se va vinde ție, să-ți slujească șase ani; iar în anul al șaptelea să-i dai drumul liber."
+  },
+  {
+    "i": 5331,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 13,
+    "t": "Și, dându-i drumul liber, să nu-i dai drumul cu mâinile goale,"
+  },
+  {
+    "i": 5332,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 14,
+    "t": "ci să-l îmbogățești din oile tale, din aria ta și din teascul tău; după cum te-a binecuvântat Domnul, Dumnezeul tău, să-i dai."
+  },
+  {
+    "i": 5333,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 15,
+    "t": "Adu-ți aminte că și tu ai fost rob în pământul Egiptului, dar Domnul, Dumnezeul tău, te-a răscumpărat de acolo; de aceea îți dau eu porunca aceasta astăzi."
+  },
+  {
+    "i": 5334,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 16,
+    "t": "Iar dacă îți va zice: «Nu vreau să ies de la tine!», fiindcă te iubește pe tine și casa ta, și se simte bine la tine,"
+  },
+  {
+    "i": 5335,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 17,
+    "t": "atunci să iei o sulă și să-i găurești urechea de ușorul ușii și-ți va fi rob pe veci. Așa să faci și cu roaba ta."
+  },
+  {
+    "i": 5336,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 18,
+    "t": "Să nu te cruzi când îi vei da drumul liber, căci ți-a slujit șase ani, cât ar fi slujit un argat care ar fi fost plătit de două ori mai mult. Și Domnul, Dumnezeul tău, te va binecuvânta în tot ce vei face."
+  },
+  {
+    "i": 5337,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 19,
+    "t": "Tot întâiul-născut de parte bărbătească, care se va naște din vitele tale mari și mici, să-l sfințești Domnului, Dumnezeului tău. Să nu lucrezi cu întâiul-născut din vita ta, nici să tunzi pe întâiul-născut din oile tale."
+  },
+  {
+    "i": 5338,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 20,
+    "t": "Să-l mănânci în fiecare an, tu și casa ta, înaintea Domnului, Dumnezeului tău, în locul pe care-l va alege Domnul."
+  },
+  {
+    "i": 5339,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 21,
+    "t": "Iar de va avea vreun cusur, dacă va fi șchiop sau orb sau cu vreo meteahnă, să nu-l junghii Domnului, Dumnezeului tău,"
+  },
+  {
+    "i": 5340,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 22,
+    "t": "ci să-l mănânci în cetățile tale; cel curat și cel necurat deopotrivă să-l mănânce, ca și când ar mânca o căprioară sau un cerb."
+  },
+  {
+    "i": 5341,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 23,
+    "t": "Numai sângele să nu-l mâncați; să-l vărsați pe pământ ca apa."
+  },
+  {
+    "i": 5342,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 1,
+    "t": "Păzește luna Abib și fă Paștile Domnului, Dumnezeului tău, căci în luna Abib te-a scos Domnul, Dumnezeul tău, din Egipt, noaptea."
+  },
+  {
+    "i": 5343,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 2,
+    "t": "Junghie Paștile Domnului, Dumnezeului tău, din oile și din boii tăi, în locul pe care-l va alege Domnul, Dumnezeul tău, ca să-și pună acolo numele Său."
+  },
+  {
+    "i": 5344,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 3,
+    "t": "Să nu mănânci cu ea pâine dospită; șapte zile să mănânci cu ea azime, pâine de întristare, căci în grabă ai ieșit din pământul Egiptului; așa-ți vei aduce aminte toată viața ta de ziua când ai ieșit din pământul Egiptului."
+  },
+  {
+    "i": 5345,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 4,
+    "t": "Șapte zile să nu se vadă aluat în tot ținutul tău, și nimic din carnea jertfită seara, în ziua întâi, să nu rămână până dimineața."
+  },
+  {
+    "i": 5346,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 5,
+    "t": "Să nu junghii Paștile în vreuna din cetățile tale, pe care ți le dă Domnul, Dumnezeul tău,"
+  },
+  {
+    "i": 5347,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 6,
+    "t": "ci numai în locul pe care-l va alege Domnul, Dumnezeul tău, ca să pună acolo numele Său, să junghii Paștile, seara, la asfințitul soarelui, la timpul ieșirii tale din Egipt."
+  },
+  {
+    "i": 5348,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 7,
+    "t": "Să le coci și să le mănânci în locul pe care-l va alege Domnul, Dumnezeul tău, și a doua zi dimineața să te întorci și să te duci la cortul tău."
+  },
+  {
+    "i": 5349,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 8,
+    "t": "Șase zile să mănânci azime, iar în ziua a șaptea să fie adunare solemne pentru Domnul, Dumnezeul tău; să nu faci nici o lucrare."
+  },
+  {
+    "i": 5350,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 9,
+    "t": "Să numeri șapte săptămâni; de când vei începe a secera grâul, atunci să începi a număra șapte săptămâni."
+  },
+  {
+    "i": 5351,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 10,
+    "t": "Apoi să serbezi Sărbătoarea Săptămânilor în cinstea Domnului, Dumnezeului tău, aducând daruri de bunăvoie, pe care le vei da după cum te va binecuvânta Domnul, Dumnezeul tău."
+  },
+  {
+    "i": 5352,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 11,
+    "t": "Și să te veselești înaintea Domnului, Dumnezeului tău, tu și fiul tău și fiica ta, robul tău și roaba ta, levitul care este în cetățile tale, străinul, orfanul și văduva, care sunt în mijlocul tău, în locul pe care-l va alege Domnul, Dumnezeul tău, ca să-și pună acolo numele Său."
+  },
+  {
+    "i": 5353,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 12,
+    "t": "Adu-ți aminte că ai fost rob în pământul Egiptului, de aceea să păzești și să împlinești aceste legi."
+  },
+  {
+    "i": 5354,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 13,
+    "t": "Să serbezi Sărbătoarea Corturilor șapte zile, după ce vei strânge roadele tale din arie și din teasc."
+  },
+  {
+    "i": 5355,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 14,
+    "t": "Și să te veselești la sărbătoarea ta, tu și fiul tău și fiica ta, robul tău și roaba ta, levitul și străinul, orfanul și văduva, care sunt în cetățile tale."
+  },
+  {
+    "i": 5356,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 15,
+    "t": "Șapte zile să prăznuiești în cinstea Domnului, Dumnezeului tău, în locul pe care-l va alege Domnul, căci Domnul, Dumnezeul tău, te va binecuvânta în toate roadele tale și în tot lucrul mâinilor tale, de vei fi cu totul vesel."
+  },
+  {
+    "i": 5357,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 16,
+    "t": "De trei ori pe an toți bărbații să se înfățișeze înaintea Domnului, Dumnezeului tău, în locul pe care-l va alege: la Sărbătoarea Azimelor, la Sărbătoarea Săptămânilor și la Sărbătoarea Corturilor. Să nu se înfățișeze cineva cu mâinile goale înaintea Domnului,"
+  },
+  {
+    "i": 5358,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 17,
+    "t": "ci fiecare să dea după cum poate, după binecuvântarea pe care ți-a dat-o Domnul, Dumnezeul tău."
+  },
+  {
+    "i": 5359,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 18,
+    "t": "Să-ți pui judecători și cărturari în toate cetățile tale pe care ți le dă Domnul, Dumnezeul tău, după semințiile tale, și ei să judece pe popor cu judecată dreaptă."
+  },
+  {
+    "i": 5360,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 19,
+    "t": "Să nu strâmbi judecata, să nu te uiți la fața oamenilor și să nu iei daruri, căci darurile orbesc ochii celor înțelepți și strică judecățile celor drepți."
+  },
+  {
+    "i": 5361,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 20,
+    "t": "Dreptatea, numai dreptatea s-o urmărești, ca să trăiești și să moștenești pământul pe care Domnul, Dumnezeul tău, ți-l dă."
+  },
+  {
+    "i": 5362,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 21,
+    "t": "Să nu-ți sădești un stejar, un copac oarecare, lângă altarul Domnului, Dumnezeului tău, pe care-l vei face,"
+  },
+  {
+    "i": 5363,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 22,
+    "t": "nici să-ți ridici un stâlp idolesc, pe care-l urăște Domnul, Dumnezeul tău."
+  },
+  {
+    "i": 5364,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 1,
+    "t": "Să nu jertfești Domnului, Dumnezeului tău, un bou sau o oaie cu vreo meteahnă sau cu vreun cusur, căci aceasta este o urâciune înaintea Domnului, Dumnezeului tău."
+  },
+  {
+    "i": 5365,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 2,
+    "t": "Dacă se va afla în mijlocul tău, într-una din cetățile tale pe care ți le dă Domnul, Dumnezeul tău, un bărbat sau o femeie care va face ce este rău înaintea Domnului, Dumnezeului tău, călcând legământul Lui,"
+  },
+  {
+    "i": 5366,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 3,
+    "t": "care se va duce să slujească altor dumnezei și să se închine lor sau soarelui, sau lunii sau întregii oștiri a cerurilor, lucru pe care Eu nu l-am poruncit,"
+  },
+  {
+    "i": 5367,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 4,
+    "t": "și dacă se va vesti lucrul acesta la tine, atunci să cercetezi cu de-amănuntul. Și dacă se va adeveri, și se va dovedi că s-a săvârșit urâciunea aceasta în Israel,"
+  },
+  {
+    "i": 5368,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 5,
+    "t": "atunci să scoți la porțile tale pe bărbatul acela sau pe femeia aceea care a făcut fapta aceasta rea, și să-i ucizi cu pietre până va muri."
+  },
+  {
+    "i": 5369,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 6,
+    "t": "După mărturia a doi sau trei martori să fie osândit la moarte cel care a făcut moarte, după mărturia unui singur martor să nu fie osândit la moarte."
+  },
+  {
+    "i": 5370,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 7,
+    "t": "Martorii să pună întâi mâna pe el ca să-l omoare, apoi să pună mâna tot poporul. Așa să curățești răul din mijlocul tău."
+  },
+  {
+    "i": 5371,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 8,
+    "t": "Dacă se va ridica vreo pricină grea, care va fi mai presus de puterile tale de judecată, pricină de vărsare de sânge, de ceartă sau de lovire, de vreo nedreptate oarecare din cetățile tale, atunci să te ridici și să te duci la locul pe care-l va alege Domnul, Dumnezeul tău,"
+  },
+  {
+    "i": 5372,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 9,
+    "t": "să te duci la preoții leviți și la judecătorul care va fi în zilele acelea, să-i întrebi și ei îți vor spune hotărârea judecății."
+  },
+  {
+    "i": 5373,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 10,
+    "t": "Și să faci după hotărârea pe care ți-o vor spune ei în locul acela pe care-l va alege Domnul; să păzești să faci întocmai după tot ce-ți vor spune ei."
+  },
+  {
+    "i": 5374,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 11,
+    "t": "După legea pe care te vor învăța și după hotărârea pe care ți-o vor spune, să faci; să nu te abați nici la dreapta, nici la stânga de la ce-ți vor spune ei."
+  },
+  {
+    "i": 5375,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 12,
+    "t": "Iar dacă se va găsi vreunul atât de îndrăzneț, încât să nu asculte pe preotul care stă înaintea Domnului, Dumnezeului tău, ca să-i slujească, sau să nu asculte pe judecător, să moară omul acela. Așa să curățești răul din Israel."
+  },
+  {
+    "i": 5376,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 13,
+    "t": "Tot poporul, auzind, se va teme și nu se va mai arăta îndrăzneț."
+  },
+  {
+    "i": 5377,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 14,
+    "t": "Când vei intra în pământul pe care Domnul, Dumnezeul tău, ți-l dă, și-l vei moșteni și vei locui în el, dacă vei zice: «Vreau să pun peste mine un rege, ca toate neamurile dimprejurul meu»,"
+  },
+  {
+    "i": 5378,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 15,
+    "t": "atunci să pui peste tine regele pe care-l va alege Domnul, Dumnezeul tău; să pui peste tine un rege din mijlocul fraților tăi; să nu pui peste tine un om străin, care să nu fie fratele tău."
+  },
+  {
+    "i": 5379,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 16,
+    "t": "Numai să nu aibă mulți cai și să nu întoarcă pe popor în Egipt ca să aibă mulți cai, pentru că Domnul v-a zis: «Să nu vă mai întoarceți pe calea aceea»."
+  },
+  {
+    "i": 5380,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 17,
+    "t": "Să nu-și înmulțească numărul soțiilor, ca să nu se abată inima lui. Să nu-și înmulțească peste măsură argintul și aurul său."
+  },
+  {
+    "i": 5381,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 18,
+    "t": "Când se va sui pe tronul împărăției sale, să scrie pe un sul, pentru uzul său, o copie a acestei Legi, după dictarea preoților leviți."
+  },
+  {
+    "i": 5382,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 19,
+    "t": "Ea să nu se depărteze de el; s-o citească în toate zilele vieții sale, ca să învețe să se teamă de Domnul, Dumnezeul său, păzind toate cuvintele acestei Legi, precum și aceste porunci, ca să le împlinească."
+  },
+  {
+    "i": 5383,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 20,
+    "t": "Astfel, se va feri să se înalțe cu inima mai presus de frații săi și nu se va abate de la aceste porunci nici la dreapta, nici la stânga. Cu această condiție, el și fiii săi vor avea zile lungi pe tronul lui Israel."
+  },
+  {
+    "i": 5384,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 1,
+    "t": "Preoții leviți, toată seminția lui Levi, să n-aibă parte nici moștenire cu Israel; ci să se hrănească din jertfele aduse Domnului și din moștenirea Lui."
+  },
+  {
+    "i": 5385,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 2,
+    "t": "Seminția aceasta să n-aibă moștenire în mijlocul fraților săi, căci Domnul este moștenirea lor, precum le-a spus."
+  },
+  {
+    "i": 5386,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 3,
+    "t": "Iată drepturile preoților asupra poporului, asupra celor ce aduc jertfă de vite mari sau mici: să se dea preotului umărul, fălcile și stomacul."
+  },
+  {
+    "i": 5387,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 4,
+    "t": "Să-i dai cele dintâi roade din grâul tău, din vinul tău nou și din untdelemnul tău, precum și cele dintâi lână tunsă de la oile tale."
+  },
+  {
+    "i": 5388,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 5,
+    "t": "Căci pe el l-a ales Domnul, Dumnezeul tău, din toate semințiile tale, ca să stea înaintea Domnului, Dumnezeului tău, să facă slujba divină și să dea binecuvântarea în numele Domnului, el și fiii săi, pentru totdeauna."
+  },
+  {
+    "i": 5389,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 6,
+    "t": "Dacă levitul care locuiește într-una din cetățile tale, oriunde ar fi în Israel, vine, după dorința sa, la locul ales de Domnul,"
+  },
+  {
+    "i": 5390,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 7,
+    "t": "Să slujească acolo în numele Domnului, Dumnezeului său, ca toți frații săi leviți care stau acolo înaintea Domnului,"
+  },
+  {
+    "i": 5391,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 8,
+    "t": "Mâncând o parte egală cu a lor — fără a socoti ceea ce primește prin vânzarea moștenirii sale."
+  },
+  {
+    "i": 5392,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 9,
+    "t": "Când vei intra în țara pe care Domnul, Dumnezeul tău, ți-o dă, să nu înveți să faci aceleași urâciuni ca neamurile acelea."
+  },
+  {
+    "i": 5393,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 10,
+    "t": "Să nu se găsească la tine nimeni care să-și treacă prin foc pe fiul sau pe fiica sa, nici ghicitor, nici vrăjitor, nici prezicător, nici mag."
+  },
+  {
+    "i": 5394,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 11,
+    "t": "Nici cineva care folosește farmece, nici cineva care întreabă duhurile și ghicitorii, nici cineva care cheamă pe morți."
+  },
+  {
+    "i": 5395,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 12,
+    "t": "Căci oricine face aceste lucruri este o urâciune înaintea Domnului, Dumnezeului tău, și din cauza acestor urâciuni, Domnul, Dumnezeul tău, izgonește aceste neamuri dinaintea ta."
+  },
+  {
+    "i": 5396,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 13,
+    "t": "Tu să fii fără pată înaintea Domnului, Dumnezeului tău."
+  },
+  {
+    "i": 5397,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 14,
+    "t": "Căci aceste neamuri pe care le izgonești ascultau de vrăjitori și de ghicitori, dar ție nu ți-a fost dat așa ceva de către Domnul, Dumnezeul tău."
+  },
+  {
+    "i": 5398,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 15,
+    "t": "Domnul, Dumnezeul tău, va ridica pentru tine, din mijlocul tău, dintre frații tăi, un profet ca mine, pe care să-l ascultați."
+  },
+  {
+    "i": 5399,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 16,
+    "t": "Aceasta este chiar ceea ce ai cerut de la Domnul, Dumnezeul tău, la Horeb, în ziua Adunării: \"Ca să nu mor, să nu mai ascult glasul Domnului, Dumnezeului meu, și să nu mai privesc acest foc mare!"
+  }
+]

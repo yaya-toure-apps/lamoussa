@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4600,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 24,
+    "t": "Így cselekedjetek minden nap, hét napon át. Ez legyen az étel, az édes illatú áldozat Jahvénak; az örökös égőáldozaton és annak italáldozatán felül."
+  },
+  {
+    "i": 4601,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 25,
+    "t": "A hetedik napon szent gyülekezést tartsatok; semmiféle robotmunkát ne végezzetek."
+  },
+  {
+    "i": 4602,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 26,
+    "t": "„Az első termés napján, amikor új gabonát áldoztok Jahvénak, a Hetek ünnepén szent gyülekezést tartsatok; semmiféle robotmunkát ne végezzetek."
+  },
+  {
+    "i": 4603,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 27,
+    "t": "Égőáldozatot mutassatok be, Jahvénak kedves illatként: két bikát, egy kost és hét egyéves bárányt."
+  },
+  {
+    "i": 4604,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 28,
+    "t": "A hozzájuk tartozó ételáldozat finomlisztből, olajjal gyúrva, háromtized legyen minden bikához, kettőtized minden koshoz,"
+  },
+  {
+    "i": 4605,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 29,
+    "t": "és egytized minden egyes bárányhoz."
+  },
+  {
+    "i": 4606,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 30,
+    "t": "Egy kecskebakot is áldozzatok bűnért, hogy engesztelést végezzenek értetek."
+  },
+  {
+    "i": 4607,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 31,
+    "t": "Ezt tegyétek az örökös égőáldozaton felül, annak ételáldozatával és italáldozataival együtt."
+  },
+  {
+    "i": 4608,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 1,
+    "t": "„A hetedik hónapban, a hónap első napján szent gyülekezést tartsatok; semmiféle robotmunkát ne végezzetek. Legyen ez számotokra a kürtzengés napja."
+  },
+  {
+    "i": 4609,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 2,
+    "t": "Égőáldozatot mutassatok be, Jahvénak kedves illatként: egy bikát, egy kost és hét egyéves, hibátlan bárányt."
+  },
+  {
+    "i": 4610,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 3,
+    "t": "A hozzájuk tartozó ételáldozat finomlisztből, olajjal gyúrva, háromtized legyen a bikához, kettőtized a koshoz,"
+  },
+  {
+    "i": 4611,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 4,
+    "t": "és egytized minden egyes bárányhoz."
+  },
+  {
+    "i": 4612,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 5,
+    "t": "Egy kecskebakot is áldozzatok bűnért, hogy engesztelést végezzenek értetek."
+  },
+  {
+    "i": 4613,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 6,
+    "t": "Ezt tegyétek a havi égőáldozaton és annak ételáldozatán felül, az örökös égőáldozaton és annak ételáldozatán felül, és azok italáldozataival a szabály szerint, - édes illatként, mint Jahvénak bemutatott ételáldozat."
+  },
+  {
+    "i": 4614,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 7,
+    "t": "„Ennek a hetedik hónapnak a tizedik napján szent gyülekezést tartsatok. Böjtöljetek, és semmiféle munkát ne végezzetek."
+  },
+  {
+    "i": 4615,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 8,
+    "t": "Égőáldozatot mutassatok be Jahvénak, kedves illatként: egy bikát, egy kost és hét egyéves, hibátlan bárányt."
+  },
+  {
+    "i": 4616,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 9,
+    "t": "A hozzájuk tartozó ételáldozat finomlisztből, olajjal gyúrva, háromtized legyen a bikához, kettőtized a koshoz,"
+  },
+  {
+    "i": 4617,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 10,
+    "t": "és egytized minden egyes bárányhoz."
+  },
+  {
+    "i": 4618,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 11,
+    "t": "Egy kecskebakot is áldozzatok bűnért. Ezt tegyétek az Engesztelés Ünnepének bűnért való áldozatán felül, az örökös égőáldozaton és annak ételáldozatán, és azok italáldozataival együtt."
+  },
+  {
+    "i": 4619,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 12,
+    "t": "„Ennek a hetedik hónapnak a tizenötödik napján szent gyülekezést tartsatok, semmiféle robotmunkát ne végezzetek, és hét napig ünnepet üljétek Jahvénak."
+  },
+  {
+    "i": 4620,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 13,
+    "t": "Égőáldozatot mutassatok be, ételáldozatot, Jahvénak kedves illatként: tizenhárom bikát, két kost, tizennégy egyéves, hibátlan bárányt."
+  },
+  {
+    "i": 4621,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 14,
+    "t": "A hozzájuk tartozó ételáldozatok finomlisztből, olajjal gyúrva, háromtized legyenek minden egyes tizenhárom bikához, kettőtized minden egyes két koshoz,"
+  },
+  {
+    "i": 4622,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 15,
+    "t": "és egytized minden egyes tizennégy bárányhoz."
+  },
+  {
+    "i": 4623,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 16,
+    "t": "Egy kecskebakot is adjatok a bűnért való áldozat mellé. Ezt tegyétek az örökös égőáldozaton, annak ételáldozatán és italáldozatán felül."
+  },
+  {
+    "i": 4624,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 17,
+    "t": "A második napon: tizenkét bikát, két kost, tizennégy egyéves, hibátlan bárányt;"
+  },
+  {
+    "i": 4625,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 18,
+    "t": "a hozzájuk tartozó ételáldozatokat és italáldozatokat a szabály szerint készítsétek el, a bikák, kosok és bárányok száma szerint;"
+  },
+  {
+    "i": 4626,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 19,
+    "t": "egy kecskebakot a bűnért való áldozat mellé; az örökös égőáldozaton, annak ételáldozatán és italáldozatain felül."
+  },
+  {
+    "i": 4627,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 20,
+    "t": "A harmadik napon: tizenegy bikát, két kost, tizennégy egyéves, hibátlan bárányt;"
+  },
+  {
+    "i": 4628,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 21,
+    "t": "a hozzájuk tartozó ételáldozatokat és italáldozatokat a szabály szerint készítsétek el, a bikák, kosok és bárányok száma szerint;"
+  },
+  {
+    "i": 4629,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 22,
+    "t": "egy kecskebakot a bűnért való áldozat mellé; az örökös égőáldozaton, annak ételáldozatán és italáldozatain felül."
+  },
+  {
+    "i": 4630,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 23,
+    "t": "A negyedik napon: tíz bikát, két kost, tizennégy egyéves, hibátlan bárányt;"
+  },
+  {
+    "i": 4631,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 24,
+    "t": "a hozzájuk tartozó ételáldozatokat és italáldozatokat a szabály szerint készítsétek el, a bikák, kosok és bárányok száma szerint;"
+  },
+  {
+    "i": 4632,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 25,
+    "t": "egy kecskebakot a bűnért való áldozat mellé; az örökös égőáldozaton, annak ételáldozatán és italáldozatain felül."
+  },
+  {
+    "i": 4633,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 26,
+    "t": "Az ötödik napon: kilenc bikát, két kost, tizennégy egyéves, hibátlan bárányt;"
+  },
+  {
+    "i": 4634,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 27,
+    "t": "a hozzájuk tartozó ételáldozatokat és italáldozatokat a szabály szerint készítsétek el, a bikák, kosok és bárányok száma szerint;"
+  },
+  {
+    "i": 4635,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 28,
+    "t": "egy kecskebakot a bűnért való áldozat mellé; az örökös égőáldozaton, annak ételáldozatán és italáldozatain felül."
+  },
+  {
+    "i": 4636,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 29,
+    "t": "A hatodik napon: nyolc bikát, két kost, tizennégy egyéves, hibátlan bárányt;"
+  },
+  {
+    "i": 4637,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 30,
+    "t": "a hozzájuk tartozó ételáldozatokat és italáldozatokat a szabály szerint készítsétek el, a bikák, kosok és bárányok száma szerint;"
+  },
+  {
+    "i": 4638,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 31,
+    "t": "egy kecskebakot a bűnért való áldozat mellé; az örökös égőáldozaton, annak ételáldozatán és italáldozatain felül."
+  },
+  {
+    "i": 4639,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 32,
+    "t": "A hetedik napon: hét bikát, két kost, tizennégy egyéves, hibátlan bárányt;"
+  },
+  {
+    "i": 4640,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 33,
+    "t": "a hozzájuk tartozó ételáldozatokat és italáldozatokat a szabály szerint készítsétek el, a bikák, kosok és bárányok száma szerint;"
+  },
+  {
+    "i": 4641,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 34,
+    "t": "egy kecskebakot a bűnért való áldozat mellé; az örökös égőáldozaton, annak ételáldozatán és italáldozatain felül."
+  },
+  {
+    "i": 4642,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 35,
+    "t": "A nyolcadik napon ünnepi gyülekezést tartsatok. Semmiféle robotmunkát ne végezzetek."
+  },
+  {
+    "i": 4643,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 36,
+    "t": "Mutassatok be égőáldozatot, ételáldozatot, Jahvénak kedves illatként: egy bikát, egy kost, hét egyéves, hibátlan bárányt;"
+  },
+  {
+    "i": 4644,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 37,
+    "t": "a hozzájuk tartozó ételáldozatokat és italáldozatokat a szabály szerint készítsétek el, a bikák, kosok és bárányok száma szerint;"
+  },
+  {
+    "i": 4645,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 38,
+    "t": "egy kecskebakot a bűnért való áldozat mellé; az örökös égőáldozaton, annak ételáldozatán és italáldozatain felül."
+  },
+  {
+    "i": 4646,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 39,
+    "t": "Ezt tegyétek Jahvénak ünnepélyes alkalmaitokon, fogadalmi és önkéntes áldozataitokon, égőáldozataitokon, étel- és italáldozataitokon, és közösségi áldozataitokon felül."
+  },
+  {
+    "i": 4647,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 1,
+    "t": "Mózes mindent úgy mondott el Izrael fiainak, ahogyan Jahve megparancsolta neki."
+  },
+  {
+    "i": 4648,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 2,
+    "t": "Mózes szólt Izrael törzsfőinek. Ezt mondta: „Ezt parancsolta Jahve."
+  },
+  {
+    "i": 4649,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 3,
+    "t": "Ha valaki fogadalmat tesz Jahvénak, vagy ünnepélyes esküt tesz, ne szegje meg a szavát: mindazt, ami a száján kijött, teljesítse."
+  },
+  {
+    "i": 4650,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 4,
+    "t": "Ha egy nő fogadalmat tesz Jahvénak, vagy ünnepélyes esküt tesz, amikor még leány és apja házában lakik,"
+  },
+  {
+    "i": 4651,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 5,
+    "t": "és az apja, amikor meghallja a fogadalmát vagy az esküt, amit tett, nem szól neki semmit, akkor minden fogadalma érvényes marad, és minden esküje érvényes marad."
+  },
+  {
+    "i": 4652,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 6,
+    "t": "De ha az apja azon a napon, amikor meghallja, ellentmond neki, akkor semmiféle fogadalma és semmiféle esküje nem lesz érvényes. Jahve nem rója fel neki, mert az apja ellentmondott neki."
+  },
+  {
+    "i": 4653,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 7,
+    "t": "Ha fogadalmak vagy meggondolatlanul kimondott eskü kötelezi, és férjhez megy,"
+  },
+  {
+    "i": 4654,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 8,
+    "t": "és a férje, amikor meghallja, nem szól neki semmit azon a napon, amikor értesül róla, fogadalmai érvényesek maradnak, és esküi érvényesek maradnak."
+  },
+  {
+    "i": 4655,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 9,
+    "t": "De ha a férje azon a napon, amikor meghallja, ellentmond neki, akkor érvényteleníti a fogadalmat, amely kötelezi, vagy az esküt, amely meggondolatlanul kijött a száján. Jahve nem rója fel neki."
+  },
+  {
+    "i": 4656,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 10,
+    "t": "Az özvegy vagy elküldött asszony fogadalma és minden esküje érvényes marad."
+  },
+  {
+    "i": 4657,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 11,
+    "t": "Ha a férje házában tesz fogadalmat, vagy esküvel kötelezi magát,"
+  },
+  {
+    "i": 4658,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 12,
+    "t": "és a férje, amikor meghallja, nem szól neki semmit és nem mond ellent, akkor minden fogadalma érvényes marad, és minden esküje érvényes marad."
+  },
+  {
+    "i": 4659,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 13,
+    "t": "De ha a férje, amikor meghallja, érvényteleníti azokat azon a napon, amikor értesül róla, akkor semmi sem lesz érvényes abból, ami a száján kijött, fogadalom vagy eskü. A férje érvénytelenítette azokat, Jahve nem rója fel neki."
+  },
+  {
+    "i": 4660,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 14,
+    "t": "Minden fogadalmat és minden esküt, amely kötelezi az asszonyt, a férje érvényesítheti vagy érvénytelenítheti."
+  },
+  {
+    "i": 4661,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 15,
+    "t": "Ha másnap a férje nem szól neki semmit, akkor érvényesíti a fogadalmát, bármi legyen is az, vagy az esküjét, bármi legyen is az. Érvényesítette azokat, ha nem szólt neki semmit azon a napon, amikor értesült róla."
+  },
+  {
+    "i": 4662,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 16,
+    "t": "De ha értesülve később érvényteleníti azokat, akkor ő viseli az asszonyának a vétkét."
+  },
+  {
+    "i": 4663,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 17,
+    "t": "Ezek azok a törvények, amelyeket Jahve parancsolt Mózesnek a férfi és a felesége közötti viszonyról, és az apa és a leánya közötti viszonyról, amikor az még leány és apja házában lakik."
+  },
+  {
+    "i": 4664,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 1,
+    "t": "Jahve szólt Mózesnek, és azt mondta:"
+  },
+  {
+    "i": 4665,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 2,
+    "t": "„Állj bosszút Izrael fiainak a midiánitákon. Azután egyesülsz a tieiddel."
+  },
+  {
+    "i": 4666,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 3,
+    "t": "Mózes így szólt a néphez: „Fegyverkezzen fel néhány ember közületek, hogy Jahve hadjáratot indítson Midián ellen, hogy megfizessék Midiánnak Jahve bosszújának árát."
+  },
+  {
+    "i": 4667,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 4,
+    "t": "Indítsatok hadba ezer embert Izrael minden törzséből."
+  },
+  {
+    "i": 4668,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 5,
+    "t": "Izrael ezrei törzsenként ezer embert adtak, tizenkétezer embert fegyverrel a hadjáratra."
+  },
+  {
+    "i": 4669,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 6,
+    "t": "Mózes hadba indította őket, törzsenként ezer embert, és hozzájuk csatolta Fineászt, Eleázár pap fiát, aki a szent tárgyakat és a kürtöket vitte a kürtzengésekhez."
+  },
+  {
+    "i": 4670,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 7,
+    "t": "Hadba vonultak Midián ellen, ahogyan Jahve megparancsolta Mózesnek, és megöltek minden férfit."
+  },
+  {
+    "i": 4671,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 8,
+    "t": "Ezenkívül megölték Midián királyait, Evit, Rékemet, Cúrt, Húrt és Rébát, öt midiánita királyt; Báálámot, Beor fiát is megölték kardéllel."
+  },
+  {
+    "i": 4672,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 9,
+    "t": "Izrael fiai foglyul ejtették a midiánita asszonyokat a kisgyermekeikkel együtt, elrabolták minden jószágukat, minden nyájukat és minden vagyonukat."
+  },
+  {
+    "i": 4673,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 10,
+    "t": "Felgyújtották a városaikat, ahol laktak, és minden táborhelyüket."
+  },
+  {
+    "i": 4674,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 11,
+    "t": "Majd fogva tartva minden zsákmányt, mindent, amit elfogtak, állatokat és embereket,"
+  },
+  {
+    "i": 4675,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 12,
+    "t": "odavitték a foglyokat, a zsákmányt és a rabolt javakat Mózeshez, Eleázár paphoz és Izrael fiainak egész közösségéhez a táborba, Moáb pusztájára, amely a Jordán közelében van, Jerikóval szemben."
+  },
+  {
+    "i": 4676,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 13,
+    "t": "Mózes, Eleázár pap és a közösség minden vezetője kiment a táborból eléjük."
+  },
+  {
+    "i": 4677,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 14,
+    "t": "Mózes haragra gerjedt a hadsereg parancsnokaira, az ezrek és százak vezetőire, akik visszatértek a hadjáratból."
+  },
+  {
+    "i": 4678,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 15,
+    "t": "Azt mondta nekik: „Miért hagytátok életben az összes asszonyt?"
+  },
+  {
+    "i": 4679,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 16,
+    "t": "Hiszen ők voltak azok, akik Báálám tanácsára hűtlenségre csábították Izrael fiait Jahvéval szemben Peor ügyében: ezért sújtotta csapás Jahve közösségét."
+  },
+  {
+    "i": 4680,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 17,
+    "t": "És most mindazokat a fiúgyermekeket öljétek meg, és minden asszonyt is, aki férfit ismert ágybeli közösülés által."
+  },
+  {
+    "i": 4681,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 18,
+    "t": "De minden leánygyermeket, aki nem ismert férfit ágybeli közösülés által, hagyjatok életben magatoknak."
+  },
+  {
+    "i": 4682,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 19,
+    "t": "Ti pedig táborozzatok a táboron kívül hét napig; valaki embert ölt, és valaki halotthoz ért, tisztítsátok meg magatokat a harmadik és a hetedik napon, ti és a ti foglyaitok."
+  },
+  {
+    "i": 4683,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 20,
+    "t": "És minden ruhát és minden bőrből készült eszközt és minden kecskeszőrből készült munkát és minden fából készült eszközt tisztítsatok meg."
+  },
+  {
+    "i": 4684,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 21,
+    "t": "És mondá Eleázár, a pap a harcosoknak, akik a hadból jöttek: Ez a törvény rendelése, melyet az Úr parancsolt Mózesnek."
+  },
+  {
+    "i": 4685,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 22,
+    "t": "Csak az aranyat, az ezüstöt, a rezet, a vasat, az ónt és az ólmot,"
+  },
+  {
+    "i": 4686,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 23,
+    "t": "mindent, ami tüzet áll, tűz által tisztítsátok meg, és tiszta lesz; de a tisztítóvízzel is tisztítsátok meg. És mindent, ami tüzet nem áll, vízzel tisztítsatok meg."
+  },
+  {
+    "i": 4687,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 24,
+    "t": "És mossátok ki a ruháitokat a hetedik napon, és tiszták lesztek, és azután bemehettek a táborba."
+  },
+  {
+    "i": 4688,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 25,
+    "t": "És szóla az Úr Mózesnek, mondván:"
+  },
+  {
+    "i": 4689,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 26,
+    "t": "Vedd számba Eleázárral, a pappal és a község atyafőivel együtt a foglyokat, az embereket és a barmokat,"
+  },
+  {
+    "i": 4690,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 27,
+    "t": "és oszd el a zsákmányt a hadviselők között, akik a hadba mentek, és az egész község között."
+  },
+  {
+    "i": 4691,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 28,
+    "t": "És az Úrnak való adót a hadviselők részéből, akik a hadba mentek, egyet ötszázból az emberekből, a szarvasmarhákból, a szamarakból és a juhokból,"
+  },
+  {
+    "i": 4692,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 29,
+    "t": "vegyed el az ő részükből, és add Eleázárnak, a papnak, az Úrnak szánt áldozatul."
+  },
+  {
+    "i": 4693,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 30,
+    "t": "Az Izráel fiainak részéből pedig vegyél egyet ötvenből az emberekből, a szarvasmarhákból, a szamarakból és a juhokból, minden barmból, és add azokat a lévitáknak, akik vigyáznak az Úr hajlékára."
+  },
+  {
+    "i": 4694,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 31,
+    "t": "És cselekedék Mózes és Eleázár, a pap, amint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 4695,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 32,
+    "t": "És a zsákmány, a többi prédának, amelyet a hadviselők elraboltak, volt hatszázhetvenötezer juh,"
+  },
+  {
+    "i": 4696,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 33,
+    "t": "hetvenkétezer szarvasmarha,"
+  },
+  {
+    "i": 4697,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 34,
+    "t": "hatvanegyezer szamár,"
+  },
+  {
+    "i": 4698,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 35,
+    "t": "és az emberek közül, az asszonyok, akik nem ismertek férfit ágybeli közösülés által, mindössze harminckétezeren."
+  },
+  {
+    "i": 4699,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 36,
+    "t": "És a hadviselőknek jutó rész háromszázharminchét ezer ötszáz juh volt,"
+  }
+]

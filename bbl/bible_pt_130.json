@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13000,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 22,
+    "t": "Porventura vos tenho dito: Trazei-me ofertas, ou oferecei-me presentes dos vossos bens?"
+  },
+  {
+    "i": 13001,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 23,
+    "t": "Ou livrai-me da mão do opressor, ou resgatastes-me da mão do violento?"
+  },
+  {
+    "i": 13002,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 24,
+    "t": "Ensinai-me, e eu me calarei; e fazei-me entender em que errei."
+  },
+  {
+    "i": 13003,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 25,
+    "t": "Quão poderosas são as palavras da verdade! Mas que reprova a vossa arguição?"
+  },
+  {
+    "i": 13004,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 26,
+    "t": "Porventura pensais repreender palavras, sendo os ditos do desesperado como vento?"
+  },
+  {
+    "i": 13005,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 27,
+    "t": "E vós até sobre o órfão lançaríeis sortes, e mercadejaríeis o vosso amigo."
+  },
+  {
+    "i": 13006,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 28,
+    "t": "Agora, pois, olhai para mim, e vede se minto em vossa presença."
+  },
+  {
+    "i": 13007,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 29,
+    "t": "Voltai, não haja injustiça; sim, voltai, porque a minha justiça nisso consiste."
+  },
+  {
+    "i": 13008,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 30,
+    "t": "Porventura há iniqüidade na minha língua? Ou não pode o meu paladar discernir a maldade?"
+  },
+  {
+    "i": 13009,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 1,
+    "t": "Porventura não milita o homem sobre a terra? E não são os seus dias como os dias do jornaleiro?"
+  },
+  {
+    "i": 13010,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 2,
+    "t": "Como o servo suspira pela sombra, e como o jornaleiro aguarda o fim do seu trabalho,"
+  },
+  {
+    "i": 13011,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 3,
+    "t": "assim também tenho por herança meses de vaidade, e noites de trabalho me foram ordenadas."
+  },
+  {
+    "i": 13012,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 4,
+    "t": "Quando me deito, digo: Quando me levantarei? Mas comprida é a noite, e farto-me de revolver-me até a chegada da alva."
+  },
+  {
+    "i": 13013,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 5,
+    "t": "A minha carne se veste de vermes e de torrões de pó; a minha pele greta, e torna a sarar."
+  },
+  {
+    "i": 13014,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 6,
+    "t": "Os meus dias foram mais velozes do que a lançadeira do tecelão, e findaram-se sem esperança."
+  },
+  {
+    "i": 13015,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 7,
+    "t": "Lembra-te de que a minha vida é um sopro; os meus olhos não tornarão a ver o bem."
+  },
+  {
+    "i": 13016,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 8,
+    "t": "Os olhos do que agora me vêem não me verão mais; os teus olhos estarão sobre mim, mas eu não serei mais."
+  },
+  {
+    "i": 13017,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 9,
+    "t": "Assim como a nuvem se desfaz e passa, aquele que desce à sepultura nunca tornará a subir."
+  },
+  {
+    "i": 13018,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 10,
+    "t": "Nunca mais tornará à sua casa, nem o seu lugar o conhecerá mais."
+  },
+  {
+    "i": 13019,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 11,
+    "t": "Por isso eu não reprimirei a minha boca; falarei na angústia do meu espírito, queixar-me-ei na amargura da minha alma."
+  },
+  {
+    "i": 13020,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 12,
+    "t": "Sou eu porventura o mar, ou a baleia, para que ponhas sobre mim uma guarda?"
+  },
+  {
+    "i": 13021,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 13,
+    "t": "Quando digo: O meu leito me consolará, a minha cama atenuará a minha queixa,"
+  },
+  {
+    "i": 13022,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 14,
+    "t": "então me espantas com sonhos, e me aterrorizas com visões."
+  },
+  {
+    "i": 13023,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 15,
+    "t": "Assim a minha alma escolheria antes a estrangulação, e a morte antes do que estes meus ossos."
+  },
+  {
+    "i": 13024,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 16,
+    "t": "Já estou enfraquecido; não viverei para sempre; retira-te de mim, porque vãos são os meus dias."
+  },
+  {
+    "i": 13025,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 17,
+    "t": "Que é o homem, para que tanto o estimes, e para que ponhas sobre ele o teu cuidado,"
+  },
+  {
+    "i": 13026,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 18,
+    "t": "e cada manhã o visites, e cada momento o proves?"
+  },
+  {
+    "i": 13027,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 19,
+    "t": "Até quando não apartarás de mim a tua face, nem me largarás até que engula a minha saliva?"
+  },
+  {
+    "i": 13028,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 20,
+    "t": "Se pequei, que te farei, ó guardador dos homens? Por que me puseste por alvo, de modo que sou um peso para mim mesmo?"
+  },
+  {
+    "i": 13029,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 21,
+    "t": "E por que não perdoas a minha transgressão, e não removes a minha iniqüidade? Pois agora me deitarei no pó, e de manhã me buscarás, e eu não existirei mais."
+  },
+  {
+    "i": 13030,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 1,
+    "t": "Então respondeu Bildade, o suíta, e disse:"
+  },
+  {
+    "i": 13031,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 2,
+    "t": "Até quando falarás tais coisas, e as palavras da tua boca serão como um vento impetuoso?"
+  },
+  {
+    "i": 13032,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 3,
+    "t": "Porventura Deus perverterá o direito? Ou o Todo-Poderoso perverterá a justiça?"
+  },
+  {
+    "i": 13033,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 4,
+    "t": "Se teus filhos pecaram contra ele, ele os lançou na transgressão deles."
+  },
+  {
+    "i": 13034,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 5,
+    "t": "Mas, se tu buscares a Deus, e ao Todo-Poderoso fizeres a tua súplica,"
+  },
+  {
+    "i": 13035,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 6,
+    "t": "se fores puro e reto, certamente logo despertará por ti, e restaurará a habitação da tua justiça."
+  },
+  {
+    "i": 13036,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 7,
+    "t": "Embora tenha sido pequeno o teu princípio, contudo o teu último estado aumentará grandemente."
+  },
+  {
+    "i": 13037,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 8,
+    "t": "Porque, peço-te, pergunta à geração anterior, e considera o que seus pais descobriram."
+  },
+  {
+    "i": 13038,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 9,
+    "t": "(Pois nós somos de ontem, e nada sabemos, porquanto nossos dias sobre a terra são como a sombra.)"
+  },
+  {
+    "i": 13039,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 10,
+    "t": "Porventura não te ensinarão eles, e não te falarão, e não proferirão palavras do seu entendimento?"
+  },
+  {
+    "i": 13040,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 11,
+    "t": "Pode o papiro crescer sem lodo? Pode o junco medrar sem água?"
+  },
+  {
+    "i": 13041,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 12,
+    "t": "Estando ainda em verdor, e ainda não cortado, seca antes de toda a erva."
+  },
+  {
+    "i": 13042,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 13,
+    "t": "Assim são as veredas de todos quantos se esquecem de Deus; e a esperança do ímpio perecerá."
+  },
+  {
+    "i": 13043,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 14,
+    "t": "A sua confiança será frustrada, e a sua esperança teia de aranha."
+  },
+  {
+    "i": 13044,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 15,
+    "t": "Encostar-se-á à sua casa, mas ela não ficará firme; firmar-se-á nela, mas não resistirá."
+  },
+  {
+    "i": 13045,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 16,
+    "t": "Está cheio de seiva perante o sol, e os seus renovos saem sobre o seu jardim."
+  },
+  {
+    "i": 13046,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 17,
+    "t": "As suas raízes se entrelaçam junto ao montão de pedras, e entre as pedras atentamente procura o seu lugar."
+  },
+  {
+    "i": 13047,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 18,
+    "t": "Se ele o desarraigar do seu lugar, então este o negará, dizendo: Nunca te vi."
+  },
+  {
+    "i": 13048,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 19,
+    "t": "Eis que este será o gozo do seu caminho, e da terra outros brotarão."
+  },
+  {
+    "i": 13049,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 20,
+    "t": "Eis que Deus não rejeitará ao íntegro, nem tomará pela mão os malfeitores."
+  },
+  {
+    "i": 13050,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 21,
+    "t": "Ele ainda encherá a tua boca de riso, e os teus lábios de louvor."
+  },
+  {
+    "i": 13051,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 22,
+    "t": "Os que te odeiam se vestirão de vergonha, e a tenda dos ímpios não subsistirá."
+  },
+  {
+    "i": 13052,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 1,
+    "t": "Então respondeu Jó, e disse:"
+  },
+  {
+    "i": 13053,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 2,
+    "t": "Bem sei que assim é; pois como se justificaria o homem para com Deus?"
+  },
+  {
+    "i": 13054,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 3,
+    "t": "Se quisesse contender com ele, não lhe poderia responder uma coisa em mil."
+  },
+  {
+    "i": 13055,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 4,
+    "t": "Ele é sábio de coração, e poderoso em força; quem se endureceu contra ele, e teve paz?"
+  },
+  {
+    "i": 13056,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 5,
+    "t": "Ele remove os montes, sem que o saibam, e os transtorna no seu furor."
+  },
+  {
+    "i": 13057,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 6,
+    "t": "Ele abala a terra desde o seu lugar, de modo que as suas colunas tremem."
+  },
+  {
+    "i": 13058,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 7,
+    "t": "Ele dá ordens ao sol, e ele não nasce; e sela as estrelas."
+  },
+  {
+    "i": 13059,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 8,
+    "t": "Ele sozinho estende os céus, e anda sobre as ondas do mar."
+  },
+  {
+    "i": 13060,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 9,
+    "t": "Ele fez a Ursa, o Órion, e as Plêiades, e as câmaras do sul."
+  },
+  {
+    "i": 13061,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 10,
+    "t": "Ele faz coisas grandes e inescrutáveis, e maravilhas sem número."
+  },
+  {
+    "i": 13062,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 11,
+    "t": "Eis que passa por mim, e não o vejo; vai passando, e não o percebo."
+  },
+  {
+    "i": 13063,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 12,
+    "t": "Eis que arrebata; quem o poderá impedir? Quem lhe dirá: Que fazes?"
+  },
+  {
+    "i": 13064,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 13,
+    "t": "Deus não retira a sua ira; debaixo dele se abatem os auxiliadores de Raabe."
+  },
+  {
+    "i": 13065,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 14,
+    "t": "Quanto mais eu, que lhe responderei, e que palavras escolherei para argumentar com ele?"
+  },
+  {
+    "i": 13066,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 15,
+    "t": "Ainda que eu fosse justo, não lhe responderia; antes rogaria com instância ao meu juiz."
+  },
+  {
+    "i": 13067,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 16,
+    "t": "Se eu clamasse, e ele me respondesse, não creria que desse ouvidos à minha voz."
+  },
+  {
+    "i": 13068,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 17,
+    "t": "Pois me quebranta com tempestade, e multiplica as minhas chagas sem causa."
+  },
+  {
+    "i": 13069,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 18,
+    "t": "Não me permite respirar, antes me farta de amargura."
+  },
+  {
+    "i": 13070,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 19,
+    "t": "Se se tratar da força, ei-lo poderoso! Se de juízo, quem me citará com ele?"
+  },
+  {
+    "i": 13071,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 20,
+    "t": "Se eu me justificar, a minha boca me condenará; se eu disser que sou perfeito, então ele me mostrará perverso."
+  },
+  {
+    "i": 13072,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 21,
+    "t": "Embora eu seja íntegro, não estimo a minha alma; desprezo a minha vida."
+  },
+  {
+    "i": 13073,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 22,
+    "t": "É tudo a mesma coisa; por isso digo que ele destrói tanto ao perfeito como ao ímpio."
+  },
+  {
+    "i": 13074,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 23,
+    "t": "Se o flagelo matar de repente, ele se rirá da provação dos inocentes."
+  },
+  {
+    "i": 13075,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 24,
+    "t": "A terra é entregue na mão dos ímpios; ele cobre o rosto dos seus juízes; se não é ele, quem é então?"
+  },
+  {
+    "i": 13076,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 25,
+    "t": "Os meus dias são mais ligeiros do que um correio; fogem, não vêem o bem."
+  },
+  {
+    "i": 13077,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 26,
+    "t": "Passam como os navios velozes, como a águia que se apressa a comer."
+  },
+  {
+    "i": 13078,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 27,
+    "t": "Se eu disser: Esquecerei a minha queixa, mudarei o meu semblante, e tomarei alento,"
+  },
+  {
+    "i": 13079,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 28,
+    "t": "receio todas as minhas dores; bem sei que não me terás por inocente."
+  },
+  {
+    "i": 13080,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 29,
+    "t": "Se eu pequei, que bem me advém de tanto labutar em vão?"
+  },
+  {
+    "i": 13081,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 30,
+    "t": "Ainda que me lave com água de neve, e purifique as minhas mãos com potassa,"
+  },
+  {
+    "i": 13082,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 31,
+    "t": "mesmo assim me submergirás no monturo, e as minhas próprias vestes me abominarão!"
+  },
+  {
+    "i": 13083,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 32,
+    "t": "Pois Ele não é homem, como eu, para que eu Lhe responda, para que juntos venhamos a juízo."
+  },
+  {
+    "i": 13084,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 33,
+    "t": "Não há entre nós árbitro que ponha a mão sobre nós ambos,"
+  },
+  {
+    "i": 13085,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 34,
+    "t": "que afaste de mim a vara de Deus, e não me amedronte o Seu terror."
+  },
+  {
+    "i": 13086,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 35,
+    "t": "Então falarei, e não O temerei, porque não sou assim em mim mesmo!"
+  },
+  {
+    "i": 13087,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 1,
+    "t": "A minha alma tem tédio da minha vida; darei livre curso à minha queixa, falarei na amargura da minha alma."
+  },
+  {
+    "i": 13088,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 2,
+    "t": "Direi a Deus: Não me condenes; faze-me saber por que contendes comigo."
+  },
+  {
+    "i": 13089,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 3,
+    "t": "Parece-te bem que me oprimas, que rejeites a obra das Tuas mãos e favoreças o desígnio dos ímpios?"
+  },
+  {
+    "i": 13090,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 4,
+    "t": "Tens Tu olhos de carne? Vês Tu como vê o homem?"
+  },
+  {
+    "i": 13091,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 5,
+    "t": "São os Teus dias como os dias do homem, ou os Teus anos como os anos dos mortais?"
+  },
+  {
+    "i": 13092,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 6,
+    "t": "Para que inquiras a minha iniquidade e investigues o meu pecado,"
+  },
+  {
+    "i": 13093,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 7,
+    "t": "sabendo Tu que eu não sou culpado, e que ninguém pode livrar-me da Tua mão?"
+  },
+  {
+    "i": 13094,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 8,
+    "t": "As Tuas mãos me plasmaram e me aperfeiçoaram; e agora Te voltas para me destruir!"
+  },
+  {
+    "i": 13095,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 9,
+    "t": "Lembra-Te, peço-Te, de que como barro me formaste; e ao pó me farás tornar."
+  },
+  {
+    "i": 13096,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 10,
+    "t": "Não me derramaste como leite, e não me coalhaste como queijo?"
+  },
+  {
+    "i": 13097,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 11,
+    "t": "De pele e carne me vestiste, e com ossos e nervos me entreteceste."
+  },
+  {
+    "i": 13098,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 12,
+    "t": "Vida e benevolência me concedeste, e o Teu cuidado guardou o meu espírito."
+  },
+  {
+    "i": 13099,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 13,
+    "t": "Porém estas coisas ocultaste no Teu coração; bem sei que isto esteve em Ti."
+  }
+]

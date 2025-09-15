@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13500,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 18,
+    "t": "Ha edificado su casa como una telaraña, y como choza ha construido un cobertizo:"
+  },
+  {
+    "i": 13501,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 19,
+    "t": "Rico se acuesta, pero es la última vez; al abrir sus ojos, nada queda."
+  },
+  {
+    "i": 13502,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 20,
+    "t": "Los terrores lo asaltan a pleno día, y por la noche un torbellino lo arrebata."
+  },
+  {
+    "i": 13503,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 21,
+    "t": "Un viento del este lo levanta y lo arrastra, y lo arranca de su lugar de morada."
+  },
+  {
+    "i": 13504,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 22,
+    "t": "Sin piedad alguna lo toman por blanco, y debe huir de manos amenazantes."
+  },
+  {
+    "i": 13505,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 23,
+    "t": "Se aplaude su ruina, y lo silban por doquier que va."
+  },
+  {
+    "i": 13506,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 1,
+    "t": "Ciertamente hay veneros para la plata, y lugar donde se refina el oro."
+  },
+  {
+    "i": 13507,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 2,
+    "t": "El hierro se saca de la tierra, y de la piedra fundida se obtiene cobre."
+  },
+  {
+    "i": 13508,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 3,
+    "t": "Se pone fin a las tinieblas, y se exploran hasta el último confín las piedras oscuras y sombrías."
+  },
+  {
+    "i": 13509,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 4,
+    "t": "Extranjeros horadan barrancos en lugares no frecuentados, y oscilan suspendidos, lejos de los humanos."
+  },
+  {
+    "i": 13510,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 5,
+    "t": "La tierra, de donde sale el pan, es asolada por el fuego en sus profundidades."
+  },
+  {
+    "i": 13511,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 6,
+    "t": "Allí las piedras son el yacimiento del zafiro, y también hay motas de oro."
+  },
+  {
+    "i": 13512,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 7,
+    "t": "El ave de rapiña ignora su sendero, ni el ojo del buitre lo divisa."
+  },
+  {
+    "i": 13513,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 8,
+    "t": "No es hollado por las fieras altivas, ni el león jamás lo ha pisado."
+  },
+  {
+    "i": 13514,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 9,
+    "t": "El hombre ataca al pedernal, y trastorna las montañas hasta sus raíces."
+  },
+  {
+    "i": 13515,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 10,
+    "t": "En las rocas abre canales, y su ojo contempla todo objeto precioso."
+  },
+  {
+    "i": 13516,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 11,
+    "t": "Explora las fuentes de los ríos, y saca a la luz lo que estaba oculto."
+  },
+  {
+    "i": 13517,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 12,
+    "t": "Pero la Sabiduría, ¿de dónde proviene? ¿Dónde se halla, la Inteligencia?"
+  },
+  {
+    "i": 13518,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 13,
+    "t": "El hombre ignora su camino, y no se la descubre en la tierra de los vivientes."
+  },
+  {
+    "i": 13519,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 14,
+    "t": "El Abismo declara: \"¡No la contengo!\" y el Mar: \"¡No está en mí!"
+  },
+  {
+    "i": 13520,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 15,
+    "t": "No se puede adquirir con oro macizo, ni pagar con el peso de la plata,"
+  },
+  {
+    "i": 13521,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 16,
+    "t": "ni evaluarla con el oro de Ofir, la ágata preciosa o el zafiro."
+  },
+  {
+    "i": 13522,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 17,
+    "t": "No se le compara el oro ni el vidrio, ni se cambia por un vaso de oro fino."
+  },
+  {
+    "i": 13523,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 18,
+    "t": "Coral y cristal no merecen mención, más valdría pescar la Sabiduría que las perlas."
+  },
+  {
+    "i": 13524,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 19,
+    "t": "Ante ella, el topacio de Cus es sin valor, y el oro puro pierde su peso de cambio."
+  },
+  {
+    "i": 13525,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 20,
+    "t": "Pero la Sabiduría, ¿de dónde proviene? ¿Dónde se halla, la Inteligencia?"
+  },
+  {
+    "i": 13526,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 21,
+    "t": "Se sustrae a los ojos de todo viviente, y se esconde a las aves del cielo."
+  },
+  {
+    "i": 13527,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 22,
+    "t": "La Perdición y la Muerte declaran: \"El rumor de su renombre ha llegado a nuestros oídos."
+  },
+  {
+    "i": 13528,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 23,
+    "t": "Sólo Dios ha discernido su camino, y él conoce dónde se encuentra."
+  },
+  {
+    "i": 13529,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 24,
+    "t": "(Porque él ve hasta los confines de la tierra, y contempla todo lo que hay bajo los cielos.)"
+  },
+  {
+    "i": 13530,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 25,
+    "t": "Cuando quiso dar peso al viento, y medir las aguas con una medida;"
+  },
+  {
+    "i": 13531,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 26,
+    "t": "cuando impuso una ley a la lluvia, y una ruta a los retumbos del trueno,"
+  },
+  {
+    "i": 13532,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 27,
+    "t": "entonces la vio y la evaluó, la penetró e incluso la escudriñó."
+  },
+  {
+    "i": 13533,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 28,
+    "t": "Luego dijo al hombre: \"El temor del Señor, he ahí la sabiduría; huir del mal, he ahí la inteligencia."
+  },
+  {
+    "i": 13534,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 1,
+    "t": "Job continuó expresándose en sentencias, y dijo:"
+  },
+  {
+    "i": 13535,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 2,
+    "t": "¡Quién me hiciera revivir los meses de antaño, aquellos días en que Dios velaba sobre mí,"
+  },
+  {
+    "i": 13536,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 3,
+    "t": "cuando su lámpara brillaba sobre mi cabeza, y su luz me guiaba en las tinieblas!"
+  },
+  {
+    "i": 13537,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 4,
+    "t": "¡Pudiera yo rever los días de mi otoño, cuando Dios protegía mi tienda,"
+  },
+  {
+    "i": 13538,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 5,
+    "t": "cuando Shaddai permanecía conmigo, y mis muchachos me rodeaban;"
+  },
+  {
+    "i": 13539,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 6,
+    "t": "cuando mis pies se bañaban en la leche, y del roquedal manaban arroyos de aceite!"
+  },
+  {
+    "i": 13540,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 7,
+    "t": "Si yo salía hacia la puerta de la ciudad, si instalaba mi asiento en la plaza,"
+  },
+  {
+    "i": 13541,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 8,
+    "t": "a mi vista, los jóvenes se retiraban, y los ancianos se ponían de pie."
+  },
+  {
+    "i": 13542,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 9,
+    "t": "Los notables interrumpían sus discursos, y ponían la mano sobre su boca."
+  },
+  {
+    "i": 13543,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 10,
+    "t": "La voz de los jefes se ahogaba, y su lengua se pegaba al paladar."
+  },
+  {
+    "i": 13544,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 11,
+    "t": "Al escucharme, me felicitaban, y al verme, daban testimonio de mí."
+  },
+  {
+    "i": 13545,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 12,
+    "t": "Porque yo libraba al pobre que clamaba, y al huérfano desprovisto de apoyo."
+  },
+  {
+    "i": 13546,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 13,
+    "t": "La bendición del moribundo se posaba sobre mí, y yo devolvía la alegría al corazón de la viuda."
+  },
+  {
+    "i": 13547,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 14,
+    "t": "Me había revestido de la justicia como un vestido, tenía el derecho por manto y turbante."
+  },
+  {
+    "i": 13548,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 15,
+    "t": "Yo era los ojos del ciego, los pies del cojo."
+  },
+  {
+    "i": 13549,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 16,
+    "t": "Yo era el padre de los pobres; la causa de un desconocido, yo la examinaba."
+  },
+  {
+    "i": 13550,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 17,
+    "t": "Quebrantaba los colmillos del hombre inicuo, y de entre sus dientes arrancaba su presa."
+  },
+  {
+    "i": 13551,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 18,
+    "t": "Y yo decía: \"Moriré en mi grandeza, después de días numerosos como la arena."
+  },
+  {
+    "i": 13552,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 19,
+    "t": "Mis raíces tienen acceso al agua, y el rocío se deposita por la noche sobre mi follaje."
+  },
+  {
+    "i": 13553,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 20,
+    "t": "Mi gloria siempre será nueva, y en mi mano mi arco recobrará fuerzas."
+  },
+  {
+    "i": 13554,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 21,
+    "t": "Me escuchaban, en la espera, y guardaban silencio para oír mi consejo."
+  },
+  {
+    "i": 13555,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 22,
+    "t": "Cuando yo había hablado, nadie replicaba, y sobre ellos, gota a gota, caían mis palabras."
+  },
+  {
+    "i": 13556,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 23,
+    "t": "Me esperaban como la lluvia, y abrían su boca como para la lluvia tardía."
+  },
+  {
+    "i": 13557,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 24,
+    "t": "Si yo les sonreía, no osaban creerlo, y recogían de mi rostro toda señal de favor."
+  },
+  {
+    "i": 13558,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 25,
+    "t": "Yo les indicaba la ruta, sentándome a su cabeza, como un rey instalado entre sus tropas, y los conducía por doquier a mi antojo."
+  },
+  {
+    "i": 13559,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 1,
+    "t": "Y ahora soy la burla de gente más joven que yo, cuyos padres eran demasiado viles a mis ojos para mezclarlos con los perros de mi rebaño."
+  },
+  {
+    "i": 13560,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 2,
+    "t": "En verdad, la fuerza de sus manos me habría sido inútil: habían perdido todo vigor,"
+  },
+  {
+    "i": 13561,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 3,
+    "t": "agotada por la carestía y el hambre, pues roían las raíces de la estepa, aquel sombrío lugar de ruina y desolación;"
+  },
+  {
+    "i": 13562,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 4,
+    "t": "recogían la orzaga sobre el arbusto, y hacían su pan de las raíces de retama."
+  },
+  {
+    "i": 13563,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 5,
+    "t": "Desterrados de la sociedad de los hombres, que los abuchea como a ladrones,"
+  },
+  {
+    "i": 13564,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 6,
+    "t": "habitan al flanco de los barrancos, en las grutas o las grietas de la roca."
+  },
+  {
+    "i": 13565,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 7,
+    "t": "De los arbustos se les oye bramar, y se amontonan bajo los cardos."
+  },
+  {
+    "i": 13566,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 8,
+    "t": "Hijos de viles, y aún más, de hombres sin nombre, son rechazados por el país."
+  },
+  {
+    "i": 13567,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 9,
+    "t": "Y ahora, he aquí que me canturrean. ¡Que hacen de mí su fábula!"
+  },
+  {
+    "i": 13568,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 10,
+    "t": "Presas del horror, se mantienen a distancia, y delante de mí escupen sin recato."
+  },
+  {
+    "i": 13569,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 11,
+    "t": "Y porque él ha destensado mi arco y me ha derribado, sueltan las riendas en mi presencia."
+  },
+  {
+    "i": 13570,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 12,
+    "t": "Su estirpe surge a mi derecha, espía si estoy tranquilo y traza hacia mí sus caminos siniestros."
+  },
+  {
+    "i": 13571,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 13,
+    "t": "Me cierran toda salida, se aprovechan para perderme, y nadie los detiene,"
+  },
+  {
+    "i": 13572,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 14,
+    "t": "penetran como por una ancha brecha, y soy arrollado bajo los escombros."
+  },
+  {
+    "i": 13573,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 15,
+    "t": "Los terrores se vuelven contra mí, mi seguridad es ahuyentada como por el viento, y mi esperanza de salvación desaparece como una nube."
+  },
+  {
+    "i": 13574,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 16,
+    "t": "Y ahora, la vida se me escapa, y los días de pena me han asido."
+  },
+  {
+    "i": 13575,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 17,
+    "t": "Por la noche, el mal perfora mis huesos, y mis roedores no duermen."
+  },
+  {
+    "i": 13576,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 18,
+    "t": "Con violencia me ha asido por el vestido, y apretado al cuello de mi túnica."
+  },
+  {
+    "i": 13577,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 19,
+    "t": "Me ha arrojado al barro, y soy como polvo y ceniza."
+  },
+  {
+    "i": 13578,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 20,
+    "t": "Clamo a Ti, y no respondes; me presento sin que me notes."
+  },
+  {
+    "i": 13579,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 21,
+    "t": "Te has vuelto cruel conmigo, y tu mano vigorosa se ensaña sobre mí."
+  },
+  {
+    "i": 13580,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 22,
+    "t": "Me levantas sobre el viento, y me disuelves en la tempestad."
+  },
+  {
+    "i": 13581,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 23,
+    "t": "Porque yo sé que me conduces a la muerte, y a la casa señalada para todos los vivientes."
+  },
+  {
+    "i": 13582,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 24,
+    "t": "¿Acaso no clamé yo por el pobre, cuando en su aflicción pedía justicia?"
+  },
+  {
+    "i": 13583,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 25,
+    "t": "¿No lloré yo por el que estaba en duros trabajos, y mi alma se afligió por el menesteroso?"
+  },
+  {
+    "i": 13584,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 26,
+    "t": "Cuando esperaba yo el bien, entonces vino el mal; y cuando esperaba la luz, vino la oscuridad."
+  },
+  {
+    "i": 13585,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 27,
+    "t": "Mis entrañas se agitan sin cesar, días de aflicción me han sobrecogido."
+  },
+  {
+    "i": 13586,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 28,
+    "t": "Ando enlutado, y no hay quien me consuele; me levanto en la congregación, y clamo."
+  },
+  {
+    "i": 13587,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 29,
+    "t": "He venido a ser hermano de chacales, y compañero de avestruces."
+  },
+  {
+    "i": 13588,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 30,
+    "t": "Mi piel se ha ennegrecido sobre mí, y mis huesos se han quemado por la fiebre."
+  },
+  {
+    "i": 13589,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 31,
+    "t": "Mi arpa se ha convertido en endecha, y mi flauta en voz de los que lloran."
+  },
+  {
+    "i": 13590,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 1,
+    "t": "Hice pacto con mis ojos; ¿cómo, pues, había yo de mirar a una virgen?"
+  },
+  {
+    "i": 13591,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 2,
+    "t": "Porque ¿cuál es la porción de Dios desde arriba, y cuál la heredad de Shaddai desde las alturas?"
+  },
+  {
+    "i": 13592,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 3,
+    "t": "¿No es la destrucción para el impío, y el desastre para los que hacen iniquidad?"
+  },
+  {
+    "i": 13593,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 4,
+    "t": "¿Acaso no ve él mis caminos, y cuenta todos mis pasos?"
+  },
+  {
+    "i": 13594,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 5,
+    "t": "Si he andado con mentira, y si mi pie se apresuró al engaño,"
+  },
+  {
+    "i": 13595,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 6,
+    "t": "Péseme él en balanzas de justicia, y conozca Dios mi integridad."
+  },
+  {
+    "i": 13596,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 7,
+    "t": "Si mis pasos se apartaron del camino, si mi corazón se fue tras mis ojos, y si se pegó alguna mancha a mis manos,"
+  },
+  {
+    "i": 13597,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 8,
+    "t": "Siembre yo, y otro coma, y sean arrancados mis renuevos."
+  },
+  {
+    "i": 13598,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 9,
+    "t": "Si mi corazón fue seducido por mujer, y si estuve acechando a la puerta de mi prójimo,"
+  },
+  {
+    "i": 13599,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 10,
+    "t": "Muela para otro mi mujer, y otros se encorven sobre ella."
+  }
+]

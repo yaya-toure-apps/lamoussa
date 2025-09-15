@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13000,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 22,
+    "t": "Sinabi ko baga: Bigyan mo ako? O, Maghandog ka ng isang kaloob sa akin ng iyong pag-aari?"
+  },
+  {
+    "i": 13001,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 23,
+    "t": "O, Iligtas mo ako sa kamay ng kaaway? O, tubusin mo ako sa kamay ng mga namimighati?"
+  },
+  {
+    "i": 13002,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 24,
+    "t": "Turuan mo ako, at ako'y mamamayapa; at ipaunawa mo sa akin kung ano ang aking pinagkasalahan."
+  },
+  {
+    "i": 13003,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 25,
+    "t": "Pagkatindi nga ng mga salita ng katuwiran! Nguni't anong sinasaway ng iyong pakikipagtalo?"
+  },
+  {
+    "i": 13004,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 26,
+    "t": "Iniisip ba ninyong sumaway ng mga salita? Dangang ang mga salita ng walang inaasahan ay parang hangin."
+  },
+  {
+    "i": 13005,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 27,
+    "t": "Oo, kayo'y magsasapalaran sa ulila, at ginawa ninyong kalakal ang inyong kaibigan."
+  },
+  {
+    "i": 13006,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 28,
+    "t": "Ngayon nga'y kalugdan mong lingapin ako; sapagka't tunay na hindi ako magbubulaan sa iyong harap."
+  },
+  {
+    "i": 13007,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 29,
+    "t": "Kayo'y magsibalik isinasamo ko sa inyo, huwag magkaroon ng kalikuan; Oo, kayo'y magsibalik uli, ang aking usap ay matuwid."
+  },
+  {
+    "i": 13008,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 30,
+    "t": "May di ganap ba sa aking dila? Hindi ba makapapansin ang aking pagwawari ng mga suwail na bagay?"
+  },
+  {
+    "i": 13009,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 1,
+    "t": "Wala bang kapanahunan ng kaguluhan ang tao sa ibabaw ng lupa? At hindi ba ang kaniyang mga kaarawan ay gaya ng mga kaarawan ng nagpapaupa?"
+  },
+  {
+    "i": 13010,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 2,
+    "t": "Na gaya ng alipin na ninanasang mainam ang lilim, at gaya ng nagpapaupa na tumitingin sa kaniyang mga kaupahan:"
+  },
+  {
+    "i": 13011,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 3,
+    "t": "Gayon ako pinapagdaan ng mga buwan na walang kabuluhan at mga gabing nakaiinip ang itinakda sa akin."
+  },
+  {
+    "i": 13012,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 4,
+    "t": "Pag ako'y nahihiga, aking sinasabi, kailan ako babangon at nakadaan na ang gabi? At ako'y puspos ng pagkabalisa hanggang sa pagbubukang liwayway ng araw."
+  },
+  {
+    "i": 13013,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 5,
+    "t": "Ang aking laman ay nabibihisan ng mga uod at ng libag na alabok; ang aking balat ay namamaga at putok putok."
+  },
+  {
+    "i": 13014,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 6,
+    "t": "Ang aking mga kaarawan ay matulin kay sa panghabi ng manghahabi, at nagugugol na walang pagasa."
+  },
+  {
+    "i": 13015,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 7,
+    "t": "Oh alalahanin mo na ang aking buhay ay hinga: Ang aking mata ay hindi na makakakita pa ng mabuti."
+  },
+  {
+    "i": 13016,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 8,
+    "t": "Ang matang tumingin sa akin ay hindi na ako mamamasdan: ang iyong mga mata ay sasa akin, nguni't wala na ako."
+  },
+  {
+    "i": 13017,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 9,
+    "t": "Kung paanong ang ulap ay napapawi at nawawala, gayon siyang bumababa sa Sheol ay hindi na aahon pa."
+  },
+  {
+    "i": 13018,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 10,
+    "t": "Siya'y hindi na babalik pa sa kaniyang bahay, ni malalaman pa man niya ang kaniyang dako."
+  },
+  {
+    "i": 13019,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 11,
+    "t": "Kaya't hindi ko pipigilin ang aking bibig; ako'y magsasalita sa kadalamhatian ng aking diwa; ako'y dadaing sa kahirapan ng aking kaluluwa."
+  },
+  {
+    "i": 13020,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 12,
+    "t": "Ako ba'y isang dagat, o isang malaking hayop dagat, na pinababantayan mo ako sa isang bantay?"
+  },
+  {
+    "i": 13021,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 13,
+    "t": "Pag aking sinasabi, Aaliwin ako ng aking higaan, papayapain ng aking unan ang aking karamdaman;"
+  },
+  {
+    "i": 13022,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 14,
+    "t": "Kung magkagayo'y pinupukaw mo ako ng mga panaginip, at pinangingilabot mo ako sa mga pangitain:"
+  },
+  {
+    "i": 13023,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 15,
+    "t": "Na anopa't pinipili ng aking kaluluwa ang pagkainis, at ang kamatayan kay sa aking mga butong ito."
+  },
+  {
+    "i": 13024,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 16,
+    "t": "Aking kinayayamutan ang aking buhay; di ko na ibig mabuhay magpakailan man: bayaan akong magisa; sapagka't ang aking mga kaarawan ay walang kabuluhan."
+  },
+  {
+    "i": 13025,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 17,
+    "t": "Ano ang tao, na iyong palalakhin siya, at iyong ilalagak ang iyong puso sa kaniya,"
+  },
+  {
+    "i": 13026,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 18,
+    "t": "At iyong dadalawin siya tuwing umaga, at susubukin siya sa tuwi-tuwina?"
+  },
+  {
+    "i": 13027,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 19,
+    "t": "Hanggang kailan di mo ako iiwan, ni babayaan man hanggang sa aking lunukin ang aking laway?"
+  },
+  {
+    "i": 13028,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 20,
+    "t": "Kung ako'y nagkasala, ano ang aking magagawa sa iyo, Oh ikaw na bantay sa mga tao? Bakit mo nga inilalagay akong pinakatanda sa iyo. Na anopa't ako'y isang pasan sa aking sarili?"
+  },
+  {
+    "i": 13029,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 21,
+    "t": "At bakit hindi mo ipinatatawad ang aking pagsalangsang, at inaalis ang aking kasamaan? Sapagka't ngayo'y mahihiga ako sa alabok; at ako'y hahanapin mong mainam, nguni't wala na ako."
+  },
+  {
+    "i": 13030,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 1,
+    "t": "Nang magkagayo'y sumagot si Bildad na Suhita, at nagsabi,"
+  },
+  {
+    "i": 13031,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 2,
+    "t": "Hanggang kailan magsasalita ka ng mga bagay na ito? At hanggang kailan magiging gaya ng makapangyarihang hangin ang mga salita ng iyong bibig?"
+  },
+  {
+    "i": 13032,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 3,
+    "t": "Nagliliko ba ng kahatulan ang Dios? O nagliliko ba ang Makapangyarihan sa lahat ng kaganapan?"
+  },
+  {
+    "i": 13033,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 4,
+    "t": "Kung ang iyong mga anak ay nangagkasala laban sa kaniya, at kaniyang ibinigay sila sa kamay ng kanilang pagkasalangsang:"
+  },
+  {
+    "i": 13034,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 5,
+    "t": "Kung hanapin mong mainam ang Dios, at iyong pamanhikan ang Makapangyarihan sa lahat;"
+  },
+  {
+    "i": 13035,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 6,
+    "t": "Kung ikaw ay malinis at matuwid; walang pagsalang ngayo'y gigising siya dahil sa iyo. At pasasaganain ang tahanan ng iyong katuwiran."
+  },
+  {
+    "i": 13036,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 7,
+    "t": "At bagaman ang iyong pasimula ay maliit, gayon ma'y ang iyong huling wakas ay lalaking mainam."
+  },
+  {
+    "i": 13037,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 8,
+    "t": "Sapagka't ikaw ay magsisiyasat, isinasamo ko sa iyo, sa unang panahon, at pasiyahan mo ang sinaliksik ng kanilang mga magulang:"
+  },
+  {
+    "i": 13038,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 9,
+    "t": "(Sapagka't tayo'y kahapon lamang, at walang nalalaman, sapagka't ang ating mga kaarawan sa lupa ay anino:)"
+  },
+  {
+    "i": 13039,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 10,
+    "t": "Hindi ka ba nila tuturuan, at sasaysayin sa iyo, at mangagsasalita ng mga salita mula sa kanilang puso?"
+  },
+  {
+    "i": 13040,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 11,
+    "t": "Makatataas ba ang yantok ng walang putik? Tutubo ba ang tambo ng walang tubig?"
+  },
+  {
+    "i": 13041,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 12,
+    "t": "Samantalang nasa kasariwaan, at hindi pinuputol, natutuyong una kay sa alin mang damo."
+  },
+  {
+    "i": 13042,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 13,
+    "t": "Gayon ang mga landas ng lahat na nagsisilimot sa Dios; at ang pagasa ng di banal ay mawawala:"
+  },
+  {
+    "i": 13043,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 14,
+    "t": "Na ang kaniyang pagtitiwala ay mapaparam, at ang kaniyang tiwala ay isang bahay gagamba."
+  },
+  {
+    "i": 13044,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 15,
+    "t": "Siya'y sasandal sa kaniyang bahay, nguni't hindi tatayo; siya'y pipigil na mahigpit dito, nguni't hindi makapagmamatigas."
+  },
+  {
+    "i": 13045,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 16,
+    "t": "Siya'y sariwa sa harap ng araw, at ang kaniyang mga suwi ay sumisibol sa kaniyang halamanan."
+  },
+  {
+    "i": 13046,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 17,
+    "t": "Ang kaniyang mga ugat ay nagkakapitan sa palibot ng bunton, kaniyang minamasdan ang dako ng mga bato."
+  },
+  {
+    "i": 13047,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 18,
+    "t": "Kung siya'y magiba sa kaniyang dako, kung magkagayo'y itatakuwil niya siya, na sinasabi: Hindi kita nakita."
+  },
+  {
+    "i": 13048,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 19,
+    "t": "Narito, ito ang kagalakan ng kaniyang lakad, at mula sa lupa ay sisibol ang mga iba."
+  },
+  {
+    "i": 13049,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 20,
+    "t": "Narito, hindi itatakuwil ng Dios ang sakdal na tao, ni aalalayan man niya ang mga manggagawa ng kasamaan."
+  },
+  {
+    "i": 13050,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 21,
+    "t": "Kaniya namang pupunuin ang iyong bibig ng pagtawa, at ang iyong mga labi ng paghiyaw."
+  },
+  {
+    "i": 13051,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 22,
+    "t": "Silang nangapopoot sa iyo ay mabibihisan ng pagkahiya; at ang tolda ng masama ay mawawala."
+  },
+  {
+    "i": 13052,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 1,
+    "t": "Nang magkagayo'y sumagot si Job, at nagsabi,"
+  },
+  {
+    "i": 13053,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 2,
+    "t": "Sa katotohanan ay nalalaman kong ito'y gayon: nguni't paanong makapaggaganap ang tao sa Dios?"
+  },
+  {
+    "i": 13054,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 3,
+    "t": "Kung kalugdan niyang makipagtalo sa kaniya, siya'y hindi makasasagot sa kaniya ng isa sa isang libo."
+  },
+  {
+    "i": 13055,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 4,
+    "t": "Siya ay pantas sa puso, at may kaya sa kalakasan: sinong nagmatigas laban sa kaniya at guminhawa?"
+  },
+  {
+    "i": 13056,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 5,
+    "t": "Na siyang naglilipat ng mga bundok, at hindi nila nalalaman, pagka nililiglig niya sa kaniyang pagkagalit."
+  },
+  {
+    "i": 13057,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 6,
+    "t": "Na siyang umuuga ng lupa sa kaniyang kinaroroonan, at ang mga haligi nito ay nangayayanig."
+  },
+  {
+    "i": 13058,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 7,
+    "t": "Na siyang naguutos sa araw, at hindi sumisikat; at nagtatakda sa mga bituin."
+  },
+  {
+    "i": 13059,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 8,
+    "t": "Na nagiisang inuunat ang langit, at tumutungtong sa mga alon ng dagat."
+  },
+  {
+    "i": 13060,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 9,
+    "t": "Na lumikha sa Oso, sa Orion, at sa mga Pleyade, at sa mga silid ng timugan."
+  },
+  {
+    "i": 13061,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 10,
+    "t": "Na gumagawa ng mga dakilang bagay na di masayod; Oo, mga kamanghamanghang bagay na walang bilang."
+  },
+  {
+    "i": 13062,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 11,
+    "t": "Narito, siya'y dumaraan sa siping ko, at hindi ko siya nakikita: siya'y nagpapatuloy rin naman, nguni't hindi ko siya namamataan."
+  },
+  {
+    "i": 13063,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 12,
+    "t": "Narito, siya'y nangangagaw sinong makasasansala sa kaniya? Sinong magsasabi sa kaniya: Anong ginagawa mo?"
+  },
+  {
+    "i": 13064,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 13,
+    "t": "Hindi iuurong ng Dios ang kaniyang galit; ang mga manunulong sa Rahab ay nagsisiyukod sa ilalim niya."
+  },
+  {
+    "i": 13065,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 14,
+    "t": "Gaano pa nga kaya kaliit ang maisasagot ko sa kaniya, at mapipiling aking mga salita na maimamatuwid ko sa kaniya?"
+  },
+  {
+    "i": 13066,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 15,
+    "t": "Na kahiman ako'y matuwid, gayon may hindi ako sasagot sa kaniya; ako'y mamamanhik sa aking hukom."
+  },
+  {
+    "i": 13067,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 16,
+    "t": "Kung ako'y tumawag, at siya'y sumagot sa akin; gayon ma'y hindi ako maniniwala na kaniyang dininig ang aking tinig."
+  },
+  {
+    "i": 13068,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 17,
+    "t": "Sapagka't ako'y ginigiba niya sa pamamagitan ng isang bagyo, at pinararami ang aking mga sugat ng walang kadahilanan."
+  },
+  {
+    "i": 13069,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 18,
+    "t": "Hindi niya ako tutulutang ako'y huminga, nguni't nililipos niya ako ng hirap."
+  },
+  {
+    "i": 13070,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 19,
+    "t": "Kung kami ay magsalita tungkol sa kalakasan, narito, siya'y may kapangyarihan! At kung sa kahatulan, sino, sinasabi niya ay magtatakda sa akin ng panahon?"
+  },
+  {
+    "i": 13071,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 20,
+    "t": "Kahiman ako'y matuwid, ang aking sariling bibig ay hahatol sa akin: kahiman ako'y sakdal patototohanan niya akong masama."
+  },
+  {
+    "i": 13072,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 21,
+    "t": "Ako'y sakdal; hindi ko talos ang aking sarili; aking niwalang kabuluhan ang aking buhay."
+  },
+  {
+    "i": 13073,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 22,
+    "t": "Lahat ay isa; kaya't aking sinasabi: kaniyang ginigiba ang sakdal at ang masama."
+  },
+  {
+    "i": 13074,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 23,
+    "t": "Kung ang panghampas ay pumapatay na bigla, tatawanan niya ang paglilitis sa mga walang sala."
+  },
+  {
+    "i": 13075,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 24,
+    "t": "Ang lupa ay nabigay sa kamay ng masama: kaniyang tinatakpan ang mga mukha ng mga hukom nito; kung hindi siya, sino nga?"
+  },
+  {
+    "i": 13076,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 25,
+    "t": "Ngayo'y ang mga kaarawan ko ay matulin kay sa isang sugo: dumadaang matulin, walang nakikitang mabuti."
+  },
+  {
+    "i": 13077,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 26,
+    "t": "Sila'y nagsisidaang parang mga matuling sasakyan: parang agila na dumadagit ng huli."
+  },
+  {
+    "i": 13078,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 27,
+    "t": "Kung aking sabihin: Aking kalilimutan ang aking daing, aking papawiin ang aking malungkot na mukha, at magpapakasaya ako:"
+  },
+  {
+    "i": 13079,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 28,
+    "t": "Ako'y natatakot sa lahat kong kapanglawan, talastas ko na hindi mo aariin akong walang sala."
+  },
+  {
+    "i": 13080,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 29,
+    "t": "Ako'y mahahatulan; bakit nga ako gagawa ng walang kabuluhan?"
+  },
+  {
+    "i": 13081,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 30,
+    "t": "Kung ako'y maligo ng nieveng tubig, at gawin ko ang aking mga kamay na napakalinis;"
+  },
+  {
+    "i": 13082,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 31,
+    "t": "Gayon ma'y itutulak mo ako sa hukay, at kayayamutan ako ng aking mga sariling kasuutan."
+  },
+  {
+    "i": 13083,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 32,
+    "t": "Sapagka't siya'y hindi tao, na gaya ko, na sasagot ako sa kaniya, na tayo'y pumasok kapuwa sa kahatulan,"
+  },
+  {
+    "i": 13084,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 33,
+    "t": "Walang hukom sa pagitan natin, na makapaglagay ng kaniyang kamay sa ating dalawa."
+  },
+  {
+    "i": 13085,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 34,
+    "t": "Ihiwalay niya sa akin ang kaniyang tungkod, at huwag akong takutin ng kaniyang pangilabot:"
+  },
+  {
+    "i": 13086,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 35,
+    "t": "Kung magkagayo'y magsasalita ako, at hindi matatakot sa kaniya; sapagka't hindi gayon ako sa aking sarili."
+  },
+  {
+    "i": 13087,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 1,
+    "t": "Ang aking kaluluwa ay nalulunos sa aking buhay; aking palalayain ang aking daing; ako'y magsasalita sa kapaitan ng aking kaluluwa."
+  },
+  {
+    "i": 13088,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 2,
+    "t": "Sasabihin ko sa Dios: Huwag mo akong hatulan; ipakilala mo sa akin kung bakit nakikipagtalo ka sa akin."
+  },
+  {
+    "i": 13089,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 3,
+    "t": "Mabuti ba sa iyo na ikaw ay mamighati, na iyong itakuwil ang gawa ng iyong mga kaaway, at iyong pasilangin ang payo ng masama?"
+  },
+  {
+    "i": 13090,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 4,
+    "t": "Ikaw ba'y may mga matang laman, o nakakakita ka bang gaya ng pagkakita ng tao?"
+  },
+  {
+    "i": 13091,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 5,
+    "t": "Ang iyo bang mga kaarawan ay gaya ng mga kaarawan ng tao, o ang iyong mga taon ay gaya ng mga kaarawan ng tao,"
+  },
+  {
+    "i": 13092,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 6,
+    "t": "Upang ikaw ay magsiyasat ng aking kasamaan, at magusisa ng aking kasalanan,"
+  },
+  {
+    "i": 13093,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 7,
+    "t": "Bagaman iyong nalalaman na ako'y hindi masama; at walang makapagliligtas sa iyong kamay?"
+  },
+  {
+    "i": 13094,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 8,
+    "t": "Ang iyong mga kamay ang siyang lumalang at nagbigay anyo sa akin sa buong palibot; gayon ma'y pinahihirapan mo ako."
+  },
+  {
+    "i": 13095,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 9,
+    "t": "Iyong alalahanin, isinasamo ko sa iyo, na ako'y iyong binigyang anyo na gaya ng putik; at iuuwi mo ba ako uli sa pagkaalabok?"
+  },
+  {
+    "i": 13096,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 10,
+    "t": "Hindi mo ba ako ibinuhos na parang gatas, at binuo mo akong parang keso?"
+  },
+  {
+    "i": 13097,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 11,
+    "t": "Ako'y binihisan mo ng balat at laman, at sinugpong mo ako ng mga buto at mga litid."
+  },
+  {
+    "i": 13098,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 12,
+    "t": "Ako'y pinagkalooban mo ng buhay at kagandahang-loob, at pinamalagi ang aking diwa ng iyong pagdalaw."
+  },
+  {
+    "i": 13099,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 13,
+    "t": "Gayon ma'y ang mga bagay na ito ay iyong ikinubli sa iyong puso; talastas ko na ito'y sa iyo:"
+  }
+]

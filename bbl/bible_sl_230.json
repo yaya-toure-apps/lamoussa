@@ -1,0 +1,802 @@
+[
+  {
+    "i": 23000,
+    "b": 36,
+    "c": 3801,
+    "r": 3801,
+    "o": 7,
+    "t": "Tako pravi Gospod nad vojskami: Premislite v srcu svojem o potih svojih!"
+  },
+  {
+    "i": 23001,
+    "b": 36,
+    "c": 3801,
+    "r": 3801,
+    "o": 8,
+    "t": "Pojdite gor v gore in prinesite lesa ter sezidajte hišo; v njej bom našel veselje in se proslavil, govori Gospod."
+  },
+  {
+    "i": 23002,
+    "b": 36,
+    "c": 3801,
+    "r": 3801,
+    "o": 9,
+    "t": "Pričakujete veliko, a glejte, malo pride; in kar ste spravili v hišo, to sem razpihal. Zakaj tako? govori Gospod nad vojskami. Zaradi moje hiše, ki je pusta, medtem ko vsak od vas hiti za svojo hišo."
+  },
+  {
+    "i": 23003,
+    "b": 36,
+    "c": 3801,
+    "r": 3801,
+    "o": 10,
+    "t": "Zato so nebesa zadrževala roso in zemlja svoj pridelek."
+  },
+  {
+    "i": 23004,
+    "b": 36,
+    "c": 3801,
+    "r": 3801,
+    "o": 11,
+    "t": "In priklical sem sušo nad deželo, nad gore, nad žito, nad vino, nad olje in nad vse, kar rodi zemlja, nad ljudi in živino in nad vse delo rok vaših."
+  },
+  {
+    "i": 23005,
+    "b": 36,
+    "c": 3801,
+    "r": 3801,
+    "o": 12,
+    "t": "Tedaj sta Zorobabel, sin Salatielov, in Jozue, sin Jozadakov, veliki duhovnik, in ves ostanek ljudstva poslušali glas Gospoda, Boga svojega, in besede preroka Hagaja, kakor ga je poslal Gospod, Bog njihov; in ljudstvo se je začelo bati pred Gospodom."
+  },
+  {
+    "i": 23006,
+    "b": 36,
+    "c": 3801,
+    "r": 3801,
+    "o": 13,
+    "t": "In Hagaj, poslanec Gospodov, je govoril ljudstvu po poslanstvu Gospodovem: Jaz sem z vami, govori Gospod."
+  },
+  {
+    "i": 23007,
+    "b": 36,
+    "c": 3801,
+    "r": 3801,
+    "o": 14,
+    "t": "In Gospod je zbudil duha Zorobabelovega, sina Salatielovega, kneza Judovega, in duha Jozuejevega, sina Jozadakovega, velikega duhovnika, in duha vsega ostanka ljudstva; in prišli so in začeli delati v hiši Gospoda nad vojskami, Boga svojega."
+  },
+  {
+    "i": 23008,
+    "b": 36,
+    "c": 3801,
+    "r": 3801,
+    "o": 15,
+    "t": "Štiriindvajsetega dne šestega meseca, drugega leta kralja Darija."
+  },
+  {
+    "i": 23009,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 1,
+    "t": "V sedmem mesecu, enaindvajsetega dne meseca, je prišla beseda Gospodova po preroku Hagaju, rekoč:"
+  },
+  {
+    "i": 23010,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 2,
+    "t": "Govori Zorobabelu, sinu Salatielovemu, knezu Judovemu, in Jozueju, sinu Jozadakovemu, velikemu duhovniku, in ostanku ljudstva, rekoč:"
+  },
+  {
+    "i": 23011,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 3,
+    "t": "Kdo je med vami še živ, ki je videl to hišo v njeni prejšnji slavi? In kako jo vidite zdaj? Ali ni videti pred vašimi očmi kakor nič?"
+  },
+  {
+    "i": 23012,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 4,
+    "t": "Zdaj pa bodi močan, Zorobabel, govori Gospod, in bodi močan, Jozue, sin Jozadakov, veliki duhovnik, in bodite močni, vse ljudstvo v deželi, govori Gospod; in delajte, kajti jaz sem z vami, govori Gospod nad vojskami –"
+  },
+  {
+    "i": 23013,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 5,
+    "t": "po besedi, s katero sem se zavezal z vami, ko ste šli iz Egipta; in moj Duh prebiva med vami; ne bojte se!"
+  },
+  {
+    "i": 23014,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 6,
+    "t": "Kajti tako govori Gospod nad vojskami: Še malo, in potresel bom nebesa in zemljo in morje in suho."
+  },
+  {
+    "i": 23015,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 7,
+    "t": "In potresel bom vse narode; in prišli bodo dragocenosti vseh narodov in napolnil bom to hišo s slavo, govori Gospod nad vojskami."
+  },
+  {
+    "i": 23016,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 8,
+    "t": "Moje je srebro in moje je zlato, govori Gospod nad vojskami."
+  },
+  {
+    "i": 23017,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 9,
+    "t": "Slava te zadnje hiše bo večja kakor prejšnje, govori Gospod nad vojskami, in na tem mestu bom dal mir, govori Gospod nad vojskami."
+  },
+  {
+    "i": 23018,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 10,
+    "t": "Štiriindvajsetega dne devetega meseca, drugega leta Darija, je prišla beseda Gospodova k preroku Hagaju, rekoč:"
+  },
+  {
+    "i": 23019,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 11,
+    "t": "Tako govori Gospod nad vojskami: Vprašaj duhovnike o postavi, rekoč:"
+  },
+  {
+    "i": 23020,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 12,
+    "t": "Če kdo nosi sveto meso v robu svoje obleke in se s svojim robom dotakne kruha ali jedi ali vina ali olja ali kakršnekoli hrane, ali se bo to posvetilo? In duhovniki so odgovorili in rekli: Ne."
+  },
+  {
+    "i": 23021,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 13,
+    "t": "Tedaj je Hagaj rekel: Če se kdo, ki je nečist od trupla, dotakne vsega tega, ali bo to postalo nečisto? In duhovniki so odgovorili in rekli: Postalo bo nečisto."
+  },
+  {
+    "i": 23022,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 14,
+    "t": "Tedaj je Hagaj odgovoril in rekel: Takšno je to ljudstvo in takšen je ta narod pred mojim obličjem, govori Gospod, in takšno je vse delo njihovih rok; in kar tam darujejo, je nečisto."
+  },
+  {
+    "i": 23023,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 15,
+    "t": "Zdaj pa, premislite v srcu svojem od tega dne in v prihodnje; preden so položili kamen na kamen v templju Gospodovem –"
+  },
+  {
+    "i": 23024,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 16,
+    "t": "ko je kdo prišel k kupu dvajsetih mer, jih je bilo le deset; ko je kdo prišel k stiskalnici, da bi zajel petdeset mer, jih je bilo le dvajset."
+  },
+  {
+    "i": 23025,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 17,
+    "t": "Udaril sem vas z rjo in s plesnijo in s točo vse delo vaših rok, pa se niste obrnili k meni, govori Gospod."
+  },
+  {
+    "i": 23026,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 18,
+    "t": "Premislite torej v srcu svojem od tega dne in v prihodnje, od štiriindvajsetega dne devetega meseca, od dne, ko so položili temelj templju Gospodovem, premislite:"
+  },
+  {
+    "i": 23027,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 19,
+    "t": "Ali je še kaj semena v žitnici? In trta in smokva in granatno jabolko in oljka, še ne rode. Od tega dne bom blagoslovil!"
+  },
+  {
+    "i": 23028,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 20,
+    "t": "In beseda Gospodova je prišla drugič k Hagaju štiriindvajsetega dne meseca, rekoč:"
+  },
+  {
+    "i": 23029,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 21,
+    "t": "Govori Zorobabelu, knezu Judovemu, rekoč: Potresel bom nebesa in zemljo."
+  },
+  {
+    "i": 23030,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 22,
+    "t": "In prevrnil bom prestole kraljestev in uničil moč kraljestev narodov; in prevrnil bom voz in tiste, ki se vozijo na njem; in konji in jezdeci njihovi bodo padli, vsak od meča svojega brata."
+  },
+  {
+    "i": 23031,
+    "b": 36,
+    "c": 3802,
+    "r": 3802,
+    "o": 23,
+    "t": "Tisti dan, govori Gospod nad vojskami, te bom vzel, Zorobabel, sin Salatielov, služabnik moj, govori Gospod, in te naredil kakor prstan pečatnik; kajti tebe sem izbral, govori Gospod nad vojskami."
+  },
+  {
+    "i": 23032,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 1,
+    "t": "V drugem letu Darija, v osmem mesecu, je prišla beseda Gospodova k preroku Zahariji, sinu Berehijevega, sinu Idovega, rekoč:"
+  },
+  {
+    "i": 23033,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 2,
+    "t": "Gospod se je silno razjezil na vaše očete."
+  },
+  {
+    "i": 23034,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 3,
+    "t": "Reci jim torej: Tako govori Gospod nad vojskami: Obrnite se k meni, govori Gospod nad vojskami, in obrnil se bom k vam, pravi Gospod nad vojskami."
+  },
+  {
+    "i": 23035,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 4,
+    "t": "Ne bodite kakor vaši očetje, ki so jim klicali nekdanji preroki, rekoč: Tako govori Gospod nad vojskami: Odvrnite se od svojih hudih poti in od svojih hudih dejanj; pa niso poslušali in niso pazili name, govori Gospod."
+  },
+  {
+    "i": 23036,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 5,
+    "t": "Vaši očetje, kje so? In preroki, ali živijo večno?"
+  },
+  {
+    "i": 23037,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 6,
+    "t": "Ali niso moje besede in moje odredbe, ki sem jih zapovedal svojim služabnikom, prerokom, dosegle vaših očetov? Tedaj so se spreobrnili in rekli: Kakor je Gospod nad vojskami sklenil storiti z nami po naših poteh in po naših dejanjih, tako je storil z nami."
+  },
+  {
+    "i": 23038,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 7,
+    "t": "Štiriindvajsetega dne enajstega meseca, to je meseca šebata, v drugem letu Darija, je prišla beseda Gospodova k preroku Zahariji, sinu Berehijevega, sinu Idovega, rekoč:"
+  },
+  {
+    "i": 23039,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 8,
+    "t": "Videl sem ponoči, in glej, mož jezdi na rdečem konju, in stoji med mirtami, ki so v dolini; in za njim so rdeči, rjavi in beli konji."
+  },
+  {
+    "i": 23040,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 9,
+    "t": "Tedaj sem rekel: Kdo so ti, Gospod moj? In angel, ki je govoril z menoj, mi je rekel: Pokazal ti bom, kdo so."
+  },
+  {
+    "i": 23041,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 10,
+    "t": "In mož, ki je stal med mirtami, je odgovoril in rekel: Ti so, ki jih je poslal Gospod, da prehodijo zemljo."
+  },
+  {
+    "i": 23042,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 11,
+    "t": "In odgovorili so angelu Gospodovemu, ki je stal med mirtami, in rekli: Prehodili smo zemljo, in glej, vsa zemlja je mirna in tiha."
+  },
+  {
+    "i": 23043,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 12,
+    "t": "Tedaj je angel Gospodov spregovoril in rekel: Gospod nad vojskami, koliko časa boš še odlašal, da se usmiliš Jeruzalema in mest Judovih, nad katerimi si se jezil že sedemdeset let?"
+  },
+  {
+    "i": 23044,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 13,
+    "t": "In Gospod je odgovoril angelu, ki je govoril z menoj, z dobrotljivimi besedami, z besedami tolažbe."
+  },
+  {
+    "i": 23045,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 14,
+    "t": "Tedaj mi je rekel angel, ki je govoril z menoj: Kliči, rekoč: Tako govori Gospod nad vojskami: Goreče sem ljubosumen za Jeruzalem in za Sion,"
+  },
+  {
+    "i": 23046,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 15,
+    "t": "in silno sem jezen na narode, ki so v miru; kajti jaz sem se malo razjezil, oni pa so pospešili nesrečo."
+  },
+  {
+    "i": 23047,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 16,
+    "t": "Zato tako govori Gospod: Obrnil sem se k Jeruzalemu z usmiljenjem; moja hiša bo sezidana v njem, govori Gospod nad vojskami, in vrv bo napeta čez Jeruzalem."
+  },
+  {
+    "i": 23048,
+    "b": 37,
+    "c": 3901,
+    "r": 3901,
+    "o": 17,
+    "t": "Kliči še, rekoč: Tako govori Gospod nad vojskami: Moja mesta bodo spet prekipevala od dobrot; in Gospod bo spet potolažil Sion in spet izvolil Jeruzalem."
+  },
+  {
+    "i": 23049,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 1,
+    "t": "Tedaj sem povzdignil oči in videl, in glej, štirje rogovi."
+  },
+  {
+    "i": 23050,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 2,
+    "t": "In rekel sem angelu, ki je govoril z menoj: Kaj so ti? In rekel mi je: Ti so rogovi, ki so razkropili Judo, Izraela in Jeruzalem."
+  },
+  {
+    "i": 23051,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 3,
+    "t": "Tedaj mi je Gospod pokazal štiri kovače."
+  },
+  {
+    "i": 23052,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 4,
+    "t": "In rekel sem: Kaj prihajajo ti storiti? In rekel mi je: Ti so rogovi, ki so razkropili Judo, tako da nihče ni mogel povzdigniti svoje glave; ti pa so prišli, da jih prestrašijo, da podro roge narodom, ki so dvignili rog nad deželo Judovo, da jo razkropijo."
+  },
+  {
+    "i": 23053,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 5,
+    "t": "Potem sem povzdignil oči in videl, in glej, mož, in v roki njegovi vrv za merjenje."
+  },
+  {
+    "i": 23054,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 6,
+    "t": "In rekel sem mu: Kam greš? In rekel mi je: Izmerit Jeruzalem, da vidim, kakšna je njegova širina in kakšna njegova dolžina."
+  },
+  {
+    "i": 23055,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 7,
+    "t": "In glej, angel, ki je govoril z menoj, je šel naprej, in drug angel je šel nasproti njemu."
+  },
+  {
+    "i": 23056,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 8,
+    "t": "In rekel mu je: Tecite, govorite temu mladeniču in recite: Jeruzalem bo naseljen brez obzidja zaradi množice ljudi in živine v njem."
+  },
+  {
+    "i": 23057,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 9,
+    "t": "Jaz pa bom njemu, govori Gospod, ognjeni zid naokoli in bom slava sredi njega."
+  },
+  {
+    "i": 23058,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 10,
+    "t": "Hej, hej, zbežite iz severne dežele, govori Gospod, kajti razkropil sem vas po štirih vetrovih nebes, govori Gospod."
+  },
+  {
+    "i": 23059,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 11,
+    "t": "Hej, Sion, zbeži, ti, ki prebivaš pri hčeri babilonski!"
+  },
+  {
+    "i": 23060,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 12,
+    "t": "Kajti tako govori Gospod nad vojskami: Po slavi me je poslal k narodom, ki so vas oropali; kajti kdor se vas dotakne, se dotakne zenice njegovega očesa."
+  },
+  {
+    "i": 23061,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 13,
+    "t": "Kajti glej, dvignem roko svojo nad njimi, in bodo plen svojim sužnjem. Tedaj boste spoznali, da me je poslal Gospod nad vojskami."
+  },
+  {
+    "i": 23062,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 14,
+    "t": "Veseli se in raduj se, hči sionska, kajti glej, prihajam in prebival bom sredi tebe, govori Gospod."
+  },
+  {
+    "i": 23063,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 15,
+    "t": "In mnogi narodi se bodo pridružili Gospodu tisti dan in bodo moje ljudstvo; in prebival bom sredi tebe in spoznal boš, da me je poslal Gospod nad vojskami k tebi."
+  },
+  {
+    "i": 23064,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 16,
+    "t": "In Gospod bo podedoval Judo kot svoj delež v sveti deželi in spet izvolil Jeruzalem."
+  },
+  {
+    "i": 23065,
+    "b": 37,
+    "c": 3902,
+    "r": 3902,
+    "o": 17,
+    "t": "Molči pred Gospodom, vse meso, kajti zbudil se je iz svojega svetega prebivališča."
+  },
+  {
+    "i": 23066,
+    "b": 37,
+    "c": 3903,
+    "r": 3903,
+    "o": 1,
+    "t": "Nato mi je pokazal Jozueja, velikega duhovnika, ki je stal pred angelom Gospodovim, in Satana, ki je stal na njegovi desni, da ga obtožuje."
+  },
+  {
+    "i": 23067,
+    "b": 37,
+    "c": 3903,
+    "r": 3903,
+    "o": 2,
+    "t": "In Gospod je rekel Satanu: Gospod naj te kara, Satan! Da, Gospod, ki je izvolil Jeruzalem, naj te kara! Ali ni ta glavica, iztrgana iz ognja?"
+  },
+  {
+    "i": 23068,
+    "b": 37,
+    "c": 3903,
+    "r": 3903,
+    "o": 3,
+    "t": "Jozue pa je bil oblečen v umazane obleke in je stal pred angelom."
+  },
+  {
+    "i": 23069,
+    "b": 37,
+    "c": 3903,
+    "r": 3903,
+    "o": 4,
+    "t": "In on je odgovoril in rekel tistim, ki so stali pred njim: Slecite z njega umazane obleke! In rekel mu je: Glej, odpravil sem tvojo krivdo s tebe."
+  },
+  {
+    "i": 23070,
+    "b": 37,
+    "c": 3903,
+    "r": 3903,
+    "o": 5,
+    "t": "In ga oblecite v svečane obleke in mu dajte čisto kapo na glavo! In mu dali so mu čisto kapo na glavo in ga oblekli v obleke; in angel Gospodov je stal."
+  },
+  {
+    "i": 23071,
+    "b": 37,
+    "c": 3903,
+    "r": 3903,
+    "o": 6,
+    "t": "Tedaj je angel Gospodov pričal Jozueju, rekoč:"
+  },
+  {
+    "i": 23072,
+    "b": 37,
+    "c": 3903,
+    "r": 3903,
+    "o": 7,
+    "t": "Tako govori Gospod nad vojskami: Če boš hodil po mojih potih in če boš držal mojo postavo, boš sodil tudi hiši moji in varoval boš tudi moja dvorišča; in dal ti bom pristop med te, ki tukaj stojijo."
+  },
+  {
+    "i": 23073,
+    "b": 37,
+    "c": 3903,
+    "r": 3903,
+    "o": 8,
+    "t": "Poslušaj torej, Jozue, veliki duhovnik, ti in tvoji tovariši, ki sedijo pred teboj; kajti oni so ljudje, ki so znamenje; kajti glej, jaz bom privedel služabnika svojega, Izdanka."
+  },
+  {
+    "i": 23074,
+    "b": 37,
+    "c": 3903,
+    "r": 3903,
+    "o": 9,
+    "t": "Kajti glej kamen, ki sem ga položil pred Jozueja: na tem enem kamnu je sedem oči; glej, jaz bom izrezljal njegovo gravuro, govori Gospod nad vojskami, in v enem dnevu bom odpravil krivdo te dežele."
+  },
+  {
+    "i": 23075,
+    "b": 37,
+    "c": 3903,
+    "r": 3903,
+    "o": 10,
+    "t": "Tisti dan, govori Gospod nad vojskami, boste vsak povabili svojega bližnjega pod trto in pod smokvo."
+  },
+  {
+    "i": 23076,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 1,
+    "t": "In angel, ki je govoril z menoj, se je vrnil in me prebudil, kakor človeka, ki ga prebudijo iz spanja."
+  },
+  {
+    "i": 23077,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 2,
+    "t": "In rekel mi je: Kaj vidiš? In rekel sem: Vidim, in glej, svečnik, ves iz zlata, z vrčem na vrhu in sedmimi svetilkami na njem, in sedem žrel vsaki svetilki, ki so na vrhu."
+  },
+  {
+    "i": 23078,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 3,
+    "t": "In dve oljki poleg njega, ena na desni in ena na levi."
+  },
+  {
+    "i": 23079,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 4,
+    "t": "Tedaj sem spregovoril in rekel angelu, ki je govoril z menoj: Kaj pomeni to, Gospod moj?"
+  },
+  {
+    "i": 23080,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 5,
+    "t": "Tedaj angel, ki je govoril z menoj, odgovori in mi reče: »Ali ne veš, kaj so te reči?« In rečem: »Ne, Gospod moj.«"
+  },
+  {
+    "i": 23081,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 6,
+    "t": "In mi odgovori in reče: To je beseda GOSPODOVA Zorobabelu, rekoč: Ne z močjo, ne s silo, temvej z mojim Duhom, pravi GOSPOD nad vojskami."
+  },
+  {
+    "i": 23082,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 7,
+    "t": "Kdo si ti, velika gora? Pred Zorobabelom se spreobrneš v ravnino! On bo privedel kamen vrhunec in se bo slišalo: Milost, milost mu!"
+  },
+  {
+    "i": 23083,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 8,
+    "t": "In pride mi beseda GOSPODOVA, rekoč:"
+  },
+  {
+    "i": 23084,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 9,
+    "t": "Zorobabelove roke so temelje položile tej hiši, njegove roke jo bodo tudi dokončale. In spoznate, da me je GOSPOD nad vojskami poslal k vam."
+  },
+  {
+    "i": 23085,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 10,
+    "t": "Kdo prezira dan malih začetkov? Kajti ti se bodo veselili, ko bodo videli svinec v roki Zorobabelovi. To je sedem oči GOSPODOVIH, ki preiskujeta vso zemljo."
+  },
+  {
+    "i": 23086,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 11,
+    "t": "Tedaj odgovorim in mu rečem: Kaj pomenita ti dve oljki, desno in levo od svečnika?"
+  },
+  {
+    "i": 23087,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 12,
+    "t": "In drugič odgovorim in mu rečem: Kaj pomenita ta dva oljčna poganjka, ki sta ob dveh zlatih ceveh, iz katerih teče zlato olje?"
+  },
+  {
+    "i": 23088,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 13,
+    "t": "In mi odgovori in reče: Ali ne veš, kaj to pomeni? In rečem: Ne, Gospod moj."
+  },
+  {
+    "i": 23089,
+    "b": 37,
+    "c": 3904,
+    "r": 3904,
+    "o": 14,
+    "t": "In reče: To sta dva maziljenca, ki stojita pred Gospodom vse zemlje."
+  },
+  {
+    "i": 23090,
+    "b": 37,
+    "c": 3905,
+    "r": 3905,
+    "o": 1,
+    "t": "Potem spet dvignem oči in pogledam, in glej, leteči zvitek."
+  },
+  {
+    "i": 23091,
+    "b": 37,
+    "c": 3905,
+    "r": 3905,
+    "o": 2,
+    "t": "In mi reče angel, ki je govoril z menoj: Kaj vidiš? In odgovorim: Vidim leteči zvitek, dolg dvajset komolcev in širok deset komolcev."
+  },
+  {
+    "i": 23092,
+    "b": 37,
+    "c": 3905,
+    "r": 3905,
+    "o": 3,
+    "t": "Tedaj mi reče: To je prekletstvo, ki gre po vsej zemlji; kajti vsak tat bo po njem od tod iztrebljen in vsak, ki se krivo priseže, bo po njem od tod iztrebljen."
+  },
+  {
+    "i": 23093,
+    "b": 37,
+    "c": 3905,
+    "r": 3905,
+    "o": 4,
+    "t": "Pošljem ga, govori GOSPOD nad vojskami, in pride v hišo tatu in v hišo tistega, ki se krivo priseže pri mojem imenu, in prebiva v sredi njegove hiše in jo uniči z njenim lesom in njenim kamenjem."
+  },
+  {
+    "i": 23094,
+    "b": 37,
+    "c": 3905,
+    "r": 3905,
+    "o": 5,
+    "t": "Tedaj stopi naprej angel, ki je govoril z menoj, in mi reče: Dvigni oči in poglej, kaj je to, kar prihaja naprej."
+  },
+  {
+    "i": 23095,
+    "b": 37,
+    "c": 3905,
+    "r": 3905,
+    "o": 6,
+    "t": "In rečem: Kaj je to? In reče: To je efa, ki prihaja naprej. In reče: To je njihova krivda po vsej zemlji."
+  },
+  {
+    "i": 23096,
+    "b": 37,
+    "c": 3905,
+    "r": 3905,
+    "o": 7,
+    "t": "In glej, svinčena plošča se je dvignila in bila je žena, ki je sedela v sredi efe."
+  },
+  {
+    "i": 23097,
+    "b": 37,
+    "c": 3905,
+    "r": 3905,
+    "o": 8,
+    "t": "In reče: To je hudobija. In jo vrže nazaj v efo in vrže svinčeno težo na njena usta."
+  },
+  {
+    "i": 23098,
+    "b": 37,
+    "c": 3905,
+    "r": 3905,
+    "o": 9,
+    "t": "Tedaj dvignem oči in pogledam, in glej, prihajata dve ženi in veter je bil v njunih krilih, imeli sta krila kot štorklja, in dvigneta efo med zemljo in nebo."
+  },
+  {
+    "i": 23099,
+    "b": 37,
+    "c": 3905,
+    "r": 3905,
+    "o": 10,
+    "t": "Tedaj rečem angelu, ki je govoril z menoj: Kam peljeta efo?"
+  }
+]

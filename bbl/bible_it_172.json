@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17200,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 21,
+    "t": "Se il tuo nemico ha fame, dagli da mangiare; se ha sete, dagli da bere,"
+  },
+  {
+    "i": 17201,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 22,
+    "t": "poiché così ammasserai braci ardenti sul suo capo e l'Eterno ti ricompenserà."
+  },
+  {
+    "i": 17202,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 23,
+    "t": "Il vento del nord produce la pioggia, e la lingua che calunnia un volto accigliato."
+  },
+  {
+    "i": 17203,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 24,
+    "t": "Meglio abitare in un angolo del tetto, che con una donna litigiosa in una casa comune."
+  },
+  {
+    "i": 17204,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 25,
+    "t": "Acqua fresca per una gola assetata, tale è una buona novella da un paese lontano."
+  },
+  {
+    "i": 17205,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 26,
+    "t": "Fonte intorbidata e sorgente corrotta, tale è il giusto che vacilla davanti all'empio."
+  },
+  {
+    "i": 17206,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 27,
+    "t": "Non è bene mangiare troppo miele, né ricercare gloria su gloria."
+  },
+  {
+    "i": 17207,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 28,
+    "t": "Città smantellata, senza mura, tale è l'uomo che non padroneggia il suo spirito."
+  },
+  {
+    "i": 17208,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 1,
+    "t": "Come la neve d'estate e la pioggia nella mietitura, così la gloria non si addice allo stolto."
+  },
+  {
+    "i": 17209,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 2,
+    "t": "Come il passero svolazza e la rondine vola, così la maledizione senza motivo non si avvererà."
+  },
+  {
+    "i": 17210,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 3,
+    "t": "La frusta è per il cavallo, la briglia per l'asino, e la verga per la schiena degli stolti."
+  },
+  {
+    "i": 17211,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 4,
+    "t": "Non rispondere allo stolto secondo la sua follia, perché tu non diventi simile a lui."
+  },
+  {
+    "i": 17212,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 5,
+    "t": "Rispondi allo stolto secondo la sua follia, perché egli non si creda savio."
+  },
+  {
+    "i": 17213,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 6,
+    "t": "Si mozza i piedi e beve violenza chi manda messaggi per mezzo di uno stolto."
+  },
+  {
+    "i": 17214,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 7,
+    "t": "Come le gambe dello zoppo sono fiacche, così è un proverbio nella bocca degli stolti."
+  },
+  {
+    "i": 17215,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 8,
+    "t": "Come legare una pietra alla fionda, così è dare onore allo stolto."
+  },
+  {
+    "i": 17216,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 9,
+    "t": "Una spina entra nella mano dell'ubriaco, tale è un proverbio nella bocca degli stolti."
+  },
+  {
+    "i": 17217,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 10,
+    "t": "Come un arciere che ferisce tutti, così è chi assolda uno stolto o un ubriaco."
+  },
+  {
+    "i": 17218,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 11,
+    "t": "Come il cane ritorna al suo vomito, così lo stolto ripete la sua follia."
+  },
+  {
+    "i": 17219,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 12,
+    "t": "Hai visto un uomo che si crede savio? C'è più speranza per uno stolto che per lui."
+  },
+  {
+    "i": 17220,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 13,
+    "t": "Il pigro dice: «C'è un leone per la via, un leone per le strade!»."
+  },
+  {
+    "i": 17221,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 14,
+    "t": "La porta gira sui suoi cardini, così il pigro sul suo letto."
+  },
+  {
+    "i": 17222,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 15,
+    "t": "Il pigro mette la mano nel piatto, ma si stanca perfino a portarla alla bocca."
+  },
+  {
+    "i": 17223,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 16,
+    "t": "Il pigro si crede più savio di sette persone che rispondono saggiamente."
+  },
+  {
+    "i": 17224,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 17,
+    "t": "Chi si intromette in una lite altrui è come uno che afferra un cane per le orecchie."
+  },
+  {
+    "i": 17225,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 18,
+    "t": "Come un pazzo che scaglia tizzoni accesi, frecce e morte,"
+  },
+  {
+    "i": 17226,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 19,
+    "t": "così è colui che inganna il suo prossimo e poi dice: «Ho fatto per scherzo!»."
+  },
+  {
+    "i": 17227,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 20,
+    "t": "Quando manca la legna, il fuoco si spegne; quando non c'è calunniatore, la contesa si placa."
+  },
+  {
+    "i": 17228,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 21,
+    "t": "Come il carbone per la brace e la legna per il fuoco, così l'uomo litigioso per aizzare le contese."
+  },
+  {
+    "i": 17229,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 22,
+    "t": "Le parole del calunniatore sono come bocconi squisiti, che penetrano fino al fondo delle viscere."
+  },
+  {
+    "i": 17230,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 23,
+    "t": "Argento di scoria spalmato su un vaso di terra, tali sono labbra lusinghiere con un cuore malvagio."
+  },
+  {
+    "i": 17231,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 24,
+    "t": "Chi odia, simula con le labbra, ma nel suo cuore cova l'inganno;"
+  },
+  {
+    "i": 17232,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 25,
+    "t": "quando parla con voce soave, non fidarti di lui, perché nel suo cuore ci sono sette abominazioni."
+  },
+  {
+    "i": 17233,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 26,
+    "t": "L'odio si nasconde con l'inganno, ma la sua malvagità sarà smascherata nell'assemblea."
+  },
+  {
+    "i": 17234,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 27,
+    "t": "Chi scava una fossa vi cade dentro, e la pietra rotolata ritornerà su chi l'ha fatta rotolare."
+  },
+  {
+    "i": 17235,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 28,
+    "t": "La lingua bugiarda odia quelli che ferisce, e la bocca adulatoria produce rovina."
+  },
+  {
+    "i": 17236,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 1,
+    "t": "Non vantarti del domani, perché non sai quello che un giorno può produrre."
+  },
+  {
+    "i": 17237,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 2,
+    "t": "Ti lodi un altro, e non la tua bocca; un estraneo, e non le tue labbra."
+  },
+  {
+    "i": 17238,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 3,
+    "t": "La pietra è grave e la sabbia pesante, ma l'irritazione dello stolto pesa più di entrambe."
+  },
+  {
+    "i": 17239,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 4,
+    "t": "L'ira è crudele e la collera impetuosa, ma chi può resistere alla gelosia?"
+  },
+  {
+    "i": 17240,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 5,
+    "t": "Meglio una riprensione aperta che un amore nascosto."
+  },
+  {
+    "i": 17241,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 6,
+    "t": "Fedeli sono le ferite di un amico, ma fallaci i baci di un nemico."
+  },
+  {
+    "i": 17242,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 7,
+    "t": "Chi è sazio disprezza il miele, ma per chi ha fame ogni cosa amara è dolce."
+  },
+  {
+    "i": 17243,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 8,
+    "t": "Come l'uccello che vaga lontano dal suo nido, così è l'uomo che vaga lontano dal suo luogo."
+  },
+  {
+    "i": 17244,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 9,
+    "t": "L'olio e il profumo rallegrano il cuore, e la dolcezza dell'amico più del consiglio che viene dall'anima."
+  },
+  {
+    "i": 17245,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 10,
+    "t": "Non abbandonare il tuo amico, né l'amico di tuo padre; non andare in casa di tuo fratello nel giorno della tua sventura; meglio un vicino vicino che un fratello lontano."
+  },
+  {
+    "i": 17246,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 11,
+    "t": "Figlio mio, sii savio e rallegrami il cuore, così potrò rispondere a chi mi insulta."
+  },
+  {
+    "i": 17247,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 12,
+    "t": "L'uomo avveduto vede venire il male e si nasconde, ma gli stolti passano avanti e ne pagano le conseguenze."
+  },
+  {
+    "i": 17248,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 13,
+    "t": "Prendigli il vestito, perché ha fatto da garante per un altro; tienilo in pegno, se si è fatto garante per degli stranieri."
+  },
+  {
+    "i": 17249,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 14,
+    "t": "Chi benedice il suo prossimo a gran voce di buon mattino, sarà considerato come se lo maledicesse."
+  },
+  {
+    "i": 17250,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 15,
+    "t": "Un gocciolio continuo in giorno di pioggia e una donna litigiosa sono la stessa cosa."
+  },
+  {
+    "i": 17251,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 16,
+    "t": "Chi la trattiene, trattiene il vento, e la sua destra afferra l'olio."
+  },
+  {
+    "i": 17252,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 17,
+    "t": "Il ferro affila il ferro, così un uomo ne affila un altro."
+  },
+  {
+    "i": 17253,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 18,
+    "t": "Chi custodisce il fico ne mangerà il frutto, e chi ha cura del suo padrone sarà onorato."
+  },
+  {
+    "i": 17254,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 19,
+    "t": "Come nell'acqua il viso riflette il viso, così il cuore dell'uomo rivela l'uomo."
+  },
+  {
+    "i": 17255,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 20,
+    "t": "Il soggiorno dei morti e l'abisso sono insaziabili, così gli occhi dell'uomo sono insaziabili."
+  },
+  {
+    "i": 17256,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 21,
+    "t": "Il crogiuolo è per l'argento e la fornace per l'oro, così l'uomo è provato dalla bocca di chi lo loda."
+  },
+  {
+    "i": 17257,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 22,
+    "t": "Anche se tu pestassi lo stolto in un mortaio, in mezzo al grano con il pestello, la sua follia non si allontanerebbe da lui."
+  },
+  {
+    "i": 17258,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 23,
+    "t": "Abbi cura di conoscere lo stato delle tue greggi, prenditi cura delle tue mandrie;"
+  },
+  {
+    "i": 17259,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 24,
+    "t": "perché la ricchezza non dura per sempre, né una corona si tramanda di generazione in generazione."
+  },
+  {
+    "i": 17260,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 25,
+    "t": "Quando il fieno è stato portato via e spunta la nuova erba, e si raccoglie il fieno delle montagne,"
+  },
+  {
+    "i": 17261,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 26,
+    "t": "gli agnelli ti daranno le vesti e i capri il prezzo di un campo,"
+  },
+  {
+    "i": 17262,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 27,
+    "t": "e il latte delle capre sarà sufficiente al tuo nutrimento, al nutrimento della tua casa e al sostentamento delle tue serve."
+  },
+  {
+    "i": 17263,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 1,
+    "t": "L'empio fugge anche se nessuno lo insegue, ma il giusto è intrepido come un leone."
+  },
+  {
+    "i": 17264,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 2,
+    "t": "Quando un paese è in rivolta, i suoi capi sono molti, ma con un uomo intelligente e assennato l'ordine è ristabilito."
+  },
+  {
+    "i": 17265,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 3,
+    "t": "Un uomo malvagio che opprime i poveri è come una pioggia torrenziale che lascia senza pane."
+  },
+  {
+    "i": 17266,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 4,
+    "t": "Quelli che abbandonano la legge lodano l'empio, ma quelli che osservano la legge si adirano contro di lui."
+  },
+  {
+    "i": 17267,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 5,
+    "t": "Gli uomini malvagi non comprendono la giustizia, ma quelli che cercano l'Eterno comprendono ogni cosa."
+  },
+  {
+    "i": 17268,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 6,
+    "t": "Meglio il povero che cammina nella sua integrità, che il ricco dalle vie tortuose."
+  },
+  {
+    "i": 17269,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 7,
+    "t": "Chi osserva la legge è un figlio intelligente, ma chi frequenta i dissoluti fa vergogna a suo padre."
+  },
+  {
+    "i": 17270,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 8,
+    "t": "Chi accresce i suoi beni con l'interesse e l'usura, li accumula per colui che ha compassione dei poveri."
+  },
+  {
+    "i": 17271,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 9,
+    "t": "Se uno volge altrove l'orecchio per non ascoltare la legge, la sua stessa preghiera è un abominio."
+  },
+  {
+    "i": 17272,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 10,
+    "t": "Chi fa smarrire gli uomini retti per una via malvagia, cadrà egli stesso nella fossa che ha scavata, ma gli uomini integri erediteranno il bene."
+  },
+  {
+    "i": 17273,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 11,
+    "t": "Il ricco si crede savio, ma il povero intelligente lo smaschera."
+  },
+  {
+    "i": 17274,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 12,
+    "t": "Quando i giusti trionfano, grande è la gloria, ma quando gli empi salgono al potere, la gente si nasconde."
+  },
+  {
+    "i": 17275,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 13,
+    "t": "Chi occulta le sue colpe non prospererà, ma chi le confessa e le abbandona otterrà misericordia."
+  },
+  {
+    "i": 17276,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 14,
+    "t": "Beato l'uomo che teme sempre, ma chi indurisce il suo cuore cadrà nella sventura."
+  },
+  {
+    "i": 17277,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 15,
+    "t": "Leone ruggente e orso affamato, tale è il governante malvagio su un popolo povero."
+  },
+  {
+    "i": 17278,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 16,
+    "t": "Il principe senza intelligenza è un grande oppressore, ma chi odia il guadagno disonesto prolungherà i suoi giorni."
+  },
+  {
+    "i": 17279,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 17,
+    "t": "L'uomo oppresso dal rimorso per aver sparso sangue umano fuggirà fino alla tomba; nessuno lo soccorra!"
+  },
+  {
+    "i": 17280,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 18,
+    "t": "Chi cammina nella rettitudine sarà salvato, ma chi è tortuoso nelle sue vie cadrà in una di esse."
+  },
+  {
+    "i": 17281,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 19,
+    "t": "Chi coltiva la sua terra avrà abbondanza di pane, ma chi insegue chimere avrà sazietà d'indigenza."
+  },
+  {
+    "i": 17282,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 20,
+    "t": "L'uomo leale sarà colmato di benedizioni, ma chi si affretta a divenire ricco non resterà impunito."
+  },
+  {
+    "i": 17283,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 21,
+    "t": "È male favorire gli uni a discapito degli altri, ma per un boccone di pane l'uomo commette un'iniquità."
+  },
+  {
+    "i": 17284,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 22,
+    "t": "Corre dietro alla ricchezza l'uomo dall'occhio avido, ignorando che la miseria lo raggiungerà."
+  },
+  {
+    "i": 17285,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 23,
+    "t": "Chi riprende altrui alla fine troverà favore, più del lusingatore."
+  },
+  {
+    "i": 17286,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 24,
+    "t": "Chi deruba il padre e la madre dicendo: \"Non è colpa!\", è compagno del brigante."
+  },
+  {
+    "i": 17287,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 25,
+    "t": "L'uomo avido suscita contese, ma chi confida nel Signore prospererà."
+  },
+  {
+    "i": 17288,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 26,
+    "t": "Chi si fida del proprio senno è uno stolto, ma chi cammina con saggezza sarà salvato."
+  },
+  {
+    "i": 17289,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 27,
+    "t": "A chi dona ai poveri non mancherà nulla, ma chi chiude gli occhi riceverà abbondanti maledizioni."
+  },
+  {
+    "i": 17290,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 28,
+    "t": "Quando si levano gli empi, ognuno si nasconde; ma quando essi periscono, i giusti si moltiplicano."
+  },
+  {
+    "i": 17291,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 1,
+    "t": "Colui che, di fronte ai rimproveri, irrigidisce la nuca, sarà spezzato all'improvviso e senza rimedio."
+  },
+  {
+    "i": 17292,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 2,
+    "t": "Quando i giusti si moltiplicano, il popolo gioisce; quando dominano gli empi, il popolo geme."
+  },
+  {
+    "i": 17293,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 3,
+    "t": "Chi ama la sapienza rallegra il padre, ma chi frequenta le prostitute dissipa i suoi beni."
+  },
+  {
+    "i": 17294,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 4,
+    "t": "Con l'equità un re fa prosperare il paese, ma l'esattore lo conduce alla rovina."
+  },
+  {
+    "i": 17295,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 5,
+    "t": "L'uomo che adula il suo prossimo tende una rete sotto i suoi passi."
+  },
+  {
+    "i": 17296,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 6,
+    "t": "Nella trasgressione del malvagio c'è un laccio, ma il giusto esulta e si rallegra."
+  },
+  {
+    "i": 17297,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 7,
+    "t": "Il giusto conosce la causa dei deboli, ma il malvagio non ha l'intelligenza per comprenderla."
+  },
+  {
+    "i": 17298,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 8,
+    "t": "Gli schernitori mettono la città in subbuglio, ma i saggi placano la collera."
+  },
+  {
+    "i": 17299,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 9,
+    "t": "Se un saggio è in lite con uno stolto, sia che si adiri o scherzi, non avrà riposo."
+  }
+]

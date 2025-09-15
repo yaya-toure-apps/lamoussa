@@ -1,0 +1,802 @@
+[
+  {
+    "i": 29800,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 32,
+    "t": "\"Ne féljetek, kicsiny sereg, mert gyönyörködött az Atyátok, hogy néktek adja az Országot."
+  },
+  {
+    "i": 29801,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 33,
+    "t": "\"Adjátok el a ti vagyonotokat, és adjatok alamizsnát; szerezzetek magatoknak oly erszényeket, melyek meg nem avulnak, elfogyhatatlan kincset a mennyekben, a hol a tolvaj nem közelget, sem a moly meg nem emészti."
+  },
+  {
+    "i": 29802,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 34,
+    "t": "Mert a hol van a ti kincsetek, ott lesz a ti szívetek is."
+  },
+  {
+    "i": 29803,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 35,
+    "t": "\"Legyenek a ti derekaitok felövezve, és a ti lámpáitok meggyújtva."
+  },
+  {
+    "i": 29804,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 36,
+    "t": "És legyetek hasonlók az olyan emberekhez, a kik az ő urokat várják, mikor jő meg a lakodalomból; hogy mihelyt megjön és zörget, azonnal megnyissák néki."
+  },
+  {
+    "i": 29805,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 37,
+    "t": "Boldogok azok a szolgák, a kiket az úr, mikor eljő, ébren talál! Bizony mondom néktek, hogy felövezvén magát, leülteti őket, és előjővén szolgál nékik."
+  },
+  {
+    "i": 29806,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 38,
+    "t": "És ha a második őrségben, vagy ha a harmadikban jő el, és úgy találja, boldogok azok a szolgák!"
+  },
+  {
+    "i": 29807,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 39,
+    "t": "Azt pedig jegyezzétek meg, hogy ha tudná a ház gazdája, mely órában jő el a tolvaj, nem engedné, hogy házába beássanak."
+  },
+  {
+    "i": 29808,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 40,
+    "t": "Legyetek ti is készen: mert a mely órában nem gondoljátok, eljő az embernek Fia."
+  },
+  {
+    "i": 29809,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 41,
+    "t": "És monda Péter: \"Uram, nékünk mondod-é ezt a példázatot, vagy mindenkinek?"
+  },
+  {
+    "i": 29810,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 42,
+    "t": "És monda az Úr: \"Kicsoda hát a hű és okos sáfár, a kit az úr az ő háznépe fölé rendel, hogy adja ki azoknak idejében az élelmet?"
+  },
+  {
+    "i": 29811,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 43,
+    "t": "Boldog az a szolga, a kit az ő ura, mikor eljő, ily munkában talál."
+  },
+  {
+    "i": 29812,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 44,
+    "t": "Bizony mondom néktek, hogy minden jószága fölé rendeli őt."
+  },
+  {
+    "i": 29813,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 45,
+    "t": "Ha pedig azt mondja az a szolga az ő szívében: Késik az én uram eljőni; és kezdi verni a szolgákat és szolgálóleányokat, és enni, inni és részegeskedni:"
+  },
+  {
+    "i": 29814,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 46,
+    "t": "Eljő annak a szolgának az ura azon a napon, a melyen nem várja, és abban az órában, a melyet nem tud; és kettévágatja őt, és a hitetlenek közé veti sorsát."
+  },
+  {
+    "i": 29815,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 47,
+    "t": "\"Az a szolga pedig, a ki tudja az ő urának akaratát, és nem készíti el, sem nem cselekszi az ő akarata szerint, sokkal büntettetik."
+  },
+  {
+    "i": 29816,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 48,
+    "t": "A ki pedig nem tudja, és büntetésre méltó dolgokat cselekszik, kevesebbel büntettetik. És a kinek sokat adtak, sokat követelnek tőle; és a kire sokat bíztak, többet kívánnak tőle."
+  },
+  {
+    "i": 29817,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 49,
+    "t": "\"Tüzet vetni jöttem a földre; és mit akarok, ha már gyulladt?"
+  },
+  {
+    "i": 29818,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 50,
+    "t": "Keresztséggel kell megkereszteltetnem; és mily szorongattatom, mígnem elvégeztetik!"
+  },
+  {
+    "i": 29819,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 51,
+    "t": "\"Azt gondoljátok-é, hogy azért jöttem, hogy békességet adjak a földön? Nem, mondom néktek, hanem inkább meghasonlást."
+  },
+  {
+    "i": 29820,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 52,
+    "t": "Mert ezentúl öten lesznek egy házban, a kik meghasonlanak, három a kettő ellen, és kettő a három ellen."
+  },
+  {
+    "i": 29821,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 53,
+    "t": "Meghasonlik az atya a fiú ellen, és a fiú az atya ellen; az anya a leánya ellen, és a leány az anyja ellen; a napa az ő menye ellen, és a meny az ő napa ellen."
+  },
+  {
+    "i": 29822,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 54,
+    "t": "Monda pedig a sokaságnak is: \"Mikor látjátok, hogy felhő támad napnyugat felől, azonnal azt mondjátok: Zápor jő; és úgy is lesz."
+  },
+  {
+    "i": 29823,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 55,
+    "t": "És mikor látjátok, hogy déli szél fú, azt mondjátok: Hőség lesz; és meglesz."
+  },
+  {
+    "i": 29824,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 56,
+    "t": "Képmutatók, az égnek és a földnek ábrázatját meg tudjátok ítélni; miért nem ítélitek hát meg e jelen időt?"
+  },
+  {
+    "i": 29825,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 57,
+    "t": "\"Miért nem ítélitek hát meg magatoktól, mi az igaz?"
+  },
+  {
+    "i": 29826,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 58,
+    "t": "Mikor pedig a te ellenségeddel a fejedelemhez mégy, igyekezzél tőle megszabadulni útközben, hogy valamiképen a bíróhoz ne vonjon téged, és a bíró át ne adjon a poroszlónak, és a poroszló a tömlöczbe ne vessen téged."
+  },
+  {
+    "i": 29827,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 59,
+    "t": "Mondom néked, ki nem jössz onnan, míg a legutolsó fillért is meg nem fizeted."
+  },
+  {
+    "i": 29828,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 1,
+    "t": "Jövének pedig abban az időben némelyek, és megjelenték néki a Galileusok dolgát, kiknek vérét Pilátus az ő áldozatukkal elegyítette."
+  },
+  {
+    "i": 29829,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 2,
+    "t": "És felelvén Jézus, monda nékik: \"Azt gondoljátok-é, hogy ezek a Galileusok bűnösebbek voltak valamennyi Galileusnál, mivelhogy ezeket szenvedték?"
+  },
+  {
+    "i": 29830,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 3,
+    "t": "Nem, mondom néktek: hanem ha meg nem tértek, mindnyájan hasonlóképen elvesztek."
+  },
+  {
+    "i": 29831,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 4,
+    "t": "Vagy azt gondoljátok-é, hogy az a tizennyolcz, a kire a torony esett Siloámban, és megölte őket, bűnösebb volt valamennyi Jeruzsálemben lakó embernél?"
+  },
+  {
+    "i": 29832,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 5,
+    "t": "Nem, mondom néktek: hanem ha meg nem tértek, mindnyájan hasonlóképen elvesztek."
+  },
+  {
+    "i": 29833,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 6,
+    "t": "És ezt a példázatot mondá: \"Valakinek vala egy fügefája a szőlőjébe ültetve; és elméne, hogy gyümölcsöt keressen azon, és nem talála."
+  },
+  {
+    "i": 29834,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 7,
+    "t": "Monda azért a vinczellérnek: Ímé három esztendeje járok gyümölcsöt keresni e fügefán, és nem találok: vágd ki azt; miért foglalja a földet is hiába?"
+  },
+  {
+    "i": 29835,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 8,
+    "t": "Az pedig felelvén, monda néki: Uram, hagyd meg még ez esztendőben is, míg körűlásom kapálni, és megtrágyázom:"
+  },
+  {
+    "i": 29836,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 9,
+    "t": "Hátha terem azután; ha pedig nem, azután vágd ki."
+  },
+  {
+    "i": 29837,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 10,
+    "t": "Tanít vala pedig egy zsinagógában szombatnapon."
+  },
+  {
+    "i": 29838,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 11,
+    "t": "És ímé vala ott egy asszony, kiben betegségnek lelke vala tizennyolcz esztendő óta; és meg volt görnyedve, és teljességgel nem bíra felegyenesedni."
+  },
+  {
+    "i": 29839,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 12,
+    "t": "És mikor látta őt Jézus, megszólítá, és monda néki: \"Asszony, feloldattál a te betegségedből!\";"
+  },
+  {
+    "i": 29840,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 13,
+    "t": "És reá tevé kezeit; és azonnal felegyenesedett, és dicsőíté az Istent."
+  },
+  {
+    "i": 29841,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 14,
+    "t": "Felelvén pedig a zsinagógának feje, haragudván, hogy Jézus szombatnapon gyógyított, monda a sokaságnak: \"Hat nap van, a melyen munkálkodni kell; azokon jertek el, és gyógyíttassatok, és ne szombatnapon!"
+  },
+  {
+    "i": 29842,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 15,
+    "t": "Felele pedig néki az Úr, és monda: \"Képmutatók, szombatnapon nem oldja-é el mindenitek az ő ökrét vagy szamarát a jászoltól, és nem vezeti-é el itatni?"
+  },
+  {
+    "i": 29843,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 16,
+    "t": "Hát ezt az Ábrahám leányát, a kit a Sátán megkötött ímé tizennyolcz esztendő óta, nem kellett-é feloldani szombatnapon ebből a kötélből?"
+  },
+  {
+    "i": 29844,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 17,
+    "t": "És mikor ezeket mondá, megszégyenülének mind az ő ellenkezésökre támadók; és az egész sokaság örvendeze mind azokon a dicsőséges dolgokon, a melyek ő általa történtek."
+  },
+  {
+    "i": 29845,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 18,
+    "t": "Monda azért: \"Mihez hasonló az Isten országa? És mihez hasonlítsam azt?"
+  },
+  {
+    "i": 29846,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 19,
+    "t": "Hasonló a mustármaghoz, a melyet vévén az ember, elvetett a kertjébe; és felnevekedett, és nagy fa lőn; és az égi madarak fészkeltek annak ágain."
+  },
+  {
+    "i": 29847,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 20,
+    "t": "És ismét monda: \"Mihez hasonlítsam az Isten országát?"
+  },
+  {
+    "i": 29848,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 21,
+    "t": "Hasonló a kovászhoz, a melyet vévén az asszony, elrejtett három mérő lisztbe, mígnem mind megkele."
+  },
+  {
+    "i": 29849,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 22,
+    "t": "És méne a városokon és falukon által, tanítván, és Jeruzsálem felé tartván."
+  },
+  {
+    "i": 29850,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 23,
+    "t": "Monda pedig néki valaki: \"Uram, avagy kevesen vannak-é a kik idvezülnek?\" Ő pedig monda nékik:"
+  },
+  {
+    "i": 29851,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 24,
+    "t": "\"Igyekezzetek bemenni a szoros kapun: mert sokan, mondom néktek, igyekeznek bemenni, és nem mehetnek."
+  },
+  {
+    "i": 29852,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 25,
+    "t": "Mikor a ház ura felkél és bezárja az ajtót, és kezdtek kívül állani és zörgetni az ajtón, mondván: Uram! Uram! Nyisd meg nékünk; és ő felelvén, azt mondja néktek: Nem tudom honnan valók vagytok."
+  },
+  {
+    "i": 29853,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 26,
+    "t": "Akkor kezditek mondani: Előtted ettünk és ittunk, és a mi utczáinkon tanítottál."
+  },
+  {
+    "i": 29854,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 27,
+    "t": "És azt mondja néktek: Nem tudom honnan valók vagytok; távozzatok el tőlem mindnyájan, ti gonoszság cselekvői."
+  },
+  {
+    "i": 29855,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 28,
+    "t": "\"Ott lészen a sírás és fogcsikorgatás, mikor látjátok Ábrahámot, Izsákot, Jákobot és a prófétákat mind az Isten országában, magatokat pedig kirekesztve."
+  },
+  {
+    "i": 29856,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 29,
+    "t": "És jőnek napkeletről és napnyugatról, és északról és délről, és letelepednek az Isten országában."
+  },
+  {
+    "i": 29857,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 30,
+    "t": "\"És ímé vannak utolsók, a kik elsők lesznek, és vannak elsők, a kik utolsók lesznek."
+  },
+  {
+    "i": 29858,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 31,
+    "t": "Ugyanezen napon jövének hozzá némely farizeusok, mondván néki: \"Eredj, és menj el innen: mert Heródes meg akar téged ölni."
+  },
+  {
+    "i": 29859,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 32,
+    "t": "És monda nékik: \"Elmenvén, mondjátok meg annak a rókának: Ímé ördögöket űzök ki és gyógyítok ma és holnap, és harmadnapra elvégeztetem."
+  },
+  {
+    "i": 29860,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 33,
+    "t": "Mindazáltal ma és holnap és azután való napon járnom kell: mert nem lehet, hogy próféta Jeruzsálemen kívül vesszen el."
+  },
+  {
+    "i": 29861,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 34,
+    "t": "\"Jeruzsálem, Jeruzsálem, a ki megölöd a prófétákat, és megkövezed azokat, a kik te hozzád küldettek, hányszor akartam egybegyűjteni a te fiaidat, miként a tyúk az ő csirkéit a szárnyai alá, és nem akartátok!"
+  },
+  {
+    "i": 29862,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 35,
+    "t": "Ímé, elhagyatik néktek a ti házatok, pusztán: Bizony mondom néktek, hogy nem láttok engem, mígnem eljő az az idő, mikor azt mondjátok: Áldott, a ki jő az Úrnak nevében!"
+  },
+  {
+    "i": 29863,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 1,
+    "t": "És lőn, hogy bement egy szombatnapon a farizeusok egyik főemberének házába, hogy kenyeret egyék; és azok lesben álltak reá."
+  },
+  {
+    "i": 29864,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 2,
+    "t": "És ímé, egy vizenyős ember vala ott előtte."
+  },
+  {
+    "i": 29865,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 3,
+    "t": "És felelvén Jézus, szóla a törvénytudóknak és farizeusoknak, mondván: \"Szabad-é szombatnapon gyógyítani, vagy nem?"
+  },
+  {
+    "i": 29866,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 4,
+    "t": "Ők pedig hallgattak. És megragadván őt, meggyógyítá, és elbocsátá."
+  },
+  {
+    "i": 29867,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 5,
+    "t": "És monda nékik: \"Kicsoda közületek, a kinek szamara vagy ökre verembe esik, és nem vonja ki azt azonnal szombatnapon?"
+  },
+  {
+    "i": 29868,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 6,
+    "t": "És nem felelhettek néki ezekre."
+  },
+  {
+    "i": 29869,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 7,
+    "t": "Példázatot is monda pedig a meghívottaknak, mikor látta, hogy a fő helyeket válogatják; mondván nékik:"
+  },
+  {
+    "i": 29870,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 8,
+    "t": "\"Mikor meghív téged valaki lakodalomba, ne ülj a fő helyre; hogy valamiképen náladnál tiszteltebb ne legyen meghívva ő általa,"
+  },
+  {
+    "i": 29871,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 9,
+    "t": "És eljővén az, a ki téged is, őt is meghívott, azt mondja néked: Add át ennek a helyet. És akkor szégyenkezve a legutolsó helyre ülj."
+  },
+  {
+    "i": 29872,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 10,
+    "t": "Hanem mikor meghivatol, menj el, ülj a legutolsó helyre; hogy mikor eljő az, a ki téged meghívott, azt mondja néked: Barátom, ülj feljebb! Akkor tisztességed lészen mindazok előtt, a kik veled együtt ülnek az asztalnál."
+  },
+  {
+    "i": 29873,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 11,
+    "t": "Mert mindaz, a ki magát felmagasztalja, megaláztatik; és a ki magát megalázza, felmagasztaltatik."
+  },
+  {
+    "i": 29874,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 12,
+    "t": "Monda pedig annak is, a ki őt meghívta: \"Mikor ebédet vagy vacsorát készítesz, ne hívd a te barátaidat, se a te testvéreidet, se a te rokonaidat, se a gazdag szomszédaidat; hogy ők is valamiképen viszonzásul meghívjanak téged, és megtérüljön néked."
+  },
+  {
+    "i": 29875,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 13,
+    "t": "Hanem mikor lakomát készítesz, hívd a szegényeket, a csonkákat, a bénákat, a vakokat:"
+  },
+  {
+    "i": 29876,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 14,
+    "t": "És boldog leszel; mivelhogy ők nem fizethetnek néked: mert megfizettetik néked az igazak feltámadásakor."
+  },
+  {
+    "i": 29877,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 15,
+    "t": "Mikor pedig hallotta ezt valaki az együtt ülők közül, monda néki: \"Boldog, a ki az Isten országában ehet kenyeret!"
+  },
+  {
+    "i": 29878,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 16,
+    "t": "Ő pedig monda néki: \"Egy ember nagy vacsorát készített, és sokakat meghívott."
+  },
+  {
+    "i": 29879,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 17,
+    "t": "És elküldé az ő szolgáját a vacsora órájában, hogy azt mondja a meghívottaknak: Jertek, mert immár minden kész."
+  },
+  {
+    "i": 29880,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 18,
+    "t": "És mindnyájan egy szívvel kezdték magukat mentegetni. Az első monda néki: Szántóföldet vettem, és szükségképpen kimegyek, hogy azt megnézzem; kérlek téged, ments ki engem."
+  },
+  {
+    "i": 29881,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 19,
+    "t": "És másik monda: Öt iga ökröt vettem, és elmegyek, hogy azokat megpróbáljam; kérlek téged, ments ki engem."
+  },
+  {
+    "i": 29882,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 20,
+    "t": "És másik monda: Feleséget vettem, ezért nem jöhetek."
+  },
+  {
+    "i": 29883,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 21,
+    "t": "És visszatérvén a szolga, megjelenté ezeket az ő urának. Akkor megharagudván a ház ura, monda az ő szolgájának: Menj ki hamar a város útaira és utczáira, és a szegényeket, csonkákat, vakokat és bénákat hozd be ide. —"
+  },
+  {
+    "i": 29884,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 22,
+    "t": "És monda a szolga: Uram, a mint parancsoltad, meglett, és mégis van hely."
+  },
+  {
+    "i": 29885,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 23,
+    "t": "És monda az úr a szolgának: Menj ki az utakra és a sövényekhez, és kényszeríts bejőni, hogy megteljék az én házam."
+  },
+  {
+    "i": 29886,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 24,
+    "t": "Mert mondom néktek, hogy azok közül a meghívottak közül senki sem ízleli meg az én vacsorámat."
+  },
+  {
+    "i": 29887,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 25,
+    "t": "Mikor pedig nagy sokaság ment ő vele, megfordulván, monda nékik:"
+  },
+  {
+    "i": 29888,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 26,
+    "t": "\"Ha valaki én hozzám jő, és meg nem gyűlöli az ő atyját, anyját, feleségét, gyermekeit, fitestvéreit, nőtestvéreit, sőt még a maga lelkét is, nem lehet az én tanítványom."
+  },
+  {
+    "i": 29889,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 27,
+    "t": "És a ki nem hordozza az ő keresztjét, és nem jő utánam, nem lehet az én tanítványom."
+  },
+  {
+    "i": 29890,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 28,
+    "t": "\"Mert kicsoda közületek az, a ki, ha tornyot akar építeni, először le nem ül, és meg nem számlálja a költséget, vajjon van-é elég arra, hogy elvégezze?"
+  },
+  {
+    "i": 29891,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 29,
+    "t": "Hogy valamiképpen, mikor alapot vetett, és el nem végezheti, mindnyájan, a kik látják, ne kezdjenek rajta gúnyolódni,"
+  },
+  {
+    "i": 29892,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 30,
+    "t": "Mondván: Ez az ember elkezdte építeni, és nem tudta elvégezni!"
+  },
+  {
+    "i": 29893,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 31,
+    "t": "Vagy melyik király az, a ki, mikor hadba indul egy másik király ellen, először le nem ül, és meg nem gondolja, hogy tízezerrel szembeszállhat-é azzal, a ki húszezerrel jő ellenne?"
+  },
+  {
+    "i": 29894,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 32,
+    "t": "Különben, míg amaz távol van, követséget küld, és békességet kér."
+  },
+  {
+    "i": 29895,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 33,
+    "t": "Eképpen azért mindaz, a ki meg nem mond le mindenéről, a mije van, nem lehet az én tanítványom."
+  },
+  {
+    "i": 29896,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 34,
+    "t": "\"Jó a só; de ha a só is megízetlenül, mivel sózzák meg?"
+  },
+  {
+    "i": 29897,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 35,
+    "t": "Nem alkalmas az sem a földre, sem a ganéjra; hanem kidobják azt. A kinek füle van a hallásra, hallja."
+  },
+  {
+    "i": 29898,
+    "b": 48,
+    "c": 5015,
+    "r": 5015,
+    "o": 1,
+    "t": "Közelgettek pedig hozzá a vámszedők és a bűnösök mindnyájan, hogy hallgassák őt."
+  },
+  {
+    "i": 29899,
+    "b": 48,
+    "c": 5015,
+    "r": 5015,
+    "o": 2,
+    "t": "És zúgolódtak a farizeusok és az írástudók, mondván: Ez bűnösöket fogad és eszik velök!"
+  }
+]

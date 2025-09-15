@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "And the hare, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you."
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "Of their flesh shall ye not eat, and their carcass shall ye not touch; they are unclean to you."
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat."
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:"
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcasses in abomination."
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you."
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "And the vulture, and the kite after his kind;"
+  },
+  {
+    "i": 3010,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 15,
+    "t": "Every raven after his kind;"
+  },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "And the little owl, and the cormorant, and the great owl,"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "And the swan, and the pelican, and the gier eagle,"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "And the stork, the heron after her kind, and the lapwing, and the bat."
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "All fowls that creep, going upon all four, shall be an abomination unto you."
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;"
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind."
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "But all other flying creeping things, which have four feet, shall be an abomination unto you."
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "And for these ye shall be unclean: whosoever toucheth the carcass of them shall be unclean until the even."
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "And whosoever beareth ought of the carcass of them shall wash his clothes, and be unclean until the even."
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "The carcasses of any beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean."
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcass shall be unclean until the even."
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "And he that beareth the carcass of them shall wash his clothes, and be unclean until the even: they are unclean unto you."
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole."
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even."
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed."
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it."
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "All meat which may be eaten, that on which such water cometh, shall be unclean: and all drink that may be drunk in every such vessel, shall be unclean."
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "And every thing whereupon any part of their carcass falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you."
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcass shall be unclean."
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "And if any part of their carcass fall upon any sowing seed which is to be sown, it shall be clean."
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "But if any water be put upon the seed, and any part of their carcass fall thereon, it shall be unclean unto you."
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "And if any beast, of which ye may eat, die; he that toucheth the carcass thereof shall be unclean until the even."
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "And he that eateth of the carcass of it shall wash his clothes, and be unclean until the even: he also that beareth the carcass of it shall wash his clothes, and be unclean until the even."
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "And every creeping thing that creepeth upon the earth shall be an abomination; it shall not be eaten."
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination."
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye may be defiled thereby."
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "For I am the Lord your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth."
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "For I am the Lord that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy."
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "This is the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:"
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "To make a difference between the unclean and the clean, and between the beasts that may be eaten and the beasts that may not be eaten."
+  },
+  {
+    "i": 3043,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 1,
+    "t": "And the Lord spake unto Moses, saying,"
+  },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean."
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "And in the eighth day the flesh of his foreskin shall be circumcised."
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled."
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation; and she shall continue in the blood of her purifying threescore and six days."
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:"
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "Who shall offer it before the Lord, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female."
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean."
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "And the Lord spake unto Moses and Aaron, saying,"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:"
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean."
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up him that hath the plague seven days:"
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "And the priest shall look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest shall shut him up seven days more:"
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "And the priest shall look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest shall pronounce him clean: it is but a scab: and he shall wash his clothes, and be clean."
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:"
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "And if the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it is a leprosy."
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "When the plague of leprosy is in a man, then he shall be brought unto the priest;"
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "And the priest shall see him, and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "It is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he is unclean."
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that hath the plague from his head even to his foot, wheresoever the priest looketh;"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean."
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "But when raw flesh appeareth in him, he shall be unclean."
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "And the priest shall see the raw flesh, and pronounce him to be unclean: for the raw flesh is unclean: it is a leprosy."
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;"
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "And the priest shall see him: and, behold, if the plague be turned into white; then the priest shall pronounce him clean that hath the plague: he is clean."
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "The flesh also, in which, even in the skin thereof, was a boil, and is healed,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "And in the place of the boil there be a white rising, or a bright spot, white somewhat reddish, and it be showed to the priest;"
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "And if, when the priest seeth it, behold, it be in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it is a plague of leprosy broken out of the boil."
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "But if the priest look on it, and, behold, there be no white hairs therein, and if it be not lower than the skin, but be somewhat dark; then the priest shall shut him up seven days:"
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it is a plague."
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "But if the bright spot stay in his place, and spread not, it is a burning boil; and the priest shall pronounce him clean."
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burneth have a white bright spot, somewhat reddish, or white;"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "Then the priest shall look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it is the plague of leprosy."
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "But if the priest look on it, and, behold, there be no white hair in the bright spot, and it be no lower than the other skin, but be somewhat dark; then the priest shall shut him up seven days:"
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "And the priest shall look upon him the seventh day: and if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it is the plague of leprosy."
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "And if the bright spot stay in his place, and spread not in the skin, but it be somewhat dark; it is a rising of the burning, and the priest shall pronounce him clean: for it is the scar of the burning."
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "If a man or woman have a plague upon the head or the beard;"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "Then the priest shall look upon the plague: and, behold, if it be in the sight deeper than the skin, and there be in it a yellow thin hair; then the priest shall pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "And if the priest look on the scall plague, and, behold, it be not in sight deeper than the skin, and that there is no black hair in it; then the priest shall shut up him that hath the scall plague seven days:"
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "And in the seventh day the priest shall look on the plague: and, behold, if the scall be not spread, and there be in it no yellow hair, and the scall be not in sight deeper than the skin;"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up him that hath the scall seven days more:"
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "And in the seventh day the priest shall look on the scall: and, behold, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "But if the scall spread much in the skin after that he is cleansed;"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall pronounce him unclean: it is a leprosy."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "But if the scall be in his sight at a stay, and that there is black hair grown up therein; the scall is healed, he is clean: and the priest shall pronounce him clean."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "When there is in the skin of the flesh a bright spot, white somewhat reddish, or white;"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "Then the priest shall look; and, behold, if the spots in the skin of their flesh be darkish white; it is a freckled spot that groweth in the skin; he is clean."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "And if a man's hair be fallen off his head, he is bald; yet is he clean."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "And if there fall off the hair from the part of his head toward his face, he is forehead bald: yet is he clean."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or in his bald forehead."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "Then the priest shall look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "He is a leprous man, he is unclean: the priest shall pronounce him utterly unclean; his plague is in his head."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean."
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his habitation be."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "The garment also that the plague of leprosy is in, whether it be a woollen garment, or a linen garment;"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "And if the plague be greenish or reddish in the garment, or in the skin, or in either warp, or woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:"
+  }
+]

@@ -1,0 +1,795 @@
+[
+  {
+    "i": 2100,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 24,
+    "t": "Mata kung mata, ngipin kung ngipin, kamay kung kamay, paa kung paa,"
+  },
+  {
+    "i": 2101,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 25,
+    "t": "Paso kung paso, sugat kung sugat, bugbog kung bugbog."
+  },
+  {
+    "i": 2102,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 26,
+    "t": "At kung saktan ng sinoman ang mata ng kaniyang aliping lalake, o ang mata ng kaniyang aliping babae at mabulag, ay kaniyang palalayain dahil sa kaniyang mata."
+  },
+  {
+    "i": 2103,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 27,
+    "t": "At kung kaniyang bungalan ang kaniyang aliping lalake, o babae, ay kaniyang palalayain dahil sa kaniyang ngipin."
+  },
+  {
+    "i": 2104,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 28,
+    "t": "At kung ang isang baka ay manuwag ng isang lalake o ng isang babae, na ano pa't mamatay, ay babatuhing walang pagsala ang baka at ang kaniyang lama'y hindi kakanin; datapuwa't ang may-ari ng baka ay maliligtas."
+  },
+  {
+    "i": 2105,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 29,
+    "t": "Datapuwa't kung ang baka ay dating manunuwag sa panahong nakaraan, at naisumbong na sa may-ari at hindi niya kinulong, na ano pa't makamatay ng isang lalake, o isang babae: ay babatuhin ang baka at ang may-ari naman ay papatayin."
+  },
+  {
+    "i": 2106,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 30,
+    "t": "Kung siya'y atangan ng katubusan ay magbibigay nga siya ng katubusan sa kaniyang buhay anomang iatang sa kaniya."
+  },
+  {
+    "i": 2107,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 31,
+    "t": "Maging manuwag sa isang anak na lalake o babae man, ay gagawin sa kaniya ayon sa kahatulang ito."
+  },
+  {
+    "i": 2108,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 32,
+    "t": "Kung ang baka ay manuwag sa isang aliping lalake o babae, ay magbabayad ang may-ari ng tatlong pung siklong pilak sa kanilang panginoon, at ang baka ay babatuhin."
+  },
+  {
+    "i": 2109,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 33,
+    "t": "At kung ang sinoman ay magbubukas ng isang balon, o huhukay ng isang balon at hindi tatakpan, at ang isang baka, o ang isang asno ay mahulog sa loob,"
+  },
+  {
+    "i": 2110,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 34,
+    "t": "Ay sasaulian ng may-ari ng balon; magbabayad siya ng salapi sa may-ari ng mga yaon, at ang patay na hayop ay magiging kaniya."
+  },
+  {
+    "i": 2111,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 35,
+    "t": "At kung ang baka ng sinoman ay sumakit sa baka ng iba, na ano pa't mamatay; ay kanila ngang ipagbibili ang bakang buhay, at kanilang paghahatiin ang halaga niyaon; at ang patay ay paghahatiin din nila."
+  },
+  {
+    "i": 2112,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 36,
+    "t": "O kung kilala, na ang baka ay dating manunuwag sa panahong nakaraan, at hindi kinulong ng may-ari; ay tunay ngang magbabayad siya, ng baka kung baka, at ang patay na hayop ay magiging kaniyang sarili."
+  },
+  { "i": 2113, "b": 1, "c": 221, "r": 221, "o": 37, "t": null },
+  {
+    "i": 2114,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 1,
+    "t": "Kung ang isang lalake ay magnakaw ng isang baka, o ng isang tupa at patayin, o ipagbili: ay kaniyang pagbabayaran ng limang baka ang isang baka, at ng apat na tupa ang isang tupa."
+  },
+  {
+    "i": 2115,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 2,
+    "t": "Kung ang isang magnanakaw ay masumpungan, na naninira, at masaktan na ano pa't namatay ay hindi aariing mamamataytao ang pumatay."
+  },
+  {
+    "i": 2116,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 3,
+    "t": "Kung sikatan siya ng araw, ay aariin siyang mamamataytao; siya'y dapat magsauli ng kabayaran: kung siya'y wala ay ipagbibili siya dahil sa kaniyang ninakaw."
+  },
+  {
+    "i": 2117,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 4,
+    "t": "Kung ang ninakaw ay masumpungang buhay sa kaniyang kamay, maging baka, o asno, o tupa, ay magbabayad siya ng ibayo."
+  },
+  {
+    "i": 2118,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 5,
+    "t": "Kung ang sinoman ay magpastol sa isang bukid, o sa isang ubasan, at pawalan ang kaniyang hayop at pastulin sa bukid ng iba; sa pinakamainam sa kaniyang sariling parang, at sa pinakamainam sa kaniyang sariling ubasan, ay sasaulian niya."
+  },
+  {
+    "i": 2119,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 6,
+    "t": "Kung may magningas na apoy, at magtangay ng mga tinik, na ano pa't ang mga mandala, o ang mga uhay, o ang bukid ay masunog, ay tunay na magbabayad yaong nagpaningas ng apoy."
+  },
+  {
+    "i": 2120,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 7,
+    "t": "Kung ang sinoman ay magpatago sa kaniyang kapuwa ng salapi o pag-aari, at nakawin sa bahay ng taong yaon; kung masumpungan ang magnanakaw, ay magbabayad ng ibayo."
+  },
+  {
+    "i": 2121,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 8,
+    "t": "Kung hindi masumpungan ang magnanakaw, ay lalapit ang may-ari ng bahay sa Dios, upang maalaman kung hindi niya pinakialaman ang pag-aari ng kaniyang kapuwa."
+  },
+  {
+    "i": 2122,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 9,
+    "t": "Sapagka't lahat ng bagay na pagsalangsang, maging sa baka, sa asno, sa tupa, sa damit, o sa anomang bagay na nawala, na may magsabi, Ito nga ay akin; ay dadalhin sa harap ng Dios ang usap ng dalawa; yaong parurusahan ng Dios ay magbabayad ng ibayo sa kaniyang kapuwa."
+  },
+  {
+    "i": 2123,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 10,
+    "t": "Kung ang sinoman ay maghabilin sa kaniyang kapuwa ng isang asno, o ng isang baka, o ng isang tupa, o ng anomang hayop; at mamatay, o masasaktan, o maagaw, na walang nakakakitang sinoman:"
+  },
+  {
+    "i": 2124,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 11,
+    "t": "Ay pamamagitanan silang dalawa ng pagsumpa sa Panginoon kung hindi niya pinakialaman ang pag-aari ng kaniyang kapuwa; at tatanggapin ng may-ari, at siya'y hindi magsasauli."
+  },
+  {
+    "i": 2125,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 12,
+    "t": "Datapuwa't kung kaniyang ninakaw sa kaniya ay sasaulian niya ang may-ari niyaon."
+  },
+  {
+    "i": 2126,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 13,
+    "t": "Kung nalapa ay dadalhing pinakapatotoo, at hindi sasaulian ang nalapa."
+  },
+  {
+    "i": 2127,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 14,
+    "t": "At kung ang sinoman ay humiram ng anoman sa kaniyang kapuwa, at masaktan, o mamatay, na hindi kaharap ang may-ari, ay walang pagsala na siya'y magsasauli."
+  },
+  {
+    "i": 2128,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 15,
+    "t": "Kung ang may-ari niyaon ay kaharap, ay hindi niya sasaulian; kung isang bagay na pinauupahan ay ihuhulog sa kaniyang kaupahan."
+  },
+  {
+    "i": 2129,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 16,
+    "t": "At kung dayain ng isang lalake ang isang dalaga, na hindi pa niya nagiging asawa at kaniyang sipingan, ay tunay na kaniyang ipagbabayad ng bigay-kaya upang maging asawa niya."
+  },
+  {
+    "i": 2130,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 17,
+    "t": "Kung itangging mainam ng kaniyang ama na ibigay sa kaniya, ay magbabayad siya ng salapi, ayon sa bigay-kaya sa mga dalaga."
+  },
+  {
+    "i": 2131,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 18,
+    "t": "Huwag mong babatahing mabuhay ang isang babaing manggagaway."
+  },
+  {
+    "i": 2132,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 19,
+    "t": "Sinomang makiapid sa isang hayop ay papataying walang pagsala."
+  },
+  {
+    "i": 2133,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 20,
+    "t": "Yaong maghain sa anomang dios, maliban sa Panginoon lamang, ay lubos na papatayin."
+  },
+  {
+    "i": 2134,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 21,
+    "t": "At ang taga ibang lupa ay huwag mong aapihin, o pipighatiin man; sapagka't kayo'y naging taga ibang lupa sa lupain ng Egipto."
+  },
+  {
+    "i": 2135,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 22,
+    "t": "Huwag mong papagdadalamhatiin ang sinomang babaing bao, o ulila."
+  },
+  {
+    "i": 2136,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 23,
+    "t": "Kung iyong dalamhatiin sila sa anomang paraan, at sila'y dumaing sa akin, ay walang pagsala, na aking didinggin ang kanilang daing;"
+  },
+  {
+    "i": 2137,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 24,
+    "t": "At ang aking pagiinit ay magaalab, at aking papatayin kayo ng tabak; at ang inyong mga asawa ay magiging mga bao, at ang inyong mga anak ay mga ulila."
+  },
+  {
+    "i": 2138,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 25,
+    "t": "Kung magpautang ka ng salapi sa kanino man sa aking bayan na kasama mo na dukha, huwag kang magpapakamanunubo sa kaniya ni hihingan mo man siya ng tubo."
+  },
+  {
+    "i": 2139,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 26,
+    "t": "Kung iyong tanggapin sa anoman ang damit ng iyong kapuwa na pinakasangla, ay iyong isasauli sa kaniya bago lumubog ang araw;"
+  },
+  {
+    "i": 2140,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 27,
+    "t": "Sapagka't iyan ang kaniya lamang pangbihis, siyang kaniyang pangdamit sa kaniyang balat: ano ngang kaniyang ipangtutulog? at mangyayari, na pagka siya'y dumaing sa akin, ay aking didinggin; sapagka't ako'y mapagbiyaya."
+  },
+  {
+    "i": 2141,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 28,
+    "t": "Huwag mong lalapastanganin ang Dios, ni susumpain man ang pinuno sa iyong bayan."
+  },
+  {
+    "i": 2142,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 29,
+    "t": "Huwag kang magmamakupad ng paghahandog ng iyong mga ani, at ng tulo ng iyong mga pigaan. Ang panganay sa iyong mga anak na lalake ay ibibigay mo sa akin."
+  },
+  {
+    "i": 2143,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 30,
+    "t": "Gayon din ang gagawin mo sa iyong mga baka, at sa iyong mga tupa: pitong araw na mapapa sa kaniyang ina; sa ikawalong araw ay ibibigay mo sa akin."
+  },
+  {
+    "i": 2144,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 1,
+    "t": "Huwag kang magkakalat ng kasinungalingan: huwag kang makikipagkayari sa masama, na maging saksi kang sinungaling."
+  },
+  {
+    "i": 2145,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 2,
+    "t": "Huwag kang susunod sa karamihan na gumawa ng masama; ni magbibigay patotoo man sa isang usap, na ang kiling ay sa karamihan upang sirain ang kahatulan:"
+  },
+  {
+    "i": 2146,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 3,
+    "t": "Ni huwag mo ring kikilingan ang dukha sa kaniyang usap."
+  },
+  {
+    "i": 2147,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 4,
+    "t": "Kung iyong masumpungan ang baka ng iyong kaalit o ang kaniyang asno, na nakawala, ay tunay na ibabalik mo sa kaniya."
+  },
+  {
+    "i": 2148,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 5,
+    "t": "Kung iyong makita ang asno ng napopoot sa iyo, na nakalugmok sa ilalim ng kaniyang pasan, at ayaw mo mang alisan ng pasan, ay walang pagsalang iyong tutulungan pati ng may-ari niyaon."
+  },
+  {
+    "i": 2149,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 6,
+    "t": "Huwag mong sisirain ang kahatulan ng iyong dukha, sa kaniyang usap."
+  },
+  {
+    "i": 2150,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 7,
+    "t": "Layuan mo ang bagay na kasinungalingan, at ang walang sala at ang matuwid, ay huwag mong papatayin: sapagka't hindi ko patototohanan ang masama."
+  },
+  {
+    "i": 2151,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 8,
+    "t": "At huwag kang tatanggap ng suhol: sapagka't ang suhol ay bumubulag sa mga may paningin, at sinisira ang mga salita ng mga banal."
+  },
+  {
+    "i": 2152,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 9,
+    "t": "At ang taga ibang lupa ay huwag mong pipighatiin sapagka't talastas ninyo ang puso ng taga ibang lupa, yamang kayo'y naging mga taga ibang lupa, sa lupain ng Egipto."
+  },
+  {
+    "i": 2153,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 10,
+    "t": "Anim na taong hahasikan mo ang iyong lupa at aanihin mo ang bunga niyaon:"
+  },
+  {
+    "i": 2154,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 11,
+    "t": "Datapuwa't sa ikapitong taon ay iyong iiwan at babayaan, upang kumain ang dukha sa iyong bayan: at ang kanilang iwan ay kakanin ng hayop sa bukid. Gayon din ang iyong gagawin sa iyong ubasan at sa iyong olibohan."
+  },
+  {
+    "i": 2155,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 12,
+    "t": "Anim na araw, na iyong gagawin ang iyong gawain, at sa ikapitong araw, ay magpapahinga ka: upang ang iyong baka at ang iyong asno ay makapagpahinga; at ang anak na lalake ng iyong aliping babae, at ang taga ibang lupa ay makapagpahinga."
+  },
+  {
+    "i": 2156,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 13,
+    "t": "At lahat ng mga bagay na aking sinabi sa inyo ay inyong ingatan: at huwag ninyong banggitin ang pangalan ng ibang dios, o marinig man sa inyong bibig."
+  },
+  {
+    "i": 2157,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 14,
+    "t": "Makaitlong magdidiwang ka ng pista sa akin, sa bawa't taon."
+  },
+  {
+    "i": 2158,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 15,
+    "t": "Ang pista ng tinapay na walang lebadura ay iyong ipagdidiwang; pitong araw na kakain ka ng tinapay na walang lebadura, gaya ng iniutos ko sa iyo, sa takdang panahon, sa buwan ng Abib (sapagka't niyaon ka umalis sa Egipto); at walang lalapit sa harap ko na walang dala:"
+  },
+  {
+    "i": 2159,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 16,
+    "t": "At ang pista ng pagaani ng mga unang bunga ng iyong kapagalan, na iyong inihasik sa bukid: at ang pista ng pagaani, sa katapusan ng taon, nang pagaani mo ng iyong kapagalan sa bukid."
+  },
+  {
+    "i": 2160,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 17,
+    "t": "Makaitlo sa bawa't taon na ang lahat na iyong mga lalake ay haharap sa Panginoong Dios."
+  },
+  {
+    "i": 2161,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 18,
+    "t": "Huwag mong ihahandog ang dugo ng hain sa akin, na kasabay ng tinapay na may lebadura; o iiwan mo man ang taba ng aking pista sa buong magdamag hanggang sa kinaumagahan."
+  },
+  {
+    "i": 2162,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 19,
+    "t": "Ang mga pinakauna ng mga unang bunga ng iyong lupa ay iyong ipapasok sa bahay ng Panginoon mong Dios. Huwag mong lulutuin ang batang kambing sa gatas ng kaniyang ina."
+  },
+  {
+    "i": 2163,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 20,
+    "t": "Narito, aking sinusugo ang isang anghel sa unahan mo, upang ingatan ka sa daan, at upang dalhin ka sa dakong aking inihanda sa iyo."
+  },
+  {
+    "i": 2164,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 21,
+    "t": "Magingat kayo sa kaniya, at dinggin ninyo ang kaniyang tinig; huwag ninyong mungkahiin siya: sapagka't hindi niya patatawarin ang inyong pagsalangsang; sapagka't ang aking pangalan ay nasa kaniya."
+  },
+  {
+    "i": 2165,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 22,
+    "t": "Datapuwa't kung didinggin mong lubos ang kaniyang tinig, at gagawin mo ang lahat ng aking sinasalita; ay magiging kaaway nga ako ng iyong mga kaaway, kaalit ng iyong mga kaalit."
+  },
+  {
+    "i": 2166,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 23,
+    "t": "Sapagka't ang aking anghel ay magpapauna sa iyo at dadalhin ka sa Amorrheo, at sa Hetheo at sa Perezeo, at sa Cananeo, at sa Heveo, at sa Jebuseo, at aking lilipulin."
+  },
+  {
+    "i": 2167,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 24,
+    "t": "Huwag kang yuyukod sa kanilang mga dios, o maglilingkod man sa mga yaon, o gagawa man ng ayon sa kanilang mga gawa, kundi iyong iwawaksi at iyong pagpuputulputulin ang kanilang mga haligi na pinakaalaala."
+  },
+  {
+    "i": 2168,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 25,
+    "t": "At inyong paglilingkuran ang Panginoon ninyong Dios, at kaniyang babasbasan ang iyong tinapay at ang iyong tubig; at aking aalisin ang sakit sa gitna mo."
+  },
+  {
+    "i": 2169,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 26,
+    "t": "Walang babaing makukunan, o magiging baog man, sa iyong lupain: ang bilang ng iyong mga araw ay aking lulubusin."
+  },
+  {
+    "i": 2170,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 27,
+    "t": "Aking susuguin ang sindak sa unahan mo, at aking liligaligin ang buong bayan na iyong paroroonan, at aking patatalikurin sa iyo ang lahat ng iyong mga kaaway."
+  },
+  {
+    "i": 2171,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 28,
+    "t": "At aking susuguin ang mga putakti sa unahan mo, na magpapalayas sa Heveo, sa Cananeo at sa Hetheo, sa harap mo."
+  },
+  {
+    "i": 2172,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 29,
+    "t": "Hindi ko palalayasin sila sa harap mo sa isang taon; baka ang lupa'y maging ilang, at ang mga ganid sa parang ay magsidami laban sa iyo."
+  },
+  {
+    "i": 2173,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 30,
+    "t": "Untiunting aking palalayasin sila sa harap mo, hanggang sa ikaw ay kumapal at manahin mo ang lupain."
+  },
+  {
+    "i": 2174,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 31,
+    "t": "At aking itatatag ang iyong hangganan na mula sa Dagat na Mapula hanggang sa dagat ng Filistia at mula sa ilang hanggang sa Ilog ng Eufrates: sapagka't aking ibibigay ang mga nananahan sa lupain sa iyong kamay, at iyo silang palalayasin sa harap mo."
+  },
+  {
+    "i": 2175,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 32,
+    "t": "Huwag kang makikipagtipan sa kanila, ni sa kanilang mga dios."
+  },
+  {
+    "i": 2176,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 33,
+    "t": "Sila'y hindi tatahan sa iyong lupain, baka papagkasalahin ka nila laban sa akin: sapagka't kung ikaw ay maglingkod sa kanilang mga dios, ay tunay na magiging silo sa iyo."
+  },
+  {
+    "i": 2177,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 1,
+    "t": "At kaniyang sinabi kay Moises, Sumampa ka sa kinaroroonan ng Panginoon, ikaw, at si Aaron, si Nadab, at si Abiu, at pitong pu ng mga matanda sa Israel; at sumamba kayo mula sa malayo:"
+  },
+  {
+    "i": 2178,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 2,
+    "t": "At si Moises lamang ang lalapit sa Panginoon; datapuwa't sila'y hindi lalapit; o ang bayan man ay sasampang kasama niya."
+  },
+  {
+    "i": 2179,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 3,
+    "t": "At lumapit si Moises at isinaysay sa bayan ang lahat ng mga salita ng Panginoon, at ang lahat ng mga palatuntunan. At ang buong bayan ay sumagot ng paminsan, at nagsabi, Lahat ng mga salita na sinalita ng Panginoon, ay aming gagawin."
+  },
+  {
+    "i": 2180,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 4,
+    "t": "At sinulat ni Moises ang lahat ng mga salita ng Panginoon, at bumangon ng maaga sa kinaumagahan, at nagtayo ng isang dambana sa paanan ng bundok, at ng labing dalawang batong pinakaalaala, ayon sa labing dalawang lipi ng Israel."
+  },
+  {
+    "i": 2181,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 5,
+    "t": "At kaniyang sinugo ang mga binata ng mga anak ni Israel, na nagsipaghandog ng mga handog na susunugin at nagsipaghain sa Panginoon ng handog na baka tungkol sa kapayapaan."
+  },
+  {
+    "i": 2182,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 6,
+    "t": "At kinuha ni Moises ang kalahati ng dugo, at inilagay sa mga tasa; at ang kalahati ng dugo ay iniwisik sa ibabaw ng dambana."
+  },
+  {
+    "i": 2183,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 7,
+    "t": "At kaniyang kinuha ang aklat ng tipan, at binasa sa pakinig ng bayan: at kanilang sinabi, Lahat ng sinalita ng Panginoon ay aming gagawin, at kami ay magmamasunurin."
+  },
+  {
+    "i": 2184,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 8,
+    "t": "At kinuha ni Moises ang dugo at iniwisik sa bayan, at sinabi, Narito ang dugo ng tipan, na ipinakipagtipan ng Panginoon sa inyo tungkol sa lahat ng mga salitang ito."
+  },
+  {
+    "i": 2185,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 9,
+    "t": "Nang magkagayo'y sumampa si Moises, at si Aaron, si Nadab, at si Abiu, at pitongpu ng mga matanda sa Israel:"
+  },
+  {
+    "i": 2186,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 10,
+    "t": "At kanilang nakita ang Dios ng Israel; at mayroon sa ilalim ng kaniyang mga paa na parang isang yaring lapag na batong zafiro, at paris din ng langit sa kaliwanagan."
+  },
+  {
+    "i": 2187,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 11,
+    "t": "At sa mga mahal na tao sa mga anak ni Israel ay hindi niya ipinatong ang kaniyang kamay: at sila'y tumingin sa Dios, at kumain at uminom."
+  },
+  {
+    "i": 2188,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 12,
+    "t": "At sinabi ng Panginoon kay Moises, Sampahin mo ako sa bundok, at dumoon ka: at ikaw ay bibigyan ko ng mga tapyas na bato, at ng kautusan, at ng utos na aking isinulat, upang iyong maituro sa kanila."
+  },
+  {
+    "i": 2189,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 13,
+    "t": "At tumindig si Moises, at si Josue na kaniyang tagapangasiwa: at si Moises ay sumampa sa bundok ng Dios."
+  },
+  {
+    "i": 2190,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 14,
+    "t": "At kaniyang sinabi sa mga matanda, Hintayin ninyo kami rito hanggang sa kami ay bumalik sa inyo: at, narito si Aaron at si Hur ay kasama ninyo: sinomang magkaroon ng usap ay lumapit sa kanila."
+  },
+  {
+    "i": 2191,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 15,
+    "t": "At sumampa si Moises sa bundok at tinakpan ng ulap ang bundok."
+  },
+  {
+    "i": 2192,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 16,
+    "t": "At ang kaluwalhatian ng Panginoon ay nanahan sa ibabaw ng bundok ng Sinai, at tinakpan ng ulap na anim na araw: at sa ikapitong araw ay tinawag niya si Moises sa gitna ng ulap."
+  },
+  {
+    "i": 2193,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 17,
+    "t": "At ang anyo ng kaluwalhatian ng Panginoon ay paris ng apoy na manunupok sa ibabaw ng taluktok ng bundok, sa harap ng mga mata ng mga anak ni Israel."
+  },
+  {
+    "i": 2194,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 18,
+    "t": "At pumasok si Moises sa gitna ng ulap, at sumampa sa bundok: at si Moises ay natira sa bundok na apat na pung araw at apat na pung gabi."
+  },
+  {
+    "i": 2195,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 1,
+    "t": "At ang Panginoon ay nagsalita kay Moises, na sinasabi,"
+  },
+  {
+    "i": 2196,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 2,
+    "t": "Salitain mo sa mga anak ni Israel, na sila'y magdala sa akin ng isang handog: ang bawa't tao na maganyak ang puso sa kagandahang loob ay kukunan ninyo ng handog sa akin."
+  },
+  {
+    "i": 2197,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 3,
+    "t": "At ito ang handog na inyong kukunin sa kanila; ginto, at pilak, at tanso;"
+  },
+  {
+    "i": 2198,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 4,
+    "t": "At kayong bughaw, kulay-ube, at pula, at lino at balahibo ng kambing;"
+  },
+  {
+    "i": 2199,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 5,
+    "t": "At mga balat ng lalaking tupa na tinina sa pula, at mga balat ng poka, at kahoy na akasia;"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 35100,
+    "b": 72,
+    "c": 7405,
+    "r": 7405,
+    "o": 13,
+    "t": "A každé stvorenie, ktoré je v nebi, i na zemi, i pod zemou, i na mori, i všetko, čo je v nich, počul som hovoriť: „Tomu, ktorý sedí na tróne, a Baránkovi buď požehnanie, česť, sláva a moc na veky vekov!“"
+  },
+  {
+    "i": 35101,
+    "b": 72,
+    "c": 7405,
+    "r": 7405,
+    "o": 14,
+    "t": "A štyri živé bytosti hovorili: „Amen!“ a starci padli na tvár a klaňali sa."
+  },
+  {
+    "i": 35102,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 1,
+    "t": "A hľadel som, keď Baránok otvoril prvú z tých siedmich pečatí, a počul som jednu zo štyroch živých bytostí hovoriť hlasom ako hrom: „Poď!“"
+  },
+  {
+    "i": 35103,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 2,
+    "t": "A hľa, biely kôň, a ten, ktorý sedel na ňom, mal luk, a daná mu bola koruna, a vyšiel ako víťaz, aby zvíťazil."
+  },
+  {
+    "i": 35104,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 3,
+    "t": "A keď otvoril druhú pečať, počul som druhú živú bytosť hovoriť: „Poď!“"
+  },
+  {
+    "i": 35105,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 4,
+    "t": "A vyšiel iný kôň, ohnivo červený, a tomu, ktorý sedel na ňom, bolo dané odňať pokoj zo zeme, aby sa ľudia vraždili navzájom, a daný mu bol veľký meč."
+  },
+  {
+    "i": 35106,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 5,
+    "t": "A keď otvoril tretiu pečať, počul som tretiu živú bytosť hovoriť: „Poď!“ A hľa, čierny kôň, a ten, ktorý sedel na ňom, mal v ruke váhy."
+  },
+  {
+    "i": 35107,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 6,
+    "t": "A počul som hlas spomedzi štyroch živých bytostí hovoriť: „Miera pšenice za denár a tri miery jačmeňa za denár; a oleju a vínu neškoď!“"
+  },
+  {
+    "i": 35108,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 7,
+    "t": "A keď otvoril štvrtú pečať, počul som hlas štvrtej živej bytosti hovoriť: „Poď!“"
+  },
+  {
+    "i": 35109,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 8,
+    "t": "A hľa, kôň plavý, a tomu, ktorý sedel na ňom, meno Smrť, a peklo išlo za ním. A daná im bola moc nad štvrtinou zeme, aby zabíjali mečom, hladom, morom a zverami zeme."
+  },
+  {
+    "i": 35110,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 9,
+    "t": "A keď otvoril piatu pečať, videl som pod oltárom duše zabitých pre slovo Božie a pre svedectvo, ktoré mali."
+  },
+  {
+    "i": 35111,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 10,
+    "t": "A volali mohutným hlasom: „Dokedy, Pane svätý a pravdivý, nebudeš súdiť a pomstiť našu krv na tých, čo bývajú na zemi?“"
+  },
+  {
+    "i": 35112,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 11,
+    "t": "A dané bolo každému z nich biele rúcho a bolo im povedané, aby ešte krátky čas odpočívali, dokiaľ sa nenaplní počet aj ich spolupracovníkov a ich bratov, ktorí majú byť zabití ako aj oni."
+  },
+  {
+    "i": 35113,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 12,
+    "t": "A hľadel som, keď otvoril šiestu pečať, a nastalo veľké zemetrasenie a slnko sčernelo ako vrecovina z chlpov a mesiac bol ako krv,"
+  },
+  {
+    "i": 35114,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 13,
+    "t": "a hviezdy nebeské padali na zem, ako keď figovník trasený silným vetrom zhadzuje svoje nezrelé figy."
+  },
+  {
+    "i": 35115,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 14,
+    "t": "A nebo sa stiahlo ako zvinutý zvitok a všetky vrchy a ostrovy boli vytrhnuté zo svojich miest."
+  },
+  {
+    "i": 35116,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 15,
+    "t": "A králi zeme, kniežatá, vojvodcovia, boháči, mocní a každý otrok aj slobodný sa skryli do jaskýň a medzi bralá vrchov,"
+  },
+  {
+    "i": 35117,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 16,
+    "t": "a hovorili vrchom a bralám: „Padnite na nás a skryte nás pred tvárou toho, ktorý sedí na tróne, a pred hnevom Baránkovým,"
+  },
+  {
+    "i": 35118,
+    "b": 72,
+    "c": 7406,
+    "r": 7406,
+    "o": 17,
+    "t": "lebo prišiel veľký deň jeho hnevu; a kto bude môcť obstáť?“"
+  },
+  {
+    "i": 35119,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 1,
+    "t": "Potom som videl štyroch anjelov stáť na štyroch uhloch zeme a držať štyri vetry zeme, aby nevial vietor na zem, ani na more, ani na žiadny strom."
+  },
+  {
+    "i": 35120,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 2,
+    "t": "A videl som iného anjela vystupovať od východu slnka, ktorý mal pečať živého Boha, a zvolal mohutným hlasom na štyroch anjelov, ktorým bolo dané škodiť zemi a moru:"
+  },
+  {
+    "i": 35121,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 3,
+    "t": "„Neškoďte zemi, ani moru, ani stromom, dokiaľ neoznačíme služobníkov nášho Boha na ich čelách!“"
+  },
+  {
+    "i": 35122,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 4,
+    "t": "A počul som počet označených: stotridsaťštyritisíc označených zo všetkých kmeňov synov Izraelových."
+  },
+  {
+    "i": 35123,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 5,
+    "t": "Z kmeňa Júdovho dvanásťtisíc označených, z kmeňa Rúbenovho dvanásťtisíc, z kmeňa Gádovho dvanásťtisíc,"
+  },
+  {
+    "i": 35124,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 6,
+    "t": "z kmeňa Aserovho dvanásťtisíc, z kmeňa Neftalího dvanásťtisíc, z kmeňa Manassesovho dvanásťtisíc,"
+  },
+  {
+    "i": 35125,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 7,
+    "t": "z kmeňa Simeonovho dvanásťtisíc, z kmeňa Lévího dvanásťtisíc, z kmeňa Isacharovho dvanásťtisíc,"
+  },
+  {
+    "i": 35126,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 8,
+    "t": "z kmeňa Zabulonovho dvanásťtisíc, z kmeňa Jozefovho dvanásťtisíc, z kmeňa Benjaminovho dvanásťtisíc označených."
+  },
+  {
+    "i": 35127,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 9,
+    "t": "Potom som videl, a hľa, veľký zástup, ktorý nikto nemohol spočítať, zo všetkých národov a kmeňov, z každého ľudu a jazyka, stáli pred trónom a pred Baránkom, oblečení do bielych rúch a v rukách mali palmy."
+  },
+  {
+    "i": 35128,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 10,
+    "t": "A volali mohutným hlasom: „Spása nášmu Bohu, ktorý sedí na tróne, a Baránkovi!“"
+  },
+  {
+    "i": 35129,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 11,
+    "t": "A všetci anjeli stáli okolo trónu, okolo starcov a okolo štyroch živých bytostí, padli pred trónom na tvár a klaňali sa Bohu,"
+  },
+  {
+    "i": 35130,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 12,
+    "t": "hovoriac: „Amen! Požehnanie, sláva, múdrosť, vzdávanie vďaky, česť, moc a sila nášmu Bohu na veky vekov! Amen!“"
+  },
+  {
+    "i": 35131,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 13,
+    "t": "Potom sa jeden zo starcov ozval a povedal mi: „Kto sú títo oblečení do bielych rúch a odkiaľ prišli?“"
+  },
+  {
+    "i": 35132,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 14,
+    "t": "A ja som mu povedal: „Pane môj, ty to vieš!“ A on mi riekol: „To sú tí, čo prišli z veľkého súženia a oprali si rúcha a vybielili ich v krvi Baránka."
+  },
+  {
+    "i": 35133,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 15,
+    "t": "Preto sú pred trónom Božím a slúžia mu dňom i nocou v jeho chráme a ten, ktorý sedí na tróne, rozprestrie nad nimi svoj stánok."
+  },
+  {
+    "i": 35134,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 16,
+    "t": "Nebudú už hladovať ani žízniť, ani slnko, ani žiadna páľava ich nebude trápiť,"
+  },
+  {
+    "i": 35135,
+    "b": 72,
+    "c": 7407,
+    "r": 7407,
+    "o": 17,
+    "t": "lebo Baránok, ktorý je uprostred trónu, bude ich pastierom a povedie ich k prameňom živých vôd a Boh zotrie každú slzu z ich očí.“"
+  },
+  {
+    "i": 35136,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 1,
+    "t": "A keď otvoril siedmu pečať, nastalo na nebi ticho asi na pol hodiny…"
+  },
+  {
+    "i": 35137,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 2,
+    "t": "A videl som siedmich anjelov, ktorí stoja pred Bohom, a bolo im daných sedem trúb."
+  },
+  {
+    "i": 35138,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 3,
+    "t": "A prišiel iný anjel a postavil sa k oltáru so zlatou kadidelnicou; a bolo mu dané mnoho kadidla, aby ho s modlitbami všetkých svätých položil na zlatý oltár, ktorý je pred trónom."
+  },
+  {
+    "i": 35139,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 4,
+    "t": "A dym kadidla s modlitbami svätých vystúpil z ruky anjela pred Boha."
+  },
+  {
+    "i": 35140,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 5,
+    "t": "Potom anjel vzal kadidelnicu, naplnil ju ohňom z oltára a vrhol ju na zem; a nastalo hrmenie, hlasy, blesky a zemetrasenie."
+  },
+  {
+    "i": 35141,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 6,
+    "t": "A sedem anjelov, ktorí mali sedem trúb, sa pripravili trúbiť."
+  },
+  {
+    "i": 35142,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 7,
+    "t": "Zatrúbil prvý anjel; a nastalo krupobitie a oheň zmiešaný s krvou a bolo to vržené na zem; a tretina zeme zhorela a tretina stromov zhorela a všetka zelená tráva zhorela."
+  },
+  {
+    "i": 35143,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 8,
+    "t": "A zatrúbil druhý anjel; a akoby veľký vrch horiaci ohňom bol vržený do mora; a tretina mora sa stala krvou,"
+  },
+  {
+    "i": 35144,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 9,
+    "t": "a zahynula tretina tvorov, ktoré žijú v mori, a tretina lodí bola zničená."
+  },
+  {
+    "i": 35145,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 10,
+    "t": "A zatrúbil tretí anjel; a spadla z neba veľká hviezda, horiaca ako fakľa, a padla na tretinu riek a na pramene vôd."
+  },
+  {
+    "i": 35146,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 11,
+    "t": "A meno hviezdy je Palina; a tretina vôd sa premenila na palinu a mnoho ľudí zomrelo z tých vôd, lebo zhorkli."
+  },
+  {
+    "i": 35147,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 12,
+    "t": "A zatrúbil štvrtý anjel; a bola zasiahnutá tretina slnka, tretina mesiaca a tretina hviezd, aby sa zatmela tretina z nich a deň stratil tretinu svojho svetla a noc podobne."
+  },
+  {
+    "i": 35148,
+    "b": 72,
+    "c": 7408,
+    "r": 7408,
+    "o": 13,
+    "t": "A videl som a počul som orla letieť prostriedkom neba a hovoriť mohutným hlasom: „Beda, beda, beda tým, čo bývajú na zemi, pre ostatné hlasy trúb troch anjelov, ktorí majú ešte trúbiť!“"
+  },
+  {
+    "i": 35149,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 1,
+    "t": "A zatrúbil piaty anjel; a videl som hviezdu, ktorá spadla z neba na zem a bol jej daný kľúč od studne Priepasti."
+  },
+  {
+    "i": 35150,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 2,
+    "t": "A otvorila studňu Priepasti a vystúpil dym zo studne ako dym z veľkej pece; a zatmelo sa slnko a povetrie od dymu studne."
+  },
+  {
+    "i": 35151,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 3,
+    "t": "A z dymu vyšli kobylky na zem; a daná im bola moc, ako majú moc škorpióny zeme."
+  },
+  {
+    "i": 35152,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 4,
+    "t": "A bolo im povedané, aby neškodili tráve zeme, ani žiadnej zeleni, ani žiadnemu stromu, ale iba ľuďom, ktorí nemajú pečať Božiu na čelách."
+  },
+  {
+    "i": 35153,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 5,
+    "t": "A bolo im dané, aby ich nezabíjali, ale aby ich trápili päť mesiacov; a ich trápenie bolo ako trápenie od uštipnutia škorpiónom."
+  },
+  {
+    "i": 35154,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 6,
+    "t": "V tých dňoch budú ľudia hľadať smrť, ale nenájdu ju; budú si želať zomrieť, ale smrť od nich utečie."
+  },
+  {
+    "i": 35155,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 7,
+    "t": "A kobylky sa podobali koňom pripraveným do boja; na hlavách mali čosi ako koruny podobné zlatu a ich tváre boli ako tváre ľudské."
+  },
+  {
+    "i": 35156,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 8,
+    "t": "Mali vlasy ako vlasy žien a zuby ako zuby levov."
+  },
+  {
+    "i": 35157,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 9,
+    "t": "Mali panciere ako panciere železné a zvuk ich krídel bol ako zvuk vozov, keď mnoho koní beží do boja."
+  },
+  {
+    "i": 35158,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 10,
+    "t": "Mali chvosty ako škorpióny a žihadlá a v chvostoch mali moc škodiť ľuďom päť mesiacov."
+  },
+  {
+    "i": 35159,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 11,
+    "t": "Mali nad sebou kráľa, anjela Priepasti; jeho meno je po hebrejsky Abaddon, po grécky Apollyon (Ničiteľ)."
+  },
+  {
+    "i": 35160,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 12,
+    "t": "Prvé beda pominulo; hľa, po ňom prichádzajú ešte dve beda."
+  },
+  {
+    "i": 35161,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 13,
+    "t": "A zatrúbil šiesty anjel; a počul som hlas od štyroch rohov zlatého oltára, ktorý je pred Bohom,"
+  },
+  {
+    "i": 35162,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 14,
+    "t": "hovoriaci šiestemu anjelovi, ktorý mal trúbu: „Uvoľni štyroch anjelov, ktorí sú zviazaní pri veľkej rieke Eufrat!“"
+  },
+  {
+    "i": 35163,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 15,
+    "t": "A boli uvoľnení štyria anjeli, ktorí boli pripravení pre tú hodinu a deň a mesiac a rok, aby zabili tretinu ľudí."
+  },
+  {
+    "i": 35164,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 16,
+    "t": "A počet jazdeckého vojska bol dvestomiliónov; počul som ich počet."
+  },
+  {
+    "i": 35165,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 17,
+    "t": "A takto som videl kone vo videní a tých, čo sedeli na nich: mali panciere ohnivo červené, hyacintové a sírové; hlavy koní boli ako hlavy levov a z ich tlamy vychádzal oheň, dym a síra."
+  },
+  {
+    "i": 35166,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 18,
+    "t": "Od týchto troch rán, od ohňa, dymu a síry, ktoré vychádzali z ich tlamy, bola zabitá tretina ľudí."
+  },
+  {
+    "i": 35167,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 19,
+    "t": "Lebo moc koní je v ich tlamách a v ich chvostoch, lebo ich chvosty sa podobajú hadom a majú hlavy, ktorými škodia."
+  },
+  {
+    "i": 35168,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 20,
+    "t": "Ostatní ľudia, ktorí neboli zabití týmito ranami, nečinili pokánie zo skutkov svojich rúk, že by sa neklanali démonom a modlám zlatým, strieborným, medeným, kamenným a dreveným, ktoré nemôžu ani vidieť, ani počuť, ani chodiť."
+  },
+  {
+    "i": 35169,
+    "b": 72,
+    "c": 7409,
+    "r": 7409,
+    "o": 21,
+    "t": "Nečinili pokánie ani zo svojich vrážd, ani zo svojich čarodejstiev, ani zo svojho smilstva, ani zo svojich krádeží."
+  },
+  {
+    "i": 35170,
+    "b": 72,
+    "c": 7410,
+    "r": 7410,
+    "o": 1,
+    "t": "A videl som iného mocného anjela zostupovať z neba, oblečeného oblakom, s dúhou nad hlavou a jeho tvár bola ako slnko a jeho nohy ako ohnivé stĺpy,"
+  },
+  {
+    "i": 35171,
+    "b": 72,
+    "c": 7410,
+    "r": 7410,
+    "o": 2,
+    "t": "v ruke mal otvorenú knižočku a položil pravú nohu na more, ľavú na zem"
+  },
+  {
+    "i": 35172,
+    "b": 72,
+    "c": 7410,
+    "r": 7410,
+    "o": 3,
+    "t": "a zvolal mohutným hlasom, ako keď reve lev; a keď zvolal, prehovorilo sedem hromov svojimi hlasmi."
+  },
+  {
+    "i": 35173,
+    "b": 72,
+    "c": 7410,
+    "r": 7410,
+    "o": 4,
+    "t": "A keď sedem hromov prehovorilo, chcel som písať; ale počul som hlas z neba hovoriť: „Zapečať, čo hovorilo sedem hromov a nepíš to!“"
+  },
+  {
+    "i": 35174,
+    "b": 72,
+    "c": 7410,
+    "r": 7410,
+    "o": 5,
+    "t": "A anjel, ktorého som videl stáť na mori a na zemi, zdvihol pravú ruku k nebu"
+  },
+  {
+    "i": 35175,
+    "b": 72,
+    "c": 7410,
+    "r": 7410,
+    "o": 6,
+    "t": "a prisahal na toho, ktorý žije na veky vekov, ktorý stvoril nebo a čo je v ňom, zem a čo je na nej, more a čo je v ňom, že už viac nebude odkladu,"
+  },
+  {
+    "i": 35176,
+    "b": 72,
+    "c": 7410,
+    "r": 7410,
+    "o": 7,
+    "t": "ale v dňoch hlasu siedmeho anjela, keď zatrúbi, dokoná sa Božie tajomstvo, ako to oznámil svojim služobníkom prorokom."
+  },
+  {
+    "i": 35177,
+    "b": 72,
+    "c": 7410,
+    "r": 7410,
+    "o": 8,
+    "t": "A hlas, ktorý som počul z neba, mi znovu hovoril: „Choď, vezmi knižočku otvorenú v ruke anjela, ktorý stojí na mori a na zemi!“"
+  },
+  {
+    "i": 35178,
+    "b": 72,
+    "c": 7410,
+    "r": 7410,
+    "o": 9,
+    "t": "A išiel som k anjelovi a povedal som mu, aby mi dal knižočku. A riekol mi: „Vezmi a zjedz ju; a zatrpkní tvoje brucho, ale v tvojich ústach bude sladká ako med!“"
+  },
+  {
+    "i": 35179,
+    "b": 72,
+    "c": 7410,
+    "r": 7410,
+    "o": 10,
+    "t": "Vzal som knižočku z ruky anjela a zjedol som ju; a v mojich ústach bola sladká ako med, ale keď som ju zjedol, zatrpknilo mi brucho."
+  },
+  {
+    "i": 35180,
+    "b": 72,
+    "c": 7410,
+    "r": 7410,
+    "o": 11,
+    "t": "A povedal mi hlas: 'Znova musíš prorokovať o mnohých národoch, kmeňoch, jazykoch a kráľoch.'"
+  },
+  {
+    "i": 35181,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 1,
+    "t": "A bola mi daná trstina podobná palici, a bolo mi povedané: 'Vstaň a zmeraj chrám Boží a oltár, a tých, ktorí sa v ňom klaňajú."
+  },
+  {
+    "i": 35182,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 2,
+    "t": "Ale vonkajšie nádvorie chrámu vynechaj a nemeraj ho, lebo bolo dané pohanom, a oni budú šliapať po svätom meste štyridsaťdva mesiacov.'"
+  },
+  {
+    "i": 35183,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 3,
+    "t": "A dám dvom svojim svedkom, aby prorokovali tisícdvestošesťdesiat dní, oblečení v smútočné rúcho.'"
+  },
+  {
+    "i": 35184,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 4,
+    "t": "Toto sú dve olivy a dva svietniky, ktoré stoja pred Pánom zeme."
+  },
+  {
+    "i": 35185,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 5,
+    "t": "A ak im niekto chce ublížiť, oheň vychádza z ich úst a pohlcuje ich nepriateľov. A ak im niekto chce ublížiť, takto musí zahynúť."
+  },
+  {
+    "i": 35186,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 6,
+    "t": "Majú moc zavrieť nebo, aby nepršalo v dňoch ich prorokovania, a majú moc nad vodami, aby ich premenili na krv, a udrieť zem každou ranou, kedykoľvek budú chcieť."
+  },
+  {
+    "i": 35187,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 7,
+    "t": "A keď dokončia svoje svedectvo, šelma, ktorá vystupuje z priepasti, bude s nimi bojovať, prekoná ich a zabije."
+  },
+  {
+    "i": 35188,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 8,
+    "t": "A ich mŕtve telá budú ležať na uliciach veľkého mesta, ktoré sa duchovne nazýva Sodoma a Egypt, kde bol ukrižovaný aj ich Pán."
+  },
+  {
+    "i": 35189,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 9,
+    "t": "A ľudia z každého kmeňa, jazyka a národa budú hľadieť na ich mŕtve telá tri a pol dňa, a nedovolia, aby boli pochované do hrobu."
+  },
+  {
+    "i": 35190,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 10,
+    "t": "A obyvatelia zeme sa budú nad nimi radovať a veseľiť, a navzájom si budú posielať dary, lebo títo dvaja proroci trápili obyvateľov zeme."
+  },
+  {
+    "i": 35191,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 11,
+    "t": "Ale po troch a pol dňoch vstúpil do nich Duch života od Boha, a postavili sa na nohy, a veľký strach padol na tých, ktorí ich videli."
+  },
+  {
+    "i": 35192,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 12,
+    "t": "A počuli mocný hlas z neba, ktorý im hovoril: 'Vystúpte sem!' A vystúpili do neba v oblaku, a ich nepriatelia ich videli."
+  },
+  {
+    "i": 35193,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 13,
+    "t": "V tú hodinu nastalo veľké zemetrasenie, a desatina mesta padla, a v zemetrasení zahynulo sedemtisíc ľudí, a ostatní sa preľakli a vzdali slávu Bohu neba."
+  },
+  {
+    "i": 35194,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 14,
+    "t": "Druhé beda prešlo, hľa, tretie beda prichádza čoskoro."
+  },
+  {
+    "i": 35195,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 15,
+    "t": "A siedmy anjel zatrúbil, a v nebi sa ozvali mocné hlasy hovoriace: 'Kráľovstvo sveta sa stalo kráľovstvom nášho Pána a jeho Krista, a bude kraľovať na veky vekov.'"
+  },
+  {
+    "i": 35196,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 16,
+    "t": "A dvadsaťštyri starcov, ktorí sedia pred Bohom na svojich trónoch, padli na tváre a klaňali sa Bohu,"
+  },
+  {
+    "i": 35197,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 17,
+    "t": "hovoriac: 'Ďakujeme ti, Pane Bože Všemohúci, ktorý si a ktorý si bol, lebo si sa ujal svojej veľkej moci a ujal si sa kraľovania.'"
+  },
+  {
+    "i": 35198,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 18,
+    "t": "Národy sa rozhnevali, ale prišiel tvoj hnev a čas súdiť mŕtvych a dať odmenu svojim služobníkom prorokom a svätým, a tým, ktorí sa boja tvojho mena, malým i veľkým, a zničiť tých, ktorí ničia zem.'"
+  },
+  {
+    "i": 35199,
+    "b": 72,
+    "c": 7411,
+    "r": 7411,
+    "o": 19,
+    "t": "A otvoril sa chrám Boží v nebi, a ukázala sa truhla jeho zmluvy v chráme, a nastali blesky a hlasy a hromy a zemetrasenie a veľké krupobitie."
+  }
+]

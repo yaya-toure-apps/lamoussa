@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26300,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 19,
+    "t": "Aký rod je hodný cti? Rod ľudský. Aký rod je hodný cti? Tí, ktorí sa boja Pána. Aký rod je hodný opovrhnutia? Rod ľudský. Aký rod je hodný opovrhnutia? Tí, ktorí prestupujú prikázania."
+  },
+  {
+    "i": 26301,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 20,
+    "t": "Vodca je v cti u svojich bratov, tí, ktorí sa boja Pána, sú u neho v cti."
+  },
+  {
+    "i": 26302,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 21,
+    "t": "Prijatie u Boha nachádza svoj počiatok v bázni pred Pánom, ale počiatok zavrhnutia je zatvrdilosť a pýcha."
+  },
+  {
+    "i": 26303,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 22,
+    "t": "Proselyta, cudzinec alebo chudobný, ich pýcha je v bázni pred Pánom."
+  },
+  {
+    "i": 26304,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 23,
+    "t": "Nie je dobré pohŕdať chudobným, ktorý je múdry, nepatrí sa ctiť hriešnika."
+  },
+  {
+    "i": 26305,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 24,
+    "t": "Veľký, sudca, mocný sú hodní cti, ale nikto nie je väčší ako ten, kto sa bojí Pána."
+  },
+  {
+    "i": 26306,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 25,
+    "t": "Múdry otrok má slobodných za sluhov a vzdelaný človek sa nesťažuje."
+  },
+  {
+    "i": 26307,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 26,
+    "t": "Nebuj sa prehrešiť, keď konáš svoju robotu, nebuď slávnostný, keď si v tiesni."
+  },
+  {
+    "i": 26308,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 27,
+    "t": "Lepší je človek, ktorý pracuje a žije v hojnosti, ako ten, ktorý sa chváli a nemá chlieb."
+  },
+  {
+    "i": 26309,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 28,
+    "t": "Syn môj, oslavuj sa skromne a oceňuj sa spravodlivo."
+  },
+  {
+    "i": 26310,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 29,
+    "t": "Kto by sa odvážil ospravedlniť toho, kto si robí zle, a vážiť si toho, kto sa pohŕda?"
+  },
+  {
+    "i": 26311,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 30,
+    "t": "Ctia chudobného pre jeho vedomosti a bohatého pre jeho bohatstvo."
+  },
+  {
+    "i": 26312,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 31,
+    "t": "Poctený v chudobe, aké by to bolo v bohatstve! Opovrhovaný v bohatstve, aké by to bolo v chudobe!"
+  },
+  {
+    "i": 26313,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 1,
+    "t": "Chudobný, ak je múdry, drží hlavu hore a sedí medzi veľkými."
+  },
+  {
+    "i": 26314,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 2,
+    "t": "Nezdrav človeka pre jeho nádheru a nemaj nikoho v nenávisti podľa jeho výzoru."
+  },
+  {
+    "i": 26315,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 3,
+    "t": "Včela je malá medzi okrídlenými tvormi, ale to, čo produkuje, je sladké."
+  },
+  {
+    "i": 26316,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 4,
+    "t": "Nebuď pyšný na šaty, ktoré nosíš, a nechvastaj sa, keď ťa ctia: lebo skutky Pána sú obdivuhodné, ale sú skryté pred ľuďmi."
+  },
+  {
+    "i": 26317,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 5,
+    "t": "Často sedávali panovníci na dlažbe a neznámy dostal diadém."
+  },
+  {
+    "i": 26318,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 6,
+    "t": "Často boli mocní hrozne ponižovaní a slávni padli do moci druhých."
+  },
+  {
+    "i": 26319,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 7,
+    "t": "Nekarhaj skôr, ako preskúmaš, najprv premýšľaj, potom vyjadri svoje výčitky."
+  },
+  {
+    "i": 26320,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 8,
+    "t": "Neodpovedaj skôr, ako vypočuješ, nezasahuj uprostred reči."
+  },
+  {
+    "i": 26321,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 9,
+    "t": "Nevzrušuj sa pre vec, ktorá sa ťa netýka, a nemiešaj sa do sporov hriešnikov."
+  },
+  {
+    "i": 26322,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 10,
+    "t": "Syn môj, nepúšťaj sa do mnohých záležitostí; ak ich zmnožíš, nevyviazneš bez úhony; aj keby si bežal, nedobehneš a útekom sa nevyhneš."
+  },
+  {
+    "i": 26323,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 11,
+    "t": "Sú takí, ktorí sa namáhajú, unavujú a ponáhľajú, aby boli ešte viac distancovaní."
+  },
+  {
+    "i": 26324,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 12,
+    "t": "Sú slabí, ktorí žiadajú pomoc, chudobní na prostriedky a bohatí na nedostatok; Pán na nich hľadí s priazňou, pozdvihuje ich z ich biedy."
+  },
+  {
+    "i": 26325,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 13,
+    "t": "Dáva im pozdvihnúť hlavu a mnohí sa tomu čudujú."
+  },
+  {
+    "i": 26326,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 14,
+    "t": "Dobro a zlo, život a smrť, chudoba a bohatstvo, všetko pochádza od Pána."
+  },
+  {
+    "i": 26327,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 15,
+    "t": "Múdrosť, veda a poznanie Zákona pochádzajú od Pána, láska a praktizovanie dobrých skutkov pochádzajú od neho."
+  },
+  {
+    "i": 26328,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 16,
+    "t": "Bláznovstvo a temnota sú stvorené pre hriešnikov; tých, ktorí sa tešia zo zla, zlo sprevádza až do staroby."
+  },
+  {
+    "i": 26329,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 17,
+    "t": "Dar Pána zostáva verný zbožným ľuďom a jeho priazeň ich povedie naveky."
+  },
+  {
+    "i": 26330,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 18,
+    "t": "Sú ľudia, ktorí bohatnú lakomosťou, toto bude ich odmena:"
+  },
+  {
+    "i": 26331,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 19,
+    "t": "V deň, keď si povedia: \"Našiel som odpočinok, teraz môžem žiť z majetku\", nevedia, ako dlho to potrvá: budú to musieť prenechať druhým a zomrieť."
+  },
+  {
+    "i": 26332,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 20,
+    "t": "Buď pripútaný k svojej práci, dobre sa ňou zaoberaj a zostarni pri svojej práci."
+  },
+  {
+    "i": 26333,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 21,
+    "t": "Nečuduj sa skutkom hriešnika, dôveruj Pánovi a drž sa svojej práce. Lebo v očiach Pána je ľahké, rýchlo, v okamihu, obohatiť chudobného."
+  },
+  {
+    "i": 26334,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 22,
+    "t": "Požehnanie Pána je odmenou zbožného človeka, v okamihu dá Boh rozkvitnúť jeho požehnaniu."
+  },
+  {
+    "i": 26335,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 23,
+    "t": "Nehovor: \"Čo potrebujem? Aký bude teraz môj majetok?"
+  },
+  {
+    "i": 26336,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 24,
+    "t": "Nehovor: \"Mám dosť, aké nešťastie by ma mohlo postihnúť?"
+  },
+  {
+    "i": 26337,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 25,
+    "t": "V deň šťastia sa nespomína na zlo a v deň nešťastia sa zabúda na šťastie."
+  },
+  {
+    "i": 26338,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 26,
+    "t": "Je to preto, že Pánovi je ľahké v deň smrti odmeniť každého podľa jeho skutkov."
+  },
+  {
+    "i": 26339,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 27,
+    "t": "Hodina skúšky dá zabudnúť na blahobyt a v poslednú hodinu sa odhalia skutky človeka."
+  },
+  {
+    "i": 26340,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 28,
+    "t": "Nechváľ ničí šťastie pred koncom, lebo až v jeho konci sa spoznáva."
+  },
+  {
+    "i": 26341,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 29,
+    "t": "Nevpúšťaj do domu hocikoho, lebo mnohé sú úskoky intrigána."
+  },
+  {
+    "i": 26342,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 30,
+    "t": "Ako jariabok uväznený v klietke, tak je srdce pyšného, ako špión, striehne na tvoju skazu."
+  },
+  {
+    "i": 26343,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 31,
+    "t": "Mení dobro na zlo, striehne, na najlepších vlastnostiach nachádza chyby."
+  },
+  {
+    "i": 26344,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 32,
+    "t": "Iskra zapáli veľký požiar, hriešnik striehne, aby prelial krv."
+  },
+  {
+    "i": 26345,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 33,
+    "t": "Dávaj si pozor na zlého, lebo spriada zlo, boj sa, aby ti nespôsobil večnú škvrnu."
+  },
+  {
+    "i": 26346,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 34,
+    "t": "Vpustíš cudzinca, prinesie do tvojho domu zmätok a odcudzi ti tvoju domácnosť."
+  },
+  {
+    "i": 26347,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 1,
+    "t": "Ak konáš dobro, vedz, komu ho konáš, a tvoje dobrodenia nebudú stratené."
+  },
+  {
+    "i": 26348,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 2,
+    "t": "Konaj dobro zbožnému človeku, on ti to vráti, ak nie sám, tak aspoň Najvyšší."
+  },
+  {
+    "i": 26349,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 3,
+    "t": "Žiadne dobrodenia tomu, kto zotrváva v zle a odmieta konať charitu."
+  },
+  {
+    "i": 26350,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 4,
+    "t": "Dávaj zbožnému človeku a neprichádzaj na pomoc hriešnikovi."
+  },
+  {
+    "i": 26351,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 5,
+    "t": "Konaj dobro tomu, kto je pokorný, a nedávaj bezbožnému. Odopri mu chlieb, nedaj mu ho, stal by sa silnejším ako ty. Lebo by si bol odmenený dvojnásobne v zlobe za všetky dobrodenia, ktorými si ho obdaril."
+  },
+  {
+    "i": 26352,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 6,
+    "t": "Lebo sám Najvyšší má hriešnikov v ošklivosti a bezbožným uštedrí trest. Stráži ich až do dňa ich trestu."
+  },
+  {
+    "i": 26353,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 7,
+    "t": "Dávaj dobrému človeku, ale neprichádzaj na pomoc hriešnikovi."
+  },
+  {
+    "i": 26354,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 8,
+    "t": "V prosperite nemožno spoznať pravého priateľa a v protivenstvách sa nepriateľ nemôže skryť."
+  },
+  {
+    "i": 26355,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 9,
+    "t": "Keď je človek šťastný, jeho nepriatelia smútia; keď je nešťastný, aj jeho priateľ ho opustí."
+  },
+  {
+    "i": 26356,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 10,
+    "t": "Nikdy nedôveruj svojmu nepriateľovi; tak ako hrdza hrdzavie meď, tak robí aj jeho zlosť."
+  },
+  {
+    "i": 26357,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 11,
+    "t": "Aj keby sa pokoril a kráčal so zhrbeným chrbtom, dávaj na seba pozor a maj sa pred ním na pozore. Správaj sa k nemu, ako keby si leštil zrkadlo, vedz, že jeho hrdza nevydrží až do konca."
+  },
+  {
+    "i": 26358,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 12,
+    "t": "Nedávaj ho blízko seba, mohol by ťa zvrhnúť a zaujať tvoje miesto. Nedávaj ho sedieť po tvojej pravici, usiloval by sa ti odňať tvoje miesto a nakoniec by si porozumel mojim slovám, kajal by si sa, keď pomyslíš na moju reč."
+  },
+  {
+    "i": 26359,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 13,
+    "t": "Kto by sa zľutoval nad zaklínačom, ktorého uhryzne had, a nad všetkými tými, ktorí čelia divokým zverom?"
+  },
+  {
+    "i": 26360,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 14,
+    "t": "Tak je to aj s tým, kto si za spoločníka vezme hriešnika a zúčastňuje sa na jeho hriechoch."
+  },
+  {
+    "i": 26361,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 15,
+    "t": "Nejaký čas zostane s tebou, ale ak sa potkneš, neudrží sa."
+  },
+  {
+    "i": 26362,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 16,
+    "t": "Nepriateľ má na perách len sladkosť, ale v srdci premýšľa, ako ťa hodiť do jamy. Nepriateľ má slzy v očiach a ak nájde príležitosť, nenasýti sa krvi."
+  },
+  {
+    "i": 26363,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 17,
+    "t": "Ak ti osud nebude naklonený, nájdeš ho tam skôr ako teba a pod zámienkou, že ti pomáha, ťa uchopí za pätu."
+  },
+  {
+    "i": 26364,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 18,
+    "t": "Pokýva hlavou a zatlieska rukami, bude len šepkať a meniť tvár."
+  },
+  {
+    "i": 26365,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 1,
+    "t": "Kto sa dotkne smoly, zašpiní sa, kto sa stýka s pyšným, začne sa mu podobať."
+  },
+  {
+    "i": 26366,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 2,
+    "t": "Nezaťažuj sa príliš ťažkým bremenom, nespájaj sa so silnejším a bohatším, ako si ty. Prečo dávať hlinený hrniec s železným? Ak ho narazí, rozbije sa."
+  },
+  {
+    "i": 26367,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 3,
+    "t": "Bohatý pácha nespravodlivosť, nadúva sa; chudobný je ukrivdený, prosí."
+  },
+  {
+    "i": 26368,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 4,
+    "t": "Ak mu slúžiš, použije ťa, ak zlyháš, odvráti sa od teba."
+  },
+  {
+    "i": 26369,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 5,
+    "t": "Máš nejaký majetok? Bude s tebou žiť, bez výčitiek ťa olúpi."
+  },
+  {
+    "i": 26370,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 6,
+    "t": "Potrebuje ťa? Bude ťa lichotiť, usmievať sa na teba a dávať ti nádej, bude ti adresovať dobré slová a povie: \"Čo potrebuješ?"
+  },
+  {
+    "i": 26371,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 7,
+    "t": "Poníži ťa počas svojich hostín, až ťa dvakrát alebo trikrát olúpi a nakoniec sa ti vysmeje. Potom, ak ťa zbadá, odvráti sa od teba, kývajúc nad tebou hlavou."
+  },
+  {
+    "i": 26372,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 8,
+    "t": "Dávaj si pozor, aby si sa nenechal zviesť, aby si nebol ponížený vo svojej hlúposti."
+  },
+  {
+    "i": 26373,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 9,
+    "t": "Keď ťa volá veľký, skry sa, bude ťa volať ešte viac."
+  },
+  {
+    "i": 26374,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 10,
+    "t": "Neponáhľaj sa, aby ťa neodmietli; nedrž sa príliš ďaleko, aby si nebol zabudnutý."
+  },
+  {
+    "i": 26375,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 11,
+    "t": "Neopováž sa s ním byť dôverný, nedôveruj jeho výrečnosti. Svojím rečnením ťa skúša, ako hrou zisťuje informácie."
+  },
+  {
+    "i": 26376,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 12,
+    "t": "Nemilosrdný je ten, kto rozširuje reči; neušetrí ti rany ani reťaze."
+  },
+  {
+    "i": 26377,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 13,
+    "t": "Dávaj si pozor a dobre si dávaj pozor, lebo kráčaš v spoločnosti svojej vlastnej skazy."
+  },
+  {
+    "i": 26378,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 14,
+    "t": "Keď to počuješ vo svojom spánku, prebuď sa; po celý svoj život miluj Pána a vzývaj ho pre svoju spásu."
+  },
+  {
+    "i": 26379,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 15,
+    "t": "Každý živý tvor miluje svojho druhu a každý človek svojho blížneho."
+  },
+  {
+    "i": 26380,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 16,
+    "t": "Každé telo sa spája podľa svojho druhu a človek sa združuje s podobným sebe."
+  },
+  {
+    "i": 26381,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 17,
+    "t": "Ako by sa mohol vlk dohovoriť s jahniatkom? Tak je to s hriešnikom a spravodlivým človekom."
+  },
+  {
+    "i": 26382,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 18,
+    "t": "Aký pokoj môže byť medzi hyenou a psom? A aký pokoj medzi boháčom a chudobným?"
+  },
+  {
+    "i": 26383,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 19,
+    "t": "Divé osly na púšti sú korisťou levov, tak chudobní sú korisťou boháčov."
+  },
+  {
+    "i": 26384,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 20,
+    "t": "Pre pyšného je pokora ohavnosťou: tak boháč má chudobného v ošklivosti."
+  },
+  {
+    "i": 26385,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 21,
+    "t": "Keď boháč urobí chybný krok, jeho priatelia ho podoprú; keď nešťastník padne, jeho priatelia ho odvrhnú."
+  },
+  {
+    "i": 26386,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 22,
+    "t": "Keď boháč potkne, mnohí ho prijmú do svojich rúk, ak povie hlúposti, prikývnu mu. Keď nešťastník potkne, vyčítajú mu to, ak povie veci rozumné, niet pre neho miesta."
+  },
+  {
+    "i": 26387,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 23,
+    "t": "Keď boháč hovorí, všetci mlčia a vynášajú jeho reč do nebies. Keď chudobný hovorí, povedia: \"Kto je to?\" A ak sa potkne, zhodia ho na zem."
+  },
+  {
+    "i": 26388,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 24,
+    "t": "Bohatstvo je dobré, keď je bez hriechu, chudoba je zlá, ako vraví bezbožný."
+  },
+  {
+    "i": 26389,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 25,
+    "t": "Srdce človeka modeluje jeho tvár, či už v dobrom, alebo v zlom."
+  },
+  {
+    "i": 26390,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 26,
+    "t": "Pre srdce v radosti, veselá tvár; vymýšľanie prísloví predpokladá bolestivé úvahy."
+  },
+  {
+    "i": 26391,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 1,
+    "t": "Blahoslavený človek, ktorý nehrešil v slovách a ktorého netrápi ľútosť nad svojimi chybami."
+  },
+  {
+    "i": 26392,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 2,
+    "t": "Blahoslavený človek, ktorý si nerobí výčitky a ktorý nezapadá do zúfalstva."
+  },
+  {
+    "i": 26393,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 3,
+    "t": "Lakomému človeku nepristane bohatstvo a pre chamtivého, načo sú mu veľké majetky?"
+  },
+  {
+    "i": 26394,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 4,
+    "t": "Kto hromadí odriekaním, hromadí pre iných, z jeho majetku sa budú sýtiť iní."
+  },
+  {
+    "i": 26395,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 5,
+    "t": "Ten, kto je tvrdý k sebe samému, pre koho by bol dobrý? Neužíva si ani svoje vlastné majetky."
+  },
+  {
+    "i": 26396,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 6,
+    "t": "Niet človeka krutejšieho, ako ten, ktorý sa mučí sám, to je odmena za jeho zlosť."
+  },
+  {
+    "i": 26397,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 7,
+    "t": "Ak urobí niečo dobré, je to nedopatrením, nakoniec ukáže svoju zlosť."
+  },
+  {
+    "i": 26398,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 8,
+    "t": "Je to zlý človek, človek s chamtivými pohľadmi, ktorý odvracia oči a opovrhuje životom iných."
+  },
+  {
+    "i": 26399,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 9,
+    "t": "Závistlivý človek nie je spokojný s tým, čo má, chamtivosť vysušuje dušu."
+  }
+]

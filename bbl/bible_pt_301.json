@@ -1,0 +1,802 @@
+[
+  {
+    "i": 30100,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 12,
+    "t": "E tornou ainda a mandar um terceiro; mas eles, ferindo também a este, o expulsaram."
+  },
+  {
+    "i": 30101,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 13,
+    "t": "E disse o senhor da vinha: Que farei? Mandarei o meu filho amado; talvez, vendo-o, seja respeitado."
+  },
+  {
+    "i": 30102,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 14,
+    "t": "Mas, vendo-o os lavradores, arrazoaram entre si, dizendo: Este é o herdeiro; vinde, matemo-lo, para que a herança seja nossa."
+  },
+  {
+    "i": 30103,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 15,
+    "t": "E, lançando-o fora da vinha, o mataram. Que lhes fará, pois, o SENHOR da vinha?"
+  },
+  {
+    "i": 30104,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 16,
+    "t": "Irá, e destruirá estes lavradores, e dará a outros a vinha. E, ouvindo eles isto, disseram: Não seja assim!"
+  },
+  {
+    "i": 30105,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 17,
+    "t": "Mas ele, olhando para eles, disse: Que é isto, pois, que está escrito? A pedra, que os edificadores reprovaram, Essa foi feita cabeça da esquina."
+  },
+  {
+    "i": 30106,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 18,
+    "t": "Qualquer que cair sobre aquela pedra ficará em pedaços, e aquele sobre quem ela cair será feito em pó."
+  },
+  {
+    "i": 30107,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 19,
+    "t": "E os principais dos sacerdotes e os escribas procuravam lançar mão dele naquela mesma hora; mas temeram o povo; porque entenderam que contra eles dissera esta parábola."
+  },
+  {
+    "i": 30108,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 20,
+    "t": "E, observando-o, mandaram espias, que se fingissem justos, para o apanharem nalguma palavra, e o entregarem à jurisdição e poder do presidente."
+  },
+  {
+    "i": 30109,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 21,
+    "t": "E perguntaram-lhe, dizendo: Mestre, nós sabemos que falas e ensinas bem e retamente, e que não consideras a aparência da pessoa, mas ensinas com verdade o caminho de Deus."
+  },
+  {
+    "i": 30110,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 22,
+    "t": "É-nos lícito dar tributo a César ou não?"
+  },
+  {
+    "i": 30111,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 23,
+    "t": "E, entendendo ele a sua astúcia, disse-lhes: Por que me tentais?"
+  },
+  {
+    "i": 30112,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 24,
+    "t": "Mostrai-me uma moeda. De quem tem a imagem e a inscrição? E, respondendo eles, disseram: De César."
+  },
+  {
+    "i": 30113,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 25,
+    "t": "Disse-lhes então: Dai, pois, a César o que é de César, e a Deus o que é de Deus."
+  },
+  {
+    "i": 30114,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 26,
+    "t": "E não puderam apanhá-lo em palavra alguma diante do povo; e, maravilhados da sua resposta, calaram-se."
+  },
+  {
+    "i": 30115,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 27,
+    "t": "E, chegando-se alguns dos saduceus, que dizem não haver ressurreição, perguntaram-lhe,"
+  },
+  {
+    "i": 30116,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 28,
+    "t": "Dizendo: Mestre, Moisés nos deixou escrito que, se o irmão de algum falecer, tendo mulher, e não deixar filhos, o irmão dele tome a mulher, e suscite posteridade a seu irmão."
+  },
+  {
+    "i": 30117,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 29,
+    "t": "Houve, pois, sete irmãos, e o primeiro tomou mulher, e morreu sem filhos;"
+  },
+  {
+    "i": 30118,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 30,
+    "t": "E tomou-a o segundo por mulher, e ele morreu sem filhos."
+  },
+  {
+    "i": 30119,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 31,
+    "t": "E tomou-a o terceiro, e igualmente também os sete; e morreram, e não deixaram filhos."
+  },
+  {
+    "i": 30120,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 32,
+    "t": "E por último, depois de todos, morreu também a mulher."
+  },
+  {
+    "i": 30121,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 33,
+    "t": "Portanto, na ressurreição, de qual deles será a mulher, pois que os sete por mulher a tiveram?"
+  },
+  {
+    "i": 30122,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 34,
+    "t": "E, respondendo Jesus, disse-lhes: Os filhos deste mundo casam-se, e dão-se em casamento;"
+  },
+  {
+    "i": 30123,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 35,
+    "t": "Mas os que forem havidos por dignos de alcançar o mundo vindouro, e a ressurreição dentre os mortos, nem hão de casar, nem ser dados em casamento;"
+  },
+  {
+    "i": 30124,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 36,
+    "t": "Porque já não podem mais morrer; pois são iguais aos anjos, e são filhos de Deus, sendo filhos da ressurreição."
+  },
+  {
+    "i": 30125,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 37,
+    "t": "E que os mortos hão de ressuscitar também o mostrou Moisés junto da sarça, quando chama ao Senhor Deus de Abraão, e Deus de Isaque, e Deus de Jacó."
+  },
+  {
+    "i": 30126,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 38,
+    "t": "Ora, Deus não é Deus de mortos, mas de vivos; porque para ele vivem todos."
+  },
+  {
+    "i": 30127,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 39,
+    "t": "E, respondendo alguns dos escribas, disseram: Mestre, disseste bem."
+  },
+  {
+    "i": 30128,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 40,
+    "t": "E não ousavam perguntar-lhe mais coisa alguma."
+  },
+  {
+    "i": 30129,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 41,
+    "t": "E ele lhes disse: Como dizem que o Cristo é filho de Davi?"
+  },
+  {
+    "i": 30130,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 42,
+    "t": "Visto como o mesmo Davi diz no livro dos Salmos: Disse o SENHOR ao meu Senhor: Assenta-te à minha direita,"
+  },
+  {
+    "i": 30131,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 43,
+    "t": "Até que eu ponha os teus inimigos por escabelo de teus pés."
+  },
+  {
+    "i": 30132,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 44,
+    "t": "Se Davi lhe chama Senhor, como é ele seu filho?"
+  },
+  {
+    "i": 30133,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 45,
+    "t": "E, ouvindo-o todo o povo, disse Jesus aos seus discípulos:"
+  },
+  {
+    "i": 30134,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 46,
+    "t": "Guardai-vos dos escribas, que querem andar com vestes compridas; e amam as saudações nas praças, e as principais cadeiras nas sinagogas, e os primeiros lugares nos banquetes;"
+  },
+  {
+    "i": 30135,
+    "b": 48,
+    "c": 5020,
+    "r": 5020,
+    "o": 47,
+    "t": "Que devoram as casas das viúvas, fazendo, por pretexto, longas orações. Estes receberão maior condenação."
+  },
+  {
+    "i": 30136,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 1,
+    "t": "E, OLHANDO ele, viu os ricos lançarem as suas ofertas na arca do tesouro;"
+  },
+  {
+    "i": 30137,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 2,
+    "t": "E viu também uma pobre viúva lançar ali duas pequenas moedas;"
+  },
+  {
+    "i": 30138,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 3,
+    "t": "E disse: Em verdade vos digo que lançou mais do que todos, esta pobre viúva;"
+  },
+  {
+    "i": 30139,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 4,
+    "t": "Porque todos aqueles deitaram para as ofertas de Deus do que lhes sobeja; mas esta, da sua pobreza, deitou todo o sustento que tinha."
+  },
+  {
+    "i": 30140,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 5,
+    "t": "E, dizendo alguns a respeito do templo, que estava ornado de formosas pedras e dádivas, disse:"
+  },
+  {
+    "i": 30141,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 6,
+    "t": "Quanto a estas coisas que vedes, dias virão em que não se deixará pedra sobre pedra, que não seja derrubada."
+  },
+  {
+    "i": 30142,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 7,
+    "t": "E perguntaram-lhe, dizendo: Mestre, quando serão, pois, estas coisas? E que sinal haverá quando isto estiver para acontecer?"
+  },
+  {
+    "i": 30143,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 8,
+    "t": "Disse então ele: Vede não vos enganem, porque virão muitos em meu nome, dizendo: Sou eu, e o tempo está próximo. Não vades, portanto, após eles."
+  },
+  {
+    "i": 30144,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 9,
+    "t": "E, quando ouvirdes de guerras e sedições, não vos assusteis. Porque é necessário que isto aconteça primeiro, mas o fim não será logo."
+  },
+  {
+    "i": 30145,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 10,
+    "t": "Então lhes disse: Levantar-se-á nação contra nação, e reino contra reino;"
+  },
+  {
+    "i": 30146,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 11,
+    "t": "E haverá em vários lugares grandes terremotos, e fomes e pestilências; haverá também coisas espantosas, e grandes sinais do céu."
+  },
+  {
+    "i": 30147,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 12,
+    "t": "Mas antes de todas estas coisas lançarão mão de vós, e vos perseguirão, entregando-vos às sinagogas e às prisões, e conduzindo-vos à presença de reis e presidentes, por amor do meu nome."
+  },
+  {
+    "i": 30148,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 13,
+    "t": "E vos acontecerá isto para testemunho."
+  },
+  {
+    "i": 30149,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 14,
+    "t": "Proponde, pois, em vossos corações não premeditar como haveis de responder;"
+  },
+  {
+    "i": 30150,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 15,
+    "t": "Porque eu vos darei boca e sabedoria a que não poderão resistir nem contradizer todos quantos se vos opuserem."
+  },
+  {
+    "i": 30151,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 16,
+    "t": "E até pelos pais, e irmãos, e parentes, e amigos sereis entregues; e matarão alguns de vós."
+  },
+  {
+    "i": 30152,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 17,
+    "t": "E de todos sereis odiados por causa do meu nome."
+  },
+  {
+    "i": 30153,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 18,
+    "t": "Mas não perecerá um único cabelo da vossa cabeça."
+  },
+  {
+    "i": 30154,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 19,
+    "t": "Na vossa paciência possuí as vossas almas."
+  },
+  {
+    "i": 30155,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 20,
+    "t": "Mas, quando virdes Jerusalém cercada de exércitos, sabei então que é chegada a sua desolação."
+  },
+  {
+    "i": 30156,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 21,
+    "t": "Então, os que estiverem na Judéia, fujam para os montes; os que estiverem no meio da cidade, saiam; e os que nos campos não entrem nela."
+  },
+  {
+    "i": 30157,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 22,
+    "t": "Porque dias de vingança são estes, para que se cumpram todas as coisas que estão escritas."
+  },
+  {
+    "i": 30158,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 23,
+    "t": "Mas ai das grávidas, e das que criarem naqueles dias! porque haverá grande aperto na terra, e ira sobre este povo."
+  },
+  {
+    "i": 30159,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 24,
+    "t": "E cairão ao fio da espada, e para todas as nações serão levados cativos; e Jerusalém será pisada pelos gentios, até que os tempos dos gentios se completem."
+  },
+  {
+    "i": 30160,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 25,
+    "t": "E haverá sinais no sol e na lua e nas estrelas; e na terra angústia das nações, em perplexidade pelo bramido do mar e das ondas."
+  },
+  {
+    "i": 30161,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 26,
+    "t": "Homens desmaiando de terror, na expectação das coisas que sobrevirão ao mundo; porquanto as virtudes do céu serão abaladas."
+  },
+  {
+    "i": 30162,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 27,
+    "t": "E então verão vir o Filho do homem numa nuvem, com poder e grande glória."
+  },
+  {
+    "i": 30163,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 28,
+    "t": "Ora, quando estas coisas começarem a acontecer, olhai para cima e levantai as vossas cabeças, porque a vossa redenção está próxima."
+  },
+  {
+    "i": 30164,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 29,
+    "t": "E disse-lhes uma parábola: Olhai para a figueira, e para todas as árvores;"
+  },
+  {
+    "i": 30165,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 30,
+    "t": "Quando já têm rebentado, vós sabeis por vós mesmos, vendo-as, que perto está já o verão."
+  },
+  {
+    "i": 30166,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 31,
+    "t": "Assim também vós, quando virdes acontecer estas coisas, sabei que o reino de Deus está perto."
+  },
+  {
+    "i": 30167,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 32,
+    "t": "Em verdade vos digo que não passará esta geração até que tudo aconteça."
+  },
+  {
+    "i": 30168,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 33,
+    "t": "Passará o céu e a terra, mas as minhas palavras não hão de passar."
+  },
+  {
+    "i": 30169,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 34,
+    "t": "E olhai por vós, não aconteça que os vossos corações se carreguem de glutonaria, de embriaguez, e dos cuidados da vida, e venha sobre vós de improviso aquele dia."
+  },
+  {
+    "i": 30170,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 35,
+    "t": "Porque virá como um laço sobre todos os que habitam na face de toda a terra."
+  },
+  {
+    "i": 30171,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 36,
+    "t": "Vigiai, pois, em todo o tempo, orando, para que sejais havidos por dignos de evitar todas estas coisas que hão de acontecer, e de estar em pé diante do Filho do homem."
+  },
+  {
+    "i": 30172,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 37,
+    "t": "E de dia ensinava no templo, e à noite, saindo, ficava no monte chamado das Oliveiras."
+  },
+  {
+    "i": 30173,
+    "b": 48,
+    "c": 5021,
+    "r": 5021,
+    "o": 38,
+    "t": "E todo o povo ia ter com ele ao templo, de manhã cedo, para o ouvir."
+  },
+  {
+    "i": 30174,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 1,
+    "t": "ESTAVA, pois, perto a festa dos ázimos, chamada a páscoa."
+  },
+  {
+    "i": 30175,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 2,
+    "t": "E os principais dos sacerdotes, e os escribas, andavam procurando como o matariam; porque temiam o povo."
+  },
+  {
+    "i": 30176,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 3,
+    "t": "Entrou, porém, Satanás em Judas, que tinha por sobrenome Iscariotes, o qual era do número dos doze."
+  },
+  {
+    "i": 30177,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 4,
+    "t": "E foi, e falou com os principais dos sacerdotes, e com os capitães, de como lho entregaria;"
+  },
+  {
+    "i": 30178,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 5,
+    "t": "Os quais se alegraram, e convieram em lhe dar dinheiro."
+  },
+  {
+    "i": 30179,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 6,
+    "t": "E ele concordou; e buscava oportunidade para lho entregar sem alvoroço."
+  },
+  {
+    "i": 30180,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 7,
+    "t": "Chegou, porém, o dia dos ázimos, em que importava sacrificar a páscoa."
+  },
+  {
+    "i": 30181,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 8,
+    "t": "E mandou a Pedro e a João, dizendo: Ide, preparai-nos a páscoa, para que a comamos."
+  },
+  {
+    "i": 30182,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 9,
+    "t": "E eles lhe perguntaram: Onde queres que a preparemos?"
+  },
+  {
+    "i": 30183,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 10,
+    "t": "E ele lhes disse: Eis que, quando entrardes na cidade, encontrareis um homem, levando um cântaro de água; segui-o até à casa em que ele entrar."
+  },
+  {
+    "i": 30184,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 11,
+    "t": "E direis ao pai de família da casa: O Mestre te diz: Onde está o aposento em que hei de comer a páscoa com os meus discípulos?"
+  },
+  {
+    "i": 30185,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 12,
+    "t": "Então ele vos mostrará um grande cenáculo mobilado; aí fazei preparativos."
+  },
+  {
+    "i": 30186,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 13,
+    "t": "E, indo eles, acharam como lhes havia sido dito; e prepararam a páscoa."
+  },
+  {
+    "i": 30187,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 14,
+    "t": "E, chegada a hora, pôs-se à mesa, e com ele os doze apóstolos."
+  },
+  {
+    "i": 30188,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 15,
+    "t": "E disse-lhes: Desejei muito comer convosco esta páscoa, antes que padeça;"
+  },
+  {
+    "i": 30189,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 16,
+    "t": "Porque vos digo que não a comerei mais até que ela se cumpra no reino de Deus."
+  },
+  {
+    "i": 30190,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 17,
+    "t": "E, tomando o cálice, e havendo dado graças, disse: Tomai-o, e reparti-o entre vós;"
+  },
+  {
+    "i": 30191,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 18,
+    "t": "Porque vos digo que já não beberei do fruto da vide, até que venha o reino de Deus."
+  },
+  {
+    "i": 30192,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 19,
+    "t": "E, tomando o pão, e havendo dado graças, partiu-o, e deu-lho, dizendo: Isto é o meu corpo, que por vós é dado; fazei isto em memória de mim."
+  },
+  {
+    "i": 30193,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 20,
+    "t": "Semelhantemente, tomou o cálice, depois da ceia, dizendo: Este cálice é o novo testamento no meu sangue, que é derramado por vós."
+  },
+  {
+    "i": 30194,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 21,
+    "t": "Mas eis que a mão do que me trai está comigo à mesa."
+  },
+  {
+    "i": 30195,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 22,
+    "t": "E, na verdade, o Filho do homem vai segundo o que está determinado; mas ai daquele homem por quem é traído!"
+  },
+  {
+    "i": 30196,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 23,
+    "t": "E começaram a perguntar entre si qual deles seria o que havia de fazer isto."
+  },
+  {
+    "i": 30197,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 24,
+    "t": "E houve também entre eles contenda, sobre qual deles parecia ser o maior."
+  },
+  {
+    "i": 30198,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 25,
+    "t": "E ele lhes disse: Os reis dos gentios dominam sobre eles, e os que têm autoridade sobre eles são chamados benfeitores."
+  },
+  {
+    "i": 30199,
+    "b": 48,
+    "c": 5022,
+    "r": 5022,
+    "o": 26,
+    "t": "Mas não sereis vós assim; antes o maior entre vós seja como o menor; e quem governa como quem serve."
+  }
+]

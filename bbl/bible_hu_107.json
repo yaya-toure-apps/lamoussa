@@ -1,0 +1,802 @@
+[
+  {
+    "i": 10700,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 26,
+    "t": "Hős vitézek: Aszáhel, Joáb testvére, Elhanán, Dódó fia, Betlehemből,"
+  },
+  {
+    "i": 10701,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 27,
+    "t": "Sammót, a hárorita, Héles, a pelóni,"
+  },
+  {
+    "i": 10702,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 28,
+    "t": "Irá, Ikkes fia, Tekóából, Abiézer, Anatótból,"
+  },
+  {
+    "i": 10703,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 29,
+    "t": "Szibbekáj, a húsaita, Ilaj, az ahóhita,"
+  },
+  {
+    "i": 10704,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 30,
+    "t": "Mahraj, a netófai, Héled, Baána fia, Netófából,"
+  },
+  {
+    "i": 10705,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 31,
+    "t": "Ittaj, Ribáj fia, Gibéából, Benjamin fiainak városából, Benája, Pirátónból,"
+  },
+  {
+    "i": 10706,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 32,
+    "t": "Húraj, a Gaás patakjainak völgyéből, Abiél, a Bet-Arábából való,"
+  },
+  {
+    "i": 10707,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 33,
+    "t": "Azmávet, a bahúrimi, Eljahba, a saalbóni,"
+  },
+  {
+    "i": 10708,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 34,
+    "t": "Bené-Hásem, a gizóni, Jonatán, Sagé fia, a harári,"
+  },
+  {
+    "i": 10709,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 35,
+    "t": "Ahiám, Szakár fia, a harári, Elifélet, Úr fia,"
+  },
+  {
+    "i": 10710,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 36,
+    "t": "Héfer, a mekerái, Ahija, a pelóni,"
+  },
+  {
+    "i": 10711,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 37,
+    "t": "Hecró, a karmeli, Nááraj, Ezbáj fia,"
+  },
+  {
+    "i": 10712,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 38,
+    "t": "Joél, Nátán testvére, Mibhár, Hagri fia,"
+  },
+  {
+    "i": 10713,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 39,
+    "t": "Celek, az ammonita, Náhraj, a Beerótból való, Joáb fegyverhordozója, Cerúja fia,"
+  },
+  {
+    "i": 10714,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 40,
+    "t": "Irá, a jattiri, Gáreb, a jattiri,"
+  },
+  {
+    "i": 10715,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 41,
+    "t": "Úrija, a hettita, Zabád, Ahláj fia,"
+  },
+  {
+    "i": 10716,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 42,
+    "t": "Adina, Siza fia, a rúbeni, a rúbeniek feje és a harmincak felelőse,"
+  },
+  {
+    "i": 10717,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 43,
+    "t": "Hanán, Maáka fia, Josafát, a mitni,"
+  },
+  {
+    "i": 10718,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 44,
+    "t": "Uzzija, Astarótból, Sama és Jéúel, Hótam fiai, Aróérból,"
+  },
+  {
+    "i": 10719,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 45,
+    "t": "Jediáel, Simri fia és Jóha, a testvére, a ticei,"
+  },
+  {
+    "i": 10720,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 46,
+    "t": "Éliél, a mahavita, Jeribaj és Josávja, Elnáám fiai, Jitma, a moábita,"
+  },
+  {
+    "i": 10721,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 47,
+    "t": "Éliél, Obed és Jaásziel, Kóbából valók."
+  },
+  {
+    "i": 10722,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 1,
+    "t": "Ezek pedig azok, akik Dávidhoz csatlakoztak Ciklagban, amikor még el volt zárva Kistől, Saul fiától; hősök voltak, hadakozók a háborúban,"
+  },
+  {
+    "i": 10723,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 2,
+    "t": "akik tudtak íjat lőni jobb és bal kézzel, köveket és nyilakat használva. Saul testvérei közül a benjaminiták voltak:"
+  },
+  {
+    "i": 10724,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 3,
+    "t": "Ahiézer, a fejedelem, és Joás, Hassemaa fia, Gibéából, Jeziél és Pélet, Azmávet fiai, Beráka és Jéhu, Anatótból,"
+  },
+  {
+    "i": 10725,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 4,
+    "t": "Jismája, Gibeonból, egy hős a harmincak között, és a harmincak feje;"
+  },
+  {
+    "i": 10726,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 5,
+    "t": "Jirmeja, Jaháziél, Johánán és Jozabád, Gedérotból,"
+  },
+  {
+    "i": 10727,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 6,
+    "t": "Eléuzáj, Jerimót, Beálja, Semarjáhu, Sefatjáhu, Hárifból,"
+  },
+  {
+    "i": 10728,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 7,
+    "t": "Elkána, Jisijáhu, Azáréel, Joezer, Jasóbám, Koré fiak,"
+  },
+  {
+    "i": 10729,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 8,
+    "t": "Joéla, Zebádja, Jeróhám fia, Gedórból."
+  },
+  {
+    "i": 10730,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 9,
+    "t": "A gáditák elpártoltak Dávidhoz a sivatagi rejtekhelyére. Hős vitézek voltak, hadakozók, harcra készek, tudtak pajzsot és lándzsát forgatni. Oroszlánokhoz hasonlítottak; gyorsaságukban a hegyeken szökellő gazellákhoz hasonlítottak."
+  },
+  {
+    "i": 10731,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 10,
+    "t": "Ézer volt a fejedelem, Obádja a második, Eliáb a harmadik,"
+  },
+  {
+    "i": 10732,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 11,
+    "t": "Masmanna a negyedik, Jirmeja az ötödik,"
+  },
+  {
+    "i": 10733,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 12,
+    "t": "Attaj a hatodik, Éliél a hetedik,"
+  },
+  {
+    "i": 10734,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 13,
+    "t": "Johánán a nyolcadik, Elzabád a kilencedik,"
+  },
+  {
+    "i": 10735,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 14,
+    "t": "Jirmejáhu a tizedik, Makbannaj a tizenegyedik."
+  },
+  {
+    "i": 10736,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 15,
+    "t": "Ilyenek voltak Gád fiai, hadtestek fejei; egy száz fölött parancsolt, ha kicsi volt, ezer fölött, ha nagy."
+  },
+  {
+    "i": 10737,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 16,
+    "t": "Ők azok, akik átkeltek a Jordánon az első hónapban, amikor az áradásig telve van, és elűzték a folyóparti lakókat mind keleten, mind nyugaton."
+  },
+  {
+    "i": 10738,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 17,
+    "t": "Néhány benjamini és júdai is elment Dávidhoz a rejtekhelyére."
+  },
+  {
+    "i": 10739,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 18,
+    "t": "Dávid eléjük ment, szólt és mondta nekik: \"Ha barátként jöttök hozzám, hogy segítsetek, hajlandó vagyok veletek egyesülni, de ha azért jöttök, hogy eláruljatok engem ellenségeim javára, miközben kezeim nem tettek semmi rosszat, akkor lássa meg atyáink Istene, és tegyen igazságot!"
+  },
+  {
+    "i": 10740,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 19,
+    "t": "Akkor a Lélek felruházta Amaszájt, a harmincak fejét: \"Menj, Dávid! Békesség legyen veled, Jessze fia, békesség neked, békesség annak, aki segít neked, mert a te segítséged a te Istened.\" Dávid befogadta őket, és a csapatok vezérei közé helyezte."
+  },
+  {
+    "i": 10741,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 20,
+    "t": "Néhány manasszei is Dávidhoz ment, amikor a filiszteusokkal harcolt Saul ellen. De nem segítettek nekik, mert a filiszteus fejedelmei megbeszélték, és visszaküldték Dávidot, mondván: \"A mi fejünk árán átpártolna urához, Saulhoz!"
+  },
+  {
+    "i": 10742,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 21,
+    "t": "Ezért Ciklagba indult, amikor néhány manasszei ment hozzá: Adnah, Jozabád, Jediáel, Mikáel, Jozabád, Elihu, Cilletaj, Manassze ezreinek fejei."
+  },
+  {
+    "i": 10743,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 22,
+    "t": "Ez erősítést jelentett Dávidnak és csapatának, mert mindnyájan vitéz hősök voltak, és tisztek lettek a hadseregben."
+  },
+  {
+    "i": 10744,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 23,
+    "t": "Nap mint nap ugyanis Dávid erősítéseket kapott, úgyhogy a tábora óriási táborrá lett."
+  },
+  {
+    "i": 10745,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 24,
+    "t": "Íme a harcra felszerelt harcosok száma, akik Hébronba mentek Dávidhoz, hogy Saul királyságát átadják neki az Úr parancsa szerint:"
+  },
+  {
+    "i": 10746,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 25,
+    "t": "Júda fiai pajzzsal és lándzsával: 6800 harcra felszerelt harcos;"
+  },
+  {
+    "i": 10747,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 26,
+    "t": "Simeon fiai közül 7100 hős vitéz a háborúban;"
+  },
+  {
+    "i": 10748,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 27,
+    "t": "Lévi fiai közül 4600,"
+  },
+  {
+    "i": 10749,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 28,
+    "t": "valamint Jehojada, aki az áronitákat vezette, 3700-an voltak;"
+  },
+  {
+    "i": 10750,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 29,
+    "t": "Cádók, egy fiatal hős vitéz, és családjából huszonkét tiszt;"
+  },
+  {
+    "i": 10751,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 30,
+    "t": "Benjamin fiai közül háromezer Saul testvére, akiknek többsége addig Saul házának szolgálatában állt;"
+  },
+  {
+    "i": 10752,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 31,
+    "t": "Efraim fiai közül 20800 hős vitéz, családjuk híres emberei;"
+  },
+  {
+    "i": 10753,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 32,
+    "t": "Manassze törzsének feléből tizennyolcezer név szerint kijelölt ember ment el, hogy Dávidot királlyá kiáltsa;"
+  },
+  {
+    "i": 10754,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 33,
+    "t": "Izsakhár fiai közül, akik tudták megkülönböztetni az időket, amikor Izraelnek cselekednie kell, és hogyan kell cselekednie, kétszáz fejedelem és minden testvérük az ő parancsnokságuk alatt;"
+  },
+  {
+    "i": 10755,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 34,
+    "t": "Zebulonból ötvenezer ember, alkalmas katonai szolgálatra, harci rendben, mindenféle fegyverrel, és készen álltak, hogy teljes szívvel segítsenek;"
+  },
+  {
+    "i": 10756,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 35,
+    "t": "Naftaliból ezer tiszt és velük harminchétezer ember pajzzsal és lándzsával felszerelve;"
+  },
+  {
+    "i": 10757,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 36,
+    "t": "Dánból 28600 ember harci rendben;"
+  },
+  {
+    "i": 10758,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 37,
+    "t": "Áserből negyvenezer ember indult háborúba harci rendben;"
+  },
+  {
+    "i": 10759,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 38,
+    "t": "A Jordánon túlról százhúszezer ember Rúbenből, Gádból, Manassze törzsének feléből, mindenféle hadifegyverrel."
+  },
+  {
+    "i": 10760,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 39,
+    "t": "Mindezek a harcosok, akik jó rendben érkeztek erősítésként, teljes szívvel mentek Hébronba, hogy Dávidot egész Izrael felett királlyá kiáltsák; minden más izraelita is egyetértett abban, hogy a királyságot Dávidra ruházzák."
+  },
+  {
+    "i": 10761,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 40,
+    "t": "Három napig ott maradtak, ettek és ittak Dáviddal. Testvéreik mindent elkészítettek számukra;"
+  },
+  {
+    "i": 10762,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 41,
+    "t": "Ráadásul a környékről és egészen Izsakhárig, Zebulonig és Naftaliig élelmet szállítottak nekik szamarakon, tevékeken, öszvéreken és ökrökön: lisztet, fügét és mazsolás kalácsot, bort és olajat, nagy és kisállatot tömegesen, mert öröm volt Izraelben."
+  },
+  {
+    "i": 10763,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 1,
+    "t": "Dávid tanácsot tartott az ezrek és százak vezetőivel és minden parancsnokkal."
+  },
+  {
+    "i": 10764,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 2,
+    "t": "És mondta Izrael egész gyülekezetének: „Ha ez megfelel nektek, és az Úr, a mi Istenünk is így dönt, küldjünk követeket minden más testvérünkhöz Izrael minden földjére, valamint a papokhoz és a lévitákhoz városaiba és a hozzájuk tartozó mezőkre, hogy egyesüljenek velünk."
+  },
+  {
+    "i": 10765,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 3,
+    "t": "Akkor hozzuk vissza magunkhoz Istenünk szövetségládáját; mert Saul idejében nem törődtünk vele.”"
+  },
+  {
+    "i": 10766,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 4,
+    "t": "Az egész gyülekezet úgy döntött, hogy így cselekszik, mert ez helyes dolog volt az egész nép szemében."
+  },
+  {
+    "i": 10767,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 5,
+    "t": "Dávid összegyűjtötte egész Izraelt, Egyiptom Sihorától egészen Hámát bejáratáig, hogy felhozza Isten szövetségládáját Kirjat-Jeárimból."
+  },
+  {
+    "i": 10768,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 6,
+    "t": "Majd Dávid és egész Izrael felmentek Baálába, Kirjat-Jeárimba Júdában, hogy onnan felhozzák az Isten szövetségládáját, amely az Úr nevét viseli, aki a kerúbokon trónol."
+  },
+  {
+    "i": 10769,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 7,
+    "t": "Abinádáb házában rakták az Isten szövetségládáját egy új szekérre. Uzza és Ahjó vezették a szekeret."
+  },
+  {
+    "i": 10770,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 8,
+    "t": "Dávid és egész Izrael teljes erejükkel táncoltak Isten előtt, énekelve citerák, hárfák, dobok, cintányérok és trombiták hangjára."
+  },
+  {
+    "i": 10771,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 9,
+    "t": "Amikor a Gerelyek szérűjéhez értek, Uzza kinyújtotta a kezét, hogy megtartsa a szövetségládát, mert az ökrök majdnem felborították."
+  },
+  {
+    "i": 10772,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 10,
+    "t": "Akkor Isten haragja felgerjedt Uzza ellen, és megverte őt, mert kezet emelt a szövetségládára; Uzza ott halt meg, Isten előtt."
+  },
+  {
+    "i": 10773,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 11,
+    "t": "Dávid haragra gerjedt, mert az Úr rátört Uzzára, és elnevezte azt a helyet Peréc-Uzzának, amely nevet mind a mai napig viseli."
+  },
+  {
+    "i": 10774,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 12,
+    "t": "Azon a napon Dávid félt Istentől, és mondta: „Hogyan hozhatnám be magamhoz Isten szövetségládáját?”"
+  },
+  {
+    "i": 10775,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 13,
+    "t": "Dávid nem vitte be a szövetségládát a házába, Dávid városába, hanem elvitte Obed-Édóm házába, a gátiba."
+  },
+  {
+    "i": 10776,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 14,
+    "t": "Isten szövetségládája három hónapig maradt Obed-Édóm házában; az Úr megáldotta Obed-Édóm házát és mindent, ami az övé volt."
+  },
+  {
+    "i": 10777,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 1,
+    "t": "Hírám, Tírusz királya követeket küldött Dávidhoz cédrusfával, kőművesekkel és ácsokkal, hogy házat építsenek neki."
+  },
+  {
+    "i": 10778,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 2,
+    "t": "Akkor Dávid megtudta, hogy az Úr megerősítette őt Izrael királyaként, és hogy királysága magasan felmagasztaltatott Izrael, az ő népe miatt."
+  },
+  {
+    "i": 10779,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 3,
+    "t": "Jeruzsálemben Dávid még feleségeket vett, és még fiakat és lányokat nemzett."
+  },
+  {
+    "i": 10780,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 4,
+    "t": "És ezek a fiak nevei, akik születtek néki Jeruzsálemben: Sammua, Sóbáb, Nátán, Salamon,"
+  },
+  {
+    "i": 10781,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 5,
+    "t": "Jibhár, Elisua, Elpalét,"
+  },
+  {
+    "i": 10782,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 6,
+    "t": "Nógah, Néfeg, Jáfia,"
+  },
+  {
+    "i": 10783,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 7,
+    "t": "Elisáma, Beeljáda, Elifélet."
+  },
+  {
+    "i": 10784,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 8,
+    "t": "És mikor meghallották a Filiszteusok, hogy Dávidot királylyá kenték fel az egész Izráel felett, feljövének mindnyájan Dávidot megkeresni. Meghallván ezt Dávid, kiméne eléjök."
+  },
+  {
+    "i": 10785,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 9,
+    "t": "A Filiszteusok pedig eljövének, és elszéledének a Refáim völgyében."
+  },
+  {
+    "i": 10786,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 10,
+    "t": "Akkor megkérdé Dávid az Istent, mondván: Felmenjek-é a Filiszteusok ellen? És kezedbe adod-é őket? És monda néki az Úr: Menj fel, mert kezedbe adom őket."
+  },
+  {
+    "i": 10787,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 11,
+    "t": "Felmenének azért Baal-Perásimba, és ott megveré őket Dávid. És monda Dávid: Isten fegyvere tört be ellenségeim közé általam, mint a víz betörése. Annakokáért nevezék annak a helynek nevét Baal-Perásimnak."
+  },
+  {
+    "i": 10788,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 12,
+    "t": "És ott hagyák isteneiket, és megégeté azokat Dávid tűzzel."
+  },
+  {
+    "i": 10789,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 13,
+    "t": "A Filiszteusok pedig ismét elszéledének a völgyben."
+  },
+  {
+    "i": 10790,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 14,
+    "t": "Ismét megkérdé Dávid az Istent, és monda néki az Isten: Ne menj fel utánok; kerüld meg őket, és menj ellenök a szederfák felől."
+  },
+  {
+    "i": 10791,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 15,
+    "t": "És mikor hallod a lépések zúgását a szederfák koronáján, akkor indulj a harczra, mert az Isten ment ki előtted, hogy megverje a Filiszteusok seregét."
+  },
+  {
+    "i": 10792,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 16,
+    "t": "És úgy cselekedék Dávid, a mint Isten parancsolta néki, és megveré a Filiszteusok seregét Gibeontól egészen Gézerig."
+  },
+  {
+    "i": 10793,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 17,
+    "t": "És elterjede Dávid híre minden tartományba, és az Úr félelemmel töltötte el őt minden nép előtt."
+  },
+  {
+    "i": 10794,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 1,
+    "t": "És építe magának házakat Dávid városában, és készíte helyet az Isten ládájának, és felvoná annak a sátort."
+  },
+  {
+    "i": 10795,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 2,
+    "t": "Akkor monda Dávid: Nem szabad senkinek hordozni az Isten ládáját, hanem csak a Lévitáknak, mert őket választotta az Úr, hogy hordozzák az Úr ládáját, és szolgáljanak néki örökké."
+  },
+  {
+    "i": 10796,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 3,
+    "t": "Összegyűjté azért Dávid egész Izráelt Jeruzsálembe, hogy felvigyék az Úr ládáját a helyére, a melyet annak készített."
+  },
+  {
+    "i": 10797,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 4,
+    "t": "És összegyűjté Dávid az Áron fiait és a Lévitákat is:"
+  },
+  {
+    "i": 10798,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 5,
+    "t": "A Kehát fiai közül Urielt a fejedelmet, és az ő atyjafiait, százhúszat,"
+  },
+  {
+    "i": 10799,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 6,
+    "t": "A Mérári fiai közül Asáját a fejedelmet, és az ő atyjafiait, kétszázhúszat,"
+  }
+]

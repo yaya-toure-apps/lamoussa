@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26400,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 10,
+    "t": "L'avaro è parco di pane, e la carestia dimora sulla sua mensa."
+  },
+  {
+    "i": 26401,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 11,
+    "t": "Figlio mio, se possiedi, tratta bene te stesso, e presenta al Signore le offerte richieste."
+  },
+  {
+    "i": 26402,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 12,
+    "t": "Non dimenticare che la morte non tarderà, e il patto dello sheol non ti è stato rivelato."
+  },
+  {
+    "i": 26403,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 13,
+    "t": "Prima di morire, fa' del bene ai tuoi amici e, secondo le tue possibilità, sii liberale."
+  },
+  {
+    "i": 26404,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 14,
+    "t": "Non negarti la gioia presente, non lasciarti sfuggire alcun legittimo desiderio."
+  },
+  {
+    "i": 26405,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 15,
+    "t": "Non lascerai forse ad altri la tua fortuna? E i tuoi beni non saranno forse divisi dalla sorte?"
+  },
+  {
+    "i": 26406,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 16,
+    "t": "Offri e ricevi, inganna le tue preoccupazioni, ché non nello sheol si può cercare la gioia."
+  },
+  {
+    "i": 26407,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 17,
+    "t": "Ogni carne si logora come una veste, la legge eterna è che bisogna morire."
+  },
+  {
+    "i": 26408,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 18,
+    "t": "Come il fogliame verdeggiante su un albero frondoso ora cade e ora rigermoglia, così le generazioni di carne e di sangue: gli uni muoiono e gli altri nascono."
+  },
+  {
+    "i": 26409,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 19,
+    "t": "Ogni opera corruttibile perisce, e il suo autore se ne va con essa."
+  },
+  {
+    "i": 26410,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 20,
+    "t": "Beato l'uomo che medita sulla sapienza e che ragiona con intelligenza,"
+  },
+  {
+    "i": 26411,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 21,
+    "t": "che riflette nel suo cuore sulle vie della sapienza e che si applica ai suoi segreti."
+  },
+  {
+    "i": 26412,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 22,
+    "t": "Egli la insegue come il cacciatore, egli è in agguato sulla sua pista;"
+  },
+  {
+    "i": 26413,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 23,
+    "t": "egli si sporge alle sue finestre e ascolta alle sue porte;"
+  },
+  {
+    "i": 26414,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 24,
+    "t": "egli si apposta proprio presso la sua dimora e fissa un palo nelle sue mura;"
+  },
+  {
+    "i": 26415,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 25,
+    "t": "egli erige la sua tenda nelle vicinanze e si stabilisce in un rifugio di felicità;"
+  },
+  {
+    "i": 26416,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 26,
+    "t": "egli pone i suoi figli sotto la sua protezione e sotto i suoi rami trova un riparo;"
+  },
+  {
+    "i": 26417,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 27,
+    "t": "sotto la sua ombra è protetto dal calore e si stabilisce nella sua gloria."
+  },
+  {
+    "i": 26418,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 1,
+    "t": "Così fa colui che teme il Signore; colui che si appropria della legge riceve la sapienza."
+  },
+  {
+    "i": 26419,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 2,
+    "t": "Ella gli viene incontro come una madre, come una sposa vergine lo accoglie;"
+  },
+  {
+    "i": 26420,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 3,
+    "t": "ella lo nutre del pane della prudenza, gli dà da bere l'acqua della sapienza;"
+  },
+  {
+    "i": 26421,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 4,
+    "t": "egli si appoggia a lei e non vacilla, egli si lega a lei e non è confuso."
+  },
+  {
+    "i": 26422,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 5,
+    "t": "Ella lo eleva al di sopra dei suoi compagni, in mezzo all'assemblea gli apre la bocca."
+  },
+  {
+    "i": 26423,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 6,
+    "t": "Egli trova la felicità e una corona di gioia, egli riceve in sorte una fama eterna."
+  },
+  {
+    "i": 26424,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 7,
+    "t": "Mai gli insensati la possederanno, e i peccatori mai la vedranno."
+  },
+  {
+    "i": 26425,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 8,
+    "t": "Ella si tiene a distanza dall'orgoglio e i mentitori non pensano a lei."
+  },
+  {
+    "i": 26426,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 9,
+    "t": "La lode non si addice alla bocca del peccatore poiché non gli è accordata dal Signore."
+  },
+  {
+    "i": 26427,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 10,
+    "t": "Poiché è nella sapienza che si esprime la lode, ed è il Signore che la guida."
+  },
+  {
+    "i": 26428,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 11,
+    "t": "Non dire: \"È il Signore che mi ha fatto peccare\", poiché egli non fa ciò che ha in orrore."
+  },
+  {
+    "i": 26429,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 12,
+    "t": "Non dire: \"È lui che mi ha sviato\", poiché egli non ha che fare con un peccatore."
+  },
+  {
+    "i": 26430,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 13,
+    "t": "Il Signore odia ogni specie di abominio e nessuna è amata da coloro che lo temono."
+  },
+  {
+    "i": 26431,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 14,
+    "t": "È lui che in principio ha creato l'uomo e lo ha lasciato al suo consiglio."
+  },
+  {
+    "i": 26432,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 15,
+    "t": "Se lo vuoi, osserverai i comandamenti per restare fedele al suo beneplacito."
+  },
+  {
+    "i": 26433,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 16,
+    "t": "Davanti a te ha posto il fuoco e l'acqua, secondo il tuo desiderio stendi la mano."
+  },
+  {
+    "i": 26434,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 17,
+    "t": "Davanti agli uomini sono la vita e la morte, a loro piacimento l'una o l'altra è loro donata."
+  },
+  {
+    "i": 26435,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 18,
+    "t": "Poiché grande è la sapienza del Signore, egli è onnipotente e vede tutto."
+  },
+  {
+    "i": 26436,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 19,
+    "t": "I suoi sguardi sono rivolti verso coloro che lo temono, egli conosce lui stesso tutte le opere degli uomini."
+  },
+  {
+    "i": 26437,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 20,
+    "t": "Egli non ha comandato a nessuno di essere empio, egli non ha dato a nessuno licenza di peccare."
+  },
+  {
+    "i": 26438,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 1,
+    "t": "Non desiderare una numerosa discendenza di buoni a nulla e non riporre la tua gioia in figli empi."
+  },
+  {
+    "i": 26439,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 2,
+    "t": "Quale che sia il loro numero, non rallegrarti se non possiedono il timore di Dio."
+  },
+  {
+    "i": 26440,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 3,
+    "t": "Non contare per loro su una lunga vita, non aspettarti che durino, poiché gemeerai di un lutto prematuro, improvvisamente conoscerai la loro fine. Sì, meglio uno solo che mille e morire senza figli che avere figli empi."
+  },
+  {
+    "i": 26441,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 4,
+    "t": "Per un solo uomo intelligente una città si popola, ma la razza dei perversi sarà distrutta."
+  },
+  {
+    "i": 26442,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 5,
+    "t": "Ho visto con i miei occhi molte cose simili e dalle mie orecchie ne ho udito di più forti."
+  },
+  {
+    "i": 26443,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 6,
+    "t": "Nell'assemblea dei peccatori si accende il fuoco, nella razza ribelle si è infiammata la collera."
+  },
+  {
+    "i": 26444,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 7,
+    "t": "Dio non ha perdonato ai giganti di un tempo che si erano ribellati, fieri della loro potenza."
+  },
+  {
+    "i": 26445,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 8,
+    "t": "Egli non ha risparmiato la città dove abitava Lot: il loro orgoglio gli faceva orrore."
+  },
+  {
+    "i": 26446,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 9,
+    "t": "Egli non ha avuto pietà della razza di perdizione: coloro che si prevalevano dei loro peccati. Tutto ciò, egli lo fece per nazioni dal cuore duro e della moltitudine dei suoi santi, egli non si commosse."
+  },
+  {
+    "i": 26447,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 10,
+    "t": "Egli trattò allo stesso modo seicentomila uomini a piedi, che si erano legati nella durezza del loro cuore. Egli flagella e si impietosisce, ferisce e guarisce: il Signore veglia compatendo e castigando."
+  },
+  {
+    "i": 26448,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 11,
+    "t": "Quand'anche vi fosse un solo uomo dal collo rigido, sarebbe inaudito che restasse impunito, poiché pietà e collera appartengono al Signore potente nel perdono, spargendo la collera."
+  },
+  {
+    "i": 26449,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 12,
+    "t": "Quanto è grande la sua misericordia, altrettanto è grande la sua riprovazione, egli giudicherà gli uomini secondo le loro opere."
+  },
+  {
+    "i": 26450,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 13,
+    "t": "Egli non lascerà impunito il peccatore con i suoi furti, egli non frustrerà la pazienza dell'uomo pio."
+  },
+  {
+    "i": 26451,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 14,
+    "t": "Egli terrà conto di ogni atto di carità e ciascuno sarà trattato secondo le sue opere."
+  },
+  {
+    "i": 26452,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 15,
+    "t": "Il Signore ha indurito il cuore del Faraone affinché non lo riconoscesse, al fine di far conoscere le sue azioni sotto il cielo."
+  },
+  {
+    "i": 26453,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 16,
+    "t": "A tutta la creazione la sua pietà si manifesta, egli ha condiviso la sua luce e la sua ombra tra gli uomini."
+  },
+  {
+    "i": 26454,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 17,
+    "t": "Non dire: \"Mi nasconderò per sfuggire al Signore; lassù chi si ricorderà di me? In mezzo alla folla non sarò riconosciuto, che sono io nella creazione immensa?"
+  },
+  {
+    "i": 26455,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 18,
+    "t": "Ecco: il cielo, il più alto dei cieli, l'abisso e la terra sono scossi durante la sua visita. Tutto l'universo fu prodotto ed esiste per sua volontà."
+  },
+  {
+    "i": 26456,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 19,
+    "t": "Nello stesso tempo le montagne e le fondamenta della terra tremano sotto il suo sguardo."
+  },
+  {
+    "i": 26457,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 20,
+    "t": "Ma a tutto ciò non si riflette; chi dunque si interessa alle sue vie?"
+  },
+  {
+    "i": 26458,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 21,
+    "t": "La tempesta pure resta invisibile, la maggior parte delle sue opere sono nel segreto."
+  },
+  {
+    "i": 26459,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 22,
+    "t": "\"Le opere della giustizia, chi le annuncerà? Chi le aspetterà? Poiché il decreto è lontano.\" Un'indagine su tutto si farà al termine."
+  },
+  {
+    "i": 26460,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 23,
+    "t": "È corto di senno colui che tiene tali riflessioni; l'insensato, smarrito, non sogna che follie."
+  },
+  {
+    "i": 26461,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 24,
+    "t": "Ascoltami, figlio mio, e acquisisci la conoscenza, applica il tuo cuore alle mie parole."
+  },
+  {
+    "i": 26462,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 25,
+    "t": "Con misura ti rivelerò la disciplina, con cura proclamerò la conoscenza."
+  },
+  {
+    "i": 26463,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 26,
+    "t": "Quando in principio il Signore creò le sue opere, sitôt fatte, egli attribuì loro un posto."
+  },
+  {
+    "i": 26464,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 27,
+    "t": "Egli ordinò le sue opere per l'eternità, dalle loro origini fino alle loro generazioni lontane. Esse non soffrono la fame né la fatica e non abbandonano mai il loro compito."
+  },
+  {
+    "i": 26465,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 28,
+    "t": "Nessuna ha mai urtato l'altra e mai esse disobbediscono alla sua parola."
+  },
+  {
+    "i": 26466,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 29,
+    "t": "In seguito il Signore gettò gli occhi sulla terra e la riempì dei suoi beni."
+  },
+  {
+    "i": 26467,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 30,
+    "t": "Di ogni specie di animali egli ne coprì la faccia ed essi ritorneranno alla terra."
+  },
+  {
+    "i": 26468,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 1,
+    "t": "Il Signore ha tratto l'uomo dalla terra e là lo farà ritornare in seguito."
+  },
+  {
+    "i": 26469,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 2,
+    "t": "Egli ha assegnato agli uomini un numero preciso di giorni e un tempo determinato, egli ha rimesso in loro potere ciò che è sulla terra."
+  },
+  {
+    "i": 26470,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 3,
+    "t": "Egli li ha rivestiti di forza, come lui stesso, a sua immagine li ha creati."
+  },
+  {
+    "i": 26471,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 4,
+    "t": "Ad ogni carne egli ha ispirato il timore dell'uomo, affinché egli domini bestie selvagge e uccelli."
+  },
+  {
+    "i": 26472,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 5,
+    "t": "Essi ricevettero l'uso dei cinque poteri del Signore, come sesto, l'intelligenza fu loro data in sorte e come settimo la ragione, interprete dei suoi poteri."
+  },
+  {
+    "i": 26473,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 6,
+    "t": "Egli diede loro il giudizio, una lingua, degli occhi, delle orecchie e un cuore per pensare."
+  },
+  {
+    "i": 26474,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 7,
+    "t": "Egli li riempì di scienza e di intelligenza e fece loro conoscere il bene e il male."
+  },
+  {
+    "i": 26475,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 8,
+    "t": "Egli mise il suo timore nel loro cuore per mostrare loro la grandezza delle sue opere. Ed egli diede loro di celebrare eternamente le sue meraviglie."
+  },
+  {
+    "i": 26476,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 9,
+    "t": "Essi loderanno il suo santo nome,"
+  },
+  {
+    "i": 26477,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 10,
+    "t": "raccontando la grandezza delle sue opere."
+  },
+  {
+    "i": 26478,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 11,
+    "t": "Egli accordò loro ancora la conoscenza, egli li gratificò della legge della vita, affinché comprendano che sono mortali, essi che esistono al presente."
+  },
+  {
+    "i": 26479,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 12,
+    "t": "Egli ha concluso con loro un'alleanza eterna e ha fatto loro conoscere i suoi giudizi;"
+  },
+  {
+    "i": 26480,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 13,
+    "t": "I loro occhi contemplarono la grandezza della sua maestà, le loro orecchie udirono la magnificenza della sua voce."
+  },
+  {
+    "i": 26481,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 14,
+    "t": "Egli disse loro: \"Guardatevi da ogni male\", diede loro comandamenti l'uno verso il suo prossimo."
+  },
+  {
+    "i": 26482,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 15,
+    "t": "La loro condotta è sempre dinanzi a lui, mai celata ai suoi sguardi."
+  },
+  {
+    "i": 26483,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 16,
+    "t": "Dalla giovinezza le loro vie li conducono al male e non poterono mutare i loro cuori di pietra in un cuore di carne,"
+  },
+  {
+    "i": 26484,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 17,
+    "t": "poiché nella ripartizione dei popoli e di tutta la terra, a ogni popolo ha preposto un principe; ma Israele è la porzione del Signore,"
+  },
+  {
+    "i": 26485,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 18,
+    "t": "il suo primogenito che nutre di disciplina, al quale dispensa la luce del suo amore, senza abbandonarlo."
+  },
+  {
+    "i": 26486,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 19,
+    "t": "Tutte le loro azioni sono dinanzi a lui come il sole, i suoi sguardi sono assidui nell'osservare la loro condotta."
+  },
+  {
+    "i": 26487,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 20,
+    "t": "Le loro ingiustizie non gli sono celate, tutti i loro peccati sono dinanzi al Signore."
+  },
+  {
+    "i": 26488,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 21,
+    "t": "Ma il Signore è buono e conosce la sua creatura, non li distrugge né li abbandona, ma li risparmia."
+  },
+  {
+    "i": 26489,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 22,
+    "t": "L'elemosina di un uomo è per lui come un sigillo, egli conserva un beneficio come la pupilla dell'occhio, dispensando ai suoi figli e alle sue figlie il pentimento."
+  },
+  {
+    "i": 26490,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 23,
+    "t": "Un giorno si leverà e li ricompenserà, sul loro capo farà venire la loro ricompensa."
+  },
+  {
+    "i": 26491,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 24,
+    "t": "Ma a coloro che si pentono concede un ritorno, riconforta coloro che hanno perso la perseveranza."
+  },
+  {
+    "i": 26492,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 25,
+    "t": "Convertiti al Signore e rinuncia ai tuoi peccati, imploralo bene in faccia, cessa di offenderlo."
+  },
+  {
+    "i": 26493,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 26,
+    "t": "Ritorna verso l'Altissimo, allontanati dall'ingiustizia poiché è lui che ti guiderà dalle tenebre all'illuminazione della salvezza. E odia vigorosamente l'iniquità."
+  },
+  {
+    "i": 26494,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 27,
+    "t": "Poiché chi loderà l'Altissimo nello sheol, se i viventi non gli rendono gloria?"
+  },
+  {
+    "i": 26495,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 28,
+    "t": "La lode è sconosciuta ai morti come a coloro che non sono, colui che ha vita e salute glorifica il Signore."
+  },
+  {
+    "i": 26496,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 29,
+    "t": "Quanto è grande la misericordia del Signore, la sua indulgenza per coloro che si volgono a lui!"
+  },
+  {
+    "i": 26497,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 30,
+    "t": "Poiché l'uomo non può avere tutto, giacché il figlio d'uomo non è immortale."
+  },
+  {
+    "i": 26498,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 31,
+    "t": "Cosa c'è di più luminoso del sole? Eppure scompare. La carne e il sangue non possono nutrire che malizia."
+  },
+  {
+    "i": 26499,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 32,
+    "t": "È lui che sorveglia le potenze in alto dei cieli, e tutti gli uomini non sono che terra e cenere."
+  }
+]

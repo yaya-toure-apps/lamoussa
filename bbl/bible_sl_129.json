@@ -1,0 +1,802 @@
+[
+  {
+    "i": 12900,
+    "b": 17,
+    "c": 1802,
+    "r": 1802,
+    "o": 9,
+    "t": "Tedaj mu reče žena njegova: »Ali se še držiš svoje popolnosti? Prekúni Boga in umri!«"
+  },
+  {
+    "i": 12901,
+    "b": 17,
+    "c": 1802,
+    "r": 1802,
+    "o": 10,
+    "t": "On pa ji reče: »Govoriš kakor bedasta žena. Dobro smo sprejeli od Boga, ali ne bi sprejeli tudi hudega?« V vsem tem se Job ni pregrešil s svojimi ustnicami."
+  },
+  {
+    "i": 12902,
+    "b": 17,
+    "c": 1802,
+    "r": 1802,
+    "o": 11,
+    "t": "Ko pa so slišali trije Jobovi prijatelji za vse to zlo, ki ga je zadelo, so prišli vsak iz svojega kraja: Elifaz Temančan, Bildad Šuhán in Zofar Naamáčan. Zmenili so se, da pojdejo skupaj k njemu in ga tolažijo in potolažijo."
+  },
+  {
+    "i": 12903,
+    "b": 17,
+    "c": 1802,
+    "r": 1802,
+    "o": 12,
+    "t": "Ko so od daleč povzdignili svoje oči, ga niso spoznali in so zavpili z velikim glasom. Raztrgali so vsak svoje oblačilo in posuli vsak si pepel na glavo proti nebu."
+  },
+  {
+    "i": 12904,
+    "b": 17,
+    "c": 1802,
+    "r": 1802,
+    "o": 13,
+    "t": "Potem so sedli z njim na zemljo sedem dni in sedem noči, in nihče mu ni spregovoril besede, ker so videli, da je silno trpljenje njegovo."
+  },
+  {
+    "i": 12905,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 1,
+    "t": "Potem je Job odprl usta svoja in preklinjal svoj dan."
+  },
+  {
+    "i": 12906,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 2,
+    "t": "In Job je spregovoril in rekel:"
+  },
+  {
+    "i": 12907,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 3,
+    "t": "Pojdi v pogubo dan, v katerem sem se rodil, in noč, v kateri je bilo rečeno: »Moški je spočet!«"
+  },
+  {
+    "i": 12908,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 4,
+    "t": "Tisti dan bodi tema, ne išči ga Bog od zgoraj in ne svetí nad njim svetloba!"
+  },
+  {
+    "i": 12909,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 5,
+    "t": "Naj ga zahtevata tema in smrtna senca, naj se naseli nad njim oblak, naj ga prestraši mrki dan!"
+  },
+  {
+    "i": 12910,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 6,
+    "t": "Tisto noč naj prevzame mrak, ne veselí se med dnevi leta, ne prihajaj v število mesecev!"
+  },
+  {
+    "i": 12911,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 7,
+    "t": "Glej, tista noč naj bo jalova, naj ne pride vanjo petje veselja!"
+  },
+  {
+    "i": 12912,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 8,
+    "t": "Preklinjajo naj jo tisti, ki preklinjajo dan, ki znajo vzbuditi Leviatana!"
+  },
+  {
+    "i": 12913,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 9,
+    "t": "Zamračijo naj se zvezde njene zarje, zaman naj upa na svetlobo in ne vidi očesnic jutranje zore!"
+  },
+  {
+    "i": 12914,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 10,
+    "t": "Zakaj ni zaprla vrat maternice moje in skrila trpljenja pred mojimi očmi!"
+  },
+  {
+    "i": 12915,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 11,
+    "t": "Zakaj nisem umrl že iz maternice, zakaj nisem izdahnil, ko sem prišel iz telesa?"
+  },
+  {
+    "i": 12916,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 12,
+    "t": "Zakaj so me prehiteli koleni in zakaj prsi, da bi dojil?"
+  },
+  {
+    "i": 12917,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 13,
+    "t": "Sedaj bi ležal in počival, spal bi in imel mir,"
+  },
+  {
+    "i": 12918,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 14,
+    "t": "s kralji in svétniki zemlje, ki si postavljajo samotne kraje,"
+  },
+  {
+    "i": 12919,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 15,
+    "t": "ali s knezi, ki imajo zlato in napolnjujejo hiše svoje s srebrom."
+  },
+  {
+    "i": 12920,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 16,
+    "t": "Ali kakor splavljen otrok, ki ga ni, kakor otročiči, ki niso nikoli videli luči."
+  },
+  {
+    "i": 12921,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 17,
+    "t": "Tam prenehajo hudobni s svojo srditostjo in tam počivajo utrujeni v moči."
+  },
+  {
+    "i": 12922,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 18,
+    "t": "Ujetniki so vsi skupaj na miru, ne slišijo glasu gonjača."
+  },
+  {
+    "i": 12923,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 19,
+    "t": "Mali in veliki so tam, in hlapec je prost od svojega gospodarja."
+  },
+  {
+    "i": 12924,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 20,
+    "t": "Zakaj se daje svetloba trpečemu in življenje tistim, ki so grenkega srca,"
+  },
+  {
+    "i": 12925,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 21,
+    "t": "ki hrepenijo po smrti, pa je ni, in jo kopljejo bolj kakor zaklade?"
+  },
+  {
+    "i": 12926,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 22,
+    "t": "Veselijo se do vrhá, radujejo se, ko najdejo grob."
+  },
+  {
+    "i": 12927,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 23,
+    "t": "Zakaj se daje človeku, ki mu je pot zakrita in ga Bog ograjuje?"
+  },
+  {
+    "i": 12928,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 24,
+    "t": "Zakaj namesto svojega kruha vzdihujem, in moje tožbe se izlivajo kakor voda."
+  },
+  {
+    "i": 12929,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 25,
+    "t": "Kajti česar sem se bal, to me je zadelo, in kar sem se bal, je prišlo nadme."
+  },
+  {
+    "i": 12930,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 26,
+    "t": "Nimam miru, nimam počitka, nimam pokoja, ker je prišla nadme srditost."
+  },
+  {
+    "i": 12931,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 1,
+    "t": "Tedaj je odgovoril Elifaz Temančan in rekel:"
+  },
+  {
+    "i": 12932,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 2,
+    "t": "Ako se skušamo s teboj pogovarjati, se ti bo zdela to muka? Ali kdo se more zadržati od govora?"
+  },
+  {
+    "i": 12933,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 3,
+    "t": "Glej, ti si mnoge poučeval in slabotne roke si si krepil."
+  },
+  {
+    "i": 12934,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 4,
+    "t": "Tvoje besede so podpirale tistega, ki je omahoval, in klecajoče kolena si si utrjeval."
+  },
+  {
+    "i": 12935,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 5,
+    "t": "Sedaj pa pride nate, in si obupan; zadene te, in se prestrašiš."
+  },
+  {
+    "i": 12936,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 6,
+    "t": "Ali ni tvoja bogaboječnost tvoja zaupnost, tvoja popolnost pa tvoje upanje?"
+  },
+  {
+    "i": 12937,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 7,
+    "t": "Spomni se vendar, kdo je nedolžen poginil? Ali kje so bili pravični iztrebljeni?"
+  },
+  {
+    "i": 12938,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 8,
+    "t": "Kakor sem videl, tisti, ki orjejo krivico in sejejo zlo, žanjejo tudi to."
+  },
+  {
+    "i": 12939,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 9,
+    "t": "Z Božjim dihom poginejo in z sapo njegove jeze izginejo."
+  },
+  {
+    "i": 12940,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 10,
+    "t": "Levje rjovenje in glas divjega leva in zobovje mladih levov se zlomi."
+  },
+  {
+    "i": 12941,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 11,
+    "t": "Lev pogine brez plena in mladi levice se razkropijo."
+  },
+  {
+    "i": 12942,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 12,
+    "t": "Meni pa je prinesena skrivna beseda in moje uho je zajelo šepet od nje."
+  },
+  {
+    "i": 12943,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 13,
+    "t": "V zaskrbljujočih premišljevanjih nočnih prikazni, ko pade na ljudi globok sen,"
+  },
+  {
+    "i": 12944,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 14,
+    "t": "me je prevzel strah in trepet in mi je prestrašil vse kosti."
+  },
+  {
+    "i": 12945,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 15,
+    "t": "Duh je šel pred mojim obličjem in mi je naželel dlake na mojem telesu."
+  },
+  {
+    "i": 12946,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 16,
+    "t": "Ustavil se je, pa nisem spoznal njegove podobe; podoba je bila pred mojimi očmi; tišina, in slišal sem glas:"
+  },
+  {
+    "i": 12947,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 17,
+    "t": "»Ali je človek pravičen pred Bogom? Ali je mož čistejši od svojega Stvarnika?"
+  },
+  {
+    "i": 12948,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 18,
+    "t": "Glej, svojim služabnikom ne zaupa in s svojim angelom najde napako,"
+  },
+  {
+    "i": 12949,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 19,
+    "t": "kaj šele tistim, ki prebivajo v hišah iz gline, katerih temelj je v prahu, zdrobi jih molj,"
+  },
+  {
+    "i": 12950,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 20,
+    "t": "od jutra do večera so razbiti, izginejo na veke, ne da bi kdo premišljeval."
+  },
+  {
+    "i": 12951,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 21,
+    "t": "Ali ne bo iztrgan njihov podstavek v njih? Umrli bodo, ne da bi bili modri.«"
+  },
+  {
+    "i": 12952,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 1,
+    "t": "Kliči vendar! Ali bo kdo odgovoril? H kateremu od svetih se boš obrnil?"
+  },
+  {
+    "i": 12953,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 2,
+    "t": "Kajti srd ubija bedaka in jeza umori preproščino."
+  },
+  {
+    "i": 12954,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 3,
+    "t": "Jaz sem videl, da se bedak korenini, in sem takoj preklinjal njegovo bivališče."
+  },
+  {
+    "i": 12955,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 4,
+    "t": "Daleč so njegovi sinovi od odrešitve, strti so na vratih, pa ni rešitelja."
+  },
+  {
+    "i": 12956,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 5,
+    "t": "Kar žanje, požre lačni, celo izmed trnja to vzame, in žejni hlastajo po njegovem imetju."
+  },
+  {
+    "i": 12957,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 6,
+    "t": "Kajti gorje ne pride iz prahu in nesreča ne vznikne iz zemlje."
+  },
+  {
+    "i": 12958,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 7,
+    "t": "Temveč človek se rodi v nesreči, kakor ptice letijo v višino."
+  },
+  {
+    "i": 12959,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 8,
+    "t": "Jaz pa bi iskal Boga in bi pred Gospoda položil svojo zadevo,"
+  },
+  {
+    "i": 12960,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 9,
+    "t": "ki dela velike reči, ki se jih ne da preiskati, in čudovite reči, ki se jih ne da šteti."
+  },
+  {
+    "i": 12961,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 10,
+    "t": "On daje dež na zemljo in pošilja vodo na polja,"
+  },
+  {
+    "i": 12962,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 11,
+    "t": "da poviša ponižne in da se potrti v sreči povzdignejo."
+  },
+  {
+    "i": 12963,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 12,
+    "t": "On razdre misli zvijačnih, da njih roke ne morejo izvršiti svoje naloge."
+  },
+  {
+    "i": 12964,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 13,
+    "t": "On ujame modre v njih zvijači, in premišljevanje prekanjenih se izjalovi."
+  },
+  {
+    "i": 12965,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 14,
+    "t": "Podnevi naletijo na temo in ob poldne tipajo kakor v noči."
+  },
+  {
+    "i": 12966,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 15,
+    "t": "On rešuje ubogega iz njihovih ust, iz močne roke pa reveža."
+  },
+  {
+    "i": 12967,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 16,
+    "t": "Tako dobi ubogi upanje, krivica pa zapre svoja usta."
+  },
+  {
+    "i": 12968,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 17,
+    "t": "Glej, srečen je človek, ki ga Bog opominja; zato ne zavračaj kazni Vsemogočnega!"
+  },
+  {
+    "i": 12969,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 18,
+    "t": "Kajti on rani, pa obveže, udari, pa njegove roke ozdravijo."
+  },
+  {
+    "i": 12970,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 19,
+    "t": "V šestih stiskah te reši, in v sedmi se te ne dotakne zlo."
+  },
+  {
+    "i": 12971,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 20,
+    "t": "V lakoti te reši smrti, in v vojni moči meča."
+  },
+  {
+    "i": 12972,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 21,
+    "t": "Skrit boš pred bičem jezika in se ne boš bal, ko pride uničenje."
+  },
+  {
+    "i": 12973,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 22,
+    "t": "Posmehoval se boš opustošenju in lakoti in se ne boš bal zverí zemlje."
+  },
+  {
+    "i": 12974,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 23,
+    "t": "Kajti v zavezi boš s kamenjem polja, in zveri polja bodo s teboj v miru."
+  },
+  {
+    "i": 12975,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 24,
+    "t": "Vedel boš, da je tvoj šotor v miru, in boš pregledal svojo naselbino in ne boš ničesar pogrešal."
+  },
+  {
+    "i": 12976,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 25,
+    "t": "Vedel boš, da je tvoje potomstvo številno in tvoji zarod kakor zel na zemlji."
+  },
+  {
+    "i": 12977,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 26,
+    "t": "Prišel boš v grob v polni moči, kakor ko snop žita pride ob svojem času."
+  },
+  {
+    "i": 12978,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 27,
+    "t": "Glej, to smo raziskali, tako je; poslušaj to in spoznaj zase!"
+  },
+  {
+    "i": 12979,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 1,
+    "t": "Tedaj je Job odgovoril in rekel:"
+  },
+  {
+    "i": 12980,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 2,
+    "t": "O, da bi se le pretehtala moja žalost in bi se v tehtnico položile vse moje težave!"
+  },
+  {
+    "i": 12981,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 3,
+    "t": "Kajti težje so od peska morskega; zato so moje besede nepremišljene."
+  },
+  {
+    "i": 12982,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 4,
+    "t": "Puščice Vsemogočnega so v meni, moj duh pije njihov strup in strahote Božje se postavljajo proti meni."
+  },
+  {
+    "i": 12983,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 5,
+    "t": "Ali rjove divji osel pri travi sočni, ali muči vol pri krmi?"
+  },
+  {
+    "i": 12984,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 6,
+    "t": "Ali se uživa neslana jed brez soli, ali je v belem od jajca kakšen okus?"
+  },
+  {
+    "i": 12985,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 7,
+    "t": "Česar se moja duša ne mara dotakniti, to je moja bolna hrana."
+  },
+  {
+    "i": 12986,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 8,
+    "t": "O, da bi se uresničila moja molitev, da bi Bog odgovoril mojemu pričakovanju!"
+  },
+  {
+    "i": 12987,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 9,
+    "t": "Da bi privolil, da me zdrobi, da bi iztegnil svojo roko in me pokončal!"
+  },
+  {
+    "i": 12988,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 10,
+    "t": "Tedaj bi imel vsaj to tolažbo, ta sunek veselja v hudih bolečinah, da nisem zanikal odlokov Svetega."
+  },
+  {
+    "i": 12989,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 11,
+    "t": "Ali imam dovolj moči, da bi čakal? Obsojen na takšen konec, kaj je vredno potrpeti?"
+  },
+  {
+    "i": 12990,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 12,
+    "t": "Ali je moja moč kakor skala, ali je moje meso iz brona?"
+  },
+  {
+    "i": 12991,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 13,
+    "t": "Ali naj imam za oporo ničnost in ali je vsa pomoč pobegnila daleč od mene?"
+  },
+  {
+    "i": 12992,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 14,
+    "t": "Zatajiti usmiljenje bližnjemu pomeni zavreči strah Vsemogočnega."
+  },
+  {
+    "i": 12993,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 15,
+    "t": "Moji bratje so bili razočaranje kakor hudournik, kakor tok prehodnih hudournikov."
+  },
+  {
+    "i": 12994,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 16,
+    "t": "Led zatemni njihove vode, nad njimi se topi sneg,"
+  },
+  {
+    "i": 12995,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 17,
+    "t": "toda, ko nastopi žgoča sezona, presahnejo, izginejo pod žgočo vročino sonca."
+  },
+  {
+    "i": 12996,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 18,
+    "t": "Zaradi njih karavane zapustijo steze, se pogreznejo v puščavo in se tam izgubijo."
+  },
+  {
+    "i": 12997,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 19,
+    "t": "Karavane iz Tema jih gledajo s koprnenjem, v njih upajo konvoji iz Saba."
+  },
+  {
+    "i": 12998,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 20,
+    "t": "Njihovo zaupanje je razočarano; ko pridejo blizu njih, ostanejo zmedeni."
+  },
+  {
+    "i": 12999,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 21,
+    "t": "Takšni ste vi zame v tem času: ob mojem pogledu, obsedeni s strahom, se prestrašite."
+  }
+]

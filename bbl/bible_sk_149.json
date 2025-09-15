@@ -1,0 +1,802 @@
+[
+  {
+    "i": 14900,
+    "b": 18,
+    "c": 1964,
+    "r": 1964,
+    "o": 5,
+    "t": "Aby skryte strieľali na nevinného, náhle strieľajú a neboja sa ničoho."
+  },
+  {
+    "i": 14901,
+    "b": 18,
+    "c": 1964,
+    "r": 1964,
+    "o": 6,
+    "t": "Povzbudzujú sa v zlej práci, premýšľajú, ako nastražiť osídla, hovoria: „Kto ich uvidí?"
+  },
+  {
+    "i": 14902,
+    "b": 18,
+    "c": 1964,
+    "r": 1964,
+    "o": 7,
+    "t": "a preskúma naše tajnosti?“ On ich preskúma, ten, ktorý skúma hĺbku človeka a hlboké srdce."
+  },
+  {
+    "i": 14903,
+    "b": 18,
+    "c": 1964,
+    "r": 1964,
+    "o": 8,
+    "t": "Boh vystrelil šíp, náhle prišli ich zranenia;"
+  },
+  {
+    "i": 14904,
+    "b": 18,
+    "c": 1964,
+    "r": 1964,
+    "o": 9,
+    "t": "nech padnú pre svoj jazyk, všetci, čo ich vidia, krútia hlavou."
+  },
+  {
+    "i": 14905,
+    "b": 18,
+    "c": 1964,
+    "r": 1964,
+    "o": 10,
+    "t": "Vtedy sa každý človek bude báť, bude zvestovať dielo Božie a jeho čin pochopí."
+  },
+  {
+    "i": 14906,
+    "b": 18,
+    "c": 1964,
+    "r": 1964,
+    "o": 11,
+    "t": "Spravodlivý sa bude tešiť v Hospodinovi a v ňom bude jeho útočisko; všetci srdcom priami ho budú chváliť."
+  },
+  {
+    "i": 14907,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 1,
+    "t": "Zbormajstrovi. Dávidov žalm. Pieseň."
+  },
+  {
+    "i": 14908,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 2,
+    "t": "Tebe patrí chvála, ó Bože, v Sione; nech je ti splnený sľub:"
+  },
+  {
+    "i": 14909,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 3,
+    "t": "Ty vypočúvaš modlitbu. Až k tebe príde každé telo"
+  },
+  {
+    "i": 14910,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 4,
+    "t": "so svojimi hriešnymi skutkami; naše viny sú silnejšie ako my, ale ty ich zahládzaš."
+  },
+  {
+    "i": 14911,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 5,
+    "t": "Blahoslavený tvoj vyvolený, tvoj dôverník, prebýva v tvojich nádvoriach. Nasýťme sa dobrami tvojho domu, svätými vecami tvojho chrámu."
+  },
+  {
+    "i": 14912,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 6,
+    "t": "Odovedáš nám divmi spravodlivosti, Bože našej spásy, nádej končín zeme a vzdialených ostrovov;"
+  },
+  {
+    "i": 14913,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 7,
+    "t": "ty, ktorý udržuješ hory svojou silou, ktorý sa opásavaš mocou,"
+  },
+  {
+    "i": 14914,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 8,
+    "t": "ty, ktorý upokojuješ hukot morí, hukot ich vĺn. Národy sú v rozruchu,"
+  },
+  {
+    "i": 14915,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 9,
+    "t": "úzkosťou sa zmocňujú obyvatelia končín sveta; tvoje znamenia rozjasňujú brány rána i večera."
+  },
+  {
+    "i": 14916,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 10,
+    "t": "Navštevuješ zem a dávaš jej hojnosť, napĺňaš ju bohatstvom. Potok Boží je plný vody, pripravuješ úrodu. Takto ju pripravuješ:"
+  },
+  {
+    "i": 14917,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 11,
+    "t": "zavlažuješ jej brázdy, zarovnávaš jej hrudy, zmäkčuješ ju dažďami, žehnáš jej klíčenie."
+  },
+  {
+    "i": 14918,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 12,
+    "t": "Korunuješ rok svojou dobrotou, na tvojich stopách kvapká hojnosť;"
+  },
+  {
+    "i": 14919,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 13,
+    "t": "kvapkajú pastviny púšte, pahorky sa odievajú do plesania;"
+  },
+  {
+    "i": 14920,
+    "b": 18,
+    "c": 1965,
+    "r": 1965,
+    "o": 14,
+    "t": "lúky sa pokrývajú stádami, doliny sa zahaľujú do pšenice, výkriky radosti, ó piesne!"
+  },
+  {
+    "i": 14921,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 1,
+    "t": "Zbormajstrovi. Pieseň. Žalm. Plesajte Bohu, celá zem,"
+  },
+  {
+    "i": 14922,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 2,
+    "t": "spievajte na slávu jeho mena, vzdávajte mu chválu slávy,"
+  },
+  {
+    "i": 14923,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 3,
+    "t": "povedzte Bohu: Aký si strašný! Podľa miery tvojej sily sú tvoje diela. Tvoji nepriatelia ti lichotia;"
+  },
+  {
+    "i": 14924,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 4,
+    "t": "celá zem sa ti klaňa, spieva ti, spieva tvojmu menu."
+  },
+  {
+    "i": 14925,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 5,
+    "t": "Poďte, pozrite si činy Božie, strašné v skutkoch pre synov Adamových:"
+  },
+  {
+    "i": 14926,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 6,
+    "t": "premenil more na suchú zem, cez rieku prešli suchou nohou. Tam je naša radosť v ňom,"
+  },
+  {
+    "i": 14927,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 7,
+    "t": "vládca večnej moci! Oči upiera na národy, bdie nad vzbúrencami, aby sa nepozviechali."
+  },
+  {
+    "i": 14928,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 8,
+    "t": "Ľudia, žehnajte nášho Boha, dajte hlas jeho chvále,"
+  },
+  {
+    "i": 14929,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 9,
+    "t": "on, ktorý vracia našu dušu k životu a chráni naše nohy pred pošmyknutím."
+  },
+  {
+    "i": 14930,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 10,
+    "t": "Skúšal si nás, ó Bože, prečisťoval si nás, ako sa prečisťuje striebro;"
+  },
+  {
+    "i": 14931,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 11,
+    "t": "dal si nás padnúť do siete, vložil si nám na bedrá zovretie;"
+  },
+  {
+    "i": 14932,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 12,
+    "t": "dal si jazdiť na našich hlavách smrteľníkovi; prechádzali sme cez oheň a cez vodu, potom si nám dal odpočinúť."
+  },
+  {
+    "i": 14933,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 13,
+    "t": "Vojdem do tvojho domu s celopalmi, splním ti svoje sľuby,"
+  },
+  {
+    "i": 14934,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 14,
+    "t": "tie, ktoré mi otvorili pery, ktoré vyslovovali moje ústa v mojej úzkosti."
+  },
+  {
+    "i": 14935,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 15,
+    "t": "Obetujem ti tučné celopaly s dymom baranov, urobím to s býkmi a kozlami."
+  },
+  {
+    "i": 14936,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 16,
+    "t": "Poďte, počúvajte, nech vám rozpoviem, všetci bohabojní, čo urobil pre moju dušu."
+  },
+  {
+    "i": 14937,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 17,
+    "t": "K nemu moje ústa volali, chvála už na mojom jazyku."
+  },
+  {
+    "i": 14938,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 18,
+    "t": "Keby som bol videl zlobu vo svojom srdci, Pán by ma nebol vypočul."
+  },
+  {
+    "i": 14939,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 19,
+    "t": "A predsa ma Boh vypočul, bol pozorný na hlas mojej modlitby."
+  },
+  {
+    "i": 14940,
+    "b": 18,
+    "c": 1966,
+    "r": 1966,
+    "o": 20,
+    "t": "Nech je požehnaný Boh, ktorý neodvrátil moju modlitbu ani svoju lásku ďaleko odo mňa."
+  },
+  {
+    "i": 14941,
+    "b": 18,
+    "c": 1967,
+    "r": 1967,
+    "o": 1,
+    "t": "Zbormajstrovi. Na strunové nástroje. Žalm. Pieseň."
+  },
+  {
+    "i": 14942,
+    "b": 18,
+    "c": 1967,
+    "r": 1967,
+    "o": 2,
+    "t": "Nech je nám Boh milostivý a nech nás požehná, nech rozjasní nad nami svoju tvár!"
+  },
+  {
+    "i": 14943,
+    "b": 18,
+    "c": 1967,
+    "r": 1967,
+    "o": 3,
+    "t": "Na zemi sa spoznajú tvoje cesty, medzi všetkými národmi tvoja spása."
+  },
+  {
+    "i": 14944,
+    "b": 18,
+    "c": 1967,
+    "r": 1967,
+    "o": 4,
+    "t": "Nech ti vzdávajú vďaky národy, ó Bože, nech ti vzdávajú vďaky všetky národy!"
+  },
+  {
+    "i": 14945,
+    "b": 18,
+    "c": 1967,
+    "r": 1967,
+    "o": 5,
+    "t": "Nech plesajú a spievajú národy, lebo súdiš svet spravodlivo, súdiš národy v priamosti, na zemi vládneš národom."
+  },
+  {
+    "i": 14946,
+    "b": 18,
+    "c": 1967,
+    "r": 1967,
+    "o": 6,
+    "t": "Nech ti vzdávajú vďaky národy, ó Bože, nech ti vzdávajú vďaky všetky národy!"
+  },
+  {
+    "i": 14947,
+    "b": 18,
+    "c": 1967,
+    "r": 1967,
+    "o": 7,
+    "t": "Zem vydala svoj úrod, Boh, náš Boh, nás žehná."
+  },
+  {
+    "i": 14948,
+    "b": 18,
+    "c": 1967,
+    "r": 1967,
+    "o": 8,
+    "t": "Nech nás Boh žehná a nech sa ho boja všetky končiny zeme!"
+  },
+  {
+    "i": 14949,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 1,
+    "t": "Zbormajstrovi. Dávidov. Žalm. Pieseň."
+  },
+  {
+    "i": 14950,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 2,
+    "t": "Nech povstane Boh a jeho nepriatelia sa rozídu, a jeho protivníci utečú pred jeho tvárou."
+  },
+  {
+    "i": 14951,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 3,
+    "t": "Ako sa rozplynie dym, tak ich rozptýliš; ako sa topí vosk pred ohňom, tak zahynú bezbožní pred tvárou Božou."
+  },
+  {
+    "i": 14952,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 4,
+    "t": "Ale spravodliví nech plesajú pred tvárou Božou, nech jasajú a tancujú od radosti."
+  },
+  {
+    "i": 14953,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 5,
+    "t": "Spievajte Bohu, hrajte na jeho meno, pripravte cestu Jazdcovi na oblakoch, jasajte v Hospodinovi, tancujte pred jeho tvárou."
+  },
+  {
+    "i": 14954,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 6,
+    "t": "Otec sirôt, obhajca vdov, to je Boh na svojom svätom mieste;"
+  },
+  {
+    "i": 14955,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 7,
+    "t": "Boh dáva osamelému príbytok domu, otvára zajatcom bránu šťastia, ale vzbúrenci zostávajú na suchej zemi."
+  },
+  {
+    "i": 14956,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 8,
+    "t": "Ó Bože, keď si vyšiel pred tvárou svojho ľudu, keď si šliapal po púšti,"
+  },
+  {
+    "i": 14957,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 9,
+    "t": "zem sa triasla, samotné nebesia sa roztopili pred tvárou Božou, pred tvárou Boha Izraelovho."
+  },
+  {
+    "i": 14958,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 10,
+    "t": "Rozlial si, ó Bože, dážď hojnosti, tvoje vyčerpané dedičstvo si ty posilnil;"
+  },
+  {
+    "i": 14959,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 11,
+    "t": "tvoja rodina našla príbytok, ten, ktorý si v svojej dobrote, ó Bože, pripravil chudobnému."
+  },
+  {
+    "i": 14960,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 12,
+    "t": "Pán dal príkaz, to je ohlásenie nespočetného vojska."
+  },
+  {
+    "i": 14961,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 13,
+    "t": "A velitelia vojska utekali, utekali, krásavica z domu si delí korisť."
+  },
+  {
+    "i": 14962,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 14,
+    "t": "Zatiaľ čo vy odpočívate medzi dvoma múrmi, krídla Holubice sa pokrývajú striebrom a jej perie odrazom zeleného zlata;"
+  },
+  {
+    "i": 14963,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 15,
+    "t": "keď Všemohúci rozpráši kráľov, ona je tou, ktorá sneží na temnú horu."
+  },
+  {
+    "i": 14964,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 16,
+    "t": "Hora Božia, hora Bázan! Vrchovitá hora, hora Bázan!"
+  },
+  {
+    "i": 14965,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 17,
+    "t": "Prečo závidíte, vrchnaté hory, horu, ktorú si Boh vyvolil za príbytok? Áno, Hospodin tam bude prebývať až do konca."
+  },
+  {
+    "i": 14966,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 18,
+    "t": "Božie zástupy sú tisíce myriád; Pán prišiel zo Sinaja do svätyne."
+  },
+  {
+    "i": 14967,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 19,
+    "t": "Vystúpil si na výšinu, zajal si zajatcov, prijal si ľudí ako daň, dokonca aj vzbúrencov, aby Hospodin Boh mal príbytok."
+  },
+  {
+    "i": 14968,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 20,
+    "t": "Nech je požehnaný Pán deň čo deň! On sa stará o nás, Boh našej spásy."
+  },
+  {
+    "i": 14969,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 21,
+    "t": "Boh, ktorého máme, je Boh vyslobodenia, Pánovi Hospodinovi patria cesty zo smrti;"
+  },
+  {
+    "i": 14970,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 22,
+    "t": "ale Boh rozdrví hlavu svojim nepriateľom, vlasatú lebku zločinca, ktorý sa potuluje."
+  },
+  {
+    "i": 14971,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 23,
+    "t": "Pán povedal: „Z Bázanu privediem späť, privediem späť z hlbín mora,"
+  },
+  {
+    "i": 14972,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 24,
+    "t": "aby si ponoril svoju nohu do krvi, aby jazyk tvojich psov mal svoj podiel na nepriateľoch."
+  },
+  {
+    "i": 14973,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 25,
+    "t": "Videli tvoje sprievody, ó Bože, sprievody môjho Boha, môjho kráľa, vo svätyni:"
+  },
+  {
+    "i": 14974,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 26,
+    "t": "speváci kráčali vpredu, hudobníci vzadu, mladé dievčatá uprostred, udierajúc na bubienok."
+  },
+  {
+    "i": 14975,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 27,
+    "t": "V zboroch žehnali Boha: to je Hospodin, od počiatku Izraela."
+  },
+  {
+    "i": 14976,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 28,
+    "t": "Bol tam Benjamín, najmladší, ktorý otváral pochod; kniežatá Júdove vo viacfarebných rúchach, kniežatá Zabulonove, kniežatá Neftaliho."
+  },
+  {
+    "i": 14977,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 29,
+    "t": "Rozkáž, ó môj Bože, podľa svojej moci, moc, ó Bože, ktorú si pre nás uskutočnil,"
+  },
+  {
+    "i": 14978,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 30,
+    "t": "zo svojho chrámu nad Jeruzalemom. K tebe prídu králi, prinášajúc dary."
+  },
+  {
+    "i": 14979,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 31,
+    "t": "Vyhrážaj sa beštii z trstiny, tlupou býkov s národmi teliat, ktorá sa ponižuje s hrivnami striebra! Rozptýľ národy, ktoré milujú vojnu."
+  },
+  {
+    "i": 14980,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 32,
+    "t": "Prídu kniežatá z Egypta, Etiópia vystrie ruky k Bohu."
+  },
+  {
+    "i": 14981,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 33,
+    "t": "Kráľovstvá zeme, spievajte Bohu, hrajte"
+  },
+  {
+    "i": 14982,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 34,
+    "t": "Jazdcu nebies, odvekých nebies."
+  },
+  {
+    "i": 14983,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 35,
+    "t": "Spoznajte moc Božiu. Nad Izraelom Jeho nádhera, v oblakoch Jeho moc:"
+  },
+  {
+    "i": 14984,
+    "b": 18,
+    "c": 1968,
+    "r": 1968,
+    "o": 36,
+    "t": "Hrozný je Boh zo Svojho svätostánku. On je Boh Izraela, On dáva ľudu silu a moc. Požehnaný Boh!"
+  },
+  {
+    "i": 14985,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 1,
+    "t": "Zbormajstrovi. Na nápev: Ľalie... Dávidov."
+  },
+  {
+    "i": 14986,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 2,
+    "t": "Zachráň ma, Bože, lebo vody prenikli mi až k duši."
+  },
+  {
+    "i": 14987,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 3,
+    "t": "Zabáram sa do bahna priepasti a nieto, čo by ma zachytilo; vstúpil som do hlbín vôd a prúd ma zaplavuje."
+  },
+  {
+    "i": 14988,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 4,
+    "t": "Ustal som krikom, hrdlo mi horí, oči mi zhasínajú od čakania na môjho Boha."
+  },
+  {
+    "i": 14989,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 5,
+    "t": "Viac než vlasov na hlave je tých, čo ma bez príčiny nenávidia; mocní sú tí, čo ma ničia, tí, čo mi nespravodlivo škodia. (Čo som neulúpil, mám to vrátiť?)"
+  },
+  {
+    "i": 14990,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 6,
+    "t": "Ó, Bože, Ty poznáš moju pochabosť, moje previnenia sú pred Tebou obnažené."
+  },
+  {
+    "i": 14991,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 7,
+    "t": "Nech sa predo mnou nehanbia tí, čo na Teba spoliehajú, Jahve Zástupov! Nech sa nehanbia predo mnou tí, čo Ťa hľadajú, Boh Izraela!"
+  },
+  {
+    "i": 14992,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 8,
+    "t": "Pre Teba znášam hanbu, hanba mi pokrýva tvár,"
+  },
+  {
+    "i": 14993,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 9,
+    "t": "som cudzinec pre svojich bratov, neznámy pre synov mojej matky;"
+  },
+  {
+    "i": 14994,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 10,
+    "t": "lebo horlivosť pre Tvoj dom ma stravuje, hanobenie Tvojich hanobiteľov padá na mňa."
+  },
+  {
+    "i": 14995,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 11,
+    "t": "Keď som trápil svoju dušu pôstom, stalo sa mi to predmetom hanobenia;"
+  },
+  {
+    "i": 14996,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 12,
+    "t": "keď som si obliekol vrecovinu, stal som sa im príslovím,"
+  },
+  {
+    "i": 14997,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 13,
+    "t": "rozprávka tých, čo sedia v bráne, a pieseň tých, čo pijú silné nápoje."
+  },
+  {
+    "i": 14998,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 14,
+    "t": "Ale ja, obracajúc sa k Tebe s modlitbou, Jahve, v priaznivý čas, v Tvojej veľkej láske, Bože, odpovedz mi v pravde Tvojej spásy."
+  },
+  {
+    "i": 14999,
+    "b": 18,
+    "c": 1969,
+    "r": 1969,
+    "o": 15,
+    "t": "Vytiahni ma z bahna, aby som sa neponoril, nech uniknem svojim protivníkom, priepasti vôd!"
+  }
+]

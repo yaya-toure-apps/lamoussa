@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13000,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 22,
+    "t": "Vagy tán azt mondám néktek: Adjátok nékem ajándékot, hozzatok nékem áldozatot a ti vagyonotokból?"
+  },
+  {
+    "i": 13001,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 23,
+    "t": "Ragadjatok ki engem az elnyomó markából, szabadítsatok meg engem az erőszakos kezéből?"
+  },
+  {
+    "i": 13002,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 24,
+    "t": "Tanítsatok engem, és én hallgatok; mutassátok meg nékem, miben vétkeztem."
+  },
+  {
+    "i": 13003,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 25,
+    "t": "Mily kedvesek az igaz szavak! De a ti feddésetek, mire irányul?"
+  },
+  {
+    "i": 13004,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 26,
+    "t": "Szavakat akartok-é feddeni, pedig a kétségbeesettnek beszéde a szélbe vész?"
+  },
+  {
+    "i": 13005,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 27,
+    "t": "Még árvasorsot is vetnétek, és barátotok felett is alkudoznátok!"
+  },
+  {
+    "i": 13006,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 28,
+    "t": "Most azért, kérlek, tekintsetek rám, mert nem hazudok a szemetek előtt."
+  },
+  {
+    "i": 13007,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 29,
+    "t": "Forduljatok meg, ne legyen igazságtalanság; forduljatok meg, mert még mindig igazam van."
+  },
+  {
+    "i": 13008,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 30,
+    "t": "Van-é álnokság az én nyelvemen? Nem tudja-é megkülönböztetni az én ínyem a veszedelmet?"
+  },
+  {
+    "i": 13009,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 1,
+    "t": "Avagy nem hadakozás az ember élete e földön? Nem olyan-é, mint a béresnek a napja?"
+  },
+  {
+    "i": 13010,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 2,
+    "t": "Mint a szolga kívánja az árnyékot, és a béres várja a bérét,"
+  },
+  {
+    "i": 13011,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 3,
+    "t": "úgy adattak nékem hiábavaló hónapok, és kínos éjszakák számíttattak nékem."
+  },
+  {
+    "i": 13012,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 4,
+    "t": "Mikor lefekszem, azt mondom: Mikor kelek fel? És az estig tele vagyok hánykolódással."
+  },
+  {
+    "i": 13013,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 5,
+    "t": "Testem férgekkel és piszokkal boríttatik, bőröm megrepedezik és elrothad."
+  },
+  {
+    "i": 13014,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 6,
+    "t": "Napjaim gyorsabbak a szövőszék orsójánál, és reménység nélkül múlnak el."
+  },
+  {
+    "i": 13015,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 7,
+    "t": "Emlékezzél meg róla, hogy az én életem csak szellő, és az én szemem többé nem lát jót!"
+  },
+  {
+    "i": 13016,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 8,
+    "t": "Nem lát engem többé a szemlélő, a te szemeid rajtam lesznek, de nem leszek."
+  },
+  {
+    "i": 13017,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 9,
+    "t": "Mint a felhő elenyészik és elszáll, úgy nem jő fel, aki alászáll a Seolba."
+  },
+  {
+    "i": 13018,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 10,
+    "t": "Nem tér vissza az ő házába, és az ő lakhelye többé nem ismeri őt."
+  },
+  {
+    "i": 13019,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 11,
+    "t": "Azért én sem tartóztatom meg az én számat, szólok az én lelkem szorongattatásában, panaszkodom az én szívem keserűségében."
+  },
+  {
+    "i": 13020,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 12,
+    "t": "Avagy tenger vagyok-é én, vagy tengeri szörnyeteg, hogy őrt rendelsz fölém?"
+  },
+  {
+    "i": 13021,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 13,
+    "t": "Ha azt mondom: Megvigasztal engem az én ágyam, enyhíti panaszomat az én fekvőhelyem,"
+  },
+  {
+    "i": 13022,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 14,
+    "t": "akkor álmodban rettentesz engem, és látomásokban rémítesz engem."
+  },
+  {
+    "i": 13023,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 15,
+    "t": "Ezért inkább fulladást kívánok, a halált inkább, mint az én kínjaimat."
+  },
+  {
+    "i": 13024,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 16,
+    "t": "Megvetem az életet, nem élek örökké; hagyd el engem, mert hiábavalók az én napjaim!"
+  },
+  {
+    "i": 13025,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 17,
+    "t": "Micsoda az ember, hogy úgy megbecsülöd őt, és hogy reá fordítod a te gondodat?"
+  },
+  {
+    "i": 13026,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 18,
+    "t": "Hogy meglátogatod őt reggelről reggelre, és minden pillanatban megvizsgálod őt?"
+  },
+  {
+    "i": 13027,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 19,
+    "t": "Miért nem fordítod el rólam a te tekintetedet, és nem hagysz engem békén, míg nyállal lenyelek?"
+  },
+  {
+    "i": 13028,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 20,
+    "t": "Ha vétkeztem is, mit cselekedtem néked, ó embernek őrizője? Miért tettél engem a te célpontoddá, hogy terhemre vagyok néked?"
+  },
+  {
+    "i": 13029,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 21,
+    "t": "Miért nem bocsátod meg az én vétkemet, és miért nem viszed el az én álnokságomat? Mert immár porba fekszem, keresel engem, de nem leszek."
+  },
+  {
+    "i": 13030,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 1,
+    "t": "Akkor megszólalt Bildád, a suhai, és mondta:"
+  },
+  {
+    "i": 13031,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 2,
+    "t": "Meddig beszélsz még ilyeneket, és a te szád beszédei erős szélnek lesznek?"
+  },
+  {
+    "i": 13032,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 3,
+    "t": "Vajon Isten elfordítja-é a jogot, és a Mindenható elferdíti-é az igazságot?"
+  },
+  {
+    "i": 13033,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 4,
+    "t": "Ha a te fiaid vétkeztek ellene, ő átadta őket az ő vétküknek."
+  },
+  {
+    "i": 13034,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 5,
+    "t": "Ha te keresed Istent, és könyörögsz a Mindenhatóhoz,"
+  },
+  {
+    "i": 13035,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 6,
+    "t": "ha tiszta és igaz vagy, bizonyára felserken melletted, és helyreállítja a te igaz lakásodat."
+  },
+  {
+    "i": 13036,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 7,
+    "t": "És a te előbbi állapotod kevésnek fog látszani, a te utolsó állapotod pedig igen megnövekedik."
+  },
+  {
+    "i": 13037,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 8,
+    "t": "Kérdezd meg, kérlek, az előbbi nemzedéket, és figyelj atyáik tapasztalására."
+  },
+  {
+    "i": 13038,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 9,
+    "t": "Mert mi tegnapiak vagyunk, és nem tudunk semmit, mivel árnyék a mi életünk a földön."
+  },
+  {
+    "i": 13039,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 10,
+    "t": "Vajon nem ők tanítanak-é téged, mondanak-é néked, és hozzák elő szívükből a bölcs beszédeket?"
+  },
+  {
+    "i": 13040,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 11,
+    "t": "Felnevelkedhet-é a sás a sár nélkül? Megnőhet-é a káka víz nélkül?"
+  },
+  {
+    "i": 13041,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 12,
+    "t": "Mikor még zöldell és nem vágják le, előbb elszárad minden füvénél."
+  },
+  {
+    "i": 13042,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 13,
+    "t": "Ilyen a sorsa mindazoknak, akik elfelejtik Istent, és az istentelen reménysége elvész."
+  },
+  {
+    "i": 13043,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 14,
+    "t": "Kinek bizodalma elszakad, és kinek reménysége pókháló."
+  },
+  {
+    "i": 13044,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 15,
+    "t": "Rátámaszkodik az ő házára, de az nem áll meg; belekapaszkodik, de az összeomlik."
+  },
+  {
+    "i": 13045,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 16,
+    "t": "Zöldell ő a nap előtt, és az ő hajtása kijő a kertjéből."
+  },
+  {
+    "i": 13046,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 17,
+    "t": "Gyökerei egy rakásra fonódnak, és a kövek között helyet néz magának."
+  },
+  {
+    "i": 13047,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 18,
+    "t": "Ha elragadják őt a helyéről, megtagadja őt az a hely, mondván: Nem láttalak téged!"
+  },
+  {
+    "i": 13048,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 19,
+    "t": "Ímé, ez az ő útjának öröme, és a földből mások sarjadnak helyette."
+  },
+  {
+    "i": 13049,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 20,
+    "t": "Ímé, Isten nem veti meg a tökéleteset, és nem fogja meg a gonoszok kezét."
+  },
+  {
+    "i": 13050,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 21,
+    "t": "Még betölti a te szádat nevetéssel, és a te ajkaidat örömmel."
+  },
+  {
+    "i": 13051,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 22,
+    "t": "A te gyűlölőid szégyenbe öltöznek, és a gonoszok sátora nem lesz többé."
+  },
+  {
+    "i": 13052,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 1,
+    "t": "Akkor megszólalt Jób, és mondta:"
+  },
+  {
+    "i": 13053,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 2,
+    "t": "Valóban tudom, hogy így van; de hogyan igazolhatja magát az ember az Isten előtt?"
+  },
+  {
+    "i": 13054,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 3,
+    "t": "Ha valaki perbe száll vele, ezer közül egyre sem felelhet."
+  },
+  {
+    "i": 13055,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 4,
+    "t": "Bölcs szívű és hatalmas erejű; ki szállt ellene, és maradt épen?"
+  },
+  {
+    "i": 13056,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 5,
+    "t": "Aki hegyeket mozdít el, és ők nem veszik észre, aki haragjában felforgatja őket."
+  },
+  {
+    "i": 13057,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 6,
+    "t": "Aki megrendíti a földet a helyéről, és megremegnek az ő oszlopai."
+  },
+  {
+    "i": 13058,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 7,
+    "t": "Aki parancsol a napnak, és az nem kel fel, és a csillagokat lepecsételi."
+  },
+  {
+    "i": 13059,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 8,
+    "t": "Aki egyedül feszíti ki az eget, és jár a tenger magaslatain."
+  },
+  {
+    "i": 13060,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 9,
+    "t": "Aki teremtette a Göncölszekeret, a Kaszás-csillagot és a Fiastyúkot, és a déli csillagkamrákat."
+  },
+  {
+    "i": 13061,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 10,
+    "t": "Aki nagy és kifürkészhetetlen dolgokat cselekszik, és megszámlálhatatlan csodákat."
+  },
+  {
+    "i": 13062,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 11,
+    "t": "Ímé, elmegy mellettem, és nem látom; elvonul, és nem veszem észre."
+  },
+  {
+    "i": 13063,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 12,
+    "t": "Ha elragad, ki akadályozhatja meg? Ki mondhatja néki: Mit csinálsz?"
+  },
+  {
+    "i": 13064,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 13,
+    "t": "Isten nem vonja vissza az ő haragját; meghajolnak alatta Raháb segítői."
+  },
+  {
+    "i": 13065,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 14,
+    "t": "Hát én hogyan felelhetnék néki, választhatnám ki a szavaimat vele szemben?"
+  },
+  {
+    "i": 13066,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 15,
+    "t": "Ha igazam is van, nem felelek; könyörgök az én bírámnak."
+  },
+  {
+    "i": 13067,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 16,
+    "t": "Ha kiáltok is, és ő válaszol nékem, nem hiszem, hogy meghallgatja az én szómat."
+  },
+  {
+    "i": 13068,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 17,
+    "t": "Mert szélvészen tipor engem, és ok nélkül megsokasítja a sebeimet."
+  },
+  {
+    "i": 13069,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 18,
+    "t": "Nem engedi, hogy levegőt vegyek, hanem megelégít engem keserűséggel."
+  },
+  {
+    "i": 13070,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 19,
+    "t": "Ha erősségről van szó, ímé, ő az erős; ha ítéletről, ki idézi őt elém?"
+  },
+  {
+    "i": 13071,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 20,
+    "t": "Ha igazolom magamat, az én szám kárhoztat engem; ha tökéletes vagyok, ő elítél engem."
+  },
+  {
+    "i": 13072,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 21,
+    "t": "Én tökéletes vagyok, nem törődöm magammal; megvetem az életemet."
+  },
+  {
+    "i": 13073,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 22,
+    "t": "Egyforma mindennek; azért mondom: A tökéletest és a gonoszt egyaránt elveszti."
+  },
+  {
+    "i": 13074,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 23,
+    "t": "Ha hirtelen csapás öl, nevet a tökéletesek kísértésén."
+  },
+  {
+    "i": 13075,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 24,
+    "t": "A föld gonosznak kezébe adatik, a bírák arcát elfedi; ha nem ő, hát ki?"
+  },
+  {
+    "i": 13076,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 25,
+    "t": "Az én napjaim gyorsabbak a futónál, elfutnak, nem látnak jót."
+  },
+  {
+    "i": 13077,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 26,
+    "t": "Elvonulnak, mint a nádhajók, mint a saskeselyű, mely zsákmányra rohan."
+  },
+  {
+    "i": 13078,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 27,
+    "t": "Ha azt mondom: Elfeledem panaszomat, elhagyom az én szomorúságomat, és megvigasztalódom,"
+  },
+  {
+    "i": 13079,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 28,
+    "t": "félek minden én fájdalomtól, tudván, hogy nem tartasz engem ártatlannak."
+  },
+  {
+    "i": 13080,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 29,
+    "t": "Ha vétkeztem, miért fárasztom magam hiába?"
+  },
+  {
+    "i": 13081,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 30,
+    "t": "Ha szappannal mosom is magam, és lúggal tisztítom kezeimet,"
+  },
+  {
+    "i": 13082,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 31,
+    "t": "mégis sárba mártasz engem, és ruháim is megútálnak engem!"
+  },
+  {
+    "i": 13083,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 32,
+    "t": "Mert ő nem ember, mint én, hogy feleljek neki, hogy együtt álljunk ítélőszék elé."
+  },
+  {
+    "i": 13084,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 33,
+    "t": "Nincsen közöttünk bíró, aki kezét ránk tehetné,"
+  },
+  {
+    "i": 13085,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 34,
+    "t": "aki elfordíthatná rólam vesszejét, és félelmét elűzhetné tőlem."
+  },
+  {
+    "i": 13086,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 35,
+    "t": "Szólok tehát, nem félek tőle, mert nem vagyok olyan magamban!"
+  },
+  {
+    "i": 13087,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 1,
+    "t": "Mivel lelkem megundorodott az élettől, szabadjára engedem panaszomat, és kiöntöm lelkem keserűségét."
+  },
+  {
+    "i": 13088,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 2,
+    "t": "Mondom Istennek: Ne kárhoztass el engem, tudasd meg velem, miért perelsz velem!"
+  },
+  {
+    "i": 13089,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 3,
+    "t": "Jó-e neked, hogy elnyomsz engem, hogy megveted kezed alkotását, és a gonoszok tanácsát segíted?"
+  },
+  {
+    "i": 13090,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 4,
+    "t": "Vajon húsból vannak-e a te szemeid, és a te látásod olyan-e, mint az embereké?"
+  },
+  {
+    "i": 13091,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 5,
+    "t": "Vajon a te napjaid olyanok-e, mint a halandóké, a te esztendeid olyanok-e, mint az ember napjai?"
+  },
+  {
+    "i": 13092,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 6,
+    "t": "Hogy keresed vétkemet, és kutatod bűnömet,"
+  },
+  {
+    "i": 13093,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 7,
+    "t": "holott tudod, hogy ártatlan vagyok, és senki sem menthet ki kezedből!"
+  },
+  {
+    "i": 13094,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 8,
+    "t": "A te kezeid alkottak engem és formáltak, és most mégis el akarsz pusztítani engem!"
+  },
+  {
+    "i": 13095,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 9,
+    "t": "Emlékezzél, hogy agyagból gyúrtál engem, és porrá akarsz engem visszatéríteni!"
+  },
+  {
+    "i": 13096,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 10,
+    "t": "Vajon nem tejjel öntöttél-e ki engem, és aludttejként sűrítettél-e meg engem?"
+  },
+  {
+    "i": 13097,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 11,
+    "t": "Bőrrel és hússal öltöztettél fel, csontokkal és inakkal szövetkeztél engem."
+  },
+  {
+    "i": 13098,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 12,
+    "t": "Életet ajándékoztál nekem, és gondosan őrizted leheletemet."
+  },
+  {
+    "i": 13099,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 13,
+    "t": "De volt valami a szívedben, tudom, hogy tartogattál valamit"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 0,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 1,
+    "t": "In principio Iddio creò il cielo e la terra."
+  },
+  {
+    "i": 1,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 2,
+    "t": "Or la terra era informe e vuota, e le tenebre coprivano la faccia dell'abisso; e lo Spirito di Dio aleggiava sulla superficie delle acque."
+  },
+  {
+    "i": 2,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 3,
+    "t": "E Iddio disse: «Sia la luce!». E la luce fu."
+  },
+  {
+    "i": 3,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 4,
+    "t": "E Iddio vide che la luce era buona; e Iddio separò la luce dalle tenebre."
+  },
+  {
+    "i": 4,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 5,
+    "t": "E Iddio chiamò la luce «giorno», e le tenebre «notte». E fu sera, poi fu mattina: il primo giorno."
+  },
+  {
+    "i": 5,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 6,
+    "t": "Poi Iddio disse: «Vi sia una distesa tra le acque, che separi le acque dalle acque»."
+  },
+  {
+    "i": 6,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 7,
+    "t": "E Iddio fece la distesa e separò le acque che erano sotto la distesa dalle acque che erano sopra la distesa; e così fu."
+  },
+  {
+    "i": 7,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 8,
+    "t": "E Iddio chiamò la distesa «cielo». E fu sera, poi fu mattina: il secondo giorno."
+  },
+  {
+    "i": 8,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 9,
+    "t": "Poi Iddio disse: «Le acque che sono sotto il cielo si raccolgano in un unico luogo e appaia l'asciutto». E così fu."
+  },
+  {
+    "i": 9,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 10,
+    "t": "E Iddio chiamò l'asciutto «terra», e la raccolta delle acque «mari». E Iddio vide che era cosa buona."
+  },
+  {
+    "i": 10,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 11,
+    "t": "Poi Iddio disse: «Produca la terra della verdura, erbe che facciano seme e alberi da frutto che portino frutto secondo la loro specie, la cui semenza sia in sé sulla terra». E così fu."
+  },
+  {
+    "i": 11,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 12,
+    "t": "E la terra produsse della verdura, erbe che facevano seme secondo la loro specie e alberi che portavano frutto, la cui semenza era in sé, secondo la loro specie. E Iddio vide che era cosa buona."
+  },
+  {
+    "i": 12,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 13,
+    "t": "E fu sera, poi fu mattina: il terzo giorno."
+  },
+  {
+    "i": 13,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 14,
+    "t": "Poi Iddio disse: «Vi siano delle luci nella distesa dei cieli per separare il giorno dalla notte; e servano da segni per le stagioni, per i giorni e per gli anni;"
+  },
+  {
+    "i": 14,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 15,
+    "t": "e servano da luci nella distesa dei cieli per illuminare la terra». E così fu."
+  },
+  {
+    "i": 15,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 16,
+    "t": "E Iddio fece le due grandi luci: la luce maggiore per governare il giorno e la luce minore per governare la notte; e fece anche le stelle."
+  },
+  {
+    "i": 16,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 17,
+    "t": "E Iddio le pose nella distesa dei cieli per illuminare la terra,"
+  },
+  {
+    "i": 17,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 18,
+    "t": "per governare il giorno e la notte e per separare la luce dalle tenebre. E Iddio vide che era cosa buona."
+  },
+  {
+    "i": 18,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 19,
+    "t": "E fu sera, poi fu mattina: il quarto giorno."
+  },
+  {
+    "i": 19,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 20,
+    "t": "Poi Iddio disse: «Brulichino le acque di creature viventi e volino gli uccelli sopra la terra per la distesa dei cieli». E così fu."
+  },
+  {
+    "i": 20,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 21,
+    "t": "E Iddio creò i grandi mostri marini e tutti gli esseri viventi che si muovono e brulicano nelle acque secondo la loro specie, e ogni volatile alato secondo la sua specie. E Iddio vide che era cosa buona."
+  },
+  {
+    "i": 21,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 22,
+    "t": "E Iddio li benedisse, dicendo: «Siate fecondi, moltiplicatevi e riempite le acque dei mari; e gli uccelli si moltiplichino sulla terra»."
+  },
+  {
+    "i": 22,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 23,
+    "t": "E fu sera, poi fu mattina: il quinto giorno."
+  },
+  {
+    "i": 23,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 24,
+    "t": "Poi Iddio disse: «Produca la terra creature viventi secondo la loro specie: bestiame, rettili e animali selvatici di ogni genere». E così fu."
+  },
+  {
+    "i": 24,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 25,
+    "t": "E Iddio fece gli animali selvatici di ogni genere, il bestiame secondo la sua specie e tutti i rettili della terra secondo la loro specie. E Iddio vide che era cosa buona."
+  },
+  {
+    "i": 25,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 26,
+    "t": "Poi Iddio disse: «Facciamo l'uomo a nostra immagine, conforme alla nostra somiglianza, e abbiano dominio sui pesci del mare, sugli uccelli del cielo, sul bestiame, su tutta la terra e su tutti i rettili che strisciano sulla terra»."
+  },
+  {
+    "i": 26,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 27,
+    "t": "Così Iddio creò l'uomo a sua immagine; lo creò a immagine di Iddio; li creò maschio e femmina."
+  },
+  {
+    "i": 27,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 28,
+    "t": "E Iddio li benedisse e disse loro: «Siate fecondi e moltiplicatevi; riempite la terra e soggiogatela; dominate sui pesci del mare, sugli uccelli del cielo e su ogni essere vivente che striscia sulla terra»."
+  },
+  {
+    "i": 28,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 29,
+    "t": "Poi Iddio disse: «Ecco, io vi do ogni erba che fa seme sulla superficie di tutta la terra e ogni albero fruttifero che fa seme; questo vi servirà di nutrimento."
+  },
+  {
+    "i": 29,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 30,
+    "t": "A ogni animale selvatico, a ogni uccello del cielo e a tutto ciò che si muove sulla terra, in cui è vita, io do ogni erba verde per nutrimento». E così fu."
+  },
+  {
+    "i": 30,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 31,
+    "t": "E Iddio vide tutto ciò che aveva fatto, ed ecco, era molto buono. E fu sera, poi fu mattina: il sesto giorno."
+  },
+  {
+    "i": 31,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 1,
+    "t": "Così furono compiuti i cieli e la terra e tutto il loro esercito."
+  },
+  {
+    "i": 32,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 2,
+    "t": "E Iddio nel settimo giorno compì l'opera che aveva fatto, e si riposò il settimo giorno da tutta l'opera che aveva fatto."
+  },
+  {
+    "i": 33,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 3,
+    "t": "E Iddio benedisse il settimo giorno e lo santificò, perché in esso si riposò da tutta l'opera che aveva creato e fatto."
+  },
+  {
+    "i": 34,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 4,
+    "t": "Queste sono le origini dei cieli e della terra quando furono creati, nel giorno in cui l'Eterno Iddio fece la terra e i cieli."
+  },
+  {
+    "i": 35,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 5,
+    "t": "Nessun arbusto della campagna era ancora sulla terra e nessuna erba della campagna era ancora spuntata, perché l'Eterno Iddio non aveva fatto piovere sulla terra e non c'era alcun uomo per coltivare il suolo."
+  },
+  {
+    "i": 36,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 6,
+    "t": "Ma saliva dalla terra un vapore che irrigava tutta la superficie del suolo."
+  },
+  {
+    "i": 37,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 7,
+    "t": "Allora l'Eterno Iddio formò l'uomo dalla polvere della terra, gli soffiò nelle narici un alito di vita e l'uomo divenne un'anima vivente."
+  },
+  {
+    "i": 38,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 8,
+    "t": "Poi l'Eterno Iddio piantò un giardino in Eden, a oriente, e vi pose l'uomo che aveva formato."
+  },
+  {
+    "i": 39,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 9,
+    "t": "E l'Eterno Iddio fece spuntare dal suolo ogni albero piacevole alla vista e buono da mangiare, l'albero della vita in mezzo al giardino e l'albero della conoscenza del bene e del male."
+  },
+  {
+    "i": 40,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 10,
+    "t": "Un fiume usciva da Eden per irrigare il giardino, e di là si divideva e formava quattro bracci."
+  },
+  {
+    "i": 41,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 11,
+    "t": "Il nome del primo è Pishon; è quello che circonda tutto il paese di Havilah, dove c'è l'oro."
+  },
+  {
+    "i": 42,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 12,
+    "t": "L'oro di quel paese è buono; lì si trovano anche il bdellio e l'onice."
+  },
+  {
+    "i": 43,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 13,
+    "t": "Il nome del secondo fiume è Ghihon; è quello che circonda tutto il paese di Cush."
+  },
+  {
+    "i": 44,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 14,
+    "t": "Il nome del terzo fiume è Tigri; è quello che scorre a est di Assiria. E il quarto fiume è l'Eufrate."
+  },
+  {
+    "i": 45,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 15,
+    "t": "L'Eterno Iddio prese dunque l'uomo e lo pose nel giardino di Eden perché lo coltivasse e lo custodisse."
+  },
+  {
+    "i": 46,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 16,
+    "t": "E l'Eterno Iddio comandò all'uomo dicendo: «Mangia pure liberamente di ogni albero del giardino;"
+  },
+  {
+    "i": 47,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 17,
+    "t": "ma dell'albero della conoscenza del bene e del male non ne mangiare, perché nel giorno che tu ne mangerai, certamente morirai»."
+  },
+  {
+    "i": 48,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 18,
+    "t": "Poi l'Eterno Iddio disse: «Non è bene che l'uomo sia solo; io gli farò un aiuto che gli sia adatto»."
+  },
+  {
+    "i": 49,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 19,
+    "t": "Allora l'Eterno Iddio formò dalla terra tutti gli animali dei campi e tutti gli uccelli del cielo e li condusse all'uomo per vedere come li avrebbe chiamati; e qualunque nome l'uomo avesse dato a ogni creatura vivente, quello doveva essere il suo nome."
+  },
+  {
+    "i": 50,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 20,
+    "t": "Così l'uomo diede dei nomi a tutto il bestiame, agli uccelli del cielo e a tutti gli animali dei campi; ma per l'uomo non si trovò un aiuto che gli fosse adatto."
+  },
+  {
+    "i": 51,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 21,
+    "t": "Allora l'Eterno Iddio fece cadere un profondo sonno sull'uomo, che si addormentò; prese una delle sue costole e richiuse la carne al suo posto."
+  },
+  {
+    "i": 52,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 22,
+    "t": "E dalla costola che aveva tolto all'uomo, l'Eterno Iddio formò una donna e la condusse all'uomo."
+  },
+  {
+    "i": 53,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 23,
+    "t": "Allora l'uomo disse: «Questa finalmente è ossa delle mie ossa e carne della mia carne! Ella sarà chiamata donna, perché è stata tratta dall'uomo»."
+  },
+  {
+    "i": 54,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 24,
+    "t": "Perciò l'uomo lascerà suo padre e sua madre e si unirà a sua moglie, e saranno una sola carne."
+  },
+  {
+    "i": 55,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 25,
+    "t": "Or l'uomo e sua moglie erano entrambi nudi e non ne avevano vergogna."
+  },
+  {
+    "i": 56,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 1,
+    "t": "Or il serpente era il più astuto di tutti gli animali dei campi che l'Eterno Iddio aveva fatto. Ed esso disse alla donna: «Ha Iddio veramente detto: Non mangiate di tutti gli alberi del giardino?»."
+  },
+  {
+    "i": 57,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 2,
+    "t": "E la donna rispose al serpente: «Del frutto degli alberi del giardino noi possiamo mangiare;"
+  },
+  {
+    "i": 58,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 3,
+    "t": "ma del frutto dell'albero che è in mezzo al giardino Iddio ha detto: Non ne mangiate e non lo toccate, altrimenti morirete»."
+  },
+  {
+    "i": 59,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 4,
+    "t": "Allora il serpente disse alla donna: «Voi non morirete affatto;"
+  },
+  {
+    "i": 60,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 5,
+    "t": "ma Iddio sa che nel giorno che ne mangerete, i vostri occhi si apriranno e sarete come Iddio, conoscendo il bene e il male»."
+  },
+  {
+    "i": 61,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 6,
+    "t": "Allora la donna vide che l'albero era buono da mangiare, che era piacevole agli occhi e che l'albero era desiderabile per acquisire conoscenza; prese del suo frutto e ne mangiò, e ne diede anche a suo marito che era con lei, ed egli ne mangiò."
+  },
+  {
+    "i": 62,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 7,
+    "t": "Allora si aprirono gli occhi di entrambi e si accorsero di essere nudi; così cucirono insieme delle foglie di fico e se ne fecero delle cinture."
+  },
+  {
+    "i": 63,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 8,
+    "t": "Poi udirono la voce dell'Eterno Iddio che passeggiava nel giardino alla brezza del giorno; e l'uomo e sua moglie si nascosero dalla presenza dell'Eterno Iddio fra gli alberi del giardino."
+  },
+  {
+    "i": 64,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 9,
+    "t": "Allora l'Eterno Iddio chiamò l'uomo e gli disse: «Dove sei?»."
+  },
+  {
+    "i": 65,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 10,
+    "t": "Ed egli rispose: «Ho udito la tua voce nel giardino e ho avuto paura, perché sono nudo, e mi sono nascosto»."
+  },
+  {
+    "i": 66,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 11,
+    "t": "Iddio disse: «Chi ti ha fatto sapere che eri nudo? Hai forse mangiato dell'albero del quale ti avevo comandato di non mangiare?»."
+  },
+  {
+    "i": 67,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 12,
+    "t": "L'uomo rispose: «La donna che tu mi hai dato per compagna, è lei che mi ha dato dell'albero, e io ne ho mangiato»."
+  },
+  {
+    "i": 68,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 13,
+    "t": "Allora l'Eterno Iddio disse alla donna: «Che cosa hai fatto?». La donna rispose: «Il serpente mi ha ingannata e io ne ho mangiato»."
+  },
+  {
+    "i": 69,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 14,
+    "t": "Allora l'Eterno Iddio disse al serpente: «Poiché hai fatto questo, sii maledetto fra tutto il bestiame e fra tutti gli animali dei campi! Tu camminerai sul tuo ventre e mangerai polvere tutti i giorni della tua vita."
+  },
+  {
+    "i": 70,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 15,
+    "t": "Io porrò inimicizia fra te e la donna, e fra il tuo seme e il seme di lei; esso ti schiaccerà il capo e tu ferirai il suo calcagno»."
+  },
+  {
+    "i": 71,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 16,
+    "t": "Alla donna disse: «Io moltiplicherò grandemente le tue pene e i dolori della tua gravidanza; con dolore partorirai figli; la tua brama sarà verso tuo marito ed egli dominerà su di te»."
+  },
+  {
+    "i": 72,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 17,
+    "t": "Poi disse ad Adamo: «Poiché hai dato ascolto alla voce di tua moglie e hai mangiato dell'albero circa il quale ti avevo comandato dicendo: Non ne mangiare, il suolo sarà maledetto per causa tua; ne mangerai il frutto con affanno tutti i giorni della tua vita."
+  },
+  {
+    "i": 73,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 18,
+    "t": "Esso ti produrrà spine e triboli, e tu mangerai l'erba dei campi."
+  },
+  {
+    "i": 74,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 19,
+    "t": "Col sudore del tuo volto mangerai il pane, finché tu ritorni alla terra, perché da essa sei stato tratto; poiché tu sei polvere e in polvere ritornerai»."
+  },
+  {
+    "i": 75,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 20,
+    "t": "E l'uomo chiamò sua moglie Eva, perché lei fu la madre di tutti i viventi."
+  },
+  {
+    "i": 76,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 21,
+    "t": "L'Eterno Iddio fece ad Adamo e a sua moglie delle tuniche di pelle e li vestì."
+  },
+  {
+    "i": 77,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 22,
+    "t": "Poi l'Eterno Iddio disse: «Ecco, l'uomo è diventato come uno di noi, quanto alla conoscenza del bene e del male. Ed ora, che egli non stenda la sua mano e prenda anche dell'albero della vita, e ne mangi e viva per sempre!»."
+  },
+  {
+    "i": 78,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 23,
+    "t": "Così l'Eterno Iddio lo mandò via dal giardino di Eden, perché lavorasse la terra da cui era stato tratto."
+  },
+  {
+    "i": 79,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 24,
+    "t": "Così egli scacciò l'uomo e pose ad oriente del giardino di Eden i cherubini, che brandivano una spada fiammeggiante per custodire la via dell'albero della vita."
+  },
+  {
+    "i": 80,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 1,
+    "t": "Or dunque Adamo conobbe Eva sua moglie, la quale concepì e partorì Caino e disse: «Ho acquistato un uomo con l'aiuto del Signore»."
+  },
+  {
+    "i": 81,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 2,
+    "t": "Poi partorì anche Abele, suo fratello. Abele divenne pastore di greggi e Caino coltivatore del suolo."
+  },
+  {
+    "i": 82,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 3,
+    "t": "Dopo qualche tempo, Caino offrì in sacrificio al Signore frutti del suolo,"
+  },
+  {
+    "i": 83,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 4,
+    "t": "mentre Abele offrì le primogenite del suo gregge e il loro grasso. Il Signore gradì Abele e la sua offerta,"
+  },
+  {
+    "i": 84,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 5,
+    "t": "ma non gradì Caino e la sua offerta. Caino ne fu molto irritato e il suo volto si fece abbattuto."
+  },
+  {
+    "i": 85,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 6,
+    "t": "Allora il Signore disse a Caino: «Perché sei irritato e perché il tuo volto è abbattuto?"
+  },
+  {
+    "i": 86,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 7,
+    "t": "Se agisci bene, non dovrai forse tenere alto il volto? Ma se agisci male, il peccato è accovacciato alla tua porta; verso di te è la sua brama, ma tu dominalo»."
+  },
+  {
+    "i": 87,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 8,
+    "t": "Caino disse al fratello Abele: «Andiamo in campagna!». Mentre erano in campagna, Caino si avventò contro il fratello Abele e lo uccise."
+  },
+  {
+    "i": 88,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 9,
+    "t": "Allora il Signore disse a Caino: «Dov'è Abele, tuo fratello?». Egli rispose: «Non lo so. Sono forse il custode di mio fratello?»."
+  },
+  {
+    "i": 89,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 10,
+    "t": "Riprese il Signore: «Che hai fatto? La voce del sangue di tuo fratello grida a me dal suolo!"
+  },
+  {
+    "i": 90,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 11,
+    "t": "Ora sii maledetto lungi da questo suolo, che ha aperto la bocca per ricevere dalla tua mano il sangue di tuo fratello."
+  },
+  {
+    "i": 91,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 12,
+    "t": "Quando lavorerai il suolo, esso non ti darà più i suoi prodotti: ramingo e fuggiasco sarai sulla terra»."
+  },
+  {
+    "i": 92,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 13,
+    "t": "Allora Caino disse al Signore: «Troppo grande è la mia colpa per ottenere perdono!"
+  },
+  {
+    "i": 93,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 14,
+    "t": "Ecco, tu mi scacci oggi da questo suolo e io mi dovrò nascondere lontano dal tuo volto; io sarò ramingo e fuggiasco sulla terra e chiunque mi incontrerà mi ucciderà»."
+  },
+  {
+    "i": 94,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 15,
+    "t": "Ma il Signore gli disse: «Però chiunque ucciderà Caino subirà la vendetta sette volte!». Il Signore impose a Caino un segno, perché non lo colpisse chiunque l'avesse incontrato."
+  },
+  {
+    "i": 95,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 16,
+    "t": "Allora Caino si allontanò dal Signore e dimorò nel paese di Nod, a oriente di Eden."
+  },
+  {
+    "i": 96,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 17,
+    "t": "Caino conobbe sua moglie, la quale concepì e partorì Enoch; poi divenne costruttore di una città, che chiamò Enoch dal nome del figlio."
+  },
+  {
+    "i": 97,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 18,
+    "t": "Enoch generò Irad; Irad generò Mecuiaèl; Mecuiaèl generò Metushaèl e Metushaèl generò Lamech."
+  },
+  {
+    "i": 98,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 19,
+    "t": "Lamech si prese due mogli: una si chiamava Ada e l'altra Silla."
+  },
+  {
+    "i": 99,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 20,
+    "t": "Ada partorì Iabal: egli fu il padre di quanti abitano sotto le tende e allevano il bestiame."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 20500,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 15,
+    "t": "\"Înapoi! Ne curățați!\" strigau ei către ei, \"Înapoi! Înapoi! Nu vă atingeți!\" Și dacă se duceau și fugeau printre neamuri, nu puteau să rămână acolo."
+  },
+  {
+    "i": 20501,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 16,
+    "t": "Fața Domnului i-a risipit; nu i-a mai privit cu plăcere. Nu s-a mai cinstit pe preoți, nici nu s-au mai arătat favoruri bătrânilor."
+  },
+  {
+    "i": 20502,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 17,
+    "t": "Ochii noștri tânjeau, așteptând ajutor în zadar; din turnurile noastre am așteptat cu nerăbdare un neam care nu poate izbăvi."
+  },
+  {
+    "i": 20503,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 18,
+    "t": "Ne-au urmărit pașii, ca să nu mai umblăm pe drumurile noastre. Sfârșitul nostru era aproape, zilele noastre erau gata, da, sfârșitul nostru venise!"
+  },
+  {
+    "i": 20504,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 19,
+    "t": "Prigonitorii noștri au fost mai iuți decât vulturii cerului; ne-au urmărit pe munți și ne-au întins curse în pustie."
+  },
+  {
+    "i": 20505,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 20,
+    "t": "Suflarea nărilor noastre, unsul Domnului, a fost prins în gropile lor, cel despre care ziceam: \"Sub umbra lui vom trăi printre neamuri!"
+  },
+  {
+    "i": 20506,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 21,
+    "t": "Bucură-te și veselește-te, fiica Edomului, care locuiești în țara Uț! Și paharul va trece și pe la tine; te vei îmbăta și-ți vei descoperi goliciunea!"
+  },
+  {
+    "i": 20507,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 22,
+    "t": "Pedeapsa nelegiuirii tale s-a sfârșit, fiica Sionului! Nu te va mai duce în robie! Dar îți va pedepsi nelegiuirea ta, fiica Edomului, îți va descoperi păcatele!"
+  },
+  {
+    "i": 20508,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 1,
+    "t": "Adu-Ți aminte, Doamne, de ceea ce ni s-a întâmplat, uită-Te și vezi rușinea noastră!"
+  },
+  {
+    "i": 20509,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 2,
+    "t": "Moștenirea noastră a trecut în mâinile unor străini, casele noastre în mâinile unor necunoscuți."
+  },
+  {
+    "i": 20510,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 3,
+    "t": "Am rămas orfani, fără tată, mamele noastre sunt ca niște văduve."
+  },
+  {
+    "i": 20511,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 4,
+    "t": "Ne bem apa pe bani și ne cumpărăm lemnele cu plată."
+  },
+  {
+    "i": 20512,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 5,
+    "t": "Jugul lor apasă pe grumazul nostru, suntem prigoniți; suntem istoviți și nu avem odihnă."
+  },
+  {
+    "i": 20513,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 6,
+    "t": "Ne-am întins mâna spre Egipt și spre Asiria, ca să ne săturăm de pâine."
+  },
+  {
+    "i": 20514,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 7,
+    "t": "Părinții noștri au păcătuit, nu mai sunt, și noi le purtăm nelegiuirile."
+  },
+  {
+    "i": 20515,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 8,
+    "t": "Robii stăpânesc peste noi și nimeni nu ne izbăvește din mâna lor."
+  },
+  {
+    "i": 20516,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 9,
+    "t": "Cu primejdia vieții ne aducem pâinea, în fața sabiei pustiei."
+  },
+  {
+    "i": 20517,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 10,
+    "t": "Ne arde pielea ca un cuptor, din pricina arșiței foametei."
+  },
+  {
+    "i": 20518,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 11,
+    "t": "Au necinstit femeile în Sion și pe fecioare în cetățile lui Iuda."
+  },
+  {
+    "i": 20519,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 12,
+    "t": "Căpeteniile au fost spânzurate de mâinile lor, fața bătrânilor n-a fost cinstită."
+  },
+  {
+    "i": 20520,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 13,
+    "t": "Tinerii au dus pietrele de moară și copiii s-au poticnit sub lemne."
+  },
+  {
+    "i": 20521,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 14,
+    "t": "Bătrânii au părăsit poarta și tinerii au încetat cu cântecele lor."
+  },
+  {
+    "i": 20522,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 15,
+    "t": "Bucuria s-a dus din inimile noastre, jalea a luat locul jocurilor noastre."
+  },
+  {
+    "i": 20523,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 16,
+    "t": "Cununa ne-a căzut de pe cap. Vai de noi, pentru că am păcătuit!"
+  },
+  {
+    "i": 20524,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 17,
+    "t": "De aceea ne este inima bolnavă, de aceea ni s-au întunecat ochii!"
+  },
+  {
+    "i": 20525,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 18,
+    "t": "Pentru că muntele Sionului este pustiit, șacalii umblă pe el!"
+  },
+  {
+    "i": 20526,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 19,
+    "t": "Dar Tu, Doamne, Tu împărățești pe vecie, scaunul Tău de domnie dăinuiește din veac în veac!"
+  },
+  {
+    "i": 20527,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 20,
+    "t": "Pentru ce ne uiți Tu pe vecie și ne părăsești Tu atât de multă vreme?"
+  },
+  {
+    "i": 20528,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 21,
+    "t": "Întoarce-ne la Tine, Doamne, și ne vom întoarce; dă-ne iarăși zile ca cele de odinioară!"
+  },
+  {
+    "i": 20529,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 22,
+    "t": "Oare ne-ai lepădat Tu cu totul și Te-ai mâniat Tu foarte tare pe noi?"
+  },
+  {
+    "i": 20530,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 1,
+    "t": "În al treizecilea an, în ziua a cincea a lunii a patra, pe când eram între prinșii de război, lângă râul Chebar, s-au deschis cerurile și am văzut vedenii dumnezeiești."
+  },
+  {
+    "i": 20531,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 2,
+    "t": "În ziua a cincea a lunii - era în al cincilea an de robie al împăratului Ioiachin –"
+  },
+  {
+    "i": 20532,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 3,
+    "t": "Cuvântul Domnului a vorbit preotului Ezechiel, fiul lui Buzi, în țara caldeenilor, lângă râul Chebar. Acolo a venit mâna Domnului peste el."
+  },
+  {
+    "i": 20533,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 4,
+    "t": "M-am uitat și iată că a venit de la miazănoapte un vânt puternic, un nor mare și un foc care se întindea, de jur împrejur avea o lumină strălucitoare, iar în mijloc era ca un metal incandescent, în mijlocul focului."
+  },
+  {
+    "i": 20534,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 5,
+    "t": "Din mijlocul lui ieșeau niște chipuri de patru făpturi vii, a căror înfățișare era aceasta: semănau cu niște oameni."
+  },
+  {
+    "i": 20535,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 6,
+    "t": "Fiecare avea patru fețe și fiecare avea patru aripi."
+  },
+  {
+    "i": 20536,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 7,
+    "t": "Picioarele lor erau drepte, iar copitele picioarelor lor erau ca niște copite de vițel și scânteiau ca arama lustruită."
+  },
+  {
+    "i": 20537,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 8,
+    "t": "Sub aripile lor, în cele patru părți, aveau mâini de om. Toate cele patru aveau fețe și aripi."
+  },
+  {
+    "i": 20538,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 9,
+    "t": "Aripile lor erau prinse una de alta. Nu se întorceau când mergeau, ci fiecare mergea drept înainte."
+  },
+  {
+    "i": 20539,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 10,
+    "t": "Cât despre chipul fețelor lor, toate cele patru aveau față de om, față de leu în partea dreaptă, față de bou în partea stângă și față de vultur."
+  },
+  {
+    "i": 20540,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 11,
+    "t": "Aripile lor erau întinse în sus, fiecare avea două aripi prinse una de alta și două aripi care le acopereau trupurile."
+  },
+  {
+    "i": 20541,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 12,
+    "t": "Fiecare mergea drept înainte, mergeau unde le spunea duhul să meargă și nu se întorceau când mergeau."
+  },
+  {
+    "i": 20542,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 13,
+    "t": "Între aceste făpturi vii era ceva care semăna cu niște cărbuni aprinși, care ardeau ca niște torțe și se mișcau încoace și-ncolo printre făpturile vii. Focul acesta era strălucitor și din el ieșeau fulgere."
+  },
+  {
+    "i": 20543,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 14,
+    "t": "Făpturile vii se mișcau încoace și-ncolo ca fulgerul."
+  },
+  {
+    "i": 20544,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 15,
+    "t": "M-am uitat la aceste făpturi vii și iată că pe pământ, lângă făpturile vii, la fiecare din cele patru fețe, era câte o roată."
+  },
+  {
+    "i": 20545,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 16,
+    "t": "Înfățișarea și alcătuirea roților dădeau impresia de hrisolit și toate cele patru aveau aceeași înfățișare. Înfățișarea și alcătuirea lor erau ca și cum o roată era în mijlocul altei roți."
+  },
+  {
+    "i": 20546,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 17,
+    "t": "Când mergeau, mergeau în toate cele patru direcții și nu se întorceau când mergeau."
+  },
+  {
+    "i": 20547,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 18,
+    "t": "Jantele lor erau înalte și înfricoșătoare, iar jantele tuturor celor patru roți erau pline cu ochi de jur împrejur."
+  },
+  {
+    "i": 20548,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 19,
+    "t": "Când mergeau făpturile vii, mergeau și roțile lângă ele, iar când făpturile vii se ridicau de pe pământ, se ridicau și roțile."
+  },
+  {
+    "i": 20549,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 20,
+    "t": "Unde le spunea duhul să meargă, acolo mergeau și roțile și se ridicau odată cu ele, căci duhul făpturii vii era în roți."
+  },
+  {
+    "i": 20550,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 21,
+    "t": "Când mergeau ele, mergeau și roțile, când se opreau ele, se opreau și roțile și când se ridicau ele de pe pământ, se ridicau și roțile odată cu ele, căci duhul făpturii vii era în roți."
+  },
+  {
+    "i": 20551,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 22,
+    "t": "Deasupra capetelor făpturilor vii era ceva care semăna cu o boltă, limpede ca un cristal înfricoșător, întinsă deasupra capetelor lor."
+  },
+  {
+    "i": 20552,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 23,
+    "t": "Sub boltă, aripile lor erau întinse drept una spre alta și fiecare avea două aripi care-i acopereau trupul."
+  },
+  {
+    "i": 20553,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 24,
+    "t": "Când mergeau, le auzeam vâjâitul aripilor ca vuietul unor ape mari, ca glasul Celui Atotputernic; când se opreau, își lăsau aripile în jos."
+  },
+  {
+    "i": 20554,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 25,
+    "t": "Și deasupra boltei care era peste capetele lor se auzea un glas."
+  },
+  {
+    "i": 20555,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 26,
+    "t": "Deasupra boltei care era peste capetele lor era ceva care semăna cu un tron de piatră de safir; pe acest chip de tron ședea cineva care semăna cu un om."
+  },
+  {
+    "i": 20556,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 27,
+    "t": "Am văzut ca un metal incandescent, ca un foc înăuntru, de jur împrejur, de la chipul coapselor lui în sus, iar de la chipul coapselor lui în jos am văzut ca un foc și o lumină strălucitoare de jur împrejur."
+  },
+  {
+    "i": 20557,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 28,
+    "t": "Cum se vede curcubeul pe nori într-o zi ploioasă, așa era și chipul acestei lumini strălucitoare de jur împrejur. Aceasta era înfățișarea slavei Domnului. Când am văzut-o, am căzut cu fața la pământ și am auzit glasul unuia care vorbea."
+  },
+  {
+    "i": 20558,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 1,
+    "t": "El mi-a zis: \"Fiul omului, stai în picioare, ca să-ți vorbesc!"
+  },
+  {
+    "i": 20559,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 2,
+    "t": "Duhul a intrat în mine, când mi-a vorbit, și m-a așezat pe picioare; și am ascultat pe Cel care-mi vorbea."
+  },
+  {
+    "i": 20560,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 3,
+    "t": "El mi-a zis: \"Fiul omului, te trimit la fiii lui Israel, la aceste neamuri răzvrătite care s-au răzvrătit împotriva Mea! Ei și părinții lor s-au răzvrătit împotriva Mea până în ziua aceasta."
+  },
+  {
+    "i": 20561,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 4,
+    "t": "Fiii aceștia au o față tare și o inimă împietrită. Eu te trimit la ei, ca să le spui: 'Așa vorbește Domnul Dumnezeu!'"
+  },
+  {
+    "i": 20562,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 5,
+    "t": "Și fie că vor asculta, fie că nu vor asculta - căci sunt un neam de răzvrătiți - vor ști că un profet a fost în mijlocul lor."
+  },
+  {
+    "i": 20563,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 6,
+    "t": "Iar tu, fiul omului, să nu te temi de ei, nici să nu te temi de cuvintele lor, chiar dacă vei avea lângă tine mărăcini și spini și vei locui printre scorpioni! Să nu te temi de cuvintele lor și să nu te înspăimânte chipul lor, căci sunt un neam de răzvrătiți."
+  },
+  {
+    "i": 20564,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 7,
+    "t": "Spune-le cuvintele Mele, fie că vor asculta, fie că nu vor asculta, căci sunt un neam de răzvrătiți."
+  },
+  {
+    "i": 20565,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 8,
+    "t": "Iar tu, fiul omului, ascultă ce-ți voi spune! Nu fi și tu un răzvrătit, ca acest neam de răzvrătiți! Deschide-ți gura și mănâncă ce-ți voi da!"
+  },
+  {
+    "i": 20566,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 9,
+    "t": "M-am uitat și iată că o mână era întinsă spre mine și ținea o carte sul."
+  },
+  {
+    "i": 20567,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 10,
+    "t": "A desfășurat-o înaintea mea; era scrisă pe dinăuntru și pe dinafară și era scris în ea: 'Bocete, gemete și vaiete!'"
+  },
+  {
+    "i": 20568,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 1,
+    "t": "El mi-a zis: \"Fiul omului, mănâncă ce găsești; mănâncă sulul acesta și du-te și vorbește casei lui Israel!"
+  },
+  {
+    "i": 20569,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 2,
+    "t": "Mi-am deschis gura, și El m-a pus să mănânc sulul acesta."
+  },
+  {
+    "i": 20570,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 3,
+    "t": "Apoi mi-a zis: \"Fiul omului, hrănește-ți pântecele și umple-ți măruntaiele cu sulul acesta pe care ți-l dau!\" L-am mâncat și-n gura mea a fost dulce ca mierea."
+  },
+  {
+    "i": 20571,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 4,
+    "t": "Atunci El mi-a zis: \"Fiul omului, du-te la casa lui Israel și spune-le cuvintele Mele!"
+  },
+  {
+    "i": 20572,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 5,
+    "t": "Căci nu ești trimis la un popor cu vorbă încâlcită și cu limbă grea, ci la casa lui Israel,"
+  },
+  {
+    "i": 20573,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 6,
+    "t": "nici la popoare numeroase cu vorbă încâlcită și cu limbă grea, ale căror cuvinte nu le-ai putea înțelege! Negreșit, dacă te-aș trimite la ele, te-ar asculta."
+  },
+  {
+    "i": 20574,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 7,
+    "t": "Dar casa lui Israel nu va vrea să te asculte, pentru că nu vrea să Mă asculte pe Mine. Căci toți cei din casa lui Israel au o frunte tare și o inimă împietrită."
+  },
+  {
+    "i": 20575,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 8,
+    "t": "Iată, ți-am făcut fața tot atât de tare ca fața lor și fruntea tot atât de tare ca fruntea lor."
+  },
+  {
+    "i": 20576,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 9,
+    "t": "Ți-am făcut fruntea ca diamantul, mai tare decât cremenea. Să nu te temi de ei și să nu te înspăimânte chipul lor, căci sunt un neam de răzvrătiți!"
+  },
+  {
+    "i": 20577,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 10,
+    "t": "Apoi mi-a zis: \"Fiul omului, primește în inima ta toate cuvintele pe care ți le voi spune și ascultă-le cu urechile tale!"
+  },
+  {
+    "i": 20578,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 11,
+    "t": "Du-te la prinșii de război, la fiii poporului tău, și vorbește-le. Spune-le: 'Așa vorbește Domnul Dumnezeu!', fie că vor asculta, fie că nu vor asculta!"
+  },
+  {
+    "i": 20579,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 12,
+    "t": "Duhul m-a răpit și am auzit în urma mea vuietul unui mare cutremur, când slava Domnului s-a ridicat din locul șederii Sale."
+  },
+  {
+    "i": 20580,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 13,
+    "t": "Și sunetul aripilor făpturilor era ca sunetul unor ape mari, ca glasul Celui Atotputernic, ca sunetul unei oștiri; când se opreau, își lăsau aripile jos."
+  },
+  {
+    "i": 20581,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 14,
+    "t": "Atunci Duhul m-a ridicat și m-a luat; și m-am dus amărât și cuprins de mânia duhului meu, și mâna Domnului era grea peste mine."
+  },
+  {
+    "i": 20582,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 15,
+    "t": "Și am venit la cei strămuțați, la Tel-Abib, care locuiau lângă râul Chebar, și am locuit acolo unde locuiau și ei, șapte zile, stând înmărmurit în mijlocul lor."
+  },
+  {
+    "i": 20583,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 16,
+    "t": "Și după șapte zile, cuvântul Domnului a venit către mine, zicând:"
+  },
+  {
+    "i": 20584,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 17,
+    "t": "\"Fiule al omului, te-am pus păzitor casei lui Israel. Auzi cuvântul din gura Mea și avertizează-i din partea Mea."
+  },
+  {
+    "i": 20585,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 18,
+    "t": "Când voi spune celui rău: 'Cu siguranță vei muri', și tu nu-l vei avertiza, nici nu vei grăi ca să-l previi pe cel rău de calea lui cea rea, ca să trăiască, cel rău va muri în nelegiuirea lui, dar sângele lui îl voi cere din mâna ta."
+  },
+  {
+    "i": 20586,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 19,
+    "t": "Dar dacă tu avertizezi pe cel rău, și el nu se întoarce de la răutatea lui, nici de la calea lui cea rea, el va muri în nelegiuirea lui, dar tu ți-ai scăpat sufletul."
+  },
+  {
+    "i": 20587,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 20,
+    "t": "De asemenea, când un om drept se abate de la dreptatea lui și face nedreptate, și Eu pun o piatră de poticnire înaintea lui, el va muri; pentru că nu l-ai avertizat, el va muri în păcatul lui, și faptele lui drepte pe care le-a făcut nu vor fi pomenite, dar sângele lui îl voi cere din mâna ta."
+  },
+  {
+    "i": 20588,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 21,
+    "t": "Dar dacă tu avertizezi pe cel drept ca cel drept să nu păcătuiască, și el nu păcătuiește, cu siguranță va trăi, pentru că a fost avertizat; și tu ți-ai scăpat sufletul."
+  },
+  {
+    "i": 20589,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 22,
+    "t": "Și mâna Domnului a venit acolo asupra mea și mi-a zis: \"Scoală-te, ieși în vale, și acolo îți voi vorbi."
+  },
+  {
+    "i": 20590,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 23,
+    "t": "Atunci m-am sculat și am ieșit în vale, și iată, slava Domnului stătea acolo, ca slava pe care o văzusem lângă râul Chebar, și am căzut cu fața la pământ."
+  },
+  {
+    "i": 20591,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 24,
+    "t": "Și Duhul a intrat în mine și m-a pus pe picioare; și mi-a vorbit și mi-a zis: \"Du-te, închide-te în casa ta."
+  },
+  {
+    "i": 20592,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 25,
+    "t": "Căci iată, fiule al omului, îți vor pune frânghii, și te vor lega cu ele, ca să nu mai poți ieși în mijlocul lor."
+  },
+  {
+    "i": 20593,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 26,
+    "t": "Și voi face să ți se lipească limba de cerul gurii, și vei fi mut, și nu vei mai fi pentru ei mustrător, căci sunt o casă răzvrătită."
+  },
+  {
+    "i": 20594,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 27,
+    "t": "Dar când îți voi vorbi, îți voi deschide gura, și le vei spune: 'Așa zice Domnul Dumnezeu: Cine aude, să audă, și cine nu aude, să nu audă, căci sunt o casă răzvrătită.'"
+  },
+  {
+    "i": 20595,
+    "b": 25,
+    "c": 2704,
+    "r": 2704,
+    "o": 1,
+    "t": "Tu, fiule al omului, ia o cărămidă, pune-o înaintea ta și gravează pe ea o cetate, Ierusalim."
+  },
+  {
+    "i": 20596,
+    "b": 25,
+    "c": 2704,
+    "r": 2704,
+    "o": 2,
+    "t": "Apoi pune împotriva ei un asediu: zidește împotriva ei redute, ridică împotriva ei un val de pământ, așază tabere împotriva ei și pune împotriva ei berbeci de jur împrejur."
+  },
+  {
+    "i": 20597,
+    "b": 25,
+    "c": 2704,
+    "r": 2704,
+    "o": 3,
+    "t": "Apoi ia o tigaie de fier și așaz-o ca un zid de fier între tine și cetate. Setează-ți fața împotriva ei, și ea va fi asediată; tu o vei asedia. Acesta este un semn pentru casa lui Israel."
+  },
+  {
+    "i": 20598,
+    "b": 25,
+    "c": 2704,
+    "r": 2704,
+    "o": 4,
+    "t": "Culcă-te pe partea stângă și ia asupra ta nelegiuirea casei lui Israel. Câte zile te vei culca pe ea, atâtea zile vei purta nelegiuirea lor."
+  },
+  {
+    "i": 20599,
+    "b": 25,
+    "c": 2704,
+    "r": 2704,
+    "o": 5,
+    "t": "Ți-am rânduit zilele nelegiuirii lor la trei sute nouăzeci de zile; astfel vei purta nelegiuirea casei lui Israel."
+  }
+]

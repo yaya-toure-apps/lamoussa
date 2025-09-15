@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4000,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 14,
+    "t": "I vyšiel prápor tábora synov Júdových, podľa zástupov ich. A nad zástupom Júdovým bol Nachšón, syn Aminadábov;"
+  },
+  {
+    "i": 4001,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 15,
+    "t": "A nad zástupom pokolenia synov Izachárových bol Nátanel, syn Cuárov;"
+  },
+  {
+    "i": 4002,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 16,
+    "t": "A nad zástupom pokolenia synov Zabulónových bol Eliáb, syn Helónov."
+  },
+  {
+    "i": 4003,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 17,
+    "t": "Potom bola svätostánok zložená, a vyšli synovia Geršónovi a synovia Meráriho, ktorí niesli svätostánok."
+  },
+  {
+    "i": 4004,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 18,
+    "t": "A vyšiel prápor tábora synov Rúbenových, podľa zástupov ich. A nad zástupom jeho bol Elicúr, syn Šedeúrov;"
+  },
+  {
+    "i": 4005,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 19,
+    "t": "A nad zástupom pokolenia synov Simeonových bol Šelumiel, syn Curíšaddajov;"
+  },
+  {
+    "i": 4006,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 20,
+    "t": "A nad zástupom pokolenia synov Gádových bol Eljasáf, syn Reúelov."
+  },
+  {
+    "i": 4007,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 21,
+    "t": "Potom vyšli synovia Kahátovi, ktorí niesli svätyňu, a postavili svätostánok, dokiaľ neprišli oni."
+  },
+  {
+    "i": 4008,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 22,
+    "t": "A vyšiel prápor tábora synov Efraimových, podľa zástupov ich. A nad zástupom jeho bol Elišama, syn Ammihúdov;"
+  },
+  {
+    "i": 4009,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 23,
+    "t": "A nad zástupom pokolenia synov Manassesových bol Gamaliel, syn Pedacúrov;"
+  },
+  {
+    "i": 4010,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 24,
+    "t": "A nad zástupom pokolenia synov Benjamínových bol Abidán, syn Gideóniov."
+  },
+  {
+    "i": 4011,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 25,
+    "t": "A vyšiel prápor tábora synov Dánových, ktorý ťahal zadný voj všetkým táborom, podľa zástupov ich. A nad zástupom jeho bol Achiezer, syn Ammišaddajov;"
+  },
+  {
+    "i": 4012,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 26,
+    "t": "A nad zástupom pokolenia synov Aserových bol Págiel, syn Okránov;"
+  },
+  {
+    "i": 4013,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 27,
+    "t": "A nad zástupom pokolenia synov Neftalínových bol Achira, syn Enánov."
+  },
+  {
+    "i": 4014,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 28,
+    "t": "Taký bol poriadok ťahu synov Izraelových, podľa zástupov ich, a tak išli."
+  },
+  {
+    "i": 4015,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 29,
+    "t": "A Mojžiš riekol Hobábovi, synovi Madianitu Reúela, Mojžišovho svokra: My ideme na miesto, o ktorom hovoril Hospodin: Vám ho dám; poď s nami, a budeme ti dobre činiť, lebo Hospodin hovoril o dobrých veciach o Izraelovi."
+  },
+  {
+    "i": 4016,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 30,
+    "t": "Ale on mu riekol: Nepôjdem, ale pôjdem do svojej zeme a ku svojej čeľadi."
+  },
+  {
+    "i": 4017,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 31,
+    "t": "A on riekol: Neopusť nás, prosím, lebo ty vieš, kde máme táboriť na púšti, a budeš nám miesto očí."
+  },
+  {
+    "i": 4018,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 32,
+    "t": "A stane sa, keď pojdeš s nami, že to dobré, ktorým nám obšťastní Hospodin, budeme činiť i tebe."
+  },
+  {
+    "i": 4019,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 33,
+    "t": "A odišli od vrchu Hospodinovho tri dni cesty, a truhla smluvy Hospodinovej išla pred nimi tri dni cesty hľadajúc im odpočinutia."
+  },
+  {
+    "i": 4020,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 34,
+    "t": "A oblak Hospodinov bol nad nimi vo dne, keď išli z tábora."
+  },
+  {
+    "i": 4021,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 35,
+    "t": "A stávalo sa, keď sa pohýbala truhla, že vravel Mojžiš: Povstaň, Hospodine, a rozptýl sa nech rozídu nepriatelia tvoji, a nech utekajú tí, ktorí ťa nenávidia, pred tebou!"
+  },
+  {
+    "i": 4022,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 36,
+    "t": "A keď sa zastavila, hovoril: Navráť sa, Hospodine, k mnohotisícom Izraelovým!"
+  },
+  {
+    "i": 4023,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 1,
+    "t": "A stalo sa, že sa ľud sťažoval ťažko na zlé veci pred očima Hospodinovými, a počul Hospodin, a zapálil sa jeho hnev, a zapálil sa medzi nimi oheň Hospodinov, a strávil to najkrajnejšie miesto tábora."
+  },
+  {
+    "i": 4024,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 2,
+    "t": "Vtedy kričal ľud na Mojžiša, a Mojžiš sa modlil k Hospodinovi, a utíchol oheň."
+  },
+  {
+    "i": 4025,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 3,
+    "t": "Preto nazvali meno toho miesta Tábera, lebo sa zapálil medzi nimi oheň Hospodinov."
+  },
+  {
+    "i": 4026,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 4,
+    "t": "A cudzozemec, ktorý bol medzi nimi, žiadal silno žiadať, a tak i synovia Izraelovi zase plakali a hovorili: Kto nám dá jesť mäsa?"
+  },
+  {
+    "i": 4027,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 5,
+    "t": "Pamätáme sa na ryby, ktoré sme jedávali v Egypte zadarmo, na uhorky i na dyne i na pór i na cibulu i na cesnak."
+  },
+  {
+    "i": 4028,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 6,
+    "t": "Ale teraz vyschýna duša naša; niet ničoho, iba iba manna hľadí naša duša."
+  },
+  {
+    "i": 4029,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 7,
+    "t": "Manna pak bola ako semeno koriandra, a na pohľad jako bdellium."
+  },
+  {
+    "i": 4030,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 8,
+    "t": "Ľud sa chodil kol dokola, a zbieral ju, a mlel ju na mlynech alebo ju trl v mažiari a varil ju v hrnciach a robil z nej lokše, a jej chuť bola jako chuť lokše urobenej na oleji."
+  },
+  {
+    "i": 4031,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 9,
+    "t": "A keď padala rosa na tábor v noci, padala na ňu manna."
+  },
+  {
+    "i": 4032,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 10,
+    "t": "Vtedy počul Mojžiš ľud plakať po čeľadiach, každý u dverí svojho stánu, a zapálil sa hnev Hospodinov veľmi, a bolo Mojžišovi zle."
+  },
+  {
+    "i": 4033,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 11,
+    "t": "Preto riekol Mojžiš Hospodinovi: Prečo zle nakladáš so svojím služobníkom? A prečo som nenašiel milosti vo tvojich očiach, že kladieš na mňa bremeno celého toho ľudu?"
+  },
+  {
+    "i": 4034,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 12,
+    "t": "Či som ja snul celý ten ľud? Či som ho ja porodil, že mi hovoríš: Nes ho v lone svojom, jako dojka nesie nemluvňa, do zeme, o ktorej si prisahal jeho otcom?"
+  },
+  {
+    "i": 4035,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 13,
+    "t": "Odkiaľ mám ja vziať mäsa, aby som dal všetkému tomu ľudu? Lebo plačú predo mnou a hovoria: Daj nám jesť mäsa!"
+  },
+  {
+    "i": 4036,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 14,
+    "t": "Nemôžem ja sám niesť celého toho ľudu, lebo je mi ťažké."
+  },
+  {
+    "i": 4037,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 15,
+    "t": "Ak mi chceš takto učiniť, tedy ma radšej zabi, ak som našiel milosť vo tvojich očiach, nech nevidím svojej biedy!"
+  },
+  {
+    "i": 4038,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 16,
+    "t": "A Hospodin riekol Mojžišovi: Zhromažď mi sedemdesiat mužov zo starcov Izraelových, o ktorých vieš, že sú starcami ľudu a jeho správcami, a priveď ich ku stánu shromaždenia, nech sa postavia tam s tebou."
+  },
+  {
+    "i": 4039,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 17,
+    "t": "A sostúpim a budem tam s tebou hovoriť a vezmem z ducha, ktorý je na tebe, a položím na nich, a ponesú s tebou bremeno ľudu, a nebudeš ho niesť sám ty."
+  },
+  {
+    "i": 4040,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 18,
+    "t": "A ľudu povieš: Posväťte sa pre zajtra, a budete jesť mäsa, lebo ste plakali v ušiach Hospodinových a hovorili ste: Kto nám dá jesť mäsa? Lebo nám bolo dobre v Egypte. Nuž dá vám Hospodin jesť mäsa, a budete jesť,"
+  },
+  {
+    "i": 4041,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 19,
+    "t": "Nie jeden deň budete jesť ani dva dni ani päť dní ani desať dní ani dvadsať dní,"
+  },
+  {
+    "i": 4042,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 20,
+    "t": "Ale mesiac dní budete jesť, dokiaľ vám nevyleze nosom a nezoškliví sa vám, preto že ste opovrhli Hospodinom, ktorý je medzi vami, a plakali ste pred ním hovoriac: Prečo sme tedy vyšli z Egypta?"
+  },
+  {
+    "i": 4043,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 21,
+    "t": "Na to riekol Mojžiš: Šesť stotisíc peších ľudu je, medzi ktorými som ja, a ty hovoríš: Dám im jesť mäsa celý mesiac dní!"
+  },
+  {
+    "i": 4044,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 22,
+    "t": "Či ak by sa pobili pre nich ovce a hovädzie, či im bude dosť? Alebo či ak by sa pozbieraly pre nich všetky ryby morské, či im bude dosť?"
+  },
+  {
+    "i": 4045,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 23,
+    "t": "A Hospodin riekol Mojžišovi: Či je ruka Hospodinova krátka? Teraz uvidíš, či sa vyplní na tebe moje slovo alebo nie."
+  },
+  {
+    "i": 4046,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 24,
+    "t": "A Mojžiš vyšiel a rozprával ľudu slová Hospodinove, a zhromaždil sedemdesiat mužov zo starcov ľudu a postavil ich okolo stánu."
+  },
+  {
+    "i": 4047,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 25,
+    "t": "A sostúpil Hospodin v oblaku a hovoril s ním, a vzal z ducha, ktorý bol na ňom, a položil na tých sedemdesiat starcov. A stalo sa, keď spočinul na nich duch, že prorokovali a neprestali."
+  },
+  {
+    "i": 4048,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 26,
+    "t": "Ale dvaja mužovia zostali v tábore, meno jednému Eldád a meno druhému Medád, a spočinul na nich duch, a boli medzi napísanými, ale nevyšli ku stánu, a prorokovali v tábore."
+  },
+  {
+    "i": 4049,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 27,
+    "t": "A bežal mládenec a zvestoval to Mojžišovi a riekol: Eldád a Medád prorokujú v tábore."
+  },
+  {
+    "i": 4050,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 28,
+    "t": "A na to odpovedal Jozua, syn Núnov, sluha Mojžišov, z jeho mladosti a riekol: Pane môj Mojžišu, zakáž im!"
+  },
+  {
+    "i": 4051,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 29,
+    "t": "A Mojžiš mu riekol: Či sa ty horlíš pre mňa? Kiežby všetok ľud Hospodinov boli proroci, aby Hospodin dal svojho ducha na nich!"
+  },
+  {
+    "i": 4052,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 30,
+    "t": "A Mojžiš sa navrátil do tábora i on i starci Izraelovi."
+  },
+  {
+    "i": 4053,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 31,
+    "t": "A vtedy vyšiel vietor od Hospodina a priviedol prepelice od mora a rozprestrel ich na tábor na deň cesty odtiaľ a na deň cesty odtiaľ, kol dokola tábora, a na dve lakte, po zemi."
+  },
+  {
+    "i": 4054,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 32,
+    "t": "A povstal ľud celý ten deň a celú tú noc a celý zajtrajší deň a pozbierali prepelice; ten, kto najmenej pozbieral, mal desať homerov, a rozprestreli si ich kol dokola tábora."
+  },
+  {
+    "i": 4055,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 33,
+    "t": "Ešte bolo mäso medzi ich zubami, nebolo ešte prežuté, keď sa zapálil hnev Hospodinov na ľud, a Hospodin bil ľud bitkou veľmi velikou."
+  },
+  {
+    "i": 4056,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 34,
+    "t": "Preto nazvali meno toho miesta Kibrot-hat-taava, lebo tam pochovali ľud, ktorý silno žiadal."
+  },
+  {
+    "i": 4057,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 35,
+    "t": "Z Kibrot-hat-taavy sa pohýnul ľud do Chaserota a boli v Chaserote."
+  },
+  {
+    "i": 4058,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 1,
+    "t": "A hovorila Miriama a Áron proti Mojžišovi pre ženu Kúšanky, ktorú si bol vzal, lebo si bol vzal ženu Kúšanku."
+  },
+  {
+    "i": 4059,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 2,
+    "t": "A hovorili: Či len Mojžišom hovoril Hospodin? Či nie hovoril i nami? A počul to Hospodin."
+  },
+  {
+    "i": 4060,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 3,
+    "t": "Ale Mojžiš bol muž veľmi krotký, najkrotkejší zo všetkých ľudí, ktorí boli na tvári zeme."
+  },
+  {
+    "i": 4061,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 4,
+    "t": "A naraz riekol Hospodin Mojžišovi a Áronovi a Miriame: Vyjdite vy traja do stánu shromaždenia. A vyšli oni traja."
+  },
+  {
+    "i": 4062,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 5,
+    "t": "Vtedy sostúpil Hospodin v stĺpe oblakov a postavil sa pri dverách stánu a zavolal Árona a Miriame, a vyšli obidvaja."
+  },
+  {
+    "i": 4063,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 6,
+    "t": "A riekol: Počujte teraz moje slová: Keď bude medzi vami prorok, ja Hospodin mu dám znať videním, vo sne budem s ním hovoriť."
+  },
+  {
+    "i": 4064,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 7,
+    "t": "Nie tak jest s mojím služobníkom Mojžišom, ktorý je verný v celom mojom dome."
+  },
+  {
+    "i": 4065,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 8,
+    "t": "Ústami k ústam hovorím s ním, i zjavne, a nie v hádankách; on pozerá na podobu Hospodinovu. Prečo ste sa teda nebáli hovoriť proti môjmu služobníkovi, proti Mojžišovi?"
+  },
+  {
+    "i": 4066,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 9,
+    "t": "A zapálil sa hnev Hospodinov na nich, a odišiel."
+  },
+  {
+    "i": 4067,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 10,
+    "t": "A keď sa oblak povzniesol od stánu, hľa, Miriama bola malomocná, biela ako sneh. A Áron sa obrátil na Miriame, a hľa, malomocná!"
+  },
+  {
+    "i": 4068,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 11,
+    "t": "Vtedy riekol Áron Mojžišovi: Prosím, pane môj, neklaď, prosím, na nás hriechu, ktorého sme sa dopustili hlúpo, ktorým sme zhrešili."
+  },
+  {
+    "i": 4069,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 12,
+    "t": "Nech, prosím, nie je jako mŕtvy plod, ktorého telo je už polovične strávené, keď vychádza z života matky."
+  },
+  {
+    "i": 4070,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 13,
+    "t": "A Mojžiš volal k Hospodinovi a riekol: Ó, silný Bože, prosím, uzdrav ju!"
+  },
+  {
+    "i": 4071,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 14,
+    "t": "Na to riekol Hospodin Mojžišovi: Keby jej jej otec napľul do tvári, či by sa nehanbila sedem dní? Nech je vyhnaná zo stanu za sedem dní, a potom zase nech je prijatá."
+  },
+  {
+    "i": 4072,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 15,
+    "t": "Tak bola Miriama vyhnaná zo stanu za sedem dní, a ľud sa neťahal, dokiaľ nebola zase prijatá Miriama."
+  },
+  {
+    "i": 4073,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 16,
+    "t": "A potom sa pohýnul ľud z Chaserota a táboril na púšti Fáran."
+  },
+  {
+    "i": 4074,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 1,
+    "t": "A hovoril Hospodin Mojžišovi a riekol:"
+  },
+  {
+    "i": 4075,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 2,
+    "t": "Pošli mužov, aby prezreli zem Kanaánsku, ktorú dám synom Izraelovým, po jednom mužovi z každého pokolenia jeho otcov pošlite každého kniežaťa medzi nimi."
+  },
+  {
+    "i": 4076,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 3,
+    "t": "A Mojžiš ich poslal z púšte Fáran podľa slov Hospodinových, všetkých mužov, ktorí boli hlavami synov Izraelových."
+  },
+  {
+    "i": 4077,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 4,
+    "t": "A toto sú ich mená: Z pokolenia Rúbenovho Šammúa, syn Zakkúrov;"
+  },
+  {
+    "i": 4078,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 5,
+    "t": "z pokolenia Simeonovho Šáfat, syn Choriho;"
+  },
+  {
+    "i": 4079,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 6,
+    "t": "z pokolenia Júdovho Káleb, syn Jefunneho;"
+  },
+  {
+    "i": 4080,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 7,
+    "t": "pre kmeň Izachara, Jigál, syn Jozefov;"
+  },
+  {
+    "i": 4081,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 8,
+    "t": "pre kmeň Efraima, Hozeáš, syn Núnov;"
+  },
+  {
+    "i": 4082,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 9,
+    "t": "pre kmeň Benjamína, Palti, syn Rafuov;"
+  },
+  {
+    "i": 4083,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 10,
+    "t": "pre kmeň Zebulúna, Gadiel, syn Sodiho;"
+  },
+  {
+    "i": 4084,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 11,
+    "t": "pre kmeň Jozefa, pre kmeň Manassesov, Gaddi, syn Susiho;"
+  },
+  {
+    "i": 4085,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 12,
+    "t": "pre kmeň Dána, Ammiel, syn Gemalliho;"
+  },
+  {
+    "i": 4086,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 13,
+    "t": "pre kmeň Asera, Setur, syn Michaelov;"
+  },
+  {
+    "i": 4087,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 14,
+    "t": "pre kmeň Neftaliho, Nachbi, syn Vapsiho;"
+  },
+  {
+    "i": 4088,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 15,
+    "t": "pre kmeň Gáda, Guel, syn Machirov."
+  },
+  {
+    "i": 4089,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 16,
+    "t": "Toto sú mená mužov, ktorých Mojžiš vyslal, aby preskúmali zem. A Mojžiš nazval Hozeáša, syna Núnovho, menom Jozua."
+  },
+  {
+    "i": 4090,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 17,
+    "t": "Mojžiš ich vyslal, aby preskúmali zem Kanaán: \"Vystúpte do Negebu a potom vystúpte do hôr."
+  },
+  {
+    "i": 4091,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 18,
+    "t": "A uvidíte, aká je zem; a aký je ľud, ktorý v nej býva, či je silný, alebo slabý, či ich je málo, alebo mnoho;"
+  },
+  {
+    "i": 4092,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 19,
+    "t": "a aká je zem, v ktorej býva, či je dobrá, alebo zlá; a aké sú mestá, v ktorých býva, či sú to tábory, alebo opevnené mestá;"
+  },
+  {
+    "i": 4093,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 20,
+    "t": "a aká je zem, či je úrodná, alebo chudobná, či je zalesnená, alebo nie. Buďte odvážni. Vezmite zo zeme plody.\" Bol to čas prvých hrozien."
+  },
+  {
+    "i": 4094,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 21,
+    "t": "A vystúpili, aby preskúmali zem, od púšte Sin až po Rechob, po Vchod do Chámata."
+  },
+  {
+    "i": 4095,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 22,
+    "t": "A vystúpili cez Negeb a prišli do Hebronu, kde bývali Achiman, Šešaj a Talmaj, potomkovia Anákovi. (Hebron bol založený sedem rokov pred Tanisom v Egypte.)"
+  },
+  {
+    "i": 4096,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 23,
+    "t": "A prišli do údolia Eškol; a odrezali tam viničný prút a strapca hrozna, ktorý dvaja niesli na tyči, ako aj granátové jablká a figy."
+  },
+  {
+    "i": 4097,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 24,
+    "t": "A nazvali to miesto údolím Eškol, pre strapca, ktorý tam odrezali Izraeliti."
+  },
+  {
+    "i": 4098,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 25,
+    "t": "Po štyridsiatich dňoch sa vrátili z preskúmania zeme."
+  },
+  {
+    "i": 4099,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 26,
+    "t": "A prišli k Mojžišovi, Áronovi a celej obci Izraelovej, do púšte Párán, do Kádeša. A podali im správu a celej obci ukázali plody zeme."
+  }
+]

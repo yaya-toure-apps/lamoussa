@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2100,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 24,
+    "t": "Mắt đền mắt, răng đền răng, chân đền chân,"
+  },
+  {
+    "i": 2101,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 25,
+    "t": "Phỏng đền phỏng, bầm đền bầm, thương tích đền thương tích."
+  },
+  {
+    "i": 2102,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 26,
+    "t": "Nếu người nào đánh vào mắt của tôi tớ nam hay tôi tớ nữ mình, mà làm hư mắt nó, thì phải tha cho nó được tự do vì cớ mắt đó."
+  },
+  {
+    "i": 2103,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 27,
+    "t": "Nếu người nào đánh gãy răng của tôi tớ nam hay tôi tớ nữ mình, thì phải tha cho nó được tự do vì cớ răng đó."
+  },
+  {
+    "i": 2104,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 28,
+    "t": "Nếu một con bò húc một người nam hay một người nữ đến chết, thì phải ném đá con bò, và không ai được ăn thịt nó; còn chủ bò thì vô tội."
+  },
+  {
+    "i": 2105,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 29,
+    "t": "Nhưng nếu từ trước con bò hay húc người, và chủ nó đã hay vậy, mà không canh giữ nó, rồi nó húc chết một người nam hay một người nữ, thì phải ném đá con bò, và chủ nó cũng phải bị giết."
+  },
+  {
+    "i": 2106,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 30,
+    "t": "Nếu người ta định giá mà bắt chủ bò chuộc mạng sống mình, thì người đó phải trả bao nhiêu giá đã định."
+  },
+  {
+    "i": 2107,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 31,
+    "t": "Nếu con bò húc một con trai hay một con gái, thì người ta phải đãi nó y theo luật nầy."
+  },
+  {
+    "i": 2108,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 32,
+    "t": "Nếu con bò húc một tôi tớ nam hay một tôi tớ nữ, thì chủ nó phải trả cho chủ tôi tớ đó ba mươi miếng bạc, còn con bò thì phải ném đá."
+  },
+  {
+    "i": 2109,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 33,
+    "t": "Nếu ai mở một cái hầm, hay đào một cái hầm mà không đậy lại, rồi một con bò hay một con lừa sụp xuống đó,"
+  },
+  {
+    "i": 2110,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 34,
+    "t": "thì chủ hầm phải bồi thường, phải trả tiền lại cho chủ con vật, còn con vật chết sẽ thuộc về người đào hầm."
+  },
+  {
+    "i": 2111,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 35,
+    "t": "Nếu con bò của người nầy húc chết con bò của người kia, thì hai người sẽ bán con bò sống mà chia tiền, còn con bò chết thì cũng chia nhau."
+  },
+  {
+    "i": 2112,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 36,
+    "t": "Nhưng nếu từ trước con bò hay húc người, và chủ nó đã không canh giữ nó, thì chủ nó phải đền con bò nầy bằng con bò kia, còn con bò chết sẽ thuộc về người đó."
+  },
+  {
+    "i": 2113,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 37,
+    "t": "Nếu kẻ nào ăn trộm một con bò hay một con chiên, rồi giết hay bán nó, thì phải đền năm con bò cho một con bò, và bốn con chiên cho một con chiên."
+  },
+  {
+    "i": 2114,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 1,
+    "t": "Nếu kẻ trộm bị bắt đang lúc đào ngạch, bị đánh chết, thì chẳng có sự báo thù huyết nào."
+  },
+  {
+    "i": 2115,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 2,
+    "t": "Nếu mặt trời đã mọc rồi, thì có sự báo thù huyết. Kẻ trộm phải bồi thường lại; nếu không có chi để bồi thường, thì sẽ bị bán đặng trả lại vật đã ăn trộm."
+  },
+  {
+    "i": 2116,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 3,
+    "t": "Nếu vật đã ăn trộm, hoặc bò, lừa, hay chiên, còn sống mà thấy được nơi tay nó, thì phải đền gấp đôi."
+  },
+  {
+    "i": 2117,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 4,
+    "t": "Nếu ai làm hư một đồng ruộng hay một vườn nho, và thả súc vật mình ăn phá đồng ruộng người khác, thì phải bồi thường hoa lợi tốt nhứt của đồng ruộng mình. Nhược bằng nó ăn phá hết cả đồng ruộng, thì phải bồi thường bằng hoa lợi tốt nhứt của ruộng mình,"
+  },
+  {
+    "i": 2118,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 5,
+    "t": "Nếu lửa cháy lan ra, gặp bụi gai, thiêu đống lúa, lúa còn đứng, hay là cả đồng ruộng, thì người đốt phải bồi thường."
+  },
+  {
+    "i": 2119,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 6,
+    "t": "Nếu ai giao tiền bạc hay đồ vật cho kẻ lân cận giữ, mà bị ăn trộm lấy đi khỏi nhà người đó, nếu bắt được kẻ trộm, thì phải đền gấp đôi."
+  },
+  {
+    "i": 2120,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 7,
+    "t": "Nếu người ta không bắt được kẻ trộm, thì chủ nhà phải đến gần trước mặt Đức Chúa Trời mà thề rằng mình không hề động đến của cải kẻ lân cận."
+  },
+  {
+    "i": 2121,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 8,
+    "t": "Phàm về mọi sự kiện, hoặc về một con bò, một con lừa, một con chiên, một cái áo, hoặc về một vật chi đã mất mà người ta nói rằng: Vật nầy là của tôi đó, thì đôi bên phải đem sự kiện mình đến trước mặt Đức Chúa Trời, hễ ai mà Đức Chúa Trời định có tội, thì phải đền gấp đôi"
+  },
+  {
+    "i": 2122,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 9,
+    "t": "Nếu ai giao cho kẻ lân cận giữ một con lừa, một con bò, một con chiên, hay là một con vật nào, mà nó chết, bị thương, hay là bị bắt đi, không ai thấy,"
+  },
+  {
+    "i": 2123,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 10,
+    "t": "thì phải có lời thề bởi Đức Giê-hô-va lập giữa hai người, rằng mình không hề động đến của kẻ lân cận mình, chủ vật phải nhận lấy, còn người kia chẳng phải bồi thường."
+  },
+  {
+    "i": 2124,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 11,
+    "t": "Nếu con vật đó bị ăn trộm khỏi người nầy, thì phải bồi thường cho chủ nó."
+  },
+  {
+    "i": 2125,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 12,
+    "t": "Nếu nó bị thú rừng xé rách, thì phải đem xác lại chứng cớ, còn chẳng phải bồi thường."
+  },
+  {
+    "i": 2126,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 13,
+    "t": "Nếu ai mượn một con vật của kẻ lân cận mình, mà nó bị thương hay chết trong khi chủ nó không có đó, thì phải bồi thường."
+  },
+  {
+    "i": 2127,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 14,
+    "t": "Nếu chủ nó có đó, thì chẳng phải bồi thường; nếu là vật mướn, thì được trừ vào tiền mướn."
+  },
+  {
+    "i": 2128,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 15,
+    "t": "Nếu ai dụ dỗ một người nữ đồng trinh chưa hứa gả cho ai mà ngủ cùng, thì phải cưới nàng làm vợ, và trả tiền cưới nàng."
+  },
+  {
+    "i": 2129,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 16,
+    "t": "Nếu cha nàng từ chối không gả nàng cho người đó, thì người đó phải trả giá cưới cho các con gái đồng trinh."
+  },
+  {
+    "i": 2130,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 17,
+    "t": "Ngươi chớ để cho người đồng bóng sống."
+  },
+  {
+    "i": 2131,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 18,
+    "t": "Hễ ai giao cấu cùng thú vật, phải bị xử tử."
+  },
+  {
+    "i": 2132,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 19,
+    "t": "Ai tế các thần khác, ngoài Đức Giê-hô-va mà thôi, sẽ bị diệt."
+  },
+  {
+    "i": 2133,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 20,
+    "t": "Ngươi chớ hà hiếp và áp bức khách lạ; vì các ngươi đã làm khách lạ trong xứ Ê-díp-tô rồi, nên biết lòng khách lạ là thể nào."
+  },
+  {
+    "i": 2134,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 21,
+    "t": "Các ngươi chớ làm hại người góa bụa và kẻ mồ côi."
+  },
+  {
+    "i": 2135,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 22,
+    "t": "Nếu ngươi làm hại chúng nó, và nếu chúng nó kêu đến ta, ta sẽ nghe tiếng kêu chúng nó,"
+  },
+  {
+    "i": 2136,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 23,
+    "t": "cơn giận ta sẽ nổi lên, ta sẽ dùng gươm giết các ngươi, vợ các ngươi sẽ thành góa bụa, và con cái các ngươi thành mồ côi."
+  },
+  {
+    "i": 2137,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 24,
+    "t": "Nếu ngươi cho một người nghèo khó trong dân sự ta vay tiền, thì chớ xử với họ như chủ nợ, và đừng bắt họ trả lời."
+  },
+  {
+    "i": 2138,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 25,
+    "t": "Nếu ngươi cầm áo choàng của kẻ lân cận làm của cầm, thì phải trả lại cho họ trước khi mặt trời lặn,"
+  },
+  {
+    "i": 2139,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 26,
+    "t": "vì đó là áo xống để đắp mình, là vật để bọc thân thể. Nếu không, lấy chi mà ngủ? Khi họ kêu đến ta, ta sẽ nghe, vì ta hay thương xót."
+  },
+  {
+    "i": 2140,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 27,
+    "t": "Ngươi chớ chửi rủa Đức Chúa Trời, và chớ nguyền rủa kẻ cầm quyền trong dân sự mình."
+  },
+  {
+    "i": 2141,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 28,
+    "t": "Ngươi chớ chậm dâng hoa trái mùa gặt và nước ép của mình. Con trưởng nam của ngươi phải dâng cho ta."
+  },
+  {
+    "i": 2142,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 29,
+    "t": "Ngươi phải làm như vậy cho bò và chiên mình. Bảy ngày con vật ở cùng mẹ, qua ngày thứ tám, ngươi phải dâng nó cho ta."
+  },
+  {
+    "i": 2143,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 30,
+    "t": "Các ngươi phải là người thánh cho ta; vậy, chớ ăn thịt vật gì bị thú rừng xé rách ngoài đồng; hãy quăng cho chó."
+  },
+  {
+    "i": 2144,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 1,
+    "t": "Ngươi chớ đồn lời nói dối; chớ tiếp tay với kẻ gian ác đặng làm chứng gian."
+  },
+  {
+    "i": 2145,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 2,
+    "t": "Chớ hùa theo đảng đông mà làm điều ác; khi ngươi làm chứng trong một việc kiện, chớ bênh đảng đông mà làm sai lệch lẽ công bình,"
+  },
+  {
+    "i": 2146,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 3,
+    "t": "cũng chớ tư vị kẻ nghèo trong lúc kiện tụng."
+  },
+  {
+    "i": 2147,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 4,
+    "t": "Nếu ngươi tình cờ gặp bò hay lừa của kẻ thù nghịch mình lạc mất, thì phải dắt nó về cho người."
+  },
+  {
+    "i": 2148,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 5,
+    "t": "Nếu ngươi thấy lừa của kẻ ghét mình té xuống dưới gánh nặng, thì đừng làm lơ, nhưng phải giúp người gỡ nó ra."
+  },
+  {
+    "i": 2149,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 6,
+    "t": "Trong việc kiện tụng, ngươi chớ làm mất lẽ công bình của kẻ nghèo trong vòng ngươi."
+  },
+  {
+    "i": 2150,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 7,
+    "t": "Hãy tránh xa lời cáo gian; chớ giết người vô tội và người công bình, vì ta sẽ không xưng công bình kẻ gian ác."
+  },
+  {
+    "i": 2151,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 8,
+    "t": "Ngươi chớ nhận của hối lộ, vì của hối lộ làm mù mắt kẻ sáng suốt, và làm hư hoại lời của người công bình."
+  },
+  {
+    "i": 2152,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 9,
+    "t": "Ngươi chớ hà hiếp khách lạ, vì các ngươi biết lòng khách lạ là thể nào; vì các ngươi đã làm khách lạ trong xứ Ê-díp-tô vậy."
+  },
+  {
+    "i": 2153,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 10,
+    "t": "Trong sáu năm, ngươi phải gieo đất mình và thâu hoa lợi nó;"
+  },
+  {
+    "i": 2154,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 11,
+    "t": "nhưng đến năm thứ bảy, hãy để cho nó nghỉ, đừng cầy cấy chi hết, đặng kẻ nghèo trong dân sự ngươi có vật ăn; còn chừa lại bao nhiêu, thú đồng sẽ ăn; ngươi cũng phải làm như vậy cho vườn nho và cây ô-li-ve của mình."
+  },
+  {
+    "i": 2155,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 12,
+    "t": "Trong sáu ngày, ngươi hãy làm công việc mình, nhưng đến ngày thứ bảy, phải nghỉ, đặng cho bò và lừa ngươi được an nghỉ, và con trai đầy tớ gái cùng khách lạ được khỏe lại."
+  },
+  {
+    "i": 2156,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 13,
+    "t": "Khá giữ mọi điều ta đã dặn các ngươi. Chớ cầu khẩn danh các thần khác; nguyện chẳng có danh ấy ra khỏi miệng các ngươi."
+  },
+  {
+    "i": 2157,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 14,
+    "t": "Mỗi năm ngươi phải làm lễ cho ta ba kỳ."
+  },
+  {
+    "i": 2158,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 15,
+    "t": "Hãy giữ lễ bánh không men; trong bảy ngày ngươi hãy ăn bánh không men như ta đã phán dặn, nhằm kỳ tháng A-bíp, vì trong tháng đó ngươi ra khỏi xứ Ê-díp-tô. Chớ ai đến ra mắt ta mà không đem chi hết."
+  },
+  {
+    "i": 2159,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 16,
+    "t": "Cũng hãy giữ lễ mùa gặt, tức là trái đầu mùa của công việc ngươi đã gieo trong ruộng; và lễ thâu hoạch, vào cuối năm, khi ngươi đã thâu hết các vật của ngươi làm trong ruộng."
+  },
+  {
+    "i": 2160,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 17,
+    "t": "Mỗi năm ba kỳ, hết thảy đàn ông phải ra mắt Chúa Giê-hô-va."
+  },
+  {
+    "i": 2161,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 18,
+    "t": "Chớ dâng huyết của tế lễ ta với bánh có men; mỡ của lễ ta không được để lại đến sáng mai."
+  },
+  {
+    "i": 2162,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 19,
+    "t": "Ngươi phải đem hoa quả đầu mùa tốt nhứt của đất mình vào nhà Giê-hô-va, Đức Chúa Trời ngươi. Chớ nên nấu dê con trong sữa mẹ nó."
+  },
+  {
+    "i": 2163,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 20,
+    "t": "Nầy, ta sai một thiên sứ đi trước ngươi, đặng gìn giữ ngươi trong lúc đi đường, và đưa ngươi đến nơi ta đã dự bị."
+  },
+  {
+    "i": 2164,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 21,
+    "t": "Khá giữ mình trước mặt người, và nghe theo tiếng người. Chớ phản nghịch người, vì người sẽ không tha sự vi phạm các ngươi; bởi vì danh ta ngự trong người."
+  },
+  {
+    "i": 2165,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 22,
+    "t": "Nhưng nếu ngươi hết lòng nghe theo tiếng người, và làm mọi điều ta phán dặn, thì ta sẽ là kẻ thù nghịch của kẻ thù nghịch ngươi, và là kẻ đối địch của kẻ đối địch ngươi."
+  },
+  {
+    "i": 2166,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 23,
+    "t": "Thiên sứ ta sẽ đi trước ngươi, đưa ngươi đến cùng dân A-mô-rít, dân Hê-tít, dân Phê-rê-sít, dân Ca-na-an, dân Hê-vít, và dân Giê-bu-sít; rồi ta sẽ diệt chúng nó."
+  },
+  {
+    "i": 2167,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 24,
+    "t": "Ngươi chớ quì lạy các thần chúng nó, chớ hầu việc chúng nó, và chớ bắt chước việc làm của chúng nó; nhưng hãy phá hủy các tượng thần, và đánh đổ các trụ thờ chúng nó."
+  },
+  {
+    "i": 2168,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 25,
+    "t": "Các ngươi phải hầu việc Giê-hô-va, Đức Chúa Trời của các ngươi, thì Ngài sẽ ban phước cho bánh và nước uống của ngươi; ta sẽ cất bỏ các thứ bệnh hoạn khỏi giữa ngươi."
+  },
+  {
+    "i": 2169,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 26,
+    "t": "Trong xứ ngươi, sẽ chẳng có người đàn bà nào sanh non, cũng chẳng có người son sẻ; ta sẽ làm cho số ngày ngươi được trọn."
+  },
+  {
+    "i": 2170,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 27,
+    "t": "Ta sẽ giáng sự kinh khiếp ta trước mặt ngươi, khiến cho mọi dân mà ngươi sẽ đến cùng đều bối rối, và ta sẽ làm cho hết thảy kẻ thù nghịch ngươi xây lưng trốn trước mặt ngươi."
+  },
+  {
+    "i": 2171,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 28,
+    "t": "Ta sẽ sai ong vò vẽ đến trước ngươi, đuổi dân Hê-vít, dân Ca-na-an và dân Hê-tít khỏi trước mặt ngươi."
+  },
+  {
+    "i": 2172,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 29,
+    "t": "Ta sẽ không đuổi chúng nó trong một năm, e đất trở nên hoang vu, và thú đồng thêm nhiều nghịch cùng ngươi chăng."
+  },
+  {
+    "i": 2173,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 30,
+    "t": "Ta sẽ đuổi chúng nó khỏi trước mặt ngươi lần lần, cho đến chừng nào ngươi sanh sản thêm nhiều và được nhận lấy xứ làm sản nghiệp."
+  },
+  {
+    "i": 2174,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 31,
+    "t": "Ta sẽ định ranh giới ngươi từ Biển Đỏ đến Biển Phi-li-tin, từ đồng vắng đến sông cái; vì ta sẽ phó dân của xứ đó vào tay các ngươi, và ngươi sẽ đuổi chúng nó khỏi trước mặt mình."
+  },
+  {
+    "i": 2175,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 32,
+    "t": "Ngươi chớ kết ước cùng chúng nó, và các thần của chúng nó."
+  },
+  {
+    "i": 2176,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 33,
+    "t": "Chúng nó chớ ở trong xứ ngươi, e chúng nó xui ngươi phạm tội cùng ta chăng; vì nếu ngươi hầu việc các thần chúng nó, điều đó hẳn sẽ là một cái bẫy cho ngươi vậy."
+  },
+  {
+    "i": 2177,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán cùng Môi-se rằng: Hãy lên cùng Đức Giê-hô-va, ngươi, A-rôn, Na-đáp, A-bi-hu, và bảy mươi trưởng lão của Y-sơ-ra-ên; rồi hãy thờ lạy xa xa."
+  },
+  {
+    "i": 2178,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 2,
+    "t": "Một mình Môi-se hãy đến gần Đức Giê-hô-va; còn những người kia chớ đến gần, và dân sự cũng đừng lên cùng người."
+  },
+  {
+    "i": 2179,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 3,
+    "t": "Môi-se đi thuật lại cho dân sự mọi lời Đức Giê-hô-va và mọi luật lệ; cả dân đồng thanh đáp rằng: Chúng tôi xin làm theo mọi lời Đức Giê-hô-va đã phán dặn."
+  },
+  {
+    "i": 2180,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 4,
+    "t": "Môi-se ghi chép mọi lời của Đức Giê-hô-va. Sáng ngày, người thức dậy sớm, dựng một bàn thờ dưới chân núi, và lập mười hai cây trụ đá, tùy theo mười hai chi phái Y-sơ-ra-ên."
+  },
+  {
+    "i": 2181,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 5,
+    "t": "Người sai các thanh niên Y-sơ-ra-ên dâng của lễ thiêu, và giết bò đực làm của lễ thù ân cho Đức Giê-hô-va."
+  },
+  {
+    "i": 2182,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 6,
+    "t": "Môi-se lấy phân nửa huyết đổ vào chậu, phân nửa kia rưới trên bàn thờ."
+  },
+  {
+    "i": 2183,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 7,
+    "t": "Người lấy cuốn sách giao ước đọc cho dân sự nghe, rồi họ đáp rằng: Chúng tôi xin vâng theo mọi lời Đức Giê-hô-va đã phán dặn và làm theo các điều đó."
+  },
+  {
+    "i": 2184,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 8,
+    "t": "Môi-se bèn lấy huyết rưới trên dân sự mà nói rằng: Nầy là huyết của giao ước mà Đức Giê-hô-va lập với các ngươi cứ theo các lời nầy."
+  },
+  {
+    "i": 2185,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 9,
+    "t": "Môi-se, A-rôn, Na-đáp, A-bi-hu, và bảy mươi trưởng lão của Y-sơ-ra-ên đều lên núi."
+  },
+  {
+    "i": 2186,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 10,
+    "t": "Chúng thấy Đức Chúa Trời của Y-sơ-ra-ên, dưới chân Ngài dường như có một cái nền bằng bích ngọc, trong suốt như chính trời vậy."
+  },
+  {
+    "i": 2187,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 11,
+    "t": "Ngài chẳng ra tay hại các quan trưởng của dân Y-sơ-ra-ên; chúng thấy Đức Chúa Trời, đoạn ăn và uống."
+  },
+  {
+    "i": 2188,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 12,
+    "t": "Đức Giê-hô-va phán cùng Môi-se rằng: Hãy lên cùng ta trên núi, và ở đó, ta sẽ cho ngươi hai bảng đá có khắc luật pháp và điều răn mà ta đã viết đặng dạy dỗ dân sự."
+  },
+  {
+    "i": 2189,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 13,
+    "t": "Môi-se và Giô-suê, kẻ giúp việc người, bèn đứng dậy đi lên núi Đức Chúa Trời."
+  },
+  {
+    "i": 2190,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 14,
+    "t": "Người dặn các trưởng lão rằng: Hãy đợi chúng tôi tại đây cho đến chừng nào chúng tôi trở lại; vả, có A-rôn và Hu-rơ ở cùng các ông. Ai có việc chi xảy ra, khá đến cùng hai người đó."
+  },
+  {
+    "i": 2191,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 15,
+    "t": "Môi-se đi lên núi, mây bao phủ núi."
+  },
+  {
+    "i": 2192,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 16,
+    "t": "Vinh quang Đức Giê-hô-va ngự trên núi Si-na-i, và mây che phủ núi trong sáu ngày. Đến ngày thứ bảy, Đức Giê-hô-va gọi Môi-se ra khỏi giữa mây."
+  },
+  {
+    "i": 2193,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 17,
+    "t": "Hình trạng vinh quang Đức Giê-hô-va ở trên chót núi, thấy như một ngọn lửa hừng trước mắt dân Y-sơ-ra-ên."
+  },
+  {
+    "i": 2194,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 18,
+    "t": "Môi-se vào giữa mây, đi lên núi; người ở trên núi bốn mươi ngày và bốn mươi đêm."
+  },
+  {
+    "i": 2195,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán cùng Môi-se rằng:"
+  },
+  {
+    "i": 2196,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 2,
+    "t": "Hãy biểu dân Y-sơ-ra-ên đem lễ vật cho ta; các ngươi hãy nhận lễ vật của mỗi người nào thành tâm dâng cho các ngươi."
+  },
+  {
+    "i": 2197,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 3,
+    "t": "Nầy là những lễ vật mà các ngươi hãy nhận lấy: vàng, bạc, đồng;"
+  },
+  {
+    "i": 2198,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 4,
+    "t": "chỉ tím, chỉ đỏ điều, vải đỏ sặm, vải gai mịn, lông dê;"
+  },
+  {
+    "i": 2199,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 5,
+    "t": "da chiên đực nhuộm đỏ, da cá nược, và cây keo;"
+  }
+]

@@ -1,0 +1,795 @@
+[
+  {
+    "i": 6300,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 8,
+    "t": "I povstali ti muži a odešli. Těm, kteří šli popsat zemi, Jozue přikázal řka: „Jděte, projděte zemi a popište ji, a navraťte se ke mně, a já učiním losování pro vás zde, před Hospodinem, v Šílu.“"
+  },
+  {
+    "i": 6301,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 9,
+    "t": "I odešli ti muži a procházeli zemí, a popsali ji po městech v sedmi dílech v knize, a navrátili se k Jozuovi do tábora v Šílu."
+  },
+  {
+    "i": 6302,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 10,
+    "t": "I učinil Jozue losování pro ně v Šílu před Hospodinem, a tam Jozue rozdělil zemi synům Izraele podle dílů jejich."
+  },
+  {
+    "i": 6303,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 11,
+    "t": "I vyšel los nejprve pro pokolení synů Benjamínových podle čeledí jejich, a hranice losu jejich byla mezi syny Judovými a syny Josefovými."
+  },
+  {
+    "i": 6304,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 12,
+    "t": "A hranice jejich na straně severní byla od Jordánu, vystupovala k úbočí Jericha na severu, a vystupovala na horu směrem k západu, a končila na poušti Bét-aven."
+  },
+  {
+    "i": 6305,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 13,
+    "t": "Odtud hranice přecházela do Lúzu, k úbočí Lúzu na poledne, což je nyní Bétel; a sestupovala do Atrot-adaru na hoře, která jest na jih od Bét-choronu dolního."
+  },
+  {
+    "i": 6306,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 14,
+    "t": "A hranice se ohýbala a obracela tváří k západu na poledne, od hory, která jest naproti Bét-choronu na poledne, a končila u Kirjat-baalu, což je nyní Kirjat-jearim, město synů Judových. To byla strana západní."
+  },
+  {
+    "i": 6307,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 15,
+    "t": "A strana jižní byla tato: Od konce Kirjat-jearimu hranice šla směrem k Gasínu a končila blízko pramene vod Neftoach,"
+  },
+  {
+    "i": 6308,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 16,
+    "t": "a sestupovala k konci hory, která jest naproti údolí syna Hinnomova, na rovině Refaimské na severu; a sestupovala do údolí Hinnom k úbočí Jebúsejského na jihu, a sestupovala k En-rogelu."
+  },
+  {
+    "i": 6309,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 17,
+    "t": "Potom se ohýbala směrem k severu a končila u En-šemeše, a končila u okruhu kamenů, který jest naproti vystupování Adumim, a sestupovala k kameni Bohana, syna Rúbenova."
+  },
+  {
+    "i": 6310,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 18,
+    "t": "A přecházela dále do Kétefu na úbočí Bét-araby směrem k severu, a sestupovala k Arabě;"
+  },
+  {
+    "i": 6311,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 19,
+    "t": "potom hranice přecházela k úbočí Bét-hogly na severu, a konec hranice byl zátoka Moře Solného, na severu, na nejzazším konci Jordánu na jih. To byla hranice jižní."
+  },
+  {
+    "i": 6312,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 20,
+    "t": "Jordán tvořil hranici na straně východní. To bylo dědictví synů Benjamínových podle obvodu hranic jejich, podle čeledí jejich."
+  },
+  {
+    "i": 6313,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 21,
+    "t": "A města pokolení synů Benjamínových podle čeledí jejich byla: Jericho, Bét-hogla, Emek-kesis,"
+  },
+  {
+    "i": 6314,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 22,
+    "t": "Bét-araba, Cemarajim, Bétel,"
+  },
+  { "i": 6315, "b": 5, "c": 618, "r": 618, "o": 23, "t": "Avim, Para, Ofra," },
+  {
+    "i": 6316,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 24,
+    "t": "Kefar-ha-ammoni, Ofni, Geba: dvanáct měst a vesnic jejich."
+  },
+  {
+    "i": 6317,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 25,
+    "t": "Gabaon, Ráma, Bérot,"
+  },
+  {
+    "i": 6318,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 26,
+    "t": "Micpe, Kefira, Moca,"
+  },
+  {
+    "i": 6319,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 27,
+    "t": "Rekem, Jírpeel, Tareala,"
+  },
+  {
+    "i": 6320,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 28,
+    "t": "Cela-ha-elef, Jebúsejský — to jest Jeruzalém —, Gíbea a Kirjat: čtrnáct měst s vesnicemi jejich. To bylo dědictví synů Benjamínových podle čeledí jejich."
+  },
+  {
+    "i": 6321,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 1,
+    "t": "A druhý los vyšel pro Šimeona, pro pokolení synů Šimeonových podle čeledí jejich: Dědictví jejich se nalézalo uprostřed dědictví synů Judových."
+  },
+  {
+    "i": 6322,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 2,
+    "t": "A obdrželi v dědictví Beeršebu, Šemu, Moladu,"
+  },
+  {
+    "i": 6323,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 3,
+    "t": "Hacar-šual, Balu, Ecem,"
+  },
+  {
+    "i": 6324,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 4,
+    "t": "Eltolad, Betúl, Horma,"
+  },
+  {
+    "i": 6325,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 5,
+    "t": "Ciklag, Bét-ha-markabot, Hacar-súsa,"
+  },
+  {
+    "i": 6326,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 6,
+    "t": "Bét-lebaot a Šaruchen: třináct měst a vesnic jejich;"
+  },
+  {
+    "i": 6327,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 7,
+    "t": "Aín, Rimmon, Eter, Ašan: čtyři města a vesnice jejich,"
+  },
+  {
+    "i": 6328,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 8,
+    "t": "se všemi vesnicemi, které byly v okolí těchto měst až k Baalat-beeru a Rámě Negebské. To bylo dědictví pokolení synů Šimeonových podle čeledí jejich."
+  },
+  {
+    "i": 6329,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 9,
+    "t": "Dědictví synů Šimeonových bylo vzato z dílu synů Judových, protože díl synů Judových byl příliš veliký pro ně; synové Šimeonovi tedy obdrželi své dědictví uprostřed dědictví synů Judových."
+  },
+  {
+    "i": 6330,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 10,
+    "t": "A třetí los vyšel pro syny Zabulonovy podle čeledí jejich: Hranice dědictví jejich se rozprostírala až k Sarídu;"
+  },
+  {
+    "i": 6331,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 11,
+    "t": "jejich hranice vystupovala na západ k Maraale, dotýkala se Dabešetu, jakož i potoka, který jest naproti Jokneamu."
+  },
+  {
+    "i": 6332,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 12,
+    "t": "Hranice se obracela od Sarídu směrem k východu, kde slunce vychází, až k hranici Kislot-taboru, končila u Daberatu a vystupovala k Jafii."
+  },
+  {
+    "i": 6333,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 13,
+    "t": "Odtud přecházela směrem k východu, k vycházejícímu slunci, k Gat-heferu a Itta-kasínu, končila u Rimmonu a obracela se k Néji."
+  },
+  {
+    "i": 6334,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 14,
+    "t": "Severní hranice se obracela k Hannatonu, a bodem jejího ukončení bylo údolí Jiftach-el;"
+  },
+  {
+    "i": 6335,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 15,
+    "t": "s Kattatem, Nahalalem, Šimronem, Jirealem a Betlémem: dvanáct měst s vesnicemi jejich."
+  },
+  {
+    "i": 6336,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 16,
+    "t": "To bylo dědictví synů Zabulonových podle čeledí jejich: tato města s vesnicemi jejich."
+  },
+  {
+    "i": 6337,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 17,
+    "t": "A čtvrtý los vyšel pro Isachara, pro syny Isacharovy podle čeledí jejich."
+  },
+  {
+    "i": 6338,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 18,
+    "t": "Jejich území se rozprostíralo směrem k Jizreeli a zahrnovalo Kesullot, Šunem,"
+  },
+  {
+    "i": 6339,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 19,
+    "t": "Hafaraim, Šion, Anaharat,"
+  },
+  {
+    "i": 6340,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 20,
+    "t": "Daberat, Kišion, Ebec,"
+  },
+  {
+    "i": 6341,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 21,
+    "t": "Remet, En-ganim, En-hadda a Bét-pacec."
+  },
+  {
+    "i": 6342,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 22,
+    "t": "Hranice se dotýkala Táboru, Šachazimy a Bét-šemeše, a bodem ukončení hranice byl Jordán: šestnáct měst s vesnicemi jejich."
+  },
+  {
+    "i": 6343,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 23,
+    "t": "To bylo dědictví pokolení synů Isacharových podle čeledí jejich: města a vesnice jejich."
+  },
+  {
+    "i": 6344,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 24,
+    "t": "A pátý los vyšel pro pokolení synů Ašerových podle čeledí jejich."
+  },
+  {
+    "i": 6345,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 25,
+    "t": "Jejich území zahrnovalo: Helkat, Hali, Bétén, Akšaf,"
+  },
+  {
+    "i": 6346,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 26,
+    "t": "Alammelek, Amead a Mišéal; dotýkalo se Karmelu na západě a toku Libnatu."
+  },
+  {
+    "i": 6347,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 27,
+    "t": "Na straně, kde slunce vychází, šlo až k Bét-dagónu, dotýkalo se Zabulona, údolí Jiftach-el na severu, Bét-ha-emeku a Neiielu, končilo u Kabulu nalevo,"
+  },
+  {
+    "i": 6348,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 28,
+    "t": "s Abdónem, Rechobem, Hammonem a Kanou až k Sidonu-velikému. Potom hranice šla směrem k Rámě a až k městu pevnosti Tyru;"
+  },
+  {
+    "i": 6349,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 29,
+    "t": "hranice potom šla k Hose a bodem jejího ukončení bylo u moře, Mahaleb a Akzíb,"
+  },
+  {
+    "i": 6350,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 30,
+    "t": "s Akkem, Afekem a Rechobem: dvacet dvě města s vesnicemi jejich."
+  },
+  {
+    "i": 6351,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 31,
+    "t": "To bylo dědictví pokolení synů Ašerových podle čeledí jejich: tato města a vesnice jejich."
+  },
+  {
+    "i": 6352,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 32,
+    "t": "Pro syny Neftaliho vyšel šestý los, pro syny Neftaliho podle čeledí jejich."
+  },
+  {
+    "i": 6353,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 33,
+    "t": "Jejich hranice šla k Helefu a od Dubu Caanannimského, s Adami-ha-nekebem a Jabneelem, až k Lakúmu, a bodem jejího ukončení byl Jordán."
+  },
+  {
+    "i": 6354,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 34,
+    "t": "Na západě hranice přecházela k Aznot-táboru, končila odtamtud u Hukoku a dotýkala se Zabulona na jihu, Ašera na západě a Jordánu na východě."
+  },
+  {
+    "i": 6355,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 35,
+    "t": "Silná města byla: Ciddim, Cer, Hammat, Rakat, Kinneret,"
+  },
+  {
+    "i": 6356,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 36,
+    "t": "Adama, Ráma, Hacor,"
+  },
+  {
+    "i": 6357,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 37,
+    "t": "Kedeš, Edrei, En-hacor,"
+  },
+  {
+    "i": 6358,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 38,
+    "t": "Jireon, Migdal-el, Horem, Bét-anat a Bét-šemeš: devatenáct měst a vesnic jejich."
+  },
+  {
+    "i": 6359,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 39,
+    "t": "To bylo dědictví synů Neftaliho podle čeledí jejich: města a vesnice jejich."
+  },
+  {
+    "i": 6360,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 40,
+    "t": "Pro pokolení synů Danových podle čeledí jejich vyšel sedmý los."
+  },
+  {
+    "i": 6361,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 41,
+    "t": "Území jejich dědictví zahrnovalo: Koru, Eštaol, Ir-šemeš,"
+  },
+  {
+    "i": 6362,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 42,
+    "t": "Šaalbim, Ajjalon, Silata,"
+  },
+  {
+    "i": 6363,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 43,
+    "t": "Elon, Timna, Ekron,"
+  },
+  {
+    "i": 6364,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 44,
+    "t": "Elteke, Gibbeton, Baalat,"
+  },
+  {
+    "i": 6365,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 45,
+    "t": "Azor, Bene-berak a Gat-rimmon;"
+  },
+  {
+    "i": 6366,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 46,
+    "t": "a směrem k moři Jerakon s územím, které jest naproti Joppe."
+  },
+  {
+    "i": 6367,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 47,
+    "t": "Ale území synů Danových jim uniklo, také synové Danovi vystoupili, aby bojovali proti Lešem, jehož se zmocnili a pobili ostřím meče. A když ho obsadili, usadili se tam a nazvali Lešem Dan, podle jména svého předka Dana."
+  },
+  {
+    "i": 6368,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 48,
+    "t": "To bylo dědictví pokolení synů Danových podle čeledí jejich: tato města a vesnice jejich."
+  },
+  {
+    "i": 6369,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 49,
+    "t": "Když dokončili rozdělení země podle jejích hranic, synové Izraele dali Jozuovi, synu Nunovu, dědictví uprostřed nich;"
+  },
+  {
+    "i": 6370,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 50,
+    "t": "na rozkaz Hospodinův mu dali město, které si vyžádal, Timnat-serach, v horách Efraimových; on přestavěl město a usadil se tam."
+  },
+  {
+    "i": 6371,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 51,
+    "t": "To jsou díly dědictví, které kněz Eleazar, Jozue, syn Nunův, a hlavy rodin rozdělili losem mezi pokolení Izraele v Šílu, před Hospodinem, u vchodu do Stanu setkávání. Tak bylo dokončeno rozdělení země."
+  },
+  {
+    "i": 6372,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 1,
+    "t": "I řekl Hospodin Jozuovi:"
+  },
+  {
+    "i": 6373,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 2,
+    "t": "„Mluv k synům Izraele a řekni jim: Ustanovte si města útočiště, o nichž jsem vám mluvil skrze Mojžíše,"
+  },
+  {
+    "i": 6374,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 3,
+    "t": "kam by se mohl uchýlit vražedník, který někoho zabil neúmyslně (nedobrovolně), a která vám budou sloužit jako útočiště před mstitel krve."
+  },
+  {
+    "i": 6375,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 4,
+    "t": "(A tak do jednoho z těchto měst se vražedník musí uchýlit. Bude stát u vchodu do brány města a přednese svou věc starším města. Ti ho přijmou do svého města a určí mu místo, kde bude bydlet mezi nimi."
+  },
+  {
+    "i": 6376,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 5,
+    "t": "Jestliže ho bude stíhat mstitel krve, nevydají vražedníka do jeho rukou, protože neúmyslně zabil svého bližního, aniž by proti němu měl zarytou nenávist."
+  },
+  {
+    "i": 6377,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 6,
+    "t": "Bude muset zůstat v tomto městě) dokud se nedostaví k soudu před shromáždění (až do smrti velekněze, který v té době bude ve funkci. Teprve potom se vražedník bude moci vrátit do svého města a svého domu, do města, odkud utekl.)“"
+  },
+  {
+    "i": 6378,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 7,
+    "t": "Posvětili tedy Kedeš v Galileji, v horách Neftaliho, Šekem v horách Efraimových a Kirjat-arbu — což je Hebron — v horách Judových."
+  },
+  {
+    "i": 6379,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 8,
+    "t": "Na druhé straně Jordánu od Jericha na východě, ustanovili na poušti, na náhorní plošině, Becer z pokolení Rúbenova, Rámot v Gileadu, z pokolení Gadova, a Golan v Bášanu, z pokolení Manassesova."
+  },
+  {
+    "i": 6380,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 9,
+    "t": "Toto byla města určená pro všechny syny Izraele a pro cizince, kteří mezi nimi přebývají, aby se tam mohl uchýlit každý, kdo by neúmyslně někoho udeřil, a aby unikl ruce mstitele krve, dokud nestane před obcí k soudu."
+  },
+  {
+    "i": 6381,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 1,
+    "t": "Tehdy přistoupili představení rodů Levitů k knězi Eleazarovi, k Jozuem, synu Nunovu, a k představeným rodů pokolení Izraele,"
+  },
+  {
+    "i": 6382,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 2,
+    "t": "když byli v Šílu, v zemi Kanaán, a řekli jim: „Hospodin skrze Mojžíše přikázal, abyste nám dali města k obývání a jejich pastviny pro náš dobytek.“"
+  },
+  {
+    "i": 6383,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 3,
+    "t": "I dali synové Izraele Levitům ze svého dědictví, podle Hospodinova příkazu, tato města s jejich pastvinami."
+  },
+  {
+    "i": 6384,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 4,
+    "t": "Los padl pro čeledi Kehatovců: synům kněze Árona z Levitů připadlo třináct měst z pokolení Judova, Simeonova a Benjamínova;"
+  },
+  {
+    "i": 6385,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 5,
+    "t": "ostatním synům Kehatovým podle jejich čeledí připadlo deset měst z pokolení Efrajimova, Danova a z poloviny pokolení Manassesova."
+  },
+  {
+    "i": 6386,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 6,
+    "t": "Synům Geršonovým podle jejich čeledí připadlo třináct měst z pokolení Isacharova, Ašerova, Neftalíova a z poloviny pokolení Manassesova v Bášanu."
+  },
+  {
+    "i": 6387,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 7,
+    "t": "Synům Merari podle jejich čeledí připadlo dvanáct měst z pokolení Rubenova, Gadova a Zabulonova."
+  },
+  {
+    "i": 6388,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 8,
+    "t": "Synové Izraele dali Levitům losem tato města a jejich pastviny, jak přikázal Hospodin skrze Mojžíše."
+  },
+  {
+    "i": 6389,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 9,
+    "t": "Dali z pokolení synů Judových a z pokolení synů Simeonových tato města, jejichž jména byla udána."
+  },
+  {
+    "i": 6390,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 10,
+    "t": "Nejprve to byl podíl pro syny Áronovy, patřící k čeledi Kehatovců, synů Leviho, neboť první los padl pro ně."
+  },
+  {
+    "i": 6391,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 11,
+    "t": "Dali jim Kirjat-arbu, město otce Anakova – to jest Hebron – v Judských horách, s pastvinami kolem něho."
+  },
+  {
+    "i": 6392,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 12,
+    "t": "Ale pole tohoto města s jeho vesnicemi dali v držení Kálebovi, synu Jefunovu."
+  },
+  {
+    "i": 6393,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 13,
+    "t": "Synům kněze Árona dali Hebron, město útočiště pro vraha, s jeho pastvinami, a také Libnu a její pastviny,"
+  },
+  {
+    "i": 6394,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 14,
+    "t": "Jattir a jeho pastviny, Eštemoa a jeho pastviny,"
+  },
+  {
+    "i": 6395,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 15,
+    "t": "Cholón a jeho pastviny, Debir a jeho pastviny,"
+  },
+  {
+    "i": 6396,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 16,
+    "t": "Ašán a jeho pastviny, Jutta a jeho pastviny, a Bét-šemeš a jeho pastviny: devět měst vzatých z těchto dvou pokolení."
+  },
+  {
+    "i": 6397,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 17,
+    "t": "Z pokolení Benjamínova Gibeón a jeho pastviny, Geba a jeho pastviny,"
+  },
+  {
+    "i": 6398,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 18,
+    "t": "Anatot a jeho pastviny a Almón a jeho pastviny: čtyři města."
+  },
+  {
+    "i": 6399,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 19,
+    "t": "Celkem měst kněží, synů Áronových: třináct měst a jejich pastvin."
+  }
+]

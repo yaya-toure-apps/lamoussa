@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2900,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 23,
+    "t": "Szólj Izrael fiainak, mondván: Ne egyetek kövérséget ökörtől, juhból vagy kecskéből."
+  },
+  {
+    "i": 2901,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 24,
+    "t": "A tetemnek és a vad által megszaggatottnak kövérsége mindenféle munkára felhasználható, de meg ne egyétek azt."
+  },
+  {
+    "i": 2902,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 25,
+    "t": "Mert valaki megeszi annak az állatnak a kövérségét, melyet tűzáldozatul visznek az Úrnak, az irtassék ki népe közül."
+  },
+  {
+    "i": 2903,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 26,
+    "t": "És vért se egyetek semmiféle madárból, semmiféle állatból lakhelyeiteken."
+  },
+  {
+    "i": 2904,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 27,
+    "t": "Mindenki, aki vért eszik, irtassék ki népe közül."
+  },
+  {
+    "i": 2905,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 28,
+    "t": "Szólt az Úr Mózesnek, mondván:"
+  },
+  {
+    "i": 2906,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 29,
+    "t": "Szólj Izrael fiainak, mondván: Aki békeáldozatot hoz az Úrnak, áldozatából vigyen ajándékot az Úrnak."
+  },
+  {
+    "i": 2907,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 30,
+    "t": "Saját kezeivel vigye el az Úr tűzáldozatát; a kövérséget a mellel együtt vigye el, hogy meglóbálja a mellet az Úr előtt."
+  },
+  {
+    "i": 2908,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 31,
+    "t": "A pap füstölögtesse el a kövérséget az oltáron; a mell pedig legyen Ároné és fiaink."
+  },
+  {
+    "i": 2909,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 32,
+    "t": "Békeáldozataitokból emeljetek föl a papnak a jobb combot."
+  },
+  {
+    "i": 2910,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 33,
+    "t": "A jobb comb legyen annak a papnak a része, aki bemutatja a békeáldozat vérét és kövérségét."
+  },
+  {
+    "i": 2911,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 34,
+    "t": "Mert a békeáldozataikból a meglóbált mellet és a felemelt combot Izrael fiaitól elvettem, és Áron papnak és fiainak adtam örök törvényként Izrael fiaitól."
+  },
+  {
+    "i": 2912,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 35,
+    "t": "Ez Áronnak és fiainak a része az Úr tűzáldozataiból azon a napon, amelyen odaállította őket, hogy papjaim legyenek."
+  },
+  {
+    "i": 2913,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 36,
+    "t": "Ezt parancsolta az Úr, hogy adják meg nekik Izrael fiai azon a napon, amelyen fölkente őket; örök törvény ez nemzedékről nemzedékre."
+  },
+  {
+    "i": 2914,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 37,
+    "t": "Ez a törvény az égőáldozatról, az ételáldozatról, a bűnért való áldozatról, a vétekért való áldozatról, a fölavatásról és a békeáldozatról,"
+  },
+  {
+    "i": 2915,
+    "b": 2,
+    "c": 307,
+    "r": 307,
+    "o": 38,
+    "t": "amelyet az Úr parancsolt Mózesnek a Sinai hegyen azon a napon, amelyen megparancsolta Izrael fiainak, hogy ajánlják föl ajándékaikat az Úrnak a Sinai pusztában."
+  },
+  {
+    "i": 2916,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 1,
+    "t": "Szólt az Úr Mózesnek, mondván:"
+  },
+  {
+    "i": 2917,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 2,
+    "t": "Vedd Áront és vele együtt fiait, a ruhákat, a kenetnek olaját, a bűnért való áldozat tulkát, a két kost és a kovásztalan kenyér kosarát,"
+  },
+  {
+    "i": 2918,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 3,
+    "t": "és gyűjtsd össze az egész gyülekezetet a gyülekezés sátorának bejáratához."
+  },
+  {
+    "i": 2919,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 4,
+    "t": "Mózes úgy cselekedett, amint az Úr megparancsolta neki; és összegyűlt a gyülekezet a gyülekezés sátorának bejáratához."
+  },
+  {
+    "i": 2920,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 5,
+    "t": "És monda Mózes a gyülekezetnek: Ez az, amit az Úr megparancsolt, hogy megcselekedjétek."
+  },
+  {
+    "i": 2921,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 6,
+    "t": "Oda vezette Mózes Áront és fiait, és megmosta őket vízzel."
+  },
+  {
+    "i": 2922,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 7,
+    "t": "És ráadta a köntöst, felövezte az övvel, ráadta a palástot, és ráhelyezte a vállfodrot. Annak övét is rákötötte, és azzal szorította rá."
+  },
+  {
+    "i": 2923,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 8,
+    "t": "Rátette a melltáskát, és abba beletette az Úrimot és a Tummimot."
+  },
+  {
+    "i": 2924,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 9,
+    "t": "A fejére pedig rátette a süveget, a süveg előrészére pedig rátette az aranylemezt, a szent koronát, amint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2925,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 10,
+    "t": "Akkor fogta Mózes a kenetnek olaját, és megkente a hajlékot, és mindazt, ami benne volt, és megszentelte."
+  },
+  {
+    "i": 2926,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 11,
+    "t": "Hétszer hintett az oltárra, megkente az oltárt és minden hozzá tartozó eszközt, a mosdótartót és annak talpazatát, hogy megszentelje azokat."
+  },
+  {
+    "i": 2927,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 12,
+    "t": "Majd ráöntött a kenetnek olajából Áron fejére, és megkente, hogy megszentelje."
+  },
+  {
+    "i": 2928,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 13,
+    "t": "Oda vezette Mózes Áron fiait is, és felöltöztette őket köntösökbe, felövezte őket övekkel, és feltette rájuk a süvegeket, amint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2929,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 14,
+    "t": "Oda vezette a bűnért való áldozat tulkát is. Áron és fiai rátették kezüket a bűnért való áldozat tulkának fejére,"
+  },
+  {
+    "i": 2930,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 15,
+    "t": "és levágta azt. Mózes fogta a vért, ujjával az oltár szarvaira tette körös-körül, és megtisztította az oltárt. A többi vért pedig az oltár aljára öntötte, és így szentelte meg, engesztelést szerezve érte."
+  },
+  {
+    "i": 2931,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 16,
+    "t": "Fogta az összes kövérséget, mely a belek körül van, a májlebenyt, a két vesét és azok kövérségét, és elégette az oltáron."
+  },
+  {
+    "i": 2932,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 17,
+    "t": "A tulok bőrét, húsát és ganaját pedig elégette a táboron kívül, amint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2933,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 18,
+    "t": "Oda vezette az égőáldozat kost is. Áron és fiai rátették kezüket a kos fejére,"
+  },
+  {
+    "i": 2934,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 19,
+    "t": "és levágta azt. Mózes pedig kiontotta a vért az oltárra körös-körül."
+  },
+  {
+    "i": 2935,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 20,
+    "t": "A kost pedig feldarabolta, és elégette a fejet, a darabokat és a kövérséget."
+  },
+  {
+    "i": 2936,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 21,
+    "t": "A beleket és a lábszárakat megmosta vízzel, és elégette az egész kost az oltáron. Égőáldozat volt ez, kedves illat, tűzáldozat az Úrnak, amint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2937,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 22,
+    "t": "Oda vezette a másik kost, a felavatás kosát is. Áron és fiai rátették kezüket a kos fejére,"
+  },
+  {
+    "i": 2938,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 23,
+    "t": "és levágta azt. Mózes fogott a véréből, és tette Áron jobb fülének a csúcsára, jobb kezének a hüvelykujjára és jobb lábának a nagyujjára."
+  },
+  {
+    "i": 2939,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 24,
+    "t": "Oda vezette Mózes Áron fiait is, és tett a vérből jobb fülüknek a csúcsára, jobb kezüknek a hüvelykujjára és jobb lábuknak a nagyujjára. A többi vért pedig az oltárra öntötte körös-körül."
+  },
+  {
+    "i": 2940,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 25,
+    "t": "Fogta a kövérséget, a farkát, az összes kövérséget, mely a belek körül van, a májlebenyt, a két vesét és azok kövérségét, és a jobb combot."
+  },
+  {
+    "i": 2941,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 26,
+    "t": "A kovásztalan kenyerek kosarából, mely az Úr előtt volt, fogott egy kovásztalan lepényt, egy olajos kenyeret és egy pogácsát, és azokat a kövérségekre és a jobb combra tette."
+  },
+  {
+    "i": 2942,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 27,
+    "t": "Mindezeket Áron és fiai kezébe adta, és meglóbálta azokat az Úr előtt."
+  },
+  {
+    "i": 2943,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 28,
+    "t": "Majd Mózes visszavette a kezükből, és az égőáldozatra tette az oltáron. Felavatási áldozat volt ez, kedves illat, tűzáldozat az Úrnak."
+  },
+  {
+    "i": 2944,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 29,
+    "t": "A mellet pedig meglóbálta Mózes az Úr előtt. Ez a felavatás kosának a része lett Mózesnek, amint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2945,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 30,
+    "t": "Mózes vett a kenetnek olajából és a vérből, mely az oltáron volt, és meghintette Áront és ruháit, vele együtt fiait és ruháikat, és megszentelte Áront és ruháit, vele együtt fiait és ruháikat."
+  },
+  {
+    "i": 2946,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 31,
+    "t": "Mózes ezt mondta Áronnak és fiainak: Főzzétek meg a húst a gyülekezés sátorának bejáratánál, és ott egyétek meg a kosárban lévő kenyérrel együtt a felavatási áldozatból, amint megparancsoltam, mondván: Áron és fiai egyék meg."
+  },
+  {
+    "i": 2947,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 32,
+    "t": "Ami pedig a húsból és a kenyérből megmarad, azt égessétek el tűzben."
+  },
+  {
+    "i": 2948,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 33,
+    "t": "A gyülekezés sátorának bejáratától ne távozzatok el hét napig, míg be nem telik felavatásotok ideje, mert hét napig fog tartani felavatásotok."
+  },
+  {
+    "i": 2949,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 34,
+    "t": "Ahogy ma cselekedtünk, úgy parancsolta az Úr, hogy cselekedjetek engesztelésül tiérettetek."
+  },
+  {
+    "i": 2950,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 35,
+    "t": "A gyülekezés sátorának bejáratánál éjjel-nappal maradjatok hét napig, és tartsátok meg, amit az Úr megparancsolt, hogy meg ne haljatok, mert így parancsolta nekem."
+  },
+  {
+    "i": 2951,
+    "b": 2,
+    "c": 308,
+    "r": 308,
+    "o": 36,
+    "t": "És megtette Áron és fiai mindazt, amit az Úr Mózes által parancsolt."
+  },
+  {
+    "i": 2952,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 1,
+    "t": "A nyolcadik napon összehívta Mózes Áront, fiait és Izrael véneit."
+  },
+  {
+    "i": 2953,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 2,
+    "t": "És monda Áronnak: Végy egy borjút bűnért való áldozatul és egy kost égőáldozatul, mindkettőt hibátlant, és vidd azokat az Úr elé."
+  },
+  {
+    "i": 2954,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 3,
+    "t": "Izrael fiaihoz pedig szólj, mondván: Vegyetek egy kecskebakot bűnért való áldozatul, egy borjút és egy bárányt, egy esztendőst, hibátlanokat égőáldozatul,"
+  },
+  {
+    "i": 2955,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 4,
+    "t": "egy ökröt és egy kost békeáldozatul, hogy levágjátok az Úr előtt, és ételáldozatot, olajjal elegyítettet, mert ma megjelenik nektek az Úr."
+  },
+  {
+    "i": 2956,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 5,
+    "t": "És elvitték mindazt, amit Mózes parancsolt, a gyülekezés sátora elé; és oda ment az egész gyülekezet, és megálltak az Úr előtt."
+  },
+  {
+    "i": 2957,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 6,
+    "t": "És monda Mózes: Ezt parancsolta az Úr, hogy megcselekedjétek, hogy megjelenjék nektek az Úr dicsősége."
+  },
+  {
+    "i": 2958,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 7,
+    "t": "Mózes ezt mondta Áronnak: Lépj az oltárhoz, készítsd el bűnért való áldozatodat és égőáldozatodat, és végezz engesztelést magadért és házad népéért. Azután készítsd el a nép áldozatát, és végezz engesztelést érettük, amint az Úr megparancsolta."
+  },
+  {
+    "i": 2959,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 8,
+    "t": "Áron az oltárhoz lépett, és levágta a bűnért való áldozat borját, mely önmagáért való áldozat volt."
+  },
+  {
+    "i": 2960,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 9,
+    "t": "Áron fiai odavitték hozzá a vért, és bele mártotta ujját a vérbe, és az oltár szarvaira tette, a többi vért pedig az oltár aljára öntötte."
+  },
+  {
+    "i": 2961,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 10,
+    "t": "A bűnért való áldozat kövérségét, a veséket és a májlebenyt pedig elégette az oltáron, amint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2962,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 11,
+    "t": "A húst és a bőrt pedig elégette a táboron kívül."
+  },
+  {
+    "i": 2963,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 12,
+    "t": "Azután levágta az égőáldozatot, és Áron fiai odavitték hozzá a vért, és ráhintette az oltárra körös-körül."
+  },
+  {
+    "i": 2964,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 13,
+    "t": "Oda vitték az égőáldozatot is feldarabolva, a fejével együtt, és elégette az oltáron."
+  },
+  {
+    "i": 2965,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 14,
+    "t": "Megmosta a beleket és a lábszárakat, és elégette az égőáldozaton felül az oltáron."
+  },
+  {
+    "i": 2966,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 15,
+    "t": "A nép áldozatát is elvitte, és fogta a nép bűnért való áldozatául a kecskebakot, levágta, és elkészítette azt a bűnért való áldozatot, mint az előbbit."
+  },
+  {
+    "i": 2967,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 16,
+    "t": "Azután elvitte az égőáldozatot, és elkészítette azt a szokás szerint."
+  },
+  {
+    "i": 2968,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 17,
+    "t": "Elvitte az ételáldozatot is, megtöltötte abból a markát, és elégette az oltáron a reggeli égőáldozaton felül."
+  },
+  {
+    "i": 2969,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 18,
+    "t": "Levágta az ökröt és a kost, a nép békeáldozatát. Áron fiai odavitték hozzá a vért, és ráhintette az oltárra körös-körül."
+  },
+  {
+    "i": 2970,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 19,
+    "t": "A kövérségeket is az ökörtől és a kostól, a farkát, a belek körül levő kövérséget, a veséket és a májlebenyt,"
+  },
+  {
+    "i": 2971,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 20,
+    "t": "a mellekre tette, és elégette a kövérségeket az oltáron."
+  },
+  {
+    "i": 2972,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 21,
+    "t": "A melleket és a jobb combot pedig meglóbálta Áron az Úr előtt, amint Mózes parancsolta."
+  },
+  {
+    "i": 2973,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 22,
+    "t": "Áron fölemelte kezeit a nép felé, és megáldotta őket. Azután lement a bűnért való áldozat, az égőáldozat és a békeáldozat elkészítése után."
+  },
+  {
+    "i": 2974,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 23,
+    "t": "Bement Mózes és Áron a gyülekezés sátorába, majd kijöttek, és megáldották a népet. És megjelent az Úr dicsősége az egész népnek."
+  },
+  {
+    "i": 2975,
+    "b": 2,
+    "c": 309,
+    "r": 309,
+    "o": 24,
+    "t": "Tűz jött ki az Úr színe elől, és megemésztette az oltáron az égőáldozatot és a kövérségeket. Amikor ezt látta az egész nép, kiáltottak, és arcra borultak."
+  },
+  {
+    "i": 2976,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 1,
+    "t": "Áron fiai, Nádáb és Abihu, fogták a serpenyőjüket, tüzet tettek bele, ráraktak tömjént, és idegen tüzet vittek az Úr elé, amit nem parancsolt nekik."
+  },
+  {
+    "i": 2977,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 2,
+    "t": "Akkor tűz jött ki az Úr színe elől, és megemésztette őket, és meghaltak az Úr előtt."
+  },
+  {
+    "i": 2978,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 3,
+    "t": "Mózes ezt mondta Áronnak: Ezt mondta az Úr: Akik hozzám közel vannak, azokon mutatom meg szentségemet, és az egész nép előtt dicső leszek. Áron pedig hallgatott."
+  },
+  {
+    "i": 2979,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 4,
+    "t": "Mózes odahívta Misáelt és Elcáfánt, Uzzielnek, Áron nagybátyjának a fiait, és azt mondta nekik: Járuljatok ide, vigyétek el testvéreiteket a szenthely elől a táboron kívülre."
+  },
+  {
+    "i": 2980,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 5,
+    "t": "Előjöttek azért, és elvitték őket az ő köntöseikben a táboron kívülre, a mint Mózes mondotta vala."
+  },
+  {
+    "i": 2981,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 6,
+    "t": "Monda pedig Mózes Áronnak és az ő fiainak, Eleázárnak és Ithamárnak: A ti fejeteket ne hagyjátok meztelenen, se a ti ruháitokat meg ne szaggassátok, hogy meg ne haljatok, és az egész gyülekezetre ne gerjedjen harag; a ti atyátokfiai pedig, Izráelnek egész háza sirassa meg azt az égetést, a melyet az Úr gyújtott."
+  },
+  {
+    "i": 2982,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 7,
+    "t": "A gyülekezet sátorának nyílásából se menjetek ki, hogy meg ne haljatok, mert az Úr kenete van rajtatok. És cselekedének Mózes beszéde szerint."
+  },
+  {
+    "i": 2983,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 8,
+    "t": "Szóla ismét az Úr Áronnak, mondván:"
+  },
+  {
+    "i": 2984,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 9,
+    "t": "Bort és részegítő italt ne igyatok te és a te fiaid veled, mikor bementek a gyülekezet sátorába, hogy meg ne haljatok; örök rendtartás ez a ti nemzetségeitekre."
+  },
+  {
+    "i": 2985,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 10,
+    "t": "Hogy megkülönböztessétek a szentet a közönségestől, és a tisztát a tisztátalantól;"
+  },
+  {
+    "i": 2986,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 11,
+    "t": "És hogy megtanítsátok Izráel fiait minden rendelésre, a melyeket az Úr szólt nékik Mózes által."
+  },
+  {
+    "i": 2987,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 12,
+    "t": "És szóla Mózes Áronnak és az ő megmaradt fiainak, Eleázárnak és Ithamárnak: Vegyétek a maradékot a tűzáldozatból, és egyétek meg kovásztalanul az oltár mellett; mert igen szentséges az."
+  },
+  {
+    "i": 2988,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 13,
+    "t": "És szent helyen egyétek meg, mert ez a te és a te fiaid része az Úrnak tűzáldozatai közül; mert így parancsoltatott nékem."
+  },
+  {
+    "i": 2989,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 14,
+    "t": "A meglóbált mellet és a felemelt combot pedig egyétek meg tiszta helyen, te és a te fiaid és leányaid veled; mert a te részedül és a te fiaid részeként adattak azok Izráel fiainak hálaáldozataiból."
+  },
+  {
+    "i": 2990,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 15,
+    "t": "A felemelt combot és a meglóbált mellet a kövérséggel együtt hozzák, hogy meglóbálják az Úr előtt; és a tiéd legyen, és a te fiaidé veled örök rendtartás szerint, a mint az Úr megparancsolta."
+  },
+  {
+    "i": 2991,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 16,
+    "t": "És kereste Mózes a bűnért való kecskét, és ímé elégették azt. Megharagudott azért Eleázárra és Ithamárra, Áronnak megmaradt fiaira, mondván:"
+  },
+  {
+    "i": 2992,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 17,
+    "t": "Miért nem ettétek meg a bűnért való áldozatot a szent helyen? Mert igen szentséges az; és néktek adta azt, hogy elhordozzátok a gyülekezet álnokságát, hogy engesztelést szerezzetek nékik az Úr előtt."
+  },
+  {
+    "i": 2993,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 18,
+    "t": "Ímé, annak vére nem vitetett be a szent helyre: meg kellett volna azt nektek ennetek a szent helyen, a mint én megparancsoltam."
+  },
+  {
+    "i": 2994,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 19,
+    "t": "Monda Áron Mózesnek: Ímé, ma hozták az ő bűnért való áldozatukat és égőáldozatukat az Úr elé, és én azt míveltem, a mit látod; ha ettem volna ma a bűnért való áldozatból, vajjon tetszett volna-é az az Úrnak?"
+  },
+  {
+    "i": 2995,
+    "b": 2,
+    "c": 310,
+    "r": 310,
+    "o": 20,
+    "t": "És mikor ezt Mózes hallotta, tetszett az ő szemei előtt."
+  },
+  {
+    "i": 2996,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 1,
+    "t": "És szóla az Úr Mózesnek és Áronnak, mondván nékik:"
+  },
+  {
+    "i": 2997,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 2,
+    "t": "Szóljatok Izráel fiainak, mondván: Ezek azok az állatok, a melyeket megehettek minden szárazföldi állat közül:"
+  },
+  {
+    "i": 2998,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 3,
+    "t": "Mindazt az állatot, a melynek hasadt körme van, és egészen ketté hasadt körme van, és a mely kérődzik, megehetitek."
+  },
+  {
+    "i": 2999,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 4,
+    "t": "Mindazáltal e között ne egyetek azokból, a melyek kérődznek, vagy a melyeknek hasadt körme van: a tevét, mert kérődzik ugyan, de körme nincsen, tisztátalan legyen az néktek."
+  }
+]

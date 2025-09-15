@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17600,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 11,
+    "t": "Slová múdreho sú ako ostne, a ako kliny vrazené od pastierov stáda; sú dané od jedného pastiera."
+  },
+  {
+    "i": 17601,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 12,
+    "t": "Okrem toho, syn môj, buď varovaný, že robiť knihy je práca bez konca, a mnoho štúdia unavuje telo."
+  },
+  {
+    "i": 17602,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 13,
+    "t": "Koniec reči. Všetko je počuté. Boj sa Boha a zachovávaj Jeho prikázania, lebo to je povinnosťou každého človeka."
+  },
+  {
+    "i": 17603,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 14,
+    "t": "Lebo Boh privedie na súd všetky skutky človeka, všetko, čo je skryté, či je to dobré alebo zlé."
+  },
+  {
+    "i": 17604,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 1,
+    "t": "Pieseň piesní, od Šalamúna."
+  },
+  {
+    "i": 17605,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 2,
+    "t": "Nech ma pobozká bozkami svojich úst. Tvoje lásky sú lahodnejšie ako víno;"
+  },
+  {
+    "i": 17606,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 3,
+    "t": "vôňa tvojich parfumov je prenikavá; tvoje meno je olej vyliaty, preto ťa milujú mladé panny."
+  },
+  {
+    "i": 17607,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 4,
+    "t": "Pridaj sa ku mne na tvoje kroky, bežme! Kráľ ma uviedol do svojich komnát; budeš našou radosťou a naším potešením. Oslávime tvoje lásky viac ako víno; ako je spravodlivé ťa milovať!"
+  },
+  {
+    "i": 17608,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 5,
+    "t": "Som čierna, a predsa krásna, dcéry jeruzalemské, ako stany Kédara, ako pavučiny Salma."
+  },
+  {
+    "i": 17609,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 6,
+    "t": "Nehľaďte na moju opálenú pleť: slnko ma spálilo. Synovia mojej matky sa proti mne rozhnevali, postavili ma strážiť vinice. Svoju vlastnú vinicu som nestrážila!"
+  },
+  {
+    "i": 17610,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 7,
+    "t": "Povedz mi teda, ty, ktorého moje srdce miluje: Kde budeš pásť stádo, kde ho necháš odpočinúť na poludnie? Aby som sa viac nepotulovala, pri stádach tvojich spoločníkov."
+  },
+  {
+    "i": 17611,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 8,
+    "t": "Ak to nevieš, ó najkrajšia zo žien, nasleduj stopy stáda a pas svoje kozliatka pri obydlí pastierov."
+  },
+  {
+    "i": 17612,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 9,
+    "t": "K mojej kobyle, zapriahnutej do faraónovho voza, ťa prirovnávam, moja milovaná."
+  },
+  {
+    "i": 17613,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 10,
+    "t": "Tvoje líca sú krásne medzi náušnicami a tvoj krk v náhrdelníkoch."
+  },
+  {
+    "i": 17614,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 11,
+    "t": "dcéry jeruzalemské"
+  },
+  {
+    "i": 17615,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 12,
+    "t": "Urobíme ti zlaté prívesky a strieborné guľôčky. —"
+  },
+  {
+    "i": 17616,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 13,
+    "t": "Zatiaľ čo kráľ je vo svojom ohradení, môj nard vydáva svoju vôňu."
+  },
+  {
+    "i": 17617,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 14,
+    "t": "Môj milý je vrecúško myrhy, ktoré spočíva medzi mojimi prsiami."
+  },
+  {
+    "i": 17618,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 15,
+    "t": "Môj milý je strapec cyprusu vo viniciach En-Gaddi. —"
+  },
+  {
+    "i": 17619,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 16,
+    "t": "Aká si krásna, moja milovaná, aká si krásna! Tvoje oči sú holubice. —"
+  },
+  {
+    "i": 17620,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 17,
+    "t": "Aký si krásny, môj milý, aký lahodný! Naša posteľ je len zeleň. —"
+  },
+  {
+    "i": 17621,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 1,
+    "t": "Trámy nášho domu sú z cédra, naše obloženie z cyprusu. —"
+  },
+  {
+    "i": 17622,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 2,
+    "t": "Som narcis zo Sárona, ľalia z údolí. —"
+  },
+  {
+    "i": 17623,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 3,
+    "t": "Ako ľalia medzi tŕním, tak moja milovaná medzi mladými ženami. —"
+  },
+  {
+    "i": 17624,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 4,
+    "t": "Ako jabloň medzi stromami v sade, tak môj milý medzi mladými mužmi. V jeho vytúženom tieni som sa posadila a jeho ovocie je sladké môjmu podnebiu."
+  },
+  {
+    "i": 17625,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 5,
+    "t": "Viedol ma do pivnice a zástava, ktorú nado mnou vztýčil, je láska."
+  },
+  {
+    "i": 17626,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 6,
+    "t": "Podoprite ma koláčmi z hrozna, osviežte ma jablkami, lebo som chorá z lásky."
+  },
+  {
+    "i": 17627,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 7,
+    "t": "Jeho ľavá ruka je pod mojou hlavou a jeho pravá ma objíma. —"
+  },
+  {
+    "i": 17628,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 8,
+    "t": "Zaprisahám vás, dcéry jeruzalemské, na gazely, na lane polné, neprebúdzajte, neprebúdzajte moju lásku, kým sa Jej to nepáči."
+  },
+  {
+    "i": 17629,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 9,
+    "t": "Počujem svojho milého. Hľa, prichádza, skáče po horách, poskakuje po kopcoch."
+  },
+  {
+    "i": 17630,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 10,
+    "t": "Môj milý sa podobá gazele, mladému jeleňovi. Hľa, stojí za naším múrom. Vyzerá oknom, nazerá cez mriežku."
+  },
+  {
+    "i": 17631,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 11,
+    "t": "Môj milý zdvihne hlas a hovorí mi: \"Vstaň, moja milovaná, moja krásna, poď."
+  },
+  {
+    "i": 17632,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 12,
+    "t": "Lebo hľa, zima prešla, s dažďami je koniec, zmizli."
+  },
+  {
+    "i": 17633,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 13,
+    "t": "Na našej zemi sa ukazujú kvety. Prichádza obdobie veselých refrénov, na našej zemi je počuť hrkútanie hrdličky."
+  },
+  {
+    "i": 17634,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 14,
+    "t": "Figovník tvorí svoje prvé plody a kvitnúce vinice vydávajú svoju vôňu. Vstaň, moja milovaná, moja krásna, poď!"
+  },
+  {
+    "i": 17635,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 15,
+    "t": "Moja holubica, skrytá v dutine skál, v strmých útočiskách, ukáž mi svoju tvár, daj mi počuť svoj hlas; lebo tvoj hlas je sladký a pôvabná tvoja tvár."
+  },
+  {
+    "i": 17636,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 16,
+    "t": "Chyťte nám líšky, malé líšky, ktoré pustošia vinice, lebo naše vinice kvitnú."
+  },
+  {
+    "i": 17637,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 17,
+    "t": "Môj milý je môj a ja som jeho. Pasie svoje stádo medzi ľaliami."
+  },
+  {
+    "i": 17638,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 1,
+    "t": "Skôr, ako zafúka denný vánok a utečú tiene, vráť sa! Buď podobný, môj milý, gazele, mladému jeleňovi, na horách Béteru."
+  },
+  {
+    "i": 17639,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 2,
+    "t": "Na svojom lôžku v noci som hľadala toho, ktorého moje srdce miluje. Hľadala som ho, ale nenašla som ho!"
+  },
+  {
+    "i": 17640,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 3,
+    "t": "Vstanem teda a prejdem mestom. V uliciach a na námestiach budem hľadať toho, ktorého moje srdce miluje. Hľadala som ho, ale nenašla som ho!"
+  },
+  {
+    "i": 17641,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 4,
+    "t": "Stretli ma stráže, tí, ktorí robia obchôdzky po meste: \"Videli ste toho, ktorého moje srdce miluje?"
+  },
+  {
+    "i": 17642,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 5,
+    "t": "Len čo som ich prešla, našla som toho, ktorého moje srdce miluje. Uchopila som ho a nepustím ho, kým ho neprivediem do domu svojej matky, do izby tej, ktorá ma počala."
+  },
+  {
+    "i": 17643,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 6,
+    "t": "Zaprisahám vás, dcéry jeruzalemské, na gazely, na lane polné, neprebúdzajte, neprebúdzajte moju lásku, kým sa Jej to nepáči."
+  },
+  {
+    "i": 17644,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 7,
+    "t": "Čo je to, čo vystupuje z púšte, ako stĺp dymu, výpar myrhy a kadidla a všetkých exotických vôní?"
+  },
+  {
+    "i": 17645,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 8,
+    "t": "Hľa, nosidlá Šalamúna. Obklopuje ich šesťdesiat udatných, elita udatných Izraela:"
+  },
+  {
+    "i": 17646,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 9,
+    "t": "všetci skúsení v manipulácii s mečom, veteráni bojov. Každý má meč pri boku, obávajúc sa prekvapení noci."
+  },
+  {
+    "i": 17647,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 10,
+    "t": "Kráľ Šalamún si dal urobiť nosidlá z dreva Libanonu."
+  },
+  {
+    "i": 17648,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 11,
+    "t": "Stĺpy na ňom urobil zo striebra, baldachýn zo zlata, sedadlo z purpuru. Dno je intarzia z ebenu."
+  },
+  {
+    "i": 17649,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 1,
+    "t": "Poďte sa pozrieť, dcéry Siona, na kráľa Šalamúna, s diadémom, ktorým ho korunovala jeho matka v deň jeho svadby, v deň radosti jeho srdca."
+  },
+  {
+    "i": 17650,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 2,
+    "t": "Aká si krásna, moja milovaná, aká si krásna! Tvoje oči sú holubice, za tvojím závojom, tvoje vlasy ako stádo kôz, vlniace sa na svahoch vrchu Gileád."
+  },
+  {
+    "i": 17651,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 3,
+    "t": "Tvoje zuby, stádo oviec, ktoré strihajú, ktoré sa vracajú z kúpeľa. Každá má svojho dvojča a žiadna nie je ochudobnená."
+  },
+  {
+    "i": 17652,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 4,
+    "t": "Tvoje pery, niť šarlátová a tvoje prejavy sú prenikavé. Tvoje líca, polovice granátových jabĺk, za tvojím závojom."
+  },
+  {
+    "i": 17653,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 5,
+    "t": "Tvoj krk, veža Dávidova, postavená vrstvami. Visí na ňom tisíc terčov, všetky štíty udatných."
+  },
+  {
+    "i": 17654,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 6,
+    "t": "Tvoje dva prsia, dve mláďatá, dvojičky gazely, ktoré sa pasú medzi ľaliami."
+  },
+  {
+    "i": 17655,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 7,
+    "t": "Skôr, ako zafúka denný vánok a utečú tiene, pôjdem na horu myrhy, na kopec kadidla."
+  },
+  {
+    "i": 17656,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 8,
+    "t": "Si celá krásna, moja milovaná, a bez akejkoľvek škvrny!"
+  },
+  {
+    "i": 17657,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 9,
+    "t": "Poď z Libanonu, ó nevesta, poď z Libanonu, urob svoj vstup. Spusti svoj pohľad z vrcholov Amana, z vrcholov Saniru a Hermona, z úkrytu levov, z hôr leopardov."
+  },
+  {
+    "i": 17658,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 10,
+    "t": "Privádzaš ma do šialenstva, sestra moja, ó nevesta, privádzaš ma do šialenstva jediným svojím pohľadom, jedným krúžkom zo svojho náhrdelníka!"
+  },
+  {
+    "i": 17659,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 11,
+    "t": "Aká očarujúca je tvoja láska, sestra moja, ó nevesta. Aká lahodná je tvoja láska, viac ako víno! A vôňa tvojich parfumov, viac ako všetky balzamy!"
+  },
+  {
+    "i": 17660,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 12,
+    "t": "Tvoje pery, ó nevesta, destilujú panenský med. Med a mlieko sú pod tvojím jazykom; a vôňa tvojho odevu je ako vôňa Libanonu."
+  },
+  {
+    "i": 17661,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 13,
+    "t": "Je to záhrada dobre uzavretá, moja sestra, ó nevesta; záhrada dobre uzavretá, prameň zapečatený."
+  },
+  {
+    "i": 17662,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 14,
+    "t": "Tvoje trysky tvoria sad granátovníkov, s najlahodnejšími plodmi:"
+  },
+  {
+    "i": 17663,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 15,
+    "t": "nard a šafran, voňavá trstina a cinnamom, so všetkými stromami kadidla; myrha a aloe, s najjemnejšími vôňami."
+  },
+  {
+    "i": 17664,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 16,
+    "t": "Prameň záhrad, studňa živej vody, šumenie Libanonu!"
+  },
+  {
+    "i": 17665,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 1,
+    "t": "Vstaň, severný vietor, ponáhľaj sa, južný vietor! Fúkajte na moju záhradu, nech destiluje svoje aromatické látky! Nech môj milý vstúpi do svojej záhrady a nech ochutná jej lahodné plody!"
+  },
+  {
+    "i": 17666,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 2,
+    "t": "Vstupujem do svojej záhrady, sestra moja, ó nevesta, zberám svoju myrhu a svoj balzam, jem svoj med a svoj plást, pijem svoje víno a svoje mlieko. Jedzte, priatelia, pite, opojte sa, moji milovaní!"
+  },
+  {
+    "i": 17667,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 3,
+    "t": "Spím, ale moje srdce bdie. Počujem svojho milého, ako klope. \"Otvor mi, sestra moja, priateľka moja, holubica moja, dokonalá moja! Lebo moja hlava je pokrytá rosou, moje kučery kvapkami noci\" —"
+  },
+  {
+    "i": 17668,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 4,
+    "t": "\"Zložila som si tuniku, ako si ju znova oblečiem? Umyla som si nohy, ako si ich zašpiním?"
+  },
+  {
+    "i": 17669,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 5,
+    "t": "Môj milý vložil ruku cez štrbinu a moje vnútornosti sa pre neho zachveli."
+  },
+  {
+    "i": 17670,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 6,
+    "t": "Vstala som, aby som otvorila svojmu milému a z mojich rúk stiekla myrha, z mojich prstov panenská myrha, na rukoväť závory."
+  },
+  {
+    "i": 17671,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 7,
+    "t": "Otvorila som svojmu milému, ale otočil sa chrbtom, zmizol! Jeho útek ma nechal vydýchnuť dušu. Hľadala som ho, ale nenašla som ho, volala som ho, ale neodpovedal mi!"
+  },
+  {
+    "i": 17672,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 8,
+    "t": "Stretli ma stráže, tí, ktorí robia obchôdzky po meste. Udreli ma, zranili ma, vzali mi plášť, tí, ktorí strážia hradby."
+  },
+  {
+    "i": 17673,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 9,
+    "t": "Zaprisahám vás, dcéry jeruzalemské, ak nájdete môjho milého, čo mu oznámite? Že som chorá z lásky."
+  },
+  {
+    "i": 17674,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 10,
+    "t": "Čo má tvoj milý viac ako ostatní, ó najkrajšia zo žien? Čo má tvoj milý viac ako ostatní, že nás takto zaprisahávaš?"
+  },
+  {
+    "i": 17675,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 11,
+    "t": "Môj milý je svieži a červený. Rozpozná sa medzi desiatimi tisícmi."
+  },
+  {
+    "i": 17676,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 12,
+    "t": "Jeho hlava je zo zlata a z čistého zlata; jeho kučery sú palmy, čierne ako havran."
+  },
+  {
+    "i": 17677,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 13,
+    "t": "Jeho oči sú holubice, na brehu vodných tokov, kúpajúce sa v mlieku, umiestnené na okraji kade."
+  },
+  {
+    "i": 17678,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 14,
+    "t": "Jeho líca sú ako záhony aromatických látok, voňavé masívy. Jeho pery sú ľalie; destilujú panenskú myrhu."
+  },
+  {
+    "i": 17679,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 15,
+    "t": "Jeho ruky sú zlaté gule, zdobené kameňmi z Taršiša. Jeho brucho je masa zo slonoviny, pokrytá zafírmi."
+  },
+  {
+    "i": 17680,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 16,
+    "t": "Nohy jej stĺpy sú z alabastru, položené na základoch z rýdzeho zlata. Zjav jej ako Libanon, neprekonateľný ako cédre."
+  },
+  {
+    "i": 17681,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 1,
+    "t": "Ústa jej sú sladkosť sama, a všetko v nej je len pôvab. Taký je môj milý, taký je môj ženích, dcéry jeruzalemské."
+  },
+  {
+    "i": 17682,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 2,
+    "t": "Kam odišiel tvoj milý, ó najkrásnejšia zo žien? Kam sa obrátil tvoj milý, že ho hľadáme s tebou?"
+  },
+  {
+    "i": 17683,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 3,
+    "t": "Môj milý zostúpil do svojej záhrady, k voňavým záhonom, aby pásol svoje stádo v záhradách a zbieral ľalie."
+  },
+  {
+    "i": 17684,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 4,
+    "t": "Ja som svojho milého, a môj milý je môj! Pasie svoje stádo medzi ľaliami."
+  },
+  {
+    "i": 17685,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 5,
+    "t": "Krásna si, priateľka moja, ako Tirca, pôvabná ako Jeruzalem, hrozná ako vojsko zástupov."
+  },
+  {
+    "i": 17686,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 6,
+    "t": "Odvráť odo mňa svoje oči, lebo ma premáhajú! Vlasy tvoje sú stádo kôz, ktoré sa vlnia na svahoch Galaadu."
+  },
+  {
+    "i": 17687,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 7,
+    "t": "Zuby tvoje sú stádo oviec, ktoré vystupujú z kúpeľa. Každá má svoju dvojicu a žiadna nie je bez nej."
+  },
+  {
+    "i": 17688,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 8,
+    "t": "Je šesťdesiat kráľovien a osemdesiat konkubín! (a mladých diev bez počtu.)"
+  },
+  {
+    "i": 17689,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 9,
+    "t": "Jediná je moja holubica, moja dokonalá. Ona je jediná od svojej matky, najmilšia od tej, ktorá ju porodila. Mladé ženy ju videli a oslavovali, kráľovné a konkubíny ju velebia:"
+  },
+  {
+    "i": 17690,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 10,
+    "t": "„Kto je táto, ktorá vychádza ako zornička, krásna ako mesiac, žiarivá ako slnko, hrozná ako vojsko zástupov?“"
+  },
+  {
+    "i": 17691,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 11,
+    "t": "Do orechovej záhrady som zostúpil, aby som videl mladé výhonky údolia, aby som videl, či vinič pučí, či granátovníky kvitnú."
+  },
+  {
+    "i": 17692,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 12,
+    "t": "Neviem, ale moja túžba ma uniesla na vozoch Aminadibových!"
+  },
+  {
+    "i": 17693,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 1,
+    "t": "Vráť sa, vráť sa, Sulamitka; vráť sa, vráť sa, aby sme ťa videli! Prečo hľadíte na Sulamitku, tancujúcu ako v dvojitom zbore?"
+  },
+  {
+    "i": 17694,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 2,
+    "t": "Aké krásne sú tvoje nohy v sandáloch, dcéra kniežaťa! Krivka tvojich bokov je ako náhrdelník, dielo rúk umelca."
+  },
+  {
+    "i": 17695,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 3,
+    "t": "Tvoj pupok tvorí pohár, nech v ňom nechýba víno! Tvoje brucho, kopa pšenice, obklopená ľaliami."
+  },
+  {
+    "i": 17696,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 4,
+    "t": "Tvoje dve prsia sa podobajú dvom mláďatám, dvojčatám gazely."
+  },
+  {
+    "i": 17697,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 5,
+    "t": "Tvoj krk, veža zo slonoviny. Tvoje oči, rybníky Hešbónu, pri bráne Bat-Rabím. Tvoj nos, veža Libanonu, strážca obrátený k Damasku."
+  },
+  {
+    "i": 17698,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 6,
+    "t": "Tvoja hlava sa týči, podobná Karmelu, a jej vrkoče sú ako purpur; kráľ je zajatý tvojimi kučerami."
+  },
+  {
+    "i": 17699,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 7,
+    "t": "Aká si krásna, aká si pôvabná, ó láska, ó potešenie!"
+  }
+]

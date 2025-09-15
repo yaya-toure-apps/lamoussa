@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26400,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 10,
+    "t": "Lakomec sporí chlieb a núdza obýva jeho stôl."
+  },
+  {
+    "i": 26401,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 11,
+    "t": "Syn môj, ak máš dosť, dobre si uži a obety, ktoré Pán žiada, mu obetuj."
+  },
+  {
+    "i": 26402,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 12,
+    "t": "Pamätaj, že smrť neotáľa a že zmluva šeolu ti nebola zjavená."
+  },
+  {
+    "i": 26403,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 13,
+    "t": "Skôr ako zomrieš, dobre rob svojim priateľom a podľa svojich možností buď štedrý."
+  },
+  {
+    "i": 26404,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 14,
+    "t": "Neodopieraj si terajšiu radosť, nenechaj si nič ujsť z oprávnenej túžby."
+  },
+  {
+    "i": 26405,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 15,
+    "t": "Či nezanecháš svoj majetok iným? A tvoj majetok nebude rozdelený losom?"
+  },
+  {
+    "i": 26406,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 16,
+    "t": "Obetuj a prijímaj, zažeň svoje starosti, nie v šeole možno hľadať radosť."
+  },
+  {
+    "i": 26407,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 17,
+    "t": "Každé telo sa opotrebuje ako odev, večný zákon je, že treba zomrieť."
+  },
+  {
+    "i": 26408,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 18,
+    "t": "Ako zelené lístie na košatom strome raz padá a raz znova vyrastá, tak pokolenia tela a krvi: jedni umierajú a druhí sa rodia."
+  },
+  {
+    "i": 26409,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 19,
+    "t": "Každé skaziteľné dielo zanikne a jeho tvorca odíde s ním."
+  },
+  {
+    "i": 26410,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 20,
+    "t": "Blahoslavený muž, ktorý premýšľa o múdrosti a ktorý uvažuje s rozumnosťou,"
+  },
+  {
+    "i": 26411,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 21,
+    "t": "ktorý vo svojom srdci premýšľa o cestách múdrosti a ktorý sa venuje jej tajomstvám."
+  },
+  {
+    "i": 26412,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 22,
+    "t": "Nasleduje ju ako lovec, striehne na jej stopu;"
+  },
+  {
+    "i": 26413,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 23,
+    "t": "nakláňa sa k jej oknám a načúva pri jej dverách;"
+  },
+  {
+    "i": 26414,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 24,
+    "t": "postaví sa blízko jej obydlia a zatlčie kolík do jej múrov;"
+  },
+  {
+    "i": 26415,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 25,
+    "t": "rozloží si stan v blízkosti a usadí sa v útočisku šťastia;"
+  },
+  {
+    "i": 26416,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 26,
+    "t": "umiestni svoje deti pod jej ochranu a pod jej vetvami nájde úkryt;"
+  },
+  {
+    "i": 26417,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 27,
+    "t": "v jej tieni je chránený pred horúčavou a usadí sa v jej sláve."
+  },
+  {
+    "i": 26418,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 1,
+    "t": "Tak činí ten, kto sa bojí Pána; kto sa chopí zákona, prijme múdrosť."
+  },
+  {
+    "i": 26419,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 2,
+    "t": "Prichádza mu v ústrety ako matka, ako panenská nevesta ho víta;"
+  },
+  {
+    "i": 26420,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 3,
+    "t": "živí ho chlebom obozretnosti, dáva mu piť vodu múdrosti;"
+  },
+  {
+    "i": 26421,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 4,
+    "t": "opiera sa o ňu a nezakolíše, priľne k nej a nebude zahanbený."
+  },
+  {
+    "i": 26422,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 5,
+    "t": "Povyšuje ho nad jeho spoločníkov, uprostred zhromaždenia mu otvára ústa."
+  },
+  {
+    "i": 26423,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 6,
+    "t": "Nachádza šťastie a korunu radosti, dostáva do podielu večnú slávu."
+  },
+  {
+    "i": 26424,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 7,
+    "t": "Nikdy ju nebudú vlastniť nerozumní a hriešnici ju nikdy neuvidia."
+  },
+  {
+    "i": 26425,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 8,
+    "t": "Stojí v úzadí od pýchy a klamári na ňu nepomyslia."
+  },
+  {
+    "i": 26426,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 9,
+    "t": "Chvála nepristane ústam hriešnika, pretože mu ju neudeľuje Pán."
+  },
+  {
+    "i": 26427,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 10,
+    "t": "Lebo v múdrosti sa prejavuje chvála a Pán ju vedie."
+  },
+  {
+    "i": 26428,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 11,
+    "t": "Nehovor: \"Pán ma prinútil hrešiť\", lebo nerobí to, čo sa mu hnusí."
+  },
+  {
+    "i": 26429,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 12,
+    "t": "Nehovor: \"On ma zviedol\", lebo nepotrebuje hriešnika."
+  },
+  {
+    "i": 26430,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 13,
+    "t": "Pán nenávidí každú ohavnosť a žiadna nie je milovaná tými, ktorí sa ho boja."
+  },
+  {
+    "i": 26431,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 14,
+    "t": "On na začiatku stvoril človeka a nechal ho na jeho rozhodnutí."
+  },
+  {
+    "i": 26432,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 15,
+    "t": "Ak chceš, zachováš prikázania, aby si zostal verný jeho dobrej vôli."
+  },
+  {
+    "i": 26433,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 16,
+    "t": "Pred teba položil oheň a vodu, podľa svojej túžby natiahni ruku."
+  },
+  {
+    "i": 26434,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 17,
+    "t": "Pred ľuďmi je život a smrť, podľa svojej vôle je im dané jedno alebo druhé."
+  },
+  {
+    "i": 26435,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 18,
+    "t": "Lebo veľká je múdrosť Pána, je všemohúci a vidí všetko."
+  },
+  {
+    "i": 26436,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 19,
+    "t": "Jeho pohľad je obrátený k tým, ktorí sa ho boja, sám pozná všetky skutky ľudí."
+  },
+  {
+    "i": 26437,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 20,
+    "t": "Nenariadil nikomu, aby bol bezbožný, nikomu nedal povolenie na hriech."
+  },
+  {
+    "i": 26438,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 1,
+    "t": "Netúž po početnom potomstve naničhodníkov a nemaj radosť z bezbožných synov."
+  },
+  {
+    "i": 26439,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 2,
+    "t": "Nech je ich akokoľvek, neraduj sa, ak nemajú bázeň pred Bohom."
+  },
+  {
+    "i": 26440,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 3,
+    "t": "Nespoliehaj sa na ich dlhý život, neočakávaj, že vydržia, lebo budeš nariekať nad predčasným smútkom, náhle spoznáš ich koniec. Áno, lepšie je jeden ako tisíc a zomrieť bez detí ako mať bezbožných synov."
+  },
+  {
+    "i": 26441,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 4,
+    "t": "Skrze jedného inteligentného človeka sa mesto zaľudňuje, ale rod perverzných bude zničený."
+  },
+  {
+    "i": 26442,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 5,
+    "t": "Videl som na vlastné oči veľa podobných vecí a na vlastné uši som počul silnejšie."
+  },
+  {
+    "i": 26443,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 6,
+    "t": "V zhromaždení hriešnikov sa zapaľuje oheň, v spurnom rode sa roznietil hnev."
+  },
+  {
+    "i": 26444,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 7,
+    "t": "Boh neodpustil dávnym obrom, ktorí sa vzbúrili, pyšní svojou mocou."
+  },
+  {
+    "i": 26445,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 8,
+    "t": "Neušetril mesto, kde býval Lot: ich pýcha sa mu hnusila."
+  },
+  {
+    "i": 26446,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 9,
+    "t": "Nemal zľutovanie s rodom zatratenia: s tými, ktorí sa chválili svojimi hriechmi. To všetko urobil pre národy s tvrdým srdcom a množstvom svojich svätých sa nerozrušil."
+  },
+  {
+    "i": 26447,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 10,
+    "t": "Rovnako zaobchádzal so šesťsto tisíc pešiakmi, ktorí sa spojili v tvrdosti svojho srdca. Bičuje a zľutúva sa, zraňuje a uzdravuje: Pán bdie súcitne a trestá."
+  },
+  {
+    "i": 26448,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 11,
+    "t": "Keby bol len jeden človek s tvrdým krkom, bolo by neslýchané, aby zostal bez trestu, lebo zľutovanie a hnev patria Pánovi mocnému v odpúšťaní, rozlievajúc hnev."
+  },
+  {
+    "i": 26449,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 12,
+    "t": "Ako veľké je jeho milosrdenstvo, tak veľké je jeho zatratenie, bude súdiť ľudí podľa ich skutkov."
+  },
+  {
+    "i": 26450,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 13,
+    "t": "Nenechá bez trestu hriešnika s jeho krádežami, nezmarí trpezlivosť zbožného človeka."
+  },
+  {
+    "i": 26451,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 14,
+    "t": "Bude brať do úvahy každý skutok lásky a každý bude zaobchádzaný podľa svojich skutkov."
+  },
+  {
+    "i": 26452,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 15,
+    "t": "Pán zatvrdil srdce faraónovi, aby ho nepoznal, aby dal poznať svoje činy pod nebom."
+  },
+  {
+    "i": 26453,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 16,
+    "t": "Celému stvoreniu sa prejavuje jeho zľutovanie, rozdelil svoje svetlo a svoj tieň medzi ľudí."
+  },
+  {
+    "i": 26454,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 17,
+    "t": "Nehovor: \"Skryjem sa, aby som unikol Pánovi; tam hore, kto si na mňa spomenie? Uprostred davu nebudem rozpoznaný, čo som v nesmiernom stvorení?"
+  },
+  {
+    "i": 26455,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 18,
+    "t": "Hľa, nebo, najvyššie z nebies, priepasť a zem sa trasú pri jeho návšteve. Celý vesmír bol stvorený a existuje jeho vôľou."
+  },
+  {
+    "i": 26456,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 19,
+    "t": "Zároveň sa hory a základy zeme trasú pod jeho pohľadom."
+  },
+  {
+    "i": 26457,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 20,
+    "t": "Ale nad tým všetkým sa nerozmýšľa; kto sa teda zaujíma o jeho cesty?"
+  },
+  {
+    "i": 26458,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 21,
+    "t": "Búrka tiež zostáva neviditeľná, väčšina jeho diel je v tajnosti."
+  },
+  {
+    "i": 26459,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 22,
+    "t": "\"Skutky spravodlivosti, kto ich ohlási? Kto na ne bude čakať? Lebo dekrét je ďaleko.\" Vyšetrovanie všetkého sa uskutoční na konci."
+  },
+  {
+    "i": 26460,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 23,
+    "t": "Krátky rozum má ten, kto má takéto úvahy; nerozumný, zblúdený, sníva len o hlúpostiach."
+  },
+  {
+    "i": 26461,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 24,
+    "t": "Počúvaj ma, syn môj, a získaj poznanie, prikláňaj svoje srdce k mojim slovám."
+  },
+  {
+    "i": 26462,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 25,
+    "t": "S mierou ti odhalím disciplínu, s starostlivosťou vyhlásim poznanie."
+  },
+  {
+    "i": 26463,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 26,
+    "t": "Keď na začiatku Pán stvoril svoje diela, hneď ako boli hotové, priradil im miesto."
+  },
+  {
+    "i": 26464,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 27,
+    "t": "Nariadil svoje diela na večnosť, od ich pôvodu až po ich vzdialené generácie. Netrpia hlad ani únavu a nikdy neopúšťajú svoju úlohu."
+  },
+  {
+    "i": 26465,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 28,
+    "t": "Žiadne sa nikdy nestretlo s iným a nikdy neposlúchajú jeho slovo."
+  },
+  {
+    "i": 26466,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 29,
+    "t": "Potom Pán uprel oči na zem a naplnil ju svojimi dobrotami."
+  },
+  {
+    "i": 26467,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 30,
+    "t": "Zakryl jej tvár všetkými druhmi zvierat a tie sa vrátia do zeme."
+  },
+  {
+    "i": 26468,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 1,
+    "t": "Pán vyviedol človeka zo zeme, aby ho potom poslal späť."
+  },
+  {
+    "i": 26469,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 2,
+    "t": "Ustanovil ľuďom presný počet dní a určený čas, zveril do ich moci to, čo je na zemi. b"
+  },
+  {
+    "i": 26470,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 3,
+    "t": "Odiaľ ich silou, ako sám, na svoj obraz ich stvoril."
+  },
+  {
+    "i": 26471,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 4,
+    "t": "Celému telu vdýchol bázeň pred človekom, aby ovládal divoké zvery a vtáky."
+  },
+  {
+    "i": 26472,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 5,
+    "t": "Dostali používanie piatich Pánových mocností, ako šiesty, inteligencia im bola daná do podielu a ako siedmy rozum, tlmočník jeho mocností."
+  },
+  {
+    "i": 26473,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 6,
+    "t": "Dal im súd, jazyk, oči, uši a srdce na myslenie."
+  },
+  {
+    "i": 26474,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 7,
+    "t": "Naplnil ich vedou a inteligenciou a dal im poznať dobro a zlo."
+  },
+  {
+    "i": 26475,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 8,
+    "t": "Vložil do ich srdca bázeň, aby im ukázal veľkosť svojich diel. A dal im navždy oslavovať jeho divy."
+  },
+  {
+    "i": 26476,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 9,
+    "t": "Budú chváliť jeho sväté meno,"
+  },
+  {
+    "i": 26477,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 10,
+    "t": "rozprávať o veľkosti jeho diel."
+  },
+  {
+    "i": 26478,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 11,
+    "t": "Udelil im ešte poznanie, obdaroval ich zákonom života, aby pochopili, že sú smrteľní, oni, ktorí teraz existujú."
+  },
+  {
+    "i": 26479,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 12,
+    "t": "uzavrel s nimi večnú zmluvu a dal im poznať svoje súdy;"
+  },
+  {
+    "i": 26480,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 13,
+    "t": "Ich oči uzreli nádheru Jeho majestátnosti, uši ich počuli vznešenosť Jeho hlasu."
+  },
+  {
+    "i": 26481,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 14,
+    "t": "Riekli im: „Vyvarujte sa všetkého zla,“ a dal im prikázania jeden voči druhému."
+  },
+  {
+    "i": 26482,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 15,
+    "t": "Ich počínanie je vždy pred Ním, nikdy skryté pred Jeho zrakom."
+  },
+  {
+    "i": 26483,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 16,
+    "t": "Od mladosti ich cesty vedú k zlu a nemohli zmeniť svoje kamenné srdcia na srdcia z mäsa,"
+  },
+  {
+    "i": 26484,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 17,
+    "t": "lebo v rozdelení národov a celej zeme, nad každý národ ustanovil knieža; ale Izrael je podiel Hospodinov,"
+  },
+  {
+    "i": 26485,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 18,
+    "t": "prvorodený Jeho, ktorého živí disciplínou, ktorému udeľuje svetlo Svojej lásky, bez toho, aby ho opustil."
+  },
+  {
+    "i": 26486,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 19,
+    "t": "Všetky ich skutky sú pred Ním ako slnko, Jeho pohľady usilovne pozorujú ich počínanie."
+  },
+  {
+    "i": 26487,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 20,
+    "t": "Ich nespravodlivosti Mu nie sú skryté, všetky ich hriechy sú pred Hospodinom."
+  },
+  {
+    "i": 26488,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 21,
+    "t": "Ale Hospodin je dobrý a pozná Svoje stvorenie, neničí ich, ani ich neopúšťa, ale ich šetrí."
+  },
+  {
+    "i": 26489,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 22,
+    "t": "Milosrdenstvo človeka je pre Neho ako pečať, zachováva dobrodenie ako zrenicu oka, udeľujúc synom svojim i dcéram pokánie."
+  },
+  {
+    "i": 26490,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 23,
+    "t": "Jedného dňa vstane a odmení ich, na ich hlavu privedie ich odmenu."
+  },
+  {
+    "i": 26491,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 24,
+    "t": "Ale tým, ktorí sa kajajú, udeľuje návrat, utešuje tých, ktorí stratili vytrvalosť."
+  },
+  {
+    "i": 26492,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 25,
+    "t": "Obráť sa k Hospodinovi a zriekni sa svojich hriechov, pros Ho v tvár, prestaň Ho urážať."
+  },
+  {
+    "i": 26493,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 26,
+    "t": "Vráť sa k Najvyššiemu, odvráť sa od nespravodlivosti, lebo On ťa povedie z temnoty do osvietenia spásy. A nenáviď usilovne neprávosť."
+  },
+  {
+    "i": 26494,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 27,
+    "t": "Lebo kto bude chváliť Najvyššieho v šeole, ak Mu živí nevzdávajú slávu?"
+  },
+  {
+    "i": 26495,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 28,
+    "t": "Chvála je neznáma mŕtvym, ako aj tým, ktorí nie sú, ten, kto má život a zdravie, oslavuje Hospodina."
+  },
+  {
+    "i": 26496,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 29,
+    "t": "Aká veľká je milosť Hospodinova, Jeho zhovievavosť k tým, ktorí sa k Nemu obracajú!"
+  },
+  {
+    "i": 26497,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 30,
+    "t": "Lebo človek nemôže mať všetko, keďže syn človeka nie je nesmrteľný."
+  },
+  {
+    "i": 26498,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 31,
+    "t": "Čo je jasnejšie ako slnko? A predsa mizne. Telo a krv môžu živiť len zlobu."
+  },
+  {
+    "i": 26499,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 32,
+    "t": "On je ten, ktorý stráži mocnosti hore na nebesiach, a všetci ľudia sú len zem a popol."
+  }
+]

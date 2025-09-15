@@ -1,0 +1,802 @@
+[
+  {
+    "i": 5600,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 16,
+    "t": "Cursed be he that setteth light by his father or his mother. And all the people shall say, Amen."
+  },
+  {
+    "i": 5601,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 17,
+    "t": "Cursed be he that removeth his neighbour's landmark. And all the people shall say, Amen."
+  },
+  {
+    "i": 5602,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 18,
+    "t": "Cursed be he that maketh the blind to wander out of the way. And all the people shall say, Amen."
+  },
+  {
+    "i": 5603,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 19,
+    "t": "Cursed be he that perverteth the judgment of the stranger, fatherless, and widow. And all the people shall say, Amen."
+  },
+  {
+    "i": 5604,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 20,
+    "t": "Cursed be he that lieth with his father's wife; because he uncovereth his father's skirt. And all the people shall say, Amen."
+  },
+  {
+    "i": 5605,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 21,
+    "t": "Cursed be he that lieth with any manner of beast. And all the people shall say, Amen."
+  },
+  {
+    "i": 5606,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 22,
+    "t": "Cursed be he that lieth with his sister, the daughter of his father, or the daughter of his mother. And all the people shall say, Amen."
+  },
+  {
+    "i": 5607,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 23,
+    "t": "Cursed be he that lieth with his mother in law. And all the people shall say, Amen."
+  },
+  {
+    "i": 5608,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 24,
+    "t": "Cursed be he that smiteth his neighbour secretly. And all the people shall say, Amen."
+  },
+  {
+    "i": 5609,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 25,
+    "t": "Cursed be he that taketh reward to slay an innocent person. And all the people shall say, Amen."
+  },
+  {
+    "i": 5610,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 26,
+    "t": "Cursed be he that confirmeth not all the words of this law to do them. And all the people shall say, Amen."
+  },
+  {
+    "i": 5611,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 1,
+    "t": "And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe and to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth:"
+  },
+  {
+    "i": 5612,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 2,
+    "t": "And all these blessings shall come on thee, and overtake thee, if thou shalt hearken unto the voice of the LORD thy God."
+  },
+  {
+    "i": 5613,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 3,
+    "t": "Blessed shalt thou be in the city, and blessed shalt thou be in the field."
+  },
+  {
+    "i": 5614,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 4,
+    "t": "Blessed shall be the fruit of thy body, and the fruit of thy ground, and the fruit of thy cattle, the increase of thy kine, and the flocks of thy sheep."
+  },
+  {
+    "i": 5615,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 5,
+    "t": "Blessed shall be thy basket and thy store."
+  },
+  {
+    "i": 5616,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 6,
+    "t": "Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out."
+  },
+  {
+    "i": 5617,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 7,
+    "t": "The LORD shall cause thine enemies that rise up against thee to be smitten before thy face: they shall come out against thee one way, and flee before thee seven ways."
+  },
+  {
+    "i": 5618,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 8,
+    "t": "The LORD shall command the blessing upon thee in thy storehouses, and in all that thou settest thine hand unto; and he shall bless thee in the land which the LORD thy God giveth thee."
+  },
+  {
+    "i": 5619,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 9,
+    "t": "The LORD shall establish thee an holy people unto himself, as he hath sworn unto thee, if thou shalt keep the commandments of the LORD thy God, and walk in his ways."
+  },
+  {
+    "i": 5620,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 10,
+    "t": "And all people of the earth shall see that thou art called by the name of the LORD; and they shall be afraid of thee."
+  },
+  {
+    "i": 5621,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 11,
+    "t": "And the LORD shall make thee plenteous in goods, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which the LORD sware unto thy fathers to give thee."
+  },
+  {
+    "i": 5622,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 12,
+    "t": "The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow."
+  },
+  {
+    "i": 5623,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 13,
+    "t": "And the LORD shall make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if that thou hearken unto the commandments of the LORD thy God, which I command thee this day, to observe and to do them:"
+  },
+  {
+    "i": 5624,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 14,
+    "t": "And thou shalt not go aside from any of the words which I command thee this day, to the right hand, or to the left, to go after other gods to serve them."
+  },
+  {
+    "i": 5625,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 15,
+    "t": "But it shall come to pass, if thou wilt not hearken unto the voice of the LORD thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:"
+  },
+  {
+    "i": 5626,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 16,
+    "t": "Cursed shalt thou be in the city, and cursed shalt thou be in the field."
+  },
+  {
+    "i": 5627,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 17,
+    "t": "Cursed shall be thy basket and thy store."
+  },
+  {
+    "i": 5628,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 18,
+    "t": "Cursed shall be the fruit of thy body, and the fruit of thy land, the increase of thy kine, and the flocks of thy sheep."
+  },
+  {
+    "i": 5629,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 19,
+    "t": "Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out."
+  },
+  {
+    "i": 5630,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 20,
+    "t": "The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me."
+  },
+  {
+    "i": 5631,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 21,
+    "t": "The LORD shall make the pestilence cleave unto thee, until he have consumed thee from off the land, whither thou goest to possess it."
+  },
+  {
+    "i": 5632,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 22,
+    "t": "The LORD shall smite thee with a consumption, and with a fever, and with an inflammation, and with an extreme burning, and with the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish."
+  },
+  {
+    "i": 5633,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 23,
+    "t": "And thy heaven that is over thy head shall be brass, and the earth that is under thee shall be iron."
+  },
+  {
+    "i": 5634,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 24,
+    "t": "The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed."
+  },
+  {
+    "i": 5635,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 25,
+    "t": "The LORD shall cause thee to be smitten before thine enemies: thou shalt go out one way against them, and flee seven ways before them: and shalt be removed into all the kingdoms of the earth."
+  },
+  {
+    "i": 5636,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 26,
+    "t": "And thy carcase shall be meat unto all fowls of the air, and unto the beasts of the earth, and no man shall fray them away."
+  },
+  {
+    "i": 5637,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 27,
+    "t": "The LORD will smite thee with the botch of Egypt, and with the emerods, and with the scab, and with the itch, whereof thou canst not be healed."
+  },
+  {
+    "i": 5638,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 28,
+    "t": "The LORD shall smite thee with madness, and blindness, and astonishment of heart:"
+  },
+  {
+    "i": 5639,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 29,
+    "t": "And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, neither shall any man save thee."
+  },
+  {
+    "i": 5640,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 30,
+    "t": "Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof."
+  },
+  {
+    "i": 5641,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 31,
+    "t": "Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee: thy sheep shall be given unto thine enemies, and thou shalt have none to rescue them."
+  },
+  {
+    "i": 5642,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 32,
+    "t": "Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand."
+  },
+  {
+    "i": 5643,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 33,
+    "t": "The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:"
+  },
+  {
+    "i": 5644,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 34,
+    "t": "So that thou shalt be mad for the sight of thine eyes which thou shalt see."
+  },
+  {
+    "i": 5645,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 35,
+    "t": "The LORD shall smite thee in the knees, and in the legs, with a sore botch that cannot be healed, from the sole of thy foot unto the top of thy head."
+  },
+  {
+    "i": 5646,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 36,
+    "t": "The LORD shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone."
+  },
+  {
+    "i": 5647,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 37,
+    "t": "And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the LORD shall lead thee."
+  },
+  {
+    "i": 5648,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 38,
+    "t": "Thou shalt carry much seed out into the field, and shalt gather but little in; for the locust shall consume it."
+  },
+  {
+    "i": 5649,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 39,
+    "t": "Thou shalt plant vineyards, and dress them, but shalt neither drink of the wine, nor gather the grapes; for the worms shall eat them."
+  },
+  {
+    "i": 5650,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 40,
+    "t": "Thou shalt have olive trees throughout all thy coasts, but thou shalt not anoint thyself with the oil; for thine olive shall cast his fruit."
+  },
+  {
+    "i": 5651,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 41,
+    "t": "Thou shalt beget sons and daughters, but thou shalt not enjoy them; for they shall go into captivity."
+  },
+  {
+    "i": 5652,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 42,
+    "t": "All thy trees and fruit of thy land shall the locust consume."
+  },
+  {
+    "i": 5653,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 43,
+    "t": "The stranger that is within thee shall get up above thee very high; and thou shalt come down very low."
+  },
+  {
+    "i": 5654,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 44,
+    "t": "He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail."
+  },
+  {
+    "i": 5655,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 45,
+    "t": "Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:"
+  },
+  {
+    "i": 5656,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 46,
+    "t": "And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever."
+  },
+  {
+    "i": 5657,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 47,
+    "t": "Because thou servedst not the LORD thy God with joyfulness, and with gladness of heart, for the abundance of all things;"
+  },
+  {
+    "i": 5658,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 48,
+    "t": "Therefore shalt thou serve thine enemies which the LORD shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee."
+  },
+  {
+    "i": 5659,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 49,
+    "t": "The LORD shall bring a nation against thee from far, from the end of the earth, as swift as the eagle flieth; a nation whose tongue thou shalt not understand;"
+  },
+  {
+    "i": 5660,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 50,
+    "t": "A nation of fierce countenance, which shall not regard the person of the old, nor shew favour to the young:"
+  },
+  {
+    "i": 5661,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 51,
+    "t": "And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou be destroyed: which also shall not leave thee either corn, wine, or oil, or the increase of thy kine, or flocks of thy sheep, until he have destroyed thee."
+  },
+  {
+    "i": 5662,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 52,
+    "t": "And he shall besiege thee in all thy gates, until thy high and fenced walls come down, wherein thou trustedst, throughout all thy land: and he shall besiege thee in all thy gates throughout all the land, which the LORD thy God hath given thee."
+  },
+  {
+    "i": 5663,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 53,
+    "t": "And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the LORD thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:"
+  },
+  {
+    "i": 5664,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 54,
+    "t": "So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:"
+  },
+  {
+    "i": 5665,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 55,
+    "t": "So that he will not give to any of them of the flesh of his children whom he shall eat: because he hath nothing left him in the siege, and in the straitness, wherewith thine enemies shall distress thee in all thy gates."
+  },
+  {
+    "i": 5666,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 56,
+    "t": "The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,"
+  },
+  {
+    "i": 5667,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 57,
+    "t": "And toward her young one that cometh out from between her feet, and toward her children which she shall bear: for she shall eat them for want of all things secretly in the siege and straitness, wherewith thine enemy shall distress thee in thy gates."
+  },
+  {
+    "i": 5668,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 58,
+    "t": "If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, THE LORD THY GOD;"
+  },
+  {
+    "i": 5669,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 59,
+    "t": "Then the LORD will make thy plagues wonderful, and the plagues of thy seed, even great plagues, and of long continuance, and sore sicknesses, and of long continuance."
+  },
+  {
+    "i": 5670,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 60,
+    "t": "Moreover he will bring upon thee all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee."
+  },
+  {
+    "i": 5671,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 61,
+    "t": "Also every sickness, and every plague, which is not written in the book of this law, them will the LORD bring upon thee, until thou be destroyed."
+  },
+  {
+    "i": 5672,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 62,
+    "t": "And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou wouldest not obey the voice of the LORD thy God."
+  },
+  {
+    "i": 5673,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 63,
+    "t": "And it shall come to pass, that as the LORD rejoiced over you to do you good, and to multiply you; so the LORD will rejoice over you to destroy you, and to bring you to nought; and ye shall be plucked from off the land whither thou goest to possess it."
+  },
+  {
+    "i": 5674,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 64,
+    "t": "And the LORD shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone."
+  },
+  {
+    "i": 5675,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 65,
+    "t": "And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the LORD shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:"
+  },
+  {
+    "i": 5676,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 66,
+    "t": "And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:"
+  },
+  {
+    "i": 5677,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 67,
+    "t": "In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see."
+  },
+  {
+    "i": 5678,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 68,
+    "t": "And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you."
+  },
+  {
+    "i": 5679,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 69,
+    "t": "These are the words of the covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb."
+  },
+  {
+    "i": 5680,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 1,
+    "t": "And Moses called all Israel, and said unto them, Ye have seen all that the Lord did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;"
+  },
+  {
+    "i": 5681,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 2,
+    "t": "The great trials which thine eyes have seen, the signs, and those great miracles:"
+  },
+  {
+    "i": 5682,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 3,
+    "t": "Yet the Lord hath not given you an heart to perceive, and eyes to see, and ears to hear, unto this day."
+  },
+  {
+    "i": 5683,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 4,
+    "t": "And I have led you forty years in the wilderness: your clothes are not waxen old upon you, and thy shoe is not waxen old upon thy foot."
+  },
+  {
+    "i": 5684,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 5,
+    "t": "Ye have not eaten bread, neither have ye drunk wine or strong drink: that ye might know that I am the Lord your God."
+  },
+  {
+    "i": 5685,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 6,
+    "t": "And when ye came unto this place, Sihon the king of Heshbon, and Og the king of Bashan, came out against us unto battle, and we smote them:"
+  },
+  {
+    "i": 5686,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 7,
+    "t": "And we took their land, and gave it for an inheritance unto the Reubenites, and to the Gadites, and to half the tribe of Manasseh."
+  },
+  {
+    "i": 5687,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 8,
+    "t": "Keep therefore the words of this covenant, and do them, that ye may prosper in all that ye do."
+  },
+  {
+    "i": 5688,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 9,
+    "t": "Ye stand this day all of you before the Lord your God; your captains of your tribes, your elders, and your officers, with all the men of Israel,"
+  },
+  {
+    "i": 5689,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 10,
+    "t": "Your little ones, your wives, and thy stranger that is in thy camp, from the hewer of thy wood unto the drawer of thy water:"
+  },
+  {
+    "i": 5690,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 11,
+    "t": "That thou shouldest enter into covenant with the Lord thy God, and into his oath, which the Lord thy God maketh with thee this day:"
+  },
+  {
+    "i": 5691,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 12,
+    "t": "That he may establish thee to day for a people unto himself, and that he may be unto thee a God, as he hath said unto thee, and as he hath sworn unto thy fathers, to Abraham, to Isaac, and to Jacob."
+  },
+  {
+    "i": 5692,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 13,
+    "t": "Neither with you only do I make this covenant and this oath;"
+  },
+  {
+    "i": 5693,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 14,
+    "t": "But with him that standeth here with us this day before the Lord our God, and also with him that is not here with us this day:"
+  },
+  {
+    "i": 5694,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 15,
+    "t": "(For ye know how we have dwelt in the land of Egypt; and how we came through the nations which ye passed by;)"
+  },
+  {
+    "i": 5695,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 16,
+    "t": "And ye have seen their abominations, and their idols, wood and stone, silver and gold, which were among them:)"
+  },
+  {
+    "i": 5696,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 17,
+    "t": "Lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from the Lord our God, to go and serve the gods of these nations; lest there should be among you a root that beareth gall and wormwood;"
+  },
+  {
+    "i": 5697,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 18,
+    "t": "And it come to pass, when he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart, to add drunkenness to thirst:"
+  },
+  {
+    "i": 5698,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 19,
+    "t": "The Lord will not spare him, but then the anger of the Lord and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the Lord shall blot out his name from under heaven."
+  },
+  {
+    "i": 5699,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 20,
+    "t": "And the Lord shall separate him unto evil out of all the tribes of Israel, according to all the curses of the covenant that are written in this book of the law:"
+  }
+]

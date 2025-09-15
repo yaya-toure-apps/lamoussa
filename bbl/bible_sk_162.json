@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16200,
+    "b": 18,
+    "c": 2029,
+    "r": 2029,
+    "o": 4,
+    "t": "Jahve spravodlivý zlomil putá bezbožných."
+  },
+  {
+    "i": 16201,
+    "b": 18,
+    "c": 2029,
+    "r": 2029,
+    "o": 5,
+    "t": "Nech sú všetci zahanbení a odohnaní, nepriatelia Siona;"
+  },
+  {
+    "i": 16202,
+    "b": 18,
+    "c": 2029,
+    "r": 2029,
+    "o": 6,
+    "t": "nech sú ako tráva na strechách, ktorá uschne, skôr než ju vytiahnu!"
+  },
+  {
+    "i": 16203,
+    "b": 18,
+    "c": 2029,
+    "r": 2029,
+    "o": 7,
+    "t": "Žnec si ňou nenaplní ruku, ani viazač svoj náruč;"
+  },
+  {
+    "i": 16204,
+    "b": 18,
+    "c": 2029,
+    "r": 2029,
+    "o": 8,
+    "t": "a nehovoria okoloidúci: Požehnanie Jahveho nech je s vami! Žehnáme vám v mene Jahveho."
+  },
+  {
+    "i": 16205,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 1,
+    "t": "Pieseň stupňov. Z hlbín volám k tebe, Jahve:"
+  },
+  {
+    "i": 16206,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 2,
+    "t": "Pane, vypočuj môj hlas. Nech je tvoje ucho pozorné na volanie mojej modlitby!"
+  },
+  {
+    "i": 16207,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 3,
+    "t": "Ak budeš mať na zreteli previnenia, Jahve, Pane, kto obstojí?"
+  },
+  {
+    "i": 16208,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 4,
+    "t": "Ale u teba je odpustenie, aby trvala tvoja bázeň."
+  },
+  {
+    "i": 16209,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 5,
+    "t": "Čakám, Jahve, čaká moja duša na tvoje slovo;"
+  },
+  {
+    "i": 16210,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 6,
+    "t": "moja duša očakáva Pána viac ako strážcovia úsvit; viac ako strážcovia úsvit,"
+  },
+  {
+    "i": 16211,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 7,
+    "t": "nech Izrael očakáva Jahveho! Lebo u Jahveho je milosť, u neho hojnosť vykúpenia;"
+  },
+  {
+    "i": 16212,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 8,
+    "t": "on vykúpi Izrael zo všetkých jeho previnení."
+  },
+  {
+    "i": 16213,
+    "b": 18,
+    "c": 2031,
+    "r": 2031,
+    "o": 1,
+    "t": "Pieseň stupňov. Od Dávida. Jahve, moje srdce nie je pyšné, ani môj pohľad povýšený. Nevydal som sa cestou veľkostí, ani divov, ktoré ma presahujú."
+  },
+  {
+    "i": 16214,
+    "b": 18,
+    "c": 2031,
+    "r": 2031,
+    "o": 2,
+    "t": "Nie, svoju dušu držím v pokoji a tichosti; ako malé dieťa pri svojej matke, ako malé dieťa, taká je moja duša vo mne."
+  },
+  {
+    "i": 16215,
+    "b": 18,
+    "c": 2031,
+    "r": 2031,
+    "o": 3,
+    "t": "Dúfaj, Izrael, v Jahveho, odteraz až naveky!"
+  },
+  {
+    "i": 16216,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 1,
+    "t": "Pieseň stupňov. Pamätaj, Jahve, na Dávida, na celú jeho námahu,"
+  },
+  {
+    "i": 16217,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 2,
+    "t": "na prísahu, ktorú zložil Jahvemu, na svoj sľub Mocnému Jakubovmu:"
+  },
+  {
+    "i": 16218,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 3,
+    "t": "Nevojdem do stanu, svojho domu, nevystúpim na lôžko svojho odpočinku,"
+  },
+  {
+    "i": 16219,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 4,
+    "t": "nedám spánku svojim očiam a pokoja svojim viečkam,"
+  },
+  {
+    "i": 16220,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 5,
+    "t": "kým nenájdem miesto pre Jahveho, príbytok pre Mocného Jakubovho!"
+  },
+  {
+    "i": 16221,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 6,
+    "t": "Hľa, počujeme o ňom v Efrate, našli sme ho v Poliach lesa!"
+  },
+  {
+    "i": 16222,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 7,
+    "t": "Vojdime na miesto, kde prebýva, klaňajme sa pred podnožkou jeho nôh."
+  },
+  {
+    "i": 16223,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 8,
+    "t": "Povstaň, Jahve, do svojho odpočinku, ty a archa tvojej sily."
+  },
+  {
+    "i": 16224,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 9,
+    "t": "Tvoji kňazi sa oblečú do spravodlivosti, tvoji svätí budú radostne kričať."
+  },
+  {
+    "i": 16225,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 10,
+    "t": "Pre Dávida, tvojho služobníka, neodvracaj tvár od svojho pomazaného."
+  },
+  {
+    "i": 16226,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 11,
+    "t": "Jahve prisahal Dávidovi, pravda, od ktorej sa nikdy neodkloní: Z plodu tvojho lona posadím na trón, ktorý je pre teba pripravený."
+  },
+  {
+    "i": 16227,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 12,
+    "t": "Ak tvoji synovia zachovajú moju zmluvu, moje svedectvo, ktoré som ich naučil, ich synovia budú navždy sedieť na tróne, ktorý je pre teba pripravený."
+  },
+  {
+    "i": 16228,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 13,
+    "t": "Lebo Jahve si vyvolil Sion, zatúžil po tomto sídle pre seba:"
+  },
+  {
+    "i": 16229,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 14,
+    "t": "Tu je môj odpočinok naveky, tu budem sedieť, lebo som po ňom zatúžil."
+  },
+  {
+    "i": 16230,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 15,
+    "t": "Jeho pokrmu budem žehnať požehnaním, jeho chudobných nasýtim chlebom,"
+  },
+  {
+    "i": 16231,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 16,
+    "t": "jeho kňazov oblečiem do spásy a jeho svätí budú plesať od radosti."
+  },
+  {
+    "i": 16232,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 17,
+    "t": "Tam vzbudím Dávidovi potomstvo, pripravím lampu pre svojho pomazaného;"
+  },
+  {
+    "i": 16233,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 18,
+    "t": "jeho nepriateľov oblečiem do hanby, ale na ňom rozkvitne jeho diadém."
+  },
+  {
+    "i": 16234,
+    "b": 18,
+    "c": 2033,
+    "r": 2033,
+    "o": 1,
+    "t": "Pieseň stupňov. Od Dávida. Hľa! Aké je to dobré a aké príjemné, keď bratia bývajú spolu v jednote!"
+  },
+  {
+    "i": 16235,
+    "b": 18,
+    "c": 2033,
+    "r": 2033,
+    "o": 2,
+    "t": "Je to ako výborný olej na hlave, ktorý steká na bradu, ktorý steká na bradu Árona, na golier jeho rúcha."
+  },
+  {
+    "i": 16236,
+    "b": 18,
+    "c": 2033,
+    "r": 2033,
+    "o": 3,
+    "t": "Je to ako rosa Hermónu, ktorá steká na vrchy Siona; tam Jahve ustanovil požehnanie, život naveky."
+  },
+  {
+    "i": 16237,
+    "b": 18,
+    "c": 2034,
+    "r": 2034,
+    "o": 1,
+    "t": "Poďte! Žehnajte Jahveho, všetci služobníci Jahveho, ktorí slúžite v dome Jahveho, v nádvoriach domu nášho Boha. V nociach"
+  },
+  {
+    "i": 16238,
+    "b": 18,
+    "c": 2034,
+    "r": 2034,
+    "o": 2,
+    "t": "vzdvíhajte svoje ruky k svätyni a žehnajte Jahveho."
+  },
+  {
+    "i": 16239,
+    "b": 18,
+    "c": 2034,
+    "r": 2034,
+    "o": 3,
+    "t": "Nech ťa Jahve požehná zo Siona, on, ktorý stvoril nebo a zem!"
+  },
+  {
+    "i": 16240,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 1,
+    "t": "Aleluja! Chváľte meno Jahveho, chváľte, služobníci Jahveho,"
+  },
+  {
+    "i": 16241,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 2,
+    "t": "ktorí slúžite v dome Jahveho, v nádvoriach domu nášho Boha."
+  },
+  {
+    "i": 16242,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 3,
+    "t": "Chváľte Jahveho, lebo je dobrý, Jahve, hrajte na jeho meno, lebo je príjemné."
+  },
+  {
+    "i": 16243,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 4,
+    "t": "Jakuba si Jahve vyvolil, Izrael, aby bol jeho dedičným podielom."
+  },
+  {
+    "i": 16244,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 5,
+    "t": "Ja viem, že je veľký, Jahve, že náš Pán prevyšuje všetkých bohov."
+  },
+  {
+    "i": 16245,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 6,
+    "t": "Čokoľvek sa Jahvemu páči, to robí, v nebi i na zemi, v moriach a všetkých hlbinách."
+  },
+  {
+    "i": 16246,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 7,
+    "t": "Vyťahuje oblaky z končín zeme, spolu s bleskami tvorí dážď, zo svojich pokladníc vyťahuje vietor."
+  },
+  {
+    "i": 16247,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 8,
+    "t": "Udrel prvorodených Egypta, od človeka až po dobytok;"
+  },
+  {
+    "i": 16248,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 9,
+    "t": "poslal znamenia a divy uprostred teba, Egypt, na faraóna a všetkých jeho služobníkov."
+  },
+  {
+    "i": 16249,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 10,
+    "t": "Udrel mnohé národy, zahubil mocných kráľov,"
+  },
+  {
+    "i": 16250,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 11,
+    "t": "Sichona, kráľa Amorejčanov, a Óga, kráľa Bášanu, a všetky kráľovstvá Kanaánu;"
+  },
+  {
+    "i": 16251,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 12,
+    "t": "a dal ich zem do dedičstva, do dedičstva Izraelu, svojmu ľudu."
+  },
+  {
+    "i": 16252,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 13,
+    "t": "Jahve, tvoje meno naveky! Jahve, tvoja pamiatka z pokolenia na pokolenie!"
+  },
+  {
+    "i": 16253,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 14,
+    "t": "Lebo Jahve sa zastáva svojho ľudu, ľutuje svojich služobníkov."
+  },
+  {
+    "i": 16254,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 15,
+    "t": "Modly pohanov sú striebro a zlato, dielo rúk ľudských!"
+  },
+  {
+    "i": 16255,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 16,
+    "t": "Majú ústa, a nehovoria, majú oči, a nevidia."
+  },
+  {
+    "i": 16256,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 17,
+    "t": "Majú uši, a nepočujú, niet v ich ústach ani dychu."
+  },
+  {
+    "i": 16257,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 18,
+    "t": "Takí sú tí, čo ich robia, každý, kto v ne dúfa."
+  },
+  {
+    "i": 16258,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 19,
+    "t": "Dom Izraela, žehnajte Jahveho, dom Árona, žehnajte Jahveho,"
+  },
+  {
+    "i": 16259,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 20,
+    "t": "dom Léviho, žehnajte Jahveho, tí, čo sa boja Jahveho, žehnajte Jahveho."
+  },
+  {
+    "i": 16260,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 21,
+    "t": "Nech je Jahve požehnaný zo Siona, on, ktorý prebýva v Jeruzaleme!"
+  },
+  {
+    "i": 16261,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 1,
+    "t": "Aleluja! Vzdávajte vďaky Jahvemu, lebo je dobrý, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16262,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 2,
+    "t": "Vzdávajte vďaky Bohu bohov, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16263,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 3,
+    "t": "Vzdávajte vďaky Pánovi pánov, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16264,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 4,
+    "t": "On jediný robí divy, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16265,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 5,
+    "t": "On múdro stvoril nebesia, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16266,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 6,
+    "t": "On upevnil zem nad vodami, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16267,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 7,
+    "t": "On stvoril veľké svetlá, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16268,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 8,
+    "t": "Slnko, aby vládlo nad dňom, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16269,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 9,
+    "t": "Mesiac a hviezdy, aby vládli nad nocou, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16270,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 10,
+    "t": "Udrel Egypt v jeho prvorodených, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16271,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 11,
+    "t": "A vyviedol odtiaľ Izrael, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16272,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 12,
+    "t": "Silnou rukou a vystretým ramenom, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16273,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 13,
+    "t": "Rozdelil na dve časti Červené more, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16274,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 14,
+    "t": "A previedol Izrael jeho stredom, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16275,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 15,
+    "t": "A zvrhol doň faraóna a jeho vojsko, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16276,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 16,
+    "t": "Viedol svoj ľud po púšti, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16277,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 17,
+    "t": "Udrel mocných kráľov, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16278,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 18,
+    "t": "Zahubil hrozných kráľov, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16279,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 19,
+    "t": "Sichona, kráľa Amorejčanov, lebo jeho láska trvá naveky!"
+  },
+  {
+    "i": 16280,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 20,
+    "t": "I Óg, kráľ Bášanu, lebo naveky trvá jeho milosť!"
+  },
+  {
+    "i": 16281,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 21,
+    "t": "Dal ich zem za dedičstvo, lebo naveky trvá jeho milosť!"
+  },
+  {
+    "i": 16282,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 22,
+    "t": "Za dedičstvo Izraelovi, svojmu služobníkovi, lebo naveky trvá jeho milosť!"
+  },
+  {
+    "i": 16283,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 23,
+    "t": "Pamätal na nás v našej poníženosti, lebo naveky trvá jeho milosť!"
+  },
+  {
+    "i": 16284,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 24,
+    "t": "Vyslobodil nás z ruky našich nepriateľov, lebo naveky trvá jeho milosť!"
+  },
+  {
+    "i": 16285,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 25,
+    "t": "Dáva pokrm každému telu, lebo naveky trvá jeho milosť!"
+  },
+  {
+    "i": 16286,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 26,
+    "t": "Vzdávajte vďaky Bohu nebies, lebo naveky trvá jeho milosť!"
+  },
+  {
+    "i": 16287,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 1,
+    "t": "Pri riekach babylonských sme sedeli a plakali, keď sme si spomenuli na Sion."
+  },
+  {
+    "i": 16288,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 2,
+    "t": "Na vŕby, čo tam rastú, sme zavesili svoje harfy,"
+  },
+  {
+    "i": 16289,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 3,
+    "t": "lebo tí, čo nás zajali, žiadali od nás piesne a tí, čo nás trápili, žiadali veselosť: „Zaspievajte nám niečo zo sionských piesní!“"
+  },
+  {
+    "i": 16290,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 4,
+    "t": "Akože by sme spievali pieseň Pánovu v cudzej zemi?"
+  },
+  {
+    "i": 16291,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 5,
+    "t": "Ak zabudnem na teba, Jeruzalem, nech mi uschne pravica!"
+  },
+  {
+    "i": 16292,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 6,
+    "t": "Nech mi jazyk priľne k podnebiu, ak si nespomeniem na teba, ak nepovýšim Jeruzalem nad všetku svoju radosť!"
+  },
+  {
+    "i": 16293,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 7,
+    "t": "Pamätaj, Pane, na synov Edomových, ako v deň Jeruzalema hovorili: „Zborte ho, zborte ho až do základov!“"
+  },
+  {
+    "i": 16294,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 8,
+    "t": "Dcéra babylonská, ktorá máš byť zničená, blahoslavený, kto ti odplatí to, čo si nám urobila,"
+  },
+  {
+    "i": 16295,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 9,
+    "t": "blahoslavený, kto chytí a rozrazí tvoje nemluvňatá o skalu!"
+  },
+  {
+    "i": 16296,
+    "b": 18,
+    "c": 2038,
+    "r": 2038,
+    "o": 1,
+    "t": "Dávidov. Ďakujem ti celým srdcom, Pane, vypočul si slová mojich úst; pred anjelmi ti spievam,"
+  },
+  {
+    "i": 16297,
+    "b": 18,
+    "c": 2038,
+    "r": 2038,
+    "o": 2,
+    "t": "klaniam sa k tvojmu svätému chrámu a oslavujem tvoje meno pre tvoju lásku a tvoju vernosť, lebo si nadovšetko povýšil svoje slovo."
+  },
+  {
+    "i": 16298,
+    "b": 18,
+    "c": 2038,
+    "r": 2038,
+    "o": 3,
+    "t": "V deň, keď som volal, si ma vypočul, rozmnožil si silu v mojej duši."
+  },
+  {
+    "i": 16299,
+    "b": 18,
+    "c": 2038,
+    "r": 2038,
+    "o": 4,
+    "t": "Oslavovať ťa budú, Pane, všetci králi zeme, keď počujú slová tvojich úst,"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17200,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 21,
+    "t": "Jei tavo priešas alkanas, pamaitink jį; jei ištroškęs, pagirdyk jį,"
+  },
+  {
+    "i": 17201,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 22,
+    "t": "nes taip darydamas krausi žarijas ant jo galvos, ir Viešpats tau atsilygins."
+  },
+  {
+    "i": 17202,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 23,
+    "t": "Šiaurys atneša lietų, o apkalbanti liežuvis – niūrų veidą."
+  },
+  {
+    "i": 17203,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 24,
+    "t": "Geriau gyventi ant stogo kampo negu su pikta moterimi bendruose namuose."
+  },
+  {
+    "i": 17204,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 25,
+    "t": "Šaltas vanduo ištroškusiam gerklei – tokia gera žinia iš tolimo krašto."
+  },
+  {
+    "i": 17205,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 26,
+    "t": "Sumindžiotas šaltinis, suterštas vanduo – toks yra teisusis, klūpantis prieš nedorėlį."
+  },
+  {
+    "i": 17206,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 27,
+    "t": "Nėra gerai valgyti per daug medaus, nei ieškoti garbės virš garbės."
+  },
+  {
+    "i": 17207,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 28,
+    "t": "Miestas atviras, be sienų – toks žmogus, kuris nesivaldo."
+  },
+  {
+    "i": 17208,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 1,
+    "t": "Kaip sniegas vasarą ar lietus per pjūtį, taip garbė netinka kvailiui."
+  },
+  {
+    "i": 17209,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 2,
+    "t": "Kaip žvirblis nuskrenda, o kregždė išlekia, taip be priežasties ištartas prakeiksmas nepasiekia savo tikslo."
+  },
+  {
+    "i": 17210,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 3,
+    "t": "Botagas skirtas arkliui, kamanos – asilui, o lazda – kvailių nugaroms."
+  },
+  {
+    "i": 17211,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 4,
+    "t": "Neatsakyk kvailiui pagal jo kvailystę, kad ir pats netaptum jam panašus."
+  },
+  {
+    "i": 17212,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 5,
+    "t": "Atsakyk kvailiui pagal jo kvailystę, kad jis nelaikytų savęs išmintingu."
+  },
+  {
+    "i": 17213,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 6,
+    "t": "Jis save žalojo, jis geria smurtą, kuris siunčia žinią per kvailį."
+  },
+  {
+    "i": 17214,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 7,
+    "t": "Kaip silpnos luošio kojos, taip patarlė kvailio burnoje."
+  },
+  {
+    "i": 17215,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 8,
+    "t": "Tai prilygsta akmens pritvirtinimui prie laidynės, kai pagerbi kvailį."
+  },
+  {
+    "i": 17216,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 9,
+    "t": "Dygliuotas krūmas girto žmogaus rankoje yra kaip patarlė kvailio burnoje."
+  },
+  {
+    "i": 17217,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 10,
+    "t": "Kaip šaulys, kuris sužeidžia visus, toks yra tas, kuris samdo kvailį ir girtuoklį, kurie eina pro šalį."
+  },
+  {
+    "i": 17218,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 11,
+    "t": "Kaip šuo grįžta prie savo vėmalų, taip kvailys grįžta prie savo kvailystės."
+  },
+  {
+    "i": 17219,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 12,
+    "t": "Ar matei žmogų, išmintingą savo akyse? Daugiau vilties yra iš kvailio."
+  },
+  {
+    "i": 17220,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 13,
+    "t": "Tingus žmogus sako: „Lauke liūtas! Gatvėse liūtas!"
+  },
+  {
+    "i": 17221,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 14,
+    "t": "Durys sukasi ant savo vyrių, o tinginys – ant savo lovos."
+  },
+  {
+    "i": 17222,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 15,
+    "t": "Tingus žmogus įkiša ranką į dubenį, bet jam sunku ją atitraukti prie burnos!"
+  },
+  {
+    "i": 17223,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 16,
+    "t": "Tingus žmogus yra išmintingesnis savo akyse negu septyni, kurie atsako taktiškai."
+  },
+  {
+    "i": 17224,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 17,
+    "t": "Jis griebia už ausų praeivį šunį, kuris kišasi į svetimą ginčą."
+  },
+  {
+    "i": 17225,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 18,
+    "t": "Kaip išprotėjęs žmogus, kuris svaido ugnies liepsnas, strėles ir mirtį,"
+  },
+  {
+    "i": 17226,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 19,
+    "t": "toks yra žmogus, kuris meluoja savo draugui ir sako: „Argi aš nejuokavau?"
+  },
+  {
+    "i": 17227,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 20,
+    "t": "Kai nėra malkų, ugnis užgęsta, o kai nėra apkalbėtojo, ginčas nurimsta."
+  },
+  {
+    "i": 17228,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 21,
+    "t": "Anglis ant žarijų, malkos ant ugnies – toks yra ginčininkas, kuris kursto ginčus."
+  },
+  {
+    "i": 17229,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 22,
+    "t": "Apkalbėtojo žodžiai yra skanūs kąsneliai, kurie nusileidžia iki pat vidaus gelmių."
+  },
+  {
+    "i": 17230,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 23,
+    "t": "Sidabras, neužgrynintas, užteptas ant molio – tokios degančios lūpos ir pikta širdis."
+  },
+  {
+    "i": 17231,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 24,
+    "t": "Tas, kuris nekenčia, veidmainiauja savo žodžiais, bet jo viduje glūdi apgaulė."
+  },
+  {
+    "i": 17232,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 25,
+    "t": "Jei jis kalba švelniai, nepasitikėk juo, nes jo širdyje yra septynios bjaurastys."
+  },
+  {
+    "i": 17233,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 26,
+    "t": "Neapykanta gali apsigobti klasta, bet ji atskleis savo nedorumą susirinkime."
+  },
+  {
+    "i": 17234,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 27,
+    "t": "Kas kasa duobę, pats į ją įkris; kas rieda akmenį, jis sugrįš ant jo."
+  },
+  {
+    "i": 17235,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 28,
+    "t": "Melnės liežuvis nekenčia savo aukų, o meilikaujanti burna sukelia nuopuolį."
+  },
+  {
+    "i": 17236,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 1,
+    "t": "Nesigirk rytojumi, nes nežinai, ką šiandien pagimdys."
+  },
+  {
+    "i": 17237,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 2,
+    "t": "Tegul kitas tave giria, bet ne tavo burna; svetimas, bet ne tavo lūpos!"
+  },
+  {
+    "i": 17238,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 3,
+    "t": "Sunkus akmuo, sunkus smėlis, bet sunkesnis už juos yra kvailio pyktis."
+  },
+  {
+    "i": 17239,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 4,
+    "t": "Žiaurus įniršis, veržlus pyktis, bet kas atsilaikys prieš pavydą?"
+  },
+  {
+    "i": 17240,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 5,
+    "t": "Geriau atviras papeikimas negu paslėpta meilė."
+  },
+  {
+    "i": 17241,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 6,
+    "t": "Ištikimi draugo smūgiai, apgaulingi priešo bučiniai."
+  },
+  {
+    "i": 17242,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 7,
+    "t": "Soti gerklė niekina medų, o alkana gerklė randa saldų bet kokį kartumą."
+  },
+  {
+    "i": 17243,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 8,
+    "t": "Kaip paukštis, kuris klaidžioja toli nuo savo lizdo, taip žmogus, kuris klaidžioja toli nuo savo šalies."
+  },
+  {
+    "i": 17244,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 9,
+    "t": "Aliejus ir kvepalai džiugina širdį, o draugystės saldumas – labiau negu pasitenkinimas savimi."
+  },
+  {
+    "i": 17245,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 10,
+    "t": "Nepalik savo draugo nei savo tėvo draugo; į savo brolio namus neik nelaimės dieną. Geriau artimas kaimynas negu tolimas brolis."
+  },
+  {
+    "i": 17246,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 11,
+    "t": "Tapk išmintingas, mano sūnau, ir pradžiugink mano širdį, kad galėčiau atsakyti tam, kuris mane įžeidžia."
+  },
+  {
+    "i": 17247,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 12,
+    "t": "Atsargus žmogus mato pavojų ir slepiasi, o naivuoliai eina pirmyn ir kenčia."
+  },
+  {
+    "i": 17248,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 13,
+    "t": "Paimk jo drabužį, nes jis laidavo už svetimą, dėl nepažįstamų žmonių paimk iš jo įkaitą."
+  },
+  {
+    "i": 17249,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 14,
+    "t": "Jei kas nors anksti rytą garsiai laimina savo artimą, tai jam prilygsta prakeiksmui."
+  },
+  {
+    "i": 17250,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 15,
+    "t": "Nepertraukiamai varvantis latakas lietingą dieną ir ginčinga moteris yra panašūs!"
+  },
+  {
+    "i": 17251,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 16,
+    "t": "Kas nori ją sulaikyti, sulaiko vėją, ir jo dešinė susiduria su aliejumi."
+  },
+  {
+    "i": 17252,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 17,
+    "t": "Geležis galandama geležimi, žmogus tobulėja akis į akį su savo artimu."
+  },
+  {
+    "i": 17253,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 18,
+    "t": "Kas prižiūri figmedį, valgys jo vaisių, o kas rūpinasi savo šeimininku, bus pagerbtas."
+  },
+  {
+    "i": 17254,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 19,
+    "t": "Kaip vanduo atspindi veidą, taip žmogaus širdis – žmogų."
+  },
+  {
+    "i": 17255,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 20,
+    "t": "Nepasotinamas yra Šeolas ir Pražūtis, taip ir žmogaus akys – nepasotinamos."
+  },
+  {
+    "i": 17256,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 21,
+    "t": "Yra krosnis sidabrui, krosnis auksui: žmogus vertas to, ką verta jo reputacija."
+  },
+  {
+    "i": 17257,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 22,
+    "t": "Nors tu trintum kvailį grūstuvėje (tarp grūdų, su piestu), jo kvailystė nuo jo neatsiskirtų."
+  },
+  {
+    "i": 17258,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 23,
+    "t": "Gerai pažink savo gyvulių būklę, savo bandai skirk savo rūpestį."
+  },
+  {
+    "i": 17259,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 24,
+    "t": "Nes turtai nėra amžini, ir karūna nepersiduoda iš kartos į kartą."
+  },
+  {
+    "i": 17260,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 25,
+    "t": "Kai žolė nupjauta, pasirodo ataugos, surinktas kalnų šienas,"
+  },
+  {
+    "i": 17261,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 26,
+    "t": "turėk ėriukų drabužiams, ožkų – laukui nusipirkti,"
+  },
+  {
+    "i": 17262,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 27,
+    "t": "gauk pakankamai ožkų pieno, kad galėtum pats pavalgyti, pamaitinti savo šeimą ir aprūpinti savo tarnaites."
+  },
+  {
+    "i": 17263,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 1,
+    "t": "Nedorėlis bėga, kai niekas nesiveja, o teisusis yra drąsus kaip jaunas liūtas."
+  },
+  {
+    "i": 17264,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 2,
+    "t": "Kai šalis sukyla, daugėja kunigaikščių, bet su išmintingu ir išmokytu žmogumi ateina stabilumas."
+  },
+  {
+    "i": 17265,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 3,
+    "t": "Nedoras žmogus, kuris engia vargšus, yra kaip niokojantis lietus ir daugiau duonos."
+  },
+  {
+    "i": 17266,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 4,
+    "t": "Tie, kurie apleidžia įstatymą, giria nedorėlį, o tie, kurie laikosi įstatymo, pyksta ant jų."
+  },
+  {
+    "i": 17267,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 5,
+    "t": "Nedorėliai nesupranta teisingumo, o tie, kurie ieško Viešpaties, supranta viską."
+  },
+  {
+    "i": 17268,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 6,
+    "t": "Geriau vargšas, kuris elgiasi sąžiningai, negu žmogus su iškreiptais keliais, net jei jis būtų turtingas."
+  },
+  {
+    "i": 17269,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 7,
+    "t": "Kas laikosi įstatymo, yra protingas sūnus, o kas lankosi pas paleistuvius, yra savo tėvo gėda."
+  },
+  {
+    "i": 17270,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 8,
+    "t": "Kas didina savo turtus palūkanomis ir procentais, renka juos tam, kuris apdovanos vargšus."
+  },
+  {
+    "i": 17271,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 9,
+    "t": "Kas užsikemša ausis, kad negirdėtų įstatymo, jo malda netgi yra bjaurastis."
+  },
+  {
+    "i": 17272,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 10,
+    "t": "Kas nukreipia tiesius žmones į blogą kelią, įkris į savo duobę. Sąžiningi žmonės paveldės laimę."
+  },
+  {
+    "i": 17273,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 11,
+    "t": "Turtingas žmogus yra išmintingas savo akyse, bet protingas vargšas jį demaskuoja."
+  },
+  {
+    "i": 17274,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 12,
+    "t": "Kai džiūgauja teisūs, tai yra didelis pasididžiavimas, kai pakyla nedorėliai, žmonės slepiasi."
+  },
+  {
+    "i": 17275,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 13,
+    "t": "Kas slepia savo nusižengimus, nepasiseks; kas juos išpažįsta ir atsisako, gaus gailestingumą."
+  },
+  {
+    "i": 17276,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 14,
+    "t": "Laimingas žmogus, kuris visada yra budrus; kas užkietina savo širdį, pateks į nelaimę."
+  },
+  {
+    "i": 17277,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 15,
+    "t": "Riaumojantis liūtas, puolantis lokys – toks nedoras valdovas silpnai tautai."
+  },
+  {
+    "i": 17278,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 16,
+    "t": "Kvailas kunigaikštis yra turtingas prievartavimų, kas nekenčia godumo, pratęs savo dienas."
+  },
+  {
+    "i": 17279,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 17,
+    "t": "Žmogus, kaltas dėl nužudymo, bėgs iki pat kapo: tenesustabdo jo!"
+  },
+  {
+    "i": 17280,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 18,
+    "t": "Kas dorai elgiasi, bus išgelbėtas, o kas klastingai vaikšto dvejais keliais, į vieną iš jų įklius."
+  },
+  {
+    "i": 17281,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 19,
+    "t": "Kas dirba savo žemę, bus prisotintas duonos, o kas vaikosi miražų, bus prisotintas skurdo."
+  },
+  {
+    "i": 17282,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 20,
+    "t": "Ištikimas žmogus bus apdovanotas palaiminimais, o kas skuba praturtėti, neliks nenubaustas."
+  },
+  {
+    "i": 17283,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 21,
+    "t": "Nedera atsižvelgti į asmenis, bet dėl kąsnio duonos žmogus įvykdo nusikaltimą."
+  },
+  {
+    "i": 17284,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 22,
+    "t": "Jis bėga paskui turtus, godus žmogus, nežinodamas, kad jį ištiks badas."
+  },
+  {
+    "i": 17285,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 23,
+    "t": "Kas bara kitą, galiausiai pelnys palankumą labiau nei pataikūnas."
+  },
+  {
+    "i": 17286,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 24,
+    "t": "Kas vagia iš savo tėvo ir motinos sakydamas: \"Čia nėra nusikaltimo!\", yra plėšiko bendrininkas."
+  },
+  {
+    "i": 17287,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 25,
+    "t": "Pavydus žmogus kelia ginčą, o kas pasitiki Viešpačiu, klestės."
+  },
+  {
+    "i": 17288,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 26,
+    "t": "Kas pasitiki savo protu, yra kvailys, o kas vaikšto su išmintimi, bus išgelbėtas."
+  },
+  {
+    "i": 17289,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 27,
+    "t": "Kas duoda vargšams, nepatirs bado, bet kas užmerkia akis, sulauks gausaus prakeikimo."
+  },
+  {
+    "i": 17290,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 28,
+    "t": "Kai pakyla nedorėliai, kiekvienas slepiasi, bet kai jie žūsta, teisieji dauginasi."
+  },
+  {
+    "i": 17291,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 1,
+    "t": "Kas, sulaukęs priekaištų, sustingdo sprandą, bus sulaužytas staiga ir be išgydymo."
+  },
+  {
+    "i": 17292,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 2,
+    "t": "Kai teisieji dauginasi, tauta džiaugiasi, o kai nedorėliai viešpatauja, tauta dejuoja."
+  },
+  {
+    "i": 17293,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 3,
+    "t": "Kas myli išmintį, džiugina savo tėvą, o kas lankosi pas prostitutes, iššvaisto savo turtą."
+  },
+  {
+    "i": 17294,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 4,
+    "t": "Teisingumu karalius padaro šalį klestinčią, o išnaudotojas ją veda į pražūtį."
+  },
+  {
+    "i": 17295,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 5,
+    "t": "Žmogus, kuris pataikauja savo artimui, tiesia tinklą po jo kojomis."
+  },
+  {
+    "i": 17296,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 6,
+    "t": "Nedorėlio nusikaltimuose yra spąstai, bet teisusis džiūgauja ir linksminasi."
+  },
+  {
+    "i": 17297,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 7,
+    "t": "Teisusis žino silpnųjų priežastį, o nedorėlis neturi proto jos pažinti."
+  },
+  {
+    "i": 17298,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 8,
+    "t": "Pajuokėjai sukelia mieste sumaištį, bet išmintingieji numalšina pyktį."
+  },
+  {
+    "i": 17299,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 9,
+    "t": "Jei išmintingas žmogus bylinėjasi su kvailiu, nesvarbu, ar jis pyksta, ar juokauja, neturės ramybės."
+  }
+]

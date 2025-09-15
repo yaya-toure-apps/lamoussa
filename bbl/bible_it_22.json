@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2200,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 6,
+    "t": "olio per il candelabro, aromi per l'olio dell'unzione e l'incenso fragrante;"
+  },
+  {
+    "i": 2201,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 7,
+    "t": "pietre di cornalina e pietre da incastonare nell'efod e nel pettorale."
+  },
+  {
+    "i": 2202,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 8,
+    "t": "Edificami un santuario, affinché io possa dimorare in mezzo a loro."
+  },
+  {
+    "i": 2203,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 9,
+    "t": "Farai ogni cosa secondo il modello del Tabernacolo e il modello del suo arredamento che io ti mostrerò."
+  },
+  {
+    "i": 2204,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 10,
+    "t": "«Farai un'arca di legno d'acacia, lunga due cubiti e mezzo, larga un cubito e mezzo e alta un cubito e mezzo."
+  },
+  {
+    "i": 2205,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 11,
+    "t": "La rivestirai d'oro puro, dentro e fuori, e le farai intorno una ghirlanda d'oro."
+  },
+  {
+    "i": 2206,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 12,
+    "t": "Fonderai per essa quattro anelli d'oro e li metterai ai suoi quattro piedi: due anelli da un lato e due anelli dall'altro."
+  },
+  {
+    "i": 2207,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 13,
+    "t": "Farai anche delle stanghe di legno d'acacia e le rivestirai d'oro,"
+  },
+  {
+    "i": 2208,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 14,
+    "t": "e farai passare le stanghe negli anelli sui lati dell'arca, per portarla."
+  },
+  {
+    "i": 2209,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 15,
+    "t": "Le stanghe rimarranno negli anelli dell'arca e non ne saranno tolte."
+  },
+  {
+    "i": 2210,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 16,
+    "t": "Nell'arca metterai la Testimonianza che io ti darò."
+  },
+  {
+    "i": 2211,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 17,
+    "t": "Farai anche un propiziatorio d'oro puro, lungo due cubiti e mezzo e largo un cubito e mezzo."
+  },
+  {
+    "i": 2212,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 18,
+    "t": "Farai due cherubini d'oro lavorato a martello; li farai alle due estremità del propiziatorio."
+  },
+  {
+    "i": 2213,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 19,
+    "t": "Farai un cherubino a un'estremità e l'altro cherubino all'altra estremità; farai i cherubini tutt'uno con il propiziatorio, alle sue due estremità."
+  },
+  {
+    "i": 2214,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 20,
+    "t": "I cherubini avranno le ali spiegate verso l'alto, proteggendo il propiziatorio con le loro ali e guardandosi l'un l'altro. Le facce dei cherubini saranno rivolte verso il propiziatorio."
+  },
+  {
+    "i": 2215,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 21,
+    "t": "Metterai il propiziatorio sopra l'arca e nell'arca metterai la Testimonianza che io ti darò."
+  },
+  {
+    "i": 2216,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 22,
+    "t": "Là io ti incontrerò; dal propiziatorio, tra i due cherubini che sono sull'arca della Testimonianza, ti darò i miei ordini per gli Israeliti."
+  },
+  {
+    "i": 2217,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 23,
+    "t": "«Farai una tavola di legno d'acacia, lunga due cubiti, larga un cubito e alta un cubito e mezzo."
+  },
+  {
+    "i": 2218,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 24,
+    "t": "La rivestirai d'oro puro e le farai intorno una ghirlanda d'oro."
+  },
+  {
+    "i": 2219,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 25,
+    "t": "Intorno le farai una cornice larga un palmo e farai una ghirlanda d'oro intorno alla cornice."
+  },
+  {
+    "i": 2220,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 26,
+    "t": "Le farai quattro anelli d'oro e li metterai ai quattro angoli, dove sono i quattro piedi."
+  },
+  {
+    "i": 2221,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 27,
+    "t": "Gli anelli saranno vicini alla cornice, per farvi passare le stanghe per portare la tavola."
+  },
+  {
+    "i": 2222,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 28,
+    "t": "Farai le stanghe di legno d'acacia e le rivestirai d'oro; serviranno per portare la tavola."
+  },
+  {
+    "i": 2223,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 29,
+    "t": "Farai i suoi piatti, le sue coppe, le sue brocche e le sue tazze per le libazioni; le farai d'oro puro,"
+  },
+  {
+    "i": 2224,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 30,
+    "t": "e sulla tavola metterai sempre davanti a me i pani dell'offerta."
+  },
+  {
+    "i": 2225,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 31,
+    "t": "Farai un candelabro d'oro puro; il candelabro, la sua base e il suo fusto saranno lavorati a martello; i suoi calici, i suoi bulbi e i suoi fiori saranno tutt'uno con esso."
+  },
+  {
+    "i": 2226,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 32,
+    "t": "Sei bracci usciranno dai suoi lati: tre bracci del candelabro da un lato e tre bracci del candelabro dall'altro."
+  },
+  {
+    "i": 2227,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 33,
+    "t": "Sul primo braccio ci saranno tre calici a forma di fiore di mandorlo, con bulbo e fiore; sul secondo braccio ci saranno anche tre calici a forma di fiore di mandorlo, con bulbo e fiore; così sarà per i sei bracci che escono dal candelabro."
+  },
+  {
+    "i": 2228,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 34,
+    "t": "Sul candelabro stesso ci saranno quattro calici a forma di fiore di mandorlo, con bulbo e fiore:"
+  },
+  {
+    "i": 2229,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 35,
+    "t": "un bulbo sotto i primi due bracci che escono dal candelabro, un bulbo sotto i due bracci successivi e un bulbo sotto gli ultimi due bracci; così per i sei bracci che escono dal candelabro."
+  },
+  {
+    "i": 2230,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 36,
+    "t": "I bulbi e i bracci saranno tutt'uno con il candelabro; il tutto sarà fatto di un solo blocco d'oro puro lavorato a martello."
+  },
+  {
+    "i": 2231,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 37,
+    "t": "Poi farai le sue sette lampade; vi si metteranno sopra in modo che illuminino la parte anteriore."
+  },
+  {
+    "i": 2232,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 38,
+    "t": "I suoi smoccolatoi e i suoi portacenere saranno d'oro puro."
+  },
+  {
+    "i": 2233,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 39,
+    "t": "Lo farai, con tutti i suoi accessori, con un talento d'oro puro."
+  },
+  {
+    "i": 2234,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 40,
+    "t": "Guarda ed esegui secondo il modello che ti è mostrato sul monte."
+  },
+  {
+    "i": 2235,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 1,
+    "t": "«Quanto al tabernacolo, lo farai con dieci teli di lino fino ritorto, di porpora viola, scarlatta e cremisi; li farai ricamati con cherubini."
+  },
+  {
+    "i": 2236,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 2,
+    "t": "La lunghezza di un telo sarà di ventotto cubiti e la sua larghezza di quattro cubiti; tutti i teli avranno le stesse dimensioni."
+  },
+  {
+    "i": 2237,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 3,
+    "t": "Cinque dei teli saranno uniti l'uno all'altro e gli altri cinque teli saranno uniti l'uno all'altro."
+  },
+  {
+    "i": 2238,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 4,
+    "t": "Farai dei passanti di porpora viola al bordo del primo telo, all'estremità della giuntura, e farai lo stesso al bordo del telo che chiude la seconda giuntura."
+  },
+  {
+    "i": 2239,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 5,
+    "t": "Farai cinquanta passanti al primo telo e cinquanta passanti all'estremità del telo della seconda giuntura, in modo che i passanti corrispondano l'uno all'altro."
+  },
+  {
+    "i": 2240,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 6,
+    "t": "Farai anche cinquanta fermagli d'oro e unirai i teli l'uno all'altro con i fermagli; così il tabernacolo sarà un pezzo unico."
+  },
+  {
+    "i": 2241,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 7,
+    "t": "Farai dei teli di pelo di capra per formare una tenda sopra il tabernacolo; ne farai undici."
+  },
+  {
+    "i": 2242,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 8,
+    "t": "La lunghezza di un telo sarà di trenta cubiti e la sua larghezza di quattro cubiti; gli undici teli avranno le stesse dimensioni."
+  },
+  {
+    "i": 2243,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 9,
+    "t": "Unirai cinque teli da una parte e sei teli dall'altra e ripiegherai il sesto telo sul davanti della tenda."
+  },
+  {
+    "i": 2244,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 10,
+    "t": "Farai cinquanta passanti al bordo del primo telo, all'estremità della prima giuntura, e cinquanta passanti al bordo del telo della seconda giuntura."
+  },
+  {
+    "i": 2245,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 11,
+    "t": "Farai cinquanta fermagli di bronzo e metterai i fermagli nei passanti, per unire la tenda in modo che sia un pezzo unico."
+  },
+  {
+    "i": 2246,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 12,
+    "t": "Quanto a ciò che avanzerà dei teli della tenda, la metà del telo in più ricadrà sulla parte posteriore del tabernacolo."
+  },
+  {
+    "i": 2247,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 13,
+    "t": "Il cubito in più da una parte e dall'altra, sulla lunghezza dei teli della tenda, ricadrà sui lati del tabernacolo, da una parte e dall'altra, per coprirlo."
+  },
+  {
+    "i": 2248,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 14,
+    "t": "Farai per la tenda una copertura di pelli di montone tinte di rosso e una copertura di cuoio fine sopra di essa."
+  },
+  {
+    "i": 2249,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 15,
+    "t": "«Farai per il tabernacolo delle tavole di legno d'acacia, che saranno erette in piedi."
+  },
+  {
+    "i": 2250,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 16,
+    "t": "Ogni tavola sarà lunga dieci cubiti e larga un cubito e mezzo."
+  },
+  {
+    "i": 2251,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 17,
+    "t": "Ogni tavola avrà due tenoni uniti; farai così per tutte le tavole del tabernacolo."
+  },
+  {
+    "i": 2252,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 18,
+    "t": "Farai le tavole per costituire il tabernacolo: venti tavole per il lato sud, verso il mezzogiorno."
+  },
+  {
+    "i": 2253,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 19,
+    "t": "Farai quaranta basi d'argento sotto le venti tavole: due basi sotto una tavola per i suoi due tenoni e due basi sotto un'altra tavola per i suoi due tenoni."
+  },
+  {
+    "i": 2254,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 20,
+    "t": "Per il secondo lato del tabernacolo, il lato nord, ci saranno venti tavole"
+  },
+  {
+    "i": 2255,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 21,
+    "t": "e quaranta basi d'argento: due basi sotto una tavola e due basi sotto un'altra tavola."
+  },
+  {
+    "i": 2256,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 22,
+    "t": "Per il fondo del tabernacolo, verso il mare, farai sei tavole,"
+  },
+  {
+    "i": 2257,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 23,
+    "t": "e farai due tavole per gli angoli del fondo del tabernacolo."
+  },
+  {
+    "i": 2258,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 24,
+    "t": "Le tavole saranno unite alla base e lo resteranno fino alla cima, all'altezza del primo anello. Così sarà per le due tavole destinate ai due angoli."
+  },
+  {
+    "i": 2259,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 25,
+    "t": "Ci saranno dunque otto tavole, con le loro basi d'argento: sedici basi in tutto: due basi sotto una prima tavola e due basi sotto un'altra tavola."
+  },
+  {
+    "i": 2260,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 26,
+    "t": "Farai delle traverse di legno d'acacia: cinque per le tavole del primo lato del tabernacolo,"
+  },
+  {
+    "i": 2261,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 27,
+    "t": "cinque traverse per le tavole del secondo lato del tabernacolo e cinque traverse per le tavole che formano il fondo del tabernacolo, verso ovest."
+  },
+  {
+    "i": 2262,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 28,
+    "t": "La traversa mediana, posta a metà altezza, unirà le tavole da un'estremità all'altra."
+  },
+  {
+    "i": 2263,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 29,
+    "t": "Rivestirai d'oro le tavole, farai loro degli anelli d'oro dove si alloggeranno le traverse e rivestirai le traverse d'oro."
+  },
+  {
+    "i": 2264,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 30,
+    "t": "Così erigerai il tabernacolo, secondo il modello che ti è stato mostrato sul monte."
+  },
+  {
+    "i": 2265,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 31,
+    "t": "«Farai un velo di porpora viola, scarlatta e cremisi, e di lino fino ritorto, ricamato con cherubini."
+  },
+  {
+    "i": 2266,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 32,
+    "t": "Lo metterai su quattro colonne d'acacia rivestite d'oro, munite di ganci d'oro e poste su quattro basi d'argento."
+  },
+  {
+    "i": 2267,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 33,
+    "t": "Metterai il velo sotto i fermagli, introdurrai là, dietro il velo, l'arca della Testimonianza e il velo segnerà per voi la separazione tra il luogo santo e il luogo santissimo."
+  },
+  {
+    "i": 2268,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 34,
+    "t": "Metterai il propiziatorio sull'arca della Testimonianza, nel luogo santissimo."
+  },
+  {
+    "i": 2269,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 35,
+    "t": "Collocherai la tavola fuori del velo e il candelabro di fronte alla tavola, sul lato sud del tabernacolo, e metterai la tavola sul lato nord."
+  },
+  {
+    "i": 2270,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 36,
+    "t": "Farai per l'ingresso della tenda una cortina ricamata di porpora viola, scarlatta e cremisi, e di lino fino ritorto."
+  },
+  {
+    "i": 2271,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 37,
+    "t": "Farai per questa cortina cinque colonne d'acacia e le rivestirai d'oro; i loro ganci saranno d'oro e fonderai per esse cinque basi di bronzo."
+  },
+  {
+    "i": 2272,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 1,
+    "t": "«Farai l'altare di legno d'acacia; sarà quadrato, lungo cinque cubiti e largo cinque cubiti; sarà alto tre cubiti."
+  },
+  {
+    "i": 2273,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 2,
+    "t": "Farai ai suoi quattro angoli dei corni che sporgano dall'altare stesso e lo rivestirai di bronzo."
+  },
+  {
+    "i": 2274,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 3,
+    "t": "Farai i suoi vasi per togliere la cenere grassa, le sue pale, i suoi bacini per l'aspersione, le sue forchette e i suoi bracieri; farai di bronzo tutti gli accessori dell'altare."
+  },
+  {
+    "i": 2275,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 4,
+    "t": "Gli farai una graticola di bronzo a forma di rete e farai alle quattro estremità di questa rete quattro anelli di bronzo."
+  },
+  {
+    "i": 2276,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 5,
+    "t": "La metterai sotto la cornice dell'altare, in basso, in modo che sia a metà altezza dell'altare."
+  },
+  {
+    "i": 2277,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 6,
+    "t": "Farai delle stanghe per l'altare, stanghe di legno d'acacia, e le rivestirai di bronzo."
+  },
+  {
+    "i": 2278,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 7,
+    "t": "Si faranno passare le stanghe negli anelli, in modo che le stanghe siano dai due lati dell'altare quando lo si trasporta."
+  },
+  {
+    "i": 2279,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 8,
+    "t": "Lo farai vuoto, con tavole; lo farai come ti è stato mostrato sul monte."
+  },
+  {
+    "i": 2280,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 9,
+    "t": "\"Farai dunque il cortile del Tabernacolo. Dal lato meridionale, verso mezzogiorno, le cortine del cortile siano di bisso ritorto, della lunghezza di cento cubiti per un lato."
+  },
+  {
+    "i": 2281,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 10,
+    "t": "Le sue venti colonne e le loro venti basi siano di bronzo; i ganci delle colonne e le loro traverse siano d'argento."
+  },
+  {
+    "i": 2282,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 11,
+    "t": "\"Così pure dal lato settentrionale vi siano delle cortine della lunghezza di cento cubiti, con le loro venti colonne e le loro venti basi di bronzo; i ganci delle colonne e le loro traverse siano d'argento."
+  },
+  {
+    "i": 2283,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 12,
+    "t": "\"La larghezza del cortile dal lato occidentale sia di cinquanta cubiti, con le loro dieci colonne e le loro dieci basi."
+  },
+  {
+    "i": 2284,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 13,
+    "t": "\"La larghezza del cortile dal lato orientale sia di cinquanta cubiti."
+  },
+  {
+    "i": 2285,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 14,
+    "t": "\"Quindici cubiti di cortine siano da un lato dell'ingresso, con le loro tre colonne e le loro tre basi;"
+  },
+  {
+    "i": 2286,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 15,
+    "t": "\"e dall'altro lato dell'ingresso quindici cubiti di cortine, con le loro tre colonne e le loro tre basi."
+  },
+  {
+    "i": 2287,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 16,
+    "t": "\"Alla porta del cortile vi sia una cortina di venti cubiti, di giacinto, di porpora, di scarlatto e di bisso ritorto, ricamata, con le loro quattro colonne e le loro quattro basi."
+  },
+  {
+    "i": 2288,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 17,
+    "t": "\"Tutte le colonne intorno al cortile siano unite da traverse d'argento; i loro ganci siano d'argento e le loro basi di bronzo."
+  },
+  {
+    "i": 2289,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 18,
+    "t": "\"La lunghezza del cortile sia di cento cubiti, la larghezza di cinquanta e l'altezza di cinque cubiti. Le cortine siano di bisso ritorto e le loro basi di bronzo."
+  },
+  {
+    "i": 2290,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 19,
+    "t": "\"Tutti gli arredi del Tabernacolo per ogni suo uso, tutti i suoi picchetti e tutti i picchetti del cortile siano di bronzo."
+  },
+  {
+    "i": 2291,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 20,
+    "t": "\"Tu ordinerai ai figli d'Israele che ti portino olio puro d'oliva schiacciata per il candelabro, per tener sempre accesa una lampada."
+  },
+  {
+    "i": 2292,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 21,
+    "t": "\"Aaronne e i suoi figli la preparino, perché dalla sera al mattino essa arda davanti al Signore nella tenda del convegno, fuori del velo che sta davanti alla testimonianza. Sarà una legge perenne per i figli d'Israele, di generazione in generazione."
+  },
+  {
+    "i": 2293,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 1,
+    "t": "\"Tu farai accostare a te, tra i figli d'Israele, Aaronne tuo fratello e i suoi figli con lui, perché mi servano come sacerdoti: Aaronne, Nadab, Abiu, Eleazaro e Itamar, figli di Aaronne."
+  },
+  {
+    "i": 2294,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 2,
+    "t": "\"Farai per Aaronne, tuo fratello, vesti sacre, per onore e per decoro."
+  },
+  {
+    "i": 2295,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 3,
+    "t": "\"Parlerai a tutti gli uomini abili, che io ho ripieni di spirito di sapienza, perché facciano le vesti di Aaronne per consacrarlo perché mi serva come sacerdote."
+  },
+  {
+    "i": 2296,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 4,
+    "t": "\"Queste sono le vesti che faranno: il pettorale, l'efod, il manto, la tunica ricamata, il turbante e la cintura. Faranno le vesti sacre per Aaronne, tuo fratello, e per i suoi figli, perché mi servano come sacerdoti."
+  },
+  {
+    "i": 2297,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 5,
+    "t": "\"Prenderanno l'oro, il giacinto, la porpora, lo scarlatto e il bisso."
+  },
+  {
+    "i": 2298,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 6,
+    "t": "\"Faranno l'efod di oro, di giacinto, di porpora, di scarlatto e di bisso ritorto, lavorato ad arte."
+  },
+  {
+    "i": 2299,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 7,
+    "t": "\"Avrà due spalline, che saranno unite ai suoi due lati; così sarà unito."
+  }
+]

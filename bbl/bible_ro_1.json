@@ -1,0 +1,802 @@
+[
+  {
+    "i": 100,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 21,
+    "t": "Numele fratelui său era Iubal; acesta a fost tatăl tuturor celor ce cântă cu alăuta și cu cimpoiul."
+  },
+  {
+    "i": 101,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 22,
+    "t": "Țila a născut și ea pe Tubal-Cain, făuritorul tuturor uneltelor de aramă și de fier. Iar sora lui Tubal-Cain era Naama."
+  },
+  {
+    "i": 102,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 23,
+    "t": "Lameh a zis femeilor sale: „Ada și Țila, auziți glasul meu, femei ale lui Lameh, ascultați cuvântul meu: Am ucis un om pentru o rană, un tânăr pentru o vânătaie."
+  },
+  {
+    "i": 103,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 24,
+    "t": "Căci Cain va fi răzbunat de șapte ori, iar Lameh de șaptezeci și șapte de ori!”"
+  },
+  {
+    "i": 104,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 25,
+    "t": "Adam a cunoscut-o iarăși pe femeia sa și ea a născut un fiu și i-a pus numele Set, „căci”, zicea ea, „Dumnezeu mi-a dat un alt urmaș în locul lui Abel, pe care l-a ucis Cain”."
+  },
+  {
+    "i": 105,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 26,
+    "t": "Și lui Set i s-a născut un fiu și i-a pus numele Enos. Atunci au început oamenii să cheme numele Domnului."
+  },
+  {
+    "i": 106,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 1,
+    "t": "Aceasta este cartea neamului lui Adam. În ziua în care Dumnezeu l-a creat pe Adam, l-a făcut după chipul lui Dumnezeu."
+  },
+  {
+    "i": 107,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 2,
+    "t": "Bărbat și femeie i-a creat, i-a binecuvântat și le-a pus numele „Om”, în ziua în care au fost creați."
+  },
+  {
+    "i": 108,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 3,
+    "t": "Când Adam a împlinit o sută treizeci de ani, a născut un fiu după chipul și asemănarea sa și i-a pus numele Set."
+  },
+  {
+    "i": 109,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 4,
+    "t": "După ce l-a născut pe Set, Adam a mai trăit opt sute de ani și a născut fii și fiice."
+  },
+  {
+    "i": 110,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 5,
+    "t": "Toată durata vieții lui Adam a fost de nouă sute treizeci de ani, apoi a murit."
+  },
+  {
+    "i": 111,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 6,
+    "t": "Când Set a împlinit o sută cinci ani, l-a născut pe Enos."
+  },
+  {
+    "i": 112,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 7,
+    "t": "După ce l-a născut pe Enos, Set a mai trăit opt sute șapte ani și a născut fii și fiice."
+  },
+  {
+    "i": 113,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 8,
+    "t": "Toată durata vieții lui Set a fost de nouă sute doisprezece ani, apoi a murit."
+  },
+  {
+    "i": 114,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 9,
+    "t": "Când Enos a împlinit nouăzeci de ani, l-a născut pe Chenan."
+  },
+  {
+    "i": 115,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 10,
+    "t": "După ce l-a născut pe Chenan, Enos a mai trăit opt sute cincisprezece ani și a născut fii și fiice."
+  },
+  {
+    "i": 116,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 11,
+    "t": "Toată durata vieții lui Enos a fost de nouă sute cinci ani, apoi a murit."
+  },
+  {
+    "i": 117,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 12,
+    "t": "Când Chenan a împlinit șaptezeci de ani, l-a născut pe Mahalaleel."
+  },
+  {
+    "i": 118,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 13,
+    "t": "După ce l-a născut pe Mahalaleel, Chenan a mai trăit opt sute patruzeci de ani și a născut fii și fiice."
+  },
+  {
+    "i": 119,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 14,
+    "t": "Toată durata vieții lui Chenan a fost de nouă sute zece ani, apoi a murit."
+  },
+  {
+    "i": 120,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 15,
+    "t": "Când Mahalaleel a împlinit șaizeci și cinci de ani, l-a născut pe Iared."
+  },
+  {
+    "i": 121,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 16,
+    "t": "După ce l-a născut pe Iared, Mahalaleel a mai trăit opt sute treizeci de ani și a născut fii și fiice."
+  },
+  {
+    "i": 122,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 17,
+    "t": "Toată durata vieții lui Mahalaleel a fost de opt sute optzeci și cinci de ani, apoi a murit."
+  },
+  {
+    "i": 123,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 18,
+    "t": "Când Iared a împlinit o sută șaizeci și doi de ani, l-a născut pe Enoh."
+  },
+  {
+    "i": 124,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 19,
+    "t": "După ce l-a născut pe Enoh, Iared a mai trăit opt sute de ani și a născut fii și fiice."
+  },
+  {
+    "i": 125,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 20,
+    "t": "Toată durata vieții lui Iared a fost de nouă sute șaizeci și două de ani, apoi a murit."
+  },
+  {
+    "i": 126,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 21,
+    "t": "Când Enoh a împlinit șaizeci și cinci de ani, l-a născut pe Metusala."
+  },
+  {
+    "i": 127,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 22,
+    "t": "Enoh a umblat cu Dumnezeu. După ce l-a născut pe Metusala, Enoh a mai trăit trei sute de ani și a născut fii și fiice."
+  },
+  {
+    "i": 128,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 23,
+    "t": "Toată durata vieții lui Enoh a fost de trei sute șaizeci și cinci de ani."
+  },
+  {
+    "i": 129,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 24,
+    "t": "Enoh a umblat cu Dumnezeu, apoi a dispărut, căci Dumnezeu l-a luat."
+  },
+  {
+    "i": 130,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 25,
+    "t": "Când Metusala a împlinit o sută optzeci și șapte de ani, l-a născut pe Lameh."
+  },
+  {
+    "i": 131,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 26,
+    "t": "După ce l-a născut pe Lameh, Metusala a mai trăit șapte sute optzeci și doi de ani și a născut fii și fiice."
+  },
+  {
+    "i": 132,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 27,
+    "t": "Toată durata vieții lui Metusala a fost de nouă sute șaizeci și nouă de ani, apoi a murit."
+  },
+  {
+    "i": 133,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 28,
+    "t": "Când Lameh a împlinit o sută optzeci și doi de ani, a născut un fiu."
+  },
+  {
+    "i": 134,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 29,
+    "t": "I-a pus numele Noe, căci, zicea el, „acesta ne va aduce, în munca noastră și în truda mâinilor noastre, o mângâiere scoasă din pământul pe care l-a blestemat Domnul”."
+  },
+  {
+    "i": 135,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 30,
+    "t": "După ce l-a născut pe Noe, Lameh a mai trăit cinci sute nouăzeci și cinci de ani și a născut fii și fiice."
+  },
+  {
+    "i": 136,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 31,
+    "t": "Toată durata vieții lui Lameh a fost de șapte sute șaptezeci și șapte de ani, apoi a murit."
+  },
+  {
+    "i": 137,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 32,
+    "t": "Când Noe a împlinit cinci sute de ani, i-a născut pe Sem, Ham și Iafet."
+  },
+  {
+    "i": 138,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 1,
+    "t": "Când oamenii au început să se înmulțească pe fața pământului și le-au fost născute fiice,"
+  },
+  {
+    "i": 139,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 2,
+    "t": "fiii lui Dumnezeu au văzut că fiicele oamenilor erau frumoase și și-au luat de soții pe toate cele care le-au plăcut."
+  },
+  {
+    "i": 140,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 3,
+    "t": "Atunci Domnul a zis: „Duhul meu nu va rămâne în om pentru totdeauna, căci el nu este decât carne; viața lui nu va fi decât de o sută douăzeci de ani”."
+  },
+  {
+    "i": 141,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 4,
+    "t": "Uriașii erau pe pământ în acele zile (și chiar și mai târziu), când fiii lui Dumnezeu s-au unit cu fiicele oamenilor și ele le-au născut copii. Aceștia sunt eroii din vechime, oamenii cei faimoși."
+  },
+  {
+    "i": 142,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 5,
+    "t": "Domnul a văzut că răutatea omului era mare pe pământ și că inima lui nu zămislea decât gânduri rele în fiecare zi."
+  },
+  {
+    "i": 143,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 6,
+    "t": "Atunci Domnului i-a părut rău că l-a făcut pe om pe pământ și s-a mâhnit în inima lui."
+  },
+  {
+    "i": 144,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 7,
+    "t": "Și Domnul a zis: „Voi șterge de pe fața pământului pe oamenii pe care i-am creat – și odată cu oamenii, și vitele, și târâtoarele, și păsările cerului –, căci îmi pare rău că i-am făcut”."
+  },
+  {
+    "i": 145,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 8,
+    "t": "Dar Noe a găsit har în ochii Domnului."
+  },
+  {
+    "i": 146,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 9,
+    "t": "Aceasta este istoria lui Noe: Noe era un om drept, integru printre contemporanii săi, și umbla cu Dumnezeu."
+  },
+  {
+    "i": 147,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 10,
+    "t": "Noe a născut trei fii: pe Sem, Ham și Iafet."
+  },
+  {
+    "i": 148,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 11,
+    "t": "Pământul era stricat înaintea lui Dumnezeu și se umpluse de violență."
+  },
+  {
+    "i": 149,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 12,
+    "t": "Dumnezeu s-a uitat spre pământ: era stricat, căci orice făptură își stricase calea pe pământ."
+  },
+  {
+    "i": 150,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 13,
+    "t": "Atunci Dumnezeu i-a zis lui Noe: „S-a hotărât sfârșitul oricărei făpturi, căci pământul este plin de violență din cauza oamenilor, și iată că îi voi face să dispară de pe pământ."
+  },
+  {
+    "i": 151,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 14,
+    "t": "Fă-ți o arcă din lemn de chiparos; s-o faci în compartimente și s-o acoperi cu smoală pe dinăuntru și pe dinafară."
+  },
+  {
+    "i": 152,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 15,
+    "t": "Iată cum s-o faci: lungimea arcei să fie de trei sute de coți, lățimea de cincizeci de coți, iar înălțimea de treizeci de coți."
+  },
+  {
+    "i": 153,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 16,
+    "t": "Să faci un acoperiș arcei și să-l înalți cu un cot mai sus, să pui intrarea arcei pe o latură și să faci un prim, un al doilea și un al treilea etaj."
+  },
+  {
+    "i": 154,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 17,
+    "t": "Căci iată, eu voi aduce potopul, apele, peste pământ, pentru a nimici de sub cer orice făptură care are suflare de viață: tot ce este pe pământ va pieri."
+  },
+  {
+    "i": 155,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 18,
+    "t": "Dar voi încheia un legământ cu tine și vei intra în arcă tu și fiii tăi, femeia ta și femeile fiilor tăi cu tine."
+  },
+  {
+    "i": 156,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 19,
+    "t": "Din tot ce trăiește, din tot ce este carne, vei face să intre în arcă câte doi din fiecare specie, pentru a le ține în viață cu tine; să fie un mascul și o femelă."
+  },
+  {
+    "i": 157,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 20,
+    "t": "Din fiecare specie de păsări, din fiecare specie de vite, din fiecare specie de târâtoare, un cuplu va veni cu tine, pentru ca tu să le ții în viață."
+  },
+  {
+    "i": 158,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 21,
+    "t": "De partea ta, ia-ți din tot ce se mănâncă și fă-ți provizii: aceasta va sluji ca hrană pentru tine și pentru ele”."
+  },
+  {
+    "i": 159,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 22,
+    "t": "Noe a făcut așa; tot ce i-a poruncit Dumnezeu, așa a făcut."
+  },
+  {
+    "i": 160,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 1,
+    "t": "Domnul i-a zis lui Noe: „Intră în arcă, tu și toată familia ta, căci te-am văzut singurul drept înaintea mea în generația aceasta."
+  },
+  {
+    "i": 161,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 2,
+    "t": "Din toate animalele curate să iei câte șapte perechi, masculul și femela lui; din animalele care nu sunt curate să iei câte o pereche, masculul și femela lui"
+  },
+  {
+    "i": 162,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 3,
+    "t": "(și tot așa și din păsările cerului, câte șapte perechi, masculul și femela lui), pentru a perpetua rasa pe tot pământul."
+  },
+  {
+    "i": 163,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 4,
+    "t": "Căci peste încă șapte zile voi face să plouă pe pământ timp de patruzeci de zile și patruzeci de nopți și voi șterge de pe fața pământului toate făpturile pe care le-am făcut”."
+  },
+  {
+    "i": 164,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 5,
+    "t": "Noe a făcut tot ce i-a poruncit Domnul."
+  },
+  {
+    "i": 165,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 6,
+    "t": "Noe avea șase sute de ani când a venit potopul, apele pe pământ."
+  },
+  {
+    "i": 166,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 7,
+    "t": "Noe – cu fiii săi, cu femeia sa și cu femeile fiilor săi – a intrat în arcă pentru a scăpa de apele potopului."
+  },
+  {
+    "i": 167,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 8,
+    "t": "(Din animalele curate și din animalele care nu sunt curate, din păsări și din tot ce se târăște pe pământ,"
+  },
+  {
+    "i": 168,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 9,
+    "t": "câte un cuplu a intrat în arca lui Noe, un mascul și o femelă, așa cum îi poruncise Dumnezeu lui Noe.)"
+  },
+  {
+    "i": 169,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 10,
+    "t": "După șapte zile, apele potopului au venit pe pământ."
+  },
+  {
+    "i": 170,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 11,
+    "t": "În anul șase sute din viața lui Noe, în a doua lună, în ziua a șaptesprezecea a lunii, în ziua aceea au țâșnit toate izvoarele adâncului celui mare și s-au deschis stăvilarele cerului."
+  },
+  {
+    "i": 171,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 12,
+    "t": "A plouat pe pământ timp de patruzeci de zile și patruzeci de nopți."
+  },
+  {
+    "i": 172,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 13,
+    "t": "În chiar ziua aceea, Noe și fiii săi, Sem, Ham și Iafet, cu femeia lui Noe și cu cele trei femei ale fiilor săi, au intrat în arcă,"
+  },
+  {
+    "i": 173,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 14,
+    "t": "și cu ei fiarele sălbatice de tot felul, vitele de tot felul, târâtoarele de tot felul care se târăsc pe pământ, păsările de tot felul, toate păsările, tot ce are aripi."
+  },
+  {
+    "i": 174,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 15,
+    "t": "La Noe a intrat în arcă un cuplu din tot ce este carne, având suflare de viață,"
+  },
+  {
+    "i": 175,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 16,
+    "t": "și cei care au intrat erau un mascul și o femelă din tot ce este carne, așa cum îi poruncise Dumnezeu. Și Domnul a închis ușa după Noe."
+  },
+  {
+    "i": 176,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 17,
+    "t": "Potopul a durat patruzeci de zile pe pământ; apele au crescut și au ridicat arca, care s-a înălțat deasupra pământului."
+  },
+  {
+    "i": 177,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 18,
+    "t": "Apele au crescut și au sporit foarte mult pe pământ, iar arca plutea la suprafața apelor."
+  },
+  {
+    "i": 178,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 19,
+    "t": "Apele au crescut tot mai mult pe pământ și au fost acoperiți toți munții cei înalți care sunt sub cerul întreg."
+  },
+  {
+    "i": 179,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 20,
+    "t": "Apele au crescut cu cincisprezece coți mai sus, acoperind munții."
+  },
+  {
+    "i": 180,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 21,
+    "t": "Şi a pierit toată făptura care se mişca pe pământ, atât păsările, cât şi vitele şi fiarele şi toate vietăţile care mişună pe pământ, şi toţi oamenii."
+  },
+  {
+    "i": 181,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 22,
+    "t": "Tot ce avea suflare de duh de viaţă în nări, din tot ce era pe pământ uscat, a murit."
+  },
+  {
+    "i": 182,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 23,
+    "t": "Şi au fost nimicite toate făpturile care erau pe faţa pământului, de la om până la vite, până la târâtoare şi până la păsările cerului; au fost nimicite de pe pământ şi a rămas numai Noe şi ce era cu el în corabie."
+  },
+  {
+    "i": 183,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 24,
+    "t": "Şi au stat apele puternice pe pământ o sută cincizeci de zile."
+  },
+  {
+    "i": 184,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 1,
+    "t": "Atunci şi-a adus aminte Dumnezeu de Noe şi de toate fiarele şi de toate vitele care erau cu el în corabie; şi a trecut Dumnezeu un vânt peste pământ, şi apele s-au potolit."
+  },
+  {
+    "i": 185,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 2,
+    "t": "Şi s-au închis izvoarele adâncului şi stăvilarele cerurilor şi a încetat ploaia din ceruri."
+  },
+  {
+    "i": 186,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 3,
+    "t": "Şi apele s-au tras de pe pământ, încetul cu încetul, şi au început să se micşoreze după o sută cincizeci de zile."
+  },
+  {
+    "i": 187,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 4,
+    "t": "În luna a şaptea, în ziua a şaptesprezecea a lunii, corabia s-a oprit pe munţii Ararat."
+  },
+  {
+    "i": 188,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 5,
+    "t": "Apele au mers scăzând până în luna a zecea; şi în ziua întâi a lunii a zecea s-au văzut vârfurile munţilor."
+  },
+  {
+    "i": 189,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 6,
+    "t": "După patruzeci de zile, Noe a deschis fereastra pe care o făcuse la corabie"
+  },
+  {
+    "i": 190,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 7,
+    "t": "şi a dat drumul corbului, care a ieşit, ducându-se şi întorcându-se, până ce au secat apele de pe pământ."
+  },
+  {
+    "i": 191,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 8,
+    "t": "Apoi a dat drumul porumbelului, ca să vadă dacă s-au micşorat apele de pe faţa pământului."
+  },
+  {
+    "i": 192,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 9,
+    "t": "Dar porumbelul n-a găsit unde să-şi pună piciorul şi s-a întors la el în corabie, căci apele erau încă pe toată faţa pământului; Noe a întins mâna, l-a luat şi l-a băgat la el în corabie."
+  },
+  {
+    "i": 193,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 10,
+    "t": "A mai aşteptat alte şapte zile şi a dat drumul din nou porumbelului afară din corabie."
+  },
+  {
+    "i": 194,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 11,
+    "t": "Porumbelul s-a întors la el seara, şi iată că avea în cioc un vlăstar verde de măslin. Astfel a cunoscut Noe că apele se micşoraseră pe pământ."
+  },
+  {
+    "i": 195,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 12,
+    "t": "A mai aşteptat alte şapte zile şi a dat drumul porumbelului, dar nu s-a mai întors la el."
+  },
+  {
+    "i": 196,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 13,
+    "t": "În anul al şase sute unu al vieţii lui Noe, în ziua întâi a lunii întâi, au secat apele pe pământ. Noe a ridicat acoperişul corabiei, s-a uitat şi iată că faţa pământului se uscase."
+  },
+  {
+    "i": 197,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 14,
+    "t": "În luna a doua, în ziua a douăzeci şi şaptea a lunii, pământul era uscat."
+  },
+  {
+    "i": 198,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 15,
+    "t": "Atunci a vorbit Dumnezeu lui Noe şi a zis:"
+  },
+  {
+    "i": 199,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 16,
+    "t": "„Ieşi din corabie, tu şi soţia ta, fiii tăi şi soţiile fiilor tăi împreună cu tine."
+  }
+]

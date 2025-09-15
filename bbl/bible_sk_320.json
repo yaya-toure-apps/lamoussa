@@ -1,0 +1,795 @@
+[
+  {
+    "i": 32000,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 28,
+    "t": "volajúc: Muži izraelskí, pomôžte! Toto je ten muž, ktorý učí všetkých všade proti ľudu, proti Zákonu a proti tomuto miestu. Ba ešte aj Grékov voviedol do chrámu a poškvrnil toto sväté miesto!"
+  },
+  {
+    "i": 32001,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 29,
+    "t": "Lebo predtým videli s ním v meste Efezana Trofima a domnievali sa, že ho Pavol voviedol do chrámu."
+  },
+  {
+    "i": 32002,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 30,
+    "t": "V celom meste nastal rozruch a ľud sa zbehol. Chopili sa Pavla, vyvliekli ho z chrámu a hneď boli zatvorené dvere."
+  },
+  {
+    "i": 32003,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 31,
+    "t": "Keď ho chceli zabiť, prišla správa tribúnovi kohorty: Celý Jeruzalem je v zmätku!"
+  },
+  {
+    "i": 32004,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 32,
+    "t": "Ten hneď vzal vojakov a stotníkov a vrútil sa na nich. Keď uvideli tribúna a vojakov, prestali biť Pavla."
+  },
+  {
+    "i": 32005,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 33,
+    "t": "Tribún pristúpil, chytil ho a rozkázal ho spútať dvoma reťazami. Potom sa vypytoval, kto je a čo urobil."
+  },
+  {
+    "i": 32006,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 34,
+    "t": "Zástup však kričal rôzne veci. Keď pre ten hluk nemohol nič isté zistiť, rozkázal ho odviesť do pevnosti."
+  },
+  {
+    "i": 32007,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 35,
+    "t": "Keď prišiel na schody, vojaci ho museli niesť pre násilie davu."
+  },
+  {
+    "i": 32008,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 36,
+    "t": "Lebo zástup ľudu išiel za ním a kričal: Zabi ho!"
+  },
+  {
+    "i": 32009,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 37,
+    "t": "Keď ho už mali zaviesť do pevnosti, Pavol povedal tribúnovi: Smieš mi povedať slovo? On odpovedal: Vieš po grécky?"
+  },
+  {
+    "i": 32010,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 38,
+    "t": "Ty teda nie si ten Egypťan, ktorý prednedávnom vyvolal štyritisíc vrahov a odviedol ich na púšť?"
+  },
+  {
+    "i": 32011,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 39,
+    "t": "Pavol však povedal: Ja som Žid, rodák z Tarzu v Cilícii, občan nie bezvýznamného mesta. Prosím ťa, dovoľ mi prehovoriť k ľudu."
+  },
+  {
+    "i": 32012,
+    "b": 50,
+    "c": 5221,
+    "r": 5221,
+    "o": 40,
+    "t": "Keď mu to dovolil, Pavol sa postavil na schody, pokynul rukou ľudu, a keď nastalo veľké ticho, prehovoril k nim po hebrejsky:"
+  },
+  {
+    "i": 32013,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 1,
+    "t": "Bratia a otcovia, počujte moju obranu pred vami!"
+  },
+  {
+    "i": 32014,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 2,
+    "t": "Keď počuli, že k nim hovorí po hebrejsky, tým viac sa utíšili. A on pokračoval:"
+  },
+  {
+    "i": 32015,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 3,
+    "t": "Ja som Žid, narodený v Tarze v Cilícii, ale vychovaný v tomto meste a vyučený u Gamaliela v presnosti otcovského Zákona. Bol som plný horlivosti pre Boha, ako ste aj vy všetci dnes."
+  },
+  {
+    "i": 32016,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 4,
+    "t": "Ja som prenasledoval túto Cestu až na smrť, spútaval som a dával do väzenia mužov i ženy,"
+  },
+  {
+    "i": 32017,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 5,
+    "t": "ako mi dosvedčí aj veľkňaz a celá rada starších. Od nich som dostal aj listy pre bratov v Damasku a išiel som ta, aby som aj tých, čo tam boli, spútaných priviedol do Jeruzalema na potrestanie."
+  },
+  {
+    "i": 32018,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 6,
+    "t": "Keď som šiel a blížil som sa k Damasku, okolo poludnia ma zrazu ožiarilo veľké svetlo z neba."
+  },
+  {
+    "i": 32019,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 7,
+    "t": "Padol som na zem a počul som hlas, ktorý mi hovoril: Šavol, Šavol, prečo ma prenasleduješ?"
+  },
+  {
+    "i": 32020,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 8,
+    "t": "Ja som odpovedal: Kto si, Pane? A on mi povedal: Ja som Ježiš Nazaretský, ktorého ty prenasleduješ."
+  },
+  {
+    "i": 32021,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 9,
+    "t": "Tí, čo boli so mnou, svetlo síce videli, ale hlas toho, ktorý so mnou hovoril, nepočuli."
+  },
+  {
+    "i": 32022,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 10,
+    "t": "Povedal som teda: Čo mám robiť, Pane? A Pán mi povedal: Vstaň a choď do Damasku a tam ti povedia všetko, čo ti je určené urobiť."
+  },
+  {
+    "i": 32023,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 11,
+    "t": "Keďže som pre jas toho svetla nevidel, sprievodcovia ma vzali za ruku a tak som prišiel do Damasku."
+  },
+  {
+    "i": 32024,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 12,
+    "t": "Tam bol istý Ananiáš, muž nábožný podľa Zákona, ktorý mal dobrú povesť u všetkých Židov bývajúcich v meste."
+  },
+  {
+    "i": 32025,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 13,
+    "t": "Ten prišiel ku mne, zastal si a povedal mi: Brat Šavol, otvor oči! A ja som v tej chvíli zazrel a videl som ho."
+  },
+  {
+    "i": 32026,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 14,
+    "t": "On povedal: Boh našich otcov ťa predurčil, aby si poznal jeho vôľu a videl Spravodlivého a počul hlas z jeho úst."
+  },
+  {
+    "i": 32027,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 15,
+    "t": "Lebo budeš mu svedkom pred všetkými ľuďmi o tom, čo si videl a počul."
+  },
+  {
+    "i": 32028,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 16,
+    "t": "A teraz, prečo váhaš? Vstaň, daj sa pokrstiť a zmy zo seba hriechy vzývaním jeho mena."
+  },
+  {
+    "i": 32029,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 17,
+    "t": "Keď som sa vrátil do Jeruzalema a modlil som sa v chráme, bol som vo vytržení."
+  },
+  {
+    "i": 32030,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 18,
+    "t": "Videl som ho a hovoril mi: Ponáhľaj sa a rýchlo odíď z Jeruzalema, lebo neprijmú tvoje svedectvo o mne. -"
+  },
+  {
+    "i": 32031,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 19,
+    "t": "Ja som povedal: Pane, oni vedia, že som zatváral a bičoval v synagógach tých, čo v teba veria,"
+  },
+  {
+    "i": 32032,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 20,
+    "t": "a keď preliali krv tvojho svedka Štefana, aj ja som tam stál, súhlasil som a strážil som šaty tých, čo ho zabíjali."
+  },
+  {
+    "i": 32033,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 21,
+    "t": "On mi však povedal: Choď, lebo ťa pošlem ďaleko k pohanom!"
+  },
+  {
+    "i": 32034,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 22,
+    "t": "Po tieto slová ho počúvali, ale potom vykríkli: Preč takého zo zeme! Lebo nie je hoden žiť."
+  },
+  {
+    "i": 32035,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 23,
+    "t": "Keď kričali, odhadzovali šaty a vyhadzovali prach do vzduchu,"
+  },
+  {
+    "i": 32036,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 24,
+    "t": "tribún ho rozkázal zaviesť do pevnosti a prikázal ho bičovaním vypočuť, aby sa dozvedel, prečo tak proti nemu kričia."
+  },
+  {
+    "i": 32037,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 25,
+    "t": "Keď ho natiahli na remene, Pavol povedal stotníkovi, ktorý tam stál: Smiete bičovať rímskeho občana, a ešte aj bez súdu?"
+  },
+  {
+    "i": 32038,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 26,
+    "t": "Keď to stotník počul, išiel k tribúnovi a oznámil mu to: Čo chceš robiť? Tento človek je rímsky občan."
+  },
+  {
+    "i": 32039,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 27,
+    "t": "Tribún prišiel k nemu a spýtal sa ho: Povedz mi, si rímsky občan? On odpovedal: Áno."
+  },
+  {
+    "i": 32040,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 28,
+    "t": "Tribún vravel: Ja som si toto občianstvo kúpil za veľké peniaze. Pavol povedal: Ale ja som sa s ním už narodil."
+  },
+  {
+    "i": 32041,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 29,
+    "t": "Tí, čo ho mali vypočúvať, hneď od neho odstúpili. Aj tribún sa naľakal, keď sa dozvedel, že je to rímsky občan, a že ho dal spútať."
+  },
+  {
+    "i": 32042,
+    "b": 50,
+    "c": 5222,
+    "r": 5222,
+    "o": 30,
+    "t": "Na druhý deň chcel vedieť, z čoho ho Židia vlastne obviňujú. Preto ho dal rozspútať a zvolal veľkňazov a celú radu a vyviedol Pavla a postavil ho pred nich."
+  },
+  {
+    "i": 32043,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 1,
+    "t": "Pavol uprene hľadel na radu a povedal: Bratia, až do dnešného dňa som pred Bohom žil s celým dobrým svedomím."
+  },
+  {
+    "i": 32044,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 2,
+    "t": "Veľkňaz Ananiáš rozkázal tým, čo stáli pri ňom, aby ho udreli po ústach."
+  },
+  {
+    "i": 32045,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 3,
+    "t": "Pavol mu povedal: Boh ťa udrie, stena obielená! Sedíš tu, aby si ma súdil podľa Zákona, a proti Zákonu rozkazuješ, aby ma bili?"
+  },
+  {
+    "i": 32046,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 4,
+    "t": "Tí, čo stáli pri ňom, povedali: Božieho veľkňaza urážaš?"
+  },
+  {
+    "i": 32047,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 5,
+    "t": "Pavol odvetil: Nevedel som, bratia, že je veľkňaz. Lebo je napísané: Predstaveného svojho ľudu nebudeš zlorečiť."
+  },
+  {
+    "i": 32048,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 6,
+    "t": "Pavol vedel, že jedna časť sú saduceji a druhá farizeji, preto zvolal v rade: Bratia, ja som farizej, syn farizejov. Pre nádej a pre vzkriesenie mŕtvych som súdený."
+  },
+  {
+    "i": 32049,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 7,
+    "t": "Len čo to povedal, vznikol spor medzi farizejmi a saducejmi a zhromaždenie sa rozdelilo."
+  },
+  {
+    "i": 32050,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 8,
+    "t": "Lebo saduceji hovoria, že niet vzkriesenia, ani anjela, ani ducha, a farizeji vyznávajú oboje."
+  },
+  {
+    "i": 32051,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 9,
+    "t": "Povstal veľký krik. Niektorí zákonníci z farizejskej strany vstali a prudko sa dohadovali: Nič zlého nenachádzame na tomto človeku. Azda k nemu hovoril duch alebo anjel!"
+  },
+  {
+    "i": 32052,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 10,
+    "t": "Spor sa zväčšoval. Tribún sa obával, aby Pavla neroztrhali, preto rozkázal vojakom, aby zostúpili, vytrhli ho spomedzi nich a zaviedli do pevnosti."
+  },
+  {
+    "i": 32053,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 11,
+    "t": "Na druhú noc sa mu zjavil Pán a povedal mu: Buď statočný! Ako si o mne svedčil v Jeruzaleme, tak budeš svedčiť aj v Ríme."
+  },
+  {
+    "i": 32054,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 12,
+    "t": "Keď nastal deň, Židia sa spolčili a zaviazali sa pod kliatbou, že nebudú jesť ani piť, kým nezabijú Pavla."
+  },
+  {
+    "i": 32055,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 13,
+    "t": "Bolo ich viac ako štyridsať, ktorí urobili toto sprisahanie."
+  },
+  {
+    "i": 32056,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 14,
+    "t": "Išli k veľkňazom a starším a povedali: Pod kliatbou sme sa zaviazali, že nič nepožijeme, kým nezabijeme Pavla."
+  },
+  {
+    "i": 32057,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 15,
+    "t": "Teraz teda vy s radou dohovorte tribúnovi, aby ho zajtra predviedol pred vás, akoby ste chceli jeho vec podrobnejšie prešetriť. A my sme hotoví zabiť ho, prv ako ta dôjde."
+  },
+  {
+    "i": 32058,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 16,
+    "t": "Syn Pavlovej sestry sa však dopočul o ich úkladoch. Išiel do pevnosti, vošiel ta a oznámil to Pavlovi."
+  },
+  {
+    "i": 32059,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 17,
+    "t": "Pavol si zavolal jedného zo stotníkov a povedal: Odveď tohto mládenca k tribúnovi, lebo mu má niečo oznámiť."
+  },
+  {
+    "i": 32060,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 18,
+    "t": "Ten ho vzal a odviedol k tribúnovi a povedal: Väzeň Pavol ma zavolal a poprosil ma, aby som k tebe priviedol tohto mládenca, ktorý ti má niečo povedať."
+  },
+  {
+    "i": 32061,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 19,
+    "t": "Tribún ho vzal za ruku, odišiel s ním bokom a spýtal sa ho: Čo mi chceš oznámiť?"
+  },
+  {
+    "i": 32062,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 20,
+    "t": "On odpovedal: Židia sa dohodli, že ťa budú prosiť, aby si zajtra predviedol Pavla pred radu, akoby chceli jeho vec podrobnejšie prešetriť."
+  },
+  {
+    "i": 32063,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 21,
+    "t": "Ale ty im never! Čaká naňho viac ako štyridsať mužov, ktorí sa pod kliatbou zaviazali, že nebudú jesť ani piť, kým ho nezabijú. Teraz sú hotoví a čakajú len na tvoj súhlas."
+  },
+  {
+    "i": 32064,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 22,
+    "t": "Tribún prepustil mládenca a prikázal mu: Nikomu nehovor, že si mi to oznámil."
+  },
+  {
+    "i": 32065,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 23,
+    "t": "Potom si zavolal dvoch stotníkov a povedal: Pripravte dvesto vojakov, sedemdesiat jazdcov a dvesto kopijníkov, aby tretej hodiny v noci odišli do Cézarey."
+  },
+  {
+    "i": 32066,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 24,
+    "t": "Pripravte aj zvieratá, aby posadili Pavla a bezpečne ho doviedli ku vladárovi Félixovi."
+  },
+  {
+    "i": 32067,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 25,
+    "t": "A napísal list v tomto znení:"
+  },
+  {
+    "i": 32068,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 26,
+    "t": "Klaudius Lyziáš najvznešenejšiemu vladárovi Félixovi pozdrav!"
+  },
+  {
+    "i": 32069,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 27,
+    "t": "Tohto muža Židia chytili a už ho chceli zabiť. Ale keď som sa dozvedel, že je to Riman, prišiel som s vojskom a vytrhol som ho."
+  },
+  {
+    "i": 32070,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 28,
+    "t": "Keď som sa chcel dozvedieť, z čoho ho obviňujú, predviedol som ho pred ich radu."
+  },
+  {
+    "i": 32071,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 29,
+    "t": "Zistil som, že ho obviňujú pre sporné otázky ich Zákona, ale že nie je obvinený z ničoho, čo by si zasluhovalo smrť alebo väzenie."
+  },
+  {
+    "i": 32072,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 30,
+    "t": "Keď mi však oznámili, že chystajú na toho muža úklady, hneď som ho poslal k tebe a jeho žalobcom som prikázal, aby pred tebou žalovali na neho."
+  },
+  {
+    "i": 32073,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 31,
+    "t": "Vojaci teda podľa rozkazu vzali Pavla a v noci ho doviedli do Antipatridy."
+  },
+  {
+    "i": 32074,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 32,
+    "t": "Na druhý deň sa jazdci s ním vrátili do pevnosti."
+  },
+  {
+    "i": 32075,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 33,
+    "t": "Keď došli do Cézarey, odovzdali vladárovi list a predviedli mu aj Pavla."
+  },
+  {
+    "i": 32076,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 34,
+    "t": "Keď si vladár prečítal list, spýtal sa, z ktorej je provincie. A keď sa dozvedel, že je z Cilície,"
+  },
+  {
+    "i": 32077,
+    "b": 50,
+    "c": 5223,
+    "r": 5223,
+    "o": 35,
+    "t": "povedal: Vypočujem ťa, keď prídu aj tvoji žalobcovia. A rozkázal ho strážiť v Herodesovej pretoriu."
+  },
+  {
+    "i": 32078,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 1,
+    "t": "O päť dní prišiel veľkňaz Ananiáš so staršími a s istým rečníkom Tertulom a pred vladárom žalovali na Pavla."
+  },
+  {
+    "i": 32079,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 2,
+    "t": "Keď ho zavolali, Tertulus začal žalobu takto: Vznešený Félix, pre teba užívame si mnohý pokoj a tvojou prozreteľnosťou sa tomuto národu darí dobre,"
+  },
+  {
+    "i": 32080,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 3,
+    "t": "Vo všetkom a na všetkých miestach s vďačnosťou prijímame, preskvostný Félix, tvoje dobrodenia."
+  },
+  {
+    "i": 32081,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 4,
+    "t": "Aby som ťa však ďalej neobťažoval, prosím ťa, aby si nás krátko vypočul s tvojou obvyklou láskavosťou."
+  },
+  {
+    "i": 32082,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 5,
+    "t": "Lebo sme zistili, že tento muž je mor: vyvoláva nepokoje medzi všetkými Židmi po celom svete a je vodcom sekty Nazaretských."
+  },
+  {
+    "i": 32083,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 6,
+    "t": "Ba aj chrám sa pokúsil znesvätiť, a preto sme ho zatkli."
+  },
+  { "i": 32084, "b": 50, "c": 5224, "r": 5224, "o": 7, "t": "[ … ]" },
+  {
+    "i": 32085,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 8,
+    "t": "Sám, keď ho vypočuješ, sa môžeš presvedčiť o pravdivosti všetkých týchto obvinení, ktoré proti nemu vznášame."
+  },
+  {
+    "i": 32086,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 9,
+    "t": "Židia sa k nemu pridali a potvrdili, že je to tak."
+  },
+  {
+    "i": 32087,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 10,
+    "t": "Keď mu miestodržiteľ dal znamenie, aby prehovoril, Pavol odpovedal: \"Viem, že už mnoho rokov spravuješ tento národ, preto s dôverou obhajujem svoju vec."
+  },
+  {
+    "i": 32088,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 11,
+    "t": "Môžeš sa sám presvedčiť, že nie je viac ako dvanásť dní, čo som vystúpil do Jeruzalema, aby som sa poklonil Bohu."
+  },
+  {
+    "i": 32089,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 12,
+    "t": "A v chráme, ani v synagógach, ani v meste ma nenašli, že by som sa s niekým hádal alebo poburoval ľud."
+  },
+  {
+    "i": 32090,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 13,
+    "t": "Ani ti nemôžu dokázať to, z čoho ma teraz obviňujú."
+  },
+  {
+    "i": 32091,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 14,
+    "t": "No priznávam ti, že podľa Cesty, ktorú oni nazývajú sektou, slúžim Bohu svojich otcov, verím všetkému, čo je napísané v Zákone a v Prorokoch,"
+  },
+  {
+    "i": 32092,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 15,
+    "t": "a mám v Bohu nádej, ktorú aj oni sami majú, že bude vzkriesenie spravodlivých i nespravodlivých."
+  },
+  {
+    "i": 32093,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 16,
+    "t": "Preto sa aj ja usilujem mať vždy čisté svedomie pred Bohom i pred ľuďmi."
+  },
+  {
+    "i": 32094,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 17,
+    "t": "Po mnohých rokoch som prišiel, aby som svojmu národu priniesol almužny a obete:"
+  },
+  {
+    "i": 32095,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 18,
+    "t": "vtedy ma našli v chráme; bol som očistený a nevyvolával som žiadny rozruch ani zmätok."
+  },
+  {
+    "i": 32096,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 19,
+    "t": "Ale niektorí Židia z Ázie... tí by mali pred tebou vystúpiť a obžalovať ma, ak majú niečo proti mne!"
+  },
+  {
+    "i": 32097,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 20,
+    "t": "Nech aspoň títo povedia, aký zločin na mne našli, keď som stál pred veľradou!"
+  },
+  {
+    "i": 32098,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 21,
+    "t": "Lebo ak nie pre tie jediné slová, ktoré som zvolal, stojac uprostred nich: Pre vzkriesenie mŕtvych som dnes súdený pred vami."
+  },
+  {
+    "i": 32099,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 22,
+    "t": "Félix, ktorý bol veľmi dobre oboznámený s tým, čo sa týka Cesty, ich odročil a povedal: \"Keď príde tribún Lysias, rozhodnem o vašej veci."
+  }
+]

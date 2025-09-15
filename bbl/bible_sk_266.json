@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26600,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 6,
+    "t": "Kto nenávidí pokarhanie, kráča cestou hriešnika, kto sa bojí Pána, obráti sa v srdci svojom."
+  },
+  {
+    "i": 26601,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 7,
+    "t": "Krásnorečník je známy všade, ale rozvážny človek pozná jeho slabosti."
+  },
+  {
+    "i": 26602,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 8,
+    "t": "Stavať svoj dom za peniaze iných je zhromažďovať kamene pre svoj hrob."
+  },
+  {
+    "i": 26603,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 9,
+    "t": "Zhromaždenie hriešnikov je hromada kúdele, ktorá skončí v plameni a ohni."
+  },
+  {
+    "i": 26604,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 10,
+    "t": "Cesta hriešnikov je dobre vydláždená, ale vedie do priepasti šeolu."
+  },
+  {
+    "i": 26605,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 11,
+    "t": "Kto zachováva zákon, ovláda svoju náklonnosť, dokonalosť bázne pred Pánom je múdrosť."
+  },
+  {
+    "i": 26606,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 12,
+    "t": "Ten sa nemôže nič naučiť pre nedostatok prirodzených darov, ale sú dary, ktoré plodí horkosť."
+  },
+  {
+    "i": 26607,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 13,
+    "t": "Vedomosti múdreho oplývajú ako potopa a jeho rada je ako živý prameň."
+  },
+  {
+    "i": 26608,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 14,
+    "t": "Srdce hlupáka je ako rozbitá nádoba, ktorá neudrží žiadne poznanie."
+  },
+  {
+    "i": 26609,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 15,
+    "t": "Ak vzdelaný človek počuje múdre slovo, váži si ho a pridáva k nemu svoje; ak ho počuje rozpustilý človek, nepáči sa mu, odvrhne ho za seba."
+  },
+  {
+    "i": 26610,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 16,
+    "t": "Reč hlupáka ťaží ako bremeno na ceste, ale na perách múdreho sa nachádza milosť."
+  },
+  {
+    "i": 26611,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 17,
+    "t": "Slovo rozumného človeka je vyhľadávané v zhromaždení, čo hovorí, každý uvažuje v srdci svojom."
+  },
+  {
+    "i": 26612,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 18,
+    "t": "Dom v ruinách, taká je múdrosť hlupáka, a vedomosti nerozumného sú nezmyselné reči."
+  },
+  {
+    "i": 26613,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 19,
+    "t": "Disciplína pre nerozumného sú okovy na jeho nohách a putá na jeho pravej ruke."
+  },
+  {
+    "i": 26614,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 20,
+    "t": "Hlupák sa hlasno smeje, smiech rozumného človeka je zriedkavý a diskrétny."
+  },
+  {
+    "i": 26615,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 21,
+    "t": "Pre rozumného človeka je disciplína zlatý šperk, náramok na jeho pravej ruke."
+  },
+  {
+    "i": 26616,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 22,
+    "t": "Hlupák sa ponáhľa vstúpiť, skúsený človek zaujme skromný postoj;"
+  },
+  {
+    "i": 26617,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 23,
+    "t": "od dverí sa nerozumný pozerá dovnútra, dobre vychovaný človek zostáva vonku."
+  },
+  {
+    "i": 26618,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 24,
+    "t": "Je to prejav zlého vychovania počúvať pri dverách, rozumný človek cíti z toho hanbu."
+  },
+  {
+    "i": 26619,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 25,
+    "t": "Pery táravého klebetia o tom, čo sa ho netýka, slová múdrych sú starostlivo zvážené."
+  },
+  {
+    "i": 26620,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 26,
+    "t": "Srdce hlupákov je v ich ústach, ale ústa múdrych sú ich srdcom."
+  },
+  {
+    "i": 26621,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 27,
+    "t": "Keď bezbožník preklína Satana, preklína sám seba."
+  },
+  {
+    "i": 26622,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 28,
+    "t": "Ohovárač si ubližuje sám sebe a spôsobuje, že ho nenávidia jeho blížni."
+  },
+  {
+    "i": 26623,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 1,
+    "t": "Leňoch je podobný zašpinenej skale, všetci sa mu posmievajú pre jeho hanbu."
+  },
+  {
+    "i": 26624,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 2,
+    "t": "Leňoch je podobný hŕstke odpadu, každý, kto sa ho dotkne, si zatrasie rukou."
+  },
+  {
+    "i": 26625,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 3,
+    "t": "Je hanbou pre otca, že dal život zle vychovanému synovi, a ak je to dcéra, spôsobí škodu."
+  },
+  {
+    "i": 26626,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 4,
+    "t": "Rozumná dcéra si nájde manžela, ale nehodná dcéra je žiaľom toho, kto ju splodil."
+  },
+  {
+    "i": 26627,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 5,
+    "t": "Drzá dcéra zneuctí svojho otca a manžela, obaja ju zaprú."
+  },
+  {
+    "i": 26628,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 6,
+    "t": "Nevhodné výčitky: hudba v deň smútku; údery bičom a náprava, to je vždy múdrosť."
+  },
+  {
+    "i": 26629,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 7,
+    "t": "Deti, ktoré vedú čestný život bez toho, aby im niečo chýbalo, dávajú zabudnúť na nejasný pôvod svojich rodičov."
+  },
+  {
+    "i": 26630,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 8,
+    "t": "Deti pohŕdajúce, zle vychované, naduté pýchou, poškvrňujú vznešenosť svojej rodiny."
+  },
+  {
+    "i": 26631,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 9,
+    "t": "Učiť hlupáka je ako zlepiť črepy, je to ako zobudiť človeka omámeného spánkom."
+  },
+  {
+    "i": 26632,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 10,
+    "t": "Hovoriť s hlupákom je ako hovoriť so spiaceho človeka, nakoniec povie: \"O čo ide?"
+  },
+  {
+    "i": 26633,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 11,
+    "t": "Plačte nad mŕtvym: stratil svetlo, plačte nad nerozumným: stratil rozum; plačte tichšie nad mŕtvym, pretože našiel pokoj, pre nerozumného je život smutnejší ako smrť."
+  },
+  {
+    "i": 26634,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 12,
+    "t": "Pre mŕtveho trvá smútok sedem dní, pre nerozumného a bezbožného, všetky dni ich života."
+  },
+  {
+    "i": 26635,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 13,
+    "t": "Nehovor nerozumnému dlhé reči, nechoď pred hlupáka, pretože, necitlivý, ťa zahrnie opovrhnutím, chráň sa ho, aby si nemal problémy, aby si sa nepoškvrnil jeho kontaktom. Odvráť sa od neho, nájdeš pokoj, jeho blúznenie ťa nebude nudiť."
+  },
+  {
+    "i": 26636,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 14,
+    "t": "Čo je ťažšie ako olovo? Ako sa to volá? Nerozumný."
+  },
+  {
+    "i": 26637,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 15,
+    "t": "Piesok, soľ, masa železa sa ľahšie nesú ako nerozumný."
+  },
+  {
+    "i": 26638,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 16,
+    "t": "Drevená konštrukcia zostavená v stavbe sa nenechá rozpojiť zemetrasením; srdce odhodlané, po zrelom zvážení, sa nenechá pohnúť v čase nebezpečenstva."
+  },
+  {
+    "i": 26639,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 17,
+    "t": "Srdce opreté o múdru úvahu je ako ozdoba vytesaná na leštenej stene."
+  },
+  {
+    "i": 26640,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 18,
+    "t": "Malé kamienky na vrchole múru neodolajú vetru: srdce hlupáka vystrašeného svojimi predstavami nemôže odolať strachu."
+  },
+  {
+    "i": 26641,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 19,
+    "t": "Úder do oka spôsobuje slzy, úder do srdca spôsobuje prejavenie citov."
+  },
+  {
+    "i": 26642,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 20,
+    "t": "Kto hádže kameňom na vtáky, nechá ich odletieť, kto urobí výčitku svojmu priateľovi, zabije priateľstvo."
+  },
+  {
+    "i": 26643,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 21,
+    "t": "Ak si vytasil meč proti svojmu priateľovi, nezúfaj: môže sa vrátiť;"
+  },
+  {
+    "i": 26644,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 22,
+    "t": "ak si otvoril ústa proti svojmu priateľovi, neboj sa: zmierenie je možné, s výnimkou prípadu urážky, opovrhnutia, zrady tajomstva, zákernej rany, pretože vtedy každý priateľ odíde."
+  },
+  {
+    "i": 26645,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 23,
+    "t": "Získaj dôveru svojho blížneho v jeho chudobe, aby si sa v jeho prosperite tešil s ním z jeho majetku; v dňoch skúšky mu zostaň verný, aby si dostal, ak bude dediť, svoj podiel z dedičstva. Pretože nikdy by sme nemali pohŕdať kontúrami, ani obdivovať bohatého človeka zbaveného rozumu."
+  },
+  {
+    "i": 26646,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 24,
+    "t": "Predchádza plameňom para pahreby a dym; takto, predchádzajúc krvi, urážky."
+  },
+  {
+    "i": 26647,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 25,
+    "t": "Nebudem sa hanbiť chrániť priateľa a pred ním sa neskryjem;"
+  },
+  {
+    "i": 26648,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 26,
+    "t": "a ak mi príde od neho zlo, všetci, ktorí sa o tom dozvedia, sa ho budú strážiť."
+  },
+  {
+    "i": 26649,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 27,
+    "t": "Kto dá stráž k mojim ústam a na moje pery pečať rozlišovania, aby som sa na nich nepotkol, aby môj jazyk nespôsobil moju skazu?"
+  },
+  {
+    "i": 26650,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 1,
+    "t": "Pane, otče a učiteľ môjho života, nenechaj ma potknúť sa pre ne."
+  },
+  {
+    "i": 26651,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 2,
+    "t": "Kto použije bič na moje myšlienky a na moje srdce disciplínu múdrosti, aby sa nešetrilo moje omyly a aby moje hriechy neunikli?"
+  },
+  {
+    "i": 26652,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 3,
+    "t": "Aby sa moje omyly nerozmnožili a aby moje hriechy neprekypovali, aby som nepadol do rúk svojich protivníkov a aby sa mi môj nepriateľ nevysmieval. Je im vzdialená nádej na tvoje milosrdenstvo."
+  },
+  {
+    "i": 26653,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 4,
+    "t": "Pane, otče a Bože môjho života, neopúšťaj ma ich rozmarom, nech moje pohľady nie sú bezočivé"
+  },
+  {
+    "i": 26654,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 5,
+    "t": "odvráť odo mňa žiadostivosť,"
+  },
+  {
+    "i": 26655,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 6,
+    "t": "nech sa ma nezmocní sexuálna chuť a chlípnosť, nevydaj ma bezočivej túžbe."
+  },
+  {
+    "i": 26656,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 7,
+    "t": "Počúvajte, moje deti, poučenie o ústach, kto ich stráži, nebude zahanbený."
+  },
+  {
+    "i": 26657,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 8,
+    "t": "Hriešnika chytia jeho vlastné pery, zvrhnú ohovárača a pyšného."
+  },
+  {
+    "i": 26658,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 9,
+    "t": "Nenavykaj si ústa prisahať, nenavykaj si vyslovovať meno Svätého."
+  },
+  {
+    "i": 26659,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 10,
+    "t": "Lebo ako sluha neustále strážený neunikne úderom, tak ani ten, kto prisahá a vzýva Meno márne, nebude bez viny."
+  },
+  {
+    "i": 26660,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 11,
+    "t": "Človek, ktorý štedro prisahá, je plný bezbožnosti a pohroma sa nevzdiali od jeho domu. Ak zhreší, jeho vina bude na ňom; ak konal ľahkovážne, zhrešil dvojnásobne; ak zložil falošnú prísahu, nebude ospravedlnený, lebo jeho dom bude plný pohrôm."
+  },
+  {
+    "i": 26661,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 12,
+    "t": "Je spôsob hovorenia, ktorý sa podobá smrti, nech nie je v užívaní v dedičstve Jakubovom, lebo zbožní ľudia to všetko odmietajú, nevrážajú sa do hriechu."
+  },
+  {
+    "i": 26662,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 13,
+    "t": "Nenavykaj si ústa na hrubú nečistotu, kde sa nachádza slovo hriechu."
+  },
+  {
+    "i": 26663,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 14,
+    "t": "Spomeň si na svojho otca a svoju matku, keď sedíš uprostred veľkých, aby si na seba nezabudol v ich prítomnosti, aby si sa nesprával ako hlupák a aby si nakoniec netúžil, aby si sa nenarodil a nepreklínal deň svojho narodenia."
+  },
+  {
+    "i": 26664,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 15,
+    "t": "Človek zvyknutý na hanebné slová sa nenapraví zo svojho života."
+  },
+  {
+    "i": 26665,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 16,
+    "t": "Dva druhy bytostí rozmnožujú hriechy a tretia priťahuje hnev: vášeň horiaca ako pahreba: neuhasí sa, kým sa nenasýti; človek, ktorý žiadostivo túži po svojom vlastnom tele: neprestane, kým ho oheň nestrávi;"
+  },
+  {
+    "i": 26666,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 17,
+    "t": "pre nehanebného človeka je každé jedlo sladké, neupokojí sa, kým nezomrie."
+  },
+  {
+    "i": 26667,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 18,
+    "t": "Človek neverný svojej vlastnej posteli, ktorý hovorí vo svojom srdci: \"Kto ma vidí? Tieň ma obklopuje, múry ma chránia, nikto ma nevidí, čoho by som sa bál? Najvyšší si nespomenie na moje chyby."
+  },
+  {
+    "i": 26668,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 19,
+    "t": "Toho sa bojí, to sú oči ľudí, nevie, že oči Pánove sú desaťtisíckrát jasnejšie ako slnko, že pozorujú všetky činy ľudí a prenikajú do najtajnejších zákutí."
+  },
+  {
+    "i": 26669,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 20,
+    "t": "Predtým, ako stvoril, mu boli všetky veci známe, sú mu známe aj po ich dokončení."
+  },
+  {
+    "i": 26670,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 21,
+    "t": "V plnom meste bude tento človek potrestaný, keď to najmenej čaká, bude chytený."
+  },
+  {
+    "i": 26671,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 22,
+    "t": "To isté platí pre ženu nevernú svojmu manželovi, ktorá mu privedie dediča počatého s cudzincom."
+  },
+  {
+    "i": 26672,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 23,
+    "t": "Po prvé neposlúchla zákon Najvyššieho, potom je vinná voči svojmu manželovi; po tretie sa poškvrnila cudzoložstvom a počala deti s cudzincom."
+  },
+  {
+    "i": 26673,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 24,
+    "t": "Bude predvedená pred zhromaždenie a preskúmajú sa jej deti."
+  },
+  {
+    "i": 26674,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 25,
+    "t": "Jej deti nebudú mať korene, jej konáre neprinesú ovocie."
+  },
+  {
+    "i": 26675,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 26,
+    "t": "Zanechá pamiatku prekliatia a jej hanba nebude nikdy zmazaná."
+  },
+  {
+    "i": 26676,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 27,
+    "t": "A tí, ktorí prídu po nej, budú vedieť, že nič nestojí za bázeň pred Pánom a že nič nie je sladšie ako pridŕžať sa prikázaní Pánových."
+  },
+  {
+    "i": 26677,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 28,
+    "t": "Nasledovať Boha je veľká česť; predĺži ti dni, ak ťa prijme."
+  },
+  {
+    "i": 26678,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 1,
+    "t": "Múdrosť chváli samu seba, uprostred svojho ľudu ukazuje svoju pýchu."
+  },
+  {
+    "i": 26679,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 2,
+    "t": "V zhromaždení Najvyššieho otvára ústa a pred jeho Mocou ukazuje svoju pýchu."
+  },
+  {
+    "i": 26680,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 3,
+    "t": "\"Vyšla som z úst Najvyššieho a ako hmla som pokryla zem."
+  },
+  {
+    "i": 26681,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 4,
+    "t": "Prebývala som na nebesiach a môj trón bol stĺpom oblaku."
+  },
+  {
+    "i": 26682,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 5,
+    "t": "Sama som obišla okruh nebies, prešla som hlbokosť priepastí."
+  },
+  {
+    "i": 26683,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 6,
+    "t": "Vo vlnách mora, po celej zemi, u všetkých národov a kmeňov som panovala."
+  },
+  {
+    "i": 26684,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 7,
+    "t": "Medzi nimi všetkými som hľadala odpočinok, hľadala som, v ktorom dedičstve by som sa usadila."
+  },
+  {
+    "i": 26685,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 8,
+    "t": "Vtedy mi Stvoriteľ vesmíru dal príkaz, ten, ktorý ma stvoril, mi prikázal rozložiť môj stan, riekol mi: \"Usaď sa v Jakubovi, v Izraeli prijmi svoje dedičstvo."
+  },
+  {
+    "i": 26686,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 9,
+    "t": "Pred vekmi, od počiatku ma stvoril, naveky budem trvať."
+  },
+  {
+    "i": 26687,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 10,
+    "t": "Vo svätom stane, v jeho prítomnosti, som slúžila; tak som sa na Sione usadila,"
+  },
+  {
+    "i": 26688,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 11,
+    "t": "a v milovanom meste som našla svoj odpočinok, v Jeruzaleme vykonávam svoju moc."
+  },
+  {
+    "i": 26689,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 12,
+    "t": "Zakorenila som sa u ľudu plného slávy, v Pánovom panstve sa nachádza moje dedičstvo."
+  },
+  {
+    "i": 26690,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 13,
+    "t": "Vyrástla som ako céder Libanonu, ako cyprus na vrchu Hermon."
+  },
+  {
+    "i": 26691,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 14,
+    "t": "Vyrástla som ako palma Engaddi, ako ružové sadenice Jericha, ako nádherná oliva v rovine, vyrástla som ako platan."
+  },
+  {
+    "i": 26692,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 15,
+    "t": "Ako škorica a akant som vydávala vôňu, ako vybraná myrha som voňala, ako galbanum, ónyx, labdanum, ako vôňa kadidla v stane."
+  },
+  {
+    "i": 26693,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 16,
+    "t": "Rozprestrela som svoje ratolesti ako terebinta, sú to ratolesti slávy a milosti."
+  },
+  {
+    "i": 26694,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 17,
+    "t": "Som ako vinič s pôvabnými úponkami a moje kvety sú plody slávy a bohatstva."
+  },
+  {
+    "i": 26695,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 18,
+    "t": "Som matkou krásnej lásky a bázne, poznania a svätej nádeje. Všetkým svojim deťom dávam večné dobrá, tým, ktorých si vyvolil."
+  },
+  {
+    "i": 26696,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 19,
+    "t": "Poďte ku mne, vy, ktorí ma žiadate; a nasýťte sa mojimi plodmi."
+  },
+  {
+    "i": 26697,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 20,
+    "t": "Lebo moja pamiatka je sladšia ako med, moje dedičstvo sladšie ako plást medu."
+  },
+  {
+    "i": 26698,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 21,
+    "t": "Tí, ktorí ma jedia, budú ešte hladovať, tí, ktorí ma pijú, budú ešte žízniť."
+  },
+  {
+    "i": 26699,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 22,
+    "t": "Ten, kto ma poslúcha, sa nebude hanbiť a tí, ktorí skrze mňa konajú, nezhrešia."
+  }
+]

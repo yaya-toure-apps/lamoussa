@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26800,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 4,
+    "t": "Căci omul este nemilostiv cu semenul său, dar se roagă pentru păcatele sale!"
+  },
+  {
+    "i": 26801,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 5,
+    "t": "Cel ce este numai carne ține ranchiună, cine-i va ierta păcatele lui?"
+  },
+  {
+    "i": 26802,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 6,
+    "t": "Adu-ți aminte de sfârșit și încetează să urăști, de putrezire și de moarte, și păzește poruncile!"
+  },
+  {
+    "i": 26803,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 7,
+    "t": "Adu-ți aminte de porunci și nu ține ranchiună aproapelui, de legământul Celui Preaînalt, și treci peste greșeală!"
+  },
+  {
+    "i": 26804,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 8,
+    "t": "Stai departe de certuri și vei evita păcatul; căci omul aprig stârnește certuri."
+  },
+  {
+    "i": 26805,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 9,
+    "t": "Păcătosul tulbură prietenii și aruncă zâzanie printre cei ce trăiesc în pace."
+  },
+  {
+    "i": 26806,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 10,
+    "t": "Focul arde după cum e combustibilul, cearta crește pe măsura încăpățânării; mânia omului depinde de puterea lui, iar iuțimea lui se ridică după bogăția lui."
+  },
+  {
+    "i": 26807,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 11,
+    "t": "O ceartă neașteptată aprinde focul, o dispută nesăbuită face să se verse sânge."
+  },
+  {
+    "i": 26808,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 12,
+    "t": "Suflă peste o scânteie și ea se aprinde, scuipă peste ea și ea se stinge; așa este puterea gurii tale."
+  },
+  {
+    "i": 26809,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 13,
+    "t": "Vai de cel ce vorbește mult și de cel înșelător, căci ei au pierdut mulți oameni care trăiau în pace!"
+  },
+  {
+    "i": 26810,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 14,
+    "t": "Limba ascuțită a clintit mulți oameni și i-a împrăștiat dintr-un neam în altul; ea a nimicit cetăți puternice și a răsturnat casele celor mari."
+  },
+  {
+    "i": 26811,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 15,
+    "t": "Limba ascuțită a făcut ca femei desăvârșite să fie alungate, lăsându-le fără roadele muncii lor."
+  },
+  {
+    "i": 26812,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 16,
+    "t": "Cel ce-i dă ascultare nu mai găsește odihnă și nu mai poate trăi în pace."
+  },
+  {
+    "i": 26813,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 17,
+    "t": "O lovitură de bici lasă o urmă, dar o lovitură de limbă sfărâmă oasele."
+  },
+  {
+    "i": 26814,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 18,
+    "t": "Mulți au căzut sub sabie, dar mult mai mulți au pierit din cauza limbii."
+  },
+  {
+    "i": 26815,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 19,
+    "t": "Ferice de cel ce este la adăpost de atacurile ei, care nu este expus furiei ei, care n-a purtat jugul ei și n-a fost legat cu lanțurile ei!"
+  },
+  {
+    "i": 26816,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 20,
+    "t": "Căci jugul ei este un jug de fier și lanțurile ei sunt lanțuri de aramă."
+  },
+  {
+    "i": 26817,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 21,
+    "t": "O moarte înfricoșătoare, moartea pe care o provoacă ea, și mai bine este șeolul decât ea."
+  },
+  {
+    "i": 26818,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 22,
+    "t": "Ea n-are putere asupra oamenilor pioși, căci ei nu sunt mistuiți de flacăra ei."
+  },
+  {
+    "i": 26819,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 23,
+    "t": "Cei ce-l părăsesc pe Domnul sunt victimele ei, în ei ea va arde fără să se stingă, va fi aruncată împotriva lor ca un leu și-i va sfâșia ca o panteră."
+  },
+  {
+    "i": 26820,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 24,
+    "t": "Vezi, înconjoară-ți cu spini proprietatea și strânge-ți argintul și aurul."
+  },
+  {
+    "i": 26821,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 25,
+    "t": "Când vorbești, folosește cântare și greutăți și pune ușă și zăvor la gura ta."
+  },
+  {
+    "i": 26822,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 26,
+    "t": "Ferește-te să nu faci pași greșiți din cauza ei, ca să nu cazi în puterea celui ce te pândește!"
+  },
+  {
+    "i": 26823,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 1,
+    "t": "A împrumuta aproapelui este a face milă, a-i veni în ajutor este a păzi poruncile."
+  },
+  {
+    "i": 26824,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 2,
+    "t": "Împrumută-l pe aproapele tău când este în nevoie și, la rândul tău, dă înapoi la timpul cuvenit."
+  },
+  {
+    "i": 26825,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 3,
+    "t": "Ține-ți bine cuvântul și fii loial cu alții, și în toate nevoile tale vei găsi ce-ți trebuie."
+  },
+  {
+    "i": 26826,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 4,
+    "t": "Mulți tratează un împrumut ca pe un chilipir și-i pun în încurcătură pe cei ce i-au ajutat."
+  },
+  {
+    "i": 26827,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 5,
+    "t": "Înainte de a primi, se sărută mâinile împrumutătorului și se vorbește umil despre bogățiile lui. În ziua scadenței, se trage de timp, iar în loc de restituire, se explică că ești necăjit și dai vina pe împrejurări."
+  },
+  {
+    "i": 26828,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 6,
+    "t": "Se poate achita? Împrumutătorul va primi cu greu jumătate din banii lui și se va putea socoti fericit. În caz contrar, va fi frustrat de banii lui și va avea, fără să fi meritat, un dușman în plus, care se achită cu blesteme și injurii și care dă înapoi ofense în loc de reverență."
+  },
+  {
+    "i": 26829,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 7,
+    "t": "Mulți, fără răutate, refuză să împrumute, căci nu vor să fie jefuiți fără voia lor."
+  },
+  {
+    "i": 26830,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 8,
+    "t": "Fii totuși îngăduitor cu nenorociții și nu-i lăsa să aștepte pomană."
+  },
+  {
+    "i": 26831,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 9,
+    "t": "Ca să asculți de poruncă, vino în ajutorul săracului; este în nevoie, nu-l trimite cu mâinile goale."
+  },
+  {
+    "i": 26832,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 10,
+    "t": "Jertfește-ți argintul pentru un frate și un prieten, ca să nu ruginească în zadar, sub o piatră."
+  },
+  {
+    "i": 26833,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 11,
+    "t": "Folosește-te de bogăția ta după poruncile Celui Preaînalt, căci aceasta îți va fi mai de folos decât aurul."
+  },
+  {
+    "i": 26834,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 12,
+    "t": "Strânge-ți pomenile în hambarele tale, căci ele te vor izbăvi de orice nenorocire."
+  },
+  {
+    "i": 26835,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 13,
+    "t": "Mai bine decât un scut puternic, mai bine decât o suliță grea, ele vor lupta pentru tine împotriva dușmanului."
+  },
+  {
+    "i": 26836,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 14,
+    "t": "Omul de bine se face chezăș pentru aproapele său; dar a-l părăsi înseamnă a pierde orice rușine."
+  },
+  {
+    "i": 26837,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 15,
+    "t": "Nu uita serviciile garantului tău, căci el și-a dat viața pentru tine."
+  },
+  {
+    "i": 26838,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 16,
+    "t": "De bunătatea garantului său, păcătosul nu se sinchisește,"
+  },
+  {
+    "i": 26839,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 17,
+    "t": "iar nerecunoscătorul uită pe cel ce l-a scăpat."
+  },
+  {
+    "i": 26840,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 18,
+    "t": "O chezășie a ruinat mulți oameni drepți și i-a clătinat ca valurile mării. Ea a exilat oameni puternici care au rătăcit printre națiuni străine."
+  },
+  {
+    "i": 26841,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 19,
+    "t": "Cel rău care se grăbește să garanteze în căutare de profit se grăbește spre condamnare."
+  },
+  {
+    "i": 26842,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 20,
+    "t": "Vino în ajutorul aproapelui după puterea ta și ia seama să nu cazi tu însuți."
+  },
+  {
+    "i": 26843,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 21,
+    "t": "Primul lucru ca să trăiești este apa, pâinea și îmbrăcămintea, și o casă ca să te adăpostești."
+  },
+  {
+    "i": 26844,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 22,
+    "t": "Mai bine o viață de sărac sub un acoperiș de scânduri decât bucate fastuoase într-o casă străină."
+  },
+  {
+    "i": 26845,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 23,
+    "t": "Fie că ai puțin, fie că ai mult, arată-te mulțumit, ca să nu auzi reproșul celor din jur."
+  },
+  {
+    "i": 26846,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 24,
+    "t": "Tristă viață este să mergi din casă în casă, căci acolo unde te oprești nu îndrăznești să deschizi gura."
+  },
+  {
+    "i": 26847,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 25,
+    "t": "Ești un străin, servești cu băutură un nerecunoscător și, pe deasupra, auzi și lucruri grele."
+  },
+  {
+    "i": 26848,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 26,
+    "t": "\"Vino aici, străine, pune masa, dacă ai ceva, dă-mi să mănânc!"
+  },
+  {
+    "i": 26849,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 27,
+    "t": "\"Du-te, străine, cedează locul unuia mai demn, fratele meu vine să mă vadă, am nevoie de casă!"
+  },
+  {
+    "i": 26850,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 28,
+    "t": "Este greu pentru un om cu judecată să audă reproșuri pentru ospitalitate și să fie tratat ca un datornic."
+  },
+  {
+    "i": 26851,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 1,
+    "t": "Cel ce-și iubește fiul îi dă cu dărnicie biciul; mai târziu, fiul acesta va fi consolarea lui."
+  },
+  {
+    "i": 26852,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 2,
+    "t": "Cel ce-și crește bine fiul va avea satisfacție și printre cunoscuții săi se va arăta mândru cu el."
+  },
+  {
+    "i": 26853,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 3,
+    "t": "Cel ce-și învață fiul îl face pe dușmanul său să fie gelos și se arată bucuros în fața prietenilor săi."
+  },
+  {
+    "i": 26854,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 4,
+    "t": "Când un tată moare, este ca și cum n-ar fi murit, căci lasă după el un fiu care seamănă cu el."
+  },
+  {
+    "i": 26855,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 5,
+    "t": "În viață, el a găsit bucurie în prezența lui, iar în fața morții n-a avut supărare."
+  },
+  {
+    "i": 26856,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 6,
+    "t": "Împotriva dușmanilor săi lasă un răzbunător și pentru prietenii săi pe cineva care să le dea înapoi binefacerile."
+  },
+  {
+    "i": 26857,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 7,
+    "t": "Cel ce-și răsfață fiul își va pansa rănile; la fiecare dintre strigătele lui, măruntaiele lui se vor cutremura."
+  },
+  {
+    "i": 26858,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 8,
+    "t": "Un cal prost dresat devine nerăbdător, iar un copil lăsat de capul lui devine rău-crescut."
+  },
+  {
+    "i": 26859,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 9,
+    "t": "Alintă-ți copilul și vei fi uimit, joacă-te cu el și el te va face să plângi."
+  },
+  {
+    "i": 26860,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 10,
+    "t": "Nu râde cu el, dacă nu vrei să plângi cu el, căci vei sfârși prin a scrâșni din dinți."
+  },
+  {
+    "i": 26861,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 11,
+    "t": "Nu-i lăsa libertate în tinerețe și nu închide ochii la prostiile lui."
+  },
+  {
+    "i": 26862,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 12,
+    "t": "Fă-l să-și plece spinarea în tinerețe și zdrobește-i coastele cât este copil, de teamă ca, în încăpățânarea lui, să nu te nesocotească și să ai parte de supărare."
+  },
+  {
+    "i": 26863,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 13,
+    "t": "Crește-ți fiul și formează-l bine, ca să nu ai de îndurat insolenta lui."
+  },
+  {
+    "i": 26864,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 14,
+    "t": "Mai bine un sărac sănătos și viguros decât un bogat chinuit în trupul său."
+  },
+  {
+    "i": 26865,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 15,
+    "t": "Sănătatea și vigoarea valorează mai mult decât tot aurul din lume, un trup viguros mai mult decât o avere imensă."
+  },
+  {
+    "i": 26866,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 16,
+    "t": "Nu există bogăție mai bună decât sănătatea și nici bunăstare mai mare decât bucuria inimii."
+  },
+  {
+    "i": 26867,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 17,
+    "t": "Mai bine moartea decât o viață tristă, odihna veșnică decât o boală persistentă."
+  },
+  {
+    "i": 26868,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 18,
+    "t": "Bucate din belșug înaintea unei guri închise, asemenea sunt ofrandele depuse pe un mormânt."
+  },
+  {
+    "i": 26869,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 19,
+    "t": "La ce folosește ofranda unei idoli care nu mănâncă și nu simte! Așa este cel pe care Domnul îl persecută:"
+  },
+  {
+    "i": 26870,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 20,
+    "t": "el privește și suspină, este ca un eunuc care îmbrățișează o fecioară și suspină."
+  },
+  {
+    "i": 26871,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 21,
+    "t": "Nu te lăsa pradă tristeții și nu te abandona ideilor negre!"
+  },
+  {
+    "i": 26872,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 22,
+    "t": "Bucuria inimii, iată viața omului, iar veselia îi prelungește zilele."
+  },
+  {
+    "i": 26873,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 23,
+    "t": "Înșală-ți grijile, mângâie-ți inima și alungă tristețea, căci tristețea a pierdut mulți și nu știe să aducă folos."
+  },
+  {
+    "i": 26874,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 24,
+    "t": "Patima și mânia scurtează zilele, iar grijile fac să îmbătrânim înainte de vreme."
+  },
+  {
+    "i": 26875,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 25,
+    "t": "O inimă generoasă are poftă bună și se îngrijește de ceea ce mănâncă."
+  },
+  {
+    "i": 26876,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 1,
+    "t": "Insomniile pe care le cauzează bogăția sunt istovitoare, iar grijile pe care le aduce ea iau somnul."
+  },
+  {
+    "i": 26877,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 2,
+    "t": "Grijile priveghiului te împiedică să dormi, iar o boală gravă alungă somnul."
+  },
+  {
+    "i": 26878,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 3,
+    "t": "Cel bogat lucrează ca să strângă averi și, când se oprește, o face ca să se sature de plăceri."
+  },
+  {
+    "i": 26879,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 4,
+    "t": "Iar săracul lucrează neavând cu ce să trăiască și, de cum se oprește, cade în mizerie."
+  },
+  {
+    "i": 26880,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 5,
+    "t": "Cel ce iubește aurul cu greu va scăpa de păcat, și cel ce urmărește câștigul va fi amăgit întru el."
+  },
+  {
+    "i": 26881,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 6,
+    "t": "Mulți au căzut din pricina aurului și pierzania lor era înaintea feței lor."
+  },
+  {
+    "i": 26882,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 7,
+    "t": "Ca o cursă este celor ce-i aduc jertfă și toți cei nepricepuți vor fi prinși întru el."
+  },
+  {
+    "i": 26883,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 8,
+    "t": "Fericit este bogatul care s-a aflat fără de prihană și care n-a alergat după aur."
+  },
+  {
+    "i": 26884,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 9,
+    "t": "Cine este el, ca să-l fericim? Căci a făcut minuni întru poporul său."
+  },
+  {
+    "i": 26885,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 10,
+    "t": "Cine a fost pus la încercare și s-a aflat desăvârșit? Acesta va avea laudă. Cine a putut să păcătuiască și n-a păcătuit, să facă rău și n-a făcut?"
+  },
+  {
+    "i": 26886,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 11,
+    "t": "Bunurile lui vor fi întărite și adunarea va vesti binefacerile lui."
+  },
+  {
+    "i": 26887,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 12,
+    "t": "Te-ai așezat la o masă îmbelșugată? Cu gura căscată înaintea ei, nu zice: \"Ce belșug!"
+  },
+  {
+    "i": 26888,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 13,
+    "t": "Adu-ți aminte că este rău a avea un ochi avid: este oare făptură mai rea decât ochiul? Pentru aceea plânge el întru tot locul."
+  },
+  {
+    "i": 26889,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 14,
+    "t": "Unde se uită gazda ta, nu întinde mâna, nu te arunca asupra platoului în același timp cu el."
+  },
+  {
+    "i": 26890,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 15,
+    "t": "Judecă ce simte aproapele după tine însuți și întru toate fii chibzuit."
+  },
+  {
+    "i": 26891,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 16,
+    "t": "Mănâncă ca un om bine crescut ceea ce ți se pune înainte, nu face mișcări largi cu fălcile, nu te face urât."
+  },
+  {
+    "i": 26892,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 17,
+    "t": "Oprește-te cel dintâi prin bună educație, nu fi lacom, ca să nu ai parte de ocară."
+  },
+  {
+    "i": 26893,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 18,
+    "t": "Dacă stai la masă într-o companie numeroasă, nu te servi înaintea celorlalți."
+  },
+  {
+    "i": 26894,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 19,
+    "t": "Cât de puțin îi trebuie unui om bine crescut! De aceea, după ce s-a culcat, respiră liber."
+  },
+  {
+    "i": 26895,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 20,
+    "t": "Cu regim cumpătat, somn bun, te scoli devreme, ai mintea limpede. Insomnie, vărsături, colici, iată pentru omul necumpătat."
+  },
+  {
+    "i": 26896,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 21,
+    "t": "Dacă ai fost silit să mănânci prea mult, scoală-te, du-te de varsă și vei fi ușurat."
+  },
+  {
+    "i": 26897,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 22,
+    "t": "Ascultă-mă, fiul meu, fără a mă disprețui: mai târziu vei înțelege cuvintele mele. În tot ce faci fii moderat și niciodată boala nu te va atinge."
+  },
+  {
+    "i": 26898,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 23,
+    "t": "Este lăudat cu tărie un gazdă fastuos și lauda generozității lui este durabilă."
+  },
+  {
+    "i": 26899,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 24,
+    "t": "Dar un gazdă meschin este ponegrit în cetate și se citează trăsăturile avariei sale."
+  }
+]

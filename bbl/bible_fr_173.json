@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17300,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 10,
+    "t": "Les hommes sanguinaires haïssent l’homme honnête, mais les hommes droits recherchent sa personne."
+  },
+  {
+    "i": 17301,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 11,
+    "t": "Le sot donne libre cours à tous ses emportements, mais le sage, en les réprimant, les calme."
+  },
+  {
+    "i": 17302,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 12,
+    "t": "Quand un chef accueille des rapports mensongers, tous ses serviteurs sont mauvais."
+  },
+  {
+    "i": 17303,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 13,
+    "t": "Le pauvre et l’oppresseur se rencontrent : tous deux reçoivent de Yahvé la lumière."
+  },
+  {
+    "i": 17304,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 14,
+    "t": "Le roi qui juge les faibles avec équité voit son trône affermi pour toujours."
+  },
+  {
+    "i": 17305,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 15,
+    "t": "Baguette et réprimande procurent la sagesse, le jeune homme laissé à lui-même est la honte de sa mère."
+  },
+  {
+    "i": 17306,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 16,
+    "t": "Quand se multiplient les méchants, le forfait se multiplie, mais les justes seront témoins de leur chute."
+  },
+  {
+    "i": 17307,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 17,
+    "t": "Corrige ton fils, il te laissera en repos et fera les délices de ton âme."
+  },
+  {
+    "i": 17308,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 18,
+    "t": "Faute de vision, le peuple vit sans frein ; heureux qui observe la loi."
+  },
+  {
+    "i": 17309,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 19,
+    "t": "On ne corrige pas un esclave avec des mots : même s’il comprend, il n’obéit pas."
+  },
+  {
+    "i": 17310,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 20,
+    "t": "Tu vois un homme prompt au discours ? Il y a plus à espérer d’un sot."
+  },
+  {
+    "i": 17311,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 21,
+    "t": "Si dès l’enfance on gâte son esclave, il deviendra finalement ingrat."
+  },
+  {
+    "i": 17312,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 22,
+    "t": "L’homme coléreux engage la querelle, l’homme emporté multiplie les offenses."
+  },
+  {
+    "i": 17313,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 23,
+    "t": "L’orgueil de l’homme l’humiliera, qui est humble d’esprit obtiendra de l’honneur."
+  },
+  {
+    "i": 17314,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 24,
+    "t": "C’est partager avec le voleur et se haïr soi-même, que d’entendre l’adjuration sans dénoncer."
+  },
+  {
+    "i": 17315,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 25,
+    "t": "Trembler devant les hommes est un piège, qui se confie en Yahvé est en sûreté."
+  },
+  {
+    "i": 17316,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 26,
+    "t": "Beaucoup recherchent la faveur du chef, mais de Yahvé vient le droit de chacun."
+  },
+  {
+    "i": 17317,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 27,
+    "t": "Abomination pour les justes : l’homme inique ; abomination pour le méchant : celui dont la voie est droite."
+  },
+  {
+    "i": 17318,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 1,
+    "t": "Paroles d’Agur, fils de Yaqé, de Massa. Oracle de cet homme pour Itéel, pour Itéel et pour Ukal."
+  },
+  {
+    "i": 17319,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 2,
+    "t": "Oui, je suis le plus stupide des hommes, sans aucune intelligence humaine,"
+  },
+  {
+    "i": 17320,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 3,
+    "t": "je n’ai pas appris la sagesse et j’ignore la science des saints."
+  },
+  {
+    "i": 17321,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 4,
+    "t": "Qui est monté au ciel et puis en est descendu ? Qui dans ses poings a recueilli le vent ? Qui dans son manteau a serré les eaux ? Qui a affermi toutes les extrémités de la terre ? Quel est son nom ? Quel est le nom de son fils, si tu le sais ?"
+  },
+  {
+    "i": 17322,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 5,
+    "t": "Toute parole de Dieu est éprouvée, il est un bouclier pour qui s’abrite en lui."
+  },
+  {
+    "i": 17323,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 6,
+    "t": "À ses discours n’ajoute rien, de crainte qu’il ne te reprenne et ne te tienne pour un menteur."
+  },
+  {
+    "i": 17324,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 7,
+    "t": "J’implore de toi deux choses, ne les refuse pas avant que je meure :"
+  },
+  {
+    "i": 17325,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 8,
+    "t": "éloigne de moi fausseté et paroles mensongères, ne me donne ni pauvreté ni richesse, laisse-moi goûter ma part de pain,"
+  },
+  {
+    "i": 17326,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 9,
+    "t": "de crainte que, comblé, je ne me détourne et ne dise : \"Qui est Yahvé ?\" Ou encore, qu’indigent, je ne vole et ne profane le nom de mon Dieu."
+  },
+  {
+    "i": 17327,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 10,
+    "t": "Ne dénigre pas un esclave près de son maître, de crainte qu’il ne te maudisse et que tu n’en portes la peine."
+  },
+  {
+    "i": 17328,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 11,
+    "t": "Engeance qui maudit son père et ne bénit pas sa mère,"
+  },
+  {
+    "i": 17329,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 12,
+    "t": "engeance pure à ses propres yeux, mais dont la souillure n’est pas effacée,"
+  },
+  {
+    "i": 17330,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 13,
+    "t": "engeance aux regards altiers et aux paupières hautaines,"
+  },
+  {
+    "i": 17331,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 14,
+    "t": "engeance dont les dents sont des épées, les mâchoires, des couteaux, pour dévorer les pauvres et les retrancher du pays, et les malheureux, d’entre les hommes."
+  },
+  {
+    "i": 17332,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 15,
+    "t": "La sangsue a deux filles : \"Apporte ! Apporte !\" Il y a trois choses insatiables et quatre qui jamais ne disent : \"Assez ! :\""
+  },
+  {
+    "i": 17333,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 16,
+    "t": "le shéol, le sein stérile, la terre que l’eau ne peut rassasier, le feu qui jamais ne dit : \"Assez !\""
+  },
+  {
+    "i": 17334,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 17,
+    "t": "L’œil qui nargue un père et méprise l’obéissance due à une mère, les corbeaux du torrent le crèveront, les aigles le dévoreront."
+  },
+  {
+    "i": 17335,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 18,
+    "t": "Il est trois choses qui me dépassent et quatre que je ne connais pas :"
+  },
+  {
+    "i": 17336,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 19,
+    "t": "le chemin de l’aigle dans les cieux, le chemin du serpent sur le rocher, le chemin du vaisseau en haute mer, le chemin de l’homme chez la jeune femme."
+  },
+  {
+    "i": 17337,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 20,
+    "t": "Telle est la conduite de la femme adultère : elle mange, puis s’essuie la bouche en disant : \"Je n’ai rien fait de mal !\""
+  },
+  {
+    "i": 17338,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 21,
+    "t": "Sous trois choses tremble la terre et il en est quatre qu’elle ne peut porter :"
+  },
+  {
+    "i": 17339,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 22,
+    "t": "un esclave qui devient roi, une brute gorgée de nourriture,"
+  },
+  {
+    "i": 17340,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 23,
+    "t": "une fille odieuse qui vient à se marier, une servante qui hérite de sa maîtresse."
+  },
+  {
+    "i": 17341,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 24,
+    "t": "Il est quatre êtres minuscules sur la terre, mais sages entre les sages :"
+  },
+  {
+    "i": 17342,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 25,
+    "t": "les fourmis, peuple chétif, mais qui, en été, assure sa provende ;"
+  },
+  {
+    "i": 17343,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 26,
+    "t": "les damans, peuple sans vigueur, mais qui gîtent dans les rochers ;"
+  },
+  {
+    "i": 17344,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 27,
+    "t": "chez les sauterelles, point de roi ! mais elles marchent toutes en bon ordre ;"
+  },
+  {
+    "i": 17345,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 28,
+    "t": "le lézard que l’on capture à la main, mais qui hante les palais du roi."
+  },
+  {
+    "i": 17346,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 29,
+    "t": "Trois choses ont une belle allure et quatre une belle démarche :"
+  },
+  {
+    "i": 17347,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 30,
+    "t": "le lion, le plus brave des animaux, qui ne recule devant rien ;"
+  },
+  {
+    "i": 17348,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 31,
+    "t": "le coq bien râblé, ou le bouc, et le roi, quand il harangue le peuple."
+  },
+  {
+    "i": 17349,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 32,
+    "t": "Si tu fus assez sot pour t’emporter et si tu as réfléchi, mets la main sur ta bouche !"
+  },
+  {
+    "i": 17350,
+    "b": 19,
+    "c": 2130,
+    "r": 2130,
+    "o": 33,
+    "t": "Car en pressant le lait, on obtient le beurre, en pressant le nez, on obtient le sang, en pressant la colère, on obtient la querelle."
+  },
+  {
+    "i": 17351,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 1,
+    "t": "Paroles de Lemuel, roi de Massa, que sa mère lui apprit."
+  },
+  {
+    "i": 17352,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 2,
+    "t": "Quoi, mon fils ! quoi, fils de mes entrailles ! quoi, fils de mes vœux !"
+  },
+  {
+    "i": 17353,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 3,
+    "t": "Ne livre pas ta vigueur aux femmes, ni tes voies à celles qui perdent les rois."
+  },
+  {
+    "i": 17354,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 4,
+    "t": "Il ne convient pas aux rois, Lemuel, il ne convient pas aux rois de boire du vin, ni aux princes d’aimer la boisson,"
+  },
+  {
+    "i": 17355,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 5,
+    "t": "de crainte qu’en buvant ils n’oublient ce qui est décrété et qu’ils ne faussent la cause de tous les pauvres."
+  },
+  {
+    "i": 17356,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 6,
+    "t": "Procure des boissons fortes à qui va mourir, du vin à qui est rempli d’amertume :"
+  },
+  {
+    "i": 17357,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 7,
+    "t": "qu’il boive, qu’il oublie sa misère, qu’il ne se souvienne plus de son malheur !"
+  },
+  {
+    "i": 17358,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 8,
+    "t": "Ouvre la bouche en faveur du muet, pour la cause de tous les abandonnés ;"
+  },
+  {
+    "i": 17359,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 9,
+    "t": "ouvre la bouche, juge avec justice, défends la cause du pauvre et du malheureux."
+  },
+  {
+    "i": 17360,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 10,
+    "t": "Une maîtresse femme, qui la trouvera ? Elle a bien plus de prix que les perles !"
+  },
+  {
+    "i": 17361,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 11,
+    "t": "En elle se confie le cœur de son mari, il ne manque pas d’en tirer profit."
+  },
+  {
+    "i": 17362,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 12,
+    "t": "Elle fait son bonheur et non son malheur, tous les jours de sa vie."
+  },
+  {
+    "i": 17363,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 13,
+    "t": "Elle cherche laine et lin et travaille d’une main allègre."
+  },
+  {
+    "i": 17364,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 14,
+    "t": "Elle est pareille à des vaisseaux marchands : de loin, elle amène ses vivres."
+  },
+  {
+    "i": 17365,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 15,
+    "t": "Il fait encore nuit qu’elle se lève, distribuant à sa maisonnée la pitance, et des ordres à ses servantes."
+  },
+  {
+    "i": 17366,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 16,
+    "t": "A-t-elle en vue un champ, elle l’acquiert ; du produit de ses mains, elle plante une vigne."
+  },
+  {
+    "i": 17367,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 17,
+    "t": "Elle ceint vigoureusement ses reins et déploie la force de ses bras."
+  },
+  {
+    "i": 17368,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 18,
+    "t": "Elle sait que ses affaires vont bien, de la nuit, sa lampe ne s’éteint."
+  },
+  {
+    "i": 17369,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 19,
+    "t": "Elle met la main à la quenouille, ses doigts prennent le fuseau."
+  },
+  {
+    "i": 17370,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 20,
+    "t": "Elle étend les mains vers le pauvre, elle tend les bras aux malheureux."
+  },
+  {
+    "i": 17371,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 21,
+    "t": "Elle ne redoute pas la neige pour sa maison, car toute sa maisonnée porte double vêtement."
+  },
+  {
+    "i": 17372,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 22,
+    "t": "Elle se fait des couvertures, de lin et de pourpre est son vêtement."
+  },
+  {
+    "i": 17373,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 23,
+    "t": "Aux portes de la ville, son mari est connu, il siège parmi les anciens du pays."
+  },
+  {
+    "i": 17374,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 24,
+    "t": "Elle tisse des étoffes et les vend, au marchand elle livre une ceinture."
+  },
+  {
+    "i": 17375,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 25,
+    "t": "Force et dignité forment son vêtement, elle rit au jour à venir."
+  },
+  {
+    "i": 17376,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 26,
+    "t": "Avec sagesse elle ouvre la bouche, sur sa langue : une doctrine de piété."
+  },
+  {
+    "i": 17377,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 27,
+    "t": "De sa maisonnée, elle surveille le va-et-vient, elle ne mange pas le pain de l’oisiveté."
+  },
+  {
+    "i": 17378,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 28,
+    "t": "Ses fils se lèvent pour la proclamer bienheureuse, son mari, pour faire son éloge :"
+  },
+  {
+    "i": 17379,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 29,
+    "t": "\"Nombre de femmes ont accompli des exploits, mais toi, tu les surpasses toutes !\""
+  },
+  {
+    "i": 17380,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 30,
+    "t": "Tromperie que la grâce ! Vanité, la beauté ! La femme qui craint Yahvé, voilà celle qu’il faut féliciter !"
+  },
+  {
+    "i": 17381,
+    "b": 19,
+    "c": 2131,
+    "r": 2131,
+    "o": 31,
+    "t": "Accordez-lui une part du produit de ses mains, et qu’aux portes ses œuvres fassent son éloge !"
+  },
+  {
+    "i": 17382,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 1,
+    "t": "Paroles de Qohélet, fils de David, roi à Jérusalem."
+  },
+  {
+    "i": 17383,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 2,
+    "t": "Vanité des vanités, dit Qohélet ; vanité des vanités, tout est vanité."
+  },
+  {
+    "i": 17384,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 3,
+    "t": "Quel profit trouve l’homme à toute la peine qu’il prend sous le soleil ?"
+  },
+  {
+    "i": 17385,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 4,
+    "t": "Un âge va, un âge vient, mais la terre tient toujours."
+  },
+  {
+    "i": 17386,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 5,
+    "t": "Le soleil se lève, le soleil se couche, il se hâte vers son lieu et c’est là qu’il se lève."
+  },
+  {
+    "i": 17387,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 6,
+    "t": "Le vent part au midi, tourne au nord, il tourne, tourne et va, et sur son parcours retourne le vent."
+  },
+  {
+    "i": 17388,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 7,
+    "t": "Tous les fleuves coulent vers la mer et la mer n’est pas remplie. Vers l’endroit où coulent les fleuves, c’est par là qu’ils continueront de couler."
+  },
+  {
+    "i": 17389,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 8,
+    "t": "Toute parole est lassante ! Personne ne peut dire que l’œil n’est pas rassasié de voir, et l’oreille saturée par ce qu’elle a entendu."
+  },
+  {
+    "i": 17390,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 9,
+    "t": "Ce qui fut, cela sera, ce qui s’est fait se refera, et il n’y a rien de nouveau sous le soleil !"
+  },
+  {
+    "i": 17391,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 10,
+    "t": "Qu’il y ait quelque chose dont on dise : \"Tiens, voilà du nouveau\", cela fut dans les siècles qui nous ont précédés."
+  },
+  {
+    "i": 17392,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 11,
+    "t": "Il n’y a pas de souvenir d’autrefois, et même pour ceux des temps futurs : il n’y aura d’eux aucun souvenir auprès de ceux qui les suivront."
+  },
+  {
+    "i": 17393,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 12,
+    "t": "Moi, Qohélet, j’ai été roi d’Israël à Jérusalem."
+  },
+  {
+    "i": 17394,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 13,
+    "t": "J’ai mis tout mon cœur à rechercher et à explorer par la sagesse tout ce qui se fait sous le ciel. C’est une mauvaise besogne que Dieu a donnée aux enfants des hommes pour qu’ils s’y emploient."
+  },
+  {
+    "i": 17395,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 14,
+    "t": "J’ai regardé toutes les œuvres qui se font sous le soleil : Eh bien, tout est vanité et poursuite de vent !"
+  },
+  {
+    "i": 17396,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 15,
+    "t": "Ce qui est courbé ne peut être redressé, ce qui manque ne peut être compté."
+  },
+  {
+    "i": 17397,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 16,
+    "t": "Je me suis dit à moi-même : Voici que j’ai amassé et accumulé la sagesse plus que quiconque avant moi à Jérusalem, et, en moi-même, j’ai pénétré toute sorte de sagesse et de savoir."
+  },
+  {
+    "i": 17398,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 17,
+    "t": "J’ai mis tout mon cœur à comprendre la sagesse et le savoir, la sottise et la folie, et j’ai compris que tout cela aussi est recherche de vent."
+  },
+  {
+    "i": 17399,
+    "b": 20,
+    "c": 2201,
+    "r": 2201,
+    "o": 18,
+    "t": "Beaucoup de sagesse, beaucoup de chagrin ; plus de savoir, plus de douleur."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3100,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 50,
+    "t": "Thầy tế lễ sẽ xem xét sự tai họa và biệt riêng vật đó ra trong bảy ngày."
+  },
+  {
+    "i": 3101,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 51,
+    "t": "Nếu thầy tế lễ thấy đến ngày thứ bảy mà tai họa lan rộng trên áo xống, trên sợi vải, trên tấm da, hoặc trên bất cứ vật chi làm bằng da, ấy là chứng phong hủi lây lan; vật bị nhiễm đó là ô uế."
+  },
+  {
+    "i": 3102,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 52,
+    "t": "Người sẽ đốt áo xống, sợi vải, tấm da bằng lông chiên hay bằng vải gai, hoặc bất cứ vật chi làm bằng da mà có chứng tai họa trên đó, vì ấy là chứng phong hủi lây lan; nó phải bị thiêu đốt trong lửa."
+  },
+  {
+    "i": 3103,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 53,
+    "t": "Nhưng nếu, khi xem xét, thầy tế lễ thấy tai họa không lan rộng trên áo xống, trên sợi vải, trên tấm da, hoặc trên bất cứ vật chi làm bằng da,"
+  },
+  {
+    "i": 3104,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 54,
+    "t": "người sẽ truyền giặt vật bị nhiễm đó và biệt riêng nó ra lần thứ hai trong bảy ngày."
+  },
+  {
+    "i": 3105,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 55,
+    "t": "Sau khi giặt xong, người sẽ xem xét tai họa, và nếu người thấy nó không đổi sắc, dù không lan rộng, thì vật đó là ô uế. Ngươi sẽ thiêu đốt nó trong lửa: có sự mục nát ở cả trong lẫn ngoài."
+  },
+  {
+    "i": 3106,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 56,
+    "t": "Nhưng nếu, khi xem xét, thầy tế lễ thấy sau khi giặt xong mà tai họa đã mờ đi, người sẽ xé nó ra khỏi áo xống, tấm da, sợi vải hoặc tấm da."
+  },
+  {
+    "i": 3107,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 57,
+    "t": "Tuy nhiên, nếu tai họa tái phát trên áo xống, trên sợi vải, trên tấm da hoặc trên bất cứ vật chi làm bằng da, ấy là tai họa còn hoạt động và ngươi sẽ thiêu đốt trong lửa vật bị nhiễm bệnh."
+  },
+  {
+    "i": 3108,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 58,
+    "t": "Còn áo xống, sợi vải, tấm da và bất cứ vật chi làm bằng da mà tai họa đã biến mất sau khi giặt xong, nó sẽ tinh sạch sau khi đã được giặt lại lần thứ hai."
+  },
+  {
+    "i": 3109,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 59,
+    "t": "Đó là luật lệ cho trường hợp phong hủi trên áo xống bằng lông chiên hoặc vải gai, trên sợi vải, trên tấm da hoặc trên bất cứ vật chi làm bằng da, khi cần tuyên bố chúng tinh sạch hay ô uế."
+  },
+  {
+    "i": 3110,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 1,
+    "t": "Đức Giavê phán cùng Môsê rằng:"
+  },
+  {
+    "i": 3111,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 2,
+    "t": "Đây là luật lệ áp dụng cho người mắc bệnh phong hủi vào ngày thanh tẩy người. Người ta sẽ dẫn người đến gặp thầy tế lễ,"
+  },
+  {
+    "i": 3112,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 3,
+    "t": "và thầy tế lễ sẽ đi ra khỏi trại. Nếu người nhận thấy, sau khi xem xét, người mắc bệnh phong hủi đã khỏi bệnh phong hủi,"
+  },
+  {
+    "i": 3113,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 4,
+    "t": "người sẽ truyền lấy cho người cần thanh tẩy hai con chim còn sống và tinh sạch, gỗ bá hương, phẩm đỏ điều và cây kinh giới."
+  },
+  {
+    "i": 3114,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 5,
+    "t": "Người sẽ truyền giết một con chim trên một cái bình đất nung trên dòng nước chảy."
+  },
+  {
+    "i": 3115,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 6,
+    "t": "Còn con chim còn sống, người sẽ lấy nó cùng với gỗ bá hương, phẩm đỏ điều, cây kinh giới, và người sẽ nhúng tất cả (kể cả con chim sống) vào máu con chim đã bị giết trên dòng nước chảy."
+  },
+  {
+    "i": 3116,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 7,
+    "t": "Rồi người sẽ rảy bảy lần trên người cần thanh tẩy khỏi bệnh phong hủi và, sau khi tuyên bố người là tinh sạch, người sẽ thả con chim sống vào đồng ruộng."
+  },
+  {
+    "i": 3117,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 8,
+    "t": "Người được thanh tẩy sẽ giặt áo xống, cạo hết lông tóc, tắm mình trong nước và sẽ tinh sạch. Sau đó người sẽ trở về trại, nhưng người sẽ ở ngoài lều mình trong bảy ngày."
+  },
+  {
+    "i": 3118,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 9,
+    "t": "Đến ngày thứ bảy, người sẽ cạo hết lông tóc: tóc, râu, lông mày; người phải cạo hết lông tóc. Sau khi đã giặt áo xống và tắm mình trong nước, người sẽ tinh sạch."
+  },
+  {
+    "i": 3119,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 10,
+    "t": "Đến ngày thứ tám, người sẽ lấy hai con chiên đực không tì vết, một con chiên cái một tuổi không tì vết, ba phần mười ê-pha bột mịn nhồi với dầu, làm lễ vật, và một bình dầu."
+  },
+  {
+    "i": 3120,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 11,
+    "t": "Thầy tế lễ làm nghi lễ thanh tẩy sẽ đặt người cần thanh tẩy, cùng với các lễ vật của người, tại lối vào Lều Hội Ngộ, trước mặt Đức Giavê."
+  },
+  {
+    "i": 3121,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 12,
+    "t": "Rồi người sẽ lấy một trong hai con chiên đực. Người sẽ dâng nó làm lễ vật đền tội cùng với bình dầu. Người sẽ làm với chúng nghi thức dâng tiến trước mặt Đức Giavê."
+  },
+  {
+    "i": 3122,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 13,
+    "t": "Người sẽ giết con chiên đực tại nơi thánh, nơi người ta giết các vật hiến tế chuộc tội và lễ toàn thiêu. Lễ vật đền tội này sẽ thuộc về thầy tế lễ như một lễ vật chuộc tội, đó là một vật rất thánh."
+  },
+  {
+    "i": 3123,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 14,
+    "t": "Thầy tế lễ sẽ lấy một ít máu của lễ vật này. Người sẽ bôi nó lên dái tai phải của người được thanh tẩy, lên ngón tay cái của bàn tay phải và lên ngón chân cái của bàn chân phải."
+  },
+  {
+    "i": 3124,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 15,
+    "t": "Người sẽ lấy bình dầu và đổ một ít vào lòng bàn tay trái."
+  },
+  {
+    "i": 3125,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 16,
+    "t": "Người sẽ nhúng một ngón tay của bàn tay phải vào dầu trong lòng bàn tay trái và dùng ngón tay đó rảy bảy lần trước mặt Đức Giavê."
+  },
+  {
+    "i": 3126,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 17,
+    "t": "Rồi người sẽ bôi một ít dầu còn lại trong lòng bàn tay lên dái tai phải của người được thanh tẩy, lên ngón tay cái của bàn tay phải và lên ngón chân cái của bàn chân phải, thêm vào máu của lễ vật đền tội."
+  },
+  {
+    "i": 3127,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 18,
+    "t": "Số dầu còn lại trong lòng bàn tay, người sẽ bôi lên đầu người được thanh tẩy. Như vậy người đã làm cho người nghi thức xá tội trước mặt Đức Giavê."
+  },
+  {
+    "i": 3128,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 19,
+    "t": "Thầy tế lễ sẽ dâng lễ vật chuộc tội và thực hiện trên người được thanh tẩy nghi thức xá tội vì sự ô uế của người. Sau đó người sẽ giết lễ vật toàn thiêu,"
+  },
+  {
+    "i": 3129,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 20,
+    "t": "người sẽ dâng lên bàn thờ lễ toàn thiêu và lễ vật. Khi thầy tế lễ đã thực hiện trên người đó nghi thức xá tội, người sẽ tinh sạch."
+  },
+  {
+    "i": 3130,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 21,
+    "t": "Nếu người nghèo và không có đủ của cải, người sẽ chỉ lấy một con chiên đực, con chiên của lễ vật đền tội, và người ta sẽ dâng nó theo nghi thức dâng tiến để thực hiện trên người đó nghi thức xá tội. Người cũng chỉ lấy một phần mười ê-pha bột mịn nhồi với dầu, làm lễ vật, và bình dầu,"
+  },
+  {
+    "i": 3131,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 22,
+    "t": "sau cùng là hai chim gáy hoặc hai chim bồ câu — nếu người có thể mua được chúng — trong đó một con sẽ dùng để dâng lễ vật chuộc tội và con kia để dâng lễ toàn thiêu."
+  },
+  {
+    "i": 3132,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 23,
+    "t": "Vào ngày thứ tám, để được thanh tẩy, người sẽ mang chúng đến cho thầy tế lễ, tại lối vào Lều Hội Ngộ, trước mặt Đức Giavê."
+  },
+  {
+    "i": 3133,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 24,
+    "t": "Thầy tế lễ sẽ lấy con chiên của lễ vật đền tội và bình dầu. Người sẽ dâng chúng làm nghi thức dâng tiến trước mặt Đức Giavê."
+  },
+  {
+    "i": 3134,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 25,
+    "t": "Rồi, sau khi giết con chiên đực của lễ vật đền tội này, người sẽ lấy máu của nó và bôi lên dái tai phải của người được thanh tẩy, lên ngón tay cái của bàn tay phải và lên ngón chân cái của bàn chân phải."
+  },
+  {
+    "i": 3135,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 26,
+    "t": "Người sẽ đổ dầu vào lòng bàn tay trái,"
+  },
+  {
+    "i": 3136,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 27,
+    "t": "và, từ dầu trong lòng bàn tay trái, người sẽ dùng ngón tay rảy bảy lần trước mặt Đức Giavê."
+  },
+  {
+    "i": 3137,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 28,
+    "t": "Người sẽ bôi dầu lên dái tai phải của người được thanh tẩy, lên ngón tay cái của bàn tay phải, lên ngón chân cái của bàn chân phải, tại nơi đã bôi máu của lễ vật đền tội."
+  },
+  {
+    "i": 3138,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 29,
+    "t": "Số dầu còn lại trong lòng bàn tay, người sẽ bôi lên đầu người được thanh tẩy trong khi làm cho người nghi thức xá tội trước mặt Đức Giavê."
+  },
+  {
+    "i": 3139,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 30,
+    "t": "Một trong hai chim gáy hoặc một trong hai chim bồ câu — tùy theo khả năng người có thể mua được — người sẽ dùng để dâng"
+  },
+  {
+    "i": 3140,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 31,
+    "t": "lễ vật chuộc tội và con kia, người sẽ dùng để dâng lễ toàn thiêu kèm theo lễ vật — với những gì người có thể mua được. Thầy tế lễ sẽ làm như vậy nghi thức xá tội trước mặt Đức Giavê cho người được thanh tẩy."
+  },
+  {
+    "i": 3141,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 32,
+    "t": "Đó là luật lệ liên quan đến người mắc bệnh phong hủi mà không có khả năng lo liệu việc thanh tẩy cho người."
+  },
+  {
+    "i": 3142,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 33,
+    "t": "Đức Giavê phán cùng Môsê và Aharon rằng:"
+  },
+  {
+    "i": 3143,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 34,
+    "t": "Khi các ngươi đến đất Canaan mà Ta ban cho các ngươi làm cơ nghiệp, nếu Ta giáng bệnh phong hủi trên một ngôi nhà trong xứ mà các ngươi sẽ chiếm hữu,"
+  },
+  {
+    "i": 3144,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 35,
+    "t": "chủ nhà sẽ đến báo cho thầy tế lễ và nói: \"Tôi thấy như có bệnh phong hủi trong nhà."
+  },
+  {
+    "i": 3145,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 36,
+    "t": "Thầy tế lễ sẽ truyền đổ hết đồ đạc trong nhà ra trước khi người đến xem xét bệnh; như vậy sẽ không có gì trong nhà bị ô uế. Sau đó thầy tế lễ sẽ đến quan sát ngôi nhà,"
+  },
+  {
+    "i": 3146,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 37,
+    "t": "và nếu, sau khi xem xét, người thấy trên các bức tường của ngôi nhà có những vết lõm màu xanh lục hoặc màu đỏ mà ăn sâu vào tường,"
+  },
+  {
+    "i": 3147,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 38,
+    "t": "thầy tế lễ sẽ đi ra khỏi nhà, đến cửa, và người sẽ truyền đóng cửa nhà lại trong bảy ngày."
+  },
+  {
+    "i": 3148,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 39,
+    "t": "Người sẽ trở lại vào ngày thứ bảy và nếu, sau khi xem xét, người thấy bệnh đã lan rộng trên các bức tường của ngôi nhà,"
+  },
+  {
+    "i": 3149,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 40,
+    "t": "người sẽ truyền lấy những viên đá bị bệnh ăn và ném chúng ra ngoài thành phố vào một nơi ô uế."
+  },
+  {
+    "i": 3150,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 41,
+    "t": "Rồi người sẽ cho cạo tất cả các vách tường bên trong của ngôi nhà và người ta sẽ đổ lớp vữa đã cạo như vậy vào một nơi ô uế ở bên ngoài thành phố."
+  },
+  {
+    "i": 3151,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 42,
+    "t": "Người ta sẽ lấy những viên đá khác thay thế cho những viên đá ban đầu và một lớp vữa khác để trát lại ngôi nhà."
+  },
+  {
+    "i": 3152,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 43,
+    "t": "Nếu bệnh lại sinh sôi nẩy nở sau khi đã lấy đá, cạo và trát lại ngôi nhà,"
+  },
+  {
+    "i": 3153,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 44,
+    "t": "thầy tế lễ sẽ đến xem xét; nếu người thấy bệnh đã phát triển, ấy là bệnh phong hủi lây lan trong nhà; nhà đó là ô uế."
+  },
+  {
+    "i": 3154,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 45,
+    "t": "Người ta sẽ phá hủy nó, người ta sẽ mang đến một nơi ô uế, ở bên ngoài thành phố, đá, khung gỗ và tất cả lớp vữa của nó."
+  },
+  {
+    "i": 3155,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 46,
+    "t": "Bất cứ ai vào nhà, trong suốt thời gian người ta đóng cửa nhà, sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3156,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 47,
+    "t": "Bất cứ ai ngủ trong nhà sẽ phải giặt áo xống. Bất cứ ai ăn trong nhà sẽ phải giặt áo xống."
+  },
+  {
+    "i": 3157,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 48,
+    "t": "Nhưng nếu thầy tế lễ, khi đến xem xét bệnh, nhận thấy bệnh không phát triển trong nhà sau khi trát vữa, người sẽ tuyên bố nhà là tinh sạch, vì bệnh đã khỏi."
+  },
+  {
+    "i": 3158,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 49,
+    "t": "Để dâng lễ vật chuộc tội cho ngôi nhà, người sẽ lấy hai con chim, gỗ bá hương, phẩm đỏ điều và cây kinh giới."
+  },
+  {
+    "i": 3159,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 50,
+    "t": "Người sẽ giết một trong hai con chim trên một cái bình đất nung trên dòng nước chảy."
+  },
+  {
+    "i": 3160,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 51,
+    "t": "Rồi người sẽ lấy gỗ bá hương, cây kinh giới, phẩm đỏ điều và con chim còn sống, để nhúng chúng vào máu con chim đã bị giết và vào dòng nước chảy. Người sẽ rảy bảy lần trên ngôi nhà,"
+  },
+  {
+    "i": 3161,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 52,
+    "t": "và, sau khi đã dâng lễ vật chuộc tội cho ngôi nhà bằng máu chim, nước chảy, chim sống, gỗ bá hương, cây kinh giới và phẩm đỏ điều,"
+  },
+  {
+    "i": 3162,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 53,
+    "t": "người sẽ thả con chim sống ra ngoài thành phố, vào đồng ruộng. Nghi thức xá tội đã làm như vậy trên ngôi nhà, nhà sẽ tinh sạch."
+  },
+  {
+    "i": 3163,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 54,
+    "t": "Đó là luật lệ liên quan đến tất cả các trường hợp phong hủi và ghẻ lở,"
+  },
+  {
+    "i": 3164,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 55,
+    "t": "bệnh phong hủi trên áo xống và nhà cửa,"
+  },
+  {
+    "i": 3165,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 56,
+    "t": "các khối u, mụn nhọt và vết bẩn."
+  },
+  {
+    "i": 3166,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 57,
+    "t": "Nó ấn định thời gian ô uế và tinh sạch. Đó là luật lệ về bệnh phong hủi."
+  },
+  {
+    "i": 3167,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 1,
+    "t": "Đức Giavê phán cùng Môsê và Aharon rằng:"
+  },
+  {
+    "i": 3168,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 2,
+    "t": "Hãy nói với con cái Israel, các ngươi sẽ nói với chúng: Khi một người nam có sự chảy ra từ thân thể mình, sự chảy ra đó là ô uế."
+  },
+  {
+    "i": 3169,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 3,
+    "t": "Đây là sự ô uế của người chừng nào người còn có sự chảy ra đó: Dù da thịt người để sự chảy ra tuôn ra hay giữ lại, người vẫn là ô uế."
+  },
+  {
+    "i": 3170,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 4,
+    "t": "Mọi giường mà người nam đó nằm đều là ô uế và mọi đồ vật mà người ngồi đều là ô uế."
+  },
+  {
+    "i": 3171,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 5,
+    "t": "Ai sờ vào giường của người sẽ phải giặt áo xống, tắm mình trong nước, và người sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3172,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 6,
+    "t": "Ai ngồi trên một đồ vật mà người nam đó đã ngồi sẽ phải giặt áo xống, tắm mình trong nước, và người sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3173,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 7,
+    "t": "Ai sờ vào thân thể của người nam đó sẽ phải giặt áo xống, tắm mình trong nước, và người sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3174,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 8,
+    "t": "Nếu người nam đó nhổ nước miếng vào một người tinh sạch, người đó sẽ phải giặt áo xống, tắm mình trong nước, và người sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3175,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 9,
+    "t": "Mọi yên mà người nam đó đã đi sẽ là ô uế."
+  },
+  {
+    "i": 3176,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 10,
+    "t": "Tất cả những ai sờ vào một vật chi đã ở dưới người đều sẽ bị ô uế cho đến chiều tối. Ai mang một vật như vậy sẽ phải giặt áo xống, tắm mình trong nước, và người sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3177,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 11,
+    "t": "Tất cả những ai được người nam đó sờ đến mà không rửa tay đều phải giặt áo xống, tắm mình trong nước, và họ sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3178,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 12,
+    "t": "Bình đất nung mà người nam đó sờ đến sẽ bị đập vỡ và mọi đồ dùng bằng gỗ phải được rửa sạch."
+  },
+  {
+    "i": 3179,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 13,
+    "t": "Khi người nam đó đã khỏi bệnh, người sẽ đếm bảy ngày để được thanh tẩy. Người sẽ giặt áo xống, tắm mình trong nước chảy, và người sẽ tinh sạch."
+  },
+  {
+    "i": 3180,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 14,
+    "t": "Đến ngày thứ tám, người sẽ lấy hai chim gáy hoặc hai chim bồ câu và đến trước mặt Đức Giavê tại lối vào Lều Hội Ngộ để trao chúng cho thầy tế lễ."
+  },
+  {
+    "i": 3181,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 15,
+    "t": "Thầy tế lễ sẽ dâng một con làm lễ vật chuộc tội và con kia làm lễ toàn thiêu. Như vậy thầy tế lễ sẽ làm cho người nghi thức xá tội trước mặt Đức Giavê vì sự chảy ra của người."
+  },
+  {
+    "i": 3182,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 16,
+    "t": "Khi một người nam có sự xuất tinh, người sẽ phải tắm mình trong nước và người sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3183,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 17,
+    "t": "Mọi áo xống và mọi da thuộc mà sự xuất tinh đã dính vào phải được giặt trong nước và sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3184,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 18,
+    "t": "Khi một phụ nữ ăn nằm vợ chồng với một người nam, cả hai người sẽ phải tắm mình trong nước, và họ sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3185,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 19,
+    "t": "Khi một phụ nữ có sự chảy máu và máu chảy ra từ thân thể người, người sẽ ở trong sự ô uế của kỳ kinh nguyệt trong bảy ngày. Ai sờ vào người sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3186,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 20,
+    "t": "Mọi giường mà người nằm trên đó khi bị ô uế, đều là ô uế; mọi đồ vật mà người ngồi đều là ô uế."
+  },
+  {
+    "i": 3187,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 21,
+    "t": "Ai sờ vào giường của người sẽ phải giặt áo xống, tắm mình trong nước, và người sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3188,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 22,
+    "t": "Ai sờ vào một đồ vật, bất cứ đồ vật nào, mà người đã ngồi, sẽ phải giặt áo xống, tắm mình trong nước, và người sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3189,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 23,
+    "t": "Nếu có vật chi trên giường hoặc trên đồ vật mà người đã ngồi, ai sờ vào sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3190,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 24,
+    "t": "Nếu một người nam ăn nằm với người, sự ô uế của kỳ kinh nguyệt sẽ dính vào người. Người sẽ bị ô uế trong bảy ngày. Mọi giường mà người nằm sẽ là ô uế."
+  },
+  {
+    "i": 3191,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 25,
+    "t": "Khi một phụ nữ có sự chảy máu nhiều ngày ngoài thời gian kỳ kinh nguyệt hoặc nếu kỳ kinh nguyệt của người kéo dài, trong suốt thời gian chảy máu này, người sẽ ở trong tình trạng ô uế giống như trong thời gian kỳ kinh nguyệt."
+  },
+  {
+    "i": 3192,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 26,
+    "t": "Mọi giường mà người nằm trong suốt thời gian chảy máu này sẽ như giường người nằm trong kỳ kinh nguyệt. Mọi đồ vật mà người ngồi sẽ ô uế như trong kỳ kinh nguyệt."
+  },
+  {
+    "i": 3193,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 27,
+    "t": "Ai sờ vào chúng sẽ bị ô uế, phải giặt áo xống, tắm mình trong nước, và người sẽ bị ô uế cho đến chiều tối."
+  },
+  {
+    "i": 3194,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 28,
+    "t": "Khi người đã khỏi sự chảy máu, người sẽ đếm bảy ngày rồi người sẽ tinh sạch."
+  },
+  {
+    "i": 3195,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 29,
+    "t": "Đến ngày thứ tám, người sẽ lấy hai chim gáy hoặc hai chim bồ câu và mang đến cho thầy tế lễ tại lối vào Lều Hội Ngộ."
+  },
+  {
+    "i": 3196,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 30,
+    "t": "Thầy tế lễ sẽ dâng một con làm lễ vật chuộc tội và con kia làm lễ toàn thiêu. Như vậy thầy tế lễ sẽ làm cho người, trước mặt Đức Giavê, nghi thức xá tội vì sự chảy máu làm cho người ô uế."
+  },
+  {
+    "i": 3197,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 31,
+    "t": "Các ngươi sẽ cảnh báo con cái Israel về sự ô uế của chúng, để vì những điều đó chúng không chết khi làm ô uế Đền Tạm của Ta ở giữa chúng."
+  },
+  {
+    "i": 3198,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 32,
+    "t": "Đó là luật lệ liên quan đến người nam có sự chảy ra, người mà sự xuất tinh làm cho ô uế,"
+  },
+  {
+    "i": 3199,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 33,
+    "t": "người nữ trong sự ô uế của kỳ kinh nguyệt, người nam hay người nữ có sự chảy máu, người nam ăn nằm với một người nữ ô uế."
+  }
+]

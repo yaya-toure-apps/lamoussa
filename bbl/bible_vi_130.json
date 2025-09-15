@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13000,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 22,
+    "t": "Vậy ta có phán rằng: “Hãy ban cho ta của lễ, hãy dâng tặng vật cho ta từ tài sản các ngươi chăng?"
+  },
+  {
+    "i": 13001,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 23,
+    "t": "Há ta cầu các ngươi giải thoát ta khỏi tay kẻ áp bức, cứu ta khỏi tay kẻ bạo tàn sao?"
+  },
+  {
+    "i": 13002,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 24,
+    "t": "Hãy dạy ta, thì ta sẽ nín lặng; hãy chỉ cho ta sự sai lầm của ta."
+  },
+  {
+    "i": 13003,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 25,
+    "t": "Lời lẽ chân thật thật là êm dịu, nhưng lời quở trách của các ngươi có ý nghĩa gì?"
+  },
+  {
+    "i": 13004,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 26,
+    "t": "Các ngươi há toan quở trách lời nói, lời lẽ của kẻ tuyệt vọng như gió thoảng qua sao?"
+  },
+  {
+    "i": 13005,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 27,
+    "t": "Các ngươi nỡ lòng bắt thăm để đoạt lấy kẻ mồ côi, đem bạn hữu của các ngươi ra mặc cả!"
+  },
+  {
+    "i": 13006,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 28,
+    "t": "Vậy, xin hãy đoái xem ta! Ta sẽ chẳng dối trá trước mặt các ngươi đâu."
+  },
+  {
+    "i": 13007,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 29,
+    "t": "Xin hãy trở lại, chớ bất công; hãy trở lại, vì ta vẫn còn lẽ phải."
+  },
+  {
+    "i": 13008,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 30,
+    "t": "Có sự gian ác nào trên môi miệng ta chăng? Lưỡi ta há chẳng còn phân biệt được điều bất hạnh sao?"
+  },
+  {
+    "i": 13009,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 1,
+    "t": "Há chẳng phải con người phải phục dịch trên đất sao? Ngày tháng của nó há chẳng phải như ngày tháng của người làm thuê sao?"
+  },
+  {
+    "i": 13010,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 2,
+    "t": "Như nô lệ mong mỏi bóng râm, như người làm thuê đợi chờ tiền công,"
+  },
+  {
+    "i": 13011,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 3,
+    "t": "Ta đã lãnh phần tháng ngày thất vọng, đêm dài đau khổ đã được định cho ta."
+  },
+  {
+    "i": 13012,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 4,
+    "t": "Khi nằm xuống, ta tự hỏi: “Đến bao giờ trời sáng?” Vừa trỗi dậy, ta lại than: “Đến bao giờ tối?” Và những tư tưởng điên rồ ám ảnh ta cho đến lúc chạng vạng."
+  },
+  {
+    "i": 13013,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 5,
+    "t": "Xác ta đầy dòi bọ và vảy đất, da ta nứt nẻ và rỉ mủ."
+  },
+  {
+    "i": 13014,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 6,
+    "t": "Ngày tháng của ta trôi qua nhanh hơn thoi dệt vải, tan biến không còn hy vọng."
+  },
+  {
+    "i": 13015,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 7,
+    "t": "Xin nhớ rằng đời ta chỉ là hơi thở, mắt ta sẽ chẳng còn thấy hạnh phúc nữa!"
+  },
+  {
+    "i": 13016,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 8,
+    "t": "Từ nay, ta sẽ vô hình trước mọi ánh mắt, mắt Ngài sẽ đoái xem ta, và ta sẽ biến mất."
+  },
+  {
+    "i": 13017,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 9,
+    "t": "Như mây tan tác và biến đi, kẻ xuống âm phủ sẽ chẳng trở lên nữa."
+  },
+  {
+    "i": 13018,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 10,
+    "t": "Nó chẳng còn trở về nhà, nơi ở nó sẽ chẳng còn nhận ra nó nữa."
+  },
+  {
+    "i": 13019,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 11,
+    "t": "Bởi vậy, ta chẳng thể nín lặng, ta sẽ nói trong nỗi thống khổ của tâm thần, ta sẽ than thở trong cay đắng của linh hồn."
+  },
+  {
+    "i": 13020,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 12,
+    "t": "Phải chăng ta là Biển, hay là quái vật biển, mà Ngài đặt lính canh chống lại ta?"
+  },
+  {
+    "i": 13021,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 13,
+    "t": "Nếu ta nói: “Giường ta sẽ an ủi ta, nệm ta sẽ xoa dịu nỗi than van của ta,”"
+  },
+  {
+    "i": 13022,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 14,
+    "t": "thì Ngài làm ta kinh hãi bằng những giấc mơ, làm ta khiếp đảm bằng những khải tượng."
+  },
+  {
+    "i": 13023,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 15,
+    "t": "Ôi! Ta thà bị bóp cổ, thà chết còn hơn là chịu đựng những nỗi đau này."
+  },
+  {
+    "i": 13024,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 16,
+    "t": "Ta hao mòn, ta sẽ chẳng sống mãi; vậy, xin Ngài để ta yên, ngày tháng của ta chỉ là hơi thở!"
+  },
+  {
+    "i": 13025,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 17,
+    "t": "Vậy con người là gì mà Ngài xem trọng đến thế, mà Ngài để tâm đến nó,"
+  },
+  {
+    "i": 13026,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 18,
+    "t": "mà Ngài kiểm tra nó mỗi sáng, mà Ngài dò xét nó từng giây phút?"
+  },
+  {
+    "i": 13027,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 19,
+    "t": "Đến bao giờ Ngài thôi nhìn ta, để ta có thì giờ nuốt nước miếng?"
+  },
+  {
+    "i": 13028,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 20,
+    "t": "Nếu ta có phạm tội, thì ta đã làm gì Ngài, hỡi Đấng canh giữ con người? Sao Ngài biến ta thành mục tiêu, sao ta trở thành gánh nặng cho Ngài?"
+  },
+  {
+    "i": 13029,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 21,
+    "t": "Ngài há chẳng thể tha thứ lỗi lầm, bỏ qua tội lỗi của ta sao? Vì chẳng bao lâu nữa ta sẽ nằm trong bụi đất, Ngài sẽ tìm ta, nhưng ta sẽ chẳng còn nữa."
+  },
+  {
+    "i": 13030,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 1,
+    "t": "Binh-đa, người Su-a, lên tiếng đáp rằng:"
+  },
+  {
+    "i": 13031,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 2,
+    "t": "Đến bao giờ ngươi còn nói những điều như vậy, lời lẽ ngươi tựa như gió lớn?"
+  },
+  {
+    "i": 13032,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 3,
+    "t": "Đức Chúa Trời há có thể làm sai lẽ phải, Đấng Toàn Năng có thể làm trái công lý sao?"
+  },
+  {
+    "i": 13033,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 4,
+    "t": "Nếu con cái ngươi đã phạm tội nghịch cùng Ngài, thì Ngài đã trừng phạt chúng vì tội lỗi của chúng."
+  },
+  {
+    "i": 13034,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 5,
+    "t": "Hãy tìm kiếm Đức Chúa Trời, hãy cầu khẩn Đấng Toàn Năng."
+  },
+  {
+    "i": 13035,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 6,
+    "t": "Còn ngươi, nếu ngươi thanh sạch và ngay thẳng, thì bây giờ ánh sáng Ngài sẽ chiếu trên ngươi và Ngài sẽ phục hồi nhà của người công chính."
+  },
+  {
+    "i": 13036,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 7,
+    "t": "Tình trạng trước kia của ngươi sẽ chẳng đáng gì so với tương lai huy hoàng của ngươi."
+  },
+  {
+    "i": 13037,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 8,
+    "t": "Hãy hỏi thế hệ trước, hãy suy ngẫm kinh nghiệm của tổ phụ họ."
+  },
+  {
+    "i": 13038,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 9,
+    "t": "Chúng ta chỉ mới sinh ra ngày hôm qua, chúng ta chẳng biết gì, đời sống chúng ta trên đất trôi qua như bóng chim bay."
+  },
+  {
+    "i": 13039,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 10,
+    "t": "Nhưng họ sẽ dạy dỗ ngươi, sẽ nói với ngươi, và tư tưởng họ sẽ bày tỏ những lời này:"
+  },
+  {
+    "i": 13040,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 11,
+    "t": "“Cây sậy có mọc lên nơi đầm lầy không? Cây lau có thể lớn lên nếu thiếu nước chăng?"
+  },
+  {
+    "i": 13041,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 12,
+    "t": "Khi còn tươi tốt và chưa bị hái, nó đã khô héo trước mọi thứ cỏ."
+  },
+  {
+    "i": 13042,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 13,
+    "t": "Số phận của những kẻ quên Đức Chúa Trời là như thế, hy vọng của kẻ vô đạo sẽ tàn lụi."
+  },
+  {
+    "i": 13043,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 14,
+    "t": "Sự tin cậy của nó chỉ là sợi tơ, sự an toàn của nó chỉ là mạng nhện."
+  },
+  {
+    "i": 13044,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 15,
+    "t": "Nếu nó tựa vào nhà nó, nhà nó sẽ đổ; nếu nó bám vào nhà nó, nhà nó sẽ sụp."
+  },
+  {
+    "i": 13045,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 16,
+    "t": "Nó đầy nhựa sống dưới ánh mặt trời, chồi non nó vươn lên trên vườn."
+  },
+  {
+    "i": 13046,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 17,
+    "t": "Rễ nó quấn quanh gò đá, nó hút sự sống từ giữa các tảng đá."
+  },
+  {
+    "i": 13047,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 18,
+    "t": "Khi nó bị nhổ khỏi chỗ nó, chỗ nó chối bỏ nó: “Ta chưa hề thấy ngươi!”"
+  },
+  {
+    "i": 13048,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 19,
+    "t": "Và nó sẽ mục nát trên đường, trong khi đó từ đất đai, những cây khác sẽ nảy mầm."
+  },
+  {
+    "i": 13049,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 20,
+    "t": "Không, Đức Chúa Trời chẳng hề chối bỏ người thanh liêm, Ngài chẳng hề giúp đỡ kẻ ác."
+  },
+  {
+    "i": 13050,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 21,
+    "t": "Ngài sẽ lại đổ đầy miệng ngươi bằng tiếng cười, môi ngươi sẽ rộn rã tiếng vui."
+  },
+  {
+    "i": 13051,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 22,
+    "t": "Kẻ thù ngươi sẽ bị bao phủ bằng sự xấu hổ, lều của kẻ ác sẽ biến mất.”"
+  },
+  {
+    "i": 13052,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 1,
+    "t": "Gióp lên tiếng đáp rằng:"
+  },
+  {
+    "i": 13053,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 2,
+    "t": "Thật vậy, ta biết rõ là như thế: Người phàm há có thể xưng công chính trước mặt Đức Chúa Trời sao?"
+  },
+  {
+    "i": 13054,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 3,
+    "t": "Nếu ai muốn tranh luận với Ngài, thì dù ngàn lời cũng chẳng đáp lại được một."
+  },
+  {
+    "i": 13055,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 4,
+    "t": "Trong số những người khôn ngoan nhất và mạnh mẽ nhất, ai dám đương đầu với Ngài mà không bị trừng phạt?"
+  },
+  {
+    "i": 13056,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 5,
+    "t": "Ngài dời núi non mà chúng chẳng hay biết, Ngài lật đổ chúng trong cơn giận."
+  },
+  {
+    "i": 13057,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 6,
+    "t": "Ngài làm rung chuyển đất khỏi nền của nó, khiến các cột trụ của nó chao đảo."
+  },
+  {
+    "i": 13058,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 7,
+    "t": "Theo lệnh Ngài, mặt trời không mọc, Ngài niêm phong các ngôi sao."
+  },
+  {
+    "i": 13059,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 8,
+    "t": "Một mình Ngài giương các tầng trời và đạp trên lưng Biển."
+  },
+  {
+    "i": 13060,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 9,
+    "t": "Ngài dựng nên chòm sao Đại Hùng và chòm sao Lạp Hộ, chòm sao Tua Rua và các phòng phía nam."
+  },
+  {
+    "i": 13061,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 10,
+    "t": "Ngài thực hiện những việc vĩ đại và khôn dò, những kỳ diệu không sao đếm xiết."
+  },
+  {
+    "i": 13062,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 11,
+    "t": "Nếu Ngài đi ngang qua ta, ta chẳng thấy Ngài, Ngài lướt qua mà ta chẳng hay."
+  },
+  {
+    "i": 13063,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 12,
+    "t": "Nếu Ngài cướp giật, ai ngăn cản Ngài được? Ai dám hỏi Ngài: “Ngài làm gì?”"
+  },
+  {
+    "i": 13064,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 13,
+    "t": "Đức Chúa Trời chẳng nguôi cơn giận: Dưới Ngài, những kẻ giúp việc Ra-háp phải phủ phục."
+  },
+  {
+    "i": 13065,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 14,
+    "t": "Huống chi ta, ta có thể tự biện hộ sao? Ta có thể chọn lý lẽ của ta để chống lại Ngài sao?"
+  },
+  {
+    "i": 13066,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 15,
+    "t": "Dù ta có lẽ phải, có ích gì mà đáp lại Ngài? Ta phải cầu xin Đấng xét đoán ta."
+  },
+  {
+    "i": 13067,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 16,
+    "t": "Và nếu Ngài đoái thương đến sự kêu cầu của ta, ta cũng chẳng tin rằng Ngài sẽ nghe tiếng ta,"
+  },
+  {
+    "i": 13068,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 17,
+    "t": "Ngài đè bẹp ta vì một sợi tóc, Ngài vô cớ gia tăng thương tích cho ta,"
+  },
+  {
+    "i": 13069,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 18,
+    "t": "Ngài chẳng cho ta kịp lấy hơi, Ngài làm ta no nê cay đắng!"
+  },
+  {
+    "i": 13070,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 19,
+    "t": "Cậy vào sức mạnh chăng? Ngài mạnh hơn! Ra tòa chăng? Ai dám triệu Ngài đến?"
+  },
+  {
+    "i": 13071,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 20,
+    "t": "Nếu ta xưng công chính, miệng Ngài sẽ kết án ta; nếu ta cho mình là hoàn hảo, Ngài sẽ tuyên bố ta gian tà."
+  },
+  {
+    "i": 13072,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 21,
+    "t": "Ta có hoàn hảo chăng? Chính ta cũng chẳng còn biết nữa, ta khinh dể cuộc đời!"
+  },
+  {
+    "i": 13073,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 22,
+    "t": "Vì đều như nhau cả, nên ta dám nói: Ngài tiêu diệt người thanh liêm cũng như kẻ gian ác."
+  },
+  {
+    "i": 13074,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 23,
+    "t": "Khi tai họa bất thình lình ập đến, Ngài chế nhạo sự khốn khổ của người vô tội."
+  },
+  {
+    "i": 13075,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 24,
+    "t": "Khi một đất nước bị trao vào tay kẻ gian ác, Ngài che mặt các quan xét. Nếu chẳng phải Ngài, thì còn ai nữa?"
+  },
+  {
+    "i": 13076,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 25,
+    "t": "Ngày tháng ta trôi qua nhanh hơn người chạy bộ, chúng trốn đi mà chẳng thấy hạnh phúc."
+  },
+  {
+    "i": 13077,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 26,
+    "t": "Chúng lướt đi như thuyền bơi bằng sậy, như chim ưng lao xuống mồi."
+  },
+  {
+    "i": 13078,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 27,
+    "t": "Nếu ta quyết định nén nỗi than van, thay đổi sắc mặt để làm ra vẻ vui tươi,"
+  },
+  {
+    "i": 13079,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 28,
+    "t": "sự kinh hãi sẽ chụp lấy ta trước mọi nỗi đau, vì ta biết rằng Ngài chẳng xem ta là vô tội."
+  },
+  {
+    "i": 13080,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 29,
+    "t": "Nếu ta phạm tội, thì sự khó nhọc ta chịu có ích chi?"
+  },
+  {
+    "i": 13081,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 30,
+    "t": "Dầu ta lấy nước tro mà rửa mình, và xà bông mà chùi tay cho sạch,"
+  },
+  {
+    "i": 13082,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 31,
+    "t": "Ấy vậy Ngài sẽ dìm ta trong hố, và áo xống ta lấy làm ghê tởm ta!"
+  },
+  {
+    "i": 13083,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 32,
+    "t": "Vì Ngài chẳng phải là người như ta, hầu cho ta đáp lại Ngài, và cùng nhau đến trước tòa."
+  },
+  {
+    "i": 13084,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 33,
+    "t": "Chẳng có người phân xử giữa chúng ta, đặng đặt tay trên hai người!"
+  },
+  {
+    "i": 13085,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 34,
+    "t": "Ước gì Ngài cất roi Ngài khỏi ta, và đừng để sự kinh khiếp Ngài làm cho ta sợ hãi!"
+  },
+  {
+    "i": 13086,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 35,
+    "t": "Bấy giờ ta sẽ nói, chẳng sợ Ngài; vì ta chẳng có ý mình là như vậy!"
+  },
+  {
+    "i": 13087,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 1,
+    "t": "Linh hồn ta chán sự sống; ta sẽ buông tuồng than thở, ta sẽ nói trong cay đắng của lòng ta."
+  },
+  {
+    "i": 13088,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 2,
+    "t": "Ta sẽ thưa cùng Đức Chúa Trời rằng: Xin chớ đoán phạt tôi; cho tôi biết vì cớ chi Ngài công kích tôi."
+  },
+  {
+    "i": 13089,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 3,
+    "t": "Ngài há vui thích áp bức, khinh bỉ công việc tay Ngài làm ra, và chiếu sáng trên mưu kế kẻ ác sao?"
+  },
+  {
+    "i": 13090,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 4,
+    "t": "Ngài há có mắt bằng thịt sao? Hay là Ngài thấy như loài người thấy?"
+  },
+  {
+    "i": 13091,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 5,
+    "t": "Ngày của Ngài há như ngày loài người sao? Năm của Ngài há như ngày người ta sao?"
+  },
+  {
+    "i": 13092,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 6,
+    "t": "Mà Ngài tìm sự gian ác ta, và tra xét tội lỗi ta?"
+  },
+  {
+    "i": 13093,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 7,
+    "t": "Dầu Ngài biết rằng ta chẳng ác, và chẳng ai giải cứu ta khỏi tay Ngài được."
+  },
+  {
+    "i": 13094,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 8,
+    "t": "Tay Ngài nắn nên, lập nên ta hết cả chung quanh; rồi Ngài lại hủy diệt ta!"
+  },
+  {
+    "i": 13095,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 9,
+    "t": "Xin hãy nhớ rằng Ngài đã nhào nắn ta như đất sét; Ngài lại khiến ta trở về bụi đất sao?"
+  },
+  {
+    "i": 13096,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 10,
+    "t": "Ngài há chẳng đổ ta ra như sữa, và làm ta đông lại như pho mát sao?"
+  },
+  {
+    "i": 13097,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 11,
+    "t": "Ngài mặc da và thịt cho ta, bện xương và gân lại."
+  },
+  {
+    "i": 13098,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 12,
+    "t": "Ngài ban sự sống và ơn cho ta; và sự đoái xem của Ngài bảo hộ linh hồn ta."
+  },
+  {
+    "i": 13099,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 13,
+    "t": "Nhưng Ngài giấu những điều nầy trong lòng Ngài; tôi biết rằng Ngài có ý như vậy."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16800,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 15,
+    "t": "Pot neumnega se mu zdi prava, modri pa posluša nasvet."
+  },
+  {
+    "i": 16801,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 16,
+    "t": "Neumnež takoj razkrije svojo jezo, preudarni pa zamolči sramoto."
+  },
+  {
+    "i": 16802,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 17,
+    "t": "Kdor govori resnico, oznanja pravico, krivična priča pa prevaro."
+  },
+  {
+    "i": 16803,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 18,
+    "t": "Brezbrižne besede prebadajo kakor meč, jezik modrih pa zdravi."
+  },
+  {
+    "i": 16804,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 19,
+    "t": "Resnična ustnica traja večno, lažniv jezik pa le za kratek čas."
+  },
+  {
+    "i": 16805,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 20,
+    "t": "V srcu, ki snuje zlo, je prevara, pri miroljubnih svetovalcih pa veselje."
+  },
+  {
+    "i": 16806,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 21,
+    "t": "Pravičnemu se ne zgodi nič hudega, brezbožniki pa so polni gorja."
+  },
+  {
+    "i": 16807,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 22,
+    "t": "Gnusoba so GOSPODU lažnive ustnice, veseli pa so mu tisti, ki ravnajo po resnici."
+  },
+  {
+    "i": 16808,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 23,
+    "t": "Preudaren človek prikriva svoje znanje, srce bedakov pa razglaša norost."
+  },
+  {
+    "i": 16809,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 24,
+    "t": "Marljiva roka bo vladala, lenobna pa bo morala služiti."
+  },
+  {
+    "i": 16810,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 25,
+    "t": "Skrb v človekovem srcu ga potlači, dobra beseda pa ga razveseli."
+  },
+  {
+    "i": 16811,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 26,
+    "t": "Pravični kaže svojemu bližnjemu pravo pot, pot hudobnih pa jih zapelje."
+  },
+  {
+    "i": 16812,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 27,
+    "t": "Lenuh ne speče svojega plena, marljivost pa je dragoceno bogastvo človeka."
+  },
+  {
+    "i": 16813,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 28,
+    "t": "Na poti pravičnosti je življenje, pot krivičnih pa vodi v smrt."
+  },
+  {
+    "i": 16814,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 1,
+    "t": "Moder sin posluša očetovo vzgojo, zasmehovalec pa ne posluša graje."
+  },
+  {
+    "i": 16815,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 2,
+    "t": "Po sadu svojih ust se človek naje dobrega, duša nezvestih pa hrepeni po nasilju."
+  },
+  {
+    "i": 16816,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 3,
+    "t": "Kdor varuje svoja usta, ohranja svoje življenje, kdor pa na široko odpira svoje ustnice, se pogubi."
+  },
+  {
+    "i": 16817,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 4,
+    "t": "Lenuh hrepeni, pa nič ne dobi, lačni pa so siti."
+  },
+  {
+    "i": 16818,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 5,
+    "t": "Pravični sovraži lažnivo besedo, hudobni pa sramoti in žali."
+  },
+  {
+    "i": 16819,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 6,
+    "t": "Pravičnost varuje tistega, ki hodi po pošteni poti, greh pa pogublja hudobnega."
+  },
+  {
+    "i": 16820,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 7,
+    "t": "Nekdo se dela bogatega, pa nima ničesar, nekdo pa si domišlja, da je reven, pa ima veliko bogastvo."
+  },
+  {
+    "i": 16821,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 8,
+    "t": "Bogastvo je odkupnina za človekovo življenje, revni pa ne poslušajo graje."
+  },
+  {
+    "i": 16822,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 9,
+    "t": "Luč pravičnih se veselo sveti, svetilka hudobnih pa ugasne."
+  },
+  {
+    "i": 16823,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 10,
+    "t": "Ošabnost povzroča le prepire, pri tistih, ki sprejemajo nasvete, pa je modrost."
+  },
+  {
+    "i": 16824,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 11,
+    "t": "Hitro pridobljeno bogastvo se zmanjšuje, kdor pa ga počasi nabira, se bogati."
+  },
+  {
+    "i": 16825,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 12,
+    "t": "Odloženo upanje slabi srce, izpolnjena želja pa je drevo življenja."
+  },
+  {
+    "i": 16826,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 13,
+    "t": "Kdor zaničuje besedo, bo propadel, kdor pa spoštuje zapoved, bo rešen."
+  },
+  {
+    "i": 16827,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 14,
+    "t": "Nauk modrega je studenec življenja, da bi se izognili zankam smrti."
+  },
+  {
+    "i": 16828,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 15,
+    "t": "Dober razum pridobi naklonjenost, pot nezvestih pa je trda."
+  },
+  {
+    "i": 16829,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 16,
+    "t": "Vsak preudaren človek ravna z znanjem, bedak pa razkazuje svojo norost."
+  },
+  {
+    "i": 16830,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 17,
+    "t": "Hudoben sel pade v nesrečo, zvest sel pa prinaša ozdravljenje."
+  },
+  {
+    "i": 16831,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 18,
+    "t": "Revščina in sramota doletita tistega, ki zapusti vzgojo, čast pa tistega, ki se drži graje."
+  },
+  {
+    "i": 16832,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 19,
+    "t": "Izpolnjena želja je sladka duši, bedakom pa je gnusoba, če se morajo odvrniti od zla."
+  },
+  {
+    "i": 16833,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 20,
+    "t": "Kdor hodi z modrimi, postane moder, kdor pa se druži z bedaki, bo trpel."
+  },
+  {
+    "i": 16834,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 21,
+    "t": "Grešnika zasleduje nesreča, pravični pa bodo poplačani z dobrim."
+  },
+  {
+    "i": 16835,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 22,
+    "t": "Dobri človek zapušča dediščino svojim vnukom, za pravičnega pa je prihranjeno bogastvo grešnikov."
+  },
+  {
+    "i": 16836,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 23,
+    "t": "Njiva revežev daje obilo hrane, toda nekateri propadejo zaradi nepravičnosti."
+  },
+  {
+    "i": 16837,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 24,
+    "t": "Kdor prizanaša palici, sovraži svojega sina, kdor pa ga ima rad, ga pravočasno kaznuje."
+  },
+  {
+    "i": 16838,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 25,
+    "t": "Pravični je in se nasiti, trebuh hudobnih pa strada."
+  },
+  {
+    "i": 16839,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 1,
+    "t": "Modrost zida svojo hišo, norost pa jo s svojimi rokami podira."
+  },
+  {
+    "i": 16840,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 2,
+    "t": "Kdor hodi po svoji poti, se boji GOSPODA, kdor pa jo zapušča, ga zaničuje."
+  },
+  {
+    "i": 16841,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 3,
+    "t": "V ustih bedaka je poganjek ponosa, ustnice modrih pa jih varujejo."
+  },
+  {
+    "i": 16842,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 4,
+    "t": "Kjer ni goveda, so prazne jasli, močan bik pa prinaša obilo dohodka."
+  },
+  {
+    "i": 16843,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 5,
+    "t": "Zanesljiva priča ne laže, kriva priča pa vdihava laži."
+  },
+  {
+    "i": 16844,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 6,
+    "t": "Posmehovalec zaman išče modrost, spoznanje pa je preprosto za razumnega človeka."
+  },
+  {
+    "i": 16845,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 7,
+    "t": "Pojdi stran od bedaka, ne boš slišal modrih ustnic."
+  },
+  {
+    "i": 16846,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 8,
+    "t": "Modrost preudarnega človeka je, da opazuje svoje ravnanje, norost bedakov pa je prevara."
+  },
+  {
+    "i": 16847,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 9,
+    "t": "Bedaki se posmehujejo daritvi za greh, med poštenimi ljudmi pa je naklonjenost."
+  },
+  {
+    "i": 16848,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 10,
+    "t": "Srce pozna svojo lastno grenkobo in nihče od tujcev ne more deliti njegovega veselja."
+  },
+  {
+    "i": 16849,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 11,
+    "t": "Hiša hudobnih bo uničena, šotor poštenih pa bo cvetel."
+  },
+  {
+    "i": 16850,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 12,
+    "t": "Nekatera pot se človeku zdi prava, toda na koncu je to pot v smrt."
+  },
+  {
+    "i": 16851,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 13,
+    "t": "Tudi pri smehu trpi srce in veselje se konča v žalosti."
+  },
+  {
+    "i": 16852,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 14,
+    "t": "Srce, ki se oddalji, se nasiti s svojimi potmi, dobri človek pa s svojimi deli."
+  },
+  {
+    "i": 16853,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 15,
+    "t": "Naivni verjame vsaki besedi, preudarni pa pazi na svoje korake."
+  },
+  {
+    "i": 16854,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 16,
+    "t": "Moder se boji in se odvrača od zla, bedak pa je ošaben in samozavesten."
+  },
+  {
+    "i": 16855,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 17,
+    "t": "Človek, ki je hitre jeze, stori neumnosti, človek, ki je hudoben, pa je osovražen."
+  },
+  {
+    "i": 16856,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 18,
+    "t": "Delež naivnih je norost, razumski ljudje pa dobijo spoznanje za krono."
+  },
+  {
+    "i": 16857,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 19,
+    "t": "Hudobni se priklanjajo pred dobrimi in brezbožni pri vratih pravičnih."
+  },
+  {
+    "i": 16858,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 20,
+    "t": "Revni je osovražen tudi svojemu bližnjemu, bogatega pa ima rad mnogo ljudi."
+  },
+  {
+    "i": 16859,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 21,
+    "t": "Greši, kdor zaničuje svojega bližnjega, blagor pa tistemu, ki se usmili revežev."
+  },
+  {
+    "i": 16860,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 22,
+    "t": "Ali ne tavajo tisti, ki snujejo zlo? Usmiljenje in zvestoba sta za tiste, ki se trudijo za dobro."
+  },
+  {
+    "i": 16861,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 23,
+    "t": "Vsako delo prinaša dobiček, govorjenje pa prinaša le pomanjkanje."
+  },
+  {
+    "i": 16862,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 24,
+    "t": "Kroni modrih je njihovo bogastvo, norost bedakov pa je norost."
+  },
+  {
+    "i": 16863,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 25,
+    "t": "Zanesljiva priča rešuje življenja, kdor pa govori laži, je prevarant."
+  },
+  {
+    "i": 16864,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 26,
+    "t": "V strahu pred GOSPODOM je močna varnost, za njegove otroke pa je zatočišče."
+  },
+  {
+    "i": 16865,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 27,
+    "t": "Strah pred GOSPODOM je studenec življenja, da bi se izognili zankam smrti."
+  },
+  {
+    "i": 16866,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 28,
+    "t": "Število ljudstva je slava kralja, zmanjšanje prebivalstva pa je poguba vladarja."
+  },
+  {
+    "i": 16867,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 29,
+    "t": "Človek, ki je počasen v jezi, ima veliko razumnost, kdor pa je nagle jeze, poudarja norost."
+  },
+  {
+    "i": 16868,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 30,
+    "t": "Življenje telesa je mirno srce, zavist pa je gniloba v kosteh."
+  },
+  {
+    "i": 16869,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 31,
+    "t": "Kdor zatira ubogega, žali njegovega Stvarnika, kdor pa je dober do nesrečnega, ga časti."
+  },
+  {
+    "i": 16870,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 32,
+    "t": "Hudobnega vrže lastna hudobija, pravični pa najde zavetje v svoji poštenosti."
+  },
+  {
+    "i": 16871,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 33,
+    "t": "V razumnem srcu prebiva modrost, v srcu bedakov pa je ni mogoče prepoznati."
+  },
+  {
+    "i": 16872,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 34,
+    "t": "Pravičnost povzdiguje narod, greh pa je sramota ljudstev."
+  },
+  {
+    "i": 16873,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 35,
+    "t": "Kraljeva naklonjenost gre inteligentnemu služabniku, njegova jeza pa tistemu, ki dela sramoto."
+  },
+  {
+    "i": 16874,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 1,
+    "t": "Prijazen odgovor pomirja jezo, žaljiva beseda pa podžiga srd."
+  },
+  {
+    "i": 16875,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 2,
+    "t": "Jezik modrih dela spoznanje prijetno, usta bedakov pa bruhajo norost."
+  },
+  {
+    "i": 16876,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 3,
+    "t": "Na vsakem kraju so oči GOSPODOVE, opazujejo hudobne in dobre."
+  },
+  {
+    "i": 16877,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 4,
+    "t": "Pomirjujoč jezik je drevo življenja, izprijen jezik pa lomi srce."
+  },
+  {
+    "i": 16878,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 5,
+    "t": "Neumnež zaničuje očetovo vzgojo, kdor pa upošteva grajo, je preudaren."
+  },
+  {
+    "i": 16879,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 6,
+    "t": "V hiši pravičnega je obilje bogastva, dohodek hudobnega pa je vir skrbi."
+  },
+  {
+    "i": 16880,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 7,
+    "t": "Usta modrih razglašajo znanje, srce bedakov pa ne."
+  },
+  {
+    "i": 16881,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 8,
+    "t": "Žrtve krivičnih so Jahveju gnusoba, molitev poštenih pa mu je v veselje."
+  },
+  {
+    "i": 16882,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 9,
+    "t": "Gnusoba je Jahveju hudobno vedenje, ljubi pa tiste, ki si prizadevajo za pravičnost."
+  },
+  {
+    "i": 16883,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 10,
+    "t": "Huda kazen čaka tistega, ki zapusti pot; kdor sovraži grajanje, bo umrl."
+  },
+  {
+    "i": 16884,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 11,
+    "t": "Šeol in Poguba sta pred Jahvejem: koliko bolj srca sinov človeških!"
+  },
+  {
+    "i": 16885,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 12,
+    "t": "Posmehovalec ne mara, da ga grajajo, z modrimi ne hodi rad."
+  },
+  {
+    "i": 16886,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 13,
+    "t": "Veselo srce naredi vesel obraz, srce žalosti pa duha potlači."
+  },
+  {
+    "i": 16887,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 14,
+    "t": "Srce razumnih išče znanje, usta bedakov pa se redijo s neumnostjo."
+  },
+  {
+    "i": 16888,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 15,
+    "t": "Za ubogega so vsi dnevi hudi, za srce veselo pa je neprestana gostija."
+  },
+  {
+    "i": 16889,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 16,
+    "t": "Bolje malo s strahom Jahvejevim, kakor bogat zaklad z nemirom."
+  },
+  {
+    "i": 16890,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 17,
+    "t": "Bolje porcija zelenjave z ljubeznijo, kakor pitani vol z sovraštvom."
+  },
+  {
+    "i": 16891,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 18,
+    "t": "Mož jezljivega srca povzroča prepir, počasni v jezi pa pomirja razprtije."
+  },
+  {
+    "i": 16892,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 19,
+    "t": "Pot lenega je kakor živa meja trnja, steza poštenih pa je velika cesta."
+  },
+  {
+    "i": 16893,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 20,
+    "t": "Sin moder razveseljuje očeta, bedak pa zaničuje mater."
+  },
+  {
+    "i": 16894,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 21,
+    "t": "Neumnost je veselje človeku brez razuma, človek razumen pa gre naravnost po svoji poti."
+  },
+  {
+    "i": 16895,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 22,
+    "t": "Brez posvetovanja načrti propadejo, zaradi mnogih svetovalcev pa se uresničijo."
+  },
+  {
+    "i": 16896,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 23,
+    "t": "Veselje je človeku ustrezna beseda iz njegovih ust, kako dobra je prava beseda ob pravem času!"
+  },
+  {
+    "i": 16897,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 24,
+    "t": "Modremu je pot življenja, ki vodi navzgor, da bi se izognil šeolu, ki je spodaj."
+  },
+  {
+    "i": 16898,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 25,
+    "t": "Jahve podira hišo ošabnih, a postavlja mejnik vdove."
+  },
+  {
+    "i": 16899,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 26,
+    "t": "Gnusoba so Jahveju hudobne misli, besede prijazne pa so čiste."
+  }
+]

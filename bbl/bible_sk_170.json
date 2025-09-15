@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17000,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 9,
+    "t": "Krivý svedok neostane bez trestu a kto hovorí lži, zahynie."
+  },
+  {
+    "i": 17001,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 10,
+    "t": "Nechváli sa blázon prepychom, ešte menej sluší otrokovi panovať nad kniežatami."
+  },
+  {
+    "i": 17002,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 11,
+    "t": "Rozumnosť robí človeka zhovievavým a jeho slávou je odpustiť priestupok."
+  },
+  {
+    "i": 17003,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 12,
+    "t": "Ako rev leva je kráľova zúrivosť, ale ako rosa na tráve je jeho priazeň."
+  },
+  {
+    "i": 17004,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 13,
+    "t": "Syn blázon je nešťastím pre svojho otca a hádky ženy sú ako ustavičné kvapkanie."
+  },
+  {
+    "i": 17005,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 14,
+    "t": "Dom a majetok sú dedičstvom po otcoch, ale rozumnú ženu dáva Hospodin."
+  },
+  {
+    "i": 17006,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 15,
+    "t": "Lenivosť privádza do driemot a lenivá duša bude hladovať."
+  },
+  {
+    "i": 17007,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 16,
+    "t": "Kto zachováva prikázanie, zachováva svoju dušu, ale kto pohŕda svojimi cestami, zomrie."
+  },
+  {
+    "i": 17008,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 17,
+    "t": "Kto preukazuje milosrdenstvo chudobnému, požičiava Hospodinovi, a on mu odplatí jeho dobročinnosť."
+  },
+  {
+    "i": 17009,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 18,
+    "t": "Kým je nádej, tresci svojho syna, ale neprekroč mieru, aby si mu nespôsobil smrť."
+  },
+  {
+    "i": 17010,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 19,
+    "t": "Hnevlivý človek si privodí pokutu; ak ho ušetríš, zväčšíš jeho zlo."
+  },
+  {
+    "i": 17011,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 20,
+    "t": "Počúvaj radu, prijímaj napomenutie, aby si bol múdry naostatok."
+  },
+  {
+    "i": 17012,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 21,
+    "t": "Mnohé sú myšlienky v srdci človeka, ale úmysel Hospodinov, ten obstojí."
+  },
+  {
+    "i": 17013,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 22,
+    "t": "Čo sa žiada u človeka, je milosrdenstvo; lepšie je byť chudobným ako klamárom."
+  },
+  {
+    "i": 17014,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 23,
+    "t": "Bázeň pred Hospodinom vedie k životu, spokojne býva a netrápi ho zlé."
+  },
+  {
+    "i": 17015,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 24,
+    "t": "Lenivec ponorí ruku do misy, ale nevládze ju vrátiť k ústam."
+  },
+  {
+    "i": 17016,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 25,
+    "t": "Udar posmievača, a hlúpy zmúdrie; pokarhaj rozumného, a pochopí poznanie."
+  },
+  {
+    "i": 17017,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 26,
+    "t": "Kto zle zaobchádza s otcom a vyháňa matku, je syn hanebný a potupný."
+  },
+  {
+    "i": 17018,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 27,
+    "t": "Prestaň, syn môj, počúvať poučenie, ak sa chceš odkloniť od slov poznania!"
+  },
+  {
+    "i": 17019,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 28,
+    "t": "Svedok nehodný sa vysmieva spravodlivosti; ústa bezbožných pohlcujú neprávosť."
+  },
+  {
+    "i": 17020,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 29,
+    "t": "Tresty sú pripravené pre posmievačov, rany pre chrbát hlupákov."
+  },
+  {
+    "i": 17021,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 1,
+    "t": "Posmech je vo víne! Hádky v opojnom nápoji! Kto sa v nich stratí, nie je múdry."
+  },
+  {
+    "i": 17022,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 2,
+    "t": "Ako rev leva je kráľov hnev! Kto ho roznecuje, hreší proti sebe."
+  },
+  {
+    "i": 17023,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 3,
+    "t": "Je pre človeka cťou vyhnúť sa sporom, ale každý blázon sa do nich vrhá."
+  },
+  {
+    "i": 17024,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 4,
+    "t": "Na jeseň lenivec neorie, pri žatve hľadá, a nič nenájde!"
+  },
+  {
+    "i": 17025,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 5,
+    "t": "Hlboká voda je rada v srdci človeka, ale rozumný muž ju načerpá."
+  },
+  {
+    "i": 17026,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 6,
+    "t": "Mnohí sa vyhlasujú za mužov milosrdenstva, ale verného muža, kto nájde?"
+  },
+  {
+    "i": 17027,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 7,
+    "t": "Spravodlivý, ktorý chodí v bezúhonnosti, blaze jeho deťom po ňom!"
+  },
+  {
+    "i": 17028,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 8,
+    "t": "Kráľ sediaci na súde rozptyľuje všetko zlé svojím pohľadom."
+  },
+  {
+    "i": 17029,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 9,
+    "t": "Kto môže povedať: \"Očistil som svoje srdce, som čistý od svojho hriechu?"
+  },
+  {
+    "i": 17030,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 10,
+    "t": "Dvojaká váha a dvojaké miery, oboje sú Hospodinovi ohavnosťou."
+  },
+  {
+    "i": 17031,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 11,
+    "t": "Aj mládenec sa svojimi skutkami dáva poznať, či je jeho konanie čisté a priame."
+  },
+  {
+    "i": 17032,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 12,
+    "t": "Ucho, ktoré počuje, a oko, ktoré vidí, oboje urobil Hospodin."
+  },
+  {
+    "i": 17033,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 13,
+    "t": "Nemiluj spánok, aby si nezbedačil; otvor oči, nasýtiš sa chlebom!"
+  },
+  {
+    "i": 17034,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 14,
+    "t": "\"Zlé! Zlé!\" hovorí kupec, ale keď odíde, chváli sa."
+  },
+  {
+    "i": 17035,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 15,
+    "t": "Je zlato a množstvo perál, ale najvzácnejšie sú pery poučené."
+  },
+  {
+    "i": 17036,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 16,
+    "t": "Vezmi mu odev, lebo sa zaručil za cudzinca, pre neznámych vezmi záloh!"
+  },
+  {
+    "i": 17037,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 17,
+    "t": "Sladký je človeku chlieb klamu, ale potom sa mu ústa naplnia štrkom."
+  },
+  {
+    "i": 17038,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 18,
+    "t": "V rade sa upevňujú plány: so šikovnými úvahami veď vojnu."
+  },
+  {
+    "i": 17039,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 19,
+    "t": "Prezrádza tajnosti, kto roznáša klebety; s tým, kto má ustavične otvorené ústa, sa nezdružuj!"
+  },
+  {
+    "i": 17040,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 20,
+    "t": "Kto zlorečí svojmu otcovi a matke, zhasne jeho lampa v najväčšej tme."
+  },
+  {
+    "i": 17041,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 21,
+    "t": "Majetok rýchlo nadobudnutý na začiatku nebude požehnaný na konci."
+  },
+  {
+    "i": 17042,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 22,
+    "t": "Nehovor: \"Odvrátiem zlo!\" Dúfaj v Hospodina, ktorý ťa zachráni."
+  },
+  {
+    "i": 17043,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 23,
+    "t": "Ohavnosťou je pre Hospodina dvojaká váha; falošné váhy nie sú dobré."
+  },
+  {
+    "i": 17044,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 24,
+    "t": "Hospodin riadi kroky človeka: ako by človek mohol rozumieť svojej ceste?"
+  },
+  {
+    "i": 17045,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 25,
+    "t": "Je pascou pre človeka narýchlo kričať: \"Toto je sväté!\" a až po sľuboch rozmýšľať."
+  },
+  {
+    "i": 17046,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 26,
+    "t": "Kráľ múdry preosieva bezbožných a preháňa po nich koleso."
+  },
+  {
+    "i": 17047,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 27,
+    "t": "Lampou Hospodinovou je duch človeka, ktorý preniká až do najhlbších zákutí jeho bytosti."
+  },
+  {
+    "i": 17048,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 28,
+    "t": "Milosť a vernosť strážia kráľa; na milosti je založený trón."
+  },
+  {
+    "i": 17049,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 29,
+    "t": "Slávou mládencov je ich sila, ozdobou starcov je ich šedivá hlava."
+  },
+  {
+    "i": 17050,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 30,
+    "t": "Krvavé rany sú liekom proti zlu, rany prenikajú až do hĺbky bytosti."
+  },
+  {
+    "i": 17051,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 1,
+    "t": "Ako tečúca voda, srdce kráľovo je v rukách Hospodina, ktorý ho nakláňa, kamkoľvek chce."
+  },
+  {
+    "i": 17052,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 2,
+    "t": "Všetky cesty človeka sú priame v jeho očiach, ale Hospodin váži srdcia."
+  },
+  {
+    "i": 17053,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 3,
+    "t": "Konať spravodlivo a správne je pre Hospodina cennejšie ako obeta."
+  },
+  {
+    "i": 17054,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 4,
+    "t": "Povznešené oči, naduté srdce, pochodeň bezbožných, to všetko je hriech."
+  },
+  {
+    "i": 17055,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 5,
+    "t": "Plány usilovného vedú len k zisku; pre toho, kto sa ponáhľa, len k nedostatku!"
+  },
+  {
+    "i": 17056,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 6,
+    "t": "Hromadiť poklady lživým jazykom je márnosťou prchavou pre tých, čo hľadajú smrť."
+  },
+  {
+    "i": 17057,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 7,
+    "t": "Násilie bezbožných ich strhne, lebo odmietajú konať spravodlivo."
+  },
+  {
+    "i": 17058,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 8,
+    "t": "Krivolaká je cesta zločinca, ale čin nevinného je priamy."
+  },
+  {
+    "i": 17059,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 9,
+    "t": "Lepšie je bývať v kúte strechy ako s hašterivou ženou v spoločnom dome."
+  },
+  {
+    "i": 17060,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 10,
+    "t": "Duša bezbožného si želá zlé, v jeho očiach nenájde blížny milosť."
+  },
+  {
+    "i": 17061,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 11,
+    "t": "Keď sa trestá posmievač, hlúpy sa spamätá; keď sa poučuje múdry, prijíma poznanie."
+  },
+  {
+    "i": 17062,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 12,
+    "t": "Spravodlivý pozoruje dom bezbožného: vrhá bezbožných do nešťastia."
+  },
+  {
+    "i": 17063,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 13,
+    "t": "Kto zatvára ucho pred volaním chudobného, bude aj on kričať, a nikto mu neodpovie."
+  },
+  {
+    "i": 17064,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 14,
+    "t": "Tajný dar upokojí hnev, dar pod plášťom prudký hnev."
+  },
+  {
+    "i": 17065,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 15,
+    "t": "Je radosťou pre spravodlivého konať spravodlivo, ale je to hrôza pre tých, čo robia zle."
+  },
+  {
+    "i": 17066,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 16,
+    "t": "Kto sa odkloní od cesty rozumnosti, bude odpočívať v zhromaždení tieňov."
+  },
+  {
+    "i": 17067,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 17,
+    "t": "Zostane chudobný, kto miluje rozkoš, neobohatí sa, kto miluje víno a hodovanie."
+  },
+  {
+    "i": 17068,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 18,
+    "t": "Bezbožný je výkupným za spravodlivého; namiesto priamych mužov: zradca."
+  },
+  {
+    "i": 17069,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 19,
+    "t": "Lepšie je bývať v pustej krajine ako s hašterivou a mrzutou ženou."
+  },
+  {
+    "i": 17070,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 20,
+    "t": "Je vzácny poklad a olej v príbytku múdreho, ale blázon ich pohlcuje."
+  },
+  {
+    "i": 17071,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 21,
+    "t": "Kto nasleduje spravodlivosť a milosrdenstvo, nájde život, spravodlivosť a česť."
+  },
+  {
+    "i": 17072,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 22,
+    "t": "Múdry vylezie na mesto silných a zvrhne hradbu, v ktorej sa spoliehalo."
+  },
+  {
+    "i": 17073,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 23,
+    "t": "Kto si stráži ústa a jazyk, ochráni sa pred úzkosťou."
+  },
+  {
+    "i": 17074,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 24,
+    "t": "Nositeľ mena \"posmievač\", pyšný a povýšený, koná v prebytku svojej povýšenosti."
+  },
+  {
+    "i": 17075,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 25,
+    "t": "Žiadosť lenivca ho zabíja, lebo jeho ruky odmietajú prácu."
+  },
+  {
+    "i": 17076,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 26,
+    "t": "Celý deň je bezbožný v moci žiadostivosti, spravodlivý dáva bez toho, aby kedy odmietol."
+  },
+  {
+    "i": 17077,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 27,
+    "t": "Obeta bezbožných je ohavnosťou, najmä ak ju prinášajú so zlou úmyselnosťou."
+  },
+  {
+    "i": 17078,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 28,
+    "t": "Krivý svedok zahynie, ale kto vie počúvať, bude hovoriť naveky."
+  },
+  {
+    "i": 17079,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 29,
+    "t": "Bezbožný sa tvári sebavedome, spravodlivý upevňuje svoje vlastné správanie."
+  },
+  {
+    "i": 17080,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 30,
+    "t": "Niet múdrosti, niet rozumu, niet rady proti Hospodinovi."
+  },
+  {
+    "i": 17081,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 31,
+    "t": "Kôň sa pripravuje na deň boja, ale víťazstvo pochádza od Hospodina."
+  },
+  {
+    "i": 17082,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 1,
+    "t": "Lepšie je dobré meno ako veľké bohatstvo, priazeň je lepšia ako striebro a zlato."
+  },
+  {
+    "i": 17083,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 2,
+    "t": "Bohatý a chudobný sa stretávajú; Hospodin stvoril ich oboch."
+  },
+  {
+    "i": 17084,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 3,
+    "t": "Rozumný človek vidí nebezpečenstvo a skryje sa, ale hlúpi idú ďalej a trpia za to."
+  },
+  {
+    "i": 17085,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 4,
+    "t": "Odmena za pokoru a bázeň pred Hospodinom je bohatstvo, česť a život."
+  },
+  {
+    "i": 17086,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 5,
+    "t": "Tŕnie a osídla sú na ceste prevráteného, kto si chráni život, drží sa od nich ďaleko."
+  },
+  {
+    "i": 17087,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 6,
+    "t": "Vychovávaj chlapca podľa cesty, ktorou má ísť, a neodkloní sa od nej, ani keď zostarne."
+  },
+  {
+    "i": 17088,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 7,
+    "t": "Bohatý panuje nad chudobnými a dlžník je otrokom veriteľa."
+  },
+  {
+    "i": 17089,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 8,
+    "t": "Kto seje nespravodlivosť, zožne biedu a prút jeho hnevu zanikne."
+  },
+  {
+    "i": 17090,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 9,
+    "t": "Dobroprajný človek bude požehnaný, lebo dáva zo svojho chleba chudobnému."
+  },
+  {
+    "i": 17091,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 10,
+    "t": "Vyžeň posmievača a prestane sa svár, prestane hádka a potupa."
+  },
+  {
+    "i": 17092,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 11,
+    "t": "Kto miluje čistotu srdca a má milú reč, bude mať kráľa za priateľa."
+  },
+  {
+    "i": 17093,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 12,
+    "t": "Oči Hospodinove chránia poznanie, ale slová neverných prekrúca."
+  },
+  {
+    "i": 17094,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 13,
+    "t": "Leňoch hovorí: „Lev je vonku! Zabijú ma na ulici!“"
+  },
+  {
+    "i": 17095,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 14,
+    "t": "Hlboká priekopa sú ústa cudzích žien, do ktorej padne ten, koho Hospodin zavrhuje."
+  },
+  {
+    "i": 17096,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 15,
+    "t": "Bláznovstvo je zakorenené v srdci chlapca, prút karhania ho od neho vzdiali."
+  },
+  {
+    "i": 17097,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 16,
+    "t": "Kto utláča chudobného, obohacuje ho, kto dáva bohatému, ochudobňuje ho."
+  },
+  {
+    "i": 17098,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 17,
+    "t": "Nakloň ucho a počúvaj slová múdrych, a svoje srdce prikláňaj k môjmu poznaniu,"
+  },
+  {
+    "i": 17099,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 18,
+    "t": "lebo ti bude príjemné, ak ich budeš zachovávať v svojom vnútri a všetky ich budeš mať pripravené na svojich perách."
+  }
+]

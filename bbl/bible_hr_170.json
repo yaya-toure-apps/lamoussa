@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17000,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 9,
+    "t": "Lažni svjedok neće proći nekažnjeno, i tko iznosi laži, propast će."
+  },
+  {
+    "i": 17001,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 10,
+    "t": "Ne priliči bezumniku živjeti u raskoši, još manje sluzi vladati knezovima."
+  },
+  {
+    "i": 17002,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 11,
+    "t": "Razboritost čovjeka usporava na gnjev, a čast mu je prijeći preko prijestupa."
+  },
+  {
+    "i": 17003,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 12,
+    "t": "Kao rika lava, takav je gnjev kraljev, ali kao rosa na travu, takva je njegova naklonost."
+  },
+  {
+    "i": 17004,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 13,
+    "t": "Jad je ocu svome sin bezumni, i neprestano kapanje kapljica svađe žene."
+  },
+  {
+    "i": 17005,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 14,
+    "t": "Kuća i imetak očevina su, ali mudra žena dar je od Jahve."
+  },
+  {
+    "i": 17006,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 15,
+    "t": "Lijenost baca u dubok san, i nemarna će duša gladovati."
+  },
+  {
+    "i": 17007,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 16,
+    "t": "Tko čuva zapovijed, čuva svoju dušu, ali tko prezire putove svoje, umrijet će."
+  },
+  {
+    "i": 17008,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 17,
+    "t": "Tko se smiluje siromahu, Jahvi pozajmljuje, i on će mu uzvratiti dobročinstvo."
+  },
+  {
+    "i": 17009,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 18,
+    "t": "Dok ima nade, kažnjavaj sina svoga, ali ne dopusti da ga ubiješ."
+  },
+  {
+    "i": 17010,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 19,
+    "t": "Čovjek nagle ćudi mora platiti kaznu; ako ga izbaviš, samo ćeš umnožiti zlo."
+  },
+  {
+    "i": 17011,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 20,
+    "t": "Poslušaj savjet i prihvati pouku, da budeš mudar na koncu."
+  },
+  {
+    "i": 17012,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 21,
+    "t": "Mnoge su zamisli u srcu čovjeka, ali odluka Jahvina, ona ostaje."
+  },
+  {
+    "i": 17013,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 22,
+    "t": "Što se traži kod čovjeka, to je milosrđe; draži je siromah nego lažac."
+  },
+  {
+    "i": 17014,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 23,
+    "t": "Strah Jahvin vodi k životu, ima se i spava bez straha od zla."
+  },
+  {
+    "i": 17015,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 24,
+    "t": "Lijenčina gurne ruku u zdjelu, a ne može je prinijeti ustima."
+  },
+  {
+    "i": 17016,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 25,
+    "t": "Udri rugača, pa će se prostak opametiti; ukori razumna čovjeka, razumjet će znanje."
+  },
+  {
+    "i": 17017,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 26,
+    "t": "Tko zlostavlja oca i tjera majku, sin je sraman i beščašćen."
+  },
+  {
+    "i": 17018,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 27,
+    "t": "Prestani, sine moj, slušati pouku ako se želiš udaljiti od riječi znanja."
+  },
+  {
+    "i": 17019,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 28,
+    "t": "Nevaljali se svjedok ruga pravdi; usta zlikovaca gutaju nepravdu."
+  },
+  {
+    "i": 17020,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 29,
+    "t": "Sudovi su pripravljeni za rugače, a udarci za leđa bezumnika."
+  },
+  {
+    "i": 17021,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 1,
+    "t": "Poruga je vino, a vika žestoko piće; tko se njima zanosi, nije mudar."
+  },
+  {
+    "i": 17022,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 2,
+    "t": "Kao rika lava, takva je srdžba kraljeva; tko ga izaziva, griješi protiv sebe."
+  },
+  {
+    "i": 17023,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 3,
+    "t": "Čovjeku je na čast kloniti se svađe, ali svaki je luđak navali."
+  },
+  {
+    "i": 17024,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 4,
+    "t": "U jesen lijenčina ne ore, pa u žetvi traži, ali ničega nema."
+  },
+  {
+    "i": 17025,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 5,
+    "t": "Duboka je voda savjet u srcu čovječjem, ali čovjek razborit izvući će ga."
+  },
+  {
+    "i": 17026,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 6,
+    "t": "Mnogi se ljudi hvale svojom dobrotom, ali tko će naći vjerna čovjeka?"
+  },
+  {
+    "i": 17027,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 7,
+    "t": "Pravednik koji hodi u bezazlenosti svojoj, blago njegovoj djeci poslije njega!"
+  },
+  {
+    "i": 17028,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 8,
+    "t": "Kralj koji sjedi na prijestolju suda pogledom svojim raspršuje svako zlo."
+  },
+  {
+    "i": 17029,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 9,
+    "t": "Tko može reći: \"Očistio sam srce svoje, čist sam od grijeha svojega?\""
+  },
+  {
+    "i": 17030,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 10,
+    "t": "Mjerilo i mjerilo, uteg i uteg, oboje je odvratno Jahvi."
+  },
+  {
+    "i": 17031,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 11,
+    "t": "Već po djelima svojim poznaje se mladić, je li čisto i pravo njegovo djelo."
+  },
+  {
+    "i": 17032,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 12,
+    "t": "Uho koje čuje, oko koje vidi, oboje je stvorio Jahve."
+  },
+  {
+    "i": 17033,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 13,
+    "t": "Ne ljubi drijemeža, da ne osiromašiš; otvori oči, pa ćeš se nasititi kruha."
+  },
+  {
+    "i": 17034,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 14,
+    "t": "\"Ne valja, ne valja!\" veli kupac, ali kad ode, hvali se."
+  },
+  {
+    "i": 17035,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 15,
+    "t": "Ima zlata i mnoštva dragulja, ali najdragocjenije su usne učene."
+  },
+  {
+    "i": 17036,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 16,
+    "t": "Uzmi haljinu njegovu, jer je jamčio za tuđinca; za neznanca uzmi zalog!"
+  },
+  {
+    "i": 17037,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 17,
+    "t": "Sladak je čovjeku kruh prijevare, ali poslije su mu usta puna pijeska."
+  },
+  {
+    "i": 17038,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 18,
+    "t": "Savjetom se učvršćuju namjere; mudrim savjetom vodi rat."
+  },
+  {
+    "i": 17039,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 19,
+    "t": "Otkriva tajnu tko ogovara; ne druži se s onim tko ima otvorenih usana!"
+  },
+  {
+    "i": 17040,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 20,
+    "t": "Tko proklinje oca svoga i majku svoju, ugasit će mu se svjetiljka usred tmine."
+  },
+  {
+    "i": 17041,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 21,
+    "t": "Brzo stečeno bogatstvo na početku neće biti blagoslovljeno na koncu."
+  },
+  {
+    "i": 17042,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 22,
+    "t": "Ne reci: \"Osvetit ću se za zlo!\" Pouzdaj se u Jahvu, i on će te spasiti."
+  },
+  {
+    "i": 17043,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 23,
+    "t": "Odvratni su Jahvi utezi i utezi; lažna mjerila nisu dobra."
+  },
+  {
+    "i": 17044,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 24,
+    "t": "Jahve upravlja koracima čovjeka; kako da čovjek razumije svoj put?"
+  },
+  {
+    "i": 17045,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 25,
+    "t": "Zamka je čovjeku brzopleto reći: \"Posvećeno!\", pa poslije zavjeta razmišljati."
+  },
+  {
+    "i": 17046,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 26,
+    "t": "Mudri kralj vije zle i prebacuje preko njih kolo."
+  },
+  {
+    "i": 17047,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 27,
+    "t": "Svjetiljka Jahvina jest duh čovječji koji prodire u sve tajine njegova bića."
+  },
+  {
+    "i": 17048,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 28,
+    "t": "Ljubav i vjernost čuvaju kralja; ljubavlju se učvršćuje prijestolje."
+  },
+  {
+    "i": 17049,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 29,
+    "t": "Slava je mladića snaga njihova, a staraca je ukras sijeda kosa."
+  },
+  {
+    "i": 17050,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 30,
+    "t": "Rane koje krvare lijek su za zloću, udarci prodiru u dubinu bića."
+  },
+  {
+    "i": 17051,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 1,
+    "t": "Kao potoci vode, takvo je srce kraljevo u ruci Jahvinoj; kamo god hoće, on ga okreće."
+  },
+  {
+    "i": 17052,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 2,
+    "t": "Svaki je put čovjekov pravedan u njegovim očima, ali Jahve važe srca."
+  },
+  {
+    "i": 17053,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 3,
+    "t": "Pravednost i pravo miliji su Jahvi od žrtve."
+  },
+  {
+    "i": 17054,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 4,
+    "t": "Ohole oči i srce naduto, svjetiljka zlih, sve je to grijeh."
+  },
+  {
+    "i": 17055,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 5,
+    "t": "Planovi marljivoga vode samo k dobitku, a svaki prenagljen kroči k oskudici."
+  },
+  {
+    "i": 17056,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 6,
+    "t": "Stjecati blago lažljivim jezikom ispraznost je hlapljiva onih koji traže smrt."
+  },
+  {
+    "i": 17057,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 7,
+    "t": "Nasilje zlih njih će odnijeti, jer ne žele činiti što je pravo."
+  },
+  {
+    "i": 17058,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 8,
+    "t": "Izopačen je put čovjeka krivoga, a djelo je čista čovjeka pravo."
+  },
+  {
+    "i": 17059,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 9,
+    "t": "Bolje je stanovati u kutu krova nego sa ženom svadljivom u zajedničkoj kući."
+  },
+  {
+    "i": 17060,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 10,
+    "t": "Duša zloga želi zlo; u očima njegovim bližnji ne nalazi milosti."
+  },
+  {
+    "i": 17061,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 11,
+    "t": "Kad se kazni rugač, prostak postaje mudar; kad se pouči mudar čovjek, on prima znanje."
+  },
+  {
+    "i": 17062,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 12,
+    "t": "Pravednik promatra kuću zloga, on baca zle u propast."
+  },
+  {
+    "i": 17063,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 13,
+    "t": "Tko zatvara uho svoje da ne čuje vapaj siromaha, i sam će vapiti, ali ga se neće uslišati."
+  },
+  {
+    "i": 17064,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 14,
+    "t": "Tajna smiruje gnjev, a dar u njedrima žestoku srdžbu."
+  },
+  {
+    "i": 17065,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 15,
+    "t": "Radost je pravedniku vršiti što je pravo, a strah onima koji čine bezakonje."
+  },
+  {
+    "i": 17066,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 16,
+    "t": "Čovjek koji luta daleko od puta razumnosti počiva u skupštini sjena."
+  },
+  {
+    "i": 17067,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 17,
+    "t": "Osiromašit će tko ljubi uživanje, ne će se obogatiti tko ljubi vino i ulje."
+  },
+  {
+    "i": 17068,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 18,
+    "t": "Zao je čovjek otkup za pravednika, a izdajnik umjesto čestitih."
+  },
+  {
+    "i": 17069,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 19,
+    "t": "Bolje je stanovati u pustoj zemlji nego sa ženom svadljivom i mrzovoljnom."
+  },
+  {
+    "i": 17070,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 20,
+    "t": "Dragocjeno blago i ulje ima u stanu mudraca, ali ih bezumnik proždire."
+  },
+  {
+    "i": 17071,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 21,
+    "t": "Tko slijedi pravdu i milosrđe, nalazi život, pravdu i čast."
+  },
+  {
+    "i": 17072,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 22,
+    "t": "Mudrac osvaja grad junaka i obara silu u koju se uzdao."
+  },
+  {
+    "i": 17073,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 23,
+    "t": "Tko čuva usta svoja i jezik svoj, čuva dušu svoju od tjeskoba."
+  },
+  {
+    "i": 17074,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 24,
+    "t": "Ohol i nadut, rugač mu je ime; on djeluje u oholosti svojoj."
+  },
+  {
+    "i": 17075,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 25,
+    "t": "Želja ubija lijenčinu, jer ruke njegove odbijaju raditi."
+  },
+  {
+    "i": 17076,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 26,
+    "t": "Cijeli dan bezbožnik žudi i želi, a pravednik daje i ne odbija."
+  },
+  {
+    "i": 17077,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 27,
+    "t": "Žrtva zlih gnusoba je, pogotovo kad je prinose sa zlom nakanom."
+  },
+  {
+    "i": 17078,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 28,
+    "t": "Lažni svjedok propast će, ali čovjek koji sluša govorit će zauvijek."
+  },
+  {
+    "i": 17079,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 29,
+    "t": "Zao čovjek pokazuje tvrdo lice, ali čovjek čestit učvršćuje svoj put."
+  },
+  {
+    "i": 17080,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 30,
+    "t": "Nema mudrosti, ni razuma, ni savjeta protiv Jahve."
+  },
+  {
+    "i": 17081,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 31,
+    "t": "Konja se pripravlja za dan bitke, ali Jahve daje pobjedu."
+  },
+  {
+    "i": 17082,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 1,
+    "t": "Bolji je dobar glas od velikog bogatstva, a milost od srebra i zlata."
+  },
+  {
+    "i": 17083,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 2,
+    "t": "Bogat i siromah sastaju se, Jahve ih je obojicu stvorio."
+  },
+  {
+    "i": 17084,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 3,
+    "t": "Pametan čovjek vidi zlo i sakrije se, a prosti idu dalje i bivaju kažnjeni."
+  },
+  {
+    "i": 17085,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 4,
+    "t": "Nagrada za poniznost i strah Jahvin jesu bogatstvo, čast i život."
+  },
+  {
+    "i": 17086,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 5,
+    "t": "Trnje i zamke na putu su pokvarena čovjeka; tko čuva dušu svoju, udaljuje se od njih."
+  },
+  {
+    "i": 17087,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 6,
+    "t": "Pouči mladića prema putu njegovu, pa ni kad ostari, neće odstupiti od njega."
+  },
+  {
+    "i": 17088,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 7,
+    "t": "Bogat vlada nad siromasima, a dužnik je rob vjerovniku."
+  },
+  {
+    "i": 17089,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 8,
+    "t": "Tko sije nepravdu, požet će nesreću, i šiba njegova gnjeva bit će uništena."
+  },
+  {
+    "i": 17090,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 9,
+    "t": "Blagoslovljen će biti čovjek velikodušan, jer daje od kruha svojega siromahu."
+  },
+  {
+    "i": 17091,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 10,
+    "t": "Istjeraj rugača, i prestat će svađa, prestat će prepirke i sramota."
+  },
+  {
+    "i": 17092,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 11,
+    "t": "Tko ljubi čistoću srca i tko ima milost na usnama, kralj mu je prijatelj."
+  },
+  {
+    "i": 17093,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 12,
+    "t": "Oči Jahvine čuvaju znanje, ali on osujećuje riječi nevjernika."
+  },
+  {
+    "i": 17094,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 13,
+    "t": "Lijenčina veli: \"Van je lav! U ulici ću biti ubijen!\""
+  },
+  {
+    "i": 17095,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 14,
+    "t": "Dubok je jarak usta tuđica; koga Jahve prokune, past će u njega."
+  },
+  {
+    "i": 17096,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 15,
+    "t": "Ludost je svezana uz srce mladića, ali šiba pouke udaljit će je od njega."
+  },
+  {
+    "i": 17097,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 16,
+    "t": "Tko tlači siromaha da bi se obogatio, i tko daje bogatome, sigurno će osiromašiti."
+  },
+  {
+    "i": 17098,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 17,
+    "t": "Prigni uho svoje i poslušaj riječi mudraca, i srce svoje prikloni k znanju mojemu,"
+  },
+  {
+    "i": 17099,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 18,
+    "t": "jer će ti biti slatko držati ih u sebi, da budu sve spremne na usnama tvojim."
+  }
+]

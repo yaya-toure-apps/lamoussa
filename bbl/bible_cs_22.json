@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2200,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 6,
+    "t": "Olej k svícení, vonné látky pro olej pomazání a kadidlo vonné;"
+  },
+  {
+    "i": 2201,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 7,
+    "t": "Kameny karneolu a kameny k vsazení do efodu a náprsníku."
+  },
+  {
+    "i": 2202,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 8,
+    "t": "Učiň mi svatyni, abych přebýval uprostřed nich."
+  },
+  {
+    "i": 2203,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 9,
+    "t": "Učiníš vše podle vzoru Příbytku a vzoru jeho zařízení, který ti ukazuji."
+  },
+  {
+    "i": 2204,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 10,
+    "t": "Učiníš z dřeva akáciového truhlu dlouhou dva a půl lokte, širokou lokte a půl a vysokou lokte a půl."
+  },
+  {
+    "i": 2205,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 11,
+    "t": "Potáhneš ji zlatem ryzím, zevnitř i zvenku, a uděláš na ní kolem dokola zlatou obrubu."
+  },
+  {
+    "i": 2206,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 12,
+    "t": "Uliješ pro ni čtyři kruhy zlaté a připevníš je ke čtyřem jejím nohám: dva kruhy na jedné straně a dva kruhy na druhé straně."
+  },
+  {
+    "i": 2207,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 13,
+    "t": "Učiníš také tyče z dřeva akáciového; potáhneš je zlatem,"
+  },
+  {
+    "i": 2208,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 14,
+    "t": "a vsuneš do kruhů upevněných na stranách truhly tyče, aby se nesla."
+  },
+  {
+    "i": 2209,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 15,
+    "t": "Tyče zůstanou v kruzích truhly a nebudou z ní vyjmuty."
+  },
+  {
+    "i": 2210,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 16,
+    "t": "Do truhly vložíš Svědectví, které ti dám."
+  },
+  {
+    "i": 2211,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 17,
+    "t": "Učiníš také slitovnici ze zlata ryzího, dlouhou dva a půl lokte a širokou lokte a půl."
+  },
+  {
+    "i": 2212,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 18,
+    "t": "Učiníš dva cheruby z tepaného zlata, uděláš je na obou koncích slitovnice."
+  },
+  {
+    "i": 2213,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 19,
+    "t": "Udělej jednoho cheruba na jednom konci a druhého cheruba na druhém konci: učiníš cheruby tvořící tělo se slitovnicí, na obou jejích koncích."
+  },
+  {
+    "i": 2214,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 20,
+    "t": "Cherubové budou mít křídla roztažená vzhůru a zakrývat svými křídly slitovnici, tvářemi se budou obracet k sobě. Tváře cherubů budou obráceny ke slitovnici."
+  },
+  {
+    "i": 2215,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 21,
+    "t": "Položíš slitovnici na vrch truhly a do truhly vložíš Svědectví, které ti dám."
+  },
+  {
+    "i": 2216,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 22,
+    "t": "Tam se s tebou budu setkávat. Z místa nad slitovnicí, mezi oběma cheruby, kteří jsou na truhle Svědectví, ti budu dávat své rozkazy pro syny Izraele."
+  },
+  {
+    "i": 2217,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 23,
+    "t": "Učiníš stůl z dřeva akáciového, dlouhý dva lokte, široký lokte a vysoký lokte a půl."
+  },
+  {
+    "i": 2218,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 24,
+    "t": "Potáhneš ho zlatem ryzím a uděláš mu kolem dokola zlatou obrubu."
+  },
+  {
+    "i": 2219,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 25,
+    "t": "Kolem dokola mu uděláš lišty široké na dlaň, a uděláš kolem lišt zlatou obrubu."
+  },
+  {
+    "i": 2220,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 26,
+    "t": "Uděláš mu čtyři kruhy zlaté a umístíš kruhy do čtyř rohů tvořených čtyřmi nohami."
+  },
+  {
+    "i": 2221,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 27,
+    "t": "Kruhy budou umístěny blízko lišt, aby se do nich zasouvaly tyče, které poslouží k nesení stolu."
+  },
+  {
+    "i": 2222,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 28,
+    "t": "Učiníš tyče z dřeva akáciového a potáhneš je zlatem; poslouží k nesení stolu."
+  },
+  {
+    "i": 2223,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 29,
+    "t": "Učiníš jeho mísy, jeho poháry, jeho džbány i jeho misky pro úlitby; z ryzího zlata je uděláš,"
+  },
+  {
+    "i": 2224,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 30,
+    "t": "a budeš na stůl přede mne vždycky klást chleby obětní."
+  },
+  {
+    "i": 2225,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 31,
+    "t": "Učiníš svícen ze zlata ryzího; svícen, jeho podstavec a jeho stonek budou tepané; jeho kalichy, pupeny a květy budou tvořit s ním tělo."
+  },
+  {
+    "i": 2226,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 32,
+    "t": "Šest ramen z něho bude vycházet po stranách: tři ramena svícnu na jedné straně, tři ramena svícnu na druhé straně."
+  },
+  {
+    "i": 2227,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 33,
+    "t": "Na prvním rameni budou tři kalichy ve tvaru květu mandlovníku, s pupenem a květem; na druhém rameni budou také tři kalichy ve tvaru květu mandlovníku, s pupenem a květem; tak tomu bude u všech šesti ramen vycházejících ze svícnu."
+  },
+  {
+    "i": 2228,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 34,
+    "t": "Na svícnu samém budou čtyři kalichy ve tvaru květu mandlovníku, s pupenem a květem:"
+  },
+  {
+    "i": 2229,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 35,
+    "t": "jeden pupen pod prvními dvěma rameny vycházejícími ze svícnu, jeden pupen pod následujícími dvěma rameny a jeden pupen pod posledními dvěma rameny – tedy pod šesti rameny vycházejícími ze svícnu."
+  },
+  {
+    "i": 2230,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 36,
+    "t": "Pupeny a ramena budou tvořit tělo se svícnem a celek bude z jediného kusu tepaného ryzího zlata."
+  },
+  {
+    "i": 2231,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 37,
+    "t": "Pak uděláš jeho sedm lamp. Lampy se umístí tak, aby osvětlovaly před ním."
+  },
+  {
+    "i": 2232,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 38,
+    "t": "Jeho nůžky na knoty a jeho popelníky budou z ryzího zlata."
+  },
+  {
+    "i": 2233,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 39,
+    "t": "Učiníš ho se vším jeho příslušenstvím z hřivny ryzího zlata."
+  },
+  {
+    "i": 2234,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 40,
+    "t": "Hleď a učiň podle vzoru, který ti byl ukázán na hoře."
+  },
+  {
+    "i": 2235,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 1,
+    "t": "Co se týče Příbytku, ten uděláš z deseti pruhů plátna jemného, předeného lnu, purpurově fialového a šarlatového a karmínového. Uděláš je vyšívané cheruby."
+  },
+  {
+    "i": 2236,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 2,
+    "t": "Délka jednoho pruhu bude dvacet osm loket, jeho šířka čtyři lokte a všechny pruhy budou mít stejný rozměr."
+  },
+  {
+    "i": 2237,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 3,
+    "t": "Pět z pruhů bude spojeno jeden s druhým a zbývajících pět pruhů bude spojeno jeden s druhým."
+  },
+  {
+    "i": 2238,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 4,
+    "t": "Uděláš poutka z purpurově fialové látky na okraji prvního pruhu, na konci spojení, a uděláš totéž na okraji pruhu, který zakončuje druhé spojení."
+  },
+  {
+    "i": 2239,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 5,
+    "t": "Uděláš padesát poutek na prvním pruhu a padesát poutek na konci pruhu druhého spojení, poutka budou odpovídat jeden druhému."
+  },
+  {
+    "i": 2240,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 6,
+    "t": "Uděláš také padesát spon ze zlata a spojíš pruhy jeden s druhým sponami. Tak bude Příbytek tvořit jeden celek."
+  },
+  {
+    "i": 2241,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 7,
+    "t": "Uděláš pruhy látky z kozí srsti, aby tvořily stan nad Příbytkem. Uděláš jich jedenáct."
+  },
+  {
+    "i": 2242,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 8,
+    "t": "Délka jednoho pruhu bude třicet loket a jeho šířka čtyři lokte; všech jedenáct pruhů bude mít stejné rozměry."
+  },
+  {
+    "i": 2243,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 9,
+    "t": "Spojíš pět pruhů na jedné straně a šest pruhů na druhé straně a šestý přehneš na přední stranu stanu."
+  },
+  {
+    "i": 2244,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 10,
+    "t": "Uděláš padesát poutek na okraji prvního pruhu, na konci prvního spojení, a padesát poutek na okraji pruhu druhého spojení."
+  },
+  {
+    "i": 2245,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 11,
+    "t": "Uděláš padesát spon z bronzu a provlečeš spony do poutek, aby stan tvořil jeden celek."
+  },
+  {
+    "i": 2246,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 12,
+    "t": "Z toho, co spadne navíc z pruhů stanu, polovina pruhu navíc spadne na zadní stranu Příbytku."
+  },
+  {
+    "i": 2247,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 13,
+    "t": "Loket navíc na obou stranách, na délce pruhů stanu, spadne na boky Příbytku, na obou stranách, aby ho přikryl."
+  },
+  {
+    "i": 2248,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 14,
+    "t": "Uděláš pro stan přikrývku z beraních kůží barvených na červeno a přikrývku z jemné kůže navrch."
+  },
+  {
+    "i": 2249,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 15,
+    "t": "Učiníš pro Příbytek rámy z dřeva akáciového, které budou postaveny nastojato."
+  },
+  {
+    "i": 2250,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 16,
+    "t": "Každý rám bude dlouhý deset loket a široký lokte a půl."
+  },
+  {
+    "i": 2251,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 17,
+    "t": "Každý rám bude mít dva čepy spojené; uděláš totéž pro všechny rámy Příbytku."
+  },
+  {
+    "i": 2252,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 18,
+    "t": "Učiníš rámy, aby tvořily Příbytek: dvacet rámů pro jižní stranu, směrem na jih."
+  },
+  {
+    "i": 2253,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 19,
+    "t": "Uděláš čtyřicet podstavců ze stříbra pod dvacet rámů: dva podstavce pod jeden rám pro jeho dva čepy, dva podstavce pod jiný rám pro jeho dva čepy."
+  },
+  {
+    "i": 2254,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 20,
+    "t": "Na druhé straně Příbytku, severní straně, bude dvacet rámů"
+  },
+  {
+    "i": 2255,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 21,
+    "t": "a čtyřicet podstavců ze stříbra: dva podstavce pod jeden rám, dva podstavce pod jiný rám."
+  },
+  {
+    "i": 2256,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 22,
+    "t": "Pro zadní stranu Příbytku, směrem k moři, uděláš šest rámů,"
+  },
+  {
+    "i": 2257,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 23,
+    "t": "a uděláš dva rámy pro rohy zadní strany Příbytku."
+  },
+  {
+    "i": 2258,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 24,
+    "t": "Rámy budou spojené u své základny a zůstanou spojené až k vrcholu, do výšky prvního kruhu. Tak tomu bude pro oba rámy určené pro oba rohy."
+  },
+  {
+    "i": 2259,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 25,
+    "t": "Bude tedy osm rámů s jejich stříbrnými podstavci, tedy šestnáct podstavců: dva podstavce pod první rám, dva podstavce pod jiný rám."
+  },
+  {
+    "i": 2260,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 26,
+    "t": "Učiníš tyče z dřeva akáciového: pět pro rámy první strany Příbytku,"
+  },
+  {
+    "i": 2261,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 27,
+    "t": "pět tyčí pro rámy druhé strany Příbytku a pět tyčí pro rámy, které tvoří zadní stranu Příbytku, směrem na západ."
+  },
+  {
+    "i": 2262,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 28,
+    "t": "Střední tyč, umístěná v polovině výšky, spojí rámy od jednoho konce k druhému."
+  },
+  {
+    "i": 2263,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 29,
+    "t": "Potáhneš rámy zlatem, uděláš jim zlaté kruhy, do kterých se zasunou tyče, a tyče potáhneš zlatem."
+  },
+  {
+    "i": 2264,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 30,
+    "t": "Tak postavíš Příbytek podle vzoru, který ti byl ukázán na hoře."
+  },
+  {
+    "i": 2265,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 31,
+    "t": "Učiníš oponu z purpurově fialové a šarlatové, karmínové a jemného, předeného lnu, vyšívanou cheruby."
+  },
+  {
+    "i": 2266,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 32,
+    "t": "Zavěsíš ji na čtyři sloupy z akáciového dřeva potažené zlatem, opatřené zlatými háky, postavené na čtyřech stříbrných podstavcích."
+  },
+  {
+    "i": 2267,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 33,
+    "t": "Oponu zavěsíš pod spony, tam za oponu vložíš truhlu Svědectví a opona vám bude oddělovat Svatyni od Svatyně svatých."
+  },
+  {
+    "i": 2268,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 34,
+    "t": "Položíš slitovnici na truhlu Svědectví, ve Svatyni svatých."
+  },
+  {
+    "i": 2269,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 35,
+    "t": "Umístíš stůl vně opony a svícen naproti němu, na jižní stranu Příbytku, a stůl postavíš na severní stranu."
+  },
+  {
+    "i": 2270,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 36,
+    "t": "Učiníš pro vchod do stanu záclonu vyšívanou z purpurově fialové a šarlatové, karmínové a jemného, předeného lnu."
+  },
+  {
+    "i": 2271,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 37,
+    "t": "Učiníš pro tuto záclonu pět sloupů z akáciového dřeva a potáhneš je zlatem, jejich háky budou ze zlata a uliješ pro ně pět podstavců z bronzu."
+  },
+  {
+    "i": 2272,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 1,
+    "t": "Učiníš oltář z dřeva akáciového; dlouhý pět loket a široký pět loket, oltář bude čtvercový; bude mít tři lokte výšky."
+  },
+  {
+    "i": 2273,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 2,
+    "t": "Uděláš v jeho čtyřech rozích rohy tvořící s ním tělo a potáhneš ho bronzem."
+  },
+  {
+    "i": 2274,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 3,
+    "t": "Učiníš jeho nádoby na odstraňování mastného popela, jeho lopaty, jeho kropenky, jeho vidlice a jeho kadidelnice. Všechno příslušenství oltáře uděláš z bronzu."
+  },
+  {
+    "i": 2275,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 4,
+    "t": "Uděláš mu bronzovou mříž ve tvaru sítě a uděláš na čtyřech koncích této sítě čtyři bronzové kruhy."
+  },
+  {
+    "i": 2276,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 5,
+    "t": "Umístíš ji pod římsu oltáře, dole, tak aby byla v polovině výšky oltáře."
+  },
+  {
+    "i": 2277,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 6,
+    "t": "Učiníš tyče pro oltář, tyče z dřeva akáciového, a potáhneš je bronzem."
+  },
+  {
+    "i": 2278,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 7,
+    "t": "Tyče se zasunou do kruhů, tak aby tyče byly na obou stranách oltáře, když se přenáší."
+  },
+  {
+    "i": 2279,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 8,
+    "t": "Učiníš ho dutý, z desek; uděláš ho tak, jak ti bylo ukázáno na hoře."
+  },
+  {
+    "i": 2280,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 9,
+    "t": "\"Uděláš dvor pro stánek. Na jižní stranu, k poledni, závěsy dvora z jemného plátna soukaného, sto loket dlouhé, (pro tu stranu první)."
+  },
+  {
+    "i": 2281,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 10,
+    "t": "Sloupů dvacet a podstavců k nim dvacet, z mědi; háčky u sloupů a prutové jejich stříbrné."
+  },
+  {
+    "i": 2282,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 11,
+    "t": "Tak i na straně půlnoční závěsy sto loket dlouhé, sloupů k nim dvacet a podstavců dvacet, z mědi; háčky u sloupů a prutové jejich stříbrné."
+  },
+  {
+    "i": 2283,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 12,
+    "t": "Na šířku dvoru z strany k moři závěsy padesáte loket, sloupů k nim deset a podstavců deset."
+  },
+  {
+    "i": 2284,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 13,
+    "t": "A na šířku dvoru z strany východní k východu padesáte loket."
+  },
+  {
+    "i": 2285,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 14,
+    "t": "Patnáct loket závěsů k jedné straně brány, sloupů k nim tři a podstavců tři;"
+  },
+  {
+    "i": 2286,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 15,
+    "t": "I k druhé straně brány patnáct loket závěsů, sloupů k nim tři a podstavců tři."
+  },
+  {
+    "i": 2287,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 16,
+    "t": "Při bráně dvoru bude zápon dvacet loket, z postavce modrého a šarlatového, z karmínu a z plátna jemného soukaného, uměním vyšívačským udělán, sloupů k němu čtyři a podstavců čtyři."
+  },
+  {
+    "i": 2288,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 17,
+    "t": "Všecky sloupy vůkol dvoru obložené stříbrem, háčky jejich stříbrné, a podstavce jejich měděné."
+  },
+  {
+    "i": 2289,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 18,
+    "t": "Dlouhost dvora sto loket, a šířka padesáte na padesáte, a vysokost pět loket, z plátna jemného soukaného, a podstavce jeho měděné."
+  },
+  {
+    "i": 2290,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 19,
+    "t": "Všecky nádoby služebné příbytku, a všecky kolíky jeho, i všecky kolíky dvora, měděné."
+  },
+  {
+    "i": 2291,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 20,
+    "t": "\"A ty přikaž synům Izraelským, ať přinesou tobě oleje olívového vytlačeného k svícení, aby hořela svíce vždycky."
+  },
+  {
+    "i": 2292,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 21,
+    "t": "V stánku úmluvy ven z opony, kteráž jest před svědectvím, upravovati ji bude Aron a synové jeho od večera až do jitra před Hospodinem. To jest ustanovení věčné po rodech jejich od synů Izraelských."
+  },
+  {
+    "i": 2293,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 1,
+    "t": "\"Ty pak přibliž k sobě Arona bratra svého, i syny jeho s ním, z prostředku synů Izraelských, aby mi sloužil kněžským úřadem, Arona, Nádaba i Abiu, Eleazara a Itamara, syny Aronovy."
+  },
+  {
+    "i": 2294,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 2,
+    "t": "A uděláš roucha svatá Aronovi bratru svému k slávě a okrase."
+  },
+  {
+    "i": 2295,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 3,
+    "t": "A promluvíš ke všem moudrým srdcem, kterýchž jsem já naplnil duchem moudrosti, aby udělali roucha Aronovi ku posvěcení jeho, aby mi sloužil kněžským úřadem."
+  },
+  {
+    "i": 2296,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 4,
+    "t": "A tato jsou roucha, kteráž udělají: Náprsník, a Efod, a svrchní sukně, a sukně lněná vyšívaná, a čepice, i pás. Udělajíť roucha svatá Aronovi bratru tvému i synům jeho, aby mi sloužili kněžským úřadem."
+  },
+  {
+    "i": 2297,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 5,
+    "t": "Vezmouť zlato, postavce modrého i šarlatového, karmínu a plátna jemného."
+  },
+  {
+    "i": 2298,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 6,
+    "t": "\"Udělají Efod z zlata, z postavce modrého i šarlatového, z karmínu a z plátna jemného soukaného, uměním vyšívačským."
+  },
+  {
+    "i": 2299,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 7,
+    "t": "Dvě ramena na něm udělají, spojená, aby spojen byl na obou koncích svých."
+  }
+]

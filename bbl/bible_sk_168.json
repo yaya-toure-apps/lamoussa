@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16800,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 15,
+    "t": "Cesta blázna priama je v jeho očiach, ale múdry počúva radu."
+  },
+  {
+    "i": 16801,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 16,
+    "t": "Blázon hneď ukazuje svoj hnev, ale rozumný človek skrýva urážku."
+  },
+  {
+    "i": 16802,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 17,
+    "t": "Kto hovorí pravdu, zvestuje spravodlivosť, ale falošný svedok len podvod."
+  },
+  {
+    "i": 16803,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 18,
+    "t": "Niekto hovorí bez rozmýšľania, akoby prebodával mečom, ale jazyk múdrych lieči."
+  },
+  {
+    "i": 16804,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 19,
+    "t": "Pravdivý jazyk trvá naveky, ale lživý jazyk iba na chvíľu."
+  },
+  {
+    "i": 16805,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 20,
+    "t": "V srdci, ktoré snuje zlo, je podvod, ale u radcov, ktorí hlásajú pokoj, radosť."
+  },
+  {
+    "i": 16806,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 21,
+    "t": "Spravodlivému sa neprihodí nič zlého, ale bezbožní sú plní nešťastia."
+  },
+  {
+    "i": 16807,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 22,
+    "t": "Ohavnosťou pre Hospodina sú lživé pery, ale obľubuje tých, ktorí konajú pravdu."
+  },
+  {
+    "i": 16808,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 23,
+    "t": "Rozumný človek skrýva svoje poznanie, ale srdce bláznov vyhlasuje bláznovstvo."
+  },
+  {
+    "i": 16809,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 24,
+    "t": "Ruka usilovných bude vládnuť, ale ruka lenivých bude robiť robotu."
+  },
+  {
+    "i": 16810,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 25,
+    "t": "Starosť v srdci človeka ho skľučuje, ale dobré slovo ho poteší."
+  },
+  {
+    "i": 16811,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 26,
+    "t": "Spravodlivý ukazuje cestu svojmu blížnemu, ale cesta bezbožných ich zvádza."
+  },
+  {
+    "i": 16812,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 27,
+    "t": "Lenivosť nepečie svoju korisť, ale usilovnosť je vzácnym bohatstvom človeka."
+  },
+  {
+    "i": 16813,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 28,
+    "t": "Na ceste spravodlivosti je život, ale chodník nerestí vedie do smrti."
+  },
+  {
+    "i": 16814,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 1,
+    "t": "Múdry syn počúva otcovo karhanie, ale posmievač nepočúva výčitku."
+  },
+  {
+    "i": 16815,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 2,
+    "t": "Z úrody svojich úst človek je dobré veci, ale duša neverných sa sýti násilím."
+  },
+  {
+    "i": 16816,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 3,
+    "t": "Kto si stráži ústa, chráni svoj život, ale kto otvára svoje pery, privádza na seba záhubu."
+  },
+  {
+    "i": 16817,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 4,
+    "t": "Leňoch túži, ale nemá nič, ale duša usilovných bude nasýtená."
+  },
+  {
+    "i": 16818,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 5,
+    "t": "Spravodlivý nenávidí lživé slovo, ale bezbožný sa hanbou znevažuje."
+  },
+  {
+    "i": 16819,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 6,
+    "t": "Spravodlivosť chráni toho, ktorého cesta je bezúhonná, ale hriech privádza bezbožného do záhuby."
+  },
+  {
+    "i": 16820,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 7,
+    "t": "Niekto sa tvári ako bohatý, hoci nemá nič, iný sa tvári ako chudobný, hoci má veľký majetok."
+  },
+  {
+    "i": 16821,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 8,
+    "t": "Výkupné za život človeka je jeho bohatstvo, ale chudobný nepočúva výčitku."
+  },
+  {
+    "i": 16822,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 9,
+    "t": "Svetlo spravodlivých svieti radostne, ale lampa bezbožných zhasne."
+  },
+  {
+    "i": 16823,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 10,
+    "t": "Pýcha vyvoláva len hádky, ale u tých, ktorí prijímajú rady, je múdrosť."
+  },
+  {
+    "i": 16824,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 11,
+    "t": "Rýchlo nadobudnutý majetok sa zmenšuje, ale kto zhromažďuje pomaly, zbohatne."
+  },
+  {
+    "i": 16825,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 12,
+    "t": "Odkladané nádeje zarmucujú srdce, ale splnená túžba je stromom života."
+  },
+  {
+    "i": 16826,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 13,
+    "t": "Kto pohŕda slovom, privedie na seba záhubu, ale kto rešpektuje prikázanie, bude odmenený."
+  },
+  {
+    "i": 16827,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 14,
+    "t": "Poučenie múdreho je prameňom života, aby sa človek vyhol osídlam smrti."
+  },
+  {
+    "i": 16828,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 15,
+    "t": "Dobrá rozumnosť prináša priazeň, ale cesta neverných je tvrdá."
+  },
+  {
+    "i": 16829,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 16,
+    "t": "Každý rozumný človek koná s uvážením, ale blázon odhaľuje svoje bláznovstvo."
+  },
+  {
+    "i": 16830,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 17,
+    "t": "Zlý posol upadá do nešťastia, ale verný posol prináša uzdravenie."
+  },
+  {
+    "i": 16831,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 18,
+    "t": "Bieda a hanba tomu, kto zanedbáva výchovu, ale česť tomu, kto dbá na napomínanie."
+  },
+  {
+    "i": 16832,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 19,
+    "t": "Splnená túžba je sladká pre dušu, ale odvrátiť sa od zla je pre bláznov ohavnosťou."
+  },
+  {
+    "i": 16833,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 20,
+    "t": "Kto sa priatelí s múdrymi, bude múdry, ale kto sa stýka s bláznami, zle pochodí."
+  },
+  {
+    "i": 16834,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 21,
+    "t": "Hriešnikov stíha nešťastie, ale spravodlivých odmieňa šťastie."
+  },
+  {
+    "i": 16835,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 22,
+    "t": "Dobrého človeka dedičstvo pretrváva pre deti jeho detí, ale majetok hriešnikov je určený pre spravodlivého."
+  },
+  {
+    "i": 16836,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 23,
+    "t": "Úroda z role chudobných je hojná, ale sú aj takí, čo hynú pre nespravodlivosť."
+  },
+  {
+    "i": 16837,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 24,
+    "t": "Kto šetrí palicu, nenávidí svojho syna, ale kto ho miluje, ten ho včas trestá."
+  },
+  {
+    "i": 16838,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 25,
+    "t": "Spravodlivý je do sýtosti, ale brucho bezbožných trpí hladom."
+  },
+  {
+    "i": 16839,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 1,
+    "t": "Múdrosť si stavia dom, ale hlúposť si ho vlastnými rukami rúca."
+  },
+  {
+    "i": 16840,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 2,
+    "t": "Kto chodí v priamosti, bojí sa Hospodina, ale kto sa odchyľuje od svojich ciest, ním pohŕda."
+  },
+  {
+    "i": 16841,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 3,
+    "t": "V ústach blázna je prút pýchy, ale pery múdrych ich chránia."
+  },
+  {
+    "i": 16842,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 4,
+    "t": "Kde niet dobytka, tam je žľab prázdny, ale v sile býka je hojná úroda."
+  },
+  {
+    "i": 16843,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 5,
+    "t": "Verný svedok neluhá, ale falošný svedok dychtí po lži."
+  },
+  {
+    "i": 16844,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 6,
+    "t": "Posmievač hľadá múdrosť, ale márne, ale rozumnému sa poznanie ľahko dostane."
+  },
+  {
+    "i": 16845,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 7,
+    "t": "Vzďaľ sa od blázna, lebo nepoznáš múdre pery."
+  },
+  {
+    "i": 16846,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 8,
+    "t": "Múdrosť rozumného spočíva v tom, že rozumie svojej ceste, ale bláznovstvo bláznov je podvod."
+  },
+  {
+    "i": 16847,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 9,
+    "t": "Blázni sa posmievajú obeti za hriech, ale medzi spravodlivými je priazeň."
+  },
+  {
+    "i": 16848,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 10,
+    "t": "Srdce pozná svoju vlastnú bolesť a cudzinec sa nezúčastňuje jeho radosti."
+  },
+  {
+    "i": 16849,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 11,
+    "t": "Dom bezbožných bude zničený, ale stánok spravodlivých bude prekvitať."
+  },
+  {
+    "i": 16850,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 12,
+    "t": "Niekedy sa človeku zdá cesta správna, ale nakoniec vedie k smrti."
+  },
+  {
+    "i": 16851,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 13,
+    "t": "Aj pri smiechu bolí srdce a radosť sa končí žiaľom."
+  },
+  {
+    "i": 16852,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 14,
+    "t": "Srdce odpadlíka sa nasýti svojimi cestami, ale dobrý muž svojimi skutkami."
+  },
+  {
+    "i": 16853,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 15,
+    "t": "Prostoduchý verí všetkému, ale rozumný človek si dáva pozor na svoje kroky."
+  },
+  {
+    "i": 16854,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 16,
+    "t": "Múdry sa bojí zla a odvracia sa od neho, ale blázon je unáhlený a sebaistý."
+  },
+  {
+    "i": 16855,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 17,
+    "t": "Človek, ktorý sa rýchlo hnevá, robí hlúposti, ale človek so zlými úmyslami je nenávidený."
+  },
+  {
+    "i": 16856,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 18,
+    "t": "Prostoduchí si dedia hlúposť, ale rozumní budú korunovaní poznaním."
+  },
+  {
+    "i": 16857,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 19,
+    "t": "Zlí sa klaňajú pred dobrými a bezbožní pri bránach spravodlivých."
+  },
+  {
+    "i": 16858,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 20,
+    "t": "Chudobný je nenávidený aj svojim blížnym, ale bohatý má mnoho priateľov."
+  },
+  {
+    "i": 16859,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 21,
+    "t": "Kto pohŕda svojím blížnym, hreší, ale blahoslavený je ten, kto sa zmiluje nad chudobnými."
+  },
+  {
+    "i": 16860,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 22,
+    "t": "Či nie sú zvedení tí, čo snujú zlo? Milosť a vernosť pre tých, čo konajú dobro."
+  },
+  {
+    "i": 16861,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 23,
+    "t": "Každá práca prináša zisk, ale prázdne reči vedú len k nedostatku."
+  },
+  {
+    "i": 16862,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 24,
+    "t": "Korunou múdrych je ich bohatstvo, ale hlúposť bláznov je hlúposť."
+  },
+  {
+    "i": 16863,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 25,
+    "t": "Verný svedok zachraňuje životy, ale kto hovorí lži, je podvodník."
+  },
+  {
+    "i": 16864,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 26,
+    "t": "V bázni pred Hospodinom je silná dôvera a útočisko pre jeho synov."
+  },
+  {
+    "i": 16865,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 27,
+    "t": "Bázeň pred Hospodinom je prameňom života, aby sa človek vyhol osídlam smrti."
+  },
+  {
+    "i": 16866,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 28,
+    "t": "Mnoho ľudí je slávou kráľa, ale nedostatok ľudu je skazou kniežaťa."
+  },
+  {
+    "i": 16867,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 29,
+    "t": "Kto je zhovievavý, má mnoho rozumu, ale kto je náhlivý, vyvyšuje hlúposť."
+  },
+  {
+    "i": 16868,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 30,
+    "t": "Pokojné srdce je životom tela, ale závisť je hnilobou kostí."
+  },
+  {
+    "i": 16869,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 31,
+    "t": "Kto utláča chudobného, hanobí jeho Tvorcu, ale kto sa zmiluje nad bedármi, ctí ho."
+  },
+  {
+    "i": 16870,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 32,
+    "t": "Bezbožný je premožený svojou vlastnou zlobou, ale spravodlivý nachádza útočisko vo svojej bezúhonnosti."
+  },
+  {
+    "i": 16871,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 33,
+    "t": "V rozumnom srdci prebýva múdrosť, ale v srdci bláznov sa nepozná."
+  },
+  {
+    "i": 16872,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 34,
+    "t": "Spravodlivosť vyvyšuje národ, ale hriech je hanbou národov."
+  },
+  {
+    "i": 16873,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 35,
+    "t": "Kráľova priazeň patrí rozumnému služobníkovi, ale jeho hnev tomu, kto koná hanebne."
+  },
+  {
+    "i": 16874,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 1,
+    "t": "Mierny jazyk odvracia hnev, ale tvrdé slovo vyvoláva zlosť."
+  },
+  {
+    "i": 16875,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 2,
+    "t": "Jazyk múdrych dobre používa poznanie, ale ústa bláznov vyvracajú hlúposť."
+  },
+  {
+    "i": 16876,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 3,
+    "t": "Oči Hospodinove sú na každom mieste, pozorujú zlých aj dobrých."
+  },
+  {
+    "i": 16877,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 4,
+    "t": "Mierny jazyk je strom života, ale prevrátený jazyk drví ducha."
+  },
+  {
+    "i": 16878,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 5,
+    "t": "Blázon pohŕda otcovou výchovou, ale kto dbá na napomínanie, je rozumný."
+  },
+  {
+    "i": 16879,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 6,
+    "t": "V dome spravodlivého je hojnosť majetku, ale príjem bezbožného je zdrojom nepokoja."
+  },
+  {
+    "i": 16880,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 7,
+    "t": "Ústa múdrych rozosievajú poznanie, ale srdce bláznov nie."
+  },
+  {
+    "i": 16881,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 8,
+    "t": "Obeta bezbožných je ohavnosťou Hospodinovi, ale modlitba spravodlivých je mu potešením."
+  },
+  {
+    "i": 16882,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 9,
+    "t": "Ohavnosťou Hospodinovi je zlé konanie, ale miluje toho, kto sa usiluje o spravodlivosť."
+  },
+  {
+    "i": 16883,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 10,
+    "t": "Tvrdý trest čaká toho, kto opúšťa cestu; kto nenávidí napomínanie, zomrie."
+  },
+  {
+    "i": 16884,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 11,
+    "t": "Šeól a Záhuba sú pred Hospodinom; o čo viac srdcia synov človeka!"
+  },
+  {
+    "i": 16885,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 12,
+    "t": "Posmievač nemá rád, keď ho karhajú, k múdrym nepôjde."
+  },
+  {
+    "i": 16886,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 13,
+    "t": "Radostné srdce rozjasňuje tvár, ale bolesť srdca zráža ducha."
+  },
+  {
+    "i": 16887,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 14,
+    "t": "Rozumné srdce vyhľadáva poznanie, ústa bláznov sa pasú na hlúposti."
+  },
+  {
+    "i": 16888,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 15,
+    "t": "Pre chudobného sú všetky dni zlé, ale pre radostné srdce je to neustála hostina."
+  },
+  {
+    "i": 16889,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 16,
+    "t": "Lepšie málo s bázňou pred Hospodinom ako bohatý poklad s nepokojom."
+  },
+  {
+    "i": 16890,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 17,
+    "t": "Lepšia porcia zeleniny s láskou ako vykŕmený vôl s nenávisťou."
+  },
+  {
+    "i": 16891,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 18,
+    "t": "Prchký človek vyvoláva hádky, ale človek pomalý do hnevu spor utišuje."
+  },
+  {
+    "i": 16892,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 19,
+    "t": "Cesta lenivého je ako tŕnie v plote, ale chodník priamych je upravená cesta."
+  },
+  {
+    "i": 16893,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 20,
+    "t": "Múdry syn obveseľuje otca, ale blázon pohŕda svojou matkou."
+  },
+  {
+    "i": 16894,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 21,
+    "t": "Hlúposť je radosťou človeku zbavenému rozumu, ale rozumný človek ide priamo po ceste."
+  },
+  {
+    "i": 16895,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 22,
+    "t": "Bez porady plány zlyhávajú, ale vďaka mnohým radcom sa uskutočnia."
+  },
+  {
+    "i": 16896,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 23,
+    "t": "Radosť má človek z odpovede svojich úst, aké je dobré slovo v pravý čas!"
+  },
+  {
+    "i": 16897,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 24,
+    "t": "Pre rozumného človeka je cesta života nahor, aby sa vyhol šeólu dolu."
+  },
+  {
+    "i": 16898,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 25,
+    "t": "Hospodin zbúra dom pyšných, ale upevní hranicu vdovy."
+  },
+  {
+    "i": 16899,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 26,
+    "t": "Ohavnosťou Hospodinovi sú zlé úmysly, ale láskavé slová sú čisté."
+  }
+]

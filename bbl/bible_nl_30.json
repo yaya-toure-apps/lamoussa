@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "Gij zult de klipdas voor onrein houden, want alhoewel hij herkauwt, heeft hij geen gespleten hoeven;"
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "Gij zult het haas voor onrein houden, want alhoewel hij herkauwt, heeft hij geen gespleten hoeven;"
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "Gij zult het varken voor onrein houden, want alhoewel het gespleten hoeven heeft, ja, gespleten in twee klauwen, herkauwt het niet."
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "Van hun vlees zult gij niet eten, noch hun aas aanraken; gij zult ze voor onrein houden."
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "Van al wat in het water leeft, dit zult gij mogen eten. Al wat vinnen en schubben heeft en in het water leeft, in de zeeën of in de rivieren, dat zult gij mogen eten."
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "Maar al wat geen vinnen en schubben heeft, in de zeeën of in de rivieren, van al het gewemel des waters en van al de levende wezens die daarin zijn, dat zal een gruwel voor u zijn."
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "Een gruwel zullen zij voor u zijn; van hun vlees zult gij niet eten, en hun aas zult gij verafschuwen."
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "Al wat in het water leeft en geen vinnen en schubben heeft, zal een gruwel voor u zijn."
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "Van de vogelen, deze zult gij voor een gruwel houden; zij zullen niet gegeten worden, want zij zijn een gruwel: de arend, de lammergier, de zeearend,"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "de rode wouw, en alle soorten zwarte wouwen,"
+  },
+  {
+    "i": 3010,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 15,
+    "t": "alle soorten raven,"
+  },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "de struisvogel, de nachtzwaluw, de meeuw en alle soorten sperwers,"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "de steenuil, de aalscholver, de ransuil,"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "de ibis, de pelikaan, de aasgier,"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "de ooievaar en alle soorten reigers, de hop en de vleermuis."
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "Al het gevleugeld gedierte dat op vier poten gaat, zal een gruwel voor u zijn."
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "Maar van al het gevleugeld gedierte dat op vier poten gaat, dit zult gij mogen eten: datgene dat poten boven hun voeten heeft, om daarmee over de aarde te springen."
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "Van hen zult gij mogen eten: alle soorten treksprinkhanen, alle soorten solham-sprinkhanen, alle soorten hargol-sprinkhanen, alle soorten hagab-sprinkhanen."
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "Maar al het gevleugeld gedierte dat vier poten heeft, zal een gruwel voor u zijn."
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "Door hen zult gij u verontreinigen; ieder die hun aas aanraakt, zal tot de avond onrein zijn."
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "Ieder die hun aas draagt, zal zijn klederen wassen en tot de avond onrein zijn."
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "Wat betreft de dieren die een hoef hebben, maar niet gespleten, en niet herkauwen, die zult gij voor onrein houden; ieder die hen aanraakt, zal onrein zijn."
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "Van de dieren die op vier poten gaan, al die op hun voetzolen lopen, zult gij voor onrein houden; ieder die hun aas aanraakt, zal tot de avond onrein zijn,"
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "en ieder die hun aas draagt, zal zijn klederen wassen en tot de avond onrein zijn. Gij zult ze voor onrein houden."
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "Dit zijn de dieren die over de aarde kruipen, die gij voor onrein zult houden: de mol, de rat en alle soorten hagedissen:"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "de gekko, de koah, de letaah, de kameleon en de tinchamet."
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "Van al het gewemel, dit zijn de dieren die gij voor onrein zult houden. Ieder die hen aanraakt wanneer zij dood zijn, zal tot de avond onrein zijn."
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "Alles waarop een van hen valt als zij dood zijn, zal onrein worden: elk houten voorwerp, kleed, huid, zak, wat voor gereedschap het ook zij. Men zal het in het water doen en het zal tot de avond onrein blijven; daarna zal het rein zijn."
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "Elke aarden pot waarin een van hen valt, zult gij stukslaan; de inhoud ervan is onrein."
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "Elk voedsel dat men eet zal onrein zijn, zelfs als het met water bevochtigd is; elke drank die men drinkt zal onrein zijn, in welk vat het ook zij."
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "Alles waarop een van hun dode lichamen valt, zal onrein zijn; oven en fornuis zullen vernield worden, want zij zijn onrein en onrein zullen zij voor u zijn."
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "(Echter, bronnen, waterreservoirs en waterplassen zullen rein blijven); ieder die hun dode lichamen aanraakt, zal onrein zijn."
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "Als een van hun dode lichamen op enig zaad valt, zal het rein blijven,"
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "maar als het zaad met water bevochtigd is en een van hun dode lichamen valt erop, zult gij het voor onrein houden."
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "Als een van de dieren die u tot voedsel dienen sterft, zal degene die zijn dode lichaam aanraakt tot de avond onrein zijn,"
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "degene die van zijn dood vlees eet, zal zijn klederen wassen en tot de avond onrein zijn; degene die zijn dode lichaam draagt, zal zijn klederen wassen en tot de avond onrein zijn."
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "Al het gewemel dat over de aarde kruipt, is een gruwel, men zal er niet van eten."
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "Al wat over de buik kruipt, al wat op vier poten of meer gaat, kortom al het gewemel dat over de aarde kruipt, zult gij niet eten, want zij zijn een gruwel."
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "Verontreinig u niet zelf met al dat gewemel, besmet u niet met hen en laat u niet door hen besmetten."
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "Want Ik ben de HEERE, uw God. Gij hebt u geheiligd en gij bent heilig geworden, want Ik ben heilig; verontreinig u dus niet met al dat gewemel dat over de aarde kruipt."
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "Ja, Ik ben de HEERE, die u uit het land Egypte heb doen optrekken om uw God te zijn: gij zult dus heilig zijn, omdat Ik heilig ben."
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "Dit is de wet betreffende de dieren, de vogelen, al het levende wezen dat zich in het water beweegt en al het wezen dat over de aarde kruipt."
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "Zij heeft tot doel het reine en het onreine te scheiden, de dieren die men mag eten en die men niet mag eten."
+  },
+  {
+    "i": 3043,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 1,
+    "t": "De HEERE sprak tot Mozes en zei:"
+  },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Spreek tot de Israëlieten, zeg hun: Als een vrouw zwanger is en een jongen baart, zal zij zeven dagen onrein zijn, zoals in de tijd van de onreinheid van haar menstruatie."
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "Op de achtste dag zal men de voorhuid van het kind besnijden."
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "En nog drieëndertig dagen zal zij blijven om haar bloed te reinigen. Zij zal niets heiligs aanraken en niet naar het heiligdom gaan, totdat de tijd van haar reiniging voltooid is."
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "Als zij een meisje baart, zal zij twee weken onrein zijn, zoals tijdens haar menstruatie, en nog zesenzestig dagen blijven om haar bloed te reinigen."
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "Wanneer de periode van haar reiniging voltooid is, hetzij voor een jongen of voor een meisje, zal zij aan de priester, bij de ingang van de Tent der Samenkomst, een lam van een jaar brengen voor een brandoffer en een duif of tortelduif voor een zondoffer."
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "De priester zal het voor de HEERE offeren, de verzoeningsrite over haar voltrekken en zij zal gereinigd worden van haar bloedvloeiing. Dit is de wet betreffende de vrouw die een jongen of een meisje baart."
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "Indien zij niet in staat is het benodigde bedrag voor een stuk kleinvee te vinden, zal zij twee tortelduiven of twee jonge duiven nemen, één voor het brandoffer en de andere voor het zondoffer. De priester zal over haar de verzoeningsrite voltrekken en zij zal gereinigd worden."
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "De HEERE sprak tot Mozes en Aäron en zei:"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "Als er zich op de huid van een mens een zwelling, een uitslag of een vlek vormt, is er een geval van huidvraat te verwachten. Men zal hem naar Aäron, de priester, of naar een van zijn zonen, de priesters, brengen."
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "De priester zal de kwaal op de huid onderzoeken. Als op de zieke plek het haar wit is geworden, als deze kwaal een deuk in de opperhuid maakt, is het wel degelijk een geval van vraat; na observatie zal de priester de man onrein verklaren."
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "Maar als er op de huid een witte vlek is, zonder zichtbare inzinking van de huid en zonder dat het haar wit is geworden, zal de priester de zieke zeven dagen afzonderen."
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "Hij zal hem op de zevende dag onderzoeken. Als hij met eigen ogen vaststelt dat de kwaal nog bestaat zonder zich op de huid te ontwikkelen, zal hij hem nog zeven dagen afzonderen."
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "En zal hem op de zevende dag opnieuw onderzoeken. Als hij vaststelt dat de kwaal dof is geworden en zich niet op de huid heeft ontwikkeld, zal de priester deze man rein verklaren: het is een uitslag. Na zijn klederen te hebben gewassen, zal hij rein zijn."
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "Maar als de uitslag zich op de huid heeft ontwikkeld nadat de zieke door de priester is onderzocht en rein is verklaard, zal hij zich opnieuw bij hem melden."
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "Na hem te hebben onderzocht en na te hebben vastgesteld dat de uitslag zich op de huid heeft ontwikkeld, zal de priester hem onrein verklaren: het is vraat."
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "Wanneer er op een man een kwaal van het soort vraat verschijnt, zal men hem naar de priester brengen."
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "De priester zal hem onderzoeken, en als hij op de huid een witachtige zwelling vaststelt met wit worden van het haar en vorming van een zweer,"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "is het een hardnekkige vraat op de huid. De priester zal hem onrein verklaren. Hij zal hem niet afzonderen, ongetwijfeld is hij onrein."
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "Maar als de vraat zich op de huid uitbreidt, als de ziekte haar volledig bedekt en zich uitstrekt van het hoofd tot de voeten, waar de priester ook kijkt,"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "zal deze de zieke onderzoeken en, vaststellend dat de vraat zijn hele lichaam bedekt, zal hij de zieke rein verklaren. Aangezien alles wit is geworden, is hij rein."
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "Echter, op de dag dat er een zweer op hem verschijnt, zal hij onrein zijn."
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "Na onderzoek van de zweer zal de priester hem onrein verklaren: de zweer is onrein, het is vraat."
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "Maar als de zweer weer wit wordt, zal de man naar de priester gaan,"
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "deze zal hem onderzoeken en, als hij vaststelt dat de kwaal wit is geworden, zal hij de zieke rein verklaren: hij is rein."
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "Wanneer er op de huid van iemand een zweer is ontstaan die is genezen,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "als er zich op de plaats van de zweer een witachtige zwelling of een roodachtige witte vlek vormt, zal deze man zich aan de priester vertonen."
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "Deze zal hem onderzoeken; als hij een zichtbare verzakking van de huid en een wit worden van het haar vaststelt, zal de priester hem onrein verklaren: het is een geval van vraat dat zich uitbreidt in een zweer."
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "Als de priester bij het onderzoek geen witte haren of verzakking van de huid vaststelt, maar een dof worden van de kwaal, zal hij de zieke zeven dagen afzonderen."
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "Hij zal hem onrein verklaren als de kwaal zich op de huid heeft ontwikkeld: het is een geval van vraat."
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "Maar als de vlek stationair is gebleven zonder zich uit te breiden, is het het litteken van de zweer: de priester zal deze man rein verklaren."
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Wanneer er op de huid van iemand een brandwond is ontstaan, als er zich op de brandwond een abces vormt, een roodachtig-witte of witachtige vlek,"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "zal de priester hem onderzoeken. Als hij een wit worden van het haar of een zichtbare verzakking van de vlek in de huid vaststelt, is het de vraat die zich uitbreidt in de brandwond. De priester zal de man onrein verklaren: het is een geval van vraat."
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "Als de priester daarentegen bij het onderzoek geen witte haren in de vlek of verzakking van de huid vaststelt, maar een dof worden van deze vlek, zal de priester hem zeven dagen afzonderen."
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "Hij zal hem op de zevende dag onderzoeken en, als de kwaal zich op de huid heeft uitgebreid, zal hij hem onrein verklaren: het is een geval van vraat."
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "Als de vlek stationair is gebleven zonder zich op de huid uit te breiden, als zij integendeel dof is geworden, is het slechts een zwelling als gevolg van de brandwond. De priester zal de man rein verklaren, het is slechts het litteken van de brandwond."
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "Als een man of een vrouw een wond aan het hoofd of de kin heeft,"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "De priester zal deze zweer onderzoeken, en indien hij daarin een inzinking bemerkt in de huid, met dun, geelachtig haar, dan zal hij de zieke onrein verklaren. Het is schurft, dat is, melaatsheid van het hoofd of de kin."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "Indien de priester bij het onderzoek van dit geval van schurft bemerkt dat er geen inzinking zichtbaar is in de huid, noch geelachtig haar, dan zal hij de schurftige zeven dagen afzonderen."
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "Hij zal het kwaad op de zevende dag onderzoeken, en indien hij bemerkt dat de schurft zich niet heeft uitgebreid, dat er geen geelachtig haar is, dat er geen inzinking zichtbaar is in de huid,"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "dan zal de zieke zich scheren, echter met weglating van het schurftige deel, en de priester zal hem een tweede maal zeven dagen afzonderen."
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "Hij zal het kwaad op de zevende dag onderzoeken, en indien hij bemerkt dat het zich niet heeft uitgebreid op de huid, dat er geen inzinking zichtbaar is in de huid, dan zal de priester deze zieke rein verklaren. Nadat hij zijn klederen heeft gereinigd, zal hij rein zijn."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "Indien echter na deze reiniging de schurft zich heeft uitgebreid op de huid,"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "dan zal de priester het onderzoeken: indien hij een uitbreiding van de schurft op de huid bemerkt, dan is de zieke onrein, en men zal niet nagaan of het haar geelachtig is."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "Indien echter de schurft stationair blijkt en er zwart haar groeit, dan is de zieke genezen. Hij is rein en de priester zal hem rein verklaren."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "Indien er vlekken ontstaan op de huid van een man of een vrouw, en indien deze vlekken wit zijn,"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "dan zal de priester ze onderzoeken. Indien hij bemerkt dat deze vlekken op de huid dof wit zijn, dan betreft het een uitslag die zich op de huid heeft uitgebreid: de zieke is rein."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "Indien een man het haar van zijn schedel verliest, dan is het kaalheid van de schedel, hij is rein."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "Indien hij het haar op het voorhoofd verliest, dan is het een kaalheid van het voorhoofd, hij is rein."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "Maar indien er op de schedel of het voorhoofd een wit-roodachtig kwaad is, dan is het dat een melaatsheid zich uitbreidt op de schedel of het voorhoofd van deze man."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "De priester zal het onderzoeken, en indien hij op de schedel of het voorhoofd een wit-roodachtige zwelling bemerkt, met hetzelfde aanzien als de melaatsheid van de huid,"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "dan is de man melaats; hij is onrein. De priester zal hem onrein moeten verklaren, hij is aan zijn hoofd door melaatsheid getroffen."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "De melaatse die door dit kwaad is getroffen, zal zijn klederen gescheurd dragen en zijn haar los; hij zal zijn snor bedekken en hij zal roepen: \"Onrein! Onrein!"
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "Zolang zijn kwaad duurt, zal hij onrein zijn, en omdat hij onrein is, zal hij apart blijven: zijn woning zal buiten het kamp zijn."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "Wanneer een kledingstuk door melaatsheid is getroffen, hetzij een kledingstuk van wol of van linnen,"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "een weefsel of een deken van wol of van linnen, leder of enig werk van leder,"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "indien de vlek van dit kledingstuk, van dit leder, van dit weefsel, van deze deken of van dit lederen voorwerp groenachtig of roodachtig verschijnt, dan is het een geval van melaatsheid om aan de priester te tonen."
+  }
+]

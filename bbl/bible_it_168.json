@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16800,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 15,
+    "t": "La via dello stolto è retta ai suoi occhi, ma il saggio ascolta il consiglio."
+  },
+  {
+    "i": 16801,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 16,
+    "t": "Lo stolto manifesta subito il suo sdegno, ma l'uomo accorto dissimula il disprezzo."
+  },
+  {
+    "i": 16802,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 17,
+    "t": "Chi rivela la verità proclama la giustizia, ma il falso testimone non è che inganno."
+  },
+  {
+    "i": 16803,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 18,
+    "t": "Taluno che parla sconsideratamente trafigge come spada, ma la lingua dei saggi è medicina."
+  },
+  {
+    "i": 16804,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 19,
+    "t": "Il labbro veritiero è saldo per sempre, ma la lingua menzognera dura solo un istante."
+  },
+  {
+    "i": 16805,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 20,
+    "t": "Nel cuore che medita il male v'è frode, ma per i consiglieri di pace v'è gioia."
+  },
+  {
+    "i": 16806,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 21,
+    "t": "Al giusto non accade alcun male, ma i malvagi son colmi di sciagura."
+  },
+  {
+    "i": 16807,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 22,
+    "t": "Abominazione per l'Eterno son le labbra bugiarde, ma Egli ama coloro che praticano la verità."
+  },
+  {
+    "i": 16808,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 23,
+    "t": "L'uomo avveduto cela la sua scienza, ma il cuore degli stolti proclama la follia."
+  },
+  {
+    "i": 16809,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 24,
+    "t": "La mano diligente dominerà, ma la mano indolente sarà sottoposta a lavori forzati."
+  },
+  {
+    "i": 16810,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 25,
+    "t": "L'ansia nel cuore deprime l'uomo, ma una buona parola lo rallegra."
+  },
+  {
+    "i": 16811,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 26,
+    "t": "Il giusto mostra la via al suo compagno, ma la via degli empi li svia."
+  },
+  {
+    "i": 16812,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 27,
+    "t": "L'indolenza non arrostisce la sua preda, ma la diligenza è un bene prezioso per l'uomo."
+  },
+  {
+    "i": 16813,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 28,
+    "t": "Sul sentiero della giustizia v'è vita, ma il cammino dei perversi conduce alla morte."
+  },
+  {
+    "i": 16814,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 1,
+    "t": "Il figlio savio ascolta la disciplina del padre, ma il beffardo non ascolta il rimprovero."
+  },
+  {
+    "i": 16815,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 2,
+    "t": "Per il frutto della sua bocca l'uomo si nutre di ciò che è buono, ma l'anima dei perfidi si pasce di violenza."
+  },
+  {
+    "i": 16816,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 3,
+    "t": "Chi custodisce la sua bocca preserva la sua vita, ma chi apre troppo le labbra si perde."
+  },
+  {
+    "i": 16817,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 4,
+    "t": "Il pigro desidera, ma non ha nulla; l'anima dei diligenti sarà soddisfatta."
+  },
+  {
+    "i": 16818,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 5,
+    "t": "Il giusto odia la parola menzognera, ma l'empio si rende odioso e si copre di vergogna."
+  },
+  {
+    "i": 16819,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 6,
+    "t": "La giustizia protegge colui la cui via è integra, ma l'empietà causa la rovina del peccatore."
+  },
+  {
+    "i": 16820,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 7,
+    "t": "Taluno fa il ricco e non ha nulla, tal altro fa il povero e ha grandi ricchezze."
+  },
+  {
+    "i": 16821,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 8,
+    "t": "La ricchezza è il riscatto della vita dell'uomo, ma il povero non ode il rimprovero."
+  },
+  {
+    "i": 16822,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 9,
+    "t": "La luce dei giusti risplende gioiosamente, ma la lampada degli empi si spegne."
+  },
+  {
+    "i": 16823,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 10,
+    "t": "Dall'orgoglio non viene che contesa, ma con coloro che prendono consiglio c'è sapienza."
+  },
+  {
+    "i": 16824,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 11,
+    "t": "La ricchezza male acquistata diminuisce, ma chi raccoglie a poco a poco diviene ricco."
+  },
+  {
+    "i": 16825,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 12,
+    "t": "L'attesa prolungata fa languire il cuore, ma il desiderio soddisfatto è un albero di vita."
+  },
+  {
+    "i": 16826,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 13,
+    "t": "Chi disprezza la parola perirà, ma chi teme il comandamento sarà ricompensato."
+  },
+  {
+    "i": 16827,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 14,
+    "t": "L'insegnamento del saggio è fonte di vita per scampare ai lacci della morte."
+  },
+  {
+    "i": 16828,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 15,
+    "t": "Un buon senno procura favore, ma il cammino dei perfidi è arduo."
+  },
+  {
+    "i": 16829,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 16,
+    "t": "Ogni uomo prudente agisce con conoscenza, ma lo stolto ostenta la sua follia."
+  },
+  {
+    "i": 16830,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 17,
+    "t": "Un messaggero malvagio cade nella sventura, ma un messaggero fedele porta guarigione."
+  },
+  {
+    "i": 16831,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 18,
+    "t": "Povertà e vergogna a chi rifiuta la correzione, ma onore a chi tiene conto della riprensione."
+  },
+  {
+    "i": 16832,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 19,
+    "t": "Il desiderio soddisfatto è dolce all'anima, ma gli stolti aborrono l'allontanarsi dal male."
+  },
+  {
+    "i": 16833,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 20,
+    "t": "Chi frequenta i saggi diventa saggio, ma il compagno degli stolti ne subirà danno."
+  },
+  {
+    "i": 16834,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 21,
+    "t": "Il male insegue i peccatori, ma i giusti saranno ricompensati con il bene."
+  },
+  {
+    "i": 16835,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 22,
+    "t": "L'uomo buono lascia un'eredità ai figli dei suoi figli, ma le ricchezze del peccatore sono riservate al giusto."
+  },
+  {
+    "i": 16836,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 23,
+    "t": "Il campo lavorato dal povero dà cibo in abbondanza, ma molti periscono per mancanza di giustizia."
+  },
+  {
+    "i": 16837,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 24,
+    "t": "Chi risparmia la verga odia suo figlio, ma chi lo ama lo corregge per tempo."
+  },
+  {
+    "i": 16838,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 25,
+    "t": "Il giusto mangia quanto basta a saziarsi, ma il ventre degli empi è sempre vuoto."
+  },
+  {
+    "i": 16839,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 1,
+    "t": "La Sapienza edifica la sua casa, ma la Stoltezza la demolisce con le proprie mani."
+  },
+  {
+    "i": 16840,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 2,
+    "t": "Chi cammina nella rettitudine teme l'Eterno, ma chi è tortuoso nelle sue vie lo disprezza."
+  },
+  {
+    "i": 16841,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 3,
+    "t": "Nella bocca dello stolto c'è un germoglio d'orgoglio, ma le labbra dei saggi li proteggono."
+  },
+  {
+    "i": 16842,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 4,
+    "t": "Dove non ci sono buoi, la mangiatoia è vuota, ma l'abbondanza del raccolto dipende dalla forza del bue."
+  },
+  {
+    "i": 16843,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 5,
+    "t": "Il testimone veritiero non mente, ma il falso testimone spaccia menzogne."
+  },
+  {
+    "i": 16844,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 6,
+    "t": "Il beffardo cerca la sapienza e non la trova, ma per l'uomo intelligente la conoscenza è cosa facile."
+  },
+  {
+    "i": 16845,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 7,
+    "t": "Allontanati dall'uomo stolto, perché non troverai labbra sapienti."
+  },
+  {
+    "i": 16846,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 8,
+    "t": "La sapienza dell'uomo avveduto sta nel comprendere la propria via, ma la follia degli stolti è inganno."
+  },
+  {
+    "i": 16847,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 9,
+    "t": "Gli stolti si fanno beffe del sacrificio per il peccato, ma fra gli uomini retti c'è benevolenza."
+  },
+  {
+    "i": 16848,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 10,
+    "t": "Il cuore conosce la propria amarezza e nessun estraneo può condividere la sua gioia."
+  },
+  {
+    "i": 16849,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 11,
+    "t": "La casa degli empi sarà distrutta, ma la tenda degli uomini retti prospererà."
+  },
+  {
+    "i": 16850,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 12,
+    "t": "C'è una via che all'uomo sembra diritta, ma la sua fine sono le vie della morte."
+  },
+  {
+    "i": 16851,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 13,
+    "t": "Anche nel riso il cuore prova dolore, e la gioia può finire in tristezza."
+  },
+  {
+    "i": 16852,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 14,
+    "t": "Il perverso di cuore avrà la sua parte dai suoi stessi sentieri, ma l'uomo buono sarà soddisfatto delle sue opere."
+  },
+  {
+    "i": 16853,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 15,
+    "t": "L'ingenuo crede a tutto, ma l'uomo avveduto valuta bene i suoi passi."
+  },
+  {
+    "i": 16854,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 16,
+    "t": "Il saggio teme e si allontana dal male, ma lo stolto è arrogante e presuntuoso."
+  },
+  {
+    "i": 16855,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 17,
+    "t": "Chi è pronto all'ira commette follie, ma l'uomo dai cattivi disegni è odiato."
+  },
+  {
+    "i": 16856,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 18,
+    "t": "Gli inesperti ereditano stoltezza, ma gli accorti sono coronati di conoscenza."
+  },
+  {
+    "i": 16857,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 19,
+    "t": "I malvagi si inchinano davanti ai buoni, e gli empi alle porte del giusto."
+  },
+  {
+    "i": 16858,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 20,
+    "t": "Il povero è odioso anche al suo vicino, ma gli amici del ricco sono molti."
+  },
+  {
+    "i": 16859,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 21,
+    "t": "Chi disprezza il suo prossimo pecca, ma beato chi ha pietà dei poveri."
+  },
+  {
+    "i": 16860,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 22,
+    "t": "Quelli che meditano il male non si smarriscono forse? Ma misericordia e verità saranno per quelli che meditano il bene."
+  },
+  {
+    "i": 16861,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 23,
+    "t": "In ogni fatica c'è profitto, ma le chiacchiere portano solo indigenza."
+  },
+  {
+    "i": 16862,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 24,
+    "t": "La ricchezza è una corona per i saggi, ma la follia degli stolti è follia."
+  },
+  {
+    "i": 16863,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 25,
+    "t": "Il testimone veritiero salva delle vite, ma chi spaccia menzogne è un impostore."
+  },
+  {
+    "i": 16864,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 26,
+    "t": "Nel timore dell'Eterno c'è una potente fiducia, ed egli sarà un rifugio per i suoi figli."
+  },
+  {
+    "i": 16865,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 27,
+    "t": "Il timore dell'Eterno è fonte di vita per scampare ai lacci della morte."
+  },
+  {
+    "i": 16866,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 28,
+    "t": "Un popolo numeroso è la gloria del re, ma la scarsezza di gente è la rovina del principe."
+  },
+  {
+    "i": 16867,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 29,
+    "t": "Chi è lento all'ira ha grande intelligenza, ma chi è facile all'ira esalta la follia."
+  },
+  {
+    "i": 16868,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 30,
+    "t": "Un cuore pacifico è vita per il corpo, ma l'invidia è carie per le ossa."
+  },
+  {
+    "i": 16869,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 31,
+    "t": "Chi opprime il povero oltraggia il suo Creatore, ma chi ha pietà del bisognoso lo onora."
+  },
+  {
+    "i": 16870,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 32,
+    "t": "Il malvagio è abbattuto dalla sua stessa malvagità, ma il giusto trova rifugio nella sua integrità."
+  },
+  {
+    "i": 16871,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 33,
+    "t": "Nel cuore intelligente riposa la sapienza, ma in mezzo agli stolti essa si fa conoscere."
+  },
+  {
+    "i": 16872,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 34,
+    "t": "La giustizia innalza una nazione, ma il peccato è la vergogna dei popoli."
+  },
+  {
+    "i": 16873,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 35,
+    "t": "Il favore del re è per il servo intelligente, ma la sua ira è per chi fa vergogna."
+  },
+  {
+    "i": 16874,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 1,
+    "t": "Una risposta dolce calma la collera, ma una parola dura eccita la rabbia."
+  },
+  {
+    "i": 16875,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 2,
+    "t": "La lingua dei saggi rende la conoscenza attraente, ma la bocca degli stolti riversa follia."
+  },
+  {
+    "i": 16876,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 3,
+    "t": "Gli occhi dell'Eterno sono in ogni luogo, osservando i malvagi e i buoni."
+  },
+  {
+    "i": 16877,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 4,
+    "t": "Una lingua pacificatrice è un albero di vita, ma la lingua perversa strazia lo spirito."
+  },
+  {
+    "i": 16878,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 5,
+    "t": "Lo stolto disprezza la correzione di suo padre, ma chi tiene conto della riprensione diviene accorto."
+  },
+  {
+    "i": 16879,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 6,
+    "t": "Nella casa del giusto c'è grande abbondanza, ma nel guadagno dell'empio c'è turbamento."
+  },
+  {
+    "i": 16880,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 7,
+    "t": "Le labbra dei saggi spargono la conoscenza, ma il cuore degli stolti no."
+  },
+  {
+    "i": 16881,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 8,
+    "t": "Il sacrificio degli empi è abominio per l'Eterno, ma la preghiera degli uomini retti è il suo diletto."
+  },
+  {
+    "i": 16882,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 9,
+    "t": "Abominio per l'Eterno è la via dell'iniquo, ma egli ama chi segue la giustizia."
+  },
+  {
+    "i": 16883,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 10,
+    "t": "Severo castigo attende chi abbandona il sentiero; chi odia la riprensione perirà."
+  },
+  {
+    "i": 16884,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 11,
+    "t": "Sceol e Abaddon stanno dinanzi all'Eterno; quanto più i cuori dei figli degli uomini!"
+  },
+  {
+    "i": 16885,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 12,
+    "t": "Il beffardo non ama essere corretto, né va con i saggi."
+  },
+  {
+    "i": 16886,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 13,
+    "t": "Un cuore gioioso illumina il volto, ma un cuore afflitto abbatte lo spirito."
+  },
+  {
+    "i": 16887,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 14,
+    "t": "Un cuore intelligente ricerca la conoscenza, ma la bocca degli stolti si pasce di follia."
+  },
+  {
+    "i": 16888,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 15,
+    "t": "Per l'afflitto tutti i giorni sono tristi, ma per il cuore gioioso è un banchetto continuo."
+  },
+  {
+    "i": 16889,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 16,
+    "t": "Meglio poco con il timore dell'Eterno, che un ricco tesoro con l'inquietudine."
+  },
+  {
+    "i": 16890,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 17,
+    "t": "Meglio una porzione di verdure con l'amore, che un bue ingrassato con l'odio."
+  },
+  {
+    "i": 16891,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 18,
+    "t": "L'uomo iracondo eccita la contesa, ma chi è lento all'ira placa la discordia."
+  },
+  {
+    "i": 16892,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 19,
+    "t": "La via del pigro è come una siepe di spine, ma il sentiero degli uomini retti è una strada maestra."
+  },
+  {
+    "i": 16893,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 20,
+    "t": "Un figlio saggio rallegra il padre, ma l'uomo stolto disprezza sua madre."
+  },
+  {
+    "i": 16894,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 21,
+    "t": "La follia è una gioia per chi è privo di senno, ma l'uomo intelligente cammina rettamente."
+  },
+  {
+    "i": 16895,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 22,
+    "t": "Senza consiglio i disegni falliscono, ma con molti consiglieri riescono."
+  },
+  {
+    "i": 16896,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 23,
+    "t": "L'uomo prova gioia per la risposta della sua bocca; e quanto è buona una parola detta a tempo debito!"
+  },
+  {
+    "i": 16897,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 24,
+    "t": "Per l'uomo assennato la via della vita sale verso l'alto, per evitare lo Sceol che è in basso."
+  },
+  {
+    "i": 16898,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 25,
+    "t": "L'Eterno demolisce la casa dei superbi, ma rende saldi i confini della vedova."
+  },
+  {
+    "i": 16899,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 26,
+    "t": "I pensieri malvagi sono abominio per l'Eterno, ma le parole benigne sono pure."
+  }
+]

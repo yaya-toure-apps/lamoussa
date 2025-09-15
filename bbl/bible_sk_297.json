@@ -1,0 +1,802 @@
+[
+  {
+    "i": 29700,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 28,
+    "t": "\"Dobre si odpovedal, riekol mu Ježiš; toto činiň, a budeš žiť."
+  },
+  {
+    "i": 29701,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 29,
+    "t": "Ale on, chcúc ospravedlniť sám seba, riekol Ježišovi: \"A kto je môj blížny?"
+  },
+  {
+    "i": 29702,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 30,
+    "t": "A Ježiš odpovedal, riekol: \"Jeden človek sostupoval z Jeruzalema do Jericha, a upadol medzi lotrov, ktorí ho svliekli, doráňali, odišli a nechali ho polomŕtveho."
+  },
+  {
+    "i": 29703,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 31,
+    "t": "A náhodou sostupoval tou cestou nejaký kňaz, ktorý ho uvidel, obišiel ho."
+  },
+  {
+    "i": 29704,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 32,
+    "t": "Tak podobne aj levíta, keď prišiel na to miesto, uvidel ho, obišiel."
+  },
+  {
+    "i": 29705,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 33,
+    "t": "Ale nejaký Samaritán, idúc cestou, prišiel k nemu, a keď ho uvidel, zľutoval sa nad ním."
+  },
+  {
+    "i": 29706,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 34,
+    "t": "A pristúpiac, obviazal jeho rany, polievajúc ich olejom a vínom, a vsadiac ho na svoje hovädo, zaviedol ho do hostinca a opatroval ho."
+  },
+  {
+    "i": 29707,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 35,
+    "t": "A na druhý deň vyniesol dva denáre, dal ich hostinskému a riekol: Opatruj ho, a čo by si viac vynaložil, ja ti zaplatím, keď sa budem navracať."
+  },
+  {
+    "i": 29708,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 36,
+    "t": "Kto tedy z týchto troch sa ti zdá, že bol blížnym tomu, ktorý upadol medzi lotrov?"
+  },
+  {
+    "i": 29709,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 37,
+    "t": "A on riekol: \"Ten, ktorý učinil nad ním milosrdenstvo.\" A Ježiš mu riekol: \"Idi, i ty tak rob."
+  },
+  {
+    "i": 29710,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 38,
+    "t": "A stalo sa, keď išli, že vošiel do jednej dediny, a nejaká žena, menom Marta, ho prijala do svojho domu."
+  },
+  {
+    "i": 29711,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 39,
+    "t": "A tá mala sestru, zvanú Mária, ktorá si sadiac k nohám Ježišovým, počúvala jeho slovo."
+  },
+  {
+    "i": 29712,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 40,
+    "t": "Ale Marta bola zaujatá mnohou službou, pristúpiac riekla: \"Pane, či ti nič na tom nezáleží, že ma moja sestra nechala samu slúžiť? Povedz jej tedy, aby mi pomohla."
+  },
+  {
+    "i": 29713,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 41,
+    "t": "A odpovedajúc jej Ježiš, riekol: \"Marta, Marta, staráš sa a znepokojuješ sa pre mnohé veci;"
+  },
+  {
+    "i": 29714,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 42,
+    "t": "ale potrebné je jedno. A Mária si vyvolila dobrý diel, ktorý jej nebude odňatý."
+  },
+  {
+    "i": 29715,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 1,
+    "t": "A stalo sa, že keď sa kdesi modlil, ako prestal, povedal mu jeden z jeho učeníkov: \"Pane, nauč nás modliť sa, ako i Ján naučil svojich učeníkov."
+  },
+  {
+    "i": 29716,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 2,
+    "t": "A riekol im: \"Keď sa modlíte, hovorte: Otče náš, posväť sa meno tvoje, nech príde tvoje kráľovstvo;"
+  },
+  {
+    "i": 29717,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 3,
+    "t": "chlieb náš vezdejší dávaj nám každý deň;"
+  },
+  {
+    "i": 29718,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 4,
+    "t": "a odpusť nám naše hriechy, lebo aj my odpúšťame každému, kto nám je dlžen; a neuvoď nás do pokušenia, ale zbav nás zlého."
+  },
+  {
+    "i": 29719,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 5,
+    "t": "A riekol im: \"Kto z vás bude mať priateľa, a pojde k nemu o polnoci a povie mu: Priateľu, požičaj mi tri chleby,"
+  },
+  {
+    "i": 29720,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 6,
+    "t": "lebo môj priateľ prišiel ku mne z cesty, a nemám, čo by som mu položil pred neho;"
+  },
+  {
+    "i": 29721,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 7,
+    "t": "a on z vnútra odpovedajúc povie: Neťaž ma; teraz je dvere zamknuté, a moje dietky sú so mnou na lôžku, nemôžem vstať a dať ti;"
+  },
+  {
+    "i": 29722,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 8,
+    "t": "hovorím vám, že ak nevstane a nedá mu preto, že mu je priateľom, pre jeho nehanebnú prosbu vstane a dá mu, koľko potrebuje."
+  },
+  {
+    "i": 29723,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 9,
+    "t": "\"A ja vám hovorím: Proste, a bude vám dané; hľadajte, a nájdete; klepte, a bude vám otvorené."
+  },
+  {
+    "i": 29724,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 10,
+    "t": "Lebo každý, kto prosí, berie, a kto hľadá, nachádza, a tomu, kto klepe, bude otvorené."
+  },
+  {
+    "i": 29725,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 11,
+    "t": "A ktorého z vás otca bude prosiť syn o rybu, či mu azda namiesto ryby podá hada?"
+  },
+  {
+    "i": 29726,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 12,
+    "t": "Alebo keď bude prosiť o vajce, či mu azda podá škorpióna?"
+  },
+  {
+    "i": 29727,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 13,
+    "t": "Ak teda vy, súc zlí, znáte dobré dary dávať svojim deťom, o koľko viacej Otec nebeský dá Svätého Ducha tým, ktorí ho prosia!"
+  },
+  {
+    "i": 29728,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 14,
+    "t": "A vyháňal démona, ktorý bol nemý. A stalo sa, keď démon vyšiel, že nemý prehovoril, a divili sa zástupy."
+  },
+  {
+    "i": 29729,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 15,
+    "t": "Ale niektorí z nich povedali: \"Belzebúlom, kniežaťom démonov, vyháňa démonov."
+  },
+  {
+    "i": 29730,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 16,
+    "t": "A iní pokúšajúc ho, žiadali od neho znamenie s neba."
+  },
+  {
+    "i": 29731,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 17,
+    "t": "Ale on znáduc ich myšlienky, povedal im: \"Každé kráľovstvo, ktoré sa rozdelí samo proti sebe, pustne, a dom padá na dom."
+  },
+  {
+    "i": 29732,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 18,
+    "t": "Ak sa teda aj satan rozdelil sám proti sebe, kterak obstojí jeho kráľovstvo? Lebo hovoríte, že ja Belzebúlom vyháňam démonov."
+  },
+  {
+    "i": 29733,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 19,
+    "t": "A ak ja Belzebúlom vyháňam démonov, vaši synovia kým ich vyháňajú? Preto oni budú vašimi sudcami."
+  },
+  {
+    "i": 29734,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 20,
+    "t": "Ale ak prstom Božím vyháňam démonov, tedy prišlo na vás kráľovstvo Božie."
+  },
+  {
+    "i": 29735,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 21,
+    "t": "Kedy silný ozbrojený človek stráži svoj dvor, v pokoji sú jeho veci."
+  },
+  {
+    "i": 29736,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 22,
+    "t": "Ale keď silnejší ako on prepadnúc ho premože, vezme mu celú jeho zbroj, na ktorú sa nadejal, a jeho lupy rozdá."
+  },
+  {
+    "i": 29737,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 23,
+    "t": "\"Kto nie je so mnou, je proti mne, a kto nezhromažďuje so mnou, rozptyľuje."
+  },
+  {
+    "i": 29738,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 24,
+    "t": "\"Keď nečistý duch vyjde z človeka, chodí po suchých miestach, hľadajúc odpočinutie, a keď nenajde, povie: Navrátim sa do svojho domu, odkiaľ som vyšiel."
+  },
+  {
+    "i": 29739,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 25,
+    "t": "A keď prijde, nájde ho pometený a ozdobený."
+  },
+  {
+    "i": 29740,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 26,
+    "t": "Vtedy ide a pojme so sebou sedem iných duchov, horších ako je on, a vojdúc bývajú tam, a bude posledný stav toho človeka horší ako prvý."
+  },
+  {
+    "i": 29741,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 27,
+    "t": "A stalo sa, keď to hovoril, že nejaká žena povýšiac hlas zo zástupu, riekla mu: \"Blahoslavené brucho, ktoré ťa nosilo, a prsníky, ktoré si ssál!"
+  },
+  {
+    "i": 29742,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 28,
+    "t": "Ale on riekol: \"Áno, lebo blahoslavení tí, ktorí počujú slovo Božie a ostríhajú ho!"
+  },
+  {
+    "i": 29743,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 29,
+    "t": "Keď sa pak nahromadili zástupy, počal hovoriť: \"Tento rod je zlý rod; znamenia hľadá, ale znamenie mu nebude dané, iba ak znamenie Jonášovo."
+  },
+  {
+    "i": 29744,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 30,
+    "t": "Lebo jako bol Jonáš znamením Nínívskym, tak bude i Syn človeka tomuto rodu."
+  },
+  {
+    "i": 29745,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 31,
+    "t": "Kráľovná s poľudnia vstane na súde s mužmi tohoto rodu a odsúdi ich; lebo prišla s končín zeme, aby slyšala múdrosť Šalamúnovu, a hľa, tu je viac ako Šalamún!"
+  },
+  {
+    "i": 29746,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 32,
+    "t": "Muži Nínívski vstanú na súde s týmto rodom a odsúdia ho; lebo činili pokánie na kázanie Jonášovo, a hľa, tu je viac ako Jonáš!"
+  },
+  {
+    "i": 29747,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 33,
+    "t": "\"Nikto, súc zapaľujúc sviecu, nekladie jej na skryté miesto ani pod mericu, ale na svietnik, aby tí, ktorí vchádzajú, videli svetlo."
+  },
+  {
+    "i": 29748,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 34,
+    "t": "Sviecou tela je tvoje oko; keď je tvoje oko prosté, i celé tvoje telo je svetlé; ale keď je zlé, i tvoje telo je tmavé."
+  },
+  {
+    "i": 29749,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 35,
+    "t": "Hľaď tedy, aby svetlo, ktoré je v tebe, nebola tma!"
+  },
+  {
+    "i": 29750,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 36,
+    "t": "Ak tedy celé tvoje telo bude svetlé nemajúc nijakej čiastky tmavú, bude celé svetlé, jako keď ťa svieca svetlom osvetľuje."
+  },
+  {
+    "i": 29751,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 37,
+    "t": "A keď hovoril, prosil ho nejaký farizeus, aby obedoval u neho. A vojdúc sadol si za stôl."
+  },
+  {
+    "i": 29752,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 38,
+    "t": "A vidiac to farizeus, divil sa, že sa neumyl pred obedom."
+  },
+  {
+    "i": 29753,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 39,
+    "t": "A riekol mu Pán: \"Teraz vy farizeovia očisťujete z vonku pohár a misu, ale vaše vnútro je plné lúpeže a zlosti!"
+  },
+  {
+    "i": 29754,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 40,
+    "t": "Blázni! Či ten, ktorý učinil z vonku, neučinil i vnútra?"
+  },
+  {
+    "i": 29755,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 41,
+    "t": "Ale radšej to, čo je vnútri, dávajte ako almužnu, a hľa, všetko vám bude čisté."
+  },
+  {
+    "i": 29756,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 42,
+    "t": "Ale beda vám farizeom, že desiatkujete mätu, rutu a každú zelinu, a opúšťate súd a lásku Božiu! To bolo treba činiť, a toho neopúšťať."
+  },
+  {
+    "i": 29757,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 43,
+    "t": "Beda vám farizeom, že milujete prvé sedadlá v synagógach a pozdravovania na trhoch!"
+  },
+  {
+    "i": 29758,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 44,
+    "t": "Beda vám, lebo ste jako hroby, ktoré nie sú známe, a ľudia chodia po nich nevediac o tom!"
+  },
+  {
+    "i": 29759,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 45,
+    "t": "A odpovedajúc jeden zo zákonníkov, riekol mu: \"Učiteli, týmto hovoriac i nám hanbu činíš!"
+  },
+  {
+    "i": 29760,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 46,
+    "t": "A on riekol: \"I vám zákonníkom beda, lebo zaťažujete ľudí bremenami, ktoré sa nedajú nosiť, a sami sa jedným svojím prstom nedotýkate bremien!"
+  },
+  {
+    "i": 29761,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 47,
+    "t": "\"Beda vám, lebo staviate hroby prorokom, ktorých zabili vaši otcovia!"
+  },
+  {
+    "i": 29762,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 48,
+    "t": "Tak ste svedkami i schvaľujete skutky svojich otcov; lebo oni ich zabili, a vy staviate ich hroby."
+  },
+  {
+    "i": 29763,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 49,
+    "t": "\"Preto i múdrosť Božia povedala: Pošlem k nim prorokov a apoštolov, a z nich budú zabíjať a prenasledovať,"
+  },
+  {
+    "i": 29764,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 50,
+    "t": "aby bola hľadaná od tohoto rodu krv všetkých prorokov, ktorá bola vyliata od založenia sveta,"
+  },
+  {
+    "i": 29765,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 51,
+    "t": "od krvi Ábelovej až po krv Zachariášovu, ktorý zahynul medzi oltárom a chrámom. Áno, hovorím vám, že to bude hľadané od tohoto rodu."
+  },
+  {
+    "i": 29766,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 52,
+    "t": "Beda vám zákonníkom, lebo ste vzali kľúč známosti; sami ste nevošli, a tým, ktorí vchádzali, ste zabránili!"
+  },
+  {
+    "i": 29767,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 53,
+    "t": "A keď odišiel odtiaľ, počali sa na neho veľmi hnevať zákonníci a farizeovia a vyťahovať od neho mnohé veci,"
+  },
+  {
+    "i": 29768,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 54,
+    "t": "pretože ho striehli, aby niečo chytili z jeho úst."
+  },
+  {
+    "i": 29769,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 1,
+    "t": "A keď sa zhromaždovaly zástupy, že ich už bolo mnoho tisíc, takže sa jeden po druhom tlačili, počal hovoriť svojim učeníkom: \"Varujte sa kvasu farizeov, ktorý je pokrytectvo."
+  },
+  {
+    "i": 29770,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 2,
+    "t": "Lebo niet ničoho zakrytého, čo by nebolo zjavené, ani tajného, čo by nebolo známe."
+  },
+  {
+    "i": 29771,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 3,
+    "t": "Preto čo ste v tme hovorili, bude počuté vo svetle, a čo ste v komorách šeptali do ucha, bude ohlasované na strechách."
+  },
+  {
+    "i": 29772,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 4,
+    "t": "\"Hovorím vám, svojim priateľom: Nebojte sa tých, ktorí zabíjajú telo, a potom nemajú viac, čo by učinili."
+  },
+  {
+    "i": 29773,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 5,
+    "t": "Ale vám ukážem, koho sa máte báť: bojte sa toho, ktorý má moc zabiť i uvrhnúť do pekla; áno, hovorím vám, toho sa bojte."
+  },
+  {
+    "i": 29774,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 6,
+    "t": "Či päť vrabcov nepredávajú za dva haliere? A ani jeden z nich nie je zabudnutý pred Bohom!"
+  },
+  {
+    "i": 29775,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 7,
+    "t": "Ale i vlasy na vašej hlave sú všetky spočítané. Nebojte sa tedy; ste vy znamenitejší ako mnoho vrabcov."
+  },
+  {
+    "i": 29776,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 8,
+    "t": "\"Hovorím vám, že každý, kto mňa vyzná pred ľuďmi, toho i Syn človeka vyzná pred anjelmi Božími;"
+  },
+  {
+    "i": 29777,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 9,
+    "t": "ale kto mňa zaprie pred ľuďmi, bude zapretý pred anjelmi Božími."
+  },
+  {
+    "i": 29778,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 10,
+    "t": "\"A každému, kto povie slovo proti Synovi človeka, bude mu odpustené; ale tomu, kto sa bude rúhať proti Svätému Duchu, nebude odpustené."
+  },
+  {
+    "i": 29779,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 11,
+    "t": "\"Keď vás budú vodiť do synagóg pred úrady a pred vrchnosti, nestarajte sa, jako alebo čo budete odpovedať, alebo čo budete hovoriť,"
+  },
+  {
+    "i": 29780,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 12,
+    "t": "lebo Duch Svätý vás v tú hodinu naučí, čo máte hovoriť."
+  },
+  {
+    "i": 29781,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 13,
+    "t": "Ktosi zo zástupu mu povedal: \"Učiteľu, povedz môjmu bratovi, aby sa so mnou rozdelil o dedičstvo."
+  },
+  {
+    "i": 29782,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 14,
+    "t": "On mu odpovedal: \"Človeče, kto ma ustanovil za sudcu alebo rozhodcu nad vami?"
+  },
+  {
+    "i": 29783,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 15,
+    "t": "Potom im povedal: \"Dajte si pozor a chráňte sa každej chamtivosti, lebo život človeka nespočíva v hojnosti majetku, ktorý má."
+  },
+  {
+    "i": 29784,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 16,
+    "t": "A povedal im podobenstvo: \"Jednému bohatému človeku prinieslo pole veľkú úrodu."
+  },
+  {
+    "i": 29785,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 17,
+    "t": "Preto uvažoval sám v sebe: Čo mám robiť? Nemám kam uskladniť svoju úrodu."
+  },
+  {
+    "i": 29786,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 18,
+    "t": "Potom si povedal: Toto urobím: Zbúram svoje sýpky a postavím väčšie, tam uskladním všetko svoje obilie a ostatný majetok."
+  },
+  {
+    "i": 29787,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 19,
+    "t": "A poviem si: Duša, máš uložené veľké zásoby na mnoho rokov. Odpočívaj, jedz, pi a veseľ sa."
+  },
+  {
+    "i": 29788,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 20,
+    "t": "Ale Boh mu riekol: Blázon! Ešte tejto noci si vyžiadajú tvoju dušu. A čo si nahromadil, komu zostane?"
+  },
+  {
+    "i": 29789,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 21,
+    "t": "Tak je to s tým, kto si hromadí poklady pre seba, a nie je bohatý pred Bohom."
+  },
+  {
+    "i": 29790,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 22,
+    "t": "Potom povedal svojim učeníkom: \"Preto vám hovorím: Nebuďte ustarostení o svoj život, čo budete jesť, ani o svoje telo, čo si oblečiete."
+  },
+  {
+    "i": 29791,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 23,
+    "t": "Lebo život je viac ako jedlo a telo viac ako odev."
+  },
+  {
+    "i": 29792,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 24,
+    "t": "Pozrite sa na havrany: nesejú ani nežnú, nemajú komoru ani sýpku, a Boh ich živí. O koľko viac vy ste ako vtáci!"
+  },
+  {
+    "i": 29793,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 25,
+    "t": "Kto z vás si môže pridať čo len lakeť k svojmu veku, akokoľvek sa bude starať?"
+  },
+  {
+    "i": 29794,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 26,
+    "t": "Ak teda nezmôžete ani to najmenšie, prečo sa staráte o ostatné?"
+  },
+  {
+    "i": 29795,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 27,
+    "t": "Pozrite sa na ľalie, ako rastú: nepradú ani netkajú. A hovorím vám: Ani Šalamún v celej svojej sláve nebol oblečený ako jedna z nich."
+  },
+  {
+    "i": 29796,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 28,
+    "t": "Ak teda Boh takto oblieka trávu, ktorá je dnes na poli a zajtra ju hodia do pece, o koľko viac vás, vy maloverní!"
+  },
+  {
+    "i": 29797,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 29,
+    "t": "Ani vy sa nezháňajte po tom, čo budete jesť a čo piť, a netrápte sa tým."
+  },
+  {
+    "i": 29798,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 30,
+    "t": "Lebo toto všetko hľadajú pohania sveta, ale váš Otec vie, že to potrebujete."
+  },
+  {
+    "i": 29799,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 31,
+    "t": "Ale hľadajte jeho kráľovstvo a toto vám bude pridané."
+  }
+]

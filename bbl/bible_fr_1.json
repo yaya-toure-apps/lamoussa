@@ -1,0 +1,802 @@
+[
+  {
+    "i": 100,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 21,
+    "t": "Le nom de son frère était Yubal : il fut l’ancêtre de tous ceux qui jouent de la lyre et du chalumeau."
+  },
+  {
+    "i": 101,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 22,
+    "t": "De son côté, Cilla enfanta Tubal-Caïn : il fut l’ancêtre de tous les forgerons en cuivre et en fer ; la sœur de Tubal-Caïn était Naama."
+  },
+  {
+    "i": 102,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 23,
+    "t": "Lamek dit à ses femmes : \"Ada et Cilla, entendez ma voix, femmes de Lamek, écoutez ma parole : J’ai tué un homme pour une blessure, un enfant pour une meurtrissure."
+  },
+  {
+    "i": 103,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 24,
+    "t": "C’est que Caïn est vengé sept fois, mais Lamek, soixante-dix-sept fois !\""
+  },
+  {
+    "i": 104,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 25,
+    "t": "Adam connut sa femme ; elle enfanta un fils et lui donna le nom de Seth \"car, dit-elle, Dieu m’a accordé une autre descendanceà la place d’Abel, puisque Caïn l’a tué.\""
+  },
+  {
+    "i": 105,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 26,
+    "t": "Un fils naquit à Seth aussi, et il lui donna le nom d’Enosh. Celui-ci fut le premier à invoquer le nom de Yahvé."
+  },
+  {
+    "i": 106,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 1,
+    "t": "Voici le livret de la descendance d’Adam : Le jour où Dieu créa Adam, il le fit à la ressemblance de Dieu."
+  },
+  {
+    "i": 107,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 2,
+    "t": "Homme et femme il les créa, il les bénit et leur donna le nom d’\"Homme\", le jour où ils furent créés."
+  },
+  {
+    "i": 108,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 3,
+    "t": "Quand Adam eut  ans, il engendra un fils à sa ressemblance, comme son image, et il lui donna le nom de Seth."
+  },
+  {
+    "i": 109,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 4,
+    "t": "Le temps que vécut Adam après la naissance de Seth fut de huit-cent ans et il engendra des fils et des filles."
+  },
+  {
+    "i": 110,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 5,
+    "t": "Toute la durée de la vie d’Adam fut de neuf-cent-trente ans, puis il mourut."
+  },
+  {
+    "i": 111,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 6,
+    "t": "Quand Seth eut  ans, il engendra Enosh."
+  },
+  {
+    "i": 112,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 7,
+    "t": "Après la naissance d’Enosh, Seth vécut  ans et il engendra des fils et des filles."
+  },
+  {
+    "i": 113,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 8,
+    "t": "Toute la durée de la vie de Seth fut de  ans, puis il mourut."
+  },
+  {
+    "i": 114,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 9,
+    "t": "Quand Enosh eut quatre-vingt-dix ans, il engendra Qénân."
+  },
+  {
+    "i": 115,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 10,
+    "t": "Après la naissance de Qénân, Enosh vécut  ans et il engendra des fils et des filles."
+  },
+  {
+    "i": 116,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 11,
+    "t": "Toute la durée de la vie d’Enosh fut de  ans, puis il mourut."
+  },
+  {
+    "i": 117,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 12,
+    "t": "Quand Qénân eut soixante-dix ans, il engendra Mahalaléel."
+  },
+  {
+    "i": 118,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 13,
+    "t": "Après la naissance de Mahalaléel, Qénân vécut  ans et il engendra des fils et des filles."
+  },
+  {
+    "i": 119,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 14,
+    "t": "Toute la durée de la vie de Qénân fut de  ans, puis il mourut."
+  },
+  {
+    "i": 120,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 15,
+    "t": "Quand Mahalaléel eut soixante-cinq ans, il engendra Yéred."
+  },
+  {
+    "i": 121,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 16,
+    "t": "Après la naissance de Yéred, Mahalaléel vécut  ans et il engendra des fils et des filles."
+  },
+  {
+    "i": 122,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 17,
+    "t": "Toute la durée de la vie de Mahalaléel fut de huit-cent-quatre-vingt-cinq ans, puis il mourut."
+  },
+  {
+    "i": 123,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 18,
+    "t": "Quand Yéred eut cent soixante-deux ans, il engendra Hénok."
+  },
+  {
+    "i": 124,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 19,
+    "t": "Après la naissance d’Hénok, Yéred vécut huit-cent ans et il engendra des fils et des filles."
+  },
+  {
+    "i": 125,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 20,
+    "t": "Toute la durée de la vie de Yéred fut de  ans, puis il mourut."
+  },
+  {
+    "i": 126,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 21,
+    "t": "Quand Hénok eut soixante-cinq ans, il engendra Mathusalem."
+  },
+  {
+    "i": 127,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 22,
+    "t": "Hénok marcha avec Dieu. Après la naissance de Mathusalem, Hénok vécut trois-cent ans et il engendra des fils et des filles."
+  },
+  {
+    "i": 128,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 23,
+    "t": "Toute la durée de la vie d’Hénok fut de  ans."
+  },
+  {
+    "i": 129,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 24,
+    "t": "Hénok marcha avec Dieu, puis il disparut, car Dieu l’enleva."
+  },
+  {
+    "i": 130,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 25,
+    "t": "Quand Mathusalem eut  ans, il engendra Lamek."
+  },
+  {
+    "i": 131,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 26,
+    "t": "Après la naissance de Lamek, Mathusalem vécut  ans et il engendra des fils et des filles."
+  },
+  {
+    "i": 132,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 27,
+    "t": "Toute la durée de la vie de Mathusalem fut de  ans, puis il mourut."
+  },
+  {
+    "i": 133,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 28,
+    "t": "Quand Lamek eut  ans, il engendra un fils."
+  },
+  {
+    "i": 134,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 29,
+    "t": "Il lui donna le nom de Noé, car, dit-il, \"celui-ci nous apportera, dans notre travail et le labeur de nos mains, une consolation tirée du sol que Yahvé a maudit.\""
+  },
+  {
+    "i": 135,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 30,
+    "t": "Après la naissance de Noé, Lamek vécut cinq-cent-quatre-vingt-quinze ans et il engendra des fils et des filles."
+  },
+  {
+    "i": 136,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 31,
+    "t": "Toute la durée de la vie de Lamek fut de sept-cent-soixante-dix-sept ans, puis il mourut."
+  },
+  {
+    "i": 137,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 32,
+    "t": "Quand Noé eut atteint cinq-cent ans, il engendra Sem, Cham et Japhet."
+  },
+  {
+    "i": 138,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 1,
+    "t": "Lorsque les hommes commencèrent d’être nombreux sur la face de la terre et que des filles leur furent nées,"
+  },
+  {
+    "i": 139,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 2,
+    "t": "les fils de Dieu trouvèrent que les filles des hommes leur convenaient et ils prirent pour femmes toutes celles qu’il leur plut."
+  },
+  {
+    "i": 140,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 3,
+    "t": "Yahvé dit : \"Que mon esprit ne soit pas indéfiniment responsable de l’homme, puisqu’il est chair ; sa vie ne sera que de cent-vingt ans.\""
+  },
+  {
+    "i": 141,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 4,
+    "t": "Les Nephilim étaient sur la terre en ces jours-là (et aussi dans la suite) quand les fils de Dieu s’unissaient aux filles des hommes et qu’elles leur donnaient des enfants ; ce sont les héros du temps jadis, ces hommes fameux."
+  },
+  {
+    "i": 142,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 5,
+    "t": "Yahvé vit que la méchanceté de l’homme était grande sur la terre et que son cœur ne formait que de mauvais desseins à longueur de journée."
+  },
+  {
+    "i": 143,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 6,
+    "t": "Yahvé se repentit d’avoir fait l’homme sur la terre et il s’affligea dans son cœur."
+  },
+  {
+    "i": 144,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 7,
+    "t": "Et Yahvé dit : \"Je vais effacer de la surface du sol les hommes que j’ai créés — et avec les hommes, les bestiaux, les bestioles et les oiseaux du ciel —, car je me repens de les avoir faits.\""
+  },
+  {
+    "i": 145,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 8,
+    "t": "Mais Noé avait trouvé grâce aux yeux de Yahvé."
+  },
+  {
+    "i": 146,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 9,
+    "t": "Voici l’histoire de Noé : Noé était un homme juste, intègre parmi ses contemporains, et il marchait avec Dieu."
+  },
+  {
+    "i": 147,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 10,
+    "t": "Noé engendra trois fils, Sem, Cham et Japhet."
+  },
+  {
+    "i": 148,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 11,
+    "t": "La terre se pervertit au regard de Dieu et elle se remplit de violence."
+  },
+  {
+    "i": 149,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 12,
+    "t": "Dieu vit la terre : elle était pervertie, car toute chair avait une conduite perverse sur la terre."
+  },
+  {
+    "i": 150,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 13,
+    "t": "Dieu dit à Noé : \"La fin de toute chair est arrivée, je l’ai décidé, car la terre est pleine de violence à cause des hommes et je vais les faire disparaître de la terre."
+  },
+  {
+    "i": 151,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 14,
+    "t": "Fais-toi une arche en bois résineux, tu la feras en roseaux et tu l’enduiras de bitume en dedans et en dehors."
+  },
+  {
+    "i": 152,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 15,
+    "t": "Voici comment tu la feras : trois-cent coudées pour la longueur de l’arche, cinquante coudées pour sa largeur, trente coudées pour sa hauteur"
+  },
+  {
+    "i": 153,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 16,
+    "t": "Tu feras à l’arche un toit et tu l’achèveras une coudée plus haut, tu placeras l’entrée de l’arche sur le côté et tu feras un premier, un second et un troisième étages."
+  },
+  {
+    "i": 154,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 17,
+    "t": "\"Pour moi, je vais amener le déluge, les eaux, sur la terre, pour exterminer de dessous le ciel toute chair ayant souffle de vie : tout ce qui est sur la terre doit périr."
+  },
+  {
+    "i": 155,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 18,
+    "t": "Mais j’établirai mon alliance avec toi et tu entreras dans l’arche, toi et tes fils, ta femme et les femmes de tes fils avec toi."
+  },
+  {
+    "i": 156,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 19,
+    "t": "De tout ce qui vit, de tout ce qui est chair, tu feras entrer dans l’arche deux de chaque espèce pour les garder en vie avec toi ; qu’il y ait un mâle et une femelle."
+  },
+  {
+    "i": 157,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 20,
+    "t": "De chaque espèce d’oiseaux, de chaque espèce de bestiaux, de chaque espèce de toutes les bestioles du sol, un couple viendra avec toi pour que tu les gardes en vie."
+  },
+  {
+    "i": 158,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 21,
+    "t": "De ton côté, procure-toi de tout ce qui se mange et fais-en provision : cela servira de nourriture pour toi et pour eux.\""
+  },
+  {
+    "i": 159,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 22,
+    "t": "Noé agit ainsi ; tout ce que Dieu lui avait commandé, il le fit."
+  },
+  {
+    "i": 160,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 1,
+    "t": "Yahvé dit à Noé : \"Entre dans l’arche, toi et toute ta famille, car je t’ai vu seul juste à mes yeux parmi cette génération."
+  },
+  {
+    "i": 161,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 2,
+    "t": "De tous les animaux purs, tu prendras sept paires, le mâle et sa femelle ; des animaux qui ne sont pas purs, tu prendras un couple, le mâle et sa femelle"
+  },
+  {
+    "i": 162,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 3,
+    "t": "(et aussi des oiseaux du ciel, sept paires, le mâle et sa femelle), pour perpétuer la race sur toute la terre."
+  },
+  {
+    "i": 163,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 4,
+    "t": "Car encore sept jours et je ferai pleuvoir sur la terre pendant quarante jours et quarante nuits et j’effacerai de la surface du sol tous les êtres que j’ai faits.\""
+  },
+  {
+    "i": 164,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 5,
+    "t": "Noé fit tout ce que Yahvé lui avait commandé."
+  },
+  {
+    "i": 165,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 6,
+    "t": "Noé avait six-cent ans quand arriva le déluge, les eaux sur la terre."
+  },
+  {
+    "i": 166,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 7,
+    "t": "Noé — avec ses fils, sa femme et les femmes de ses fils — entra dans l’arche pour échapper aux eaux du déluge."
+  },
+  {
+    "i": 167,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 8,
+    "t": "(Des animaux purs et des animaux qui ne sont pas purs, des oiseaux et de tout ce qui rampe sur le sol,"
+  },
+  {
+    "i": 168,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 9,
+    "t": "un couple entra dans l’arche de Noé, un mâle et une femelle, comme Dieu avait ordonné à Noé.)"
+  },
+  {
+    "i": 169,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 10,
+    "t": "Au bout de sept jours, les eaux du déluge vinrent sur la terre."
+  },
+  {
+    "i": 170,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 11,
+    "t": "En l’an six-cent de la vie de Noé, le second mois, le dix-septième jour du mois, ce jour-là jaillirent toutes les sources du grand abîme et les écluses du ciel s’ouvrirent."
+  },
+  {
+    "i": 171,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 12,
+    "t": "La pluie tomba sur la terre pendant quarante jours et quarante nuits."
+  },
+  {
+    "i": 172,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 13,
+    "t": "Ce jour même, Noé et ses fils, Sem, Cham et Japhet, avec la femme de Noé et les trois femmes de ses fils, entrèrent dans l’arche,"
+  },
+  {
+    "i": 173,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 14,
+    "t": "et avec eux les bêtes sauvages de toute espèce, les bestiaux de toute espèce, les bestioles de toute espèce qui rampent sur la terre, les volatiles de toute espèce, tous les oiseaux, tout ce qui a des ailes."
+  },
+  {
+    "i": 174,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 15,
+    "t": "Auprès de Noé, entra dans l’arche un couple de tout ce qui est chair, ayant souffle de vie,"
+  },
+  {
+    "i": 175,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 16,
+    "t": "et ceux qui entrèrent étaient un mâle et une femelle de tout ce qui est chair, comme Dieu le lui avait commandé. Et Yahvé ferma la porte sur Noé."
+  },
+  {
+    "i": 176,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 17,
+    "t": "Il y eut le déluge pendant quarante jours sur la terre ; les eaux grossirent et soulevèrent l’arche, qui fut élevée au-dessus de la terre."
+  },
+  {
+    "i": 177,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 18,
+    "t": "Les eaux montèrent et grossirent beaucoup sur la terre et l’arche s’en alla à la surface des eaux."
+  },
+  {
+    "i": 178,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 19,
+    "t": "Les eaux montèrent de plus en plus sur la terre et toutes les plus hautes montagnes qui sont sous tout le ciel furent couvertes."
+  },
+  {
+    "i": 179,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 20,
+    "t": "Les eaux montèrent quinze coudées plus haut, recouvrant les montagnes."
+  },
+  {
+    "i": 180,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 21,
+    "t": "Alors périt toute chair qui se meut sur la terre : oiseaux, bestiaux, bêtes sauvages, tout ce qui grouille sur la terre, et tous les hommes."
+  },
+  {
+    "i": 181,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 22,
+    "t": "Tout ce qui avait une haleine de vie dans les narines, c’est-à-dire tout ce qui était sur la terre ferme, mourut."
+  },
+  {
+    "i": 182,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 23,
+    "t": "Ainsi disparurent tous les êtres qui étaient à la surface du sol, depuis l’homme jusqu’aux bêtes, aux bestioles et aux oiseaux du ciel : ils furent effacés de la terre et il ne resta que Noé et ce qui était avec lui dans l’arche."
+  },
+  {
+    "i": 183,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 24,
+    "t": "La crue des eaux sur la terre dura cent-cinquante jours."
+  },
+  {
+    "i": 184,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 1,
+    "t": "Alors Dieu se souvint de Noé et de toutes les bêtes sauvages et de tous les bestiaux qui étaient avec lui dans l’arche ;Dieu fit passer un vent sur la terre et les eaux désenflèrent."
+  },
+  {
+    "i": 185,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 2,
+    "t": "Les sources de l’abîme et les écluses du ciel furent fermées ;— la pluie fut retenue de tomber du ciel"
+  },
+  {
+    "i": 186,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 3,
+    "t": "et les eaux se retirèrent petit à petit de la terre ; — les eaux baissèrent au bout de cent-cinquante jours"
+  },
+  {
+    "i": 187,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 4,
+    "t": "et, au septième mois, au dix-septième jour du mois, l’arche s’arrêta sur les monts d’Ararat."
+  },
+  {
+    "i": 188,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 5,
+    "t": "Les eaux continuèrent de baisser jusqu’au dixième mois et, au premier du dixième mois, apparurent les sommets des montagnes."
+  },
+  {
+    "i": 189,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 6,
+    "t": "Au bout de quarante jours, Noé ouvrit la fenêtre qu’il avait faite à l’arche"
+  },
+  {
+    "i": 190,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 7,
+    "t": "et il lâcha le corbeau, qui alla et vint en attendant que les eaux aient séché sur la terre."
+  },
+  {
+    "i": 191,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 8,
+    "t": "Alors il lâcha d’auprès de lui la colombe pour voir si les eaux avaient diminué à la surface du sol."
+  },
+  {
+    "i": 192,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 9,
+    "t": "La colombe, ne trouvant pas un endroit où poser ses pattes, revint vers lui dans l’arche, car il y avait de l’eau sur toute la surface de la terre ; il étendit la main, la prit et la fit rentrer auprès de lui dans l’arche."
+  },
+  {
+    "i": 193,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 10,
+    "t": "Il attendit encore sept autres jours et lâcha de nouveau la colombe hors de l’arche."
+  },
+  {
+    "i": 194,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 11,
+    "t": "La colombe revint vers lui sur le soir et voici qu’elle avait dans le bec un rameau tout frais d’olivier ! Ainsi Noé connut que les eaux avaient diminué à la surface de la terre."
+  },
+  {
+    "i": 195,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 12,
+    "t": "Il attendit encore sept autres jours et lâcha la colombe, quine revint plus vers lui."
+  },
+  {
+    "i": 196,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 13,
+    "t": "C’est en l’an six-cent-un de la vie de Noé, au premier mois, le premier du mois, que les eaux séchèrent sur la terre. Noé enleva la couverture de l’arche ; il regarda, et voici que la surface du sol était sèche !"
+  },
+  {
+    "i": 197,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 14,
+    "t": "Au second mois, le vingt-septième jour du mois, la terre fut sèche."
+  },
+  {
+    "i": 198,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 15,
+    "t": "Alors Dieu parla ainsi à Noé :"
+  },
+  {
+    "i": 199,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 16,
+    "t": "\"Sors de l’arche, toi et ta femme, tes fils et les femmes de tes fils avec toi."
+  }
+]

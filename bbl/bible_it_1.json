@@ -1,0 +1,802 @@
+[
+  {
+    "i": 100,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 21,
+    "t": "Or il nome del suo fratello era Iubal, padre di tutti coloro che suonano la cetra e il flauto."
+  },
+  {
+    "i": 101,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 22,
+    "t": "Silla partorì anche Tubalkain, il fabbro, padre di quanti lavorano il rame e il ferro. La sorella di Tubalkain fu Noema."
+  },
+  {
+    "i": 102,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 23,
+    "t": "Lamech disse alle sue mogli: «Ada e Silla, ascoltate la mia voce; mogli di Lamech, porgete l'orecchio al mio dire: Ho ucciso un uomo per una mia ferita e un ragazzo per un mio livido!"
+  },
+  {
+    "i": 103,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 24,
+    "t": "Se Caino sarà vendicato sette volte, Lamech lo sarà settantasette volte!"
+  },
+  {
+    "i": 104,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 25,
+    "t": "Adamo si unì ancora alla moglie, che partorì un figlio e lo chiamò Set. «Perché - disse - Dio mi ha concesso un'altra discendenza al posto di Abele, che Caino ha ucciso»."
+  },
+  {
+    "i": 105,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 26,
+    "t": "Anche Set ebbe un figlio e lo chiamò Enos. Allora si cominciò a invocare il nome del Signore."
+  },
+  {
+    "i": 106,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 1,
+    "t": "Questo è il libro della genealogia di Adamo. Quando Dio creò l'uomo, lo fece a somiglianza di Dio."
+  },
+  {
+    "i": 107,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 2,
+    "t": "Maschio e femmina li creò, li benedisse e diede loro il nome di «uomo» quando furono creati."
+  },
+  {
+    "i": 108,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 3,
+    "t": "Adamo visse centotrent'anni, generò un figlio a sua immagine e somiglianza e lo chiamò Set."
+  },
+  {
+    "i": 109,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 4,
+    "t": "Dopo aver generato Set, Adamo visse ottocento anni e generò figli e figlie."
+  },
+  {
+    "i": 110,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 5,
+    "t": "L'intera vita di Adamo fu di novecentotrent'anni; poi morì."
+  },
+  {
+    "i": 111,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 6,
+    "t": "Set visse centocinque anni e generò Enos."
+  },
+  {
+    "i": 112,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 7,
+    "t": "Dopo aver generato Enos, Set visse ottocentosette anni e generò figli e figlie."
+  },
+  {
+    "i": 113,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 8,
+    "t": "L'intera vita di Set fu di novecentododici anni; poi morì."
+  },
+  {
+    "i": 114,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 9,
+    "t": "Enos visse novant'anni e generò Kenan."
+  },
+  {
+    "i": 115,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 10,
+    "t": "Dopo aver generato Kenan, Enos visse ottocentoquindici anni e generò figli e figlie."
+  },
+  {
+    "i": 116,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 11,
+    "t": "L'intera vita di Enos fu di novecentocinque anni; poi morì."
+  },
+  {
+    "i": 117,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 12,
+    "t": "Kenan visse settant'anni e generò Maalalel."
+  },
+  {
+    "i": 118,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 13,
+    "t": "Dopo aver generato Maalalel, Kenan visse ottocentoquarant'anni e generò figli e figlie."
+  },
+  {
+    "i": 119,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 14,
+    "t": "L'intera vita di Kenan fu di novecentodieci anni; poi morì."
+  },
+  {
+    "i": 120,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 15,
+    "t": "Maalalel visse sessantacinque anni e generò Iared."
+  },
+  {
+    "i": 121,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 16,
+    "t": "Dopo aver generato Iared, Maalalel visse ottocentotrent'anni e generò figli e figlie."
+  },
+  {
+    "i": 122,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 17,
+    "t": "L'intera vita di Maalalel fu di ottocentonovantacinque anni; poi morì."
+  },
+  {
+    "i": 123,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 18,
+    "t": "Iared visse centosessantadue anni e generò Enoc."
+  },
+  {
+    "i": 124,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 19,
+    "t": "Dopo aver generato Enoc, Iared visse ottocento anni e generò figli e figlie."
+  },
+  {
+    "i": 125,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 20,
+    "t": "L'intera vita di Iared fu di novecentosessantadue anni; poi morì."
+  },
+  {
+    "i": 126,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 21,
+    "t": "Enoc visse sessantacinque anni e generò Matusalemme."
+  },
+  {
+    "i": 127,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 22,
+    "t": "Enoc camminò con Dio; dopo aver generato Matusalemme, Enoc visse trecento anni e generò figli e figlie."
+  },
+  {
+    "i": 128,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 23,
+    "t": "L'intera vita di Enoc fu di trecentosessantacinque anni."
+  },
+  {
+    "i": 129,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 24,
+    "t": "Enoc camminò con Dio, poi scomparve, perché Dio lo prese."
+  },
+  {
+    "i": 130,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 25,
+    "t": "Matusalemme visse centottantasette anni e generò Lamech."
+  },
+  {
+    "i": 131,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 26,
+    "t": "Dopo aver generato Lamech, Matusalemme visse settecentottantadue anni e generò figli e figlie."
+  },
+  {
+    "i": 132,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 27,
+    "t": "L'intera vita di Matusalemme fu di novecentosessantanove anni; poi morì."
+  },
+  {
+    "i": 133,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 28,
+    "t": "Lamech visse centottantadue anni e generò un figlio."
+  },
+  {
+    "i": 134,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 29,
+    "t": "Lo chiamò Noè, dicendo: «Costui ci consolerà del nostro lavoro e della fatica delle nostre mani, a causa del suolo che il Signore ha maledetto»."
+  },
+  {
+    "i": 135,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 30,
+    "t": "Dopo aver generato Noè, Lamech visse cinquecentonovantacinque anni e generò figli e figlie."
+  },
+  {
+    "i": 136,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 31,
+    "t": "L'intera vita di Lamech fu di settecentosettantasette anni; poi morì."
+  },
+  {
+    "i": 137,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 32,
+    "t": "Noè aveva cinquecento anni, quando generò Sem, Cam e Iafet."
+  },
+  {
+    "i": 138,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 1,
+    "t": "Quando gli uomini cominciarono a moltiplicarsi sulla terra e nacquero loro figlie,"
+  },
+  {
+    "i": 139,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 2,
+    "t": "i figli di Dio videro che le figlie degli uomini erano belle e ne presero per mogli quante ne vollero."
+  },
+  {
+    "i": 140,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 3,
+    "t": "Allora il Signore disse: «Il mio spirito non resterà sempre nell'uomo, perché egli è carne, e la sua vita sarà di centoventi anni»."
+  },
+  {
+    "i": 141,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 4,
+    "t": "C'erano sulla terra i giganti a quei tempi - e anche dopo - quando i figli di Dio si univano alle figlie degli uomini e queste partorivano loro dei figli: sono questi gli eroi dell'antichità, uomini famosi."
+  },
+  {
+    "i": 142,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 5,
+    "t": "Il Signore vide che la malvagità degli uomini era grande sulla terra e che ogni disegno concepito dal loro cuore non era altro che male."
+  },
+  {
+    "i": 143,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 6,
+    "t": "E il Signore si pentì di aver fatto l'uomo sulla terra e se ne addolorò in cuor suo."
+  },
+  {
+    "i": 144,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 7,
+    "t": "Il Signore disse: «Sterminerò dalla terra l'uomo che ho creato: con l'uomo anche il bestiame, i rettili e gli uccelli del cielo, perché sono pentito di averli fatti»."
+  },
+  {
+    "i": 145,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 8,
+    "t": "Noè invece trovò grazia agli occhi del Signore."
+  },
+  {
+    "i": 146,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 9,
+    "t": "Questa è la storia di Noè. Noè era uomo giusto e integro tra i suoi contemporanei e camminava con Dio."
+  },
+  {
+    "i": 147,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 10,
+    "t": "Noè generò tre figli: Sem, Cam e Iafet."
+  },
+  {
+    "i": 148,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 11,
+    "t": "Ma la terra era corrotta davanti a Dio e piena di violenza."
+  },
+  {
+    "i": 149,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 12,
+    "t": "Dio guardò la terra ed ecco, era corrotta, perché ogni uomo aveva pervertito la sua via sulla terra."
+  },
+  {
+    "i": 150,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 13,
+    "t": "Allora Dio disse a Noè: «È venuta per me la fine di ogni uomo, perché la terra, per causa loro, è piena di violenza; ecco, io li distruggerò insieme con la terra."
+  },
+  {
+    "i": 151,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 14,
+    "t": "Fatti un'arca di legno di cipresso; dividerai l'arca in scompartimenti e la spalmerai di bitume dentro e fuori."
+  },
+  {
+    "i": 152,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 15,
+    "t": "Ecco come devi farla: l'arca avrà trecento cubiti di lunghezza, cinquanta di larghezza e trenta di altezza."
+  },
+  {
+    "i": 153,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 16,
+    "t": "Farai all'arca una finestra e la terminerai con un cubito di altezza; metterai la porta dell'arca su un lato; farai un primo, un secondo e un terzo piano."
+  },
+  {
+    "i": 154,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 17,
+    "t": "Ecco, io manderò il diluvio, cioè le acque, sulla terra, per distruggere ogni carne in cui è alito di vita sotto il cielo; quanto è sulla terra perirà."
+  },
+  {
+    "i": 155,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 18,
+    "t": "Ma io stabilirò la mia alleanza con te; tu entrerai nell'arca: tu, i tuoi figli, tua moglie e le mogli dei tuoi figli con te."
+  },
+  {
+    "i": 156,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 19,
+    "t": "Di ogni essere vivente, di ogni carne, farai entrare nell'arca due di ogni specie, per conservarli in vita con te: siano essi maschio e femmina."
+  },
+  {
+    "i": 157,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 20,
+    "t": "Degli uccelli secondo la loro specie, del bestiame secondo la propria specie e di tutti i rettili della terra secondo la loro specie, due di ogni specie verranno con te, perché tu li conservi in vita."
+  },
+  {
+    "i": 158,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 21,
+    "t": "Tu provvedi a prenderti ogni sorta di cibo da mangiare e raccoglilo presso di te; sarà di nutrimento per te e per loro»."
+  },
+  {
+    "i": 159,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 22,
+    "t": "Noè fece tutto; come Dio gli aveva comandato, così fece."
+  },
+  {
+    "i": 160,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 1,
+    "t": "Il Signore disse a Noè: «Entra nell'arca tu con tutta la tua famiglia, perché ti ho visto giusto dinanzi a me in questa generazione."
+  },
+  {
+    "i": 161,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 2,
+    "t": "Di ogni animale mondo prendi sette paia, il maschio e la femmina; degli animali immondi un paio, il maschio e la femmina"
+  },
+  {
+    "i": 162,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 3,
+    "t": "nonché degli uccelli del cielo sette paia, maschio e femmina, per conservare in vita la loro razza su tutta la terra."
+  },
+  {
+    "i": 163,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 4,
+    "t": "Perché tra sette giorni farò piovere sulla terra per quaranta giorni e quaranta notti; sterminerò dalla terra ogni essere che ho fatto»."
+  },
+  {
+    "i": 164,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 5,
+    "t": "Noè fece tutto quello che il Signore gli aveva comandato."
+  },
+  {
+    "i": 165,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 6,
+    "t": "Noè aveva seicento anni, quando venne il diluvio, cioè le acque sulla terra."
+  },
+  {
+    "i": 166,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 7,
+    "t": "Noè entrò nell'arca con i suoi figli, sua moglie e le mogli dei suoi figli, per sottrarsi alle acque del diluvio."
+  },
+  {
+    "i": 167,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 8,
+    "t": "Degli animali mondi e degli animali immondi, degli uccelli e di tutti i rettili del suolo,"
+  },
+  {
+    "i": 168,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 9,
+    "t": "entrarono a due a due nell'arca con Noè, maschio e femmina, come Dio aveva comandato a Noè."
+  },
+  {
+    "i": 169,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 10,
+    "t": "Dopo sette giorni, le acque del diluvio vennero sulla terra."
+  },
+  {
+    "i": 170,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 11,
+    "t": "Nell'anno seicentesimo della vita di Noè, nel secondo mese, il diciassettesimo giorno del mese, proprio in quel giorno eruppero tutte le sorgenti del grande abisso e le cateratte del cielo si aprirono."
+  },
+  {
+    "i": 171,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 12,
+    "t": "E la pioggia cadde sulla terra per quaranta giorni e quaranta notti."
+  },
+  {
+    "i": 172,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 13,
+    "t": "Proprio in quel giorno Noè entrò nell'arca con Sem, Cam e Iafet, figli di Noè, la moglie di Noè e le tre mogli dei suoi figli."
+  },
+  {
+    "i": 173,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 14,
+    "t": "Essi e tutti i viventi secondo la loro specie e tutto il bestiame secondo la sua specie e tutti i rettili che strisciano sulla terra secondo la loro specie e tutti gli uccelli secondo la loro specie, tutti gli uccelli, tutti gli esseri alati."
+  },
+  {
+    "i": 174,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 15,
+    "t": "Entrarono nell'arca con Noè due di ogni essere in cui è alito di vita."
+  },
+  {
+    "i": 175,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 16,
+    "t": "Quelli che entrarono erano maschio e femmina di ogni specie, come Dio aveva comandato a Noè. Il Signore chiuse la porta dietro di lui."
+  },
+  {
+    "i": 176,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 17,
+    "t": "Il diluvio infuriò sulla terra per quaranta giorni; le acque crebbero e sollevarono l'arca, che si innalzò sulla terra."
+  },
+  {
+    "i": 177,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 18,
+    "t": "Le acque ingrossarono e crebbero molto sulla terra e l'arca galleggiava sulla superficie delle acque."
+  },
+  {
+    "i": 178,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 19,
+    "t": "Le acque crebbero sempre più sopra la terra e coprirono tutti i monti più alti che sono sotto tutto il cielo."
+  },
+  {
+    "i": 179,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 20,
+    "t": "Le acque superarono di quindici cubiti i monti, che furono coperti."
+  },
+  {
+    "i": 180,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 21,
+    "t": "E perì ogni carne che si moveva sulla terra: uccelli, bestiame, fiere selvagge, ogni cosa che brulicava sulla terra e tutti gli uomini."
+  },
+  {
+    "i": 181,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 22,
+    "t": "Ogni cosa che aveva alito di vita nelle narici, cioè tutto ciò che era sulla terra asciutta, morì."
+  },
+  {
+    "i": 182,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 23,
+    "t": "Così furono sterminati tutti gli esseri che erano sulla faccia del suolo, dall'uomo fino al bestiame, ai rettili e agli uccelli del cielo: furono cancellati dalla terra e non rimase che Noè e ciò che era con lui nell'arca."
+  },
+  {
+    "i": 183,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 24,
+    "t": "E le acque imperversarono sulla terra per centocinquanta giorni."
+  },
+  {
+    "i": 184,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 1,
+    "t": "Allora Dio si ricordò di Noè e di tutte le fiere selvagge e di tutto il bestiame che era con lui nell'arca; e Dio fece passare un vento sulla terra e le acque si calmarono."
+  },
+  {
+    "i": 185,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 2,
+    "t": "Le fonti dell'abisso e le cateratte del cielo furono chiuse; e la pioggia cessò di cadere dal cielo"
+  },
+  {
+    "i": 186,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 3,
+    "t": "e le acque si ritirarono a poco a poco dalla terra; e le acque diminuirono alla fine di centocinquanta giorni"
+  },
+  {
+    "i": 187,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 4,
+    "t": "e, nel settimo mese, il diciassettesimo giorno del mese, l'arca si fermò sui monti dell'Ararat."
+  },
+  {
+    "i": 188,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 5,
+    "t": "E le acque continuarono a diminuire fino al decimo mese; e il primo giorno del decimo mese apparvero le cime dei monti."
+  },
+  {
+    "i": 189,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 6,
+    "t": "Al termine di quaranta giorni, Noè aprì la finestra che aveva fatta nell'arca"
+  },
+  {
+    "i": 190,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 7,
+    "t": "e lasciò andare il corvo, il quale andò e tornò, finché le acque non si furono prosciugate sulla terra."
+  },
+  {
+    "i": 191,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 8,
+    "t": "Poi lasciò andare da presso di sé la colomba, per vedere se le acque si fossero ritirate dalla superficie del suolo."
+  },
+  {
+    "i": 192,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 9,
+    "t": "Ma la colomba, non trovando un luogo dove posare le piante dei piedi, tornò a lui nell'arca, perché c'era acqua su tutta la superficie della terra; ed egli stese la mano, la prese e la fece rientrare presso di sé nell'arca."
+  },
+  {
+    "i": 193,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 10,
+    "t": "Aspettò ancora altri sette giorni e di nuovo lasciò andare la colomba fuori dell'arca."
+  },
+  {
+    "i": 194,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 11,
+    "t": "E la colomba tornò a lui sul far della sera; ed ecco, essa aveva nel becco un ramoscello d'olivo tutto fresco! Così Noè conobbe che le acque si erano ritirate dalla superficie della terra."
+  },
+  {
+    "i": 195,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 12,
+    "t": "Aspettò ancora altri sette giorni e lasciò andare la colomba, la quale non tornò più da lui."
+  },
+  {
+    "i": 196,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 13,
+    "t": "Nell'anno seicentouno della vita di Noè, il primo mese, il primo giorno del mese, le acque si prosciugarono sulla terra. Noè rimosse la copertura dell'arca; guardò, ed ecco che la superficie del suolo era asciutta!"
+  },
+  {
+    "i": 197,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 14,
+    "t": "Il secondo mese, il ventisettesimo giorno del mese, la terra fu asciutta."
+  },
+  {
+    "i": 198,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 15,
+    "t": "Allora Dio parlò a Noè, dicendo:"
+  },
+  {
+    "i": 199,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 16,
+    "t": "«Esci dall'arca tu, tua moglie, i tuoi figli e le mogli dei tuoi figli con te."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26900,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 25,
+    "t": "No te hagas el valiente con el vino, pues el vino ha perdido a muchos."
+  },
+  {
+    "i": 26901,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 26,
+    "t": "El crisol prueba la dureza del acero, así el vino prueba los corazones en una contienda de jactanciosos."
+  },
+  {
+    "i": 26902,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 27,
+    "t": "El vino es vida para el hombre, si se bebe con moderación. ¿Qué vida se lleva privado de vino? Fue creado para la alegría de los hombres."
+  },
+  {
+    "i": 26903,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 28,
+    "t": "Alegría del corazón y gozo del alma, eso es el vino que se bebe cuando es debido y con suficiencia."
+  },
+  {
+    "i": 26904,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 29,
+    "t": "Amargura del alma, eso es el vino que se bebe con exceso, por pasión y por desafío."
+  },
+  {
+    "i": 26905,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 30,
+    "t": "La embriaguez excita la furia del insensato para su perdición, disminuye su fuerza y provoca los golpes."
+  },
+  {
+    "i": 26906,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 31,
+    "t": "En un banquete no provoques a tu vecino, ni te burles de él si está alegre; no le dirijas reproches, ni lo irrites con tus reclamaciones."
+  },
+  {
+    "i": 26907,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 1,
+    "t": "¿Te han hecho presidente? No te ensoberbezcas, sé con los convidados como uno de ellos, cuídalos y luego siéntate."
+  },
+  {
+    "i": 26908,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 2,
+    "t": "Habiendo cumplido todos tus deberes, toma tu lugar para regocijarte con ellos y recibir la corona, precio de tu éxito."
+  },
+  {
+    "i": 26909,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 3,
+    "t": "Habla, anciano, pues eso te sienta bien, pero con discreción; no interrumpas la música."
+  },
+  {
+    "i": 26910,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 4,
+    "t": "Durante una audición no prodigues discursos, ni sermonees a destiempo."
+  },
+  {
+    "i": 26911,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 5,
+    "t": "Sello de carbunclo sobre joya, tal es un concierto musical en un banquete."
+  },
+  {
+    "i": 26912,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 6,
+    "t": "Sello de esmeralda sobre montura de oro, tal es una melodía con un vino selecto."
+  },
+  {
+    "i": 26913,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 7,
+    "t": "Habla, joven, cuando sea necesario, dos veces a lo más, si te interrogan."
+  },
+  {
+    "i": 26914,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 8,
+    "t": "Resume tu discurso, di mucho en pocas palabras, procura mostrarte a la vez entendido y silencioso."
+  },
+  {
+    "i": 26915,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 9,
+    "t": "No trates con los grandes de igual a igual, si otro habla, sé parco en palabras."
+  },
+  {
+    "i": 26916,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 10,
+    "t": "El relámpago precede al trueno, la gracia se adelanta al hombre modesto."
+  },
+  {
+    "i": 26917,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 11,
+    "t": "A la hora debida, vete, no te demores, corre a casa, no vaguees."
+  },
+  {
+    "i": 26918,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 12,
+    "t": "Allí, diviértete, haz lo que te plazca, pero no peques hablando con insolencia."
+  },
+  {
+    "i": 26919,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 13,
+    "t": "Y por ello bendice al Creador, aquel que te colma de sus beneficios."
+  },
+  {
+    "i": 26920,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 14,
+    "t": "Quien teme al Señor escucha sus lecciones, los que lo buscan hallan su favor."
+  },
+  {
+    "i": 26921,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 15,
+    "t": "Quien escudriña la ley queda saciado, pero para el hipócrita es un escándalo."
+  },
+  {
+    "i": 26922,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 16,
+    "t": "Quienes temen al Señor hallan la buena decisión, hacen brillar sus buenas acciones como una luz."
+  },
+  {
+    "i": 26923,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 17,
+    "t": "El pecador no acepta la reprensión, para seguir su voluntad encuentra excusas."
+  },
+  {
+    "i": 26924,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 18,
+    "t": "El hombre sensato no desprecia los consejos, el extranjero y el orgulloso no conocen el temor."
+  },
+  {
+    "i": 26925,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 19,
+    "t": "No hagas nada sin reflexión, no te arrepentirás de tus actos."
+  },
+  {
+    "i": 26926,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 20,
+    "t": "No sigas un camino escabroso, no sea que tropieces con las piedras."
+  },
+  {
+    "i": 26927,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 21,
+    "t": "No te fíes del camino llano"
+  },
+  {
+    "i": 26928,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 22,
+    "t": "y desconfía de tus hijos."
+  },
+  {
+    "i": 26929,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 23,
+    "t": "En todas las cosas vela por ti mismo, eso también es observar los mandamientos."
+  },
+  {
+    "i": 26930,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 24,
+    "t": "Quien confía en la ley observa sus preceptos, quien pone su confianza en el Señor no sufre ningún daño."
+  },
+  {
+    "i": 26931,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 1,
+    "t": "Quien teme al Señor, el mal no lo hiere, e incluso en la prueba, será liberado."
+  },
+  {
+    "i": 26932,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 2,
+    "t": "Quien odia la ley no es sabio, pero el falso observante es como una nave en la tempestad."
+  },
+  {
+    "i": 26933,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 3,
+    "t": "El hombre sensato pone su confianza en la ley, la ley es para él digna de fe como un oráculo."
+  },
+  {
+    "i": 26934,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 4,
+    "t": "Prepara tus discursos y serás escuchado, reúne tu saber antes de responder."
+  },
+  {
+    "i": 26935,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 5,
+    "t": "Los sentimientos del necio son como una rueda de carro, su razonamiento como un eje que gira."
+  },
+  {
+    "i": 26936,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 6,
+    "t": "Un caballo en celo es como un amigo burlón, en cuanto se quiere montar relincha."
+  },
+  {
+    "i": 26937,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 7,
+    "t": "¿Por qué un día es más grande que otro, si, todo el año, la luz viene del sol?"
+  },
+  {
+    "i": 26938,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 8,
+    "t": "Es que han sido distinguidos en el pensamiento del Señor, que ha diversificado las estaciones y las fiestas."
+  },
+  {
+    "i": 26939,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 9,
+    "t": "Él ha exaltado y consagrado a unos, y ha hecho de los otros días ordinarios."
+  },
+  {
+    "i": 26940,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 10,
+    "t": "Todos los hombres vienen del limo, de la tierra fue formado Adán."
+  },
+  {
+    "i": 26941,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 11,
+    "t": "En su gran sabiduría el Señor los ha distinguido, ha diversificado sus condiciones."
+  },
+  {
+    "i": 26942,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 12,
+    "t": "A algunos los ha bendecido y exaltado, los ha consagrado y los ha puesto cerca de él. A otros los ha maldecido y humillado y los ha rechazado de su lugar."
+  },
+  {
+    "i": 26943,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 13,
+    "t": "Como la arcilla en la mano del alfarero, que la modela según su buen placer, así los hombres en la mano de su Creador, que los retribuye según su justicia."
+  },
+  {
+    "i": 26944,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 14,
+    "t": "Frente al mal está el bien, frente a la muerte, la vida. Así, frente al hombre piadoso, el pecador."
+  },
+  {
+    "i": 26945,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 15,
+    "t": "Contempla, pues, todas las obras del Altísimo, todas van por pares, en contraposición."
+  },
+  {
+    "i": 26946,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 16,
+    "t": "En cuanto a mí, último llegado, he velado como un rebuscador después de los vendimiadores."
+  },
+  {
+    "i": 26947,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 17,
+    "t": "Por la bendición del Señor llego el primero y como el vendimiador he llenado el lagar."
+  },
+  {
+    "i": 26948,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 18,
+    "t": "Reconoced que no he trabajado para mí solo, sino para todos aquellos que buscan la instrucción."
+  },
+  {
+    "i": 26949,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 19,
+    "t": "Escuchadme, pues, grandes del pueblo, presidentes de la asamblea, prestad oído."
+  },
+  {
+    "i": 26950,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 20,
+    "t": "A tu hijo, a tu mujer, a tu hermano, a tu amigo, no des poder sobre ti durante tu vida. No des a otro tus bienes, podrías lamentarlo y deberías reclamarlos."
+  },
+  {
+    "i": 26951,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 21,
+    "t": "Mientras vivas y te quede aliento, no te entregues al poder de quien sea."
+  },
+  {
+    "i": 26952,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 22,
+    "t": "Pues vale más que tus hijos te supliquen, antes que volver hacia ellos miradas suplicantes."
+  },
+  {
+    "i": 26953,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 23,
+    "t": "En todo lo que hagas, sigue siendo el amo, no hagas una mancha a tu reputación."
+  },
+  {
+    "i": 26954,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 24,
+    "t": "Cuando se consuman los días de tu vida, a la hora de la muerte, distribuye tu herencia."
+  },
+  {
+    "i": 26955,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 25,
+    "t": "Al asno, forraje, palo, cargas; al siervo, pan, castigo, trabajo."
+  },
+  {
+    "i": 26956,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 26,
+    "t": "Haz trabajar a tu esclavo, encontrarás el reposo; déjale las manos libres, buscará la libertad."
+  },
+  {
+    "i": 26957,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 27,
+    "t": "El yugo y la brida doblegan la cerviz, al mal siervo, la tortura y el interrogatorio."
+  },
+  {
+    "i": 26958,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 28,
+    "t": "Ponlo a trabajar para que no esté ocioso,"
+  },
+  {
+    "i": 26959,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 29,
+    "t": "pues la ociosidad enseña todas las malas artes."
+  },
+  {
+    "i": 26960,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 30,
+    "t": "Ponlo a la obra como le conviene y si no obedece, ponle grilletes. Pero no seas demasiado exigente con nadie, no hagas nada contrario a la justicia."
+  },
+  {
+    "i": 26961,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 31,
+    "t": "¿No tienes más que un esclavo? Que sea como tú mismo, puesto que lo has adquirido con sangre. ¿No tienes más que un esclavo? Trátalo como a un hermano, pues lo necesitas como a ti mismo."
+  },
+  {
+    "i": 26962,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 32,
+    "t": "Si lo maltratas y huye,"
+  },
+  {
+    "i": 26963,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 33,
+    "t": "¿por qué camino irás a buscarlo?"
+  },
+  {
+    "i": 26964,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 1,
+    "t": "Las esperanzas vanas y engañosas son para el insensato, y los sueños dan alas a los necios."
+  },
+  {
+    "i": 26965,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 2,
+    "t": "Es como agarrar una sombra y perseguir el viento el prestar atención a los sueños."
+  },
+  {
+    "i": 26966,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 3,
+    "t": "Espejo y sueños son cosas semejantes: frente a un rostro aparece su imagen."
+  },
+  {
+    "i": 26967,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 4,
+    "t": "De lo impuro, ¿qué se puede sacar de puro? De la mentira, ¿qué se puede sacar de verdad?"
+  },
+  {
+    "i": 26968,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 5,
+    "t": "Adivinación, augurios, sueños, puras vanidades, son desvaríos de mujer encinta."
+  },
+  {
+    "i": 26969,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 6,
+    "t": "A menos que sean enviados en visita del Altísimo, no apliques tu corazón a ellos."
+  },
+  {
+    "i": 26970,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 7,
+    "t": "Los sueños han extraviado a mucha gente, los que contaban con ellos han fracasado."
+  },
+  {
+    "i": 26971,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 8,
+    "t": "Sin mentira se cumple la Ley, y la sabiduría es perfecta en la sinceridad."
+  },
+  {
+    "i": 26972,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 9,
+    "t": "Mucho se ha aprendido cuando mucho se ha viajado, y un hombre de experiencia habla con inteligencia."
+  },
+  {
+    "i": 26973,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 10,
+    "t": "Quien no ha sido puesto a prueba conoce pocas cosas,"
+  },
+  {
+    "i": 26974,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 11,
+    "t": "pero quien ha viajado rebosa de saber hacer."
+  },
+  {
+    "i": 26975,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 12,
+    "t": "Mucho he visto en el curso de mis viajes y he comprendido más de lo que sabría decir."
+  },
+  {
+    "i": 26976,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 13,
+    "t": "Muchas veces he estado en peligro de muerte, y he sido salvado, he aquí de qué manera:"
+  },
+  {
+    "i": 26977,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 14,
+    "t": "Quienes temen al Señor, su espíritu vivirá,"
+  },
+  {
+    "i": 26978,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 15,
+    "t": "pues su esperanza se apoya en quien puede salvarlos."
+  },
+  {
+    "i": 26979,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 16,
+    "t": "Quien teme al Señor no teme nada, no tiembla, pues Dios es su esperanza."
+  },
+  {
+    "i": 26980,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 17,
+    "t": "Bienaventurada el alma que teme al Señor:"
+  },
+  {
+    "i": 26981,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 18,
+    "t": "¿en quién se apoya y quién es su sustento?"
+  },
+  {
+    "i": 26982,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 19,
+    "t": "Los ojos del Señor están sobre los que le aman, poderosa protección, apoyo lleno de fuerza, refugio contra el viento del desierto, sombra contra el ardor del mediodía, protección contra los obstáculos, seguridad contra las caídas."
+  },
+  {
+    "i": 26983,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 20,
+    "t": "Él eleva el alma, ilumina los ojos, da salud, vida y bendición."
+  },
+  {
+    "i": 26984,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 21,
+    "t": "Sacrificar un bien mal adquirido es mofa,"
+  },
+  {
+    "i": 26985,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 22,
+    "t": "los dones de los impíos no son agradables."
+  },
+  {
+    "i": 26986,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 23,
+    "t": "El Altísimo no acepta las ofrendas de los impíos, no es por la abundancia de las víctimas que perdona los pecados."
+  },
+  {
+    "i": 26987,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 24,
+    "t": "Es inmolar al hijo en presencia de su padre ofrecer un sacrificio con los bienes de los pobres."
+  },
+  {
+    "i": 26988,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 25,
+    "t": "Una magra comida es la vida de los pobres, privarlos de ella es cometer un asesinato."
+  },
+  {
+    "i": 26989,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 26,
+    "t": "Es matar a su prójimo quitarle la subsistencia,"
+  },
+  {
+    "i": 26990,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 27,
+    "t": "es derramar sangre privar al asalariado de su paga."
+  },
+  {
+    "i": 26991,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 28,
+    "t": "El uno edifica, el otro demuele; ¿qué sacan de ello sino pena?"
+  },
+  {
+    "i": 26992,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 29,
+    "t": "El uno bendice, el otro maldice: ¿de quién el Maestro escuchará la voz?"
+  },
+  {
+    "i": 26993,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 30,
+    "t": "Quien se purifica del contacto de un muerto y de nuevo lo toca, ¿de qué le sirve su ablución?"
+  },
+  {
+    "i": 26994,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 31,
+    "t": "Así el hombre que ayuna por sus pecados, luego se va y los comete otra vez; ¿quién escuchará su oración? ¿De qué le sirve humillarse?"
+  },
+  {
+    "i": 26995,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 1,
+    "t": "Observar la ley es multiplicar las ofrendas,"
+  },
+  {
+    "i": 26996,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 2,
+    "t": "adherirse a los preceptos es ofrecer sacrificios de comunión."
+  },
+  {
+    "i": 26997,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 3,
+    "t": "Mostrar caridad es hacer una oblación de flor de harina,"
+  },
+  {
+    "i": 26998,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 4,
+    "t": "hacer la limosna es ofrecer un sacrificio de alabanza."
+  },
+  {
+    "i": 26999,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 5,
+    "t": "Lo que place al Señor es que uno se aparte del mal, es ofrecer un sacrificio expiatorio huir de la injusticia."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 23300,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 3,
+    "t": "Y Baruc leyó las palabras de este libro ante Jeconías, hijo de Joacim, rey de Judá, y ante todo el pueblo que había venido para esta lectura,"
+  },
+  {
+    "i": 23301,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 4,
+    "t": "ante los dignatarios y los hijos del rey, ante los ancianos, en fin, ante todo el pueblo, pequeños y grandes, ante todos los que habitaban en Babilonia, a orillas del río Sud."
+  },
+  {
+    "i": 23302,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 5,
+    "t": "Se lloraba, se ayunaba y se oraba en presencia del Señor;"
+  },
+  {
+    "i": 23303,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 6,
+    "t": "también se recogió dinero, según las posibilidades de cada uno,"
+  },
+  {
+    "i": 23304,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 7,
+    "t": "y se lo envió a Jerusalén al sacerdote Joacim, hijo de Helcías, hijo de Salum, así como a los demás sacerdotes y a todo el pueblo que se encontraba con él en Jerusalén."
+  },
+  {
+    "i": 23305,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 8,
+    "t": "Ya era Baruc quien había recuperado, el décimo día de Siván, los utensilios de la casa del Señor, quitados del Templo, para devolverlos al país de Judá, utensilios de plata que había mandado fabricar Sedequías, hijo de Josías, rey de Judá,"
+  },
+  {
+    "i": 23306,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 9,
+    "t": "después de que Nabucodonosor, rey de Babilonia, hubo deportado de Jerusalén y llevado a Babilonia a Jeconías, con los príncipes, los cerrajeros, los notables y el común del pueblo."
+  },
+  {
+    "i": 23307,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 10,
+    "t": "Se escribió: He aquí, os enviamos dinero; con este dinero, comprad holocaustos, ofrendas por el pecado e incienso; preparad ofrendas y llevadlas al altar del Señor nuestro Dios."
+  },
+  {
+    "i": 23308,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 11,
+    "t": "Orad por la vida de Nabucodonosor, rey de Babilonia, y por la vida de Baltasar su hijo, que sus días sean sobre la tierra como los días del cielo;"
+  },
+  {
+    "i": 23309,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 12,
+    "t": "que el Señor nos dé fuerza e ilumine nuestros ojos, para que vivamos a la sombra de Nabucodonosor, rey de Babilonia, y a la sombra de Baltasar su hijo, les sirvamos largo tiempo y hallemos gracia en su presencia."
+  },
+  {
+    "i": 23310,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 13,
+    "t": "Orad también por nosotros al Señor nuestro Dios, pues le hemos ofendido y hasta hoy la furia y la cólera del Señor no se han apartado de nosotros."
+  },
+  {
+    "i": 23311,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 14,
+    "t": "Leed, en fin, este libro que os dirigimos para que lo hagáis la lectura pública, en la casa del Señor, en el día de la Fiesta y en los días que convengan."
+  },
+  {
+    "i": 23312,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 15,
+    "t": "Diréis: Al Señor nuestro Dios la justicia, pero para nosotros, la vergüenza en el rostro, como es hoy, para el hombre de Judá y los habitantes de Jerusalén,"
+  },
+  {
+    "i": 23313,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 16,
+    "t": "para nuestros reyes y nuestros príncipes, para nuestros sacerdotes y nuestros profetas, para nuestros padres,"
+  },
+  {
+    "i": 23314,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 17,
+    "t": "porque hemos pecado delante del Señor,"
+  },
+  {
+    "i": 23315,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 18,
+    "t": "le hemos desobedecido y no hemos escuchado la voz del Señor nuestro Dios, para andar según las órdenes que el Señor había puesto delante de nosotros."
+  },
+  {
+    "i": 23316,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 19,
+    "t": "Desde el día en que el Señor sacó a nuestros padres del país de Egipto hasta hoy, hemos sido indóciles al Señor nuestro Dios y nos hemos rebelado al no escuchar su voz."
+  },
+  {
+    "i": 23317,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 20,
+    "t": "Entonces se han apegado a nosotros las desgracias y la maldición que el Señor dictó a su siervo Moisés, el día en que sacó a nuestros padres de Egipto para darnos una tierra que mana leche y miel, como aún hoy."
+  },
+  {
+    "i": 23318,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 21,
+    "t": "No hemos escuchado la voz del Señor nuestro Dios, según todas las palabras de los profetas que nos envió;"
+  },
+  {
+    "i": 23319,
+    "b": 39,
+    "c": 4101,
+    "r": 4101,
+    "o": 22,
+    "t": "hemos ido, cada uno siguiendo la inclinación de su corazón malo, a servir a otros dioses, a hacer lo que desagrada al Señor nuestro Dios."
+  },
+  {
+    "i": 23320,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 1,
+    "t": "También el Señor ha cumplido la palabra que había pronunciado contra nosotros, contra nuestros jueces que gobernaron Israel, contra nuestros reyes y nuestros jefes, contra la gente de Israel y de Judá;"
+  },
+  {
+    "i": 23321,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 2,
+    "t": "bajo la inmensidad del cielo jamás se produjo nada semejante a lo que hizo en Jerusalén, según lo que estaba escrito en la Ley de Moisés:"
+  },
+  {
+    "i": 23322,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 3,
+    "t": "llegamos a comer cada uno la carne de su hijo, cada uno la carne de su hija."
+  },
+  {
+    "i": 23323,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 4,
+    "t": "Además, los ha puesto al poder de todos los reinos que nos rodean, para ser un oprobio y una execración entre todos los pueblos de alrededor adonde el Señor los dispersó."
+  },
+  {
+    "i": 23324,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 5,
+    "t": "Fueron subyugados en lugar de ser amos, porque habíamos ofendido al Señor nuestro Dios, al no escuchar su voz."
+  },
+  {
+    "i": 23325,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 6,
+    "t": "Al Señor nuestro Dios la justicia, pero para nosotros y para nuestros padres la vergüenza en el rostro, como es hoy."
+  },
+  {
+    "i": 23326,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 7,
+    "t": "Todas estas desgracias que el Señor había enunciado contra nosotros han venido sobre nosotros."
+  },
+  {
+    "i": 23327,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 8,
+    "t": "No hemos suplicado el rostro del Señor, cada uno de nosotros apartándose de los pensamientos de su corazón malo:"
+  },
+  {
+    "i": 23328,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 9,
+    "t": "entonces el Señor ha velado sobre estas desgracias y las ha traído sobre nosotros; pues el Señor es justo en todas las obras que nos ha ordenado,"
+  },
+  {
+    "i": 23329,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 10,
+    "t": "y no hemos escuchado su voz al andar según las órdenes que el Señor había puesto delante de nosotros."
+  },
+  {
+    "i": 23330,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 11,
+    "t": "Y ahora, Señor, Dios de Israel, tú que sacaste a tu pueblo del país de Egipto con mano fuerte, por señales y milagros, con gran potencia y brazo extendido, haciéndote de este modo un nombre como es hoy,"
+  },
+  {
+    "i": 23331,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 12,
+    "t": "hemos pecado, hemos sido impíos, hemos sido injustos, Señor nuestro Dios, por todos tus preceptos."
+  },
+  {
+    "i": 23332,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 13,
+    "t": "Que tu cólera se aparte de nosotros, puesto que no somos más que un pequeño resto entre las naciones adonde nos dispersaste."
+  },
+  {
+    "i": 23333,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 14,
+    "t": "Escucha, Señor, nuestra oración y nuestra súplica: líbranos a causa de ti mismo, y haznos hallar gracia ante aquellos que nos han deportado,"
+  },
+  {
+    "i": 23334,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 15,
+    "t": "a fin de que la tierra entera sepa que tú eres el Señor, nuestro Dios, puesto que Israel y su raza llevan tu Nombre."
+  },
+  {
+    "i": 23335,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 16,
+    "t": "Señor, mira desde tu morada santa, y piensa en nosotros, tiende el oído y escucha,"
+  },
+  {
+    "i": 23336,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 17,
+    "t": "abre los ojos, Señor, y ve; no son los muertos en el sheol, aquellos cuyo aliento fue quitado de las entrañas, quienes rinden gloria y justicia al Señor;"
+  },
+  {
+    "i": 23337,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 18,
+    "t": "sino el alma colmada de aflicción, aquel que camina encorvado y sin fuerza, los ojos desfallecientes y el alma hambrienta, ¡he ahí lo que te rinde gloria y justicia, Señor!"
+  },
+  {
+    "i": 23338,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 19,
+    "t": "No nos apoyamos en los méritos de nuestros padres y de nuestros reyes para depositar nuestra súplica ante tu faz, Señor nuestro Dios."
+  },
+  {
+    "i": 23339,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 20,
+    "t": "Porque has enviado sobre nosotros tu cólera y tu furor, como lo habías proclamado por el ministerio de tus siervos los profetas, en estos términos:"
+  },
+  {
+    "i": 23340,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 21,
+    "t": "\"Así habla el Señor: Inclinad vuestra cerviz y servid al rey de Babilonia; entonces, permaneceréis en el país que he dado a vuestros padres."
+  },
+  {
+    "i": 23341,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 22,
+    "t": "Pero si no escucháis la invitación del Señor a servir al rey de Babilonia,"
+  },
+  {
+    "i": 23342,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 23,
+    "t": "haré cesar, en las ciudades de Judá y en Jerusalén, el canto de alegría y el canto de júbilo, el canto del novio y el canto de la novia, y todo el país se convertirá en una desolación, sin habitantes."
+  },
+  {
+    "i": 23343,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 24,
+    "t": "Pero no hemos escuchado tu invitación a servir al rey de Babilonia, entonces has cumplido las palabras que habías pronunciado por el ministerio de tus siervos los profetas: que los huesos de nuestros reyes y los huesos de nuestros padres serían arrancados de su lugar."
+  },
+  {
+    "i": 23344,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 25,
+    "t": "He aquí que en efecto fueron arrojados afuera al calor del día y al frío de la noche. Y se murió en medio de terribles miserias, por el hambre, la espada y la peste."
+  },
+  {
+    "i": 23345,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 26,
+    "t": "Y has hecho de esta casa, que lleva tu Nombre, lo que es hoy, a causa de la maldad de la casa de Israel y de la casa de Judá."
+  },
+  {
+    "i": 23346,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 27,
+    "t": "Sin embargo, has actuado para con nosotros, Señor nuestro Dios, según toda tu indulgencia y tu inmensa ternura,"
+  },
+  {
+    "i": 23347,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 28,
+    "t": "como lo habías declarado por el ministerio de tu siervo Moisés, el día en que le ordenaste escribir tu Ley en presencia de los israelitas, en estos términos:"
+  },
+  {
+    "i": 23348,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 29,
+    "t": "\"Si no escucháis mi voz, esta inmensa e innumerable multitud misma será reducida a un pequeño número entre las naciones adonde los dispersaré,"
+  },
+  {
+    "i": 23349,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 30,
+    "t": "pues sé que no me escucharán; es un pueblo de dura cerviz. Pero en el país de su exilio, entrarán en sí mismos"
+  },
+  {
+    "i": 23350,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 31,
+    "t": "y conocerán que yo soy el Señor su Dios. Les daré un corazón y oídos que oigan."
+  },
+  {
+    "i": 23351,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 32,
+    "t": "Me alabarán en el país de su exilio, se acordarán de mi Nombre;"
+  },
+  {
+    "i": 23352,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 33,
+    "t": "ya no tendrán la cerviz dura y se apartarán de sus malas acciones, recordando el destino de sus padres que han pecado delante del Señor."
+  },
+  {
+    "i": 23353,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 34,
+    "t": "Entonces los traeré de vuelta al país que he prometido por juramento a sus padres Abraham, Isaac y Jacob, y allí serán amos. Los multiplicaré y ya no serán disminuidos."
+  },
+  {
+    "i": 23354,
+    "b": 39,
+    "c": 4102,
+    "r": 4102,
+    "o": 35,
+    "t": "Para ellos, estableceré una alianza eterna; seré su Dios y ellos serán mi pueblo. Y ya no rechazaré más a mi pueblo Israel del país que les he dado."
+  },
+  {
+    "i": 23355,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 1,
+    "t": "Señor todopoderoso, Dios de Israel, es un alma angustiada, un espíritu quebrantado, el que te grita:"
+  },
+  {
+    "i": 23356,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 2,
+    "t": "Escucha, Señor, ten piedad, porque hemos pecado delante de ti."
+  },
+  {
+    "i": 23357,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 3,
+    "t": "Tú, tú tronas eternamente; nosotros, nosotros perecemos para siempre."
+  },
+  {
+    "i": 23358,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 4,
+    "t": "Señor todopoderoso, Dios de Israel, escucha pues la súplica de los muertos de Israel, de los hijos de aquellos que han pecado contra ti, que no han escuchado la voz del Señor su Dios de suerte que las desgracias se han apegado a nosotros."
+  },
+  {
+    "i": 23359,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 5,
+    "t": "No te acuerdes de las faltas de nuestros padres, sino en esta hora acuérdate de tu mano y de tu Nombre."
+  },
+  {
+    "i": 23360,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 6,
+    "t": "Sí, tú eres el Señor nuestro Dios, y queremos alabarte, Señor."
+  },
+  {
+    "i": 23361,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 7,
+    "t": "Porque has puesto en nuestros corazones tu temor para que invoquemos tu Nombre. Queremos alabarte en nuestro exilio, puesto que hemos apartado de nuestro corazón toda la maldad de nuestros padres que han pecado delante de ti."
+  },
+  {
+    "i": 23362,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 8,
+    "t": "He aquí, hoy aún, en este exilio adonde nos has dispersado para ser un oprobio, una maldición, una condenación, después de todas las faltas de nuestros padres, que se habían alejado del Señor nuestro Dios."
+  },
+  {
+    "i": 23363,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 9,
+    "t": "Escucha, Israel, los preceptos de vida, tiende el oído para conocer la ciencia."
+  },
+  {
+    "i": 23364,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 10,
+    "t": "¿Por qué, Israel, por qué estás en el país de tus enemigos, envejeciendo en tierra extranjera,"
+  },
+  {
+    "i": 23365,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 11,
+    "t": "manchándote con los muertos, contado entre aquellos que van al sheol?"
+  },
+  {
+    "i": 23366,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 12,
+    "t": "¡Es que abandonaste la Fuente de la Sabiduría!"
+  },
+  {
+    "i": 23367,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 13,
+    "t": "Si hubieras caminado en la vía de Dios, habitarías en la paz para siempre."
+  },
+  {
+    "i": 23368,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 14,
+    "t": "Aprende dónde está la ciencia, dónde está la fuerza, dónde está la inteligencia, para conocer también dónde está la largura de días y la vida, dónde está la luz de los ojos y la paz."
+  },
+  {
+    "i": 23369,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 15,
+    "t": "Pero ¿quién ha descubierto su lugar, quién ha penetrado en sus tesoros?"
+  },
+  {
+    "i": 23370,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 16,
+    "t": "¿Dónde están los jefes de las naciones y los dominadores de las bestias de la tierra,"
+  },
+  {
+    "i": 23371,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 17,
+    "t": "aquellos que se juegan con los pájaros del cielo, aquellos que acumulan la plata y el oro sobre lo cual los hombres se apoyan, y cuyas posesiones no tienen fin,"
+  },
+  {
+    "i": 23372,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 18,
+    "t": "aquellos que trabajan la plata con gran cuidado - pero ¿sus obras no dejan huellas?"
+  },
+  {
+    "i": 23373,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 19,
+    "t": "¡Han desaparecido, descendidos al sheol! Otros en su lugar se han levantado,"
+  },
+  {
+    "i": 23374,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 20,
+    "t": "de más jóvenes han visto la luz y han habitado sobre la tierra: pero la vía del conocimiento, no la han conocido,"
+  },
+  {
+    "i": 23375,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 21,
+    "t": "no han comprendido sus senderos. Sus hijos tampoco la han captado, se han quedado lejos de su vía."
+  },
+  {
+    "i": 23376,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 22,
+    "t": "No se ha sabido nada de ella en Canaán, no se la ha apercibido en Temán;"
+  },
+  {
+    "i": 23377,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 23,
+    "t": "los hijos de Agar en busca de inteligencia aquí abajo, los mercaderes de Madián y de Tema, los dichos de parábolas y los buscadores de inteligencia no han conocido la vía de la sabiduría, no se han recordado sus senderos."
+  },
+  {
+    "i": 23378,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 24,
+    "t": "¡Qué grande es, Israel, la morada de Dios, qué extendido es el lugar de su dominio,"
+  },
+  {
+    "i": 23379,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 25,
+    "t": "grande y sin borde, alto e inmenso!"
+  },
+  {
+    "i": 23380,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 26,
+    "t": "Allí nacieron los gigantes, famosos desde el principio, altos de estatura, expertos en la guerra;"
+  },
+  {
+    "i": 23381,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 27,
+    "t": "de estos Dios no hizo elección, ni les mostró la senda del conocimiento;"
+  },
+  {
+    "i": 23382,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 28,
+    "t": "perecieron, pues no tenían ciencia, por su locura perecieron."
+  },
+  {
+    "i": 23383,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 29,
+    "t": "¿Quién subió al cielo para tomarla y hacerla descender de las nubes?"
+  },
+  {
+    "i": 23384,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 30,
+    "t": "¿Quién pasó el mar para descubrirla y traerla a cambio de oro muy puro?"
+  },
+  {
+    "i": 23385,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 31,
+    "t": "Nadie conoce su camino, nadie comprende su sendero."
+  },
+  {
+    "i": 23386,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 32,
+    "t": "Pero Aquel que todo lo sabe la conoce, la escudriñó con su inteligencia, Él que por la eternidad dispuso la tierra y la llenó de ganado,"
+  },
+  {
+    "i": 23387,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 33,
+    "t": "Él que envía la luz, y ella parte, que la llama, y ella obedece temblando;"
+  },
+  {
+    "i": 23388,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 34,
+    "t": "las estrellas brillan en su puesto, gozosas:"
+  },
+  {
+    "i": 23389,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 35,
+    "t": "¿Las llama Él? Ellas responden: ¡Heme aquí! Brillan con alegría para su Creador."
+  },
+  {
+    "i": 23390,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 36,
+    "t": "Él es nuestro Dios: ninguno otro se le compara."
+  },
+  {
+    "i": 23391,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 37,
+    "t": "Él ha allanado toda la senda del conocimiento y la ha mostrado a Jacob, su siervo, a Israel, su amado;"
+  },
+  {
+    "i": 23392,
+    "b": 39,
+    "c": 4103,
+    "r": 4103,
+    "o": 38,
+    "t": "luego apareció en la tierra y vivió entre los hombres."
+  },
+  {
+    "i": 23393,
+    "b": 39,
+    "c": 4104,
+    "r": 4104,
+    "o": 1,
+    "t": "Ella es el Libro de los preceptos de Dios, la Ley que subsiste eternamente: quien la guarda vivirá, quien la abandona morirá."
+  },
+  {
+    "i": 23394,
+    "b": 39,
+    "c": 4104,
+    "r": 4104,
+    "o": 2,
+    "t": "Regresa, Jacob, apoderáte de ella, camina hacia el esplendor, a su luz:"
+  },
+  {
+    "i": 23395,
+    "b": 39,
+    "c": 4104,
+    "r": 4104,
+    "o": 3,
+    "t": "no cedas a otro tu gloria, a un pueblo extranjero tus privilegios."
+  },
+  {
+    "i": 23396,
+    "b": 39,
+    "c": 4104,
+    "r": 4104,
+    "o": 4,
+    "t": "¡Dichosos somos, Israel: lo que agrada a Dios nos fue revelado!"
+  },
+  {
+    "i": 23397,
+    "b": 39,
+    "c": 4104,
+    "r": 4104,
+    "o": 5,
+    "t": "¡Animo, pueblo mío, memorial de Israel!"
+  },
+  {
+    "i": 23398,
+    "b": 39,
+    "c": 4104,
+    "r": 4104,
+    "o": 6,
+    "t": "Fuisteis vendidos a las naciones, pero no para la aniquilación. Habiendo excitado la cólera de Dios, fuisteis entregados a vuestros enemigos."
+  },
+  {
+    "i": 23399,
+    "b": 39,
+    "c": 4104,
+    "r": 4104,
+    "o": 7,
+    "t": "Porque habíais irritado a vuestro Creador sacrificando a demonios y no a Dios."
+  }
+]

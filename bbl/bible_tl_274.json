@@ -1,0 +1,424 @@
+[
+  { "i": 27400, "b": 45, "c": 4750, "r": 4750, "o": 6, "t": null },
+  { "i": 27401, "b": 45, "c": 4750, "r": 4750, "o": 7, "t": null },
+  { "i": 27402, "b": 45, "c": 4750, "r": 4750, "o": 8, "t": null },
+  { "i": 27403, "b": 45, "c": 4750, "r": 4750, "o": 9, "t": null },
+  { "i": 27404, "b": 45, "c": 4750, "r": 4750, "o": 10, "t": null },
+  { "i": 27405, "b": 45, "c": 4750, "r": 4750, "o": 11, "t": null },
+  { "i": 27406, "b": 45, "c": 4750, "r": 4750, "o": 12, "t": null },
+  { "i": 27407, "b": 45, "c": 4750, "r": 4750, "o": 13, "t": null },
+  { "i": 27408, "b": 45, "c": 4750, "r": 4750, "o": 14, "t": null },
+  { "i": 27409, "b": 45, "c": 4750, "r": 4750, "o": 15, "t": null },
+  { "i": 27410, "b": 45, "c": 4750, "r": 4750, "o": 16, "t": null },
+  { "i": 27411, "b": 45, "c": 4750, "r": 4750, "o": 17, "t": null },
+  { "i": 27412, "b": 45, "c": 4750, "r": 4750, "o": 18, "t": null },
+  { "i": 27413, "b": 45, "c": 4750, "r": 4750, "o": 19, "t": null },
+  { "i": 27414, "b": 45, "c": 4750, "r": 4750, "o": 20, "t": null },
+  { "i": 27415, "b": 45, "c": 4750, "r": 4750, "o": 21, "t": null },
+  { "i": 27416, "b": 45, "c": 4750, "r": 4750, "o": 22, "t": null },
+  { "i": 27417, "b": 45, "c": 4750, "r": 4750, "o": 23, "t": null },
+  { "i": 27418, "b": 45, "c": 4750, "r": 4750, "o": 24, "t": null },
+  { "i": 27419, "b": 45, "c": 4750, "r": 4750, "o": 25, "t": null },
+  { "i": 27420, "b": 45, "c": 4750, "r": 4750, "o": 26, "t": null },
+  { "i": 27421, "b": 45, "c": 4750, "r": 4750, "o": 27, "t": null },
+  { "i": 27422, "b": 45, "c": 4750, "r": 4750, "o": 28, "t": null },
+  { "i": 27423, "b": 45, "c": 4750, "r": 4750, "o": 29, "t": null },
+  { "i": 27424, "b": 45, "c": 4751, "r": 4751, "o": 1, "t": null },
+  { "i": 27425, "b": 45, "c": 4751, "r": 4751, "o": 2, "t": null },
+  { "i": 27426, "b": 45, "c": 4751, "r": 4751, "o": 3, "t": null },
+  { "i": 27427, "b": 45, "c": 4751, "r": 4751, "o": 4, "t": null },
+  { "i": 27428, "b": 45, "c": 4751, "r": 4751, "o": 5, "t": null },
+  { "i": 27429, "b": 45, "c": 4751, "r": 4751, "o": 6, "t": null },
+  { "i": 27430, "b": 45, "c": 4751, "r": 4751, "o": 7, "t": null },
+  { "i": 27431, "b": 45, "c": 4751, "r": 4751, "o": 8, "t": null },
+  { "i": 27432, "b": 45, "c": 4751, "r": 4751, "o": 9, "t": null },
+  { "i": 27433, "b": 45, "c": 4751, "r": 4751, "o": 10, "t": null },
+  { "i": 27434, "b": 45, "c": 4751, "r": 4751, "o": 11, "t": null },
+  { "i": 27435, "b": 45, "c": 4751, "r": 4751, "o": 12, "t": null },
+  { "i": 27436, "b": 45, "c": 4751, "r": 4751, "o": 13, "t": null },
+  { "i": 27437, "b": 45, "c": 4751, "r": 4751, "o": 14, "t": null },
+  { "i": 27438, "b": 45, "c": 4751, "r": 4751, "o": 15, "t": null },
+  { "i": 27439, "b": 45, "c": 4751, "r": 4751, "o": 16, "t": null },
+  { "i": 27440, "b": 45, "c": 4751, "r": 4751, "o": 17, "t": null },
+  { "i": 27441, "b": 45, "c": 4751, "r": 4751, "o": 18, "t": null },
+  { "i": 27442, "b": 45, "c": 4751, "r": 4751, "o": 19, "t": null },
+  { "i": 27443, "b": 45, "c": 4751, "r": 4751, "o": 20, "t": null },
+  { "i": 27444, "b": 45, "c": 4751, "r": 4751, "o": 21, "t": null },
+  { "i": 27445, "b": 45, "c": 4751, "r": 4751, "o": 22, "t": null },
+  { "i": 27446, "b": 45, "c": 4751, "r": 4751, "o": 23, "t": null },
+  { "i": 27447, "b": 45, "c": 4751, "r": 4751, "o": 24, "t": null },
+  { "i": 27448, "b": 45, "c": 4751, "r": 4751, "o": 25, "t": null },
+  { "i": 27449, "b": 45, "c": 4751, "r": 4751, "o": 26, "t": null },
+  { "i": 27450, "b": 45, "c": 4751, "r": 4751, "o": 27, "t": null },
+  { "i": 27451, "b": 45, "c": 4751, "r": 4751, "o": 28, "t": null },
+  { "i": 27452, "b": 45, "c": 4751, "r": 4751, "o": 29, "t": null },
+  { "i": 27453, "b": 45, "c": 4751, "r": 4751, "o": 30, "t": null },
+  {
+    "i": 27454,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 1,
+    "t": "Ang aklat ng lahi ni Jesucristo, na anak ni David, na anak ni Abraham."
+  },
+  {
+    "i": 27455,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 2,
+    "t": "Naging anak ni Abraham si Isaac; at naging anak ni Isaac si Jacob; at naging anak ni Jacob si Juda at ang kaniyang mga kapatid;"
+  },
+  {
+    "i": 27456,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 3,
+    "t": "At naging anak ni Juda kay Tamar si Fares at si Zara; at naging anak ni Fares si Esrom; at naging anak ni Esrom si Aram;"
+  },
+  {
+    "i": 27457,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 4,
+    "t": "At naging anak ni Aram si Aminadab; at naging anak ni Aminadab si Naason; at naging anak ni Naason si Salmon;"
+  },
+  {
+    "i": 27458,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 5,
+    "t": "At naging anak ni Salmon kay Rahab si Booz; at naging anak ni Booz kay Rut si Obed; at naging anak ni Obed si Jesse."
+  },
+  {
+    "i": 27459,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 6,
+    "t": "At naging anak ni Jesse ang haring si David; at naging anak ni David si Salomon, doon sa naging asawa ni Urias;"
+  },
+  {
+    "i": 27460,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 7,
+    "t": "At naging anak ni Salomon si Reboam; at naging anak ni Reboam si Abias; at naging anak ni Abias si Asa;"
+  },
+  {
+    "i": 27461,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 8,
+    "t": "At naging anak ni Asa si Josafat; at naging anak ni Josafat si Joram; at naging anak ni Joram si Ozias;"
+  },
+  {
+    "i": 27462,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 9,
+    "t": "At naging anak ni Ozias si Joatam; at naging anak ni Joatam si Acaz; at naging anak ni Acaz si Ezequias;"
+  },
+  {
+    "i": 27463,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 10,
+    "t": "At naging anak ni Ezequias si Manases; at naging anak ni Manases si Amon; at naging anak ni Amon si Josias;"
+  },
+  {
+    "i": 27464,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 11,
+    "t": "At naging anak ni Josias si Jeconias at ang kaniyang mga kapatid, nang panahon ng pagkadalang-bihag sa Babilonia."
+  },
+  {
+    "i": 27465,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 12,
+    "t": "At pagkatapos nang pagkadalangbihag sa Babilonia, ay naging anak ni Jeconias si Salatiel; at naging anak ni Salatiel si Zorobabel;"
+  },
+  {
+    "i": 27466,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 13,
+    "t": "At naging anak ni Zorobabel si Abiud; at naging anak ni Abiud si Eliaquim; at naging anak ni Eliaquim si Azor;"
+  },
+  {
+    "i": 27467,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 14,
+    "t": "At naging anak ni Azor si Sadoc; at naging anak ni Sadoc si Aquim; at naging anak ni Aquim si Eliud;"
+  },
+  {
+    "i": 27468,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 15,
+    "t": "At naging anak ni Eliud si Eleazar; at naging anak ni Eleazar si Matan; at naging anak ni Matan si Jacob;"
+  },
+  {
+    "i": 27469,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 16,
+    "t": "At naging anak ni Jacob si Jose asawa ni Maria, na siyang nanganak kay Jesus, na siyang tinatawag na Cristo."
+  },
+  {
+    "i": 27470,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 17,
+    "t": "Sa makatuwid ang lahat ng mga salit-saling lahi buhat kay Abraham hanggang kay David ay labingapat na salit-saling lahi; at buhat kay David hanggang sa pagdalang-bihag sa Babilonia ay labingapat na sali't-saling lahi; at buhat sa pagkadalang-bihag sa Babilonia hanggang kay Cristo ay labingapat na sali't-saling lahi."
+  },
+  {
+    "i": 27471,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 18,
+    "t": "Ang pagkapanganak nga kay Jesucristo ay ganito: Nang si Maria na kaniyang ina ay magaasawa kay Jose, bago sila magsama ay nasumpungang siya'y nagdadalang-tao sa pamamagitan ng Espiritu Santo."
+  },
+  {
+    "i": 27472,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 19,
+    "t": "At si Jose na kaniyang asawa, palibhasa'y lalaking matuwid, at ayaw na ihayag sa madla ang kaniyang kapurihan, ay nagpasiyang hiwalayan siya ng lihim."
+  },
+  {
+    "i": 27473,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 20,
+    "t": "Datapuwa't samantalang pinagiisip niya ito, narito, ang isang anghel ng Panginoon ay napakita sa kaniya sa panaginip, na nagsasabi: Jose, anak ni David, huwag kang mangamba sa pagtanggap kay Maria na iyong asawa: sapagka't ang kaniyang dinadalang-tao ay sa Espiritu Santo."
+  },
+  {
+    "i": 27474,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 21,
+    "t": "At siya'y manganganak ng isang lalake; at ang pangalang itatawag mo sa kaniya'y JESUS; sapagka't ililigtas niya ang kaniyang bayan sa kanilang mga kasalanan."
+  },
+  {
+    "i": 27475,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 22,
+    "t": "At nangyari nga ang lahat ng ito, upang maganap ang sinalita ng Panginoon sa pamamagitan ng propeta, na nagsasabi,"
+  },
+  {
+    "i": 27476,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 23,
+    "t": "Narito, ang dalaga'y magdadalang-tao at manganganak ng isang lalake, At ang pangalang itatawag nila sa kaniya ay Emmanuel; na kung liliwanagin, ay sumasa atin ang Dios."
+  },
+  {
+    "i": 27477,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 24,
+    "t": "At nagbangon si Jose sa kaniyang pagkakatulog, at ginawa niya ang ayon sa ipinagutos sa kaniya ng anghel ng Panginoon, at tinanggap ang kaniyang asawa;"
+  },
+  {
+    "i": 27478,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 25,
+    "t": "At hindi nakilala siya hanggang sa maipanganak ang isang lalake: at tinawag niya ang kaniyang pangalang JESUS."
+  },
+  {
+    "i": 27479,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 1,
+    "t": "Nang ipanganak nga si Jesus sa Bet-lehem ng Judea sa mga kaarawan ng haring si Herodes, narito, ang mga Pantas na lalake ay nagsidating sa Jerusalem mula sa silanganan, na nagsisipagsabi,"
+  },
+  {
+    "i": 27480,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 2,
+    "t": "Saan naroon ang ipinanganak na hari ng mga Judio? sapagka't aming nakita ang kaniyang bituin sa silanganan, at naparito kami upang siya'y sambahin."
+  },
+  {
+    "i": 27481,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 3,
+    "t": "Nang marinig ito ng haring si Herodes, ay nagulumihanan siya, at pati ng buong Jerusalem."
+  },
+  {
+    "i": 27482,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 4,
+    "t": "At pagkatipon sa lahat ng mga pangulong saserdote at mga eskriba ng bayan, ay siniyasat niya sa kanila kung saan kaya ipanganganak ang Cristo."
+  },
+  {
+    "i": 27483,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 5,
+    "t": "At sinabi nila sa kaniya, sa Bet-lehem ng Judea: sapagka't ganito ang pagkasulat ng propeta,"
+  },
+  {
+    "i": 27484,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 6,
+    "t": "At ikaw Bet-lehem, na lupa ng Juda, Sa anomang paraan ay hindi ikaw ang pinakamaliit sa mga pangulong bayan ng Juda: Sapagka't mula sa iyo'y lalabas ang isang gobernador, Na siyang magiging pastor ng aking bayang Israel."
+  },
+  {
+    "i": 27485,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 7,
+    "t": "Nang magkagayo'y tinawag ni Herodes ng lihim ang mga Pantas na lalake, at kaniyang siniyasat ng buong ingat sa kanila ang panahong isinilang ng bituin."
+  },
+  {
+    "i": 27486,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 8,
+    "t": "At pinayaon niya sila sa Bet-lehem, at sinabi, Kayo'y magsiparoon at ipagtanong ng buong ingat ang tungkol sa sanggol; at pagkasumpong ninyo sa kaniya, ay ipagbigay-alam ninyo sa akin, upang ako nama'y makaparoon at siya'y aking sambahin."
+  },
+  {
+    "i": 27487,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 9,
+    "t": "At sila, pagkarinig sa hari ay nagsiyaon ng kanilang lakad; at narito, ang bituing kanilang nakita sa silanganan, ay nanguna sa kanila hanggang sa sumapit at tumigil sa tapat ng kinaroroonan ng sanggol."
+  },
+  {
+    "i": 27488,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 10,
+    "t": "At nang makita nila ang bituin, ay nangagalak sila ng di kawasang galak."
+  },
+  {
+    "i": 27489,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 11,
+    "t": "At nagsipasok sila sa bahay, at nangakita nila ang sanggol na kasama ng kaniyang inang si Maria; at nangagpatirapa sila at nangagsisamba sa kaniya; at pagkabukas nila ng kanilang mga kayamanan ay inihandog nila sa kaniya ang mga alay, na ginto at kamangyan at mira."
+  },
+  {
+    "i": 27490,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 12,
+    "t": "At palibhasa'y pinagsabihan sila ng Dios sa panaginip na huwag silang mangagbalik kay Herodes, ay nangagsiuwi sila sa kanilang sariling lupain sa ibang daan."
+  },
+  {
+    "i": 27491,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 13,
+    "t": "Nang mangakaalis nga sila, narito, ang isang anghel ng Panginoon ay napakita kay Jose sa panaginip, na nagsasabi, Magbangon ka at dalhin mo ang sanggol at ang kaniyang ina, at tumakas ka hanggang sa Egipto, at dumoon ka hanggang sa sabihin ko sa iyo: sapagka't hahanapin ni Herodes ang sanggol upang siya'y puksain."
+  },
+  {
+    "i": 27492,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 14,
+    "t": "At siya'y nagbangon at dinala ang sanggol at ang ina nito sa kinagabihan, at napasa Egipto;"
+  },
+  {
+    "i": 27493,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 15,
+    "t": "At dumoon hanggang sa pagkamatay ni Herodes: upang maganap ang sinabi ng Panginoon sa pamamagitan ng propeta, na nagsasabi, Mula sa Egipto ay tinawag ko ang aking anak."
+  },
+  {
+    "i": 27494,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 16,
+    "t": "Nang magkagayon, nang mapansin ni Herodes na siya'y pinaglaruan ng mga Pantas na lalake, ay nagalit na mainam, at nagutos, at ipinapatay ang lahat ng mga sanggol na lalake na nangasa Bet-lehem, at sa buong palibotlibot noon, mula sa gulang na dalawang taon hanggang sa pababa, alinsunod sa panahon ng kaniyang maingat na pagkasiyasat sa mga Pantas na lalake."
+  },
+  {
+    "i": 27495,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 17,
+    "t": "Nang magkagayo'y naganap ang sinalita sa pamamagitan ng propeta Jeremias, na nagsasabi,"
+  },
+  {
+    "i": 27496,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 18,
+    "t": "Isang tinig ay narinig sa Rama, Pananangis at kalagimlagim na iyak, Tinatangisan ni Raquel ang kaniyang mga anak; At ayaw na siyang maaliw, sapagka't sila'y wala na."
+  },
+  {
+    "i": 27497,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 19,
+    "t": "Nguni't pagkamatay ni Herodes, narito, ang isang anghel ng Panginoon ay napakita sa panaginip kay Jose sa Egipto, na nagsasabi,"
+  },
+  {
+    "i": 27498,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 20,
+    "t": "Magbangon ka at dalhin mo ang sanggol at ang kaniyang ina, at pumatungo ka sa lupain ng Israel: sapagka't nangamatay na ang nangagmimithi sa buhay ng sanggol."
+  },
+  {
+    "i": 27499,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 21,
+    "t": "At nagbangon siya at dinala ang sanggol at ang kaniyang ina, at pumatungo sa lupa ng Israel."
+  }
+]

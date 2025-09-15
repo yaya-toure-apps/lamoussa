@@ -1,0 +1,802 @@
+[
+  {
+    "i": 27100,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 20,
+    "t": "Neoddávaj srdce svoje žiaľu, ale ho odvrhni. Pamätaj na svoj koniec."
+  },
+  {
+    "i": 27101,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 21,
+    "t": "Nezabúdaj: niet návratu, nebudeš osožný mŕtvemu a urobíš si zle."
+  },
+  {
+    "i": 27102,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 22,
+    "t": "„Pamätaj na môj rozsudok, ktorý bude aj tvoj: Ja včera, ty dnes!“"
+  },
+  {
+    "i": 27103,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 23,
+    "t": "Akonáhle mŕtvy odpočíva, nechaj odpočívať jeho pamiatku, poteš sa z neho, akonáhle jeho duch odišiel."
+  },
+  {
+    "i": 27104,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 24,
+    "t": "Múdrosť pisára sa získava v časoch voľna a ten, kto je slobodný od záležitostí, zmúdrie."
+  },
+  {
+    "i": 27105,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 25,
+    "t": "Ako by zmúdrel ten, čo drží pluh, ktorého celá sláva je v mávaní ostňom, ktorý vedie voly a neopúšťa ich pri práci a ktorý hovorí iba o dobytku?"
+  },
+  {
+    "i": 27106,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 26,
+    "t": "Jeho srdce je zaujaté brázdami, ktoré kreslí, a jeho nočné stráže sa míňajú pri vykrmovaní jalovíc."
+  },
+  {
+    "i": 27107,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 27,
+    "t": "Podobne všetci robotníci a remeselníci, ktorí pracujú dňom i nocou, tí, ktorí sa zaoberajú vyrezávaním pečatí a usilujú sa o rozmanitosť ich vzorov; majú na srdci dobre reprodukovať model a bdejú, aby dokončili svoje dielo."
+  },
+  {
+    "i": 27108,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 28,
+    "t": "Podobne kováč, sediaci blízko nákovy: sleduje prácu železa; výpary ohňa mu zožierajú telo, v horúčave pece sa namáha; hluk kladiva ho ohlušuje, oči má upreté na svoj model; vkladá celé srdce do dobrej práce a trávi nočné stráže, aby ju zdokonalil."
+  },
+  {
+    "i": 27109,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 29,
+    "t": "Podobne hrnčiar, sediaci pri svojej práci, nohami rozhýbava svoj kruh, neustále znepokojený svojou prácou, každý jeho pohyb je spočítaný;"
+  },
+  {
+    "i": 27110,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 30,
+    "t": "rukou hnetie hlinu, nohami ju núti; vkladá srdce do dobrej aplikácie glazúry a počas nočných stráží čistí ohnisko."
+  },
+  {
+    "i": 27111,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 31,
+    "t": "Všetci títo ľudia vložili svoju dôveru do svojich rúk a každý je zručný vo svojom remesle."
+  },
+  {
+    "i": 27112,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 32,
+    "t": "Bez nich by sa nemohlo postaviť žiadne mesto, nemohlo by sa ani usadiť, ani cestovať. Ale nesnažíme sa ich mať v rade ľudu"
+  },
+  {
+    "i": 27113,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 33,
+    "t": "a na zhromaždení nemajú vysoké postavenie. Neobsadzujú sudcovské kreslo a nerozmýšľajú o zákone. Nevynikajú ani svojou kultúrou, ani svojím úsudkom, nenachádzajú sa, že by sa zaoberali prísloviami."
+  },
+  {
+    "i": 27114,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 34,
+    "t": "Ale zabezpečujú večné stvorenie a ich modlitba má za cieľ záležitosti ich remesla. Inak je to s tým, kto upiera svoju dušu a svoje rozjímanie na zákon Najvyššieho."
+  },
+  {
+    "i": 27115,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 1,
+    "t": "Skúma múdrosť všetkých starých, venuje svoj voľný čas proroctvám."
+  },
+  {
+    "i": 27116,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 2,
+    "t": "Zachováva príbehy slávnych mužov, preniká do zákutí podobenstiev."
+  },
+  {
+    "i": 27117,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 3,
+    "t": "Hľadá skrytý význam prísloví, zaľubuje sa v tajomstvách podobenstiev."
+  },
+  {
+    "i": 27118,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 4,
+    "t": "Slúži medzi velikánmi, všimnú si ho v prítomnosti vodcov. Cestuje po cudzích krajinách, zažil dobro i zlo medzi ľuďmi."
+  },
+  {
+    "i": 27119,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 5,
+    "t": "Od rána sa celým srdcom obracia k Pánovi, svojmu stvoriteľovi; prosí v prítomnosti Najvyššieho, otvára ústa k modlitbe, prosí za svoje vlastné hriechy."
+  },
+  {
+    "i": 27120,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 6,
+    "t": "Ak je to vôľa veľkého Pána, bude naplnený duchom inteligencie. Sám rozsype svoje slová múdrosti, vo svojej modlitbe vzdá vďaky Pánovi."
+  },
+  {
+    "i": 27121,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 7,
+    "t": "Získa spravodlivosť úsudku a poznania, bude meditovať o svojich skrytých tajomstvách."
+  },
+  {
+    "i": 27122,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 8,
+    "t": "Ukáže poučenie, ktoré dostal, a vloží svoju pýchu do zákona zmluvy Pána."
+  },
+  {
+    "i": 27123,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 9,
+    "t": "Mnohí budú chváliť jeho inteligenciu a nikdy sa na neho nezabudne. Jeho pamiatka sa nevymaže, jeho meno bude žiť z generácie na generáciu."
+  },
+  {
+    "i": 27124,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 10,
+    "t": "Národy budú hlásať jeho múdrosť a zhromaždenie bude oslavovať jeho chválu."
+  },
+  {
+    "i": 27125,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 11,
+    "t": "Ak bude žiť dlho, jeho meno bude slávnejšie ako tisíc iných, a ak zomrie, bude mu to stačiť."
+  },
+  {
+    "i": 27126,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 12,
+    "t": "Chcem sa ešte podeliť o svoje myšlienky, ktorými som naplnený ako mesiac v splne."
+  },
+  {
+    "i": 27127,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 13,
+    "t": "Počúvajte ma, moje zbožné deti, a raste ako ruža zasadená na brehu vodného toku."
+  },
+  {
+    "i": 27128,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 14,
+    "t": "Ako kadidlo šírte dobrú vôňu, kvitnite ako ľalia, dajte svoju vôňu, spievajte pieseň, požehnávajte Pána za všetky jeho diela."
+  },
+  {
+    "i": 27129,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 15,
+    "t": "Velebte jeho meno, zvestujte jeho chvály, svojimi piesňami, na svojich citarách, a poviete na jeho chválu:"
+  },
+  {
+    "i": 27130,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 16,
+    "t": "Aké nádherné sú všetky diela Pána! Všetky jeho príkazy sa vykonávajú presne."
+  },
+  {
+    "i": 27131,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 17,
+    "t": "Netreba hovoriť: Čo je to? Prečo je to tak? Všetko treba študovať v jeho čase. Na jeho slovo sa voda zastaví a zhromaždí, na jeho hlas sa tvoria nádrže vôd,"
+  },
+  {
+    "i": 27132,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 18,
+    "t": "na jeho rozkaz sa splní všetko, čo si želá, niet nikoho, kto by zastavil jeho gesto spásy."
+  },
+  {
+    "i": 27133,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 19,
+    "t": "Všetky diela ľudí sú pred ním, nie je možné uniknúť jeho pohľadu;"
+  },
+  {
+    "i": 27134,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 20,
+    "t": "jeho pohľad siaha od večnosti do večnosti, nič nie je v jeho očiach mimoriadne."
+  },
+  {
+    "i": 27135,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 21,
+    "t": "Netreba hovoriť: Čo je to? Prečo je to tak? Lebo všetko bolo stvorené pre cieľ."
+  },
+  {
+    "i": 27136,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 22,
+    "t": "Tak ako jeho požehnanie všetko pokrylo ako rieka a napojilo zem ako potopa,"
+  },
+  {
+    "i": 27137,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 23,
+    "t": "tak aj národom dáva svoj hnev do podielu, tak premenil vody na soľ."
+  },
+  {
+    "i": 27138,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 24,
+    "t": "Ak sú jeho cesty zjednotené pre zbožných, pre zlých sú plné prekážok."
+  },
+  {
+    "i": 27139,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 25,
+    "t": "Dobrá boli stvorené pre dobrých od počiatku a rovnako pre zlých zlá."
+  },
+  {
+    "i": 27140,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 26,
+    "t": "To, čo je najnutnejšie pre život človeka, je voda, oheň, železo a soľ, pšeničná múka, mlieko a med, šťava z hrozna, olej a odev."
+  },
+  {
+    "i": 27141,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 27,
+    "t": "Toto všetko je dobro pre dobrých, ale pre hriešnikov sa to stáva zlom."
+  },
+  {
+    "i": 27142,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 28,
+    "t": "Existujú vetry stvorené na trest a vo svojej zúrivosti posilňujú svoje pohromy, v hodine zničenia rozpútajú svoje násilie a uspokojujú zúrivosť svojho Stvoriteľa."
+  },
+  {
+    "i": 27143,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 29,
+    "t": "Oheň, krupobitie, hlad a smrť, toto všetko bolo stvorené na trest."
+  },
+  {
+    "i": 27144,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 30,
+    "t": "Zuby šeliem, škorpióny a zmije, pomstivý meč na skazu bezbožných,"
+  },
+  {
+    "i": 27145,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 31,
+    "t": "všetci sa s radosťou plnia jeho príkazy, sú na zemi pripravení pre prípad potreby, v pravý čas neporušia jeho slovo."
+  },
+  {
+    "i": 27146,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 32,
+    "t": "Preto som sa od začiatku rozhodol, premýšľal som a napísal som:"
+  },
+  {
+    "i": 27147,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 33,
+    "t": "„Diela Pána sú všetky dobré, dáva svoju priazeň tomu, kto ju potrebuje, v pravý čas."
+  },
+  {
+    "i": 27148,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 34,
+    "t": "Netreba hovoriť: „Toto je horšie ako toto!“ lebo všetko bude v svojom čase uznané za dobré."
+  },
+  {
+    "i": 27149,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 35,
+    "t": "A teraz celým srdcom, plnými ústami, spievajte a požehnávajte meno Pána!“"
+  },
+  {
+    "i": 27150,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 1,
+    "t": "Ťažký osud bol daný všetkým ľuďom, ťažké jarmo dolieha na synov Adamových, odo dňa, keď vychádzajú z lona matky, až do dňa ich návratu k univerzálnej matke."
+  },
+  {
+    "i": 27151,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 2,
+    "t": "Predmetom ich úvah, strachom ich srdca, je úzkostlivé očakávanie dňa ich smrti."
+  },
+  {
+    "i": 27152,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 3,
+    "t": "Od toho, ktorý sedí na tróne v sláve, až po úbožiaka sediaceho na zemi a v popole,"
+  },
+  {
+    "i": 27153,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 4,
+    "t": "od toho, ktorý nosí purpur a korunu, až po toho, ktorý je odiaty do hrubej látky, je to len zúrivosť, závisť, nepokoj, úzkosť, strach zo smrti, rivalita a spory."
+  },
+  {
+    "i": 27154,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 5,
+    "t": "A v hodine, keď ležíme a odpočívame, nočný spánok len obmieňa starosti:"
+  },
+  {
+    "i": 27155,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 6,
+    "t": "len čo sme našli odpočinok, hneď sme, spiac, ako za bieleho dňa, znepokojení nočnými morami, ako utečenec, ktorý unikol z boja."
+  },
+  {
+    "i": 27156,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 7,
+    "t": "V okamihu vyslobodenia sa prebudíme, veľmi prekvapení, že jeho strach je márny."
+  },
+  {
+    "i": 27157,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 8,
+    "t": "Pre každé telo, od človeka po zviera, ale pre hriešnikov sedemnásobne,"
+  },
+  {
+    "i": 27158,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 9,
+    "t": "smrť, krv, hádka a meč, nešťastia, hlad, súženie, pohroma!"
+  },
+  {
+    "i": 27159,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 10,
+    "t": "Toto všetko bolo stvorené pre hriešnikov a kvôli nim prišla potopa."
+  },
+  {
+    "i": 27160,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 11,
+    "t": "Všetko, čo pochádza zo zeme, sa vracia do zeme a to, čo pochádza z vody, sa vracia do mora."
+  },
+  {
+    "i": 27161,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 12,
+    "t": "Úplatky a nespravodlivosti zmiznú, ale dobrá viera bude trvať večne."
+  },
+  {
+    "i": 27162,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 13,
+    "t": "Nečestne nadobudnuté bohatstvo sa vyparí ako potok, ako úder hromu, ktorý sa ozve počas dažďa."
+  },
+  {
+    "i": 27163,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 14,
+    "t": "Keď otvorí ruky, raduje sa, tak pôjdu hriešnici do záhuby."
+  },
+  {
+    "i": 27164,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 15,
+    "t": "Potomstvo bezbožných je chudobné na vetvy, nečisté korene nachádzajú len strmú skalu."
+  },
+  {
+    "i": 27165,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 16,
+    "t": "Trstina, ktorá hojne rastie na všetkých vodách a na brehoch riek, bude vytrhnutá ako prvá."
+  },
+  {
+    "i": 27166,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 17,
+    "t": "Charita je ako raj požehnania a almužna zostáva naveky."
+  },
+  {
+    "i": 27167,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 18,
+    "t": "Nezávislý muž a pracovník majú sladký život; ešte lepšie na tom je ten, kto nájde poklad."
+  },
+  {
+    "i": 27168,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 19,
+    "t": "Deti a založené mesto zachovávajú meno; ešte lepšie si ceníme ženu bez úhony."
+  },
+  {
+    "i": 27169,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 20,
+    "t": "Víno a umenie vnášajú radosť do srdca; ešte lepšie láska k múdrosti."
+  },
+  {
+    "i": 27170,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 21,
+    "t": "Flauta a citara spríjemňujú spev; ešte lepšie melodický hlas."
+  },
+  {
+    "i": 27171,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 22,
+    "t": "Milosť a krása, oko ich túži, ešte lepšie zeleň polí."
+  },
+  {
+    "i": 27172,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 23,
+    "t": "Priateľ a kamarát sa stretnú v správny čas; ešte lepšie žena a muž."
+  },
+  {
+    "i": 27173,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 24,
+    "t": "Bratia a ochrancovia sú užitoční v zlých časoch; ešte lepšie almužna pomôže z problémov."
+  },
+  {
+    "i": 27174,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 25,
+    "t": "Zlato a striebro robia krok pevným; ešte lepšie si ceníme radu."
+  },
+  {
+    "i": 27175,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 26,
+    "t": "Bohatstvo a sila dávajú isté srdce; ešte lepšie bázeň pred Pánom. S bázňou pred Pánom nič nechýba; s ňou netreba hľadať oporu."
+  },
+  {
+    "i": 27176,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 27,
+    "t": "Bázeň pred Pánom je raj požehnania; lepšie ako všetka sláva chráni."
+  },
+  {
+    "i": 27177,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 28,
+    "t": "Syn môj, neživ sa žobraním, lepšie zomrieť ako žobrať."
+  },
+  {
+    "i": 27178,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 29,
+    "t": "Človek, ktorý poškuľuje na stôl iného, jeho život nemožno považovať za život. Znečisťuje si hrdlo cudzími potravinami, vzdelaný a dobre vychovaný človek sa toho bude strážiť."
+  },
+  {
+    "i": 27179,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 30,
+    "t": "V ústach nestydatého je žobranie sladké, ale v jeho útrobách je to horiaci oheň."
+  },
+  {
+    "i": 27180,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 1,
+    "t": "Ó, smrti, aká trpkosť je tvoja myšlienka pre človeka, ktorý šťastne žije a uprostred svojho majetku, pre človeka pokojného, ktorému sa všetko darí a ktorý ešte môže okúsiť pokrm!"
+  },
+  {
+    "i": 27181,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 2,
+    "t": "Ó, smrti, tvoj ortieľ je vítaný pre človeka úbohého a zbaveného sily, pre starca zmoreného, sužovaného starosťami, rozhorčeného a na konci trpezlivosti!"
+  },
+  {
+    "i": 27182,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 3,
+    "t": "Neboj sa rozsudku smrti, pamätaj na tých pred tebou i na tých po tebe."
+  },
+  {
+    "i": 27183,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 4,
+    "t": "To je zákon, ktorý Pán vydal pre každé telo; prečo sa búriť proti dobrej vôli Najvyššieho? Či žiješ desať rokov, sto rokov, tisíc rokov, v šeole ti nebudú vyčítať tvoj život."
+  },
+  {
+    "i": 27184,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 5,
+    "t": "Zlí výtržníci, takí sú synovia hriešnikov, tí, ktorí sa potulujú po domoch bezbožných."
+  },
+  {
+    "i": 27185,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 6,
+    "t": "Dedičstvo synov hriešnikov speje k záhube, ich potomstvo je predmetom ustavičnej výčitky."
+  },
+  {
+    "i": 27186,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 7,
+    "t": "Bezbožný otec je urážaný svojimi deťmi, lebo od neho pochádza ich zneuctenie."
+  },
+  {
+    "i": 27187,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 8,
+    "t": "Beda vám, bezbožní, ktorí ste opustili zákon Boha Najvyššieho!"
+  },
+  {
+    "i": 27188,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 9,
+    "t": "Ak sa rozmnožujete, je to na zatratenie: Ak ste splodení, budete na prekliatie; a ak zomriete, prekliatie bude vaším podielom."
+  },
+  {
+    "i": 27189,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 10,
+    "t": "Všetko, čo pochádza zo zeme, sa vracia do zeme, tak idú bezbožní od prekliatia k záhube."
+  },
+  {
+    "i": 27190,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 11,
+    "t": "Žiaľ ľudí sa týka ich pozostatkov, ale preklínané meno hriešnikov zaniká."
+  },
+  {
+    "i": 27191,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 12,
+    "t": "Dbaj o svoje meno, lebo ti zostane lepšie než tisíce bohatstiev zo zlata."
+  },
+  {
+    "i": 27192,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 13,
+    "t": "Šťastný život trvá určitý počet dní, ale meno v úcte zostáva naveky."
+  },
+  {
+    "i": 27193,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 14,
+    "t": "Deti moje, zachovajte v pokoji moje pokyny. Múdrosť skrytá a poklad neviditeľný, na čo sú užitočné jedno i druhé?"
+  },
+  {
+    "i": 27194,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 15,
+    "t": "Lepší je človek, ktorý skrýva svoju hlúposť, než človek, ktorý skrýva svoju múdrosť."
+  },
+  {
+    "i": 27195,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 16,
+    "t": "Takže pociťujte hanbu podľa toho, čo poviem, lebo nie je dobré podriaďovať sa každému druhu hanby a nie všetko je presne oceňované všetkými."
+  },
+  {
+    "i": 27196,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 17,
+    "t": "Hanbite sa za nemravnosť pred otcom a matkou a za klamstvo pred vodcom a mocným;"
+  },
+  {
+    "i": 27197,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 18,
+    "t": "za priestupok pred sudcom a úradníkom a za bezbožnosť pred zhromaždením ľudu; za zradu pred spoločníkom alebo priateľom"
+  },
+  {
+    "i": 27198,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 19,
+    "t": "a za krádež pred svojou obcou; za pravdu Božiu a zmluvu, za lakte na stole, za urážku pri prijímaní alebo dávaní,"
+  },
+  {
+    "i": 27199,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 20,
+    "t": "za to, že zostávate bez odpovede pred tými, ktorí vás pozdravujú, za to, že zastavujete svoj pohľad na prostitútke,"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26200,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 29,
+    "t": "Sus grillos te serán una poderosa defensa, y sus collares, una vestidura preciosa."
+  },
+  {
+    "i": 26201,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 30,
+    "t": "Su yugo será ornamento de oro, y sus ataduras, cintas de púrpura."
+  },
+  {
+    "i": 26202,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 31,
+    "t": "Como vestido de honor la vestirás, y como diadema de alegría la ceñirás."
+  },
+  {
+    "i": 26203,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 32,
+    "t": "Si quieres, hijo mío, serás instruido, y si aplicas tu alma, serás hábil."
+  },
+  {
+    "i": 26204,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 33,
+    "t": "Si amas escuchar, aprenderás; y si inclinas tu oído, serás sabio."
+  },
+  {
+    "i": 26205,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 34,
+    "t": "Ponte en medio de la multitud de los ancianos, y si ves a alguno sabio, júntate con él."
+  },
+  {
+    "i": 26206,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 35,
+    "t": "Escucha con gusto toda palabra que venga de Dios, y que no se te escapen los proverbios sutiles."
+  },
+  {
+    "i": 26207,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 36,
+    "t": "Si ves a un hombre sensato, madruga para ir a él, y que tus pies desgasten el umbral de su puerta."
+  },
+  {
+    "i": 26208,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 37,
+    "t": "Medita en los mandamientos del Señor, y ocúpate sin cesar en sus preceptos; Él fortalecerá tu corazón, y la sabiduría que deseas te será dada."
+  },
+  {
+    "i": 26209,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 1,
+    "t": "No hagas el mal, y el mal no te dominará;"
+  },
+  {
+    "i": 26210,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 2,
+    "t": "apártate de la injusticia, y ella se apartará de ti."
+  },
+  {
+    "i": 26211,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 3,
+    "t": "Hijo mío, no siembres en los surcos de injusticia, no sea que coseches siete veces más."
+  },
+  {
+    "i": 26212,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 4,
+    "t": "No pidas al Señor la primera silla, ni al rey un asiento glorioso."
+  },
+  {
+    "i": 26213,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 5,
+    "t": "No te justifiques delante del Señor, ni te hagas el sabio delante del rey."
+  },
+  {
+    "i": 26214,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 6,
+    "t": "No demandes ser juez, si no tienes fuerza para extirpar la injusticia, no sea que temas el rostro del poderoso, y pongas tropiezo a tu rectitud."
+  },
+  {
+    "i": 26215,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 7,
+    "t": "No te hagas culpable contra la asamblea de la ciudad, ni te rebajes delante del pueblo."
+  },
+  {
+    "i": 26216,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 8,
+    "t": "No te empeñes dos veces en pecar, pues ni siquiera por una sola vez quedarás impune."
+  },
+  {
+    "i": 26217,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 9,
+    "t": "No digas: “Dios considerará la multitud de mis ofrendas, y cuando las presente al Dios Altísimo, Él las recibirá”."
+  },
+  {
+    "i": 26218,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 10,
+    "t": "No seas indeciso en la oración, ni rehúses dar limosna."
+  },
+  {
+    "i": 26219,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 11,
+    "t": "No te burles del hombre que está en la amargura, pues Aquel que humilla puede exaltar."
+  },
+  {
+    "i": 26220,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 12,
+    "t": "No fragües mentira contra tu hermano, ni tampoco contra tu amigo."
+  },
+  {
+    "i": 26221,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 13,
+    "t": "No te dispongas a proferir ninguna mentira, porque no puede salir nada bueno de ella."
+  },
+  {
+    "i": 26222,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 14,
+    "t": "No pérores en la asamblea de los ancianos, ni repitas tus palabras en la oración."
+  },
+  {
+    "i": 26223,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 15,
+    "t": "No rehúses el trabajo penoso, ni el trabajo de los campos, que fueron creados por el Altísimo."
+  },
+  {
+    "i": 26224,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 16,
+    "t": "No te cuentes entre la multitud de los pecadores; recuerda que la ira no tardará."
+  },
+  {
+    "i": 26225,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 17,
+    "t": "Humíllate profundamente, porque el fuego y los gusanos son el castigo del impío."
+  },
+  {
+    "i": 26226,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 18,
+    "t": "No cambies un amigo por dinero, ni a un hermano verdadero por el oro de Ofir."
+  },
+  {
+    "i": 26227,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 19,
+    "t": "No deseches una esposa sabia y buena, porque su gracia vale más que el oro."
+  },
+  {
+    "i": 26228,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 20,
+    "t": "No maltrates al esclavo que trabaja fielmente, ni al asalariado que se dedica a tu servicio."
+  },
+  {
+    "i": 26229,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 21,
+    "t": "Ama en tu corazón al esclavo inteligente, no le niegues la libertad."
+  },
+  {
+    "i": 26230,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 22,
+    "t": "¿Tienes ganados? Cuídalos; si sacas provecho de ellos, consérvalos."
+  },
+  {
+    "i": 26231,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 23,
+    "t": "¿Tienes hijos? Edúcalos, y desde la infancia doblega su cerviz."
+  },
+  {
+    "i": 26232,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 24,
+    "t": "¿Tienes hijas? Vela por su cuerpo, y no les muestres un rostro halagüeño."
+  },
+  {
+    "i": 26233,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 25,
+    "t": "Casa a tu hija, y habrás cumplido una gran obra, pero dásela a un hombre sensato."
+  },
+  {
+    "i": 26234,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 26,
+    "t": "¿Tienes una esposa según tu corazón? No la repudies, pero si no la amas, no confíes en ella."
+  },
+  {
+    "i": 26235,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 27,
+    "t": "De todo corazón honra a tu padre, y no olvides jamás los dolores de tu madre."
+  },
+  {
+    "i": 26236,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 28,
+    "t": "Recuerda que ellos te dieron el ser; ¿qué les darás en cambio de lo que han hecho por ti?"
+  },
+  {
+    "i": 26237,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 29,
+    "t": "Con toda tu alma teme al Señor, y reverencia a sus sacerdotes."
+  },
+  {
+    "i": 26238,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 30,
+    "t": "Con todas tus fuerzas ama a Aquel que te creó, y no desampares a sus ministros."
+  },
+  {
+    "i": 26239,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 31,
+    "t": "Teme al Señor, y honra al sacerdote; y dale su parte como te ha sido prescrito: primicias, sacrificio de reparación, ofrenda de los hombros, sacrificio de santificación y primicias de las cosas santas."
+  },
+  {
+    "i": 26240,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 32,
+    "t": "También al pobre extiende tu mano, para que tu bendición sea perfecta."
+  },
+  {
+    "i": 26241,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 33,
+    "t": "Que tu generosidad alcance a todos los vivientes; ni siquiera a los muertos niegues tu piedad."
+  },
+  {
+    "i": 26242,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 34,
+    "t": "No te apartes de los que lloran, aflígete con los afligidos."
+  },
+  {
+    "i": 26243,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 35,
+    "t": "No temas visitar a los enfermos, porque por tales actos te ganarás afecto."
+  },
+  {
+    "i": 26244,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 36,
+    "t": "En todo lo que hagas acuérdate de tu fin, y jamás pecarás."
+  },
+  {
+    "i": 26245,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 1,
+    "t": "No luches con un poderoso, no sea que caigas en sus manos."
+  },
+  {
+    "i": 26246,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 2,
+    "t": "No te querelles con un rico, no sea que tenga más peso que tú, porque el oro ha perdido a muchos, y ha hecho doblegar el corazón de los reyes."
+  },
+  {
+    "i": 26247,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 3,
+    "t": "No disputes con un charlatán, no eches leña a su fuego."
+  },
+  {
+    "i": 26248,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 4,
+    "t": "No bromees con un hombre mal educado, no sea que injurie a tus antepasados."
+  },
+  {
+    "i": 26249,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 5,
+    "t": "No reproches al pecador arrepentido; acuérdate que todos somos culpables."
+  },
+  {
+    "i": 26250,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 6,
+    "t": "No desprecies a un hombre avanzado en años, porque tal vez nosotros también llegaremos a ser viejos."
+  },
+  {
+    "i": 26251,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 7,
+    "t": "No te alegres de la muerte de un hombre, recuerda que todos debemos morir."
+  },
+  {
+    "i": 26252,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 8,
+    "t": "No desprecies el discurso de los sabios; vuelve a menudo a sus máximas, porque de ellos aprenderás la doctrina y el arte de servir a los grandes."
+  },
+  {
+    "i": 26253,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 9,
+    "t": "No desdeñes el discurso de los ancianos, porque ellos mismos han aprendido de sus padres; de ellos aprenderás la prudencia y el arte de responder a tiempo."
+  },
+  {
+    "i": 26254,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 10,
+    "t": "No avives las brasas del pecador, no sea que te quemes con su llama."
+  },
+  {
+    "i": 26255,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 11,
+    "t": "No te dejes avasallar por el hombre insolente, sería una trampa tendida delante de tus labios."
+  },
+  {
+    "i": 26256,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 12,
+    "t": "No prestes a un hombre más fuerte que tú; si prestas, da la cosa por perdida."
+  },
+  {
+    "i": 26257,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 13,
+    "t": "No salgas fiador por encima de tus medios; si has salido fiador, prepárate a pagar."
+  },
+  {
+    "i": 26258,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 14,
+    "t": "No tengas pleito con un juez, porque la sentencia será dada a su favor."
+  },
+  {
+    "i": 26259,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 15,
+    "t": "No te pongas en camino con un aventurero, no sea que te abrume de males; porque él hace lo que le place, y su locura te perderá con él."
+  },
+  {
+    "i": 26260,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 16,
+    "t": "No disputes con un hombre colérico, no te aventures con él a un lugar desierto, porque la sangre no cuenta para él y, donde no hay socorro, se arrojará sobre ti."
+  },
+  {
+    "i": 26261,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 17,
+    "t": "No tomes a un necio por confidente, porque no sabrá guardar tu secreto."
+  },
+  {
+    "i": 26262,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 18,
+    "t": "Delante de un extraño, no hagas nada que deba quedar secreto, porque no sabes lo que puede inventar."
+  },
+  {
+    "i": 26263,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 19,
+    "t": "No abras tu corazón a cualquiera, ni pretendas obtener sus buenas gracias."
+  },
+  {
+    "i": 26264,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 1,
+    "t": "No seas celoso de tu esposa amada, no le des la idea de hacerte daño."
+  },
+  {
+    "i": 26265,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 2,
+    "t": "No te entregues en manos de una mujer, no sea que tome ascendiente sobre ti."
+  },
+  {
+    "i": 26266,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 3,
+    "t": "No vayas al encuentro de una meretriz, para no caer en sus lazos."
+  },
+  {
+    "i": 26267,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 4,
+    "t": "No frecuentes a una cantora, no sea que te dejes prender por sus artificios."
+  },
+  {
+    "i": 26268,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 5,
+    "t": "No fijes tu mirada en una joven, para no ser cogido en la trampa cuando ella se expíe."
+  },
+  {
+    "i": 26269,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 6,
+    "t": "No te entregues en manos de las prostitutas, no sea que pierdas tu patrimonio."
+  },
+  {
+    "i": 26270,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 7,
+    "t": "No pasees tu mirada por las calles de la ciudad, ni rondes por los rincones desiertos."
+  },
+  {
+    "i": 26271,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 8,
+    "t": "Aparta tu mirada de una mujer hermosa, y no la fijes en una belleza extraña. Muchos han sido extraviados por la belleza de una mujer, y el amor se inflama en ella como un fuego."
+  },
+  {
+    "i": 26272,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 9,
+    "t": "Cerca de una mujer casada, guárdate bien de sentarte, y de comer y beber vino con ella, no sea que el deseo te desvíe hacia ella y que, en tu pasión, resbales a tu perdición."
+  },
+  {
+    "i": 26273,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 10,
+    "t": "No abandones a un viejo amigo, el recién llegado no valdrá tanto como él. Vino nuevo, amigo nuevo, déjalo envejecer, y lo beberás con delicias."
+  },
+  {
+    "i": 26274,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 11,
+    "t": "No envidies el éxito del pecador, no sabes cómo acabará."
+  },
+  {
+    "i": 26275,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 12,
+    "t": "No te felicites por el éxito de los impíos, recuerda que aquí abajo no quedarán impunes."
+  },
+  {
+    "i": 26276,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 13,
+    "t": "Mantente alejado del hombre que tiene poder para matar, y no tendrás ningún temor a la muerte. Si te acercas a él, cuídate de un paso en falso, no sea que te quite la vida. Has de saber bien que estás rodeado de trampas y que caminas sobre los baluartes."
+  },
+  {
+    "i": 26277,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 14,
+    "t": "En la medida de lo posible, frecuenta a tu prójimo, y toma consejo de los sabios."
+  },
+  {
+    "i": 26278,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 15,
+    "t": "Para tu conversación busca a los hombres inteligentes, y que todas tus pláticas versen sobre la ley del Altísimo."
+  },
+  {
+    "i": 26279,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 16,
+    "t": "Que los justos sean tus comensales, y que tu orgullo esté en el temor del Señor."
+  },
+  {
+    "i": 26280,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 17,
+    "t": "Obra de mano merece alabanza, mas el jefe del pueblo ha de ser diestro en el hablar."
+  },
+  {
+    "i": 26281,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 18,
+    "t": "El que bien habla es temido en la ciudad, y el charlatán es aborrecido."
+  },
+  {
+    "i": 26282,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 1,
+    "t": "El gobernante sabio mantiene a su pueblo en disciplina, y la autoridad del hombre sensato está bien establecida."
+  },
+  {
+    "i": 26283,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 2,
+    "t": "Tal el gobernante, tales sus subordinados; tal el que rige la ciudad, tales los habitantes."
+  },
+  {
+    "i": 26284,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 3,
+    "t": "Un rey sin instrucción es la ruina de su pueblo; una ciudad debe su prosperidad a la inteligencia de los jefes."
+  },
+  {
+    "i": 26285,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 4,
+    "t": "En manos del Señor está el gobierno del mundo; él suscita en el buen momento al jefe que conviene."
+  },
+  {
+    "i": 26286,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 5,
+    "t": "El éxito de un hombre está en la mano del Señor; es él quien da al escriba su gloria."
+  },
+  {
+    "i": 26287,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 6,
+    "t": "No guardes rencor al prójimo, cualesquiera que sean sus agravios, y no reacciones jamás con actos de arrogancia."
+  },
+  {
+    "i": 26288,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 7,
+    "t": "El orgullo desagrada a Dios como al hombre, y ambos consideran la injusticia como una falta."
+  },
+  {
+    "i": 26289,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 8,
+    "t": "La soberanía pasa de una nación a otra por la injusticia, la arrogancia y el dinero. Nada más impío que el que ama el dinero: ¡aun su alma la vende!"
+  },
+  {
+    "i": 26290,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 9,
+    "t": "¿Por qué tanto orgullo para quien es tierra y ceniza, un ser que, viviendo, ya tiene las entrañas repugnantes?"
+  },
+  {
+    "i": 26291,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 10,
+    "t": "Una larga enfermedad se burla del médico, que es rey hoy y mañana morirá."
+  },
+  {
+    "i": 26292,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 11,
+    "t": "Cuando un hombre muere, recibe en parte los insectos, las fieras y los gusanos."
+  },
+  {
+    "i": 26293,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 12,
+    "t": "El principio del orgullo humano es abandonar al Señor y mantener su corazón alejado del Creador."
+  },
+  {
+    "i": 26294,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 13,
+    "t": "Porque el principio del orgullo es el pecado, quien a él se entrega, difunde la abominación. Por eso el Señor ha hecho patente su desventura y los ha reducido a la nada."
+  },
+  {
+    "i": 26295,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 14,
+    "t": "El Señor ha derribado el trono de los poderosos y ha hecho sentar en su lugar a los mansos."
+  },
+  {
+    "i": 26296,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 15,
+    "t": "El Señor ha desarraigado a los orgullosos y ha plantado en su lugar a los humildes."
+  },
+  {
+    "i": 26297,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 16,
+    "t": "El Señor ha trastornado el territorio de las naciones y las ha aniquilado hasta los cimientos de la tierra."
+  },
+  {
+    "i": 26298,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 17,
+    "t": "Algunas veces las ha arrancado y destruido, y ha borrado del mundo su recuerdo."
+  },
+  {
+    "i": 26299,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 18,
+    "t": "El orgullo no está hecho para el hombre, ni la violenta cólera para la raza de la mujer."
+  }
+]

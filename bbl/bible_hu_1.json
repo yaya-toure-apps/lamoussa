@@ -1,0 +1,802 @@
+[
+  {
+    "i": 100,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 21,
+    "t": "És testvérének neve Jubál vala; ez atyja mindeneknek, kik hárfán és sípon játszanak."
+  },
+  {
+    "i": 101,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 22,
+    "t": "Czillától pedig született Tubálkáin, mindenféle réz- és vasszerszám kovácsmestere; Tubálkáinnak pedig húga vala Naáma."
+  },
+  {
+    "i": 102,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 23,
+    "t": "És monda Lámek az ő feleségeinek: Ada és Czilla, halljátok szavamat; Lámek asszonyai, figyeljetek beszédemre: embert öltem sebemért, és ifjat a rútságomért."
+  },
+  {
+    "i": 103,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 24,
+    "t": "Ha hétszeresen áll bosszút Káinért, hetvenhétszeresen Lámekért!"
+  },
+  {
+    "i": 104,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 25,
+    "t": "Ádám ismét megismeré az ő feleségét, és az szűle fiat, és nevezé nevét Séthnek; mert úgymond: Adott az Isten nékem más magot Ábel helyett, a kit megölt Káin."
+  },
+  {
+    "i": 105,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 26,
+    "t": "Séthnek is született fia, és nevezé nevét Énósnak. Akkor kezdték segítségül hívni az Úrnak nevét."
+  },
+  {
+    "i": 106,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 1,
+    "t": "Ez Ádám nemzetségének könyve. Mikor az Isten teremté az embert, az Isten hasonlatosságára teremté őt."
+  },
+  {
+    "i": 107,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 2,
+    "t": "Hímivé és nővé teremté őket, és megáldá őket, és nevezé nevöket embernek, mikor teremttettek."
+  },
+  {
+    "i": 108,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 3,
+    "t": "És éle Ádám száz harmincz esztendőt, és nemze fiat az ő képére, az ő hasonlatossága szerint, és nevezé nevét Séthnek."
+  },
+  {
+    "i": 109,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 4,
+    "t": "És voltak Ádám napjai az után, hogy Séthet nemzette, nyolcz száz esztendő; és nemze fiakat és leányokat."
+  },
+  {
+    "i": 110,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 5,
+    "t": "És lőn Ádám egész ideje kilencz száz harmincz esztendő; és meghala."
+  },
+  {
+    "i": 111,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 6,
+    "t": "És éle Séth száz és öt esztendőt, és nemzé Énóst."
+  },
+  {
+    "i": 112,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 7,
+    "t": "És éle Séth Énósnak nemzése után nyolcz száz és hét esztendőt; és nemze fiakat és leányokat."
+  },
+  {
+    "i": 113,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 8,
+    "t": "És lőn Séth egész ideje kilencz száz tizenkét esztendő; és meghala."
+  },
+  {
+    "i": 114,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 9,
+    "t": "És éle Énós kilenczven esztendőt, és nemzé Kénánt."
+  },
+  {
+    "i": 115,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 10,
+    "t": "És éle Énós Kénánnak nemzése után nyolcz száz tizenöt esztendőt; és nemze fiakat és leányokat."
+  },
+  {
+    "i": 116,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 11,
+    "t": "És lőn Énós egész ideje kilencz száz öt esztendő; és meghala."
+  },
+  {
+    "i": 117,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 12,
+    "t": "És éle Kénán hetven esztendőt, és nemzé Mahalálélt."
+  },
+  {
+    "i": 118,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 13,
+    "t": "És éle Kénán Mahalálélnek nemzése után nyolcz száz negyven esztendőt; és nemze fiakat és leányokat."
+  },
+  {
+    "i": 119,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 14,
+    "t": "És lőn Kénán egész ideje kilencz száz tíz esztendő; és meghala."
+  },
+  {
+    "i": 120,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 15,
+    "t": "És éle Mahalálél hatvanöt esztendőt, és nemzé Járedet."
+  },
+  {
+    "i": 121,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 16,
+    "t": "És éle Mahalálél Járednek nemzése után nyolcz száz harmincz esztendőt; és nemze fiakat és leányokat."
+  },
+  {
+    "i": 122,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 17,
+    "t": "És lőn Mahalálél egész ideje nyolcz száz kilenczvenöt esztendő; és meghala."
+  },
+  {
+    "i": 123,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 18,
+    "t": "És éle Járed száz hatvankét esztendőt, és nemzé Énókot."
+  },
+  {
+    "i": 124,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 19,
+    "t": "És éle Járed Énóknak nemzése után nyolcz száz esztendőt; és nemze fiakat és leányokat."
+  },
+  {
+    "i": 125,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 20,
+    "t": "És lőn Járed egész ideje kilencz száz hatvankét esztendő; és meghala."
+  },
+  {
+    "i": 126,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 21,
+    "t": "És éle Énók hatvanöt esztendőt, és nemzé Methuséláht."
+  },
+  {
+    "i": 127,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 22,
+    "t": "És jára Énók az Istennel, minekutána Methuséláht nemzette, három száz esztendeig; és nemze fiakat és leányokat."
+  },
+  {
+    "i": 128,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 23,
+    "t": "És lőn Énók egész ideje három száz hatvanöt esztendő."
+  },
+  {
+    "i": 129,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 24,
+    "t": "És jára Énók az Istennel; és eltűnék, mert az Isten elvivé őt."
+  },
+  {
+    "i": 130,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 25,
+    "t": "És éle Methuséláh száz nyolcvanhét esztendőt, és nemzé Lámeket."
+  },
+  {
+    "i": 131,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 26,
+    "t": "És éle Methuséláh Lámeknek nemzése után hétszáz nyolczvankét esztendőt; és nemze fiakat és leányokat."
+  },
+  {
+    "i": 132,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 27,
+    "t": "És lőn Methuséláh egész ideje kilencz száz hatvankilencz esztendő; és meghala."
+  },
+  {
+    "i": 133,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 28,
+    "t": "És éle Lámek száz nyolczvankét esztendőt, és nemze fiat."
+  },
+  {
+    "i": 134,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 29,
+    "t": "És nevezé annak nevét Noénak, mondván: Ez vígasztal meg minket munkánkban és kezünk fáradságában e föld miatt, melyet az Úr megátkozott."
+  },
+  {
+    "i": 135,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 30,
+    "t": "És éle Lámek Noénak nemzése után ötszáz kilenczvenöt esztendőt; és nemze fiakat és leányokat."
+  },
+  {
+    "i": 136,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 31,
+    "t": "És lőn Lámek egész ideje hétszáz hetvenhét esztendő; és meghala."
+  },
+  {
+    "i": 137,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 32,
+    "t": "És Noé ötszáz esztendős korában nemzé Sémet, Khámot és Jáfetet."
+  },
+  {
+    "i": 138,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 1,
+    "t": "És lőn, hogy az emberek sokasodni kezdének a föld színén, és leányaik születének."
+  },
+  {
+    "i": 139,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 2,
+    "t": "Láták az Istennek fiai az emberek leányait, hogy szépek, és vevének magoknak feleségeket mind azok közül, kiket megkedveltek."
+  },
+  {
+    "i": 140,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 3,
+    "t": "És monda az Úr: Ne maradjon az én lelkem örökké az emberben, mivelhogy test ő; legyen életének ideje száz húsz esztendő."
+  },
+  {
+    "i": 141,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 4,
+    "t": "Óriások valának a földön abban az időben, sőt még azután is, mikor az Isten fiai bementek az emberek leányaihoz, és azok gyermekeket szűltek nékik. Ezek ama hatalmasok, kik eleitől fogva híres emberek voltak."
+  },
+  {
+    "i": 142,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 5,
+    "t": "És látá az Úr, hogy megsokasult az emberek gonoszsága a földön, és hogy szíve gondolatának minden alkotása szüntelen csak gonosz."
+  },
+  {
+    "i": 143,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 6,
+    "t": "Megbáná azért az Úr, hogy teremtette az embert a földön, és bánkódék az ő szívében."
+  },
+  {
+    "i": 144,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 7,
+    "t": "És monda az Úr: Eltörlöm az embert, a melyet teremtettem, a földnek színéről; az embert, a barmot, a csúszó-mászó állatokat, és az égi madarakat; mert bánom, hogy azokat teremtettem."
+  },
+  {
+    "i": 145,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 8,
+    "t": "Noé pedig kegyelmet talált az Úr szemei előtt."
+  },
+  {
+    "i": 146,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 9,
+    "t": "Ez Noénak története: Noé igaz ember és tökéletes vala a nemzetségében. Noé Istennel járt vala."
+  },
+  {
+    "i": 147,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 10,
+    "t": "És nemze Noé három fiat: Sémet, Khámot és Jáfetet."
+  },
+  {
+    "i": 148,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 11,
+    "t": "A föld pedig romlott vala Isten előtt, és megtelék a föld erőszakoskodással."
+  },
+  {
+    "i": 149,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 12,
+    "t": "Tekinte azért Isten a földre, és ímé megromlott; mert minden test megrontotta vala az ő útját a földön."
+  },
+  {
+    "i": 150,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 13,
+    "t": "Monda azért Isten Noénak: Minden testnek vége elérkezett előttem, mivelhogy a föld erőszakoskodással telt meg általok; ímé én eltörlöm őket a földdel egybe."
+  },
+  {
+    "i": 151,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 14,
+    "t": "Csinálj magadnak bárkát gófer fából; rekesztékeket csinálj a bárkában, és kend be belől és kívül szurokkal."
+  },
+  {
+    "i": 152,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 15,
+    "t": "Ekképpen csináld azt: A bárka hossza három száz sing, a szélessége ötven sing, és a magassága harmincz sing legyen."
+  },
+  {
+    "i": 153,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 16,
+    "t": "A bárkára csinálj fedelet, és egy singnyire hagyd azt felülről; a bárka oldalára pedig ajtót csinálj; alsó, közép, és felső rekeszt csinálj abban."
+  },
+  {
+    "i": 154,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 17,
+    "t": "Én pedig ímé özönvizet hozok a földre, hogy elveszszek minden testet, a melyben élő lélek van az ég alatt; minden, a mi a földön van, elpusztul."
+  },
+  {
+    "i": 155,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 18,
+    "t": "De veled szövetséget kötök, és bemégy a bárkába, te és a te fiaid, és a te feleséged, és a te fiaid feleségei veled."
+  },
+  {
+    "i": 156,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 19,
+    "t": "És minden élőből, minden testből, mindenből kettőt-kettőt vígy be a bárkába, hogy veled együtt életben maradjanak; hímek és nőstények legyenek."
+  },
+  {
+    "i": 157,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 20,
+    "t": "A madarakból az ő neme szerint, a barmokból az ő neme szerint, és a földnek minden csúszó-mászójából az ő neme szerint; mindenből kettő-kettő menjen be hozzád, hogy életben maradjanak."
+  },
+  {
+    "i": 158,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 21,
+    "t": "Te pedig szerezz magadnak mindenféle eleséget, mely megehető, és takard be magadhoz, hogy neked is, azoknak is legyen eledelül."
+  },
+  {
+    "i": 159,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 22,
+    "t": "Úgy cselekedék azért Noé; a mint Isten parancsolta néki, mind úgy cselekedék."
+  },
+  {
+    "i": 160,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 1,
+    "t": "És monda az Úr Noénak: Menj be te és egész házad népe a bárkába; mert téged láttalak igaznak előttem ebben a nemzetségben."
+  },
+  {
+    "i": 161,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 2,
+    "t": "Minden tiszta baromból vígy be magadhoz hetet-hetet, hímet és nőstényét; a tisztátalan baromból pedig kettőt, hímet és nőstényét."
+  },
+  {
+    "i": 162,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 3,
+    "t": "Az égi madarakból is hetet-hetet, hímet és nőstényét, hogy magvat tartsanak az egész föld színén."
+  },
+  {
+    "i": 163,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 4,
+    "t": "Mert hét nap múlva esőt bocsátok a földre negyven nap és negyven éjjel; és eltörlök a föld színéről minden élő állatot, melyet teremtettem."
+  },
+  {
+    "i": 164,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 5,
+    "t": "És megcselekedék Noé mind a szerint, a mint az Úr néki parancsolt."
+  },
+  {
+    "i": 165,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 6,
+    "t": "Noé pedig hatszáz esztendős vala, mikor az özönvíz volt, a víz a földön."
+  },
+  {
+    "i": 166,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 7,
+    "t": "Beméne azért Noé és az ő fiai, az ő felesége és az ő fiainak feleségei ő vele a bárkába, az özönvíz elől."
+  },
+  {
+    "i": 167,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 8,
+    "t": "A tiszta baromból, a tisztátalan baromból, a madarakból, és mindenből, a mi a földön csúsz-mász."
+  },
+  {
+    "i": 168,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 9,
+    "t": "Kettő-kettő méne be Noéhoz a bárkába, hím és nőstény, a mint Isten parancsolt vala Noénak."
+  },
+  {
+    "i": 169,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 10,
+    "t": "És lőn hetednap múlva, hogy megjöve az özönvíz a földre."
+  },
+  {
+    "i": 170,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 11,
+    "t": "Noé életének hatszázadik esztendejében, a második hónapban, e hónap tizenhetedik napján, felfakadának e napon a nagy mélységnek minden forrásai, és az ég csatornái megnyilatkozának."
+  },
+  {
+    "i": 171,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 12,
+    "t": "És esék az eső a földre negyven nap és negyven éjjel."
+  },
+  {
+    "i": 172,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 13,
+    "t": "Ugyanezen a napon méne be Noé és Sém, Khám és Jáfet, Noénak fiai, és Noénak felesége, és az ő fiainak három felesége velök együtt a bárkába:"
+  },
+  {
+    "i": 173,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 14,
+    "t": "Mind a vadak az ő nemök szerint, mind a barmok az ő nemök szerint, mind a földnek minden csúszó-mászó állatai az ő nemök szerint, mind a repdeső állatok az ő nemök szerint, minden madár, minden szárnyas állat."
+  },
+  {
+    "i": 174,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 15,
+    "t": "Minden testből, a melyben élő lélek van, kettő-kettő méne be Noéhoz a bárkába."
+  },
+  {
+    "i": 175,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 16,
+    "t": "És a melyek bementek, hím és nőstény méne be minden testből, a mint Isten parancsolt vala néki. És bezárá az Úr őt kívül."
+  },
+  {
+    "i": 176,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 17,
+    "t": "Vala pedig az özönvíz negyven napig a földön; és a vizek megszaporodának, és felvevék a bárkát, és az felemelkedék a földről."
+  },
+  {
+    "i": 177,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 18,
+    "t": "A vizek pedig erősbödének és igen megszaporodának a földön; és jár vala a bárka a víz színén."
+  },
+  {
+    "i": 178,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 19,
+    "t": "A vizek pedig mindinkább erősbödének a földön, és befedék mind a magas hegyeket, melyek az egész ég alatt valának."
+  },
+  {
+    "i": 179,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 20,
+    "t": "Tizenöt singgel fellyül emelkedének a vizek, úgy hogy a hegyek befödettettek."
+  },
+  {
+    "i": 180,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 21,
+    "t": "És elpusztult minden test, a mely mozgott a földön, mind a madarak, mind a barmok, mind a vadak, mind a földön nyüzsgő mindenféle állat, és minden ember."
+  },
+  {
+    "i": 181,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 22,
+    "t": "Minden meghalt, a minek élete lehelete vala orrában, mind a mely a szárazon vala."
+  },
+  {
+    "i": 182,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 23,
+    "t": "És eltörölt minden élő állatot a föld színéről, az embertől a baromig, a csúszó-mászó állatokig és az égi madarakig; minden eltöröltetett a földről; és csak Noé maradt meg, és a kik vele valának a bárkában."
+  },
+  {
+    "i": 183,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 24,
+    "t": "És áradának a vizek a földön száz ötven napig."
+  },
+  {
+    "i": 184,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 1,
+    "t": "Emlékezék pedig az Isten Noéra, és minden vadra, és minden baromra, a mely vele vala a bárkában. És bocsátott az Isten szelet a földre, és apádának a vizek."
+  },
+  {
+    "i": 185,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 2,
+    "t": "És bezárattak a mélység forrásai és az ég csatornái, és megszűnt az eső az égből."
+  },
+  {
+    "i": 186,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 3,
+    "t": "És elvonultak a vizek a földről folyton folyvást, és apádának a vizek száz ötven nap múlva."
+  },
+  {
+    "i": 187,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 4,
+    "t": "A hetedik hónapban pedig, a hónap tizenhetedik napján megnyugovék a bárka az Ararát hegyén."
+  },
+  {
+    "i": 188,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 5,
+    "t": "A vizek pedig folyton folyvást apadának a tizedik hónapig; a tizedik hónapban, a hónap elsején láthatókká lőnek a hegyek ormai."
+  },
+  {
+    "i": 189,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 6,
+    "t": "Negyven nap múlva pedig kinyitá Noé a bárkának ablakát, a melyet csinált vala."
+  },
+  {
+    "i": 190,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 7,
+    "t": "És kibocsátá a hollót, a mely kirepült és visszaszállt, míg elszáradt a víz a földről."
+  },
+  {
+    "i": 191,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 8,
+    "t": "Kibocsátá azután a galambot, hogy meglássa, vajjon elapadt-é a víz a föld színéről?"
+  },
+  {
+    "i": 192,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 9,
+    "t": "A galamb pedig nem talált lábának nyugvó helyet, és visszatért ő hozzá a bárkába; mert víz vala az egész föld színén. Kinyújtá azért kezét, és megfogá azt, és bévivé ő magához a bárkába."
+  },
+  {
+    "i": 193,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 10,
+    "t": "Várt még más hét napig, és ismét kibocsátá a galambot a bárkából."
+  },
+  {
+    "i": 194,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 11,
+    "t": "És estvére visszatért a galamb ő hozzá, és ímé, egy friss olajfa ágat hozott szájában. Megtudta azért Noé, hogy elapadt a víz a föld színéről."
+  },
+  {
+    "i": 195,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 12,
+    "t": "Várt még más hét napig, és kibocsátá a galambot, és többé nem tért vissza ő hozzá."
+  },
+  {
+    "i": 196,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 13,
+    "t": "És lőn a hatszáz egyedik esztendőben, az első hónapban, a hónap első napján, felszáradt a víz a földről. Akkor elvonszolá Noé a bárka tetejét, és látá, hogy ímé, megszáradt a föld színe."
+  },
+  {
+    "i": 197,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 14,
+    "t": "A második hónapban pedig, a hónap huszonhetedik napján megszárattaték a föld."
+  },
+  {
+    "i": 198,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 15,
+    "t": "Szóla pedig az Isten Noénak, mondván:"
+  },
+  {
+    "i": 199,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 16,
+    "t": "Menj ki a bárkából te, és a te feleséged, a te fiaid, és a te fiaidnak feleségei veled."
+  }
+]

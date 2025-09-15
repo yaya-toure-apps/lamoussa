@@ -1,0 +1,802 @@
+[
+  {
+    "i": 34500,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 20,
+    "t": "Par la foi encore, Isaac donna à Jacob et à Ésaü des bénédictions assurant l’avenir."
+  },
+  {
+    "i": 34501,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 21,
+    "t": "Par la foi, Jacob mourant bénit chacun des fils de Joseph et il se prosterna appuyé sur l’extrémité de son bâton."
+  },
+  {
+    "i": 34502,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 22,
+    "t": "Par la foi, Joseph, proche de sa fin, évoqua l’exode des fils d’Israël et donna des ordres au sujet de ses restes."
+  },
+  {
+    "i": 34503,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 23,
+    "t": "Par la foi, Moïse, à sa naissance fut caché par ses parents pendant trois mois, parce qu’ils virent que le petit enfant était beau et ils ne craignirent pas l’édit du roi."
+  },
+  {
+    "i": 34504,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 24,
+    "t": "Par la foi, Moïse, devenu grand, refusa d’être appelé fils d’une fille d’un Pharaon,"
+  },
+  {
+    "i": 34505,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 25,
+    "t": "aimant mieux être maltraité avec le peuple de Dieu que de connaître la jouissance éphémère du péché,"
+  },
+  {
+    "i": 34506,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 26,
+    "t": "estimant comme une richesse supérieure aux trésors de l’Égypte l’opprobre du Christ. Il avait, en effet, les yeux fixés sur la récompense."
+  },
+  {
+    "i": 34507,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 27,
+    "t": "Par la foi, il quitta l’Égypte sans craindre la fureur du roi : comme s’il voyait l’Invisible, il tint ferme."
+  },
+  {
+    "i": 34508,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 28,
+    "t": "Par la foi, il célébra la Pâque et fit l’aspersion du sang, afin que l’Exterminateur ne touchât point les premiers-nés d’Israël."
+  },
+  {
+    "i": 34509,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 29,
+    "t": "Par la foi, ils traversèrent la mer Rouge comme une terre sèche, tandis que les Égyptiens, ayant essayé le passage, furent engloutis."
+  },
+  {
+    "i": 34510,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 30,
+    "t": "Par la foi, les murs de Jéricho tombèrent, quand on en eut fait le tour pendant sept jours."
+  },
+  {
+    "i": 34511,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 31,
+    "t": "Par la foi, Rahab la prostituée ne périt pas avec les incrédules, parce qu’elle avait accueilli pacifiquement les éclaireurs."
+  },
+  {
+    "i": 34512,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 32,
+    "t": "Et que dirai-je encore ? Car le temps me manquerait si je racontais ce qui concerne Gédéon, Baraq, Samson, Jephté, David, ainsi que Samuel et les Prophètes,"
+  },
+  {
+    "i": 34513,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 33,
+    "t": "eux qui, grâce à la foi, soumirent des royaumes, exercèrent la justice, obtinrent l’accomplissement des promesses, fermèrent la gueule des lions,"
+  },
+  {
+    "i": 34514,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 34,
+    "t": "éteignirent la violence du feu, échappèrent au tranchant du glaive, furent rendus vigoureux, de malades qu’ils étaient, montrèrent de la vaillance à la guerre, refoulèrent les invasions étrangères."
+  },
+  {
+    "i": 34515,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 35,
+    "t": "Des femmes ont recouvré leurs morts par la résurrection. Les uns se sont laissé torturer, refusant leur délivrance afin d’obtenir une meilleure résurrection."
+  },
+  {
+    "i": 34516,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 36,
+    "t": "D’autres subirent l’épreuve des dérisions et des fouets, et même celle des chaînes et de la prison."
+  },
+  {
+    "i": 34517,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 37,
+    "t": "Ils ont été lapidés, sciés, ils ont péri par le glaive, ils sont allés çà et là, sous des peaux de moutons et des toisons de chèvres, dénués, opprimés, maltraités,"
+  },
+  {
+    "i": 34518,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 38,
+    "t": "eux dont le monde était indigne, errant dans les déserts, les montagnes, les cavernes, les antres de la terre."
+  },
+  {
+    "i": 34519,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 39,
+    "t": "Et tous ceux-là, bien qu’ils aient reçu un bon témoignage à cause de leur foi, ne bénéficièrent pas de la promesse :"
+  },
+  {
+    "i": 34520,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 40,
+    "t": "c’est que Dieu prévoyait pour nous un sort meilleur, et ils ne devaient pas parvenir sans nous à la perfection."
+  },
+  {
+    "i": 34521,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 1,
+    "t": "Voilà donc pourquoi nous aussi, enveloppés que nous sommes d’une si grande nuée de témoins, nous devons rejeter tout fardeau et le péché qui nous assiège et courir avec constance l’épreuve qui nous est proposée,"
+  },
+  {
+    "i": 34522,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 2,
+    "t": "fixant nos yeux sur le chef de notre foi, qui la mène à la perfection, Jésus, qui au lieu de la joie qui lui était proposée, endura une croix, dont il méprisa l’infamie, et qui est assis désormais à la droite du trône de Dieu."
+  },
+  {
+    "i": 34523,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 3,
+    "t": "Songez à celui qui a enduré de la part des pécheurs une telle contradiction, afin de ne pas défaillir par lassitude de vos âmes."
+  },
+  {
+    "i": 34524,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 4,
+    "t": "Vous n’avez pas encore résisté jusqu’au sang dans la lutte contre le péché."
+  },
+  {
+    "i": 34525,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 5,
+    "t": "Avez-vous oublié l’exhortation qui s’adresse à vous comme à des fils : Mon fils, ne méprise pas la correction du Seigneur, et ne te décourage pas quand il te reprend."
+  },
+  {
+    "i": 34526,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 6,
+    "t": "Car celui qu’aime le Seigneur, il le corrige, et il châtie tout fils qu’il agrée."
+  },
+  {
+    "i": 34527,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 7,
+    "t": "C’est pour votre correction que vous souffrez. C’est en fils que Dieu vous traite. Et quel est le fils que ne corrige son père ?"
+  },
+  {
+    "i": 34528,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 8,
+    "t": "Si vous êtes exempts de cette correction, dont tous ont leur part, c’est que vous êtes des bâtards et non des fils."
+  },
+  {
+    "i": 34529,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 9,
+    "t": "D’ailleurs, nous avons eu pour nous corriger nos pères selon la chair, et nous les respections. Ne serons-nous pas soumis bien davantage au Père des esprits pour avoir la vie ?"
+  },
+  {
+    "i": 34530,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 10,
+    "t": "Ceux-là, en effet, nous corrigeaient pendant peu de temps et au juger ; mais lui, c’est pour notre bien, afin de nous faire participer à sa sainteté."
+  },
+  {
+    "i": 34531,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 11,
+    "t": "Certes, toute correction ne paraît pas sur le moment être un sujet de joie, mais de tristesse. Plus tard cependant, elle rapporte à ceux qu’elle a exercés un fruit de paix et de justice."
+  },
+  {
+    "i": 34532,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 12,
+    "t": "C’est pourquoi redressez vos mains inertes et vos genoux fléchissants,"
+  },
+  {
+    "i": 34533,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 13,
+    "t": "et rendez droits pour vos pas les sentiers tortueux, afin que le boiteux ne dévie point, mais plutôt qu’il guérisse."
+  },
+  {
+    "i": 34534,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 14,
+    "t": "Recherchez la paix avec tous, et la sanctification sans laquelle personne ne verra le Seigneur ;"
+  },
+  {
+    "i": 34535,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 15,
+    "t": "veillant à ce que personne ne soit privé de la grâce de Dieu, à ce qu’aucune racine amère ne pousse des rejetons et ne cause du trouble, ce qui contaminerait toute la masse,"
+  },
+  {
+    "i": 34536,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 16,
+    "t": "à ce qu’enfin il n’y ait aucun impudique ni profanateur, comme Ésaü qui, pour un seul mets, livra son droit d’aînesse."
+  },
+  {
+    "i": 34537,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 17,
+    "t": "Vous savez bien que, par la suite, quand il voulut obtenir la bénédiction, il fut rejeté ; car il ne put obtenir un changement de sentiment, bien qu’il l’eût recherché avec larmes."
+  },
+  {
+    "i": 34538,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 18,
+    "t": "Vous ne vous êtes pas approchés d’une réalité palpable : feu ardent, obscurité, ténèbres, ouragan,"
+  },
+  {
+    "i": 34539,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 19,
+    "t": "bruit de trompette, et clameur de paroles telle que ceux qui l’entendirent supplièrent qu’on ne leur parlât pas davantage."
+  },
+  {
+    "i": 34540,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 20,
+    "t": "Ils ne pouvaient en effet supporter cette prescription : Quiconque touchera la montagne, même si c’est un animal, sera lapidé."
+  },
+  {
+    "i": 34541,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 21,
+    "t": "Si terrible était le spectacle que Moïse dit : Je suis effrayé et tout tremblant."
+  },
+  {
+    "i": 34542,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 22,
+    "t": "Mais vous vous êtes approchés de la montagne de Sion et de la cité du Dieu vivant, de la Jérusalem céleste, et de myriades d’anges, réunion de fête,"
+  },
+  {
+    "i": 34543,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 23,
+    "t": "et de l’assemblée des premiers-nés qui sont inscrits dans les cieux, d’un Dieu Juge universel, et des esprits des justes qui ont été rendus parfaits,"
+  },
+  {
+    "i": 34544,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 24,
+    "t": "de Jésus médiateur d’une alliance nouvelle, et d’un sang purificateur plus éloquent que celui d’Abel."
+  },
+  {
+    "i": 34545,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 25,
+    "t": "Prenez garde de ne pas refuser d’écouter Celui qui parle. Si ceux, en effet, qui ont refusé d’écouter celui qui promulguait des oracles sur cette terre n’ont pas échappé au châtiment, à combien plus forte raison n’y échapperons-nous pas, si nous nous détournons de Celui qui parle des cieux."
+  },
+  {
+    "i": 34546,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 26,
+    "t": "Celui dont la voix jadis ébranla la terre nous a fait maintenant cette promesse : Encore une fois, moi j’ébranlerai non seulement la terre mais aussi le ciel."
+  },
+  {
+    "i": 34547,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 27,
+    "t": "Cet encore une fois indique que les choses ébranlées seront changées, puisque ce sont des réalités créées, pour que subsistent celles qui sont inébranlables."
+  },
+  {
+    "i": 34548,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 28,
+    "t": "Ainsi, puisque nous recevons la possession d’un royaume inébranlable, retenons fermement la grâce, et par elle rendons à Dieu un culte qui lui soit agréable, avec religion et crainte."
+  },
+  {
+    "i": 34549,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 29,
+    "t": "En effet, notre Dieu est un feu consumant."
+  },
+  {
+    "i": 34550,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 1,
+    "t": "Persévérez dans la dilection fraternelle."
+  },
+  {
+    "i": 34551,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 2,
+    "t": "N’oubliez pas l’hospitalité, car c’est grâce à elle que quelques-uns, à leur insu, hébergèrent des anges."
+  },
+  {
+    "i": 34552,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 3,
+    "t": "Souvenez-vous des prisonniers, comme si vous étiez emprisonnés avec eux, et de ceux qui sont maltraités, comme étant vous aussi dans un corps."
+  },
+  {
+    "i": 34553,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 4,
+    "t": "Que le mariage soit honoré de tous et le lit nuptial sans souillure. Car Dieu jugera fornicateurs et adultères."
+  },
+  {
+    "i": 34554,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 5,
+    "t": "Que votre conduite soit exempte d’avarice, vous contentant de ce que vous avez présentement ; car Dieu lui-même a dit : Je ne te laisserai ni ne t’abandonnerai ;"
+  },
+  {
+    "i": 34555,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 6,
+    "t": "de sorte que nous pouvons dire avec hardiesse : Le Seigneur est mon secours ; je ne craindrai pas. Que peut me faire un homme ?"
+  },
+  {
+    "i": 34556,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 7,
+    "t": "Souvenez-vous de vos chefs, eux qui vous ont fait entendre la parole de Dieu, et, considérant l’issue de leur carrière, imitez leur foi."
+  },
+  {
+    "i": 34557,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 8,
+    "t": "Jésus Christ est le même hier et aujourd’hui, il le sera à jamais."
+  },
+  {
+    "i": 34558,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 9,
+    "t": "Ne vous laissez pas égarer par des doctrines diverses et étrangères : car il est bon que le cœur soit affermi par la grâce, non par des aliments qui n’ont été d’aucun profit à ceux qui en usèrent."
+  },
+  {
+    "i": 34559,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 10,
+    "t": "Nous avons un autel dont les desservants de la Tente n’ont pas le droit de se nourrir."
+  },
+  {
+    "i": 34560,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 11,
+    "t": "Ces animaux, en effet, dont le grand prêtre porte le sang dans le sanctuaire pour l’expiation du péché, leurs corps sont brûlés en dehors du camp."
+  },
+  {
+    "i": 34561,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 12,
+    "t": "C’est pourquoi Jésus lui aussi, pour sanctifier le peuple par son propre sang, a souffert hors de la porte."
+  },
+  {
+    "i": 34562,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 13,
+    "t": "Par conséquent, pour aller à lui sortons en dehors du camp, en portant son opprobre."
+  },
+  {
+    "i": 34563,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 14,
+    "t": "Car nous n’avons pas ici-bas de cité permanente, mais nous recherchons celle de l’avenir."
+  },
+  {
+    "i": 34564,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 15,
+    "t": "Par lui, offrons à Dieu un sacrifice de louange en tout temps, c’est-à-dire le fruit de lèvres qui confessent son nom."
+  },
+  {
+    "i": 34565,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 16,
+    "t": "Quant à la bienfaisance et à la mise en commun des ressources, ne les oubliez pas, car c’est à de tels sacrifices que Dieu prend plaisir."
+  },
+  {
+    "i": 34566,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 17,
+    "t": "Obéissez à vos chefs et soyez-leur dociles, car ils veillent sur vos âmes, comme devant en rendre compte ; afin qu’ils le fassent avec joie et non en gémissant, ce qui vous serait dommageable."
+  },
+  {
+    "i": 34567,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 18,
+    "t": "Priez pour nous, car nous croyons avoir une bonne conscience, résolus que nous sommes à nous bien conduire en toutes choses."
+  },
+  {
+    "i": 34568,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 19,
+    "t": "Je vous exhorte plus instamment à le faire pour obtenir que je vous sois rendu plus vite."
+  },
+  {
+    "i": 34569,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 20,
+    "t": "Que le Dieu de la paix, qui a ramené de chez les morts celui qui est devenu par le sang d’une alliance éternelle le grand Pasteur des brebis, notre Seigneur Jésus,"
+  },
+  {
+    "i": 34570,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 21,
+    "t": "vous rende aptes à accomplir sa volonté en toute sorte de bien, produisant en nous ce qui lui est agréable par Jésus Christ, à qui soit la gloire pour les siècles des siècles ! Amen."
+  },
+  {
+    "i": 34571,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 22,
+    "t": "Je vous en prie, frères, faites bon accueil à ces paroles d’exhortation : aussi bien vous ai-je écrit brièvement."
+  },
+  {
+    "i": 34572,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 23,
+    "t": "Apprenez que notre frère Timothée à été libéré. S’il arrive assez tôt, c’est avec lui que je viendrai vous voir."
+  },
+  {
+    "i": 34573,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 24,
+    "t": "Saluez tous vos chefs et tous les saints. Ceux d’Italie vous saluent."
+  },
+  {
+    "i": 34574,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 25,
+    "t": "La grâce soit avec vous tous !"
+  },
+  {
+    "i": 34575,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 1,
+    "t": "Jacques, serviteur de Dieu et du Seigneur Jésus Christ, aux douze tribus de la Dispersion, salut !"
+  },
+  {
+    "i": 34576,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 2,
+    "t": "Tenez pour une joie suprême, mes frères, d’être en butte à toutes sortes d’épreuves."
+  },
+  {
+    "i": 34577,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 3,
+    "t": "Vous le savez : bien éprouvée, votre foi produit la constance ;"
+  },
+  {
+    "i": 34578,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 4,
+    "t": "mais que la constance s’accompagne d’une œuvre parfaite, afin que vous soyez parfaits, irréprochables, ne laissant rien à désirer."
+  },
+  {
+    "i": 34579,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 5,
+    "t": "Si l’un de vous manque de sagesse, qu’il la demande à Dieu - il donne à tous généreusement, sans récriminer - et elle lui sera donnée."
+  },
+  {
+    "i": 34580,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 6,
+    "t": "Mais qu’il demande avec foi, sans hésitation, car celui qui hésite ressemble au flot de la mer que le vent soulève et agite."
+  },
+  {
+    "i": 34581,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 7,
+    "t": "Qu’il ne s’imagine pas, cet homme-là, recevoir quoi que ce soit du Seigneur :"
+  },
+  {
+    "i": 34582,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 8,
+    "t": "homme à l’âme partagée, inconstant dans toutes ses voies !"
+  },
+  {
+    "i": 34583,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 9,
+    "t": "Que le frère d’humble condition se glorifie de son exaltation"
+  },
+  {
+    "i": 34584,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 10,
+    "t": "et le riche de son humiliation, car il passera comme fleur d’herbe."
+  },
+  {
+    "i": 34585,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 11,
+    "t": "Le soleil brûlant s’est levé: il a desséché l’herbe et sa fleur tombe, sa belle apparence est détruite. Ainsi se flétrira le riche dans ses démarches !"
+  },
+  {
+    "i": 34586,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 12,
+    "t": "Heureux homme, celui qui supporte l’épreuve ! Sa valeur une fois reconnue, il recevra la couronne de vie que le Seigneur a promise à ceux qui l’aiment."
+  },
+  {
+    "i": 34587,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 13,
+    "t": "Que nul, s’il est éprouvé, ne dise : \"C’est Dieu qui m’éprouve.\" Dieu en effet n’éprouve pas le mal, il n’éprouve non plus personne."
+  },
+  {
+    "i": 34588,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 14,
+    "t": "Mais chacun est éprouvé par sa propre convoitise qui l’attire et le leurre."
+  },
+  {
+    "i": 34589,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 15,
+    "t": "Puis la convoitise, ayant conçu, donne naissance au péché, et le péché, parvenu à son terme, enfante la mort."
+  },
+  {
+    "i": 34590,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 16,
+    "t": "Ne vous égarez pas, mes frères bien-aimés :"
+  },
+  {
+    "i": 34591,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 17,
+    "t": "tout don excellent, toute donation parfaite vient d’en haut et descend du Père des lumières, chez qui n’existe aucun changement, ni l’ombre d’une variation."
+  },
+  {
+    "i": 34592,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 18,
+    "t": "Il a voulu nous enfanter par une parole de vérité, pour que nous soyons comme les prémices de ses créatures."
+  },
+  {
+    "i": 34593,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 19,
+    "t": "Sachez-le, mes frères bien-aimés : que chacun soit prompt à écouter, lent à parler, lent à la colère ;"
+  },
+  {
+    "i": 34594,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 20,
+    "t": "car la colère de l’homme n’accomplit pas la justice de Dieu."
+  },
+  {
+    "i": 34595,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 21,
+    "t": "Rejetez donc toute malpropreté, tout reste de malice, et recevez avec docilité la Parole qui a été implantée en vous et qui peut sauver vos âmes."
+  },
+  {
+    "i": 34596,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 22,
+    "t": "Mettez la Parole en pratique. Ne soyez pas seulement des auditeurs qui s’abusent eux-mêmes !"
+  },
+  {
+    "i": 34597,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 23,
+    "t": "Qui écoute la Parole sans la mettre en pratique ressemble à un homme qui observe sa physionomie dans un miroir."
+  },
+  {
+    "i": 34598,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 24,
+    "t": "Il s’observe, part, et oublie comment il était."
+  },
+  {
+    "i": 34599,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 25,
+    "t": "Celui, au contraire, qui se penche sur la Loi parfaite de liberté et s’y tient attaché, non pas en auditeur oublieux, mais pour la mettre activement en pratique, celui-là trouve son bonheur en la pratiquant."
+  }
+]

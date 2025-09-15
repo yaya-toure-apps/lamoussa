@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16700,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 32,
+    "t": "\"Or dunque, figli miei, ascoltatemi: beati coloro che custodiscono le mie vie!"
+  },
+  {
+    "i": 16701,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 33,
+    "t": "\"Ascoltate l'istruzione e diventate saggi, non disprezzatela."
+  },
+  {
+    "i": 16702,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 34,
+    "t": "\"Beato l'uomo che mi ascolta, che veglia giorno dopo giorno alle mie porte per custodirne gli stipiti!"
+  },
+  {
+    "i": 16703,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 35,
+    "t": "\"Poiché chi mi trova, trova la vita, e ottiene il favore del Signore;"
+  },
+  {
+    "i": 16704,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 36,
+    "t": "\"ma chi pecca contro di me, danneggia la sua anima; chiunque mi odia, ama la morte."
+  },
+  {
+    "i": 16705,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 1,
+    "t": "\"La Sapienza ha edificato la sua casa, ha scolpito le sue sette colonne,"
+  },
+  {
+    "i": 16706,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 2,
+    "t": "ha ucciso le sue bestie, ha preparato il suo vino, e ha anche imbandito la sua tavola."
+  },
+  {
+    "i": 16707,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 3,
+    "t": "\"Ha mandato le sue ancelle e proclamato sulle alture, in cima alla città:"
+  },
+  {
+    "i": 16708,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 4,
+    "t": "\"Chi è semplice, passi di qui!\" All'uomo insensato dice:"
+  },
+  {
+    "i": 16709,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 5,
+    "t": "\"Venite, mangiate il mio pane, bevete il vino che ho preparato!"
+  },
+  {
+    "i": 16710,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 6,
+    "t": "\"Lasciate la stoltezza e vivrete, camminate diritti nella via dell'intelligenza."
+  },
+  {
+    "i": 16711,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 7,
+    "t": "\"Chi corregge un beffardo si attira il disprezzo, chi riprende un malvagio, il disonore."
+  },
+  {
+    "i": 16712,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 8,
+    "t": "\"Non riprendere il beffardo, ti odierà; riprendi il saggio, ti amerà."
+  },
+  {
+    "i": 16713,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 9,
+    "t": "\"Da' al saggio, e diventerà più saggio ancora; istruisci il giusto, accrescerà il suo acquisito."
+  },
+  {
+    "i": 16714,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 10,
+    "t": "\"Principio della sapienza è il timore del Signore! La scienza dei santi, ecco l'intelligenza."
+  },
+  {
+    "i": 16715,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 11,
+    "t": "\"Poiché per mezzo mio si moltiplicheranno i tuoi giorni e per te si accresceranno gli anni di vita."
+  },
+  {
+    "i": 16716,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 12,
+    "t": "\"Se sei saggio, lo sei per te stesso; se sei beffardo, tu solo ne porterai la pena."
+  },
+  {
+    "i": 16717,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 13,
+    "t": "\"Donna Follia è impulsiva, stolta e non conoscendo nulla!"
+  },
+  {
+    "i": 16718,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 14,
+    "t": "\"Siede alla porta della sua casa, su un trono, in cima alla città,"
+  },
+  {
+    "i": 16719,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 15,
+    "t": "per chiamare i passanti, quelli che vanno dritti per la loro strada."
+  },
+  {
+    "i": 16720,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 16,
+    "t": "\"Chi è semplice, faccia una deviazione di qui!\" All'uomo insensato dice:"
+  },
+  {
+    "i": 16721,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 17,
+    "t": "\"Le acque rubate sono dolci, e saporito il pane del mistero!"
+  },
+  {
+    "i": 16722,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 18,
+    "t": "\"Ma egli ignora che lì ci sono Ombre e che i suoi invitati sono nelle valli dello sheol."
+  },
+  {
+    "i": 16723,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 1,
+    "t": "\"Proverbi di Salomone. Il figlio saggio rallegra suo padre, il figlio stolto affligge sua madre."
+  },
+  {
+    "i": 16724,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 2,
+    "t": "\"Tesori mal acquistati non giovano, ma la giustizia libera dalla morte."
+  },
+  {
+    "i": 16725,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 3,
+    "t": "\"Il Signore non lascia che il giusto patisca la fame, ma reprime la bramosia dei malvagi."
+  },
+  {
+    "i": 16726,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 4,
+    "t": "\"Mano pigra impoverisce, la mano dei diligenti arricchisce."
+  },
+  {
+    "i": 16727,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 5,
+    "t": "\"Ammassare in estate è da uomo avveduto, dormire al tempo della mietitura è da uomo indegno."
+  },
+  {
+    "i": 16728,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 6,
+    "t": "\"Benedizioni sul capo del giusto, ma la bocca degli empi ricopre la violenza."
+  },
+  {
+    "i": 16729,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 7,
+    "t": "\"La memoria del giusto è in benedizione, il nome dei malvagi cade in putridume."
+  },
+  {
+    "i": 16730,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 8,
+    "t": "\"L'uomo dal cuore saggio accetta gli ordini, l'uomo dalle labbra stolte corre alla sua rovina."
+  },
+  {
+    "i": 16731,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 9,
+    "t": "\"Chi va onestamente va in sicurezza, chi segue una via tortuosa è smascherato."
+  },
+  {
+    "i": 16732,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 10,
+    "t": "\"Chi ammicca con l'occhio causa tormento, chi rimprovera apertamente procura sollievo."
+  },
+  {
+    "i": 16733,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 11,
+    "t": "\"Fonte di vita è la bocca del giusto, ma la bocca degli empi ricopre la violenza."
+  },
+  {
+    "i": 16734,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 12,
+    "t": "\"L'odio suscita litigi, l'amore copre tutte le offese."
+  },
+  {
+    "i": 16735,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 13,
+    "t": "\"Sulle labbra dell'uomo intelligente si trova la saggezza, sul dorso dell'insensato, il bastone."
+  },
+  {
+    "i": 16736,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 14,
+    "t": "\"I saggi tesaurizzano il sapere, ma la bocca dello stolto è un pericolo imminente."
+  },
+  {
+    "i": 16737,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 15,
+    "t": "\"La ricchezza del ricco è la sua fortezza; il male dei deboli è la loro indigenza."
+  },
+  {
+    "i": 16738,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 16,
+    "t": "\"Il salario del giusto procura la vita, il guadagno del malvagio, il peccato."
+  },
+  {
+    "i": 16739,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 17,
+    "t": "\"Cammina verso la vita chi custodisce la disciplina; chi trascura il rimprovero si smarrisce."
+  },
+  {
+    "i": 16740,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 18,
+    "t": "\"Le labbra del mentitore coprono l'odio; chi proferisce una calunnia è uno stolto."
+  },
+  {
+    "i": 16741,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 19,
+    "t": "\"Abbondanza di parole non va senza offesa; chi trattiene le sue labbra è avveduto."
+  },
+  {
+    "i": 16742,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 20,
+    "t": "\"La lingua del giusto è puro argento, il cuore dei malvagi è di poco prezzo."
+  },
+  {
+    "i": 16743,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 21,
+    "t": "\"Le labbra del giusto nutrono una moltitudine, ma gli stolti muoiono per mancanza di senno."
+  },
+  {
+    "i": 16744,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 22,
+    "t": "\"È la benedizione del Signore che arricchisce, senza che la fatica vi aggiunga nulla."
+  },
+  {
+    "i": 16745,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 23,
+    "t": "\"È un gioco per lo stolto darsi al crimine, e per l'uomo intelligente coltivare la saggezza."
+  },
+  {
+    "i": 16746,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 24,
+    "t": "\"Ciò che teme il malvagio gli capita, ciò che desidera il giusto gli è concesso."
+  },
+  {
+    "i": 16747,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 25,
+    "t": "\"Quando la tempesta è passata, il malvagio non c'è più! Ma per sempre, il giusto è stabilito."
+  },
+  {
+    "i": 16748,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 26,
+    "t": "\"Aceto ai denti, fumo agli occhi, tale è il pigro per chi lo manda."
+  },
+  {
+    "i": 16749,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 27,
+    "t": "\"Il timore del Signore prolunga i giorni, gli anni del malvagio saranno abbreviati."
+  },
+  {
+    "i": 16750,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 28,
+    "t": "\"La speranza dei giusti è gioia, la speranza dei malvagi perirà."
+  },
+  {
+    "i": 16751,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 29,
+    "t": "\"La via del Signore è un baluardo per l'uomo onesto, per i malfattori, una rovina."
+  },
+  {
+    "i": 16752,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 30,
+    "t": "\"Mai il giusto sarà scosso, ma i malvagi non abiteranno il paese."
+  },
+  {
+    "i": 16753,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 31,
+    "t": "\"La bocca del giusto esprime la saggezza, la lingua perversa sarà tagliata."
+  },
+  {
+    "i": 16754,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 32,
+    "t": "\"Le labbra del giusto conoscono la benevolenza, la bocca dei malvagi la perversità."
+  },
+  {
+    "i": 16755,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 1,
+    "t": "\"La bilancia falsa è un abominio per il Signore, ma il peso giusto è gradito a lui."
+  },
+  {
+    "i": 16756,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 2,
+    "t": "\"Venga l'insolenza, verrà il disprezzo, ma presso gli umili si trova la saggezza."
+  },
+  {
+    "i": 16757,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 3,
+    "t": "\"La loro onestà guida gli uomini retti, la loro perversità conduce i traditori alla rovina."
+  },
+  {
+    "i": 16758,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 4,
+    "t": "\"Nel giorno della collera, la ricchezza sarà inutile, ma la giustizia libera dalla morte."
+  },
+  {
+    "i": 16759,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 5,
+    "t": "\"La giustizia dell'uomo onesto rende diritta la sua via, il malvagio soccombe nella sua malvagità."
+  },
+  {
+    "i": 16760,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 6,
+    "t": "\"La loro giustizia salva gli uomini retti, nella loro cupidigia i traditori sono presi."
+  },
+  {
+    "i": 16761,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 7,
+    "t": "\"La speranza del malvagio perisce alla sua morte, la fiducia riposta nelle ricchezze è annientata."
+  },
+  {
+    "i": 16762,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 8,
+    "t": "\"Il giusto sfugge all'angoscia, il malvagio vi cade al suo posto."
+  },
+  {
+    "i": 16763,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 9,
+    "t": "\"Con la sua bocca l'empio rovina il suo prossimo, con la conoscenza i giusti si tirano fuori dai guai."
+  },
+  {
+    "i": 16764,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 10,
+    "t": "\"Alla felicità dei giusti, la città esulta, alla perdita dei malvagi, è un grido di gioia."
+  },
+  {
+    "i": 16765,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 11,
+    "t": "\"Per la benedizione degli uomini retti si erge una città, per la bocca dei malvagi, essa è demolita."
+  },
+  {
+    "i": 16766,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 12,
+    "t": "\"Chi disprezza il suo prossimo è privo di senno; l'uomo intelligente tace."
+  },
+  {
+    "i": 16767,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 13,
+    "t": "\"È un portatore di maldicenza, colui che rivela i segreti, è uno spirito sicuro colui che nasconde la faccenda."
+  },
+  {
+    "i": 16768,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 14,
+    "t": "\"Per mancanza di direzione un popolo soccombe, il successo dipende dal gran numero di consiglieri."
+  },
+  {
+    "i": 16769,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 15,
+    "t": "\"Colui che si fa garante per l'estraneo si fa del male, chi rifugge dal dare la mano è al sicuro."
+  },
+  {
+    "i": 16770,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 16,
+    "t": "\"Una donna graziosa acquista onore, i violenti acquisiscono la ricchezza."
+  },
+  {
+    "i": 16771,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 17,
+    "t": "\"L'uomo misericordioso fa del bene a sé stesso, ma un uomo intrattabile affligge la propria carne."
+  },
+  {
+    "i": 16772,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 18,
+    "t": "\"Il malvagio compie un'opera ingannevole, a chi semina la giustizia, la ricompensa è assicurata."
+  },
+  {
+    "i": 16773,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 19,
+    "t": "\"Chi stabilisce la giustizia va alla vita, chi persegue il male, alla morte."
+  },
+  {
+    "i": 16774,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 20,
+    "t": "\"Abominio per il Signore sono i cuori tortuosi; egli ama coloro la cui condotta è onesta."
+  },
+  {
+    "i": 16775,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 21,
+    "t": "\"Certamente, il malvagio non resterà impunito, ma la stirpe dei giusti sarà salva."
+  },
+  {
+    "i": 16776,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 22,
+    "t": "\"Un anello d'oro al grifo di un porco: una donna bella ma priva di senno."
+  },
+  {
+    "i": 16777,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 23,
+    "t": "\"Il desiderio dei giusti è solo il bene, la speranza dei malvagi è la collera."
+  },
+  {
+    "i": 16778,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 24,
+    "t": "\"Taluno è prodigo e la sua ricchezza aumenta, tal altro accumula senza misura e non fa che impoverirsi."
+  },
+  {
+    "i": 16779,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 25,
+    "t": "\"L'anima che benedice prospererà, e chi disseta sarà dissetato."
+  },
+  {
+    "i": 16780,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 26,
+    "t": "Il popolo maledice chi tesaurizza il grano, ma benedizione sul capo di chi lo vende."
+  },
+  {
+    "i": 16781,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 27,
+    "t": "Chi brama il bene, ottiene favore, ma chi insegue il male, da esso sarà raggiunto."
+  },
+  {
+    "i": 16782,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 28,
+    "t": "Chi confida nella ricchezza, cadrà, ma i giusti germoglieranno come fronde."
+  },
+  {
+    "i": 16783,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 29,
+    "t": "Chi getta la sua casa nello scompiglio, erediterà il vento, e lo stolto sarà servo del saggio."
+  },
+  {
+    "i": 16784,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 30,
+    "t": "Il frutto del giusto è un albero di vita; il saggio conquista le anime."
+  },
+  {
+    "i": 16785,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 31,
+    "t": "Se il giusto quaggiù riceve la sua mercede, tanto più l'empio e il peccatore."
+  },
+  {
+    "i": 16786,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 1,
+    "t": "Chi ama la disciplina, ama la conoscenza, chi odia la riprensione è stolto."
+  },
+  {
+    "i": 16787,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 2,
+    "t": "L'uomo dabbene ottiene il favore di Yahvé, ma l'uomo dalle cattive intenzioni, Egli lo condanna."
+  },
+  {
+    "i": 16788,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 3,
+    "t": "Non ci si rafforza con l'empietà, ma nulla smuove la radice dei giusti."
+  },
+  {
+    "i": 16789,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 4,
+    "t": "Una donna virtuosa è la corona del marito, ma una donna indegna è come carie nelle sue ossa."
+  },
+  {
+    "i": 16790,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 5,
+    "t": "I disegni del giusto sono equità, le macchinazioni dell'empio, inganno."
+  },
+  {
+    "i": 16791,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 6,
+    "t": "Le parole degli empi sono insidie di sangue, ma la bocca degli uomini retti li libera."
+  },
+  {
+    "i": 16792,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 7,
+    "t": "Gettati a terra, gli empi non sono più, la casa dei giusti sussiste."
+  },
+  {
+    "i": 16793,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 8,
+    "t": "Si loda un uomo secondo la sua saggezza, il cuore tortuoso è esposto agli affronti."
+  },
+  {
+    "i": 16794,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 9,
+    "t": "Meglio un uomo del popolo che ha un servitore, che uno che si vanta e manca di pane."
+  },
+  {
+    "i": 16795,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 10,
+    "t": "Il giusto conosce le necessità delle sue bestie, ma le viscere dell'empio sono crudeli."
+  },
+  {
+    "i": 16796,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 11,
+    "t": "Chi coltiva la sua terra sarà saziato di pane, chi insegue chimere è privo di senno."
+  },
+  {
+    "i": 16797,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 12,
+    "t": "L'empio si compiace della rete dei malvagi, ma la radice dei giusti porta frutto."
+  },
+  {
+    "i": 16798,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 13,
+    "t": "Nel peccato delle labbra v'è un laccio funesto, ma il giusto si trae fuori dall'angoscia."
+  },
+  {
+    "i": 16799,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 14,
+    "t": "Per il frutto della sua bocca l'uomo si sazia di ciò che è buono, si riceve la ricompensa delle proprie opere."
+  }
+]

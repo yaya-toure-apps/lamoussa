@@ -1,0 +1,802 @@
+[
+  {
+    "i": 1000,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 21,
+    "t": "\"E népek, kik jó szívvel vannak felénk, lakjanak közöttünk e földön, és járjanak-keljenek benne szabadon, mert a föld bőségesen elég nekik. Vegyük el leányaikat feleségül, és adjuk nekik a mi leányainkat."
+  },
+  {
+    "i": 1001,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 22,
+    "t": "Ámde e népek nem hajlandók velünk egy néppé lenni, csak azon feltétellel, ha minden férfiú közülünk körülmetélkedik, amint ők is körül vannak metélve."
+  },
+  {
+    "i": 1002,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 23,
+    "t": "Nyájaik, vagyonuk és minden állatuk nem a miénk lesz-e? Adjunk hát engedélyt nekik, hogy lakjanak közöttünk!"
+  },
+  {
+    "i": 1003,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 24,
+    "t": "Hámor és fia, Sikem szavára hallgatott mindenki, aki a város kapuján bejárt, és minden férfiú körülmetélkedett."
+  },
+  {
+    "i": 1004,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 25,
+    "t": "A harmadik napon, midőn fájdalom gyötörte őket, Jákob két fia, Simeon és Lévi, Dina testvérei, felkötötték kardjukat, és váratlanul a városra törtek, és megöltek minden férfiút."
+  },
+  {
+    "i": 1005,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 26,
+    "t": "Hámort és fiát, Sikemet is kardélre hányták, és Dinát elvitték Sikem házából, és elmentek."
+  },
+  {
+    "i": 1006,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 27,
+    "t": "Jákob fiai a sebesültekre rontottak, és kifosztották a várost, mert megszégyenítették testvérüket."
+  },
+  {
+    "i": 1007,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 28,
+    "t": "Elvitték a juhokat, a marhákat és a szamarakat, mindent, ami a városban és a mezőn volt."
+  },
+  {
+    "i": 1008,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 29,
+    "t": "Elrabolták minden vagyonukat, gyermekeiket és feleségeiket, és kifosztottak mindent, ami a házakban volt."
+  },
+  {
+    "i": 1009,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 30,
+    "t": "Jákob így szólt Simeonhoz és Lévihez: \"Bajba sodortatok engem, mert gyűlöletessé tettetek e föld lakói, a kánaániak és a periziták előtt. Kevesen vagyunk, ha összefognak ellenem, legyőznek, és elpusztulok házam népével együtt."
+  },
+  {
+    "i": 1010,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 31,
+    "t": "De ők így feleltek: \"Vajon úgy kell-e bánni a mi testvérünkkel, mint egy paráznával?"
+  },
+  {
+    "i": 1011,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 1,
+    "t": "Isten pedig szólt Jákobhoz: \"Kelj fel, menj fel Béthelbe, és telepedj le ott. Építs ott oltárt annak az Istennek, aki megjelent neked, amikor futottál testvéred, Ézsau elől."
+  },
+  {
+    "i": 1012,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 2,
+    "t": "Jákob ezt mondta házanépének és mindazoknak, akik vele voltak: \"Távolítsátok el a pogány isteneket, akik közöttetek vannak, tisztítsátok meg magatokat, és változtassátok meg ruháitokat!"
+  },
+  {
+    "i": 1013,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 3,
+    "t": "Induljunk, és menjünk fel Béthelbe! Ott oltárt építek annak az Istennek, aki meghallgatott engem, amikor szorongattam, és velem volt az úton, melyen jártam."
+  },
+  {
+    "i": 1014,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 4,
+    "t": "Átadták Jákobnak mindazokat a pogány isteneket, amelyek birtokukban voltak, és a fülbevalókat is, melyeket viseltek, Jákob pedig elrejtette azokat a tölgyfa alatt, amely Sikem közelében van."
+  },
+  {
+    "i": 1015,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 5,
+    "t": "Elindultak, és Isten félelme szállt a környék városaira, ezért nem üldözték Jákob fiait."
+  },
+  {
+    "i": 1016,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 6,
+    "t": "Jákob megérkezett Lúzba, amely Kánaán földjén van, ez Béthel, ő és minden ember, aki vele volt."
+  },
+  {
+    "i": 1017,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 7,
+    "t": "Ott oltárt épített, és a helyet El-Béthelnek nevezte el, mert Isten megjelent neki, amikor futott testvére elől."
+  },
+  {
+    "i": 1018,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 8,
+    "t": "Ekkor meghalt Debóra, Rebeka dajkája, és eltemették Béthel alatt, a tölgyfa alá, ezért a tölgyet Sír-tölgynek nevezték."
+  },
+  {
+    "i": 1019,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 9,
+    "t": "Isten ismét megjelent Jákobnak, amikor visszatért Paddan-Arámból, és megáldotta őt."
+  },
+  {
+    "i": 1020,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 10,
+    "t": "És ezt mondta neki: \"A neved Jákob, de többé nem Jákob lesz a neved, hanem Izrael lesz a neved.\" Így nevezte őt Izraelnek."
+  },
+  {
+    "i": 1021,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 11,
+    "t": "És ezt mondta neki Isten: \"Én vagyok a Mindenható Isten. Szaporodjál és sokasodjál! Népek, népek sokasága származik tőled, és királyok kerülnek ki a te ágyékodból."
+  },
+  {
+    "i": 1022,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 12,
+    "t": "A földet, amelyet Ábrahámnak és Izsáknak adtam, neked adom, és a te utódaidnak adom ezt a földet utánad."
+  },
+  {
+    "i": 1023,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 13,
+    "t": "Isten pedig felment tőle."
+  },
+  {
+    "i": 1024,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 14,
+    "t": "Jákob emlékoszlopot állított azon a helyen, ahol Isten beszélt vele, egy kőoszlopot, amelyre italáldozatot mutatott be, és olajat öntött."
+  },
+  {
+    "i": 1025,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 15,
+    "t": "Jákob pedig Béthelnek nevezte azt a helyet, ahol Isten beszélt vele."
+  },
+  {
+    "i": 1026,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 16,
+    "t": "Elindultak Béthelből. Még egy kevés út volt hátra Efratáig, amikor Ráhel szült. Nehéz szülése volt,"
+  },
+  {
+    "i": 1027,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 17,
+    "t": "és miközben nehezen szült, a bába ezt mondta neki: \"Ne félj, mert még egy fiad van!"
+  },
+  {
+    "i": 1028,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 18,
+    "t": "Midőn élete végéhez közeledett, mert haldokolt, Ben-Óninak nevezte őt, de az apja Benjáminnak nevezte."
+  },
+  {
+    "i": 1029,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 19,
+    "t": "Meghalt Ráhel, és eltemették az Efratába vezető úton, ez Betlehem."
+  },
+  {
+    "i": 1030,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 20,
+    "t": "Jákob emlékoszlopot állított a sírjára, ez Ráhel síremléke, amely mind a mai napig megvan."
+  },
+  {
+    "i": 1031,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 21,
+    "t": "Izrael továbbment, és felverte sátrait Migdál-Éderen túl."
+  },
+  {
+    "i": 1032,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 22,
+    "t": "Amíg Izrael azon a vidéken lakott, Rúben elment, és lefeküdt apja ágyasával, Bilhával, és Izrael meghallotta. Jákobnak tizenkét fia volt."
+  },
+  {
+    "i": 1033,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 23,
+    "t": "Lea fiai: Jákob elsőszülöttje, Rúben, majd Simeon, Lévi, Júda, Issakár és Zebulon."
+  },
+  {
+    "i": 1034,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 24,
+    "t": "Ráhel fiai: József és Benjámin."
+  },
+  {
+    "i": 1035,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 25,
+    "t": "Bilha, Ráhel szolgálójának fiai: Dán és Naftáli."
+  },
+  {
+    "i": 1036,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 26,
+    "t": "Zilpa, Lea szolgálójának fiai: Gád és Áser. Ezek Jákob fiai, akik Paddan-Arámban születtek."
+  },
+  {
+    "i": 1037,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 27,
+    "t": "Jákob megérkezett apjához, Izsákhoz Mamréba, Kirját-Arbába, ez Hebron, ahol Ábrahám és Izsák tartózkodott."
+  },
+  {
+    "i": 1038,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 28,
+    "t": "Izsák életének ideje  év volt,"
+  },
+  {
+    "i": 1039,
+    "b": 0,
+    "c": 135,
+    "r": 135,
+    "o": 29,
+    "t": "és Izsák meghalt. Elhunyt, és csatlakozott őseihez, vén és napokkal telve, fiai, Ézsau és Jákob temették el."
+  },
+  {
+    "i": 1040,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 1,
+    "t": "Ézsau nemzetsége pedig ez, aki Edom."
+  },
+  {
+    "i": 1041,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 2,
+    "t": "Ézsau feleségeket vett a kánaániak leányai közül: Adát, Elónnak, a hittita fiának a leányát, Oholibámát, Anának a leányát, Cibeónnak, a horeus fiának a fiát,"
+  },
+  {
+    "i": 1042,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 3,
+    "t": "és Baszmátot, Ismáel leányát, Nebájot húgát."
+  },
+  {
+    "i": 1043,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 4,
+    "t": "Áda szülte Ézsaunak Elifázt, Baszmát szülte Réuelt,"
+  },
+  {
+    "i": 1044,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 5,
+    "t": "Oholibáma szülte Jeúst, Jalamot és Kórát. Ezek Ézsau fiai, akik Kánaán földjén születtek."
+  },
+  {
+    "i": 1045,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 6,
+    "t": "Ézsau vette feleségeit, fiait és leányait, egész háza népét, barmát és minden jószágát, azaz minden vagyont, amelyet Kánaán földjén szerzett, és elment Szeír földjére, messze testvérétől, Jákobtól."
+  },
+  {
+    "i": 1046,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 7,
+    "t": "Mert túl sok volt a vagyonuk ahhoz, hogy együtt lakjanak, és a föld, ahol tartózkodtak, nem tudta őket eltartani a vagyonuk miatt."
+  },
+  {
+    "i": 1047,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 8,
+    "t": "Ézsau tehát Szeír hegyén telepedett le. Ézsau az Edom."
+  },
+  {
+    "i": 1048,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 9,
+    "t": "Ézsau nemzetsége pedig ez, Edom atyjáé, Szeír hegyén."
+  },
+  {
+    "i": 1049,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 10,
+    "t": "Ézsau fiainak nevei ezek: Elifáz, Áda fia, Ézsau felesége, és Réuel, Baszmát fia, Ézsau felesége."
+  },
+  {
+    "i": 1050,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 11,
+    "t": "Elifáz fiai pedig ezek: Témán, Ómár, Céfó, Gátám, Kenáz."
+  },
+  {
+    "i": 1051,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 12,
+    "t": "Elifáznak, Ézsau fiának ágyasa volt Timna, és ő szülte neki Amálékot. Ezek Áda fiai, Ézsau felesége."
+  },
+  {
+    "i": 1052,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 13,
+    "t": "Réuel fiai pedig ezek: Nahát, Zerah, Samma, Mizza. Ezek Baszmát fiai, Ézsau felesége."
+  },
+  {
+    "i": 1053,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 14,
+    "t": "Oholibáma fiai pedig ezek, Anának, Cibeón fiának a leánya, Ézsau felesége: Ő szülte neki Jeúst, Jalamot és Kórát."
+  },
+  {
+    "i": 1054,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 15,
+    "t": "Ézsau fiainak fejedelmei pedig ezek. Ézsau elsőszülöttjének, Elifáznak a fiai: Témán fejedelem, Ómár fejedelem, Céfó fejedelem, Kenáz fejedelem,"
+  },
+  {
+    "i": 1055,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 16,
+    "t": "Gátám fejedelem, Amálék fejedelem. Ezek Elifáz fejedelmei Edom földjén, ezek Áda fiai."
+  },
+  {
+    "i": 1056,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 17,
+    "t": "Réuelnek, Ézsau fiának fiai pedig ezek: Nahát fejedelem, Zerah fejedelem, Samma fejedelem, Mizza fejedelem. Ezek Réuel fejedelmei Edom földjén, ezek Baszmát fiai, Ézsau felesége."
+  },
+  {
+    "i": 1057,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 18,
+    "t": "Oholibáma fiai pedig ezek, Ézsau felesége: Jeús fejedelem, Jalam fejedelem, Kóra fejedelem. Ezek Oholibáma fejedelmei, Anának a leánya, Ézsau felesége."
+  },
+  {
+    "i": 1058,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 19,
+    "t": "Ezek Ézsau fiai, és ezek a fejedelmeik. Ez Edom."
+  },
+  {
+    "i": 1059,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 20,
+    "t": "Szeírnek, a horeusnak a fiai pedig ezek, akik a föld őslakói voltak: Lótán, Sóbál, Cibeón, Ana,"
+  },
+  {
+    "i": 1060,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 21,
+    "t": "Disón, Écer, Disán, ezek a horeusok fejedelmei, Szeír fiai Edom földjén."
+  },
+  {
+    "i": 1061,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 22,
+    "t": "Lótán fiai Hóri és Hémám voltak, Lótánnak pedig Timna volt a húga."
+  },
+  {
+    "i": 1062,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 23,
+    "t": "Sóbál fiai pedig ezek: Alván, Manahát, Ébál, Sefó, Onám."
+  },
+  {
+    "i": 1063,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 24,
+    "t": "Cibeón fiai pedig ezek: Ajja, Ana – ez az Ana találta meg a melegvizű forrásokat a pusztában, amikor atyja, Cibeón szamarait legeltette."
+  },
+  {
+    "i": 1064,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 25,
+    "t": "Anának pedig ezek a gyermekei: Disón, Oholibáma, Ana leánya."
+  },
+  {
+    "i": 1065,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 26,
+    "t": "Disón fiai pedig ezek: Hemdán, Esbán, Jitrán, Kerán."
+  },
+  {
+    "i": 1066,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 27,
+    "t": "Écer fiai pedig ezek: Bilhán, Zaaván, Akán."
+  },
+  {
+    "i": 1067,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 28,
+    "t": "Disán fiai pedig ezek: Úc és Arán."
+  },
+  {
+    "i": 1068,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 29,
+    "t": "A horeusok fejedelmei pedig ezek: Lótán fejedelem, Sóbál fejedelem, Cibeón fejedelem, Ana fejedelem,"
+  },
+  {
+    "i": 1069,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 30,
+    "t": "Disón fejedelem, Écer fejedelem, Disán fejedelem. Ezek a horeusok fejedelmei a nemzetségeik szerint Szeír földjén."
+  },
+  {
+    "i": 1070,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 31,
+    "t": "Ezek a királyok uralkodtak Edom földjén, mielőtt Izrael fiai között király uralkodott volna."
+  },
+  {
+    "i": 1071,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 32,
+    "t": "Edomban Béla uralkodott, Beór fia, és városának neve Dinhába volt."
+  },
+  {
+    "i": 1072,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 33,
+    "t": "Meghalt Béla, és helyette Jóbáb uralkodott, Zerah fia, Boczrából."
+  },
+  {
+    "i": 1073,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 34,
+    "t": "Meghalt Jóbáb, és helyette Husám uralkodott a témániak földjéről."
+  },
+  {
+    "i": 1074,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 35,
+    "t": "Meghalt Husám, és helyette Hadád uralkodott, Bedád fia, aki legyőzte a midiánitákat Móáb mezején, és városának neve Avvit volt."
+  },
+  {
+    "i": 1075,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 36,
+    "t": "Meghalt Hadád, és helyette Szamla uralkodott Maszrékából."
+  },
+  {
+    "i": 1076,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 37,
+    "t": "Meghalt Szamla, és helyette Saul uralkodott Rehóbót-Há-Náhárból."
+  },
+  {
+    "i": 1077,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 38,
+    "t": "Meghalt Saul, és helyette Baál-Hánán uralkodott, Akbór fia."
+  },
+  {
+    "i": 1078,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 39,
+    "t": "Meghalt Baál-Hánán, Akbór fia, és helyette Hadád uralkodott; városának neve Páu volt; feleségének neve Mehetábéel, Matréd leánya, Mé-Záhábból."
+  },
+  {
+    "i": 1079,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 40,
+    "t": "Ézsau fejedelmeinek nevei pedig ezek, a nemzetségeik és a helyeik szerint, a neveik szerint: Timna fejedelem, Alva fejedelem, Jetét fejedelem,"
+  },
+  {
+    "i": 1080,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 41,
+    "t": "Óholibáma főember, Élá főember, Pinón főember,"
+  },
+  {
+    "i": 1081,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 42,
+    "t": "Kenáz főember, Témán főember, Mibcár főember,"
+  },
+  {
+    "i": 1082,
+    "b": 0,
+    "c": 136,
+    "r": 136,
+    "o": 43,
+    "t": "Magdiel főember, Irám főember. Ezek Édom főemberei, lakóhelyeik szerint, a földön, amelyet birtokoltak. Ez Ézsau, Édom atyja."
+  },
+  {
+    "i": 1083,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 1,
+    "t": "Jákob pedig azon a földön lakott, ahol atyja tartózkodott, Kánaán földjén."
+  },
+  {
+    "i": 1084,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 2,
+    "t": "Ez Jákob nemzetségének története. József tizenhét éves volt. Testvéreivel őrizte a juhokat, – még ifjú volt, – Bilha fiával és Zilpa fiával, atyjának feleségeivel, és József hírül vitte atyjának a róluk szóló gonoszságot."
+  },
+  {
+    "i": 1085,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 3,
+    "t": "Izrael pedig Józsefet szerette jobban minden fiánál, mert öregsége szülötte volt, és készíttetett neki egy díszes ruhát."
+  },
+  {
+    "i": 1086,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 4,
+    "t": "Látták testvérei, hogy atyjuk őt jobban szereti minden fiánál, és meggyűlölték őt, s nem tudtak vele barátságosan szólni."
+  },
+  {
+    "i": 1087,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 5,
+    "t": "Történt pedig, hogy József álmot látott, és elbeszélte testvéreinek, akik még jobban meggyűlölték őt."
+  },
+  {
+    "i": 1088,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 6,
+    "t": "És monda nékik: „Halljátok az álmot, amelyet láttam:"
+  },
+  {
+    "i": 1089,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 7,
+    "t": "Ímé, mintha kévéket kötöttünk volna a mezőn, és ímé, az én kévém felállott és megállt, és a ti kévéitek körülvették, és leborultak az én kévém előtt.”"
+  },
+  {
+    "i": 1090,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 8,
+    "t": "Testvérei pedig felelének neki: „Talán király akarsz lenni felettünk, vagy uralkodni akarsz rajtunk?” És még inkább meggyűlölték őt, álmáért és beszédeiért."
+  },
+  {
+    "i": 1091,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 9,
+    "t": "Egy másik álmot is látott, amelyet elbeszélt testvéreinek. Monda: „Újra álmot láttam: ímé, a nap, a hold és tizenegy csillag leborultak előttem.”"
+  },
+  {
+    "i": 1092,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 10,
+    "t": "Elbeszélte azt atyjának és testvéreinek, de atyja megdorgálta őt, és monda neki: „Micsoda álom ez, amelyet láttál! Vajon el kell-é jönnünk nékem, anyádnak és testvéreidnek, hogy a földre boruljunk előtted?”"
+  },
+  {
+    "i": 1093,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 11,
+    "t": "Testvérei irigykedtek rá, de atyja megjegyezte magának a dolgot."
+  },
+  {
+    "i": 1094,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 12,
+    "t": "Testvérei pedig elmentek, hogy legeltessék atyjuk juhait Sikhemben."
+  },
+  {
+    "i": 1095,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 13,
+    "t": "Izrael pedig monda Józsefnek: „Testvéreid nem Sikhemben legeltetnek-é? Jöjj, elküldelek hozzájok.” És ő felele: „Ímhol vagyok.”"
+  },
+  {
+    "i": 1096,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 14,
+    "t": "És monda neki: „Menj el, nézd meg, hogy vannak testvéreid és a juhok, és hozz hírt nekem.” Elküldte őt Hebron völgyéből, és József Sikhembe érkezett."
+  },
+  {
+    "i": 1097,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 15,
+    "t": "Talált egy embert, aki a mezőn bolyongott, és az az ember megkérdezte tőle: „Mit keresel?”"
+  },
+  {
+    "i": 1098,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 16,
+    "t": "És felele: „Testvéreimet keresem. Mondd meg nékem, kérlek, hol legeltetik a nyájaikat.”"
+  },
+  {
+    "i": 1099,
+    "b": 0,
+    "c": 137,
+    "r": 137,
+    "o": 17,
+    "t": "És az ember monda: „Elmentek innen, mert hallottam, amint azt mondták: Menjünk Dótánba.” József pedig elment testvérei után, és megtalálta őket Dótánban."
+  }
+]

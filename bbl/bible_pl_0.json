@@ -1,0 +1,802 @@
+[
+  {
+    "i": 0,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 1,
+    "t": "Na początku stworzył Bóg niebo i ziemię."
+  },
+  {
+    "i": 1,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 2,
+    "t": "Ziemia zaś była bezładem i pustkowiem; ciemność była nad przepaścią, a Duch Boży unosił się nad wodami."
+  },
+  {
+    "i": 2,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 3,
+    "t": "I rzekł Bóg: „Niech stanie się światłość!” I stała się światłość."
+  },
+  {
+    "i": 3,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 4,
+    "t": "I widział Bóg, że światłość jest dobra. Oddzielił tedy Bóg światłość od ciemności."
+  },
+  {
+    "i": 4,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 5,
+    "t": "I nazwał Bóg światłość dniem, a ciemność nazwał nocą. I nastał wieczór, i nastał poranek: dzień pierwszy."
+  },
+  {
+    "i": 5,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 6,
+    "t": "Potem rzekł Bóg: „Niech powstanie sklepienie w środku wód i niech oddzieli wody od wód!” I stało się tak."
+  },
+  {
+    "i": 6,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 7,
+    "t": "Uczynił tedy Bóg sklepienie i oddzielił wody pod sklepieniem od wód nad sklepieniem."
+  },
+  {
+    "i": 7,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 8,
+    "t": "I nazwał Bóg sklepienie niebem. I nastał wieczór, i nastał poranek: dzień drugi."
+  },
+  {
+    "i": 8,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 9,
+    "t": "Następnie rzekł Bóg: „Niech się zbiorą wody spod nieba w jedno miejsce i niech się ukaże powierzchnia sucha!” I stało się tak."
+  },
+  {
+    "i": 9,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 10,
+    "t": "I nazwał Bóg powierzchnię suchą ziemią, a zbiorowisko wód nazwał morzem. I widział Bóg, że to było dobre."
+  },
+  {
+    "i": 10,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 11,
+    "t": "I rzekł Bóg: „Niech ziemia wyda rośliny zielone: trawy dające nasienie, drzewa owocowe rodzące na ziemi według swego gatunku owoce, w których jest nasienie”. I stało się tak."
+  },
+  {
+    "i": 11,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 12,
+    "t": "Ziemia wydała rośliny zielone: trawy dające nasienie według swego gatunku i drzewa rodzące owoce, w których było nasienie według swego gatunku. I widział Bóg, że to było dobre."
+  },
+  {
+    "i": 12,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 13,
+    "t": "I nastał wieczór, i nastał poranek: dzień trzeci."
+  },
+  {
+    "i": 13,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 14,
+    "t": "Potem rzekł Bóg: „Niech powstaną światła na sklepieniu nieba, aby oddzielały dzień od nocy i były znakami dla oznaczania pór, dni i lat;"
+  },
+  {
+    "i": 14,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 15,
+    "t": "i niech będą światłami na sklepieniu nieba, aby świeciły nad ziemią”. I stało się tak."
+  },
+  {
+    "i": 15,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 16,
+    "t": "Uczynił tedy Bóg dwa wielkie światła: światło większe, aby rządziło dniem, i światło mniejsze, aby rządziło nocą, oraz gwiazdy."
+  },
+  {
+    "i": 16,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 17,
+    "t": "I umieścił je Bóg na sklepieniu nieba, aby świeciły nad ziemią,"
+  },
+  {
+    "i": 17,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 18,
+    "t": "i aby rządziły dniem i nocą, i oddzielały światłość od ciemności. I widział Bóg, że to było dobre."
+  },
+  {
+    "i": 18,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 19,
+    "t": "I nastał wieczór, i nastał poranek: dzień czwarty."
+  },
+  {
+    "i": 19,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 20,
+    "t": "Rzekł też Bóg: „Niech zaroją się wody od roju istot żywych, a ptactwo niech lata nad ziemią, pod sklepieniem nieba!” I stało się tak."
+  },
+  {
+    "i": 20,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 21,
+    "t": "Stworzył więc Bóg wielkie potwory morskie i wszelkie istoty żywe, które się poruszają, którymi zaroiły się wody, według ich gatunków, i wszelkie ptactwo skrzydlate według jego gatunku. I widział Bóg, że to było dobre."
+  },
+  {
+    "i": 21,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 22,
+    "t": "I pobłogosławił im Bóg, mówiąc: „Rozradzajcie się i rozmnażajcie, i napełniajcie wody w morzach, a ptactwo niech się rozmnaża na ziemi!”"
+  },
+  {
+    "i": 22,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 23,
+    "t": "I nastał wieczór, i nastał poranek: dzień piąty."
+  },
+  {
+    "i": 23,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 24,
+    "t": "Rzekł też Bóg: „Niech ziemia wyda istoty żywe według swego gatunku: bydło, zwierzęta pełzające i zwierzęta dzikie według swego gatunku!” I stało się tak."
+  },
+  {
+    "i": 24,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 25,
+    "t": "Uczynił tedy Bóg zwierzęta dzikie według ich gatunku, bydło według jego gatunku i wszelkie zwierzęta pełzające po ziemi według ich gatunku. I widział Bóg, że to było dobre."
+  },
+  {
+    "i": 25,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 26,
+    "t": "Potem rzekł Bóg: „Uczyńmy człowieka na Nasz obraz, podobnego Nam. Niech panuje nad rybami morskimi, nad ptactwem powietrznym, nad bydłem, nad całą ziemią i nad wszelkim zwierzęciem pełzającym po ziemi!”"
+  },
+  {
+    "i": 26,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 27,
+    "t": "Stworzył więc Bóg człowieka na swój obraz, na obraz Boży go stworzył; stworzył mężczyznę i niewiastę."
+  },
+  {
+    "i": 27,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 28,
+    "t": "A Bóg im błogosławił, mówiąc do nich: „Rozradzajcie się i rozmnażajcie, napełniajcie ziemię i czyńcie ją sobie poddaną; panujcie nad rybami morskimi, nad ptactwem powietrznym i nad wszystkimi zwierzętami, które się poruszają po ziemi!”"
+  },
+  {
+    "i": 28,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 29,
+    "t": "I rzekł Bóg: „Oto wam daję wszelką roślinę przynoszącą nasienie po całej ziemi i wszelkie drzewo, którego owoc ma w sobie nasienie: to będzie pokarm dla was."
+  },
+  {
+    "i": 29,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 30,
+    "t": "A dla wszelkiego zwierzęcia polnego i dla wszelkiego ptactwa powietrznego, i dla wszystkiego, co się porusza po ziemi i ma w sobie życie, daję wszelką trawę zieloną jako pokarm”. I stało się tak."
+  },
+  {
+    "i": 30,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 31,
+    "t": "I widział Bóg wszystko, co uczynił, a było to bardzo dobre. I nastał wieczór, i nastał poranek: dzień szósty."
+  },
+  {
+    "i": 31,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 1,
+    "t": "W ten sposób zostały ukończone niebo i ziemia oraz cały ich zastęp."
+  },
+  {
+    "i": 32,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 2,
+    "t": "A gdy Bóg ukończył w dniu szóstym swe dzieło, nad którym pracował, odpoczął dnia siódmego po całym swym trudzie, jaki podjął."
+  },
+  {
+    "i": 33,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 3,
+    "t": "Wtedy Bóg pobłogosławił ów siódmy dzień i poświęcił go, bo w tym dniu odpoczął po całej swej pracy, którą wykonał stwarzając."
+  },
+  {
+    "i": 34,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 4,
+    "t": "Oto rodowód nieba i ziemi, kiedy zostały stworzone. W dniu, w którym Pan Bóg stworzył ziemię i niebo,"
+  },
+  {
+    "i": 35,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 5,
+    "t": "nie było jeszcze na ziemi żadnego krzewu polnego ani żadna trawa polna nie wzeszła, bo Pan Bóg nie spuścił deszczu na ziemię i nie było człowieka, który by uprawiał rolę."
+  },
+  {
+    "i": 36,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 6,
+    "t": "Tylko mgła unosiła się z ziemi i zwilżała całą powierzchnię gleby."
+  },
+  {
+    "i": 37,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 7,
+    "t": "Wtedy to Pan Bóg ulepił człowieka z prochu ziemi i tchnął w jego nozdrza tchnienie życia, wskutek czego stał się człowiek istotą żywą."
+  },
+  {
+    "i": 38,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 8,
+    "t": "A zasadziwszy ogród w Edenie, na wschodzie, Pan Bóg umieścił tam człowieka, którego ulepił."
+  },
+  {
+    "i": 39,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 9,
+    "t": "Na rozkaz Pana Boga wyrosły z ziemi wszelkie drzewa miłe z wyglądu i smaczny owoc rodzące oraz drzewo życia w środku ogrodu i drzewo poznania dobra i zła."
+  },
+  {
+    "i": 40,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 10,
+    "t": "Z Edenu zaś wypływała rzeka, aby nawadniać ogród, i stamtąd się rozdzielała na cztery odnogi."
+  },
+  {
+    "i": 41,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 11,
+    "t": "Nazwa pierwszej – Piszon; ona to okrąża cały kraj Chawila, gdzie jest złoto."
+  },
+  {
+    "i": 42,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 12,
+    "t": "A złoto tego kraju jest wyborne; tam jest także wonna żywica i kamień onyks."
+  },
+  {
+    "i": 43,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 13,
+    "t": "Nazwa drugiej rzeki – Gichon; ona okrąża cały kraj Kusz."
+  },
+  {
+    "i": 44,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 14,
+    "t": "Nazwa trzeciej rzeki – Chiddekel; płynie ona na wschód od Aszszuru. Czwartą rzeką jest Eufrat."
+  },
+  {
+    "i": 45,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 15,
+    "t": "Pan Bóg wziął tedy człowieka i umieścił go w ogrodzie Eden, aby go uprawiał i doglądał."
+  },
+  {
+    "i": 46,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 16,
+    "t": "A przy tym Pan Bóg dał człowiekowi taki rozkaz: „Z każdego drzewa tego ogrodu możesz jeść do woli,"
+  },
+  {
+    "i": 47,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 17,
+    "t": "ale z drzewa poznania dobra i zła nie wolno ci jeść, bo gdy z niego spożyjesz, niechybnie umrzesz”."
+  },
+  {
+    "i": 48,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 18,
+    "t": "Potem Pan Bóg rzekł: „Nie jest dobrze, żeby mężczyzna był sam. Uczynię mu zatem odpowiednią dla niego pomoc”."
+  },
+  {
+    "i": 49,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 19,
+    "t": "Ulepiwszy z gleby wszelkie zwierzęta lądowe i wszelkie ptaki powietrzne, Pan Bóg przyprowadził je do mężczyzny, aby zobaczyć, jak je nazwie. A jakiekolwiek nazwał mężczyzna zwierzę, taka miała być jego nazwa."
+  },
+  {
+    "i": 50,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 20,
+    "t": "I tak mężczyzna dał nazwy wszelkiemu bydłu, ptakom powietrznym i wszelkiemu zwierzęciu lądowemu, ale nie znalazła się pomoc odpowiednia dla mężczyzny."
+  },
+  {
+    "i": 51,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 21,
+    "t": "Wtedy Pan Bóg zesłał na mężczyznę sen. I gdy mężczyzna spał, wyjął jedno z jego żeber, a miejsce to zapełnił ciałem."
+  },
+  {
+    "i": 52,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 22,
+    "t": "Po czym Pan Bóg z żebra, które wyjął z mężczyzny, utworzył niewiastę i przyprowadził ją do mężczyzny."
+  },
+  {
+    "i": 53,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 23,
+    "t": "Wówczas mężczyzna zawołał: „Ta dopiero jest kością z moich kości i ciałem z mego ciała! Ta będzie się zwała niewiastą, bo ta z mężczyzny została wzięta”."
+  },
+  {
+    "i": 54,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 24,
+    "t": "Dlatego to mężczyzna opuszcza ojca swego i matkę swoją i łączy się ze swą żoną tak ściśle, że stają się jednym ciałem."
+  },
+  {
+    "i": 55,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 25,
+    "t": "Chociaż mężczyzna i jego żona byli nadzy, nie odczuwali wobec siebie wstydu."
+  },
+  {
+    "i": 56,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 1,
+    "t": "A wąż był najbardziej przebiegły ze wszystkich zwierząt polnych, które Pan Bóg stworzył. On to rzekł do niewiasty: „Czy rzeczywiście Bóg powiedział: Nie jedzcie owoców ze wszystkich drzew tego ogrodu?”"
+  },
+  {
+    "i": 57,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 2,
+    "t": "Niewiasta odpowiedziała wężowi: „Owoce z drzew ogrodu jeść możemy,"
+  },
+  {
+    "i": 58,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 3,
+    "t": "tylko o owocach z drzewa, które jest w środku ogrodu, Bóg powiedział: Nie wolno wam jeść z niego ani się go dotykać, abyście nie pomarli”."
+  },
+  {
+    "i": 59,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 4,
+    "t": "Wtedy wąż rzekł do niewiasty: „Na pewno nie umrzecie!"
+  },
+  {
+    "i": 60,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 5,
+    "t": "Ale Bóg wie, że gdy spożyjecie owoc z tego drzewa, otworzą się wam oczy i tak jak Bóg będziecie znali dobro i zło”."
+  },
+  {
+    "i": 61,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 6,
+    "t": "Wtedy niewiasta spostrzegła, że drzewo to ma owoce dobre do jedzenia, miłe dla oka i godne pożądania dla zdobycia wiedzy. Zerwała zatem z niego owoc, skosztowała i dała swemu mężowi, który był z nią; a on zjadł."
+  },
+  {
+    "i": 62,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 7,
+    "t": "A wtedy otworzyły się im obojgu oczy i poznali, że są nadzy; spletli więc liście figowe i zrobili sobie przepaski."
+  },
+  {
+    "i": 63,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 8,
+    "t": "Gdy zaś mężczyzna i jego żona usłyszeli kroki Pana Boga przechadzającego się po ogrodzie w porze powiewu wiatru, skryli się przed Panem Bogiem wśród drzew ogrodu."
+  },
+  {
+    "i": 64,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 9,
+    "t": "Pan Bóg zawołał na mężczyznę i zapytał go: „Gdzie jesteś?”"
+  },
+  {
+    "i": 65,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 10,
+    "t": "On odpowiedział: „Usłyszałem Twój głos w ogrodzie, przestraszyłem się, bo jestem nagi, i dlatego się ukryłem”."
+  },
+  {
+    "i": 66,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 11,
+    "t": "Rzekł Bóg: „Któż ci powiedział, że jesteś nagi? Czy może zjadłeś z drzewa, z którego ci zakazałem jeść?”"
+  },
+  {
+    "i": 67,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 12,
+    "t": "Mężczyzna odpowiedział: „Niewiasta, którą postawiłeś przy mnie, dała mi owoc z tego drzewa i zjadłem”."
+  },
+  {
+    "i": 68,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 13,
+    "t": "Wtedy Pan Bóg rzekł do niewiasty: „Dlaczego to uczyniłaś?” Niewiasta odpowiedziała: „Wąż mnie zwiódł i zjadłam”."
+  },
+  {
+    "i": 69,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 14,
+    "t": "Wtedy Pan Bóg rzekł do węża: „Ponieważ to uczyniłeś, będziesz przeklęty wśród wszelkiego bydła i wszelkiego zwierzęcia polnego. Na brzuchu będziesz się czołgał i proch będziesz jadł po wszystkie dni swego życia."
+  },
+  {
+    "i": 70,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 15,
+    "t": "Wprowadzam nieprzyjaźń między ciebie a niewiastę, pomiędzy potomstwo twoje a potomstwo jej. Ono zmiażdży ci głowę, a ty ukąsisz je w piętę”."
+  },
+  {
+    "i": 71,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 16,
+    "t": "Do niewiasty powiedział: „Obarczę cię niezmiernie wielkim trudem twej brzemienności, w bólu będziesz rodziła dzieci, ku twemu mężowi będziesz kierowała swe pragnienia, on zaś będzie panował nad tobą”."
+  },
+  {
+    "i": 72,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 17,
+    "t": "Do mężczyzny zaś [Bóg] rzekł: „Ponieważ posłuchałeś swej żony i zjadłeś z drzewa, z którego ci zakazałem jeść, przeklęta niech będzie ziemia z twego powodu! W trudzie będziesz zdobywał z niej pożywienie po wszystkie dni twego życia."
+  },
+  {
+    "i": 73,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 18,
+    "t": "Cierń i oset będzie ci rodziła, a żywić się będziesz zielem polnym."
+  },
+  {
+    "i": 74,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 19,
+    "t": "W pocie więc oblicza twego będziesz musiał zdobywać pożywienie, aż wrócisz do ziemi, z której zostałeś wzięty; bo prochem jesteś i w proch się obrócisz!”"
+  },
+  {
+    "i": 75,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 20,
+    "t": "Mężczyzna dał swej żonie imię Ewa, bo ona stała się matką wszystkich żyjących."
+  },
+  {
+    "i": 76,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 21,
+    "t": "Pan Bóg sporządził dla mężczyzny i dla jego żony odzienie ze skór i ich przyodział."
+  },
+  {
+    "i": 77,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 22,
+    "t": "Po czym Pan Bóg rzekł: „Oto człowiek stał się taki jak My: zna dobro i zło; niech teraz nie wyciągnie przypadkiem ręki, aby zerwać owoc także z drzewa życia, zjeść go i żyć na wieki!”"
+  },
+  {
+    "i": 78,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 23,
+    "t": "Dlatego Pan Bóg wydalił go z ogrodu Eden, aby uprawiał ziemię, z której został wzięty."
+  },
+  {
+    "i": 79,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 24,
+    "t": "Wygnawszy zaś człowieka, Bóg postawił przed ogrodem Eden cherubów i miecz z płomienistym ostrzem, aby strzegli drogi do drzewa życia."
+  },
+  {
+    "i": 80,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 1,
+    "t": "I poznał Adam Ewę, żonę swoją; a ta poczęła i urodziła Kaina, i rzekła: \"Posiadłam męża przez Pana."
+  },
+  {
+    "i": 81,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 2,
+    "t": "Potem urodziła Abla, brata jego. I był Abel pasterzem trzód, a Kain uprawiał rolę."
+  },
+  {
+    "i": 82,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 3,
+    "t": "I stało się po pewnym czasie, że Kain ofiarował Panu z płodów rolnych dar."
+  },
+  {
+    "i": 83,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 4,
+    "t": "Abel zaś ofiarował również z pierworodnych owiec swoich i z tłuszczu ich. I wejrzał Pan na Abla i na ofiarę jego."
+  },
+  {
+    "i": 84,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 5,
+    "t": "Na Kaina zaś i na ofiarę jego nie wejrzał. I zasmucił się Kain bardzo, i opadło mu oblicze."
+  },
+  {
+    "i": 85,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 6,
+    "t": "I rzekł Pan do Kaina: \"Czemu się gniewasz i czemu opadło oblicze twoje?"
+  },
+  {
+    "i": 86,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 7,
+    "t": "Jeśli dobrze czynisz, czyż nie będziesz przyjęty? A jeśli źle czynisz, u drzwi czyha grzech. Pożąda ciebie, lecz ty masz nad nim panować."
+  },
+  {
+    "i": 87,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 8,
+    "t": "Potem rzekł Kain do Abla, brata swego: \"Wyjdźmy na pole\". I gdy byli na polu, powstał Kain przeciwko Ablowi, bratu swemu, i zabił go."
+  },
+  {
+    "i": 88,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 9,
+    "t": "I rzekł Pan do Kaina: \"Gdzie jest Abel, brat twój?\" A on odpowiedział: \"Nie wiem. Czyż ja jestem stróżem brata mego?"
+  },
+  {
+    "i": 89,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 10,
+    "t": "I rzekł Pan: \"Co uczyniłeś? Głos krwi brata twego woła do mnie z ziemi!"
+  },
+  {
+    "i": 90,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 11,
+    "t": "Przeto teraz bądź przeklęty na ziemi, która otworzyła usta swoje, aby przyjąć krew brata twego z ręki twojej."
+  },
+  {
+    "i": 91,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 12,
+    "t": "Gdy będziesz uprawiał ziemię, nie da ci ona więcej plonu swego; tułaczem i wędrowcem będziesz na ziemi."
+  },
+  {
+    "i": 92,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 13,
+    "t": "I rzekł Kain do Pana: \"Zbyt wielka jest kara moja, abym mógł ją znieść."
+  },
+  {
+    "i": 93,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 14,
+    "t": "Oto wypędzasz mnie dziś z tej ziemi, i przed obliczem twoim będę się ukrywał, i będę tułaczem i wędrowcem na ziemi; i stanie się, że każdy, kto mnie znajdzie, zabije mnie."
+  },
+  {
+    "i": 94,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 15,
+    "t": "I rzekł mu Pan: \"Przeto każdy, kto by zabił Kaina, siedmiokrotną pomstę poniesie\". I położył Pan na Kainie znak, aby go nie zabił nikt, kto go znajdzie."
+  },
+  {
+    "i": 95,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 16,
+    "t": "Potem odszedł Kain od oblicza Pana i zamieszkał w ziemi Nod, na wschód od Edenu."
+  },
+  {
+    "i": 96,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 17,
+    "t": "I poznał Kain żonę swoją, a ona poczęła i urodziła Henocha. I zbudował miasto i nazwał miasto imieniem swego syna, Henoch."
+  },
+  {
+    "i": 97,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 18,
+    "t": "Henochowi zaś narodził się Irad, a Irad spłodził Mehujaela, a Mehujael spłodził Metuszaela, a Metuszael spłodził Lamecha."
+  },
+  {
+    "i": 98,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 19,
+    "t": "Lamech zaś pojął sobie dwie żony: imię jednej Ada, a imię drugiej Sylla."
+  },
+  {
+    "i": 99,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 20,
+    "t": "Ada urodziła Jabala; on był ojcem tych, którzy mieszkają w namiotach i mają trzody."
+  }
+]

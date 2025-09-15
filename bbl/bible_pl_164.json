@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16400,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 14,
+    "t": "Pan podtrzymuje wszystkich upadających i podnosi wszystkich przygiętych."
+  },
+  {
+    "i": 16401,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 15,
+    "t": "Oczy wszystkich na ciebie czekają, a ty im dajesz pokarm we właściwym czasie."
+  },
+  {
+    "i": 16402,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 16,
+    "t": "Ty otwierasz rękę swoją i nasycasz wszystko, co żyje, według upodobania swego."
+  },
+  {
+    "i": 16403,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 17,
+    "t": "Sprawiedliwy jest Pan we wszystkich drogach swoich i miłosierny we wszystkich dziełach swoich."
+  },
+  {
+    "i": 16404,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 18,
+    "t": "Bliski jest Pan wszystkim, którzy go wzywają, wszystkim, którzy go wzywają w prawdzie."
+  },
+  {
+    "i": 16405,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 19,
+    "t": "Spełnia życzenie tych, którzy się go boją, słyszy krzyk ich i wybawia ich."
+  },
+  {
+    "i": 16406,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 20,
+    "t": "Pan strzeże wszystkich, którzy go miłują, a wszystkich bezbożnych wytraci."
+  },
+  {
+    "i": 16407,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 21,
+    "t": "Niech usta moje głoszą chwałę Pana, a wszelkie ciało niech błogosławi święte imię jego na wieki wieków!"
+  },
+  {
+    "i": 16408,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 1,
+    "t": "Alleluja! Chwal, duszo moja, Pana!"
+  },
+  {
+    "i": 16409,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 2,
+    "t": "Będę chwalił Pana, póki żyję, będę śpiewał Bogu memu, póki trwam."
+  },
+  {
+    "i": 16410,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 3,
+    "t": "Nie pokładajcie ufności w książętach ani w synu człowieczym, w którym nie ma zbawienia!"
+  },
+  {
+    "i": 16411,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 4,
+    "t": "Gdy duch jego opuści, wraca do ziemi swojej; w tymże dniu giną wszystkie zamysły jego."
+  },
+  {
+    "i": 16412,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 5,
+    "t": "Błogosławiony, komu pomocą jest Bóg Jakuba, którego nadzieja w Panu, Bogu jego,"
+  },
+  {
+    "i": 16413,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 6,
+    "t": "Który stworzył niebo i ziemię, morze i wszystko, co w nich jest; który dochowuje prawdy na wieki,"
+  },
+  {
+    "i": 16414,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 7,
+    "t": "Wymierza sprawiedliwość uciśnionym, daje chleb głodnym. Pan uwalnia więźniów,"
+  },
+  {
+    "i": 16415,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 8,
+    "t": "Pan otwiera oczy ślepym, Pan podnosi przygiętych, Pan miłuje sprawiedliwych,"
+  },
+  {
+    "i": 16416,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 9,
+    "t": "Pan strzeże obcych, sierotę i wdowę wspiera, lecz drogę bezbożnych wypacza,"
+  },
+  {
+    "i": 16417,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 10,
+    "t": "Pan króluje na wieki, Bóg twój, Syjonie, z pokolenia w pokolenie."
+  },
+  {
+    "i": 16418,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 1,
+    "t": "Alleluja! Chwalcie Pana, albowiem dobrze jest śpiewać naszemu Bogu, bo słodka i przyjemna jest chwała."
+  },
+  {
+    "i": 16419,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 2,
+    "t": "Buduje Jeruzalem Pan, zgromadza wygnańców Izraela,"
+  },
+  {
+    "i": 16420,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 3,
+    "t": "Leczy rany serc złamanych i zawiązuje ich boleści,"
+  },
+  {
+    "i": 16421,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 4,
+    "t": "Liczy liczbę gwiazd i wszystkie woła po imieniu."
+  },
+  {
+    "i": 16422,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 5,
+    "t": "Wielki jest Pan nasz i potężny, a mądrość jego niezgłębiona."
+  },
+  {
+    "i": 16423,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 6,
+    "t": "Pan podnosi pokornych, a bezbożnych poniża aż do ziemi."
+  },
+  {
+    "i": 16424,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 7,
+    "t": "Śpiewajcie Panu z dziękczynieniem, grajcie Bogu naszemu na cytrze!"
+  },
+  {
+    "i": 16425,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 8,
+    "t": "Który okrywa niebo obłokami, przygotowuje deszcz dla ziemi, który sprawia, że trawa rośnie na górach i zioła ku pożytkowi człowieka,"
+  },
+  {
+    "i": 16426,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 9,
+    "t": "Daje bydłu pokarm jego, pisklętom kruka, które wołają."
+  },
+  {
+    "i": 16427,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 10,
+    "t": "Nie w sile konia ma upodobanie ani w goleniach męża nie znajduje radości,"
+  },
+  {
+    "i": 16428,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 11,
+    "t": "Pan ma upodobanie w tych, którzy się go boją, w tych, którzy oczekują miłosierdzia jego."
+  },
+  {
+    "i": 16429,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 12,
+    "t": "Wysławiaj Pana, Jeruzalem! Chwal Boga twego, Syjonie!"
+  },
+  {
+    "i": 16430,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 13,
+    "t": "Albowiem umocnił zasuwy bram twoich, pobłogosławił synom twoim w tobie,"
+  },
+  {
+    "i": 16431,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 14,
+    "t": "Zapewnia pokój granicom twoim, nasyca cię tłuszczem pszenicy."
+  },
+  {
+    "i": 16432,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 15,
+    "t": "Posyła słowo swoje na ziemię, szybko biegnie słowo jego,"
+  },
+  {
+    "i": 16433,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 16,
+    "t": "Zsyła śnieg jak wełnę, rozsypuje szron jak popiół,"
+  },
+  {
+    "i": 16434,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 17,
+    "t": "Rozrzuca lód swój kawałkami; któż się ostoi przed jego zimnem?"
+  },
+  {
+    "i": 16435,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 18,
+    "t": "Posyła słowo swoje i roztapia je; sprawia, że wieje wiatr jego i płyną wody."
+  },
+  {
+    "i": 16436,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 19,
+    "t": "Objawia Jakubowi słowo swoje, ustawy swoje i prawa Izraelowi."
+  },
+  {
+    "i": 16437,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 20,
+    "t": "Nie uczynił tak żadnemu narodowi i nie poznali praw jego. Alleluja!"
+  },
+  {
+    "i": 16438,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 1,
+    "t": "Alleluja! Chwalcie Pana z niebios, chwalcie go na wysokościach!"
+  },
+  {
+    "i": 16439,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 2,
+    "t": "Chwalcie go, wszyscy aniołowie jego, chwalcie go, wszystkie zastępy jego!"
+  },
+  {
+    "i": 16440,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 3,
+    "t": "Chwalcie go, słońce i księżycu, chwalcie go, wszystkie gwiazdy świecące!"
+  },
+  {
+    "i": 16441,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 4,
+    "t": "Chwalcie go, niebiosa niebios i wody, które są nad niebiosami!"
+  },
+  {
+    "i": 16442,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 5,
+    "t": "Niech chwalą imię Pana, bo on rozkazał i zostały stworzone!"
+  },
+  {
+    "i": 16443,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 6,
+    "t": "Ustanowił je na wieki wieków; wydał ustawę, która nie przeminie."
+  },
+  {
+    "i": 16444,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 7,
+    "t": "Chwalcie Pana z ziemi, smoki morskie i wszystkie głębiny!"
+  },
+  {
+    "i": 16445,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 8,
+    "t": "Ogniu i gradzie, śniegu i mgle, wietrze gwałtowny, który pełnisz słowo jego!"
+  },
+  {
+    "i": 16446,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 9,
+    "t": "Góry i wszystkie pagórki, drzewo owocowe i wszystkie cedry!"
+  },
+  {
+    "i": 16447,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 10,
+    "t": "Dzikie zwierzęta i wszelkie bydło, płazy i ptactwo skrzydlate!"
+  },
+  {
+    "i": 16448,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 11,
+    "t": "Królowie ziemi i wszystkie narody, książęta i wszyscy sędziowie ziemscy!"
+  },
+  {
+    "i": 16449,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 12,
+    "t": "Młodzieńcy i panny, starcy wraz z dziećmi!"
+  },
+  {
+    "i": 16450,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 13,
+    "t": "Niech chwalą imię Pana, bo imię jego jest wzniosłe, jego majestat góruje nad ziemią i niebem!"
+  },
+  {
+    "i": 16451,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 14,
+    "t": "Podwyższył róg ludu swego, ku chwale wszystkich świętych swoich, synów Izraela, ludu, który jest mu bliski. Alleluja!"
+  },
+  {
+    "i": 16452,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 1,
+    "t": "Alleluja! Śpiewajcie Panu pieśń nową, chwałę jego w zgromadzeniu świętych!"
+  },
+  {
+    "i": 16453,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 2,
+    "t": "Niech się raduje Izrael ze swego Stwórcy, synowie Syjonu niech się weselą ze swego Króla!"
+  },
+  {
+    "i": 16454,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 3,
+    "t": "Niech chwalą imię jego tańcem, niech mu grają na bębnie i cytrze!"
+  },
+  {
+    "i": 16455,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 4,
+    "t": "Bo Pan ma upodobanie w swoim ludzie, ozdabia pokornych zbawieniem,"
+  },
+  {
+    "i": 16456,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 5,
+    "t": "Niech się święci radują w chwale, niech śpiewają radośnie na swoich łożach!"
+  },
+  {
+    "i": 16457,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 6,
+    "t": "Chwała Boża niech będzie w ich ustach, a miecz obosieczny w ich ręku,"
+  },
+  {
+    "i": 16458,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 7,
+    "t": "Aby wykonać pomstę nad narodami, karę nad ludami,"
+  },
+  {
+    "i": 16459,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 8,
+    "t": "Aby związać królów ich łańcuchami, a dostojników ich w kajdany żelazne,"
+  },
+  {
+    "i": 16460,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 9,
+    "t": "Aby wykonać nad nimi wyrok zapisany. To jest chwała wszystkich świętych jego. Alleluja!"
+  },
+  {
+    "i": 16461,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 1,
+    "t": "Alleluja! Chwalcie Boga w jego świątyni, chwalcie go na firmamencie jego mocy!"
+  },
+  {
+    "i": 16462,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 2,
+    "t": "Chwalcie go za jego potężne czyny, chwalcie go według wielkości jego wspaniałości!"
+  },
+  {
+    "i": 16463,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 3,
+    "t": "Chwalcie go dźwiękiem trąby, chwalcie go na cytrze i harfie!"
+  },
+  {
+    "i": 16464,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 4,
+    "t": "Chwalcie go bębnem i tańcem, chwalcie go instrumentami strunowymi i fletami!"
+  },
+  {
+    "i": 16465,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 5,
+    "t": "Chwalcie go dźwięcznymi cymbałami, chwalcie go cymbałami gromkimi!"
+  },
+  {
+    "i": 16466,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 6,
+    "t": "Wszystko, co ma dech, niech chwali Pana. Alleluja!"
+  },
+  {
+    "i": 16467,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 1,
+    "t": "Przysłowia Salomona, syna Dawida, króla izraelskiego:"
+  },
+  {
+    "i": 16468,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 2,
+    "t": "Aby poznać mądrość i karność, aby zrozumieć słowa rozsądne,"
+  },
+  {
+    "i": 16469,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 3,
+    "t": "Aby przyjąć karność, która daje roztropność, sprawiedliwość, słuszność i prawość,"
+  },
+  {
+    "i": 16470,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 4,
+    "t": "Aby prostakom dać bystrość umysłu, młodzieńcowi wiedzę i rozwagę,"
+  },
+  {
+    "i": 16471,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 5,
+    "t": "Niech mądry słucha i pomnaża naukę, a rozumny niech nabywa umiejętności kierowania,"
+  },
+  {
+    "i": 16472,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 6,
+    "t": "Aby zrozumieć przysłowie i przypowieść, słowa mądrych i ich zagadki."
+  },
+  {
+    "i": 16473,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 7,
+    "t": "Bojaźń Pańska jest początkiem poznania, głupcy gardzą mądrością i karnością."
+  },
+  {
+    "i": 16474,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 8,
+    "t": "Słuchaj, synu mój, karności ojca swego i nie opuszczaj nauki matki swojej!"
+  },
+  {
+    "i": 16475,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 9,
+    "t": "Gdyż będą one wieńcem wdzięcznym na twojej głowie i naszyjnikiem na twojej szyi."
+  },
+  {
+    "i": 16476,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 10,
+    "t": "Synu mój, jeśli cię będą zwodzić grzesznicy, nie przystawaj na to!"
+  },
+  {
+    "i": 16477,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 11,
+    "t": "Jeśli powiedzą: \"Pójdź z nami, zaczajmy się, aby przelać krew, bez powodu zastawmy sidła na niewinnego,"
+  },
+  {
+    "i": 16478,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 12,
+    "t": "Połknijmy ich żywcem jak Szeol, całych, jak tych, którzy zstępują do grobu!"
+  },
+  {
+    "i": 16479,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 13,
+    "t": "Znajdziemy wszelkie kosztowności, napełnimy nasze domy łupem,"
+  },
+  {
+    "i": 16480,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 14,
+    "t": "Los z nami rzuć, a skrzynka jedna niech będzie nas wszystkich!"
+  },
+  {
+    "i": 16481,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 15,
+    "t": "Synu mój, nie chodź z nimi drogą tą, strzeż nogi swej od ścieżki ich;"
+  },
+  {
+    "i": 16482,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 16,
+    "t": "Albowiem nogi ich bieżą do złego, a spieszą się, aby przelać krew;"
+  },
+  {
+    "i": 16483,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 17,
+    "t": "Bo próżno zastawia się sieć przed oczyma wszelakiego ptactwa."
+  },
+  {
+    "i": 16484,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 18,
+    "t": "Ale oni na własną krew czyhają, i na duszę swoję się zasadzają."
+  },
+  {
+    "i": 16485,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 19,
+    "t": "Takieć są ścieżki każdego, co się kwapi do łakomstwa: ono zgubi duszę tych, którzy się go chwycą."
+  },
+  {
+    "i": 16486,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 20,
+    "t": "Mądrość na dworze woła, na ulicach wydaje głos swój;"
+  },
+  {
+    "i": 16487,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 21,
+    "t": "Na wierzchu murów wrzeszczy, u wrót miasta mówi słowa swe:"
+  },
+  {
+    "i": 16488,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 22,
+    "t": "Dokądżeż prostacy miłować będą prostotę, a naśmiewcy kochać będą naśmiewanie? i głupi nienawidzieć będą umiejętności?"
+  },
+  {
+    "i": 16489,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 23,
+    "t": "Nawróćcie się na karanie moje, oto wam wypuszczę Ducha mego, i oznajmię wam słowa moje."
+  },
+  {
+    "i": 16490,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 24,
+    "t": "Ponieważ wołałam, a wzgardziliście; wyciągnęłam rękę moję, a nie było, kto by uważał,"
+  },
+  {
+    "i": 16491,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 25,
+    "t": "I odrzuciliście wszystką radę moję, a strofowania mego nie chcieliście:"
+  },
+  {
+    "i": 16492,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 26,
+    "t": "Przetoż i Ja w utrapieniu waszym śmiać się będę, a będę się naśmiewać, gdy przyjdzie strach wasz,"
+  },
+  {
+    "i": 16493,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 27,
+    "t": "Gdy przyjdzie jako burza strach wasz, a utrapienie wasze jako wicher przyjdzie; gdy na was przypadnie ucisk i trwoga."
+  },
+  {
+    "i": 16494,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 28,
+    "t": "Tedy wołać będą do mnie, ale nie wysłucham; rano mię szukać będą, ale mię nie znajdą."
+  },
+  {
+    "i": 16495,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 29,
+    "t": "Przeto że mieli w nienawiści umiejętność, a bojaźni Pańskiej nie obrali;"
+  },
+  {
+    "i": 16496,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 30,
+    "t": "Nie chcieli rady mojej, i pogardzili wszystkimi strofowaniami mojemi:"
+  },
+  {
+    "i": 16497,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 31,
+    "t": "Przetoż pożywać będą owocu drogi swej, a radami swemi będą nasyceni."
+  },
+  {
+    "i": 16498,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 32,
+    "t": "Albowiem odwrócenie się prostaków zabije ich, a szczęście głupich zatraci ich."
+  },
+  {
+    "i": 16499,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 33,
+    "t": "Ale kto mię słucha, bezpiecznie mieszkać będzie, i będzie spokojny przed strachem złego."
+  }
+]

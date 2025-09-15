@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "Und ihr sollt den Klippdachs für unrein halten, denn er wiederkäut wohl, hat aber keine gespaltenen Klauen;"
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "auch den Hasen sollt ihr für unrein halten, denn er wiederkäut wohl, hat aber keine gespaltenen Klauen;"
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "und das Schwein sollt ihr für unrein halten, denn es hat wohl gespaltene Klauen und zerteilte Füße, wiederkäut aber nicht."
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "Von ihrem Fleisch sollt ihr nicht essen, und ihr Aas sollt ihr nicht anrühren; denn sie sind euch unrein."
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "Dies aber dürft ihr essen von allem, was im Wasser lebt: Alles, was Flossen und Schuppen hat, sollt ihr essen, sowohl im Meer als auch in Flüssen."
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "Alles aber, was keine Flossen und Schuppen hat, sowohl im Meer als auch in Flüssen, von allem, was sich regt im Wasser, und von allem lebendigen Getier, das darin ist, soll euch ein Gräuel sein."
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "Ja, es soll euch ein Gräuel sein; von ihrem Fleisch sollt ihr nicht essen, und ihr Aas sollt ihr verabscheuen."
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "Alles, was im Wasser keine Flossen und Schuppen hat, soll euch ein Gräuel sein."
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "Diese aber sollt ihr unter den Vögeln verabscheuen, dass sie nicht gegessen werden, denn sie sind ein Gräuel: den Adler, den Lämmergeier, den Fischadler,"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "den schwarzen Geier, und alle Arten von roten Geiern,"
+  },
+  {
+    "i": 3010,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 15,
+    "t": "und alle Arten von Raben,"
+  },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "den Strauß, die Nachteule, die Möwe und alle Arten von Habichten,"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "den Uhu, den Kormoran, die Eule,"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "den Ibis, den Pelikan, den Aasgeier,"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "den Storch, alle Arten von Reihern, den Wiedehopf und die Fledermaus."
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "Alle geflügelten Insekten, die auf allen vieren gehen, sollen euch ein Gräuel sein."
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "Doch von allen geflügelten Insekten, die auf allen vieren gehen, dürft ihr die essen, welche Schenkel über ihren Füßen haben, um damit auf der Erde zu hüpfen."
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "Diese von denselben dürft ihr essen: alle Arten der Wanderheuschrecken, alle Arten der Solam-Heuschrecken, alle Arten der Hargol-Heuschrecken und alle Arten der Hagab-Heuschrecken."
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "Aber alle anderen geflügelten Insekten, die vier Füße haben, sollen euch ein Gräuel sein."
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "Durch diese werdet ihr unrein; wer ihr Aas anrührt, soll unrein sein bis zum Abend."
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "Und wer von ihrem Aas etwas trägt, soll seine Kleider waschen und unrein sein bis zum Abend."
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "Alle Tiere, die gespaltene Klauen haben, aber keine zerteilten Füße und nicht wiederkäuen, sollen euch unrein sein; wer sie anrührt, soll unrein sein."
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "Und alle Tiere, die auf ihren Tatzen gehen, unter allen Tieren, die auf allen vieren gehen, sollen euch unrein sein; wer ihr Aas anrührt, soll unrein sein bis zum Abend,"
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "und wer ihr Aas trägt, soll seine Kleider waschen und unrein sein bis zum Abend. Sie sollen euch unrein sein."
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "Dies aber soll euch unrein sein unter dem Gewürm, das auf Erden kriecht: das Wiesel, die Maus und alle Arten von Eidechsen,"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "den Gecko, den Koah, den Letaah, das Chamäleon und den Tinchameten."
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "Diese sind euch unrein unter allem Gewürm; wer sie anrührt, wenn sie tot sind, soll unrein sein bis zum Abend."
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "Und alles, worauf eines von ihnen fällt, wenn sie tot sind, soll unrein werden, es sei ein hölzernes Gefäß oder ein Kleid oder ein Fell oder ein Sack, oder irgend ein Gerät, womit man etwas tut. Man soll es ins Wasser tun, und es soll unrein sein bis zum Abend; dann wird es rein."
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "Und jedes irdene Gefäß, in das eines von ihnen fällt, soll zerbrochen werden, und alles, was darin ist, soll unrein sein."
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "Alle Speise, die man isst, wenn Wasser darauf kommt, soll unrein sein, und alles Getränk, das man trinkt, in allen Gefäßen, soll unrein sein."
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "Und alles, worauf ihr Aas fällt, soll unrein sein; der Ofen und der Herd sollen zerbrochen werden, denn sie sind unrein und sollen euch unrein sein."
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "Doch Brunnen und Zisternen, wo sich Wasser sammelt, sollen rein bleiben; wer aber ihr Aas anrührt, soll unrein sein."
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "Wenn aber etwas von ihrem Aas auf irgendein Saatgut fällt, das man sät, so ist es rein;"
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "wenn aber Wasser auf das Saatgut gegossen wird, und etwas von ihrem Aas fällt darauf, so soll es euch unrein sein."
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "Wenn ein Tier stirbt, das ihr essen dürft, so soll, wer sein Aas anrührt, unrein sein bis zum Abend;"
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "und wer von seinem Aas isst, soll seine Kleider waschen und unrein sein bis zum Abend; und wer sein Aas trägt, soll seine Kleider waschen und unrein sein bis zum Abend."
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "Alles Gewürm, das auf Erden kriecht, ist ein Gräuel und soll nicht gegessen werden."
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "Alles, was auf dem Bauch kriecht, und alles, was auf allen vieren geht, und alles, was viele Füße hat, alles Gewürm, das auf Erden kriecht, sollt ihr nicht essen; denn es ist ein Gräuel."
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "Macht euch nicht selbst zum Gräuel durch alles Gewürm, das kriecht, und verunreinigt euch nicht daran, dass ihr dadurch unrein werdet."
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "Denn ich bin der HERR, euer Gott. So heiligt euch nun, und seid heilig, denn ich bin heilig; und verunreinigt euch nicht an allem Gewürm, das auf Erden kriecht."
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "Denn ich bin der HERR, der euch aus Ägyptenland heraufgeführt hat, um euer Gott zu sein. Darum sollt ihr heilig sein, denn ich bin heilig."
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "Dies ist das Gesetz über die Tiere, über die Vögel und über alle lebendigen Wesen, die sich im Wasser regen, und über alle Tiere, die auf Erden kriechen,"
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "um einen Unterschied zu machen zwischen dem Unreinen und dem Reinen, zwischen den Tieren, die man essen darf, und denen, die man nicht essen darf."
+  },
+  {
+    "i": 3043,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 1,
+    "t": "Und der HERR redete mit Mose und sprach:"
+  },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Rede mit den Kindern Israel und sprich: Wenn ein Weib empfängt und einen Knaben gebiert, so soll sie sieben Tage unrein sein, wie in den Tagen ihrer leiblichen Unreinheit."
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "Und am achten Tage soll man das Fleisch seiner Vorhaut beschneiden."
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "Und sie soll dreiunddreißig Tage im Blut ihrer Reinigung bleiben; sie soll nichts Heiliges anrühren und nicht zum Heiligtum kommen, bis die Tage ihrer Reinigung vollendet sind."
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "Gebiert sie aber ein Mädchen, so soll sie zwei Wochen unrein sein, wie in ihrer leiblichen Unreinheit; und sie soll sechsundsechzig Tage im Blut ihrer Reinigung bleiben."
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "Wenn aber die Tage ihrer Reinigung vollendet sind, für einen Sohn oder für eine Tochter, so soll sie dem Priester ein einjähriges Lamm zum Brandopfer und eine Taube oder Turteltaube zum Sündopfer bringen, vor die Tür der Stiftshütte."
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "Und er soll es vor dem HERRN opfern und sie entsühnen; so wird sie rein von ihrem Blutfluss. Das ist das Gesetz für die, welche einen Knaben oder ein Mädchen gebiert."
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "Kann sie sich aber kein Lamm leisten, so soll sie zwei Turteltauben oder zwei junge Tauben nehmen, eine zum Brandopfer und die andere zum Sündopfer; und der Priester soll sie entsühnen, so wird sie rein."
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "Und der HERR redete mit Mose und Aaron und sprach:"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "Wenn jemand auf der Haut seines Fleisches eine Beule, einen Ausschlag oder einen glänzenden Fleck bekommt, und es wird eine Stelle vom Aussatz auf der Haut seines Fleisches, so soll man ihn zu Aaron, dem Priester, oder zu einem seiner Söhne, den Priestern, führen."
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "Und der Priester soll die Stelle auf der Haut des Fleisches besehen: Wenn das Haar an der Stelle sich weiß verfärbt hat und die Stelle tiefer erscheint als die übrige Haut seines Fleisches, so ist es ein Aussatzfleck; der Priester soll ihn besehen und ihn für unrein erklären."
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "Wenn aber der glänzende Fleck auf der Haut seines Fleisches weiß ist, aber nicht tiefer erscheint als die übrige Haut und sein Haar sich nicht weiß verfärbt hat, so soll der Priester den, an dem die Stelle ist, sieben Tage einschließen."
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "Und der Priester soll ihn am siebten Tage besehen: Wenn sich die Stelle nach seinem Dafürhalten nicht verändert hat und sich nicht auf der Haut ausgebreitet hat, so soll der Priester ihn noch weitere sieben Tage einschließen."
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "Und der Priester soll ihn am siebten Tage abermals besehen: Wenn die Stelle blass ist und sich nicht auf der Haut ausgebreitet hat, so soll der Priester ihn für rein erklären; es ist nur ein Ausschlag. Er soll seine Kleider waschen, so ist er rein."
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "Wenn sich aber der Ausschlag auf der Haut ausgebreitet hat, nachdem er vom Priester besehen und für rein erklärt worden ist, so soll er sich abermals dem Priester zeigen."
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "Und der Priester soll ihn besehen: Wenn sich der Ausschlag auf der Haut ausgebreitet hat, so soll der Priester ihn für unrein erklären; es ist Aussatz."
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "Wenn an einem Menschen eine Stelle vom Aussatz ist, so soll man ihn zum Priester führen."
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "Und der Priester soll ihn besehen: Wenn sich auf der Haut eine weiße Beule gebildet hat, die das Haar weiß verfärbt hat, und eine offene Stelle in der Beule ist,"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "so ist es ein chronischer Aussatz auf seiner Haut; darum soll der Priester ihn für unrein erklären, und er soll ihn nicht einschließen, denn er ist offenbar unrein."
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "Wenn aber der Aussatz auf der Haut wild um sich greift, so dass der Aussatz die ganze Haut bedeckt, vom Kopf bis zu den Füßen, so weit der Priester sehen kann,"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "so soll der Priester ihn besehen: Wenn der Aussatz seine ganze Haut bedeckt hat, so soll er den, an dem die Stelle ist, für rein erklären; er ist ganz weiß geworden, er ist rein."
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "Sobald aber eine offene Stelle an ihm erscheint, ist er unrein."
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "Und der Priester soll die offene Stelle besehen: Wenn die offene Stelle wieder gesund ist, so soll der Priester ihn für unrein erklären; die offene Stelle ist ein Zeichen von Aussatz, er ist unrein."
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "Wenn aber die offene Stelle sich abermals weiß verfärbt hat, so soll er zum Priester kommen;"
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "und der Priester soll ihn besehen: Wenn die Stelle weiß geworden ist, so soll der Priester den, an dem die Stelle ist, für rein erklären; er ist rein."
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "Wenn auf der Haut des Fleisches ein Geschwür entstanden ist und heil geworden ist,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "und an der Stelle des Geschwürs eine weiße Beule oder ein rötlich-weißer glänzender Fleck entsteht, so soll er sich dem Priester zeigen;"
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "und der Priester soll ihn besehen: Wenn die Stelle tiefer erscheint als die übrige Haut und das Haar sich weiß verfärbt hat, so soll der Priester ihn für unrein erklären; es ist ein Zeichen von Aussatz, der in dem Geschwür ausgebrochen ist."
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "Wenn aber der Priester ihn besieht, und es ist kein weißes Haar daran und ist nicht tiefer als die übrige Haut, sondern blass, so soll der Priester ihn sieben Tage einschließen."
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "Wenn er sich dann auf der Haut ausbreitet, so soll der Priester ihn für unrein erklären; es ist ein Zeichen von Aussatz."
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "Wenn aber der glänzende Fleck an seiner Stelle bleibt und sich nicht ausbreitet, so ist es nur die Narbe des Geschwürs; darum soll der Priester ihn für rein erklären."
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Oder wenn auf der Haut des Fleisches eine Brandwunde entstanden ist, und der Brandwunde entsprechend ein rötlich-weißer oder weißer glänzender Fleck entsteht,"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "so soll ihn der Priester besehen: Wenn sich das Haar an dem glänzenden Fleck weiß verfärbt hat und er tiefer erscheint als die übrige Haut, so ist es ein Zeichen von Aussatz, der in der Brandwunde ausgebrochen ist; darum soll der Priester ihn für unrein erklären, es ist ein Aussatzfleck."
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "Wenn aber der Priester ihn besieht, und es ist kein weißes Haar an dem glänzenden Fleck und er ist nicht tiefer als die übrige Haut, sondern blass, so soll der Priester ihn sieben Tage einschließen."
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "Und der Priester soll ihn am siebten Tage besehen: Wenn er sich dann auf der Haut ausbreitet, so soll der Priester ihn für unrein erklären; es ist ein Zeichen von Aussatz."
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "Wenn aber der glänzende Fleck an seiner Stelle bleibt und sich nicht auf der Haut ausbreitet, sondern blass ist, so ist es nur die Beule der Brandwunde; darum soll der Priester ihn für rein erklären, denn es ist nur die Narbe der Brandwunde."
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "Wenn ein Mann oder ein Weib eine Wunde am Kopf oder Bart hat,"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "So soll der Priester die Plage besehen. Und siehe, wenn die Plage eine Grube ist auf der Haut, und gelbes, dünnes Haar darin ist, so soll der Priester ihn unrein erklären; denn es ist Grind, ein Aussatz am Haupt oder am Bart."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "Wenn aber der Priester den Grind besieht, und siehe, er ist nicht tiefer als die Haut und hat kein gelbes Haar darin, so soll er den, der den Grind hat, sieben Tage einschließen."
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "Des siebenten Tages soll der Priester den Grind wieder besehen. Und siehe, wenn der Grind sich nicht weiter ausgebreitet hat, und ist kein gelbes Haar darin, und der Grind ist nicht tiefer als die Haut,"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "so soll er sich scheren lassen, nur den Grind soll er nicht scheren; und der Priester soll den, der den Grind hat, noch sieben Tage einschließen."
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "Des siebenten Tages soll der Priester den Grind wieder besehen. Und siehe, wenn der Grind sich nicht weiter ausgebreitet hat auf der Haut und ist nicht tiefer als die Haut, so soll der Priester ihn rein sprechen; und er soll seine Kleider waschen und ist rein."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "Wenn aber der Grind sich weiter ausgebreitet hat auf der Haut, nachdem er rein gesprochen ist,"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "so soll der Priester ihn wieder besehen. Wenn sich der Grind weiter ausgebreitet hat auf der Haut, so soll der Priester ihn unrein erklären; denn er ist unrein."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "Wenn aber der Grind nach seinem Gutdünken stille steht, und schwarzes Haar darin gewachsen ist, so ist der Grind geheilt, er ist rein; und der Priester soll ihn rein sprechen."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "Wenn ein Mann oder ein Weib Blattern bekommt, nämlich weiße Blattern auf der Haut,"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "so soll der Priester sie besehen. Wenn die Blattern bläulich weiß sind auf der Haut, so ist es ein Ausschlag, der auf der Haut ausgebrochen ist; er ist rein."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "Wenn einem Mann das Haar vom Haupt fällt, so ist er glatzköpfig und ist rein."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "Wenn ihm das Haar vorn am Haupt ausfällt, so ist er von vorn kahl und ist rein."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "Wenn aber auf der Glatze oder auf der Stirn eine rötlich-weiße Plage ist, so ist es Aussatz, der auf der Glatze oder auf der Stirn ausgebrochen ist."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "So soll der Priester ihn besehen. Wenn ein rötlich-weißes Geschwulst auf der Glatze oder auf der Stirn ist, das aussieht wie Aussatz auf der Haut,"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "so ist er aussätzig, er ist unrein; der Priester soll ihn unrein erklären, denn er hat Aussatz am Haupt."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "Wer aber aussätzig ist, an dem soll das Kleid zerrissen und das Haupt bloß sein, und er soll seinen Bart verhüllen und rufen: Unrein, unrein!"
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "Solange er die Plage hat, soll er unrein sein; er ist unrein, er soll einsam wohnen, außerhalb des Lagers soll seine Wohnung sein."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "Wenn eine Plage an einem Kleid ist, es sei ein wollenes oder leinenes Kleid,"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "oder am Gewebe oder am Geknüpften von Wolle oder von Leinen, oder an Fellwerk, oder an irgendeinem Gerät von Fell,"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "wenn die Plage grünlich oder rötlich ist am Kleid oder am Fellwerk oder am Gewebe oder am Geknüpften oder an irgendeinem Gerät von Fell, so ist es eine Plage von Aussatz, und man soll sie dem Priester zeigen."
+  }
+]

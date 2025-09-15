@@ -1,0 +1,802 @@
+[
+  {
+    "i": 34500,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 20,
+    "t": "Przez wiarę Izaak pobłogosławił Jakuba i Ezawa co do przyszłych rzeczy."
+  },
+  {
+    "i": 34501,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 21,
+    "t": "Przez wiarę Jakub, umierając, pobłogosławił każdego z synów Józefa i pokłonił się wsparty na wierzchu swej laski."
+  },
+  {
+    "i": 34502,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 22,
+    "t": "Przez wiarę Józef, bliski śmierci, wspomniał o wyjściu synów Izraela i dał rozkaz co do swoich kości."
+  },
+  {
+    "i": 34503,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 23,
+    "t": "Przez wiarę Mojżesz, gdy się narodził, był ukrywany przez swoich rodziców przez trzy miesiące, gdyż widzieli, że dziecię jest piękne, i nie bali się rozkazu królewskiego."
+  },
+  {
+    "i": 34504,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 24,
+    "t": "Przez wiarę Mojżesz, gdy dorósł, odmówił nazywania się synem córki faraona,"
+  },
+  {
+    "i": 34505,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 25,
+    "t": "Wybierając raczej cierpieć z ludem Bożym, niż zażywać doczesnych rozkoszy grzechu,"
+  },
+  {
+    "i": 34506,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 26,
+    "t": "Uznając zniewagę Chrystusa za większe bogactwo niż skarby Egiptu, bo miał na uwadze nagrodę."
+  },
+  {
+    "i": 34507,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 27,
+    "t": "Przez wiarę opuścił Egipt, nie bojąc się gniewu króla, bo trwał, jakby widział Niewidzialnego."
+  },
+  {
+    "i": 34508,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 28,
+    "t": "Przez wiarę obchodził Paschę i pokropił krwią, aby ten, który zabijał pierworodnych, nie dotknął ich."
+  },
+  {
+    "i": 34509,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 29,
+    "t": "Przez wiarę przeszli przez Morze Czerwone jak po suchej ziemi, a gdy Egipcjanie próbowali, zostali pochłonięci."
+  },
+  {
+    "i": 34510,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 30,
+    "t": "Przez wiarę padły mury Jerycha po okrążeniu ich przez siedem dni."
+  },
+  {
+    "i": 34511,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 31,
+    "t": "Przez wiarę Rachab, nierządnica, nie zginęła z niewierzącymi, gdyż przyjęła zwiadowców w pokoju."
+  },
+  {
+    "i": 34512,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 32,
+    "t": "I cóż jeszcze powiem? Zabrakłoby mi bowiem czasu, by opowiadać o Gedeonie, Baraku, Samsonie, Jeftem, Dawidzie, Samuelu i prorokach,"
+  },
+  {
+    "i": 34513,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 33,
+    "t": "Którzy przez wiarę podbili królestwa, wymierzali sprawiedliwość, dostąpili obietnic, zamknęli paszcze lwom,"
+  },
+  {
+    "i": 34514,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 34,
+    "t": "Ugasili moc ognia, uniknęli ostrza miecza, nabrali mocy będąc słabi, stali się mężni w boju, zmusili do ucieczki wojska cudzoziemskie."
+  },
+  {
+    "i": 34515,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 35,
+    "t": "Kobiety otrzymały zmartwychwstałych umarłych swoich. Inni zostali zamęczeni, nie przyjmując wybawienia, aby dostąpić lepszego zmartwychwstania."
+  },
+  {
+    "i": 34516,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 36,
+    "t": "Inni zaś doznali szyderstw i biczów, a nawet więzów i więzienia."
+  },
+  {
+    "i": 34517,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 37,
+    "t": "Kamienowano ich, przeszywano piłą, zabijano mieczem, chodzili w skórach owczych i kozich, w nędzy, ucisku i utrapieniu,"
+  },
+  {
+    "i": 34518,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 38,
+    "t": "(Świat nie był ich godzien) błąkali się po pustyniach i górach, po jaskiniach i rozpadlinach ziemi."
+  },
+  {
+    "i": 34519,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 39,
+    "t": "A wszyscy ci, choć przez wiarę dostąpili świadectwa, nie otrzymali obietnicy,"
+  },
+  {
+    "i": 34520,
+    "b": 64,
+    "c": 6611,
+    "r": 6611,
+    "o": 40,
+    "t": "Ponieważ Bóg przewidział coś lepszego dla nas, aby oni bez nas nie stali się doskonałymi."
+  },
+  {
+    "i": 34521,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 1,
+    "t": "Dlatego i my, mając wokół siebie tak wielki obłok świadków, odrzućmy wszelki ciężar i grzech, który nas tak łatwo osacza, i biegnijmy wytrwale w wyznaczonym nam biegu,"
+  },
+  {
+    "i": 34522,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 2,
+    "t": "Patrząc na Jezusa, twórcę i dokończyciela wiary, który z powodu radości, jaka była przed nim, wycierpiał krzyż, gardząc hańbą, i zasiadł po prawicy tronu Bożego."
+  },
+  {
+    "i": 34523,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 3,
+    "t": "Zastanówcie się nad tym, który zniósł tak wielki sprzeciw ze strony grzeszników, abyście nie ustawali, znużeni na duchu."
+  },
+  {
+    "i": 34524,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 4,
+    "t": "Jeszcze nie stawialiście oporu aż do krwi, walcząc przeciwko grzechowi."
+  },
+  {
+    "i": 34525,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 5,
+    "t": "I zapomnieliście o napomnieniu, które się wam, jak synom, zwraca: Synu mój, nie lekceważ karania Pańskiego ani nie zniechęcaj się, gdy cię strofuje;"
+  },
+  {
+    "i": 34526,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 6,
+    "t": "Bo kogo Pan miłuje, tego karze, i chłoszcze każdego syna, którego przyjmuje."
+  },
+  {
+    "i": 34527,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 7,
+    "t": "Jeśli znosicie karanie, Bóg obchodzi się z wami jak z synami. Bo jakiż to syn, którego ojciec nie karze?"
+  },
+  {
+    "i": 34528,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 8,
+    "t": "Jeśli zaś jesteście bez karania, którego wszyscy dostąpili, to jesteście bękartami, a nie synami."
+  },
+  {
+    "i": 34529,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 9,
+    "t": "Ponadto, mieliśmy ojców naszych ciał, którzy nas karali, a szanowaliśmy ich; czyż nie tym bardziej powinniśmy być poddani Ojcu duchów, aby żyć?"
+  },
+  {
+    "i": 34530,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 10,
+    "t": "Tamci bowiem karali nas przez krótki czas według swego uznania, ten zaś dla naszego dobra, abyśmy stali się uczestnikami jego świętości."
+  },
+  {
+    "i": 34531,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 11,
+    "t": "Wszelkie karanie na razie nie wydaje się radosne, lecz smutne; później jednak przynosi błogosławiony owoc sprawiedliwości tym, którzy przez nie byli ćwiczeni."
+  },
+  {
+    "i": 34532,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 12,
+    "t": "Przeto wzmocnijcie omdlałe ręce i słabe kolana,"
+  },
+  {
+    "i": 34533,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 13,
+    "t": "I prostujcie ścieżki dla waszych stóp, aby to, co chromi, nie zboczyło, ale raczej zostało uzdrowione."
+  },
+  {
+    "i": 34534,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 14,
+    "t": "Dążcie do pokoju ze wszystkimi i do świętości, bez której nikt nie ujrzy Pana;"
+  },
+  {
+    "i": 34535,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 15,
+    "t": "Uważajcie, aby nikt nie pozbawił się łaski Bożej, aby żaden korzeń goryczy, wyrastając, nie sprawiał zamieszania i aby przez to wielu nie zostało skażonych,"
+  },
+  {
+    "i": 34536,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 16,
+    "t": "Aby nikt nie był rozpustny ani bezbożny jak Ezaw, który za jedną potrawę sprzedał swoje pierworództwo."
+  },
+  {
+    "i": 34537,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 17,
+    "t": "Wiecie bowiem, że potem, gdy chciał odziedziczyć błogosławieństwo, został odrzucony, gdyż nie znalazł miejsca na pokutę, choć jej ze łzami szukał."
+  },
+  {
+    "i": 34538,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 18,
+    "t": "Nie przystąpiliście bowiem do góry, której można dotknąć, do płonącego ognia, do ciemności, mroku i burzy,"
+  },
+  {
+    "i": 34539,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 19,
+    "t": "Do dźwięku trąby i głosu słów, tak że ci, którzy go słyszeli, prosili, aby do nich więcej nie mówiono,"
+  },
+  {
+    "i": 34540,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 20,
+    "t": "Gdyż nie mogli znieść tego nakazu: Jeśli dotknie góry zwierzę, zostanie ukamienowane lub przeszyte strzałą."
+  },
+  {
+    "i": 34541,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 21,
+    "t": "A tak straszne było to zjawisko, że Mojżesz powiedział: Jestem przerażony i drżący."
+  },
+  {
+    "i": 34542,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 22,
+    "t": "Lecz przystąpiliście do góry Syjon i do miasta Boga żywego, do niebieskiego Jeruzalem, i do niezliczonej rzeszy aniołów,"
+  },
+  {
+    "i": 34543,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 23,
+    "t": "Do uroczystego zgromadzenia i kościoła pierworodnych, którzy są zapisani w niebie, do Boga, sędziego wszystkich, i do duchów sprawiedliwych, którzy stali się doskonałymi,"
+  },
+  {
+    "i": 34544,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 24,
+    "t": "I do Jezusa, pośrednika nowego przymierza, i do krwi pokropienia, która mówi lepiej niż krew Abla."
+  },
+  {
+    "i": 34545,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 25,
+    "t": "Uważajcie, abyście nie odrzucili tego, który mówi. Bo jeśli ci, którzy odrzucili tego, który mówił na ziemi, nie uszli kary, tym bardziej my, jeśli odwrócimy się od tego, który mówi z nieba."
+  },
+  {
+    "i": 34546,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 26,
+    "t": "Którego głos wstrząsnął wtedy ziemią, a teraz obiecał, mówiąc: Jeszcze raz wstrząsnę nie tylko ziemią, lecz także niebem."
+  },
+  {
+    "i": 34547,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 27,
+    "t": "A to jeszcze raz wskazuje na usunięcie tego, co jest wstrząsane, jako stworzonego, aby trwało to, co jest niewzruszone."
+  },
+  {
+    "i": 34548,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 28,
+    "t": "Przeto, otrzymując królestwo niewzruszone, okażmy wdzięczność, przez którą służmy Bogu w sposób przyjemny, z nabożnością i bojaźnią."
+  },
+  {
+    "i": 34549,
+    "b": 64,
+    "c": 6612,
+    "r": 6612,
+    "o": 29,
+    "t": "Nasz Bóg bowiem jest ogniem trawiącym."
+  },
+  {
+    "i": 34550,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 1,
+    "t": "Niech trwa miłość braterska."
+  },
+  {
+    "i": 34551,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 2,
+    "t": "Nie zapominajcie o gościnności, gdyż przez nią niektórzy, nie wiedząc o tym, ugościli aniołów."
+  },
+  {
+    "i": 34552,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 3,
+    "t": "Pamiętajcie o więźniach, jakbyście byli z nimi uwięzieni, i o tych, którzy cierpią, jako że i wy jesteście w ciele."
+  },
+  {
+    "i": 34553,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 4,
+    "t": "Małżeństwo niech będzie we czci u wszystkich, a łoże nieskalane. Bóg bowiem będzie sądził rozpustników i cudzołożników."
+  },
+  {
+    "i": 34554,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 5,
+    "t": "Postępowanie wasze niech będzie wolne od chciwości, zadowalajcie się tym, co macie. On bowiem powiedział: Nie opuszczę cię ani cię nie porzucę."
+  },
+  {
+    "i": 34555,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 6,
+    "t": "Tak że z ufnością możemy mówić: Pan jest moim pomocnikiem, nie będę się bał. Cóż może mi uczynić człowiek?"
+  },
+  {
+    "i": 34556,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 7,
+    "t": "Pamiętajcie o waszych przywódcach, którzy głosili wam Słowo Boże, i rozważając koniec ich życia, naśladujcie ich wiarę."
+  },
+  {
+    "i": 34557,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 8,
+    "t": "Jezus Chrystus jest ten sam wczoraj, dzisiaj i na wieki."
+  },
+  {
+    "i": 34558,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 9,
+    "t": "Nie dajcie się zwieść różnym i obcym naukom. Dobrze bowiem jest umacniać serce łaską, a nie pokarmami, które nie przyniosły korzyści tym, którzy je spożywali."
+  },
+  {
+    "i": 34559,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 10,
+    "t": "Mamy ołtarz, z którego ci, którzy służą w przybytku, nie mają prawa jeść."
+  },
+  {
+    "i": 34560,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 11,
+    "t": "Ciała tych zwierząt, których krew arcykapłan wnosi do świątyni za grzech, pali się poza obozem."
+  },
+  {
+    "i": 34561,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 12,
+    "t": "Dlatego i Jezus, aby uświęcić lud własną krwią, cierpiał poza bramą."
+  },
+  {
+    "i": 34562,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 13,
+    "t": "Wyjdźmy więc do niego poza obóz, znosząc jego zniewagę."
+  },
+  {
+    "i": 34563,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 14,
+    "t": "Nie mamy tu bowiem miasta trwałego, ale szukamy przyszłego."
+  },
+  {
+    "i": 34564,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 15,
+    "t": "Przez niego więc składajmy Bogu ofiarę chwały zawsze, to jest owoc warg wyznających jego imię."
+  },
+  {
+    "i": 34565,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 16,
+    "t": "A nie zapominajcie o dobroczynności i wspólnocie, bo takie ofiary podobają się Bogu."
+  },
+  {
+    "i": 34566,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 17,
+    "t": "Bądźcie posłuszni waszym przywódcom i bądźcie im ulegli, bo oni czuwają nad waszymi duszami, jak ci, którzy muszą zdać z tego sprawę, aby czynili to z radością, a nie ze wzdychaniem, bo to wam nie byłoby korzystne."
+  },
+  {
+    "i": 34567,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 18,
+    "t": "Módlcie się za nas, ufamy bowiem, że mamy dobre sumienie, we wszystkim chcemy dobrze postępować."
+  },
+  {
+    "i": 34568,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 19,
+    "t": "A szczególnie proszę was o to, abym jak najszybciej mógł być wam przywrócony."
+  },
+  {
+    "i": 34569,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 20,
+    "t": "A Bóg pokoju, który przez krew wiecznego przymierza wyprowadził spośród umarłych wielkiego Pasterza owiec, naszego Pana Jezusa,"
+  },
+  {
+    "i": 34570,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 21,
+    "t": "Niech was uzdolni do czynienia jego woli w każdym dobrym uczynku, sprawiając w was to, co jest miłe w jego oczach, przez Jezusa Chrystusa, któremu niech będzie chwała na wieki wieków. Amen."
+  },
+  {
+    "i": 34571,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 22,
+    "t": "Proszę was, bracia, przyjmijcie te słowa napomnienia, bo krótko wam napisałem."
+  },
+  {
+    "i": 34572,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 23,
+    "t": "Wiedzcie, że nasz brat Tymoteusz został uwolniony. Jeśli wkrótce przyjdzie, to razem z nim was zobaczę."
+  },
+  {
+    "i": 34573,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 24,
+    "t": "Pozdrówcie wszystkich waszych przywódców i wszystkich świętych. Pozdrawiają was ci z Italii."
+  },
+  {
+    "i": 34574,
+    "b": 64,
+    "c": 6613,
+    "r": 6613,
+    "o": 25,
+    "t": "Łaska niech będzie z wami wszystkimi. Amen."
+  },
+  {
+    "i": 34575,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 1,
+    "t": "Jakub, sługa Boga i Pana Jezusa Chrystusa, do dwunastu pokoleń rozproszonych, pozdrowienie."
+  },
+  {
+    "i": 34576,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 2,
+    "t": "Uważajcie to za najwyższą radość, bracia moi, gdy popadacie w różnorodne próby;"
+  },
+  {
+    "i": 34577,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 3,
+    "t": "Wiedząc, że doświadczenie waszej wiary rodzi cierpliwość."
+  },
+  {
+    "i": 34578,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 4,
+    "t": "Cierpliwość zaś niech ma doskonały uczynek, abyście byli doskonali i zupełni, w niczym nie niedostawali."
+  },
+  {
+    "i": 34579,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 5,
+    "t": "Jeśli komuś z was brakuje mądrości, niech prosi Boga, który daje wszystkim obficie i bez wypominania, a będzie mu dana."
+  },
+  {
+    "i": 34580,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 6,
+    "t": "Niechże prosi z wiarą, nic nie wątpiąc; kto bowiem wątpi, podobny jest do fali morskiej, wiatrem pędzonej i miotanej."
+  },
+  {
+    "i": 34581,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 7,
+    "t": "Niechaj przeto taki człowiek nie mniema, że weźmie cokolwiek od Pana,"
+  },
+  {
+    "i": 34582,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 8,
+    "t": "człowiek o rozdwojonej duszy, niestały we wszystkich swych drogach!"
+  },
+  {
+    "i": 34583,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 9,
+    "t": "Niech się tedy brat ubogi chlubi wywyższeniem swoim,"
+  },
+  {
+    "i": 34584,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 10,
+    "t": "a bogaty - poniżeniem swoim, bo przeminie jak kwiat polny."
+  },
+  {
+    "i": 34585,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 11,
+    "t": "Wzeszło bowiem słońce z żarem i wysuszyło trawę, a kwiat jej opadł i zginęła piękność jego wyglądu; tak też przeminie bogaty w działaniach swoich!"
+  },
+  {
+    "i": 34586,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 12,
+    "t": "Błogosławiony mąż, który znosi próbę; bo gdy zostanie wypróbowany, weźmie wieniec żywota, obiecany od Pana tym, którzy go miłują."
+  },
+  {
+    "i": 34587,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 13,
+    "t": "Nikt, gdy bywa doświadczany, niech nie mówi: \"Przez Boga jestem doświadczany\"; Bóg bowiem nie jest doświadczany w złem i sam nikogo nie doświadcza."
+  },
+  {
+    "i": 34588,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 14,
+    "t": "Lecz każdy bywa doświadczany, gdy przez własną pożądliwość bywa pociągany i zwabiony."
+  },
+  {
+    "i": 34589,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 15,
+    "t": "Potem, gdy pożądliwość pocznie, rodzi grzech, a grzech, gdy dojrzeje, rodzi śmierć."
+  },
+  {
+    "i": 34590,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 16,
+    "t": "Nie błądźcie, bracia moi umiłowani!"
+  },
+  {
+    "i": 34591,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 17,
+    "t": "Wszelki datek dobry i wszelki dar doskonały z góry pochodzi, od Ojca światłości, u którego nie ma zmiany ani cienia przemiany."
+  },
+  {
+    "i": 34592,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 18,
+    "t": "Z własnej woli zrodził nas słowem prawdy, abyśmy byli jakby pierwocinami jego stworzeń."
+  },
+  {
+    "i": 34593,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 19,
+    "t": "Wiedzcie to, bracia moi umiłowani! Niech każdy człowiek będzie skory do słuchania, nieskory do mówienia, nieskory do gniewu,"
+  },
+  {
+    "i": 34594,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 20,
+    "t": "gdyż gniew człowieka nie czyni sprawiedliwości Bożej."
+  },
+  {
+    "i": 34595,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 21,
+    "t": "Przeto odrzućcie wszelką nieczystość i nadmiar złości, a z łagodnością przyjmijcie wszczepione słowo, które może zbawić dusze wasze."
+  },
+  {
+    "i": 34596,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 22,
+    "t": "Bądźcie wykonawcami słowa, a nie tylko słuchaczami, oszukującymi samych siebie."
+  },
+  {
+    "i": 34597,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 23,
+    "t": "Bo jeśli ktoś słucha słowa, a nie wykonuje go, podobny jest do męża, który przypatruje się w zwierciadle swojemu obliczu;"
+  },
+  {
+    "i": 34598,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 24,
+    "t": "bo przypatrzył się sobie i odszedł, i zaraz zapomniał, jakim był."
+  },
+  {
+    "i": 34599,
+    "b": 65,
+    "c": 6701,
+    "r": 6701,
+    "o": 25,
+    "t": "Kto zaś wgląda w doskonałe prawo wolności i w nim wytrwa, nie jako słuchacz, który zapomina, lecz jako wykonawca dzieła, ten będzie błogosławiony w swoim działaniu."
+  }
+]

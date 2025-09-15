@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17200,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 21,
+    "t": "Si tu enemigo tiene hambre, dale de comer; si tiene sed, dale de beber,"
+  },
+  {
+    "i": 17201,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 22,
+    "t": "porque ascuas amontonarás sobre su cabeza, y Yahvé te recompensará."
+  },
+  {
+    "i": 17202,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 23,
+    "t": "El viento del norte trae la lluvia, y la lengua disimulada, el rostro airado."
+  },
+  {
+    "i": 17203,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 24,
+    "t": "Mejor es morar en un rincón del terrado que con mujer rencillosa en casa espaciosa."
+  },
+  {
+    "i": 17204,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 25,
+    "t": "Como agua fresca al alma sedienta, así son las buenas nuevas de lejanas tierras."
+  },
+  {
+    "i": 17205,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 26,
+    "t": "Fuente turbia y manantial corrompido es el justo que cede ante el impío."
+  },
+  {
+    "i": 17206,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 27,
+    "t": "Comer mucha miel no es bueno, ni el buscar la propia gloria es honroso."
+  },
+  {
+    "i": 17207,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 28,
+    "t": "Como ciudad derribada y sin muro, así es el hombre que no domina su espíritu."
+  },
+  {
+    "i": 17208,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 1,
+    "t": "Como la nieve en el verano, y la lluvia en la siega, así no conviene el honor al necio."
+  },
+  {
+    "i": 17209,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 2,
+    "t": "Como el gorrión que revolotea y la golondrina que vuela, así la maldición sin causa no viene."
+  },
+  {
+    "i": 17210,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 3,
+    "t": "El látigo para el caballo, el cabestro para el asno, y la vara para la espalda de los necios."
+  },
+  {
+    "i": 17211,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 4,
+    "t": "No respondas al necio según su necedad, para que no seas tú también como él."
+  },
+  {
+    "i": 17212,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 5,
+    "t": "Responde al necio según su necedad, para que no se estime sabio en su propia opinión."
+  },
+  {
+    "i": 17213,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 6,
+    "t": "Como cortarse los pies y beber el daño, así es el que envía un mensaje por mano de un necio."
+  },
+  {
+    "i": 17214,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 7,
+    "t": "Las piernas del cojo penden inútiles, así es el proverbio en la boca de los necios."
+  },
+  {
+    "i": 17215,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 8,
+    "t": "Como quien ata la piedra en la honda, así es el que da honra al necio."
+  },
+  {
+    "i": 17216,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 9,
+    "t": "Espina que se clava en la mano del ebrio, tal es el proverbio en la boca de los necios."
+  },
+  {
+    "i": 17217,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 10,
+    "t": "Como arquero que a todos hiere, así es el que toma a sueldo a necios o vagabundos."
+  },
+  {
+    "i": 17218,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 11,
+    "t": "Como perro que vuelve a su vómito, así el necio repite su necedad."
+  },
+  {
+    "i": 17219,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 12,
+    "t": "¿Has visto a un hombre sabio en su propia opinión? Más esperanza hay del necio que de él."
+  },
+  {
+    "i": 17220,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 13,
+    "t": "Dice el perezoso: \"¡Hay un león en el camino! ¡Un león en las calles!"
+  },
+  {
+    "i": 17221,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 14,
+    "t": "La puerta gira sobre sus goznes, y el perezoso sobre su cama."
+  },
+  {
+    "i": 17222,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 15,
+    "t": "Mete el perezoso su mano en el plato, y le cansa hasta llevarla a su boca."
+  },
+  {
+    "i": 17223,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 16,
+    "t": "Más sabio se cree el perezoso que siete que sepan aconsejar."
+  },
+  {
+    "i": 17224,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 17,
+    "t": "El que pasando se mete en contienda ajena es como el que agarra a un perro por las orejas."
+  },
+  {
+    "i": 17225,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 18,
+    "t": "Como el que lanza dardos, flechas y muerte,"
+  },
+  {
+    "i": 17226,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 19,
+    "t": "así es el hombre que engaña a su prójimo y dice: \"Ciertamente estaba yo bromeando\"."
+  },
+  {
+    "i": 17227,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 20,
+    "t": "Sin leña se apaga el fuego, y donde no hay chismoso, cesa la contienda."
+  },
+  {
+    "i": 17228,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 21,
+    "t": "Carbón para brasas, y leña para el fuego, así el hombre pendenciero para encender la contienda."
+  },
+  {
+    "i": 17229,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 22,
+    "t": "Las palabras del chismoso son como bocados suaves, y penetran hasta lo más profundo del vientre."
+  },
+  {
+    "i": 17230,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 23,
+    "t": "Como escoria de plata sobre vasija de barro, así son los labios lisonjeros con corazón malvado."
+  },
+  {
+    "i": 17231,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 24,
+    "t": "El que odia disimula con los labios, pero en su interior maquina engaño;"
+  },
+  {
+    "i": 17232,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 25,
+    "t": "cuando hable amigablemente, no le creas, porque siete abominaciones hay en su corazón."
+  },
+  {
+    "i": 17233,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 26,
+    "t": "Aunque su odio se cubra con disimulo, su maldad será descubierta en la congregación."
+  },
+  {
+    "i": 17234,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 27,
+    "t": "El que cava un hoyo caerá en él, y la piedra volverá sobre el que la hace rodar."
+  },
+  {
+    "i": 17235,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 28,
+    "t": "La lengua mentirosa aborrece a quienes hiere, y la boca lisonjera causa la ruina."
+  },
+  {
+    "i": 17236,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 1,
+    "t": "No te jactes del día de mañana, porque no sabes qué traerá el día."
+  },
+  {
+    "i": 17237,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 2,
+    "t": "Que te alabe el extraño, y no tu propia boca; el ajeno, y no tus propios labios."
+  },
+  {
+    "i": 17238,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 3,
+    "t": "Pesada es la piedra, y pesada la arena, pero más pesado que ambos es el enojo del necio."
+  },
+  {
+    "i": 17239,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 4,
+    "t": "Cruel es la ira, e impetuoso el furor, pero ¿quién podrá sostenerse ante los celos?"
+  },
+  {
+    "i": 17240,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 5,
+    "t": "Mejor es reprensión manifiesta que amor oculto."
+  },
+  {
+    "i": 17241,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 6,
+    "t": "Fieles son las heridas del que ama, pero falsos los besos del que aborrece."
+  },
+  {
+    "i": 17242,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 7,
+    "t": "El alma saciada desprecia el panal de miel; pero al alma hambrienta todo lo amargo es dulce."
+  },
+  {
+    "i": 17243,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 8,
+    "t": "Como ave que se va errante de su nido, así es el hombre que anda errante lejos de su lugar."
+  },
+  {
+    "i": 17244,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 9,
+    "t": "El ungüento y el perfume alegran el corazón, y el cordial consejo del amigo, más que el propio."
+  },
+  {
+    "i": 17245,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 10,
+    "t": "No abandones a tu amigo ni al amigo de tu padre; ni vayas a la casa de tu hermano en el día de tu aflicción. Mejor es vecino cercano que hermano lejano."
+  },
+  {
+    "i": 17246,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 11,
+    "t": "Sé sabio, hijo mío, y alegra mi corazón, para que yo responda al que me agravia."
+  },
+  {
+    "i": 17247,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 12,
+    "t": "El prudente ve el mal y se esconde; los ingenuos pasan y son castigados."
+  },
+  {
+    "i": 17248,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 13,
+    "t": "Quítale su ropa al que sale fiador por el extraño, y toma prenda al que se hace responsable por la desconocida."
+  },
+  {
+    "i": 17249,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 14,
+    "t": "El que bendice a su prójimo en alta voz, muy de mañana, se le contará como maldición."
+  },
+  {
+    "i": 17250,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 15,
+    "t": "Gotera continua en día de lluvia, y mujer rencillosa, son semejantes."
+  },
+  {
+    "i": 17251,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 16,
+    "t": "El que pretende refrenarla, refrena el viento, o recoge aceite con la mano derecha."
+  },
+  {
+    "i": 17252,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 17,
+    "t": "Hierro con hierro se aguza; así el hombre aguza el rostro de su amigo."
+  },
+  {
+    "i": 17253,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 18,
+    "t": "Quien cuida la higuera comerá su fruto, y el que guarda a su señor será honrado."
+  },
+  {
+    "i": 17254,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 19,
+    "t": "Como en el agua el rostro refleja el rostro, así el corazón del hombre refleja al hombre."
+  },
+  {
+    "i": 17255,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 20,
+    "t": "El Seol y el Abadón nunca se sacian; así los ojos del hombre nunca están satisfechos."
+  },
+  {
+    "i": 17256,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 21,
+    "t": "El crisol prueba la plata, y el horno el oro; así el hombre es probado por la alabanza."
+  },
+  {
+    "i": 17257,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 22,
+    "t": "Aunque machaques al necio en un mortero entre granos molidos, no se apartará de él su necedad."
+  },
+  {
+    "i": 17258,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 23,
+    "t": "Considera diligentemente el estado de tus ovejas, y mira con cuidado por tus rebaños;"
+  },
+  {
+    "i": 17259,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 24,
+    "t": "porque las riquezas no son para siempre, ni la corona perdura por todas las generaciones."
+  },
+  {
+    "i": 17260,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 25,
+    "t": "Cuando se siega la hierba y aparece el retoño, y se recogen las hierbas de los montes,"
+  },
+  {
+    "i": 17261,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 26,
+    "t": "los corderos te servirán para vestirte, y los cabritos para el precio del campo;"
+  },
+  {
+    "i": 17262,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 27,
+    "t": "tendrás abundancia de leche de cabras para tu sustento, para el sustento de tu casa, y para el mantenimiento de tus criadas."
+  },
+  {
+    "i": 17263,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 1,
+    "t": "Huye el impío sin que nadie lo persiga, pero los justos están confiados como un león."
+  },
+  {
+    "i": 17264,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 2,
+    "t": "Por la transgresión de la tierra, muchos son sus príncipes; pero por el hombre entendido y sabio se prolongará su estabilidad."
+  },
+  {
+    "i": 17265,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 3,
+    "t": "El hombre pobre que oprime a los pobres es como lluvia torrencial que deja sin pan."
+  },
+  {
+    "i": 17266,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 4,
+    "t": "Los que abandonan la ley alaban al impío; pero los que la guardan se airan contra él."
+  },
+  {
+    "i": 17267,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 5,
+    "t": "Los hombres malos no entienden el juicio; mas los que buscan a Yahvé entienden todas las cosas."
+  },
+  {
+    "i": 17268,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 6,
+    "t": "Mejor es el pobre que camina en su integridad que el de perversos caminos, aunque sea rico."
+  },
+  {
+    "i": 17269,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 7,
+    "t": "El que guarda la ley es hijo prudente, pero el que se junta con los disolutos avergüenza a su padre."
+  },
+  {
+    "i": 17270,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 8,
+    "t": "El que aumenta sus riquezas con usura y con ganancia injusta, las acumula para aquel que se apiada de los pobres."
+  },
+  {
+    "i": 17271,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 9,
+    "t": "El que aparta su oído para no oír la ley, su oración también es abominable."
+  },
+  {
+    "i": 17272,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 10,
+    "t": "El que hace errar a los rectos por el mal camino, caerá él mismo en su propia fosa; pero los íntegros heredarán el bien."
+  },
+  {
+    "i": 17273,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 11,
+    "t": "El rico se cree sabio, pero el pobre entendido lo escudriña."
+  },
+  {
+    "i": 17274,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 12,
+    "t": "Cuando los justos se alegran, hay gran esplendor; pero cuando se levantan los impíos, los hombres se esconden."
+  },
+  {
+    "i": 17275,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 13,
+    "t": "El que encubre sus pecados no prosperará; mas el que los confiesa y se aparta alcanzará misericordia."
+  },
+  {
+    "i": 17276,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 14,
+    "t": "Bienaventurado el hombre que siempre teme; pero el que endurece su corazón caerá en el mal."
+  },
+  {
+    "i": 17277,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 15,
+    "t": "León rugiente y oso hambriento es el gobernante impío sobre el pueblo pobre."
+  },
+  {
+    "i": 17278,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 16,
+    "t": "El príncipe falto de entendimiento multiplicará las extorsiones; mas el que aborrece la avaricia prolongará sus días."
+  },
+  {
+    "i": 17279,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 17,
+    "t": "El hombre cargado con la sangre de un muerto huirá hasta la fosa; que nadie le detenga."
+  },
+  {
+    "i": 17280,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 18,
+    "t": "El que camina en integridad será salvo; mas el de perversos caminos caerá en alguno de ellos."
+  },
+  {
+    "i": 17281,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 19,
+    "t": "El que labra su tierra se saciará de pan; mas el que sigue a los ociosos es falto de entendimiento."
+  },
+  {
+    "i": 17282,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 20,
+    "t": "El hombre de verdad tendrá muchas bendiciones; mas el que se apresura a enriquecer no será sin culpa."
+  },
+  {
+    "i": 17283,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 21,
+    "t": "Hacer acepción de personas no es bueno; hasta por un bocado de pan prevaricará el hombre."
+  },
+  {
+    "i": 17284,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 22,
+    "t": "Se apresura a ser rico el avaro, y no sabe que le ha de venir pobreza."
+  },
+  {
+    "i": 17285,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 23,
+    "t": "El que reprende al hombre, hallará después mayor gracia que el que lisonjea con la lengua."
+  },
+  {
+    "i": 17286,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 24,
+    "t": "El que roba a su padre o a su madre, y dice que no es transgresión, compañero es del hombre destructor."
+  },
+  {
+    "i": 17287,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 25,
+    "t": "El altivo de ánimo suscita contiendas; mas el que confía en Jehová prosperará."
+  },
+  {
+    "i": 17288,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 26,
+    "t": "El que confía en su propio corazón es necio; mas el que camina en sabiduría será librado."
+  },
+  {
+    "i": 17289,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 27,
+    "t": "El que da al pobre no tendrá pobreza; mas el que aparta sus ojos tendrá muchas maldiciones."
+  },
+  {
+    "i": 17290,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 28,
+    "t": "Cuando los impíos son enaltecidos, se esconde el hombre; mas cuando perecen, los justos se multiplican."
+  },
+  {
+    "i": 17291,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 1,
+    "t": "El hombre que reprendido endurece la cerviz, de repente será quebrantado, y no habrá para él medicina."
+  },
+  {
+    "i": 17292,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 2,
+    "t": "Cuando los justos dominan, el pueblo se alegra; mas cuando domina el impío, el pueblo gime."
+  },
+  {
+    "i": 17293,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 3,
+    "t": "El hombre que ama la sabiduría alegra a su padre; mas el que se junta con rameras, perderá los bienes."
+  },
+  {
+    "i": 17294,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 4,
+    "t": "El rey con la justicia afirma la tierra; mas el que exige tributos la destruye."
+  },
+  {
+    "i": 17295,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 5,
+    "t": "El hombre que lisonjea a su prójimo, red tiende delante de sus pasos."
+  },
+  {
+    "i": 17296,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 6,
+    "t": "En la transgresión del hombre malo hay lazo; mas el justo cantará y se alegrará."
+  },
+  {
+    "i": 17297,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 7,
+    "t": "Conoce el justo la causa de los pobres; mas el impío no entiende sabiduría."
+  },
+  {
+    "i": 17298,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 8,
+    "t": "Los hombres escarnecedores ponen la ciudad en llamas; mas los sabios apartan la ira."
+  },
+  {
+    "i": 17299,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 9,
+    "t": "Si el sabio contendiere con el necio, que se enoje o que se ría, no tendrá reposo."
+  }
+]

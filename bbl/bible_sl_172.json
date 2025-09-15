@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17200,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 21,
+    "t": "Če je tvoj sovražnik lačen, ga nahrani, če je žejen, mu daj piti,"
+  },
+  {
+    "i": 17201,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 22,
+    "t": "kajti žerjavico boš zgrnil na njegovo glavo in Gospod ti bo povrnil."
+  },
+  {
+    "i": 17202,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 23,
+    "t": "Severni veter rodi dež, prikrit jezik pa mrk obraz."
+  },
+  {
+    "i": 17203,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 24,
+    "t": "Bolje je stanovati v kotu strehe, kot s prepirljivo ženo v skupni hiši."
+  },
+  {
+    "i": 17204,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 25,
+    "t": "Kakor hladna voda za žejno grlo, tako je dobra novica iz daljne dežele."
+  },
+  {
+    "i": 17205,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 26,
+    "t": "Kakor poteptan studenec, omadeževan izvir, tako je pravičnik, ki se vda pred hudobnežem."
+  },
+  {
+    "i": 17206,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 27,
+    "t": "Ni dobro jesti preveč medu, niti iskati slavo za slavo."
+  },
+  {
+    "i": 17207,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 28,
+    "t": "Kakor odprto mesto brez obzidja, tako je človek, ki ne obvladuje samega sebe."
+  },
+  {
+    "i": 17208,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 1,
+    "t": "Kakor ne pritiče sneg poleti ali dež ob žetvi, tako ne pritiče čast bedaku."
+  },
+  {
+    "i": 17209,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 2,
+    "t": "Kakor ptica beži in lastovka odleti, tako nezasluženo prekletstvo ne zadene."
+  },
+  {
+    "i": 17210,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 3,
+    "t": "Bič za konja, uzda za osla in palica za hrbet bedakov."
+  },
+  {
+    "i": 17211,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 4,
+    "t": "Ne odgovarjaj bedaku po njegovi neumnosti, da mu ne boš tudi ti postal podoben."
+  },
+  {
+    "i": 17212,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 5,
+    "t": "Odgovori bedaku po njegovi neumnosti, da ne bo sam sebi modrijan."
+  },
+  {
+    "i": 17213,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 6,
+    "t": "Odreže si noge in pije nasilje, kdor pošilja sporočilo po bedaku."
+  },
+  {
+    "i": 17214,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 7,
+    "t": "Majava so stegna hromega, tako je pregovor v ustih bedakov."
+  },
+  {
+    "i": 17215,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 8,
+    "t": "Kakor zavezati kamen v fračo, tako je dati čast bedaku."
+  },
+  {
+    "i": 17216,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 9,
+    "t": "Trn se vzpenja v roki pijanca, tako je pregovor v ustih bedakov."
+  },
+  {
+    "i": 17217,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 10,
+    "t": "Lokostrelec, ki rani vse, tako je tisti, ki najame bedaka in pijanega, ki gresta mimo."
+  },
+  {
+    "i": 17218,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 11,
+    "t": "Kakor se pes vrača k svojemu bruhanju, tako se bedak vrača k svoji neumnosti."
+  },
+  {
+    "i": 17219,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 12,
+    "t": "Ali vidiš moža, ki je sam sebi moder? Več upanja je za bedaka."
+  },
+  {
+    "i": 17220,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 13,
+    "t": "Lenuh pravi: »Zver je na poti, lev po ulicah!«"
+  },
+  {
+    "i": 17221,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 14,
+    "t": "Vrata se obračajo na svojih tečajih in lenuh na svoji postelji."
+  },
+  {
+    "i": 17222,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 15,
+    "t": "Lenuh potisne roko v skledo, a jo utrudi, da bi jo prinesel k ustom."
+  },
+  {
+    "i": 17223,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 16,
+    "t": "Lenuh je samemu sebi modrejši, kakor sedem, ki pametno odgovarjajo."
+  },
+  {
+    "i": 17224,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 17,
+    "t": "Kdor se vmešava v prepir, ki ga ne zadeva, je kakor kdor prime za ušesa psa, ki gre mimo."
+  },
+  {
+    "i": 17225,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 18,
+    "t": "Kakor tisti, ki se norčuje in meče ognjene iskre, puščice in smrt,"
+  },
+  {
+    "i": 17226,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 19,
+    "t": "tako je mož, ki vara svojega bližnjega in pravi: »Saj sem se le šalil!«"
+  },
+  {
+    "i": 17227,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 20,
+    "t": "Če zmanjka drv, ogenj ugasne, in če ni obrekovalca, se prepir umiri."
+  },
+  {
+    "i": 17228,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 21,
+    "t": "Oglje za žerjavico in drva za ogenj, tako je prepirljiv človek za podžiganje prepirov."
+  },
+  {
+    "i": 17229,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 22,
+    "t": "Besede obrekovalca so sladki grižljaji, ki se spuščajo v globino drobovja."
+  },
+  {
+    "i": 17230,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 23,
+    "t": "Neprečiščeno srebro, ki ga damo na glino, tako so goreče ustnice in hudobno srce."
+  },
+  {
+    "i": 17231,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 24,
+    "t": "Sovražnik se pretvarja s svojimi besedami, a v njegovem srcu leži prevara,"
+  },
+  {
+    "i": 17232,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 25,
+    "t": "če prijazno govori, mu ne zaupaj, kajti v njegovem srcu je sedem gnusob."
+  },
+  {
+    "i": 17233,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 26,
+    "t": "Sovraštvo se morda prikriva z zvijačo, a v občestvu bo razkrilo svojo hudobijo."
+  },
+  {
+    "i": 17234,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 27,
+    "t": "Kdor koplje jamo, bo padel vanjo, in kdor valja kamen, se bo ta vrnil nadenj."
+  },
+  {
+    "i": 17235,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 28,
+    "t": "Lažniv jezik sovraži svoje žrtve, laskava usta pa povzročajo propad."
+  },
+  {
+    "i": 17236,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 1,
+    "t": "Ne hvali se z jutrišnjim dnem, kajti ne veš, kaj bo dan rodil."
+  },
+  {
+    "i": 17237,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 2,
+    "t": "Naj te hvali drugi, ne pa tvoja usta, tujec, ne pa tvoje ustnice!"
+  },
+  {
+    "i": 17238,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 3,
+    "t": "Težak je kamen in breme pesek, toda težji od obojega je nejevolja bedaka."
+  },
+  {
+    "i": 17239,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 4,
+    "t": "Kruta je jeza in silovita srd, toda kdo se bo uprl ljubosumnosti?"
+  },
+  {
+    "i": 17240,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 5,
+    "t": "Boljša je odkrita graja kakor prikrita ljubezen."
+  },
+  {
+    "i": 17241,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 6,
+    "t": "Zveste so rane prijatelja, lažnivi pa poljubi sovražnika."
+  },
+  {
+    "i": 17242,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 7,
+    "t": "Sit trebuh prezira med, lačen trebuh pa najde sladko v vsaki grenkobi."
+  },
+  {
+    "i": 17243,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 8,
+    "t": "Kakor ptica, ki se potepa daleč od svojega gnezda, tako je človek, ki se potepa daleč od svojega kraja."
+  },
+  {
+    "i": 17244,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 9,
+    "t": "Olje in kadilo razveselita srce in sladkost prijatelja bolj kakor samozadovoljstvo."
+  },
+  {
+    "i": 17245,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 10,
+    "t": "Ne zapusti svojega prijatelja ali prijatelja svojega očeta; v hišo svojega brata ne pojdi v času svoje stiske. Boljši je bližnji sosed kakor oddaljeni brat."
+  },
+  {
+    "i": 17246,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 11,
+    "t": "Bodi moder, moj sin, in razveseli moje srce, da bom lahko odgovoril tistemu, ki me zasramuje."
+  },
+  {
+    "i": 17247,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 12,
+    "t": "Previdni vidi nesrečo in se skrije, nevedni pa gredo mimo in jo plačajo."
+  },
+  {
+    "i": 17248,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 13,
+    "t": "Vzemi njegovo obleko, kajti poročil je za tujca, zaradi neznancev vzemi zastavo."
+  },
+  {
+    "i": 17249,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 14,
+    "t": "Kdor svojega bližnjega blagoslavlja z močnim glasom že zgodaj zjutraj, se mu šteje v prekletstvo."
+  },
+  {
+    "i": 17250,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 15,
+    "t": "Nenehno kapljanje v deževnem dnevu in prepirljiva žena sta si podobna!"
+  },
+  {
+    "i": 17251,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 16,
+    "t": "Kdor jo hoče ustaviti, ustavlja veter in njegova desnica sreča olje."
+  },
+  {
+    "i": 17252,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 17,
+    "t": "Železo se brusi z železom in človek se izboljšuje v prisotnosti svojega bližnjega."
+  },
+  {
+    "i": 17253,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 18,
+    "t": "Kdor varuje figovo drevo, bo jedel njegov sad, in kdor pazi na svojega gospodarja, bo počaščen."
+  },
+  {
+    "i": 17254,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 19,
+    "t": "Kakor voda odseva obraz, tako srce človeka za človeka."
+  },
+  {
+    "i": 17255,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 20,
+    "t": "Nepotešljiva sta Sheol in uničenje, tako so nepotešljive oči človeka."
+  },
+  {
+    "i": 17256,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 21,
+    "t": "Za srebro je talilnica, za zlato pa peč: človek pa velja toliko, kolikor velja njegov ugled."
+  },
+  {
+    "i": 17257,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 22,
+    "t": "Če bi bedaka strl v tolkaču (med žitom s tolkalom), se njegova neumnost ne bi ločila od njega."
+  },
+  {
+    "i": 17258,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 23,
+    "t": "Dobro spoznaj stanje svoje živine, skrbi za svojo čredo;"
+  },
+  {
+    "i": 17259,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 24,
+    "t": "kajti bogastvo ni večno in krona se ne prenaša iz roda v rod."
+  },
+  {
+    "i": 17260,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 25,
+    "t": "Ko je trava odstranjena, se pojavi zelenjava, pospravi seno z gora,"
+  },
+  {
+    "i": 17261,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 26,
+    "t": "imeti jagnjeta za obleko, kozle za nakup polja,"
+  },
+  {
+    "i": 17262,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 27,
+    "t": "obilno mleko koz za hrano, za prehrano tvoje hiše in za življenje tvojih služabnic."
+  },
+  {
+    "i": 17263,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 1,
+    "t": "Hudobni beži, ko ga nihče ne preganja, pravični pa so zanesljivi kakor mladi lev."
+  },
+  {
+    "i": 17264,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 2,
+    "t": "Ko se dežela upira, je mnogo knezov, toda z inteligentnim in razumnim možem je stabilnost."
+  },
+  {
+    "i": 17265,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 3,
+    "t": "Hudoben človek, ki zatira šibke, je uničujoč dež in nič kruha."
+  },
+  {
+    "i": 17266,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 4,
+    "t": "Tisti, ki zapuščajo postavo, hvalijo hudobne, tisti, ki se držijo postave, se jezijo nad njimi."
+  },
+  {
+    "i": 17267,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 5,
+    "t": "Hudobni ne razumejo pravice, tisti, ki iščejo Gospoda, razumejo vse."
+  },
+  {
+    "i": 17268,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 6,
+    "t": "Boljši je ubogi, ki se vede pošteno, kakor človek s krivimi potmi, četudi je bogat."
+  },
+  {
+    "i": 17269,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 7,
+    "t": "Kdor se drži postave, je razumen sin, kdor se druži z razvratneži, je sramota svojega očeta."
+  },
+  {
+    "i": 17270,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 8,
+    "t": "Kdor povečuje svoje imetje z oderuštvom in obrestmi, zbira za tistega, ki bo z njim obdaril uboge."
+  },
+  {
+    "i": 17271,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 9,
+    "t": "Kdor si zatiska ušesa, da ne bi slišal postave, je celo njegova molitev gnusoba."
+  },
+  {
+    "i": 17272,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 10,
+    "t": "Kdor zapeljuje poštene ljudi na slabo pot, bo padel v svojo lastno jamo. Pošteni ljudje pa bodo imeli srečo."
+  },
+  {
+    "i": 17273,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 11,
+    "t": "Bogataš je samemu sebi moder, toda ubogi, ki je razumen, ga razkrinka."
+  },
+  {
+    "i": 17274,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 12,
+    "t": "Ko se pravični veselijo, je to velik ponos, ko se dvignejo hudobni, se skrijemo."
+  },
+  {
+    "i": 17275,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 13,
+    "t": "Kdor prikriva svoje pregrehe, ne bo uspel; kdor pa jih prizna in se jim odpove, bo dosegel usmiljenje."
+  },
+  {
+    "i": 17276,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 14,
+    "t": "Srečen mož, ki je vedno v pripravljenosti; kdor pa si zakrkne srce, bo padel v nesrečo."
+  },
+  {
+    "i": 17277,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 15,
+    "t": "Rjoveč lev, napadajoč medved, tak je hudoben vladar nad šibkim ljudstvom."
+  },
+  {
+    "i": 17278,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 16,
+    "t": "Knez brez razuma je bogat z izsiljevanjem, kdor pa sovraži pohlep, bo podaljšal svoje dni."
+  },
+  {
+    "i": 17279,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 17,
+    "t": "Človek, kriv za umor, bo bežal do groba: naj ga nihče ne ustavi!"
+  },
+  {
+    "i": 17280,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 18,
+    "t": "Kdor pošteno živi, bo rešen; kdor pa je krivičen in hodi po dveh poteh, bo padel v eno od njiju."
+  },
+  {
+    "i": 17281,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 19,
+    "t": "Kdor obdeluje svojo zemljo, bo nasičen s kruhom, kdor pa zasleduje prikazni, bo nasičen z revščino."
+  },
+  {
+    "i": 17282,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 20,
+    "t": "Zvest človek bo obilen z blagoslovi, kdor pa hiti, da bi obogatel, ne bo ostal nekaznovan."
+  },
+  {
+    "i": 17283,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 21,
+    "t": "Ni dobro biti pristranski, toda za grižljaj kruha človek zagreši zločin."
+  },
+  {
+    "i": 17284,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 22,
+    "t": "Pohlepnež hiti za bogastvom, ne vedoč, da ga bo doletela lakota."
+  },
+  {
+    "i": 17285,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 23,
+    "t": "Kdor graja druge, bo na koncu našel več naklonjenosti kot prilizovalec."
+  },
+  {
+    "i": 17286,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 24,
+    "t": "Kdor krade očeta in mater in pravi: \"Ni pregreha!\", je tovariš razbojnika."
+  },
+  {
+    "i": 17287,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 25,
+    "t": "Pohlepen človek začenja prepire, kdor pa zaupa v GOSPODA, bo obogatel."
+  },
+  {
+    "i": 17288,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 26,
+    "t": "Kdor zaupa svoji pameti, je bedak, kdor pa hodi z modrostjo, bo rešen."
+  },
+  {
+    "i": 17289,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 27,
+    "t": "Kdor daje ubogim, mu ne bo ničesar primanjkovalo, kdor pa zapira oči, bo obilen s prekletstvom."
+  },
+  {
+    "i": 17290,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 28,
+    "t": "Ko vstanejo hudobni, se vsak skrije; ko pa poginejo, se pravični pomnožijo."
+  },
+  {
+    "i": 17291,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 1,
+    "t": "Kdor se ob graji zakrknjeno obnaša, bo nenadoma zdrobljen brez ozdravitve."
+  },
+  {
+    "i": 17292,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 2,
+    "t": "Ko se pravični pomnožijo, se ljudstvo veseli; ko pa vladajo hudobni, ljudstvo vzdihuje."
+  },
+  {
+    "i": 17293,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 3,
+    "t": "Kdor ljubi modrost, razveseljuje očeta, kdor pa se druži z vlačugami, zapravlja svoje imetje."
+  },
+  {
+    "i": 17294,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 4,
+    "t": "Kralj s pravičnostjo utrjuje deželo, oderuh pa jo vodi v propad."
+  },
+  {
+    "i": 17295,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 5,
+    "t": "Človek, ki se prilizuje svojemu bližnjemu, mu nastavlja mrežo pod noge."
+  },
+  {
+    "i": 17296,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 6,
+    "t": "V pregrehi hudobneža je zanka, pravični pa se veseli in radosti."
+  },
+  {
+    "i": 17297,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 7,
+    "t": "Pravični pozna pravice revnih, hudobni pa nima razuma, da bi jih poznal."
+  },
+  {
+    "i": 17298,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 8,
+    "t": "Posmehovalci vznemirjajo mesto, modri pa pomirjajo jezo."
+  },
+  {
+    "i": 17299,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 9,
+    "t": "Če se modri prepira z bedakom, pa naj se jezi ali se šali, ne bo imel miru."
+  }
+]

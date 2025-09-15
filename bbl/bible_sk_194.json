@@ -1,0 +1,802 @@
+[
+  {
+    "i": 19400,
+    "b": 23,
+    "c": 2515,
+    "r": 2515,
+    "o": 20,
+    "t": "A ty učiním pre tento ľud pevnosťou z bronzu, hradbou mocnou. Budú proti tebe bojovať, ale nepremôžu ťa, lebo ja som s tebou, aby som ťa spasil a vyslobodil, hovorí Pán."
+  },
+  {
+    "i": 19401,
+    "b": 23,
+    "c": 2515,
+    "r": 2515,
+    "o": 21,
+    "t": "A vytrhnem ťa z ruky zloduchov a vykúpim ťa z moci násilníkov."
+  },
+  {
+    "i": 19402,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 1,
+    "t": "Stalo sa mi slovo Pánovo, hovoriac:"
+  },
+  {
+    "i": 19403,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 2,
+    "t": "Nevezmi si ženu a nebudeš mať synov ani dcéry na tomto mieste!"
+  },
+  {
+    "i": 19404,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 3,
+    "t": "Lebo takto hovorí Pán o synoch a dcérach, ktoré sa narodia na tomto mieste, i o ich matkách, ktoré ich porodia, i o ich otcoch, ktorí ich splodia v tejto krajine:"
+  },
+  {
+    "i": 19405,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 4,
+    "t": "Zomrú na hrozné choroby, nebudú oplakávaní ani pochovaní, budú ako hnoj na povrchu zeme. Skončia mečom a hladom a ich mŕtve telá budú pokrmom pre nebeské vtáctvo a pre divú zver."
+  },
+  {
+    "i": 19406,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 5,
+    "t": "Lebo takto hovorí Pán: Nevstupuj do domu smútku, nechoď oplakávať ani ľutovať, lebo som odňal svoj pokoj od tohto ľudu, hovorí Pán, i milosť a zľutovanie."
+  },
+  {
+    "i": 19407,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 6,
+    "t": "Veľkí i malí zomrú v tejto krajine a nebudú pochovaní ani oplakávaní. Pre nich sa nebudú robiť rezy ani holiť hlavy."
+  },
+  {
+    "i": 19408,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 7,
+    "t": "Nebude sa lámať chlieb pre toho, kto smúti, aby ho potešili pre mŕtveho, ani im nebudú ponúkať pohár útechy pre ich otca alebo matku."
+  },
+  {
+    "i": 19409,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 8,
+    "t": "Nevstupuj ani do domu, kde sa hoduje, aby si si s nimi sadol, jedol a pil."
+  },
+  {
+    "i": 19410,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 9,
+    "t": "Lebo takto hovorí Pán zástupov, Boh Izraela: Hľa, utíšim na tomto mieste, pred vašimi očami a za vašich dní, hlas radosti a hlas plesania, hlas ženícha a hlas nevesty."
+  },
+  {
+    "i": 19411,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 10,
+    "t": "A keď povieš tomuto ľudu všetky tieto slová a spýtajú sa ťa: \"Prečo Pán vyhlásil proti nám toto všetko veľké zlo? Aká je naša vina? Aký hriech sme spáchali proti Pánovi, nášmu Bohu?"
+  },
+  {
+    "i": 19412,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 11,
+    "t": "Odpovieš im: \"Pretože ma vaši otcovia opustili, hovorí Pán, a nasledovali iných bohov, slúžili im a klaňali sa im. A mňa opustili a nezachovali môj zákon!"
+  },
+  {
+    "i": 19413,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 12,
+    "t": "A vy ste konali horšie než vaši otcovia. Hľa, každý z vás sa riadi zatvrdlivosťou svojho zlého srdca a nepočúva ma."
+  },
+  {
+    "i": 19414,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 13,
+    "t": "Preto vás vyvrhnem z tejto krajiny do krajiny, ktorú nepoznáte vy ani vaši otcovia. Tam budete slúžiť iným bohom dňom i nocou, lebo vám už nepreukážem milosť."
+  },
+  {
+    "i": 19415,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 14,
+    "t": "Preto hľa, prichádzajú dni, hovorí Pán, keď už nebudú hovoriť: \"Živ je Pán, ktorý vyviedol Izraelitov z egyptskej krajiny\","
+  },
+  {
+    "i": 19416,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 15,
+    "t": "ale: \"Živ je Pán, ktorý vyviedol Izraelitov zo severnej krajiny a zo všetkých krajín, kam ich zahnal!\" A privediem ich späť do krajiny, ktorú som dal ich otcom!"
+  },
+  {
+    "i": 19417,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 16,
+    "t": "Hľa, pošlem mnoho rybárov, hovorí Pán, a vylovia ich. Potom pošlem mnoho lovcov a budú ich prenasledovať z každého vrchu, z každého kopca a zo skalných rozsadlín."
+  },
+  {
+    "i": 19418,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 17,
+    "t": "Lebo moje oči hľadia na všetky ich cesty, neukrývajú sa predo mnou a ich vina sa neskrýva pred mojím pohľadom."
+  },
+  {
+    "i": 19419,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 18,
+    "t": "Najprv im zaplatím dvojnásobne za ich vinu a ich hriech, pretože zneuctili moju krajinu mŕtvolami svojich ohavností a naplnili moje dedičstvo svojimi ošklivosťami."
+  },
+  {
+    "i": 19420,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 19,
+    "t": "Pane, moja sila a moja pevnosť, moje útočisko v deň súženia! K tebe prídu národy z končín zeme a povedia: Naši otcovia mali v dedičstve len klamstvo, márnosť, ktorá na nič nie je."
+  },
+  {
+    "i": 19421,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 20,
+    "t": "Môže si človek urobiť bohov? Ale oni nie sú bohovia!"
+  },
+  {
+    "i": 19422,
+    "b": 23,
+    "c": 2516,
+    "r": 2516,
+    "o": 21,
+    "t": "Preto hľa, dám im spoznať, tentoraz im dám spoznať svoju ruku a svoju moc a poznajú, že moje meno je Pán."
+  },
+  {
+    "i": 19423,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 1,
+    "t": "Hriech Júdu je zapísaný železným rydlom, diamantovým hrotom je vyrytý na doske ich srdca a na rohoch ich oltárov,"
+  },
+  {
+    "i": 19424,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 2,
+    "t": "keďže si ich synovia spomínajú na ich oltáre a na ich posvätné stĺpy pri zelených stromoch na vysokých kopcoch."
+  },
+  {
+    "i": 19425,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 3,
+    "t": "Ó, moja hora na rovine, tvoje bohatstvo a všetky tvoje poklady vydám za korisť pre hriech tvojich výšin na celom tvojom území."
+  },
+  {
+    "i": 19426,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 4,
+    "t": "Budeš musieť upustiť od svojho dedičstva, ktoré som ti dal. Učiním ťa otrokom tvojich nepriateľov v krajine, ktorú nepoznáš, lebo oheň môjho hnevu, ktorý ste zapálili, bude horieť naveky."
+  },
+  {
+    "i": 19427,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 5,
+    "t": "Takto hovorí Pán: Prekliaty je muž, ktorý sa spolieha na človeka, ktorý urobí telo svojou oporou a ktorého srdce sa odvracia od Pána!"
+  },
+  {
+    "i": 19428,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 6,
+    "t": "Je ako bodliak na stepi: necíti nič, keď príde šťastie, usadzuje sa na spálených miestach púšte, slanej zeme, kde nikto nebýva."
+  },
+  {
+    "i": 19429,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 7,
+    "t": "Požehnaný je muž, ktorý sa spolieha na Pána a ktorého dôverou je Pán."
+  },
+  {
+    "i": 19430,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 8,
+    "t": "Je ako strom zasadený pri vode, ktorý vystiera svoje korene k potoku: nebojí sa, keď príde horúčava, jeho lístie zostáva zelené. V suchom roku je bez obáv a neprestáva prinášať ovocie."
+  },
+  {
+    "i": 19431,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 9,
+    "t": "Srdce je prefíkanejšie ako všetko a zvrhlé, kto ho môže preniknúť?"
+  },
+  {
+    "i": 19432,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 10,
+    "t": "Ja, Pán, skúmam srdce, skúmam obličky, aby som každému odplatil podľa jeho správania, podľa ovocia jeho skutkov."
+  },
+  {
+    "i": 19433,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 11,
+    "t": "Jarabica vysedáva to, čo neznesie. Tak je to s tým, kto si robí nespravodlivé bohatstvo: uprostred svojich dní ho opustí a nakoniec je len blázon."
+  },
+  {
+    "i": 19434,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 12,
+    "t": "Slávny trón, vznešený od počiatku, to je naše sväté miesto."
+  },
+  {
+    "i": 19435,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 13,
+    "t": "Nádej Izraela, Pane, všetci, ktorí ťa opúšťajú, budú zahanbení, tí, čo sa odvracajú od teba, budú zapísaní do zeme, lebo opustili prameň živej vody, Pána."
+  },
+  {
+    "i": 19436,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 14,
+    "t": "Uzdrav ma, Pane, a budem uzdravený, spas ma a budem spasený, lebo ty si moja chvála!"
+  },
+  {
+    "i": 19437,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 15,
+    "t": "Hľa, hovoria mi: Kde je to slovo Pánovo? Nech sa teda splní!"
+  },
+  {
+    "i": 19438,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 16,
+    "t": "Ale ja som ťa nenútil k najhoršiemu, netúžil som po osudnom dni, ty to vieš. Čo vychádza z mojich úst, je pred tebou odhalené."
+  },
+  {
+    "i": 19439,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 17,
+    "t": "Nebuď mi príčinou hrôzy, ty, moje útočisko v deň nešťastia!"
+  },
+  {
+    "i": 19440,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 18,
+    "t": "Nech sú zahanbení moji prenasledovatelia a nech nie som zahanbený ja! Nech sú vystrašení oni a nech nie som vystrašený ja! Prived na nich deň nešťastia, rozdrv ich, rozdrv ich dvakrát!"
+  },
+  {
+    "i": 19441,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 19,
+    "t": "Takto mi hovoril Pán: Choď a postav sa k Bráne synov ľudu, ktorou vchádzajú a vychádzajú králi Júdu, a ku všetkým bránam Jeruzalema."
+  },
+  {
+    "i": 19442,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 20,
+    "t": "Povieš: Počujte slovo Pánovo, vy, králi Júdu, i vy všetci, Júdejčania a obyvatelia Jeruzalema, ktorí prechádzate týmito bránami!"
+  },
+  {
+    "i": 19443,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 21,
+    "t": "Takto hovorí Pán: Majte sa na pozore a nenoste bremeno v deň sobotný! Nevnášajte ho bránami Jeruzalema!"
+  },
+  {
+    "i": 19444,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 22,
+    "t": "Nevynášajte bremeno zo svojich domov v deň sobotný a nerobte žiadnu prácu. Posväťte deň sobotný, ako som prikázal vašim otcom!"
+  },
+  {
+    "i": 19445,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 23,
+    "t": "Ale oni nepočúvali, nenaklonili ucho. Zatvrdili si šiju, aby nepočuli a neprijali poučenie."
+  },
+  {
+    "i": 19446,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 24,
+    "t": "Ak ma budete dobre počúvať, hovorí Pán, nevnášajte v deň sobotný bremeno bránami tohto mesta. Ak budete svätiť deň sobotný a nebudete v ňom robiť žiadnu prácu,"
+  },
+  {
+    "i": 19447,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 25,
+    "t": "potom bránami tohto mesta budú vchádzať králi a kniežatá, sediaci na Dávidovom tróne, na vozoch a koňoch, oni i ich kniežatá, Júdovia a obyvatelia Jeruzalema. A toto mesto zostane obývané naveky."
+  },
+  {
+    "i": 19448,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 26,
+    "t": "Prídu z miest Júdu a z okolia Jeruzalema, z Benjamínovej krajiny a z Nížiny, z Hôr a z Negebu, aby obetovali celopaly, obete, obety pokrmov a kadidlo, aby obetovali vďakyvzdania v chráme Pánovom."
+  },
+  {
+    "i": 19449,
+    "b": 23,
+    "c": 2517,
+    "r": 2517,
+    "o": 27,
+    "t": "Ale ak ma nebudete počúvať, aby ste svätili deň sobotný, aby ste nenosili žiadne bremeno a nevchádzali bránami Jeruzalema v deň sobotný, potom zapálim jeho brány ohňom: pohltí paláce Jeruzalema a už nevyhasne."
+  },
+  {
+    "i": 19450,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 1,
+    "t": "Slovo, ktoré Pán prehovoril k Jeremiášovi:"
+  },
+  {
+    "i": 19451,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 2,
+    "t": "\"Vstaň! Zostúp do domu hrnčiara a tam ti oznámim svoje slová."
+  },
+  {
+    "i": 19452,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 3,
+    "t": "Zostúpil som do domu hrnčiara a hľa, pracoval na kruhu."
+  },
+  {
+    "i": 19453,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 4,
+    "t": "Ale nádoba, ktorú vyrábal, sa pokazila, ako sa to stáva hline v ruke hrnčiara. Začal znova a urobil inú nádobu, ako sa hrnčiarovi zdalo dobré."
+  },
+  {
+    "i": 19454,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 5,
+    "t": "Vtedy sa mi stalo slovo Pánovo, hovoriac:"
+  },
+  {
+    "i": 19455,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 6,
+    "t": "Či nemôžem s vami konať ako tento hrnčiar, dom Izraela? - hovorí Pán. Áno, ako hlina v ruke hrnčiara, tak ste vy v mojej ruke, dom Izraela!"
+  },
+  {
+    "i": 19456,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 7,
+    "t": "Niekedy hovorím o národe alebo kráľovstve, že ho vytrhám, zvrhnem a vyhubím,"
+  },
+  {
+    "i": 19457,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 8,
+    "t": "ale ak sa tento národ, proti ktorému som hovoril, odvráti od svojej zlosti, potom ľutujem zlo, ktoré som sa rozhodol naň uvaliť."
+  },
+  {
+    "i": 19458,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 9,
+    "t": "Niekedy hovorím o národe alebo kráľovstve, že ho postavím a zasadím,"
+  },
+  {
+    "i": 19459,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 10,
+    "t": "ale ak tento národ robí to, čo je zlé v mojich očiach, a odmieta počúvať môj hlas, potom ľutujem dobro, ktoré som mal v úmysle preň urobiť."
+  },
+  {
+    "i": 19460,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 11,
+    "t": "Teraz teda takto hovor k mužom Júdu a obyvateľom Jeruzalema: \"Takto hovorí Pán: Hľa, pripravujem proti vám nešťastie, proti vám vymýšľam plán. Odvráťte sa teda každý od svojej zlej cesty, zlepšite svoje cesty a svoje skutky!"
+  },
+  {
+    "i": 19461,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 12,
+    "t": "Ale oni povedia: \"Zbytočné! Budeme sa riadiť svojimi vlastnými plánmi. Každý bude konať podľa zatvrdlivosti svojho zlého srdca."
+  },
+  {
+    "i": 19462,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 13,
+    "t": "Preto takto hovorí Pán: Spýtajte sa teda medzi národmi, kto počul niečo podobné? Panna Izraelská sa dopustila príliš veľa hrôz."
+  },
+  {
+    "i": 19463,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 14,
+    "t": "Či opúšťa libanonský sneh skalnatý vrch na poli? Vysychajú vody cudzích krajín, svieže a tečúce vody?"
+  },
+  {
+    "i": 19464,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 15,
+    "t": "Ale môj ľud na mňa zabudol! Nule obetujú kadidlo. Nechávajú ich potkýnať sa na ich cestách, na starých chodníkoch, aby sa vybrali cestami, nevyšliapanou cestou,"
+  },
+  {
+    "i": 19465,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 16,
+    "t": "aby urobili z ich krajiny predmet úžasu, večného výsmechu. Každý, kto cez ňu prechádza, je ohromený a krúti hlavou."
+  },
+  {
+    "i": 19466,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 17,
+    "t": "Ako východný vietor ich rozptýlim pred nepriateľom. Ukážem im svoj chrbát a nie svoju tvár v deň ich skazy."
+  },
+  {
+    "i": 19467,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 18,
+    "t": "Povedali: \"Poďte! Vymyslime atentát proti Jeremiášovi, lebo Zákon nezanikne pre nedostatok kňaza, ani rada pre nedostatok múdreho, ani slovo pre nedostatok proroka. Poďte! Ohovorme ho a nevenujme pozornosť žiadnemu z jeho slov!"
+  },
+  {
+    "i": 19468,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 19,
+    "t": "Venuj mi pozornosť, Pane, a počuj, čo hovoria moji protivníci."
+  },
+  {
+    "i": 19469,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 20,
+    "t": "Opláca sa zlé za dobré? Ale oni mi vykopali jamu. Spomeň si, ako som stál pred tebou, aby som ti povedal o nich dobro, aby som od nich odvrátil tvoj hnev."
+  },
+  {
+    "i": 19470,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 21,
+    "t": "Prepusť teda ich synov hladu, vydaj ich na milosť meča! Nech sa ich ženy stanú neplodnými a vdovami! Nech ich muži zomrú na mor! Nech ich mládencov zasiahne meč v boji!"
+  },
+  {
+    "i": 19471,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 22,
+    "t": "Nech sa z ich domov ozýva krik, keď proti nim zrazu privedieš ozbrojené skupiny! Lebo mi vykopali jamu, aby ma chytili, a pod moje kroky zamaskovali pasce."
+  },
+  {
+    "i": 19472,
+    "b": 23,
+    "c": 2518,
+    "r": 2518,
+    "o": 23,
+    "t": "Ale ty, Pane, poznáš všetky ich vražedné zámery proti mne. Neodpúšťaj ich vine, nevymaž ich hriech spred seba. Nech padnú pred tebou, v čase tvojho hnevu, zasiahn proti nim!"
+  },
+  {
+    "i": 19473,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 1,
+    "t": "Vtedy Pán povedal Jeremiášovi: Choď a kúp si hrnčiarsku nádobu. Vezmi so sebou starších ľudu a starších kňazov."
+  },
+  {
+    "i": 19474,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 2,
+    "t": "Vyjdite smerom k údoliu Ben-Hinnom, ktoré je pri vstupe do Črepovej brány. Tam budeš hlásať slová, ktoré ti poviem."
+  },
+  {
+    "i": 19475,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 3,
+    "t": "Povieš: Počujte slovo Pánovo, králi Júdu a obyvatelia Jeruzalema. Takto hovorí Pán zástupov, Boh Izraela: Hľa, privediem na toto miesto nešťastie. Bude z neho zvoniť v ušiach každému, kto sa o ňom dozvie!"
+  },
+  {
+    "i": 19476,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 4,
+    "t": "Lebo ma opustili, zmenili toto miesto na nepoznanie, obetovali na ňom kadidlo cudzím bohom, ktorých nepoznali ani oni, ani ich otcovia, ani králi Júdu. Naplnili toto miesto krvou nevinných."
+  },
+  {
+    "i": 19477,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 5,
+    "t": "Lebo postavili výšiny Baala, aby pálili v ohni svojich synov ako celopal Baalovi. To som im nikdy neprikázal, nikdy som o tom nehovoril, nikdy som na to nepomyslel!"
+  },
+  {
+    "i": 19478,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 6,
+    "t": "Preto hľa, prichádzajú dni, hovorí Pán, keď sa toto miesto už nebude volať Tofet ani údolie Ben-Hinnom, ale údolie Zabíjania."
+  },
+  {
+    "i": 19479,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 7,
+    "t": "Vybavím Júdu a Jeruzalem rozumom kvôli tomuto miestu. Dám ich padnúť pod mečom pred ich nepriateľmi, rukou tých, čo im siahajú na život. Ich mŕtve telá dám za pokrm nebeskému vtáctvu a pozemskej zveri."
+  },
+  {
+    "i": 19480,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 8,
+    "t": "Učiním z tohto mesta hrôzu a posmech, každý, kto pôjde okolo, bude užasnutý a syčať nad toľkými ranami."
+  },
+  {
+    "i": 19481,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 9,
+    "t": "Dám im jesť mäso ich synov a mäso ich dcér: budú sa navzájom požierať v úzkosti a tiesni, do ktorej ich uvrhnú ich nepriatelia a tí, ktorí im siahajú na život."
+  },
+  {
+    "i": 19482,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 10,
+    "t": "Rozbiješ túto hlinenú nádobu pred očami mužov, ktorí ťa budú sprevádzať,"
+  },
+  {
+    "i": 19483,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 11,
+    "t": "a povieš im: Takto hovorí Hospodin Zástupov: Rozbijem tento ľud a toto mesto, ako sa rozbíja nádoba hrnčiara, ktorá sa už nedá opraviť. Pochovajú v Tóféte, lebo nebude miesta na pochovávanie."
+  },
+  {
+    "i": 19484,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 12,
+    "t": "Takto urobím tomuto miestu, hovorí Hospodin, a jeho obyvateľom, a učiním toto mesto podobným Tóféte."
+  },
+  {
+    "i": 19485,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 13,
+    "t": "Domy Jeruzalema a domy judských kráľov budú nečisté, ako toto miesto Tófet: všetky tie domy, na ktorých strechách pálili kadidlo celému vojsku nebeskému a vylievali úliatby cudzím bohom!"
+  },
+  {
+    "i": 19486,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 14,
+    "t": "Jeremiáš sa vrátil z Tóféta, kam ho Hospodin poslal prorokovať, postavil sa na nádvorie Hospodinovho chrámu a povedal celému ľudu:"
+  },
+  {
+    "i": 19487,
+    "b": 23,
+    "c": 2519,
+    "r": 2519,
+    "o": 15,
+    "t": "Takto hovorí Hospodin Zástupov, Boh Izraela: Hľa, privediem na toto mesto a všetky jeho blízke dediny všetko zlo, ktorým som mu hrozil, pretože zatvrdili svoju šiju, aby nepočúvali moje slová."
+  },
+  {
+    "i": 19488,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 1,
+    "t": "Kňaz Pašchúr, syn Immerov, ktorý bol náčelníkom polície v Hospodinovom chráme, počul Jeremiáša, ako prednášal túto veštbu."
+  },
+  {
+    "i": 19489,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 2,
+    "t": "Pašchúr udrel proroka Jeremiáša a potom ho dal do klady pri Hornej Benjamínovej bráne, ktorá vedie do Hospodinovho chrámu."
+  },
+  {
+    "i": 19490,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 3,
+    "t": "Na druhý deň Pašchúr dal Jeremiáša vyviesť z klady. Vtedy mu Jeremiáš povedal: „Už ťa Hospodin nenazýva Pašchúr, ale Hrôza-z-každej-strany."
+  },
+  {
+    "i": 19491,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 4,
+    "t": "Lebo takto hovorí Hospodin: Hľa, vydám ťa do hrôzy, teba i všetkých tvojich priateľov; padnú mečom svojich nepriateľov: tvoje oči to uvidia! Takisto celú Júdu vydám do rúk babylonského kráľa, ktorý odvlečie ľudí do Babylonu a pobije ich mečom."
+  },
+  {
+    "i": 19492,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 5,
+    "t": "Vydám ešte všetko bohatstvo tohto mesta, všetky jeho zásoby, všetko, čo má cenné, všetky poklady judských kráľov, vydám do rúk ich nepriateľov, ktorí ich vyplienia, uchvátia a odnesú do Babylonu."
+  },
+  {
+    "i": 19493,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 6,
+    "t": "A ty, Pašchúr, i všetci obyvatelia tvojho domu, pôjdete do zajatia; do Babylonu pôjdeš, tam zomrieš, tam ťa pochovajú, teba i všetkých tvojich priateľov, ktorým si prorokoval lož."
+  },
+  {
+    "i": 19494,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 7,
+    "t": "Zvodil si ma, Hospodine, a dal som sa zviesť; premohol si ma, bol si silnejší. Som ustavičná zámienka na posmech, rozprávka pre každého."
+  },
+  {
+    "i": 19495,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 8,
+    "t": "Vždy, keď mám hovoriť, musím kričať a hlásať: „Násilie a spustošenie!“ Hospodinovo slovo bolo pre mňa zdrojom pohany a posmechu po celý deň."
+  },
+  {
+    "i": 19496,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 9,
+    "t": "Povedal som si: Už naňho nebudem myslieť, už nebudem hovoriť v jeho mene; ale bolo to v mojom srdci ako pohlcujúci oheň, zatvorený v mojich kostiach. Marnil som sa, aby som ho zadržal, ale nemohol som."
+  },
+  {
+    "i": 19497,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 10,
+    "t": "Počul som ohováranie mnohých: „Hrôza z každej strany! Udajte ho! Udajme ho!“ Všetci, ktorí so mnou žili v pokoji, striehli na môj pád: „Možno sa dá zviesť? Budeme silnejší ako on a pomstíme sa mu!“"
+  },
+  {
+    "i": 19498,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 11,
+    "t": "Ale Hospodin je so mnou ako mocný hrdina; moji protivníci sa potknú, porazení: hľa, sú celí zahanbení svojím neúspechom; večná hanba, nezabudnuteľná."
+  },
+  {
+    "i": 19499,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 12,
+    "t": "Hospodin Zástupov, ktorý skúmaš spravodlivého a vidíš ľadviny i srdce, uvidím pomstu, ktorú na nich vykonáš, lebo tebe som odovzdal svoju vec."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13000,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 22,
+    "t": "Ali sem jaz torej rekel: 'Daj mi dar, prinesi mi darilo iz svojega premoženja?'"
+  },
+  {
+    "i": 13001,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 23,
+    "t": "Ali naj me iztrgate iz primeža zatiralca, me rešite iz rok nasilnega?"
+  },
+  {
+    "i": 13002,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 24,
+    "t": "Poučite me, pa bom molčal; pokažite mi, v čem sem se zmotil."
+  },
+  {
+    "i": 13003,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 25,
+    "t": "Pravične besede je lahko prenašati, toda vaše kritike, kaj merijo?"
+  },
+  {
+    "i": 13004,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 26,
+    "t": "Ali želite grajati besede, besede obupa, ki jih odnaša veter?"
+  },
+  {
+    "i": 13005,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 27,
+    "t": "Šli bi tako daleč, da bi žrebali siroto, poceni prodali svojega prijatelja!"
+  },
+  {
+    "i": 13006,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 28,
+    "t": "No, prosim vas, poglejte me! Iz oči v oči ne bom lagal."
+  },
+  {
+    "i": 13007,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 29,
+    "t": "Vrnite se, brez krivice; vrnite se, kajti ostajam v svoji pravici."
+  },
+  {
+    "i": 13008,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 30,
+    "t": "Ali je na mojih ustnicah zlo? Ali moje nebo več ne zna razločiti nesreče?"
+  },
+  {
+    "i": 13009,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 1,
+    "t": "Ali ni človeku na zemlji čas službe in ne preživlja življenje kot najemnik?"
+  },
+  {
+    "i": 13010,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 2,
+    "t": "Kakor suženj vzdihuje za senco ali delavec hrepeni po plačilu,"
+  },
+  {
+    "i": 13011,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 3,
+    "t": "imam v deležu mesece razočaranja, na svoj račun noči trpljenja."
+  },
+  {
+    "i": 13012,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 4,
+    "t": "Ležeč na svojem ležišču si rečem: 'Kdaj bo dan?' Takoj ko vstanem: 'Kdaj bom dočakal večer?' In nore misli me obsedajo do mraka."
+  },
+  {
+    "i": 13013,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 5,
+    "t": "Črvi in zemeljske skorje prekrivajo moje meso, moja koža poka in se gnoji."
+  },
+  {
+    "i": 13014,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 6,
+    "t": "Moji dnevi so hitreje tekli kot statve in izginili brez upanja."
+  },
+  {
+    "i": 13015,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 7,
+    "t": "Spomni se, da je moje življenje le dih, da moje oči ne bodo več videle sreče!"
+  },
+  {
+    "i": 13016,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 8,
+    "t": "Odslej bom neviden vsakemu pogledu, tvoje oči bodo na meni in bom izginil."
+  },
+  {
+    "i": 13017,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 9,
+    "t": "Kakor se oblak razblini in mine, kdor se spusti v podzemlje, se ne vrne več."
+  },
+  {
+    "i": 13018,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 10,
+    "t": "Ne vrne se več, da bi prebival v svoji hiši in ga njegovo bivališče ne pozna več."
+  },
+  {
+    "i": 13019,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 11,
+    "t": "In zato ne morem molčati, govoril bom v stiski svojega duha, tožil se bom v grenkobi svoje duše."
+  },
+  {
+    "i": 13020,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 12,
+    "t": "Sem jaz morje ali morska pošast, da si postavite stražo proti meni?"
+  },
+  {
+    "i": 13021,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 13,
+    "t": "Če rečem: 'Moja postelja mi bo prinesla olajšanje, moja ležišče bo ublažilo moje tožbe',"
+  },
+  {
+    "i": 13022,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 14,
+    "t": "me prestrašiš s sanjami, me prestrašiš z vizijami."
+  },
+  {
+    "i": 13023,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 15,
+    "t": "Ah! Želim biti zadavljen: smrt raje kot moje bolečine."
+  },
+  {
+    "i": 13024,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 16,
+    "t": "Hiram se, ne bom živel večno; tudi jaz, pusti me pri miru, moji dnevi so le dih!"
+  },
+  {
+    "i": 13025,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 17,
+    "t": "Kaj je torej človek, da mu posvečate toliko pozornosti, da nanj usmerjate svojo pozornost,"
+  },
+  {
+    "i": 13026,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 18,
+    "t": "da ga vsako jutro pregleduješ, da ga preverjaš vsak trenutek?"
+  },
+  {
+    "i": 13027,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 19,
+    "t": "Boš končno nehal gledati me, da mi pustiš čas, da pogoltnem svojo slino?"
+  },
+  {
+    "i": 13028,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 20,
+    "t": "Če sem grešil, kaj sem storil tebi, o pozorni opazovalec človeka? Zakaj si me vzel za tarčo, zakaj sem ti v breme?"
+  },
+  {
+    "i": 13029,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 21,
+    "t": "Ali ne moreš tolerirati moje žalitve, odpustiti moje napake? Kajti kmalu bom ležal v prahu, me boš iskal in me ne bo več."
+  },
+  {
+    "i": 13030,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 1,
+    "t": "Bildad iz Šuhe je spregovoril in rekel:"
+  },
+  {
+    "i": 13031,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 2,
+    "t": "Doklej boš tako govoril in govoril besede, ki so podobne velikemu vetru?"
+  },
+  {
+    "i": 13032,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 3,
+    "t": "Ali lahko Bog odstopa od prava, Šadaj pa izkrivlja pravico?"
+  },
+  {
+    "i": 13033,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 4,
+    "t": "Če so tvoji sinovi grešili proti njemu, jih je kaznoval za njihove napake."
+  },
+  {
+    "i": 13034,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 5,
+    "t": "Poišči Boga, moli Šadaja."
+  },
+  {
+    "i": 13035,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 6,
+    "t": "Če si brezgrajen in pravičen, bo njegova svetloba že zdaj sijala nad teboj in bo obnovil dom pravičnega."
+  },
+  {
+    "i": 13036,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 7,
+    "t": "Tvoje nekdanje stanje se ti bo zdelo kot nič, tako velika bo tvoja prihodnost."
+  },
+  {
+    "i": 13037,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 8,
+    "t": "Vprašaj prejšnjo generacijo, premišljuj o izkušnjah, ki so jih pridobili njeni očetje."
+  },
+  {
+    "i": 13038,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 9,
+    "t": "Mi, rojeni včeraj, ne vemo ničesar, naše življenje na zemlji mine kot senca."
+  },
+  {
+    "i": 13039,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 10,
+    "t": "Toda oni te bodo poučili, ti bodo govorili in njihova misel bo podala te stavke:"
+  },
+  {
+    "i": 13040,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 11,
+    "t": "'Ali papirus raste iz močvirij? Ali lahko trs raste brez vode?"
+  },
+  {
+    "i": 13041,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 12,
+    "t": "Ko je še v svoji svežini in ni nabran, se pred vsako drugo travo posuši."
+  },
+  {
+    "i": 13042,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 13,
+    "t": "Takšna je usoda tistih, ki pozabijo Boga, tako izgine upanje brezbožnega."
+  },
+  {
+    "i": 13043,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 14,
+    "t": "Njegovo zaupanje je le nitka, njegova varnost pa pajkova mreža."
+  },
+  {
+    "i": 13044,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 15,
+    "t": "Če se opira na svoje bivališče, se to vdaja; če se ga oklepa, se podre."
+  },
+  {
+    "i": 13045,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 16,
+    "t": "Poln soka na soncu, nad vrtom je poganjal svoje mlade poganjke."
+  },
+  {
+    "i": 13046,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 17,
+    "t": "Njegove korenine so se prepletale na kamnitem griču, svoje življenje je črpal sredi skal."
+  },
+  {
+    "i": 13047,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 18,
+    "t": "Izruvan je iz svojega kraja; njegov kraj ga zanika: Nikoli te nisem videl!"
+  },
+  {
+    "i": 13048,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 19,
+    "t": "In glej, gnije na poti, medtem ko iz zemlje kalijo drugi."
+  },
+  {
+    "i": 13049,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 20,
+    "t": "Ne, Bog ne zavrača poštenega človeka, ne daje pomoči hudobnim."
+  },
+  {
+    "i": 13050,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 21,
+    "t": "Smeh bo spet napolnil tvoja usta, veselje bo izbruhnilo na tvoje ustnice."
+  },
+  {
+    "i": 13051,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 22,
+    "t": "Tvoji sovražniki bodo pokriti s sramoto in šotor hudobnih bo izginil.'"
+  },
+  {
+    "i": 13052,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 1,
+    "t": "Job je spregovoril in rekel:"
+  },
+  {
+    "i": 13053,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 2,
+    "t": "Resnično vem, da je tako: ali se lahko človek opraviči pred Bogom?"
+  },
+  {
+    "i": 13054,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 3,
+    "t": "Tistemu, ki se rad prepira z njim, ne odgovori niti enkrat na tisoč."
+  },
+  {
+    "i": 13055,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 4,
+    "t": "Kdo bi se med najmodrejšimi in najmočnejšimi upal stati pred njim nekaznovan?"
+  },
+  {
+    "i": 13056,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 5,
+    "t": "Premakne gore, ne da bi vedele, in jih v svoji jezi prevrne."
+  },
+  {
+    "i": 13057,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 6,
+    "t": "Svoj kraj strese zemljo in maje njene stebre."
+  },
+  {
+    "i": 13058,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 7,
+    "t": "Na njegovo obrambo sonce ne vzide, zapečati zvezde."
+  },
+  {
+    "i": 13059,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 8,
+    "t": "Samo on je razpel nebesa in poteptal hrbet morja."
+  },
+  {
+    "i": 13060,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 9,
+    "t": "Ustvaril je Veliki voz in Orion, Plejade in južne komore."
+  },
+  {
+    "i": 13061,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 10,
+    "t": "Je avtor veličastnih in nedoumljivih del, čudes, ki jih ni mogoče prešteti."
+  },
+  {
+    "i": 13062,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 11,
+    "t": "Če gre mimo mene, ga ne vidim in neopazno zdrsne."
+  },
+  {
+    "i": 13063,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 12,
+    "t": "Če vzame plen, kdo mu bo preprečil in kdo si ga bo upal vprašati: 'Kaj delaš?'"
+  },
+  {
+    "i": 13064,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 13,
+    "t": "Bog se ne odpove svoji jezi: pod njim ležijo v pokornosti Rahabove sateliti."
+  },
+  {
+    "i": 13065,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 14,
+    "t": "In jaz, bi se hotel braniti, bi izbral argumente proti njemu?"
+  },
+  {
+    "i": 13066,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 15,
+    "t": "Četudi sem v svoji pravici, kaj mi pomaga, da mu odgovorim? Svojega sodnika bi moral prositi."
+  },
+  {
+    "i": 13067,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 16,
+    "t": "In če bi se na mojo prošnjo hotel pojaviti, ne morem verjeti, da bi poslušal moj glas,"
+  },
+  {
+    "i": 13068,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 17,
+    "t": "on, ki me zmečka zaradi lasu, ki brez razloga pomnožuje moje rane"
+  },
+  {
+    "i": 13069,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 18,
+    "t": "in mi ne pusti niti dihati, tako me nasiti z grenkobo!"
+  },
+  {
+    "i": 13070,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 19,
+    "t": "Uporabiti silo? Prekaša me po moči! Na sodišču? Toda kdo ga bo privedel tja?"
+  },
+  {
+    "i": 13071,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 20,
+    "t": "Če se opravičim, me lahko njegova usta obsodijo; če se imam za popolnega, me razglasi za sprevrženega."
+  },
+  {
+    "i": 13072,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 21,
+    "t": "Toda ali sem popoln? Sam ne vem več in ne maram za obstoj!"
+  },
+  {
+    "i": 13073,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 22,
+    "t": "Kajti to je vse eno in si upam reči: na enak način pogublja poštenega človeka in hudobnega."
+  },
+  {
+    "i": 13074,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 23,
+    "t": "Ko nenadoma udari smrtonosna nadloga, se posmehuje stiski nedolžnih."
+  },
+  {
+    "i": 13075,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 24,
+    "t": "V državi, ki je prepuščena oblasti hudobnega, zakrije obraz sodnikov. Če ne on, kdo pa potem?"
+  },
+  {
+    "i": 13076,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 25,
+    "t": "Moji dnevi minevajo, hitreje kot tekač, bežijo, ne da bi videli srečo."
+  },
+  {
+    "i": 13077,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 26,
+    "t": "Drsejo kot čolni iz trstičja, kot orel pade na svoj plen."
+  },
+  {
+    "i": 13078,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 27,
+    "t": "Če se odločim zatreti svoje tožbe, spremeniti svoj obraz, da bi bil vesel,"
+  },
+  {
+    "i": 13079,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 28,
+    "t": "me obide groza pred vsemi mojimi zli, kajti vem, da me ne šteješ za nedolžnega."
+  },
+  {
+    "i": 13080,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 29,
+    "t": "Če sem grešil, kaj mi pomaga, da se trudim zaman?"
+  },
+  {
+    "i": 13081,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 30,
+    "t": "Če se umijem s snegom in očistim svoje roke s lugom,"
+  },
+  {
+    "i": 13082,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 31,
+    "t": "me boš potopil v jamo in me bodo celo moja oblačila zasovražila!"
+  },
+  {
+    "i": 13083,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 32,
+    "t": "Kajti on ni človek kakor jaz, da bi mu odgovoril in skupaj stopil pred sodbo."
+  },
+  {
+    "i": 13084,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 33,
+    "t": "Ni razsodnika med nama, ki bi položil roko na oba,"
+  },
+  {
+    "i": 13085,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 34,
+    "t": "da bi odvrnil od mene njegovo palico in me osvobodil njegovega strahu!"
+  },
+  {
+    "i": 13086,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 35,
+    "t": "Govoril bom, a se ga ne bom bal, kajti nisem takšen v svojih očeh!"
+  },
+  {
+    "i": 13087,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 1,
+    "t": "Moje življenje mi je odvratno, izlivam svojo pritožbo, govorim v grenkobi svoje duše."
+  },
+  {
+    "i": 13088,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 2,
+    "t": "Rekel bom Bogu: Ne obsodi me, povej mi, zakaj se prepiraš z menoj!"
+  },
+  {
+    "i": 13089,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 3,
+    "t": "Ti je všeč, da me zatiraš, da zavračaš delo svojih rok in podpiraš načrte hudobnih?"
+  },
+  {
+    "i": 13090,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 4,
+    "t": "Ali imaš mesene oči in tvoj pogled je takšen kot pogled človeka?"
+  },
+  {
+    "i": 13091,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 5,
+    "t": "Ali je tvoje življenje kot življenje smrtnika, ali tvoja leta minevajo kot dnevi človeka?"
+  },
+  {
+    "i": 13092,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 6,
+    "t": "Da iščeš mojo krivdo in raziskuješ moj greh,"
+  },
+  {
+    "i": 13093,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 7,
+    "t": "čeprav veš, da sem nedolžen in da me nihče ne more rešiti iz tvoje roke!"
+  },
+  {
+    "i": 13094,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 8,
+    "t": "Tvoje roke so me oblikovale in me ustvarile, potem pa se obrneš in me želiš uničiti!"
+  },
+  {
+    "i": 13095,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 9,
+    "t": "Spomni se, da si me naredil kot lončar glino in me boš spet spremenil v prah."
+  },
+  {
+    "i": 13096,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 10,
+    "t": "Ali me nisi izlil kot mleko in strdil kot sir,"
+  },
+  {
+    "i": 13097,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 11,
+    "t": "oblekel s kožo in mesom, povezal s kostmi in živci?"
+  },
+  {
+    "i": 13098,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 12,
+    "t": "Dodal si mi življenje in skrbno varoval moj dih."
+  },
+  {
+    "i": 13099,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 13,
+    "t": "A si gojil skriti namen; vem, da si to prihranil zase."
+  }
+]

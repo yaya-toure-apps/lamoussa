@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2100,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 24,
+    "t": "Occhio per occhio, dente per dente, piede per piede,"
+  },
+  {
+    "i": 2101,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 25,
+    "t": "ustione per ustione, livido per livido, ferita per ferita."
+  },
+  {
+    "i": 2102,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 26,
+    "t": "Se un uomo percuote l'occhio del suo servo o l'occhio della sua serva e lo acceca, lo lascerà andare libero in compenso dell'occhio."
+  },
+  {
+    "i": 2103,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 27,
+    "t": "E se fa cadere un dente al suo servo o un dente alla sua serva, lo lascerà andare libero in compenso del dente."
+  },
+  {
+    "i": 2104,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 28,
+    "t": "Se un bue cozza un uomo o una donna e ne causa la morte, il bue sarà lapidato e non se ne mangerà la carne, ma il proprietario del bue sarà assolto."
+  },
+  {
+    "i": 2105,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 29,
+    "t": "Ma se il bue era solito cozzare e il proprietario, benché avvertito, non lo ha sorvegliato, e uccide un uomo o una donna, il bue sarà lapidato e anche il suo proprietario sarà messo a morte."
+  },
+  {
+    "i": 2106,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 30,
+    "t": "Se gli viene imposto un riscatto, dovrà dare per il riscatto della sua vita tutto ciò che gli è imposto."
+  },
+  {
+    "i": 2107,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 31,
+    "t": "Se cozza un figlio o una figlia, si agirà con lui secondo questa usanza."
+  },
+  {
+    "i": 2108,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 32,
+    "t": "Se il bue cozza un servo o una serva, il suo proprietario verserà al padrone di questi trenta sicli d'argento e il bue sarà lapidato."
+  },
+  {
+    "i": 2109,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 33,
+    "t": "Se qualcuno lascia una cisterna aperta o se qualcuno scava una cisterna e non la copre, e vi cade un bue o un asino,"
+  },
+  {
+    "i": 2110,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 34,
+    "t": "il proprietario della cisterna dovrà risarcire il danno, versando al proprietario del bestiame il prezzo dovuto; la bestia morta sarà sua."
+  },
+  {
+    "i": 2111,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 35,
+    "t": "Se il bue di qualcuno cozza il bue del suo prossimo e ne causa la morte, essi venderanno il bue vivo e se ne divideranno il prezzo; si divideranno anche la bestia morta."
+  },
+  {
+    "i": 2112,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 36,
+    "t": "Ma se era risaputo che il bue era solito cozzare e il suo proprietario non lo ha sorvegliato, dovrà dare un bue vivo in cambio del bue morto; la bestia morta sarà sua."
+  },
+  {
+    "i": 2113,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 37,
+    "t": "Se qualcuno ruba un bue o una pecora e poi li macella o li vende, restituirà cinque capi di bestiame grosso per il bue e quattro capi di bestiame minuto per la pecora."
+  },
+  {
+    "i": 2114,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 1,
+    "t": "Se un ladro viene sorpreso a scassinare una casa e viene colpito mortalmente, non si sarà colpevoli di omicidio nei suoi confronti."
+  },
+  {
+    "i": 2115,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 2,
+    "t": "Ma se il sole si è già levato, si sarà colpevoli di omicidio nei suoi confronti. Il ladro dovrà restituire ciò che ha rubato; se non ha di che pagare, sarà venduto per compensare il furto."
+  },
+  {
+    "i": 2116,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 3,
+    "t": "Se la bestia rubata, bue, asino o pecora, viene ritrovata viva in suo possesso, dovrà restituire il doppio."
+  },
+  {
+    "i": 2117,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 4,
+    "t": "Se qualcuno fa pascolare il bestiame in un campo o in una vigna e lascia che il bestiame pascoli nel campo del suo prossimo, dovrà risarcire il danno con il meglio del suo campo. Se ha fatto pascolare tutto il campo, dovrà risarcire con il meglio del suo raccolto."
+  },
+  {
+    "i": 2118,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 5,
+    "t": "Se un incendio si propaga e raggiunge delle spine e queste incendiano un covone, un mucchio di grano o un campo, colui che ha appiccato l'incendio dovrà risarcire il danno."
+  },
+  {
+    "i": 2119,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 6,
+    "t": "Se qualcuno affida al suo prossimo denaro o oggetti da custodire e questi vengono rubati dalla casa del suo prossimo, il ladro, se viene scoperto, dovrà restituire il doppio."
+  },
+  {
+    "i": 2120,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 7,
+    "t": "Se il ladro non viene scoperto, il padrone di casa si presenterà davanti a Dio per giurare che non ha messo mano sulla proprietà del suo prossimo."
+  },
+  {
+    "i": 2121,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 8,
+    "t": "In ogni causa per un reato riguardante un bue, un asino, una pecora, una veste o qualunque oggetto smarrito, di cui si dica: \"È questo!\", la causa sarà portata davanti a Dio. Colui che Dio dichiarerà colpevole dovrà restituire il doppio al suo prossimo."
+  },
+  {
+    "i": 2122,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 9,
+    "t": "Se qualcuno affida a un altro un asino, un bue, una pecora o qualunque bestia, e questa muore, si azzoppa o viene portata via senza che vi siano testimoni,"
+  },
+  {
+    "i": 2123,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 10,
+    "t": "si farà un giuramento davanti al Signore tra i due, per accertare se il depositario non abbia messo mano sulla proprietà del suo prossimo; il proprietario accetterà il giuramento e l'altro non sarà tenuto a risarcire il danno."
+  },
+  {
+    "i": 2124,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 11,
+    "t": "Ma se la bestia gli è stata rubata, dovrà risarcire il danno al suo proprietario."
+  },
+  {
+    "i": 2125,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 12,
+    "t": "Se la bestia è stata sbranata, ne porterà la prova e non sarà tenuto a risarcire il danno."
+  },
+  {
+    "i": 2126,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 13,
+    "t": "Se uno chiede in prestito una bestia al suo prossimo e questa si azzoppa o muore, mentre il proprietario non è presente, dovrà risarcire il danno."
+  },
+  {
+    "i": 2127,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 14,
+    "t": "Ma se il proprietario è presente, non sarà tenuto a risarcire il danno. Se la bestia è stata presa a noleggio, il proprietario riceverà il suo compenso."
+  },
+  {
+    "i": 2128,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 15,
+    "t": "Se qualcuno seduce una vergine non ancora promessa sposa e si unisce a lei, dovrà pagare il prezzo nuziale e prenderla in moglie."
+  },
+  {
+    "i": 2129,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 16,
+    "t": "Se il padre di lei rifiuta di dargliela, egli dovrà versare una somma pari al prezzo nuziale delle vergini."
+  },
+  {
+    "i": 2130,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 17,
+    "t": "Non lascerai vivere la strega."
+  },
+  {
+    "i": 2131,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 18,
+    "t": "Chiunque si accoppia con una bestia dovrà essere messo a morte."
+  },
+  {
+    "i": 2132,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 19,
+    "t": "Chi sacrifica agli dèi, al di fuori del Signore solo, sarà votato allo sterminio."
+  },
+  {
+    "i": 2133,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 20,
+    "t": "Non molesterai il forestiero e non lo opprimerai, perché anche voi siete stati forestieri nel paese d'Egitto."
+  },
+  {
+    "i": 2134,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 21,
+    "t": "Non maltratterete la vedova e l'orfano."
+  },
+  {
+    "i": 2135,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 22,
+    "t": "Se li maltrattate e invocano il mio aiuto, io udrò il loro grido,"
+  },
+  {
+    "i": 2136,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 23,
+    "t": "la mia ira si accenderà e vi farò perire di spada; le vostre mogli saranno vedove e i vostri figli orfani."
+  },
+  {
+    "i": 2137,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 24,
+    "t": "Se presti denaro a qualcuno del mio popolo, a un povero che abita vicino a te, non ti comporterai con lui da usuraio; non gli imporrai alcun interesse."
+  },
+  {
+    "i": 2138,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 25,
+    "t": "Se prendi in pegno il mantello del tuo prossimo, glielo renderai prima del tramonto del sole,"
+  },
+  {
+    "i": 2139,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 26,
+    "t": "perché è la sua unica copertura, è il mantello per avvolgere il suo corpo; come dormirà? Se griderà a me, io lo ascolterò, perché io sono misericordioso."
+  },
+  {
+    "i": 2140,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 27,
+    "t": "Non bestemmierai Dio e non maledirai il capo del tuo popolo."
+  },
+  {
+    "i": 2141,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 28,
+    "t": "Non tarderai a offrirmi le primizie del tuo raccolto e del tuo vino. Mi darai il primogenito dei tuoi figli."
+  },
+  {
+    "i": 2142,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 29,
+    "t": "Così farai anche con il tuo bestiame grosso e minuto: per sette giorni starà con la madre, l'ottavo giorno me lo darai."
+  },
+  {
+    "i": 2143,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 30,
+    "t": "Sarete per me uomini santi. Non mangerete carne di bestie sbranate nei campi; la getterete ai cani."
+  },
+  {
+    "i": 2144,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 1,
+    "t": "Non diffonderai false notizie. Non presterai mano al malvagio per fare da testimone a favore dell'ingiustizia."
+  },
+  {
+    "i": 2145,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 2,
+    "t": "Non seguirai la maggioranza per fare il male e, in un processo, non deporrai per favorire la maggioranza e per pervertire il diritto."
+  },
+  {
+    "i": 2146,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 3,
+    "t": "Non favorirai il povero nel suo processo."
+  },
+  {
+    "i": 2147,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 4,
+    "t": "Se incontri il bue o l'asino del tuo nemico che si sono smarriti, devi ricondurglieli."
+  },
+  {
+    "i": 2148,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 5,
+    "t": "Se vedi l'asino di colui che ti odia cadere sotto il peso del suo carico, non esiterai ad aiutarlo, ma lo aiuterai a sollevarlo."
+  },
+  {
+    "i": 2149,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 6,
+    "t": "Non lederai il diritto del tuo povero nel suo processo."
+  },
+  {
+    "i": 2150,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 7,
+    "t": "Ti terrai lontano da accuse false. Non far morire l'innocente e il giusto e non giustificare l'empio."
+  },
+  {
+    "i": 2151,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 8,
+    "t": "Non accetterai doni, perché il dono acceca chi ha gli occhi aperti e corrompe le cause dei giusti."
+  },
+  {
+    "i": 2152,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 9,
+    "t": "Non opprimerai il forestiero. Voi conoscete la condizione del forestiero, perché anche voi siete stati forestieri nel paese d'Egitto."
+  },
+  {
+    "i": 2153,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 10,
+    "t": "Per sei anni seminerai la tua terra e ne raccoglierai i prodotti,"
+  },
+  {
+    "i": 2154,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 11,
+    "t": "ma il settimo anno la lascerai riposare e incolta; i poveri del tuo popolo mangeranno ciò che vi crescerà e le bestie dei campi mangeranno ciò che resterà. Così farai con la tua vigna e con il tuo oliveto."
+  },
+  {
+    "i": 2155,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 12,
+    "t": "Per sei giorni farai i tuoi lavori, ma il settimo giorno ti riposerai, affinché il tuo bue e il tuo asino abbiano riposo e perché si rianimino il figlio della tua schiava e il forestiero."
+  },
+  {
+    "i": 2156,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 13,
+    "t": "Avrete cura di tutto quello che vi ho detto; non pronuncerete il nome di altri dèi; non lo si oda uscire dalla vostra bocca."
+  },
+  {
+    "i": 2157,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 14,
+    "t": "Tre volte all'anno celebrerai una festa in mio onore."
+  },
+  {
+    "i": 2158,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 15,
+    "t": "Osserverai la festa degli Azzimi. Per sette giorni mangerai pane azzimo, come ti ho comandato, nel tempo stabilito del mese di Abib, perché in quel mese sei uscito dall'Egitto. Nessuno si presenterà davanti a me a mani vuote."
+  },
+  {
+    "i": 2159,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 16,
+    "t": "Osserverai la festa della Mietitura, delle primizie del tuo lavoro di semina nei campi, e la festa del Raccolto, alla fine dell'anno, quando radunerai nei campi il frutto del tuo lavoro."
+  },
+  {
+    "i": 2160,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 17,
+    "t": "Tre volte all'anno tutti i tuoi maschi si presenteranno davanti al Signore Dio."
+  },
+  {
+    "i": 2161,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 18,
+    "t": "Non offrirai il sangue del mio sacrificio con pane lievitato e il grasso della mia festa non sarà conservato fino al mattino."
+  },
+  {
+    "i": 2162,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 19,
+    "t": "Porterai alla casa del Signore tuo Dio il meglio delle primizie della tua terra. Non farai cuocere un capretto nel latte di sua madre."
+  },
+  {
+    "i": 2163,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 20,
+    "t": "Ecco, io mando un angelo davanti a te per proteggerti lungo il cammino e per condurti nel luogo che ho preparato."
+  },
+  {
+    "i": 2164,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 21,
+    "t": "Abbi rispetto per lui e ascolta la sua voce; non ribellarti a lui, perché egli non perdonerebbe le vostre trasgressioni, perché il mio nome è in lui."
+  },
+  {
+    "i": 2165,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 22,
+    "t": "Ma se tu ascolti attentamente la sua voce e fai tutto quello che ti dico, io sarò nemico dei tuoi nemici e avversario dei tuoi avversari."
+  },
+  {
+    "i": 2166,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 23,
+    "t": "Il mio angelo andrà davanti a te e ti condurrà presso gli Amorrei, gli Ittiti, i Perizziti, i Cananei, gli Ivviti e i Gebusei e io li sterminerò."
+  },
+  {
+    "i": 2167,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 24,
+    "t": "Non ti prostrerai davanti ai loro dèi e non li servirai; non farai come fanno loro, ma distruggerai i loro dèi e spezzerai le loro stele."
+  },
+  {
+    "i": 2168,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 25,
+    "t": "Servirete il Signore vostro Dio, allora io benedirò il tuo pane e la tua acqua e allontanerò da te le malattie."
+  },
+  {
+    "i": 2169,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 26,
+    "t": "Nel tuo paese nessuna donna avrà aborti o sarà sterile e io ti farò raggiungere il numero completo dei tuoi giorni."
+  },
+  {
+    "i": 2170,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 27,
+    "t": "Manderò davanti a te il mio terrore, getterò lo scompiglio in tutti i popoli presso i quali entrerai e farò fuggire davanti a te tutti i tuoi nemici."
+  },
+  {
+    "i": 2171,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 28,
+    "t": "Manderò davanti a te i calabroni, che scacceranno davanti a te gli Ivviti, i Cananei e gli Ittiti."
+  },
+  {
+    "i": 2172,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 29,
+    "t": "Non li scaccerò davanti a te in un solo anno, perché il paese non diventi un deserto e le bestie selvatiche non si moltiplichino a tue spese."
+  },
+  {
+    "i": 2173,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 30,
+    "t": "Li scaccerò davanti a te poco a poco, finché tu non sarai abbastanza numeroso da ereditare il paese."
+  },
+  {
+    "i": 2174,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 31,
+    "t": "Fisserò i tuoi confini dal mar Rosso al mare dei Filistei e dal deserto al fiume Eufrate, perché metterò nelle tue mani gli abitanti del paese e tu li scaccerai davanti a te."
+  },
+  {
+    "i": 2175,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 32,
+    "t": "Non farai alleanza con loro e con i loro dèi."
+  },
+  {
+    "i": 2176,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 33,
+    "t": "Essi non abiteranno nel tuo paese, perché non ti facciano peccare contro di me, in quanto tu serviresti i loro dèi e ciò sarebbe per te una trappola."
+  },
+  {
+    "i": 2177,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 1,
+    "t": "Poi disse a Mosè: «Sali verso il Signore, tu, Aronne, Nadab, Abiu e settanta degli anziani d'Israele e vi prostrerete da lontano."
+  },
+  {
+    "i": 2178,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 2,
+    "t": "Mosè si avvicinerà da solo al Signore; gli altri non si avvicineranno e il popolo non salirà con lui»."
+  },
+  {
+    "i": 2179,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 3,
+    "t": "Mosè andò a riferire al popolo tutte le parole del Signore e tutte le leggi; tutto il popolo rispose con una sola voce: «Metteremo in pratica tutte le parole che il Signore ha detto»."
+  },
+  {
+    "i": 2180,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 4,
+    "t": "Mosè scrisse tutte le parole del Signore; poi, al mattino, si alzò di buon'ora ed eresse un altare ai piedi del monte, con dodici stele per le dodici tribù d'Israele."
+  },
+  {
+    "i": 2181,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 5,
+    "t": "Poi mandò giovani Israeliti a offrire olocausti e a immolare al Signore giovenchi come sacrifici di comunione."
+  },
+  {
+    "i": 12182,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 6,
+    "t": "Mosè prese la metà del sangue e la mise in bacini, e l'altra metà del sangue la sparse sull'altare."
+  },
+  {
+    "i": 2183,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 7,
+    "t": "Poi prese il libro dell'Alleanza e lo lesse al popolo, il quale disse: \"Quanto il Signore ha detto, noi lo faremo e obbediremo."
+  },
+  {
+    "i": 2184,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 8,
+    "t": "Mosè prese il sangue, lo sparse sul popolo e disse: \"Ecco il sangue dell'Alleanza che il Signore ha stretto con voi in base a tutte queste clausole."
+  },
+  {
+    "i": 2185,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 9,
+    "t": "Mosè salì con Aronne, Nadab, Abiu e settanta anziani d'Israele."
+  },
+  {
+    "i": 2186,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 10,
+    "t": "Essi videro il Dio d'Israele: sotto i suoi piedi c'era come un pavimento di zaffiro, limpido come il cielo stesso."
+  },
+  {
+    "i": 2187,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 11,
+    "t": "Egli non stese la mano contro i notabili degli Israeliti; essi videro Dio, poi mangiarono e bevvero."
+  },
+  {
+    "i": 2188,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 12,
+    "t": "Il Signore disse a Mosè: \"Sali da me sul monte e resta là: io ti darò le tavole di pietra, la legge e i comandamenti che ho scritto per istruirli."
+  },
+  {
+    "i": 2189,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 13,
+    "t": "Mosè si alzò con Giosuè, suo servo, e salirono sul monte di Dio."
+  },
+  {
+    "i": 2190,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 14,
+    "t": "Agli anziani disse: \"Aspettateci qui finché torneremo da voi; ecco, avete con voi Aronne e Cur; chiunque avrà una questione, si rivolga a loro."
+  },
+  {
+    "i": 2191,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 15,
+    "t": "Mosè salì dunque sul monte e la nube lo coprì."
+  },
+  {
+    "i": 2192,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 16,
+    "t": "La gloria del Signore si posò sul monte Sinai e la nube lo coprì per sei giorni. Il settimo giorno il Signore chiamò Mosè dal mezzo della nube."
+  },
+  {
+    "i": 2193,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 17,
+    "t": "Agli occhi degli Israeliti l'aspetto della gloria del Signore era come un fuoco divorante sulla cima del monte."
+  },
+  {
+    "i": 2194,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 18,
+    "t": "Mosè entrò dunque in mezzo alla nube e salì sul monte. Mosè rimase sul monte quaranta giorni e quaranta notti."
+  },
+  {
+    "i": 2195,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 1,
+    "t": "Il Signore parlò a Mosè e disse:"
+  },
+  {
+    "i": 2196,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 2,
+    "t": "\"Parla agli Israeliti e dì loro che prendano per me un'offerta. Prenderete l'offerta da chiunque è spinto dal suo cuore a darla."
+  },
+  {
+    "i": 2197,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 3,
+    "t": "Ecco l'offerta che prenderete da loro: oro, argento e bronzo,"
+  },
+  {
+    "i": 2198,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 4,
+    "t": "porpora viola e scarlatta, cremisi, bisso e pelo di capra,"
+  },
+  {
+    "i": 2199,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 5,
+    "t": "pelli di montone tinte di rosso, cuoio fine e legno d'acacia."
+  }
+]

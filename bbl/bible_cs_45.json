@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4500,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 12,
+    "t": "Synové Simeoňovi podle čeledí svých: Z Nemuele čeleď Nemuelitská, z Jamina čeleď Jaminitů, z Jakina čeleď Jakinitů,"
+  },
+  {
+    "i": 4501,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 13,
+    "t": "Z Zeracha čeleď Zarachitská, z Saula čeleď Saulitská."
+  },
+  {
+    "i": 4502,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 14,
+    "t": "Tyto jsou čeledi Simeoňovy. Bylo jich dvacet dva tisíce a dvě stě sečtených."
+  },
+  {
+    "i": 4503,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 15,
+    "t": "Synové Gádovi podle čeledí svých: Z Sefona čeleď Sefonitská, z Aggie čeleď Aggitská, z Suniho čeleď Sunitská,"
+  },
+  {
+    "i": 4504,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 16,
+    "t": "Z Ozniho čeleď Oznitská, z Eriho čeleď Eritská,"
+  },
+  {
+    "i": 4505,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 17,
+    "t": "Z Arodiho čeleď Aroditská, z Areliho čeleď Areelitská."
+  },
+  {
+    "i": 4506,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 18,
+    "t": "Tyto jsou čeledi synů Gádových. A bylo jich čtyřicet tisíc pět set sečtených."
+  },
+  {
+    "i": 4507,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 19,
+    "t": "Synové Judovi: Er a Onan. I umřel Er a Onan v zemi Kananejské."
+  },
+  {
+    "i": 4508,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 20,
+    "t": "A byli synové Judovi podle čeledí svých: Z Sely čeleď Selanitská, z Fárese čeleď Fáretská, z Zeracha čeleď Zarachitská."
+  },
+  {
+    "i": 4509,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 21,
+    "t": "Byli také synové Fáresovi: Z Ezrona čeleď Ezronitská, z Chamula čeleď Chamulitská."
+  },
+  {
+    "i": 4510,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 22,
+    "t": "Tyto jsou čeledi Judovy. A bylo jich sedmdesát šest tisíc pět set sečtených."
+  },
+  {
+    "i": 4511,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 23,
+    "t": "Synové Izacharovi podle čeledí svých: Z Toly čeleď Tolatská, z Fuvy čeleď Fuvitská,"
+  },
+  {
+    "i": 4512,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 24,
+    "t": "Z Jassuba čeleď Jassubitská, z Simrona čeleď Simronitská."
+  },
+  {
+    "i": 4513,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 25,
+    "t": "Tyto jsou čeledi Izacharovy. A bylo jich šedesát čtyři tisíce tři sta sečtených."
+  },
+  {
+    "i": 4514,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 26,
+    "t": "Synové Zabulonovi podle čeledí svých: Ze Sareda čeleď Sareditská, z Elona čeleď Elonitská, z Jahleele čeleď Jahleelitská."
+  },
+  {
+    "i": 4515,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 27,
+    "t": "Tyto jsou čeledi Zabulonovy. A bylo jich šedesát tisíc pět set sečtených."
+  },
+  {
+    "i": 4516,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 28,
+    "t": "Synové Jozefovi podle čeledí svých: Manasses a Efraim."
+  },
+  {
+    "i": 4517,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 29,
+    "t": "Synové Manassesovi: Z Machira čeleď Machirova; Machir pak zplodil Galaada; z Galaada čeleď Galaaditská."
+  },
+  {
+    "i": 4518,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 30,
+    "t": "Tito jsou synové Galaadovi: Z Jezer čeleď Jezeritská, z Heleka čeleď Helekitská,"
+  },
+  {
+    "i": 4519,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 31,
+    "t": "Z Azriela čeleď Azrielitská, z Sichema čeleď Sichemitská,"
+  },
+  {
+    "i": 4520,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 32,
+    "t": "Z Semidy čeleď Semidaitská, z Hefera čeleď Heferitská."
+  },
+  {
+    "i": 4521,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 33,
+    "t": "Salfaad pak, syn Heferův, neměl synů, ale toliko dcery; a jména dcer Salfaadových tato: Mahla, Noa, Hegla, Melcha a Tersa."
+  },
+  {
+    "i": 4522,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 34,
+    "t": "Tyto jsou čeledi Manassesovy. A bylo jich padesát dva tisíce sedm set sečtených."
+  },
+  {
+    "i": 4523,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 35,
+    "t": "Synové Efraimovi podle čeledí svých: Z Sútale čeleď Sútalitská, z Bechera čeleď Bachritská, z Tána čeleď Taanitská."
+  },
+  {
+    "i": 4524,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 36,
+    "t": "A tito jsou synové Sútale: Z Erána čeleď Eránitská."
+  },
+  {
+    "i": 4525,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 37,
+    "t": "Tyto jsou čeledi synů Efraimových. A bylo jich třidceti dva tisíce pět set sečtených. Tito jsou synové Jozefovi podle čeledí svých."
+  },
+  {
+    "i": 4526,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 38,
+    "t": "Synové Beniaminovi podle čeledí svých: Z Bely čeleď Belatská, z Asbela čeleď Asbelitská, z Achirama čeleď Achiramitská,"
+  },
+  {
+    "i": 4527,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 39,
+    "t": "Z Sufama čeleď Sufamitská, z Hufama čeleď Hufamitská."
+  },
+  {
+    "i": 4528,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 40,
+    "t": "Bela pak měl synů Arda a Naámana: Z Arda čeleď Arditská, z Naámana čeleď Naamitská."
+  },
+  {
+    "i": 4529,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 41,
+    "t": "Tyto jsou čeledi Beniaminovy podle čeledí jejich. A bylo jich čtyřidceti pět tisíc šest set sečtených."
+  },
+  {
+    "i": 4530,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 42,
+    "t": "Synové Danovi podle čeledí svých: Ze Suháma čeleď Suhamitská. Tať jest čeleď Danova podle čeledí jejích."
+  },
+  {
+    "i": 4531,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 43,
+    "t": "Všech čeledí Suhamitských bylo šedesát čtyři tisíce a čtyři sta sečtených."
+  },
+  {
+    "i": 4532,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 44,
+    "t": "Synové Aserovi podle čeledí svých: Z Jemny čeleď Jemnitská, z Jesviho čeleď Jesvitská, z Berie čeleď Beriitská."
+  },
+  {
+    "i": 4533,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 45,
+    "t": "Synové Berie: Z Hebera čeleď Heberitská, z Melchiele čeleď Melchielitská."
+  },
+  {
+    "i": 4534,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 46,
+    "t": "Jméno pak dcery Aserovy Sáre."
+  },
+  {
+    "i": 4535,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 47,
+    "t": "Tyto jsou čeledi synů Aserových. A bylo jich padesát tři tisíce čtyři sta sečtených."
+  },
+  {
+    "i": 4536,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 48,
+    "t": "Synové Neftalímovi podle čeledí svých: Z Jazeela čeleď Jazeelitská, z Guny čeleď Gunitská,"
+  },
+  {
+    "i": 4537,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 49,
+    "t": "Z Jezer čeleď Jezeritská, z Sallema čeleď Salemitská."
+  },
+  {
+    "i": 4538,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 50,
+    "t": "Tyto jsou čeledi Neftalímovy podle čeledí jejich. A bylo synů Neftalímových čtyřidceti pět tisíc čtyři sta sečtených."
+  },
+  {
+    "i": 4539,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 51,
+    "t": "Všech sečtených z synů Izraelských bylo šest set tisíc a jeden tisíc sedm set a třidceti."
+  },
+  {
+    "i": 4540,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 52,
+    "t": "Mluvil Hospodin k Mojžíšovi, řka:"
+  },
+  {
+    "i": 4541,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 53,
+    "t": "Těmto rozdělena bude země v dědictví podle počtu jmen."
+  },
+  {
+    "i": 4542,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 54,
+    "t": "Mnohým rozmnožíš dědictví, a málo jich maje, zmenšíš dědictví; jednomu každému podle počtu sečtených dáno bude dědictví jeho."
+  },
+  {
+    "i": 4543,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 55,
+    "t": "Avšak losem rozdělena bude země. Podle jmen pokolení otců svých dědictví přijmou."
+  },
+  {
+    "i": 4544,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 56,
+    "t": "Podle losu dědictví rozděleno bude, mnohým i malým."
+  },
+  {
+    "i": 4545,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 57,
+    "t": "Tito jsou sečtení Levítů podle čeledí svých: Z Gersona čeleď Gersonitská, z Kahata čeleď Kahatitská, z Merari čeleď Meraritská."
+  },
+  {
+    "i": 4546,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 58,
+    "t": "Tyto jsou čeledi Lévitské: Čeleď Lebnitská, čeleď Hebronitská, čeleď Machlitská, čeleď Musitská, čeleď Korachitská. Kahat pak zplodil Amrama."
+  },
+  {
+    "i": 4547,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 59,
+    "t": "Jméno pak ženy Amramovy Jochebed, dcera Léví, kteráž se narodila Lévímu v Egyptě; a porodila Amramovi Arona a Mojžíše, a Marii sestru jejich."
+  },
+  {
+    "i": 4548,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 60,
+    "t": "A Aronovi narodili se Nádab a Abiu, Eleazar a Itamar."
+  },
+  {
+    "i": 4549,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 61,
+    "t": "Umřel Nádab a Abiu před Hospodinem, když obětovali oheň cizí."
+  },
+  {
+    "i": 4550,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 62,
+    "t": "A bylo všech sečtených pohlaví mužského od měsíce výše dvadceti tři tisíce. Nebo nebyli sečteni s syny Izraelskými, proto že nebylo jim dáno dědictví mezi nimi."
+  },
+  {
+    "i": 4551,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 63,
+    "t": "Ti jsou sečtení, kteréž sečetli Mojžíš a Eleazar kněz, kteříž sečetli syny Izraelské v rovinách Moábských, u Jordánu proti Jerichu."
+  },
+  {
+    "i": 4552,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 64,
+    "t": "Mezi těmito pak nebyl žádný z těch, kteréž sečetli Mojžíš a Aron kněz, když sečetli syny Izraelské na poušti Sinai."
+  },
+  {
+    "i": 4553,
+    "b": 3,
+    "c": 426,
+    "r": 426,
+    "o": 65,
+    "t": "Nebo jim byl řekl Hospodin: Jistě pomrou na poušti, a nezůstane žádný z nich, kromě Kálefa syna Jefonova a Jozue syna Nunova."
+  },
+  {
+    "i": 4554,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 1,
+    "t": "I přistoupily dcery Salfaadovy syna Heferova, syna Galaadova, syna Machirova, syna Manassesova, z čeledí Manassesových, syna Jozefova, a tato jsou jména dcer jeho: Mahla, Noa, Hegla, Melcha a Tersa."
+  },
+  {
+    "i": 4555,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 2,
+    "t": "I postavily se před Mojžíšem a před Eleazarem knězem, a před knížaty i před všechním shromážděním u dveří stánku svědectví, řkouce:"
+  },
+  {
+    "i": 4556,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 3,
+    "t": "Otec náš umřel na poušti, kterýž nebyl mezi shromážděním těmi, kteříž se srotili proti Hospodinu v shromáždění Korachově, ale pro hřích svůj umřel, a neměl synů."
+  },
+  {
+    "i": 4557,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 4,
+    "t": "Pročež proč zahynulo by jméno otce našeho z čeledi jeho, proto že nemá syna? Dejž nám dědictví mezi bratřími otce našeho."
+  },
+  {
+    "i": 4558,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 5,
+    "t": "I předložil Mojžíš příčinu jejich před Hospodinem."
+  },
+  {
+    "i": 4559,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 6,
+    "t": "Tedy mluvil Hospodin k Mojžíšovi, řka:"
+  },
+  {
+    "i": 4560,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 7,
+    "t": "Spravedlivě mluví dcery Salfaadovy; jistě dej jim dědictví mezi bratřími otce jejich, a převedeš na ně dědictví otce jejich."
+  },
+  {
+    "i": 4561,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 8,
+    "t": "Synům pak Izraelským mluv, řka: Jestliže by kdo umřel, a neměl by syna, převedete dědictví jeho na dceru jeho."
+  },
+  {
+    "i": 4562,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 9,
+    "t": "Pakli by neměl dcery, dáte dědictví jeho bratřím jeho."
+  },
+  {
+    "i": 4563,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 10,
+    "t": "Pakli by neměl bratří, dáte dědictví jeho bratřím otce jeho."
+  },
+  {
+    "i": 4564,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 11,
+    "t": "Pakli by neměl otec jeho bratří, dáte dědictví jeho nejbližšímu z čeledi jeho, aby jej vládl; to bude synům Izraelským ustanovení soudné, jakož přikázal Hospodin Mojžíšovi."
+  },
+  {
+    "i": 4565,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 12,
+    "t": "Řekl také Hospodin k Mojžíšovi: Vstup na horu tuto Abarim, a pohleď na zemi, kterouž jsem dal synům Izraelským."
+  },
+  {
+    "i": 4566,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 13,
+    "t": "A když uzříš ji, připojen budeš k lidu svému, jakož připojen jest Aron bratr tvůj."
+  },
+  {
+    "i": 4567,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 14,
+    "t": "Proto že jste odpírali ústům mým na poušti Cin, v rozepři shromáždění, abyste posvětili mne při vodách před očima jejich. (Tyť jsou vody sváru v Kádeš na poušti Cin.)"
+  },
+  {
+    "i": 4568,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 15,
+    "t": "I mluvil Mojžíš k Hospodinu, řka:"
+  },
+  {
+    "i": 4569,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 16,
+    "t": "Nechť Hospodin Bůh duchů všech těl ustanoví nad tímto shromážděním muže,"
+  },
+  {
+    "i": 4570,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 17,
+    "t": "Kterýž by vycházel před nimi a vcházel před nimi, a kterýž by je vyvodil a uvodil, aby nebylo shromáždění Hospodinovo jako ovce, kteréž nemají pastýře."
+  },
+  {
+    "i": 4571,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 18,
+    "t": "Řekl Hospodin Mojžíšovi: Vezmi Jozue syna Nunova, muže v němž jest duch, a vzlož ruku svou na něho."
+  },
+  {
+    "i": 4572,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 19,
+    "t": "A postav jej před Eleazarem knězem, a před všechním shromážděním, a přikaž mu před očima jejich."
+  },
+  {
+    "i": 4573,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 20,
+    "t": "A dáš mu z důstojnosti své, aby poslouchalo jeho všecko shromáždění synů Izraelských."
+  },
+  {
+    "i": 4574,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 21,
+    "t": "A on před Eleazarem knězem postaví se, kterýž tázati se bude jím soudu Urim před Hospodinem; podlé řeči jeho vycházeti budou, a podlé řeči jeho vcházeti, on i všickni synové Izraelští s ním, i všecko shromáždění."
+  },
+  {
+    "i": 4575,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 22,
+    "t": "I učinil Mojžíš, jakož mu přikázal Hospodin. Vzal Jozue a postavil jej před Eleazarem knězem, a před všechním shromážděním."
+  },
+  {
+    "i": 4576,
+    "b": 3,
+    "c": 427,
+    "r": 427,
+    "o": 23,
+    "t": "A vložil na něho ruku svou, a přikázal mu, jakož mluvil Hospodin skrze Mojžíše."
+  },
+  {
+    "i": 4577,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 1,
+    "t": "Mluvil Hospodin k Mojžíšovi, řka:"
+  },
+  {
+    "i": 4578,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 2,
+    "t": "Přikaž synům Izraelským, a rci jim: Dar můj, a pokrm můj ku obětem ohnivým, vůně libá má, ostříhati se budete obětovati mi časem uloženým."
+  },
+  {
+    "i": 4579,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 3,
+    "t": "Řekneš jim také: Tato jest obět ohnivá, kterouž obětovati budete Hospodinu: Dva beránky roční bez vady, každý den v oběť ustavičnou."
+  },
+  {
+    "i": 4580,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 4,
+    "t": "Prvního beránka obětuj jako zápalnou oběť ráno a druhého beránka obětuj jako zápalnou oběť za soumraku,"
+  },
+  {
+    "i": 4581,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 5,
+    "t": "s obětní dávkou desetiny éfy jemné mouky zadělané čtvrtinou hinu vytlačeného oleje."
+  },
+  {
+    "i": 4582,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 6,
+    "t": "To je ustavičná zápalná oběť, která byla kdysi vykonána na hoře Sinaji jako libá vůně, pokrm ohnivý pro Hospodina."
+  },
+  {
+    "i": 4583,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 7,
+    "t": "Oběť úlitby k ní bude čtvrtina hinu pro každého beránka; ve svatyni se vylije úlitba opojného nápoje pro Hospodina."
+  },
+  {
+    "i": 4584,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 8,
+    "t": "Pro druhého beránka obětuj zápalnou oběť za soumraku; obětuj ho s týmž obětním darem a týmž nápojem jako ráno, jako pokrm ohnivý, libou vůni pro Hospodina."
+  },
+  {
+    "i": 4585,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 9,
+    "t": "„V den sabatu obětujte dva beránky roční, bez vady, a dvě desetiny éfy jemné mouky jako obětní dar zadělaný olejem, a také úlitbu k němu."
+  },
+  {
+    "i": 4586,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 10,
+    "t": "Zápalná oběť sabatu se přidá ke každé sobotě k ustavičné zápalné oběti a stejně tak i úlitba k ní."
+  },
+  {
+    "i": 4587,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 11,
+    "t": "„Při začátku svých měsíců obětujte Hospodinu zápalnou oběť: dva býčky, jednoho berana a sedm beránků ročních, bez vady;"
+  },
+  {
+    "i": 4588,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 12,
+    "t": "ke každému býčkovi tři desetiny éfy jemné mouky jako obětní dar zadělaný olejem; ke každému beranu dvě desetiny éfy jemné mouky jako obětní dar zadělaný olejem;"
+  },
+  {
+    "i": 4589,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 13,
+    "t": "ke každému beránku desetinu éfy jemné mouky jako obětní dar zadělaný olejem. To je zápalná oběť obětovaná jako libá vůně, pokrm ohnivý pro Hospodina."
+  },
+  {
+    "i": 4590,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 14,
+    "t": "Úlitby k ní budou půl hinu vína k býčkovi, třetina hinu k beranu a čtvrtina hinu k beránku. Taková bude měsíc co měsíc zápalná oběť měsíce, pro všechny měsíce roku."
+  },
+  {
+    "i": 4591,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 15,
+    "t": "Kromě ustavičné zápalné oběti se Hospodinu obětuje kozel jako oběť za hřích, s úlitbou k němu."
+  },
+  {
+    "i": 4592,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 16,
+    "t": "„V prvním měsíci, čtrnáctého dne toho měsíce, je Hospodinova Pascha,"
+  },
+  {
+    "i": 4593,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 17,
+    "t": "a patnáctého dne toho měsíce je svátek. Po sedm dní se budou jíst nekvašené chleby."
+  },
+  {
+    "i": 4594,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 18,
+    "t": "Prvního dne bude svaté shromáždění. Nebudete vykonávat žádnou otrockou práci."
+  },
+  {
+    "i": 4595,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 19,
+    "t": "Budete obětovat Hospodinu pokrmy ohnivé jako zápalnou oběť: dva býčky, jednoho berana, sedm beránků ročních, bez vady."
+  },
+  {
+    "i": 4596,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 20,
+    "t": "Obětní dar k ní, v jemné mouce zadělané olejem, bude tři desetiny k býčkovi, dvě desetiny k beranu,"
+  },
+  {
+    "i": 4597,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 21,
+    "t": "a desetina ke každému ze sedmi beránků."
+  },
+  {
+    "i": 4598,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 22,
+    "t": "A bude kozel jako oběť za hřích, abyste byli očištěni."
+  },
+  {
+    "i": 4599,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 23,
+    "t": "Toto budete dělat kromě zápalné oběti, kterou obětujete ráno jako ustavičnou zápalnou oběť."
+  }
+]

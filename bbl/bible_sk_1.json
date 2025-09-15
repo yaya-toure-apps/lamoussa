@@ -1,0 +1,802 @@
+[
+  {
+    "i": 100,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 21,
+    "t": "Meno jeho brata bolo Jubal, on bol otcom všetkých, ktorí hrajú na harfu a píšťalu."
+  },
+  {
+    "i": 101,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 22,
+    "t": "Cilla porodila Tubal-Kaina, ktorý bol kováčom všetkých medených a železných nástrojov; sestra Tubal-Kainova bola Naama."
+  },
+  {
+    "i": 102,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 23,
+    "t": "Lámek povedal svojim ženám: „Ada a Cilla, počujte môj hlas, ženy Lámekove, počúvajte moje slová: Zabil som muža za zranenie, mládenca za modrinu."
+  },
+  {
+    "i": 103,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 24,
+    "t": "Ak bude Kain pomstený sedemnásobne, Lámek sedemdesiat sedemnásobne!"
+  },
+  {
+    "i": 104,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 25,
+    "t": "Adam poznal svoju ženu a ona porodila syna a nazvala ho Set, lebo povedala: „Boh mi dal iné semä namiesto Ábela, ktorého Kain zabil."
+  },
+  {
+    "i": 105,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 26,
+    "t": "Aj Setovi sa narodil syn, ktorého nazval Enoš. Vtedy začali vzývať meno Hospodinovo."
+  },
+  {
+    "i": 106,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 1,
+    "t": "Toto je kniha rodopisu Adamovho. V deň, keď Boh stvoril Adama, stvoril ho na Božiu podobu."
+  },
+  {
+    "i": 107,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 2,
+    "t": "Muža a ženu ich stvoril, požehnal ich a nazval ich menom „Človek“ v deň, keď boli stvorení."
+  },
+  {
+    "i": 108,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 3,
+    "t": "Keď mal Adam sto tridsať rokov, splodil syna na svoju podobu a svoj obraz a nazval ho Set."
+  },
+  {
+    "i": 109,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 4,
+    "t": "Po narodení Seta žil Adam osemsto rokov a splodil synov a dcéry."
+  },
+  {
+    "i": 110,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 5,
+    "t": "Celý vek Adamov bol deväťsto tridsať rokov, a zomrel."
+  },
+  {
+    "i": 111,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 6,
+    "t": "Keď mal Set sto päť rokov, splodil Enoša."
+  },
+  {
+    "i": 112,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 7,
+    "t": "Po narodení Enoša žil Set osemsto sedem rokov a splodil synov a dcéry."
+  },
+  {
+    "i": 113,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 8,
+    "t": "Celý vek Setov bol deväťsto dvanásť rokov, a zomrel."
+  },
+  {
+    "i": 114,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 9,
+    "t": "Keď mal Enoš deväťdesiat rokov, splodil Kenana."
+  },
+  {
+    "i": 115,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 10,
+    "t": "Po narodení Kenana žil Enoš osemsto pätnásť rokov a splodil synov a dcéry."
+  },
+  {
+    "i": 116,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 11,
+    "t": "Celý vek Enošov bol deväťsto päť rokov, a zomrel."
+  },
+  {
+    "i": 117,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 12,
+    "t": "Keď mal Kenan sedemdesiat rokov, splodil Mahalalela."
+  },
+  {
+    "i": 118,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 13,
+    "t": "Po narodení Mahalalela žil Kenan osemsto štyridsať rokov a splodil synov a dcéry."
+  },
+  {
+    "i": 119,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 14,
+    "t": "Celý vek Kenanov bol deväťsto desať rokov, a zomrel."
+  },
+  {
+    "i": 120,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 15,
+    "t": "Keď mal Mahalalel šesťdesiatpäť rokov, splodil Járeda."
+  },
+  {
+    "i": 121,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 16,
+    "t": "Po narodení Járeda žil Mahalalel osemsto tridsať rokov a splodil synov a dcéry."
+  },
+  {
+    "i": 122,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 17,
+    "t": "Celý vek Mahalalelov bol osemsto osemdesiatpäť rokov, a zomrel."
+  },
+  {
+    "i": 123,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 18,
+    "t": "Keď mal Járed stošesťdesiatdva rokov, splodil Henocha."
+  },
+  {
+    "i": 124,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 19,
+    "t": "Po narodení Henocha žil Járed osemsto rokov a splodil synov a dcéry."
+  },
+  {
+    "i": 125,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 20,
+    "t": "Celý vek Járedov bol deväťsto šesťdesiatdva rokov, a zomrel."
+  },
+  {
+    "i": 126,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 21,
+    "t": "Keď mal Henoch šesťdesiatpäť rokov, splodil Metuzalema."
+  },
+  {
+    "i": 127,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 22,
+    "t": "Henoch chodil s Bohom. Po narodení Metuzalema žil Henoch tristo rokov a splodil synov a dcéry."
+  },
+  {
+    "i": 128,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 23,
+    "t": "Celý vek Henochov bol tristo šesťdesiatpäť rokov."
+  },
+  {
+    "i": 129,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 24,
+    "t": "Henoch chodil s Bohom, a nebolo ho, lebo ho Boh vzal."
+  },
+  {
+    "i": 130,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 25,
+    "t": "Keď mal Metuzalem sto osemdesiatsedem rokov, splodil Lámeka."
+  },
+  {
+    "i": 131,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 26,
+    "t": "Po narodení Lámeka žil Metuzalem sedemsto osemdesiaddva rokov a splodil synov a dcéry."
+  },
+  {
+    "i": 132,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 27,
+    "t": "Celý vek Metuzalemov bol deväťsto šesťdesiatdeväť rokov, a zomrel."
+  },
+  {
+    "i": 133,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 28,
+    "t": "Keď mal Lámek sto osemdesiatdva rokov, splodil syna."
+  },
+  {
+    "i": 134,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 29,
+    "t": "A nazval ho menom Noe, lebo povedal: „Tento nás poteší v našej práci a námahe našich rúk na zemi, ktorú Hospodin preklial."
+  },
+  {
+    "i": 135,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 30,
+    "t": "Po narodení Noeho žil Lámek päťsto deväťdesiatpäť rokov a splodil synov a dcéry."
+  },
+  {
+    "i": 136,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 31,
+    "t": "Celý vek Lámekov bol sedemsto sedemdesiatsedem rokov, a zomrel."
+  },
+  {
+    "i": 137,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 32,
+    "t": "Keď mal Noe päťsto rokov, splodil Sema, Chama a Jafeta."
+  },
+  {
+    "i": 138,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 1,
+    "t": "Keď sa ľudia začali množiť na zemi a rodili sa im dcéry,"
+  },
+  {
+    "i": 139,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 2,
+    "t": "synovia Boží videli, že dcéry ľudské sú krásne, a brali si za ženy všetky, ktoré si vybrali."
+  },
+  {
+    "i": 140,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 3,
+    "t": "Hospodin povedal: „Môj Duch nebude prebývať v človeku naveky, lebo je telo; jeho dní bude sto dvadsať rokov."
+  },
+  {
+    "i": 141,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 4,
+    "t": "V tých dňoch boli na zemi obri (a aj potom), keď synovia Boží vchádzali k dcéram ľudským a ony im rodili deti. To sú tí hrdinovia, ktorí boli od vekov, slávni muži."
+  },
+  {
+    "i": 142,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 5,
+    "t": "Hospodin videl, že zloba človeka je veľká na zemi a že všetky myšlienky jeho srdca sú ustavične zlé."
+  },
+  {
+    "i": 143,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 6,
+    "t": "Hospodin oľutoval, že stvoril človeka na zemi, a zarmútilo ho to v srdci."
+  },
+  {
+    "i": 144,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 7,
+    "t": "Hospodin povedal: „Vyhladím z povrchu zeme človeka, ktorého som stvoril, človeka i zvieratá, plazy i nebeské vtáctvo, lebo ľutujem, že som ich stvoril."
+  },
+  {
+    "i": 145,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 8,
+    "t": "Ale Noe našiel milosť v očiach Hospodinových."
+  },
+  {
+    "i": 146,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 9,
+    "t": "Toto je história Noeho. Noe bol spravodlivý muž, dokonalý vo svojom pokolení, a chodil s Bohom."
+  },
+  {
+    "i": 147,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 10,
+    "t": "Noe splodil troch synov: Sema, Chama a Jafeta."
+  },
+  {
+    "i": 148,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 11,
+    "t": "Zem bola skazená pred Bohom a zem bola plná násilia."
+  },
+  {
+    "i": 149,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 12,
+    "t": "Boh videl zem, a hľa, bola skazená, lebo všetko telo skazilo svoju cestu na zemi."
+  },
+  {
+    "i": 150,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 13,
+    "t": "Boh povedal Noemu: „Koniec každého tela prišiel predo mňa, lebo zem je plná násilia pre ľudí, a hľa, zničím ich so zemou."
+  },
+  {
+    "i": 151,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 14,
+    "t": "Urob si koráb z góferového dreva; urobíš v ňom priečinky a zvnútra i zvonku ho vymažeš smolou."
+  },
+  {
+    "i": 152,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 15,
+    "t": "Urobíš ho takto: Dĺžka korábu bude tristo lakťov, jeho šírka päťdesiat lakťov a jeho výška tridsať lakťov."
+  },
+  {
+    "i": 153,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 16,
+    "t": "Na korábe urobíš strechu a ukončíš ju lakť nad ňou; vchod do korábu umiestniš zboku a urobíš v ňom spodné, stredné a vrchné poschodie."
+  },
+  {
+    "i": 154,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 17,
+    "t": "„Ja, hľa, uvediem potopu vôd na zem, aby som zničil každé telo, v ktorom je dych života pod nebom; všetko, čo je na zemi, zahynie."
+  },
+  {
+    "i": 155,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 18,
+    "t": "S tebou však uzavriem svoju zmluvu; vojdeš do korábu ty, tvoji synovia, tvoja žena a ženy tvojich synov s tebou."
+  },
+  {
+    "i": 156,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 19,
+    "t": "Z každého živého, z každého tela, uvedieš do korábu po dvoch z každého druhu, aby si ich zachoval pri živote s tebou; samec a samica budú."
+  },
+  {
+    "i": 157,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 20,
+    "t": "Z každého druhu vtáctva, z každého druhu dobytka a z každého druhu všetkých zemských plazov, po dvoch z každého druhu prídu s tebou, aby si ich zachoval pri živote."
+  },
+  {
+    "i": 158,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 21,
+    "t": "Ty si vezmi zo všetkého jedla, ktoré sa je, a urob si zásobu, aby to bolo za jedlo pre teba i pre nich."
+  },
+  {
+    "i": 159,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 22,
+    "t": "Noe to urobil; urobil všetko, čo mu Boh prikázal."
+  },
+  {
+    "i": 160,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 1,
+    "t": "Hospodin povedal Noemu: „Vojdi do korábu ty a celá tvoja rodina, lebo som ťa videl, že si spravodlivý predo mnou v tomto pokolení."
+  },
+  {
+    "i": 161,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 2,
+    "t": "Zo všetkého čistého dobytka vezmi sedem párov, samca a jeho samicu; z dobytka, ktorý nie je čistý, pár, samca a jeho samicu,"
+  },
+  {
+    "i": 162,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 3,
+    "t": "(aj z nebeského vtáctva sedem párov, samca a jeho samicu), aby sa zachovalo potomstvo na celej zemi."
+  },
+  {
+    "i": 163,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 4,
+    "t": "Lebo ešte o sedem dní zošlem dážď na zem po štyridsať dní a štyridsať nocí a vyhladím z povrchu zeme všetky tvory, ktoré som urobil."
+  },
+  {
+    "i": 164,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 5,
+    "t": "Noe urobil všetko, čo mu Hospodin prikázal."
+  },
+  {
+    "i": 165,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 6,
+    "t": "Noe mal šesťsto rokov, keď prišla potopa, vody na zem."
+  },
+  {
+    "i": 166,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 7,
+    "t": "Noe vošiel do korábu so svojimi synmi, svojou ženou a ženami svojich synov, aby sa zachránil pred vodami potopy."
+  },
+  {
+    "i": 167,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 8,
+    "t": "(Z čistého dobytka a z dobytka, ktorý nie je čistý, z vtáctva a zo všetkého, čo sa plazí po zemi,"
+  },
+  {
+    "i": 168,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 9,
+    "t": "vošiel do korábu k Noemu pár, samec a samica, ako Boh prikázal Noemu.)"
+  },
+  {
+    "i": 169,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 10,
+    "t": "Po siedmich dňoch prišli na zem vody potopy."
+  },
+  {
+    "i": 170,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 11,
+    "t": "V šesťstom roku Noeho života, v druhom mesiaci, sedemnásteho dňa mesiaca, v ten deň sa pretrhli všetky pramene veľkej hlbiny a otvorili sa stavidlá nebeské."
+  },
+  {
+    "i": 171,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 12,
+    "t": "Na zem sa spustil dážď po štyridsať dní a štyridsať nocí."
+  },
+  {
+    "i": 172,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 13,
+    "t": "V ten istý deň vošiel Noe, Sem, Cham a Jafet, Noeho synovia, Noeho žena a tri ženy jeho synov s nimi do korábu,"
+  },
+  {
+    "i": 173,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 14,
+    "t": "s nimi každá zver podľa svojho druhu, všetok dobytok podľa svojho druhu, všetko, čo sa plazí po zemi, podľa svojho druhu, a všetko vtáctvo podľa svojho druhu, všetko, čo má krídla."
+  },
+  {
+    "i": 174,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 15,
+    "t": "Prišli k Noemu do korábu po páre zo všetkého tela, v ktorom bol dych života,"
+  },
+  {
+    "i": 175,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 16,
+    "t": "a tí, čo prišli, boli samec a samica zo všetkého tela, ako mu Boh prikázal. A Hospodin zavrel za ním dvere."
+  },
+  {
+    "i": 176,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 17,
+    "t": "Potopa trvala štyridsať dní na zemi; vody sa rozmnožili, zdvihli koráb, a ten sa vzniesol nad zem."
+  },
+  {
+    "i": 177,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 18,
+    "t": "Vody stúpali a veľmi sa rozmnožili na zemi, a koráb plával na povrchu vôd."
+  },
+  {
+    "i": 178,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 19,
+    "t": "Vody stúpali čím ďalej tým viac na zemi a boli pokryté všetky vysoké vrchy, ktoré sú pod celým nebom."
+  },
+  {
+    "i": 179,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 20,
+    "t": "Vody stúpli o pätnásť lakťov vyššie a pokryli vrchy."
+  },
+  {
+    "i": 180,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 21,
+    "t": "A zahynulo všetko telo, čo sa hýbe po zemi, vtáctvo, dobytok, zver, všetka háveď, čo sa plazí po zemi, i všetci ľudia."
+  },
+  {
+    "i": 181,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 22,
+    "t": "Všetko, čo malo v chřípích dych života, všetko, čo bolo na suchu, pomrelo."
+  },
+  {
+    "i": 182,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 23,
+    "t": "Tak vyhladil Boh všetky živé tvory, ktoré boli na povrchu zeme, od človeka až po dobytok, háveď a nebeské vtáctvo; boli vyhubení zo zeme. Zachoval sa len Noe a tí, čo boli s ním v korábe."
+  },
+  {
+    "i": 183,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 24,
+    "t": "A vody zaplavovali zem stopäťdesiat dní."
+  },
+  {
+    "i": 184,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 1,
+    "t": "Vtedy Boh pamätal na Noema i na všetku zver a všetok dobytok, čo bol s ním v korábe; a Boh poslal vietor na zem, a vody opadli."
+  },
+  {
+    "i": 185,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 2,
+    "t": "Zatvorili sa pramene priepasti i nebeské prietoky, a dážď prestal padať z neba."
+  },
+  {
+    "i": 186,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 3,
+    "t": "A vody sa postupne vracali zo zeme, a po sto päťdesiatich dňoch vody ubudlo."
+  },
+  {
+    "i": 187,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 4,
+    "t": "A v siedmom mesiaci, sedemnásteho dňa mesiaca, koráb spočinul na pohorí Ararat."
+  },
+  {
+    "i": 188,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 5,
+    "t": "A vody ustavične ubúdali až do desiateho mesiaca. Prvého dňa desiateho mesiaca sa ukázali vrcholky hôr."
+  },
+  {
+    "i": 189,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 6,
+    "t": "Po štyridsiatich dňoch otvoril Noe okno, ktoré bol urobil v korábe,"
+  },
+  {
+    "i": 190,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 7,
+    "t": "a vypustil havrana, ktorý vyletúval a vracal sa, kým nevyschli vody na zemi."
+  },
+  {
+    "i": 191,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 8,
+    "t": "Potom vypustil holubicu, aby videl, či vody ubudlo z povrchu zeme."
+  },
+  {
+    "i": 192,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 9,
+    "t": "Ale holubica nenašla miesta, kde by spočinula jej noha, a vrátila sa k nemu do korábu, lebo vody boli ešte na povrchu celej zeme. Vystrel ruku, vzal ju a vniesol k sebe do korábu."
+  },
+  {
+    "i": 193,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 10,
+    "t": "Počkal ešte sedem dní a znova vypustil holubicu z korábu."
+  },
+  {
+    "i": 194,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 11,
+    "t": "A holubica sa k nemu vrátila navečer, a hľa, mala v zobáku čerstvý olivový lístok. Tak Noe poznal, že z vody ubudlo na zemi."
+  },
+  {
+    "i": 195,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 12,
+    "t": "Počkal ešte sedem dní a vypustil holubicu, a tá sa už k nemu nevrátila."
+  },
+  {
+    "i": 196,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 13,
+    "t": "V šesťstoprvom roku Noemovho života, prvého mesiaca, prvého dňa mesiaca, vyschli vody na zemi. Noe odstránil strechu z korábu, pozrel sa, a hľa, povrch zeme bol suchý."
+  },
+  {
+    "i": 197,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 14,
+    "t": "V druhom mesiaci, dvadsiateho siedmeho dňa mesiaca, bola zem suchá."
+  },
+  {
+    "i": 198,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 15,
+    "t": "Vtedy Boh povedal Noemovi:"
+  },
+  {
+    "i": 199,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 16,
+    "t": "\"Vyjdite z korábu, ty i tvoja žena, tvoji synovia a ženy tvojich synov s tebou."
+  }
+]

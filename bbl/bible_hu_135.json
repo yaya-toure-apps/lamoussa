@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13500,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 18,
+    "t": "Pókfészket épített magának, őrtoronyt emeltetett."
+  },
+  {
+    "i": 13501,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 19,
+    "t": "Gazdagon fekszik le, de ez az utolsó alkalom; mikor felnyitja szemeit, semmi sincs."
+  },
+  {
+    "i": 13502,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 20,
+    "t": "Rémületek támadják meg fényes nappal, éjjel forgószél ragadja el."
+  },
+  {
+    "i": 13503,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 21,
+    "t": "Keleti szél emeli fel és sodorja el, elszakítja lakhelyétől."
+  },
+  {
+    "i": 13504,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 22,
+    "t": "Könyörület nélkül célozzák meg, menekülnie kell a fenyegető kezek elől."
+  },
+  {
+    "i": 13505,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 23,
+    "t": "Tapsolnak romlásán, kifütyülik mindenütt, amerre jár."
+  },
+  {
+    "i": 13506,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 1,
+    "t": "Van a pénznek bányája, az aranynak helye, ahol tisztítják."
+  },
+  {
+    "i": 13507,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 2,
+    "t": "Vasat hoznak a földből, követ olvasztva rézhez jutnak."
+  },
+  {
+    "i": 13508,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 3,
+    "t": "Véget vetnek a sötétségnek, kutatják a végső határig a sötét és homályos követ."
+  },
+  {
+    "i": 13509,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 4,
+    "t": "Idegenek hasítják át a sziklaszakadékokat elhagyott helyeken, és lengenek, függeszkednek, távol az emberektől."
+  },
+  {
+    "i": 13510,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 5,
+    "t": "A föld, melyből a kenyér származik, alul tűz által van pusztítva."
+  },
+  {
+    "i": 13511,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 6,
+    "t": "Ott a kövek a zafír lelőhelyei, és aranydarabok is vannak."
+  },
+  {
+    "i": 13512,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 7,
+    "t": "A ragadozó madár nem ismeri az ösvényt, a keselyű szeme nem látja meg azt."
+  },
+  {
+    "i": 13513,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 8,
+    "t": "Nem tapossa azt gőgös vadállat, oroszlán soha nem járta azt."
+  },
+  {
+    "i": 13514,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 9,
+    "t": "Az ember nekiront a kovakőnek, felforgatja a hegyeket gyökereikben."
+  },
+  {
+    "i": 13515,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 10,
+    "t": "A sziklákban csatornákat vág, szeme nyitva van minden drága dologra."
+  },
+  {
+    "i": 13516,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 11,
+    "t": "Feltárja a folyók forrásait, napvilágra hozza, ami rejtve volt."
+  },
+  {
+    "i": 13517,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 12,
+    "t": "De a Bölcsesség, honnan származik? Hol található a Tudás?"
+  },
+  {
+    "i": 13518,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 13,
+    "t": "Az ember nem ismeri az útját, nem fedezik fel azt az élők földjén."
+  },
+  {
+    "i": 13519,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 14,
+    "t": "A Mélység kijelenti: \"Nem tartalmazom azt!\" és a Tenger: \"Nincs az nálam!"
+  },
+  {
+    "i": 13520,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 15,
+    "t": "Nem lehet megszerezni tömör arannyal, megfizetni ezüst súlyával."
+  },
+  {
+    "i": 13521,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 16,
+    "t": "Nem lehet felbecsülni Ofir aranyával, drága acháttal vagy zafírral."
+  },
+  {
+    "i": 13522,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 17,
+    "t": "Nem hasonlítják hozzá az aranyat vagy az üveget, nem cserélik el finom aranyból készült edényre."
+  },
+  {
+    "i": 13523,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 18,
+    "t": "A korallok és a kristály nem érdemelnek említést, jobb lenne a Bölcsességet halászni, mint a gyöngyöket."
+  },
+  {
+    "i": 13524,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 19,
+    "t": "Mellette Kús tópace értéktelen, és a tiszta arany elveszíti csereesúlyát."
+  },
+  {
+    "i": 13525,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 20,
+    "t": "De a Bölcsesség, honnan származik? Hol található a Tudás?"
+  },
+  {
+    "i": 13526,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 21,
+    "t": "Elrejtőzik minden élő szeme elől, elrejtőzik az ég madarai elől."
+  },
+  {
+    "i": 13527,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 22,
+    "t": "A Pusztulás és a Halál kijelentik: \"Hírének zaja eljutott füleinkbe."
+  },
+  {
+    "i": 13528,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 23,
+    "t": "Egyedül Isten ismerte fel az útját, és ismerte, hol található."
+  },
+  {
+    "i": 13529,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 24,
+    "t": "(Mert lát a föld végső határáig, meglát mindent, ami az ég alatt van.)"
+  },
+  {
+    "i": 13530,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 25,
+    "t": "Amikor súlyt akart adni a szélnek, mérleggel mérte a vizet;"
+  },
+  {
+    "i": 13531,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 26,
+    "t": "amikor törvényt szabott az esőnek, utat a mennydörgésnek,"
+  },
+  {
+    "i": 13532,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 27,
+    "t": "akkor látta és felbecsülte azt, átlátta és még meg is vizsgálta."
+  },
+  {
+    "i": 13533,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 28,
+    "t": "Akkor mondta az embernek: \"Az Úr félelme, ez a bölcsesség; a gonosztól való menekülés, ez a tudás."
+  },
+  {
+    "i": 13534,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 1,
+    "t": "Jób folytatta beszédét példabeszédekben, és mondta:"
+  },
+  {
+    "i": 13535,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 2,
+    "t": "Ki hozná vissza az elmúlt hónapokat, azokat a napokat, amikor Isten vigyázott rám,"
+  },
+  {
+    "i": 13536,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 3,
+    "t": "ahol lámpása ragyogott a fejem felett, és fénye vezetett a sötétségben!"
+  },
+  {
+    "i": 13537,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 4,
+    "t": "Bárcsak újra láthatnám őszöm napjait, amikor Isten védte a sátramat,"
+  },
+  {
+    "i": 13538,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 5,
+    "t": "amikor a Mindenható velem volt, és fiaim körülvettek engem;"
+  },
+  {
+    "i": 13539,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 6,
+    "t": "amikor a lábaim tejben fürödtek, és a sziklából olajpatakok folytak!"
+  },
+  {
+    "i": 13540,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 7,
+    "t": "Ha kimentem a város kapujához, ha a téren foglaltam helyet,"
+  },
+  {
+    "i": 13541,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 8,
+    "t": "látásomra a fiatalok visszavonultak, az öregek felálltak."
+  },
+  {
+    "i": 13542,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 9,
+    "t": "A főemberek abbahagyták beszédüket, és kezüket a szájukra tették."
+  },
+  {
+    "i": 13543,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 10,
+    "t": "A vezérek hangja elhalkult, és nyelvük a szájpadlásukhoz ragadt."
+  },
+  {
+    "i": 13544,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 11,
+    "t": "Hallván engem, dicsértek, látván engem, tanúskodtak mellettem."
+  },
+  {
+    "i": 13545,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 12,
+    "t": "Mert megszabadítottam a szegényt szorult helyzetében, és a támasz nélküli árvát."
+  },
+  {
+    "i": 13546,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 13,
+    "t": "A haldokló áldása rám szállt, és örömet adtam az özvegy szívének."
+  },
+  {
+    "i": 13547,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 14,
+    "t": "Igazságot öltöttem magamra, mint egy ruhát, jog volt a köpenyem és a turbánom."
+  },
+  {
+    "i": 13548,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 15,
+    "t": "Én voltam a vakok szeme, a bénák lába."
+  },
+  {
+    "i": 13549,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 16,
+    "t": "Én voltam a szegények atyja; az ismeretlen ügyét én vizsgáltam ki."
+  },
+  {
+    "i": 13550,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 17,
+    "t": "Összetörtem a gonosz ember állkapcsát, fogai közül kitéptem a prédát."
+  },
+  {
+    "i": 13551,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 18,
+    "t": "És mondtam: \"Én méltóságomban halok meg, a homokhoz hasonlóan számos nap után."
+  },
+  {
+    "i": 13552,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 19,
+    "t": "Gyökereim hozzáférnek a vízhez, harmat rakódik éjjel a lombomra."
+  },
+  {
+    "i": 13553,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 20,
+    "t": "Dicsőségem mindig új lesz, és a kezemben íjam újra erőre kap."
+  },
+  {
+    "i": 13554,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 21,
+    "t": "Figyeltek rám, várakozva, csendben, hogy meghallják a véleményemet."
+  },
+  {
+    "i": 13555,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 22,
+    "t": "Amikor beszéltem, senki sem válaszolt, és szavaim cseppenként hullottak rájuk."
+  },
+  {
+    "i": 13556,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 23,
+    "t": "Úgy vártak rám, mint az esőre, szájuk úgy nyílt meg, mint a kései záporra."
+  },
+  {
+    "i": 13557,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 24,
+    "t": "Ha rájuk mosolyogtam, nem merték elhinni, arcomról minden kegyjelzést összegyűjtöttek."
+  },
+  {
+    "i": 13558,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 25,
+    "t": "Én mutattam nekik az utat, mikor a fejükbe ültem, mint egy király a csapatai között, és én vezettem őket mindenhová tetszésem szerint."
+  },
+  {
+    "i": 13559,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 1,
+    "t": "És most nevetség tárgya vagyok azoknak az embereknek, akik fiatalabbak nálam, és akiknek apái túl alávalóak voltak a szememben ahhoz, hogy a nyájam kutyái közé keverjem őket."
+  },
+  {
+    "i": 13560,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 2,
+    "t": "Sőt, kezeik ereje haszontalan lett volna számomra: elvesztették minden erejüket,"
+  },
+  {
+    "i": 13561,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 3,
+    "t": "a nélkülözés és az éhség kimerítette őket, mert a sztyepp gyökereit rágcsálták, a romlás és a pusztulás sötét helyét;"
+  },
+  {
+    "i": 13562,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 4,
+    "t": "sziksót szedtek a bokron, kenyerüket rekettyegyökerekből készítették."
+  },
+  {
+    "i": 13563,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 5,
+    "t": "Kiközösítve az emberek társadalmából, akik tolvajokként kiabálnak rájuk,"
+  },
+  {
+    "i": 13564,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 6,
+    "t": "a sziklaszakadékok oldalában laknak, barlangokban vagy a sziklák repedéseiben."
+  },
+  {
+    "i": 13565,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 7,
+    "t": "A bokrokból hallani szamárhangjukat, a bogáncsok alatt gyülekeznek."
+  },
+  {
+    "i": 13566,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 8,
+    "t": "Vagányok fiai, sőt, névtelen embereké, elvetik őket az országból."
+  },
+  {
+    "i": 13567,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 9,
+    "t": "És most íme, ők énekelnek nekem. Mesét csinálnak belőlem!"
+  },
+  {
+    "i": 13568,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 10,
+    "t": "Rémülettel fogva, távol tartják magukat, előttem, korlátlanul köpnek."
+  },
+  {
+    "i": 13569,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 11,
+    "t": "És mivel ő megfeszítette íjamat és földre terített, elvetik a zabolát jelenlétemben."
+  },
+  {
+    "i": 13570,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 12,
+    "t": "Származásuk a jobbomon bukkan fel, kémlelik, ha nyugodt vagyok, és sötét ösvényeiket felém egyengetik."
+  },
+  {
+    "i": 13571,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 13,
+    "t": "Elzárják minden utam, kihasználják, hogy elveszítsenek, és senki sem állítja meg őket,"
+  },
+  {
+    "i": 13572,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 14,
+    "t": "úgy hatolnak be, mintha széles résen keresztül, és én a romok alatt gurulok."
+  },
+  {
+    "i": 13573,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 15,
+    "t": "Rémületek fordulnak ellenem, biztosságom, mint a szél által elűzött, reményem a megváltásra eltűnik, mint egy felhő."
+  },
+  {
+    "i": 13574,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 16,
+    "t": "És most, az élet bennem elfolyik, a fájdalom napjai megragadtak."
+  },
+  {
+    "i": 13575,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 17,
+    "t": "Éjjel a gonosz átszúrja a csontjaimat, és a rágcsálóim nem alszanak."
+  },
+  {
+    "i": 13576,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 18,
+    "t": "Erőszakosan fogott meg a ruhámon, a tunikám gallérjához szorított."
+  },
+  {
+    "i": 13577,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 19,
+    "t": "A sárba vetett, olyan vagyok, mint a por és a hamu."
+  },
+  {
+    "i": 13578,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 20,
+    "t": "Kiáltok hozzád, és te nem válaszolsz; bemutatom magam anélkül, hogy észrevennél."
+  },
+  {
+    "i": 13579,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 21,
+    "t": "Kegyetlenné váltál velem szemben, hatalmas kezed rám nehezedik."
+  },
+  {
+    "i": 13580,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 22,
+    "t": "Fölemelsz engem a szél szárnyán, és feloszlatasz a viharban!"
+  },
+  {
+    "i": 13581,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 23,
+    "t": "Tudom, hogy visszatérsz velem a halálba, minden élő találkozóhelyére."
+  },
+  {
+    "i": 13582,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 24,
+    "t": "Vajon rátettem-e kezem a szegényre, amikor nyomorúságában igazságot kért?"
+  },
+  {
+    "i": 13583,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 25,
+    "t": "Nem sírtam-e azon, akinek élete keserves, és nem éreztem-e szánalmat a szűkölködő iránt?"
+  },
+  {
+    "i": 13584,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 26,
+    "t": "Boldogságot vártam, és a balsors jött el; világosságot reméltem, íme, a sötétség!"
+  },
+  {
+    "i": 13585,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 27,
+    "t": "Belsem szüntelenül forrong, a szenvedés napjai utolértek engem."
+  },
+  {
+    "i": 13586,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 28,
+    "t": "Ha árnyékként lépek elő, senki sem vigasztal, ha felállok a gyülekezetben, kiáltani fogok."
+  },
+  {
+    "i": 13587,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 29,
+    "t": "A sakálok testvére lettem, és a struccok társa."
+  },
+  {
+    "i": 13588,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 30,
+    "t": "Bőröm megbarnult rajtam, csontjaimat a láz égeti."
+  },
+  {
+    "i": 13589,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 31,
+    "t": "Hárfám gyászénekre hangolódott, fuvolám a sírók hangjára."
+  },
+  {
+    "i": 13590,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 1,
+    "t": "Szövetséget kötöttem szemeimmel, hogy ne tekintsek egyetlen szűzre sem."
+  },
+  {
+    "i": 13591,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 2,
+    "t": "Micsoda osztályrészt ad hát Isten odafentről, mily sorsot oszt Shaddai az ő égéből?"
+  },
+  {
+    "i": 13592,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 3,
+    "t": "Nem a balsorsot tartja-e fenn az igazságtalannak, és az ellenségeskedést a gonosztevőknek?"
+  },
+  {
+    "i": 13593,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 4,
+    "t": "Nem látja-e az én utamat, és nem számolja-e minden lépésemet?"
+  },
+  {
+    "i": 13594,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 5,
+    "t": "Járatlan úton jártam-e a hazugsággal, siettettem-e lépteimet a hamisság felé?"
+  },
+  {
+    "i": 13595,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 6,
+    "t": "Mérjen meg engem pontos mérlegen: ő, Isten, elismeri majd az én feddhetetlenségemet!"
+  },
+  {
+    "i": 13596,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 7,
+    "t": "Ha lépéseim letértek a helyes útról, ha szívemet elragadták a szemeim, és ha szenny tapad kezeimhez,"
+  },
+  {
+    "i": 13597,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 8,
+    "t": "mások egyék meg, amit vetettem, és tépjék ki zsenge hajtásaimat!"
+  },
+  {
+    "i": 13598,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 9,
+    "t": "Ha szívemet elcsábította egy asszony, ha szomszédom ajtajában leselkedtem,"
+  },
+  {
+    "i": 13599,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 10,
+    "t": "feleségem őröljön másnak, másoknak legyen vele dolguk!"
+  }
+]

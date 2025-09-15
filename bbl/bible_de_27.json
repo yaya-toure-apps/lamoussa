@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2700,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 38,
+    "t": "den goldenen Altar, das Salböl, das wohlriechende Räucherwerk und den Vorhang für den Eingang des Zeltes;"
+  },
+  {
+    "i": 2701,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 39,
+    "t": "den ehernen Altar mit seinem ehernen Gitter, seine Stangen und all sein Zubehör; das Becken und sein Gestell;"
+  },
+  {
+    "i": 2702,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 40,
+    "t": "die Umhänge des Vorhofs, seine Säulen, seine Sockel und den Vorhang für das Tor des Vorhofs, seine Seile, seine Pflöcke sowie all das Zubehör für den Dienst der Wohnung, für das Zelt der Zusammenkunft;"
+  },
+  {
+    "i": 2703,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 41,
+    "t": "die liturgischen Gewänder für den Dienst im Heiligtum – die heiligen Gewänder für Aaron, den Priester, und die Gewänder seiner Söhne, um das Priesteramt auszuüben."
+  },
+  {
+    "i": 2704,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 42,
+    "t": "So taten die Kinder Israels alle Werke, wie der HERR dem Mose geboten hatte."
+  },
+  {
+    "i": 2705,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 43,
+    "t": "Und Mose besah all das Werk, und siehe, sie hatten es gemacht, wie der HERR geboten hatte. Und Mose segnete sie."
+  },
+  {
+    "i": 2706,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 1,
+    "t": "Und der HERR redete mit Mose und sprach:"
+  },
+  {
+    "i": 2707,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 2,
+    "t": "„Am ersten Tage des ersten Monats sollst du die Wohnung aufrichten, das Zelt der Zusammenkunft,"
+  },
+  {
+    "i": 2708,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 3,
+    "t": "und sollst die Lade des Zeugnisses hineinstellen und die Lade mit dem Vorhang verhüllen."
+  },
+  {
+    "i": 2709,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 4,
+    "t": "Und sollst den Tisch hineinbringen und seine Zierstücke darauf ordnen. Und sollst den Leuchter hineinbringen und seine Lampen anzünden."
+  },
+  {
+    "i": 2710,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 5,
+    "t": "Und sollst den goldenen Altar für das Räucherwerk vor die Lade des Zeugnisses stellen und den Vorhang vor den Eingang der Wohnung hängen."
+  },
+  {
+    "i": 2711,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 6,
+    "t": "Und sollst den Brandopferaltar vor den Eingang der Wohnung, des Zeltes der Zusammenkunft, stellen."
+  },
+  {
+    "i": 2712,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 7,
+    "t": "Und sollst das Becken zwischen das Zelt der Zusammenkunft und den Altar stellen und Wasser hineingießen."
+  },
+  {
+    "i": 2713,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 8,
+    "t": "Und sollst den Vorhof ringsum aufrichten und den Vorhang vor das Tor des Vorhofs hängen."
+  },
+  {
+    "i": 2714,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 9,
+    "t": "Und sollst das Salböl nehmen und die Wohnung salben und alles, was darin ist; und sollst sie weihen mit all ihrem Zubehör, und sie soll hochheilig sein."
+  },
+  {
+    "i": 2715,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 10,
+    "t": "Und sollst den Brandopferaltar salben mit all seinem Zubehör, und sollst den Altar weihen, und der Altar soll hochheilig sein."
+  },
+  {
+    "i": 2716,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 11,
+    "t": "Und sollst das Becken und sein Gestell salben und es weihen."
+  },
+  {
+    "i": 2717,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 12,
+    "t": "Und sollst Aaron und seine Söhne vor den Eingang des Zeltes der Zusammenkunft treten lassen und sie mit Wasser waschen,"
+  },
+  {
+    "i": 2718,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 13,
+    "t": "und sollst Aaron mit den heiligen Kleidern bekleiden und ihn salben und ihn weihen, dass er mein Priesteramt ausübe."
+  },
+  {
+    "i": 2719,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 14,
+    "t": "Und seine Söhne sollst du herzutreten lassen und sie mit Röcken bekleiden,"
+  },
+  {
+    "i": 2720,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 15,
+    "t": "und sollst sie salben, wie du ihren Vater gesalbt hast, dass sie mein Priesteramt ausüben. Und ihre Salbung soll ihnen zum ewigen Priestertum dienen, für ihre Geschlechter hindurch.“"
+  },
+  {
+    "i": 2721,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 16,
+    "t": "Und Mose tat es. Er tat alles, wie der HERR ihm geboten hatte."
+  },
+  {
+    "i": 2722,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 17,
+    "t": "Am ersten Tage des ersten Monats im zweiten Jahr wurde die Wohnung aufgerichtet."
+  },
+  {
+    "i": 2723,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 18,
+    "t": "Mose richtete die Wohnung auf; er legte ihre Füße, setzte ihre Bretter, legte ihre Riegel und richtete ihre Säulen auf."
+  },
+  {
+    "i": 2724,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 19,
+    "t": "Und er breitete das Zelt über die Wohnung und legte die Decke des Zeltes darüber, wie der HERR dem Mose geboten hatte."
+  },
+  {
+    "i": 2725,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 20,
+    "t": "Und er nahm das Zeugnis und legte es in die Lade, legte die Stangen an die Lade und setzte den Gnadenthron auf die Lade."
+  },
+  {
+    "i": 2726,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 21,
+    "t": "Und er brachte die Lade in die Wohnung und hängte den Vorhang auf und verhüllte so die Lade des Zeugnisses, wie der HERR dem Mose geboten hatte."
+  },
+  {
+    "i": 2727,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 22,
+    "t": "Und er stellte den Tisch in das Zelt der Zusammenkunft, an die Seite der Wohnung, nach Norden, außerhalb des Vorhangs,"
+  },
+  {
+    "i": 2728,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 23,
+    "t": "und richtete das Brot der Schaustücke vor dem HERRN darauf, wie der HERR dem Mose geboten hatte."
+  },
+  {
+    "i": 2729,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 24,
+    "t": "Und er stellte den Leuchter in das Zelt der Zusammenkunft, dem Tisch gegenüber, an die Seite der Wohnung, nach Süden,"
+  },
+  {
+    "i": 2730,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 25,
+    "t": "und zündete die Lampen vor dem HERRN an, wie der HERR dem Mose geboten hatte."
+  },
+  {
+    "i": 2731,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 26,
+    "t": "Und er stellte den goldenen Altar in das Zelt der Zusammenkunft, vor den Vorhang,"
+  },
+  {
+    "i": 2732,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 27,
+    "t": "und räucherte darauf wohlriechendes Räucherwerk, wie der HERR dem Mose geboten hatte."
+  },
+  {
+    "i": 2733,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 28,
+    "t": "Dann hängte er den Vorhang vor den Eingang der Wohnung."
+  },
+  {
+    "i": 2734,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 29,
+    "t": "Den Brandopferaltar stellte er vor den Eingang der Wohnung, des Zeltes der Zusammenkunft, und opferte darauf das Brandopfer und das Speisopfer, wie der HERR dem Mose geboten hatte."
+  },
+  {
+    "i": 2735,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 30,
+    "t": "Und er stellte das Becken zwischen das Zelt der Zusammenkunft und den Altar und goss Wasser hinein zur Waschung,"
+  },
+  {
+    "i": 2736,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 31,
+    "t": "damit sich Mose, Aaron und seine Söhne die Hände und Füße wuschen."
+  },
+  {
+    "i": 2737,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 32,
+    "t": "Wenn sie in das Zelt der Zusammenkunft gingen oder sich dem Altar näherten, wuschen sie sich, wie der HERR dem Mose geboten hatte."
+  },
+  {
+    "i": 2738,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 33,
+    "t": "Er richtete den Vorhof rings um die Wohnung und den Altar auf und hängte den Vorhang vor das Tor des Vorhofs. So vollendete Mose das Werk."
+  },
+  {
+    "i": 2739,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 34,
+    "t": "Da bedeckte die Wolke das Zelt der Zusammenkunft, und die Herrlichkeit des HERRN erfüllte die Wohnung."
+  },
+  {
+    "i": 2740,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 35,
+    "t": "Und Mose konnte nicht in das Zelt der Zusammenkunft hineingehen, denn die Wolke ruhte darauf, und die Herrlichkeit des HERRN erfüllte die Wohnung."
+  },
+  {
+    "i": 2741,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 36,
+    "t": "Und wenn sich die Wolke von der Wohnung erhob, zogen die Kinder Israels weiter auf allen ihren Wanderungen."
+  },
+  {
+    "i": 2742,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 37,
+    "t": "Wenn sich aber die Wolke nicht erhob, zogen sie nicht weiter bis zu dem Tage, da sie sich erhob."
+  },
+  {
+    "i": 2743,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 38,
+    "t": "Denn des HERRN Wolke war des Tages über der Wohnung, und des Nachts war Feuer darin vor den Augen des ganzen Hauses Israel auf allen ihren Wanderungen."
+  },
+  {
+    "i": 2744,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 1,
+    "t": "Und der HERR rief Mose und redete mit ihm aus dem Zelt der Zusammenkunft und sprach:"
+  },
+  {
+    "i": 2745,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 2,
+    "t": "Rede mit den Kindern Israels und sprich zu ihnen: Wenn jemand von euch dem HERRN ein Opfer darbringt, so sollt ihr euer Opfer vom Vieh darbringen, von Rindern und von Schafen."
+  },
+  {
+    "i": 2746,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 3,
+    "t": "Wenn sein Opfer ein Brandopfer vom Vieh ist, so soll er ein männliches Tier ohne Fehler darbringen; er soll es am Eingang des Zeltes der Zusammenkunft darbringen, damit er wohlgefällig vor dem HERRN sei."
+  },
+  {
+    "i": 2747,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 4,
+    "t": "Und er soll seine Hand auf den Kopf des Opfertieres legen, damit es wohlgefällig angenommen werde zur Sühnung für ihn."
+  },
+  {
+    "i": 2748,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 5,
+    "t": "Dann soll er den Stier vor dem HERRN schlachten, und die Söhne Aarons, die Priester, sollen das Blut darbringen und es ringsum an den Altar sprengen, der am Eingang des Zeltes der Zusammenkunft steht."
+  },
+  {
+    "i": 2749,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 6,
+    "t": "Und er soll das Opfertier abziehen und es in seine Stücke zerlegen,"
+  },
+  {
+    "i": 2750,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 7,
+    "t": "und die Söhne Aarons, die Priester, sollen Feuer auf dem Altar anzünden und Holz darauflegen."
+  },
+  {
+    "i": 2751,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 8,
+    "t": "Und die Söhne Aarons, die Priester, sollen die Stücke, den Kopf und das Fett auf das Holz legen, das auf dem Feuer des Altars liegt."
+  },
+  {
+    "i": 2752,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 9,
+    "t": "Seine Eingeweide und seine Schenkel soll man mit Wasser waschen, und der Priester soll alles auf dem Altar räuchern. Es ist ein Brandopfer, ein Feueropfer lieblichen Geruchs für den HERRN."
+  },
+  {
+    "i": 2753,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 10,
+    "t": "Wenn sein Opfer vom Kleinvieh ist, vom Lamm oder von der Ziege, zum Brandopfer, so soll er ein männliches Tier ohne Fehler darbringen."
+  },
+  {
+    "i": 2754,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 11,
+    "t": "Und er soll es auf der Nordseite des Altars vor dem HERRN schlachten, und die Söhne Aarons, die Priester, sollen das Blut ringsum an den Altar sprengen."
+  },
+  {
+    "i": 2755,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 12,
+    "t": "Dann soll er es in seine Stücke zerlegen, und der Priester soll sie samt dem Kopf und dem Fett auf das Holz legen, das auf dem Feuer des Altars liegt."
+  },
+  {
+    "i": 2756,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 13,
+    "t": "Die Eingeweide und die Schenkel soll man mit Wasser waschen, und der Priester soll alles darbringen und auf dem Altar räuchern. Es ist ein Brandopfer, ein Feueropfer lieblichen Geruchs für den HERRN."
+  },
+  {
+    "i": 2757,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 14,
+    "t": "Wenn sein Opfer für den HERRN ein Brandopfer vom Geflügel ist, so soll er Turteltauben oder junge Tauben darbringen."
+  },
+  {
+    "i": 2758,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 15,
+    "t": "Und der Priester soll es an den Altar bringen und den Kopf abkneifen und ihn auf dem Altar räuchern; dann soll er sein Blut an der Wand des Altars ausdrücken."
+  },
+  {
+    "i": 2759,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 16,
+    "t": "Und er soll den Kropf mit seinem Unrat entfernen und ihn an der Ostseite des Altars auf den Aschenhaufen werfen."
+  },
+  {
+    "i": 2760,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 17,
+    "t": "Dann soll er es an seinen beiden Flügeln zerteilen, aber nicht auseinanderreißen. Und der Priester soll es auf dem Altar räuchern, auf dem Holz, das auf dem Feuer liegt. Es ist ein Brandopfer, ein Feueropfer lieblichen Geruchs für den HERRN."
+  },
+  {
+    "i": 2761,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 1,
+    "t": "Wenn jemand dem HERRN ein Speisopfer darbringt, so soll sein Opfer aus Feinmehl bestehen, und er soll Öl darauf gießen und Weihrauch darauf legen."
+  },
+  {
+    "i": 2762,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 2,
+    "t": "Und er soll es zu den Söhnen Aarons, den Priestern, bringen; und er soll eine Handvoll von dem Feinmehl und Öl nehmen, samt allem Weihrauch, und der Priester soll es als Gedenkopfer auf dem Altar räuchern, ein Feueropfer lieblichen Geruchs für den HERRN."
+  },
+  {
+    "i": 2763,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 3,
+    "t": "Und was von dem Speisopfer übrig bleibt, soll Aaron und seinen Söhnen gehören; es ist ein hochheiliger Teil der Feueropfer des HERRN."
+  },
+  {
+    "i": 2764,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 4,
+    "t": "Wenn du ein Speisopfer vom Ofen darbringst, so soll es aus ungesäuertem Feinmehl bestehen, in Öl gebackene Kuchen oder mit Öl bestrichene ungesäuerte Fladen."
+  },
+  {
+    "i": 2765,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 5,
+    "t": "Wenn dein Opfer ein Speisopfer von der Platte ist, so soll es aus ungesäuertem Feinmehl mit Öl vermengt sein."
+  },
+  {
+    "i": 2766,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 6,
+    "t": "Du sollst es in Stücke brechen und Öl darüber gießen. Es ist ein Speisopfer."
+  },
+  {
+    "i": 2767,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 7,
+    "t": "Wenn dein Opfer ein Speisopfer vom Rost ist, so soll es aus Feinmehl mit Öl zubereitet werden."
+  },
+  {
+    "i": 2768,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 8,
+    "t": "Du sollst das Speisopfer, das so zubereitet wurde, dem HERRN darbringen; und man soll es dem Priester bringen, der es an den Altar bringen soll."
+  },
+  {
+    "i": 2769,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 9,
+    "t": "Und der Priester soll von dem Speisopfer das Gedenkopfer abheben und es auf dem Altar räuchern, ein Feueropfer lieblichen Geruchs für den HERRN."
+  },
+  {
+    "i": 2770,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 10,
+    "t": "Und was von dem Speisopfer übrig bleibt, soll Aaron und seinen Söhnen gehören; es ist ein hochheiliger Teil der Feueropfer des HERRN."
+  },
+  {
+    "i": 2771,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 11,
+    "t": "Kein Speisopfer, das ihr dem HERRN darbringt, soll gesäuert werden; denn ihr sollt weder Sauerteig noch Honig als Feueropfer für den HERRN räuchern."
+  },
+  {
+    "i": 2772,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 12,
+    "t": "Als Erstlingsopfer sollt ihr sie dem HERRN darbringen; aber auf dem Altar sollen sie nicht als lieblicher Geruch aufsteigen."
+  },
+  {
+    "i": 2773,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 13,
+    "t": "Jedes Speisopfer, das du darbringst, sollst du mit Salz würzen, und du sollst das Salz des Bundes deines Gottes nicht fehlen lassen an deinem Speisopfer; zu all deinen Opfern sollst du Salz darbringen."
+  },
+  {
+    "i": 2774,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 14,
+    "t": "Wenn du dem HERRN ein Speisopfer von den Erstlingen darbringst, so soll es aus gerösteten Ähren oder aus zerstoßenem frischem Korn zubereitet werden."
+  },
+  {
+    "i": 2775,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 15,
+    "t": "Du sollst Öl darauf gießen und Weihrauch darauf legen. Es ist ein Speisopfer;"
+  },
+  {
+    "i": 2776,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 16,
+    "t": "und der Priester soll das Gedenkopfer davon räuchern, samt einem Teil des zerstoßenen Korns und des Öls, samt allem Weihrauch; es ist ein Feueropfer für den HERRN."
+  },
+  {
+    "i": 2777,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 1,
+    "t": "Wenn sein Opfer ein Friedensopfer ist, und er es vom Vieh darbringt, es sei männlich oder weiblich, so soll er es ohne Fehler vor dem HERRN darbringen."
+  },
+  {
+    "i": 2778,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 2,
+    "t": "Und er soll seine Hand auf den Kopf des Opfertieres legen und es am Eingang des Zeltes der Zusammenkunft schlachten. Und die Söhne Aarons, die Priester, sollen das Blut ringsum an den Altar sprengen."
+  },
+  {
+    "i": 2779,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 3,
+    "t": "Und er soll von dem Friedensopfer dem HERRN ein Feueropfer darbringen: das Fett, das die Eingeweide bedeckt, und alles Fett, das an den Eingeweiden ist,"
+  },
+  {
+    "i": 2780,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 4,
+    "t": "die beiden Nieren, das Fett, das daran haftet, sowie an den Lenden, das Fettnetz, das er von der Leber und den Nieren abtrennen soll."
+  },
+  {
+    "i": 2781,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 5,
+    "t": "Die Söhne Aarons sollen dies auf dem Altar räuchern, zusätzlich zum Brandopfer, auf dem Holz, das auf dem Feuer liegt. Es soll ein Feueropfer sein zum lieblichen Geruch für den HERRN."
+  },
+  {
+    "i": 2782,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 6,
+    "t": "Wenn er ein Kleinvieh dem HERRN als Friedensopfer darbringt, so soll er es, männlich oder weiblich, ohne Fehl darbringen."
+  },
+  {
+    "i": 2783,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 7,
+    "t": "Wenn er ein Schaf zum Opfer bringt, so soll er es vor dem HERRN darbringen,"
+  },
+  {
+    "i": 2784,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 8,
+    "t": "und er soll seine Hand auf den Kopf des Opfertieres legen und es vor dem Eingang des Zeltes der Zusammenkunft schlachten; und die Söhne Aarons sollen sein Blut ringsum an den Altar sprengen."
+  },
+  {
+    "i": 2785,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 9,
+    "t": "Und von dem Friedensopfer soll er dem HERRN ein Feueropfer darbringen: den ganzen Fettschwanz, den er nahe am Kreuzbein abtrennen soll, das Fett, das die Eingeweide bedeckt, alles Fett, das über den Eingeweiden ist,"
+  },
+  {
+    "i": 2786,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 10,
+    "t": "die beiden Nieren, das Fett, das daran haftet, sowie an den Lenden, das Fettnetz, das er von der Leber und den Nieren abtrennen soll."
+  },
+  {
+    "i": 2787,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 11,
+    "t": "Und der Priester soll dies auf dem Altar räuchern als Speise, als Feueropfer für den HERRN."
+  },
+  {
+    "i": 2788,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 12,
+    "t": "Wenn seine Darbringung eine Ziege ist, so soll er sie vor dem HERRN darbringen,"
+  },
+  {
+    "i": 2789,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 13,
+    "t": "und er soll seine Hand auf ihren Kopf legen und sie vor dem Eingang des Zeltes der Zusammenkunft schlachten; und die Söhne Aarons sollen ihr Blut ringsum an den Altar sprengen."
+  },
+  {
+    "i": 2790,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 14,
+    "t": "Und er soll davon dem HERRN ein Feueropfer darbringen: das Fett, das die Eingeweide bedeckt, alles Fett, das über den Eingeweiden ist,"
+  },
+  {
+    "i": 2791,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 15,
+    "t": "die beiden Nieren, das Fett, das daran haftet, sowie an den Lenden, das Fettnetz, das er von der Leber und den Nieren abtrennen soll."
+  },
+  {
+    "i": 2792,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 16,
+    "t": "Und der Priester soll diese Stücke auf dem Altar räuchern als Speise, als Feueropfer zum lieblichen Geruch. Alles Fett gehört dem HERRN."
+  },
+  {
+    "i": 2793,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 17,
+    "t": "Das sei eine ewige Ordnung für eure Geschlechter, an allen euren Wohnorten: Ihr sollt weder Fett noch Blut essen."
+  },
+  {
+    "i": 2794,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 1,
+    "t": "Und der HERR redete mit Mose und sprach:"
+  },
+  {
+    "i": 2795,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 2,
+    "t": "Rede zu den Israeliten und sprich: Wenn jemand versehentlich sündigt gegen eines von den Geboten des HERRN und eine von diesen verbotenen Handlungen begeht,"
+  },
+  {
+    "i": 2796,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 3,
+    "t": "wenn der gesalbte Priester sündigt und so das Volk schuldig macht, so soll er dem HERRN für seine Sünde, die er begangen hat, einen jungen Stier ohne Fehl darbringen als Sündopfer."
+  },
+  {
+    "i": 2797,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 4,
+    "t": "Und er soll den Stier vor den HERRN an den Eingang des Zeltes der Zusammenkunft bringen und seine Hand auf den Kopf des Stieres legen und den Stier vor dem HERRN schlachten."
+  },
+  {
+    "i": 2798,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 5,
+    "t": "Und der gesalbte Priester soll von dem Blut des Stieres nehmen und es in das Zelt der Zusammenkunft bringen."
+  },
+  {
+    "i": 2799,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 6,
+    "t": "Und der Priester soll seinen Finger in das Blut tauchen und siebenmal vor den Vorhang des Heiligtums sprengen, vor dem HERRN."
+  }
+]

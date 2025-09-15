@@ -1,0 +1,802 @@
+[
+  {
+    "i": 29800,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 32,
+    "t": "\"Ne boj se, mala čreda, kajti Oče vaš je sklenil dati vam kraljestvo."
+  },
+  {
+    "i": 29801,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 33,
+    "t": "\"Prodajte svoje imetje in dajte miloščino. Naredite si mošnje, ki ne izrabijo, zaklad neprecenljiv v nebesih, kamor tat ne pride blizu in molj ne uniči."
+  },
+  {
+    "i": 29802,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 34,
+    "t": "\"Kajti kjer je vaš zaklad, tam bo tudi vaše srce."
+  },
+  {
+    "i": 29803,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 35,
+    "t": "\"Pasovi vaši naj bodo opasani in svetilke prižgane."
+  },
+  {
+    "i": 29804,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 36,
+    "t": "\"Bodite kakor ljudje, ki čakajo svojega gospodarja, da se vrne s svatbe, da mu odprejo takoj, ko pride in potrka."
+  },
+  {
+    "i": 29805,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 37,
+    "t": "\"Blagor tistim služabnikom, ki jih gospodar ob prihodu najde budne! Resnično vam pravim, opasal se bo, jih posadil za mizo in stopal od enega do drugega ter jim stregel."
+  },
+  {
+    "i": 29806,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 38,
+    "t": "\"Če pride v drugi ali tretji straži in jih najde take, blagor jim!"
+  },
+  {
+    "i": 29807,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 39,
+    "t": "\"Vedite to: če bi hišni gospodar vedel, ob kateri uri bo prišel tat, ne bi pustil vlomiti v svojo hišo."
+  },
+  {
+    "i": 29808,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 40,
+    "t": "\"Tudi vi bodite pripravljeni, kajti ob uri, ko ne mislite, bo prišel Sin človekov."
+  },
+  {
+    "i": 29809,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 41,
+    "t": "Peter pa reče: \"Gospod, ali govoriš to priliko za nas ali tudi za vse?"
+  },
+  {
+    "i": 29810,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 42,
+    "t": "Gospod pa reče: \"Kdo je torej zvesti in preudarni oskrbnik, ki ga bo gospodar postavil nad svojo družino, da jim ob pravem času daje pšenico?"
+  },
+  {
+    "i": 29811,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 43,
+    "t": "\"Blagor tistemu služabniku, ki ga gospodar ob prihodu najde, da tako dela!"
+  },
+  {
+    "i": 29812,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 44,
+    "t": "\"Resnično vam pravim, postavil ga bo nad vse svoje imetje."
+  },
+  {
+    "i": 29813,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 45,
+    "t": "\"Če pa ta služabnik reče v svojem srcu: Moj gospodar se obotavlja priti, in začne pretepati služabnike in dekle, jesti, piti in se napijati,"
+  },
+  {
+    "i": 29814,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 46,
+    "t": "\"bo gospodar tega služabnika prišel na dan, ko ne pričakuje, in ob uri, ki je ne pozna; ločil ga bo in mu določil delež med nevernimi."
+  },
+  {
+    "i": 29815,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 47,
+    "t": "\"Služabnik, ki pozna voljo svojega gospodarja, pa ni pripravil ali storil po njegovi volji, bo dobil veliko udarcev."
+  },
+  {
+    "i": 29816,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 48,
+    "t": "\"Tisti pa, ki je ne pozna in si je s svojim vedenjem zaslužil udarce, jih bo dobil malo. Komur je bilo veliko dano, se bo veliko zahtevalo, in komur je bilo veliko zaupano, se bo zahtevalo še več."
+  },
+  {
+    "i": 29817,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 49,
+    "t": "\"Ogenj sem prišel vreči na zemljo in kako si želim, da bi že gorel!"
+  },
+  {
+    "i": 29818,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 50,
+    "t": "\"Krst mi je krstiti se z njim in kako mi je tesno, dokler se ne dopolni!"
+  },
+  {
+    "i": 29819,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 51,
+    "t": "\"Mislite, da sem prišel, da prinesem mir na zemljo? Ne, povem vam, ampak razdor."
+  },
+  {
+    "i": 29820,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 52,
+    "t": "\"Odslej bo namreč v eni hiši pet ljudi razdeljenih, trije proti dvema in dva proti trem:"
+  },
+  {
+    "i": 29821,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 53,
+    "t": "\"razdeljeni bodo oče proti sinu in sin proti očetu, mati proti hčeri in hči proti materi, tašča proti snahi in snaha proti tašči."
+  },
+  {
+    "i": 29822,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 54,
+    "t": "Rekel pa je tudi množicam: \"Ko vidite oblak, ki se dviga na zahodu, takoj pravite, da bo dež, in tako se zgodi."
+  },
+  {
+    "i": 29823,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 55,
+    "t": "\"In ko piha južni veter, pravite, da bo vroče, in to se zgodi."
+  },
+  {
+    "i": 29824,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 56,
+    "t": "\"Hinavci, poznate podobo zemlje in neba, kako pa tega časa ne poznate?"
+  },
+  {
+    "i": 29825,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 57,
+    "t": "\"Zakaj pa ne presodite sami, kaj je prav?"
+  },
+  {
+    "i": 29826,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 58,
+    "t": "\"Ko greš s svojim nasprotnikom pred sodnika, se potrudi, da se z njim na poti sporazumeš, da te ne bo potegnil pred sodnika in sodnik ne izroči rablju in rabelj te ne vrže v ječo."
+  },
+  {
+    "i": 29827,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 59,
+    "t": "\"Povem ti, ne boš prišel ven od tam, dokler ne povrneš vse do zadnjega novčiča."
+  },
+  {
+    "i": 29828,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 1,
+    "t": "Tisti čas so prišli nekateri in mu sporočili, kaj se je zgodilo Galilejcem, katerih kri je Pilat pomešal s krvjo njihovih žrtev."
+  },
+  {
+    "i": 29829,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 2,
+    "t": "Odgovoril jim je: \"Ali mislite, da so bili ti Galilejci večji grešniki kakor vsi drugi Galilejci, ker so trpeli kaj takega?"
+  },
+  {
+    "i": 29830,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 3,
+    "t": "\"Ne, povem vam, ampak če se ne spreobrnete, boste vsi enako umrli."
+  },
+  {
+    "i": 29831,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 4,
+    "t": "\"Ali pa tistih osemnajst, na katere se je zrušil stolp v Síloi in jih ubil, ali mislite, da so bili bolj krivi kakor vsi ljudje, ki prebivajo v Jeruzalemu?"
+  },
+  {
+    "i": 29832,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 5,
+    "t": "\"Ne, povem vam; ampak če se ne spreobrnete, boste vsi enako umrli."
+  },
+  {
+    "i": 29833,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 6,
+    "t": "Povedal pa je še to priliko: \"Nekdo je imel smokvo, zasajeno v svojem vinogradu. Prišel je iskat sad na njej, pa ga ni našel."
+  },
+  {
+    "i": 29834,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 7,
+    "t": "Rekel je torej vinogradniku: Glej, že tri leta prihajam iskat sad na tej smokvi, pa ga ne najdem. Posekaj jo! Zakaj pa še zemljo izčrpava?"
+  },
+  {
+    "i": 29835,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 8,
+    "t": "Ta mu je odgovoril: Gospodar, pusti jo še to leto, da jo okopljem in pognojim."
+  },
+  {
+    "i": 29836,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 9,
+    "t": "\"Morda bo v prihodnje obrodila sad... Sicer pa jo posekaj."
+  },
+  {
+    "i": 29837,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 10,
+    "t": "Poučeval pa je v sinagogi ob sobotnem dnevu."
+  },
+  {
+    "i": 29838,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 11,
+    "t": "In glej, tam je bila žena, ki je imela osemnajst let duha, ki jo je držal bolno; bila je sključena in se sploh ni mogla zravnati."
+  },
+  {
+    "i": 29839,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 12,
+    "t": "Ko jo je Jezus zagledal, jo je poklical k sebi in ji rekel: \"Žena, osvobojena si svoje bolezni\";"
+  },
+  {
+    "i": 29840,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 13,
+    "t": "nato je položil nanjo roke. In takoj se je zravnala in slavila Boga."
+  },
+  {
+    "i": 29841,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 14,
+    "t": "A predstojnik sinagoge se je razjezil, ker je Jezus ozdravil na soboto, in je odgovoril množici: \"Šest dni je, v katerih se mora delati; pridite torej tiste dni, da se ozdravite, ne pa na sobotni dan!"
+  },
+  {
+    "i": 29842,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 15,
+    "t": "Gospod pa mu je odgovoril: \"Hinavci! Ali ne odveže vsak od vas ob soboti svojega vola ali osla od jasli, da ga pelje pit?"
+  },
+  {
+    "i": 29843,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 16,
+    "t": "In te Abrahamove hčere, ki jo je Satan vezal že osemnajst let, ali je ne bi smeli odvezati te vezi na sobotni dan?"
+  },
+  {
+    "i": 29844,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 17,
+    "t": "Ko je to govoril, so bili vsi njegovi nasprotniki osramočeni, vsa množica pa se je veselila vseh veličastnih del, ki so se po njem dogajala."
+  },
+  {
+    "i": 29845,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 18,
+    "t": "Rekel je torej: \"Čemu je podobno Božje kraljestvo in s čim ga bom primerjal?"
+  },
+  {
+    "i": 29846,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 19,
+    "t": "\"Podobno je gorčičnemu zrnu, ki ga je nekdo vzel in vrgel na svoj vrt; zraslo je in postalo drevo in ptice neba so se naselile v njegovih vejah."
+  },
+  {
+    "i": 29847,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 20,
+    "t": "Rekel je še: \"S čim naj primerjam Božje kraljestvo?"
+  },
+  {
+    "i": 29848,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 21,
+    "t": "\"Podobno je kvasu, ki ga je žena vzela in ga umesila v tri mere moke, dokler se ni vse prekvasilo."
+  },
+  {
+    "i": 29849,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 22,
+    "t": "Potoval pa je po mestih in vaseh in poučeval ter potoval proti Jeruzalemu."
+  },
+  {
+    "i": 29850,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 23,
+    "t": "Nekdo mu reče: \"Gospod, ali bo malo ljudi rešenih?\" On pa jim reče:"
+  },
+  {
+    "i": 29851,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 24,
+    "t": "\"Prizadevajte si, da vstopite skozi ozka vrata, kajti povem vam, mnogi bodo hoteli vstopiti, pa ne bodo mogli."
+  },
+  {
+    "i": 29852,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 25,
+    "t": "\"Ko se hišni gospodar vstane in zapre vrata in boste stali zunaj ter trkali na vrata in rekli: Gospod, odpri nam, vam bo odgovoril: Ne vem, od kod ste."
+  },
+  {
+    "i": 29853,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 26,
+    "t": "\"Takrat boste začeli govoriti: Jedli in pili smo pred teboj, poučeval si na naših trgih."
+  },
+  {
+    "i": 29854,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 27,
+    "t": "\"On pa vam bo odgovoril: Ne vem, od kod ste; odstopite od mene, vsi, ki delate krivico."
+  },
+  {
+    "i": 29855,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 28,
+    "t": "\"Tam bo jok in škripanje z zobmi, ko boste videli Abrahama, Izaka, Jakoba in vse preroke v Božjem kraljestvu, sebe pa izgnane ven."
+  },
+  {
+    "i": 29856,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 29,
+    "t": "\"In prišli bodo od vzhoda in zahoda, od severa in juga, in sédli za mizo v Božjem kraljestvu."
+  },
+  {
+    "i": 29857,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 30,
+    "t": "\"Da, so zadnji, ki bodo prvi, in so prvi, ki bodo zadnji."
+  },
+  {
+    "i": 29858,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 31,
+    "t": "Tisto uro so pristopili nekateri farizeji in mu rekli: \"Pojdi in odidi od tod, kajti Herod te hoče ubiti."
+  },
+  {
+    "i": 29859,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 32,
+    "t": "On pa jim reče: \"Pojdite in povejte tej lisici: Glej, izganjam demone in ozdravljam danes in jutri, tretji dan pa bom dopolnjen!"
+  },
+  {
+    "i": 29860,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 33,
+    "t": "\"Vendar moram danes, jutri in naslednji dan nadaljevati svojo pot, kajti ne spodobi se, da bi prerok umrl zunaj Jeruzalema."
+  },
+  {
+    "i": 29861,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 34,
+    "t": "\"Jeruzalem, Jeruzalem, ki ubijaš preroke in kamenjaš tiste, ki so ti poslani, kolikokrat sem hotel zbrati tvoje otroke, kakor kokoš zbira svoje piščance pod peruti... pa niste hoteli!"
+  },
+  {
+    "i": 29862,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 35,
+    "t": "\"Glej, vaša hiša vam bo prepuščena. Da, povem vam, ne boste me več videli, dokler ne pride dan, ko boste rekli: Blagoslovljen, ki prihaja v Gospodovem imenu!"
+  },
+  {
+    "i": 29863,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 1,
+    "t": "In zgodilo se je, ko je ob sobotnem dnevu prišel v hišo enega izmed farizejskih voditeljev na obed, da so ga opazovali."
+  },
+  {
+    "i": 29864,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 2,
+    "t": "In glej, pred njim je stal bolnik z vodeno boleznijo."
+  },
+  {
+    "i": 29865,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 3,
+    "t": "Jezus je spregovoril in rekel zakonikom in farizejem: \"Ali je dovoljeno ozdravljati ob sobotah ali ne?"
+  },
+  {
+    "i": 29866,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 4,
+    "t": "Oni pa so molčali. Potem je vzel bolnika, ga ozdravil in poslal proč."
+  },
+  {
+    "i": 29867,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 5,
+    "t": "In jim reče: \"Kateri izmed vas, če mu osel ali vol pade v vodnjak, ga ne bo takoj potegnil ven ob sobotnem dnevu?"
+  },
+  {
+    "i": 29868,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 6,
+    "t": "In na to mu niso mogli odgovoriti."
+  },
+  {
+    "i": 29869,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 7,
+    "t": "Povedal pa je tudi priliko povabljencem, ko je opazil, kako so si izbirali prve sedeže; rekel jim je:"
+  },
+  {
+    "i": 29870,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 8,
+    "t": "\"Ko te kdo povabi na svatbo, ne sêdi na prvi sedež, da ne bi morda povabil kdo, ki je bolj vreden od tebe,"
+  },
+  {
+    "i": 29871,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 9,
+    "t": "in bi prišel tisti, ki je povabil tebe in njega, in ti rekel: Umakni se mu. In takrat bi se moral s sramoto pomakniti na zadnje mesto."
+  },
+  {
+    "i": 29872,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 10,
+    "t": "\"Ampak, ko si povabljen, sêdi na zadnje mesto, da ti tisti, ki te je povabil, ob prihodu reče: Prijatelj, stopi više. Takrat boš imel čast pred vsemi drugimi gosti."
+  },
+  {
+    "i": 29873,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 11,
+    "t": "\"Kajti vsak, ki se povišuje, bo ponižan, in kdor se ponižuje, bo povišan."
+  },
+  {
+    "i": 29874,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 12,
+    "t": "Rekel pa je tudi tistemu, ki ga je povabil: \"Ko pripravljaš kosilo ali večerjo, ne povabi ne svojih prijateljev, ne svojih bratov, ne svojih sorodnikov, ne bogatih sosedov, da te ne bi tudi oni povabili nazaj in bi ti povrnili."
+  },
+  {
+    "i": 29875,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 13,
+    "t": "\"Ampak, ko pripravljaš gostijo, povabi uboge, pohabljene, hrome, slepe;"
+  },
+  {
+    "i": 29876,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 14,
+    "t": "\"pa boš srečen, ker ti ne morejo povrniti! Kajti povrnjeno ti bo ob vstajenju pravičnih."
+  },
+  {
+    "i": 29877,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 15,
+    "t": "Ob teh besedah mu je eden izmed gostov rekel: \"Blagor tistemu, ki bo obedoval v Božjem kraljestvu!"
+  },
+  {
+    "i": 29878,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 16,
+    "t": "Rekel mu je: \"Nekdo je pripravljal veliko večerjo in povabil veliko ljudi."
+  },
+  {
+    "i": 29879,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 17,
+    "t": "Ob času večerje je poslal svojega služabnika, da reče povabljenim: Pridite, kajti zdaj je vse pripravljeno!"
+  },
+  {
+    "i": 29880,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 18,
+    "t": "In vsi so se izgovarjali kakor iz enih ust. Prvi mu reče: Njivo sem kupil in moram iti ven, da jo vidim; prosim te, oprosti me."
+  },
+  {
+    "i": 29881,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 19,
+    "t": "In drugi reče: Pet parov volov sem kupil in grem jih preizkusit; prosim te, oprosti me."
+  },
+  {
+    "i": 29882,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 20,
+    "t": "In tretji reče: Ženo sem se oženil, in zato ne morem priti."
+  },
+  {
+    "i": 29883,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 21,
+    "t": "In ko se služabnik vrne, to sporoči svojemu gospodu. Tedaj se razsrdi hišni gospodar in reče svojemu služabniku: Pojdi brž na ulice in poti mesta, in pripelji sem uboge in pohabljene, slepe in hrome. —"
+  },
+  {
+    "i": 29884,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 22,
+    "t": "In služabnik reče: Gospod, kar si ukazal, je storjeno, in še je prostor."
+  },
+  {
+    "i": 29885,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 23,
+    "t": "In gospod reče služabniku: Pojdi na poti in ob plotove in prisili jih, da pridejo, da se napolni moja hiša."
+  },
+  {
+    "i": 29886,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 24,
+    "t": "Kajti povem vam, da nobeden izmed tistih, ki so bili povabljeni, ne bo okusil moje večerje."
+  },
+  {
+    "i": 29887,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 25,
+    "t": "In velike množice so potovale z njim; in se obrne in jim reče:"
+  },
+  {
+    "i": 29888,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 26,
+    "t": "\"Če kdo pride k meni in ne sovraži očeta svojega in matere in žene in otrok in bratov in sester, celo tudi svojega življenja, ne more biti moj učenec."
+  },
+  {
+    "i": 29889,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 27,
+    "t": "In kdor ne nosi svojega križa in ne gre za menoj, ne more biti moj učenec."
+  },
+  {
+    "i": 29890,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 28,
+    "t": "\"Kdo izmed vas namreč, če hoče zidati stolp, se ne vsede najprej in izračuna stroške, ali ima dovolj za dokončanje?"
+  },
+  {
+    "i": 29891,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 29,
+    "t": "Da ne bi, ko postavi temelj in ne more dokončati, ga začeli vsi, ki to vidijo, zasmehovati in govoriti:"
+  },
+  {
+    "i": 29892,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 30,
+    "t": "Ta človek je začel zidati in ni mogel dokončati!"
+  },
+  {
+    "i": 29893,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 31,
+    "t": "Ali kateri kralj, ki gre v vojno z drugim kraljem, se ne vsede najprej in premisli, ali se more z deset tisoč možmi srečati s tistim, ki gre nadenj z dvajset tisoč?"
+  },
+  {
+    "i": 29894,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 32,
+    "t": "Če ne, pošlje, dokler je še daleč, odposlance in prosi za mir."
+  },
+  {
+    "i": 29895,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 33,
+    "t": "Tako torej, vsakdo izmed vas, ki se ne odpove vsemu, kar ima, ne more biti moj učenec."
+  },
+  {
+    "i": 29896,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 34,
+    "t": "\"Sol je torej dobra; če pa se sol pokvari, s čim se bo osolila?"
+  },
+  {
+    "i": 29897,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 35,
+    "t": "Ne pride prav ne za zemljo ne za gnoj; zavržejo jo ven. Kdor ima ušesa, naj posluša!"
+  },
+  {
+    "i": 29898,
+    "b": 48,
+    "c": 5015,
+    "r": 5015,
+    "o": 1,
+    "t": "Približevali pa so se mu vsi cestninarji in grešniki, da bi ga poslušali."
+  },
+  {
+    "i": 29899,
+    "b": 48,
+    "c": 5015,
+    "r": 5015,
+    "o": 2,
+    "t": "In farizeji in pismouki so godrnjali, rekoč: Ta sprejema grešnike in jé z njimi!"
+  }
+]

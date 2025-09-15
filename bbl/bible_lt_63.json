@@ -1,0 +1,802 @@
+[
+  {
+    "i": 6300,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 8,
+    "t": "Ir pakilo tie vyrai ir iškeliavo. O tiems, kurie turėjo aprašyti kraštą, Jozua įsakė, tardamas: \"Eikite, apkeliaukite kraštą ir aprašykite jį, o sugrįžę pas mane, burtu ištrauksiu jums dalį čia, Viešpaties akivaizdoje, Šiloje."
+  },
+  {
+    "i": 6301,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 9,
+    "t": "Tie vyrai iškeliavo, perėjo kraštą ir aprašė jį miestais, septyniomis dalimis, knygoje, o sugrįžę pas Jozuą į stovyklą Šiloje."
+  },
+  {
+    "i": 6302,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 10,
+    "t": "Jozua metė jiems burtą Šiloje, Viešpaties akivaizdoje, ir ten Jozua padalijo kraštą izraelitams pagal jų dalis."
+  },
+  {
+    "i": 6303,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 11,
+    "t": "Pirmasis burtas teko Benjamino palikuonių giminei, pagal jų klanus: jų dalies teritorija buvo tarp Judo palikuonių ir Juozapo palikuonių."
+  },
+  {
+    "i": 6304,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 12,
+    "t": "Jų šiaurinė riba prasidėjo nuo Jordano, kilo į Jericho šlaitą šiaurėje, kopė į kalną link vakarų ir baigėsi prie Bet-Aveno dykumos."
+  },
+  {
+    "i": 6305,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 13,
+    "t": "Iš ten riba ėjo į Luzą, palei Luzo šlaitą pietuose, kuris šiandien yra Betelis; ji leidosi į Atrot-Araką ant kalno, esančio į pietus nuo Žemutinio Bet-Horono."
+  },
+  {
+    "i": 6306,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 14,
+    "t": "Riba pasisuko ir apsisuko, atsisukusi į vakarus, link pietų, nuo kalno, esančio priešais Bet-Horoną pietuose, ir baigėsi prie Kirjat-Baalo, kuris šiandien yra Kirjat-Jearimas, Judo palikuonių miestas. Tokia buvo vakarinė pusė."
+  },
+  {
+    "i": 6307,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 15,
+    "t": "Štai pietinė pusė: nuo Kirjat-Jearimo galo riba ėjo link Gasino ir baigėsi prie Neptoacho vandenų šaltinio,"
+  },
+  {
+    "i": 6308,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 16,
+    "t": "o paskui leidosi į kalno, kuris yra priešais Ben-Hinomo slėnį, galą, Rephajimų lygumoje šiaurėje; ji leidosi į Hinomo slėnį link jebusiečių šlaito pietuose ir leidosi į En-Rogelį."
+  },
+  {
+    "i": 6309,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 17,
+    "t": "Po to ji pasisuko į šiaurę, kad pasiektų En-Šemešą, ir baigėsi prie akmenų rato, kuris yra priešais Adummimo pakilimą, tada leidosi į Bohano akmenį, Rubeno sūnaus."
+  },
+  {
+    "i": 6310,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 18,
+    "t": "Tada ji ėjo į Ketefą palei Bet-ha-Arabos šlaitą į šiaurę ir leidosi į Arabą;"
+  },
+  {
+    "i": 6311,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 19,
+    "t": "tada riba ėjo palei Bet-Hoglą į šiaurę, o ribos galutinis taškas buvo Druskos jūros įlanka šiaurėje, pietiniame Jordano gale. Tokia buvo pietinė riba."
+  },
+  {
+    "i": 6312,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 20,
+    "t": "Jordanas sudarė ribą rytų pusėje. Toks buvo Benjamino palikuonių paveldas pagal jų ribų perimetrą, pagal jų klanus."
+  },
+  {
+    "i": 6313,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 21,
+    "t": "Benjamino palikuonių giminės miestai, pagal jų klanus, buvo: Jerichas, Bet-Hogla, Emek-Kecicas,"
+  },
+  {
+    "i": 6314,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 22,
+    "t": "Bet-ha-Araba, Cemarajimas, Betelis,"
+  },
+  {
+    "i": 6315,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 23,
+    "t": "Avimas, Para, Ofra,"
+  },
+  {
+    "i": 6316,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 24,
+    "t": "Kephar-ha-Amonis, Ofnis, Gaba: dvylika miestų ir jų kaimai."
+  },
+  {
+    "i": 6317,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 25,
+    "t": "Gabaonas, Rama, Beerotas,"
+  },
+  {
+    "i": 6318,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 26,
+    "t": "Micpė, Kephira, Moca,"
+  },
+  {
+    "i": 6319,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 27,
+    "t": "Rekemas, Jirpelas, Tareala,"
+  },
+  {
+    "i": 6320,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 28,
+    "t": "Cela-ha-Elefas, jebusiečiai – tai Jeruzalė, – Gibėja ir Kirjatas: keturiolika miestų su jų kaimais. Toks buvo Benjamino palikuonių paveldas pagal jų klanus."
+  },
+  {
+    "i": 6321,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 1,
+    "t": "Antrasis burtas teko Simeonui, Simeono palikuonių giminei pagal jų klanus: jų paveldas buvo Judo palikuonių paveldo viduryje."
+  },
+  {
+    "i": 6322,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 2,
+    "t": "Jie gavo paveldą Beeršebą, Šemą, Moladą,"
+  },
+  {
+    "i": 6323,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 3,
+    "t": "Hacar-Šualą, Balą, Ecemą,"
+  },
+  {
+    "i": 6324,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 4,
+    "t": "Eltoladą, Betulą, Hormą,"
+  },
+  {
+    "i": 6325,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 5,
+    "t": "Ciklagą, Bet-ha-Markabotą, Hacar-Susą,"
+  },
+  {
+    "i": 6326,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 6,
+    "t": "Bet-Lebaotą ir Šaruhėną: trylika miestų ir jų kaimai;"
+  },
+  {
+    "i": 6327,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 7,
+    "t": "Ajiną, Rimoną, Eterą, Ašaną: keturi miestai ir jų kaimai,"
+  },
+  {
+    "i": 6328,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 8,
+    "t": "su visais kaimais, esančiais netoli šių miestų iki Baalat-Beero ir Negebo Ramos. Toks buvo Simeono palikuonių giminės paveldas pagal jų klanus."
+  },
+  {
+    "i": 6329,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 9,
+    "t": "Simeono palikuonių paveldas buvo paimtas iš Judo palikuonių dalies, nes Judo palikuonių dalis jiems buvo per didelė; todėl Simeono palikuonys gavo savo paveldą Judo palikuonių paveldo viduryje."
+  },
+  {
+    "i": 6330,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 10,
+    "t": "Trečiasis burtas teko Zabulono palikuonims pagal jų klanus: jų paveldo teritorija tęsėsi iki Sadudo;"
+  },
+  {
+    "i": 6331,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 11,
+    "t": "jų riba kilo į vakarus link Maraalos, ji lietė Dabešetą, taip pat upelį, esantį priešais Jokneamą."
+  },
+  {
+    "i": 6332,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 12,
+    "t": "Riba pasisuko nuo Sadudo į rytus, ten, kur saulė teka, iki Kislot-Taboro ribos, ji baigėsi ties Daberatu ir kilo į Jafią."
+  },
+  {
+    "i": 6333,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 13,
+    "t": "Iš ten ji ėjo į rytus, į rytus, link Gat-Hefero ir Itta-Kacino, baigėsi ties Rimonu ir pasisuko link Nėjos."
+  },
+  {
+    "i": 6334,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 14,
+    "t": "Šiaurinė riba pasisuko link Hanatono, o jos galutinis taškas buvo Jiftach-El slėnis;"
+  },
+  {
+    "i": 6335,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 15,
+    "t": "su Katatu, Nahalalu, Šimronu, Jirealu ir Betliejumi: dvylika miestų su jų kaimais."
+  },
+  {
+    "i": 6336,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 16,
+    "t": "Toks buvo Zabulono palikuonių paveldas pagal jų klanus: šie miestai su jų kaimais."
+  },
+  {
+    "i": 6337,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 17,
+    "t": "Ketvirtasis burtas teko Isacharo palikuonims, Isacharo palikuonims pagal jų klanus."
+  },
+  {
+    "i": 6338,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 18,
+    "t": "Jų teritorija tęsėsi link Jizreelio ir apėmė Kesulotą, Šunemą,"
+  },
+  {
+    "i": 6339,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 19,
+    "t": "Hafrąjimą, Šiioną, Anaharatą,"
+  },
+  {
+    "i": 6340,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 20,
+    "t": "Daberatą, Kišioną, Ebecą,"
+  },
+  {
+    "i": 6341,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 21,
+    "t": "Remetą, En-Ganimą, En-Hadą ir Bet-Pacėcą."
+  },
+  {
+    "i": 6342,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 22,
+    "t": "Riba lietė Taborą, Šahacimą ir Bet-Šemešą, o ribos galutinis taškas buvo Jordanas: šešiolika miestų su jų kaimais."
+  },
+  {
+    "i": 6343,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 23,
+    "t": "Toks buvo Isacharo palikuonių giminės paveldas pagal jų klanus: miestai ir jų kaimai."
+  },
+  {
+    "i": 6344,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 24,
+    "t": "Penktasis burtas teko Ašero palikuonių giminei pagal jų klanus."
+  },
+  {
+    "i": 6345,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 25,
+    "t": "Jų teritorija apėmė: Helkatą, Halį, Beteną, Akšafą,"
+  },
+  {
+    "i": 6346,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 26,
+    "t": "Alamėleką, Amėadą ir Mišéalą; ji lietė Karmelį vakaruose ir Libnato vagą."
+  },
+  {
+    "i": 6347,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 27,
+    "t": "Pusėje, kur saulė teka, ji ėjo iki Bet-Dagono, lietė Zabuloną, Jiftach-El slėnį šiaurėje, Bet-ha-Emeką ir Nėielį, baigdamasi ties Kabulu kairėje,"
+  },
+  {
+    "i": 6348,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 28,
+    "t": "su Abdonu, Rehobu, Hamonu ir Kana iki Didžiojo Sidono. Tada riba ėjo link Ramos ir iki stipraus Tyro miesto;"
+  },
+  {
+    "i": 6349,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 29,
+    "t": "riba ėjo į Hosą, o jos galutinis taškas buvo prie jūros, Mahalėbas ir Akzibas,"
+  },
+  {
+    "i": 6350,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 30,
+    "t": "su Ako, Afeku ir Rehobu: dvidešimt du miestai su jų kaimais."
+  },
+  {
+    "i": 6351,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 31,
+    "t": "Toks buvo Ašero palikuonių giminės paveldas pagal jų klanus: šie miestai ir jų kaimai."
+  },
+  {
+    "i": 6352,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 32,
+    "t": "Naftalio palikuonims teko šeštasis burtas, Naftalio palikuonims pagal jų klanus."
+  },
+  {
+    "i": 6353,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 33,
+    "t": "Jų riba ėjo į Helefą ir nuo Kaananimo Ąžuolo, su Adami-ha-Nekebu ir Jabnėeliu, iki Lakumo, o jos galutinis taškas buvo Jordanas."
+  },
+  {
+    "i": 6354,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 34,
+    "t": "Vakaruose riba ėjo į Aznot-Taborą, iš ten baigėsi ties Hukoku ir lietė Zabuloną pietuose, Ašerą vakaruose ir Jordaną rytuose."
+  },
+  {
+    "i": 6355,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 35,
+    "t": "Stiprūs miestai buvo: Cidimas, Ceris, Hamatas, Rakatas, Kineretas,"
+  },
+  {
+    "i": 6356,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 36,
+    "t": "Adama, Rama, Hacoras,"
+  },
+  {
+    "i": 6357,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 37,
+    "t": "Kedešas, Edrėjus, En-Hacoras,"
+  },
+  {
+    "i": 6358,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 38,
+    "t": "Jireonas, Migdal-Elas, Horemas, Bet-Anatas ir Bet-Šemešas: devyniolika miestų ir jų kaimai."
+  },
+  {
+    "i": 6359,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 39,
+    "t": "Toks buvo Naftalio palikuonių paveldas pagal jų klanus: miestai ir jų kaimai."
+  },
+  {
+    "i": 6360,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 40,
+    "t": "Dano palikuonių giminei pagal jų klanus teko septintasis burtas."
+  },
+  {
+    "i": 6361,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 41,
+    "t": "Jų paveldo teritorija apėmė: Koreą, Eštaolą, Ir-Šemešą,"
+  },
+  {
+    "i": 6362,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 42,
+    "t": "Šaalbimą, Ajaloną, Silatą,"
+  },
+  {
+    "i": 6363,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 43,
+    "t": "Eloną, Timną, Ekroną,"
+  },
+  {
+    "i": 6364,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 44,
+    "t": "Elteke, Gibetoną, Baalatą,"
+  },
+  {
+    "i": 6365,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 45,
+    "t": "Azorą, Bene-Beraką ir Gat-Rimoną;"
+  },
+  {
+    "i": 6366,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 46,
+    "t": "ir link jūros Jerakoną su teritorija, esančia priešais Jopę."
+  },
+  {
+    "i": 6367,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 47,
+    "t": "Bet Dano palikuonių teritorija jiems išsprūdo iš rankų, todėl Dano palikuonys pakilo kovoti prieš Lešemą, kurį užėmė ir išžudė kardu. Užėmę jį, jie ten įsikūrė ir pavadino Lešemą Danu, pagal savo protėvio Dano vardą."
+  },
+  {
+    "i": 6368,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 48,
+    "t": "Toks buvo Dano palikuonių giminės paveldas pagal jų klanus: šie miestai ir jų kaimai."
+  },
+  {
+    "i": 6369,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 49,
+    "t": "Baigę dalinti kraštą pagal jo ribas, izraelitai davė Jozuei, Nūno sūnui, paveldą tarp savęs;"
+  },
+  {
+    "i": 6370,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 50,
+    "t": "Viešpaties įsakymu jie davė jam miestą, kurio jis prašė, Timnat-Serą, Efraimo kalnyne; jis atstatė miestą ir ten įsikūrė."
+  },
+  {
+    "i": 6371,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 51,
+    "t": "Tokios yra paveldo dalys, kurias kunigas Eleazaras, Jozua, Nūno sūnus, ir šeimų galvos burtu padalijo Izraelio giminėms Šiloje, Viešpaties akivaizdoje, prie Susitikimo Palapinės įėjimo. Taip buvo baigtas krašto padalijimas."
+  },
+  {
+    "i": 6372,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 1,
+    "t": "Viešpats tarė Jozuei:"
+  },
+  {
+    "i": 6373,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 2,
+    "t": "\"Kalbėk izraelitams ir sakyk jiems: Duokite sau prieglobsčio miestus, apie kuriuos kalbėjau jums per Mozę,"
+  },
+  {
+    "i": 6374,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 3,
+    "t": "kur galėtų pabėgti žudikas, kuris netyčia (nesąmoningai) užmušė ką nors, ir kurie jums tarnaus kaip prieglobstis nuo kraujo keršytojo."
+  },
+  {
+    "i": 6375,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 4,
+    "t": "(Taigi į vieną iš šių miestų žudikas turės pabėgti. Jis stovės prie miesto vartų įėjimo ir paaiškins savo atvejį miesto vyresniesiems. Jie priims jį į savo miestą ir paskirs jam vietą, kur jis gyvens tarp jų."
+  },
+  {
+    "i": 6376,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 5,
+    "t": "Jei kraujo keršytojas jį persekios, jie neperduos žudiko į jo rankas, nes jis netyčia užmušė savo artimą, neturėdamas prieš jį jokios įsišaknijusios neapykantos."
+  },
+  {
+    "i": 6377,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 6,
+    "t": "Jis turės likti šiame mieste) tol, kol stos prieš bendruomenę teismui (iki vyriausiojo kunigo mirties, einančio pareigas tuo metu. Tik tada žudikas galės grįžti į savo miestą ir savo namus, į miestą, iš kurio pabėgo.)"
+  },
+  {
+    "i": 6378,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 7,
+    "t": "Todėl jie pašventė Kedešą Galilėjoje, Naftalio kalnyne, Sichemą Efraimo kalnyne ir Kirjat-Arbą – tai Hebronas – Judo kalnyne."
+  },
+  {
+    "i": 6379,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 8,
+    "t": "Kitoje Jordano pusėje nuo Jericho į rytus, dykumoje, plynaukštėje, jie paskyrė Becerą iš Rubeno giminės, Ramotą Gileade, iš Gado giminės, ir Golaną Bašane, iš Manaso giminės."
+  },
+  {
+    "i": 6380,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 9,
+    "t": "Štai buvo miestai, parinkti visiems Izraelio vaikams ir ateiviams, gyvenantiems tarp jų, kad ten galėtų pabėgti tas, kuris netyčia ką nors užmušė, ir išvengtų kraujo keršytojo rankos, kol stos prieš bendruomenę."
+  },
+  {
+    "i": 6381,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 1,
+    "t": "Tuomet levitų šeimų galvos atėjo pas kunigą Eleazarą, Nūno sūnų Jozuę, ir Izraelio genčių šeimų galvas,"
+  },
+  {
+    "i": 6382,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 2,
+    "t": "kai jie buvo Šilo mieste, Kanaano krašte, ir tarė jiems: \"Viešpats, per Mozę, įsakė mums duoti miestus gyventi ir jų ganyklas mūsų gyvuliams."
+  },
+  {
+    "i": 6383,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 3,
+    "t": "Izraelio vaikai davė levitams iš savo paveldo, pagal Viešpaties įsakymą, tuos miestus su jų ganyklomis."
+  },
+  {
+    "i": 6384,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 4,
+    "t": "Burtai buvo mesti Kehato giminei: kunigo Aarono sūnums, iš levitų, atiteko trylika miestų iš Judo, Simeono ir Benjamino genčių;"
+  },
+  {
+    "i": 6385,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 5,
+    "t": "kitiems Kehato sūnums pagal jų gimines atiteko dešimt miestų iš Efraimo, Dano ir pusės Manaso giminės."
+  },
+  {
+    "i": 6386,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 6,
+    "t": "Geršono sūnums pagal jų gimines atiteko trylika miestų iš Isacharo, Ašero, Neftalio ir pusės Manaso giminės Bašane."
+  },
+  {
+    "i": 6387,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 7,
+    "t": "Merario sūnums pagal jų gimines atiteko dvylika miestų iš Rubeno, Gado ir Zabulono genčių."
+  },
+  {
+    "i": 6388,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 8,
+    "t": "Izraelio vaikai burtų keliu paskyrė šiuos miestus ir jų ganyklas levitams, kaip Viešpats buvo įsakęs per Mozę."
+  },
+  {
+    "i": 6389,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 9,
+    "t": "Jie davė iš Judo sūnų giminės ir Simeono sūnų giminės šiuos miestus, kurių vardai buvo duoti."
+  },
+  {
+    "i": 6390,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 10,
+    "t": "Tai buvo pirmiausia Aarono sūnų, priklausančių Kehato giminei, dalis, levitų sūnų, nes pirmasis burtai buvo jiems."
+  },
+  {
+    "i": 6391,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 11,
+    "t": "Jie davė jiems Kirjat Arbą, Anako tėvo miestą, tai yra Hebroną, Judo kalnuose, su aplinkinėmis ganyklomis."
+  },
+  {
+    "i": 6392,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 12,
+    "t": "Bet šio miesto apylinkes su jo kaimais jie atidavė nuosavybėn Kalebarui, Jefunės sūnui."
+  },
+  {
+    "i": 6393,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 13,
+    "t": "Kunigo Aarono sūnums jie davė Hebroną, prieglobsčio miestą žudikui, su jo ganyklomis, taip pat Libną ir jos ganyklas,"
+  },
+  {
+    "i": 6394,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 14,
+    "t": "Jatirą ir jo ganyklas, Eštemoa ir jo ganyklas,"
+  },
+  {
+    "i": 6395,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 15,
+    "t": "Holoną ir jo ganyklas, Debirą ir jo ganyklas,"
+  },
+  {
+    "i": 6396,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 16,
+    "t": "Ašaną ir jo ganyklas, Juta ir jo ganyklas, ir Bet Šemešą ir jo ganyklas: devynis miestus, paimtus iš šių dviejų genčių."
+  },
+  {
+    "i": 6397,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 17,
+    "t": "Iš Benjamino giminės, Gabaoną ir jo ganyklas, Gebą ir jo ganyklas,"
+  },
+  {
+    "i": 6398,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 18,
+    "t": "Anatotą ir jo ganyklas, ir Almoną ir jo ganyklas: keturis miestus."
+  },
+  {
+    "i": 6399,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 19,
+    "t": "Viso kunigų Aarono sūnų miestų: trylika miestų ir jų ganyklos."
+  }
+]

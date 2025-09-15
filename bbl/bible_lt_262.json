@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26200,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 29,
+    "t": "Jo pančiai bus tau stipri gynyba, o grandinės - brangus papuošalas."
+  },
+  {
+    "i": 26201,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 30,
+    "t": "Jo jungas bus aukso papuošalas, o virvės - purpuriniai kaspinai."
+  },
+  {
+    "i": 26202,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 31,
+    "t": "Kaip iškilmingu drabužiu apsivilksi jį, kaip džiaugsmo diadema juo apsijuosi."
+  },
+  {
+    "i": 26203,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 32,
+    "t": "Jei nori, mano sūnau, pasimokysi, o tavo paklusnumas atneš tau įgūdžių."
+  },
+  {
+    "i": 26204,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 33,
+    "t": "Jei mėgsti klausytis, išmoksi, ir jei atversi ausį, būsi išmintingas."
+  },
+  {
+    "i": 26205,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 34,
+    "t": "Stovėk seniūnų susirinkime, ir jei pamatysi išmintingą, prisijunk prie jo."
+  },
+  {
+    "i": 26206,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 35,
+    "t": "Klausykis noriai kiekvieno žodžio, kuris ateina iš Dievo, tegu subtilūs patarlės nepraeina pro šalį."
+  },
+  {
+    "i": 26207,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 36,
+    "t": "Jei matai protingą žmogų, eik pas jį anksti ryte, ir tegu tavo pėdos nutrina jo durų slenkstį."
+  },
+  {
+    "i": 26208,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 37,
+    "t": "Apmąstyk Viešpaties įsakymus, nuolat užsiimk jo nuostatais. Jis sustiprins tavo širdį, ir išmintis, kurios trokšti, bus tau suteikta."
+  },
+  {
+    "i": 26209,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 1,
+    "t": "Nedaryk blogio, ir blogis netaps tavo valdovu;"
+  },
+  {
+    "i": 26210,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 2,
+    "t": "atsitrauk nuo neteisybės, ir ji atsitrauks nuo tavęs."
+  },
+  {
+    "i": 26211,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 3,
+    "t": "Mano sūnau, nesėk neteisybės vagose, bijodamas, kad nenušienausi septynis kartus daugiau."
+  },
+  {
+    "i": 26212,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 4,
+    "t": "Neprašyk Viešpaties pirmosios vietos, nei karaliaus garbingos sėdynės."
+  },
+  {
+    "i": 26213,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 5,
+    "t": "Neapsimetinėk teisiu prieš Viešpatį, nei išmintingu prieš karalių."
+  },
+  {
+    "i": 26214,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 6,
+    "t": "Nesiek teisėjo vietos, jei nesugebi išrauti neteisybės, bijodamas leistis paveikiamu didžiojo, rizikuodamas prarasti savo teisumą."
+  },
+  {
+    "i": 26215,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 7,
+    "t": "Nenusikalsti miesto bendruomenei ir nenukrisk prieš tautą."
+  },
+  {
+    "i": 26216,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 8,
+    "t": "Neleisk sau antrą kartą įsivelti į nuodėmę, nes neišvengsi bausmės už vieną kartą."
+  },
+  {
+    "i": 26217,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 9,
+    "t": "Nesakyk: \"Dievas atsižvelgs į mano aukų gausybę, kai aš jas aukosiu Aukščiausiajam Dievui, jis jas priims\"."
+  },
+  {
+    "i": 26218,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 10,
+    "t": "Nebūk dvejojantis maldoje ir nepamiršk daryti išmaldą."
+  },
+  {
+    "i": 26219,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 11,
+    "t": "Nesišaipyk iš žmogaus, kuris yra bėdoje, nes tas, kuris pažemina, gali pakelti."
+  },
+  {
+    "i": 26220,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 12,
+    "t": "Nekurk melo prieš savo brolį, juo labiau prieš draugą."
+  },
+  {
+    "i": 26221,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 13,
+    "t": "Saugokis ištarti jokį melą, nes iš jo negali išeiti nieko gero."
+  },
+  {
+    "i": 26222,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 14,
+    "t": "Neplepėk seniūnų susirinkime ir nekartok savo žodžių maldoje."
+  },
+  {
+    "i": 26223,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 15,
+    "t": "Nesusilaikyk nuo sunkių darbų, nei nuo laukų darbo, sukurto Aukščiausiojo."
+  },
+  {
+    "i": 26224,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 16,
+    "t": "Neprisijunk prie nusidėjėlių, atsimink, kad pyktis neišvengiamas."
+  },
+  {
+    "i": 26225,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 17,
+    "t": "Nusižemink giliai, nes ugnis ir kirmėlės yra bedievio bausmė."
+  },
+  {
+    "i": 26226,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 18,
+    "t": "Neiškeisk draugo į pinigus, nei tikro brolio į Ofiro auksą."
+  },
+  {
+    "i": 26227,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 19,
+    "t": "Nenusigręžk nuo išmintingos ir geros žmonos, nes jos malonė verta daugiau nei auksas."
+  },
+  {
+    "i": 26228,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 20,
+    "t": "Nepiktnaudžiauk vergu, kuris dirba ištikimai, nei samdiniu, kuris pasiaukoja."
+  },
+  {
+    "i": 26229,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 21,
+    "t": "Mylėk savo širdyje protingą vergą, neneik jam laisvės."
+  },
+  {
+    "i": 26230,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 22,
+    "t": "Ar turi bandų? Pasirūpink jomis; jei gauni iš jų naudos, saugok jas."
+  },
+  {
+    "i": 26231,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 23,
+    "t": "Ar turi vaikų? Lavink juos ir nuo vaikystės lenk jiems sprandą."
+  },
+  {
+    "i": 26232,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 24,
+    "t": "Ar turi dukterų? Saugok jų kūną ir nedžiūgauk prieš jas savo veidu."
+  },
+  {
+    "i": 26233,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 25,
+    "t": "Apvesk savo dukterį, tu įvykdysi didį dalyką, bet atiduok ją protingam vyrui."
+  },
+  {
+    "i": 26234,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 26,
+    "t": "Ar turi žmoną pagal savo širdį? Neatstumk jos, bet jei jos nemyli, nepasitikėk ja."
+  },
+  {
+    "i": 26235,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 27,
+    "t": "Visa širdimi gerbk savo tėvą ir niekada nepamiršk, ką kentėjo tavo motina."
+  },
+  {
+    "i": 26236,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 28,
+    "t": "Atsimink, kad jie davė tau gyvybę: ką tu jiems atiduosi už tai, ką jie padarė dėl tavęs?"
+  },
+  {
+    "i": 26237,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 29,
+    "t": "Visa siela bijok Viešpaties ir gerbk jo kunigus."
+  },
+  {
+    "i": 26238,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 30,
+    "t": "Visomis jėgomis mylėk tą, kuris tave sukūrė, ir neapleisk jo tarnų."
+  },
+  {
+    "i": 26239,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 31,
+    "t": "Bijok Viešpaties ir pagerbk kunigą, ir duok jam jo dalį, kaip tau nurodyta: pirmagimius, atpirkimo auką, pečių atnašą, pašventinimo auką ir šventųjų dalykų pirmagimius."
+  },
+  {
+    "i": 26240,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 32,
+    "t": "Vargšui taip pat daryk dosnumą, kad tavo palaiminimas būtų tobulas."
+  },
+  {
+    "i": 26241,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 33,
+    "t": "Tavo dosnumas te paliečia visus gyvus, net mirusiems neneik savo pamaldumo."
+  },
+  {
+    "i": 26242,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 34,
+    "t": "Nenusigręžk nuo tų, kurie verkia, liūdėk su liūdinčiais."
+  },
+  {
+    "i": 26243,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 35,
+    "t": "Nebijok aplankyti sergančių, tokiais darbais tu įgysi meilę."
+  },
+  {
+    "i": 26244,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 36,
+    "t": "Visuose savo darbuose atsimink savo pabaigą ir niekada nenusidėsi."
+  },
+  {
+    "i": 26245,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 1,
+    "t": "Nesikovok su didžiuoju, bijodamas pakliūti į jo rankas."
+  },
+  {
+    "i": 26246,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 2,
+    "t": "Nesiginčyk su turtinguoju, bijodamas, kad jis neturėtų daugiau svorio nei tu; nes auksas pražudė daugybę žmonių ir privertė karalių širdis suklupti."
+  },
+  {
+    "i": 26247,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 3,
+    "t": "Nesiginčyk su gražbyliu, nedėk malkų ant jo ugnies."
+  },
+  {
+    "i": 26248,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 4,
+    "t": "Nejuokauk su blogai išauklėtu žmogumi, bijodamas, kad neįžeistų tavo protėvių."
+  },
+  {
+    "i": 26249,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 5,
+    "t": "Nepriekaištauk atgailaujančiam nusidėjėliui, atsimink, kad mes visi esame kalti."
+  },
+  {
+    "i": 26250,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 6,
+    "t": "Neniekinsk pagyvenusio žmogaus, nes galbūt ir mes tapsime senais."
+  },
+  {
+    "i": 26251,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 7,
+    "t": "Nedžiūgauk dėl žmogaus mirties, atsimink, kad mes visi turime mirti."
+  },
+  {
+    "i": 26252,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 8,
+    "t": "Neniekinsk išmintingų žmonių kalbos ir dažnai grįžk prie jų maksimų; nes iš jų tu išmoksi doktrinos ir meno tarnauti didiesiems."
+  },
+  {
+    "i": 26253,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 9,
+    "t": "Neatmesk seniūnų kalbos, nes jie patys mokėsi iš savo tėvų; iš jų tu išmoksi apdairumo ir meno atsakyti tinkamu metu."
+  },
+  {
+    "i": 26254,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 10,
+    "t": "Nedėk ugnies ant nusidėjėlio žarijų, bijodamas nudegti nuo jo liepsnos."
+  },
+  {
+    "i": 26255,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 11,
+    "t": "Neleisk, kad įžūlus žmogus tave išvestų iš kantrybės, tai būtų spąstai, pastatyti prieš tavo lūpas."
+  },
+  {
+    "i": 26256,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 12,
+    "t": "Neskólink žmogui, kuris yra stipresnis už tave: jei paskolinsi, laikyk tai prarastu dalyku."
+  },
+  {
+    "i": 26257,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 13,
+    "t": "Nesigręžk laidu už daugiau, nei gali: jei tapai laidu, būk pasiruošęs mokėti."
+  },
+  {
+    "i": 26258,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 14,
+    "t": "Nebūk teisme su teisėju, nes nuosprendis bus priimtas jo naudai."
+  },
+  {
+    "i": 26259,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 15,
+    "t": "Neiškeliauk su nuotykių ieškotoju, bijodamas, kad jis neapsunkintų tavęs blogybėmis; nes jis daro tik tai, kas jam patinka, o jo beprotybė pražudys tave kartu su juo."
+  },
+  {
+    "i": 26260,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 16,
+    "t": "Nesiginčyk su piktu žmogumi, nesusitikinėk su juo dykumoje, nes kraujas nesvarbus jo akims, ir ten, kur nėra pagalbos, jis užpuls tave."
+  },
+  {
+    "i": 26261,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 17,
+    "t": "Nepriimk kvailio į pasitikėtinį, nes jis nesugebės išsaugoti tavo paslapties."
+  },
+  {
+    "i": 26262,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 18,
+    "t": "Priešais svetimą nedaryk nieko, kas turėtų likti paslaptyje, nes tu nežinai, ką jis gali išgalvoti."
+  },
+  {
+    "i": 26263,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 19,
+    "t": "Neatverk savo širdies bet kam ir neapsimesk, kad gausi jo malones."
+  },
+  {
+    "i": 26264,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 1,
+    "t": "Nepavydėk savo mylimai žmonai ir neduok jai idėjos tau pakenkti."
+  },
+  {
+    "i": 26265,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 2,
+    "t": "Neatsiduok į moters rankas, bijodamas, kad ji neįgytų viršenybės prieš tave."
+  },
+  {
+    "i": 26266,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 3,
+    "t": "Neik pas paleistuvę: tu gali pakliūti į jos spąstus."
+  },
+  {
+    "i": 26267,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 4,
+    "t": "Nesilankyk pas dainininkę: tu pasiduotum jos gudrybėms."
+  },
+  {
+    "i": 26268,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 5,
+    "t": "Nenustok žiūrėti į jauną merginą, bijodamas būti įvilktas į spąstus, kai ji atpirks."
+  },
+  {
+    "i": 26269,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 6,
+    "t": "Neatsiduok į prostitučių rankas: tu prarastum savo turtą."
+  },
+  {
+    "i": 26270,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 7,
+    "t": "Nevedžiok savo žvilgsnio miesto gatvėmis ir nesiblaškyk apleistuose kampuose."
+  },
+  {
+    "i": 26271,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 8,
+    "t": "Nukreipk savo žvilgsnį nuo gražios moters ir nenustok jo ties svetimu grožiu. Daugelis buvo suklaidinti moters grožio, ir meilė ten įsižiebia kaip ugnis."
+  },
+  {
+    "i": 26272,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 9,
+    "t": "Šalia ištekėjusios moters saugokis sėdėti ir piknikauti su vynu kartu su ja, bijodamas, kad troškimas nenukreiptų tavęs link jos ir kad aistroje nepaskęstum pražūtyje."
+  },
+  {
+    "i": 26273,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 10,
+    "t": "Neapleisk seno draugo, naujas neatstos jo. Naujas vynas, naujas draugas, leisk jam pasenti, tu gersi jį su malonumu."
+  },
+  {
+    "i": 26274,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 11,
+    "t": "Nepavydėk nusidėjėlio sėkmės, tu nežinai, kaip tai baigsis."
+  },
+  {
+    "i": 26275,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 12,
+    "t": "Nesidžiauk bedievių sėkme, atsimink, kad čia jie neliks nenubausti."
+  },
+  {
+    "i": 26276,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 13,
+    "t": "Laikykis atokiau nuo žmogaus, kuris turi galią žudyti, ir tu neturėsi jokios mirties baimės. Jei prie jo prieisi, saugokis klaidos, jis galėtų atimti tau gyvybę. Žinok gerai, kad esi apsuptas spąstų ir kad eini ant įtvirtinimų."
+  },
+  {
+    "i": 26277,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 14,
+    "t": "Kiek įmanoma, lankykis pas savo artimą ir pasitark su išmintingais."
+  },
+  {
+    "i": 26278,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 15,
+    "t": "Savo pokalbiui ieškok protingų žmonių, ir tegu visi tavo pokalbiai būna apie Aukščiausiojo Įstatymą."
+  },
+  {
+    "i": 26279,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 16,
+    "t": "Teisingieji tebūna tavo bendražygiai, o tavo pasididžiavimas tebūna Viešpaties baimėje."
+  },
+  {
+    "i": 26280,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 17,
+    "t": "Rankų darbo darbas vertas pagyrimo, bet tautos vadovas turi būti sumanus kalboje."
+  },
+  {
+    "i": 26281,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 18,
+    "t": "Gražbyliautojo bijoma mieste, o plepys kelia pasibjaurėjimą."
+  },
+  {
+    "i": 26282,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 1,
+    "t": "Išmintingas valdovas laiko savo tautą drausmėje, o sveiko proto žmogaus valdžia yra tvirtai įsitvirtinusi."
+  },
+  {
+    "i": 26283,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 2,
+    "t": "Koks valdovas, tokie ir jo pavaldiniai, kas valdo miestą, tokie ir gyventojai."
+  },
+  {
+    "i": 26284,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 3,
+    "t": "Karalius be išminties yra savo tautos žlugimas, miestas klesti dėl vadų išminties."
+  },
+  {
+    "i": 26285,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 4,
+    "t": "Viešpaties rankose yra pasaulio valdymas; jis tinkamu metu pažadina tinkamą vadovą."
+  },
+  {
+    "i": 26286,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 5,
+    "t": "Žmogaus sėkmė yra Viešpaties rankoje; jis suteikia raštininkui garbę."
+  },
+  {
+    "i": 26287,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 6,
+    "t": "Neleisk pikto savo artimui, kad ir kokios būtų jo nuodėmės, ir niekada nereaguok įžūliais veiksmais."
+  },
+  {
+    "i": 26288,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 7,
+    "t": "Puikybė nepatinka nei Dievui, nei žmogui, ir abu jie į neteisybę žiūri kaip į nuodėmę."
+  },
+  {
+    "i": 26289,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 8,
+    "t": "Suverenitetas pereina iš vienos tautos į kitą dėl neteisybės, arogancijos ir pinigų. Nėra nieko bedieviškesnio už tą, kuris myli pinigus: jis parduoda net savo sielą!"
+  },
+  {
+    "i": 26290,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 9,
+    "t": "Kodėl tiek daug puikybės tam, kuris yra žemė ir pelenai, būtybė, kurios viduriai jau gyva būnant yra šlykštūs?"
+  },
+  {
+    "i": 26291,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 10,
+    "t": "Ilgalaikė liga tyčiojasi iš gydytojo, kuris šiandien yra karalius, o rytoj mirs."
+  },
+  {
+    "i": 26292,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 11,
+    "t": "Kai žmogus miršta, jam atitenka vabzdžiai, plėšrūnai ir kirminai."
+  },
+  {
+    "i": 26293,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 12,
+    "t": "Žmogiškosios puikybės principas yra palikti Viešpatį ir laikyti savo širdį atitolusią nuo Kūrėjo."
+  },
+  {
+    "i": 26294,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 13,
+    "t": "Nes puikybės principas yra nuodėmė, tas, kuris jai pasiduoda, skleidžia bjaurastį. Todėl Viešpats padarė ryškų jų vargą ir pavertė juos niekais."
+  },
+  {
+    "i": 26295,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 14,
+    "t": "Viešpats nuvertė galingųjų sostą ir į jų vietą pasodino romuosius."
+  },
+  {
+    "i": 26296,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 15,
+    "t": "Viešpats išrovė išdidžiuosius ir pasodino jų vietoje nuolankiuosius."
+  },
+  {
+    "i": 26297,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 16,
+    "t": "Viešpats apvertė tautų teritoriją ir sunaikino jas iki pat žemės pagrindų."
+  },
+  {
+    "i": 26298,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 17,
+    "t": "Kartais jis juos nušluodavo ir sunaikindavo, ir ištrindavo jų atminimą iš pasaulio."
+  },
+  {
+    "i": 26299,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 18,
+    "t": "Puikybė netinka žmogui, o smarkus pyktis – moters giminei."
+  }
+]

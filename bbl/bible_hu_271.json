@@ -1,0 +1,802 @@
+[
+  {
+    "i": 27100,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 20,
+    "t": "Ne engedd, hogy szívedet bánat eméssze, taszítsd el magadtól. Gondolj saját végedre!"
+  },
+  {
+    "i": 27101,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 21,
+    "t": "Ne feledd: nincs visszatérés, nem szolgálhatsz a holtnak, és magadnak ártasz."
+  },
+  {
+    "i": 27102,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 22,
+    "t": "\"Emlékezz az én ítéletemre, mely a tiéd is lesz: én tegnap, te ma!"
+  },
+  {
+    "i": 27103,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 23,
+    "t": "Mihelyt a halott nyugszik, hagyd pihenni az emlékét, vigasztalódj felette, mihelyt lelke eltávozott."
+  },
+  {
+    "i": 27104,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 24,
+    "t": "Az írástudó bölcsessége a szabad órákban szerzett tudás, és aki mentes a gondoktól, az bölcs lesz."
+  },
+  {
+    "i": 27105,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 25,
+    "t": "Hogyan lehetne bölcs az, aki az ekét tartja, akinek minden dicsősége az ösztöke lengetése, aki ökröket vezet és nem hagyja el őket munka közben, és aki csak jószágokról beszél?"
+  },
+  {
+    "i": 27106,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 26,
+    "t": "Szívét a barázdák foglalják el, melyeket húz, és éjszakáit üszők hizlalásával tölti."
+  },
+  {
+    "i": 27107,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 27,
+    "t": "Hasonlóképpen minden munkás és mesterember, aki éjjel-nappal dolgozik, azok, akik pecsétek vésésére szakosodtak, és igyekeznek azok mintázatát változtatni; szívükön viselik a minta pontos másolását, és virrasztanak, hogy befejezzék munkájukat."
+  },
+  {
+    "i": 27108,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 28,
+    "t": "Hasonlóképpen a kovács, aki az üllő mellett ül: figyeli a vas munkáját; a tűz gőze emészti a testét, a kemence forróságában sürög-forog; a kalapács zaja megsüketíti, szeme a mintára szegeződik; minden szívét beleteszi, hogy jól végezze munkáját, és éjszakáit annak tökéletesítésével tölti."
+  },
+  {
+    "i": 27109,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 29,
+    "t": "Hasonlóképpen a fazekas, aki a munkájánál ül, lábával forgatja a korongot, szüntelenül foglalja el a munkája, minden mozdulata számít;"
+  },
+  {
+    "i": 27110,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 30,
+    "t": "karjával gyúrja az agyagot, lábával kényszeríti; szívét beleteszi, hogy jól felvigye a mázat, és éjszakái során tisztítja a tűzhelyet."
+  },
+  {
+    "i": 27111,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 31,
+    "t": "Mindezek az emberek bizalmukat kezükbe vetették, és mindegyik ügyes a mesterségében."
+  },
+  {
+    "i": 27112,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 32,
+    "t": "Nélkülük egyetlen város sem épülhetne, nem lehetne letelepedni vagy utazni. De nem törekednek arra, hogy a nép tanácsában legyenek"
+  },
+  {
+    "i": 27113,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 33,
+    "t": "és a gyülekezetben nincs magas rangjuk. Nem foglalják el a bíró székét, és nem elmélkednek a törvényről. Nem ragyognak sem műveltségükkel, sem ítélőképességükkel, nem találjuk őket a közmondásokkal foglalkozni."
+  },
+  {
+    "i": 27114,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 34,
+    "t": "De biztosítják az örök alkotást, és imájuk mesterségük ügyeit szolgálja. Másképpen van az, aki lelkét és elmélkedését a Magasságos törvényének szenteli."
+  },
+  {
+    "i": 27115,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 1,
+    "t": "Kutatja minden ős bölcsességét, szabadidejét a próféciáknak szenteli."
+  },
+  {
+    "i": 27116,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 2,
+    "t": "Megőrzi a híres emberek történeteit, behatol a példázatok rejtelmeibe."
+  },
+  {
+    "i": 27117,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 3,
+    "t": "Keresi a közmondások rejtett értelmét, gyönyörködik a példázatok titkaiban."
+  },
+  {
+    "i": 27118,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 4,
+    "t": "Szolgálatot teljesít a nagyok között, észreveszik a főemberek jelenlétében. Idegen országokba utazik, megtapasztalta a jót és a rosszat az emberek között."
+  },
+  {
+    "i": 27119,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 5,
+    "t": "Már reggel, teljes szívéből a Teremtő Úrhoz fordul; könyörög a Magasságos előtt, megnyitja száját imára, könyörög saját bűneiért."
+  },
+  {
+    "i": 27120,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 6,
+    "t": "Ha ez a nagy Úr akarata, betöltetik az értelem szellemével. Ő maga árasztja bölcsessége szavait, imájában hálát ad az Úrnak."
+  },
+  {
+    "i": 27121,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 7,
+    "t": "Megszerzi az ítélet és a tudás igazságát, elmélkedik rejtett titkain."
+  },
+  {
+    "i": 27122,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 8,
+    "t": "Megmutatja a kapott tanítást, és büszkeségét az Úr szövetségének törvényében leli."
+  },
+  {
+    "i": 27123,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 9,
+    "t": "Sokan dicsérik majd értelmét, és soha nem felejtik el. Emléke nem halványul el, neve nemzedékről nemzedékre él."
+  },
+  {
+    "i": 27124,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 10,
+    "t": "Nemzetek hirdetik bölcsességét, és a gyülekezet ünnepli dicséreteit."
+  },
+  {
+    "i": 27125,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 11,
+    "t": "Ha sokáig él, neve dicsőségesebb lesz ezer másiknál, és ha meghal, az elég neki."
+  },
+  {
+    "i": 27126,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 12,
+    "t": "Szeretném még megosztani gondolataimat, melyekkel telve vagyok, mint a hold teliholdkor."
+  },
+  {
+    "i": 27127,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 13,
+    "t": "Hallgassatok rám, kegyes gyermekeim, és növekedjetek, mint a vízfolyás partjára ültetett rózsa."
+  },
+  {
+    "i": 27128,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 14,
+    "t": "Mint a tömjén, árasszatok jó illatot, virágozzatok, mint a liliom, adjátok illatotokat, énekeljetek éneket, áldjátok az Urat minden művéért."
+  },
+  {
+    "i": 27129,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 15,
+    "t": "Magasztaljátok nevét, hirdessétek dicséreteit, énekeitekkel, citeráitokon, és mondjátok dicséretére:"
+  },
+  {
+    "i": 27130,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 16,
+    "t": "Mily csodálatosak az Úrnak minden művei! Minden parancsa pontosan teljesül."
+  },
+  {
+    "i": 27131,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 17,
+    "t": "Nem kell mondani: Mi ez? Miért ez? Mindent a maga idejében kell vizsgálni. Szavára megáll és felgyülemlik a víz, szavára alakulnak ki a víztározók,"
+  },
+  {
+    "i": 27132,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 18,
+    "t": "parancsára minden teljesül, amit kíván, nincs senki, aki megállítaná üdvösségének tettét."
+  },
+  {
+    "i": 27133,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 19,
+    "t": "Az emberek minden cselekedete előtte van, nem lehet elrejtőzni a tekintete elől;"
+  },
+  {
+    "i": 27134,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 20,
+    "t": "tekintete az örökkévalóságtól az örökkévalóságig terjed, semmi sem rendkívüli a szemében."
+  },
+  {
+    "i": 27135,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 21,
+    "t": "Nem kell mondani: Mi ez? Miért ez? Mert minden egy célra teremtetett."
+  },
+  {
+    "i": 27136,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 22,
+    "t": "Ahogyan áldása mindent beborított, mint egy folyó, és itatta a földet, mint egy áradás,"
+  },
+  {
+    "i": 27137,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 23,
+    "t": "úgy a nemzeteknek is adja haragját osztályrészül, így változtatta a vizeket sóvá."
+  },
+  {
+    "i": 27138,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 24,
+    "t": "Ha útjai egyenesek a kegyes emberek számára, akkor a gonoszok számára tele vannak akadályokkal."
+  },
+  {
+    "i": 27139,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 25,
+    "t": "A javak a jóknak teremttettek a kezdetektől fogva, és ugyanígy a gonoszoknak a rosszak."
+  },
+  {
+    "i": 27140,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 26,
+    "t": "Ami az ember életének legszükségesebb, az a víz, a tűz, a vas és a só, a búzaliszt, a tej és a méz, a szőlőlé, az olaj és a ruha."
+  },
+  {
+    "i": 27141,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 27,
+    "t": "Mindez jó a jóknak, de a bűnösök számára rosszá válik."
+  },
+  {
+    "i": 27142,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 28,
+    "t": "Vannak büntetésre teremtett szelek, és dühükben erősítik csapásaikat, a vég idején szabadjára engedik erőszakukat, és kielégítik Teremtőjük haragját."
+  },
+  {
+    "i": 27143,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 29,
+    "t": "A tűz, a jégeső, az éhínség és a halál, mindez büntetésre teremtetett."
+  },
+  {
+    "i": 27144,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 30,
+    "t": "A vadállatok fogai, a skorpiók és a viperák, a bosszúálló kard az istentelenek pusztulására,"
+  },
+  {
+    "i": 27145,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 31,
+    "t": "mind örömmel teljesítik parancsait, készen állnak a földön, ha szükség van rájuk, a megfelelő pillanatban nem szegik meg szavát."
+  },
+  {
+    "i": 27146,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 32,
+    "t": "Ezért a kezdetektől fogva elhatároztam, gondolkodtam és írtam:"
+  },
+  {
+    "i": 27147,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 33,
+    "t": "\"Az Úrnak minden műve jó, megadja kegyét annak, akinek szüksége van rá, a megfelelő időben."
+  },
+  {
+    "i": 27148,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 34,
+    "t": "Nem kell mondani: \"Ez rosszabb, mint az!\" mert minden a maga idejében jónak fog bizonyulni."
+  },
+  {
+    "i": 27149,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 35,
+    "t": "És most teljes szívvel, teljes szájjal énekeljetek, és áldjátok az Úr nevét!"
+  },
+  {
+    "i": 27150,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 1,
+    "t": "Siralmas sors jutott minden embernek, nehéz iga nehezedik Ádám fiaira, attól a naptól, hogy kijönnek az anyaméhből, egészen a napig, amikor visszatérnek az egyetemes anyához."
+  },
+  {
+    "i": 27151,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 2,
+    "t": "Gondolataik tárgya, szívük félelme a halál napjának szorongó várakozása."
+  },
+  {
+    "i": 27152,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 3,
+    "t": "Attól kezdve, aki a trónon ül dicsőségben, egészen a nyomorultig, aki a földön és a hamuban ül,"
+  },
+  {
+    "i": 27153,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 4,
+    "t": "attól kezdve, aki bíbort és koronát visel, egészen addig, aki durva ruhába van öltözve, ez csupán düh, irigység, nyugtalanság, aggodalom, halálfélelem, versengés és viszálykodás."
+  },
+  {
+    "i": 27154,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 5,
+    "t": "És abban az órában, amikor lefekszünk pihenni, az éjszakai álom csak a gondokat változtatja:"
+  },
+  {
+    "i": 27155,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 6,
+    "t": "alighogy pihenésre leltünk, máris, alvás közben, mintha fényes nappal lenne, rémálmok gyötörnek, mint egy menekülőben, aki elmenekült a harcból."
+  },
+  {
+    "i": 27156,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 7,
+    "t": "A szabadulás pillanatában felébredünk, teljesen meglepődve, hogy félelmünk hiábavaló."
+  },
+  {
+    "i": 27157,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 8,
+    "t": "Minden test számára, az embertől a vadállatig, de a bűnösök számára hétszeresen,"
+  },
+  {
+    "i": 27158,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 9,
+    "t": "halál, vér, viszály és kard, szerencsétlenségek, éhínség, szorongatás, csapás!"
+  },
+  {
+    "i": 27159,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 10,
+    "t": "Mindez a bűnösöknek teremtetett, és miattuk jött az özönvíz."
+  },
+  {
+    "i": 27160,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 11,
+    "t": "Minden, ami a földről jön, visszatér a földre, és ami a vízből jön, visszatér a tengerbe."
+  },
+  {
+    "i": 27161,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 12,
+    "t": "A kenőpénz és az igazságtalanság eltűnik, de a jóhiszeműség örökké megmarad."
+  },
+  {
+    "i": 27162,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 13,
+    "t": "A rosszul szerzett gazdagság elillan, mint egy patak, mint a mennydörgés, amely zápor közben tör ki."
+  },
+  {
+    "i": 27163,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 14,
+    "t": "Amikor kinyitja a kezét, örül, így pusztulnak a bűnösök."
+  },
+  {
+    "i": 27164,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 15,
+    "t": "Az istentelenek sarjai ágakban szegények, a tisztátalan gyökerek csak kopár sziklát találnak."
+  },
+  {
+    "i": 27165,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 16,
+    "t": "A nád, amely minden vízen bőségesen terem és a folyóparton, először tépetik ki."
+  },
+  {
+    "i": 27166,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 17,
+    "t": "A szeretet olyan, mint az áldás paradicsoma, és az alamizsna örökké megmarad."
+  },
+  {
+    "i": 27167,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 18,
+    "t": "A független embernek és a munkásnak édes az élete; még jobb helyzetben van az, aki kincset talál."
+  },
+  {
+    "i": 27168,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 19,
+    "t": "A gyermekek és az alapított város fenntartják a nevet; még jobban értékelik a feddhetetlen asszonyt."
+  },
+  {
+    "i": 27169,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 20,
+    "t": "A bor és a művészetek örömet hoznak a szívnek; még jobb a bölcsesség szeretete."
+  },
+  {
+    "i": 27170,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 21,
+    "t": "A fuvola és a citera feldobja az éneket; még jobb a dallamos hang."
+  },
+  {
+    "i": 27171,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 22,
+    "t": "A kegy és a szépség, a szem kívánja, még jobb a mezők zöldje."
+  },
+  {
+    "i": 27172,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 23,
+    "t": "A barát és a pajtás jókor találkoznak; még jobb a nő és a férfi."
+  },
+  {
+    "i": 27173,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 24,
+    "t": "A testvérek és a védelmezők hasznosak a rossz napokban; még jobb az alamizsna kimenti az embert a bajból."
+  },
+  {
+    "i": 27174,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 25,
+    "t": "Az arany és az ezüst szilárd lépteket biztosít; még jobban értékelik a tanácsot."
+  },
+  {
+    "i": 27175,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 26,
+    "t": "A gazdagság és az erő biztos szívet ad; még jobb az Úr félelme. Az Úr félelmével semmi sem hiányzik; vele nem kell támaszt keresni."
+  },
+  {
+    "i": 27176,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 27,
+    "t": "Az Úr félelme az áldás paradicsoma; jobban véd, mint minden dicsőség."
+  },
+  {
+    "i": 27177,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 28,
+    "t": "Fiam, ne élj koldusságból, jobb meghalni, mint koldulni."
+  },
+  {
+    "i": 27178,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 29,
+    "t": "Az ember, aki más asztalára kacsintgat, életét nem lehet életnek nevezni. Idegen ételekkel szennyezi be a torkát, egy tanult és jól nevelt ember óvakodik ettől."
+  },
+  {
+    "i": 27179,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 30,
+    "t": "A szemtelen szájának édes a koldulás, de a belsejében égető tűz van."
+  },
+  {
+    "i": 27180,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 1,
+    "t": "Ó, halál, mily keserű a te gondolatod a boldog embernek, aki javai közepette él, a derűs embernek, akinek minden sikerül, és aki még ízlelheti az étket!"
+  },
+  {
+    "i": 27181,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 2,
+    "t": "Ó, halál, üdvözlendő a te ítéleted a nyomorult embernek, aki erejéből kifogyott, az elaggott vénnek, akit aggodalmak gyötörnek, lázadozik és türelmetlen."
+  },
+  {
+    "i": 27182,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 3,
+    "t": "Ne rettegj a halál ítéletétől, emlékezz azokra, akik előtted voltak, és azokra, akik utánad jönnek."
+  },
+  {
+    "i": 27183,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 4,
+    "t": "Ez a törvény, amelyet az Úr rendelt minden testre; miért lázadj a Felséges jóakarata ellen? Ha tíz évet élsz, száz évet, ezer évet, a seolban nem vetik szemedre az életed."
+  },
+  {
+    "i": 27184,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 5,
+    "t": "Gonosz gyermekek, ilyenek a bűnösök fiai, akik a gonoszok házait járják."
+  },
+  {
+    "i": 27185,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 6,
+    "t": "A bűnösök fiainak öröksége romlásba dől, utódaik állandó gyalázat tárgyai."
+  },
+  {
+    "i": 27186,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 7,
+    "t": "A gonosz atyát gyalázzák gyermekei, mert tőle származik a becstelenség."
+  },
+  {
+    "i": 27187,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 8,
+    "t": "Jaj nektek, gonoszok, akik elhagytátok a Felséges Isten törvényét!"
+  },
+  {
+    "i": 27188,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 9,
+    "t": "Ha megsokasodtok, a pusztulásra vagytok: ha születtek, az átokra születtetek; és ha meghaltok, az átok lesz a ti részetek."
+  },
+  {
+    "i": 27189,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 10,
+    "t": "Minden, ami a földből való, visszatér a földbe, így mennek a gonoszok az átoktól a romlásba."
+  },
+  {
+    "i": 27190,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 11,
+    "t": "Az emberek gyásza a holttestüknek szól, de a bűnösök átkozott neve eltűnik."
+  },
+  {
+    "i": 27191,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 12,
+    "t": "Viselj gondot a nevedre, mert az sokkal jobb marad neked, mint ezer arany vagyon."
+  },
+  {
+    "i": 27192,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 13,
+    "t": "A boldog élet bizonyos számú napig tart, de a tisztelt név örökké megmarad."
+  },
+  {
+    "i": 27193,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 14,
+    "t": "Fiaim, tartsátok meg békében az én tanításaimat. Rejtett bölcsesség és láthatatlan kincs, mire jók mind a ketten?"
+  },
+  {
+    "i": 27194,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 15,
+    "t": "Jobb az az ember, aki elrejti a bolondságát, mint az az ember, aki elrejti a bölcsességét."
+  },
+  {
+    "i": 27195,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 16,
+    "t": "Így tehát érezzétek a szégyent aszerint, amit mondani fogok, mert nem jó mindenféle szégyenhez alkalmazkodni, és nem minden becsültetik pontosan mindenki által."
+  },
+  {
+    "i": 27196,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 17,
+    "t": "Szégyelld a kicsapongást apa és anya előtt, és a hazugságot főnök és hatalmas előtt;"
+  },
+  {
+    "i": 27197,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 18,
+    "t": "a bűntettet bíró és elöljáró előtt, és a gonoszságot a nép gyülekezete előtt; a hűtlenséget társ vagy barát előtt"
+  },
+  {
+    "i": 27198,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 19,
+    "t": "és a lopást a te falud előtt; Isten igazságát és a szövetséget, az asztalnál való könyöklést, a sértést a kapásban vagy az adásban,"
+  },
+  {
+    "i": 27199,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 20,
+    "t": "a válasz nélkül maradást azok előtt, akik köszöntenek téged, a tekinteted megállítását egy prostituálton,"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16600,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 17,
+    "t": "Să rămână ele numai pentru tine, și nu pentru străini împreună cu tine!"
+  },
+  {
+    "i": 16601,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 18,
+    "t": "Binecuvântat să fie izvorul tău! Găsește-ți bucuria în soția tinereții tale:"
+  },
+  {
+    "i": 16602,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 19,
+    "t": "Cerboaică dragă, căprioară grațioasă! Sânii ei să te îmbete în tot timpul, fii mereu aprins de dragostea ei!"
+  },
+  {
+    "i": 16603,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 20,
+    "t": "Pentru ce, fiul meu, să te lași ademenit de o străină și să îmbrățișezi sânul unei necunoscute?"
+  },
+  {
+    "i": 16604,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 21,
+    "t": "Căci ochii lui Iahve observă căile omului și veghează asupra tuturor cărărilor sale."
+  },
+  {
+    "i": 16605,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 22,
+    "t": "Cel rău este prins în propriile sale nelegiuiri, în lanțurile păcatului său este capturat."
+  },
+  {
+    "i": 16606,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 23,
+    "t": "Va muri din lipsă de disciplină, prin excesul nebuniei sale se va rătăci."
+  },
+  {
+    "i": 16607,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 1,
+    "t": "Fiul meu, dacă te-ai pus chezaș pentru aproapele tău, dacă ai dat mâna în favoarea unui străin,"
+  },
+  {
+    "i": 16608,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 2,
+    "t": "dacă te-ai legat prin cuvintele gurii tale, dacă ești prins de cuvintele gurii tale,"
+  },
+  {
+    "i": 16609,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 3,
+    "t": "fă dar aceasta, fiul meu, ca să scapi, fiindcă ai căzut în mâinile aproapelui tău: du-te, prosternează-te, importunează-l pe aproapele tău,"
+  },
+  {
+    "i": 16610,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 4,
+    "t": "nu da somn ochilor tăi, nici odihnă pleoapelor tale,"
+  },
+  {
+    "i": 16611,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 5,
+    "t": "scapă ca gazela din laț, sau ca pasărea din mâna vânătorului."
+  },
+  {
+    "i": 16612,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 6,
+    "t": "Mergi la furnică, leneșule! Observă obiceiurile ei și devino înțelept:"
+  },
+  {
+    "i": 16613,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 7,
+    "t": "ea, care nu are nici magistrat, nici supraveghetor, nici șef,"
+  },
+  {
+    "i": 16614,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 8,
+    "t": "în timpul verii își asigură proviziile și adună, la vremea secerișului, hrana sa."
+  },
+  {
+    "i": 16615,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 9,
+    "t": "Până când, leneșule, vei rămâne culcat? Când te vei ridica din somnul tău?"
+  },
+  {
+    "i": 16616,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 10,
+    "t": "Puțin somn, puțin ațipit, puțin a încrucișa brațele ca să te întinzi,"
+  },
+  {
+    "i": 16617,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 11,
+    "t": "și, ca un hoț, va veni sărăcia, și lipsa ca un cerșetor."
+  },
+  {
+    "i": 16618,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 12,
+    "t": "Un ticălos, un om nelegiuit, merge cu gura strâmbă,"
+  },
+  {
+    "i": 16619,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 13,
+    "t": "clipind din ochi, târând picioarele, făcând semne cu degetele."
+  },
+  {
+    "i": 16620,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 14,
+    "t": "Cu vicleșug în inimă, cugetând răul în orice anotimp, stârnește certuri."
+  },
+  {
+    "i": 16621,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 15,
+    "t": "De aceea, deodată va veni ruinarea lui, pe neașteptate va fi zdrobit, fără leac."
+  },
+  {
+    "i": 16622,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 16,
+    "t": "Șase lucruri sunt pe care le urăște Iahve, șapte care îi sunt o abominare:"
+  },
+  {
+    "i": 16623,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 17,
+    "t": "ochi trufași, o limbă mincinoasă, mâini care varsă sânge nevinovat,"
+  },
+  {
+    "i": 16624,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 18,
+    "t": "o inimă care cugetă planuri vinovate, picioare grabnice să alerge la rău,"
+  },
+  {
+    "i": 16625,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 19,
+    "t": "un martor mincinos care rostește minciuni, semănătorul de certuri între frați."
+  },
+  {
+    "i": 16626,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 20,
+    "t": "Păzește, fiul meu, porunca tatălui tău, nu lepăda învățătura mamei tale."
+  },
+  {
+    "i": 16627,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 21,
+    "t": "Fixează-le mereu în inima ta, leagă-le la gâtul tău."
+  },
+  {
+    "i": 16628,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 22,
+    "t": "În călătoriile tale te vor călăuzi, în repausul tău te vor păzi, la trezirea ta vor sta de vorbă cu tine."
+  },
+  {
+    "i": 16629,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 23,
+    "t": "Căci porunca este o lampă, învățătura o lumină; îndemnurile disciplinei sunt calea vieții,"
+  },
+  {
+    "i": 16630,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 24,
+    "t": "ca să te ferească de femeia rea, de limba mierosă a unei străine."
+  },
+  {
+    "i": 16631,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 25,
+    "t": "Nu pofti în inima ta frumusețea ei, nu te lăsa prins de privirile ei,"
+  },
+  {
+    "i": 16632,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 26,
+    "t": "căci prostituatei îi ajunge o bucată de pâine, dar femeia măritată râvnește la o viață prețioasă."
+  },
+  {
+    "i": 16633,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 27,
+    "t": "Poate cineva să poarte foc în sân fără să-și aprindă veșmintele?"
+  },
+  {
+    "i": 16634,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 28,
+    "t": "Poate cineva să umble pe cărbuni aprinși fără să-și ardă picioarele?"
+  },
+  {
+    "i": 16635,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 29,
+    "t": "Așa este cel care umblă după femeia aproapelui său: cine se încumetă nu va scăpa nepedepsit."
+  },
+  {
+    "i": 16636,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 30,
+    "t": "Nu este disprețuit hoțul care fură ca să-și sature stomacul când îi este foame;"
+  },
+  {
+    "i": 16637,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 31,
+    "t": "totuși, dacă este prins, va da înapoi de șapte ori, va da toate resursele casei sale."
+  },
+  {
+    "i": 16638,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 32,
+    "t": "Dar adulterul este lipsit de minte, cine vrea propria sa pierzare așa face!"
+  },
+  {
+    "i": 16639,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 33,
+    "t": "El culege lovituri și dispreț, niciodată nu se va șterge ocară lui."
+  },
+  {
+    "i": 16640,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 34,
+    "t": "Căci gelozia stârnește mânia soțului, în ziua răzbunării nu va avea milă,"
+  },
+  {
+    "i": 16641,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 35,
+    "t": "nu va ține seama de nicio compensație, nu va consimți la nimic, chiar dacă înmulțești darurile."
+  },
+  {
+    "i": 16642,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 1,
+    "t": "Fiul meu, păzește cuvintele mele, păstrează la tine poruncile mele."
+  },
+  {
+    "i": 16643,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 2,
+    "t": "Păzește poruncile mele și vei trăi, fie ca învățătura mea să fie ca lumina ochilor tăi."
+  },
+  {
+    "i": 16644,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 3,
+    "t": "Leagă-le de degetele tale, scrie-le pe tăblița inimii tale."
+  },
+  {
+    "i": 16645,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 4,
+    "t": "Spune înțelepciunii: \"Tu ești sora mea!\" Dă numele de rudă priceperii,"
+  },
+  {
+    "i": 16646,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 5,
+    "t": "ca să te păzească de femeia străină, de necunoscuta cu vorbe mieroase."
+  },
+  {
+    "i": 16647,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 6,
+    "t": "Pe când eram la fereastra locuinței mele, am privit prin zăbrele"
+  },
+  {
+    "i": 16648,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 7,
+    "t": "și am văzut, printre niște tineri neștiutori, am remarcat printre copii un băiat lipsit de minte."
+  },
+  {
+    "i": 16649,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 8,
+    "t": "Trecând pe alee, aproape de colțul unde se află ea, ajunge la drumul casei sale,"
+  },
+  {
+    "i": 16650,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 9,
+    "t": "la amurg, la căderea serii, în miezul nopții și al umbrei."
+  },
+  {
+    "i": 16651,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 10,
+    "t": "Și iată că o femeie vine în întâmpinarea lui, îmbrăcată ca o prostituată, cu falsitate în inimă."
+  },
+  {
+    "i": 16652,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 11,
+    "t": "Este îndrăzneață și insolentă; picioarele ei nu pot sta în casă."
+  },
+  {
+    "i": 16653,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 12,
+    "t": "Când pe stradă, când în piețe, la toate colțurile stă la pândă."
+  },
+  {
+    "i": 16654,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 13,
+    "t": "Îl apucă și îl sărută și cu un aer nerușinat îi spune:"
+  },
+  {
+    "i": 16655,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 14,
+    "t": "\"Aveam de oferit o jertfă de comuniune, mi-am împlinit juruințele astăzi,"
+  },
+  {
+    "i": 16656,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 15,
+    "t": "iată de ce am ieșit în întâmpinarea ta ca să te caut, și te-am găsit."
+  },
+  {
+    "i": 16657,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 16,
+    "t": "Mi-am acoperit divanul cu covoare, cu țesături brodate, cu stofă din Egipt,"
+  },
+  {
+    "i": 16658,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 17,
+    "t": "mi-am stropit patul cu smirnă, aloe și scorțișoară."
+  },
+  {
+    "i": 16659,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 18,
+    "t": "Vino! Să ne îmbătăm de dragoste până dimineața! Să ne desfătăm în voluptate!"
+  },
+  {
+    "i": 16660,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 19,
+    "t": "Căci nu este soț acasă: a plecat într-o călătorie îndepărtată,"
+  },
+  {
+    "i": 16661,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 20,
+    "t": "a luat sacul cu arginți, la lună plină se va întoarce acasă."
+  },
+  {
+    "i": 16662,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 21,
+    "t": "Prin multă convingere îl ademenește, prin farmecul mieros al buzelor sale îl atrage."
+  },
+  {
+    "i": 16663,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 22,
+    "t": "Îndată o urmează, ca un bou care merge la abator, ca un nebun mergând la supliciul cătușelor,"
+  },
+  {
+    "i": 16664,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 23,
+    "t": "până când o săgeată îi străpunge ficatul, ca pasărea care se aruncă în laț fără să știe că își pune viața în primejdie."
+  },
+  {
+    "i": 16665,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 24,
+    "t": "Acum, fiilor, ascultați-mă, dați atenție cuvintelor gurii mele:"
+  },
+  {
+    "i": 16666,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 25,
+    "t": "ca inima ta să nu se abată spre căile ei, nu te rătăci pe cărările ei,"
+  },
+  {
+    "i": 16667,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 26,
+    "t": "căci mulți sunt cei pe care i-a lovit de moarte și cei mai robuști au fost toți victimele ei."
+  },
+  {
+    "i": 16668,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 27,
+    "t": "Locuința ei este drumul spre șeol, panta spre curtea morților."
+  },
+  {
+    "i": 16669,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 1,
+    "t": "Înțelepciunea nu strigă oare? Priceperea nu își înalță oare glasul?"
+  },
+  {
+    "i": 16670,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 2,
+    "t": "În vârful înălțimilor care domină drumul, la intersecția drumurilor, ea se postează;"
+  },
+  {
+    "i": 16671,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 3,
+    "t": "lângă porți, la intrarea în cetate, pe căile de acces, ea strigă:"
+  },
+  {
+    "i": 16672,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 4,
+    "t": "\"Oameni! Pe voi vă chem, glasul meu se adresează copiilor oamenilor."
+  },
+  {
+    "i": 16673,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 5,
+    "t": "Simplilor! învățați meșteșugul, nerozilor, deveniți rezonabili."
+  },
+  {
+    "i": 16674,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 6,
+    "t": "Ascultați, am să vă spun lucruri importante, îmi deschid buzele ca să spun cuvinte drepte."
+  },
+  {
+    "i": 16675,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 7,
+    "t": "Adevărul îl proclamă gura mea, căci răul este abominabil buzelor mele."
+  },
+  {
+    "i": 16676,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 8,
+    "t": "Toate cuvintele gurii mele sunt drepte, în ele nimic fals, nici tortuos."
+  },
+  {
+    "i": 16677,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 9,
+    "t": "Toate sunt sincere pentru cine le înțelege, drepte pentru cine a găsit știința."
+  },
+  {
+    "i": 16678,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 10,
+    "t": "Luați disciplina mea și nu argint, știința mai degrabă decât aurul curat."
+  },
+  {
+    "i": 16679,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 11,
+    "t": "Căci înțelepciunea valorează mai mult decât perlele, și nimic din ceea ce se dorește nu o egalează."
+  },
+  {
+    "i": 16680,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 12,
+    "t": "\"Eu, Înțelepciunea, locuiesc cu iscusința și am știința judecății."
+  },
+  {
+    "i": 16681,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 13,
+    "t": "(Frica de Iahve este ura de rău). Urăsc mândria și aroganța, purtarea rea și gura mincinoasă."
+  },
+  {
+    "i": 16682,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 14,
+    "t": "Al meu este sfatul și priceperea, eu sunt înțelegerea, a mea este puterea!"
+  },
+  {
+    "i": 16683,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 15,
+    "t": "Prin mine domnesc regii și nobilii hotărăsc dreptatea;"
+  },
+  {
+    "i": 16684,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 16,
+    "t": "prin mine guvernează prinții și marii, judecătorii drepți."
+  },
+  {
+    "i": 16685,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 17,
+    "t": "Eu iubesc pe cei ce mă iubesc și cei ce mă caută cu sârguință mă găsesc."
+  },
+  {
+    "i": 16686,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 18,
+    "t": "La mine sunt bogăția și slava, bunurile statornice și dreptatea."
+  },
+  {
+    "i": 16687,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 19,
+    "t": "Rodul meu este mai bun decât aurul, decât aurul curat, iar produsele mele mai bune decât argintul curat."
+  },
+  {
+    "i": 16688,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 20,
+    "t": "Eu umblu pe calea dreptății, pe cărarea neprihănirii,"
+  },
+  {
+    "i": 16689,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 21,
+    "t": "pentru a da bunuri celor ce mă iubesc și a le umple vistieriile."
+  },
+  {
+    "i": 16690,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 22,
+    "t": "Iahve m-a creat, întâia roade a lucrării sale, înaintea lucrărilor sale cele mai vechi."
+  },
+  {
+    "i": 16691,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 23,
+    "t": "Din veșnicie am fost așezată, de la început, înainte de începutul pământului."
+  },
+  {
+    "i": 16692,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 24,
+    "t": "Când abisurile nu erau, am fost născută, când nu erau izvoarele cu ape abundente."
+  },
+  {
+    "i": 16693,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 25,
+    "t": "Înainte să fie întemeiați munții, înainte de dealuri, am fost născută;"
+  },
+  {
+    "i": 16694,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 26,
+    "t": "înainte să fi făcut pământul și câmpia și cele dintâi elemente ale lumii."
+  },
+  {
+    "i": 16695,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 27,
+    "t": "Când a întărit cerurile, eram acolo, când a trasat un cerc la suprafața abisului,"
+  },
+  {
+    "i": 16696,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 28,
+    "t": "când a condensat norii de sus, când s-au umflat izvoarele abisului,"
+  },
+  {
+    "i": 16697,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 29,
+    "t": "când a hotărât mării termenul ei — și apele nu-i vor trece marginea — când a trasat temeliile pământului,"
+  },
+  {
+    "i": 16698,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 30,
+    "t": "eram lângă el ca maestrul de lucrări, eram desfătarea lui, zi după zi, jucându-mă tot timpul înaintea lui,"
+  },
+  {
+    "i": 16699,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 31,
+    "t": "jucându-mă pe fața pământului său și găsindu-mi desfătarea printre fiii oamenilor."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 27100,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 20,
+    "t": "Non abbandonare il tuo cuore all'afflizione, ma respingila. Pensa alla tua fine."
+  },
+  {
+    "i": 27101,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 21,
+    "t": "Non dimenticarlo: non c'è ritorno, non saresti di alcun giovamento al morto e ti faresti del male."
+  },
+  {
+    "i": 27102,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 22,
+    "t": "«Ricorda la mia sentenza, che sarà anche la tua: io ieri, tu oggi!»"
+  },
+  {
+    "i": 27103,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 23,
+    "t": "Appena un morto riposa, lascia riposare la sua memoria, consolati di lui appena il suo spirito è partito."
+  },
+  {
+    "i": 27104,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 24,
+    "t": "La sapienza dello scriba si acquisisce nelle ore di ozio, e chi è libero da affari diventa saggio."
+  },
+  {
+    "i": 27105,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 25,
+    "t": "Come potrebbe diventare saggio chi guida l'aratro, la cui gloria è brandire il pungolo, che conduce buoi e non li abbandona al lavoro, e che parla solo di bestiame?"
+  },
+  {
+    "i": 27106,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 26,
+    "t": "Il suo cuore è occupato dai solchi che traccia e le sue veglie le passa a ingrassare giovenche."
+  },
+  {
+    "i": 27107,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 27,
+    "t": "Similmente tutti gli operai e gli artigiani che lavorano giorno e notte, coloro che fanno professione di incidere sigilli e che si sforzano di variarne il disegno; essi hanno a cuore di riprodurre bene il modello e vegliano per completare la loro opera."
+  },
+  {
+    "i": 27108,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 28,
+    "t": "Similmente il fabbro seduto presso l'incudine: osserva il lavoro del ferro; il vapore del fuoco gli rode la carne, nel calore della fornace si affatica; il rumore del martello lo assorda, ha gli occhi fissi sul suo modello; mette tutto il suo cuore nel fare bene il suo lavoro e passa le sue veglie a perfezionarlo."
+  },
+  {
+    "i": 27109,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 29,
+    "t": "Similmente il vasaio, seduto al suo lavoro, con i suoi piedi che fanno girare il suo tornio, senza sosta preoccupato della sua opera, tutti i suoi gesti sono contati;"
+  },
+  {
+    "i": 27110,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 30,
+    "t": "con il suo braccio impasta l'argilla, con i suoi piedi la costringe; mette il suo cuore nell'applicare bene la vernice e durante le sue veglie pulisce il focolare."
+  },
+  {
+    "i": 27111,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 31,
+    "t": "Tutte queste persone hanno riposto la loro fiducia nelle loro mani e ognuno è abile nel suo mestiere."
+  },
+  {
+    "i": 27112,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 32,
+    "t": "Senza di loro nessuna città potrebbe essere costruita, non ci si potrebbe né installare né viaggiare. Ma non si cerca di averli nel consiglio del popolo"
+  },
+  {
+    "i": 27113,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 33,
+    "t": "e nell'assemblea non hanno un rango elevato. Non occupano il seggio del giudice e non meditano sulla legge. Non brillano né per la loro cultura né per il loro giudizio, non li si trova occupati nei proverbi."
+  },
+  {
+    "i": 27114,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 34,
+    "t": "Ma essi assicurano una creazione eterna, e la loro preghiera ha per oggetto gli affari del loro mestiere. Diversamente avviene per colui che applica la sua anima e la sua meditazione alla legge dell'Altissimo."
+  },
+  {
+    "i": 27115,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 1,
+    "t": "Egli scruta la sapienza di tutti gli antichi, consacra i suoi ozi alle profezie."
+  },
+  {
+    "i": 27116,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 2,
+    "t": "Conserva i racconti degli uomini celebri, penetra nei meandri delle parabole."
+  },
+  {
+    "i": 27117,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 3,
+    "t": "Cerca il significato nascosto dei proverbi, si compiace dei segreti delle parabole."
+  },
+  {
+    "i": 27118,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 4,
+    "t": "Presta il suo servizio tra i grandi, lo si nota in presenza dei capi. Viaggia nei paesi stranieri, ha fatto esperienza del bene e del male tra gli uomini."
+  },
+  {
+    "i": 27119,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 5,
+    "t": "Fin dal mattino, con tutto il suo cuore, si rivolge al Signore, suo creatore; supplica in presenza dell'Altissimo, apre la bocca per la preghiera, supplica per i propri peccati."
+  },
+  {
+    "i": 27120,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 6,
+    "t": "Se tale è la volontà del Signore grande, sarà riempito dello spirito di intelligenza. Lui stesso spanderà le sue parole di sapienza, nella sua preghiera renderà grazie al Signore."
+  },
+  {
+    "i": 27121,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 7,
+    "t": "Acquisirà la rettitudine del giudizio e della conoscenza, mediterà i suoi misteri nascosti."
+  },
+  {
+    "i": 27122,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 8,
+    "t": "Farà apparire l'istruzione che ha ricevuto e metterà il suo orgoglio nella legge dell'alleanza del Signore."
+  },
+  {
+    "i": 27123,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 9,
+    "t": "Molti vanteranno la sua intelligenza e mai lo si dimenticherà. Il suo ricordo non si cancellerà, il suo nome vivrà di generazione in generazione."
+  },
+  {
+    "i": 27124,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 10,
+    "t": "Le nazioni proclameranno la sua sapienza e l'assemblea celebrerà le sue lodi."
+  },
+  {
+    "i": 27125,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 11,
+    "t": "Se vive a lungo il suo nome sarà più glorioso di mille altri, e se muore ciò gli basta."
+  },
+  {
+    "i": 27126,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 12,
+    "t": "Voglio ancora comunicare le mie riflessioni, di cui sono riempito come la luna nel suo pieno."
+  },
+  {
+    "i": 27127,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 13,
+    "t": "Ascoltatemi, figli miei pii, e crescete come la rosa piantata al bordo di un corso d'acqua."
+  },
+  {
+    "i": 27128,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 14,
+    "t": "Come l'incenso spandete un buon odore, fiorite come il giglio, date il vostro profumo, cantate un cantico, benedite il Signore per tutte le sue opere."
+  },
+  {
+    "i": 27129,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 15,
+    "t": "Magnificate il suo nome, pubblicate le sue lodi, con i vostri canti, sulle vostre cetre, e direte alla sua lode:"
+  },
+  {
+    "i": 27130,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 16,
+    "t": "Quanto sono magnifiche tutte le opere del Signore! Tutti i suoi ordini sono eseguiti puntualmente."
+  },
+  {
+    "i": 27131,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 17,
+    "t": "Non bisogna dire: Che cos'è questo? Perché questo? Tutto deve essere studiato a suo tempo. Alla sua parola l'acqua si ferma e si ammassano, alla sua voce si formano i serbatoi delle acque,"
+  },
+  {
+    "i": 27132,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 18,
+    "t": "sul suo ordine tutto ciò che desidera si compie, non c'è nessuno che arresti il suo gesto di salvezza."
+  },
+  {
+    "i": 27133,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 19,
+    "t": "Tutte le opere degli uomini sono davanti a lui, non è possibile sfuggire al suo sguardo;"
+  },
+  {
+    "i": 27134,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 20,
+    "t": "il suo sguardo si estende dall'eternità all'eternità, nulla è straordinario ai suoi occhi."
+  },
+  {
+    "i": 27135,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 21,
+    "t": "Non bisogna dire: Che cos'è questo? Perché questo? Poiché tutto è stato creato per un fine."
+  },
+  {
+    "i": 27136,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 22,
+    "t": "Come la sua benedizione ha ricoperto ogni cosa come un fiume e ha abbeverato la terra come un diluvio,"
+  },
+  {
+    "i": 27137,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 23,
+    "t": "allo stesso modo alle nazioni dà in sorte la sua collera, così ha mutato le acque in sale."
+  },
+  {
+    "i": 27138,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 24,
+    "t": "Se le sue vie sono unite per gli uomini pii, sono per i malvagi piene di ostacoli."
+  },
+  {
+    "i": 27139,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 25,
+    "t": "I beni sono stati creati per i buoni fin dal principio, e allo stesso modo, per i malvagi, i mali."
+  },
+  {
+    "i": 27140,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 26,
+    "t": "Ciò che è di prima necessità per la vita dell'uomo è l'acqua, il fuoco, il ferro e il sale, la farina di frumento, il latte e il miele, il succo della vite, l'olio e il vestito."
+  },
+  {
+    "i": 27141,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 27,
+    "t": "Tutto questo è un bene per i buoni, ma per i peccatori diventa un male."
+  },
+  {
+    "i": 27142,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 28,
+    "t": "Ci sono venti creati per il castigo e nella loro furia rafforzano i loro flagelli, all'ora della consumazione scatenano la loro violenza e saziano la furia del loro Creatore."
+  },
+  {
+    "i": 27143,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 29,
+    "t": "Il fuoco, la grandine, la fame e la morte, tutto questo è stato creato per il castigo."
+  },
+  {
+    "i": 27144,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 30,
+    "t": "I denti delle fiere, gli scorpioni e le vipere, la spada vendicatrice per la perdita degli empi,"
+  },
+  {
+    "i": 27145,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 31,
+    "t": "tutti si rallegrano di eseguire i suoi ordini, sono sulla terra pronti per il caso di bisogno, al momento venuto non infrangeranno la sua parola."
+  },
+  {
+    "i": 27146,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 32,
+    "t": "Perciò fin dall'inizio ero deciso, ho riflettuto e ho scritto:"
+  },
+  {
+    "i": 27147,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 33,
+    "t": "«Le opere del Signore sono tutte buone, dà il suo favore a chi ne ha bisogno, all'ora propizia."
+  },
+  {
+    "i": 27148,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 34,
+    "t": "Non bisogna dire: «Questo è peggiore di quello!», poiché tutto a suo tempo sarà riconosciuto buono."
+  },
+  {
+    "i": 27149,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 35,
+    "t": "E ora di tutto cuore, a piena bocca, cantate e benedite il nome del Signore!»"
+  },
+  {
+    "i": 27150,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 1,
+    "t": "Una sorte penosa è stata fatta a tutti gli uomini, un giogo pesante grava sui figli di Adamo, dal giorno in cui escono dal seno materno fino al giorno del loro ritorno alla madre universale."
+  },
+  {
+    "i": 27151,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 2,
+    "t": "L'oggetto delle loro riflessioni, la paura del loro cuore, è l'attesa ansiosa del giorno della loro morte."
+  },
+  {
+    "i": 27152,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 3,
+    "t": "Da colui che siede su un trono, nella gloria, fino al misero seduto sulla terra e sulla cenere,"
+  },
+  {
+    "i": 27153,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 4,
+    "t": "da colui che indossa la porpora e la corona fino a colui che è vestito di stoffa grossolana, non è che furore, invidia, turbamento, inquietudine, paura della morte, rivalità e litigi."
+  },
+  {
+    "i": 27154,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 5,
+    "t": "E all'ora in cui, distesi, ci si riposa, il sonno della notte non fa che variare le preoccupazioni:"
+  },
+  {
+    "i": 27155,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 6,
+    "t": "appena si è trovato il riposo che subito, dormendo, come in pieno giorno, si è agitati da incubi, come un fuggitivo scappato dal combattimento."
+  },
+  {
+    "i": 27156,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 7,
+    "t": "Al momento della liberazione ci si sveglia, sorpresi che la propria paura sia vana."
+  },
+  {
+    "i": 27157,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 8,
+    "t": "Per ogni carne, dall'uomo alla bestia, ma per i peccatori, al settuplo,"
+  },
+  {
+    "i": 27158,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 9,
+    "t": "la morte, il sangue, il litigio e la spada, sventure, fame, tribolazione, calamità!"
+  },
+  {
+    "i": 27159,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 10,
+    "t": "Tutto questo è stato creato per i peccatori, ed è a causa loro che venne il diluvio."
+  },
+  {
+    "i": 27160,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 11,
+    "t": "Tutto ciò che viene dalla terra ritorna alla terra, e ciò che viene dall'acqua fa ritorno al mare."
+  },
+  {
+    "i": 27161,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 12,
+    "t": "Le mazzette e le ingiustizie scompariranno, ma la buona fede durerà eternamente."
+  },
+  {
+    "i": 27162,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 13,
+    "t": "Le ricchezze mal acquisite svaniranno come un torrente, come il colpo di tuono che scoppia durante l'acquazzone."
+  },
+  {
+    "i": 27163,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 14,
+    "t": "Quando apre le mani si rallegra, così i peccatori andranno in rovina."
+  },
+  {
+    "i": 27164,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 15,
+    "t": "I rampolli degli empi sono poveri di rami, le radici impure non trovano che aspro roccia."
+  },
+  {
+    "i": 27165,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 16,
+    "t": "La canna che abbonda su tutte le acque e sui bordi del fiume sarà sradicata per prima."
+  },
+  {
+    "i": 27166,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 17,
+    "t": "La carità è come un paradiso di benedizione e l'elemosina dimora per sempre."
+  },
+  {
+    "i": 27167,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 18,
+    "t": "L'uomo indipendente e il lavoratore hanno la vita dolce; meglio ancora chi trova un tesoro."
+  },
+  {
+    "i": 27168,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 19,
+    "t": "Dei figli e una città fondata perpetuano un nome; meglio ancora si apprezza una donna irreprensibile."
+  },
+  {
+    "i": 27169,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 20,
+    "t": "Il vino e le arti mettono la gioia nel cuore; meglio ancora l'amore della sapienza."
+  },
+  {
+    "i": 27170,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 21,
+    "t": "Il flauto e la cetra abbelliscono il canto; meglio ancora una voce melodiosa."
+  },
+  {
+    "i": 27171,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 22,
+    "t": "Grazia e bellezza, l'occhio le desidera, meglio ancora il verde dei campi."
+  },
+  {
+    "i": 27172,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 23,
+    "t": "Amico e compagno si incontrano al momento buono; meglio ancora la donna e l'uomo."
+  },
+  {
+    "i": 27173,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 24,
+    "t": "Fratelli e protettori sono utili nei giorni cattivi; meglio ancora l'elemosina tira d'impaccio."
+  },
+  {
+    "i": 27174,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 25,
+    "t": "L'oro e l'argento rendono il passo fermo; meglio ancora si stima il consiglio."
+  },
+  {
+    "i": 27175,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 26,
+    "t": "La ricchezza e la forza danno un cuore sicuro; meglio ancora il timore del Signore. Con il timore del Signore nulla manca; con esso non si deve cercare appoggio."
+  },
+  {
+    "i": 27176,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 27,
+    "t": "Il timore del Signore è un paradiso di benedizione; meglio di ogni gloria protegge."
+  },
+  {
+    "i": 27177,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 28,
+    "t": "Figlio mio, non vivere di mendicità, meglio morire che mendicare."
+  },
+  {
+    "i": 27178,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 29,
+    "t": "L'uomo che guarda di sottecchi alla tavola altrui, la sua vita non si può considerare una vita. Si imbratta la gola di cibi stranieri, un uomo istruito e ben educato se ne guarderà."
+  },
+  {
+    "i": 27179,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 30,
+    "t": "Alla bocca dell'impudente la mendicità è dolce, ma alle sue viscere è un fuoco bruciante."
+  },
+  {
+    "i": 27180,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 1,
+    "t": "O Morte, quanto è amara la tua memoria all'uomo che vive in pace tra i suoi beni, all'uomo sereno a cui tutto riesce e che può ancora gustare il cibo!"
+  },
+  {
+    "i": 27181,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 2,
+    "t": "O Morte, la tua sentenza è benvenuta all'uomo misero e privo di forze, al vecchio consunto, agitato da affanni, ribelle e giunto al limite della sopportazione!"
+  },
+  {
+    "i": 27182,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 3,
+    "t": "Non temere l'editto della morte, ricorda coloro che ti hanno preceduto e coloro che ti seguiranno."
+  },
+  {
+    "i": 27183,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 4,
+    "t": "Questa è la legge che il Signore ha promulgato su ogni carne; perché ribellarsi al beneplacito dell'Altissimo? Che tu viva dieci anni, cento anni, mille anni, nello sheol non ti si rimprovererà la tua vita."
+  },
+  {
+    "i": 27184,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 5,
+    "t": "Gagliardi furfanti, tali sono i figli dei peccatori, coloro che infestano le case degli empi."
+  },
+  {
+    "i": 27185,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 6,
+    "t": "L'eredità dei figli dei peccatori va in rovina, la loro posterità è oggetto di continuo biasimo."
+  },
+  {
+    "i": 27186,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 7,
+    "t": "Un padre empio è insultato dai suoi figli, poiché è da lui che essi traggono il disonore."
+  },
+  {
+    "i": 27187,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 8,
+    "t": "Guai a voi, empi, che avete abbandonato la legge del Dio Altissimo!"
+  },
+  {
+    "i": 27188,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 9,
+    "t": "Se vi moltiplicate, è per la perdizione; se siete generati, lo sarete per la maledizione; e se morite, la maledizione sarà la vostra parte."
+  },
+  {
+    "i": 27189,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 10,
+    "t": "Tutto ciò che viene dalla terra ritorna alla terra, così vanno gli empi dalla maledizione alla rovina."
+  },
+  {
+    "i": 27190,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 11,
+    "t": "Il lutto degli uomini si rivolge alle loro spoglie, ma il nome maledetto dei peccatori si cancella."
+  },
+  {
+    "i": 27191,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 12,
+    "t": "Abbi cura del tuo nome, poiché ti resterà di gran lunga meglio di mille fortune in oro."
+  },
+  {
+    "i": 27192,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 13,
+    "t": "Una vita felice dura un certo numero di giorni, ma un nome onorato dimora in eterno."
+  },
+  {
+    "i": 27193,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 14,
+    "t": "Figli miei, custodite in pace i miei insegnamenti. Sapienza nascosta e tesoro invisibile, a che servono l'uno e l'altro?"
+  },
+  {
+    "i": 27194,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 15,
+    "t": "Meglio un uomo che nasconde la sua follia che un uomo che nasconde la sua saggezza."
+  },
+  {
+    "i": 27195,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 16,
+    "t": "Dunque provate vergogna secondo ciò che sto per dire, poiché non è bene piegarsi a ogni specie di vergogna e non tutto è esattamente apprezzato da tutti."
+  },
+  {
+    "i": 27196,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 17,
+    "t": "Vergognatevi della dissolutezza davanti a un padre e a una madre e della menzogna davanti a un capo e a un potente;"
+  },
+  {
+    "i": 27197,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 18,
+    "t": "del delitto davanti a un giudice e a un magistrato e dell'empietà davanti all'assemblea del popolo; della perfidia davanti a un compagno o un amico"
+  },
+  {
+    "i": 27198,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 19,
+    "t": "e del furto davanti al tuo villaggio; della verità di Dio e dell'alleanza, del piegare i gomiti a tavola, dell'affronto nel ricevere o nel dare,"
+  },
+  {
+    "i": 27199,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 20,
+    "t": "del restare senza risposta davanti a coloro che ti salutano, del fissare lo sguardo su una prostituta,"
+  }
+]

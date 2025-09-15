@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13300,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 2,
+    "t": "Dokdyž mne budete trápiti a mluvami svými mne k zkáze přivoditi?"
+  },
+  {
+    "i": 13301,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 3,
+    "t": "Již po desáté mne jste potupili, a nestydíte se mi zle činiti."
+  },
+  {
+    "i": 13302,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 4,
+    "t": "A bych i bloudil, mně samému bloudění mé zůstává."
+  },
+  {
+    "i": 13303,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 5,
+    "t": "Jestliže se zajisté vy nad mnou vyvyšujete, a hanbu mou mi vytýkáte,"
+  },
+  {
+    "i": 13304,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 6,
+    "t": "Věztež, že Bůh mne podvrátil, a sítí svou mne ohradil."
+  },
+  {
+    "i": 13305,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 7,
+    "t": "Aj, křičím násilí, a neslýchám; volám, a není soudu."
+  },
+  {
+    "i": 13306,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 8,
+    "t": "Ohradil cestu mou, abych jí nemohl přejíti, a na stezkách mých tmu uvalil."
+  },
+  {
+    "i": 13307,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 9,
+    "t": "Slávu mou se mne svlékl, a sňal korunu s hlavy mé."
+  },
+  {
+    "i": 13308,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 10,
+    "t": "Zkazil mne všudy vůkol, a hynu; a vyvrátil jako strom naději mou."
+  },
+  {
+    "i": 13309,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 11,
+    "t": "Rozpálil se proti mně hněvem svým, a počítá mne za nepřítele svého."
+  },
+  {
+    "i": 13310,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 12,
+    "t": "Společně vojska jeho přicházejí, a dělají sobě cestu proti mně, a vůkol stanu mého se rozkládají."
+  },
+  {
+    "i": 13311,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 13,
+    "t": "Bratry mé vzdálil ode mne, a známí moji jako cizí se mi ukazují."
+  },
+  {
+    "i": 13312,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 14,
+    "t": "Příbuzní moji oustali, a známí moji zapomenuli mne."
+  },
+  {
+    "i": 13313,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 15,
+    "t": "Hosté domu mého, a děvky mé mají mne za cizího, jsemť cizozemec v očích jejich."
+  },
+  {
+    "i": 13314,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 16,
+    "t": "Zavolám na služebníka svého, a neodpoví mi; ústy svými musím ho prositi."
+  },
+  {
+    "i": 13315,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 17,
+    "t": "Dech můj protiví se ženě mé, a úpěnlivá modlitba má synům břicha mého."
+  },
+  {
+    "i": 13316,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 18,
+    "t": "I maličcí mne pohrdají, povstav na mne, mluví proti mně."
+  },
+  {
+    "i": 13317,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 19,
+    "t": "Ohavnosti se mne štítí všickni důvěrníci moji, a ti, které jsem nejvíce miloval, obrátili se proti mně."
+  },
+  {
+    "i": 13318,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 20,
+    "t": "Kosti mé přilnuly k kůži mé a k tělu mému, a umdlel jsem, že mi toliko rty zůstaly."
+  },
+  {
+    "i": 13319,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 21,
+    "t": "Smilujte se, smilujte se nade mnou, přátelé moji; nebo ruka Boží dotkla se mne."
+  },
+  {
+    "i": 13320,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 22,
+    "t": "Proč mne protivenstvím pronásledujete jako Bůh, a masem mým se nenasytíte?"
+  },
+  {
+    "i": 13321,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 23,
+    "t": "Ó bych tak zapsány byly řeči mé, ó bych v knize vtištěny byly,"
+  },
+  {
+    "i": 13322,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 24,
+    "t": "Železem a olovem věčně do skály vytesány byly!"
+  },
+  {
+    "i": 13323,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 25,
+    "t": "Jáť vím, že Vykupitel můj živ jest, a že v den nejposlednější z prachu se zdvihne."
+  },
+  {
+    "i": 13324,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 26,
+    "t": "A po kůži mé, kteroužto červi zkazí, z těla svého uzřím Boha."
+  },
+  {
+    "i": 13325,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 27,
+    "t": "Kteréhož já sám sobě uzřím, a oči mé spatří, a ne jiný. Ledví mé umdlévá ve mně."
+  },
+  {
+    "i": 13326,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 28,
+    "t": "Protož dím: Proč jej protivenstvím pronásledujeme? Kořen věci nalezen jest ve mně."
+  },
+  {
+    "i": 13327,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 29,
+    "t": "Bojte se meče; neboť prchlivost jest pomsta nepravosti, abyste věděli, že jest soud."
+  },
+  {
+    "i": 13328,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 1,
+    "t": "Tedy odpověděl Sofar Naamatitský a řekl:"
+  },
+  {
+    "i": 13329,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 2,
+    "t": "Protož myšlení má mně odpovídají, a protož spěchám."
+  },
+  {
+    "i": 13330,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 3,
+    "t": "Lekcí hanby své poslouchám, a duch rozumnosti mé odpovídá mi."
+  },
+  {
+    "i": 13331,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 4,
+    "t": "Zdaliž to nevíš, že od začátku, jakž položen jest člověk na zemi,"
+  },
+  {
+    "i": 13332,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 5,
+    "t": "Že plesání bezbožných krátké jest, a radost pokrytcova toliko na okamžení?"
+  },
+  {
+    "i": 13333,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 6,
+    "t": "Byť se i vznesla k nebi vysokost jeho, a hlava jeho dosáhla oblaků,"
+  },
+  {
+    "i": 13334,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 7,
+    "t": "Jako hnoj vždycky zhyne, a ti, kteříž ho viděli, řeknou: Kde jest?"
+  },
+  {
+    "i": 13335,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 8,
+    "t": "Jako sen odletí, a nenalezne se; a rozplyne se jako vidění noční."
+  },
+  {
+    "i": 13336,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 9,
+    "t": "Oko, kteréž ho vídalo, neuzří ho více, aniž ho uzří více místo jeho."
+  },
+  {
+    "i": 13337,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 10,
+    "t": "Synové jeho uspokojí chudé, a ruce jeho navrátí to, co zlou mocí uchvátil."
+  },
+  {
+    "i": 13338,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 11,
+    "t": "Kosti jeho plné byly mladosti jeho, i s ním v prachu ležeti budou."
+  },
+  {
+    "i": 13339,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 12,
+    "t": "Jestliže by sladké bylo v ústech jeho zlé, a skrýval by je pod jazykem svým,"
+  },
+  {
+    "i": 13340,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 13,
+    "t": "Šetřil by ho, a neopouštěl by ho, a zdržoval by je u prostředku hrdla svého,"
+  },
+  {
+    "i": 13341,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 14,
+    "t": "Jídlo jeho v břiše jeho obrátí se, žlučí aspisovou bude vnitřku jeho."
+  },
+  {
+    "i": 13342,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 15,
+    "t": "Bohatství, kteréž pojedl, vyvrhne; Bůh zase z břicha jeho je vyvrže."
+  },
+  {
+    "i": 13343,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 16,
+    "t": "Jed aspisové sál, jazyk zmije ho zabije."
+  },
+  {
+    "i": 13344,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 17,
+    "t": "Neuzří řečišť mastnosti, potoků medu a másla."
+  },
+  {
+    "i": 13345,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 18,
+    "t": "Navrátí robotu, a nebude ji požívati; podlé míry zboží navrátí ji, a nebude jí vesel."
+  },
+  {
+    "i": 13346,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 19,
+    "t": "Protože utlačoval, a opouštěl chudé, domy bral, kterýchž nebyl stavěl,"
+  },
+  {
+    "i": 13347,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 20,
+    "t": "Protože nepoznal pokoje v břiše svém, z žádosti své nic nezachová."
+  },
+  {
+    "i": 13348,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 21,
+    "t": "Nezůstalo nic z jídla jeho, protož nic dobrého trvati nebude."
+  },
+  {
+    "i": 13349,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 22,
+    "t": "V plnosti úzkost ho potře, každá ruka bídného přijde na něho."
+  },
+  {
+    "i": 13350,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 23,
+    "t": "Aby naplnil břicho své, Bůh pošle na něho prchlivost hněvu svého, a bude jištěti na něho, dokudž neprší naněj."
+  },
+  {
+    "i": 13351,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 24,
+    "t": "Uteče před zbrojí železnou, prostřelí ho luk měděný."
+  },
+  {
+    "i": 13352,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 25,
+    "t": "Vytáhne ji, a vyjde z těla, i blesk se z žluči jeho. Hrůzami jde na něho."
+  },
+  {
+    "i": 13353,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 26,
+    "t": "Všecka tma schovaná bude v skrýších jeho; sežere ho oheň nerozfukovaný, zle se povede pozůstalému v stanu jeho."
+  },
+  {
+    "i": 13354,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 27,
+    "t": "Nebe odkryje nepravost jeho, a země povstane proti němu."
+  },
+  {
+    "i": 13355,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 28,
+    "t": "Ujde úrodu domu jeho, rozplyne se v den hněvu jeho."
+  },
+  {
+    "i": 13356,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 29,
+    "t": "Toť jest díl člověka bezbožného od Boha, a dědictví uložené jemu od Boha."
+  },
+  {
+    "i": 13357,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 1,
+    "t": "Tedy odpověděl Job a řekl:"
+  },
+  {
+    "i": 13358,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 2,
+    "t": "Poslyšte bedlivě řeči mé, a to mi budiž potěšení ode vás."
+  },
+  {
+    "i": 13359,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 3,
+    "t": "Sneste mne, a budu já mluviti; a když domluvím, posmívejte se."
+  },
+  {
+    "i": 13360,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 4,
+    "t": "Zdaliž já člověka hledám? Což kdyby tak bylo, neměla-li by býti úzkost duši mé?"
+  },
+  {
+    "i": 13361,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 5,
+    "t": "Pohleďtež na mne, a užasněte se, a přiložte ruku na ústa svá."
+  },
+  {
+    "i": 13362,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 6,
+    "t": "Když bych já na to pamatoval, děsil bych se, a hrůza by uchvátila tělo mé."
+  },
+  {
+    "i": 13363,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 7,
+    "t": "Pročež bezbožní živi bývají, se starají, i zmužilejší bývají?"
+  },
+  {
+    "i": 13364,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 8,
+    "t": "Semeni jejich s nimi utvrzeno jest před obličejem jejich, a rod jejich před očima jejich."
+  },
+  {
+    "i": 13365,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 9,
+    "t": "Domy jejich mají pokoj od strachu, aniž metla Boží přijde na ně."
+  },
+  {
+    "i": 13366,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 10,
+    "t": "Býk jejich plodí, aniž umdlévá; kráva jejich rodí, aniž se mece."
+  },
+  {
+    "i": 13367,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 11,
+    "t": "Vypouštějí děti své jako ovce, a synové jejich poskakují."
+  },
+  {
+    "i": 13368,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 12,
+    "t": "Vezmou sobě buben a harfu, a veselí se při zvuku píšťaly."
+  },
+  {
+    "i": 13369,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 13,
+    "t": "V dobru docházejí dnů svých, a v okamžení do hrobu sstupují."
+  },
+  {
+    "i": 13370,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 14,
+    "t": "Kteříž říkají Bohu: Odejdiž od nás, a cest tvých znáti nechceme."
+  },
+  {
+    "i": 13371,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 15,
+    "t": "Co jest všemohoucí, abychom jemu sloužili? A jaký nám užitek z toho, abychom ho vzývali?"
+  },
+  {
+    "i": 13372,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 16,
+    "t": "Aj, v ruce jejich jest dobro jejich; rada bezbožných vzdálena jest ode mne."
+  },
+  {
+    "i": 13373,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 17,
+    "t": "Jak často svíce bezbožných zhasne, a přijde na ně bída, a bolestmi jim díl vyměří Bůh v hněvu svém?"
+  },
+  {
+    "i": 13374,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 18,
+    "t": "Budou jako plevy před větrem, a jako prach, kterýž vichřice uchvacuje."
+  },
+  {
+    "i": 13375,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 19,
+    "t": "Bůh schovává pro syny jeho trápení jeho. Nechť jemu samému odplatí, aby poznal."
+  },
+  {
+    "i": 13376,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 20,
+    "t": "Nechť oči jeho vidí zkázu jeho, a nechť pije z hněvu všemohoucího."
+  },
+  {
+    "i": 13377,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 21,
+    "t": "Nebo jaký mu zájem po něm o dům jeho, když se počet měsíců jeho vyplní?"
+  },
+  {
+    "i": 13378,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 22,
+    "t": "Zdaliž Boha učiti bude známosti, když on vysoké soudí?"
+  },
+  {
+    "i": 13379,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 23,
+    "t": "Jeden umírá v dokonalosti síly své, všecken pokoj a úlevu majíce;"
+  },
+  {
+    "i": 13380,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 24,
+    "t": "Jehož boky jsou obtloustlé tukem a morek kostí jeho vlhký jest."
+  },
+  {
+    "i": 13381,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 25,
+    "t": "Jiný pak umírá s hořkostí v duši, aniž okusil štěstí."
+  },
+  {
+    "i": 13382,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 26,
+    "t": "Spolu v prachu uléhají a červ je přikrývá."
+  },
+  {
+    "i": 13383,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 27,
+    "t": "Ó, dobře vím, jaké jsou vaše myšlenky, vaše zlé úvahy o mně."
+  },
+  {
+    "i": 13384,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 28,
+    "t": "„Kde je, pravíte, dům velmože, kde stan, v němž přebývali ničemníci?“"
+  },
+  {
+    "i": 13385,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 29,
+    "t": "Neptáte se cestujících, neznáte jejich svědectví?"
+  },
+  {
+    "i": 13386,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 30,
+    "t": "V den neštěstí je zlý ušetřen, v den hněvu je ukryt."
+  },
+  {
+    "i": 13387,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 31,
+    "t": "Kdo mu vytkne do očí jeho chování a odplatí mu za to, co učinil?"
+  },
+  {
+    "i": 13388,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 32,
+    "t": "Je odnesen na hřbitov, kde bdí nad svou mohylou."
+  },
+  {
+    "i": 13389,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 33,
+    "t": "Hroudy v údolí jsou mu sladké a za ním putuje veškerý lid."
+  },
+  {
+    "i": 13390,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 34,
+    "t": "Co tedy znamenají vaše marné útěchy? A jaká lest jsou vaše odpovědi!"
+  },
+  {
+    "i": 13391,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 1,
+    "t": "I promluvil Elifaz Temanský a řekl:"
+  },
+  {
+    "i": 13392,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 2,
+    "t": "Může-li člověk být užitečný Bohu, když rozumný člověk je užitečný jen sám sobě?"
+  },
+  {
+    "i": 13393,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 3,
+    "t": "Má snad Všemohoucí zájem o tvou spravedlnost, má snad prospěch z tvého bezúhonného chování?"
+  },
+  {
+    "i": 13394,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 4,
+    "t": "Je snad kvůli tvé zbožnosti, že tě kárá a že se s tebou soudí?"
+  },
+  {
+    "i": 13395,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 5,
+    "t": "Není to spíše pro tvou velikou zlobu, pro tvé bezmezné hříchy?"
+  },
+  {
+    "i": 13396,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 6,
+    "t": "Vymáhal jsi od svých bratří nespravedlivé zástavy, obral jsi o oděv ty, kdo jsou nazí;"
+  },
+  {
+    "i": 13397,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 7,
+    "t": "Opomněl jsi občerstvit žíznivého a odepřel jsi chléb hladovému;"
+  },
+  {
+    "i": 13398,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 8,
+    "t": "Vydal jsi zemi člověku silné ruky, aby se tam usadil oblíbenec;"
+  },
+  {
+    "i": 13399,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 9,
+    "t": "Poslal jsi vdovy s prázdnýma rukama zpět a zlomil jsi rámě sirotků."
+  }
+]

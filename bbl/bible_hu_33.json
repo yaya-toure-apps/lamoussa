@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3300,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 21,
+    "t": "Vigyen az Úrnak áldozati ajándékot a gyülekezés sátorának bejáratához, egy áldozati kost."
+  },
+  {
+    "i": 3301,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 22,
+    "t": "És a pap ezzel az áldozati kossal végezzen engesztelést az emberért az Úr előtt a vétke miatt, melyet elkövetett; és a vétke, melyet elkövetett, bocsánatot nyer."
+  },
+  {
+    "i": 3302,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 23,
+    "t": "Mikor bementek abba az országba, és ültettek valamilyen gyümölcsfát, tekintsétek annak gyümölcsét mintha a fitymája lenne. Három évig legyen az számotokra körülmetéletlen dolog, ne egyetek abból."
+  },
+  {
+    "i": 3303,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 24,
+    "t": "A negyedik évben minden gyümölcse szentelt legyen az Úr dicséretének ünnepén."
+  },
+  {
+    "i": 3304,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 25,
+    "t": "Az ötödik évben ehetitek annak gyümölcseit és arathattok magatoknak termést. Én vagyok az Úr, a ti Istenetek."
+  },
+  {
+    "i": 3305,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 26,
+    "t": "Ne egyetek semmit vérrel; ne gyakoroljatok sem jövendölést, sem varázslást."
+  },
+  {
+    "i": 3306,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 27,
+    "t": "Ne kerekítsétek le a hajatok szélét, és ne nyírjátok le a szakállatok szélét."
+  },
+  {
+    "i": 3307,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 28,
+    "t": "Ne vágjatok sebeket a testetekbe halottért, és ne tetováltassatok. Én vagyok az Úr."
+  },
+  {
+    "i": 3308,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 29,
+    "t": "Ne fertőzd meg a lányodat azzal, hogy paráználkodásra adod; így az ország ne paráználkodjon, és ne legyen egészen vérfertőző."
+  },
+  {
+    "i": 3309,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 30,
+    "t": "Tartsátok meg az én szombatjaimat, és tiszteljétek az én szentélyemet. Én vagyok az Úr."
+  },
+  {
+    "i": 3310,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 31,
+    "t": "Ne forduljatok a szellemekhez, és ne keressétek a jósokat, mert azok megfertőznek titeket. Én vagyok az Úr, a ti Istenetek."
+  },
+  {
+    "i": 3311,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 32,
+    "t": "Kelj fel a vén fej előtt, tiszteld az öregembert, és féld Istenedet. Én vagyok az Úr."
+  },
+  {
+    "i": 3312,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 33,
+    "t": "Ha egy idegen lakik veletek az országotokban, ne háborgassátok őt."
+  },
+  {
+    "i": 3313,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 34,
+    "t": "Az idegen, aki veletek lakik, olyan legyen számotokra, mint egy honfitárs, és szeresd őt, mint tenmagadat, mert idegenek voltatok Egyiptom országában. Én vagyok az Úr, a ti Istenetek."
+  },
+  {
+    "i": 3314,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 35,
+    "t": "Ne kövessetek el igazságtalanságot ítélkezésben, akár hosszmérték, súly vagy űrmérték dolgában."
+  },
+  {
+    "i": 3315,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 36,
+    "t": "Legyenek igaz mérlegeitek, igaz súlyaitok, igaz mértéketek, igaz véka. Én vagyok az Úr, a ti Istenetek, aki kihoztalak titeket Egyiptom országából."
+  },
+  {
+    "i": 3316,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 37,
+    "t": "Tartsátok meg minden törvényemet és minden szokásomat, cselekedjétek azokat. Én vagyok az Úr."
+  },
+  {
+    "i": 3317,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 1,
+    "t": "Szólt az Úr Mózesnek, mondván:"
+  },
+  {
+    "i": 3318,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 2,
+    "t": "Mondd meg Izráel fiainak: Bárki, akár izráelita, akár Izráelben lakó idegen, aki átadja fiát Moleknek, meg kell halnia. Az ország népe kövezze meg őt,"
+  },
+  {
+    "i": 3319,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 3,
+    "t": "én pedig ellenfordulok azzal az emberrel, és kiirtom őt népe közül, mert azzal, hogy átadta egyik fiát Moleknek, megfertőztette az én szentélyemet, és megszentségtelenítette az én szent nevemet."
+  },
+  {
+    "i": 3320,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 4,
+    "t": "Ha pedig az ország népe szemet huny afölött az ember fölött, mikor átadja egyik fiát Moleknek, és nem ölik meg őt,"
+  },
+  {
+    "i": 3321,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 5,
+    "t": "akkor én fordulok szembe azzal az emberrel és az ő nemzetségével. Kiirtom őket népük közül, őt is és mindazokat, akik őutána paráználkodni mennek Molek után."
+  },
+  {
+    "i": 3322,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 6,
+    "t": "Aki a szellemekhez és a jósokhoz fordul, hogy paráználkodjon utánuk, én szembe fordulok azzal az emberrel, és kiirtom őt népe közül."
+  },
+  {
+    "i": 3323,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 7,
+    "t": "Szenteljétek meg magatokat, hogy szentek legyetek, mert én vagyok az Úr, a ti Istenetek."
+  },
+  {
+    "i": 3324,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 8,
+    "t": "Tartsátok meg az én törvényeimet, és cselekedjétek azokat, mert én vagyok az Úr, aki megszentellek titeket."
+  },
+  {
+    "i": 3325,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 9,
+    "t": "Tehát: Aki szidalmazza apját vagy anyját, meg kell halnia. Mivel szidalmazta apját vagy anyját, vére rajta."
+  },
+  {
+    "i": 3326,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 10,
+    "t": "A férfi, aki paráznaságot követ el felebarátja feleségével, halállal lakoljon, ő és a vele paráználkodó."
+  },
+  {
+    "i": 3327,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 11,
+    "t": "A férfi, aki az apja feleségével hál, feltárta apja szemérmét. Mindketten halállal lakoljanak, vérük rajta."
+  },
+  {
+    "i": 3328,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 12,
+    "t": "A férfi, aki a menyével hál: mindketten halállal lakoljanak. Megfertőzték magukat, vérük rajta."
+  },
+  {
+    "i": 3329,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 13,
+    "t": "A férfi, aki egy férfival hál úgy, ahogy asszonnyal szoktak hálni: utálatosságot cselekedtek mindketten, halállal lakoljanak, vérük rajta."
+  },
+  {
+    "i": 3330,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 14,
+    "t": "A férfi, aki feleségül vesz egy asszonyt és annak anyját: vérfertőzés. Égessétek meg őt és azokat, hogy ne legyen nálatok vérfertőzés."
+  },
+  {
+    "i": 3331,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 15,
+    "t": "A férfi, aki állattal közösül: halállal lakoljon, és az állatot is öljétek meg."
+  },
+  {
+    "i": 3332,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 16,
+    "t": "Az asszony, aki valamilyen állathoz közeledik, hogy közösüljön vele: öljétek meg az asszonyt és az állatot. Halállal lakoljanak, vérük rajta."
+  },
+  {
+    "i": 3333,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 17,
+    "t": "A férfi, aki feleségül veszi a nővérét, az apja leányát vagy az anyja leányát: ha látja annak szemérmét, és az látja az ő szemérmét, gyalázatos dolog az. Irtsák ki őket népük szeme láttára, mert feltárta a nővére szemérmét, és hordozza bűne terhét."
+  },
+  {
+    "i": 3334,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 18,
+    "t": "A férfi, aki egy asszonnyal hál annak havi tisztulása alatt, és feltárja annak szemérmét: feltárta annak vére forrását, ő is feltárta vére forrását, azért mindketten kiirtassanak népük közül."
+  },
+  {
+    "i": 3335,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 19,
+    "t": "Ne tárd fel anyád nővérének a szemérmét, se apád nővérének a szemérmét. A saját húsát tárta fel, viseljék bűnük terhét."
+  },
+  {
+    "i": 3336,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 20,
+    "t": "A férfi, aki apai nagybátyjának a feleségével hál: feltárta annak szemérmét, viseljék bűnük terhét, és haljanak meg gyermektelenül."
+  },
+  {
+    "i": 3337,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 21,
+    "t": "A férfi, aki feleségül veszi a testvérének a feleségét: fertelmes dolog az, feltárta testvére szemérmét, haljanak meg gyermektelenül."
+  },
+  {
+    "i": 3338,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 22,
+    "t": "Tartsátok meg minden törvényemet, minden szokásomat, és cselekedjétek azokat; így ki nem vet titeket az az ország, ahová beviszlek titeket, hogy ott lakjatok."
+  },
+  {
+    "i": 3339,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 23,
+    "t": "Ne kövessétek azoknak a nemzeteknek a szokásait, amelyeket elűzök előletek, mert ők mindezt cselekedték, és én megutáltam őket."
+  },
+  {
+    "i": 3340,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 24,
+    "t": "Én mondtam nektek: 'Vegyetek birtokba az ő földjüket, én adom nektek birtokba, tejet és mézet folyó földet.' Én vagyok az Úr, a ti Istenetek, aki elkülönítettelek titeket ezektől a népektől."
+  },
+  {
+    "i": 3341,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 25,
+    "t": "Különítsétek el tehát a tiszta állatot a tisztátalantól, a tiszta madarat a tisztátalantól. Ne tegyétek magatokat utálatossá ezekkel az állatokkal, ezekkel a madarakkal, mindazzal, ami a földön csúszik-mászik: én elkülönítettem azokat tőletek, mint tisztátalanokat."
+  },
+  {
+    "i": 3342,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 26,
+    "t": "Legyetek szentek nekem, mert én, az Úr, szent vagyok, és elkülönítelek titeket mindezektől a népektől, hogy enyéim legyetek."
+  },
+  {
+    "i": 3343,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 27,
+    "t": "A férfi vagy a nő, aki közöttetek halottidéző vagy jós: halállal lakoljanak, kövezzétek meg őket, vérük rajta."
+  },
+  {
+    "i": 3344,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 1,
+    "t": "Szólt az Úr Mózesnek: Szólj a papoknak, Áron fiainak; mondd nekik: Senki se tegye magát tisztátalanná halott miatt a sajátjai között,"
+  },
+  {
+    "i": 3345,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 2,
+    "t": "kivéve a legközelebbi rokonát: anyját, apját, fiát, lányát, testvérét."
+  },
+  {
+    "i": 3346,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 3,
+    "t": "A szűz nővérét, aki közel rokon, mivel nem tartozott férfihoz, az miatt tisztátalanná teheti magát;"
+  },
+  {
+    "i": 3347,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 4,
+    "t": "egy férjes asszony miatt a sajátjai között ne tegye magát tisztátalanná: mert megfertőztetné magát."
+  },
+  {
+    "i": 3348,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 5,
+    "t": "Ne csináljanak kopaszságot a fejükön, ne borotválják le a szakálluk szélét, és ne ejtsenek sebeket a testükön."
+  },
+  {
+    "i": 3349,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 6,
+    "t": "Szentek legyenek az Istenüknek, és ne fertőztessék meg az Istenük nevét: mert ők viszik az Úrnak az ételáldozatot, Istenüknek eledelét, és szentségben kell lenniük."
+  },
+  {
+    "i": 3350,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 7,
+    "t": "Ne vegyenek feleségül paráznát, megfertőzött asszonyt, se olyat, akit a férje elkergetett, mert a pap szent az Istenének."
+  },
+  {
+    "i": 3351,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 8,
+    "t": "Úgy bánj vele, mint szenttel, mert ő ajánlja fel Istenednek az eledelt. Szent legyen az számodra, mert szent vagyok én, az Úr, aki megszentellek titeket."
+  },
+  {
+    "i": 3352,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 9,
+    "t": "Ha a pap ember lánya paráznaságot követ el, megfertőzteti apját, és tűzzel kell megégetni."
+  },
+  {
+    "i": 3353,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 10,
+    "t": "A pap pedig, aki kiemelkedik a testvérei közül, akinek a fejére öntették a kenet olaját, és aki megkapta a beiktatást azzal, hogy felöltötte a szent ruhákat, ne engedje el a haját, ne szaggassa meg a ruháit,"
+  },
+  {
+    "i": 3354,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 11,
+    "t": "ne menjen közel semmilyen halott holttestéhez, és ne tegye magát tisztátalanná sem az apja, sem az anyja miatt."
+  },
+  {
+    "i": 3355,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 12,
+    "t": "Ne menjen ki a szent helyről, hogy meg ne fertőztesse az Istenének szentélyét, mert önmagán hordozza az Istenének kenet olajának szentségét. Én vagyok az Úr."
+  },
+  {
+    "i": 3356,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 13,
+    "t": "Szűz lányt vegyen feleségül."
+  },
+  {
+    "i": 3357,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 14,
+    "t": "Özvegyet, elkergetett vagy paráznasággal megfertőzött asszonyt ne vegyen feleségül; csak egy szűz lányt vegyen a sajátjai közül feleségül:"
+  },
+  {
+    "i": 3358,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 15,
+    "t": "meg ne fertőztesse az ő utódait, mert én vagyok az Úr, aki megszenteltem őt."
+  },
+  {
+    "i": 3359,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 16,
+    "t": "Szólt az Úr Mózesnek, mondván:"
+  },
+  {
+    "i": 3360,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 17,
+    "t": "Szólj Áronnak, és mondd neki: Utódaid közül senki, nemzedékről nemzedékre, ne közeledjen Istenének eledelének felajánlásához, ha valamilyen fogyatékossága van."
+  },
+  {
+    "i": 3361,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 18,
+    "t": "Mert senki se közeledjen, ha valamilyen fogyatékossága van, akár vak, akár sánta, akár torz vagy elcsúfított ember,"
+  },
+  {
+    "i": 3362,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 19,
+    "t": "akinek a lába vagy a karja törött,"
+  },
+  {
+    "i": 3363,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 20,
+    "t": "púpos, törpe, szembeteg, ótvaros vagy gennyes sebes ember, vagy herélt."
+  },
+  {
+    "i": 3364,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 21,
+    "t": "Áron pap utódai közül senki se közeledhet az Úr ételáldozatának felajánlásához, ha valamilyen fogyatékossága van; fogyatékossága van, ne közeledjen Istenének eledelének felajánlásához."
+  },
+  {
+    "i": 3365,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 22,
+    "t": "Ehet az Istenének eledeléből, a legszentebb és a szent dolgokból,"
+  },
+  {
+    "i": 3366,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 23,
+    "t": "de ne menjen a függönyhöz, és ne közeledjen az oltárhoz; fogyatékossága van, és ne fertőztesse meg az én szent dolgaimat, mert én vagyok az Úr, aki megszenteltem azokat."
+  },
+  {
+    "i": 3367,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 24,
+    "t": "És Mózes elmondta ezt Áronnak, az ő fiainak és Izráel minden fiának."
+  },
+  {
+    "i": 3368,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 1,
+    "t": "Szólt az Úr Mózesnek, mondván:"
+  },
+  {
+    "i": 3369,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 2,
+    "t": "Szólj Áronnak és az ő fiainak: szenteljék magukat Izráel fiainak szent áldozataival, meg ne fertőztessék az én szent nevemet; miattam kell azt megszentelniük. Én vagyok az Úr."
+  },
+  {
+    "i": 3370,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 3,
+    "t": "Mondd meg nekik: Valaki a ti utódaitok közül, nemzedékről nemzedékre, tisztátalan állapotban közeledik azokhoz a szent áldozatokhoz, melyeket Izráel fiai szenteltek az Úrnak, az az ember kiirtatik én elől. Én vagyok az Úr."
+  },
+  {
+    "i": 3371,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 4,
+    "t": "Valaki Áron utódai közül leprás vagy folyásos, ne egyék a szent dolgokból, míg meg nem tisztul. Aki megérint mindent, amit egy holttest tett tisztátalanná, aki magömlést szenvedett,"
+  },
+  {
+    "i": 3372,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 5,
+    "t": "aki megérintett bármilyen kis állatot, és így tisztátalanná tette magát, vagy olyan embert, aki megfertőzte őt a saját tisztátalanságával, bármi is legyen az,"
+  },
+  {
+    "i": 3373,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 6,
+    "t": "röviden, aki ilyen érintkezésben volt, tisztátalan lesz estig, és nem ehet a szent dolgokból, csak azután, hogy vízzel megmosta a testét."
+  },
+  {
+    "i": 3374,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 7,
+    "t": "Napnyugtakor megtisztul, és ehet azután a szent dolgokból, mert az az ő eledele."
+  },
+  {
+    "i": 3375,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 8,
+    "t": "Ne egyék a magától elhullott vagy széttépett állatot, mert azzal tisztátalanságot szerezne magának. Én vagyok az Úr."
+  },
+  {
+    "i": 3376,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 9,
+    "t": "Tartsák meg az én rendeléseimet, és ne terheljék magukat bűnnel: meghalnának azzal, hogy megfertőztetik azokat, én vagyok az Úr, aki megszenteltem azokat."
+  },
+  {
+    "i": 3377,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 10,
+    "t": "Egyetlen laikus se egyék a szent dolgokból: sem a pap vendége, sem a bérelt szolgája ne egyék a szent dolgokból."
+  },
+  {
+    "i": 3378,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 11,
+    "t": "De ha egy pap pénzen vesz valakit, az ehet belőle, mint az, aki a házában született; ők ugyanis a saját eledeléből esznek."
+  },
+  {
+    "i": 3379,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 12,
+    "t": "Ha egy pap lánya laikusnak lesz a felesége, az nem ehet a szent felajánlásokból;"
+  },
+  {
+    "i": 3380,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 13,
+    "t": "De ha özvegygyé lett, vagy elvált, és nem volt gyermeke, visszatérhetett atyja házába, mint ifjúsága idején, akkor ehetett atyja ételéből. Idegen pedig abból ne egyék!"
+  },
+  {
+    "i": 3381,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 14,
+    "t": "Ha valaki tudatlanul eszik a szent dolgokból, fizessen a papnak a szent dolog értékével, és adjon hozzá annak ötödrészét!"
+  },
+  {
+    "i": 3382,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 15,
+    "t": "Ne szentségtelenítsék meg az Izráel fiai által az Úrnak szentelt áldozatokat!"
+  },
+  {
+    "i": 3383,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 16,
+    "t": "Mert ha megeszik, bűnt visznek magukra, melyért elégtételt kell fizetni, mert én vagyok az Úr, aki megszenteli azokat!"
+  },
+  {
+    "i": 3384,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 17,
+    "t": "Szólt az Úr Mózesnek, mondván:"
+  },
+  {
+    "i": 3385,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 18,
+    "t": "Szólj Áronnak és fiainak, és Izráel minden fiának, és mondd meg nekik: Izráel házából való minden ember, vagy a köztük lakó jövevény, aki fogadalomból vagy önkéntes áldozatból égőáldozatot visz az Úrnak,"
+  },
+  {
+    "i": 3386,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 19,
+    "t": "hogy kedves legyen, hibátlan hímmel áldozzék, akár marhával, akár juhval, akár kecskével!"
+  },
+  {
+    "i": 3387,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 20,
+    "t": "Semmit, amelyen fogyatkozás van, ne áldozzatok, mert azzal nem lesztek kedvesek!"
+  },
+  {
+    "i": 3388,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 21,
+    "t": "Ha valaki békeáldozatot áldozik az Úrnak fogadalomból, vagy önkéntes áldozatból, akár marhát, akár juhot, hibátlan legyen, hogy kedves legyen; semmi fogyatkozás ne legyen rajta!"
+  },
+  {
+    "i": 3389,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 22,
+    "t": "Vak, rokkant, csonka, fekélyes, viszketeg vagy varas állatot ne áldozzatok az Úrnak, és semmit azokból ne tegyetek az oltárra tűzáldozatul az Úrnak!"
+  },
+  {
+    "i": 3390,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 23,
+    "t": "Növekedésben vagy fogyatkozásban lévő marhát vagy juhot önkéntes áldozatnak eladhatsz, de fogadalomból ne áldozd azt!"
+  },
+  {
+    "i": 3391,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 24,
+    "t": "Amelynek heréi sérültek, zúzottak, repesztettek vagy metszettek, ne áldozzatok az Úrnak, és országotokban se cselekedjétek azt!"
+  },
+  {
+    "i": 3392,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 25,
+    "t": "Idegennek kezéből se vegyetek semmit ilyet, hogy áldozzatok a ti Isteneteknek eledelül, mert azoknak romlottsága van, fogyatkozás van rajta, nem lesznek kedvesek értetek!"
+  },
+  {
+    "i": 3393,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 26,
+    "t": "Szólt az Úr Mózesnek, mondván:"
+  },
+  {
+    "i": 3394,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 27,
+    "t": "Amikor megszületik a borjú, bárány vagy kecske, legyen hét napig anyja alatt, és a nyolcadik naptól kezdve kedves lesz tűzáldozatul az Úrnak!"
+  },
+  {
+    "i": 3395,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 28,
+    "t": "Akár tehenet, akár juhot, annak magzatával egy napon ne vágjatok le!"
+  },
+  {
+    "i": 3396,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 29,
+    "t": "Ha hálaáldozatot áldoztok az Úrnak, úgy áldozzátok, hogy kedvesek legyetek!"
+  },
+  {
+    "i": 3397,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 30,
+    "t": "Ugyanezen a napon kell megenni, ne hagyjatok belőle reggelig! Én vagyok az Úr!"
+  },
+  {
+    "i": 3398,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 31,
+    "t": "Tartsátok meg parancsolataimat, és cselekedjétek azokat! Én vagyok az Úr!"
+  },
+  {
+    "i": 3399,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 32,
+    "t": "Ne szentségtelenítsétek meg az én szent nevemet, hogy szent legyek Izráel fiai között! Én vagyok az Úr, aki megszentellek titeket!"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 19000,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 13,
+    "t": "Như mẹ an ủi con mình thể nào, Ta cũng sẽ an ủi các ngươi thể ấy; các ngươi sẽ được yên ủi tại Giê-ru-sa-lem!"
+  },
+  {
+    "i": 19001,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 14,
+    "t": "Các ngươi thấy điều đó, lòng các ngươi sẽ mừng rỡ, và xương cốt các ngươi sẽ nẩy nở như cỏ xanh. Bàn tay của Đức Giê-hô-va sẽ lộ ra cho tôi tớ Ngài, và cơn giận Ngài nghịch cùng kẻ thù nghịch Ngài."
+  },
+  {
+    "i": 19002,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 15,
+    "t": "Vì kìa, Đức Giê-hô-va sẽ đến trong lửa, xe cộ Ngài khác nào gió lốc, đặng trút cơn giận Ngài cách dữ tợn, và sự quở trách Ngài bằng ngọn lửa."
+  },
+  {
+    "i": 19003,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 16,
+    "t": "Vì Đức Giê-hô-va sẽ dùng lửa và gươm mà đoán phạt mọi xác thịt, và số người bị Đức Giê-hô-va giết sẽ nhiều thay."
+  },
+  {
+    "i": 19004,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 17,
+    "t": "Những kẻ làm mình ra thánh, làm mình cho thanh sạch đặng vào vườn, theo một người ở giữa, ăn thịt heo, vật gớm ghiếc và chuột, sẽ hết thảy bị diệt đi, Đức Giê-hô-va phán vậy; vì ta biết công việc và ý tưởng của chúng nó!"
+  },
+  {
+    "i": 19005,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 18,
+    "t": "Ta sẽ đến nhóm các nước và các thứ tiếng lại; chúng nó sẽ đến và thấy sự vinh hiển ta."
+  },
+  {
+    "i": 19006,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 19,
+    "t": "Ta sẽ lập một dấu lạ giữa chúng nó, và sai những kẻ thoát khỏi chúng nó đến các nước, tức là đến Ta-rê-si, Phun, Lút, Mê-séc, Rô-bân, và Tu-ban, đến các cù lao xa kia, là nơi chưa hề nghe danh tiếng ta, chưa hề thấy sự vinh hiển ta. Chúng nó sẽ rao truyền sự vinh hiển ta ra giữa các nước."
+  },
+  {
+    "i": 19007,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 20,
+    "t": "Đức Giê-hô-va phán: Chúng nó sẽ đem hết thảy anh em các ngươi từ mọi nước trở về trên ngựa, trên xe, trên võng, trên con la, và trên lạc đà, đặng dâng làm của lễ cho Đức Giê-hô-va tại núi thánh ta, tức là Giê-ru-sa-lem, như con cái Y-sơ-ra-ên thường đem của lễ trong đồ sạch vào nhà Đức Giê-hô-va vậy."
+  },
+  {
+    "i": 19008,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 21,
+    "t": "Đức Giê-hô-va phán: Ta cũng sẽ chọn trong chúng nó kẻ làm thầy tế lễ, kẻ làm người Lê-vi."
+  },
+  {
+    "i": 19009,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 22,
+    "t": "Đức Giê-hô-va phán: Vì trời mới và đất mới mà ta sẽ dựng nên, còn đứng vững trước mặt ta thể nào, thì dòng dõi và danh tánh các ngươi cũng sẽ còn lại thể ấy."
+  },
+  {
+    "i": 19010,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 23,
+    "t": "Đức Giê-hô-va phán: Từ mặt trăng mới đến mặt trăng mới, từ ngày Sa-bát đến ngày Sa-bát, mọi xác thịt sẽ đến thờ lạy ta."
+  },
+  {
+    "i": 19011,
+    "b": 22,
+    "c": 2466,
+    "r": 2466,
+    "o": 24,
+    "t": "Chúng nó sẽ ra và ngó xem những xác chết của những người đã phạm tội nghịch cùng ta; vì sâu chúng nó chẳng hề chết, lửa chúng nó chẳng hề tắt; chúng nó sẽ làm sự gớm ghiếc cho mọi xác thịt!"
+  },
+  {
+    "i": 19012,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 1,
+    "t": "Đây là lời của Giê-rê-mi, con trai của Hinh-kia, thuộc về những thầy tế lễ ở A-na-tốt, trong đất Bên-gia-min."
+  },
+  {
+    "i": 19013,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 2,
+    "t": "Lời Đức Giê-hô-va phán cùng người trong đời Giô-si-a, con trai của A-môn, vua Giu-đa, năm thứ mười ba đời vua đó."
+  },
+  {
+    "i": 19014,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 3,
+    "t": "Lời đó cũng phán cùng người trong đời Giê-hô-gia-kim, con trai của Giô-si-a, vua Giu-đa, cho đến hết năm thứ mười một đời Sê-đê-kia, con trai của Giô-si-a, vua Giu-đa, tức là cho đến khi dân Giê-ru-sa-lem bị bắt làm phu tù trong tháng năm."
+  },
+  {
+    "i": 19015,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 4,
+    "t": "Có lời Đức Giê-hô-va phán cùng ta như vầy:"
+  },
+  {
+    "i": 19016,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 5,
+    "t": "Trước khi ta tạo thành ngươi trong lòng mẹ, ta đã biết ngươi rồi; trước khi ngươi sanh ra, ta đã biệt riêng ngươi ra, lập ngươi làm tiên tri cho các nước."
+  },
+  {
+    "i": 19017,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 6,
+    "t": "Tôi thưa rằng: Ôi! Hỡi Chúa Giê-hô-va, tôi chẳng biết nói chi, vì tôi là con trẻ."
+  },
+  {
+    "i": 19018,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 7,
+    "t": "Nhưng Đức Giê-hô-va phán cùng ta rằng: Chớ nói: Tôi là con trẻ; vì ngươi sẽ đi khắp đến nơi ta sai ngươi đi, và sẽ nói mọi điều ta truyền cho ngươi."
+  },
+  {
+    "i": 19019,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 8,
+    "t": "Đừng sợ chúng nó, vì ta ở cùng ngươi đặng giải cứu ngươi, Đức Giê-hô-va phán vậy."
+  },
+  {
+    "i": 19020,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 9,
+    "t": "Đoạn, Đức Giê-hô-va giơ tay ra rờ miệng ta, và phán cùng ta rằng: Nầy, ta đã đặt lời ta trong miệng ngươi."
+  },
+  {
+    "i": 19021,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 10,
+    "t": "Ngày nay, ta lập ngươi trên các nước và các nước hầu cho ngươi nhổ, phá, hủy, đổ, xây và trồng."
+  },
+  {
+    "i": 19022,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 11,
+    "t": "Có lời Đức Giê-hô-va phán cùng ta rằng: Hỡi Giê-rê-mi, ngươi thấy gì? Ta thưa rằng: Tôi thấy một nhành cây hạnh."
+  },
+  {
+    "i": 19023,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 12,
+    "t": "Đức Giê-hô-va phán cùng ta rằng: Ngươi thấy phải lắm, vì ta coi chừng lời ta để làm trọn."
+  },
+  {
+    "i": 19024,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 13,
+    "t": "Lời Đức Giê-hô-va lại phán cùng ta lần thứ hai rằng: Ngươi thấy gì? Ta thưa rằng: Tôi thấy một cái nồi nấu nghiêng, từ hướng bắc lại."
+  },
+  {
+    "i": 19025,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 14,
+    "t": "Đức Giê-hô-va phán cùng ta rằng: Tai vạ sẽ từ phương bắc đổ ra trên hết thảy dân cư đất nầy."
+  },
+  {
+    "i": 19026,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 15,
+    "t": "Vì, nầy, ta sẽ gọi hết thảy họ hàng các nước phương bắc đến, Đức Giê-hô-va phán vậy. Các vua đó sẽ đến, mỗi người đặt ngai mình tại cửa thành Giê-ru-sa-lem, nghịch cùng hết thảy tường vách chung quanh nó, và nghịch cùng hết thảy thành của Giu-đa."
+  },
+  {
+    "i": 19027,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 16,
+    "t": "Ta sẽ lên án chúng nó về mọi điều ác chúng nó đã làm, vì chúng nó đã lìa bỏ ta, đốt hương cho các thần khác, và thờ lạy công việc tay mình làm."
+  },
+  {
+    "i": 19028,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 17,
+    "t": "Vậy, ngươi phải thắt lưng, đứng dậy, nói mọi điều ta truyền cho ngươi; đừng kinh hãi chúng nó, e ta khiến ngươi kinh hãi trước mặt chúng nó chăng."
+  },
+  {
+    "i": 19029,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 18,
+    "t": "Nầy, ngày nay ta lập ngươi nên thành vững bền, cột sắt, và tường đồng nghịch cùng cả đất nầy, nghịch cùng các vua Giu-đa, các quan trưởng nó, các thầy tế lễ, và dân thường trong đất."
+  },
+  {
+    "i": 19030,
+    "b": 23,
+    "c": 2501,
+    "r": 2501,
+    "o": 19,
+    "t": "Chúng nó sẽ đánh ngươi, nhưng không thắng được; vì ta ở cùng ngươi đặng giải cứu ngươi, Đức Giê-hô-va phán vậy."
+  },
+  {
+    "i": 19031,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 1,
+    "t": "Có lời Đức Giê-hô-va phán cùng ta rằng:"
+  },
+  {
+    "i": 19032,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 2,
+    "t": "Hãy đi kêu lớn vào tai Giê-ru-sa-lem rằng: Đức Giê-hô-va phán như vầy: Ta nhớ lại lòng nhân từ của ngươi lúc còn thơ ấu, tình yêu thương của ngươi lúc mới cưới, là khi ngươi đi theo ta trong đồng vắng, trong đất không gieo."
+  },
+  {
+    "i": 19033,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 3,
+    "t": "Y-sơ-ra-ên vốn là một vật thánh cho Đức Giê-hô-va, tức là trái đầu mùa của Ngài; hết thảy những kẻ ăn vật đó đều có tội, tai họa giáng trên chúng nó, Đức Giê-hô-va phán vậy."
+  },
+  {
+    "i": 19034,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 4,
+    "t": "Hỡi nhà Gia-cốp, các họ hàng của nhà Y-sơ-ra-ên ôi, hãy nghe lời Đức Giê-hô-va."
+  },
+  {
+    "i": 19035,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 5,
+    "t": "Đức Giê-hô-va phán như vầy: Tổ phụ các ngươi thấy ta có điều gì không công bình mà lìa xa ta, đi theo sự hư không, và trở nên hư không?"
+  },
+  {
+    "i": 19036,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 6,
+    "t": "Chúng nó không nói rằng: Đức Giê-hô-va, là Đấng đã đem chúng ta ra khỏi đất Ê-díp-tô, dẫn chúng ta qua đồng vắng, qua đất hoang vu và hố sâu, qua đất khô khan tối tăm, qua đất mà chẳng ai đi qua, và không có người ở, ở đâu?"
+  },
+  {
+    "i": 19037,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 7,
+    "t": "Ta đã đem các ngươi vào đất vườn, đặng ăn trái và vật tốt lành của nó; song khi các ngươi vào thì làm ô uế đất ta, và biến cơ nghiệp ta ra một vật gớm ghiếc."
+  },
+  {
+    "i": 19038,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 8,
+    "t": "Những thầy tế lễ không nói rằng: Đức Giê-hô-va ở đâu? Những kẻ cầm luật pháp không nhận biết ta; các quan trưởng nghịch cùng ta; các tiên tri nhân danh Ba-anh mà nói tiên tri, và đi theo những kẻ vô ích."
+  },
+  {
+    "i": 19039,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 9,
+    "t": "Vậy nên, ta còn cãi lý cùng các ngươi, Đức Giê-hô-va phán vậy, và sẽ cãi lý cùng con cháu các ngươi nữa."
+  },
+  {
+    "i": 19040,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 10,
+    "t": "Vì hãy qua các cù lao của Kít-tim mà xem, hãy sai người đến Kê-đa mà xét kỹ càng; hãy xem có việc nào giống như việc nầy đã hề xảy ra chăng."
+  },
+  {
+    "i": 19041,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 11,
+    "t": "Có dân nào đổi thần mình, dầu chẳng phải là thần chăng? Nhưng dân ta đã đổi sự vinh hiển mình lấy sự vô ích!"
+  },
+  {
+    "i": 19042,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 12,
+    "t": "Hỡi các từng trời, hãy lấy làm lạ về việc nầy, hãy kinh hãi và sững sờ đi, Đức Giê-hô-va phán vậy."
+  },
+  {
+    "i": 19043,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 13,
+    "t": "Vì dân ta đã phạm hai điều ác: Chúng nó đã lìa bỏ ta là nguồn nước sống, mà đào những hồ chứa nước, tức là những hồ nứt nẻ, chứa không được nước."
+  },
+  {
+    "i": 19044,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 14,
+    "t": "Y-sơ-ra-ên há là một tôi mọi, hay là con sanh trong nhà, sao nó lại bị cướp đoạt?"
+  },
+  {
+    "i": 19045,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 15,
+    "t": "Những sư tử tơ đã gầm thét, và kêu tiếng nghịch cùng nó. Chúng nó đã làm cho đất nó nên hoang vu, thành nó bị đốt, chẳng còn ai ở."
+  },
+  {
+    "i": 19046,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 16,
+    "t": "Chính con cái Nốp và Ta-pha-nê đã làm bể đầu ngươi."
+  },
+  {
+    "i": 19047,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 17,
+    "t": "Ấy chẳng phải tại ngươi lìa bỏ Giê-hô-va Đức Chúa Trời ngươi, khi Ngài dẫn ngươi trên đường, mà ngươi chuốc lấy điều đó sao?"
+  },
+  {
+    "i": 19048,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 18,
+    "t": "Vậy thì, vì sao ngươi đi sang Ê-díp-tô đặng uống nước Si-ho? Vì sao ngươi đi sang A-si-ri đặng uống nước sông Ơ-phơ-rát?"
+  },
+  {
+    "i": 19049,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 19,
+    "t": "Sự gian ác ngươi sẽ sửa phạt ngươi, sự bội nghịch ngươi sẽ trách móc ngươi. Khá biết và xem rằng lìa bỏ Giê-hô-va Đức Chúa Trời ngươi, không kính sợ ta, ấy là một điều dữ và cay đắng, Chúa Giê-hô-va vạn quân phán vậy."
+  },
+  {
+    "i": 19050,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 20,
+    "t": "Vì từ lâu ta đã bẻ gãy ách ngươi, đứt dây ngươi, và ngươi nói rằng: Ta sẽ không phục sự. Vả lại, trên mọi gò cao, dưới mọi cây xanh, ngươi nằm bò như con kỹ nữ."
+  },
+  {
+    "i": 19051,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 21,
+    "t": "Ta đã trồng ngươi như một cây nho tốt, chỉ là giống rất tốt. Sao ngươi hóa ra một cây nho rừng, sanh những trái lạ cho ta?"
+  },
+  {
+    "i": 19052,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 22,
+    "t": "Dầu ngươi rửa mình bằng thuốc kiềm, và dùng nhiều xà bông, vết nhơ ngươi vẫn còn trước mặt ta, Chúa Giê-hô-va phán vậy."
+  },
+  {
+    "i": 19053,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 23,
+    "t": "Sao ngươi nói rằng: Ta không bị ô uế, ta không đi theo các Ba-anh? Hãy xem đường lối ngươi trong trũng, hãy nhận biết việc mình đã làm. Ngươi khác nào con lạc đà tơ, chạy đây đó lung tung."
+  },
+  {
+    "i": 19054,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 24,
+    "t": "Ngươi như con lừa rừng quen ở đồng vắng; trong khi thèm khát, nó hớp gió. Ai có thể dằn cơn nóng nảy nó? Phàm kẻ nào tìm nó, chẳng cần nhọc công; sẽ gặp nó trong lúc nó đến kỳ."
+  },
+  {
+    "i": 19055,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 25,
+    "t": "Khá giữ chân ngươi, kẻo không dép, và cổ họng ngươi, kẻo khát. Song ngươi đáp rằng: Vô ích, ta không khứng đâu! Ta thương kẻ ngoại bang, ta sẽ đi theo chúng nó."
+  },
+  {
+    "i": 19056,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 26,
+    "t": "Kẻ trộm bị bắt lấy làm xấu hổ thể nào, thì nhà Y-sơ-ra-ên, vua, quan trưởng, thầy tế lễ, và tiên tri của chúng nó cũng sẽ xấu hổ thể ấy."
+  },
+  {
+    "i": 19057,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 27,
+    "t": "Chúng nó nói cùng cây cối rằng: Mầy là cha ta, và nói cùng đá rằng: Mầy đã sanh ta. Chúng nó xây lưng lại cùng ta, chớ không xây mặt. Nhưng trong khi tai họa chúng nó sẽ nói rằng: Hỡi Đức Giê-hô-va, xin hãy đứng dậy và cứu chúng tôi!"
+  },
+  {
+    "i": 19058,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 28,
+    "t": "Nhưng các thần mà ngươi đã làm cho mình đâu? Chúng nó hãy đứng dậy, nếu chúng nó có thể cứu ngươi trong lúc tai họa! Vì hỡi Giu-đa, các thần của ngươi đông như thành của ngươi vậy."
+  },
+  {
+    "i": 19059,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 29,
+    "t": "Sao các ngươi cãi lý cùng ta? Các ngươi hết thảy đều bội nghịch cùng ta, Đức Giê-hô-va phán vậy."
+  },
+  {
+    "i": 19060,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 30,
+    "t": "Ta đã đánh con cái các ngươi vô ích; chúng nó không chịu sửa dạy. Gươm của các ngươi đã nuốt các tiên tri mình như sư tử tàn hại."
+  },
+  {
+    "i": 19061,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 31,
+    "t": "Các ngươi, là dòng dõi nầy, khá xem lời Đức Giê-hô-va. Ta há là một đồng vắng cho Y-sơ-ra-ên, hay là một đất tối tăm sao? Sao dân ta nói rằng: Chúng ta tự do; chúng ta sẽ không đến cùng Chúa nữa?"
+  },
+  {
+    "i": 19062,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 32,
+    "t": "Gái đồng trinh há quên đồ trang sức mình, dâu há quên dây lưng sao? Nhưng dân ta đã quên ta, đã số ngày không nhớ đến!"
+  },
+  {
+    "i": 19063,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 33,
+    "t": "Sao ngươi sửa soạn đường lối mình đặng tìm sự yêu thương? Vậy nên, ngươi cũng dạy đường lối xấu của mình cho."
+  },
+  {
+    "i": 19064,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 34,
+    "t": "Ngay nơi vạt áo ngươi có thấy máu của linh hồn kẻ nghèo khó vô tội. Ngươi không thấy bắt chúng nó trộm mà giết; dầu vậy, ngươi vẫn làm mọi điều ấy."
+  },
+  {
+    "i": 19065,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 35,
+    "t": "Ngươi nói rằng: Ta vô tội, cơn giận Ngài hẳn lìa khỏi ta. Nầy, ta sẽ đoán phạt ngươi, vì ngươi nói rằng: Ta không phạm tội."
+  },
+  {
+    "i": 19066,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 36,
+    "t": "Sao ngươi đi lung tung đặng đổi đường mình như vậy? Ngươi sẽ bị Ê-díp-tô làm hổ ngươi, cũng như ngươi đã bị A-si-ri làm hổ ngươi."
+  },
+  {
+    "i": 19067,
+    "b": 23,
+    "c": 2502,
+    "r": 2502,
+    "o": 37,
+    "t": "Ngươi cũng sẽ từ đó đi ra, hai tay ôm đầu, vì Đức Giê-hô-va đã bỏ những kẻ mà ngươi tin cậy, ngươi sẽ không nhờ chúng nó được may mắn."
+  },
+  {
+    "i": 19068,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 1,
+    "t": "Nếu người nào bỏ vợ mình, rồi vợ lìa người, và làm vợ người khác, thì người chồng trước còn trở lại cùng vợ mình nữa sao? Đất đó há chẳng rất là ô uế sao? Đức Giê-hô-va phán: Ngươi đã gian dâm cùng nhiều kẻ yêu, nhưng hãy trở lại cùng ta!"
+  },
+  {
+    "i": 19069,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 2,
+    "t": "Hãy ngước mắt lên gò trọi mà xem; ngươi chưa bị ai hãm hiếp tại nơi nào? Ngươi ngồi bên đường, đón đợi chúng nó, khác nào người A-rạp trong đồng vắng; ngươi làm ô uế đất, bởi sự gian dâm và gian ác của mình."
+  },
+  {
+    "i": 19070,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 3,
+    "t": "Vậy nên, các trận mưa bị ngăn lại, mưa cuối mùa không có. Dầu vậy, ngươi còn có trán kỹ nữ, ngươi không chịu hổ ngươi."
+  },
+  {
+    "i": 19071,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 4,
+    "t": "Ngươi há chẳng từ bây giờ kêu ta rằng: Cha tôi ôi, Ngài là bạn của tôi từ thuở nhỏ sao?"
+  },
+  {
+    "i": 19072,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 5,
+    "t": "Ngài sẽ giận đời đời sao? Ngài sẽ giữ mãi cơn thạnh nộ sao? Nầy, ngươi nói như vậy mà làm những điều ác mình có thể làm."
+  },
+  {
+    "i": 19073,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 6,
+    "t": "Trong đời vua Giô-si-a, Đức Giê-hô-va phán cùng ta rằng: Ngươi có thấy Y-sơ-ra-ên bội nghịch đã làm gì chăng? Nó đi trên mọi núi cao, dưới mọi cây xanh, và ở đó gian dâm."
+  },
+  {
+    "i": 19074,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 7,
+    "t": "Ta nghĩ rằng sau khi nó đã làm mọi sự đó rồi, sẽ trở lại cùng ta; nhưng nó không trở lại. Giu-đa, là em gái nó hay việc đó."
+  },
+  {
+    "i": 19075,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 8,
+    "t": "Ta thấy rằng vì cớ Y-sơ-ra-ên bội nghịch phạm tội tà dâm, nên ta đã đuổi nó đi, và trao cho nó tờ ly dị; song Giu-đa, là em gái nó, không sợ, chính nó cũng đi gian dâm."
+  },
+  {
+    "i": 19076,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 9,
+    "t": "Và bởi cớ gian dâm nhẹ dạ, nó làm ô uế đất, phạm tội tà dâm cùng đá và cây."
+  },
+  {
+    "i": 19077,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 10,
+    "t": "Dầu vậy, em gái nó là Giu-đa bội nghịch, không hết lòng trở lại cùng ta, nhưng chỉ giả dối mà thôi, Đức Giê-hô-va phán vậy."
+  },
+  {
+    "i": 19078,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 11,
+    "t": "Đức Giê-hô-va phán cùng ta rằng: Y-sơ-ra-ên bội nghịch công bình hơn là Giu-đa bội nghịch."
+  },
+  {
+    "i": 19079,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 12,
+    "t": "Hãy đi rao các lời nầy về hướng bắc mà rằng: Hỡi Y-sơ-ra-ên bội nghịch, hãy trở lại, Đức Giê-hô-va phán vậy. Ta sẽ không làm mặt mình giận ngươi đâu, vì ta hay thương xót, Đức Giê-hô-va phán vậy; ta không giữ giận đời đời."
+  },
+  {
+    "i": 19080,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 13,
+    "t": "Hãy chỉ nhận lấy tội ngươi: ngươi đã phản nghịch lại Yavê Thiên Chúa của ngươi, ngươi đã chạy khắp nơi đến với những kẻ ngoại bang, dưới mọi cây xanh tươi, và các ngươi đã không nghe tiếng Ta, sấm ngôn của Yavê."
+  },
+  {
+    "i": 19081,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 14,
+    "t": "Hãy trở về, hỡi những đứa con bội phản - sấm ngôn của Yavê - vì Ta là Chủ của các ngươi. Ta sẽ chọn lấy các ngươi, một người từ một thành, hai người từ một gia đình, để dẫn các ngươi đến Sion."
+  },
+  {
+    "i": 19082,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 15,
+    "t": "Ta sẽ ban cho các ngươi những mục tử theo lòng Ta, là những người sẽ chăn dắt các ngươi bằng sự thông minh và khôn ngoan."
+  },
+  {
+    "i": 19083,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 16,
+    "t": "Và khi các ngươi đã sinh sôi nảy nở và sinh hoa trái trong xứ, trong những ngày đó - sấm ngôn của Yavê - người ta sẽ không còn nói: \"Hòm Bia Giao Ước của Yavê\" nữa; người ta sẽ không còn nghĩ đến nó, không còn nhớ đến nó, không còn bận tâm đến nó, người ta cũng sẽ không còn dựng một cái khác nữa."
+  },
+  {
+    "i": 19084,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 17,
+    "t": "Trong thời gian đó, người ta sẽ gọi Giêrusalem là: \"Ngai của Yavê\"; mọi dân tộc sẽ tuôn về đó, về danh Yavê, tại Giêrusalem, và chúng sẽ không còn theo sự ngoan cố của lòng xấu xa của chúng nữa."
+  },
+  {
+    "i": 19085,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 18,
+    "t": "Trong những ngày đó, nhà Giuđa sẽ đi đến nhà Israel; cùng nhau chúng sẽ đến từ miền đất phương Bắc, đến miền đất mà Ta đã ban cho tổ phụ các ngươi làm gia nghiệp."
+  },
+  {
+    "i": 19086,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 19,
+    "t": "Và Ta đã tự nhủ: Làm sao Ta đặt ngươi vào hàng con cái được? Ta sẽ ban cho ngươi một miền đất diễm lệ, cơ nghiệp quý giá nhất trong các dân tộc. Ta đã tự nhủ: Các ngươi sẽ gọi Ta là \"Cha Ta\" và các ngươi sẽ không lìa xa Ta."
+  },
+  {
+    "i": 19087,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 20,
+    "t": "Nhưng như một phụ nữ phản bội bạn mình, thì nhà Israel cũng đã phản bội Ta như vậy, sấm ngôn của Yavê."
+  },
+  {
+    "i": 19088,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 21,
+    "t": "Trên những ngọn đồi trọc, một tiếng kêu đã vang lên: tiếng khóc lóc và van xin của con cái Israel; vì chúng đã làm sai lạc đường lối của mình, đã quên Yavê Thiên Chúa của chúng. -"
+  },
+  {
+    "i": 19089,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 22,
+    "t": "Hãy trở về, hỡi những đứa con bội phản, Ta muốn chữa lành những sự bội phản của các ngươi! - Này chúng tôi đây, chúng tôi đến với Ngài, vì Ngài là Yavê Thiên Chúa của chúng tôi."
+  },
+  {
+    "i": 19090,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 23,
+    "t": "Thật vậy, những ngọn đồi chỉ là sự lừa dối, cũng như sự ồn ào của những ngọn núi. Thật vậy, chính trong Yavê Thiên Chúa của chúng ta mà có sự cứu rỗi của Israel."
+  },
+  {
+    "i": 19091,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 24,
+    "t": "Sự Ô nhục đã nuốt chửng công lao của cha ông chúng ta từ khi chúng ta còn trẻ, đàn gia súc nhỏ và lớn của họ, con trai và con gái của họ."
+  },
+  {
+    "i": 19092,
+    "b": 23,
+    "c": 2503,
+    "r": 2503,
+    "o": 25,
+    "t": "Chúng ta hãy nằm xuống trong sự ô nhục của chúng ta, để sự xấu hổ của chúng ta che phủ chúng ta! Vì chúng ta và tổ phụ chúng ta đã phạm tội chống lại Yavê Thiên Chúa của chúng ta, từ khi chúng ta còn trẻ cho đến ngày nay, và chúng ta đã không nghe tiếng Yavê Thiên Chúa của chúng ta. -"
+  },
+  {
+    "i": 19093,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 1,
+    "t": "Nếu ngươi trở về, hỡi Israel, sấm ngôn của Yavê, nếu ngươi trở về với Ta, nếu ngươi cất khỏi trước mặt Ta những Điều Ghê Tởm của ngươi, nếu ngươi không còn lang thang nữa,"
+  },
+  {
+    "i": 19094,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 2,
+    "t": "nếu ngươi nhân danh Yavê hằng sống mà thề, trong sự thật, sự ngay thẳng và công lý, thì các dân tộc sẽ chúc lành cho mình trong Ngài, trong Ngài chúng sẽ tôn vinh mình."
+  },
+  {
+    "i": 19095,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 3,
+    "t": "Vì Yavê phán như vầy với dân Giuđa và Giêrusalem: Hãy khai hoang đất hoang cho các ngươi, đừng gieo gì giữa bụi gai."
+  },
+  {
+    "i": 19096,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 4,
+    "t": "Hãy chịu cắt bì vì Yavê, hãy cắt bỏ lớp da quy đầu khỏi lòng các ngươi, hỡi dân Giuđa và cư dân Giêrusalem, nếu không cơn thịnh nộ của Ta sẽ bùng lên như lửa, nó sẽ thiêu đốt mà không ai dập tắt, vì sự gian ác trong hành động của các ngươi."
+  },
+  {
+    "i": 19097,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 5,
+    "t": "Hãy loan báo điều đó trong Giuđa, hãy công bố điều đó trong Giêrusalem, hãy nói điều đó! Hãy thổi kèn trong xứ, hãy kêu lớn tiếng và nói: Tập hợp lại! Hãy tiến chiếm các thành kiên cố!"
+  },
+  {
+    "i": 19098,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 6,
+    "t": "Hãy dựng một dấu hiệu ở Sion! Hãy trốn đi! Đừng dừng lại! Vì Ta đang giáng xuống một tai họa từ phương Bắc, một thảm họa khủng khiếp."
+  },
+  {
+    "i": 19099,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 7,
+    "t": "Sư tử đã lên khỏi hang ổ của nó, kẻ hủy diệt các dân tộc đã lên đường, nó đã ra khỏi nơi ở của nó để biến xứ của ngươi thành hoang địa; các thành của ngươi sẽ bị phá hủy và không còn dân cư."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 31600,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 32,
+    "t": "Envía, pues, a Jope y haz venir a Simón, el que tiene por sobrenombre Pedro; éste posa en casa de un curtidor llamado Simón, junto al mar."
+  },
+  {
+    "i": 31601,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 33,
+    "t": "Por tanto, al punto envié por ti; y tú has hecho bien en venir. Ahora, pues, todos nosotros estamos aquí en la presencia de Dios, para oír todo lo que Dios te ha mandado."
+  },
+  {
+    "i": 31602,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 34,
+    "t": "Entonces Pedro, abriendo su boca, dijo: \"En verdad comprendo que Dios no hace acepción de personas,"
+  },
+  {
+    "i": 31603,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 35,
+    "t": "sino que en toda nación se agrada del que le teme y obra justicia."
+  },
+  {
+    "i": 31604,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 36,
+    "t": "Dios envió mensaje a los hijos de Israel, anunciando la paz por medio de Jesucristo; éste es Señor de todos."
+  },
+  {
+    "i": 31605,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 37,
+    "t": "Vosotros sabéis lo que se divulgó por toda Judea, comenzando desde Galilea, después del bautismo que predicó Juan:"
+  },
+  {
+    "i": 31606,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 38,
+    "t": "cómo Dios ungió con el Espíritu Santo y con poder a Jesús de Nazaret, y éste anduvo haciendo bienes y sanando a todos los oprimidos por el diablo, porque Dios estaba con él."
+  },
+  {
+    "i": 31607,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 39,
+    "t": "Y nosotros somos testigos de todas las cosas que Jesús hizo en la tierra de Judea y en Jerusalén; a quien mataron colgándole en un madero."
+  },
+  {
+    "i": 31608,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 40,
+    "t": "A éste Dios le resucitó al tercer día, y le concedió que se manifestase;"
+  },
+  {
+    "i": 31609,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 41,
+    "t": "no a todo el pueblo, sino a los testigos que Dios había ordenado de antemano, a nosotros que comimos y bebimos con él después que resucitó de entre los muertos."
+  },
+  {
+    "i": 31610,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 42,
+    "t": "Y nos mandó que predicásemos al pueblo, y testificásemos que él es el que Dios ha puesto por Juez de vivos y muertos."
+  },
+  {
+    "i": 31611,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 43,
+    "t": "De éste dan testimonio todos los profetas, de que todos los que en él creyeren, recibirán perdón de pecados por su nombre."
+  },
+  {
+    "i": 31612,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 44,
+    "t": "Mientras aún hablaba Pedro estas palabras, el Espíritu Santo cayó sobre todos los que oían el discurso;"
+  },
+  {
+    "i": 31613,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 45,
+    "t": "y los fieles que eran de la circuncisión, los que habían venido con Pedro, se quedaron atónitos de que también sobre los gentiles se derramase el don del Espíritu Santo."
+  },
+  {
+    "i": 31614,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 46,
+    "t": "Porque les oían que hablaban en lenguas y que magnificaban a Dios. Entonces Pedro respondió:"
+  },
+  {
+    "i": 31615,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 47,
+    "t": "\"¿Puede acaso alguno impedir el agua, para que no sean bautizados éstos que han recibido el Espíritu Santo también como nosotros?"
+  },
+  {
+    "i": 31616,
+    "b": 50,
+    "c": 5210,
+    "r": 5210,
+    "o": 48,
+    "t": "Y mandó que fuesen bautizados en el nombre de Jesús el Cristo. Entonces le rogaron que se quedase con ellos por algunos días."
+  },
+  {
+    "i": 31617,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 1,
+    "t": "Oyeron entonces los apóstoles y los hermanos que estaban en Judea, que también los gentiles habían recibido la palabra de Dios."
+  },
+  {
+    "i": 31618,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 2,
+    "t": "Y cuando Pedro subió a Jerusalén, contendían contra él los que eran de la circuncisión,"
+  },
+  {
+    "i": 31619,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 3,
+    "t": "diciendo: \"¿Por qué has entrado en casa de hombres incircuncisos, y has comido con ellos?"
+  },
+  {
+    "i": 31620,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 4,
+    "t": "Entonces Pedro, comenzando, les explicó por orden lo sucedido, diciendo:"
+  },
+  {
+    "i": 31621,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 5,
+    "t": "\"Estaba yo en la ciudad de Jope orando, y vi en éxtasis una visión: un objeto que descendía, semejante a un gran lienzo, que bajaba del cielo suspendido de las cuatro puntas; y llegó hasta mí."
+  },
+  {
+    "i": 31622,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 6,
+    "t": "Cuando fijé en él los ojos y lo observé atentamente, vi los cuadrúpedos de la tierra, y las fieras, y los reptiles, y las aves del cielo."
+  },
+  {
+    "i": 31623,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 7,
+    "t": "Y oí una voz que me decía: Levántate, Pedro; mata y come."
+  },
+  {
+    "i": 31624,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 8,
+    "t": "Y dije: Señor, no; porque ninguna cosa común o inmunda ha entrado jamás en mi boca."
+  },
+  {
+    "i": 31625,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 9,
+    "t": "Entonces la voz me respondió del cielo por segunda vez: Lo que Dios ha limpiado, no lo llames tú común."
+  },
+  {
+    "i": 31626,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 10,
+    "t": "Y esto se hizo tres veces; y todo fue recogido de nuevo al cielo."
+  },
+  {
+    "i": 31627,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 11,
+    "t": "Y he aquí que al instante llegaron tres hombres a la casa donde yo estaba, enviados a mí desde Cesarea."
+  },
+  {
+    "i": 31628,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 12,
+    "t": "Y el Espíritu me dijo que fuese con ellos sin dudar. Y fueron también conmigo estos seis hermanos, y entramos en la casa del varón."
+  },
+  {
+    "i": 31629,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 13,
+    "t": "Y nos contó cómo había visto un ángel en su casa, que se puso en pie y le dijo: Envía a Jope y haz venir a Simón, el que tiene por sobrenombre Pedro;"
+  },
+  {
+    "i": 31630,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 14,
+    "t": "el cual te hablará palabras por las cuales serás salvo tú y toda tu casa."
+  },
+  {
+    "i": 31631,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 15,
+    "t": "Y cuando comencé a hablar, el Espíritu Santo cayó sobre ellos también, como sobre nosotros al principio."
+  },
+  {
+    "i": 31632,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 16,
+    "t": "Entonces me acordé de lo que el Señor había dicho: Juan ciertamente bautizó con agua, mas vosotros seréis bautizados con el Espíritu Santo."
+  },
+  {
+    "i": 31633,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 17,
+    "t": "Si, pues, Dios les concedió también el mismo don que a nosotros que hemos creído en el Señor Jesús el Cristo, ¿quién era yo que pudiese estorbar a Dios?"
+  },
+  {
+    "i": 31634,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 18,
+    "t": "Cuando oyeron estas cosas, callaron, y glorificaron a Dios, diciendo: \"¡De manera que también a los gentiles ha dado Dios arrepentimiento para vida!"
+  },
+  {
+    "i": 31635,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 19,
+    "t": "Ahora bien, los que fueron esparcidos a causa de la tribulación que sobrevino con motivo de Esteban, pasaron hasta Fenicia, y Chipre, y Antioquía, no hablando a nadie la palabra, sino solamente a los judíos."
+  },
+  {
+    "i": 31636,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 20,
+    "t": "Pero algunos de ellos eran varones chipriotas y cireneos, los cuales, cuando entraron en Antioquía, hablaron a los griegos, anunciando las buenas nuevas del Señor Jesús."
+  },
+  {
+    "i": 31637,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 21,
+    "t": "Y la mano del Señor estaba con ellos; y gran número creyó, y se convirtió al Señor."
+  },
+  {
+    "i": 31638,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 22,
+    "t": "Y llegó la noticia de esto a oídos de la iglesia que estaba en Jerusalén; y enviaron a Bernabé que fuese hasta Antioquía."
+  },
+  {
+    "i": 31639,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 23,
+    "t": "Este, cuando llegó, y vio la gracia de Dios, se regocijó; y exhortó a todos a que con propósito de corazón permaneciesen firmes en el Señor;"
+  },
+  {
+    "i": 31640,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 24,
+    "t": "porque era varón bueno, y lleno del Espíritu Santo y de fe; y gran número de personas fueron añadidas al Señor."
+  },
+  {
+    "i": 31641,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 25,
+    "t": "Después partió Bernabé para Tarso, a buscar a Saulo;"
+  },
+  {
+    "i": 31642,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 26,
+    "t": "y hallándole, le trajo a Antioquía. Y sucedió que por todo un año se congregaron con la iglesia, y enseñaron a un gran número de personas; y a los discípulos se les llamó cristianos por primera vez en Antioquía."
+  },
+  {
+    "i": 31643,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 27,
+    "t": "En aquellos días, unos profetas descendieron de Jerusalén a Antioquía."
+  },
+  {
+    "i": 31644,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 28,
+    "t": "Y levantándose uno de ellos, llamado Agabo, predijo por el Espíritu que habría una gran hambre en toda la tierra habitada; la cual ocurrió en tiempo de Claudio."
+  },
+  {
+    "i": 31645,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 29,
+    "t": "Entonces los discípulos, cada uno conforme a lo que tenía, determinaron enviar socorro a los hermanos que habitaban en Judea;"
+  },
+  {
+    "i": 31646,
+    "b": 50,
+    "c": 5211,
+    "r": 5211,
+    "o": 30,
+    "t": "lo cual hicieron, enviándolo a los ancianos por mano de Bernabé y de Saulo."
+  },
+  {
+    "i": 31647,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 1,
+    "t": "Por aquel tiempo, el rey Herodes echó mano a algunos de la iglesia para maltratarles."
+  },
+  {
+    "i": 31648,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 2,
+    "t": "E hizo matar a espada a Jacobo, hermano de Juan."
+  },
+  {
+    "i": 31649,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 3,
+    "t": "Y viendo que esto había agradado a los judíos, prosiguió a prender también a Pedro. Eran entonces los días de los Ázimos."
+  },
+  {
+    "i": 31650,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 4,
+    "t": "Y habiéndole prendido, le puso en la cárcel, entregándole a cuatro grupos de cuatro soldados cada uno, para que le custodiasen; queriendo sacarle al pueblo después de la Pascua."
+  },
+  {
+    "i": 31651,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 5,
+    "t": "Así que Pedro era custodiado en la cárcel; mas la iglesia hacía continua oración a Dios por él."
+  },
+  {
+    "i": 31652,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 6,
+    "t": "Y cuando Herodes le iba a sacar, aquella misma noche estaba Pedro durmiendo entre dos soldados, sujeto con dos cadenas; y los guardias delante de la puerta custodiaban la cárcel."
+  },
+  {
+    "i": 31653,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 7,
+    "t": "Y he aquí que se presentó un ángel del Señor, y resplandeció una luz en la cárcel; y golpeando a Pedro en el costado, le despertó, diciendo: \"¡Levántate aprisa!\" Y las cadenas cayeron de sus manos."
+  },
+  {
+    "i": 31654,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 8,
+    "t": "Y el ángel le dijo: \"Cíñete, y átate tus sandalias.\" Y lo hizo así. Y le dijo: \"Envuelve tu manto alrededor de ti, y sígueme."
+  },
+  {
+    "i": 31655,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 9,
+    "t": "Y saliendo, le seguía; y no sabía que era realidad lo que se hacía por medio del ángel, sino que pensaba que veía una visión."
+  },
+  {
+    "i": 31656,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 10,
+    "t": "Y habiendo pasado la primera y la segunda guardia, llegaron a la puerta de hierro que daba a la ciudad, la cual se les abrió por sí misma; y habiendo salido, continuaron por una calle, y al instante el ángel se apartó de él."
+  },
+  {
+    "i": 31657,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 11,
+    "t": "Entonces Pedro, volviendo en sí, dijo: \"Ahora entiendo en verdad que el Señor ha enviado su ángel, y me ha librado de la mano de Herodes, y de toda la expectación del pueblo de los judíos."
+  },
+  {
+    "i": 31658,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 12,
+    "t": "Y habiendo considerado esto, fue a casa de María, la madre de Juan, el que tenía por sobrenombre Marcos, donde muchos estaban reunidos orando."
+  },
+  {
+    "i": 31659,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 13,
+    "t": "Y llamando Pedro a la puerta del patio, salió una muchacha para escuchar, llamada Rode;"
+  },
+  {
+    "i": 31660,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 14,
+    "t": "la cual, cuando reconoció la voz de Pedro, de gozo no abrió la puerta, sino que corriendo adentro, anunció que Pedro estaba a la puerta."
+  },
+  {
+    "i": 31661,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 15,
+    "t": "Y ellos le dijeron: \"¡Estás loca!\" Pero ella aseguraba que así era. Entonces dijeron: \"¡Es su ángel!"
+  },
+  {
+    "i": 31662,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 16,
+    "t": "Mas Pedro perseveraba en llamar; y cuando abrieron, le vieron, y quedaron atónitos."
+  },
+  {
+    "i": 31663,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 17,
+    "t": "Pero él, haciéndoles con la mano señal de que callasen, les contó cómo el Señor le había sacado de la cárcel. Y dijo: \"Haced saber esto a Jacobo y a los hermanos.\" Y saliendo, se fue a otro lugar."
+  },
+  {
+    "i": 31664,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 18,
+    "t": "Cuando se hizo de día, hubo gran alboroto entre los soldados sobre qué había sido de Pedro."
+  },
+  {
+    "i": 31665,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 19,
+    "t": "Entonces Herodes, habiéndole buscado sin hallarle, después de interrogar a los guardias, mandó que fuesen llevados. Y descendiendo de Judea a Cesarea, se quedó allí."
+  },
+  {
+    "i": 31666,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 20,
+    "t": "Y estaba Herodes muy enojado contra los de Tiro y de Sidón. Pero éstos vinieron a él de común acuerdo, y después de haber persuadido a Blasto, camarero del rey, solicitaban la paz, por cuanto su territorio era abastecido por el del rey."
+  },
+  {
+    "i": 31667,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 21,
+    "t": "Y un día señalado, Herodes, vestido de ropas reales, se sentó en el tribunal y les arengó."
+  },
+  {
+    "i": 31668,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 22,
+    "t": "Y el pueblo aclamaba: \"¡Voz de dios, y no de hombre!"
+  },
+  {
+    "i": 31669,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 23,
+    "t": "Y al instante un ángel del Señor le hirió, por cuanto no dio la gloria a Dios; y espiró comido de gusanos."
+  },
+  {
+    "i": 31670,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 24,
+    "t": "Pero la palabra de Dios crecía y se multiplicaba."
+  },
+  {
+    "i": 31671,
+    "b": 50,
+    "c": 5212,
+    "r": 5212,
+    "o": 25,
+    "t": "Y Bernabé y Saulo, después de haber cumplido su ministerio, volvieron de Jerusalén, llevando consigo a Juan, el que tenía por sobrenombre Marcos."
+  },
+  {
+    "i": 31672,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 1,
+    "t": "Había entonces en la iglesia que estaba en Antioquía, profetas y maestros: Bernabé, Simón el que se llamaba Niger, Lucio Cireneo, Manaén el que había sido criado juntamente con Herodes el tetrarca, y Saulo."
+  },
+  {
+    "i": 31673,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 2,
+    "t": "Ministrando éstos al Señor y ayunando, dijo el Espíritu Santo: \"Apartadme a Bernabé y a Saulo para la obra a que los he llamado."
+  },
+  {
+    "i": 31674,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 3,
+    "t": "Entonces, habiendo ayunado y orado, les impusieron las manos, y los despidieron."
+  },
+  {
+    "i": 31675,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 4,
+    "t": "Ellos, pues, enviados por el Espíritu Santo, descendieron a Seleucia, y de allí navegaron a Chipre."
+  },
+  {
+    "i": 31676,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 5,
+    "t": "Y llegados a Salamina, anunciaban la palabra de Dios en las sinagogas de los judíos; y tenían también a Juan como ayudante."
+  },
+  {
+    "i": 31677,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 6,
+    "t": "Y habiendo atravesado toda la isla hasta Pafos, hallaron a un mago, falso profeta judío, llamado Barjesús,"
+  },
+  {
+    "i": 31678,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 7,
+    "t": "que estaba con el procónsul Sergio Paulo, varón entendido. Este, llamando a Bernabé y a Saulo, deseaba oír la palabra de Dios."
+  },
+  {
+    "i": 31679,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 8,
+    "t": "Pero Elimas el mago (pues así se traduce su nombre) se les oponía, procurando apartar de la fe al procónsul."
+  },
+  {
+    "i": 31680,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 9,
+    "t": "Entonces Saulo, que también es Pablo, lleno del Espíritu Santo, fijó en él sus ojos,"
+  },
+  {
+    "i": 31681,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 10,
+    "t": "y dijo: \"¡Oh, lleno de todo engaño y de toda maldad, hijo del diablo, enemigo de toda justicia! ¿No cesarás de torcer los caminos rectos del Señor?"
+  },
+  {
+    "i": 31682,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 11,
+    "t": "Ahora, pues, he aquí la mano del Señor está contra ti, y serás ciego, y no verás el sol por algún tiempo.\" Y al instante cayeron sobre él oscuridad y tinieblas; y andando alrededor, buscaba quien le condujese de la mano."
+  },
+  {
+    "i": 31683,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 12,
+    "t": "Entonces el procónsul, viendo lo que había acontecido, creyó, maravillado de la doctrina del Señor."
+  },
+  {
+    "i": 31684,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 13,
+    "t": "Habiendo zarpado de Pafos, Pablo y sus compañeros llegaron a Perge de Panfilia; pero Juan, apartándose de ellos, volvió a Jerusalén."
+  },
+  {
+    "i": 31685,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 14,
+    "t": "Ellos, pasando de Perge, llegaron a Antioquía de Pisidia; y entraron en la sinagoga un día de reposo y se sentaron."
+  },
+  {
+    "i": 31686,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 15,
+    "t": "Después de la lectura de la Ley y de los Profetas, los principales de la sinagoga mandaron a decirles: \"Varones hermanos, si tenéis alguna palabra de exhortación para el pueblo, decidla."
+  },
+  {
+    "i": 31687,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 16,
+    "t": "Entonces Pablo se levantó, y hecha señal con la mano, dijo: \"Varones israelitas, y los que teméis a Dios, oíd:"
+  },
+  {
+    "i": 31688,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 17,
+    "t": "El Dios de este pueblo de Israel escogió a nuestros padres, y exaltó al pueblo siendo ellos extranjeros en la tierra de Egipto, y con brazo en alto los sacó de ella."
+  },
+  {
+    "i": 31689,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 18,
+    "t": "Y por un tiempo como de cuarenta años los soportó en el desierto;"
+  },
+  {
+    "i": 31690,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 19,
+    "t": "y habiendo destruido siete naciones en la tierra de Canaán, les dio en herencia su territorio."
+  },
+  {
+    "i": 31691,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 20,
+    "t": "Después, como por cuatrocientos cincuenta años, les dio jueces hasta el profeta Samuel."
+  },
+  {
+    "i": 31692,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 21,
+    "t": "Entonces pidieron rey, y Dios les dio a Saúl hijo de Cis, varón de la tribu de Benjamín, por cuarenta años."
+  },
+  {
+    "i": 31693,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 22,
+    "t": "Quitado éste, les levantó por rey a David, de quien dio también testimonio diciendo: 'He hallado a David hijo de Jesé, varón conforme a mi corazón, quien hará todo lo que yo quiero'."
+  },
+  {
+    "i": 31694,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 23,
+    "t": "De la descendencia de éste, y conforme a la promesa, Dios levantó a Jesús por Salvador a Israel,"
+  },
+  {
+    "i": 31695,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 24,
+    "t": "antes de cuya venida predicó Juan el bautismo de arrepentimiento a todo el pueblo de Israel."
+  },
+  {
+    "i": 31696,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 25,
+    "t": "Cuando Juan terminaba su carrera, dijo: '¿Quién pensáis que soy? Yo no soy él; pero he aquí viene tras mí uno de quien no soy digno de desatar el calzado de los pies'."
+  },
+  {
+    "i": 31697,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 26,
+    "t": "\"Varones hermanos, hijos del linaje de Abraham, y los que entre vosotros teméis a Dios, a vosotros es enviada la palabra de esta salvación."
+  },
+  {
+    "i": 31698,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 27,
+    "t": "Porque los habitantes de Jerusalén y sus gobernantes, desconociendo a éste y las palabras de los profetas que se leen todos los días de reposo, las cumplieron al condenarle."
+  },
+  {
+    "i": 31699,
+    "b": 50,
+    "c": 5213,
+    "r": 5213,
+    "o": 28,
+    "t": "Y sin hallar en él causa alguna de muerte, pidieron a Pilato que se le matase."
+  }
+]

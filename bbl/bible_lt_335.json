@@ -1,0 +1,802 @@
+[
+  {
+    "i": 33500,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 5,
+    "t": "Nes kiekvienas žmogus turės nešti savo naštą."
+  },
+  {
+    "i": 33501,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 6,
+    "t": "Tesidalina mokinys viskuo, kas gera, su savo mokytoju."
+  },
+  {
+    "i": 33502,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 7,
+    "t": "Neapsigaukite: Dievas neleidžia iš savęs tyčiotis. Ką žmogus sėja, tą ir pjaus."
+  },
+  {
+    "i": 33503,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 8,
+    "t": "Kas sėja savo kūnui, iš kūno pjaus pražūtį, o kas sėja Dvasiai, iš Dvasios pjaus amžinąjį gyvenimą."
+  },
+  {
+    "i": 33504,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 9,
+    "t": "Nedelskime daryti gera, nes savu laiku pjausime, jei nepailsime."
+  },
+  {
+    "i": 33505,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 10,
+    "t": "Todėl, kol turime laiko, darykime gera visiems, o ypač tikėjimo namiškiams."
+  },
+  {
+    "i": 33506,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 11,
+    "t": "Pažiūrėkite, kokiu dideliu raštu jums rašau savo ranka."
+  },
+  {
+    "i": 33507,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 12,
+    "t": "Visi, kurie nori gražiai atrodyti kūne, verčia jus apipjaustytis, kad tik išvengtų persekiojimo dėl Kristaus kryžiaus."
+  },
+  {
+    "i": 33508,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 13,
+    "t": "Nes patys apipjaustyti nesilaiko įstatymo, bet nori, kad jūs būtumėte apipjaustyti, kad galėtų girtis jūsų kūnu."
+  },
+  {
+    "i": 33509,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 14,
+    "t": "O aš tesigiriu vien mūsų Viešpaties Jėzaus Kristaus kryžiumi, per kurį man pasaulis yra nukryžiuotas ir aš pasauliui."
+  },
+  {
+    "i": 33510,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 15,
+    "t": "Nes apipjaustymas nieko nereiškia, nei neapipjaustymas, bet naujas kūrinys."
+  },
+  {
+    "i": 33511,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 16,
+    "t": "O visiems, kurie laikysis šios taisyklės, tebūna ramybė ir gailestingumas, ir Dievo Izraeliui."
+  },
+  {
+    "i": 33512,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 17,
+    "t": "Tegul nuo šiol niekas manęs nebevargina, nes aš nešioju savo kūne Jėzaus žymes."
+  },
+  {
+    "i": 33513,
+    "b": 54,
+    "c": 5606,
+    "r": 5606,
+    "o": 18,
+    "t": "Broliai, mūsų Viešpaties Jėzaus Kristaus malonė tebūna su jūsų dvasia! Amen."
+  },
+  {
+    "i": 33514,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 1,
+    "t": "Paulius, Jėzaus Kristaus apaštalas Dievo valia, šventiesiems ir ištikimiesiems Kristuje Jėzuje:"
+  },
+  {
+    "i": 33515,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 2,
+    "t": "malonė jums ir ramybė nuo Dievo, mūsų Tėvo, ir Viešpaties Jėzaus Kristaus!"
+  },
+  {
+    "i": 33516,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 3,
+    "t": "Tebūna palaimintas Dievas ir mūsų Viešpaties Jėzaus Kristaus Tėvas, kuris palaimino mus Kristuje visokeriopais dvasiniais palaiminimais danguose,"
+  },
+  {
+    "i": 33517,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 4,
+    "t": "išsirinkdamas mus Jame prieš pasaulio sutvėrimą, kad būtume šventi ir nekalti Jo akivaizdoje meilėje,"
+  },
+  {
+    "i": 33518,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 5,
+    "t": "iš anksto paskirdamas mus per Jėzų Kristų būti Jam įsūnytais pagal savo valios palankumą,"
+  },
+  {
+    "i": 33519,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 6,
+    "t": "savo malonės šlovės gyriui, kuria apdovanojo mus Mylimajame."
+  },
+  {
+    "i": 33520,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 7,
+    "t": "Jame turime atpirkimą Jo krauju, nuodėmių atleidimą pagal Jo malonės turtus,"
+  },
+  {
+    "i": 33521,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 8,
+    "t": "kurią Jis dosniai suteikė mums su visa išmintimi ir įžvalgumu,"
+  },
+  {
+    "i": 33522,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 9,
+    "t": "atidengdamas mums savo valios paslaptį pagal savo palankumą, kurį Jis iš anksto buvo numatęs Jame,"
+  },
+  {
+    "i": 33523,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 10,
+    "t": "kad, išsipildžius laikams, visa, kas danguje ir žemėje, būtų suvienyta Kristuje,"
+  },
+  {
+    "i": 33524,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 11,
+    "t": "Jame, kuriame ir mes gavome paveldą, būdami iš anksto paskirti pagal to, kuris visa veikia pagal savo valios sprendimą, planą,"
+  },
+  {
+    "i": 33525,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 12,
+    "t": "kad būtume Jo šlovės gyriui, mes, kurie iš anksto pasikliovėme Kristumi."
+  },
+  {
+    "i": 33526,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 13,
+    "t": "Jame ir jūs, išgirdę tiesos žodį, savo išgelbėjimo Evangeliją, ir įtikėję Jį, buvote užantspauduoti pažadėtąja Šventąja Dvasia,"
+  },
+  {
+    "i": 33527,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 14,
+    "t": "kuri yra mūsų paveldėjimo užstatas, skirtas atpirkti Dievo nuosavybę Jo šlovės gyriui."
+  },
+  {
+    "i": 33528,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 15,
+    "t": "Todėl aš, išgirdęs apie jūsų tikėjimą į Viešpatį Jėzų ir meilę visiems šventiesiems,"
+  },
+  {
+    "i": 33529,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 16,
+    "t": "nesiliauju dėkojęs už jus, prisimindamas jus savo maldose."
+  },
+  {
+    "i": 33530,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 17,
+    "t": "Teduoda mūsų Viešpaties Jėzaus Kristaus Dievas, šlovės Tėvas, jums išminties ir apreiškimo Dvasią, kad Jį pažintumėte."
+  },
+  {
+    "i": 33531,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 18,
+    "t": "Tenušviečia Jis jūsų širdies akis, kad žinotumėte, kokia yra Jo pašaukimo viltis, kokie yra Jo paveldo šlovės turtai šventuosiuose,"
+  },
+  {
+    "i": 33532,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 19,
+    "t": "ir kokia neapsakoma Jo jėgos didybė mums, tikintiesiems, pagal Jo galios veiksmingumą,"
+  },
+  {
+    "i": 33533,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 20,
+    "t": "kurią Jis parodė Kristuje, prikeldamas Jį iš numirusių ir pasodindamas Jį savo dešinėje danguose,"
+  },
+  {
+    "i": 33534,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 21,
+    "t": "aukščiau už kiekvieną kunigaikštystę, valdžią, jėgą, viešpatavimą ir kiekvieną vardą, kuris minimas ne tik šiame amžiuje, bet ir ateinančiame."
+  },
+  {
+    "i": 33535,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 22,
+    "t": "Ir visa Jis palenkė po Jo kojomis ir padarė Jį galva, aukščiau už viską, Bažnyčiai,"
+  },
+  {
+    "i": 33536,
+    "b": 55,
+    "c": 5701,
+    "r": 5701,
+    "o": 23,
+    "t": "kuri yra Jo kūnas, pilnatvė To, kuris visa visur pripildo."
+  },
+  {
+    "i": 33537,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 1,
+    "t": "Ir jus, kurie buvote mirę nusikaltimais ir nuodėmėmis,"
+  },
+  {
+    "i": 33538,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 2,
+    "t": "kuriuose kadaise gyvenote pagal šio pasaulio papročius, pagal orą valdančios kunigaikštystės kunigaikštį, dvasios, kuri dabar veikia nepaklusnumo vaikuose,"
+  },
+  {
+    "i": 33539,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 3,
+    "t": "tarp kurių kadaise ir mes visi gyvenome savo kūno geismuose, vykdydami kūno ir minčių norus, ir iš prigimties buvome rūstybės vaikai kaip ir kiti."
+  },
+  {
+    "i": 33540,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 4,
+    "t": "Bet Dievas, būdamas turtingas gailestingumo dėl didelės meilės, kuria mus pamilo,"
+  },
+  {
+    "i": 33541,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 5,
+    "t": "mus, mirusius nusikaltimais, atgaivino su Kristumi - jūs esate išgelbėti malone,"
+  },
+  {
+    "i": 33542,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 6,
+    "t": "su Juo prikėlė ir pasodino danguose Kristuje Jėzuje,"
+  },
+  {
+    "i": 33543,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 7,
+    "t": "kad ateinančiais amžiais parodytų savo malonės turtų neapsakomą gausą savo gerumu mums Kristuje Jėzuje."
+  },
+  {
+    "i": 33544,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 8,
+    "t": "Nes malone jūs esate išgelbėti per tikėjimą, ir tai ne iš jūsų pačių, tai Dievo dovana,"
+  },
+  {
+    "i": 33545,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 9,
+    "t": "ne iš darbų, kad niekas nesigirtų."
+  },
+  {
+    "i": 33546,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 10,
+    "t": "Nes mes esame Jo kūrinys, sukurti Kristuje Jėzuje geriems darbams, kuriuos Dievas iš anksto numatė, kad juos darytume."
+  },
+  {
+    "i": 33547,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 11,
+    "t": "Todėl atsiminkite, kad kadaise jūs, pagonys kūne, kuriuos vadina „neapipjaustytais“ tie, kurie vadinami „apipjaustytais“ kūne rankomis atliktu apipjaustymu,"
+  },
+  {
+    "i": 33548,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 12,
+    "t": "atsiminkite, kad tuo metu buvote be Kristaus, atskirti nuo Izraelio pilietybės, svetimi pažado sandoroms, be vilties ir be Dievo pasaulyje."
+  },
+  {
+    "i": 33549,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 13,
+    "t": "Bet dabar Kristuje Jėzuje jūs, kadaise buvusieji toli, esate priartėję Kristaus krauju."
+  },
+  {
+    "i": 33550,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 14,
+    "t": "Nes Jis yra mūsų ramybė, kuris iš dviejų padarė viena, sugriaudamas pertvarą, kuri skyrė,"
+  },
+  {
+    "i": 33551,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 15,
+    "t": "savo kūne panaikindamas priešiškumą, įsakymų įstatymą su potvarkiais, kad savyje iš dviejų sukurtų vieną naują žmogų, darydamas ramybę,"
+  },
+  {
+    "i": 33552,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 16,
+    "t": "ir abudu sutaikytų su Dievu viename kūne per kryžių, sunaikindamas jame priešiškumą."
+  },
+  {
+    "i": 33553,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 17,
+    "t": "Ir atėjęs Jis skelbė ramybę jums, esantiems toli, ir ramybę tiems, kurie arti,"
+  },
+  {
+    "i": 33554,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 18,
+    "t": "nes per Jį mes abu turime priėjimą viena Dvasia pas Tėvą."
+  },
+  {
+    "i": 33555,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 19,
+    "t": "Taigi dabar jau nebesate svetimi ir ateiviai, bet šventųjų bendrapiliečiai ir Dievo namų gyventojai,"
+  },
+  {
+    "i": 33556,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 20,
+    "t": "pastatyti ant apaštalų ir pranašų pamato, o pats Jėzus Kristus yra kertinis akmuo."
+  },
+  {
+    "i": 33557,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 21,
+    "t": "Jame visas pastatas darniai jungiasi ir auga į šventą Viešpaties šventyklą,"
+  },
+  {
+    "i": 33558,
+    "b": 55,
+    "c": 5702,
+    "r": 5702,
+    "o": 22,
+    "t": "Jame ir jūs esate pastatyti kartu, kad būtumėte Dievo buveinė Dvasioje."
+  },
+  {
+    "i": 33559,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 1,
+    "t": "Todėl aš, Paulius, Kristaus Jėzaus kalinys dėl jūsų, pagonių..."
+  },
+  {
+    "i": 33560,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 2,
+    "t": "Jei jau girdėjote apie Dievo malonės valdymą, kuris man duotas dėl jūsų,"
+  },
+  {
+    "i": 33561,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 3,
+    "t": "kad apreiškimu man buvo atskleista paslaptis, kaip jau trumpai parašiau,"
+  },
+  {
+    "i": 33562,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 4,
+    "t": "skaitydami galite suprasti mano pažinimą Kristaus paslapties,"
+  },
+  {
+    "i": 33563,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 5,
+    "t": "kuri ankstesniais amžiais nebuvo apreikšta žmonių vaikams, kaip dabar Dvasia apreikšta Jo šventiesiems apaštalams ir pranašams,"
+  },
+  {
+    "i": 33564,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 6,
+    "t": "kad pagonys yra bendrapaveldėtojai, to paties kūno nariai ir tos pačios pažado dalininkai Kristuje Jėzuje per Evangeliją."
+  },
+  {
+    "i": 33565,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 7,
+    "t": "Aš tapau šios Evangelijos tarnu pagal Dievo malonės dovaną, kuri man duota Jo galios veiksmingumu."
+  },
+  {
+    "i": 33566,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 8,
+    "t": "Man, mažiausiam iš visų šventųjų, buvo duota ši malonė skelbti pagonims Kristaus neištiriamus turtus,"
+  },
+  {
+    "i": 33567,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 9,
+    "t": "ir apšviesti visus, kas yra paslapties valdymas, kuris nuo amžių buvo paslėptas Dieve, kuris sukūrė visa per Jėzų Kristų,"
+  },
+  {
+    "i": 33568,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 10,
+    "t": "kad per Bažnyčią danguje esančios kunigaikštystės ir valdžios dabar pažintų Dievo išminties įvairialypiškumą,"
+  },
+  {
+    "i": 33569,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 11,
+    "t": "pagal amžinąjį sumanymą, kurį Jis įvykdė Kristuje Jėzuje, mūsų Viešpatyje,"
+  },
+  {
+    "i": 33570,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 12,
+    "t": "per kurį turime drąsos ir priėjimo su pasitikėjimu per tikėjimą Jį."
+  },
+  {
+    "i": 33571,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 13,
+    "t": "Todėl prašau, kad nepailsėtumėte dėl mano vargų dėl jūsų, nes jie yra jūsų šlovė."
+  },
+  {
+    "i": 33572,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 14,
+    "t": "Dėl šios priežasties aš klaupiuosi prieš Tėvą,"
+  },
+  {
+    "i": 33573,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 15,
+    "t": "iš kurio kiekviena tėvystė danguje ir žemėje pavadinta,"
+  },
+  {
+    "i": 33574,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 16,
+    "t": "kad Jis pagal savo šlovės turtus suteiktų jums jėgų Jo Dvasia sustiprinti vidinį žmogų,"
+  },
+  {
+    "i": 33575,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 17,
+    "t": "kad Kristus tikėjimu gyventų jūsų širdyse ir kad būtumėte įsišakniję ir įtvirtinti meilėje,"
+  },
+  {
+    "i": 33576,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 18,
+    "t": "kad galėtumėte kartu su visais šventaisiais suprasti, kas yra plotis, ilgis, aukštis ir gylis,"
+  },
+  {
+    "i": 33577,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 19,
+    "t": "ir pažinti Kristaus meilę, kuri pranoksta pažinimą, kad būtumėte pripildyti visos Dievo pilnatvės."
+  },
+  {
+    "i": 33578,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 20,
+    "t": "O Tam, kuris gali padaryti nepalyginamai daugiau už visa, ko prašome ar mąstome pagal jėgą, kuri veikia mumyse,"
+  },
+  {
+    "i": 33579,
+    "b": 55,
+    "c": 5703,
+    "r": 5703,
+    "o": 21,
+    "t": "Jam šlovė Bažnyčioje Kristuje Jėzuje per visas kartas amžių amžiams! Amen."
+  },
+  {
+    "i": 33580,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 1,
+    "t": "Tad aš, kalinys Viešpatyje, maldauju jus elgtis vertai pašaukimo, kurį gavote:"
+  },
+  {
+    "i": 33581,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 2,
+    "t": "su visu nuolankumu ir romumu, su kantrybe, mylėdami vieni kitus;"
+  },
+  {
+    "i": 33582,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 3,
+    "t": "stengdamiesi išsaugoti Dvasios vienybę taikos ryšiais."
+  },
+  {
+    "i": 33583,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 4,
+    "t": "Vienas kūnas ir viena Dvasia, kaip ir viena viltis jūsų pašaukimo, kurį gavote;"
+  },
+  {
+    "i": 33584,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 5,
+    "t": "vienas Viešpats, vienas tikėjimas, vienas krikštas;"
+  },
+  {
+    "i": 33585,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 6,
+    "t": "vienas Dievas ir visų Tėvas, kuris yra virš visų, per visus ir visuose."
+  },
+  {
+    "i": 33586,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 7,
+    "t": "Tačiau kiekvienam iš mūsų duota malonė pagal Kristaus dovanos matą."
+  },
+  {
+    "i": 33587,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 8,
+    "t": "Todėl sakoma: Pakilęs aukštyn, Jis nusivedė belaisvius ir davė dovanų žmonėms."
+  },
+  {
+    "i": 33588,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 9,
+    "t": "O „pakilo“ reiškia, kad Jis iš pradžių buvo nužengęs į žemės žemumas."
+  },
+  {
+    "i": 33589,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 10,
+    "t": "Tas, kuris nužengė, yra tas pats, kuris pakilo aukščiau visų dangų, kad visa užpildytų."
+  },
+  {
+    "i": 33590,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 11,
+    "t": "Ir Jis paskyrė vienus apaštalais, kitus pranašais, dar kitus evangelistais, o kitus ganytojais ir mokytojais,"
+  },
+  {
+    "i": 33591,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 12,
+    "t": "kad šventieji būtų tinkamai parengti tarnystės darbui, Kristaus kūno ugdymui,"
+  },
+  {
+    "i": 33592,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 13,
+    "t": "kol visi pasieksime tikėjimo ir Dievo Sūnaus pažinimo vienybę, tobulą žmogų, Kristaus pilnatvės amžiaus saiką."
+  },
+  {
+    "i": 33593,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 14,
+    "t": "Kad daugiau nebebūtume kūdikiai, blaškomi ir nešiojami bet kokio mokymo vėjo, žmonių apgaulės ir klaidų, kuriais jie gudriai tykoja suklaidinti."
+  },
+  {
+    "i": 33594,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 15,
+    "t": "Bet, gyvendami tiesoje meilėje, augsime visais atžvilgiais į Tą, kuris yra Galva, Kristų,"
+  },
+  {
+    "i": 33595,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 16,
+    "t": "iš kurio visas kūnas, suderintas ir surištas sąnarių, teikiančių maistą ir veikiančių pagal kiekvienos dalies funkciją, auga ir pats save stato meilėje."
+  },
+  {
+    "i": 33596,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 17,
+    "t": "Tad aš sakau ir įspėju jus Viešpatyje, kad daugiau nebesielgtumėte kaip pagonys su savo tuščiais sumetimais,"
+  },
+  {
+    "i": 33597,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 18,
+    "t": "jų protas aptemęs, jie svetimi Dievo gyvenimui dėl nežinojimo, kuris juos apėmė dėl širdies užkietėjimo,"
+  },
+  {
+    "i": 33598,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 19,
+    "t": "ir, praradę bet kokį sąžiningumą, jie pasidavė ištvirkavimui, godžiai darydami visokias nešvankybes."
+  },
+  {
+    "i": 33599,
+    "b": 55,
+    "c": 5704,
+    "r": 5704,
+    "o": 20,
+    "t": "Bet jūs taip nepažinote Kristaus,"
+  }
+]

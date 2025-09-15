@@ -1,0 +1,795 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "Ngươi chớ coi con lửng là thanh sạch, vì tuy nó nhai lại, song không có móng rẽ;"
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "Ngươi chớ coi con thỏ rừng là thanh sạch, vì tuy nó nhai lại, song không có móng rẽ;"
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "Ngươi chớ coi con heo là thanh sạch, vì nó có móng rẽ, chân chia hai, song không nhai lại."
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "Các ngươi chớ ăn thịt và chớ đụng đến xác chết nó; hãy coi nó là ô uế."
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "Trong các loài vật ở dưới nước, các ngươi được phép ăn những loài nầy: Phàm loài vật nào ở dưới nước, hoặc dưới biển, hoặc dưới sông, có vây và có vảy, thì các ngươi được phép ăn."
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "Nhưng phàm loài vật nào ở dưới biển hay là dưới sông, không có vây và không có vảy, tức các loài nhỏ mọn sống động ở dưới nước, đều là vật đáng ghét cho các ngươi."
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "Phải coi những loài đó là vật đáng ghét, chớ ăn thịt nó, và hãy ghê tởm xác chết nó."
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "Phàm loài vật nào ở dưới nước, không có vây và không có vảy, đều là vật đáng ghét cho các ngươi."
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "Nầy là những loài chim mà các ngươi phải ghê tởm, chớ nên ăn, vì là một vật đáng ghét: chim ưng, chim ngạc, ó biển,"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "diều hâu đen, các giống diều hâu đỏ,"
+  },
+  { "i": 3010, "b": 2, "c": 311, "r": 311, "o": 15, "t": "các giống quạ," },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "đà điểu, cú mèo, mòng biển, các giống chim cắt,"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "cú lớn, chim cốc, chim mèo lớn,"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "cò quắm, chim thằng chài, kên kên,"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "chim hạc, các giống diệc, chim rẽ quạt, và dơi."
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "Phàm côn trùng nào có cánh, đi bốn chân, các ngươi hãy coi là vật đáng ghét."
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "Trong các loài côn trùng có cánh, đi bốn chân, các ngươi được phép ăn những loài nầy: tức là loài nào có gióng dài hơn chân, đặng nhảy trên đất;"
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "các ngươi được phép ăn các giống cào cào, châu chấu, dế mèn, và muỗm."
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "Nhưng phàm côn trùng nào có cánh, đi bốn chân, thì các ngươi hãy coi là vật đáng ghét."
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "Vì cớ đó, các ngươi sẽ bị ô uế: hễ ai đụng đến xác chết nó, sẽ bị ô uế đến chiều tối;"
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "hễ ai gánh xác chết nó, sẽ giặt áo mình, và bị ô uế đến chiều tối."
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "Phàm con vật nào có móng, song không rẽ, và không nhai lại, các ngươi hãy coi là ô uế; hễ ai đụng đến nó sẽ bị ô uế."
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "Trong các loài thú đi bốn chân, phàm loài nào đi trên bàn chân, các ngươi hãy coi là ô uế; hễ ai đụng đến xác chết nó, sẽ bị ô uế đến chiều tối;"
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "hễ ai gánh xác chết nó, sẽ giặt áo mình, và bị ô uế đến chiều tối. Hãy coi các loài đó là ô uế cho các ngươi."
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "Nầy là những loài vật bò trên đất mà các ngươi hãy coi là ô uế: chuột nhủi, chuột lắt, và các giống thằn lằn,"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "thằn lằn bóng, kỳ nhông, rắn mối, tắc kè, và con cắc kè."
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "Trong các loài bò, đó là những loài mà các ngươi hãy coi là ô uế; hễ ai đụng đến xác chết nó sẽ bị ô uế đến chiều tối."
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "Phàm vật gì mà một trong các loài vật ấy chết rớt trúng, đều bị ô uế; hoặc là đồ bằng gỗ, áo xống, da, bao, hoặc đồ vật chi dùng làm việc gì, đều phải ngâm trong nước, và sẽ bị ô uế đến chiều tối, đoạn sẽ được sạch."
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "Nếu một trong các loài đó rớt trúng đồ bằng gốm, thì hãy đập bể ra; vật gì ở trong đó đều bị ô uế."
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "Hễ vật thực chi ăn được, mà có nước rớt trúng, thì đều bị ô uế; hễ vật uống chi đựng trong đồ đó, thì đều bị ô uế."
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "Phàm vật gì mà một trong các xác chết đó rớt trúng, thì đều bị ô uế; lò và bếp thì phải phá đi: vì đều bị ô uế, các ngươi hãy coi nó là ô uế."
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "Song, một cái giếng hoặc một cái hồ chứa nước, thì vẫn sạch; còn ai đụng đến xác chết, thì bị ô uế."
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "Nếu xác chết rớt trúng hột giống chi đã gieo, thì vẫn sạch;"
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "nhưng nếu người ta tưới nước hột giống ấy, rồi xác chết rớt trúng, thì hãy coi nó là ô uế cho các ngươi."
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "Nếu một trong các loài vật chi dùng làm vật thực mà chết đi, ai đụng đến xác chết nó, sẽ bị ô uế đến chiều tối;"
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "ai ăn thịt nó, phải giặt áo mình, và bị ô uế đến chiều tối; ai gánh xác chết nó, phải giặt áo mình, và bị ô uế đến chiều tối."
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "Phàm loài vật nào bò trên đất đều đáng ghét, chớ nên ăn."
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "Trong các loài vật bò trên đất, phàm loài nào bò bằng bụng, đi bốn chân, hay là có nhiều chân, các ngươi chớ nên ăn, vì là vật đáng ghét."
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "Các ngươi chớ vì loài vật nào mà làm cho mình trở nên đáng ghét, cũng chớ vì loài vật nào mà làm cho mình bị ô uế, đến nỗi thành ra ô uế."
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "Vì ta là Giê-hô-va Đức Chúa Trời của các ngươi; các ngươi phải nên thánh, và hãy nên thánh thiện, vì ta là thánh; chớ vì loài vật nào bò trên đất mà làm ô uế mình."
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "Ta là Đức Giê-hô-va, đã đem các ngươi ra khỏi xứ Ê-díp-tô, đặng làm Đức Chúa Trời của các ngươi; các ngươi hãy nên thánh, vì ta là thánh."
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "Đó là luật lệ về loài thú, loài chim, và các loài sanh vật động đậy ở dưới nước, cùng về các loài vật bò trên đất,"
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "đặng phân biệt loài ô uế cùng loài thanh sạch, vật nên ăn cùng vật chớ nên ăn."
+  },
+  {
+    "i": 3043,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán cùng Môi-se rằng:"
+  },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Hãy nói cùng dân Y-sơ-ra-ên rằng: Khi một người nữ chịu thai sanh con trai, thì nàng sẽ bị ô uế bảy ngày; nàng sẽ bị ô uế như trong ngày bị kinh nguyệt."
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "Qua ngày thứ tám, phải làm phép cắt bì cho con trai."
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "Nàng sẽ ở lại ba mươi ba ngày nữa, để được rưới huyết cho sạch; chớ nên đụng đến một vật thánh, và chớ vào nơi thánh cho đến chừng mãn ngày rưới huyết."
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "Nhưng nếu nàng sanh con gái, nàng sẽ bị ô uế hai tuần lễ, như trong ngày bị kinh nguyệt; nàng sẽ ở lại sáu mươi sáu ngày nữa, để được rưới huyết cho sạch."
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "Khi mãn ngày rưới huyết, hoặc vì con trai, hoặc vì con gái, nàng phải đem đến cho thầy tế lễ, nơi cửa hội mạc, một chiên con một tuổi làm của lễ thiêu, và một chim bồ câu con hay là một chim gáy con làm của lễ chuộc tội;"
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "thầy tế lễ sẽ dâng nó lên trước mặt Đức Giê-hô-va, và chuộc tội cho nàng, thì nàng sẽ được tinh sạch về huyết ô uế mình. Đó là luật lệ về một người nữ sanh con trai hay là con gái."
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "Nếu người không đủ sức mua một con chiên con, thì phải bắt hai chim bồ câu con hay là hai chim gáy con, một con làm của lễ thiêu, một con làm của lễ chuộc tội; thầy tế lễ sẽ chuộc tội cho người, thì người sẽ được tinh sạch."
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán cùng Môi-se và A-rôn rằng:"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "Khi người nào nơi da thịt mình có bướu, chốc hay là vết trắng, thì phải đem đến A-rôn, thầy tế lễ, hay là một trong các con trai người, là thầy tế lễ;"
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "Thầy tế lễ sẽ xem cái mụt nơi da thịt; nếu lông nơi mụt trắng ra, và mụt sần sùi sâu hơn da thịt, ấy là chứng phung, thầy tế lễ sẽ định người đó là ô uế."
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "Nếu nơi da thịt có vết trắng, mà không sâu hơn da thịt, và lông không trắng, thầy tế lễ sẽ cầm tù người đó bảy ngày."
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "Ngày thứ bảy, thầy tế lễ sẽ xem lại; nếu thấy vết trắng vẫn y như vậy, không lan ra trên da, thì cầm tù người đó bảy ngày nữa."
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "Ngày thứ bảy, thầy tế lễ sẽ xem lại; nếu thấy vết trắng lạt ra, và không lan ra trên da, thì thầy tế lễ sẽ định người đó là tinh sạch; ấy là chốc, người sẽ giặt áo xống mình, và được tinh sạch."
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "Nhưng nếu chốc lan ra trên da, sau khi thầy tế lễ đã xem người đó, và đã định người là tinh sạch, thì người phải đến cho thầy tế lễ xem lại."
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "Thầy tế lễ sẽ xem lại; nếu thấy chốc lan ra trên da, thì thầy tế lễ sẽ định người đó là ô uế; ấy là chứng phung."
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "Khi một người mắc chứng phung, phải dẫn người đến cho thầy tế lễ."
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "Thầy tế lễ sẽ xem; nếu trên da có một mụt trắng, mụt đó làm cho lông trắng ra, và có thịt sống trong mụt,"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "ấy là chứng phung kinh niên nơi da thịt người đó; thầy tế lễ sẽ định người đó là ô uế, chẳng cần phải cầm tù người, vì người đã ô uế rồi."
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "Nếu chứng phung lan tràn ra trên da thịt, bao phủ hết da, từ đầu đến chân, hễ mắt thầy tế lễ thấy đến đâu,"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "thầy tế lễ sẽ xem; nếu chứng phung bao phủ hết da thịt người, thì thầy tế lễ sẽ định người mắc chứng đó là tinh sạch; cả mình người đã trắng ra, người đó được tinh sạch."
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "Nhưng đến ngày nào thịt sống hiện ra trên mình người, thì người đó bị ô uế."
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "Thầy tế lễ sẽ xem thịt sống đó, và định người là ô uế; thịt sống đó là ô uế, ấy là chứng phung."
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "Nhưng nếu thịt sống trở lại trắng ra, người đó phải đến cho thầy tế lễ."
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "Thầy tế lễ sẽ xem; nếu thấy mụt trắng ra, thì thầy tế lễ sẽ định người mắc chứng đó là tinh sạch; người được tinh sạch."
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "Khi người nào nơi da thịt có mụt lành lại,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "nơi chỗ mụt đó có bướu trắng ra, hay là vết trắng hơi đỏ, thì người đó phải đến cho thầy tế lễ xem;"
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "thầy tế lễ sẽ xem; nếu thấy vết đó sần sùi hơn da thịt, và lông trắng ra, thì thầy tế lễ sẽ định người đó là ô uế; ấy là chứng phung lan ra trong mụt."
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "Nhưng nếu thầy tế lễ xem, chẳng thấy lông trắng trong đó, không sần sùi hơn da thịt, và lạt ra, thì cầm tù người đó bảy ngày."
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "Nếu vết đó lan ra trên da, thì thầy tế lễ sẽ định người đó là ô uế; ấy là chứng phung."
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "Nhưng nếu vết trắng vẫn y như vậy, không lan ra, thì ấy là dấu mụt; thầy tế lễ sẽ định người đó là tinh sạch."
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Khi người nào nơi da thịt bị phỏng, và thịt sống phỏng thành vết trắng hơi đỏ hay là trắng,"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "thầy tế lễ sẽ xem; nếu lông trắng mọc trong vết đó, và có sần sùi hơn da thịt, ấy là chứng phung lan ra trong vết phỏng; thầy tế lễ sẽ định người đó là ô uế, ấy là chứng phung."
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "Nhưng nếu thầy tế lễ xem, chẳng thấy lông trắng trong vết, không sần sùi hơn da thịt, và vết lạt ra, thì cầm tù người đó bảy ngày."
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "Ngày thứ bảy, thầy tế lễ sẽ xem lại; nếu vết lan ra trên da, thì thầy tế lễ sẽ định người đó là ô uế; ấy là chứng phung."
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "Nhưng nếu vết y như vậy, không lan ra trên da, và lạt ra, ấy là bướu vết phỏng, thầy tế lễ sẽ định người đó là tinh sạch; vì ấy là dấu vết phỏng."
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "Khi người nam hay là người nữ mắc chứng phung trên đầu hay là trên râu,"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "thầy tế lễ sẽ xem chứng phung đó; nếu chứng ấy sần sùi sâu hơn da thịt, và có lông vàng mỏng, thì thầy tế lễ sẽ định người đó là ô uế; ấy là chứng teo đầu, tức là chứng phung nơi đầu hay là nơi râu."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "Nhưng nếu thầy tế lễ xem chứng teo đầu đó, chẳng thấy sần sùi sâu hơn da thịt, và không có lông đen, thì cầm tù người đó bảy ngày."
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "Ngày thứ bảy, thầy tế lễ sẽ xem chứng teo đầu đó; nếu chứng teo đầu không lan ra, không có lông vàng, và không sần sùi hơn da thịt,"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "người sẽ cạo hết tóc, nhưng chớ cạo chỗ teo đầu; rồi thầy tế lễ sẽ cầm tù người đó bảy ngày nữa."
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "Ngày thứ bảy, thầy tế lễ sẽ xem chứng teo đầu đó; nếu chứng teo đầu không lan ra trên da, không sần sùi hơn da thịt, thì thầy tế lễ sẽ định người đó là tinh sạch; người sẽ giặt áo xống mình, và được tinh sạch."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "Nhưng nếu, sau khi người được tinh sạch, chứng teo đầu lại lan ra trên da,"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "thầy tế lễ sẽ xem lại; nếu chứng teo đầu lan ra trên da, thì thầy tế lễ chẳng cần phải xem xét đến lông vàng nữa, người đó đã ô uế."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "Nhưng nếu thầy tế lễ thấy chứng teo đầu y như vậy, và có lông đen mọc lên trong đó, thì chứng teo đầu đó đã lành; người đó được tinh sạch, thầy tế lễ sẽ định người đó là tinh sạch."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "Khi người nam hay là người nữ nơi da thịt có vết,"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "thầy tế lễ sẽ xem; nếu vết nơi da thịt lạt ra, thì ấy là bị nám; người đó được tinh sạch."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "Nếu một người rụng tóc trên đầu, thì đó là chứng trọc đầu, người được tinh sạch."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "Nếu người rụng tóc trên trán, thì đó là chứng trọc trán, người được tinh sạch."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "Nhưng nếu nơi chứng trọc đầu hay là chứng trọc trán có bướu trắng hơi đỏ, thì ấy là chứng phung lan ra nơi trọc đầu hay là trọc trán."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "Thầy tế lễ sẽ xem; nếu thấy trên bướu nơi trọc đầu hay là trọc trán có sần sùi trắng hơi đỏ, giống như chứng phung nơi da thịt,"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "thì người đó bị phung, đã ô uế; thầy tế lễ sẽ định người đó là ô uế chắc chắn; người đã mắc chứng phung nơi đầu."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "Người mắc chứng phung sẽ mặc áo rách, xõa tóc ra, che râu lại, và kêu la rằng: Ô uế! ô uế!"
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "Hễ người còn mắc chứng đó bao lâu, thì sẽ bị ô uế bấy lâu; người là ô uế, phải ở riêng ra, và chỗ ở người là ở ngoài trại quân."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "Khi có chứng phung trong áo xống, tức là áo bằng lông chiên hay là bằng vải gai,"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "hoặc trong sợi dọc sợi ngang bằng lông chiên hay là bằng vải gai, hay là trong da, hoặc trong đồ da chi,"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "nếu vết xanh hay là vết đỏ hiện ra trong áo xống, trong da, trong sợi dọc sợi ngang, hay là trong đồ da chi, ấy là chứng phung, phải đem cho thầy tế lễ xem."
+  }
+]

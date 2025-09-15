@@ -1,0 +1,802 @@
+[
+  {
+    "i": 5900,
+    "b": 5,
+    "c": 603,
+    "r": 603,
+    "o": 8,
+    "t": "Pour toi, tu donneras cet ordre aux prêtres portant l’arche d’alliance : Lorsque vous aurez atteint le bord des eaux du Jourdain, c’est dans le Jourdain que vous vous tiendrez.\""
+  },
+  {
+    "i": 5901,
+    "b": 5,
+    "c": 603,
+    "r": 603,
+    "o": 9,
+    "t": "Josué dit ensuite aux Israélites : \"Approchez et écoutez les paroles de Yahvé votre Dieu.\""
+  },
+  {
+    "i": 5902,
+    "b": 5,
+    "c": 603,
+    "r": 603,
+    "o": 10,
+    "t": "Et Josué dit : \"À ceci vous reconnaîtrez que le Dieu vivant est au milieu de vous et qu’il chassera certainement de votre présence les Cananéens, les Hittites, les Hivvites, les Perizzites, les Girgashites, les Amorites et les Jébuséens."
+  },
+  {
+    "i": 5903,
+    "b": 5,
+    "c": 603,
+    "r": 603,
+    "o": 11,
+    "t": "Voici : l’arche de l’alliance du Seigneur de toute la terre va passer devant vous dans le Jourdain."
+  },
+  {
+    "i": 5904,
+    "b": 5,
+    "c": 603,
+    "r": 603,
+    "o": 12,
+    "t": "Dès maintenant, choisissez douze hommes parmi les tribus d’Israël, un homme par tribu."
+  },
+  {
+    "i": 5905,
+    "b": 5,
+    "c": 603,
+    "r": 603,
+    "o": 13,
+    "t": "Aussitôt que les prêtres portant l’arche de Yahvé, Seigneur de toute la terre, auront posé la plante de leurs pieds dans les eaux du Jourdain, les eaux du Jourdain seront coupées, celles qui descendent d’amont, et elles s’arrêteront comme en une seule masse.\""
+  },
+  {
+    "i": 5906,
+    "b": 5,
+    "c": 603,
+    "r": 603,
+    "o": 14,
+    "t": "Or quand le peuple quitta ses tentes pour traverser le Jourdain, les prêtres portaient l’arche de l’alliance en tête du peuple."
+  },
+  {
+    "i": 5907,
+    "b": 5,
+    "c": 603,
+    "r": 603,
+    "o": 15,
+    "t": "Dès que les porteurs de l’arche furent arrivés au Jourdain, et que les pieds des prêtres porteurs de l’arche touchèrent les eaux — or le Jourdain coule à pleins bords pendant toute la durée de la moisson —,"
+  },
+  {
+    "i": 5908,
+    "b": 5,
+    "c": 603,
+    "r": 603,
+    "o": 16,
+    "t": "les eaux d’amont s’arrêtèrent et formèrent une seule masse à une très grande distance, à Adam, la ville qui est à côté de Cartân, tandis que les eaux descendant vers la mer de la Araba, la mer Salée, étaient complètement séparées. Le peuple traversa vis-à-vis de Jéricho."
+  },
+  {
+    "i": 5909,
+    "b": 5,
+    "c": 603,
+    "r": 603,
+    "o": 17,
+    "t": "Les prêtres qui portaient l’arche de l’alliance de Yahvé se tinrent au sec, immobiles au milieu du Jourdain, tandis que tout Israël traversait à sec, jusqu’à ce que la totalité de la nation eût achevé de traverser le Jourdain."
+  },
+  {
+    "i": 5910,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 1,
+    "t": "Lorsque toute la nation eût achevé de traverser le Jourdain, Yahvé parla à Josué et lui dit :"
+  },
+  {
+    "i": 5911,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 2,
+    "t": "\"Choisissez-vous douze hommes parmi le peuple, un homme par tribu,"
+  },
+  {
+    "i": 5912,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 3,
+    "t": "et donnez-leur cet ordre : Enlevez d’ici, du milieu du Jourdain, là où se sont posés les pieds des prêtres, douze pierres que vous emporterez avec vous et déposerez au bivouac où vous passerez la nuit.\""
+  },
+  {
+    "i": 5913,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 4,
+    "t": "Josué appela les douze hommes qu’il avait désignés parmi les Israélites, un homme par tribu,"
+  },
+  {
+    "i": 5914,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 5,
+    "t": "et Josué leur dit : \"Passez devant l’arche de Yahvé votre Dieu, jusqu’au milieu du Jourdain, et que chacun de vous prenne sur son épaule une pierre, selon le nombre des tribus israélites,"
+  },
+  {
+    "i": 5915,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 6,
+    "t": "pour en faire un signe au milieu de vous ; et quand, demain, vos fils vous demanderont : Ces pierres, que sont-elles pour vous ?"
+  },
+  {
+    "i": 5916,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 7,
+    "t": "Alors vous leur direz : C’est que les eaux du Jourdain se sont séparées devant l’arche de l’alliance de Yahvé : lorsqu’elle traversa le Jourdain, les eaux du Jourdain se sont séparées. Ces pierres sont un mémorial pour les Israélites, pour toujours !\""
+  },
+  {
+    "i": 5917,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 8,
+    "t": "Les Israélites exécutèrent les ordres de Josué : ayant enlevé douze pierres du milieu du Jourdain, selon le nombre des tribus israélites, comme l’avait dit Yahvé à Josué, ils les transportèrent au bivouac et les y déposèrent."
+  },
+  {
+    "i": 5918,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 9,
+    "t": "Puis Josué érigea douze pierres au milieu du Jourdain, à l’endroit où s’étaient posés les pieds des prêtres porteurs de l’arche d’alliance, et elles y sont encore aujourd’hui."
+  },
+  {
+    "i": 5919,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 10,
+    "t": "Les prêtres porteurs de l’arche d’alliance se tenaient debout au milieu du Jourdain jusqu’à l’accomplissement de tout ce que Yahvé avait ordonné à Josué de dire au peuple (selon tout ce que Moïse avait ordonné à Josué) ; et le peuple se hâta de traverser."
+  },
+  {
+    "i": 5920,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 11,
+    "t": "Lorsque le peuple eut achevé de traverser, l’arche de Yahvé passa, avec les prêtres, à la tête du peuple."
+  },
+  {
+    "i": 5921,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 12,
+    "t": "Les fils de Ruben, les fils de Gad et la demi-tribu de Manassé passèrent en formation de combat à la tête des Israélites, comme Moïse le leur avait dit."
+  },
+  {
+    "i": 5922,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 13,
+    "t": "Au nombre d’environ quarante-mille guerriers en armes, ils passèrent prêts au combat, devant Yahvé, vers la plaine de Jéricho."
+  },
+  {
+    "i": 5923,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 14,
+    "t": "En ce jour-là, Yahvé grandit Josué aux yeux de tout Israël qui le craignit comme il avait craint Moïse sa vie durant."
+  },
+  {
+    "i": 5924,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 15,
+    "t": "Yahvé dit à Josué :"
+  },
+  {
+    "i": 5925,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 16,
+    "t": "\"Donne aux prêtres qui portent l’arche du témoignage l’ordre de remonter du Jourdain.\""
+  },
+  {
+    "i": 5926,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 17,
+    "t": "Et Josué ordonna aux prêtres : \"Remontez du Jourdain !\""
+  },
+  {
+    "i": 5927,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 18,
+    "t": "Or, lorsque les prêtres portant l’arche de l’alliance de Yahvé remontèrent du milieu du Jourdain, et que la plante de leurs pieds eut touché la terre ferme, les eaux du Jourdain revinrent dans leur lit et se mirent comme avant à couler à pleins bords."
+  },
+  {
+    "i": 5928,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 19,
+    "t": "Ce fut le dix du premier mois que le peuple remonta du Jourdain et campa à Gilgal, à la limite est de Jéricho."
+  },
+  {
+    "i": 5929,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 20,
+    "t": "Quant à ces douze pierres qu’on avait prises dans le Jourdain, Josué les érigea à Gilgal."
+  },
+  {
+    "i": 5930,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 21,
+    "t": "Il dit ensuite aux Israélites : \"Quand vos fils demanderont, demain, à leurs pères : Que sont ces pierres ?"
+  },
+  {
+    "i": 5931,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 22,
+    "t": "Vous expliquerez alors à vos fils : C’est à pied sec qu’Israël a traversé le Jourdain que voilà,"
+  },
+  {
+    "i": 5932,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 23,
+    "t": "parce que Yahvé votre Dieu assécha devant vous les eaux du Jourdain jusqu’à ce que vous eussiez traversé, comme Yahvé votre Dieu l’avait fait pour la mer des Roseaux qu’il assécha devant nous jusqu’à ce que nous l’eussions traversée,"
+  },
+  {
+    "i": 5933,
+    "b": 5,
+    "c": 604,
+    "r": 604,
+    "o": 24,
+    "t": "afin que tous les peuples de la terre sachent comme est puissante la main de Yahvé, et afin qu’ils craignent Yahvé votre Dieu, toujours.\""
+  },
+  {
+    "i": 5934,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 1,
+    "t": "Lorsque tous les rois des Amorites qui habitaient au-delà du Jourdain, vers l’ouest, et tous les rois des Cananéens qui habitaient face à la mer apprirent que Yahvé avait asséché les eaux du Jourdain devant les Israélites, jusqu’à ce qu’ils soient passés, le cœur leur manqua et ils perdirent courage devant les Israélites."
+  },
+  {
+    "i": 5935,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 2,
+    "t": "En ce temps-là, Yahvé dit à Josué : \"Fais-toi des couteaux de silex, et circoncis de nouveau les Israélites (une seconde fois\")."
+  },
+  {
+    "i": 5936,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 3,
+    "t": "Josué se fit des couteaux de silex et circoncit les Israélites sur le Tertre des Prépuces."
+  },
+  {
+    "i": 5937,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 4,
+    "t": "Voici la raison pour laquelle Josué fit cette circoncision : toute la population mâle, sortie d’Égypte en âge de porter les armes, était morte dans le désert, en chemin, après leur sortie d’Égypte."
+  },
+  {
+    "i": 5938,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 5,
+    "t": "Or, tout ce peuple émigré avait été circoncis ; mais tout le peuple né dans le désert, en chemin, après leur sortie d’Égypte, on ne l’avait pas circoncis ;"
+  },
+  {
+    "i": 5939,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 6,
+    "t": "car pendant quarante ans les Israélites marchèrent dans le désert, jusqu’à ce que toute la nation eût péri, à savoir les hommes sortis d’Égypte en âge de porter les armes ; ils n’avaient pas obéi à la voix de Yahvé, et Yahvé leur avait juré de ne pas leur laisser voir la terre qu’il avait juré à leurs pères de nous donner, terre qui ruisselle de lait et de miel."
+  },
+  {
+    "i": 5940,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 7,
+    "t": "Quant à leurs fils, il les établit à leur place, et ce sont eux que Josué circoncit : ils étaient incirconcis, car on ne les avait pas circoncis en chemin."
+  },
+  {
+    "i": 5941,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 8,
+    "t": "Lorsqu’on eut achevé de circoncire toute la nation, ils restèrent sur place dans le camp jusqu’à leur guérison."
+  },
+  {
+    "i": 5942,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 9,
+    "t": "Alors Yahvé dit à Josué : \"Aujourd’hui j’ai ôté de dessus vous le déshonneur de l’Égypte.\" Aussi a-t-on appelé ce lieu du nom de Gilgal jusqu’aujourd’hui."
+  },
+  {
+    "i": 5943,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 10,
+    "t": "Les Israélites campèrent à Gilgal et y firent la Pâque, le quatorzième jour du mois, le soir, dans la plaine de Jéricho."
+  },
+  {
+    "i": 5944,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 11,
+    "t": "Le lendemain de la Pâque, ils mangèrent du produit du pays : pains sans levain et épis grillés, en ce même jour."
+  },
+  {
+    "i": 5945,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 12,
+    "t": "Il n’y eut plus de manne le lendemain, où ils mangeaient du produit du pays. Les Israélites n’ayant plus de manne se nourrirent dès cette année des produits de la terre de Canaan."
+  },
+  {
+    "i": 5946,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 13,
+    "t": "Or Josué, se trouvant près de Jéricho, leva les yeux et vit un homme qui se tenait debout devant lui, une épée nue à la main. Josué s’avança vers lui et lui dit : \"Es-tu des nôtres ou de nos ennemis ?\""
+  },
+  {
+    "i": 5947,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 14,
+    "t": "Il répondit : \"Non ! Mais je suis le chef de l’armée de Yahvé, et maintenant je suis venu.\" Josué, tombant la face contre terre, l’adora et dit : \"Que dit mon Seigneur à son serviteur ?\""
+  },
+  {
+    "i": 5948,
+    "b": 5,
+    "c": 605,
+    "r": 605,
+    "o": 15,
+    "t": "Le chef de l’armée de Yahvé répondit à Josué : \"Ôte tes sandales de tes pieds, car le lieu sur lequel tu te trouves est saint.\" Et Josué fit ainsi."
+  },
+  {
+    "i": 5949,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 1,
+    "t": "Or Jéricho s’était enfermée et barricadée (contre les Israélites) : personne n’en sortait et personne n’y entrait."
+  },
+  {
+    "i": 5950,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 2,
+    "t": "Yahvé dit alors à Josué : \"Vois ! Je livre entre tes mains Jéricho et son roi, gens d’élite."
+  },
+  {
+    "i": 5951,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 3,
+    "t": "Vous tous les combattants, vous contournerez la ville (pour en faire une fois le tour, et pendant six jours tu feras de même."
+  },
+  {
+    "i": 5952,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 4,
+    "t": "Sept prêtres porteront en avant de l’arche sept trompes en corne de bélier. Le septième jour, vous ferez sept fois le tour de la ville et les prêtres sonneront de la trompe)."
+  },
+  {
+    "i": 5953,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 5,
+    "t": "Lorsque la corne de bélier retentira (quand vous entendrez le son de la trompe), tout le peuple poussera un grand cri de guerre et le rempart de la ville s’écroulera sur place ; alors le peuple montera à l’assaut, chacun droit devant soi.\""
+  },
+  {
+    "i": 5954,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 6,
+    "t": "Josué, fils de Nûn, appela les prêtres et leur dit : \"Prenez l’arche d’alliance, et que sept prêtres portent sept trompes en corne de bélier en avant de l’arche de Yahvé.\""
+  },
+  {
+    "i": 5955,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 7,
+    "t": "Puis il dit au peuple : \"Passez et faites le tour de la ville, et que l’avant-garde passe devant l’arche de Yahvé.\""
+  },
+  {
+    "i": 5956,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 8,
+    "t": "(Il fut fait comme Josué l’avait dit au peuple). Sept prêtres portant les sept trompes en corne de bélier devant Yahvé passèrent et sonnèrent de la trompe ; l’arche de l’alliance de Yahvé venait après eux,"
+  },
+  {
+    "i": 5957,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 9,
+    "t": "l’avant-garde précédait les prêtres qui sonnaient de la trompe et l’arrière-garde venait après l’arche : on allait et l’on sonnait de la trompe."
+  },
+  {
+    "i": 5958,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 10,
+    "t": "Au peuple, Josué avait donné l’ordre suivant : \"Ne criez pas et ne faites pas entendre votre voix (qu’il ne sorte pas un mot de votre bouche), jusqu’au jour où je vous dirai : Poussez le cri de guerre ! Alors vous pousserez le cri de guerre.\""
+  },
+  {
+    "i": 5959,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 11,
+    "t": "Il fit faire à l’arche de Yahvé le tour de la ville (en la contournant une fois), puis on rentra au camp où l’on passa la nuit."
+  },
+  {
+    "i": 5960,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 12,
+    "t": "Josué se leva de bon matin et les prêtres prirent l’arche de Yahvé."
+  },
+  {
+    "i": 5961,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 13,
+    "t": "Munis des sept trompes en corne de bélier, les sept prêtres marchant devant l’arche de Yahvé sonnaient de leur trompe pendant la marche, tandis que l’avant-garde allait devant eux, l’arrière-garde à la suite de l’arche de Yahvé, et que l’on défilait au son de la trompe."
+  },
+  {
+    "i": 5962,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 14,
+    "t": "On fit le tour de la ville (le second jour) une fois, et l’on rentra au camp ; c’est ainsi que l’on fit pendant six jours."
+  },
+  {
+    "i": 5963,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 15,
+    "t": "Le septième jour, s’étant levés dès l’aurore, ils firent le tour de la ville (selon le même rite) sept fois. (C’est seulement ce jour-là qu’on fit sept fois le tour de la ville.)"
+  },
+  {
+    "i": 5964,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 16,
+    "t": "La septième fois, les prêtres sonnèrent de la trompe et Josué dit au peuple : \"Poussez le cri de guerre, car Yahvé vous a livré la ville !\""
+  },
+  {
+    "i": 5965,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 17,
+    "t": "\"La ville sera dévouée par anathème à Yahvé, avec tout ce qui s’y trouve. Seule Rahab, la prostituée, aura la vie sauve ainsi que tous ceux qui sont avec elle dans sa maison, parce qu’elle a caché les émissaires que nous avions envoyés."
+  },
+  {
+    "i": 5966,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 18,
+    "t": "Mais vous, prenez bien garde à l’anathème, de peur que, poussés par la convoitise, vous ne preniez quelque chose de ce qui est anathème, car ce serait rendre anathème le camp d’Israël et lui porter malheur."
+  },
+  {
+    "i": 5967,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 19,
+    "t": "Tout l’argent et tout l’or, tous les objets de bronze et de fer seront consacrés à Yahvé, ils entreront dans son trésor.\""
+  },
+  {
+    "i": 5968,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 20,
+    "t": "Le peuple poussa le cri de guerre et l’on sonna de la trompe. Quand il entendit le son de la trompe, le peuple poussa un grand cri de guerre, et le rempart s’écroula sur place. Aussitôt le peuple monta vers la ville, chacun devant soi, et ils s’emparèrent de la ville."
+  },
+  {
+    "i": 5969,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 21,
+    "t": "Ils dévouèrent à l’anathème tout ce qui se trouvait dans la ville, hommes et femmes, jeunes et vieux, jusqu’aux taureaux, aux moutons et aux ânes, les passant au fil de l’épée."
+  },
+  {
+    "i": 5970,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 22,
+    "t": "Josué dit aux deux hommes qui avaient espionné le pays : \"Entrez dans la maison de la prostituée et faites-en sortir cette femme avec tous ceux qui lui appartiennent, ainsi que vous le lui avez juré.\""
+  },
+  {
+    "i": 5971,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 23,
+    "t": "Ces jeunes gens, les espions, s’y rendirent et en firent sortir Rahab, son père, sa mère, ses frères et tous ceux qui lui appartenaient. Ils en firent sortir aussi tout son clan et les mirent en lieu sûr, en dehors du camp d’Israël."
+  },
+  {
+    "i": 5972,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 24,
+    "t": "On brûla la ville et tout ce qu’elle contenait, sauf l’argent, l’or et les objets de bronze et de fer qu’on livra au trésor de la Maison de Yahvé."
+  },
+  {
+    "i": 5973,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 25,
+    "t": "Mais Rahab, la prostituée, ainsi que la maison de son père et tous ceux qui lui appartenaient, Josué leur laissa la vie sauve. Elle est demeurée au milieu d’Israël jusqu’aujourd’hui, pour avoir caché les émissaires que Josué avait envoyés espionner Jéricho."
+  },
+  {
+    "i": 5974,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 26,
+    "t": "En ce temps-là, Josué fit prononcer ce serment : \"Maudit soit, devant Yahvé, l’homme qui se lèvera pour rebâtir cette ville (Jéricho) ! Il la fondera sur son aîné, et en posera les portes sur son cadet !\""
+  },
+  {
+    "i": 5975,
+    "b": 5,
+    "c": 606,
+    "r": 606,
+    "o": 27,
+    "t": "Et Yahvé fut avec Josué, dont la renommée se répandit dans tout le pays."
+  },
+  {
+    "i": 5976,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 1,
+    "t": "Mais les Israélites se rendirent coupables d’une violation de l’anathème : Akân, fils de Karmi, fils de Zabdi, fils de Zérah, de la tribu de Juda, prit de ce qui tombait sous l’anathème, et la colère de Yahvé s’enflamma contre les Israélites."
+  },
+  {
+    "i": 5977,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 2,
+    "t": "Or Josué envoya des hommes de Jéricho vers Aï (qui est près de Bet-Avèn), à l’orient de Béthel, et il leur dit : \"Montez espionner le pays.\" Ils montèrent espionner Aï."
+  },
+  {
+    "i": 5978,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 3,
+    "t": "De retour auprès de Josué, il lui dirent : \"Que tout le peuple n’y monte pas, mais que deux-mille ou trois-mille hommes environ montent attaquer Aï. N’y fatigue pas tout le peuple car ces gens-là ne sont pas nombreux.\""
+  },
+  {
+    "i": 5979,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 4,
+    "t": "Il n’y monta du peuple qu’environ trois-mille hommes, mais ils lâchèrent pied devant les habitants de Aï."
+  },
+  {
+    "i": 5980,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 5,
+    "t": "Les habitants de Aï leur tuèrent à peu près 36 hommes, puis les poursuivirent en avant de la porte, jusqu’à Shebarim, et à la descente, ils les écrasèrent. Alors le peuple perdit cœur et son courage fondit."
+  },
+  {
+    "i": 5981,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 6,
+    "t": "Alors Josué déchira ses vêtements, se prosterna face contre terre devant l’arche de Yahvé jusqu’au soir, ainsi que les anciens d’Israël, et tous répandirent de la poussière sur leur tête."
+  },
+  {
+    "i": 5982,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 7,
+    "t": "Josué dit : \"Hélas, Seigneur Yahvé, pourquoi as-tu tenu à faire passer le Jourdain à ce peuple si c’est pour nous livrer à la main de l’Amorite et nous faire périr ? Ah ! si nous avions pu nous établir au-delà du Jourdain !"
+  },
+  {
+    "i": 5983,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 8,
+    "t": "Excuse-moi, Seigneur ! Que dirai-je maintenant qu’Israël a tourné le dos devant ses ennemis ?"
+  },
+  {
+    "i": 5984,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 9,
+    "t": "Les Cananéens vont l’apprendre, ainsi que tous les habitants du pays, ils se coaliseront contre nous pour retrancher notre nom de la terre. Que feras-tu alors pour ton grand nom ?\""
+  },
+  {
+    "i": 5985,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 10,
+    "t": "Yahvé dit à Josué : \"Relève-toi ! Pourquoi rester ainsi prosterné ?"
+  },
+  {
+    "i": 5986,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 11,
+    "t": "Israël a péché, il a violé l’alliance que je lui avais imposée : Oui ! on a pris de ce qui était anathème, et même on l’a dérobé, et même on l’a dissimulé, et même on l’a mis dans ses bagages."
+  },
+  {
+    "i": 5987,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 12,
+    "t": "Eh bien, les Israélites ne pourront pas tenir devant leurs ennemis, ils tourneront le dos devant leurs ennemis parce qu’ils sont devenus anathèmes. Si vous ne faites pas disparaître du milieu de vous l’objet de l’anathème, je ne serai plus avec vous."
+  },
+  {
+    "i": 5988,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 13,
+    "t": "Lève-toi, sanctifie le peuple et tu diras : Sanctifiez-vous pour demain, car ainsi parle Yahvé, le Dieu d’Israël : L’anathème est au milieu de toi, Israël ; tu ne pourras pas tenir devant tes ennemis jusqu’à ce que vous ayez écarté l’anathème du milieu de vous."
+  },
+  {
+    "i": 5989,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 14,
+    "t": "Vous vous présenterez donc demain matin, par tribus, et la tribu que Yahvé aura désignée par le sort se présentera par clans, et le clan que Yahvé aura désigné par le sort se présentera par familles, et la famille que Yahvé aura désignée par le sort se présentera homme par homme."
+  },
+  {
+    "i": 5990,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 15,
+    "t": "Enfin celui qui sera désigné par le sort en ce qui concerne l’anathème sera livré au feu, lui et tout ce qui lui appartient, pour avoir transgressé l’alliance avec Yahvé et avoir commis une infamie en Israël.\""
+  },
+  {
+    "i": 5991,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 16,
+    "t": "Josué se leva de bon matin ; il fit avancer Israël par tribus, et c’est la tribu de Juda qui fut désignée par le sort."
+  },
+  {
+    "i": 5992,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 17,
+    "t": "Il fit approcher les clans de Juda, et le clan de Zérah fut désigné par le sort. Il fit approcher le clan de Zérah par familles, et Zabdi fut désigné par le sort."
+  },
+  {
+    "i": 5993,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 18,
+    "t": "Josué fit avancer la famille de Zabdi homme par homme, et ce fut Akân, fils de Karmi, fils de Zabdi, fils de Zérah, de la tribu de Juda, qui fut désigné par le sort."
+  },
+  {
+    "i": 5994,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 19,
+    "t": "Josué dit alors à Akân : \"Mon fils, rends gloire à Yahvé, Dieu d’Israël, et fais-lui hommage ; déclare- moi ce que tu as fait et ne me cache rien.\""
+  },
+  {
+    "i": 5995,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 20,
+    "t": "Akân répondit à Josué : \"En vérité, c’est moi qui ai péché contre Yahvé, Dieu d’Israël, et voici ce que j’ai fait."
+  },
+  {
+    "i": 5996,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 21,
+    "t": "J’ai vu dans le butin un beau manteau de Shinéar et deux-cent sicles d’argent ainsi qu’un lingot d’or pesant cinquante sicles, je les ai convoités et je les ai pris. Ils sont cachés dans la terre au milieu de ma tente, l’argent par- dessous.\""
+  },
+  {
+    "i": 5997,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 22,
+    "t": "Josué envoya des messagers qui coururent vers la tente, et en effet le manteau était caché dans la tente et l’argent par-dessous."
+  },
+  {
+    "i": 5998,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 23,
+    "t": "Ils prirent le tout du milieu de la tente, l’apportèrent à Josué et à tous les Israélites et le déposèrent devant Yahvé."
+  },
+  {
+    "i": 5999,
+    "b": 5,
+    "c": 607,
+    "r": 607,
+    "o": 24,
+    "t": "Alors Josué prit Akân, fils de Zérah, et le fit monter à la vallée d’Akor avec l’argent, le manteau et le lingot d’or, avec ses fils, ses filles, son taureau, son âne, son petit bétail, sa tente et tout ce qui lui appartenait. Tout Israël l’accompagnait."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13000,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 22,
+    "t": "Forse io vi dissi: \"Datemi un dono, offrite un presente per me dai vostri beni\"?"
+  },
+  {
+    "i": 13001,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 23,
+    "t": "Strappatemi dall'abbraccio di un oppressore, liberatemi dalle mani di un violento?"
+  },
+  {
+    "i": 13002,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 24,
+    "t": "Istruitemi, e allora tacerò; mostratemi in che cosa ho potuto errare."
+  },
+  {
+    "i": 13003,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 25,
+    "t": "Si sopportano senza pena discorsi equi, ma le vostre critiche, a che mirano?"
+  },
+  {
+    "i": 13004,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 26,
+    "t": "Pretendete forse censurare parole, propositi di disperazione che il vento porta via?"
+  },
+  {
+    "i": 13005,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 27,
+    "t": "Arrivereste persino a tirare a sorte un orfano, a fare mercato del vostro amico!"
+  },
+  {
+    "i": 13006,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 28,
+    "t": "Orsù, vi prego, guardatemi! Davanti a voi, non mentirò affatto."
+  },
+  {
+    "i": 13007,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 29,
+    "t": "Ravvedetevi, non vi sia ingiustizia; ravvedetevi, poiché resto nel mio diritto."
+  },
+  {
+    "i": 13008,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 30,
+    "t": "V'è forse del male sulle mie labbra? Il mio palato non sa più discernere l'infortunio?"
+  },
+  {
+    "i": 13009,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 1,
+    "t": "Non è forse un tempo di servizio che compie l'uomo sulla terra, non vi conduce forse la vita di un mercenario?"
+  },
+  {
+    "i": 13010,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 2,
+    "t": "Come lo schiavo sospirante dopo l'ombra o l'operaio teso verso il suo salario,"
+  },
+  {
+    "i": 13011,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 3,
+    "t": "ho in sorte mesi di delusione, al mio conto notti di sofferenza."
+  },
+  {
+    "i": 13012,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 4,
+    "t": "Disteso sul mio giaciglio, mi dico: \"Quando sarà giorno?\" Appena levato: \"Quando sarò a sera?\" E pensieri folli mi ossessionano fino al crepuscolo."
+  },
+  {
+    "i": 13013,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 5,
+    "t": "Vermi e croste terrose coprono la mia carne, la mia pelle si screpola e suppura."
+  },
+  {
+    "i": 13014,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 6,
+    "t": "I miei giorni sono corsi più veloci della spola e sono scomparsi senza speranza."
+  },
+  {
+    "i": 13015,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 7,
+    "t": "Ricordati che la mia vita non è che un soffio, che i miei occhi non rivedranno più la felicità!"
+  },
+  {
+    "i": 13016,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 8,
+    "t": "D'ora in poi sarò invisibile ad ogni sguardo, i tuoi occhi saranno su di me e sarò scomparso."
+  },
+  {
+    "i": 13017,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 9,
+    "t": "Come la nuvola si dissolve e passa, chi discende allo sheol non ne risale."
+  },
+  {
+    "i": 13018,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 10,
+    "t": "Non ritorna ad abitare la sua casa e la sua dimora non lo conosce più."
+  },
+  {
+    "i": 13019,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 11,
+    "t": "Ed è per questo che non posso tacere, parlerò nell'angoscia del mio spirito, mi lamenterò nell'amarezza della mia anima."
+  },
+  {
+    "i": 13020,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 12,
+    "t": "Sono io il Mare, forse, o il mostro marino, per porre una guardia contro di me?"
+  },
+  {
+    "i": 13021,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 13,
+    "t": "Se dico: \"Il mio letto mi solleverà, il mio giaciglio attenuerà il mio lamento\","
+  },
+  {
+    "i": 13022,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 14,
+    "t": "allora tu mi spaventi con dei sogni, tu mi sgomenti con delle visioni."
+  },
+  {
+    "i": 13023,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 15,
+    "t": "Ah! vorrei essere strangolato: la morte piuttosto che i miei dolori."
+  },
+  {
+    "i": 13024,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 16,
+    "t": "Mi consumo, non vivrò sempre; perciò, lasciami, i miei giorni non sono che un soffio!"
+  },
+  {
+    "i": 13025,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 17,
+    "t": "Che cos'è dunque l'uomo per farne tanto caso, per fissare su di lui la tua attenzione,"
+  },
+  {
+    "i": 13026,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 18,
+    "t": "per ispezionarlo ogni mattino, per scrutinarlo in ogni istante?"
+  },
+  {
+    "i": 13027,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 19,
+    "t": "Cesserai infine di guardarmi, per lasciarmi il tempo di inghiottire la mia saliva?"
+  },
+  {
+    "i": 13028,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 20,
+    "t": "Se ho peccato, che ti ho fatto, a te, l'osservatore attento dell'uomo? Perché mi hai preso per bersaglio, perché ti sono di peso?"
+  },
+  {
+    "i": 13029,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 21,
+    "t": "Non puoi tollerare la mia offesa, soprassedere alla mia colpa? Perché presto sarò disteso nella polvere, tu mi cercherai, e non sarò più."
+  },
+  {
+    "i": 13030,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 1,
+    "t": "Bildad di Shuach prese la parola e disse:"
+  },
+  {
+    "i": 13031,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 2,
+    "t": "Fino a quando parlerai in tal modo e terrai discorsi simili a un gran vento?"
+  },
+  {
+    "i": 13032,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 3,
+    "t": "Dio può forse piegare il diritto, Shaddai falsare la giustizia?"
+  },
+  {
+    "i": 13033,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 4,
+    "t": "Se i tuoi figli hanno peccato contro di lui, li ha puniti per le loro colpe."
+  },
+  {
+    "i": 13034,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 5,
+    "t": "Ricerca Dio, implora Shaddai."
+  },
+  {
+    "i": 13035,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 6,
+    "t": "Quanto a te, se sei irreprensibile e retto, fin da ora, la sua luce brillerà su di te ed egli restaurerà la casa di un giusto."
+  },
+  {
+    "i": 13036,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 7,
+    "t": "La tua condizione antica ti sembrerà come nulla, tanto grande sarà il tuo avvenire."
+  },
+  {
+    "i": 13037,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 8,
+    "t": "Interroga la generazione passata, medita sull'esperienza acquisita dai suoi padri."
+  },
+  {
+    "i": 13038,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 9,
+    "t": "Noi, nati ieri, non sappiamo nulla, la nostra vita sulla terra passa come un'ombra."
+  },
+  {
+    "i": 13039,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 10,
+    "t": "Ma loro, ti istruiranno, ti parleranno, e il loro pensiero esporrà queste sentenze:"
+  },
+  {
+    "i": 13040,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 11,
+    "t": "\"Il papiro cresce forse fuori delle paludi? Privato d'acqua, il giunco può forse crescere?"
+  },
+  {
+    "i": 13041,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 12,
+    "t": "Quando è ancora nel suo splendore e non colto, prima di ogni altra erba si secca."
+  },
+  {
+    "i": 13042,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 13,
+    "t": "Tale è la sorte di coloro che dimenticano Dio, così perisce la speranza dell'empio."
+  },
+  {
+    "i": 13043,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 14,
+    "t": "La sua fiducia non è che filamento, la sua sicurezza, una casa di ragno."
+  },
+  {
+    "i": 13044,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 15,
+    "t": "Si appoggia forse sulla sua dimora, essa cede; vi si aggrappa, essa crolla."
+  },
+  {
+    "i": 13045,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 16,
+    "t": "Pieno di linfa al sole, al di sopra del giardino lanciava i suoi giovani germogli."
+  },
+  {
+    "i": 13046,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 17,
+    "t": "Le sue radici intrecciate su un terrapieno pietroso, attingeva la sua vita in mezzo alle rocce."
+  },
+  {
+    "i": 13047,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 18,
+    "t": "Lo si strappa dal suo luogo; il suo luogo lo rinnega: Non ti ho mai visto!"
+  },
+  {
+    "i": 13048,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 19,
+    "t": "Ed eccolo che marcisce sul cammino, mentre dal suolo, altri germogliano."
+  },
+  {
+    "i": 13049,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 20,
+    "t": "No, Dio non rigetta l'uomo integro, egli non presta man forte ai malvagi."
+  },
+  {
+    "i": 13050,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 21,
+    "t": "Il riso può di nuovo riempire la tua bocca, la gioia prorompere sulle tue labbra."
+  },
+  {
+    "i": 13051,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 22,
+    "t": "I tuoi nemici saranno coperti di vergogna, e la tenda dei malvagi scomparirà."
+  },
+  {
+    "i": 13052,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 1,
+    "t": "Giobbe prese la parola e disse:"
+  },
+  {
+    "i": 13053,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 2,
+    "t": "In verità, so bene che è così: l'uomo potrebbe forse giustificarsi davanti a Dio?"
+  },
+  {
+    "i": 13054,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 3,
+    "t": "A colui che si compiace di discutere con lui, non risponde nemmeno una volta su mille."
+  },
+  {
+    "i": 13055,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 4,
+    "t": "Tra i più saggi e i più robusti chi dunque gli terrebbe testa impunemente?"
+  },
+  {
+    "i": 13056,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 5,
+    "t": "Egli sposta le montagne a loro insaputa e le rovescia nella sua collera."
+  },
+  {
+    "i": 13057,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 6,
+    "t": "Egli scuote la terra dal suo sito e fa vacillare le sue colonne."
+  },
+  {
+    "i": 13058,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 7,
+    "t": "A sua difesa, il sole non si leva, egli pone un sigillo sulle stelle."
+  },
+  {
+    "i": 13059,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 8,
+    "t": "Egli solo ha spiegato i Cieli e calpestato il dorso del Mare."
+  },
+  {
+    "i": 13060,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 9,
+    "t": "Egli ha fatto l'Orsa e Orione, le Pleiadi e le Camere del Sud."
+  },
+  {
+    "i": 13061,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 10,
+    "t": "Egli è l'autore di opere grandiose e insondabili, di meraviglie che non si possono contare."
+  },
+  {
+    "i": 13062,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 11,
+    "t": "Se passa su di me, non lo vedo e scivola impercettibile."
+  },
+  {
+    "i": 13063,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 12,
+    "t": "Se rapisce una preda, chi glielo impedirà e chi oserà dirgli: \"Che fai tu?"
+  },
+  {
+    "i": 13064,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 13,
+    "t": "Dio non rinuncia alla sua collera: sotto di lui restano prostrati i satelliti di Rahab."
+  },
+  {
+    "i": 13065,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 14,
+    "t": "E io, vorrei difendermi, sceglierei i miei argomenti contro di lui?"
+  },
+  {
+    "i": 13066,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 15,
+    "t": "Anche se sono nel mio diritto, a che pro rispondergli? È il mio giudice che bisognerebbe supplicare."
+  },
+  {
+    "i": 13067,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 16,
+    "t": "E se, alla mia chiamata, si degnasse comparire, non posso credere che ascolterebbe la mia voce,"
+  },
+  {
+    "i": 13068,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 17,
+    "t": "lui, che mi schiaccia per un capello, che moltiplica senza ragione le mie ferite"
+  },
+  {
+    "i": 13069,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 18,
+    "t": "e non mi lascia nemmeno riprendere fiato, tanto mi sazia di amarezza!"
+  },
+  {
+    "i": 13070,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 19,
+    "t": "Ricorrere alla forza? Egli vince in vigore! Al tribunale? Ma chi dunque lo citerà?"
+  },
+  {
+    "i": 13071,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 20,
+    "t": "Se mi giustifico, la sua bocca può condannarmi; se mi stimo perfetto, dichiararmi perverso."
+  },
+  {
+    "i": 13072,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 21,
+    "t": "Ma sono perfetto? Non lo so più io stesso, e non bado più all'esistenza!"
+  },
+  {
+    "i": 13073,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 22,
+    "t": "Poiché è tutto uno, e oso dire: egli fa perire allo stesso modo l'uomo integro e il malvagio."
+  },
+  {
+    "i": 13074,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 23,
+    "t": "Quando un flagello mortale si abbatte improvvisamente, egli si ride della detresse degli innocenti."
+  },
+  {
+    "i": 13075,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 24,
+    "t": "In un paese consegnato al potere di un malvagio, egli mette un velo sulla faccia dei giudici. Se non è lui, chi dunque allora?"
+  },
+  {
+    "i": 13076,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 25,
+    "t": "I miei giorni passano, più rapidi di un corridore, fuggono senza vedere la felicità."
+  },
+  {
+    "i": 13077,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 26,
+    "t": "Scivolano come delle navicelle di giunco, come un'aquila piomba sulla sua preda."
+  },
+  {
+    "i": 13078,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 27,
+    "t": "Se decido di respingere il mio lamento, di cambiare di volto per fare allegra cera,"
+  },
+  {
+    "i": 13079,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 28,
+    "t": "il terrore mi afferra di fronte a tutti i miei mali, poiché, lo so, tu non mi tieni per innocente."
+  },
+  {
+    "i": 13080,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 29,
+    "t": "Se iniquità ho commesso, a che pro affaticarmi invano?"
+  },
+  {
+    "i": 13081,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 30,
+    "t": "Quand'anche mi lavassi con la lisciva e purificassi le mie mani con la soda,"
+  },
+  {
+    "i": 13082,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 31,
+    "t": "tu mi immergeresti nel fango, e le mie vesti mi aborrirebbero!"
+  },
+  {
+    "i": 13083,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 32,
+    "t": "Egli non è uomo come me, perché io possa rispondergli e comparire insieme in giudizio."
+  },
+  {
+    "i": 13084,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 33,
+    "t": "Non v'è arbitro tra noi che possa porre la sua mano su noi due,"
+  },
+  {
+    "i": 13085,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 34,
+    "t": "che allontani da me la sua verga e rimuova il terrore del suo spavento!"
+  },
+  {
+    "i": 13086,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 35,
+    "t": "Parlerei, dunque, senza temerlo, poiché tale non mi reputo ai miei occhi!"
+  },
+  {
+    "i": 13087,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 1,
+    "t": "Poiché la mia vita mi è in abominio, darò libero sfogo al mio lamento, sfogherò l'amarezza dell'anima mia."
+  },
+  {
+    "i": 13088,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 2,
+    "t": "Dirò a Dio: Non condannarmi, fammi sapere perché mi prendi a contendere."
+  },
+  {
+    "i": 13089,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 3,
+    "t": "È forse bene per te farmi violenza, disprezzare l'opera delle tue mani e favorire i disegni degli empi?"
+  },
+  {
+    "i": 13090,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 4,
+    "t": "Hai forse occhi di carne, e la tua veduta è come quella degli uomini?"
+  },
+  {
+    "i": 13091,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 5,
+    "t": "La tua esistenza è forse quella dei mortali, i tuoi anni trascorrono come i giorni dell'uomo?"
+  },
+  {
+    "i": 13092,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 6,
+    "t": "Tu, che indaghi la mia colpa e fai un'inchiesta sul mio peccato,"
+  },
+  {
+    "i": 13093,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 7,
+    "t": "tu sai bene che io sono innocente e che nessuno può strapparmi dalle tue mani!"
+  },
+  {
+    "i": 13094,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 8,
+    "t": "Le tue mani mi hanno plasmato, creato; e ora, pentendoti, vorresti distruggermi!"
+  },
+  {
+    "i": 13095,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 9,
+    "t": "Ricordati: tu mi hai fatto come si impasta l'argilla, e mi farai tornare alla polvere."
+  },
+  {
+    "i": 13096,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 10,
+    "t": "Non mi hai forse colato come latte e fatto cagliare come formaggio,"
+  },
+  {
+    "i": 13097,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 11,
+    "t": "rivestito di pelle e di carne, intessuto di ossa e di nervi?"
+  },
+  {
+    "i": 13098,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 12,
+    "t": "Poi mi hai gratificato della vita, e vegliavi con sollecitudine sul mio respiro."
+  },
+  {
+    "i": 13099,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 13,
+    "t": "Ma tu avevi un recondito pensiero; so che ti riservavi"
+  }
+]

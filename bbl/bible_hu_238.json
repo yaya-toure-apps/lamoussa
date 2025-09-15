@@ -1,0 +1,802 @@
+[
+  {
+    "i": 23800,
+    "b": 41,
+    "c": 4302,
+    "r": 4302,
+    "o": 27,
+    "t": "Majd leereszkedett Damaszkusz síkságára a búzaaratás idején, és felgyújtotta a mezőket, eltüntetett minden apró és nagy jószágot, kifosztotta a városokat, elpusztította a vidéket, és kardélre hányta az ifjakat mind."
+  },
+  {
+    "i": 23801,
+    "b": 41,
+    "c": 4302,
+    "r": 4302,
+    "o": 28,
+    "t": "Félelem és rettegés fogta el a tengerpart lakóit mind: a szidóniakat és a tírusziakat, a szúriakat, az okiniakat és a jamniaiakat. A rettegés uralkodott az azóti és az aszkaloni népek között."
+  },
+  {
+    "i": 23802,
+    "b": 41,
+    "c": 4303,
+    "r": 4303,
+    "o": 1,
+    "t": "Követeket küldtek hozzá, békeüzeneteket hordozva."
+  },
+  {
+    "i": 23803,
+    "b": 41,
+    "c": 4303,
+    "r": 4303,
+    "o": 2,
+    "t": "„Mi a nagy Nabukodonozor király szolgái vagyunk, és leborulunk előtted. Cselekedj velünk, ahogy kedved tartja.”"
+  },
+  {
+    "i": 23804,
+    "b": 41,
+    "c": 4303,
+    "r": 4303,
+    "o": 3,
+    "t": "Jószágaink karámjai, egész területünk, minden búzaföldünk, apró és nagy jószágaink, táboraink minden kerítése a rendelkezésedre áll. Használd őket, ahogy jónak látod."
+  },
+  {
+    "i": 23805,
+    "b": 41,
+    "c": 4303,
+    "r": 4303,
+    "o": 4,
+    "t": "Még városaink és azok lakói is a szolgálatodra állnak. Jöjj, haladj feléjük, ahogy neked tetszik.”"
+  },
+  {
+    "i": 23806,
+    "b": 41,
+    "c": 4303,
+    "r": 4303,
+    "o": 5,
+    "t": "Ezek az emberek tehát Holofernész elé járultak, és e szavakkal adták át üzenetüket."
+  },
+  {
+    "i": 23807,
+    "b": 41,
+    "c": 4303,
+    "r": 4303,
+    "o": 6,
+    "t": "Seregével ezután leereszkedett a tengerpartra, helyőrségeket állított minden megerősített városban, és válogatott embereket vett fel segédcsapatokként."
+  },
+  {
+    "i": 23808,
+    "b": 41,
+    "c": 4303,
+    "r": 4303,
+    "o": 7,
+    "t": "E városok és a környékükön lévő valamennyi város lakói koszorúkkal ékesítve és dobok hangjára táncolva fogadták őt."
+  },
+  {
+    "i": 23809,
+    "b": 41,
+    "c": 4303,
+    "r": 4303,
+    "o": 8,
+    "t": "De nem kevésbé pusztította el szentélyeiket, és vágta ki szent fáikat, a Nabukodonozortól kapott küldetésnek megfelelően, hogy kiirtson minden bennszülött istent, hogy a népek ne imádjanak mást, csak egyedül Nabukodonozort, és kényszerítsen minden nyelvet és minden fajt, hogy istenként hívja őt segítségül."
+  },
+  {
+    "i": 23810,
+    "b": 41,
+    "c": 4303,
+    "r": 4303,
+    "o": 9,
+    "t": "Így ért Eszdrelon elé, Dótaja közelébe, egy városka elé, amely a nagy Júdeai hegylánc előtt fekszik,"
+  },
+  {
+    "i": 23811,
+    "b": 41,
+    "c": 4303,
+    "r": 4303,
+    "o": 10,
+    "t": "tábort vert Géba és Szkitopolisz között, és ott maradt egy hónapig, hogy feltöltse erejét."
+  },
+  {
+    "i": 23812,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 1,
+    "t": "Az Izraeliták, akik Júdeában laktak, hallván, hogy Holofernész, Nabukodonozornak, az asszírok királyának fővezére mit tett a különböző népekkel, és hogy templomaikat kifosztva hogyan adta őket pusztulásra,"
+  },
+  {
+    "i": 23813,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 2,
+    "t": "mélységes félelem fogta el őket közeledésekor, és remegtek Jeruzsálemért és az Úrnak, az ő Istenüknek Templomáért."
+  },
+  {
+    "i": 23814,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 3,
+    "t": "Éppen csak feljöttek a fogságból, és a nép Júdeában való újraszervezése, a szent bútorzat, az oltár és a megszentségtelenített Templom megtisztítása nemrég történt."
+  },
+  {
+    "i": 23815,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 4,
+    "t": "Értesítették tehát egész Szamáriát, Kónát, Bétórónt, Belmáint, Jerikót, Chobát, Észórát és Szálem völgyét."
+  },
+  {
+    "i": 23816,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 5,
+    "t": "A legmagasabb hegyek csúcsait elfoglalták, a rajta lévő városokat megerősítették. Készleteket készítettek a háborúra, mert a mezőket éppen learatották."
+  },
+  {
+    "i": 23817,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 6,
+    "t": "Joakim főpap, aki akkor Jeruzsálemben lakott, írt Bétulia és Bétomesztaim lakóinak, amelyek Eszdrelonnal szemben és a Dótaim síksága felé fekszenek,"
+  },
+  {
+    "i": 23818,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 7,
+    "t": "hogy foglalják el a hegy magas hágóit, amelyek az egyetlen út Júdea felé. Könnyen megállíthatják a támadókat, mivel a szorosban csak ketten tudnak egymás mellett haladni."
+  },
+  {
+    "i": 23819,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 8,
+    "t": "Az Izraeliták végrehajtották Joakim főpap és Izrael népének véneinek tanácsának parancsait, akik Jeruzsálemben ültek."
+  },
+  {
+    "i": 23820,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 9,
+    "t": "Kitartó buzgalommal Izrael minden embere Istenhez kiáltott, és megalázta magát előtte."
+  },
+  {
+    "i": 23821,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 10,
+    "t": "Ők, feleségeik, gyermekeik, nyájaik, mindazok, akik velük éltek, zsoldosok vagy rabszolgák, zsákruhát öltöttek derekukra."
+  },
+  {
+    "i": 23822,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 11,
+    "t": "Jeruzsálem minden izraelita lakója, beleértve a nőket és a gyermekeket is, leborult a szentély előtt, és hamuval borított fejjel kinyújtotta kezét az Úr előtt."
+  },
+  {
+    "i": 23823,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 12,
+    "t": "Az oltárt is zsákruhába burkolták. Nagy kiáltásokkal esedeztek egyhangúan és buzgón Izrael Istenéhez, hogy ne adja gyermekeiket fosztogatásra, feleségeiket elrablásra, örökségük városait pusztulásra, a Templomot megszentségtelenítésre és a pogányok sértő gúnyjára."
+  },
+  {
+    "i": 23824,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 13,
+    "t": "Figyelvén hangjukra, az Úr figyelembe vette nyomorúságukat. Egész Júdeában és Jeruzsálemben a Mindenható Úr szentélye előtt a nép hosszú napokon át böjtölt."
+  },
+  {
+    "i": 23825,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 14,
+    "t": "Joakim főpap és mindazok, akik az Úr előtt álltak, papok és az Úr szolgái, zsákruhával a derekukon, felajánlották az örök égőáldozatot, a fogadalmi felajánlásokat és a nép önkéntes adományait,"
+  },
+  {
+    "i": 23826,
+    "b": 41,
+    "c": 4304,
+    "r": 4304,
+    "o": 15,
+    "t": "és hamuval borított turbánjukkal buzgón esedeztek az Úrhoz, hogy látogassa meg Izrael házát."
+  },
+  {
+    "i": 23827,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 1,
+    "t": "Holofernésznek, az asszír hadsereg fővezérének tudtul adták, hogy az izraeliták harcra készülnek: azt mondták, lezárták a hegy hágóit, megerősítették a magas csúcsokat, és akadályokat helyeztek el a síkságokon."
+  },
+  {
+    "i": 23828,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 2,
+    "t": "Erre heves haragra gerjedt, összehívta Moab összes fejedelmét, Ammon összes tábornokát és a tengerpart összes szatrapáját."
+  },
+  {
+    "i": 23829,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 3,
+    "t": "„Kánaán fiai – mondta nekik –, mondjátok meg nekem: Milyen nép lakik a hegyvidéken? Milyen városokban lakik? Mekkora a hadserege? Miben rejlik hatalma és ereje? Ki az a király, aki vezeti hadseregét?"
+  },
+  {
+    "i": 23830,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 4,
+    "t": "Miért vetette meg, hogy elém jöjjön, ellentétben a nyugati régió összes lakosával?”"
+  },
+  {
+    "i": 23831,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 5,
+    "t": "Ákhiór, az ammoniták feje így válaszolt neki: „Hallgassa meg kegyelmes uram, kérlek, szolgád szavait. Igazat mondok neked erről a hegyi népről, amely közel lakik hozzád. Szolgád szájából nem jön ki hazugság."
+  },
+  {
+    "i": 23832,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 6,
+    "t": "Ennek a népnek a tagjai a káldeusok leszármazottai."
+  },
+  {
+    "i": 23833,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 7,
+    "t": "Régebben Mezopotámiában laktak, mert nem akarták követni atyáik isteneit, akik Káldeában laktak."
+  },
+  {
+    "i": 23834,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 8,
+    "t": "Ezért eltértek őseik útjától, és imádták az ég Istenét, azt az Istent, akit megismertek. Ekkor száműzték őket isteneik arca elől, és Mezopotámiába menekültek, ahol sokáig laktak."
+  },
+  {
+    "i": 23835,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 9,
+    "t": "Istenük jelezte nekik, hogy hagyják el lakhelyüket és menjenek Kánaán földjére, ott letelepedtek és bőségesen elhalmozták őket arannyal, ezüsttel és számos nyájjal."
+  },
+  {
+    "i": 23836,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 10,
+    "t": "Aztán lementek Egyiptomba, mert éhínség sújtotta Kánaán földjét, és ott maradtak, amíg találtak élelmet. Ott nagy tömeggé és számtalan nemzetté váltak."
+  },
+  {
+    "i": 23837,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 11,
+    "t": "De Egyiptom királya felemelkedett ellenük, és tréfált velük azáltal, hogy téglagyártásra kényszerítette őket. Megalázták őket, rabszolgaságba vetették őket."
+  },
+  {
+    "i": 23838,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 12,
+    "t": "Istenükhöz kiáltottak, aki megverte egész Egyiptom földjét gyógyíthatatlan csapásokkal. Az egyiptomiak ekkor elűzték őket maguk közül."
+  },
+  {
+    "i": 23839,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 13,
+    "t": "Isten előttük kiszárította a Vörös-tengert,"
+  },
+  {
+    "i": 23840,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 14,
+    "t": "és a Sínai és Kádes Barnea útján vezette őket. Miután elűzték a sivatag valamennyi lakóját,"
+  },
+  {
+    "i": 23841,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 15,
+    "t": "letelepedtek az amoriták földjén, és erőteljesen kiirtották Heshbón valamennyi lakóját. Aztán átkelve a Jordánon, birtokba vették az egész hegyvidéket,"
+  },
+  {
+    "i": 23842,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 16,
+    "t": "elűzve maguk elől a kánaánitákat, a perizzitákat, a jebusitákat, a szichemiteket és az összes girgasitát, és ott laktak hosszú napokon át."
+  },
+  {
+    "i": 23843,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 17,
+    "t": "Amíg nem vétkeztek Istenük előtt, a jólét velük volt, mert van egy Istenük, aki gyűlöli a gonoszságot."
+  },
+  {
+    "i": 23844,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 18,
+    "t": "Amikor viszont eltértek attól az úttól, amelyet kijelölt nekik, egy részük teljesen elpusztult számos háborúban, a másik részüket pedig fogságba vitték egy idegen földre. Istenük Templomát lerombolták, és városaik ellenségeik kezébe kerültek."
+  },
+  {
+    "i": 23845,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 19,
+    "t": "Akkor ismét Istenükhöz fordultak, feljöttek szétszóródásukból, azokról a helyekről, ahová szétszóródtak, ismét birtokba vették Jeruzsálemet, ahol Templomuk van, és újranépesítették a pusztán maradt hegyvidéket."
+  },
+  {
+    "i": 23846,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 20,
+    "t": "És most, mester és úr, ha van ebben a népben valami eltévelyedés, ha vétkeztek Istenük ellen, akkor győződjünk meg arról, hogy van-e bennük ez a bukás oka. Aztán menjünk fel, támadjuk meg őket."
+  },
+  {
+    "i": 23847,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 21,
+    "t": "De ha nincs igazságtalanság nemzetükben, akkor kegyelmes uram tartózkodjon tőle, nehogy Uruk és Istenük megvédje őket. Akkor az egész föld nevetése lennénk!”"
+  },
+  {
+    "i": 23848,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 22,
+    "t": "Amikor Ákhiór befejezte a beszédet, a sátor körül összegyűlt tömeg mind morogni kezdett. Holofernész főemberei, a tengerpart valamennyi lakója, valamint a moabiták is darabokra akarták szaggatni őt."
+  },
+  {
+    "i": 23849,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 23,
+    "t": "„Mit kell tehát félnünk az izraelitáktól? Ez egy erő és hatalom nélküli nép, amely képtelen kiállni egy kicsit is keményebb harcot."
+  },
+  {
+    "i": 23850,
+    "b": 41,
+    "c": 4305,
+    "r": 4305,
+    "o": 24,
+    "t": "Rajta tehát! Menjünk fel, és a sereged egy harapás lesz belőlük, ó, mi mesterünk, Holofernész!”"
+  },
+  {
+    "i": 23851,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 1,
+    "t": "Amikor elcsendesedett a tanács körül összegyűlt emberek zaja, Holofernész, Assur hadseregének fővezére a külföldiek és az ammoniták egész tömege előtt szidta Ákhiórt:"
+  },
+  {
+    "i": 23852,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 2,
+    "t": "„Ki vagy te, Ákhiór, te az efraimi zsoldosokkal, hogy úgy jövendölsz nálunk, ahogy ma teszed, és lebeszélsz bennünket arról, hogy háborút indítsunk Izrael nemzetsége ellen? Azt állítod, hogy Istenük megvédi őket? Ki hát az isten Nabukodonozoron kívül? Ő fogja elküldeni hatalmát, és eltünteti őket a föld színéről, és nem az ő Istenük fogja őket megmenteni!"
+  },
+  {
+    "i": 23853,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 3,
+    "t": "De mi, az ő szolgái, összetörjük őket, mint egyetlen embert! Nem tudják majd feltartóztatni lovaink erejét."
+  },
+  {
+    "i": 23854,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 4,
+    "t": "Összevissza égetjük őket. Hegyeik megrészegülnek vérüktől, és síkságaik tele lesznek holttesteikkel. Ahelyett, hogy meg tudnák vetni a lábukat előttünk, az elsőtől az utolsóig el fognak pusztulni – mondja Nabukodonozor király, az egész föld ura. Mert ő szólt, és szavai nem lesznek hiábavalóak."
+  },
+  {
+    "i": 23855,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 5,
+    "t": "Te tehát, Ákhiór, ammonita zsoldos, aki ezt a beszédet hirtelen felindulásból mondtad, mától kezdve nem látod többé arcomat addig a napig, amíg bosszút nem állok ezen az Egyiptomból elmenekült fajon."
+  },
+  {
+    "i": 23856,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 6,
+    "t": "Akkor katonáim kardja és szolgáim lándzsája átszúrja az oldaladat. A sebesültek között fogsz elesni, amikor Izrael ellen fordulok."
+  },
+  {
+    "i": 23857,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 7,
+    "t": "Szolgáim most felvisznek a hegyre, és ott hagynak a szorosokban fekvő városok egyikének közelében."
+  },
+  {
+    "i": 23858,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 8,
+    "t": "Nem pusztulsz el anélkül, hogy ne osztoznál a pusztulásukban."
+  },
+  {
+    "i": 23859,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 9,
+    "t": "Ne vedd ezt az elkeseredett arcot, ha titokban azt reméled, hogy nem fogják elfogni őket! Én mondtam; egyik szavam sem marad hatás nélkül.”"
+  },
+  {
+    "i": 23860,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 10,
+    "t": "Holofernész megparancsolta sátorszolgáinak, hogy fogják meg Ákhiórt, vigyék el Bétuliába, és adják át az izraeliták kezébe."
+  },
+  {
+    "i": 23861,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 11,
+    "t": "A szolgák tehát megragadták őt, elvitték a táborból a síkságon át, és onnan a hegy irányába tartva eljutottak a Bétulia alatti forrásokhoz."
+  },
+  {
+    "i": 23862,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 12,
+    "t": "Amikor a város emberei meglátták őket, fegyvert fogtak, kijöttek a városból, és elfoglalták a hegygerincet, miközben a parittyások kövekkel szórták meg őket, hogy megakadályozzák a feljutásukat."
+  },
+  {
+    "i": 23863,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 13,
+    "t": "Így éppen csak le tudtak csúszni a lejtők aljára, megkötözték Ákhiórt, és a hegy lábánál hagyták, mielőtt visszatértek mesterükhöz."
+  },
+  {
+    "i": 23864,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 14,
+    "t": "Az izraeliták ekkor leereszkedtek városukból, megálltak mellette, eloldozták, elvitték Bétuliába, és bemutatták a város vezetőinek,"
+  },
+  {
+    "i": 23865,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 15,
+    "t": "akik akkor Ozias, Míkhea fia, Simeon törzséből, Kabris, Gotóniel fia, és Harmis, Melkiel fia voltak."
+  },
+  {
+    "i": 23866,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 16,
+    "t": "Összehívták a város véneit. A fiatalok és a nők is a gyűlésre siettek. Ozias megkérdezte Ákhiórt, aki a nép közepén állt, hogy mi történt."
+  },
+  {
+    "i": 23867,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 17,
+    "t": "Szólásra emelkedve tudatta velük Holofernész tanácsának határozatait, mindazt, amit ő maga mondott az asszír főemberek között, valamint Holofernész rodomontádáit Izrael háza címére."
+  },
+  {
+    "i": 23868,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 18,
+    "t": "Ekkor a nép leborult, imádta Istent, és felkiáltott:"
+  },
+  {
+    "i": 23869,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 19,
+    "t": "„Úr, ég Istene, tekints mértéktelen büszkeségükre, és könyörülj nemzetségünk megaláztatásán. Ezen a napon fordítsd kedvező arcodat azok felé, akik neked szenteltek.”"
+  },
+  {
+    "i": 23870,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 20,
+    "t": "Aztán megnyugtatták Ákhiórt, akit élénken üdvözöltek."
+  },
+  {
+    "i": 23871,
+    "b": 41,
+    "c": 4306,
+    "r": 4306,
+    "o": 21,
+    "t": "A gyűlésről kijövet Ozias magához vitte, és lakomát adott a véneknek. Egész éjjel Izrael Istenének segítségét kérték."
+  },
+  {
+    "i": 23872,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 1,
+    "t": "Másnap Holofernész parancsot adott egész seregének és a hozzájuk csatlakozott segédcsapatok egész tömegének, hogy tábort bontsanak, vonuljanak Bétuliára, foglalják el a hegy magas hágóit, és így kezdjenek háborút az izraeliták ellen."
+  },
+  {
+    "i": 23873,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 2,
+    "t": "Ezen a napon tehát minden fegyveres férfi tábort bontott. Harcra kész hadseregük százezer gyalogosból és tízezer lovasból állt, nem számítva a poggyászokat és a velük kevert jelentős tömeget."
+  },
+  {
+    "i": 23874,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 3,
+    "t": "Béthulia közelében, a völgybe vonultak a forrás felé, és mélységben kiterjedtek Dotaíntól Belbainig, hosszirányban pedig Bétuliától Ciamónig, amely Eszdrelonnal szemben fekszik."
+  },
+  {
+    "i": 23875,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 4,
+    "t": "Amikor az izraeliták meglátták ezt a tömeget, mind remegve azt mondták egymásnak: „És most lenyírják az egész országot! Sem a legmagasabb csúcsok, sem a szurdokok, sem a dombok nem tudnak kitartani a tömegük alatt!”"
+  },
+  {
+    "i": 23876,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 5,
+    "t": "Mindenki fegyvert fogott, a tornyokon tüzeket gyújtottak, és az éjszakát virrasztással töltötték."
+  },
+  {
+    "i": 23877,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 6,
+    "t": "Másnap Holofernész az izraeliták szeme láttára, akik Bétuliában voltak, kibontakoztatta egész lovasságát."
+  },
+  {
+    "i": 23878,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 7,
+    "t": "Felfedezte a városukhoz vezető emelkedőket, felmérte a vízforrásokat, elfoglalta azokat, katonai őrségeket helyezett el, és maga is visszatért a seregéhez."
+  },
+  {
+    "i": 23879,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 8,
+    "t": "Aztán Ézsau fiainak fejedelmei, a moabiták népének vezetői és a tengerparti körzet tábornokai közeledtek hozzá, és azt mondták neki:"
+  },
+  {
+    "i": 23880,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 9,
+    "t": "\"Hallgasson reánk a mi urunk, és ne sérüljön meg egyetlen hadosa sem."
+  },
+  {
+    "i": 23881,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 10,
+    "t": "Ezen Izrael fiai nem annyira dárdáikban bíznak, mint a hegyek magasságában, melyeken lakoznak. Mert bizony nem könnyű felhágni ormaikra!`\""
+  },
+  {
+    "i": 23882,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 11,
+    "t": "\"Ezért, uram, ne hadakozz velük egyenes csatában, és egyetlen ember se hulljon el népedből."
+  },
+  {
+    "i": 23883,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 12,
+    "t": "\"Maradj táborodban, és őrizd ott a te hadaidat, de szolgáid foglalják el a forrást, mely a hegy lábánál fakad."
+  },
+  {
+    "i": 23884,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 13,
+    "t": "\"Mert ott nyernek vizet Betulia lakosai. A szomjúság kényszeríti őket, hogy átadják neked városukat. Mi pedig a mi népünkkel felmegyünk a legközelebbi hegyek ormaira, és ott táborozunk előörsként: így egyetlen ember sem jöhet ki a városból."
+  },
+  {
+    "i": 23885,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 14,
+    "t": "\"Az éhség felemészti őket, asszonyaikat és gyermekeiket, és mielőtt a kard elérné őket, már holtan terülnek el az utcákon, házaik előtt."
+  },
+  {
+    "i": 23886,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 15,
+    "t": "\"És keményen megfizeted velük lázadásukat és azért, mert nem akartak békésen eléd járulni."
+  },
+  {
+    "i": 23887,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 16,
+    "t": "\"Ezen szavak tetszettek Holofernésznek és minden tisztségviselőjének, és úgy határozott, hogy javaslataik szerint cselekszik."
+  },
+  {
+    "i": 23888,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 17,
+    "t": "\"Egy csapat moábita indult tehát, és velük ötezer asszír. Belopóztak a völgybe, és elfoglalták az izraeliták vízlelőhelyeit és forrásait."
+  },
+  {
+    "i": 23889,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 18,
+    "t": "\"Az edomiták és az ammoniták pedig felmentek a maguk részéről, pozíciót foglaltak a Dotainnal szembeni hegyen, és embereiket délre és keletre küldték, Egrebel felé, mely közel van Hús városához, a Mokmur pataknál. Az asszír hadsereg maradéka a síkságon foglalt helyet, és befedte az egész vidéket. Sátrak és poggyászok hatalmas tábort alkottak, mert számuk igen nagy volt."
+  },
+  {
+    "i": 23890,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 19,
+    "t": "\"Az izraeliták az Úrhoz, az ő Istenükhöz kiáltottak. Elvesztették bátorságukat, mert az ellenségek körülzárták őket, és elvágták minden menekülési útvonalukat."
+  },
+  {
+    "i": 23891,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 20,
+    "t": "\"Harmincnégy napon át az asszír hadsereg, gyalogosok, harci kocsik és lovasok, körülzárták őket. Betulia lakosai látták kiürülni minden vízhordó edényt"
+  },
+  {
+    "i": 23892,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 21,
+    "t": "\"és a ciszternák kimerültek. Nem lehetett szomjasan inni egyetlen napig sem, mert az vizet adagolták."
+  },
+  {
+    "i": 23893,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 22,
+    "t": "\"A gyermekek kétségbeestek, az asszonyok és a serdülők elájultak a szomjúságtól. Az utcákon és a városkapuk kijárataiban estek össze, minden erő nélkül."
+  },
+  {
+    "i": 23894,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 23,
+    "t": "\"Az egész nép, serdülők, asszonyok és gyermekek, összegyűltek Ozziás és a város vezetői köré, nagy kiáltásokat hallatva, és mondván minden vének jelenlétében:"
+  },
+  {
+    "i": 23895,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 24,
+    "t": "\"Az Isten legyen bíró köztetek és közöttünk, mert ti okoztatok nekünk hatalmas sérelmet azzal, hogy nem bántatok barátságosan az asszírokkal."
+  },
+  {
+    "i": 23896,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 25,
+    "t": "\"Most már nincs senki, aki segíthetne rajtunk. Isten kezükbe adott minket, hogy a szomjúság lekaszáljon minket előttük, és teljesen elpusztuljunk."
+  },
+  {
+    "i": 23897,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 26,
+    "t": "\"Hívjátok hát azonnal őket. Adjátok át teljesen a várost Holofernész és egész hadserege prédájául."
+  },
+  {
+    "i": 23898,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 27,
+    "t": "\"Végül is sokkal jobb nekünk, ha zsákmányukká válunk. Így rabszolgák leszünk ugyan, de élni fogunk, és nem látjuk saját szemünkkel gyermekeink halálát, sem asszonyaink és gyermekeink elmúlását."
+  },
+  {
+    "i": 23899,
+    "b": 41,
+    "c": 4307,
+    "r": 4307,
+    "o": 28,
+    "t": "\"Esküszünk néktek az égre és a földre, valamint a mi Istenünkre, atyáinknak Urára, aki megbüntet minket vétkeink miatt és atyáink áthágásaiért, hogy még ma e szerint cselekedjetek!"
+  }
+]

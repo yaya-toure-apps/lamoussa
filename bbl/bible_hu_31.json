@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3100,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 50,
+    "t": "A pap megvizsgálja a bajt, és az érintett tárgyat hét napig elkülöníti."
+  },
+  {
+    "i": 3101,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 51,
+    "t": "Ha a hetedik napon látja, hogy a baj kiterjedt a ruhára, a szövetre, a takaróra, a bőrre vagy a bőrbe készült tárgyra, legyen az bármi, akkor az fertőző lepra esete: a beteg tárgy tisztátalan."
+  },
+  {
+    "i": 3102,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 52,
+    "t": "Égesse el azt a ruhát, azt a szövetet, azt a gyapjú- vagy vászontakarót, azt a bőrtárgyat, legyen az bármi, amelyen a baj megjelent, mert az fertőző lepra, melyet tűznek kell felemésztenie."
+  },
+  {
+    "i": 3103,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 53,
+    "t": "De ha a pap a vizsgálatkor megállapítja, hogy a baj nem terjedt ki a ruhára, a szövetre, a takaróra vagy a bőrtárgyra, legyen az bármi,"
+  },
+  {
+    "i": 3104,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 54,
+    "t": "parancsolja meg, hogy tisztítsák meg a beteg tárgyat, és másodszor is különítse el hét napig."
+  },
+  {
+    "i": 3105,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 55,
+    "t": "Tisztítás után vizsgálja meg a bajt, és ha megállapítja, hogy nem változott a kinézete, miközben nem terjedt tovább, a tárgy tisztátalan. Tűzzel emészd el: korrózió van rajta, mindkét oldalán."
+  },
+  {
+    "i": 3106,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 56,
+    "t": "De ha a pap a vizsgálatkor megállapítja, hogy tisztítás után a baj elhalványult, tépje le a ruháról, a bőrről, a szövetről vagy a takaróról."
+  },
+  {
+    "i": 3107,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 57,
+    "t": "Ha azonban a baj újra megjelenik a ruhán, a szöveten, a takarón vagy a bőrtárgyon, legyen az bármi, akkor a baj aktív, és tűzzel emészd el azt, ami érintett."
+  },
+  {
+    "i": 3108,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 58,
+    "t": "A ruhát, a szövetet, a takarót és a bőrből készült tárgyat, amelyről a baj eltűnt tisztítás után, tisztának kell lennie, miután másodszor is megtisztították."
+  },
+  {
+    "i": 3109,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 59,
+    "t": "Ez a törvény a gyapjúból vagy vászonból készült ruhára, a szövetre, a takaróra vagy a bőrből készült tárgyra, legyen az bármi, ha tisztának vagy tisztátalannak kell nyilvánítani."
+  },
+  {
+    "i": 3110,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 1,
+    "t": "Szólt az Úr Mózeshez, mondván:"
+  },
+  {
+    "i": 3111,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 2,
+    "t": "Ez a törvény a leprás számára az ő megtisztulásának napján. Vezessék őt a paphoz,"
+  },
+  {
+    "i": 3112,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 3,
+    "t": "és a pap menjen ki a táborból. Ha a vizsgálat után megállapítja, hogy a leprás meggyógyult a leprájából,"
+  },
+  {
+    "i": 3113,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 4,
+    "t": "parancsolja meg, hogy vegyenek a megtisztítandó ember számára két élő és tiszta madarat, cédrusfát, karmazsint és izsópot."
+  },
+  {
+    "i": 3114,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 5,
+    "t": "Majd parancsolja meg, hogy öljenek le egy madarat egy cserépedényben folyóvíz felett."
+  },
+  {
+    "i": 3115,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 6,
+    "t": "Az élő madarat pedig vegye a cédrusfával, a karmazsinnal, az izsóppal együtt, és mártsa bele az egészet (beleértve az élő madarat is) a folyóvíz felett leölt madár vérébe."
+  },
+  {
+    "i": 3116,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 7,
+    "t": "Akkor hétszer hintse meg a leprától megtisztítandó embert, és miután tisztának nyilvánította, engedje el az élő madarat a mezőre."
+  },
+  {
+    "i": 3117,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 8,
+    "t": "Aki megtisztul, tisztítsa meg ruháit, borotválja le az összes szőrét, mossa meg magát vízzel, és legyen tiszta. Ezután térjen vissza a táborba, de hét napig maradjon a sátrán kívül."
+  },
+  {
+    "i": 3118,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 9,
+    "t": "A hetedik napon borotválja le az összes szőrét: a haját, a szakállát, a szemöldökét; az összes szőrét le kell borotválnia. Miután megtisztította ruháit, és megmosta magát vízzel, legyen tiszta."
+  },
+  {
+    "i": 3119,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 10,
+    "t": "A nyolcadik napon vegyen két hibátlan bárányt, egy egyéves hibátlan bárányt, háromtizednyi olajjal gyúrt finomlisztet áldozatul, és egy pint olajat."
+  },
+  {
+    "i": 3120,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 11,
+    "t": "A pap, aki végrehajtja a megtisztítást, állítsa a megtisztítandó embert és az ő felajánlásait a Találkozás Sátorának bejáratához, az Úr elé."
+  },
+  {
+    "i": 3121,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 12,
+    "t": "Akkor vegye az egyik bárányt. Ajánlja fel bűnért való áldozatul a pint olajjal együtt. Végezze el velük a bemutatás gesztusát az Úr előtt."
+  },
+  {
+    "i": 3122,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 13,
+    "t": "Ölje le a bárányt a szent helyen, ahol a bűnért való áldozatok és az égőáldozatok áldozatait ölik le. Ez a bűnért való áldozat a papé lesz, mint a bűnért való áldozat, ez egy nagyon szent dolog."
+  },
+  {
+    "i": 3123,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 14,
+    "t": "A pap vegyen a bűnért való áldozat véréből. Kenje rá annak a megtisztítandó embernek a jobb fülcimpájára, a jobb kezének hüvelykujjára és a jobb lábának nagylábujjára."
+  },
+  {
+    "i": 3124,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 15,
+    "t": "Akkor vegye a pint olajat, és töltsön egy keveset a bal kezének tenyerébe."
+  },
+  {
+    "i": 3125,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 16,
+    "t": "Mártsa a jobb kezének egyik ujját a bal kezének tenyerében lévő olajba, és ezzel az olajjal végezzen az ujjával hétszeri meghintést az Úr előtt."
+  },
+  {
+    "i": 3126,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 17,
+    "t": "Majd tegyen egy keveset a tenyerében maradt olajból annak a megtisztítandó embernek a jobb fülcimpájára, a jobb kezének hüvelykujjára és a jobb lábának nagylábujjára, a bűnért való áldozat vére mellé."
+  },
+  {
+    "i": 3127,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 18,
+    "t": "A tenyerében maradt olaj többi részét tegye annak a megtisztítandó embernek a fejére. Így végezte el rajta az engesztelés szertartását az Úr előtt."
+  },
+  {
+    "i": 3128,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 19,
+    "t": "Akkor a pap végezze el a bűnért való áldozatot, és hajtsa végre azon, aki megtisztul, a tisztátalanságának engesztelési szertartását. Ezután ölje meg az égőáldozatot,"
+  },
+  {
+    "i": 3129,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 20,
+    "t": "vigye fel az égőáldozatot és az áldozatot az oltárra. Amikor a pap így végrehajtotta az emberen az engesztelés szertartását, tiszta lesz."
+  },
+  {
+    "i": 3130,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 21,
+    "t": "Ha szegény és nincs elegendő forrása, vegyen csak egy bárányt, a bűnért való áldozat bárányát, és azt a bemutatás gesztusa szerint ajánlják fel, hogy végrehajtsák ezen az emberen az engesztelés szertartását. Vegyen csak egytizednyi olajjal gyúrt finomlisztet is áldozatul, és egy pint olajat,"
+  },
+  {
+    "i": 3131,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 22,
+    "t": "végül két gerlét vagy két galambot – ha meg tudja azokat szerezni –, melyek közül az egyik a bűnért való áldozat, a másik pedig az égőáldozat számára lesz."
+  },
+  {
+    "i": 3132,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 23,
+    "t": "A nyolcadik napon viszi azokat megtisztulása végett a paphoz, a Találkozás Sátorának bejáratához, az Úr elé."
+  },
+  {
+    "i": 3133,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 24,
+    "t": "A pap vegye a bűnért való áldozat bárányát és a pint olajat. Ajánlja fel azokat bemutatásra az Úr előtt."
+  },
+  {
+    "i": 3134,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 25,
+    "t": "Majd, miután megölte ezt a bűnért való áldozat bárányát, vegyen annak a véréből, és kenje rá annak a megtisztítandó embernek a jobb fülcimpájára, a jobb kezének hüvelykujjára és a jobb lábának nagylábujjára."
+  },
+  {
+    "i": 3135,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 26,
+    "t": "Öntsön olajat a bal kezének tenyerébe,"
+  },
+  {
+    "i": 3136,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 27,
+    "t": "és a bal kezének tenyerében lévő olajból végezzen az ujjával hétszeri meghintést az Úr előtt."
+  },
+  {
+    "i": 3137,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 28,
+    "t": "Kenje rá annak a megtisztítandó embernek a jobb fülcimpájára, a jobb kezének hüvelykujjára és a jobb lábának nagylábujjára, arra a helyre, ahová a bűnért való áldozat vérét kenték."
+  },
+  {
+    "i": 3138,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 29,
+    "t": "Ami megmaradt az olajból a tenyerében, kenje annak a megtisztítandó embernek a fejére, és végezze el rajta az engesztelés szertartását az Úr előtt."
+  },
+  {
+    "i": 3139,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 30,
+    "t": "A két gerléből vagy a két galambból – abból, amit meg tud szerezni – tegye"
+  },
+  {
+    "i": 3140,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 31,
+    "t": "az egyiket bűnért való áldozatul, a másikat pedig égőáldozatul áldozattal együtt – azzal, amit meg tud szerezni. A pap így végezte el az engesztelés szertartását az Úr előtt azon, aki megtisztul."
+  },
+  {
+    "i": 3141,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 32,
+    "t": "Ez a törvény arra vonatkozik, aki leprás, és nincs abban a helyzetben, hogy gondoskodjon a megtisztulásáról."
+  },
+  {
+    "i": 3142,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 33,
+    "t": "Szólt az Úr Mózeshez és Áronhoz, mondván:"
+  },
+  {
+    "i": 3143,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 34,
+    "t": "Amikor megérkeztek Kánaán földjére, amelyet birtokul adok nektek, ha leprával sújtok egy házat a birtokotok földjén,"
+  },
+  {
+    "i": 3144,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 35,
+    "t": "annak tulajdonosa jöjjön, értesítse a papot, és mondja: „Mintha leprát láttam volna a házban.”"
+  },
+  {
+    "i": 3145,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 36,
+    "t": "A pap parancsolja meg, hogy ürítsék ki a házat, mielőtt eljönne megvizsgálni a bajt; így semmi sem lesz tisztátalan, ami benne van. Ezután jöjjön a pap, és szemlélje meg a házat,"
+  },
+  {
+    "i": 3146,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 37,
+    "t": "és ha a vizsgálat után zöldes vagy vöröses mélyedéseket talál a ház falain, amelyek üreget képeznek a falban,"
+  },
+  {
+    "i": 3147,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 38,
+    "t": "a pap menjen ki a házból, az ajtóhoz, és zártassa be azt hét napra."
+  },
+  {
+    "i": 3148,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 39,
+    "t": "A hetedik napon térjen vissza, és ha a vizsgálat után megállapítja, hogy a baj kifejlődött a ház falain,"
+  },
+  {
+    "i": 3149,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 40,
+    "t": "parancsolja meg, hogy távolítsák el a baj által megtámadott köveket, és dobják ki azokat a városon kívülre, tisztátalan helyre."
+  },
+  {
+    "i": 3150,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 41,
+    "t": "Akkor kaparják le a ház összes belső falát, és a leválasztott vakolatot szórják ki a városon kívülre, egy tisztátalan helyre."
+  },
+  {
+    "i": 3151,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 42,
+    "t": "Vegyenek más köveket az első kövek helyett, és más vakolatot a ház újravakolásához."
+  },
+  {
+    "i": 3152,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 43,
+    "t": "Ha a baj újra elszaporodik a kövek eltávolítása, a lekaparás és a ház vakolása után,"
+  },
+  {
+    "i": 3153,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 44,
+    "t": "a pap jöjjön el, és vizsgálja meg; ha megállapítja, hogy a baj kifejlődött, az fertőző lepra a házban; a ház tisztátalan."
+  },
+  {
+    "i": 3154,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 45,
+    "t": "Bontsák le azt, és vigyék a köveit, a gerendáit és az összes vakolatát a városon kívülre, egy tisztátalan helyre."
+  },
+  {
+    "i": 3155,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 46,
+    "t": "Aki bemegy a házba, amíg zárva van, tisztátalan lesz estig."
+  },
+  {
+    "i": 3156,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 47,
+    "t": "Aki ott fekszik, tisztítsa meg ruháit. Aki ott eszik, tisztítsa meg ruháit."
+  },
+  {
+    "i": 3157,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 48,
+    "t": "De ha a pap, amikor eljön megvizsgálni a bajt, megállapítja, hogy a vakolás után a baj nem fejlődött ki a házban, nyilvánítsa a házat tisztának, mert a baj meggyógyult."
+  },
+  {
+    "i": 3158,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 49,
+    "t": "A házért való bűnért való áldozat végett vegyen két madarat, cédrusfát, karmazsint és izsópot."
+  },
+  {
+    "i": 3159,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 50,
+    "t": "Ölje meg az egyik madarat egy cserépedényben folyóvíz felett."
+  },
+  {
+    "i": 3160,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 51,
+    "t": "Akkor vegye a cédrusfát, az izsópot, a karmazsint és az élő madarat, hogy bemártsa azokat a leölt madár vérébe és a folyóvízbe. Hétszer hintse meg a házat,"
+  },
+  {
+    "i": 3161,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 52,
+    "t": "és miután a madár vérével, a folyóvízzel, az élő madárral, a cédrusfával, az izsóppal és a karmazsinnal bemutatta a bűnért való áldozatot a házért,"
+  },
+  {
+    "i": 3162,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 53,
+    "t": "engedje el az élő madarat a városon kívülre, a mezőre. A házon így végzett engesztelés után a ház tiszta lesz."
+  },
+  {
+    "i": 3163,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 54,
+    "t": "Ez a törvény minden lepra és ótvar esetére,"
+  },
+  {
+    "i": 3164,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 55,
+    "t": "a ruhák és a házak leprájára,"
+  },
+  {
+    "i": 3165,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 56,
+    "t": "a daganatokra, a kiütésekre és a foltokra."
+  },
+  {
+    "i": 3166,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 57,
+    "t": "Meghatározza a tisztátalanság és a tisztaság idejét. Ez a törvény a lepráról."
+  },
+  {
+    "i": 3167,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 1,
+    "t": "Szólt az Úr Mózeshez és Áronhoz, mondván:"
+  },
+  {
+    "i": 3168,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 2,
+    "t": "Szóljatok Izrael fiainak, mondjátok nekik: Ha egy férfinak folyás van a testéből, az a folyás tisztátalan."
+  },
+  {
+    "i": 3169,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 3,
+    "t": "Ebben áll a tisztátalansága, amíg folyása van: Akár folyik ki a teste a folyást, akár visszatartja, tisztátalan."
+  },
+  {
+    "i": 3170,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 4,
+    "t": "Minden ágy, amelyen ez az ember fekszik, tisztátalan lesz, és minden bútor, amelyen ül, tisztátalan lesz."
+  },
+  {
+    "i": 3171,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 5,
+    "t": "Aki megérinti az ágyát, tisztítsa meg ruháit, mossa meg magát vízzel, és tisztátalan lesz estig."
+  },
+  {
+    "i": 3172,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 6,
+    "t": "Aki leül egy bútorra, amelyen ez az ember ült, tisztítsa meg ruháit, mossa meg magát vízzel, és tisztátalan lesz estig."
+  },
+  {
+    "i": 3173,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 7,
+    "t": "Aki megérinti ennek az embernek a testét, tisztítsa meg ruháit, mossa meg magát vízzel, és tisztátalan lesz estig."
+  },
+  {
+    "i": 3174,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 8,
+    "t": "Ha ez az ember tiszta személyre köp, annak meg kell tisztítania ruháit, meg kell mosnia magát vízzel, és tisztátalan lesz estig."
+  },
+  {
+    "i": 3175,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 9,
+    "t": "Minden nyereg, amelyen ez az ember utazott, tisztátalan lesz."
+  },
+  {
+    "i": 3176,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 10,
+    "t": "Mindazok, akik megérintenek bármilyen tárgyat, amely alatta volt, tisztátalanok lesznek estig. Aki ilyen tárgyat szállít, tisztítsa meg ruháit, mossa meg magát vízzel, és tisztátalan lesz estig."
+  },
+  {
+    "i": 3177,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 11,
+    "t": "Mindazok, akiket ez az ember megérint anélkül, hogy kezet mosott volna, tisztítsák meg ruháikat, mossák meg magukat vízzel, és tisztátalanok lesznek estig."
+  },
+  {
+    "i": 3178,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 12,
+    "t": "A cserépedényt, amelyet ez az ember megérint, törjék el, és minden faeszközt meg kell öblíteni."
+  },
+  {
+    "i": 3179,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 13,
+    "t": "Amikor ez az ember meggyógyul, számoljon hét napot a megtisztulására. Tisztítsa meg ruháit, mossa meg testét folyóvízzel, és legyen tiszta."
+  },
+  {
+    "i": 3180,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 14,
+    "t": "A nyolcadik napon vegyen két gerlicét, vagy két galambfiókát, és vigye azokat a gyülekezés sátorának bejáratához, az Úr elé, és adja át a papnak."
+  },
+  {
+    "i": 3181,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 15,
+    "t": "Az egyiket áldozatul adja a bűnért, a másikat pedig égő áldozatul. Így végezzen a pap engesztelést érte az Úr előtt a folyása miatt."
+  },
+  {
+    "i": 3182,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 16,
+    "t": "Ha valakinek magömlése van, mossa meg egész testét vízben, és legyen tisztátalan estig."
+  },
+  {
+    "i": 3183,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 17,
+    "t": "Minden ruha és minden bőr, amelyet magömlés ért, mosson ki vízben, és legyen tisztátalan estig."
+  },
+  {
+    "i": 3184,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 18,
+    "t": "Ha egy férfi nővel hál, mossa meg mindkettőjüket vízben, és legyenek tisztátalanok estig."
+  },
+  {
+    "i": 3185,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 19,
+    "t": "Ha egy asszonynak vérfolyása van, és vér folyik a testéből, hét napig legyen tisztátalan a havi vérzésének tisztátalansága miatt. Aki megérinti, tisztátalan lesz estig."
+  },
+  {
+    "i": 3186,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 20,
+    "t": "Minden ágy, amelyre fekszik a tisztátalansága idején, tisztátalan legyen; és minden ülőalkalmatosság, amelyre ül, tisztátalan legyen."
+  },
+  {
+    "i": 3187,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 21,
+    "t": "Aki megérinti az ágyát, mossa ki a ruháit, fürödjék vízben, és legyen tisztátalan estig."
+  },
+  {
+    "i": 3188,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 22,
+    "t": "Aki megérinti az ülőalkalmatosságot, amelyre ült, mossa ki a ruháit, fürödjék vízben, és legyen tisztátalan estig."
+  },
+  {
+    "i": 3189,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 23,
+    "t": "Aki megérint bármit, ami az ágyon vagy az ülőalkalmatosságon van, amelyre ült, tisztátalan legyen estig."
+  },
+  {
+    "i": 3190,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 24,
+    "t": "Ha egy férfi vele hál, és a havi vérzésének tisztátalansága rákerül, legyen tisztátalan hét napig; és minden ágy, amelyre fekszik, tisztátalan legyen."
+  },
+  {
+    "i": 3191,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 25,
+    "t": "Ha egy asszonynak sok napig vérfolyása van a havi vérzésének ideje után, vagy ha a havi vérzése elhúzódik, legyen tisztátalan a vérfolyásának egész ideje alatt, mint a havi vérzésének idején."
+  },
+  {
+    "i": 3192,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 26,
+    "t": "Minden ágy, amelyre fekszik a vérfolyásának egész ideje alatt, olyan legyen, mint az ágy, amelyre a havi vérzése idején fekszik; és minden ülőalkalmatosság, amelyre ül, tisztátalan legyen, mint a havi vérzése idején."
+  },
+  {
+    "i": 3193,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 27,
+    "t": "Aki megérinti azokat, tisztátalan legyen, mossa ki a ruháit, fürödjék vízben, és legyen tisztátalan estig."
+  },
+  {
+    "i": 3194,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 28,
+    "t": "Ha eláll a vérfolyása, számoljon hét napot, és azután legyen tiszta."
+  },
+  {
+    "i": 3195,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 29,
+    "t": "A nyolcadik napon vegyen két gerlicét, vagy két galambfiókát, és vigye azokat a paphoz a gyülekezés sátorának bejáratához."
+  },
+  {
+    "i": 3196,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 30,
+    "t": "A pap az egyiket áldozatul adja a bűnért, a másikat pedig égő áldozatul. Így végezzen a pap engesztelést érte az Úr előtt a vérfolyása miatt, amely tisztátalanná tette őt."
+  },
+  {
+    "i": 3197,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 31,
+    "t": "Óvjátok Izráel fiait a tisztátalanságuktól, hogy meg ne haljanak a tisztátalanságuk miatt, amikor megszentségtelenítik a hajlékot, amely közöttük van."
+  },
+  {
+    "i": 3198,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 32,
+    "t": "Ez a törvény azokra, akiknek folyásuk van, és azokra, akiket magömlés tisztátalanná tesz,"
+  },
+  {
+    "i": 3199,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 33,
+    "t": "a nőre a havi vérzésének tisztátalansága idején, a férfira vagy a nőre, akinek folyása van, és arra a férfira, aki tisztátalan asszonnyal hál."
+  }
+]

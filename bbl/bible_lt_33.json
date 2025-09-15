@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3300,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 21,
+    "t": "Jis atneš Viešpačiui atnašą už kaltę prie Susitikimo palapinės įėjimo. Tai bus kaltės avinas."
+  },
+  {
+    "i": 3301,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 22,
+    "t": "Su tuo kaltės avinu kunigas atliks apeigas žmogui atpirkimui Viešpaties akivaizdoje už padarytą nuodėmę; ir nuodėmė, kurią jis padarė, bus jam atleista."
+  },
+  {
+    "i": 3302,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 23,
+    "t": "Kai įžengsite į tą kraštą ir pasodinsite kokį nors vaisių medį, jo vaisius laikykite tarsi jo apyvarpe. Trejus metus jie bus jums neapipjaustyti, nevalgysite jų."
+  },
+  {
+    "i": 3303,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 24,
+    "t": "Ketvirtaisiais metais visi vaisiai bus pašvęsti šlovinimo šventėje Viešpačiui."
+  },
+  {
+    "i": 3304,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 25,
+    "t": "Penktaisiais metais galėsite valgyti vaisius ir rinkti sau derlių. Aš esu Viešpats, jūsų Dievas."
+  },
+  {
+    "i": 3305,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 26,
+    "t": "Nevalgysite nieko su krauju; neužsiimsite nei būrimu, nei kerėjimu."
+  },
+  {
+    "i": 3306,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 27,
+    "t": "Neapvalinsite savo plaukų krašto ir nenukirpsite savo barzdos krašto."
+  },
+  {
+    "i": 3307,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 28,
+    "t": "Nedarysite įpjovimų ant kūno už mirusįjį ir nesidarysite tatuiruočių. Aš esu Viešpats."
+  },
+  {
+    "i": 3308,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 29,
+    "t": "Nepaniekink savo dukters, versdamas ją prostitucija; kad kraštas nebūtų prostituotas ir nebūtų pilnas kraujomaišos."
+  },
+  {
+    "i": 3309,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 30,
+    "t": "Laikysitės mano šabų ir gerbsite mano šventyklą. Aš esu Viešpats."
+  },
+  {
+    "i": 3310,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 31,
+    "t": "Nesikreipkite į vaiduoklius ir neieškokite būrėjų, nes jie jus suterš. Aš esu Viešpats, jūsų Dievas."
+  },
+  {
+    "i": 3311,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 32,
+    "t": "Atsistosite prieš žilagalvį, gerbsite seno žmogaus asmenį ir bijosite savo Dievo. Aš esu Viešpats."
+  },
+  {
+    "i": 3312,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 33,
+    "t": "Jei ateivis gyvena su jumis jūsų krašte, neskriausite jo."
+  },
+  {
+    "i": 3313,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 34,
+    "t": "Ateivis, gyvenantis su jumis, bus jums kaip jūsų tautietis, ir mylėsite jį kaip save, nes jūs buvote ateiviai Egipto krašte. Aš esu Viešpats, jūsų Dievas."
+  },
+  {
+    "i": 3314,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 35,
+    "t": "Nedarysite jokios neteisybės teisdami, ar tai būtų ilgio, svorio ar talpos matai."
+  },
+  {
+    "i": 3315,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 36,
+    "t": "Turėsite teisingas svarstykles, teisingus svorius, teisingą matą, teisingą saiką. Aš esu Viešpats, jūsų Dievas, kuris išvedžiau jus iš Egipto krašto."
+  },
+  {
+    "i": 3316,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 37,
+    "t": "Laikykitės visų mano įstatymų ir visų mano papročių, vykdykite juos. Aš esu Viešpats."
+  },
+  {
+    "i": 3317,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 1,
+    "t": "Viešpats kalbėjo Mozei ir tarė:"
+  },
+  {
+    "i": 3318,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 2,
+    "t": "Sakyk Izraelitams: kas tik, izraelitas ar ateivis, gyvenantis Izraelyje, atiduoda savo vaikus Molechui, tas turės mirti. Krašto žmonės užmuš jį akmenimis,"
+  },
+  {
+    "i": 3319,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 3,
+    "t": "atsigręšiu prieš tą žmogų ir išnaikinsiu jį iš jo tautos, nes, atidavęs vieną iš savo vaikų Molechui, jis suteršė mano šventyklą ir paniekino mano šventąjį vardą."
+  },
+  {
+    "i": 3320,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 4,
+    "t": "Jei krašto žmonės užmerks akis prieš tą žmogų, kai jis atiduoda vieną iš savo vaikų Molechui, ir nenužudys jo,"
+  },
+  {
+    "i": 3321,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 5,
+    "t": "aš pats pasipriešinsiu tam žmogui ir jo giminei. Išnaikinsiu juos iš jų tautos, jį ir visus tuos, kurie po jo eis ištvirkauti sekdami Molechu."
+  },
+  {
+    "i": 3322,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 6,
+    "t": "Kas kreipsis į vaiduoklius ir būrėjus, kad ištvirkautų sekdami jais, aš atsigręšiu prieš tą žmogų ir išnaikinsiu jį iš jo tautos."
+  },
+  {
+    "i": 3323,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 7,
+    "t": "Pašventinkite save, kad būtumėte šventi, nes aš esu Viešpats, jūsų Dievas."
+  },
+  {
+    "i": 3324,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 8,
+    "t": "Laikykitės mano įstatymų ir vykdykite juos, nes aš esu Viešpats, kuris jus pašventina."
+  },
+  {
+    "i": 3325,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 9,
+    "t": "Taigi: kas prakeiks savo tėvą ar motiną, tas turės mirti. Kadangi jis prakeikė savo tėvą ar motiną, jo kraujas kris ant jo paties."
+  },
+  {
+    "i": 3326,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 10,
+    "t": "Vyras, kuris svetimauja su savo artimo žmona, turės mirti, jis ir jo bendrininkė."
+  },
+  {
+    "i": 3327,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 11,
+    "t": "Vyras, kuris miega su savo tėvo žmona, atidengė savo tėvo nuogumą. Abu jie turės mirti, jų kraujas kris ant jų."
+  },
+  {
+    "i": 3328,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 12,
+    "t": "Vyras, kuris miega su savo marčia: abu jie turės mirti. Jie susiteršė, jų kraujas kris ant jų."
+  },
+  {
+    "i": 3329,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 13,
+    "t": "Vyras, kuris miega su vyru kaip su moterimi: tai yra bjaurastis, kurią jie abu padarė, jie turės mirti, jų kraujas kris ant jų."
+  },
+  {
+    "i": 3330,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 14,
+    "t": "Vyras, kuris veda moterį ir jos motiną: tai yra kraujomaiša. Juos sudegins, jį ir jas, kad tarp jūsų nebūtų kraujomaišos."
+  },
+  {
+    "i": 3331,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 15,
+    "t": "Vyras, kuris atiduoda savo guolį gyvuliui: jis turės mirti, ir jūs užmušite gyvulį."
+  },
+  {
+    "i": 3332,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 16,
+    "t": "Moteris, kuri prisiartina prie bet kurio gyvūno, kad su juo susijungtų: tu užmuši moterį ir gyvulį. Jie turės mirti, jų kraujas kris ant jų."
+  },
+  {
+    "i": 3333,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 17,
+    "t": "Vyras, kuris veda savo seserį, savo tėvo dukterį arba savo motinos dukterį: jei jis mato jos nuogumą ir ji mato jo nuogumą, tai yra gėda. Jie bus išnaikinti savo tautos narių akivaizdoje, nes jis atidengė savo sesers nuogumą ir jis neš savo kaltės naštą."
+  },
+  {
+    "i": 3334,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 18,
+    "t": "Vyras, kuris miega su moterimi per jos mėnesines ir atidengia jos nuogumą: jis atidengė savo kraujo šaltinį, ji pati atidengė savo kraujo šaltinį, todėl abu jie bus išnaikinti iš savo tautos."
+  },
+  {
+    "i": 3335,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 19,
+    "t": "Neatidengsi savo motinos sesers nuogumo nei savo tėvo sesers nuogumo. Jis atidengė savo paties kūną, jie neš savo kaltės naštą."
+  },
+  {
+    "i": 3336,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 20,
+    "t": "Vyras, kuris miega su savo tėvo brolio žmona: jis atidengė jo nuogumą, jie neš savo nuodėmės naštą ir mirs be vaikų."
+  },
+  {
+    "i": 3337,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 21,
+    "t": "Vyras, kuris veda savo brolio žmoną: tai yra suteršimas, jis atidengė savo brolio nuogumą, jie mirs be vaikų."
+  },
+  {
+    "i": 3338,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 22,
+    "t": "Laikykitės visų mano įstatymų, visų mano papročių ir vykdykite juos; kad jūsų neišspjautų kraštas, į kurį jus vedu gyventi."
+  },
+  {
+    "i": 3339,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 23,
+    "t": "Nesekite tautų, kurias aš išvarau prieš jus, įstatymais, nes jos praktikavo visus šiuos dalykus, ir aš jomis pasišlykštėjau."
+  },
+  {
+    "i": 3340,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 24,
+    "t": "Todėl aš jums sakiau: \"Jūs paveldėsite jų žemę, aš pats jums duosiu ją paveldėti, kraštą, kuris teka pienu ir medumi.\" Aš esu Viešpats, jūsų Dievas, kuris jus atskyriau nuo šių tautų."
+  },
+  {
+    "i": 3341,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 25,
+    "t": "Atskirkite švarų gyvulį nuo nešvaraus, švarų paukštį nuo nešvaraus. Nesusitepkite patys su šiais gyvuliais, šiais paukščiais, su viskuo, kas ropoja žeme: aš juos jums atskyriau kaip nešvarius."
+  },
+  {
+    "i": 3342,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 26,
+    "t": "Būkite man pašvęsti, nes aš, Viešpats, esu šventas, ir aš jus atskirsiu nuo visų šių tautų, kad būtumėte mano."
+  },
+  {
+    "i": 3343,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 27,
+    "t": "Vyras ar moteris, kurie tarp jūsų būtų nekromantai ar būrėjai: jie bus užmušti, užmušti akmenimis, jų kraujas kris ant jų."
+  },
+  {
+    "i": 3344,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 1,
+    "t": "Viešpats tarė Mozei: kalbėk kunigams, Aarono vaikams; tu jiems sakysi: nė vienas iš jų nesusiteps prie kurio nors iš savo artimųjų lavono,"
+  },
+  {
+    "i": 3345,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 2,
+    "t": "išskyrus savo artimiausią giminę: motiną, tėvą, sūnų, dukterį, brolį."
+  },
+  {
+    "i": 3346,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 3,
+    "t": "Dėl savo sesers mergaitės, kuri lieka jo artima gimine, nes nepriklausė vyrui, jis galės susitepti;"
+  },
+  {
+    "i": 3347,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 4,
+    "t": "dėl ištekėjusios moters tarp savųjų jis nesusiteps: jis paniekintų save."
+  },
+  {
+    "i": 3348,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 5,
+    "t": "Nedarykite sau plikės ant galvos, nenuskuskite savo barzdos krašto ir nesidarykite įpjovimų ant kūno."
+  },
+  {
+    "i": 3349,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 6,
+    "t": "Jie bus pašvęsti savo Dievui ir nepaniekins savo Dievo vardo: tai jie iš tikrųjų atneša Viešpaties maistą, savo Dievo maistą, ir jie turi būti šventi."
+  },
+  {
+    "i": 3350,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 7,
+    "t": "Neimkite žmona prostitutės ar paniekintos moters, nei moters, kurią išvarė jos vyras, nes kunigas yra pašvęstas savo Dievui."
+  },
+  {
+    "i": 3351,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 8,
+    "t": "Elgsiesi su juo kaip su šventuoju, nes jis aukoja tavo Dievo maistą. Jis tau bus šventas, nes aš esu šventas, aš, Viešpats, kuris jus pašventinu."
+  },
+  {
+    "i": 3352,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 9,
+    "t": "Jei kunigo duktė susiteps ištvirkavimu, ji paniekina savo tėvą ir turi būti sudeginta ugnyje."
+  },
+  {
+    "i": 3353,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 10,
+    "t": "O kunigas, kuris turi viršenybę prieš savo brolius, ant kurio galvos yra išlietas patepimo aliejus ir kuris gauna investitūrą apsivilkdamas šventais drabužiais, neatriš savo plaukų, nepersiplėš savo drabužių,"
+  },
+  {
+    "i": 3354,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 11,
+    "t": "jis neprisiartins prie jokio mirusiojo lavono ir nesusiteps nei dėl savo tėvo, nei dėl savo motinos."
+  },
+  {
+    "i": 3355,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 12,
+    "t": "Jis neišeis iš šventos vietos, kad nepaniekintų savo Dievo šventovės, nes jis pats nešioja savo Dievo patepimo aliejaus pašventinimą. Aš esu Viešpats."
+  },
+  {
+    "i": 3356,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 13,
+    "t": "Jis ves moterį, kuri dar yra mergaitė."
+  },
+  {
+    "i": 3357,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 14,
+    "t": "Našlės, atstumtos ar prostitucijos paniekintos moters jis neims žmonomis; jis ims žmona tik mergaitę iš savųjų:"
+  },
+  {
+    "i": 3358,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 15,
+    "t": "jis nepaniekins savo palikuonių, nes aš, Viešpats, juos pašventinau."
+  },
+  {
+    "i": 3359,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 16,
+    "t": "Viešpats kalbėjo Mozei ir tarė:"
+  },
+  {
+    "i": 3360,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 17,
+    "t": "Kalbėk Aaronui ir sakyk jam: nė vienas iš tavo palikuonių, kad ir kokia karta tai būtų, neprisiartins aukoti savo Dievo maisto, jei turi negalią."
+  },
+  {
+    "i": 3361,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 18,
+    "t": "Nes nė vienas žmogus neturi prisiartinti, jei turi negalią, ar tai būtų aklas, ar luošas, ar iškreiptas, ar deformuotas žmogus,"
+  },
+  {
+    "i": 3362,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 19,
+    "t": "žmogus, kurio koja ar ranka sulaužyta,"
+  },
+  {
+    "i": 3363,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 20,
+    "t": "kuprotas, rachitiškas, žmogus, sergantis oftalmija, dermatitu ar pūliuojančiomis žaizdomis, arba eunuchas."
+  },
+  {
+    "i": 3364,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 21,
+    "t": "Nė vienas iš Aarono, kunigo, palikuonių negalės prisiartinti aukoti Viešpaties maisto, jei turi negalią; jis turi negalią, jis neprisiartins aukoti savo Dievo maisto."
+  },
+  {
+    "i": 3365,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 22,
+    "t": "Jis galės valgyti savo Dievo maistą, labai šventus dalykus ir šventus dalykus,"
+  },
+  {
+    "i": 3366,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 23,
+    "t": "bet jis neateis prie užuolaidos ir neprisiartins prie aukuro; jis turi negalią ir neturi paniekinti mano šventų daiktų, nes aš, Viešpats, juos pašventinau."
+  },
+  {
+    "i": 3367,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 24,
+    "t": "Ir Mozė tai pasakė Aaronui, jo sūnums ir visiems Izraelitams."
+  },
+  {
+    "i": 3368,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 1,
+    "t": "Viešpats kalbėjo Mozei ir tarė:"
+  },
+  {
+    "i": 3369,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 2,
+    "t": "Kalbėk Aaronui ir jo sūnums: jie pašventins save per šventas Izraelitų atnašas, nepaniekindami mano šventojo vardo; dėl manęs jie turi jį pašventinti. Aš esu Viešpats."
+  },
+  {
+    "i": 3370,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 3,
+    "t": "Sakyk jiems: kiekvienas žmogus iš jūsų palikuonių, kad ir kokia karta tai būtų, kuris nešvarus prisiartins prie šventų atnašų, kurias Izraelitai pašventino Viešpačiui, tas žmogus bus išnaikintas iš mano akivaizdos. Aš esu Viešpats."
+  },
+  {
+    "i": 3371,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 4,
+    "t": "Kiekvienas žmogus iš Aarono palikuonių, kuris serga raupsais ar išskyromis, nevalgys šventų dalykų, kol nebus apvalytas. Kas palies viską, ką lavonas padarė nešvariu, kas išleis sėklinį skystį,"
+  },
+  {
+    "i": 3372,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 5,
+    "t": "kas palies bet kokią smulkią būtybę ir taip pasidarys nešvarus, arba žmogus, kuris užkrės jį savo paties nešvarumu, kad ir koks jis būtų,"
+  },
+  {
+    "i": 3373,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 6,
+    "t": "trumpai tariant, kiekvienas, kuris turės tokių kontaktų, bus nešvarus iki vakaro ir galės valgyti šventus dalykus tik nusiprausęs kūną vandeniu."
+  },
+  {
+    "i": 3374,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 7,
+    "t": "Saulei nusileidus jis bus apvalytas ir galės valgyti šventus dalykus, nes tai yra jo maistas."
+  },
+  {
+    "i": 3375,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 8,
+    "t": "Jis nevalgys gyvulio, kuris nugaišo ar buvo sudraskytas, jis užsikrės nešvarumu. Aš esu Viešpats."
+  },
+  {
+    "i": 3376,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 9,
+    "t": "Tegul jie laikosi mano potvarkių ir neapsikrauna nuodėme: jie mirtų, juos paniekindami, aš esu Viešpats, kuris juos pašventinau."
+  },
+  {
+    "i": 3377,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 10,
+    "t": "Joks pasaulietis nevalgys švento dalyko: nei kunigo svečias, nei samdinys nevalgys švento dalyko."
+  },
+  {
+    "i": 3378,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 11,
+    "t": "Bet jei kunigas įsigyja žmogų už pinigus, tas galės valgyti kaip tas, kuris gimė jo namuose; jie iš tikrųjų valgo jo paties maistą."
+  },
+  {
+    "i": 3379,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 12,
+    "t": "Jei kunigo duktė tapo pasauliečio žmona, ji negali valgyti šventų atnašų;"
+  },
+  {
+    "i": 3380,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 13,
+    "t": "bet jei ji taptų našle arba būtų atstumta ir neturėtų vaikų, bet grįžtų į savo tėvo namus, kaip savo jaunystės dienomis, ji valgys savo tėvo maistą. Joks pasaulietis jo nevalgys:"
+  },
+  {
+    "i": 3381,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 14,
+    "t": "jei kas nors per klaidą suvalgytų šventą dalyką, jis jį grąžins kunigui, pridėdamas penktadalį."
+  },
+  {
+    "i": 3382,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 15,
+    "t": "Teneišniekina šventų atnašų, kurias Izraelio vaikai paaukojo Viešpačiui."
+  },
+  {
+    "i": 3383,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 16,
+    "t": "Valgydami jie užkraus jiems kaltę, kuri įpareigos atlyginti, nes Aš, Viešpats, pašventinau šias atnašas."
+  },
+  {
+    "i": 3384,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 17,
+    "t": "Viešpats kalbėjo Mozei, sakydamas:"
+  },
+  {
+    "i": 3385,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 18,
+    "t": "Kalbėk Aaronui, jo sūnums ir visiems Izraelio vaikams, ir sakyk jiems: Kiekvienas žmogus iš Izraelio namų arba bet kuris ateivis, gyvenantis Izraelyje, kuris atneša savo atnašą kaip įžadą arba laisvanorišką auką ir paaukoja ją Viešpačiui kaip deginamąją auką,"
+  },
+  {
+    "i": 3386,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 19,
+    "t": "kad būtų priimtas, turės aukoti be trūkumų patiną, jautį, avį arba ožį."
+  },
+  {
+    "i": 3387,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 20,
+    "t": "Neaukokite to, kas turi ydą, nes tai nepadarys jūsų priimtinais."
+  },
+  {
+    "i": 3388,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 21,
+    "t": "Jei kas nors aukoja Viešpačiui bendravimo auką, kad įvykdytų įžadą arba padarytų laisvanorišką auką, iš didelių ar mažų gyvulių, gyvulys turės būti be trūkumų, kad būtų priimtas; jame neturės būti jokių ydų."
+  },
+  {
+    "i": 3389,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 22,
+    "t": "Neaukokite Viešpačiui aklo, suluošinto, sužaloto, apnuodinto, niežais sergančio ar pūliuojančio gyvulio. Jokia tokių gyvulių dalis nebus dedama ant altoriaus kaip valgis Viešpačiui."
+  },
+  {
+    "i": 3390,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 23,
+    "t": "Galite padaryti laisvanorišką nykštukinio ar deformuoto didelių ar mažų gyvulių auką, bet įžadui įvykdyti ji nebus priimta."
+  },
+  {
+    "i": 3391,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 24,
+    "t": "Neaukokite Viešpačiui gyvulio, kurio sėklidės būtų įtrauktos, sutraiškytos, išplėštos ar nupjautos. Nedarykite to savo krašte,"
+  },
+  {
+    "i": 3392,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 25,
+    "t": "ir nepriimkite nieko panašaus iš ateivio rankos, kad paaukotumėte kaip savo Dievo maistą. Jų deformacija iš tiesų yra yda, ir šios aukos nepadarys jūsų priimtinais."
+  },
+  {
+    "i": 3393,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 26,
+    "t": "Viešpats kalbėjo Mozei, sakydamas:"
+  },
+  {
+    "i": 3394,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 27,
+    "t": "Gimęs veršelis, ėriukas ar ožiukas liks septynias dienas su savo motina. Aštuntąją dieną jis gali būti priimtas kaip valgis, aukojamas Viešpačiui."
+  },
+  {
+    "i": 3395,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 28,
+    "t": "Jautis ar avinas, tą pačią dieną nepjausite gyvulio ir jo jauniklio."
+  },
+  {
+    "i": 3396,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 29,
+    "t": "Jei aukojate Viešpačiui auką su šlovinimu, aukokite ją taip, kad būtumėte priimtini:"
+  },
+  {
+    "i": 3397,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 30,
+    "t": "ją suvalgysite tą pačią dieną, nepalikdami nieko iki ryto. Aš esu Viešpats."
+  },
+  {
+    "i": 3398,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 31,
+    "t": "Laikykitės mano įsakymų ir vykdykite juos. Aš esu Viešpats."
+  },
+  {
+    "i": 3399,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 32,
+    "t": "Nevalykite mano švento vardo, kad būčiau pašventintas tarp Izraelio vaikų, Aš, Viešpats, kuris jus pašventina."
+  }
+]

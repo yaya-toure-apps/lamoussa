@@ -1,0 +1,802 @@
+[
+  {
+    "i": 100,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 21,
+    "t": "At ang pangalan ng kaniyang kapatid ay si Jubal: siya ang naging ama ng lahat na nagsisihawak ng alpa at ng flauta."
+  },
+  {
+    "i": 101,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 22,
+    "t": "At si Silla naman ay nagkaanak kay Tubal-cain, na panday ng lahat na kasangkapang tanso at bakal: at ang kapatid na babae ni Tubal-cain ay si Naama."
+  },
+  {
+    "i": 102,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 23,
+    "t": "At sinabi ni Lamec sa kaniyang mga asawa, Ada at Silla, dinggin ninyo ang aking tinig; Kayong mga asawa ni Lamec, pakinggan ninyo ang aking salita: Sapagka't pinatay ko ang isang lalake dahil sa aking sugat, At ang isang binata dahil sa aking pasa."
+  },
+  {
+    "i": 103,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 24,
+    "t": "Kung si Cain ay ipaghihiganti ng makapito, Tunay na si Lamec ay makapitongpung pitong ibayo."
+  },
+  {
+    "i": 104,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 25,
+    "t": "At nakilala uli ni Adam ang kaniyang asawa; at nagkaanak siya ng isang lalake, at tinawag ang kaniyang pangalang Set; sapagka't sinabi niya, Binigyan ako ng Dios ng ibang binhi na kahalili ni Abel, sapagka't pinatay siya ni Cain."
+  },
+  {
+    "i": 105,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 26,
+    "t": "At si Set man ay nagkaanak ng isang lalake; at tinawag ang kaniyang pangalang Enos: noon nga nagsimula ang mga tao na tumawag sa pangalan ng Panginoon."
+  },
+  {
+    "i": 106,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 1,
+    "t": "Ito ang aklat ng mga lahi ni Adam. Nang araw na lalangin ng Dios ang tao, sa wangis ng Dios siya nilalang."
+  },
+  {
+    "i": 107,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 2,
+    "t": "Lalake at babae silang nilalang niya, at binasbasan niya sila, at tinawag ang kanilang pangalang Adam, nang araw na sila'y lalangin."
+  },
+  {
+    "i": 108,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 3,
+    "t": "At nabuhay si Adam ng isang daan at tatlong pung taon, at nagkaanak ng isang lalake na ayon sa kaniyang sariling wangis, pagkatapos na siya'y kaniyang kawangisan; at tinawag ang kaniyang pangalang Set."
+  },
+  {
+    "i": 109,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 4,
+    "t": "At ang mga araw ni Adam, pagkatapos na maipanganak si Set, ay walong daang taon: at nagkaanak siya ng mga lalake at mga babae."
+  },
+  {
+    "i": 110,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 5,
+    "t": "At ang lahat ng mga araw na ikinabuhay ni Adam ay siyam na raan at tatlong pung taon: at siya'y namatay."
+  },
+  {
+    "i": 111,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 6,
+    "t": "At nabuhay si Set ng isang daan at limang taon, at nagkaanak kay Enos:"
+  },
+  {
+    "i": 112,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 7,
+    "t": "At nabuhay si Set, pagkatapos na maipanganak si Enos, ng walong daan at pitong taon: at nagkaanak siya ng mga lalake at mga babae:"
+  },
+  {
+    "i": 113,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 8,
+    "t": "At ang lahat ng mga araw ni Set ay siyam na raan at labing dalawang taon: at siya'y namatay."
+  },
+  {
+    "i": 114,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 9,
+    "t": "At nabuhay si Enos ng siyam na pung taon, at nagkaanak kay Cainan:"
+  },
+  {
+    "i": 115,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 10,
+    "t": "At nabuhay si Enos, pagkatapos na maipanganak si Cainan, ng walong daan at labin limang taon: at nagkaanak siya ng mga lalake at mga babae:"
+  },
+  {
+    "i": 116,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 11,
+    "t": "At ang lahat ng mga araw ni Enos ay siyam na raan at limang taon: at siya'y namatay."
+  },
+  {
+    "i": 117,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 12,
+    "t": "At nabuhay si Cainan ng pitong pung taon, at nagkaanak kay Mahalaleel:"
+  },
+  {
+    "i": 118,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 13,
+    "t": "At nabuhay si Cainan, pagkatapos na maipanganak si Mahalaleel, ng walong daan at apat na pung taon: at nagkaanak siya ng mga lalake at mga babae:"
+  },
+  {
+    "i": 119,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 14,
+    "t": "At ang lahat ng mga araw ni Cainan ay siyam na raan at sampung taon: at siya'y namatay."
+  },
+  {
+    "i": 120,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 15,
+    "t": "At nabuhay si Mahalaleel ng anim na pu't limang taon, at nagkaanak kay Jared:"
+  },
+  {
+    "i": 121,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 16,
+    "t": "At nabuhay si Mahalaleel, pagkatapos na maipanganak si Jared, ng walong daan at tatlong pung taon: at nagkaanak siya ng mga lalake at mga babae:"
+  },
+  {
+    "i": 122,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 17,
+    "t": "At ang lahat ng mga araw ni Mahalaleel ay walong daan at siyam na pu't limang taon: at siya'y namatay."
+  },
+  {
+    "i": 123,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 18,
+    "t": "At nabuhay si Jared ng isang daan at anim na pu't dalawang taon, at nagkaanak kay Enoc:"
+  },
+  {
+    "i": 124,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 19,
+    "t": "At nabuhay si Jared, pagkatapos na maipanganak si Enoc, ng walong daang taon, at nagkaanak siya ng mga lalake at mga babae:"
+  },
+  {
+    "i": 125,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 20,
+    "t": "At ang lahat ng mga araw ni Jared ay siyam na raan at anim na pu't dalawang taon: at siya'y namatay."
+  },
+  {
+    "i": 126,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 21,
+    "t": "At nabuhay si Enoc ng anim na pu't limang taon, at nagkaanak kay Matusalem:"
+  },
+  {
+    "i": 127,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 22,
+    "t": "At lumakad si Enoc na kasama ng Dios, pagkatapos na maipanganak si Matusalem, ng tatlong daang taon, at nagkaanak siya ng mga lalake at mga babae:"
+  },
+  {
+    "i": 128,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 23,
+    "t": "At ang lahat ng mga araw ni Enoc ay tatlong daan at anim na pu't limang taon:"
+  },
+  {
+    "i": 129,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 24,
+    "t": "At lumakad si Enoc na kasama ng Dios: at di siya nasumpungan, sapagka't kinuha siya ng Dios."
+  },
+  {
+    "i": 130,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 25,
+    "t": "At nabuhay si Matusalem ng isang daan at walong pu't pitong taon, at nagkaanak kay Lamec:"
+  },
+  {
+    "i": 131,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 26,
+    "t": "At nabuhay si Matusalem, pagkatapos na maipanganak si Lamec, ng pitong daan at walong pu't dalawang taon: at nagkaanak siya ng mga lalake at mga babae:"
+  },
+  {
+    "i": 132,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 27,
+    "t": "At ang lahat ng mga araw ni Matusalem ay siyam na raan at anim na pu't siyam na taon: at siya'y namatay."
+  },
+  {
+    "i": 133,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 28,
+    "t": "At nabuhay si Lamec ng isang daan at walong pu't dalawang taon; at nagkaanak siya ng isang lalake:"
+  },
+  {
+    "i": 134,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 29,
+    "t": "At tinawag niya ang kaniyang pangalang Noe, na sinasabi, Ito rin ang aaliw sa atin tungkol sa ating gawa at sa pagdaramdam ng ating mga kamay, dahil sa lupang sinumpa ng Panginoon."
+  },
+  {
+    "i": 135,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 30,
+    "t": "At nabuhay si Lamec, pagkatapos na maipanganak si Noe, ng limang daan at siyam na pu't limang taon: at nagkaanak siya ng mga lalake at mga babae:"
+  },
+  {
+    "i": 136,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 31,
+    "t": "At ang lahat ng mga araw ni Lamec ay pitong daan at pitong pu't pitong taon: at siya'y namatay."
+  },
+  {
+    "i": 137,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 32,
+    "t": "At si Noe ay may limang daang taon: at naging anak ni Noe si Sem, si Cham, at si Japhet."
+  },
+  {
+    "i": 138,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 1,
+    "t": "At nang magpasimulang dumami ang mga tao sa balat ng lupa, at magkaroon sila ng mga anak na babae,"
+  },
+  {
+    "i": 139,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 2,
+    "t": "Ay nakita ng mga anak ng Dios na magaganda ang mga anak na babae ng mga tao; at sila'y nangagkuha ng kanikanilang asawa sa lahat ng kanilang pinili."
+  },
+  {
+    "i": 140,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 3,
+    "t": "At sinabi ng Panginoon, Hindi makikipagpunyagi magpakailan man ang aking Espiritu sa tao, sapagka't siya'y laman: gayon ma'y magiging isang daan at dalawang pung taon ang kaniyang mga araw."
+  },
+  {
+    "i": 141,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 4,
+    "t": "Nang mga araw na yaon ay may mga higante sa lupa, at pagkatapos din naman, nang mangasawa ang mga anak ng Dios sa mga anak na babae ng mga tao, at sila'y nangagkaanak sa kanila: ang mga ito rin ang naging makapangyarihan nang unang panahon, mga lalaking bantog."
+  },
+  {
+    "i": 142,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 5,
+    "t": "At nakita ng Panginoon na malaki ang kasamaan ng tao sa lupa, at ang buong haka ng mga pagiisip ng kaniyang puso ay pawang masama lamang na palagi."
+  },
+  {
+    "i": 143,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 6,
+    "t": "At pinagsisihan ng Panginoon na kaniyang ginawa ang tao sa lupa, at nalumbay sa kaniyang puso."
+  },
+  {
+    "i": 144,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 7,
+    "t": "At sinabi ng Panginoon, Lilipulin ko ang tao na aking nilalang sa balat ng lupa; ang tao at gayon din ang hayop, at ang mga bagay na nagsisigapang, at ang mga ibon sa himpapawid; sapagka't pinagsisihan kong sila'y aking ginawa."
+  },
+  {
+    "i": 145,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 8,
+    "t": "Nguni't si Noe ay nakasumpong ng biyaya sa paningin ng Panginoon."
+  },
+  {
+    "i": 146,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 9,
+    "t": "Ito ang mga lahi ni Noe. Si Noe ay lalaking matuwid at sakdal noong kapanahunan niya: si Noe ay lumalakad na kasama ng Dios."
+  },
+  {
+    "i": 147,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 10,
+    "t": "At nagkaanak si Noe ng tatlong lalake: si Sem, si Cham, at si Japhet."
+  },
+  {
+    "i": 148,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 11,
+    "t": "At sumama ang lupa sa paningin ng Dios, at napuno ang lupa ng karahasan."
+  },
+  {
+    "i": 149,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 12,
+    "t": "At tiningnan ng Dios ang lupa, at, narito, sumama; sapagka't pinasama ng lahat ng laman ang kanilang paglakad sa ibabaw ng lupa."
+  },
+  {
+    "i": 150,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 13,
+    "t": "Sinabi nga ng Dios kay Noe, Ang wakas ng lahat ng laman ay dumating sa harap ko; sapagka't ang lupa ay napuno ng karahasan dahil sa kanila; at, narito, sila'y aking lilipuling kalakip ng lupa."
+  },
+  {
+    "i": 151,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 14,
+    "t": "Gumawa ka ng isang sasakyang-dagat na kahoy na gofer; gagawa ka ng mga silid sa sasakyang-dagat, at iyong sisiksikan sa loob at sa labas ng sahing."
+  },
+  {
+    "i": 152,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 15,
+    "t": "At ganito mo gagawin: tatlong daang siko ang haba ng sasakyang-dagat, limangpung siko ang luwang, at tatlong pung siko ang taas."
+  },
+  {
+    "i": 153,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 16,
+    "t": "Gagawa ka ng isang durungawan sa sasakyang-dagat, at iyong tatapusin sa isang siko sa itaas; at ang pintuan ng sasakyang-dagat ay ilalagay mo sa tagiliran; gagawa ka ng mga lapag na mababa, mga pangalawa, at mga pangatlo."
+  },
+  {
+    "i": 154,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 17,
+    "t": "At ako, narito, ako'y magpapadala ng isang baha ng tubig sa ibabaw ng lupa, upang lipulin ang lahat ng laman, na may hininga ng buhay sa silong ng langit; ang lahat na nasa lupa ay mamamatay."
+  },
+  {
+    "i": 155,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 18,
+    "t": "Datapuwa't pagtitibayin ko ang aking tipan sa iyo; at ikaw ay lalakip sa sasakyang-dagat, ikaw, at ang iyong mga anak, at ang iyong asawa, at ang mga asawa ng iyong mga anak na kasama mo."
+  },
+  {
+    "i": 156,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 19,
+    "t": "At sa lahat ng bagay na may buhay, sa lahat ng laman ay magdadala ka sa loob ng sasakyang-dagat na dalawa sa bawa't uri, upang ingatang buhay na kasama mo; magiging lalake at babae."
+  },
+  {
+    "i": 157,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 20,
+    "t": "Sa mga ibon ayon sa kanikanilang uri, at sa mga hayop ayon sa kanikanilang uri, sa lahat ng nagsisiusad sa lupa ayon sa kanikanilang uri, dalawa sa bawa't uri ay lalakip sa iyo, upang ingatang buhay."
+  },
+  {
+    "i": 158,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 21,
+    "t": "At magbaon ka ng lahat na pagkain na kinakain, at pisanin mo sa iyo; at magiging pagkain sa iyo at sa kanila."
+  },
+  {
+    "i": 159,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 22,
+    "t": "Gayon ginawa ni Noe; ayon sa lahat ng iniutos sa kaniya ng Dios, gayon ang ginawa niya."
+  },
+  {
+    "i": 160,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 1,
+    "t": "At sinabi ng Panginoon kay Noe, Lumulan ka sa sasakyang-dagat, ikaw, at ang buong sangbahayan mo; sapagka't ikaw ay aking nakitang matuwid sa harap ko sa panahong ito."
+  },
+  {
+    "i": 161,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 2,
+    "t": "Sa lahat ng hayop na malinis ay kukuha ka ng pitong pares, na lalake at babae; at sa mga hayop na hindi malinis ay isang pares, na lalake at babae;"
+  },
+  {
+    "i": 162,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 3,
+    "t": "Gayon din sa mga ibon sa himpapawid ay pitong pares, na lalake at babae; upang ingatang binhi na buhay sa ibabaw ng buong lupa."
+  },
+  {
+    "i": 163,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 4,
+    "t": "Sapagka't pagkaraan ng pitong araw, ay magpapaulan ako sa lupa ng apat na pung araw at apat na pung gabi; at aking lilipulin sa balat ng lupa ang lahat ng may buhay na aking nilalang."
+  },
+  {
+    "i": 164,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 5,
+    "t": "At ginawa ni Noe ang ayon sa lahat na iniutos sa kaniya ng Panginoon."
+  },
+  {
+    "i": 165,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 6,
+    "t": "At si Noe ay may anim na raang taon nang ang baha ng tubig ay dumating sa lupa."
+  },
+  {
+    "i": 166,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 7,
+    "t": "At lumulan si Noe, at ang kaniyang mga anak, at ang kaniyang asawa, at ang mga asawa ng kaniyang mga anak na kasama niya, sa sasakyang-dagat, dahil sa tubig ng baha."
+  },
+  {
+    "i": 167,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 8,
+    "t": "Sa mga hayop na malinis, at sa mga hayop na hindi malinis, at sa mga ibon, at sa lahat ng nagsisiusad sa lupa,"
+  },
+  {
+    "i": 168,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 9,
+    "t": "Ay lumulan na dalawa dalawa kay Noe sa sasakyang-dagat, na lalake at babae, gaya ng iniutos ng Dios kay Noe."
+  },
+  {
+    "i": 169,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 10,
+    "t": "At nangyari, pagkaraan ng pitong araw, na ang tubig ng baha ay umapaw sa lupa."
+  },
+  {
+    "i": 170,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 11,
+    "t": "Sa ikaanim na raang taon ng buhay ni Noe, sa ikalawang buwan, sa ikalabing pitong araw ng buwan, nang araw ding yaon, ay nangabuksan ang lahat ng bukal ng malaking kalaliman, at ang mga durungawan ng langit ay nabuksan."
+  },
+  {
+    "i": 171,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 12,
+    "t": "At umulan sa lupa ng apat na pung araw at apat na pung gabi."
+  },
+  {
+    "i": 172,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 13,
+    "t": "Nang araw ding yaon ay lumulan sa sasakyang-dagat si Noe, at si Sem, at si Cham, at si Japhet, na mga anak ni Noe, at ang asawa ni Noe, at ang tatlong asawa ng kaniyang mga anak na kasama nila;"
+  },
+  {
+    "i": 173,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 14,
+    "t": "Sila, at ang bawa't hayop sa parang ayon sa kanikanilang uri, at ang lahat ng hayop na maamo ayon sa kanikanilang uri, at ang lahat ng nagsisiusad sa lupa ayon sa kanikanilang uri, at ang lahat ng ibon ayon sa kanikanilang uri, lahat ng sarisaring ibon."
+  },
+  {
+    "i": 174,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 15,
+    "t": "At lumulan kay Noe sa sasakyang-dagat, na dalawa dalawa sa lahat ng laman na may hininga ng buhay."
+  },
+  {
+    "i": 175,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 16,
+    "t": "At ang mga lumulan, ay lumakang lalake at babae sa lahat ng laman, gaya ng iniutos sa kaniya ng Dios: at kinulong siya ng Panginoon sa loob."
+  },
+  {
+    "i": 176,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 17,
+    "t": "At ang baha ay umapaw sa lupa ng apat na pung araw; at ang tubig ay lumaki at nakataas sa sasakyang-dagat, at nataas sa lupa."
+  },
+  {
+    "i": 177,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 18,
+    "t": "At lumaki ang tubig, at dumami sa lupa; at lumutang ang sasakyang-dagat sa ibabaw ng tubig."
+  },
+  {
+    "i": 178,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 19,
+    "t": "At ang tubig ay lumaking lubha sa lupa; at nalagyan ng tubig ang lahat ng mataas na bundok na nasa silong ng buong langit."
+  },
+  {
+    "i": 179,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 20,
+    "t": "Labing limang siko ang itinaas ng tubig sa bundok, at nalagyan ng tubig."
+  },
+  {
+    "i": 180,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 21,
+    "t": "At namatay ang lahat ng laman na gumagalaw sa ibabaw ng lupa, ang mga ibon, at ang mga hayop, at ang mga ganid, at ang lahat ng nagsisiusad sa ibabaw ng lupa, at ang lahat ng tao."
+  },
+  {
+    "i": 181,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 22,
+    "t": "Ang lahat ng may hininga ng buhay sa kanilang mga butas ng ilong, sa makatuwid baga'y lahat na nasa tuyong lupa, ay namatay."
+  },
+  {
+    "i": 182,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 23,
+    "t": "At nilipol ang bawa't bagay na may buhay na nasa ibabaw ng lupa, ang tao at gayon din ang hayop, at ang mga umuusad, at ang mga ibon sa himpapawid; at sila'y nilipol sa lupa: at si Noe lamang ang nalabi, at ang mga kasama niya sa sasakyan."
+  },
+  {
+    "i": 183,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 24,
+    "t": "At ang tubig ay nanatili sa lupa ng isang daan at limangpung araw."
+  },
+  {
+    "i": 184,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 1,
+    "t": "At inalaala ng Dios si Noe, at ang lahat ng mga hayop, at ang lahat ng mga hayop na kasama niya sa sasakyan: at pinaraan ng Dios ang isang hangin sa ibabaw ng lupa, at ang tubig ay humupa."
+  },
+  {
+    "i": 185,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 2,
+    "t": "Ang mga bukal naman ng kalaliman at ang mga durungawan ng langit ay nangatikpan, at ang ulan mula sa langit ay napigil."
+  },
+  {
+    "i": 186,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 3,
+    "t": "At ang tubig ay humupa sa lupa sa tuwituwina: at pagkatapos ng isang daan at limangpung araw ay ang tubig ay humupa."
+  },
+  {
+    "i": 187,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 4,
+    "t": "At ang sasakyan ay sumadsad sa ikapitong buwan, sa ikalabimpitong araw ng buwan, sa mga bundok ng Ararat."
+  },
+  {
+    "i": 188,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 5,
+    "t": "At ang tubig ay humupa sa tuwituwina hanggang sa ikasangpung buwan: sa ikasangpung buwan, sa unang araw ng buwan, ay lumitaw ang mga taluktok ng mga bundok."
+  },
+  {
+    "i": 189,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 6,
+    "t": "At nangyari, sa katapusan ng apat na pung araw, na binuksan ni Noe ang durungawan ng sasakyan na kaniyang ginawa:"
+  },
+  {
+    "i": 190,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 7,
+    "t": "At kaniyang pinalabas ang isang uwak, at nagpabalikbalik hanggang sa natuyo ang tubig sa ibabaw ng lupa."
+  },
+  {
+    "i": 191,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 8,
+    "t": "Pinalabas din niya ang isang kalapati upang tingnan kung humupa na ang tubig sa ibabaw ng lupa:"
+  },
+  {
+    "i": 192,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 9,
+    "t": "Datapuwa't hindi nakasumpong ang kalapati ng matutuntungan ng talampakan ng kaniyang paa, at nagbalik sa kaniya sa sasakyan, sapagka't ang tubig ay nasa ibabaw ng buong lupa: at iniunat niya ang kaniyang kamay, at hinawakan siya, at ipinasok sa sasakyan."
+  },
+  {
+    "i": 193,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 10,
+    "t": "At siya'y naghintay pa ng ibang pitong araw; at muling pinalabas ang kalapati sa sasakyan."
+  },
+  {
+    "i": 194,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 11,
+    "t": "At dumating ang kalapati sa kaniya sa hapon, at, narito, sa kaniyang bibig ay may sariwang dahong olibo: sa ganito nakilala ni Noe na ang tubig ay humupa sa lupa."
+  },
+  {
+    "i": 195,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 12,
+    "t": "At siya'y naghintay pa ng ibang pitong araw, at pinalabas ang kalapati; at hindi na muling nagbalik sa kaniya."
+  },
+  {
+    "i": 196,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 13,
+    "t": "At nangyari sa ikaanim na daang at unang taon, sa unang buwan, sa unang araw ng buwan, na natuyo ang tubig sa ibabaw ng lupa: at inalis ni Noe ang takip ng sasakyan, at tumingin, at, narito, tuyo ang ibabaw ng lupa."
+  },
+  {
+    "i": 197,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 14,
+    "t": "At sa ikalawang buwan, sa ikadalawangpu't pitong araw ng buwan, ay natuyo ang lupa."
+  },
+  {
+    "i": 198,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 15,
+    "t": "At nagsalita ang Dios kay Noe, na sinasabi,"
+  },
+  {
+    "i": 199,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 16,
+    "t": "Lumabas ka sa sasakyan, ikaw, at ang iyong asawa, at ang iyong mga anak, at ang mga asawa ng iyong mga anak na kasama mo."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "Za nečistého považujte jazveca, lebo hoci prežúva, nemá rozdelené kopyto;"
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "za nečistého považujte zajaca, lebo hoci prežúva, nemá rozdelené kopyto;"
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "za nečistého považujte sviniu, lebo má síce rozdelené kopyto, rozštiepené na dva paznechty, ale neprežúva."
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "Nebudete jesť z ich mäsa ani sa nedotknete ich mŕtvol; nech sú vám nečisté."
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "Z toho, čo žije vo vode, smelo jedzte toto: Čokoľvek má plutvy a šupiny, v moriach i v riekach, to smelo jedzte."
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "Ale všetko, čo nemá plutvy a šupiny, v moriach a v riekach, zo všetkého vodného hmyzu a všetkého živého, čo je vo vode, bude vám ohavnosťou."
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "Nech je vám to ohavnosťou, nebudete jesť z ich mäsa a ich mŕtvoly nech sa vám ošklivia."
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "Všetko, čo žije vo vode a nemá plutvy a šupiny, nech je vám ohavnosťou."
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "Z vtáctva nech vám sú ohavnosťou tieto, nebudú sa jesť, lebo sú ohavné: orol skalný, orol bradatý a orliak morský,"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "myšiak čierny, rôzne druhy myšiaka červeného,"
+  },
+  {
+    "i": 3010,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 15,
+    "t": "všetky druhy krkavca,"
+  },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "pštros, sova, čajka a rôzne druhy sokola,"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "výr, kormorán, kuvik,"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "ibis, pelikán, sup biely,"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "bocian a rôzne druhy volavky, dudok, netopier."
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "Všetok okrídlený hmyz, ktorý chodí po štyroch nohách, nech je vám ohavnosťou."
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "Z okrídleného hmyzu, ktorý chodí po štyroch nohách, smelo jedzte len tie, ktoré majú nohy nad chodidlami, aby mohli skákať po zemi."
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "Z nich smelo jedzte tieto: rôzne druhy kobyliek sťahovavých, kobyliek solham, kobyliek hargol a kobyliek hagab."
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "Ale všetok okrídlený hmyz, ktorý má štyri nohy, nech je vám ohavnosťou."
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "Z nich sa poškvrníte: každý, kto sa dotkne ich mŕtvoly, bude nečistý až do večera."
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "A každý, kto odnesie ich mŕtvolu, nech si operie šaty a bude nečistý až do večera."
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "Zvieratá, ktoré majú kopyto, ale nie rozdelené, a ktoré neprežúvajú, nech vám sú nečisté; každý, kto sa ich dotkne, bude nečistý."
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "Čo chodí po labách zo všetkých štvornohých zvierat, nech vám je nečisté; každý, kto sa dotkne ich mŕtvoly, bude nečistý až do večera,"
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "a kto odnesie ich mŕtvolu, nech si operie šaty a bude nečistý až do večera. Nech vám sú nečisté."
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "Z drobných živočíchov, čo sa plazia po zemi, nech vám sú nečisté tieto: krt, potkan a rôzne druhy jašteríc:"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "gekón, koah, letaah, chameleón a tinchamet."
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "Zo všetkých drobných živočíchov to sú tie, ktoré vám budú nečisté. Každý, kto sa ich dotkne, keď sú mŕtve, bude nečistý až do večera."
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "Všetko, na čo padne niektorý z nich, keď zomrie, bude nečisté: každá drevená nádoba, odev, koža, vrece, každá nádoba, čo sa na niečo používa. Ponorí sa do vody a bude nečistá až do večera; potom bude čistá."
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "Každú hlinenú nádobu, do ktorej spadne niektorý z nich, rozbijete; všetko, čo je v nej, bude nečisté."
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "Každé jedlo, čo sa jedáva, ak bolo pokropené vodou, bude nečisté; každý nápoj, čo sa pije, bude nečistý, v každej nádobe."
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "Všetko, na čo padne niektorá z ich mŕtvol, bude nečisté; pec i ohnisko nech sa zbúrajú, lebo sú nečisté a nech sú vám nečisté"
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "(pramene, studne a vodné nádrže však zostanú čisté); ale kto sa dotkne ich mŕtvoly, bude nečistý."
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "Ak niektorá z ich mŕtvol padne na nejaké semeno, ktoré sa má siať, zostane čisté,"
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "ale ak bolo semeno pokropené vodou a padne naň niektorá z ich mŕtvol, bude vám nečisté."
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "Ak uhynie niektoré zo zvierat, ktoré vám slúžia na jedenie, ten, kto sa dotkne jeho mŕtvoly, bude nečistý až do večera,"
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "ten, kto bude jesť z jeho zdochliny, nech si operie šaty a bude nečistý až do večera, ten, kto odnesie jeho mŕtvolu, nech si operie šaty a bude nečistý až do večera."
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "Každý drobný živočích, čo sa plazí po zemi, je ohavný, nebude sa jesť."
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "Všetko, čo sa vlečie po bruchu, všetko, čo chodí po štyroch nohách alebo po viacerých, skrátka všetky drobné živočíchy, čo sa plazia po zemi, nebudete jesť, lebo sú ohavné."
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "Nepoškvrňujte sa sami so všetkými drobnými živočíchmi, čo sa plazia, nekontaminujte sa nimi a nenechajte sa nimi poškvrniť."
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "Lebo ja som Hospodin, váš Boh. Posväťte sa a buďte svätí, lebo ja som svätý; teda sa nepoškvrňujte so všetkými drobnými živočíchmi, čo sa plazia po zemi."
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "Áno, ja som Hospodin, ktorý som vás vyviedol z Egyptskej krajiny, aby som bol vaším Bohom: buďte teda svätí, lebo ja som svätý."
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "To je zákon o zvieratách, vtákoch, každom živom tvorovi, čo sa hýbe vo vode, a každom tvorovi, čo sa plazí po zemi."
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "Má za cieľ oddeliť čisté od nečistého, zvieratá, ktoré sa smú jesť, od tých, ktoré sa nesmú jesť."
+  },
+  {
+    "i": 3043,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 1,
+    "t": "Hospodin hovoril Mojžišovi a riekol:"
+  },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Hovor Izraelitom a povedz im: Ak žena otehotnie a porodí chlapca, bude nečistá sedem dní ako v čase poškvrny jej mesačných očisty."
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "Na ôsmy deň nech sa obreže predkožka dieťaťa,"
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "a ešte tridsaťtri dní nech zostane, aby sa očistila od svojej krvi. Ničoho svätého sa nedotkne a nepôjde do svätyne, kým sa nedokončí čas jej očisťovania."
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "Ak porodí dievča, bude nečistá dva týždne, ako počas svojich mesačných očisty, a ešte šesťdesiatšesť dní zostane, aby sa očistila od svojej krvi."
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "Keď sa skončí čas jej očisťovania, či to bude pre chlapca alebo pre dievča, prinesie kňazovi ku vchodu do stanu stretávania ročného baránka na celostnú obetu a holuba alebo hrdličku ako obetu za hriech."
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "Kňaz ho obetuje pred Hospodinom, vykoná nad ňou obrad zmierenia a bude očistená od svojho krvavého výtoku. To je zákon o žene, ktorá porodí chlapca alebo dievča."
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "Ak nie je schopná nájsť sumu potrebnú na kus dobytka, vezme dve hrdličky alebo dva holuby, jedného na celostnú obetu a druhého ako obetu za hriech. Kňaz vykoná nad ňou obrad zmierenia a bude očistená."
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "Hospodin hovoril Mojžišovi a Áronovi a riekol:"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "Ak sa na koži niekoho objaví opuchlina, lišaj alebo škvrna, dá sa očakávať prípad malomocenstva kože. Nech ho privedú k Áronovi, kňazovi, alebo k jednému z kňazov, jeho synov."
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "Kňaz prezrie postihnuté miesto na koži. Ak na chorom mieste srsť zbelela, ak to miesto je hlbšie ako okolitá koža, je to prípad malomocenstva; po pozorovaní kňaz vyhlási človeka za nečistého."
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "Ale ak je na koži biela škvrna, bez viditeľného prepadnutia kože a bez zbelej srsti, kňaz oddelí chorého na sedem dní."
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "Siedmy deň ho prezrie. Ak z vlastných očí zistí, že choroba pretrváva bez šírenia po koži, ešte ho na sedem dní oddelí,"
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "a opäť ho prezrie siedmy deň. Ak zistí, že choroba zbledla a nerozšírila sa po koži, kňaz vyhlási tohto človeka za čistého: ide o lišaj. Po vypratí šiat bude čistý."
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "Ale ak sa lišaj rozšíril po koži po tom, čo bol chorý prezretý kňazom a vyhlásený za čistého, znova sa k nemu ukáže."
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "Po jeho prezretí a po zistení rozšírenia lišaja po koži ho kňaz vyhlási za nečistého: ide o malomocenstvo."
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "Keď sa na niekom objaví choroba podobná malomocenstvu, privedú ho ku kňazovi."
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "Kňaz ho prezrie, a ak na koži zistí belavý opuch s zbelejúcou srsťou a vredom,"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "je to staré malomocenstvo na koži. Kňaz ho vyhlási za nečistého. Neoddelí ho, bezpochyby je nečistý."
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "Ale ak sa malomocenstvo rozšíri po koži, ak choroba pokryje celú kožu a rozšíri sa od hlavy po päty, kamkoľvek sa kňaz pozrie,"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "prezrie chorého a, keď zistí, že malomocenstvo pokrylo celé telo, vyhlási chorého za čistého. Keďže všetko zbelelo, je čistý."
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "Avšak v deň, keď sa na ňom objaví vred, bude nečistý."
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "Po prezretí vredu ho kňaz vyhlási za nečistého: vred je nečistý, je to malomocenstvo."
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "Ale ak vred znova zbeleje, človek pôjde ku kňazovi,"
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "ten ho prezrie a, ak zistí, že choroba zbelela, vyhlási chorého za čistého: je čistý."
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "Keď sa na koži niekoho objaví vred, ktorý sa zahojil,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "ak sa na mieste vredu vytvorí belavý opuch alebo škvrna belavo-červenavá, tento človek sa ukáže kňazovi."
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "Ten ho prezrie; ak zistí viditeľné prepadnutie kože a zbelenie srsti, kňaz ho vyhlási za nečistého: je to prípad malomocenstva, ktoré sa šíri vo vrede."
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "Ak pri prezretí kňaz nezistí ani biele chlpy, ani prepadnutie kože, ale zblednutie choroby, oddelí chorého na sedem dní."
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "Vyhlási ho za nečistého, ak sa choroba rozšírila po koži: je to prípad malomocenstva."
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "Ale ak škvrna zostala bez zmeny a nerozšírila sa, je to jazva po vrede: kňaz vyhlási tohto človeka za čistého."
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Keď sa na koži niekoho objaví popálenina, ak sa na popálenine vytvorí absces, červeno-biela alebo belavá škvrna,"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "kňaz ju prezrie. Ak zistí zbelenie srsti alebo viditeľné prepadnutie škvrny v koži, je to malomocenstvo, ktoré sa šíri v popálenine. Kňaz vyhlási človeka za nečistého: je to prípad malomocenstva."
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "Ak naopak kňaz pri prehliadke nezistí na škvrne biele chlpy ani prepadnutie kože, ale zblednutie tejto škvrny, kňaz ho oddelí na sedem dní."
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "Prezrie ho siedmy deň a, ak sa choroba rozšírila po koži, vyhlási ho za nečistého: je to prípad malomocenstva."
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "Ak škvrna zostala bez zmeny a nerozšírila sa po koži, ak naopak zbledla, je to len opuchlina spôsobená popáleninou. Kňaz vyhlási človeka za čistého, je to len jazva po popálenine."
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "Ak má muž alebo žena ranu na hlave alebo na brade,"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "Kňaz nech obhliadne ranu, a ak vidí v nej prehĺbeninu na koži, a sú v nej tenké žltkasté chlpy, vyhlási ho za nečistého. To je prašina, to jest malomocenstvo hlavy alebo brady."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "Ak kňaz pri obhliadke tejto prašiny zistí, že na koži nie je prehĺbenina a nie sú v nej žltkasté chlpy, oddelí prašivého na sedem dní."
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "Siedmy deň obhliadne túto chorobu, a ak zistí, že sa prašina nerozšírila, chlpy v nej nie sú žltkasté, a na koži nie je prehĺbenina,"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "nech sa chorý oholí, avšak časť s prašinou nech vynechá, a kňaz ho oddelí na druhýkrát na sedem dní."
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "Siedmy deň obhliadne túto chorobu, a ak zistí, že sa na koži nerozšírila a na koži nie je prehĺbenina, kňaz vyhlási chorého za čistého. Keď si očistí odev, bude čistý."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "Ak sa však po tomto očistení prašina rozšíri na koži,"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "kňaz ho obhliadne: Ak zistí, že sa prašina rozšírila na koži, chorý je nečistý a nebude sa skúmať, či sú chlpy žltkasté."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "Ale ak sa prašina javí nehybná a rastú v nej čierne chlpy, chorý je uzdravený. Je čistý a kňaz ho vyhlási za čistého."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "Ak sa na koži muža alebo ženy objavia škvrny, a tieto škvrny sú biele,"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "kňaz ich obhliadne. Ak zistí, že tieto škvrny na koži sú matné, ide o vyrážku, ktorá sa rozšírila na koži: chorý je čistý."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "Ak mužovi vypadávajú vlasy na hlave, je to plešina na hlave, je čistý."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "Ak mu vypadávajú vlasy na prednej časti hlavy, je to plešina na čele, je čistý."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "Ale ak je na hlave alebo na čele bieločervená choroba, to jest malomocenstvo, ktoré sa rozširuje na hlave alebo na čele tohto muža."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "Kňaz ho obhliadne a ak zistí na hlave alebo na čele bieločervený nádor, ktorý vyzerá ako malomocenstvo na koži,"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "to je malomocný muž; je nečistý. Kňaz ho vyhlási za nečistého, lebo ho postihlo malomocenstvo na hlave."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "Malomocný, ktorého postihla táto choroba, bude nosiť roztrhané šaty a rozpustené vlasy; zakryje si fúzy a bude kričať: „Nečistý! Nečistý!“"
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "Po celý čas, čo bude trvať jeho choroba, bude nečistý, a keďže je nečistý, zostane oddelený: jeho príbytok bude mimo tábora."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "Keď odev postihne malomocenstvo, či je to odev vlnený alebo ľanový,"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "tkanina alebo prikrývka z vlny alebo ľanu, koža alebo akýkoľvek kožený výrobok,"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "ak sa škvrna na tomto odeve, na tejto koži, na tejto tkanine, na tejto prikrývke alebo na tomto koženom predmete javí zelenkastá alebo červenkastá, je to prípad malomocenstva, ktorý treba ukázať kňazovi."
+  }
+]

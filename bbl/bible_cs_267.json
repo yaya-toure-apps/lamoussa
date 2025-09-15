@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26700,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 23,
+    "t": "Totoť jest kniha smlouvy Boha Nejvyššího, zákon, kterýž přikázal Mojžíš, dědictví sborům Jákobovým."
+  },
+  {
+    "i": 26701,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 24,
+    "t": "Posilňujte se v Pánu, a přidružte se k němu, ať vás utvrdí. Pán všemohoucí jest jediný Bůh, a není jiného spasitele kromě něho."
+  },
+  {
+    "i": 26702,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 25,
+    "t": "Onať rozhojňuje moudrost jako vody Fisonu, jako Tigris v čas úrody."
+  },
+  {
+    "i": 26703,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 26,
+    "t": "Onať přeteče rozumností jako Eufrates, jako Jordán v čas žní."
+  },
+  {
+    "i": 26704,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 27,
+    "t": "Onať proudí kázeň jako Nil, jako Gihon v dny vinobraní."
+  },
+  {
+    "i": 26705,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 28,
+    "t": "První ji neukončil poznávat, a podobně ani poslední ji nevystopoval."
+  },
+  {
+    "i": 26706,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 29,
+    "t": "Neboť myšlenky její jsou rozsáhlejší než moře, úmysly její větší než propast."
+  },
+  {
+    "i": 26707,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 30,
+    "t": "A já jsem jako kanál vyšlý z řeky, jako proud vody vedoucí do ráje."
+  },
+  {
+    "i": 26708,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 31,
+    "t": "Řekl jsem: \"Zavlažím zahradu svou, zvlažím záhony své.\" A hle, kanál můj se stal řekou, a řeka se stala mořem."
+  },
+  {
+    "i": 26709,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 32,
+    "t": "Nechám ještě zazářit kázeň jako jitřenka, ponesu do dáli její světlo."
+  },
+  {
+    "i": 26710,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 33,
+    "t": "Ještě rozleji naučení jako proroctví a předám je budoucím pokolením."
+  },
+  {
+    "i": 26711,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 34,
+    "t": "Hleďte, ne pro sebe jediného pracuji, nýbrž pro všechny, kteří ji hledají."
+  },
+  {
+    "i": 26712,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 1,
+    "t": "Jsou tři věci, které oblažují duši mou, které jsou příjemné Bohu i lidem: shoda mezi bratry, přátelství mezi sousedy, muž a žena, kteří si dobře rozumějí."
+  },
+  {
+    "i": 26713,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 2,
+    "t": "Jsou tři druhy lidí, které nenávidí duše má, a jejichž existence mne uvádí z míry: chudý nadutý pýchou, bohatý lhář, stařec cizoložník a zbavený smyslů."
+  },
+  {
+    "i": 26714,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 3,
+    "t": "Pokud jsi nic neshromáždil v mládí, jak bys ve stáří něco měl?"
+  },
+  {
+    "i": 26715,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 4,
+    "t": "Jak krásná věc je soud spojený s šedinami, a pro starší znát radu!"
+  },
+  {
+    "i": 26716,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 5,
+    "t": "Jak krásná věc je moudrost u starců a u velkých světa myšlenka uvážená!"
+  },
+  {
+    "i": 26717,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 6,
+    "t": "Korunou starců jest bohatá zkušenost, pýchou jejich bázeň Hospodinova."
+  },
+  {
+    "i": 26718,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 7,
+    "t": "Je devět věcí, které mi přicházejí na mysl a které pokládám za šťastné, a desátou vám povím: muž, který nalézá radost ve svých dětech, ten, který vidí za svého života pád svých nepřátel;"
+  },
+  {
+    "i": 26719,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 8,
+    "t": "šťastný, kdo žije s ženou rozumnou, kdo neore s volem a oslem, kdo nikdy nezhřešil slovem, kdo neslouží pánu nehodnému jemu;"
+  },
+  {
+    "i": 26720,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 9,
+    "t": "šťastný, kdo nalezl prozíravost a kdo se může obrátit k posluchačstvu pozornému;"
+  },
+  {
+    "i": 26721,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 10,
+    "t": "jak veliký jest ten, kdo nalezl moudrost, ale nikdo nepřevyšuje toho, kdo se bojí Hospodina."
+  },
+  {
+    "i": 26722,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 11,
+    "t": "Neboť bázeň Hospodinova převyšuje vše: kdo ji má, s čím ho srovnat?"
+  },
+  {
+    "i": 26723,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 12,
+    "t": "Bázní Hospodinovou se začíná milovat jej a důvěrou se začíná přidružovat k němu."
+  },
+  {
+    "i": 26724,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 13,
+    "t": "Každá rána, kromě rány srdce! Každá zloba, kromě zloby ženy!"
+  },
+  {
+    "i": 26725,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 14,
+    "t": "Každé neštěstí, kromě neštěstí, které pochází od protivníka! Každá nespravedlnost, kromě nespravedlnosti, která pochází od nepřítele!"
+  },
+  {
+    "i": 26726,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 15,
+    "t": "Není horšího jedu než jed hada, není horší nenávisti než nenávist ženy."
+  },
+  {
+    "i": 26727,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 16,
+    "t": "Raději bych bydlel s lvem nebo drakem než bydlet se ženou zlou."
+  },
+  {
+    "i": 26728,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 17,
+    "t": "Zloba ženy mění její tvář, činí ji zachmuřenou, vypadá jako medvěd."
+  },
+  {
+    "i": 26729,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 18,
+    "t": "Její manžel zasedá mezi sousedy a proti své vůli hořce sténá."
+  },
+  {
+    "i": 26730,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 19,
+    "t": "Žádná zlomyslnost není nic proti zlomyslnosti ženy: ať ji stihne úděl hříšníků!"
+  },
+  {
+    "i": 26731,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 20,
+    "t": "Písčitý výstup pod nohama starce, taková jest žena upovídaná pro muže klidného."
+  },
+  {
+    "i": 26732,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 21,
+    "t": "Nenech se polapit krásou ženy, nikdy se nezamiluj do ženy."
+  },
+  {
+    "i": 26733,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 22,
+    "t": "Jest to předmět hněvu, výčitek a hanby, žena, která živí svého manžela."
+  },
+  {
+    "i": 26734,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 23,
+    "t": "Srdce zdeptané, tvář smutná, rána tajná, toť jest dílo ženy zlé. Ruce nehybné a kolena bez síly, taková jest žena, která činí neštěstí svému manželu."
+  },
+  {
+    "i": 26735,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 24,
+    "t": "Skrze ženu hřích počal a kvůli ní my všichni umíráme."
+  },
+  {
+    "i": 26736,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 25,
+    "t": "Nedávej vodě průchod, ani ženě zlé svobodu mluvit."
+  },
+  {
+    "i": 26737,
+    "b": 45,
+    "c": 4725,
+    "r": 4725,
+    "o": 26,
+    "t": "Pokud neposlouchá na prst a oko, odlouči se od ní."
+  },
+  {
+    "i": 26738,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 1,
+    "t": "Blaze muži, jehož žena jest výtečná, počet jeho dnů bude zdvojnásoben."
+  },
+  {
+    "i": 26739,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 2,
+    "t": "Žena dokonalá jest radostí svého manžela, stráví v pokoji všechny roky svého života."
+  },
+  {
+    "i": 26740,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 3,
+    "t": "Žena výtečná jest díl vybraný, přidělený těm, kteří se bojí Hospodina:"
+  },
+  {
+    "i": 26741,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 4,
+    "t": "bohatí či chudí, jejich srdce jest v radosti, vždy ukazují tvář radostnou."
+  },
+  {
+    "i": 26742,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 5,
+    "t": "Tři věci mne děsí a čtvrtá mne straší: pomluva, která běhá po městě, lidová vzpoura, falešné obvinění: to vše jest horší než smrt;"
+  },
+  {
+    "i": 26743,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 6,
+    "t": "ale jest to bol srdce a bolest, žena žárlivá na jinou, a to vše jest metla jazyka."
+  },
+  {
+    "i": 26744,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 7,
+    "t": "Žena zlá jest jho na voly špatně připevněné; chtít ji ovládnout, jest chytit štíra."
+  },
+  {
+    "i": 26745,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 8,
+    "t": "Žena, která pije, jest předmětem velikého hněvu, nemůže skrýt svou hanbu."
+  },
+  {
+    "i": 26746,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 9,
+    "t": "Nezřízenost ženy se čte v živosti jejího pohledu a pozná se podle jejích pomrkávání."
+  },
+  {
+    "i": 26747,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 10,
+    "t": "Měj se dobře na pozoru před dcerou smělou, aby, cítíc se svobodně, toho nevyužila."
+  },
+  {
+    "i": 26748,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 11,
+    "t": "Střez se pohledů nestoudných a nediv se, jestliže tě zavedou ke zlému."
+  },
+  {
+    "i": 26749,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 12,
+    "t": "Jako cestovatel žíznivý otevírá ústa, pije ze všech vod, které potká, sedá si tváří k každému kolíku, každé šípu otevírá svůj toulec."
+  },
+  {
+    "i": 26750,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 13,
+    "t": "Laskavost manželky činí radost jejímu manželu a její věda jest pro něho silou."
+  },
+  {
+    "i": 26751,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 14,
+    "t": "Žena tichá jest dar od Hospodina, ta, která jest dobře vychovaná, jest bez ceny."
+  },
+  {
+    "i": 26752,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 15,
+    "t": "Žena cudná jest dvojnásobná milost, ta, která jest čistá, jest hodnoty neocenitelné."
+  },
+  {
+    "i": 26753,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 16,
+    "t": "Jako slunce vycházející nad horami Hospodinovými, tak půvab pěkné ženy v domě dobře vedeném."
+  },
+  {
+    "i": 26754,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 17,
+    "t": "Světlo svítící na svatém svícnu, tak krása tváře na těle dobře postaveném."
+  },
+  {
+    "i": 26755,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 18,
+    "t": "Sloupy zlaté na podstavci stříbrném, tak krásné nohy na podpatcích pevných."
+  },
+  {
+    "i": 26756,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 19,
+    "t": "Synu můj, uchovávej zdravý květ svého mládí a nevydávej svou sílu cizím."
+  },
+  {
+    "i": 26757,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 20,
+    "t": "Poté, co jsi vyhledal pole nejúrodnější v zemi, zasej tam své vlastní zrno, důvěřující v ušlechtilost svého rodu."
+  },
+  {
+    "i": 26758,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 21,
+    "t": "Tak ratolesti, které po sobě zanecháš, jisté svou ušlechtilostí, budou pyšné."
+  },
+  {
+    "i": 26759,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 22,
+    "t": "Žena námezdná nestojí za plivanec, manželka zákonitá jest citadela, která zabíjí ty, kteří ji podniknou."
+  },
+  {
+    "i": 26760,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 23,
+    "t": "Žena bezbožná jest dána v podíl hříšníkovi, žena zbožná, tomu, kdo se bojí Hospodina."
+  },
+  {
+    "i": 26761,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 24,
+    "t": "Žena nestydatá se líbí jen v nečestnosti, žena cudná jest jemná i se svým manželem."
+  },
+  {
+    "i": 26762,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 25,
+    "t": "Žena smělí není více respektována než pes, ale ta, která jest skromná, se bojí Hospodina."
+  },
+  {
+    "i": 26763,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 26,
+    "t": "Žena, která ctí svého manžela, jest pokládána za moudrou v očích všech, ale ta, která ho zneuctívá, jest považována za bezbožnou ve své pýše. Blaze muži ženy výtečné, neboť počet jeho dnů bude zdvojnásoben."
+  },
+  {
+    "i": 26764,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 27,
+    "t": "Žena křičící a upovídaná jest trubka, která troubí porážku; každý muž, za těchto podmínek, tráví svůj život ve vřavě války."
+  },
+  {
+    "i": 26765,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 28,
+    "t": "Jsou dvě věci, které mi činí bolest a třetí mi vzbuzuje žluč: válečník selhávající pro nouzi, muži rozumní, kteří trpí pohrdáním, ten, který přechází od spravedlnosti ke hříchu; Hospodin ho určil zahynout mečem."
+  },
+  {
+    "i": 26766,
+    "b": 45,
+    "c": 4726,
+    "r": 4726,
+    "o": 29,
+    "t": "Obchodník se obtížně vyhne chybě a kupec nemůže být bez hříchu."
+  },
+  {
+    "i": 26767,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 1,
+    "t": "Mnozí zhřešili pro lásku k zisku, ten, kdo se chce obohatit, se ukazuje nelítostným."
+  },
+  {
+    "i": 26768,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 2,
+    "t": "Kolík se zatlouká mezi dva kameny spojené, mezi prodej a nákup se vkládá chyba."
+  },
+  {
+    "i": 26769,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 3,
+    "t": "Kdo se nepřiřazuje pevně k bázni Hospodinově, jeho dům bude brzy zničen."
+  },
+  {
+    "i": 26770,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 4,
+    "t": "V sítě, kterou se otřásá, zůstávají nečistoty, stejně tak vady člověka v jeho řeči."
+  },
+  {
+    "i": 26771,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 5,
+    "t": "Pec zkouší nádoby hrnčíře, zkouškou člověka jest jeho rozhovor."
+  },
+  {
+    "i": 26772,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 6,
+    "t": "Ovocný sad, kde roste strom, se soudí podle jeho plodů, tak podle slova člověka myšlenky jeho srdce."
+  },
+  {
+    "i": 26773,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 7,
+    "t": "Nechval nikoho dříve, než promluvil, neboť tam jest kámen úhelný."
+  },
+  {
+    "i": 26774,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 8,
+    "t": "Pokud se budeš honit za spravedlností, dosáhneš ji, oblékneš se do ní jako do roucha nádherného."
+  },
+  {
+    "i": 26775,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 9,
+    "t": "Ptáci hledají společnost svých druhů, pravda se vrací k těm, kteří ji praktikují."
+  },
+  {
+    "i": 26776,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 10,
+    "t": "Lev číhá na svou kořist, tak hřích číhá na ty, kteří se dopouštějí nespravedlnosti."
+  },
+  {
+    "i": 26777,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 11,
+    "t": "Řeč muže zbožného jest vždy moudrost, ale blázen jest proměnlivý jako měsíc."
+  },
+  {
+    "i": 26778,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 12,
+    "t": "Chceš-li jít k bláznům, počkej na příležitost, s lidmi rozvážnými, dej si načas."
+  },
+  {
+    "i": 26779,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 13,
+    "t": "Řeč hlupáků jest hrůza, jejich smích vybuchuje v rozkoších hříchu."
+  },
+  {
+    "i": 26780,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 14,
+    "t": "Jazyk muže, jenž hojně přísahá, vstává vlasy, když se hádá, zacpávají se uši."
+  },
+  {
+    "i": 26781,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 15,
+    "t": "Svár pyšných působí prolévání krve a jejich urážky jsou těžké k slyšení."
+  },
+  {
+    "i": 26782,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 16,
+    "t": "Kdo zjevuje tajemství, ztrácí svou důvěryhodnost a nenalézá již přítele podle svého srdce."
+  },
+  {
+    "i": 26783,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 17,
+    "t": "K svému příteli buď laskav a důvěřivý, ale pokud jsi zjevil jeho tajemství, neběhej již za ním;"
+  },
+  {
+    "i": 26784,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 18,
+    "t": "Neboť jako se vyhubí člověk zabitím, tak jsi i ty usmrtil přátelství svého bližního."
+  },
+  {
+    "i": 26785,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 19,
+    "t": "Jako se otvírá ruka a pták odlétá, tak jsi ztratil svého přítele, již ho nedohoníš."
+  },
+  {
+    "i": 26786,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 20,
+    "t": "Nehoň ho: je daleko, uprchl jako gazela uniklá ze sítě."
+  },
+  {
+    "i": 26787,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 21,
+    "t": "Neboť rána se obváže, urážka se odpustí, ale pro toho, kdo zjevil tajemství, již není naděje."
+  },
+  {
+    "i": 26788,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 22,
+    "t": "Kdo mrká okem, strojí zlo, nikdo jej nemůže od toho odvrátit."
+  },
+  {
+    "i": 26789,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 23,
+    "t": "V tvé přítomnosti je samý med, rozplývá se nad tvými slovy; ale za zády mění jazyk a z tvých slov činí kámen úrazu."
+  },
+  {
+    "i": 26790,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 24,
+    "t": "Mnohé věci nenávidím, ale nic tak jako tohoto člověka, a Hospodin jej také nenávidí."
+  },
+  {
+    "i": 26791,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 25,
+    "t": "Kdo hází kamenem do vzduchu, hází si jej na hlavu, kdo úskočně udeří, snese protihodnotu."
+  },
+  {
+    "i": 26792,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 26,
+    "t": "Kdo kope jámu, spadne do ní, kdo nastavuje léčku, se do ní chytí."
+  },
+  {
+    "i": 26793,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 27,
+    "t": "Kdo činí zlo, zlo na něj dopadne, aniž by věděl, odkud mu přichází."
+  },
+  {
+    "i": 26794,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 28,
+    "t": "Sarkasmus a urážka jsou skutkem pyšného, ale pomsta na něj číhá jako lev."
+  },
+  {
+    "i": 26795,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 29,
+    "t": "Budou chyceni do léčky ti, které těší pád zbožných mužů, bolest je stráví dříve než smrt."
+  },
+  {
+    "i": 26796,
+    "b": 45,
+    "c": 4727,
+    "r": 4727,
+    "o": 30,
+    "t": "Zášť a hněv, hle, opět věci ohavné, které jsou skutkem hříšníka."
+  },
+  {
+    "i": 26797,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 1,
+    "t": "Ten, kdo se mstí, zakusí pomstu Hospodinovu, který vede přísný účet hříchů."
+  },
+  {
+    "i": 26798,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 2,
+    "t": "Odpusť svému bližnímu jeho provinění, tehdy se ti na tvou modlitbu tvé hříchy odpustí."
+  },
+  {
+    "i": 26799,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 3,
+    "t": "Jestliže člověk chová hněv proti jinému, jak může žádat Boha o uzdravení?"
+  }
+]

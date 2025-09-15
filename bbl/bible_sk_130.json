@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13000,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 22,
+    "t": "Či som azda riekol: Darujte mi, alebo z toho, čo máte, prineste mi dar?"
+  },
+  {
+    "i": 13001,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 23,
+    "t": "Či ma vysloboďte z ruky utláčateľa a vykúpte ma z ruky násilníka?"
+  },
+  {
+    "i": 13002,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 24,
+    "t": "Poučte ma, a ja budem mlčať, a dajte mi vedieť, v čom som pochybil."
+  },
+  {
+    "i": 13003,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 25,
+    "t": "Ako bolestivé sú spravodlivé slová! Ale čo dokazujú vaše výčitky?"
+  },
+  {
+    "i": 13004,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 26,
+    "t": "Či chcete karhať slová a považovať reči zúfalého za vietor?"
+  },
+  {
+    "i": 13005,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 27,
+    "t": "Áno, losujete o sirote a svojho priateľa predávate."
+  },
+  {
+    "i": 13006,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 28,
+    "t": "Teraz sa však ráčte pozrieť na mňa a uvidíte, či budem klamať pred vašou tvárou."
+  },
+  {
+    "i": 13007,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 29,
+    "t": "Vráťte sa, nech nie je krivosť, vráťte sa, lebo v tom je moja spravodlivosť."
+  },
+  {
+    "i": 13008,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 30,
+    "t": "Či je na mojom jazyku krivosť? Či moje hrdlo nepozná skazu?"
+  },
+  {
+    "i": 13009,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 1,
+    "t": "Či nemá človek vymedzený čas na zemi a jeho dni nie sú ako dni nádenníka?"
+  },
+  {
+    "i": 13010,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 2,
+    "t": "Ako otrok prahne po tieni a ako nádenník očakáva svoju mzdu,"
+  },
+  {
+    "i": 13011,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 3,
+    "t": "tak som si prisvojil mesiace márnosti a počítal som si trpkých nocí."
+  },
+  {
+    "i": 13012,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 4,
+    "t": "Keď si ľahnem, hovorím: Kedy vstanem? Ale noc sa vlečie a sýtim sa nepokojom až do úsvitu."
+  },
+  {
+    "i": 13013,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 5,
+    "t": "Moje telo je pokryté červami a hrudami prachu, moja koža sa trhá a hnisá."
+  },
+  {
+    "i": 13014,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 6,
+    "t": "Moje dni sú rýchlejšie ako tkáčsky člnok a končia sa bez nádeje."
+  },
+  {
+    "i": 13015,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 7,
+    "t": "Pamätaj, že môj život je len dych, moje oko už neuvidí šťastie."
+  },
+  {
+    "i": 13016,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 8,
+    "t": "Oko toho, kto ma vidí, ma už neuvidí, tvoje oči budú na mňa, ale nebudem."
+  },
+  {
+    "i": 13017,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 9,
+    "t": "Ako oblak mizne a rozplýva sa, tak ten, čo zostúpi do šeolu, nevystúpi."
+  },
+  {
+    "i": 13018,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 10,
+    "t": "Nevráti sa už do svojho domu a jeho miesto ho viac nepozná."
+  },
+  {
+    "i": 13019,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 11,
+    "t": "Preto nebudem krotiť svoje ústa, budem hovoriť v tiesni svojho ducha, budem sa sťažovať v horkosti svojej duše."
+  },
+  {
+    "i": 13020,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 12,
+    "t": "Či som more alebo morská obluda, že si nado mnou postavil stráž?"
+  },
+  {
+    "i": 13021,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 13,
+    "t": "Keď si poviem: Posteľ ma poteší, lôžko uľahčí moju sťažnosť,"
+  },
+  {
+    "i": 13022,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 14,
+    "t": "vtedy ma strašíš snami a desíš videniami."
+  },
+  {
+    "i": 13023,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 15,
+    "t": "Preto si moja duša vyberá uškrtenie, smrť radšej ako tieto bolesti."
+  },
+  {
+    "i": 13024,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 16,
+    "t": "Hnusím si to, nebudem žiť večne, nechaj ma, lebo moje dni sú iba dych."
+  },
+  {
+    "i": 13025,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 17,
+    "t": "Čo je človek, že si ho tak ceníš a že si ho všímaš?"
+  },
+  {
+    "i": 13026,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 18,
+    "t": "Že ho navštevuješ každé ráno a skúmaš ho každú chvíľu?"
+  },
+  {
+    "i": 13027,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 19,
+    "t": "Ako dlho sa odo mňa neodvrátiš a nenecháš ma prehltnúť moju slinu?"
+  },
+  {
+    "i": 13028,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 20,
+    "t": "Ak som zhrešil, čo som ti urobil, pozorovateľu človeka? Prečo si ma urobil svojím cieľom, takže som ti na ťarchu?"
+  },
+  {
+    "i": 13029,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 21,
+    "t": "Prečo neodpustíš moju prestúpenie a neprejdeš moju vinu? Lebo čoskoro si ľahnem do prachu, budeš ma hľadať, ale nebudem."
+  },
+  {
+    "i": 13030,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 1,
+    "t": "Vtedy prehovoril Bildad z Šuchu a riekol:"
+  },
+  {
+    "i": 13031,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 2,
+    "t": "Ako dlho budeš hovoriť také veci a slová tvojich úst budú ako silný vietor?"
+  },
+  {
+    "i": 13032,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 3,
+    "t": "Či Boh prekrúca právo a Všemohúci prevracia spravodlivosť?"
+  },
+  {
+    "i": 13033,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 4,
+    "t": "Ak tvoji synovia zhrešili proti nemu, vydal ich na pospas ich priestupku."
+  },
+  {
+    "i": 13034,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 5,
+    "t": "Ak sa však budeš usilovne modliť k Bohu a prosiť Všemohúceho,"
+  },
+  {
+    "i": 13035,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 6,
+    "t": "ak budeš čistý a priamy, istotne sa pre teba prebudí a obnoví tvoj spravodlivý príbytok."
+  },
+  {
+    "i": 13036,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 7,
+    "t": "Tvoj začiatok bude malý, ale tvoj koniec bude veľmi veľký."
+  },
+  {
+    "i": 13037,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 8,
+    "t": "Opýtaj sa predošlých pokolení a pozoruj, čo preskúmali ich otcovia,"
+  },
+  {
+    "i": 13038,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 9,
+    "t": "lebo my sme len včerajší a nič nevieme, lebo naše dni na zemi sú len tieň."
+  },
+  {
+    "i": 13039,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 10,
+    "t": "Či ťa oni nepoučia a nepovedia ti, a zo svojho srdca nevydajú slová?"
+  },
+  {
+    "i": 13040,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 11,
+    "t": "Či vyrastie papyrus bez močiara? Či sa rozrastie trstina bez vody?"
+  },
+  {
+    "i": 13041,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 12,
+    "t": "Ešte je v kvete a nezrežú ho, skôr ako každá bylina uschne."
+  },
+  {
+    "i": 13042,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 13,
+    "t": "Také sú cesty všetkých, ktorí zabúdajú na Boha, a nádej bezbožníka zahynie."
+  },
+  {
+    "i": 13043,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 14,
+    "t": "Jeho dôvera sa pretrhne a jeho nádej je pavučinou."
+  },
+  {
+    "i": 13044,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 15,
+    "t": "Oprie sa o svoj dom, ale neobstojí, uchytí sa ho, ale neudrží sa."
+  },
+  {
+    "i": 13045,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 16,
+    "t": "Je plný sily pred slnkom a jeho výhonky sa šíria po jeho záhrade."
+  },
+  {
+    "i": 13046,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 17,
+    "t": "Jeho korene sa vinú okolo kopy kameňov, vidí miesto kameňov."
+  },
+  {
+    "i": 13047,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 18,
+    "t": "Ak ho vytrhne z jeho miesta, potom ho to miesto zaprie: Nevidel som ťa!"
+  },
+  {
+    "i": 13048,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 19,
+    "t": "Hľa, toto je radosť z jeho cesty, a zo zeme vyrastú iné."
+  },
+  {
+    "i": 13049,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 20,
+    "t": "Hľa, Boh nezavrhne bezúhonného a nepodporí ruku zloduchov."
+  },
+  {
+    "i": 13050,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 21,
+    "t": "Kým opäť nenaplní tvoje ústa smiechom a tvoje pery radosťou."
+  },
+  {
+    "i": 13051,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 22,
+    "t": "Tvoji nenávistníci budú zahalení hanbou a stan zlých nebude viac."
+  },
+  {
+    "i": 13052,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 1,
+    "t": "Vtedy odpovedal Job a riekol:"
+  },
+  {
+    "i": 13053,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 2,
+    "t": "Viem, že je to tak, ale ako môže byť človek spravodlivý pred Bohom?"
+  },
+  {
+    "i": 13054,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 3,
+    "t": "Ak by sa chcel s ním hádať, nemohol by mu odpovedať ani na jednu z tisícich otázok."
+  },
+  {
+    "i": 13055,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 4,
+    "t": "Je múdry srdcom a silný silou. Kto sa mu vzoprel a uspel?"
+  },
+  {
+    "i": 13056,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 5,
+    "t": "On prenáša hory, a nevedia o tom, prevracia ich vo svojom hneve."
+  },
+  {
+    "i": 13057,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 6,
+    "t": "On zatrasie zemou z jej miesta, takže jej stĺpy sa trasú."
+  },
+  {
+    "i": 13058,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 7,
+    "t": "On rozkáže slnku, a nevychádza, a zapečatí hviezdy."
+  },
+  {
+    "i": 13059,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 8,
+    "t": "On sám rozprestrel nebesia a šliape po výšinách mora."
+  },
+  {
+    "i": 13060,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 9,
+    "t": "On stvoril Medveda, Oriona a Plejády a tajomstvá južných komôr."
+  },
+  {
+    "i": 13061,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 10,
+    "t": "On koná veľké a nevyspytateľné veci, divy bez počtu."
+  },
+  {
+    "i": 13062,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 11,
+    "t": "Ak prejde okolo mňa, neuvidím ho, ak prejde, nespoznám ho."
+  },
+  {
+    "i": 13063,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 12,
+    "t": "Ak uchmatne, kto mu zabráni? Kto mu povie: Čo robíš?"
+  },
+  {
+    "i": 13064,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 13,
+    "t": "Boh nepotlačí svoj hnev; pod ním sa zohýbajú pomocníci Rachaba."
+  },
+  {
+    "i": 13065,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 14,
+    "t": "Ako mu potom môžem odpovedať, ako si môžem vybrať svoje slová pred ním?"
+  },
+  {
+    "i": 13066,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 15,
+    "t": "Aj keď by som bol spravodlivý, nemohol by som odpovedať, musel by som prosiť svojho sudcu."
+  },
+  {
+    "i": 13067,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 16,
+    "t": "Ak by som ho zavolal a on by mi odpovedal, neverím, že by počúval môj hlas."
+  },
+  {
+    "i": 13068,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 17,
+    "t": "Lebo ma drví pre maličkosť a bez príčiny mi rozmnožuje rany."
+  },
+  {
+    "i": 13069,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 18,
+    "t": "Nedovolí mi ani nadýchnuť sa, ale nasýti ma trpkosťou."
+  },
+  {
+    "i": 13070,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 19,
+    "t": "Ak ide o silu, hľa, on je silný; ak ide o právo, kto mi ho predvolá?"
+  },
+  {
+    "i": 13071,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 20,
+    "t": "Ak by som sa ospravedlnil, moje vlastné ústa by ma odsúdili; ak by som bol bezúhonný, dokázalo by ma to prevráteným."
+  },
+  {
+    "i": 13072,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 21,
+    "t": "Som bezúhonný, nevenujem pozornosť svojej duši, opovrhujem svojím životom."
+  },
+  {
+    "i": 13073,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 22,
+    "t": "Všetko je jedno; preto hovorím, že ničí bezúhonného aj zlého."
+  },
+  {
+    "i": 13074,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 23,
+    "t": "Ak bič usmrtí náhle, vysmieva sa utrpeniu nevinných."
+  },
+  {
+    "i": 13075,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 24,
+    "t": "Zem je daná do ruky zloduchovi, zakrýva tvár jej sudcom. Ak nie on, kto teda?"
+  },
+  {
+    "i": 13076,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 25,
+    "t": "Moje dni sú rýchlejšie ako bežec, utekajú preč, nevidia šťastie."
+  },
+  {
+    "i": 13077,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 26,
+    "t": "Preletia ako trstinové lode, ako orol, ktorý sa ponáhľa na korisť."
+  },
+  {
+    "i": 13078,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 27,
+    "t": "Ak si poviem: Zabudnem na svoju sťažnosť, zmením svoju tvár a poteším sa,"
+  },
+  {
+    "i": 13079,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 28,
+    "t": "desím sa všetkých svojich bolestí, lebo viem, že ma neoslobodíš."
+  },
+  {
+    "i": 13080,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 29,
+    "t": "Ak ak som páchal zlo, načo sa teda márne namáham?"
+  },
+  {
+    "i": 13081,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 30,
+    "t": "Ak by som sa umyl snehom a očistil si ruky lúhom,"
+  },
+  {
+    "i": 13082,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 31,
+    "t": "ponoríš ma do jamy, takže sa mi i šaty budú oškliviť."
+  },
+  {
+    "i": 13083,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 32,
+    "t": "Lebo On nie je človek ako ja, aby som mu odpovedal, aby sme sa spolu postavili pred súd."
+  },
+  {
+    "i": 13084,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 33,
+    "t": "Medzi nami niet rozhodcu, ktorý by položil ruku na nás oboch,"
+  },
+  {
+    "i": 13085,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 34,
+    "t": "aby odvrátil odo mňa Jeho prút a aby ma hrôza z Neho neľakala."
+  },
+  {
+    "i": 13086,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 35,
+    "t": "Prehovorím, nebojím sa Ho, lebo taký nie som v očiach svojich!"
+  },
+  {
+    "i": 13087,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 1,
+    "t": "Život sa mi protiví, dám voľný priebeh svojej sťažnosti, vylejem horkosť svojej duše."
+  },
+  {
+    "i": 13088,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 2,
+    "t": "Poviem Bohu: Neodsudzuj ma, daj mi vedieť, prečo sa so mnou vadíš."
+  },
+  {
+    "i": 13089,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 3,
+    "t": "Či ti je dobre, že ma trápiš, že pohŕdaš dielom svojich rúk a pomáhaš úmyslom bezbožníkov?"
+  },
+  {
+    "i": 13090,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 4,
+    "t": "Či máš oči z mäsa a tvoj pohľad je ako pohľad ľudí?"
+  },
+  {
+    "i": 13091,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 5,
+    "t": "Je tvoja existencia ako existencia smrteľníkov, tvoje roky plynú ako dni človeka?"
+  },
+  {
+    "i": 13092,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 6,
+    "t": "Ty, ktorý hľadáš moju vinu a vyšetruješ môj hriech,"
+  },
+  {
+    "i": 13093,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 7,
+    "t": "vieš dobre, že som nevinný a že ma nikto nemôže vytrhnúť z tvojich rúk!"
+  },
+  {
+    "i": 13094,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 8,
+    "t": "Tvoje ruky ma utvorili, vytvorili; potom si to rozmyslel a chcel by si ma zničiť!"
+  },
+  {
+    "i": 13095,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 9,
+    "t": "Spomeň si: utvoril si ma ako hlinu a vrátiš ma do prachu."
+  },
+  {
+    "i": 13096,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 10,
+    "t": "Či si ma nevylial ako mlieko a nezrazil ako tvaroh,"
+  },
+  {
+    "i": 13097,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 11,
+    "t": "neodieval ma kožou a mäsom, nezosnoval kosťami a nervami?"
+  },
+  {
+    "i": 13098,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 12,
+    "t": "Potom si ma obdaril životom a s úzkostlivosťou si strážil môj dych."
+  },
+  {
+    "i": 13099,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 13,
+    "t": "Ale mal si vedome skrytý úmysel; viem, že si si uchovával"
+  }
+]

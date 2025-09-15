@@ -1,0 +1,802 @@
+[
+  {
+    "i": 900,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 28,
+    "t": "Nisi me pustio da poljubim sinove svoje i kćeri svoje. Zaista, ludo si učinio!"
+  },
+  {
+    "i": 901,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 29,
+    "t": "U mojoj je moći da ti zlo učinim, ali Bog oca tvojega, sinoć mi reče: Pazi da Jakovu ne govoriš ni dobro ni zlo."
+  },
+  {
+    "i": 902,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 30,
+    "t": "Sada, dakle, ode, jer si silno za domom oca svojega čeznuo! Ali zašto si ukrao bogove moje?"
+  },
+  {
+    "i": 903,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 31,
+    "t": "Jakov odgovori Labanu: \"Prestraših se, jer sam mislio da ćeš mi silom oduzeti kćeri svoje."
+  },
+  {
+    "i": 904,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 32,
+    "t": "Ali kod koga nađeš bogove svoje, taj neće ostati živ: pred braćom našom prepoznaj što je tvoje kod mene, pa uzmi.\" Jer Jakov nije znao da ih je Rahela ukrala."
+  },
+  {
+    "i": 905,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 33,
+    "t": "Laban uđe u šator Jakovljev, zatim u šator Lein, zatim u šator dviju sluškinja, i ne nađe ništa. Izišavši iz šatora Lein, uđe u šator Rahel."
+  },
+  {
+    "i": 906,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 34,
+    "t": "A Rahela bijaše uzela kućne idole, stavila ih u sedlo devino i sela na njih; Laban pretraži sav šator i ne nađe ništa."
+  },
+  {
+    "i": 907,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 35,
+    "t": "Rahela reče ocu svome: \"Neka se gospodar moj ne srdi što ne mogu ustati pred tobom, jer mi se dogodilo ono što je uobičajeno ženama.\" On je tražio, ali idola ne nađe."
+  },
+  {
+    "i": 908,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 36,
+    "t": "Jakov se razgnjevi i stade prigovarati Labanu. I Jakov progovori Labanu: \"Što sam zgriješio, što sam kriv, da si se tako oborio na me?"
+  },
+  {
+    "i": 909,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 37,
+    "t": "Pretražio si sav moj prtljag: što si našao od svoga kućanstva? Stavi to ovdje pred braću moju i braću svoju, pa neka sude između nas dvojice!"
+  },
+  {
+    "i": 910,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 38,
+    "t": "Evo dvadeset godina služim te; ovce tvoje i koze tvoje nisu pobacile, i ovnove iz stada tvojega nisam pojeo."
+  },
+  {
+    "i": 911,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 39,
+    "t": "Rastrganu stoku nisam ti donosio, ja sam je nadoknađivao; tražio si je od mene, ukradena bila danju ili ukradena noću."
+  },
+  {
+    "i": 912,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 40,
+    "t": "Danju me satirala žega, a noću mraz, i san mi je bježao od očiju."
+  },
+  {
+    "i": 913,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 41,
+    "t": "Evo dvadeset godina provodih u kući tvojoj; služio sam te četrnaest godina za dvije kćeri tvoje, i šest godina za stado tvoje, i deset si mi puta plaću promijenio."
+  },
+  {
+    "i": 914,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 42,
+    "t": "Da Bog oca mojega, Bog Abrahamov, Strah Izakov, nije bio sa mnom, sada bi me otpravio praznih ruku. Ali Bog je vidio muku moju i trud ruku mojih, i sinoć je izrekao svoju presudu.\""
+  },
+  {
+    "i": 915,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 43,
+    "t": "Laban odgovori Jakovu: \"Kćeri su moje ove kćeri, i djeca su moja ova djeca, i stoka je moja ova stoka, sve što vidiš moje je. Ali što bih mogao danas učiniti ovim svojim kćerima ili djeci koju su rodile?"
+  },
+  {
+    "i": 916,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 44,
+    "t": "Hajde da sklopimo savez, ja i ti..., i neka to bude svjedok između mene i tebe.\""
+  },
+  {
+    "i": 917,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 45,
+    "t": "Tada Jakov uze kamen i podiže ga kao stup."
+  },
+  {
+    "i": 918,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 46,
+    "t": "I Jakov reče braći svojoj: \"Nakupite kamenja.\" Oni nakupiše kamenja, načiniše hrpu, i jedoše ondje na hrpi."
+  },
+  {
+    "i": 919,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 47,
+    "t": "Laban je nazva Jegar Sahaduta, a Jakov je nazva Galed."
+  },
+  {
+    "i": 920,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 48,
+    "t": "Laban reče: \"Neka ova hrpa danas bude svjedok između mene i tebe.\" Zato je nazva Galed,"
+  },
+  {
+    "i": 921,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 49,
+    "t": "i Mispa, jer reče: \"Neka Jahve bude stražar između mene i tebe, kad se više ne budemo gledali."
+  },
+  {
+    "i": 922,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 50,
+    "t": "Ako budeš zlostavljao kćeri moje ili ako uzmeš drugih žena osim mojih kćeri, i ako nitko ne bude s nama, znaj: Bog je svjedok između mene i tebe.\""
+  },
+  {
+    "i": 923,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 51,
+    "t": "Laban reče Jakovu: \"Evo ove hrpe koju sam nagomilao između sebe i tebe, i evo ovog stupa."
+  },
+  {
+    "i": 924,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 52,
+    "t": "Ova je hrpa svjedok, i ovaj je stup svjedok da ja ne smijem prelaziti ovu hrpu prema tebi niti ti prelaziti ovu hrpu i ovaj stup prema meni sa zlom namjerom."
+  },
+  {
+    "i": 925,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 53,
+    "t": "Bog Abrahamov i Bog Nahorov neka sude između nas.\" I Jakov se zakle Strahom Izaka, oca svojega."
+  },
+  {
+    "i": 926,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 54,
+    "t": "Jakov prinese žrtvu na gori i pozva braću svoju na objed. Oni objedovaše i prenoćiše na gori."
+  },
+  {
+    "i": 927,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 1,
+    "t": "Uranivši ujutro, Laban poljubi unučad svoju i kćeri svoje i blagoslovi ih. Potom Laban ode i vrati se u svoj dom."
+  },
+  {
+    "i": 928,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 2,
+    "t": "Dok je Jakov nastavljao put svoj, sretoše ga anđeli Božji."
+  },
+  {
+    "i": 929,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 3,
+    "t": "Ugledavši ih, Jakov reče: \"Ovo je tabor Božji!\" I nadjenu onom mjestu ime Mahanajim."
+  },
+  {
+    "i": 930,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 4,
+    "t": "Jakov posla pred sobom glasnike bratu svome Ezavu, u zemlju Seir, u Edomsku stepu."
+  },
+  {
+    "i": 931,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 5,
+    "t": "I zapovjedi im: \"Ovako ćete reći gospodaru mome Ezavu: Ovako govori sluga tvoj Jakov: Kod Labana sam boravio i zadržao se do sada."
+  },
+  {
+    "i": 932,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 6,
+    "t": "Stekao sam goveda i magarce, sitnu stoku, sluge i sluškinje. Želim to javiti gospodaru mome, da nađem milost u očima njegovim.\""
+  },
+  {
+    "i": 933,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 7,
+    "t": "Glasnici se vratiše Jakovu govoreći: \"Išli smo k bratu tvome Ezavu. I on sam ti ide u susret, i ima četiristo ljudi sa sobom.\""
+  },
+  {
+    "i": 934,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 8,
+    "t": "Jakov se uplaši i zabrinu. Tada razdijeli na dva tabora ljude koji su bili s njim, sitnu i krupnu stoku."
+  },
+  {
+    "i": 935,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 9,
+    "t": "Govoraše: \"Ako Ezav udari na jedan tabor i napadne ga, tabor koji ostane moći će se spasiti.\""
+  },
+  {
+    "i": 936,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 10,
+    "t": "Jakov reče: \"Bože oca mojega Abrahama i Bože oca mojega Izaka, Jahve, koji si mi zapovjedio: Vrati se u zemlju svoju i u zavičaj svoj, i ja ću ti učiniti dobro,"
+  },
+  {
+    "i": 937,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 11,
+    "t": "nisam dostojan svih milosti i sve dobrote što si ih iskazao sluzi svome. Jer samo sa štapom svojim prešao sam ovaj Jordan, a sada mogu tvoriti dva tabora."
+  },
+  {
+    "i": 938,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 12,
+    "t": "Izbavi me od ruke brata mojega Ezava, jer ga se bojim da ne dođe i udari na nas, na majku s djecom."
+  },
+  {
+    "i": 939,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 13,
+    "t": "A ti si rekao: Obasut ću te dobročinstvima i učinit ću potomstvo tvoje kao pijesak morski, koji se ne može izbrojiti od mnoštva.\""
+  },
+  {
+    "i": 940,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 14,
+    "t": "I Jakov prenoći na onom mjestu. Od onoga što je imao u rukama, uze dar za brata svojega Ezava:"
+  },
+  {
+    "i": 941,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 15,
+    "t": "dvjesto koza i dvadeset jaraca, dvjesto ovaca i dvadeset ovnova,"
+  },
+  {
+    "i": 942,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 16,
+    "t": "deva dojilica s njihovom mladunčadi trideset, krava četrdeset i deset bikova, magarica dvadeset i deset magarčića."
+  },
+  {
+    "i": 943,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 17,
+    "t": "Preda ih slugama svojim, svako stado zasebno, i reče slugama svojim: \"Idite preda mnom i ostavite razmak između stada.\""
+  },
+  {
+    "i": 944,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 18,
+    "t": "Prvomu dade zapovijed: \"Kada te sretne brat moj Ezav i upita te: Čiji si? Kuda ideš? Čije je ovo što je pred tobom?"
+  },
+  {
+    "i": 945,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 19,
+    "t": "Odgovorit ćeš: Sluge tvojega Jakova, to je dar poslan gospodaru mome Ezavu, i on sam ide za nama.\""
+  },
+  {
+    "i": 946,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 20,
+    "t": "Isto tako zapovjedi drugomu, trećemu i svima koji su išli za stadima: \"Tako ćete govoriti Ezavu kada ga nađete,"
+  },
+  {
+    "i": 947,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 21,
+    "t": "i reći ćete: I sam sluga tvoj Jakov ide za nama.\" Jer mišljaše: \"Umirit ću ga darom koji ide preda mnom, zatim ću se pokazati pred njim, možda mi bude milostiv.\""
+  },
+  {
+    "i": 948,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 22,
+    "t": "Dar prođe naprijed, a on sam ostade one noći u taboru."
+  },
+  {
+    "i": 949,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 23,
+    "t": "Iste noći ustade, uze svoje dvije žene, svoje dvije sluškinje, svojih jedanaest sinova i prijeđe gaz Jabok."
+  },
+  {
+    "i": 950,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 24,
+    "t": "On ih uze i prebaci ih preko potoka, a prebaci i sve što je imao."
+  },
+  {
+    "i": 951,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 25,
+    "t": "I Jakov ostade sam. I netko se hrvaše s njim sve do svitanja."
+  },
+  {
+    "i": 952,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 26,
+    "t": "Vidjevši da ga ne može svladati, udari ga u zglob bedreni, i iščaši se Jakovu bedro dok se hrvao s njim."
+  },
+  {
+    "i": 953,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 27,
+    "t": "Reče: \"Pusti me, jer zora je\", ali Jakov odgovori: \"Neću te pustiti dok me ne blagosloviš.\""
+  },
+  {
+    "i": 954,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 28,
+    "t": "Upita ga: \"Kako se zoveš?\" - \"Jakov\", odgovori."
+  },
+  {
+    "i": 955,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 29,
+    "t": "On nastavi: \"Nećeš se više zvati Jakov, nego Izrael, jer si se junački borio s Bogom i s ljudima i nadvladao si.\""
+  },
+  {
+    "i": 956,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 30,
+    "t": "Jakov ga upita: \"Objavi mi ime svoje, molim te\", ali on odgovori: \"Zašto pitaš za moje ime?\" I ondje ga blagoslovi."
+  },
+  {
+    "i": 957,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 31,
+    "t": "Jakov nadjenu onome mjestu ime Penuel, \"jer, reče, vidio sam Boga licem u lice i život mi je spašen.\""
+  },
+  {
+    "i": 958,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 32,
+    "t": "Sunce mu je granulo kada je prolazio Penuel, i hramljao je na bedro."
+  },
+  {
+    "i": 959,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 33,
+    "t": "Zato Izraelci ne jedu, sve do dana današnjega, živac ukočenosti, koji je na zglobu bedrenom, jer je on udario Jakova u zglob bedreni, u živac ukočenosti."
+  },
+  {
+    "i": 960,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 1,
+    "t": "Podigavši oči, Jakov vidje Ezava kako dolazi s četiristo ljudi u pratnji. Tada razdijeli djecu između Lee, Rahele i dviju sluškinja,"
+  },
+  {
+    "i": 961,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 2,
+    "t": "i stavi sprijeda sluškinje i njihovu djecu, zatim Leu i njezinu djecu, zatim Rahelu i Josipa."
+  },
+  {
+    "i": 962,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 3,
+    "t": "A on sam prođe pred njima i pokloni se sedam puta do zemlje prije nego što pristupi bratu svome."
+  },
+  {
+    "i": 963,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 4,
+    "t": "Ali Ezav potrča njemu u susret, zagrli ga, pade mu oko vrata i poljubi ga plačući."
+  },
+  {
+    "i": 964,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 5,
+    "t": "Podigavši oči i vidjevši žene i djecu, upita: \"Tko su ovi koje imaš sa sobom?\" Jakov odgovori: \"Djeca kojima je Bog obdario slugu tvojega.\""
+  },
+  {
+    "i": 965,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 6,
+    "t": "Sluškinje pristupiše, one i njihova djeca, i pokloniše se."
+  },
+  {
+    "i": 966,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 7,
+    "t": "Pristupi i Lea sa svojom djecom i pokloniše se; napokon pristupiše Rahela i Josip i pokloniše se."
+  },
+  {
+    "i": 967,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 8,
+    "t": "Ezav upita: \"Što će ti sva ova četa koju sam sreo?\" - \"To je zato, odgovori, da nađem milost u očima gospodara svojega.\""
+  },
+  {
+    "i": 968,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 9,
+    "t": "Ezav odgovori: \"Imam dovoljno, brate moj, zadrži što je tvoje.\""
+  },
+  {
+    "i": 969,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 10,
+    "t": "Ali Jakov reče: \"Ne, molim te! Ako sam našao milost u očima tvojim, primi iz moje ruke ovaj dar. Doista, susreo sam lice tvoje kao da sam susreo lice Božje, i bio si mi milostiv."
+  },
+  {
+    "i": 970,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 11,
+    "t": "Primi, dakle, dar koji ti je donesen, jer me Bog obasuo milošću i imam svega dosta\" i, navaljujući na nj, Ezav prihvati."
+  },
+  {
+    "i": 971,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 12,
+    "t": "Ovaj reče: \"Ustanimo i krenimo, ja ću ići naprijed.\""
+  },
+  {
+    "i": 972,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 13,
+    "t": "Ali Jakov mu odgovori: \"Gospodar moj zna da je djeca nježna i da moram misliti na ovce i krave koje doje: ako ih se premore i samo jedan dan, sva će stoka pouginuti."
+  },
+  {
+    "i": 973,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 14,
+    "t": "Neka, dakle, gospodar moj ide naprijed pred slugom svojim; a ja ću se polagano kretati u skladu s tempom stada koje je preda mnom i tempom djece, dok ne stignem kod gospodara svoga, u Seir.\""
+  },
+  {
+    "i": 974,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 15,
+    "t": "Tada Ezav reče: \"Ostavit ću barem s tobom dio ljudi koji me prate!\" Ali Jakov odgovori: \"Zašto to? Samo da nađem milost u očima gospodara svoga!\""
+  },
+  {
+    "i": 975,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 16,
+    "t": "Toga se dana Ezav vrati natrag u Seir,"
+  },
+  {
+    "i": 976,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 17,
+    "t": "a Jakov krenu u Sukot, sagradi sebi kuću i načini kolibe za stoku svoju; zato su onome mjestu dali ime Sukot."
+  },
+  {
+    "i": 977,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 18,
+    "t": "Potom Jakov stiže zdrav i čitav u grad Šekem, u zemlji Kanaanskoj, kada se vraćao iz Padan-Arama, i utabori se nasuprot grada."
+  },
+  {
+    "i": 978,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 19,
+    "t": "Kupi od sinova Hamora, oca Šekemova, za sto srebrnjaka komad polja na kojem je razapeo svoj šator,"
+  },
+  {
+    "i": 979,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 20,
+    "t": "i ondje podiže žrtvenik, koji nazva \"El, Bog Izraelov.\""
+  },
+  {
+    "i": 980,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 1,
+    "t": "Dina, kći koju je Lea rodila Jakovu, izađe da vidi kćeri one zemlje."
+  },
+  {
+    "i": 981,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 2,
+    "t": "Šekem, sin Hamora Hivijca, kneza one zemlje, vidje je i, oteo je, leže s njom i obljubi je."
+  },
+  {
+    "i": 982,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 3,
+    "t": "Ali srce mu prionu uz Dinu, kćer Jakovljevu, zavolje mladu djevojku i govoraše srcu njezinu."
+  },
+  {
+    "i": 983,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 4,
+    "t": "Šekem reče ocu svome Hamoru: \"Uzmi mi ovu djevojku za ženu.\""
+  },
+  {
+    "i": 984,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 5,
+    "t": "Jakov bijaše čuo da je oskvrnuo njegovu kćer Dinu, ali kako su mu sinovi bili u polju sa stokom njegovom, Jakov je šutio do njihova povratka."
+  },
+  {
+    "i": 985,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 6,
+    "t": "Hamor, otac Šekemov, dođe k Jakovu da razgovara s njim."
+  },
+  {
+    "i": 986,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 7,
+    "t": "Kada se sinovi Jakovljevi vratiše iz polja i doznadoše to, ljudi se razgnjeviše i uđe im velik gnjev zbog toga što je počinio sramotu u Izraelu ležeći s kćeri Jakovljevom: to se ne smije činiti!"
+  },
+  {
+    "i": 987,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 8,
+    "t": "Hamor im reče: \"Sin se moj Šekem zaljubio u vašu kćer, molim vas dajte mu je za ženu."
+  },
+  {
+    "i": 988,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 9,
+    "t": "Ženite se s nama: vi nama dajte svoje kćeri, a vi uzimajte naše."
+  },
+  {
+    "i": 989,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 10,
+    "t": "Živite s nama i zemlja će vam biti otvorena: možete se nastaniti, kretati se, naseliti se u njoj.\""
+  },
+  {
+    "i": 990,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 11,
+    "t": "Šekem reče ocu i braći djevojčinoj: \"Neka nađem milost u vašim očima i dat ću što god me zatražite!"
+  },
+  {
+    "i": 991,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 12,
+    "t": "Nametnite mi veliku svotu, kao cijenu i kao dar, platit ću koliko god me zatražite, samo mi dajte djevojku za ženu!\""
+  },
+  {
+    "i": 992,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 13,
+    "t": "Sinovi Jakovljevi odgovoriše Šekemu i ocu njegovu Hamoru, govoreći s prijevarom, jer je oskvrnuo njihovu sestru Dinu."
+  },
+  {
+    "i": 993,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 14,
+    "t": "Rekoše im: \"Ne možemo učiniti takvo što: dati svoju sestru čovjeku neobrezanom, jer je to sramota kod nas."
+  },
+  {
+    "i": 994,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 15,
+    "t": "Dat ćemo vam svoj pristanak samo pod tim uvjetom: da postanete kao mi i obrežete sve svoje muškarce."
+  },
+  {
+    "i": 995,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 16,
+    "t": "Tada ćemo vam dati svoje kćeri i mi ćemo uzimati vaše, živjet ćemo s vama i postat ćemo jedan narod."
+  },
+  {
+    "i": 996,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 17,
+    "t": "Ali ako nas ne poslušate u vezi s obrezanjem, uzet ćemo svoju kćer i otići ćemo.\""
+  },
+  {
+    "i": 997,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 18,
+    "t": "Njihove riječi ugodile su Hamoru i Šekemu, sinu Hamorovu."
+  },
+  {
+    "i": 998,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 19,
+    "t": "Mladić nije oklijevao učiniti to, jer bijaše zaljubljen u kćer Jakovljevu; a bijaše najugledniji u cijeloj kući svoga oca."
+  },
+  {
+    "i": 999,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 20,
+    "t": "Hamor i njegov sin Šekem otiđoše na vrata svoga grada i rekoše ljudima svoga grada:"
+  }
+]

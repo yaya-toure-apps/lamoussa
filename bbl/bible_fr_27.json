@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2700,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 38,
+    "t": "l’autel d’or, l’huile d’onction, l’encens aromatique et le voile pour l’entrée de la Tente ;"
+  },
+  {
+    "i": 2701,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 39,
+    "t": "l’autel de bronze et son treillis de bronze, ses barres et tous ses accessoires ; le bassin et son socle ;"
+  },
+  {
+    "i": 2702,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 40,
+    "t": "les courtines du parvis, ses colonnes, ses socles et le voile pour la porte du parvis, ses cordes, ses piquets ainsi que tous les accessoires du service de la Demeure, pour la Tente du Rendez-vous ;"
+  },
+  {
+    "i": 2703,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 41,
+    "t": "les vêtements liturgiques pour officier dans le sanctuaire — les vêtements sacrés pour Aaron, le prêtre, et les vêtements de ses fils pour exercer le sacerdoce."
+  },
+  {
+    "i": 2704,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 42,
+    "t": "Les Israélites avaient fait tous les travaux comme Yahvé l’avait ordonné à Moïse."
+  },
+  {
+    "i": 2705,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 43,
+    "t": "Moïse vit tout l’ouvrage : ils l’avaient fait comme Yahvé l’avait ordonné. Et Moïse les bénit."
+  },
+  {
+    "i": 2706,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 1,
+    "t": "Yahvé parla à Moïse et lui dit :"
+  },
+  {
+    "i": 2707,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 2,
+    "t": "\"Le premier jour du premier mois, tu dresseras la Demeure, la Tente du Rendez-vous,"
+  },
+  {
+    "i": 2708,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 3,
+    "t": "tu y placeras l’arche du Témoignage et tu voileras l’arche avec le rideau."
+  },
+  {
+    "i": 2709,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 4,
+    "t": "Tu apporteras la table et tu disposeras sa garniture. Tu apporteras le candélabre et tu monteras ses lampes."
+  },
+  {
+    "i": 2710,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 5,
+    "t": "Tu mettras l’autel d’or des parfums devant l’arche du Témoignage, et tu placeras le voile à l’entrée de la Demeure."
+  },
+  {
+    "i": 2711,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 6,
+    "t": "Tu mettras l’autel des holocaustes devant l’entrée de la Demeure, de la Tente du Rendez-vous."
+  },
+  {
+    "i": 2712,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 7,
+    "t": "Tu mettras le bassin entre la Tente du Rendez-vous et l’autel, et tu y mettras de l’eau."
+  },
+  {
+    "i": 2713,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 8,
+    "t": "Tu placeras le parvis tout autour et tu mettras le voile à la porte du parvis."
+  },
+  {
+    "i": 2714,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 9,
+    "t": "Tu prendras l’huile d’onction et tu oindras la Demeure et tout ce qui est dedans ; tu la consacreras, elle et tous ses accessoires, et elle sera éminemment sainte."
+  },
+  {
+    "i": 2715,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 10,
+    "t": "Tu oindras l’autel des holocaustes et tous ses accessoires, tu consacreras l’autel, et l’autel sera éminemment saint."
+  },
+  {
+    "i": 2716,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 11,
+    "t": "Tu oindras le bassin et son socle et tu le consacreras."
+  },
+  {
+    "i": 2717,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 12,
+    "t": "Puis tu feras approcher Aaron et ses fils de l’entrée de la Tente du Rendez-vous, tu les laveras avec de l’eau,"
+  },
+  {
+    "i": 2718,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 13,
+    "t": "et tu revêtiras Aaron de ses vêtements sacrés, tu l’oindras et tu le consacreras pour qu’il exerce mon sacerdoce."
+  },
+  {
+    "i": 2719,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 14,
+    "t": "Ses fils, tu les feras approcher, tu les revêtiras de tuniques,"
+  },
+  {
+    "i": 2720,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 15,
+    "t": "et tu les oindras comme tu auras oint leur père, pour qu’ils exercent mon sacerdoce. Cela se fera pour que leur onction leur confère un sacerdoce éternel, dans leurs générations.\""
+  },
+  {
+    "i": 2721,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 16,
+    "t": "Moïse le fit. Il fit tout comme Yahvé l’avait ordonné."
+  },
+  {
+    "i": 2722,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 17,
+    "t": "Le premier jour du premier mois de la seconde année, on dressa la Demeure."
+  },
+  {
+    "i": 2723,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 18,
+    "t": "Moïse dressa la Demeure ; il mit ses socles, plaça ses cadres, mit ses traverses et dressa ses colonnes."
+  },
+  {
+    "i": 2724,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 19,
+    "t": "Il étendit la tente pour la Demeure et plaça dessus la couverture de la tente, comme Yahvé l’avait ordonné à Moïse."
+  },
+  {
+    "i": 2725,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 20,
+    "t": "Il prit le Témoignage, le mit dans l’arche, plaça les barres sur l’arche et mit le propitiatoire sur l’arche."
+  },
+  {
+    "i": 2726,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 21,
+    "t": "Il introduisit l’arche dans la Demeure et plaça le rideau du voile ; il voila ainsi l’arche du Témoignage, comme Yahvé l’avait ordonné à Moïse."
+  },
+  {
+    "i": 2727,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 22,
+    "t": "Il mit la table dans la Tente du Rendez-vous, sur le côté de la Demeure, au nord, à l’extrémité du voile,"
+  },
+  {
+    "i": 2728,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 23,
+    "t": "et il disposa avec ordre le pain devant Yahvé, comme Yahvé l’avait ordonné à Moïse."
+  },
+  {
+    "i": 2729,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 24,
+    "t": "Il plaça le candélabre dans la Tente du Rendez-vous, en face de la table, sur le côté de la Demeure, au sud,"
+  },
+  {
+    "i": 2730,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 25,
+    "t": "et monta les lampes devant Yahvé, comme Yahvé l’avait ordonné à Moïse."
+  },
+  {
+    "i": 2731,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 26,
+    "t": "Il plaça l’autel d’or dans la Tente du Rendez-vous, devant le voile,"
+  },
+  {
+    "i": 2732,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 27,
+    "t": "et fit fumer dessus l’encens aromatique, comme Yahvé l’avait ordonné à Moïse."
+  },
+  {
+    "i": 2733,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 28,
+    "t": "Puis il plaça le voile à l’entrée de la Demeure."
+  },
+  {
+    "i": 2734,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 29,
+    "t": "L’autel des holocaustes, il le plaça à l’entrée de la Demeure, de la Tente du Rendez-vous, et offrit dessus l’holocauste et l’oblation, comme Yahvé l’avait ordonné à Moïse."
+  },
+  {
+    "i": 2735,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 30,
+    "t": "Il plaça le bassin entre la Tente du Rendez-vous et l’autel et il y mit, pour les ablutions, de l’eau"
+  },
+  {
+    "i": 2736,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 31,
+    "t": "avec laquelle Moïse, Aaron et ses fils se lavaient les mains et les pieds."
+  },
+  {
+    "i": 2737,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 32,
+    "t": "Quand ils entraient dans la Tente du Rendez-vous ou qu’ils s’approchaient de l’autel, ils se lavaient, comme Yahvé l’avait ordonné à Moïse."
+  },
+  {
+    "i": 2738,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 33,
+    "t": "Il dressa le parvis autour de la Demeure et de l’autel, et il mit le voile à la porte du parvis. Ainsi Moïse termina les travaux."
+  },
+  {
+    "i": 2739,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 34,
+    "t": "La nuée couvrit la Tente du Rendez-vous, et la gloire de Yahvé emplit la Demeure."
+  },
+  {
+    "i": 2740,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 35,
+    "t": "Moïse ne put entrer dans la Tente du Rendez-vous, car la nuée demeurait sur elle, et la gloire de Yahvé emplissait la Demeure."
+  },
+  {
+    "i": 2741,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 36,
+    "t": "À toutes leurs étapes, lorsque la nuée s’élevait au-dessus de la Demeure, les Israélites se mettaient en marche."
+  },
+  {
+    "i": 2742,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 37,
+    "t": "Si la nuée ne s’élevait pas, ils ne se mettaient pas en marche jusqu’au jour où elle s’élevait."
+  },
+  {
+    "i": 2743,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 38,
+    "t": "Car, le jour, la nuée de Yahvé était sur la Demeure et, la nuit, il y avait dedans un feu, aux yeux de toute la maison d’Israël, à toutes leurs étapes."
+  },
+  {
+    "i": 2744,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 1,
+    "t": "Yahvé appela Moïse et, de la Tente du Rendez-vous, lui parla et lui dit :"
+  },
+  {
+    "i": 2745,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 2,
+    "t": "Parle aux Israélites ; tu leur diras : Quand l’un de vous présentera une offrande à Yahvé, vous pourrez faire cette offrande en bétail, gros ou petit."
+  },
+  {
+    "i": 2746,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 3,
+    "t": "Si son offrande consiste en un holocauste de gros bétail, il offrira un mâle sans défaut ; il l’offrira à l’entrée de la Tente du Rendez-vous, pour qu’il soit agréé devant Yahvé."
+  },
+  {
+    "i": 2747,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 4,
+    "t": "Il posera la main sur la tête de la victime et celle-ci sera agréée pour que l’on fasse sur lui le rite d’expiation."
+  },
+  {
+    "i": 2748,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 5,
+    "t": "Puis il immolera le taureau devant Yahvé, et les fils d’Aaron, les prêtres, offriront le sang. Ils le feront couler sur le pourtour de l’autel qui se trouve à l’entrée de la Tente du Rendez-vous."
+  },
+  {
+    "i": 2749,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 6,
+    "t": "Il écorchera ensuite la victime, la dépècera par quartiers,"
+  },
+  {
+    "i": 2750,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 7,
+    "t": "les fils d’Aaron, les prêtres, apporteront du feu sur l’autel et disposeront du bois sur ce feu."
+  },
+  {
+    "i": 2751,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 8,
+    "t": "Puis les fils d’Aaron, les prêtres, disposeront quartiers, tête et graisse au-dessus du bois placé sur le feu de l’autel."
+  },
+  {
+    "i": 2752,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 9,
+    "t": "L’homme lavera dans l’eau les entrailles et les pattes et le prêtre fera fumer le tout à l’autel. Cet holocauste sera un mets consumé en parfum d’apaisement pour Yahvé."
+  },
+  {
+    "i": 2753,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 10,
+    "t": "Si son offrande consiste en petit bétail, agneau ou chevreau offert en holocauste, c’est un mâle sans défaut qu’il offrira."
+  },
+  {
+    "i": 2754,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 11,
+    "t": "Il l’immolera sur le côté nord de l’autel, devant Yahvé, et les fils d’Aaron, les prêtres, feront couler le sang sur le pourtour de l’autel."
+  },
+  {
+    "i": 2755,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 12,
+    "t": "Puis il le dépècera par quartiers et le prêtre disposera ceux-ci, ainsi que la tête et la graisse, au-dessus du bois placé sur le feu de l’autel."
+  },
+  {
+    "i": 2756,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 13,
+    "t": "L’homme lavera dans l’eau les entrailles et les pattes et le prêtre offrira le tout qu’il fera fumer à l’autel. Cet holocauste sera un mets consumé en parfum d’apaisement pour Yahvé."
+  },
+  {
+    "i": 2757,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 14,
+    "t": "Si son offrande à Yahvé consiste en un holocauste d’oiseau, il offrira une tourterelle ou un pigeon."
+  },
+  {
+    "i": 2758,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 15,
+    "t": "Le prêtre l’offrira à l’autel, et, en pinçant le cou, il arrachera la tête qu’il fera fumer à l’autel ; puis le sang en sera exprimé sur la paroi de l’autel."
+  },
+  {
+    "i": 2759,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 16,
+    "t": "Il en détachera alors le jabot et le plumage ; il les jettera du côté est de l’autel, à l’endroit où l’on dépose les cendres grasses."
+  },
+  {
+    "i": 2760,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 17,
+    "t": "Il fendra l’animal en deux moitiés, une aile de part et d’autre, mais sans les séparer. Le prêtre fera alors fumer l’animal à l’autel, sur le bois placé sur le feu. Cet holocauste sera un mets consumé en parfum d’apaisement pour Yahvé."
+  },
+  {
+    "i": 2761,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 1,
+    "t": "Si quelqu’un offre à Yahvé une oblation, son offrande consistera en fleur de farine sur laquelle il versera de l’huile et déposera de l’encens."
+  },
+  {
+    "i": 2762,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 2,
+    "t": "Il l’apportera aux fils d’Aaron, les prêtres ; il en prendra une pleine poignée de fleur de farine et d’huile, plus tout l’encens, ce que le prêtre fera fumer à l’autel à titre de mémorial, mets consumé en parfum d’apaisement pour Yahvé."
+  },
+  {
+    "i": 2763,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 3,
+    "t": "Le reste de l’oblation reviendra à Aaron et à ses fils, part très sainte des mets de Yahvé."
+  },
+  {
+    "i": 2764,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 4,
+    "t": "Lorsque tu offriras une oblation de pâte cuite au four, la fleur de farine sera préparée en gâteaux sans levain pétris à l’huile, ou en galettes sans levain frottées d’huile."
+  },
+  {
+    "i": 2765,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 5,
+    "t": "Si ton offrande est une oblation cuite à la plaque, la fleur de farine pétrie à l’huile sera sans levain."
+  },
+  {
+    "i": 2766,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 6,
+    "t": "Tu la rompras en morceaux et verseras de l’huile par-dessus. C’est une oblation."
+  },
+  {
+    "i": 2767,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 7,
+    "t": "Si ton offrande est une oblation cuite au moule, la fleur de farine sera préparée dans l’huile."
+  },
+  {
+    "i": 2768,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 8,
+    "t": "Tu apporteras à Yahvé l’oblation qui aura été ainsi préparée. On la présentera au prêtre, qui l’approchera de l’autel."
+  },
+  {
+    "i": 2769,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 9,
+    "t": "De l’oblation le prêtre prélèvera le mémorial, qu’il fera fumer à l’autel à titre de mets consumé en parfum d’apaisement pour Yahvé."
+  },
+  {
+    "i": 2770,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 10,
+    "t": "Le reste de l’oblation reviendra à Aaron et à ses fils, part très sainte des mets de Yahvé."
+  },
+  {
+    "i": 2771,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 11,
+    "t": "Aucune des oblations que vous offrirez à Yahvé ne sera préparée avec un ferment, car vous ne ferez jamais fumer ni levain ni miel à titre de mets consumé pour Yahvé."
+  },
+  {
+    "i": 2772,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 12,
+    "t": "Vous en offrirez à Yahvé comme offrande de prémices, mais à l’autel ils ne monteront point en parfum d’apaisement."
+  },
+  {
+    "i": 2773,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 13,
+    "t": "Tu saleras toute oblation que tu offriras et tu ne manqueras pas de mettre sur ton oblation le sel de l’alliance de ton Dieu ; à toute offrande tu joindras une offrande de sel à ton Dieu."
+  },
+  {
+    "i": 2774,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 14,
+    "t": "Si tu offres à Yahvé une oblation de prémices, c’est sous forme d’épis grillés au feu ou de pain cuit avec du blé moulu que tu feras cette oblation de prémices."
+  },
+  {
+    "i": 2775,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 15,
+    "t": "Tu y ajouteras de l’huile et y déposeras de l’encens, c’est une oblation ;"
+  },
+  {
+    "i": 2776,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 16,
+    "t": "et le prêtre en fera fumer le mémorial avec une partie du pain et de l’huile (plus tout l’encens) à titre de mets consumé pour Yahvé."
+  },
+  {
+    "i": 2777,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 1,
+    "t": "Si son sacrifice est un sacrifice de communion et s’il offre du gros bétail, mâle ou femelle, c’est une pièce sans défaut qu’il offrira devant Yahvé."
+  },
+  {
+    "i": 2778,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 2,
+    "t": "Il posera la main sur la tête de la victime et l’immolera à l’entrée de la Tente du Rendez-vous. Puis les fils d’Aaron, les prêtres, feront couler le sang sur le pourtour de l’autel."
+  },
+  {
+    "i": 2779,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 3,
+    "t": "Il offrira une part de ce sacrifice de communion à titre de mets consumé pour Yahvé : la graisse qui couvre les entrailles, toute la graisse qui est au-dessus des entrailles,"
+  },
+  {
+    "i": 2780,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 4,
+    "t": "les deux rognons, la graisse qui y adhère ainsi qu’aux lombes, la masse graisseuse qu’il détachera du foie et des rognons."
+  },
+  {
+    "i": 2781,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 5,
+    "t": "Les fils d’Aaron feront fumer cette part à l’autel en plus de l’holocauste, sur le bois placé sur le feu. Ce sera un mets consumé en parfum d’apaisement pour Yahvé."
+  },
+  {
+    "i": 2782,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 6,
+    "t": "Si c’est du petit bétail qu’il offre à titre de sacrifice de communion pour Yahvé, c’est un mâle ou une femelle sans défaut qu’il offrira."
+  },
+  {
+    "i": 2783,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 7,
+    "t": "S’il offre un mouton, il l’offrira devant Yahvé,"
+  },
+  {
+    "i": 2784,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 8,
+    "t": "il posera la main sur la tête de la victime et l’immolera devant la Tente du Rendez-vous, puis les fils d’Aaron en répandront le sang sur le pourtour de l’autel."
+  },
+  {
+    "i": 2785,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 9,
+    "t": "De ce sacrifice de communion il offrira la graisse en mets consumé pour Yahvé : la queue entière qu’il détachera près du sacrum, la graisse qui couvre les entrailles, toute la graisse qui est au-dessus des entrailles,"
+  },
+  {
+    "i": 2786,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 10,
+    "t": "les deux rognons, la graisse qui y adhère ainsi qu’aux lombes, la masse graisseuse qu’il détachera du foie et des rognons."
+  },
+  {
+    "i": 2787,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 11,
+    "t": "Le prêtre fera fumer cette part à l’autel à titre de nourriture, de mets consumé pour Yahvé."
+  },
+  {
+    "i": 2788,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 12,
+    "t": "Si son offrande consiste en une chèvre, il l’offrira devant Yahvé,"
+  },
+  {
+    "i": 2789,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 13,
+    "t": "il lui posera la main sur la tête et l’immolera devant la Tente du Rendez-vous, et les fils d’Aaron en répandront le sang sur le pourtour de l’autel."
+  },
+  {
+    "i": 2790,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 14,
+    "t": "Voici ce qu’il en offrira ensuite à titre de mets consumé pour Yahvé : la graisse qui couvre les entrailles, toute la graisse qui est au-dessus des entrailles,"
+  },
+  {
+    "i": 2791,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 15,
+    "t": "les deux rognons, la graisse qui y adhère ainsi qu’aux lombes, la masse graisseuse qu’il détachera du foie et des rognons."
+  },
+  {
+    "i": 2792,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 16,
+    "t": "Le prêtre fera fumer ces morceaux à l’autel à titre de nourriture, de mets consumé en parfum d’apaisement. Toute la graisse appartient à Yahvé."
+  },
+  {
+    "i": 2793,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 17,
+    "t": "C’est pour tous vos descendants une loi perpétuelle, en quelque lieu que vous demeuriez : vous ne mangerez ni graisse ni sang."
+  },
+  {
+    "i": 2794,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 1,
+    "t": "Yahvé parla à Moïse et dit :"
+  },
+  {
+    "i": 2795,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 2,
+    "t": "Parle aux Israélites, dis-leur : Si quelqu’un pèche par inadvertance contre l’un quelconque des commandements de Yahvé et commet une de ces actions défendues,"
+  },
+  {
+    "i": 2796,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 3,
+    "t": "si c’est le prêtre consacré par l’onction qui pèche et rend ainsi le peuple coupable, il offrira à Yahvé pour le péché qu’il a commis un taureau, pièce de gros bétail sans défaut, à titre de sacrifice pour le péché."
+  },
+  {
+    "i": 2797,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 4,
+    "t": "Il amènera ce taureau devant Yahvé à l’entrée de la Tente du Rendez-vous, lui posera la main sur la tête et l’immolera devant Yahvé."
+  },
+  {
+    "i": 2798,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 5,
+    "t": "Puis le prêtre consacré par l’onction prendra un peu du sang de ce taureau et le portera dans la Tente du Rendez-vous."
+  },
+  {
+    "i": 2799,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 6,
+    "t": "Il trempera son doigt dans le sang et en fera sept aspersions devant le rideau du sanctuaire, devant Yahvé."
+  }
+]

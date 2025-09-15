@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17200,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 21,
+    "t": "Gdy twój nieprzyjaciel łaknie, nakarm go; jeśli pragnie, napój go,"
+  },
+  {
+    "i": 17201,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 22,
+    "t": "Bo węgle żarzące zgromadzisz na jego głowie, a Jahwe ci zapłaci."
+  },
+  {
+    "i": 17202,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 23,
+    "t": "Wiatr północny rodzi deszcz, a język potajemny - oburzoną twarz."
+  },
+  {
+    "i": 17203,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 24,
+    "t": "Lepiej mieszkać w kącie dachu, niż z kobietą swarliwą w jednym domu."
+  },
+  {
+    "i": 17204,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 25,
+    "t": "Jak woda chłodna dla spragnionego gardła, tak dobra nowina z dalekiego kraju."
+  },
+  {
+    "i": 17205,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 26,
+    "t": "Źródło zmącone, studnia zanieczyszczona - taki jest sprawiedliwy, który się chwieje przed niegodziwym."
+  },
+  {
+    "i": 17206,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 27,
+    "t": "Niedobrze jest jeść za dużo miodu ani szukać chwały nad chwałę."
+  },
+  {
+    "i": 17207,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 28,
+    "t": "Miasto niezabezpieczone, bez murów, taki mąż, który nie panuje nad sobą."
+  },
+  {
+    "i": 17208,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 1,
+    "t": "Jak śnieg w lecie i deszcz w czasie żniw, tak cześć nie przystoi głupiemu."
+  },
+  {
+    "i": 17209,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 2,
+    "t": "Jak ptak ucieka, jak jaskółka odlatuje, tak przekleństwo bez powodu nie dosięgnie."
+  },
+  {
+    "i": 17210,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 3,
+    "t": "Bicz dla konia, wędzidło dla osła, a kij na grzbiet głupich."
+  },
+  {
+    "i": 17211,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 4,
+    "t": "Nie odpowiadaj głupiemu według jego głupoty, byś i ty nie stał się do niego podobny."
+  },
+  {
+    "i": 17212,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 5,
+    "t": "Odpowiedz głupiemu według jego głupoty, aby się nie mniemał mądrym w swoich oczach."
+  },
+  {
+    "i": 17213,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 6,
+    "t": "Podcina sobie nogi i pije krzywdę, kto posyła poselstwo przez głupiego."
+  },
+  {
+    "i": 17214,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 7,
+    "t": "Jak bezwładne nogi u chromego, tak przypowieść w ustach głupich."
+  },
+  {
+    "i": 17215,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 8,
+    "t": "Jak przywiązać kamień do procy, tak oddać cześć głupiemu."
+  },
+  {
+    "i": 17216,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 9,
+    "t": "Jak cierń wrasta w rękę pijanego, tak przypowieść w ustach głupich."
+  },
+  {
+    "i": 17217,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 10,
+    "t": "Łucznik, który rani każdego przechodnia, taki jest, który najmuje głupca i pijaka."
+  },
+  {
+    "i": 17218,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 11,
+    "t": "Jak pies wraca do swoich wymiotów, tak głupi powtarza swoją głupotę."
+  },
+  {
+    "i": 17219,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 12,
+    "t": "Widzisz męża, który uważa się za mądrego? Więcej nadziei jest dla głupiego niż dla niego."
+  },
+  {
+    "i": 17220,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 13,
+    "t": "Leniwiec mówi: \"Lew jest na drodze! Lwica na ulicach!"
+  },
+  {
+    "i": 17221,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 14,
+    "t": "Drzwi obracają się na zawiasach, a leniwiec na swoim łożu."
+  },
+  {
+    "i": 17222,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 15,
+    "t": "Leniwiec zanurza rękę w misie, ale ciężko mu ją z powrotem do ust przyłożyć."
+  },
+  {
+    "i": 17223,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 16,
+    "t": "Leniwiec uważa się za mądrzejszego niż siedmiu, co roztropnie odpowiadają."
+  },
+  {
+    "i": 17224,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 17,
+    "t": "Chwyta psa za uszy, kto się wtrąca w cudzą kłótnię."
+  },
+  {
+    "i": 17225,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 18,
+    "t": "Jak szaleniec, który rzuca płonące strzały, śmierć i zagładę,"
+  },
+  {
+    "i": 17226,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 19,
+    "t": "Tak jest z mężem, który oszukuje swego bliźniego, a potem mówi: \"To tylko żart!"
+  },
+  {
+    "i": 17227,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 20,
+    "t": "Gdy brakuje drzewa, gaśnie ogień, a gdy nie ma potwarcy, spór cichnie."
+  },
+  {
+    "i": 17228,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 21,
+    "t": "Jak węgiel dla żaru, a drzewo dla ognia, tak człowiek kłótliwy podsyca spór."
+  },
+  {
+    "i": 17229,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 22,
+    "t": "Słowa potwarcy są jak smaczne kąski, które schodzą w głąb wnętrzności."
+  },
+  {
+    "i": 17230,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 23,
+    "t": "Jak srebro nieczyste pokryte gliną, tak usta palące a serce złe."
+  },
+  {
+    "i": 17231,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 24,
+    "t": "Kto nienawidzi, obłudnie mówi ustami, ale w swym wnętrzu kryje zdradę."
+  },
+  {
+    "i": 17232,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 25,
+    "t": "Gdy mówi wdzięcznie, nie ufaj mu, bo w jego sercu jest siedem obrzydliwości."
+  },
+  {
+    "i": 17233,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 26,
+    "t": "Nienawiść może się ukrywać podstępnie, ale złość jej wyjdzie na jaw w zgromadzeniu."
+  },
+  {
+    "i": 17234,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 27,
+    "t": "Kto kopie dół, wpadnie do niego, a kto toczy kamień, na niego się obróci."
+  },
+  {
+    "i": 17235,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 28,
+    "t": "Język kłamliwy nienawidzi tych, których pokrzywdził, a usta pochlebne prowadzą do upadku."
+  },
+  {
+    "i": 17236,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 1,
+    "t": "Nie chwal się dniem jutrzejszym, bo nie wiesz, co dzień przyniesie."
+  },
+  {
+    "i": 17237,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 2,
+    "t": "Niech cię chwali obcy, a nie twoje usta, cudzy, a nie twoje wargi."
+  },
+  {
+    "i": 17238,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 3,
+    "t": "Ciężki jest kamień i piasek, ale gniew głupca cięższy od nich obu."
+  },
+  {
+    "i": 17239,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 4,
+    "t": "Okrutna jest zapalczywość i gwałtowny gniew, ale któż się ostoi przed zazdrością?"
+  },
+  {
+    "i": 17240,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 5,
+    "t": "Lepsza jest jawna nagana niż skryta miłość."
+  },
+  {
+    "i": 17241,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 6,
+    "t": "Wierne są rany przyjaciela, a zwodnicze pocałunki wroga."
+  },
+  {
+    "i": 17242,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 7,
+    "t": "Syty gardzi miodem, a głodnemu wszelka gorycz słodka."
+  },
+  {
+    "i": 17243,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 8,
+    "t": "Jak ptak, co się tuła z dala od gniazda, tak mąż, który się tuła z dala od swego miejsca."
+  },
+  {
+    "i": 17244,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 9,
+    "t": "Olejek i kadzidło radują serce, a słodycz przyjaciela bardziej niż własna rada."
+  },
+  {
+    "i": 17245,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 10,
+    "t": "Nie opuszczaj swego przyjaciela ani przyjaciela swego ojca, a w dniu swej niedoli nie idź do domu swego brata. Lepszy bliski sąsiad niż daleki brat."
+  },
+  {
+    "i": 17246,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 11,
+    "t": "Bądź mądry, synu mój, i rozwesel moje serce, abym mógł odpowiedzieć temu, który mnie znieważa."
+  },
+  {
+    "i": 17247,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 12,
+    "t": "Roztropny widzi zło i się ukrywa, a nierozważni idą dalej i ponoszą szkodę."
+  },
+  {
+    "i": 17248,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 13,
+    "t": "Weź jego szatę, bo poręczył za obcego, a za nieznajomych weź od niego zastaw."
+  },
+  {
+    "i": 17249,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 14,
+    "t": "Kto głośno błogosławi swego bliźniego z samego rana, poczytuje mu się to za przekleństwo."
+  },
+  {
+    "i": 17250,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 15,
+    "t": "Ciągłe kapanie w dzień deszczowy i kobieta swarliwa są podobne."
+  },
+  {
+    "i": 17251,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 16,
+    "t": "Kto ją zatrzymuje, zatrzymuje wiatr, a jego prawa ręka spotyka się z oliwą."
+  },
+  {
+    "i": 17252,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 17,
+    "t": "Żelazo żelazo ostrzy, a człowiek ostrzy oblicze swego bliźniego."
+  },
+  {
+    "i": 17253,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 18,
+    "t": "Kto strzeże drzewa figowego, je jego owoc, a kto dba o swego pana, będzie uczczony."
+  },
+  {
+    "i": 17254,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 19,
+    "t": "Jak w wodzie odbija się twarz od twarzy, tak serce człowieka od człowieka."
+  },
+  {
+    "i": 17255,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 20,
+    "t": "Szeol i zatracenie są nienasycone, tak oczy człowieka są nienasycone."
+  },
+  {
+    "i": 17256,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 21,
+    "t": "Tygliel dla srebra, piec dla złota, a człowieka bada pochwała."
+  },
+  {
+    "i": 17257,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 22,
+    "t": "Choćbyś tłukł głupiego w moździerzu (wśród ziarna, tłuczkiem), jego głupota go nie opuści."
+  },
+  {
+    "i": 17258,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 23,
+    "t": "Pilnie poznaj stan swojego bydła, a troszcz się o swoje stada,"
+  },
+  {
+    "i": 17259,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 24,
+    "t": "Bo bogactwo nie trwa wiecznie, a korona nie przechodzi z pokolenia na pokolenie."
+  },
+  {
+    "i": 17260,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 25,
+    "t": "Gdy trawa zniknie, a odrośl się ukaże i zbierze się siano z gór,"
+  },
+  {
+    "i": 17261,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 26,
+    "t": "Będziesz miał jagnięta na odzież, a kozły na zakup pola,"
+  },
+  {
+    "i": 17262,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 27,
+    "t": "Mleka koziego pod dostatkiem, by cię żywiło, by nakarmić twój dom i utrzymać twoje służące."
+  },
+  {
+    "i": 17263,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 1,
+    "t": "Niegodziwy ucieka, choć nikt go nie goni, a sprawiedliwi są odważni jak lwiątko."
+  },
+  {
+    "i": 17264,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 2,
+    "t": "Gdy kraj się buntuje, wielu jest książąt, ale z mężem rozumnym i uczonym trwałość."
+  },
+  {
+    "i": 17265,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 3,
+    "t": "Człowiek ubogi, który uciska biednych, jest jak ulewny deszcz, po którym nie ma chleba."
+  },
+  {
+    "i": 17266,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 4,
+    "t": "Ci, którzy porzucają Prawo, chwalą niegodziwego, a ci, którzy strzegą Prawa, gniewają się na nich."
+  },
+  {
+    "i": 17267,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 5,
+    "t": "Źli nie rozumieją sprawiedliwości, ale ci, którzy szukają Jahwe, rozumieją wszystko."
+  },
+  {
+    "i": 17268,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 6,
+    "t": "Lepszy ubogi, który postępuje uczciwie, niż bogaty, który chodzi drogami krętymi."
+  },
+  {
+    "i": 17269,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 7,
+    "t": "Kto strzeże Prawa, jest synem roztropnym, a kto przebywa z hulakami, hańbi swego ojca."
+  },
+  {
+    "i": 17270,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 8,
+    "t": "Kto pomnaża swój majątek przez lichwę i odsetki, gromadzi dla tego, który się ulituje nad ubogimi."
+  },
+  {
+    "i": 17271,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 9,
+    "t": "Kto odwraca ucho, by nie słyszeć Prawa, jego modlitwa jest obrzydliwością."
+  },
+  {
+    "i": 17272,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 10,
+    "t": "Kto zwodzi prawych na złą drogę, sam wpadnie do swojego dołu, a ludzie uczciwi posiądą szczęście."
+  },
+  {
+    "i": 17273,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 11,
+    "t": "Bogaty uważa się za mądrego, ale ubogi, który jest rozumny, go przejrzy."
+  },
+  {
+    "i": 17274,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 12,
+    "t": "Gdy sprawiedliwi triumfują, wielka jest chwała, a gdy powstają niegodziwi, ludzie się kryją."
+  },
+  {
+    "i": 17275,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 13,
+    "t": "Kto ukrywa swoje przestępstwa, nie dozna szczęścia, a kto je wyznaje i porzuca, dostąpi miłosierdzia."
+  },
+  {
+    "i": 17276,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 14,
+    "t": "Błogosławiony człowiek, który zawsze się boi, a kto zatwardza swe serce, wpadnie w nieszczęście."
+  },
+  {
+    "i": 17277,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 15,
+    "t": "Lew ryczący i niedźwiedź drapieżny - taki niegodziwy władca nad ludem ubogim."
+  },
+  {
+    "i": 17278,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 16,
+    "t": "Książę nierozumny to wielki ciemiężyciel, ale kto nienawidzi chciwości, przedłuży swoje dni."
+  },
+  {
+    "i": 17279,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 17,
+    "t": "Człowiek obciążony krwią ludzką uciekać będzie aż do grobu, niech go nikt nie zatrzymuje!"
+  },
+  {
+    "i": 17280,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 18,
+    "t": "Kto postępuje uczciwie, będzie zbawiony; kto zaś kręcący, podąża dwiema ścieżkami, upadnie w jednej z nich."
+  },
+  {
+    "i": 17281,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 19,
+    "t": "Kto uprawia swoją ziemię, nasycony będzie chlebem, kto zaś goni za ułudą, nasycony będzie niedostatkiem."
+  },
+  {
+    "i": 17282,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 20,
+    "t": "Człowiek wierny będzie obficie błogosławiony, kto zaś śpieszy się, by się wzbogacić, nie pozostanie bezkarny."
+  },
+  {
+    "i": 17283,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 21,
+    "t": "Źle jest mieć wzgląd na osoby, ale za kęs chleba człowiek popełnia występek."
+  },
+  {
+    "i": 17284,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 22,
+    "t": "Za bogactwem goni człowiek o chciwym spojrzeniu, nie wiedząc, że niedostatek go spotka."
+  },
+  {
+    "i": 17285,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 23,
+    "t": "Kto strofuje bliźniego, znajdzie łaskę na końcu, bardziej niż pochlebca."
+  },
+  {
+    "i": 17286,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 24,
+    "t": "Kto okrada ojca i matkę, mówiąc: \"Nie ma w tym przestępstwa!\", jest wspólnikiem zbójcy."
+  },
+  {
+    "i": 17287,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 25,
+    "t": "Człowiek zawistny wznieca spór, kto zaś ufa Jahwe, będzie się powodzić."
+  },
+  {
+    "i": 17288,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 26,
+    "t": "Kto ufa własnemu rozsądkowi, jest głupcem, kto zaś chodzi z mądrością, będzie zbawiony."
+  },
+  {
+    "i": 17289,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 27,
+    "t": "Kto daje ubogim, nie zazna niedostatku, ale dla tego, kto zamyka oczy, obfite przekleństwo."
+  },
+  {
+    "i": 17290,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 28,
+    "t": "Gdy powstają źli, każdy się ukrywa; gdy giną, sprawiedliwi się rozmnażają."
+  },
+  {
+    "i": 17291,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 1,
+    "t": "Kto pod wpływem nagan usztywnia kark, zostanie nagle złamany i bez ratunku."
+  },
+  {
+    "i": 17292,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 2,
+    "t": "Gdy sprawiedliwi się rozmnażają, lud się raduje; gdy źli panują, lud jęczy."
+  },
+  {
+    "i": 17293,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 3,
+    "t": "Kto kocha mądrość, rozwesela swego ojca, kto zaś przebywa z nierządnicami, trwoni swój majątek."
+  },
+  {
+    "i": 17294,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 4,
+    "t": "Przez sprawiedliwość król zapewnia krajowi pomyślność, ale wyzyskiwacz prowadzi go do ruiny."
+  },
+  {
+    "i": 17295,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 5,
+    "t": "Człowiek, który schlebia bliźniemu, zastawia sieć pod jego stopami."
+  },
+  {
+    "i": 17296,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 6,
+    "t": "W przestępstwie złego jest pułapka, ale sprawiedliwy się weseli i raduje."
+  },
+  {
+    "i": 17297,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 7,
+    "t": "Sprawiedliwy zna sprawę słabych, zły zaś nie ma inteligencji, by ją poznać."
+  },
+  {
+    "i": 17298,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 8,
+    "t": "Szydercy wprowadzają miasto w zamieszanie, ale mądrzy łagodzą gniew."
+  },
+  {
+    "i": 17299,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 9,
+    "t": "Czy mędrzec procesuje się z głupcem, czy się gniewa, czy żartuje, nie zazna spokoju."
+  }
+]

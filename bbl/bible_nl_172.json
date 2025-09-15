@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17200,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 21,
+    "t": "Indien uw vijand honger heeft, geef hem te eten; indien hij dorst heeft, geef hem te drinken;"
+  },
+  {
+    "i": 17201,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 22,
+    "t": "Want gij zult vurige kolen op zijn hoofd hopen, en de HEERE zal het u vergelden."
+  },
+  {
+    "i": 17202,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 23,
+    "t": "De noordenwind brengt regen voort, alzo doet een achterbaksche tong een vertoornd gelaat."
+  },
+  {
+    "i": 17203,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 24,
+    "t": "Het is beter te wonen in een hoek van het dak, dan met een twistzieke vrouw in een ruim huis."
+  },
+  {
+    "i": 17204,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 25,
+    "t": "Gelijk koel water voor een dorstige keel, zo is goede tijding uit een verre land."
+  },
+  {
+    "i": 17205,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 26,
+    "t": "Een getreden fontein en een verdorven bron, alzo is een rechtvaardige, die wankelt voor de goddeloze."
+  },
+  {
+    "i": 17206,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 27,
+    "t": "Het is niet goed veel honing te eten, noch eer te zoeken boven eer."
+  },
+  {
+    "i": 17207,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 28,
+    "t": "Gelijk een stad, die opengebroken en zonder muren is, alzo is een man, die zijn geest niet bedwingt."
+  },
+  {
+    "i": 17208,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 1,
+    "t": "Gelijk sneeuw in de zomer, en regen in de oogst, alzo is eer onbehoorlijk voor een dwaas."
+  },
+  {
+    "i": 17209,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 2,
+    "t": "Gelijk een mus omzwerft, en een zwaluw wegvliegt, alzo een onverdiende vloek niet zal komen."
+  },
+  {
+    "i": 17210,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 3,
+    "t": "Een gesel voor het paard, een toom voor den ezel, en een roede voor den rug der dwazen."
+  },
+  {
+    "i": 17211,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 4,
+    "t": "Antwoord den dwaas niet naar zijn dwaasheid, opdat gij ook hem niet gelijk wordt."
+  },
+  {
+    "i": 17212,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 5,
+    "t": "Antwoord den dwaas naar zijn dwaasheid, opdat hij niet wijs zij in zijn eigen ogen."
+  },
+  {
+    "i": 17213,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 6,
+    "t": "Hij houwt zich de voeten af, hij drinkt schade, die boodschap zendt door den hand van een dwaas."
+  },
+  {
+    "i": 17214,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 7,
+    "t": "Slap hangen de schenkelen des kreupelen; alzo is een spreuk in den mond der dwazen."
+  },
+  {
+    "i": 17215,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 8,
+    "t": "Gelijk hij, die een steen in de slinger bindt, alzo is hij, die een dwaas eer geeft."
+  },
+  {
+    "i": 17216,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 9,
+    "t": "Gelijk een dorenstok, die in de hand des dronkaards geklommen is, alzo is een spreuk in den mond der dwazen."
+  },
+  {
+    "i": 17217,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 10,
+    "t": "Een machtig schutter verwondt alles; alzo is hij, die een dwaas huurt, en hij, die de voorbijgangers huurt."
+  },
+  {
+    "i": 17218,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 11,
+    "t": "Gelijk een hond wederkeert tot zijn braaksel, alzo herhaalt een dwaas zijn dwaasheid."
+  },
+  {
+    "i": 17219,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 12,
+    "t": "Ziet gij een man wijs in zijn eigen ogen? Er is meer hoop van een dwaas, dan van hem."
+  },
+  {
+    "i": 17220,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 13,
+    "t": "De luiaard zegt: Er is een wrede leeuw op den weg, een leeuw op de straten!"
+  },
+  {
+    "i": 17221,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 14,
+    "t": "De deur keert zich om op haar angel, alzo de luiaard op zijn bed."
+  },
+  {
+    "i": 17222,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 15,
+    "t": "De luiaard verbergt zijn hand in den boezem; het verdriet hem haar weder te brengen tot zijn mond."
+  },
+  {
+    "i": 17223,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 16,
+    "t": "De luiaard is wijzer in zijn ogen, dan zeven, die verstandelijk antwoorden."
+  },
+  {
+    "i": 17224,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 17,
+    "t": "Hij grijpt een hond bij de oren, die voorbijgaat, en zich met een twist mengt, die hem niet aangaat."
+  },
+  {
+    "i": 17225,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 18,
+    "t": "Gelijk een waanzinnige, die brandende pijlen, en schichten, en dodelijke dingen werpt;"
+  },
+  {
+    "i": 17226,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 19,
+    "t": "Alzo is die zijn naaste bedriegt, en zegt: Ik speelde maar."
+  },
+  {
+    "i": 17227,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 20,
+    "t": "Als er geen hout is, gaat het vuur uit; en als er geen oorblazer is, legt de twist zich."
+  },
+  {
+    "i": 17228,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 21,
+    "t": "Gelijk kolen zijn voor gloeiende vuren, en hout voor een vuur, alzo is een twistgierig man, om een twist aan te hitsen."
+  },
+  {
+    "i": 17229,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 22,
+    "t": "De woorden des oorblazers zijn als lekkernijen, en zij dalen af in de binnenste delen des buiks."
+  },
+  {
+    "i": 17230,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 23,
+    "t": "Zilverglazuur, dat over een aarden vat gestreken is, alzo zijn gloeiende lippen, en een boos hart."
+  },
+  {
+    "i": 17231,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 24,
+    "t": "Die haat draagt, veinzt met zijn lippen, maar in zijn binnenste legt hij bedrog;"
+  },
+  {
+    "i": 17232,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 25,
+    "t": "Wanneer hij zijn stem genadiglijk maakt, geloof hem niet; want er zijn zeven gruwelen in zijn hart."
+  },
+  {
+    "i": 17233,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 26,
+    "t": "De haat wordt wel bedekt door bedrog; maar zijn boosheid zal in de gemeente openbaar worden."
+  },
+  {
+    "i": 17234,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 27,
+    "t": "Wie een kuil graaft, zal erin vallen; en wie een steen wentelt, die zal weder tot hem komen."
+  },
+  {
+    "i": 17235,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 28,
+    "t": "Een valse tong haat hen, die zij kwetst; en een vleiende mond bewerkt een val."
+  },
+  {
+    "i": 17236,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 1,
+    "t": "Beroem u niet op den dag van morgen; want gij weet niet, wat een dag baren zal."
+  },
+  {
+    "i": 17237,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 2,
+    "t": "Dat u een ander prijze, en niet uw mond; een vreemde, en niet uw lippen."
+  },
+  {
+    "i": 17238,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 3,
+    "t": "Zwaar is een steen, en gewichtig is het zand; maar des dwazen toorn is zwaarder dan die beide."
+  },
+  {
+    "i": 17239,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 4,
+    "t": "De grimmigheid is wreed, en de toorn is onstuimig; maar wie zal voor de jaloersheid bestaan?"
+  },
+  {
+    "i": 17240,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 5,
+    "t": "Openlijke bestraffing is beter dan verborgen liefde."
+  },
+  {
+    "i": 17241,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 6,
+    "t": "De slagen des liefhebbers zijn getrouw; maar de kussen des haters zijn overvloedig."
+  },
+  {
+    "i": 17242,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 7,
+    "t": "De verzadigde ziel vertreedt de honigraten; maar alle bittere dingen zijn zoet den hongerigen."
+  },
+  {
+    "i": 17243,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 8,
+    "t": "Gelijk een vogel omzwerft uit zijn nest, alzo is een man, die omzwerft uit zijn plaats."
+  },
+  {
+    "i": 17244,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 9,
+    "t": "Olie en reukwerk verblijden het hart; alzo is de liefelijkheid des vriends vanwege raad der ziel."
+  },
+  {
+    "i": 17245,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 10,
+    "t": "Verlaat uw vriend, noch uws vaders vriend niet; en ga niet in uws broeders huis ten dage uwer ellende; een nabuur, die nabij is, is beter dan een broeder, die verre is."
+  },
+  {
+    "i": 17246,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 11,
+    "t": "Wees wijs, mijn zoon, en verblijd mijn hart; opdat ik mijn smader antwoorden moge."
+  },
+  {
+    "i": 17247,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 12,
+    "t": "Een kloekzinnig man ziet het kwaad, en verbergt zich; maar de dwazen gaan door, en worden gestraft."
+  },
+  {
+    "i": 17248,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 13,
+    "t": "Neem zijn kleed weg, want hij heeft borg gestaan voor een vreemde; en neem hem ten pand vanwege vreemden."
+  },
+  {
+    "i": 17249,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 14,
+    "t": "Wie zijn naaste zegent met luider stem, vroeg in den morgen, het zal hem tot een vloek gerekend worden."
+  },
+  {
+    "i": 17250,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 15,
+    "t": "Een gestadig druipen ten dage des plasregens, en een kijfachtige vrouw, zijn elkander gelijk."
+  },
+  {
+    "i": 17251,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 16,
+    "t": "Wie haar verbergt, verbergt den wind, en de olie zijner rechterhand roept hem uit."
+  },
+  {
+    "i": 17252,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 17,
+    "t": "IJzer scherpt men met ijzer; alzo scherpt de man het aangezicht zijns vriends."
+  },
+  {
+    "i": 17253,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 18,
+    "t": "Wie den vijgenboom bewaart, zal zijn vrucht eten; en die zijn heer bewaart, zal geëerd worden."
+  },
+  {
+    "i": 17254,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 19,
+    "t": "Gelijk in het water het aangezicht tegen het aangezicht is, alzo is des mensen hart tegen den mens."
+  },
+  {
+    "i": 17255,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 20,
+    "t": "De hel en het verderf worden niet verzadigd; alzo worden de ogen des mensen niet verzadigd."
+  },
+  {
+    "i": 17256,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 21,
+    "t": "Den smeltkroes is voor het zilver, en den oven voor het goud; alzo is de man naar de mond zijner lofwaardigheid."
+  },
+  {
+    "i": 17257,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 22,
+    "t": "Al stampte gij een dwaas in den mortier, met een stamper, onder het graan, zo zou zijn dwaasheid van hem niet wijken."
+  },
+  {
+    "i": 17258,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 23,
+    "t": "Wees naarstig om te kennen den staat uws vees, zet uw hart op de kudden."
+  },
+  {
+    "i": 17259,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 24,
+    "t": "Want het goed duurt niet tot in eeuwigheid; en de kroon van geslacht tot geslacht?"
+  },
+  {
+    "i": 17260,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 25,
+    "t": "Als het gras weggenomen is, en het jonge gras verschijnt, en de kruiden der bergen vergaderd zijn;"
+  },
+  {
+    "i": 17261,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 26,
+    "t": "Zo zullen de lammeren zijn tot uw kleding, en de bokken tot den prijs des akkers;"
+  },
+  {
+    "i": 17262,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 27,
+    "t": "En de melk der geiten zal genoeg zijn tot uw spijs, tot spijs van uw huis, en tot onderhoud van uw maagden."
+  },
+  {
+    "i": 17263,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 1,
+    "t": "De goddeloze vlucht, als er niemand hem jaagt; maar de rechtvaardigen zijn moedig als een jonge leeuw."
+  },
+  {
+    "i": 17264,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 2,
+    "t": "Om de overtreding des lands zijn er veel vorsten; maar door een man van verstand, en wetenschap, zal het bestendig wezen."
+  },
+  {
+    "i": 17265,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 3,
+    "t": "Een arm man, die de armen verdrukt, is een afdrijvende plasregen, waardoor geen brood is."
+  },
+  {
+    "i": 17266,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 4,
+    "t": "Die de wet verlaten, prijzen den goddeloze; maar die de wet bewaren, bestrijden hen."
+  },
+  {
+    "i": 17267,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 5,
+    "t": "De boze lieden verstaan het recht niet; maar die den HEERE zoeken, verstaan alles."
+  },
+  {
+    "i": 17268,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 6,
+    "t": "Beter is de arme, die in zijn oprechtheid wandelt, dan die verkeerd van wegen is, al is hij rijk."
+  },
+  {
+    "i": 17269,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 7,
+    "t": "Die de wet bewaart, is een verstandig kind; maar die met brassers omgaat, beschaamt zijn vader."
+  },
+  {
+    "i": 17270,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 8,
+    "t": "Die zijn goed vermeerdert door woeker en overwinst, die vergadert het voor hem, die de armen genadig is."
+  },
+  {
+    "i": 17271,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 9,
+    "t": "Wie zijn oor afwendt van de wet te horen, zelfs zijn gebed is een gruwel."
+  },
+  {
+    "i": 17272,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 10,
+    "t": "Wie de oprechten verleidt op een bozen weg, zal zelf in zijn gracht vallen; maar de vromen zullen het goede beërven."
+  },
+  {
+    "i": 17273,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 11,
+    "t": "De rijke is wijs in zijn ogen; maar een arme, die verstandig is, doorgrondt hem."
+  },
+  {
+    "i": 17274,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 12,
+    "t": "Als de rechtvaardigen opspringen, is er grote heerlijkheid; maar als de goddelozen opkomen, wordt men verborgen."
+  },
+  {
+    "i": 17275,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 13,
+    "t": "Wie zijn overtredingen bedekt, zal niet voorspoedig zijn; maar wie ze bekent, en laat, zal ontferming verkrijgen."
+  },
+  {
+    "i": 17276,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 14,
+    "t": "Welgelukzalig is de man, die gedurig vreest; maar die zijn hart verhardt, zal in het kwaad vallen."
+  },
+  {
+    "i": 17277,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 15,
+    "t": "Een brullende leeuw, en een beer op het aas belust, alzo is een goddeloze heerser over een arm volk."
+  },
+  {
+    "i": 17278,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 16,
+    "t": "De vorst, die aan verstand gebrek heeft, is ook groot van onderdrukkingen; maar wie de gierigheid haat, zal de dagen verlengen."
+  },
+  {
+    "i": 17279,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 17,
+    "t": "De mens, die met het bloed der ziel beladen is, zal tot de kuil vlieden; men late hem niet vasthouden."
+  },
+  {
+    "i": 17280,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 18,
+    "t": "Wie oprecht wandelt, zal behouden worden; maar wie kromme wegen bewandelt, zal in een daarvan vallen."
+  },
+  {
+    "i": 17281,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 19,
+    "t": "Wie zijn land bewerkt, zal met brood verzadigd worden, maar wie ijdele zaken najaagt, zal met armoede verzadigd worden."
+  },
+  {
+    "i": 17282,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 20,
+    "t": "Een trouw man zal overvloedig gezegend worden, maar wie haastig rijk wil worden, zal niet ongestraft blijven."
+  },
+  {
+    "i": 17283,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 21,
+    "t": "Het is niet goed om partijdig te zijn, maar voor een stuk brood begaat een man een overtreding."
+  },
+  {
+    "i": 17284,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 22,
+    "t": "De man met het boze oog haast zich naar rijkdom, maar hij weet niet dat armoede hem zal overvallen."
+  },
+  {
+    "i": 17285,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 23,
+    "t": "Wie een ander terechtwijst, zal uiteindelijk meer gunst ontvangen dan de vleier."
+  },
+  {
+    "i": 17286,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 24,
+    "t": "Wie zijn vader en zijn moeder berooft en zegt: 'Het is geen overtreding!' is een metgezel van de bandiet."
+  },
+  {
+    "i": 17287,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 25,
+    "t": "De hebzuchtige wekt twist op, maar wie op de HEERE vertrouwt, zal voorspoedig zijn."
+  },
+  {
+    "i": 17288,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 26,
+    "t": "Wie op zijn eigen verstand vertrouwt, is een dwaas, maar wie in wijsheid wandelt, zal behouden worden."
+  },
+  {
+    "i": 17289,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 27,
+    "t": "Wie aan de armen geeft, zal geen gebrek hebben, maar wie zijn ogen sluit, zal overvloedig vervloekt worden."
+  },
+  {
+    "i": 17290,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 28,
+    "t": "Wanneer de goddelozen opkomen, verbergt men zich, maar wanneer zij omkomen, nemen de rechtvaardigen toe."
+  },
+  {
+    "i": 17291,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 1,
+    "t": "Wie na veel bestraffing zijn nek verhardt, zal plotseling gebroken worden, zonder dat er genezing mogelijk is."
+  },
+  {
+    "i": 17292,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 2,
+    "t": "Wanneer de rechtvaardigen toenemen, is het volk blij, maar wanneer de goddelozen heersen, zucht het volk."
+  },
+  {
+    "i": 17293,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 3,
+    "t": "Wie wijsheid liefheeft, verblijdt zijn vader, maar wie met hoeren omgaat, verspilt zijn vermogen."
+  },
+  {
+    "i": 17294,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 4,
+    "t": "Door rechtvaardigheid houdt een koning het land in stand, maar een afperser brengt het ten val."
+  },
+  {
+    "i": 17295,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 5,
+    "t": "Een man die zijn naaste vleit, spreidt een net uit onder zijn voeten."
+  },
+  {
+    "i": 17296,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 6,
+    "t": "In de overtreding van de boze ligt een strik, maar de rechtvaardige juicht en is blij."
+  },
+  {
+    "i": 17297,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 7,
+    "t": "De rechtvaardige kent de zaak van de armen, maar de goddeloze begrijpt die kennis niet."
+  },
+  {
+    "i": 17298,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 8,
+    "t": "Spotters brengen een stad in beroering, maar wijzen stillen de toorn."
+  },
+  {
+    "i": 17299,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 9,
+    "t": "Als een wijze met een dwaas in rechte staat, zal hij, of hij zich nu kwaad maakt of lacht, geen rust hebben."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "Tisztátalannak tartsátok a borzot, mert bár kérődzik, de nincsen hasadt körme;"
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "Tisztátalannak tartsátok a nyulat, mert bár kérődzik, de nincsen hasadt körme;"
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "Tisztátalannak tartsátok a sertést, mert bár hasadt körme van, ketté van osztva a patája, de nem kérődzik."
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "Ne egyetek a húsukból, és ne érintsétek a tetemüket, tisztátalannak tartsátok azokat."
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "Mindazon élőlények közül, melyek a vízben vannak, ezt ehetitek. Mindazt, aminek uszonya és pikkelye van, és a vízben él, a tengerekben vagy a folyókban, azt megehetitek."
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "De mindazt, aminek nincsen uszonya és pikkelye, a tengerekben vagy a folyókban, a vizek mindenféle állatai és minden élő lény között, melyek ott találhatók, tisztátalannak tartsátok."
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "Tisztátalannak tartsátok azokat, ne egyetek a húsukból, és útáljátok a tetemeiket."
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "Mindazt, ami a vízben él anélkül, hogy uszonya és pikkelye lenne, tisztátalannak tartsátok."
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "Ezek pedig azok a madarak, melyeket tisztátalannak kell tartanotok; ne egyetek belőlük, mert útálatos: a griffmadár, a saskeselyű, a halászsas,"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "a fekete kánya, a vörös kánya különböző fajtái,"
+  },
+  {
+    "i": 3010,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 15,
+    "t": "a holló minden fajtája,"
+  },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "a strucc, a kuvik, a sirály és a héja különböző fajtái,"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "a bagoly, a kormorán, a fülesbagoly,"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "az íbisz, a pelikán, a dögevő keselyű,"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "a gólya és a gém különböző fajtái, a búbos banka, a denevér."
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "Minden szárnyas apró állat, mely négy lábon jár, tisztátalannak tartandó."
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "Ezekből a szárnyas apró állatokból, melyek négy lábon járnak, csak azokat ehetitek, melyeknek lábuk a lábuk felett van, hogy ugráljanak a földön."
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "Ezeket ehetitek: a vándorló sáska különböző fajtáit, a szolham sáskát, a hargol sáskát, a hagab sáskát."
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "De minden szárnyas apró állatot, mely négy lábon jár, tisztátalannak tartsatok."
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "Tisztátalanságot szereztek tőlük: aki a tetemüket érinti, tisztátalan lesz estig."
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "Aki a tetemüket viszi, mossa ki a ruháit, és tisztátalan lesz estig."
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "Azon állatok pedig, melyeknek van patája, de nem hasadt, és nem kérődznek, tisztátalannak tartsátok azokat, aki azokat érinti, tisztátalan lesz."
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "Azon állatok közül, melyek négy lábon járnak, azok, melyek a talpukon járnak, tisztátalannak tartsátok; aki a tetemüket érinti, tisztátalan lesz estig,"
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "és aki a tetemüket viszi, mossa ki a ruháit, és tisztátalan lesz estig. Tisztátalannak tartsátok azokat."
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "Ezek pedig azon apró állatok közül, melyek a földön csúsznak-másznak, melyeket tisztátalannak kell tartanotok: a vakondok, a patkány és a gyík különböző fajtái:"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "a gekkó, a koah, a letaah, a kaméleon és a tinchamét."
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "Ezen apró állatok közül ezek az állatok, melyeket tisztátalannak kell tartanotok. Aki azokat érinti, amikor azok meghaltak, tisztátalan lesz estig."
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "Minden tárgy, melyre ráesik egy közülük, miután meghalt, tisztátalanná válik: minden fa eszköz, ruha, bőr, zsák, bármilyen eszköz is legyen az. Merítsétek vízbe, és tisztátalan marad estig; majd tiszta lesz."
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "Minden agyagedény, melybe beleesik egy közülük, törjétek össze; a tartalma tisztátalan."
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "Minden étel, melyet esznek, tisztátalan lesz, még ha vízzel van is megnedvesítve; minden ital, melyet isznak, tisztátalan lesz, bármilyen edényben is legyen az."
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "Minden, amire ráesik egy tetemük, tisztátalan lesz; a sütő és a tűzhely leromboltatnak, mert tisztátalanok, és tisztátalanok lesznek nektek."
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "(Azonban a források, a ciszternák és a vízfelületek tiszták maradnak); aki az egyik tetemét érinti, tisztátalan lesz."
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "Ha az egyik tetemük bármilyen vetőmagra esik, az tiszta marad,"
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "de ha a mag vízzel volt megnedvesítve, és ráesik az egyik tetemük, tisztátalannak tartsátok azt."
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "Ha elpusztul egy azon állatok közül, melyek ételül szolgálnak nektek, aki a tetemét érinti, tisztátalan lesz estig,"
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "aki a döghúsából eszik, mossa ki a ruháit, és tisztátalan lesz estig, aki a tetemét viszi, mossa ki a ruháit, és tisztátalan lesz estig."
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "Minden apró állat, mely a földön nyüzsög, útálatos, ne egyetek belőle."
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "Minden, ami a hasán csúszik, minden, ami négy vagy több lábon jár, röviden minden apró állat, mely a földön nyüzsög, ne egyetek belőle, mert útálatos."
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "Ne tegyétek magatokat tisztátalanná mindezen nyüzsgő apró állatokkal, ne fertőzzétek meg magatokat velük, és ne fertőződjetek meg általuk."
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "Mert én, az Úr, vagyok a ti Istenetek. Szenteljétek meg magatokat, és legyetek szentek, mert én szent vagyok; ne tegyétek tehát magatokat tisztátalanná mindezen apró állatokkal, melyek a földön csúsznak-másznak."
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "Igen, én vagyok az Úr, aki felhoztalak benneteket Egyiptom földjéről, hogy Istenetek legyek: legyetek tehát szentek, mert én szent vagyok."
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "Ez a törvény az állatokra, a madarakra, minden élő lényre vonatkozik, mely a vízben mozog, és minden lényre, mely a földön csúszik-mászik."
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "Célja, hogy elkülönítse a tisztát a tisztátalantól, azokat az állatokat, melyeket meg lehet enni, és azokat, melyeket nem szabad megenni."
+  },
+  {
+    "i": 3043,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 1,
+    "t": "Szólt az Úr Mózeshez, mondván:"
+  },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Szólj Izráel fiainak, mondd meg nekik: Ha egy asszony teherbe esik, és fiút szül, tisztátalan lesz hét napig, mint a havi tisztátalanságának idején."
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "A nyolcadik napon körülmetélik a fiú előbőrét."
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "Majd még harminchárom napig marad, hogy megtisztuljon a vérétől. Semmi szentet ne érintsen, és ne menjen a szentélybe, míg el nem telik a tisztulásának ideje."
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "Ha leányt szül, tisztátalan lesz két hétig, mint a havi vérzés ideje alatt, és még hatvanhat napig marad, hogy megtisztuljon a vérétől."
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "Amikor letelik a tisztulásának ideje, akár fiúról, akár leányról van szó, vigyen a paphoz, a Találkozás Sátora bejáratához, egy esztendős bárányt égőáldozatul, és egy galambot vagy gerlicét bűnért való áldozatul."
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "A pap felajánlja azt az Úr előtt, elvégzi rajta az engesztelés szertartását, és megtisztul a véres folyásától. Ez a törvény a fiút vagy leányt szülő asszonyra vonatkozik."
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "Ha nem képes megtalálni a kisbarmok fejéhez szükséges összeget, akkor vegyen két gerlicét vagy két galambot, az egyiket égőáldozatul, a másikat bűnért való áldozatul. A pap elvégzi rajta az engesztelés szertartását, és megtisztul."
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "Szólt az Úr Mózeshez és Áronhoz, mondván:"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "Ha valakinek a bőrén daganat, kiütés vagy folt keletkezik, a bőrön lévő lepra esetével kell számolni. Vigyék Áronhoz, a paphoz, vagy valamelyik fiához, a papokhoz."
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "A pap vizsgálja meg a bőrt. Ha a beteg helyen a szőr fehérre vált, ha ez a betegség mélyedést okoz a bőrben, az lepra esete; a megfigyelés után a pap tisztátalannak nyilvánítja az embert."
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "De ha a bőrön fehér folt van, a bőrön nem látható mélyedéssel és a szőr fehérré válása nélkül, a pap elkülöníti a beteget hét napra."
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "A hetedik napon megvizsgálja. Ha a saját szemével megállapítja, hogy a betegség megmaradt anélkül, hogy terjedne a bőrön, akkor még hét napig elkülöníti őt."
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "Majd a hetedik napon újra megvizsgálja. Ha megállapítja, hogy a betegség mattá vált, és nem terjedt tovább a bőrön, akkor a pap tisztának nyilvánítja ezt az embert: ez kiütés. A ruháinak megtisztítása után tiszta lesz."
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "De ha a kiütés a bőrön terjedni kezdett, miután a beteget megvizsgálta a pap, és tisztának nyilvánította, ismét jelenjen meg nála."
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "Miután megvizsgálta, és megállapította, hogy a kiütés terjed a bőrön, a pap tisztátalannak nyilvánítja: ez lepra."
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "Amikor valakin leprához hasonló betegség jelenik meg, vezessék a paphoz."
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "A pap megvizsgálja, és ha a bőrön fehéres daganatot, a szőr fehérré válását és fekély képződését látja,"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "az idült lepra a bőrön. A pap tisztátalannak nyilvánítja. Nem fogja elkülöníteni, kétségtelen, hogy tisztátalan."
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "De ha a lepra elszaporodik a bőrön, ha a betegség az egészet beborítja, és a fejtől a lábig terjed, bárhová is néz a pap,"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "akkor megvizsgálja a beteget, és megállapítva, hogy a lepra az egész testét beborítja, tisztának nyilvánítja a beteget. Mivel minden fehérré vált, tiszta."
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "Azonban azon a napon, amikor megjelenik rajta egy fekély, tisztátalan lesz."
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "A fekély megvizsgálása után a pap tisztátalannak nyilvánítja: a fekély tisztátalan dolog, az lepra."
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "De ha a fekély újra fehérré válik, menjen az ember a paphoz,"
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "aki megvizsgálja, és ha megállapítja, hogy a betegség fehérré vált, tisztának nyilvánítja a beteget: tiszta."
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "Amikor valakinek a bőrén fekély keletkezett, amely meggyógyult,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "ha a fekély helyén fehéres daganat vagy vöröses-fehér folt keletkezik, mutassa meg magát ez az ember a papnak."
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "Aki megvizsgálja; ha a bőr látható süllyedését és a szőr fehérré válását látja, a pap tisztátalannak nyilvánítja: ez a lepra esete, amely a fekélyben terjed."
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "Ha a vizsgálat során a pap nem lát fehér szőrt, a bőr nem süllyed, de a betegség elhalványul, elkülöníti hét napra a beteget."
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "Tisztátalannak nyilvánítja, ha a betegség terjed a bőrön: ez a lepra esete."
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "De ha a folt állandó maradt anélkül, hogy terjedne, ez a fekély hege: a pap tisztának nyilvánítja ezt az embert."
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Amikor valakinek a bőrén égés keletkezik, ha az égésen tályog, vörös-fehéres vagy fehéres folt képződik,"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "a pap megvizsgálja. Ha a szőr fehérré válását vagy a folt látható süllyedését látja a bőrben, ez a lepra, amely az égésben terjed. A pap tisztátalannak nyilvánítja az embert: ez a lepra esete."
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "Ha ellenkezőleg a pap a vizsgálatkor nem lát fehér szőrt a foltban, a bőr nem süllyed, de a folt elhalványul, a pap elkülöníti hét napra."
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "A hetedik napon megvizsgálja, és ha a betegség terjed a bőrön, tisztátalannak nyilvánítja: ez a lepra esete."
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "Ha a folt állandó maradt anélkül, hogy terjedne a bőrön, ha éppen ellenkezőleg elhalványult, ez csak az égés miatti daganat. A pap tisztának nyilvánítja az embert, ez csak az égés hege."
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "Ha egy férfinak vagy nőnek seb van a fején vagy az állán,"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "A pap megvizsgálja azt a sebet, és ha a bőr mélyedését látja benne, melyben sárgás és vékony szőr van, akkor tisztátalannak nyilvánítja a beteget. Ez a fejbőrön vagy állon levő ótvar, azaz a fej vagy áll leprája."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "Ha a pap az ótvaros esetet vizsgálva azt látja, hogy nincs a bőrön mélyedés, és nincs sárgás szőr, akkor hét napra elkülöníti az ótvarost."
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "A hetedik napon megvizsgálja a bajt, és ha azt látja, hogy az ótvar nem terjedt, a szőr nem sárgás, és nincs a bőrön mélyedés,"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "a beteg borotválja le magát, de az ótvaros részt ne, és a pap másodszor is elkülöníti hét napra."
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "A hetedik napon megvizsgálja a bajt, és ha azt látja, hogy nem terjedt a bőrön, és nincs a bőrön mélyedés, akkor a pap tisztának nyilvánítja a beteget. Miután kitisztította a ruháit, tiszta lesz."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "Ha azonban a tisztulás után az ótvar terjed a bőrön,"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "a pap megvizsgálja: ha azt látja, hogy az ótvar terjed a bőrön, akkor a beteg tisztátalan, és nem kell vizsgálni, hogy a szőr sárgás-e."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "Ha pedig az ótvar állandónak mutatkozik, és fekete szőr nő rajta, akkor a beteg meggyógyult. Tiszta, és a pap tisztának nyilvánítja."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "Ha foltok jelennek meg egy férfi vagy nő bőrén, és azok fehérek,"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "a pap megvizsgálja őket. Ha azt látja, hogy a bőrön levő foltok fakó fehérek, akkor ez egy kiütés, mely elszaporodott a bőrön: a beteg tiszta."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "Ha egy férfi elveszíti a haja a fejtetőjén, ez kopaszság a fejen, tiszta."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "Ha a homlokán veszti el a haját, ez homloki kopaszság, tiszta."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "De ha a fejen vagy a homlokon van egy fehéres-vöröses baj, akkor lepra szaporodott el az ember fején vagy homlokán."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "A pap megvizsgálja, és ha a fejen vagy a homlokon fehéres-vöröses daganatot lát, mely ugyanúgy néz ki, mint a bőr leprája,"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "akkor az ember leprás; tisztátalan. A pap tisztátalannak kell nyilvánítania, mert lepra van a fején."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "A leprás, akit ez a baj ért, tépett ruhában járjon, és a haja legyen kibontva; takarja el a bajszát, és kiáltozzon: \"Tisztátalan! Tisztátalan!"
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "Amíg tart a baja, tisztátalan lesz, és mivel tisztátalan, külön kell maradnia: lakóhelye legyen a táboron kívül."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "Ha egy ruhadarabon lepra van, akár gyapjúból, akár lenből,"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "egy szövet vagy takaró gyapjúból vagy lenből, bőrből vagy bármilyen bőr munkából,"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "ha ezen a ruhadarabon, bőrön, szöveten, takarón vagy bőr tárgyon zöldes vagy vöröses folt jelenik meg, ez lepra esete, melyet meg kell mutatni a papnak."
+  }
+]

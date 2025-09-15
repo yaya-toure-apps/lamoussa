@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26300,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 19,
+    "t": "Któryż ród jest godzien chwały? Ród człowieczy. Któryż ród jest godzien czci? Ci, co boją się Pana. Któryż ród jest godzien pogardy? Ród człowieczy. Któryż ród jest godzien wzgardy? Ci, co łamią przykazania."
+  },
+  {
+    "i": 26301,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 20,
+    "t": "Wódz jest poważany pośród braci swoich, ci, co boją się Pana, są w czci u niego."
+  },
+  {
+    "i": 26302,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 21,
+    "t": "Upodobanie u Boga ma swój początek w bojaźni Pańskiej, ale początkiem odrzucenia jest zatwardziałość i pycha."
+  },
+  {
+    "i": 26303,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 22,
+    "t": "Prozelita, obcy czy ubogi, chlubą ich jest bojaźń Pańska."
+  },
+  {
+    "i": 26304,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 23,
+    "t": "Niedobrze jest pogardzać ubogim, który ma rozum, nie przystoi też poważać grzesznika."
+  },
+  {
+    "i": 26305,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 24,
+    "t": "Wielki, urzędnik, możny godni są czci, lecz nikt nie jest większy od tego, który boi się Pana."
+  },
+  {
+    "i": 26306,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 25,
+    "t": "Niewolnik mądry ma ludzi wolnych za sługi, a człowiek rozumny nie narzeka."
+  },
+  {
+    "i": 26307,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 26,
+    "t": "Nie udawaj mądrego, gdy pełnisz swe posługi, nie bądź wspaniałomyślny, gdy jesteś w potrzebie."
+  },
+  {
+    "i": 26308,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 27,
+    "t": "Lepszy jest mąż, co pracuje i żyje w dostatku, niż ten, co się chełpi, a brakuje mu chleba."
+  },
+  {
+    "i": 26309,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 28,
+    "t": "Synu mój, chlub się skromnie i oceń się sprawiedliwie."
+  },
+  {
+    "i": 26310,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 29,
+    "t": "Któż ośmieli się usprawiedliwić tego, który krzywdzi samego siebie i poważać tego, który się sobą gardzi?"
+  },
+  {
+    "i": 26311,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 30,
+    "t": "Ubogiego czczą dla jego mądrości, a bogatego dla jego bogactw."
+  },
+  {
+    "i": 26312,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 31,
+    "t": "Jeżeli w ubóstwie jest czczony, to cóż będzie w bogactwie! Jeśli w bogactwie jest wzgardzony, to cóż będzie w ubóstwie!"
+  },
+  {
+    "i": 26313,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 1,
+    "t": "Ubogi, jeśli jest mądry, trzyma głowę wysoko i siada pośród wielkich."
+  },
+  {
+    "i": 26314,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 2,
+    "t": "Nie chwal człowieka dla jego piękna i nie miej nikogo w nienawiści dla jego wyglądu."
+  },
+  {
+    "i": 26315,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 3,
+    "t": "Pszczoła jest mała wśród stworzeń skrzydlatych, ale jej wytwór jest słodkością wyborną."
+  },
+  {
+    "i": 26316,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 4,
+    "t": "Nie bądź dumny z szat, które nosisz i nie wynoś się, gdy cię czczą: albowiem dzieła Pańskie są godne podziwu, lecz ukryte są przed ludźmi."
+  },
+  {
+    "i": 26317,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 5,
+    "t": "Często władcy siedzieli na posadzce, a nieznany otrzymał diadem."
+  },
+  {
+    "i": 26318,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 6,
+    "t": "Często możni bywali srogo upokarzani, a ludzie znakomici dostawali się we władzę drugich."
+  },
+  {
+    "i": 26319,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 7,
+    "t": "Nie gani, zanim nie zbadasz, najpierw pomyśl, potem wyraź swe zarzuty."
+  },
+  {
+    "i": 26320,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 8,
+    "t": "Nie odpowiadaj, zanim nie wysłuchasz, nie wtrącaj się w środek mowy."
+  },
+  {
+    "i": 26321,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 9,
+    "t": "Nie zapalaj się do sprawy, która cię nie dotyczy i nie mieszaj się do sporów grzeszników."
+  },
+  {
+    "i": 26322,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 10,
+    "t": "Synu mój, nie podejmuj się wielu spraw; jeśli je pomnożysz, nie wyjdziesz z tego bez szwanku; nawet biegnąc, nie dojdziesz i nie będziesz mógł uciec przed ucieczką."
+  },
+  {
+    "i": 26323,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 11,
+    "t": "Są tacy, którzy się trudzą, męczą i śpieszą, aby tym bardziej zostać w tyle."
+  },
+  {
+    "i": 26324,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 12,
+    "t": "Są słabi, którzy domagają się pomocy, ubodzy w środki i bogaci w niedostatek; Pan patrzy na nich łaskawie, podnosi ich z nędzy."
+  },
+  {
+    "i": 26325,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 13,
+    "t": "Sprawia, że podnoszą głowy, a wielu się temu dziwi."
+  },
+  {
+    "i": 26326,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 14,
+    "t": "Dobro i zło, życie i śmierć, ubóstwo i bogactwo, wszystko pochodzi od Pana."
+  },
+  {
+    "i": 26327,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 15,
+    "t": "Mądrość, wiedza i znajomość Prawa pochodzą od Pana, miłość i praktyka dobrych uczynków pochodzą od Niego."
+  },
+  {
+    "i": 26328,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 16,
+    "t": "Głupota i ciemności stworzone są dla grzeszników; u tych, którzy lubują się w złu, zło towarzyszy starości."
+  },
+  {
+    "i": 26329,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 17,
+    "t": "Dar Pana pozostaje wierny ludziom pobożnym, a Jego łaskawość poprowadzi ich na wieki."
+  },
+  {
+    "i": 26330,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 18,
+    "t": "Są ludzie, którzy bogacą się siłą chciwości, oto jaka będzie ich nagroda:"
+  },
+  {
+    "i": 26331,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 19,
+    "t": "W dniu, w którym powiedzą sobie: „Znalazłem odpoczynek, teraz mogę żyć z mojego majątku”, nie wiedzą, jak długo to potrwa: będą musieli zostawić to innym i umrzeć."
+  },
+  {
+    "i": 26332,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 20,
+    "t": "Bądź przywiązany do swojej pracy, zajmuj się nią dobrze i zestarzej się w swojej pracy."
+  },
+  {
+    "i": 26333,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 21,
+    "t": "Nie dziw się dziełom grzesznika, ufaj Panu i trzymaj się swojej pracy. Albowiem rzeczą łatwą jest w oczach Pana, szybko, w jednej chwili, wzbogacić ubogiego."
+  },
+  {
+    "i": 26334,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 22,
+    "t": "Błogosławieństwo Pana jest nagrodą człowieka pobożnego, w jednej chwili Bóg sprawia, że zakwita Jego błogosławieństwo."
+  },
+  {
+    "i": 26335,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 23,
+    "t": "Nie mów: „Czego mi trzeba? Odtąd jaki będzie mój majątek?”"
+  },
+  {
+    "i": 26336,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 24,
+    "t": "Nie mów: „Mam dosyć, jakie nieszczęście mogłoby mnie spotkać?”"
+  },
+  {
+    "i": 26337,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 25,
+    "t": "W dniu szczęścia nie pamięta się o złu, a w dniu nieszczęścia zapomina się o szczęściu."
+  },
+  {
+    "i": 26338,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 26,
+    "t": "Albowiem łatwo jest Panu, w dniu śmierci, oddać każdemu według jego uczynków."
+  },
+  {
+    "i": 26339,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 27,
+    "t": "Godzina próby sprawia, że zapomina się o dobrobycie, i to w ostatniej godzinie ujawniają się dzieła człowieka."
+  },
+  {
+    "i": 26340,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 28,
+    "t": "Nie chwal szczęścia nikogo przed końcem, albowiem w swoim końcu staje się poznany."
+  },
+  {
+    "i": 26341,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 29,
+    "t": "Nie wprowadzaj do domu byle kogo, albowiem liczne są fortele intryganta."
+  },
+  {
+    "i": 26342,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 30,
+    "t": "Jak kuropatwa uwięziona w klatce, tak serce pysznego, jak szpieg, czeka na twoją zgubę."
+  },
+  {
+    "i": 26343,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 31,
+    "t": "Zmieniając dobro w zło, jest na czatach, w najlepszych cechach znajduje skazy."
+  },
+  {
+    "i": 26344,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 32,
+    "t": "Iskra rozpala wielki ogień, grzesznik czeka, aby przelać krew."
+  },
+  {
+    "i": 26345,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 33,
+    "t": "Strzeż się niegodziwca, albowiem knuje zło, bój się, aby nie zadał ci wiecznej skazy."
+  },
+  {
+    "i": 26346,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 34,
+    "t": "Wprowadź obcego, a wprowadzi zamieszanie w twoim domu i oddali od ciebie twój domowników."
+  },
+  {
+    "i": 26347,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 1,
+    "t": "Jeśli czynisz dobro, wiedz, komu je czynisz, a twoje dobrodziejstwa nie będą stracone."
+  },
+  {
+    "i": 26348,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 2,
+    "t": "Czyń dobrze człowiekowi pobożnemu, a on ci to odda, jeśli nie on sam, to przynajmniej Najwyższy."
+  },
+  {
+    "i": 26349,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 3,
+    "t": "Żadnych dobrodziejstw dla tego, kto trwa w złu i wzbrania się czynić miłosierdzie."
+  },
+  {
+    "i": 26350,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 4,
+    "t": "Dawaj człowiekowi pobożnemu i nie przychodź z pomocą grzesznikowi."
+  },
+  {
+    "i": 26351,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 5,
+    "t": "Czyń dobrze temu, który jest pokorny i nie dawaj bezbożnemu. Odmów mu chleba, nie dawaj mu go, stałby się silniejszy od ciebie. Albowiem zapłacono by ci podwójnie niegodziwością za wszystkie dobrodziejstwa, którymi byś go obdarzył."
+  },
+  {
+    "i": 26352,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 6,
+    "t": "Albowiem Najwyższy sam ma grzeszników w obrzydzeniu, a bezbożnym wymierzy karę. Strzeże ich aż do dnia ich kary."
+  },
+  {
+    "i": 26353,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 7,
+    "t": "Dawaj człowiekowi dobremu, ale nie przychodź z pomocą grzesznikowi."
+  },
+  {
+    "i": 26354,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 8,
+    "t": "W powodzeniu nie można rozpoznać prawdziwego przyjaciela, a w przeciwności nie może się ukryć wróg."
+  },
+  {
+    "i": 26355,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 9,
+    "t": "Kiedy człowiek jest szczęśliwy, jego wrogowie mają smutek; kiedy jest nieszczęśliwy, nawet jego przyjaciel go opuszcza."
+  },
+  {
+    "i": 26356,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 10,
+    "t": "Nigdy nie ufaj swojemu wrogowi; jak miedź rdzewieje, tak czyni jego niegodziwość."
+  },
+  {
+    "i": 26357,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 11,
+    "t": "Nawet jeśli staje się pokorny i podchodzi, zginając grzbiet, strzeż się i miej się przed nim na baczności. Postępuj z nim tak, jakbyś polerował lustro, wiedz, że jego rdza nie utrzyma się do końca."
+  },
+  {
+    "i": 26358,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 12,
+    "t": "Nie stawiaj go blisko siebie, mógłby cię przewrócić i zająć twoje miejsce. Nie sadzaj go po swojej prawicy, szukałby, jak ci odebrać twój tron, a na koniec zrozumiałbyś moje słowa, żałowałbyś, myśląc o mojej mowie."
+  },
+  {
+    "i": 26359,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 13,
+    "t": "Któż by się użalił nad zaklinaczem, którego ukąsi wąż, i nad wszystkimi, którzy stawiają czoła dzikim zwierzętom?"
+  },
+  {
+    "i": 26360,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 14,
+    "t": "Tak samo jest z tym, który czyni grzesznika swoim towarzyszem i bierze udział w jego grzechach."
+  },
+  {
+    "i": 26361,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 15,
+    "t": "Pozostaje jakiś czas z tobą, ale jeśli się potkniesz, nie powstrzyma się."
+  },
+  {
+    "i": 26362,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 16,
+    "t": "Wróg ma tylko słodycz na ustach, ale w swoim sercu knuje, jak cię wrzucić do dołu. Wróg ma łzy w oczach, a jeśli znajdzie okazję, nie nasyci się krwią."
+  },
+  {
+    "i": 26363,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 17,
+    "t": "Jeśli los będzie ci przeciwny, znajdziesz go tam przed sobą, a pod pretekstem pomocy chwyci cię za piętę."
+  },
+  {
+    "i": 26364,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 18,
+    "t": "Będzie potrząsał głową i klaskał w dłonie, będzie tylko szeptał i zmieniał twarz."
+  },
+  {
+    "i": 26365,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 1,
+    "t": "Kto dotyka smoły, ten się ubrudzi, kto obcuje z pysznym, ten się do niego upodobni."
+  },
+  {
+    "i": 26366,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 2,
+    "t": "Nie obciążaj się zbyt ciężkim brzemieniem, nie wiąż się z silniejszym i bogatszym od siebie. Po co stawiać dzban gliniany obok dzbana żelaznego? Jeśli go uderzy, to się rozbije."
+  },
+  {
+    "i": 26367,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 3,
+    "t": "Bogaty popełnia niesprawiedliwość, unosi się pychą; ubogi jest poszkodowany, prosi o litość."
+  },
+  {
+    "i": 26368,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 4,
+    "t": "Jeśli mu się przydasz, to się tobą posłuży, jeśli zawiedziesz, to się od ciebie odwróci."
+  },
+  {
+    "i": 26369,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 5,
+    "t": "Czy masz jakiś majątek? Zamieszka z tobą, ogołoci cię bez żadnych wyrzutów sumienia."
+  },
+  {
+    "i": 26370,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 6,
+    "t": "Czy cię potrzebuje? Będzie ci schlebiał, będzie się uśmiechał i dawał nadzieję, będzie ci mówił dobre słowa i powie: „Czego ci trzeba?”"
+  },
+  {
+    "i": 26371,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 7,
+    "t": "Będzie cię upokarzał podczas swoich uczt, aż pozbawi cię wszystkiego dwukrotnie i trzykrotnie, a na koniec będzie się z ciebie śmiał. Potem, jeśli cię zauważy, odwróci się od ciebie, potrząsając głową na twój widok."
+  },
+  {
+    "i": 26372,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 8,
+    "t": "Uważaj, abyś się nie dał zwieść, abyś nie został upokorzony w swojej głupocie."
+  },
+  {
+    "i": 26373,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 9,
+    "t": "Kiedy wzywa cię wielki, ukryj się, a on będzie cię wołał jeszcze głośniej."
+  },
+  {
+    "i": 26374,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 10,
+    "t": "Nie spiesz się, aby nie zostać odepchniętym; nie stój zbyt daleko, aby nie zostać zapomnianym."
+  },
+  {
+    "i": 26375,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 11,
+    "t": "Nie waż się być z nim poufałym, nie ufaj jego elokwencji. Przez swoje gadulstwo wystawia cię na próbę, jakby się bawiąc, zasięga informacji."
+  },
+  {
+    "i": 26376,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 12,
+    "t": "Bez litości jest ten, kto roznosi plotki; nie oszczędzi ci ani ciosów, ani łańcuchów."
+  },
+  {
+    "i": 26377,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 13,
+    "t": "Uważaj i dobrze się strzeż, albowiem kroczysz w towarzystwie własnej zguby."
+  },
+  {
+    "i": 26378,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 14,
+    "t": "Kiedy to usłyszysz we śnie, obudź się; przez całe swoje życie miłuj Pana i wzywaj Go dla swego zbawienia."
+  },
+  {
+    "i": 26379,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 15,
+    "t": "Wszystkie istoty żywe kochają swoje podobieństwo i każdy człowiek swego bliźniego."
+  },
+  {
+    "i": 26380,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 16,
+    "t": "Wszelkie ciało łączy się według swego rodzaju, a człowiek przystaje do sobie podobnego."
+  },
+  {
+    "i": 26381,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 17,
+    "t": "Jakaż zgoda wilka z barankiem? Tak i grzesznik z pobożnym."
+  },
+  {
+    "i": 26382,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 18,
+    "t": "Jaki pokój hieny z psem? A jaki bogatego z ubogim?"
+  },
+  {
+    "i": 26383,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 19,
+    "t": "Osły dzikie na pustyni są łupem lwów, tak i ubodzy są pastwą bogatych."
+  },
+  {
+    "i": 26384,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 20,
+    "t": "Dla pysznego uniżenie jest obrzydliwością: tak bogaty brzydzi się ubogim."
+  },
+  {
+    "i": 26385,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 21,
+    "t": "Gdy bogaty się potknie, przyjaciele go podtrzymują; gdy nieszczęśliwy upadnie, przyjaciele go odrzucają."
+  },
+  {
+    "i": 26386,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 22,
+    "t": "Gdy bogaty się zachwieje, wielu go przyjmuje w ramiona, a jeśli mówi głupstwa, dają mu rację. Gdy nieszczęśliwy się potknie, czynią mu wyrzuty, a jeśli mówi rzeczy mądre, nie ma dla niego miejsca."
+  },
+  {
+    "i": 26387,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 23,
+    "t": "Gdy bogaty przemawia, wszyscy milkną i wynoszą jego mowę pod niebiosa. Gdy ubogi mówi, pytają: \"Któż to jest?\" A jeśli się potknie, rzucają nim o ziemię."
+  },
+  {
+    "i": 26388,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 24,
+    "t": "Bogactwo jest dobre, gdy bez grzechu, a ubóstwo jest złe w ustach bezbożnika."
+  },
+  {
+    "i": 26389,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 25,
+    "t": "Serce człowieka kształtuje jego oblicze, czy to ku dobremu, czy ku złemu."
+  },
+  {
+    "i": 26390,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 26,
+    "t": "Serce wesołe - oblicze radosne; wymyślanie przysłów wymaga trudnych rozważań."
+  },
+  {
+    "i": 26391,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 1,
+    "t": "Błogosławiony mąż, który nie zgrzeszył ustami i nie dręczy go żal za grzechy swoje."
+  },
+  {
+    "i": 26392,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 2,
+    "t": "Błogosławiony mąż, który nie czyni sobie wyrzutów i nie pogrąża się w rozpaczy."
+  },
+  {
+    "i": 26393,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 3,
+    "t": "Człowiekowi skąpemu nie przystoi bogactwo, a człowiekowi chciwemu - po co wielkie dobra?"
+  },
+  {
+    "i": 26394,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 4,
+    "t": "Kto gromadzi, umartwiając się, gromadzi dla innych, a z jego dóbr inni się nasycą."
+  },
+  {
+    "i": 26395,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 5,
+    "t": "Kto jest twardy dla samego siebie, dla kogo będzie dobry? Nie cieszy się nawet z własnych dóbr."
+  },
+  {
+    "i": 26396,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 6,
+    "t": "Nie ma człowieka okrutniejszego niż ten, który dręczy samego siebie, taka jest zapłata za jego niegodziwość."
+  },
+  {
+    "i": 26397,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 7,
+    "t": "Jeśli czyni dobrze, to przez nieuwagę, ostatecznie ujawnia swą niegodziwość."
+  },
+  {
+    "i": 26398,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 8,
+    "t": "Niegodziwy to człowiek o oczach chciwych, który odwraca wzrok i gardzi życiem innych."
+  },
+  {
+    "i": 26399,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 9,
+    "t": "Człowiek zawistny nie jest zadowolony z tego, co ma, a chciwość wysusza duszę."
+  }
+]

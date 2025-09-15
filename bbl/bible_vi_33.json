@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3300,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 21,
+    "t": "Người ấy sẽ dâng cho Đức Giê-hô-va một tế lễ chuộc sự sai phạm, tại cửa Hội mạc. Ấy là một con chiên đực để chuộc sự sai phạm."
+  },
+  {
+    "i": 3301,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 22,
+    "t": "Thầy tế lễ sẽ dùng con chiên đực để chuộc sự sai phạm mà làm lễ chuộc tội cho người ấy trước mặt Đức Giê-hô-va về tội người đã phạm; và tội người đã phạm sẽ được tha thứ."
+  },
+  {
+    "i": 3302,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 23,
+    "t": "Khi các ngươi vào xứ và trồng các thứ cây ăn trái, thì hãy coi trái cây đó như là da quy đầu của nó. Trong ba năm, trái cây đó sẽ là vật không cắt bì cho các ngươi, chớ nên ăn."
+  },
+  {
+    "i": 3303,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 24,
+    "t": "Qua năm thứ tư, hết thảy trái cây đều sẽ nên thánh, dùng làm lễ ca ngợi Đức Giê-hô-va."
+  },
+  {
+    "i": 3304,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 25,
+    "t": "Đến năm thứ năm, các ngươi hãy ăn trái cây và thu hoạch sản phẩm cho mình. Ta là Giê-hô-va Đức Chúa Trời của các ngươi."
+  },
+  {
+    "i": 3305,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 26,
+    "t": "Các ngươi chớ ăn thịt còn huyết; các ngươi chớ dùng sự bói toán, hay là sự ếm chú."
+  },
+  {
+    "i": 3306,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 27,
+    "t": "Các ngươi chớ cắt tròn tóc ngang thái dương, và chớ tỉa râu ria của các ngươi."
+  },
+  {
+    "i": 3307,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 28,
+    "t": "Vì cớ người chết, các ngươi chớ xăm mình, cũng đừng khắc dấu trên da. Ta là Đức Giê-hô-va."
+  },
+  {
+    "i": 3308,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 29,
+    "t": "Chớ làm nhơ con gái ngươi bằng cách làm cho nó làm kỹ nữ; e xứ trở nên gian dâm, đầy dẫy sự tà ác."
+  },
+  {
+    "i": 3309,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 30,
+    "t": "Các ngươi phải giữ các ngày sa-bát của ta, và kính sợ nơi thánh của ta. Ta là Đức Giê-hô-va."
+  },
+  {
+    "i": 3310,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 31,
+    "t": "Chớ tìm đến những người chết để hỏi han, và đừng tìm kiếm những thầy bói; vì chúng nó sẽ làm ô uế các ngươi. Ta là Giê-hô-va Đức Chúa Trời của các ngươi."
+  },
+  {
+    "i": 3311,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 32,
+    "t": "Phải đứng dậy trước mặt người tóc bạc, kính trọng người già cả, và kính sợ Đức Chúa Trời của ngươi. Ta là Đức Giê-hô-va."
+  },
+  {
+    "i": 3312,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 33,
+    "t": "Nếu có người ngoại kiều ở cùng các ngươi trong xứ, thì chớ hà hiếp người."
+  },
+  {
+    "i": 3313,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 34,
+    "t": "Người ngoại kiều ở cùng các ngươi phải như người sanh trong xứ; hãy yêu thương người ấy như mình, vì các ngươi đã làm kiều dân trong xứ Ê-díp-tô. Ta là Giê-hô-va Đức Chúa Trời của các ngươi."
+  },
+  {
+    "i": 3314,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 35,
+    "t": "Trong khi xét xử, các ngươi chớ làm sự bất công, dù là về chiều dài, cân nặng hay dung tích."
+  },
+  {
+    "i": 3315,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 36,
+    "t": "Các ngươi phải có cân công bình, quả cân công bình, đấu công bình, và ơ-pha công bình. Ta là Giê-hô-va Đức Chúa Trời của các ngươi, là Đấng đã đem các ngươi ra khỏi xứ Ê-díp-tô."
+  },
+  {
+    "i": 3316,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 37,
+    "t": "Hãy giữ hết thảy luật lệ và điều răn của ta, và làm theo. Ta là Đức Giê-hô-va."
+  },
+  {
+    "i": 3317,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán cùng Môi-se rằng:"
+  },
+  {
+    "i": 3318,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 2,
+    "t": "Hãy nói với dân Y-sơ-ra-ên: Bất cứ người nào trong dân Y-sơ-ra-ên, hoặc người ngoại kiều ở trong Y-sơ-ra-ên, dâng con mình cho thần Mô-léc, chắc chắn phải bị xử tử. Dân trong xứ sẽ ném đá người đó."
+  },
+  {
+    "i": 3319,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 3,
+    "t": "Ta sẽ đối nghịch với người ấy và truất khỏi dân sự mình, vì người ấy đã dâng một trong các con mình cho thần Mô-léc, làm ô uế nơi thánh của ta và làm ô danh thánh ta."
+  },
+  {
+    "i": 3320,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 4,
+    "t": "Nếu dân trong xứ nhắm mắt làm ngơ với người ấy khi người ấy dâng một trong các con mình cho thần Mô-léc, và không xử tử người đó,"
+  },
+  {
+    "i": 3321,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 5,
+    "t": "thì chính ta sẽ đối nghịch với người ấy và gia tộc người ấy. Ta sẽ truất khỏi dân sự mình, người ấy và hết thảy những ai theo người ấy mà gian dâm theo thần Mô-léc."
+  },
+  {
+    "i": 3322,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 6,
+    "t": "Người nào tìm đến những người chết và những thầy bói để gian dâm theo chúng, ta sẽ đối nghịch với người ấy và truất khỏi dân sự mình."
+  },
+  {
+    "i": 3323,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 7,
+    "t": "Hãy tự thánh hóa mình để nên thánh, vì ta là Giê-hô-va Đức Chúa Trời của các ngươi."
+  },
+  {
+    "i": 3324,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 8,
+    "t": "Hãy giữ luật lệ ta và làm theo, vì ta là Đức Giê-hô-va, là Đấng thánh hóa các ngươi."
+  },
+  {
+    "i": 3325,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 9,
+    "t": "Vậy, ai rủa sả cha mẹ mình, chắc chắn phải bị xử tử. Vì người ấy đã rủa sả cha mẹ mình, huyết người ấy sẽ đổ lại trên mình người."
+  },
+  {
+    "i": 3326,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 10,
+    "t": "Người nào phạm tội ngoại tình với vợ người lân cận, người nam và người nữ đó đều phải bị xử tử."
+  },
+  {
+    "i": 3327,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 11,
+    "t": "Người nào ngủ với vợ của cha mình, đã khám phá sự trần truồng của cha mình. Cả hai đều phải bị xử tử, huyết chúng nó sẽ đổ lại trên chúng nó."
+  },
+  {
+    "i": 3328,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 12,
+    "t": "Người nào ngủ với con dâu mình, cả hai đều phải bị xử tử. Chúng nó đã làm điều ghê tởm, huyết chúng nó sẽ đổ lại trên chúng nó."
+  },
+  {
+    "i": 3329,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 13,
+    "t": "Người nào ngủ với người nam như ngủ với người nữ, cả hai đều đã làm điều gớm ghiếc, phải bị xử tử, huyết chúng nó sẽ đổ lại trên chúng nó."
+  },
+  {
+    "i": 3330,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 14,
+    "t": "Người nào cưới một người nữ và mẹ của người đó, đó là một sự loạn luân. Phải thiêu chúng nó trong lửa, cả người nam và hai người nữ, để sự loạn luân không còn giữa các ngươi nữa."
+  },
+  {
+    "i": 3331,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 15,
+    "t": "Người nào giao hợp với một con vật, phải bị xử tử và các ngươi phải giết con vật đó."
+  },
+  {
+    "i": 3332,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 16,
+    "t": "Người nữ nào đến gần một con vật để giao hợp với nó, ngươi phải giết người nữ và con vật đó. Chúng nó phải bị xử tử, huyết chúng nó sẽ đổ lại trên chúng nó."
+  },
+  {
+    "i": 3333,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 17,
+    "t": "Người nào cưới em gái mình, con gái của cha mình hoặc con gái của mẹ mình, nếu người nam khám phá sự trần truồng của em gái, và em gái khám phá sự trần truồng của người nam, đó là một sự ô nhục. Chúng nó sẽ bị truất khỏi trước mắt dân sự mình, vì người nam đã khám phá sự trần truồng của em gái mình, người đó sẽ gánh lấy tội lỗi của mình."
+  },
+  {
+    "i": 3334,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 18,
+    "t": "Người nào ngủ với một người nữ trong kỳ kinh nguyệt và khám phá sự trần truồng của người đó, tức là đã làm trần truồng nguồn huyết của người nữ, và người nữ đã khám phá nguồn huyết của mình; cả hai sẽ bị truất khỏi dân sự mình."
+  },
+  {
+    "i": 3335,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 19,
+    "t": "Ngươi chớ khám phá sự trần truồng của em gái mẹ ngươi, hoặc em gái cha ngươi; vì người nào làm như vậy là làm trần truồng bà con ruột thịt, chúng nó sẽ gánh lấy tội lỗi của mình."
+  },
+  {
+    "i": 3336,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 20,
+    "t": "Người nào ngủ với vợ của chú bác mình, đã khám phá sự trần truồng của chú bác mình, chúng nó sẽ gánh lấy tội lỗi của mình và chết không con."
+  },
+  {
+    "i": 3337,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 21,
+    "t": "Người nào cưới vợ của anh mình, đó là một sự ô nhục, người ấy đã khám phá sự trần truồng của anh mình, chúng nó sẽ chết không con."
+  },
+  {
+    "i": 3338,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 22,
+    "t": "Hãy giữ hết thảy luật lệ và điều răn của ta, và làm theo; hầu cho xứ mà ta đem các ngươi vào ở không nhả các ngươi ra."
+  },
+  {
+    "i": 3339,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 23,
+    "t": "Các ngươi chớ làm theo tục lệ của các dân tộc mà ta đuổi khỏi trước mặt các ngươi; vì chúng nó đã làm hết thảy những điều này, nên ta gớm ghiếc chúng nó."
+  },
+  {
+    "i": 3340,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 24,
+    "t": "Ta đã phán cùng các ngươi: \"Các ngươi sẽ chiếm lấy xứ chúng nó, ta sẽ ban cho các ngươi xứ đó làm sản nghiệp, một xứ đượm sữa và mật.\" Ta là Giê-hô-va Đức Chúa Trời của các ngươi, là Đấng đã phân biệt các ngươi khỏi các dân tộc này."
+  },
+  {
+    "i": 3341,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 25,
+    "t": "Vậy, hãy phân biệt thú vật thanh sạch với thú vật ô uế, chim thanh sạch với chim ô uế. Các ngươi chớ làm cho mình ra gớm ghiếc bởi các thú vật, các chim, hoặc bất cứ vật gì bò trên đất mà ta đã phân biệt là ô uế."
+  },
+  {
+    "i": 3342,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 26,
+    "t": "Hãy nên thánh cho ta, vì ta là Đức Giê-hô-va thánh, và ta đã phân biệt các ngươi khỏi các dân tộc để các ngươi thuộc về ta."
+  },
+  {
+    "i": 3343,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 27,
+    "t": "Người nam hoặc người nữ nào trong các ngươi làm nghề cầu hồn hoặc nghề bói toán, phải bị xử tử, người ta sẽ ném đá họ, huyết họ sẽ đổ lại trên họ."
+  },
+  {
+    "i": 3344,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán với Môi-se: Hãy nói với các thầy tế lễ, con cháu A-rôn, và nói với chúng: Chớ ai làm cho mình ra ô uế vì xác chết của một người thân,"
+  },
+  {
+    "i": 3345,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 2,
+    "t": "trừ người thân ruột thịt nhất, tức là mẹ, cha, con trai, con gái, hoặc anh em mình."
+  },
+  {
+    "i": 3346,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 3,
+    "t": "Đối với em gái đồng trinh chưa chồng, vì nàng vẫn còn là thân thuộc của người ấy, nên người ấy có thể làm cho mình ra ô uế vì nàng,"
+  },
+  {
+    "i": 3347,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 4,
+    "t": "nhưng đối với vợ gả trong dân mình, thì người ấy không được làm cho mình ra ô uế; người ấy sẽ làm cho mình ra ô uế."
+  },
+  {
+    "i": 3348,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 5,
+    "t": "Họ chớ cạo trọc đầu, chớ tỉa râu ria, và chớ xăm mình trên thân thể."
+  },
+  {
+    "i": 3349,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 6,
+    "t": "Họ phải nên thánh cho Đức Chúa Trời mình và chớ làm ô danh Đức Chúa Trời mình, vì họ là người dâng các lễ vật cho Đức Giê-hô-va, tức là thức ăn của Đức Chúa Trời mình; họ phải nên thánh."
+  },
+  {
+    "i": 3350,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 7,
+    "t": "Họ chớ cưới kỹ nữ, người đã bị ô uế, hoặc người nữ đã bị chồng đuổi, vì thầy tế lễ đã được thánh hóa cho Đức Chúa Trời mình."
+  },
+  {
+    "i": 3351,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 8,
+    "t": "Ngươi hãy coi người ấy như một người thánh, vì người ấy dâng thức ăn của Đức Chúa Trời ngươi. Người ấy phải là một người thánh cho ngươi, vì ta là thánh, ta là Đức Giê-hô-va, là Đấng thánh hóa các ngươi."
+  },
+  {
+    "i": 3352,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 9,
+    "t": "Nếu con gái của một thầy tế lễ nào làm nhơ mình bằng cách làm kỹ nữ, thì nàng làm ô uế cha mình, phải bị thiêu trong lửa."
+  },
+  {
+    "i": 3353,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 10,
+    "t": "Thầy tế lễ nào cao trọng hơn các anh em mình, trên đầu có đổ dầu xức, và đã được tấn phong để mặc áo tế lễ, thì chớ để tóc xõa ra, chớ xé áo mình,"
+  },
+  {
+    "i": 3354,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 11,
+    "t": "chớ đến gần bất cứ xác chết nào, và chớ làm cho mình ra ô uế, ngay cả vì cha mẹ mình."
+  },
+  {
+    "i": 3355,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 12,
+    "t": "Người ấy chớ ra khỏi nơi thánh, để khỏi làm ô uế nơi thánh của Đức Chúa Trời mình, vì người ấy mang trên mình sự xức dầu thánh của Đức Chúa Trời mình. Ta là Đức Giê-hô-va."
+  },
+  {
+    "i": 3356,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 13,
+    "t": "Người ấy phải cưới một người nữ còn đồng trinh."
+  },
+  {
+    "i": 3357,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 14,
+    "t": "Người ấy chớ cưới góa phụ, người bị ly dị, hoặc người đã bị ô uế do làm kỹ nữ; nhưng chỉ được cưới một người nữ đồng trinh trong dân mình:"
+  },
+  {
+    "i": 3358,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 15,
+    "t": "Người ấy chớ làm ô uế dòng dõi mình, vì ta là Đức Giê-hô-va, là Đấng đã thánh hóa người ấy."
+  },
+  {
+    "i": 3359,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 16,
+    "t": "Đức Giê-hô-va phán với Môi-se:"
+  },
+  {
+    "i": 3360,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 17,
+    "t": "Hãy nói với A-rôn: Bất cứ ai trong dòng dõi ngươi, dù thuộc thế hệ nào, nếu có tật nguyền thì chớ đến gần để dâng thức ăn cho Đức Chúa Trời mình."
+  },
+  {
+    "i": 3361,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 18,
+    "t": "Vì không ai có tật nguyền được đến gần, dù là người mù, người què, người có khuôn mặt dị dạng, người có chi thể bất thường,"
+  },
+  {
+    "i": 3362,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 19,
+    "t": "người gãy chân, hoặc gãy tay,"
+  },
+  {
+    "i": 3363,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 20,
+    "t": "người gù lưng, người còi cọc, người có bệnh về mắt, người bị ghẻ lở, người có mụn bọc mủ, hoặc người bị thiến."
+  },
+  {
+    "i": 3364,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 21,
+    "t": "Không ai trong dòng dõi A-rôn, là thầy tế lễ, nếu có tật nguyền thì chớ đến gần để dâng các lễ vật cho Đức Giê-hô-va; vì người ấy có tật nguyền, người ấy không được đến gần để dâng thức ăn cho Đức Chúa Trời mình."
+  },
+  {
+    "i": 3365,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 22,
+    "t": "Người ấy có thể ăn thức ăn của Đức Chúa Trời mình, các vật chí thánh và các vật thánh,"
+  },
+  {
+    "i": 3366,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 23,
+    "t": "nhưng người ấy không được đến gần bức màn và không được đến gần bàn thờ; vì người ấy có tật nguyền và không được làm ô uế các vật thánh của ta, vì ta là Đức Giê-hô-va, là Đấng đã thánh hóa chúng."
+  },
+  {
+    "i": 3367,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 24,
+    "t": "Môi-se đã nói điều này với A-rôn, các con trai ông và hết thảy dân Y-sơ-ra-ên."
+  },
+  {
+    "i": 3368,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán với Môi-se:"
+  },
+  {
+    "i": 3369,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 2,
+    "t": "Hãy nói với A-rôn và các con trai ông: Hãy giữ mình khỏi các của thánh mà dân Y-sơ-ra-ên dâng và đừng làm ô danh thánh ta; vì cớ ta, họ phải thánh hóa nó. Ta là Đức Giê-hô-va."
+  },
+  {
+    "i": 3370,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 3,
+    "t": "Hãy nói với chúng: Người nào trong dòng dõi các ngươi, dù thuộc thế hệ nào, nếu ở trong tình trạng ô uế mà đến gần các của thánh mà dân Y-sơ-ra-ên đã biệt riêng ra cho Đức Giê-hô-va, thì người ấy sẽ bị truất khỏi trước mặt ta. Ta là Đức Giê-hô-va."
+  },
+  {
+    "i": 3371,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 4,
+    "t": "Người nào trong dòng dõi A-rôn bị bệnh phong hoặc bị ra mủ thì chớ ăn các vật thánh cho đến khi được thanh sạch. Người nào chạm đến bất cứ vật gì mà xác chết đã làm cho ô uế, người nào bị xuất tinh,"
+  },
+  {
+    "i": 3372,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 5,
+    "t": "người nào chạm đến bất cứ vật gì nhỏ mà bị ô uế, hoặc một người đã làm cho người ấy bị ô uế, bất cứ sự ô uế nào,"
+  },
+  {
+    "i": 3373,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 6,
+    "t": "tóm lại, ai có các sự chạm đến như vậy sẽ bị ô uế cho đến chiều tối và không được ăn các vật thánh cho đến khi tắm mình trong nước."
+  },
+  {
+    "i": 3374,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 7,
+    "t": "Khi mặt trời lặn, người ấy sẽ được thanh sạch và sau đó có thể ăn các vật thánh, vì đó là thức ăn của người ấy."
+  },
+  {
+    "i": 3375,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 8,
+    "t": "Người ấy chớ ăn thú vật chết tự nhiên hoặc thú vật bị xé xác, vì nếu ăn, sẽ bị ô uế. Ta là Đức Giê-hô-va."
+  },
+  {
+    "i": 3376,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 9,
+    "t": "Hãy giữ các điều ta truyền dạy và đừng mang tội: họ sẽ chết vì làm ô uế nó. Ta là Đức Giê-hô-va, là Đấng thánh hóa chúng."
+  },
+  {
+    "i": 3377,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 10,
+    "t": "Người ngoài không được ăn các vật thánh: khách trọ của thầy tế lễ hoặc người làm thuê không được ăn các vật thánh."
+  },
+  {
+    "i": 3378,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 11,
+    "t": "Nhưng nếu thầy tế lễ mua một người bằng tiền bạc, người ấy có thể ăn như người sanh ra trong nhà người; họ ăn thức ăn của người."
+  },
+  {
+    "i": 3379,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 12,
+    "t": "Nếu con gái của thầy tế lễ trở nên vợ của một người ngoài, thì nàng không thể ăn các của thánh đã dâng;"
+  },
+  {
+    "i": 3380,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 13,
+    "t": "nhưng nếu nàng trở nên góa bụa hoặc bị ly dị, và không có con, phải trở về nhà cha mình như lúc còn trẻ, thì nàng có thể ăn thức ăn của cha mình. Người ngoài không được ăn nó:"
+  },
+  {
+    "i": 3381,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 14,
+    "t": "Nếu ai vô tình ăn các vật thánh, thì phải bồi thường cho thầy tế lễ, thêm một phần năm giá trị của vật đó."
+  },
+  {
+    "i": 3382,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 15,
+    "t": "Họ chớ làm ô uế các của thánh mà dân Y-sơ-ra-ên đã biệt riêng ra cho Đức Giê-hô-va."
+  },
+  {
+    "i": 3383,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 16,
+    "t": "Khi ăn chúng, họ sẽ làm cho những người này phạm tội mà phải bồi thường, vì ta là Đức Giê-hô-va đã thánh hóa các của lễ này."
+  },
+  {
+    "i": 3384,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 17,
+    "t": "Đức Giê-hô-va phán với Môi-se:"
+  },
+  {
+    "i": 3385,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 18,
+    "t": "Hãy nói với A-rôn, các con trai ông và hết thảy dân Y-sơ-ra-ên: Bất cứ người nào trong nhà Y-sơ-ra-ên, hoặc người ngoại kiều ở trong Y-sơ-ra-ên, dâng của lễ mình để trả một lời hứa nguyện hoặc dâng một của lễ lạc ý, và dâng của lễ thiêu cho Đức Giê-hô-va,"
+  },
+  {
+    "i": 3386,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 19,
+    "t": "thì phải dâng một con đực không tì vết, hoặc bò, chiên hoặc dê, để được chấp nhận."
+  },
+  {
+    "i": 3387,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 20,
+    "t": "Các ngươi chớ dâng con nào có tì vết, vì nó sẽ không được chấp nhận."
+  },
+  {
+    "i": 3388,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 21,
+    "t": "Nếu ai dâng cho Đức Giê-hô-va một tế lễ bình an để trả một lời hứa nguyện hoặc để dâng một của lễ lạc ý, hoặc bò lớn hoặc chiên nhỏ, con vật đó phải không tì vết để được chấp nhận; không được có tì vết nào."
+  },
+  {
+    "i": 3389,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 22,
+    "t": "Các ngươi chớ dâng cho Đức Giê-hô-va con vật nào mù, què, bị thương tật, lở loét, ghẻ lở hoặc mụn bọc mủ. Không được để bất cứ phần nào của các con vật như vậy trên bàn thờ làm của lễ dâng cho Đức Giê-hô-va."
+  },
+  {
+    "i": 3390,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 23,
+    "t": "Ngươi có thể dâng một con vật còi cọc hoặc dị dạng thuộc bò lớn hoặc chiên nhỏ để làm của lễ lạc ý, nhưng nó sẽ không được chấp nhận để trả một lời hứa nguyện."
+  },
+  {
+    "i": 3391,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 24,
+    "t": "Các ngươi chớ dâng cho Đức Giê-hô-va con vật nào có tinh hoàn bị giập, bị ép, bị xé hoặc bị cắt. Các ngươi chớ làm điều này trong xứ mình."
+  },
+  {
+    "i": 3392,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 25,
+    "t": "Các ngươi chớ nhận bất cứ vật gì như vậy từ tay một người ngoại bang để dâng làm thức ăn cho Đức Chúa Trời các ngươi. Vì dị dạng là một tì vết và các con vật như vậy sẽ không được chấp nhận."
+  },
+  {
+    "i": 3393,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 26,
+    "t": "Đức Giê-hô-va phán với Môi-se:"
+  },
+  {
+    "i": 3394,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 27,
+    "t": "Khi một con bê, chiên con hoặc dê con vừa mới sanh ra, nó phải ở với mẹ bảy ngày. Từ ngày thứ tám trở đi, nó có thể được chấp nhận làm của lễ dâng cho Đức Giê-hô-va."
+  },
+  {
+    "i": 3395,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 28,
+    "t": "Dù là bò cái hay chiên cái, các ngươi chớ giết con vật và con non của nó trong cùng một ngày."
+  },
+  {
+    "i": 3396,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 29,
+    "t": "Nếu các ngươi dâng cho Đức Giê-hô-va một tế lễ tạ ơn, hãy dâng theo cách để được chấp nhận:"
+  },
+  {
+    "i": 3397,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 30,
+    "t": "phải ăn nó trong ngày đó, chớ để sót lại gì đến sáng hôm sau. Ta là Đức Giê-hô-va."
+  },
+  {
+    "i": 3398,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 31,
+    "t": "Hãy giữ các điều răn của ta và làm theo. Ta là Đức Giê-hô-va."
+  },
+  {
+    "i": 3399,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 32,
+    "t": "Các ngươi chớ làm ô danh thánh ta, hầu cho ta được tôn thánh giữa dân Y-sơ-ra-ên, ta là Đức Giê-hô-va, là Đấng thánh hóa các ngươi."
+  }
+]

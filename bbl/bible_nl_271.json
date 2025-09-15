@@ -1,0 +1,802 @@
+[
+  {
+    "i": 27100,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 20,
+    "t": "Geef uw hart niet over aan droefenis, stoot die af. Gedenk uw eigen einde."
+  },
+  {
+    "i": 27101,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 21,
+    "t": "Vergeet dit niet: er is geen terugkeer, gij zoudt de dode niet dienen en uzelf kwaad doen."
+  },
+  {
+    "i": 27102,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 22,
+    "t": "\"Gedenk mijn oordeel, dat ook het uwe zal zijn: ik gisteren, gij heden!"
+  },
+  {
+    "i": 27103,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 23,
+    "t": "Zodra een dode rust, laat dan zijn nagedachtenis rusten, troost u met hem zodra zijn geest is heengegaan."
+  },
+  {
+    "i": 27104,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 24,
+    "t": "De wijsheid van de schriftgeleerde wordt verworven in uren van ledigheid en wie vrij is van zaken, wordt wijs."
+  },
+  {
+    "i": 27105,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 25,
+    "t": "Hoe zou hij wijs worden, hij die de ploeg vasthoudt, wiens hele glorie is de prikstok te hanteren, die ossen leidt en ze niet verlaat bij het werk, en die slechts spreekt over vee?"
+  },
+  {
+    "i": 27106,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 26,
+    "t": "Zijn hart is bezig met de voren die hij trekt en zijn waken wordt besteed aan het vetmesten van jonge koeien."
+  },
+  {
+    "i": 27107,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 27,
+    "t": "Evenzo alle arbeiders en ambachtslieden die dag en nacht werken, zij die zich toeleggen op het graveren van zegels en die zich inspannen om hun ontwerp te variëren; zij hebben er behagen in het model goed weer te geven en waken om hun werk te voltooien."
+  },
+  {
+    "i": 27108,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 28,
+    "t": "Evenzo de smid, gezeten bij het aambeeld: hij observeert het werk van het ijzer; de damp van het vuur verteert zijn vlees, in de hitte van de oven zwoegt hij; het geluid van de hamer maakt hem doof, hij heeft zijn ogen gericht op zijn model; hij legt heel zijn hart in het goed doen van zijn werk en hij brengt zijn waken door met het perfectioneren ervan."
+  },
+  {
+    "i": 27109,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 29,
+    "t": "Evenzo de pottenbakker, gezeten aan zijn werk, met zijn voeten de draaischijf bewegend, voortdurend bezorgd om zijn werk, al zijn gebaren zijn geteld;"
+  },
+  {
+    "i": 27110,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 30,
+    "t": "met zijn arm kneedt hij de klei, met zijn voeten dwingt hij haar; hij legt zijn hart erin de vernis goed aan te brengen en tijdens zijn waken maakt hij de haard schoon."
+  },
+  {
+    "i": 27111,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 31,
+    "t": "Al deze mensen hebben hun vertrouwen in hun handen gesteld en ieder is bekwaam in zijn vak."
+  },
+  {
+    "i": 27112,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 32,
+    "t": "Zonder hen zou geen stad gebouwd kunnen worden, men zou zich noch kunnen vestigen, noch reizen. Maar men tracht hen niet te hebben in de raad van het volk"
+  },
+  {
+    "i": 27113,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 33,
+    "t": "en in de vergadering hebben zij geen hoge rang. Zij bezetten niet de zetel van de rechter en mediteren niet over de wet. Zij blinken noch uit door hun cultuur, noch door hun oordeel, men vindt hen niet bezig met spreekwoorden."
+  },
+  {
+    "i": 27114,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 34,
+    "t": "Maar zij verzekeren een eeuwige schepping, en hun gebed is gericht op de zaken van hun vak. Anders is het met hem die zijn ziel en zijn meditatie richt op de wet van de Allerhoogste."
+  },
+  {
+    "i": 27115,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 1,
+    "t": "Hij doorzoekt de wijsheid van alle ouden, hij besteedt zijn vrije tijd aan profetieën."
+  },
+  {
+    "i": 27116,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 2,
+    "t": "Hij bewaart de verhalen van de beroemde mannen, hij dringt door in de kronkels van de parabels."
+  },
+  {
+    "i": 27117,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 3,
+    "t": "Hij zoekt de verborgen betekenis van de spreekwoorden, hij behaagt zich in de geheimen van de parabels."
+  },
+  {
+    "i": 27118,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 4,
+    "t": "Hij neemt zijn dienst aan onder de groten, men merkt hem op in de aanwezigheid van de leiders. Hij reist in vreemde landen, hij heeft de ervaring van goed en kwaad onder de mensen."
+  },
+  {
+    "i": 27119,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 5,
+    "t": "Van de ochtend af, met heel zijn hart, wendt hij zich tot de Heer, zijn schepper; hij smeekt in de aanwezigheid van de Allerhoogste, hij opent zijn mond voor het gebed, hij smeekt voor zijn eigen zonden."
+  },
+  {
+    "i": 27120,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 6,
+    "t": "Indien zulk de wil van de grote Heer is, zal hij vervuld worden met de geest van intelligentie. Hijzelf zal zijn woorden van wijsheid verspreiden, in zijn gebed zal hij de Heer danken."
+  },
+  {
+    "i": 27121,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 7,
+    "t": "Hij zal de gerechtigheid van het oordeel en van de kennis verwerven, hij zal mediteren over zijn verborgen mysteries."
+  },
+  {
+    "i": 27122,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 8,
+    "t": "Hij zal het onderricht dat hij heeft ontvangen doen verschijnen en zal zijn trots plaatsen in de wet van het verbond van de Heer."
+  },
+  {
+    "i": 27123,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 9,
+    "t": "Velen zullen zijn intelligentie prijzen en nooit zal men hem vergeten. Zijn herinnering zal niet verdwijnen, zijn naam zal voortleven van generatie op generatie."
+  },
+  {
+    "i": 27124,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 10,
+    "t": "Natiën zullen zijn wijsheid verkondigen en de vergadering zal zijn lof zingen."
+  },
+  {
+    "i": 27125,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 11,
+    "t": "Indien hij lang leeft, zal zijn naam glorieuzer zijn dan duizend anderen, en indien hij sterft, is dat genoeg voor hem."
+  },
+  {
+    "i": 27126,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 12,
+    "t": "Ik wil nog deelgeven aan mijn reflecties, waarmee ik vervuld ben als de maan in haar volheid."
+  },
+  {
+    "i": 27127,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 13,
+    "t": "Luister naar mij, mijn vrome kinderen, en groei op als de roos geplant aan de oever van een waterloop."
+  },
+  {
+    "i": 27128,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 14,
+    "t": "Verspreid als wierook een goede geur, bloei als de lelie, geef uw parfum, zing een lied, zegen de Heer voor al zijn werken."
+  },
+  {
+    "i": 27129,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 15,
+    "t": "Vergroot zijn naam, publiceer zijn lof, door uw liederen, op uw citers, en gij zult tot zijn lof zeggen:"
+  },
+  {
+    "i": 27130,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 16,
+    "t": "Hoe magnifiek zijn alle werken van de Heer! Al zijn bevelen worden stipt uitgevoerd."
+  },
+  {
+    "i": 27131,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 17,
+    "t": "Men moet niet zeggen: Wat is dat? Waarom dat? Alles moet bestudeerd worden te zijner tijd. Op zijn woord stopt en verzamelt het water zich, op zijn stem vormen zich de reservoirs van de wateren,"
+  },
+  {
+    "i": 27132,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 18,
+    "t": "op zijn bevel wordt alles wat hij wenst volbracht, er is niemand die zijn gebaar van redding stopt."
+  },
+  {
+    "i": 27133,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 19,
+    "t": "Alle werken van de mensen zijn voor hem, het is niet mogelijk aan zijn blik te ontsnappen;"
+  },
+  {
+    "i": 27134,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 20,
+    "t": "zijn blik strekt zich uit van eeuwigheid tot eeuwigheid, niets is buitengewoon in zijn ogen."
+  },
+  {
+    "i": 27135,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 21,
+    "t": "Men moet niet zeggen: Wat is dat? Waarom dat? Want alles is geschapen voor een doel."
+  },
+  {
+    "i": 27136,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 22,
+    "t": "Zoals zijn zegen alles heeft bedekt als een rivier en de aarde heeft gelaafd als een zondvloed,"
+  },
+  {
+    "i": 27137,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 23,
+    "t": "zo geeft hij de natiën zijn woede als deel, aldus heeft hij de wateren in zout veranderd."
+  },
+  {
+    "i": 27138,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 24,
+    "t": "Indien zijn wegen verenigd zijn voor de vrome mensen, zijn ze voor de slechten vol obstakels."
+  },
+  {
+    "i": 27139,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 25,
+    "t": "De goederen zijn geschapen voor de goeden vanaf het begin, en evenzo, voor de slechten, de kwaden."
+  },
+  {
+    "i": 27140,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 26,
+    "t": "Wat van de eerste noodzaak is voor het leven van de mens, is water, vuur, ijzer en zout, tarwemeel, melk en honing, het sap van de druif, olie en kleding."
+  },
+  {
+    "i": 27141,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 27,
+    "t": "Dit alles is een goed voor de goeden, maar voor de zondaars wordt het een kwaad."
+  },
+  {
+    "i": 27142,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 28,
+    "t": "Er zijn winden geschapen voor de straf en in hun woede versterken zij hun plagen, ten tijde van de verwoesting ontketenen zij hun geweld en verzadigen de woede van hun Schepper."
+  },
+  {
+    "i": 27143,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 29,
+    "t": "Vuur, hagel, hongersnood en dood, dit alles is geschapen voor de straf."
+  },
+  {
+    "i": 27144,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 30,
+    "t": "De tanden van de wilde beesten, de schorpioenen en de adders, het wraakzwaard voor het verlies van de goddelozen,"
+  },
+  {
+    "i": 27145,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 31,
+    "t": "allen verheugen zich in het uitvoeren van zijn bevelen, zij zijn op de aarde klaar voor het geval van nood, te zijner tijd zullen zij zijn woord niet overtreden."
+  },
+  {
+    "i": 27146,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 32,
+    "t": "Daarom was ik vanaf het begin vastbesloten, ik heb nagedacht en ik heb geschreven:"
+  },
+  {
+    "i": 27147,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 33,
+    "t": "\"De werken van de Heer zijn allemaal goed, hij geeft zijn gunst aan wie het nodig heeft, te gelegener tijd."
+  },
+  {
+    "i": 27148,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 34,
+    "t": "Men moet niet zeggen: \"Dit is erger dan dat!\" want alles te zijner tijd zal goed erkend worden."
+  },
+  {
+    "i": 27149,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 35,
+    "t": "En nu van harte, met volle mond, zingt, en zegen de naam van de Heer!"
+  },
+  {
+    "i": 27150,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 1,
+    "t": "Een zware last is alle mensen beschoren, een zwaar juk drukt op de zonen van Adam, vanaf de dag dat ze uit de moederschoot komen tot de dag van hun terugkeer naar de universele moeder."
+  },
+  {
+    "i": 27151,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 2,
+    "t": "Het object van hun reflecties, de vrees van hun hart, is de angstige verwachting van de dag van hun dood."
+  },
+  {
+    "i": 27152,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 3,
+    "t": "Van degene die op een troon zit, in glorie, tot de ellendige die op de aarde en de as zit,"
+  },
+  {
+    "i": 27153,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 4,
+    "t": "van degene die purper en de kroon draagt tot degene die gekleed is in grove stof, het is slechts woede, afgunst, onrust, bezorgdheid, vrees voor de dood, rivaliteit en ruzies."
+  },
+  {
+    "i": 27154,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 5,
+    "t": "En op het uur dat men liggend rust, doet de slaap van de nacht slechts de zorgen variëren:"
+  },
+  {
+    "i": 27155,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 6,
+    "t": "nauwelijks heeft men rust gevonden of meteen, slapend, als in volle dag, is men geagiteerd door nachtmerries, als een voortvluchtige die aan het gevecht is ontsnapt."
+  },
+  {
+    "i": 27156,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 7,
+    "t": "Op het moment van de bevrijding ontwaakt men, verbaasd dat zijn vrees ijdel is."
+  },
+  {
+    "i": 27157,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 8,
+    "t": "Voor alle vlees, van de mens tot het beest, maar voor de zondaars, zevenvoudig,"
+  },
+  {
+    "i": 27158,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 9,
+    "t": "de dood, het bloed, de ruzie en het zwaard, ongelukken, hongersnood, beproeving, rampspoed!"
+  },
+  {
+    "i": 27159,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 10,
+    "t": "Dit alles is geschapen voor de zondaars, en het is vanwege hen dat de zondvloed kwam."
+  },
+  {
+    "i": 27160,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 11,
+    "t": "Alles wat van de aarde komt, keert terug naar de aarde, en wat van het water komt, keert terug naar de zee."
+  },
+  {
+    "i": 27161,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 12,
+    "t": "De steekpenningen en de onrechtvaardigheden zullen verdwijnen, maar de goede trouw zal eeuwig standhouden."
+  },
+  {
+    "i": 27162,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 13,
+    "t": "De slecht verkregen rijkdommen zullen vervliegen als een stroom, als de donderslag die barst tijdens de regenbui."
+  },
+  {
+    "i": 27163,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 14,
+    "t": "Wanneer hij zijn handen opent, verheugt hij zich, aldus zullen de zondaars naar de ondergang gaan."
+  },
+  {
+    "i": 27164,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 15,
+    "t": "De nakomelingen van de goddelozen zijn arm aan takken, de onreine wortels vinden slechts barre rots."
+  },
+  {
+    "i": 27165,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 16,
+    "t": "Het riet dat overvloedig is op alle wateren en op de oevers van de rivier, zal het eerst worden uitgerukt."
+  },
+  {
+    "i": 27166,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 17,
+    "t": "De liefde is als een paradijs van zegen en de aalmoes blijft voor altijd."
+  },
+  {
+    "i": 27167,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 18,
+    "t": "De onafhankelijke man en de arbeider hebben een aangenaam leven; nog beter af is hij die een schat vindt."
+  },
+  {
+    "i": 27168,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 19,
+    "t": "Kinderen en een gestichte stad bestendigen een naam; nog beter waardeert men een onberispelijke vrouw."
+  },
+  {
+    "i": 27169,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 20,
+    "t": "De wijn en de kunsten brengen vreugde in het hart; nog beter de liefde voor de wijsheid."
+  },
+  {
+    "i": 27170,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 21,
+    "t": "De fluit en de citer veraangenamen het lied; nog beter een melodieuze stem."
+  },
+  {
+    "i": 27171,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 22,
+    "t": "Genade en schoonheid, het oog begeert ze, nog beter de groenheid van de velden."
+  },
+  {
+    "i": 27172,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 23,
+    "t": "Vriend en kameraad ontmoeten elkaar op het juiste moment; nog beter de vrouw en de man."
+  },
+  {
+    "i": 27173,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 24,
+    "t": "Broers en beschermers zijn nuttig in de kwade dagen; nog beter de aalmoes haalt uit de problemen."
+  },
+  {
+    "i": 27174,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 25,
+    "t": "Het goud en het zilver maken de gang vast; nog beter acht men de raad."
+  },
+  {
+    "i": 27175,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 26,
+    "t": "De rijkdom en de kracht geven een zeker hart; nog beter de vrees voor de Heer. Met de vrees voor de Heer ontbreekt niets; met haar hoeft men geen steun te zoeken."
+  },
+  {
+    "i": 27176,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 27,
+    "t": "De vrees voor de Heer is een paradijs van zegen; beter dan alle glorie beschermt zij."
+  },
+  {
+    "i": 27177,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 28,
+    "t": "Mijn zoon, leef niet van bedelarij, beter te sterven dan te bedelen."
+  },
+  {
+    "i": 27178,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 29,
+    "t": "De man die loenst naar de tafel van anderen, zijn leven kan niet doorgaan voor een leven. Hij bezoedelt zijn keel met vreemde voedingsmiddelen, een geleerd en welopgevoed man zal zich ervoor hoeden."
+  },
+  {
+    "i": 27179,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 30,
+    "t": "In de mond van de brutale is de bedelarij zoet, maar in zijn ingewanden is het een brandend vuur."
+  },
+  {
+    "i": 27180,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 1,
+    "t": "O dood, hoe bitter is uw gedachte voor de mens die voorspoedig leeft en te midden van zijn goederen, voor de zorgeloze mens die in alles slaagt en nog van het voedsel kan genieten."
+  },
+  {
+    "i": 27181,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 2,
+    "t": "O dood, uw oordeel is welkom voor de ellendige mens, verstoken van zijn krachten, voor de oude man, versleten, gekweld door zorgen, opstandig en ten einde raad."
+  },
+  {
+    "i": 27182,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 3,
+    "t": "Vrees niet de beslissing des doods, gedenk hen die u voorgingen en hen die na u komen."
+  },
+  {
+    "i": 27183,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 4,
+    "t": "Dit is de wet die de Heer heeft ingesteld over alle vlees; waarom zou men zich verzetten tegen het welbehagen van de Allerhoogste? Leef gij tien jaar, honderd jaar, duizend jaar, in het dodenrijk zal men u uw leven niet verwijten."
+  },
+  {
+    "i": 27184,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 5,
+    "t": "Slechte kwajongens, dat zijn de zonen der zondaars, zij die de huizen der goddelozen bezoeken."
+  },
+  {
+    "i": 27185,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 6,
+    "t": "De erfenis der zonen der zondaars gaat ten onder, hun nageslacht is een voortdurende smaad."
+  },
+  {
+    "i": 27186,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 7,
+    "t": "Een goddeloze vader wordt door zijn kinderen beledigd, want van hem hebben zij de schande ontvangen."
+  },
+  {
+    "i": 27187,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 8,
+    "t": "Wee u, goddelozen, die de wet van de Allerhoogste God hebt verlaten."
+  },
+  {
+    "i": 27188,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 9,
+    "t": "Als gij u vermenigvuldigt, is het tot verderf; als gij wordt verwekt, zult gij het zijn tot vervloeking; en als gij sterft, zal de vervloeking uw deel zijn."
+  },
+  {
+    "i": 27189,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 10,
+    "t": "Al wat van de aarde komt, keert terug tot de aarde, zo gaan de goddelozen van de vervloeking naar het verderf."
+  },
+  {
+    "i": 27190,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 11,
+    "t": "De rouw der mensen is gericht op hun overblijfselen, maar de vervloekte naam der zondaars wordt uitgewist."
+  },
+  {
+    "i": 27191,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 12,
+    "t": "Wees bezorgd om uw naam, want die zal u beter beklijven dan duizend fortuinen in goud."
+  },
+  {
+    "i": 27192,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 13,
+    "t": "Een gelukkig leven duurt een zeker aantal dagen, maar een geëerde naam blijft voor eeuwig."
+  },
+  {
+    "i": 27193,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 14,
+    "t": "Mijn kinderen, bewaar in vrede mijn onderrichtingen. Verborgen wijsheid en onzichtbare schat, waartoe dienen zij beiden?"
+  },
+  {
+    "i": 27194,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 15,
+    "t": "Beter is een man die zijn dwaasheid verbergt dan een man die zijn wijsheid verbergt."
+  },
+  {
+    "i": 27195,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 16,
+    "t": "Schaam u dus voor wat ik nu ga zeggen, want het is niet goed om zich te schikken naar alle soorten schaamte en niet alles wordt door iedereen juist beoordeeld."
+  },
+  {
+    "i": 27196,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 17,
+    "t": "Schaam u voor losbandigheid voor een vader en een moeder en voor leugens voor een leider en een machtige;"
+  },
+  {
+    "i": 27197,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 18,
+    "t": "voor een misdrijf voor een rechter en een magistraat en voor goddeloosheid voor de vergadering van het volk; voor trouweloosheid voor een metgezel of een vriend"
+  },
+  {
+    "i": 27198,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 19,
+    "t": "en voor diefstal voor uw dorp; voor de waarheid van God en het verbond, voor het buigen van de ellebogen aan tafel, voor de affront bij het ontvangen of geven,"
+  },
+  {
+    "i": 27199,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 20,
+    "t": "voor het blijven zonder antwoord voor hen die u groeten, voor het vestigen van uw blik op een prostituee,"
+  }
+]

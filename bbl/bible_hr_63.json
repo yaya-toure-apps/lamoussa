@@ -1,0 +1,788 @@
+[
+  {
+    "i": 6300,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 8,
+    "t": "Tada se podigoše ti ljudi i otiđoše. A Jošua zapovjedi onima koji su išli da opišu zemlju, govoreći: \"Idite, prođite zemljom i opišite je, pa se vratite k meni, i ja ću baciti ždrijeb za vas ovdje, pred Jahvom, u Šilu.\""
+  },
+  {
+    "i": 6301,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 9,
+    "t": "I odoše ti ljudi, i prođoše zemljom, i opisaše je po gradovima, u sedam dijelova, na knjizi, pa se vratiše k Jošui u tabor u Šilu."
+  },
+  {
+    "i": 6302,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 10,
+    "t": "I Jošua baci ždrijeb za njih u Šilu pred Jahvom, i ondje Jošua razdijeli zemlju Izraelcima, po dijelovima njihovim."
+  },
+  {
+    "i": 6303,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 11,
+    "t": "Ždrijeb pade prvo na pleme sinova Benjaminovih, po njihovim rodovima; i područje ždrijeba njihova bijaše između sinova Judinih i sinova Josipovih."
+  },
+  {
+    "i": 6304,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 12,
+    "t": "Granica im sa sjeverne strane polazi od Jordana, uspinje se uz bok Jerihona, sa sjevera, penje se na goru prema zapadu i završava u pustinji Bet-Aven."
+  },
+  {
+    "i": 6305,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 13,
+    "t": "Odatle granica prelazi u Luz, uz bok Luzu na jugu, koji je danas Betel; zatim se spušta u Atrot-Adar na gori koja je južno od Donjeg Bet-Horona."
+  },
+  {
+    "i": 6306,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 14,
+    "t": "Granica se savija i okreće, gledajući prema zapadu, prema jugu, od gore koja je nasuprot Bet-Horonu na jugu, da bi završila prema Kirjat-Baalu, koji je danas Kirjat-Jearim, grad sinova Judinih. To bijaše strana zapadna."
+  },
+  {
+    "i": 6307,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 15,
+    "t": "A ovo je strana južna: od kraja Kirjat-Jearima granica ide prema Gasinu i završava blizu izvora voda Neftoah,"
+  },
+  {
+    "i": 6308,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 16,
+    "t": "potom se spušta do kraja gore koja gleda na dolinu Ben-Hinom, u ravnici Refajimskoj na sjeveru; spušta se u dolinu Hinom prema boku Jebusejaca na jugu, i spušta se k En-Rogelu."
+  },
+  {
+    "i": 6309,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 17,
+    "t": "Odatle se savija prema sjeveru da bi završila kod En-Šemeša, i završava kod kruga kamenja koji je nasuprot usponu Adumimskom, potom se spušta do Kamena Bohanova, sina Rubenova."
+  },
+  {
+    "i": 6310,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 18,
+    "t": "Zatim prelazi u Ketef uz bok Bet-ha-Arabe prema sjeveru, i spušta se prema Arabi;"
+  },
+  {
+    "i": 6311,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 19,
+    "t": "potom granica prelazi uz bok Bet-Hogle na sjeveru, i krajnja točka granice bijaše uvala Slanoga mora, na sjeveru, na južnom kraju Jordana. To bijaše granica južna."
+  },
+  {
+    "i": 6312,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 20,
+    "t": "Jordan je tvorio granicu sa strane istoka. To bijaše baština sinova Benjaminovih, po obodu granice njihove, po rodovima njihovim."
+  },
+  {
+    "i": 6313,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 21,
+    "t": "Gradovi plemena sinova Benjaminovih, po rodovima njihovim, bijahu: Jerihon, Bet-Hogla, Emek-Keziz,"
+  },
+  {
+    "i": 6314,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 22,
+    "t": "Bet-ha-Araba, Zemarajim, Betel,"
+  },
+  { "i": 6315, "b": 5, "c": 618, "r": 618, "o": 23, "t": "Avim, Para, Ofra," },
+  {
+    "i": 6316,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 24,
+    "t": "Kephar-ha-Amoni, Ofni, Gaba: dvanaest gradova s selima njihovim."
+  },
+  {
+    "i": 6317,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 25,
+    "t": "Gabaon, Rama, Beerot,"
+  },
+  {
+    "i": 6318,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 26,
+    "t": "Micpe, Kefira, Moca,"
+  },
+  {
+    "i": 6319,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 27,
+    "t": "Rekem, Jirpeel, Tareala,"
+  },
+  {
+    "i": 6320,
+    "b": 5,
+    "c": 618,
+    "r": 618,
+    "o": 28,
+    "t": "Zela-ha-Elef, Jebusejac - to je Jeruzalem -, Giba i Kirjat: četrnaest gradova sa selima njihovim. To bijaše baština sinova Benjaminovih, po rodovima njihovim."
+  },
+  {
+    "i": 6321,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 1,
+    "t": "Drugi ždrijeb izađe za Šimuna, za pleme sinova Šimunovih, po rodovima njihovim; baština im se nađe usred baštine sinova Judinih."
+  },
+  {
+    "i": 6322,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 2,
+    "t": "U baštinu primiše Beer-Šebu, Šemu, Moladu,"
+  },
+  {
+    "i": 6323,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 3,
+    "t": "Hazar-Šual, Balu, Ecem,"
+  },
+  {
+    "i": 6324,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 4,
+    "t": "Eltolad, Betul, Hormu,"
+  },
+  {
+    "i": 6325,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 5,
+    "t": "Ziklag, Bet-ha-Markabot, Hazar-Susu,"
+  },
+  {
+    "i": 6326,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 6,
+    "t": "Bet-Lebaot i Šaruken: trinaest gradova s selima njihovim;"
+  },
+  {
+    "i": 6327,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 7,
+    "t": "Ajin, Rimon, Eter, Ašan: četiri grada s selima njihovim,"
+  },
+  {
+    "i": 6328,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 8,
+    "t": "sa svim selima smještenim u okolici tih gradova sve do Baalat-Beera i Rame Negevske. To bijaše baština plemena sinova Šimunovih, po rodovima njihovim."
+  },
+  {
+    "i": 6329,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 9,
+    "t": "Baština sinova Šimunovih uzeta je s udjela sinova Judinih, jer udio sinova Judinih bijaše prevelik za njih; stoga sinovi Šimunovi primiše svoju baštinu usred baštine sinova Judinih."
+  },
+  {
+    "i": 6330,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 10,
+    "t": "Treći ždrijeb dopade sinovima Zebulunovim, po rodovima njihovim; područje njihove baštine protezalo se do Saduda;"
+  },
+  {
+    "i": 6331,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 11,
+    "t": "granica im se uspinje na zapad prema Maraali, doticala je Dabešet kao i potok koji je nasuprot Jokneamu."
+  },
+  {
+    "i": 6332,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 12,
+    "t": "Granica se okreće od Saduda prema istoku, tamo gdje sunce izlazi, sve do granice Kislot-Tabora, završava prema Daberatu i uspinje se u Jafiju."
+  },
+  {
+    "i": 6333,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 13,
+    "t": "Odatle prolazi prema istoku, na istok, prema Gat-Heferu i Ita-Kazinu, završava u Rimonu i okreće se prema Nei."
+  },
+  {
+    "i": 6334,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 14,
+    "t": "Granica sjeverna okreće se prema Hanatonu, a njezina krajnja točka bijaše dolina Jiftah-El;"
+  },
+  {
+    "i": 6335,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 15,
+    "t": "s Katatom, Nahalalom, Šimronom, Jirealom i Betlehemom: dvanaest gradova s selima njihovim."
+  },
+  {
+    "i": 6336,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 16,
+    "t": "To bijaše baština sinova Zebulunovih, po rodovima njihovim: ti gradovi sa selima njihovim."
+  },
+  {
+    "i": 6337,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 17,
+    "t": "Četvrti ždrijeb izađe za Isakara, za sinove Isakarove, po rodovima njihovim."
+  },
+  {
+    "i": 6338,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 18,
+    "t": "Njihovo područje protezalo se prema Jizreelu i obuhvaćalo Kesulot, Šunem,"
+  },
+  {
+    "i": 6339,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 19,
+    "t": "Hafarajim, Šion, Anaharat,"
+  },
+  {
+    "i": 6340,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 20,
+    "t": "Daberat, Kišion, Ebec,"
+  },
+  {
+    "i": 6341,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 21,
+    "t": "Remet, En-Ganim, En-Hada i Bet-Pazeš."
+  },
+  {
+    "i": 6342,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 22,
+    "t": "Granica je doticala Tabor, Šahazimu i Bet-Šemeš, a krajnja točka granice bijaše Jordan: šesnaest gradova s selima njihovim."
+  },
+  {
+    "i": 6343,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 23,
+    "t": "To bijaše baština plemena sinova Isakarovih, po rodovima njihovim: gradovi i sela njihova."
+  },
+  {
+    "i": 6344,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 24,
+    "t": "Peti ždrijeb izađe za pleme sinova Ašerovih, po rodovima njihovim."
+  },
+  {
+    "i": 6345,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 25,
+    "t": "Njihovo područje obuhvaćalo je: Helkat, Hali, Beten, Akšaf,"
+  },
+  {
+    "i": 6346,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 26,
+    "t": "Alamelek, Amead i Mišal; doticalo je Karmel na zapadu i tok Libnata."
+  },
+  {
+    "i": 6347,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 27,
+    "t": "Sa strane gdje sunce izlazi, išao je do Bet-Dagona, doticao Zebulun, dolinu Jiftah-El na sjeveru, Bet-ha-Emek i Neiel, završavajući prema Kabulu na lijevo,"
+  },
+  {
+    "i": 6348,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 28,
+    "t": "s Abdonom, Rehobom, Hamonom i Kanom sve do Velikog Sidona. Potom granica ide prema Rami i sve do grada tvrđave Tira;"
+  },
+  {
+    "i": 6349,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 29,
+    "t": "granica je zatim išla u Hosu, a njezina krajnja točka bijaše, na moru, Mahalab i Akzib,"
+  },
+  {
+    "i": 6350,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 30,
+    "t": "s Akkom, Afekom i Rehobom: dvadeset i dva grada sa selima njihovim."
+  },
+  {
+    "i": 6351,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 31,
+    "t": "To bijaše baština plemena sinova Ašerovih, po rodovima njihovim: ti gradovi i sela njihova."
+  },
+  {
+    "i": 6352,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 32,
+    "t": "Za sinove Naftalijeve izađe šesti ždrijeb, za sinove Naftalijeve, po rodovima njihovim."
+  },
+  {
+    "i": 6353,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 33,
+    "t": "Njihova granica išla je u Helef i od Hrasta Kanaanima, s Adami-ha-Nekebom i Jabneelom, sve do Lakuma, i krajnja točka joj bijaše Jordan."
+  },
+  {
+    "i": 6354,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 34,
+    "t": "Na zapadu je granica prelazila u Aznot-Tabor, odatle je završavala u Hukoku i doticala Zebulun na jugu, Ašera na zapadu i Jordan na istoku."
+  },
+  {
+    "i": 6355,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 35,
+    "t": "Gradovi utvrđeni bijahu: Sidim, Zer, Hamat, Rakat, Kineret,"
+  },
+  {
+    "i": 6356,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 36,
+    "t": "Adama, Rama, Hazor,"
+  },
+  {
+    "i": 6357,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 37,
+    "t": "Kedeš, Edreji, En-Hazor,"
+  },
+  {
+    "i": 6358,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 38,
+    "t": "Jireon, Migdal-El, Horem, Bet-Anat i Bet-Šemeš: devetnaest gradova sa selima njihovim."
+  },
+  {
+    "i": 6359,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 39,
+    "t": "To bijaše baština sinova Naftalijevih, po rodovima njihovim: gradovi i sela njihova."
+  },
+  {
+    "i": 6360,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 40,
+    "t": "Za pleme sinova Danovih, po rodovima njihovim, izađe sedmi ždrijeb."
+  },
+  {
+    "i": 6361,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 41,
+    "t": "Područje njihove baštine obuhvaćalo je: Koreu, Eštaol, Ir-Šemeš,"
+  },
+  {
+    "i": 6362,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 42,
+    "t": "Šaalbim, Ajalon, Silatu,"
+  },
+  {
+    "i": 6363,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 43,
+    "t": "Elon, Timnu, Ekron,"
+  },
+  {
+    "i": 6364,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 44,
+    "t": "Elteke, Gibeton, Baalat,"
+  },
+  {
+    "i": 6365,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 45,
+    "t": "Azor, Bene-Berak i Gat-Rimon;"
+  },
+  {
+    "i": 6366,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 46,
+    "t": "i prema moru Jerakon s područjem koje je nasuprot Jope."
+  },
+  {
+    "i": 6367,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 47,
+    "t": "Ali područje sinova Danovih izmakne im, stoga sinovi Danovi uziđoše da se bore s Lešemom, kojega osvojiše i pogubiše mačem. Uzevši ga u posjed, naseliše se u njemu i nazvaše Lešem, Dan, po imenu pretka svojega Dana."
+  },
+  {
+    "i": 6368,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 48,
+    "t": "To bijaše baština plemena sinova Danovih, po rodovima njihovim: ti gradovi i sela njihova."
+  },
+  {
+    "i": 6369,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 49,
+    "t": "Dovršivši raspodjelu zemlje po granicama njezinim, Izraelci dadoše Jošui, sinu Nunovu, baštinu usred njih;"
+  },
+  {
+    "i": 6370,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 50,
+    "t": "po zapovijedi Jahvinoj, dadoše mu grad koji je zatražio, Timnat-Serah, u gori Efrajimovoj; on obnovi grad i nastani se u njemu."
+  },
+  {
+    "i": 6371,
+    "b": 5,
+    "c": 619,
+    "r": 619,
+    "o": 51,
+    "t": "To su dijelovi baštine koju svećenik Eleazar, Jošua, sin Nunov, i poglavari obitelji podijeliše ždrijebom među plemena Izraelova u Šilu, pred Jahvom, na ulazu u Šator sastanka. Tako je dovršena podjela zemlje."
+  },
+  { "i": 6372, "b": 5, "c": 620, "r": 620, "o": 1, "t": "Jahve reče Jošui:" },
+  {
+    "i": 6373,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 2,
+    "t": "\"Govori Izraelcima i reci im: Dajte sebi gradove utočišta o kojima sam vam govorio po Mojsiju,"
+  },
+  {
+    "i": 6374,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 3,
+    "t": "gdje se može uteći ubojica koji je udario koga nenamjerno (nehotice), i koji će vam služiti kao utočište protiv osvetnika krvi."
+  },
+  {
+    "i": 6375,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 4,
+    "t": "(Stoga se u jedan od tih gradova mora uteći ubojica. On će stajati na ulazu vrata grada i iznijeti svoj slučaj starješinama grada. Oni će ga primiti u svoj grad i odrediti mu mjesto gdje će stanovati među njima."
+  },
+  {
+    "i": 6376,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 5,
+    "t": "Ako ga osvetnik krvi progoni, oni neće izručiti ubojicu u njegove ruke, jer je nenamjerno udario bližnjega svoga, bez da je imao protiv njega usađenu mržnju."
+  },
+  {
+    "i": 6377,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 6,
+    "t": "On mora ostati u tom gradu) dok se ne pojavi na sudu pred zajednicom (sve do smrti velikog svećenika koji je bio na službi u to vrijeme. Tada se tek ubojica može vratiti u svoj grad i svoju kuću, u grad iz kojega je pobjegao.)\""
+  },
+  {
+    "i": 6378,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 7,
+    "t": "Posvetiše dakle Kedeš u Galileji, u gori Naftalijevoj, Sihem u gori Efrajimovoj, i Kirjat-Arbu - to je Hebron - u gori Judinoj."
+  },
+  {
+    "i": 6379,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 8,
+    "t": "S druge strane Jordana kod Jerihona na istoku, odrediše u pustinji, na visoravni, Beser od plemena Rubenova, Ramot u Gileadu, od plemena Gadova, i Golan u Bašanu, od plemena Manašeova."
+  },
+  {
+    "i": 6380,
+    "b": 5,
+    "c": 620,
+    "r": 620,
+    "o": 9,
+    "t": "To su gradovi određeni za sve Izraelce i za strance koji prebivaju među njima, da se u njih može uteći svatko tko je udario koga nenamjerno, i da izbjegne ruci osvetnika krvi, sve dok ne izađe pred zajednicu."
+  },
+  {
+    "i": 6381,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 1,
+    "t": "Tada dođoše poglavari obitelji Levita k svećeniku Eleazaru, Jošui, sinu Nunovu, i poglavarima obitelji plemena Izraelovih,"
+  },
+  {
+    "i": 6382,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 2,
+    "t": "dok su bili u Šilu, u zemlji Kanaanskoj, i rekoše im: \"Jahve je, po Mojsiju, zapovjedio da nam se daju gradovi da u njima prebivamo, i njihove pašnjake za našu stoku.\""
+  },
+  {
+    "i": 6383,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 3,
+    "t": "I Izraelci dadoše Levitima, od svoje baštine, po zapovijedi Jahvinoj, gradove o kojima je riječ s njihovim pašnjacima."
+  },
+  {
+    "i": 6384,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 4,
+    "t": "Bacali su ždrijeb za rodove Kehatita: sinovima svećenika Arona, od Levita, dopade trinaest gradova od plemena Judina, Šimunova i Benjaminova;"
+  },
+  {
+    "i": 6385,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 5,
+    "t": "ostalim sinovima Kehatovim, po rodovima njihovim, dopade deset gradova od plemena Efrajimova, Danova i polovice plemena Manašeova."
+  },
+  {
+    "i": 6386,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 6,
+    "t": "Sinovima Geršonovim, po rodovima njihovim, dopade trinaest gradova od plemena Isakarova, Ašerova, Naftalijeva i polovice plemena Manašeova u Bašanu."
+  },
+  {
+    "i": 6387,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 7,
+    "t": "Sinovima Merarijevim, po rodovima njihovim, dopade dvanaest gradova od plemena Rubenova, Gadova i Zebulunova."
+  },
+  {
+    "i": 6388,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 8,
+    "t": "Izraelci dodijeliše ždrijebom te gradove i njihove pašnjake Levitima, kako je Jahve zapovjedio po Mojsiju."
+  },
+  {
+    "i": 6389,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 9,
+    "t": "Dadoše od plemena sinova Judinih i od plemena sinova Šimunovih ove gradove čija su imena navedena."
+  },
+  {
+    "i": 6390,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 10,
+    "t": "To bijaše najprije dio sinova Aronovih, pripadnika roda Kehatita, sinovima Levijevim, jer prvi ždrijeb bijaše za njih."
+  },
+  {
+    "i": 6391,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 11,
+    "t": "Dadoše im Kirjat-Arbu, grad oca Anakova - to je Hebron - u gori Judinoj, s pašnjacima okolnim."
+  },
+  {
+    "i": 6392,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 12,
+    "t": "Ali polja toga grada sa selima njegovim, dadoše u posjed Kalebu, sinu Jefuneovu."
+  },
+  {
+    "i": 6393,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 13,
+    "t": "Sinovima svećenika Arona dadoše Hebron, grad utočište za ubojicu, s njegovim pašnjacima, kao i Libnu i njezine pašnjake,"
+  },
+  {
+    "i": 6394,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 14,
+    "t": "Jatir i njegove pašnjake, Eštemou i njezine pašnjake,"
+  },
+  {
+    "i": 6395,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 15,
+    "t": "Holon i njegove pašnjake, Debir i njegove pašnjake,"
+  },
+  {
+    "i": 6396,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 16,
+    "t": "Ašan i njegove pašnjake, Jutu i njezine pašnjake, i Bet-Šemeš i njegove pašnjake: devet gradova uzetih od ta dva plemena."
+  },
+  {
+    "i": 6397,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 17,
+    "t": "Od plemena Benjaminova, Gabaon i njegove pašnjake, Gebu i njezine pašnjake,"
+  },
+  {
+    "i": 6398,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 18,
+    "t": "Anatot i njegove pašnjake, i Almon i njegove pašnjake: četiri grada."
+  },
+  {
+    "i": 6399,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 19,
+    "t": "Ukupno gradova svećenika sinova Aronovih: trinaest gradova i njihovi pašnjaci."
+  }
+]

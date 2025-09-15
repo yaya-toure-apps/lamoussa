@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2200,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 6,
+    "t": "Dầu thắp đèn, các hương liệu dùng xức dầu thánh và xông hương thơm;"
+  },
+  {
+    "i": 2201,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 7,
+    "t": "Các viên mã não và các viên ngọc để nạm vào áo ê-phót và áo giáp."
+  },
+  {
+    "i": 2202,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 8,
+    "t": "Hãy dựng cho ta một nơi thánh, để ta ngự giữa họ."
+  },
+  {
+    "i": 2203,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 9,
+    "t": "Ngươi hãy làm mọi sự theo kiểu mẫu của đền tạm và kiểu mẫu các đồ đạc của đền tạm mà ta sẽ chỉ cho ngươi."
+  },
+  {
+    "i": 2204,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 10,
+    "t": "\"Ngươi sẽ dùng gỗ si-tim đóng một hòm giao ước dài hai thước rưỡi, rộng một thước rưỡi và cao một thước rưỡi."
+  },
+  {
+    "i": 2205,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 11,
+    "t": "Ngươi sẽ bọc vàng ròng cả trong lẫn ngoài, và làm một đường viền bằng vàng chạy chung quanh."
+  },
+  {
+    "i": 2206,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 12,
+    "t": "Ngươi sẽ đúc bốn khoen bằng vàng, và gắn vào bốn chân hòm: hai khoen ở bên này và hai khoen ở bên kia."
+  },
+  {
+    "i": 2207,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 13,
+    "t": "Ngươi cũng sẽ làm những đòn khiêng bằng gỗ si-tim; rồi bọc vàng,"
+  },
+  {
+    "i": 2208,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 14,
+    "t": "và xỏ các đòn khiêng vào các khoen gắn ở hai bên hòm để khiêng hòm."
+  },
+  {
+    "i": 2209,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 15,
+    "t": "Các đòn khiêng phải ở luôn trong khoen của hòm, không được tháo ra."
+  },
+  {
+    "i": 2210,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 16,
+    "t": "Ngươi sẽ để vào hòm bảng chứng mà ta sẽ ban cho ngươi."
+  },
+  {
+    "i": 2211,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 17,
+    "t": "Ngươi cũng sẽ làm một nắp thi ân bằng vàng ròng, dài hai thước rưỡi và rộng một thước rưỡi."
+  },
+  {
+    "i": 2212,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 18,
+    "t": "Ngươi sẽ làm hai tượng chê-ru-bin bằng vàng giát mỏng, đặt ở hai đầu nắp thi ân."
+  },
+  {
+    "i": 2213,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 19,
+    "t": "Hãy làm một tượng chê-ru-bin ở đầu này và một tượng chê-ru-bin ở đầu kia: ngươi sẽ làm các tượng chê-ru-bin thành một khối với nắp thi ân, ở hai đầu của nó."
+  },
+  {
+    "i": 2214,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 20,
+    "t": "Các tượng chê-ru-bin sẽ dang cánh lên trên, che phủ nắp thi ân bằng đôi cánh của mình, và mặt đối nhau. Mặt của các tượng chê-ru-bin sẽ hướng về nắp thi ân."
+  },
+  {
+    "i": 2215,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 21,
+    "t": "Ngươi sẽ đặt nắp thi ân lên trên hòm, và để vào hòm bảng chứng mà ta sẽ ban cho ngươi."
+  },
+  {
+    "i": 2216,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 22,
+    "t": "Tại đó, ta sẽ gặp ngươi. Từ trên nắp thi ân, giữa hai tượng chê-ru-bin trên hòm bảng chứng, ta sẽ ban mọi mệnh lệnh cho dân Y-sơ-ra-ên."
+  },
+  {
+    "i": 2217,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 23,
+    "t": "\"Ngươi sẽ làm một cái bàn bằng gỗ si-tim, dài hai thước, rộng một thước và cao một thước rưỡi."
+  },
+  {
+    "i": 2218,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 24,
+    "t": "Ngươi sẽ bọc vàng ròng, và làm một đường viền bằng vàng chạy chung quanh."
+  },
+  {
+    "i": 2219,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 25,
+    "t": "Chung quanh, ngươi sẽ làm các gờ rộng một gang tay, và làm một đường viền bằng vàng chung quanh các gờ."
+  },
+  {
+    "i": 2220,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 26,
+    "t": "Ngươi sẽ làm bốn khoen bằng vàng, và gắn vào bốn góc, nơi có bốn chân bàn."
+  },
+  {
+    "i": 2221,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 27,
+    "t": "Các khoen sẽ đặt gần các gờ để xỏ các đòn khiêng bàn."
+  },
+  {
+    "i": 2222,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 28,
+    "t": "Ngươi sẽ làm các đòn khiêng bằng gỗ si-tim và bọc vàng; dùng để khiêng bàn."
+  },
+  {
+    "i": 2223,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 29,
+    "t": "Ngươi sẽ làm các đĩa, các chén, các bình và các bát dùng để tưới tế lễ; ngươi sẽ làm chúng bằng vàng ròng,"
+  },
+  {
+    "i": 2224,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 30,
+    "t": "và luôn đặt bánh trần thiết trước mặt ta trên bàn."
+  },
+  {
+    "i": 2225,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 31,
+    "t": "Ngươi sẽ làm một chân đèn bằng vàng ròng; chân đèn, đế và thân đèn sẽ được giát mỏng; các đài, nụ và hoa sẽ dính liền với chân đèn."
+  },
+  {
+    "i": 2226,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 32,
+    "t": "Sáu nhánh sẽ tỏa ra từ hai bên: ba nhánh chân đèn ở một bên, ba nhánh chân đèn ở bên kia."
+  },
+  {
+    "i": 2227,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 33,
+    "t": "Nhánh thứ nhất sẽ có ba đài hình hoa hạnh nhân, với nụ và hoa; nhánh thứ nhì cũng có ba đài hình hoa hạnh nhân, với nụ và hoa; các nhánh tỏa ra từ chân đèn đều như vậy."
+  },
+  {
+    "i": 2228,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 34,
+    "t": "Trên thân chân đèn sẽ có bốn đài hình hoa hạnh nhân, với nụ và hoa:"
+  },
+  {
+    "i": 2229,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 35,
+    "t": "một nụ bên dưới hai nhánh đầu tỏa ra từ chân đèn, một nụ bên dưới hai nhánh kế tiếp và một nụ bên dưới hai nhánh cuối cùng, tức là dưới sáu nhánh tỏa ra từ chân đèn."
+  },
+  {
+    "i": 2230,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 36,
+    "t": "Các nụ và các nhánh phải dính liền với chân đèn và tất cả được làm thành một khối bằng vàng ròng giát mỏng."
+  },
+  {
+    "i": 2231,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 37,
+    "t": "Rồi ngươi sẽ làm bảy cái đèn. Người ta sẽ thắp các đèn ấy để chiếu sáng phía trước chân đèn."
+  },
+  {
+    "i": 2232,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 38,
+    "t": "Đồ gắp tàn và khay đựng tàn của chân đèn sẽ bằng vàng ròng."
+  },
+  {
+    "i": 2233,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 39,
+    "t": "Ngươi sẽ làm chân đèn, cùng với mọi phụ tùng, bằng một ta-lâng vàng ròng."
+  },
+  {
+    "i": 2234,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 40,
+    "t": "Hãy xem và làm theo kiểu mẫu đã chỉ cho ngươi trên núi."
+  },
+  {
+    "i": 2235,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 1,
+    "t": "\"Còn về đền tạm, ngươi sẽ làm mười tấm màn bằng vải gai mịn se, bằng phẩm màu xanh dương, màu tía và màu đỏ điều. Ngươi sẽ thêu các tượng chê-ru-bin lên đó."
+  },
+  {
+    "i": 2236,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 2,
+    "t": "Mỗi tấm màn dài hai mươi tám thước, rộng bốn thước, và tất cả các tấm màn phải có cùng kích thước."
+  },
+  {
+    "i": 2237,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 3,
+    "t": "Năm tấm màn sẽ ráp lại thành một bộ, và năm tấm màn kia sẽ ráp lại thành một bộ."
+  },
+  {
+    "i": 2238,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 4,
+    "t": "Ngươi sẽ làm các vòng bằng phẩm màu xanh dương trên mép tấm màn đầu tiên của bộ thứ nhất, và làm như vậy trên mép tấm màn cuối cùng của bộ thứ nhì."
+  },
+  {
+    "i": 2239,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 5,
+    "t": "Ngươi sẽ làm năm mươi vòng trên tấm màn đầu tiên, và năm mươi vòng trên mép tấm màn cuối cùng của bộ thứ nhì, các vòng phải đối nhau."
+  },
+  {
+    "i": 2240,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 6,
+    "t": "Ngươi cũng sẽ làm năm mươi cái móc bằng vàng, và dùng các móc ấy để ráp các tấm màn lại với nhau. Như vậy, đền tạm sẽ là một khối duy nhất."
+  },
+  {
+    "i": 2241,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 7,
+    "t": "Ngươi sẽ làm các tấm màn bằng lông dê để làm lều che phủ đền tạm. Ngươi sẽ làm mười một tấm."
+  },
+  {
+    "i": 2242,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 8,
+    "t": "Mỗi tấm màn dài ba mươi thước và rộng bốn thước; mười một tấm màn phải có cùng kích thước."
+  },
+  {
+    "i": 2243,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 9,
+    "t": "Ngươi sẽ ráp năm tấm màn thành một bộ và sáu tấm màn thành một bộ, rồi trùm tấm thứ sáu lên phía trước lều."
+  },
+  {
+    "i": 2244,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 10,
+    "t": "Ngươi sẽ làm năm mươi vòng trên mép tấm màn đầu tiên của bộ thứ nhất, và năm mươi vòng trên mép tấm màn cuối cùng của bộ thứ nhì."
+  },
+  {
+    "i": 2245,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 11,
+    "t": "Ngươi sẽ làm năm mươi cái móc bằng đồng, và xỏ các móc vào các vòng để ráp lều lại thành một khối duy nhất."
+  },
+  {
+    "i": 2246,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 12,
+    "t": "Phần dư của các tấm màn, tức là nửa tấm màn dư, sẽ buông xuống phía sau đền tạm."
+  },
+  {
+    "i": 2247,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 13,
+    "t": "Mỗi bên một thước dư ra dọc theo chiều dài các tấm màn, sẽ buông xuống hai bên đền tạm để che phủ."
+  },
+  {
+    "i": 2248,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 14,
+    "t": "Ngươi sẽ làm cho lều một lớp bọc bằng da chiên đực nhuộm đỏ, và một lớp bọc bằng da cá nược ở bên trên."
+  },
+  {
+    "i": 2249,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 15,
+    "t": "\"Ngươi sẽ làm các tấm ván bằng gỗ si-tim cho đền tạm, dựng đứng."
+  },
+  {
+    "i": 2250,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 16,
+    "t": "Mỗi tấm ván dài mười thước và rộng một thước rưỡi."
+  },
+  {
+    "i": 2251,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 17,
+    "t": "Mỗi tấm ván sẽ có hai mộng song song; ngươi sẽ làm như vậy cho tất cả các tấm ván của đền tạm."
+  },
+  {
+    "i": 2252,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 18,
+    "t": "Ngươi sẽ làm các tấm ván để dựng đền tạm: hai mươi tấm ván cho phía nam, hướng về phía nam."
+  },
+  {
+    "i": 2253,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 19,
+    "t": "Ngươi sẽ làm bốn mươi cái đế bạc dưới hai mươi tấm ván: hai đế dưới một tấm ván cho hai mộng của nó, hai đế dưới một tấm ván khác cho hai mộng của nó."
+  },
+  {
+    "i": 2254,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 20,
+    "t": "Về phía kia của đền tạm, phía bắc, sẽ có hai mươi tấm ván,"
+  },
+  {
+    "i": 2255,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 21,
+    "t": "và bốn mươi đế bạc: hai đế dưới một tấm ván, hai đế dưới một tấm ván khác."
+  },
+  {
+    "i": 2256,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 22,
+    "t": "Về phía sau đền tạm, hướng về phía tây, ngươi sẽ làm sáu tấm ván,"
+  },
+  {
+    "i": 2257,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 23,
+    "t": "và làm hai tấm ván cho hai góc phía sau đền tạm."
+  },
+  {
+    "i": 2258,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 24,
+    "t": "Các ván sẽ được ghép đôi với nhau từ dưới lên đến đỉnh, đến vòng đầu tiên. Ngươi sẽ làm như vậy cho cả hai ván ở hai góc."
+  },
+  {
+    "i": 2259,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 25,
+    "t": "Như vậy, sẽ có tám tấm ván, với các đế bạc của chúng, tổng cộng là mười sáu đế: hai đế dưới tấm ván thứ nhất, hai đế dưới tấm ván khác."
+  },
+  {
+    "i": 2260,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 26,
+    "t": "Ngươi sẽ làm các thanh ngang bằng gỗ si-tim: năm thanh cho các tấm ván ở một bên đền tạm,"
+  },
+  {
+    "i": 2261,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 27,
+    "t": "năm thanh cho các tấm ván ở bên kia đền tạm, và năm thanh cho các tấm ván ở phía sau đền tạm, hướng về phía tây."
+  },
+  {
+    "i": 2262,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 28,
+    "t": "Thanh ngang ở giữa, đặt ở chính giữa, sẽ xuyên suốt các tấm ván từ đầu này đến đầu kia."
+  },
+  {
+    "i": 2263,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 29,
+    "t": "Ngươi sẽ bọc vàng các tấm ván, làm các khoen bằng vàng để xỏ các thanh ngang vào, và bọc vàng các thanh ngang."
+  },
+  {
+    "i": 2264,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 30,
+    "t": "Như vậy, ngươi sẽ dựng đền tạm theo kiểu mẫu đã chỉ cho ngươi trên núi."
+  },
+  {
+    "i": 2265,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 31,
+    "t": "\"Ngươi sẽ làm một cái màn bằng phẩm màu xanh dương, màu tía, màu đỏ điều và vải gai mịn se, thêu các tượng chê-ru-bin."
+  },
+  {
+    "i": 2266,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 32,
+    "t": "Ngươi sẽ treo màn lên bốn trụ bằng gỗ si-tim bọc vàng, có các móc bằng vàng, đặt trên bốn đế bạc."
+  },
+  {
+    "i": 2267,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 33,
+    "t": "Ngươi sẽ treo màn bên dưới các móc, rồi đưa hòm bảng chứng vào bên trong, phía sau màn, và màn sẽ phân cách nơi thánh với nơi chí thánh."
+  },
+  {
+    "i": 2268,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 34,
+    "t": "Ngươi sẽ đặt nắp thi ân trên hòm bảng chứng, trong nơi chí thánh."
+  },
+  {
+    "i": 2269,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 35,
+    "t": "Ngươi sẽ đặt bàn ở bên ngoài màn, và chân đèn đối diện với bàn, ở phía nam đền tạm, và đặt bàn ở phía bắc."
+  },
+  {
+    "i": 2270,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 36,
+    "t": "Ngươi sẽ làm một bức trướng thêu bằng phẩm màu xanh dương, màu tía, màu đỏ điều và vải gai mịn se cho cửa lều."
+  },
+  {
+    "i": 2271,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 37,
+    "t": "Ngươi sẽ làm năm trụ bằng gỗ si-tim cho bức trướng ấy và bọc vàng chúng; các móc của chúng sẽ bằng vàng, và ngươi sẽ đúc cho chúng năm đế bằng đồng."
+  },
+  {
+    "i": 2272,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 1,
+    "t": "\"Ngươi sẽ làm bàn thờ bằng gỗ si-tim; bàn thờ vuông vức, dài năm thước và rộng năm thước; cao ba thước."
+  },
+  {
+    "i": 2273,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 2,
+    "t": "Ngươi sẽ làm sừng trên bốn góc của nó, các sừng dính liền với bàn thờ, và bọc đồng bàn thờ."
+  },
+  {
+    "i": 2274,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 3,
+    "t": "Ngươi sẽ làm các đồ đựng tro mỡ, các xẻng, các bát rưới huyết, các nĩa và các lư hương. Tất cả các đồ dùng của bàn thờ, ngươi sẽ làm bằng đồng."
+  },
+  {
+    "i": 2275,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 4,
+    "t": "Ngươi sẽ làm cho bàn thờ một cái vỉ lưới bằng đồng, và làm bốn khoen đồng vào bốn góc của vỉ."
+  },
+  {
+    "i": 2276,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 5,
+    "t": "Ngươi sẽ đặt vỉ dưới gờ của bàn thờ, bên dưới, sao cho nó ở giữa chiều cao của bàn thờ."
+  },
+  {
+    "i": 2277,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 6,
+    "t": "Ngươi sẽ làm các đòn khiêng cho bàn thờ, các đòn khiêng bằng gỗ si-tim, và bọc đồng chúng."
+  },
+  {
+    "i": 2278,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 7,
+    "t": "Người ta sẽ xỏ các đòn khiêng vào các khoen, để các đòn khiêng ở hai bên bàn thờ khi khiêng nó."
+  },
+  {
+    "i": 2279,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 8,
+    "t": "Ngươi sẽ làm bàn thờ rỗng ruột, bằng ván; ngươi sẽ làm nó giống như đã chỉ cho ngươi trên núi.e"
+  },
+  {
+    "i": 2280,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 9,
+    "t": "\"Ngươi sẽ làm hành lang của đền tạm. Về phía nam, hướng về phía nam, các bức màn của hành lang, bằng vải gai mịn se, sẽ dài một trăm thước (cho một bên)."
+  },
+  {
+    "i": 2281,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 10,
+    "t": "Hai mươi trụ và hai mươi đế của chúng sẽ bằng đồng; các móc của các trụ và các thanh nối của chúng bằng bạc."
+  },
+  {
+    "i": 2282,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 11,
+    "t": "Cũng vậy, về phía bắc, ngươi sẽ làm các bức màn dài một trăm thước, hai mươi trụ và hai mươi đế của chúng sẽ bằng đồng; các móc của các trụ và các thanh nối của chúng bằng bạc."
+  },
+  {
+    "i": 2283,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 12,
+    "t": "Chiều rộng của hành lang, ở phía tây, sẽ có các bức màn dài năm mươi thước, với mười trụ và mười đế."
+  },
+  {
+    "i": 2284,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 13,
+    "t": "Chiều rộng của hành lang ở phía đông là năm mươi thước."
+  },
+  {
+    "i": 2285,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 14,
+    "t": "Mười lăm thước màn cho một bên cửa, với ba trụ và ba đế của chúng;"
+  },
+  {
+    "i": 2286,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 15,
+    "t": "cho bên kia cửa, mười lăm thước màn, với ba trụ và ba đế của chúng."
+  },
+  {
+    "i": 2287,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 16,
+    "t": "Ở cửa hành lang sẽ có một bức trướng dài hai mươi thước bằng vải thêu, bằng phẩm màu xanh dương, màu tía, màu đỏ điều và vải gai mịn se, với bốn trụ và bốn đế của chúng."
+  },
+  {
+    "i": 2288,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 17,
+    "t": "Tất cả các trụ chung quanh hành lang sẽ được nối với nhau bằng các thanh nối bằng bạc; các móc của chúng sẽ bằng bạc và các đế của chúng bằng đồng."
+  },
+  {
+    "i": 2289,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 18,
+    "t": "Chiều dài của hành lang sẽ là một trăm thước, chiều rộng là năm mươi thước và chiều cao là năm thước. Tất cả các bức màn sẽ bằng vải gai mịn se và các đế của chúng bằng đồng."
+  },
+  {
+    "i": 2290,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 19,
+    "t": "Tất cả các dụng cụ dùng vào việc thờ phượng trong đền tạm, tất cả các cọc và các cọc của hành lang sẽ bằng đồng."
+  },
+  {
+    "i": 2291,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 20,
+    "t": "\"Về phần ngươi, hãy truyền cho dân Y-sơ-ra-ên đem đến cho ngươi dầu ô-liu ép nguyên chất để thắp đèn, hầu cho ngọn đèn cháy sáng luôn luôn."
+  },
+  {
+    "i": 2292,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 21,
+    "t": "A-rôn và các con trai người sẽ đặt ngọn đèn ấy trong lều hội ngộ, bên ngoài màn che trước hòm bảng chứng, để nó cháy từ chiều tối đến sáng trước mặt Đức Giê-hô-va. Đó là một luật lệ đời đời cho các thế hệ của dân Y-sơ-ra-ên."
+  },
+  {
+    "i": 2293,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 1,
+    "t": "\"Về phần ngươi, hãy cho A-rôn anh ngươi và các con trai người, từ giữa dân Y-sơ-ra-ên, đến gần ngươi, để họ hành chức tế lễ cho ta: A-rôn, Na-đáp và A-bi-hu, Ê-lê-a-xa và Y-tha-ma, các con trai của A-rôn."
+  },
+  {
+    "i": 2294,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 2,
+    "t": "Ngươi sẽ làm cho A-rôn anh ngươi những áo thánh để tôn vinh và trang trọng người."
+  },
+  {
+    "i": 2295,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 3,
+    "t": "Ngươi sẽ bảo tất cả những người có kỹ năng mà ta đã ban cho sự khéo léo, làm các áo cho A-rôn, để người được biệt riêng ra thánh, hành chức tế lễ cho ta."
+  },
+  {
+    "i": 2296,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 4,
+    "t": "Đây là các áo mà họ sẽ làm: một áo giáp, một áo ê-phót, một áo choàng, một áo dài thêu, một khăn đội đầu và một dây lưng. Họ sẽ làm các áo thánh cho A-rôn anh ngươi và cho các con trai người, để họ hành chức tế lễ cho ta."
+  },
+  {
+    "i": 2297,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 5,
+    "t": "Họ sẽ dùng vàng, phẩm màu xanh dương, màu tía, màu đỏ điều và vải gai mịn."
+  },
+  {
+    "i": 2298,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 6,
+    "t": "\"Họ sẽ làm áo ê-phót thêu bằng vàng, phẩm màu xanh dương, màu tía, màu đỏ điều và vải gai mịn se."
+  },
+  {
+    "i": 2299,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 7,
+    "t": "Hai miếng đệm vai sẽ được gắn vào áo: nó sẽ được gắn vào bằng hai đầu của nó."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16700,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 32,
+    "t": "\"E agora, filhos meus, ouvi-me; bem-aventurados os que guardam os meus caminhos."
+  },
+  {
+    "i": 16701,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 33,
+    "t": "Escutai a instrução, e sede sábios, e não a rejeiteis."
+  },
+  {
+    "i": 16702,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 34,
+    "t": "Bem-aventurado o homem que me dá ouvidos, velando dia a dia às minhas portas, esperando às ombreiras da minha entrada."
+  },
+  {
+    "i": 16703,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 35,
+    "t": "Porque o que me encontra, encontra a vida, e alcança o favor do Senhor."
+  },
+  {
+    "i": 16704,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 36,
+    "t": "Mas o que peca contra mim, danifica a sua própria alma; todos os que me odeiam amam a morte."
+  },
+  {
+    "i": 16705,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 1,
+    "t": "A Sabedoria edificou a sua casa, lavrou as suas sete colunas,"
+  },
+  {
+    "i": 16706,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 2,
+    "t": "matou os seus animais, misturou o seu vinho, e aprontou a sua mesa."
+  },
+  {
+    "i": 16707,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 3,
+    "t": "Enviou as suas criadas a clamar sobre os lugares mais altos da cidade:"
+  },
+  {
+    "i": 16708,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 4,
+    "t": "\"Quem é simples, volte-se para cá.\" Aos faltos de entendimento diz:"
+  },
+  {
+    "i": 16709,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 5,
+    "t": "\"Vinde, comei do meu pão, e bebei do vinho que tenho misturado."
+  },
+  {
+    "i": 16710,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 6,
+    "t": "Deixai a insensatez, e vivei; e andai pelo caminho do entendimento."
+  },
+  {
+    "i": 16711,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 7,
+    "t": "O que repreende o escarnecedor, afronta recebe; e o que censura o ímpio, mancha-se a si mesmo."
+  },
+  {
+    "i": 16712,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 8,
+    "t": "Não repreendas o escarnecedor, para que te não aborreça; repreende o sábio, e amar-te-á."
+  },
+  {
+    "i": 16713,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 9,
+    "t": "Dá instrução ao sábio, e ele se fará mais sábio; ensina ao justo, e ele aumentará em entendimento."
+  },
+  {
+    "i": 16714,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 10,
+    "t": "O temor do Senhor é o princípio da sabedoria, e o conhecimento do Santo a prudência."
+  },
+  {
+    "i": 16715,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 11,
+    "t": "Porque por meu intermédio se multiplicarão os teus dias, e se te aumentarão os anos da tua vida."
+  },
+  {
+    "i": 16716,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 12,
+    "t": "Se fores sábio, para ti serás sábio; e, se fores escarnecedor, tu só o suportarás."
+  },
+  {
+    "i": 16717,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 13,
+    "t": "A mulher insensata é turbulenta; é néscia, e não conhece coisa alguma."
+  },
+  {
+    "i": 16718,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 14,
+    "t": "Assenta-se à porta da sua casa, numa cadeira, nos lugares altos da cidade,"
+  },
+  {
+    "i": 16719,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 15,
+    "t": "para chamar os que passam, e que vão diretos pelos seus caminhos."
+  },
+  {
+    "i": 16720,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 16,
+    "t": "\"Quem é simples, volte-se para cá.\" E aos faltos de entendimento diz:"
+  },
+  {
+    "i": 16721,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 17,
+    "t": "\"As águas roubadas são doces, e o pão comido às escondidas é agradável."
+  },
+  {
+    "i": 16722,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 18,
+    "t": "Mas não sabem que ali estão os mortos, que os seus convidados estão nas profundezas do Seol."
+  },
+  {
+    "i": 16723,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 1,
+    "t": "Provérbios de Salomão. O filho sábio alegra a seu pai, mas o filho insensato é a tristeza de sua mãe."
+  },
+  {
+    "i": 16724,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 2,
+    "t": "Os tesouros da impiedade de nada aproveitam; mas a justiça livra da morte."
+  },
+  {
+    "i": 16725,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 3,
+    "t": "O Senhor não deixa o justo passar fome, mas reprime a avareza dos ímpios."
+  },
+  {
+    "i": 16726,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 4,
+    "t": "A mão preguiçosa empobrece, mas a mão dos diligentes enriquece."
+  },
+  {
+    "i": 16727,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 5,
+    "t": "O que ajunta no verão é filho prudente; mas o que dorme na sega é filho que causa vergonha."
+  },
+  {
+    "i": 16728,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 6,
+    "t": "Bênçãos há sobre a cabeça do justo, mas a violência cobre a boca dos ímpios."
+  },
+  {
+    "i": 16729,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 7,
+    "t": "A memória do justo é abençoada, mas o nome dos ímpios apodrecerá."
+  },
+  {
+    "i": 16730,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 8,
+    "t": "O sábio de coração receberá os mandamentos, mas o louco de lábios virá a arruinar-se."
+  },
+  {
+    "i": 16731,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 9,
+    "t": "Quem anda em integridade anda seguro, mas o que perverte os seus caminhos será conhecido."
+  },
+  {
+    "i": 16732,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 10,
+    "t": "O que pisca com os olhos causa tristeza, e o tolo de lábios virá a arruinar-se."
+  },
+  {
+    "i": 16733,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 11,
+    "t": "A boca do justo é fonte de vida, mas a violência cobre a boca dos ímpios."
+  },
+  {
+    "i": 16734,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 12,
+    "t": "O ódio excita contendas, mas o amor cobre todas as transgressões."
+  },
+  {
+    "i": 16735,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 13,
+    "t": "Nos lábios do entendido se acha a sabedoria, mas a vara é para as costas do que é falto de entendimento."
+  },
+  {
+    "i": 16736,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 14,
+    "t": "Os sábios entesouram a sabedoria; mas a boca do tolo é uma destruição iminente."
+  },
+  {
+    "i": 16737,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 15,
+    "t": "Os bens do rico são a sua cidade forte; a pobreza dos pobres é a sua ruína."
+  },
+  {
+    "i": 16738,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 16,
+    "t": "O trabalho do justo conduz à vida; o ganho do ímpio, ao pecado."
+  },
+  {
+    "i": 16739,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 17,
+    "t": "O caminho para a vida é de quem guarda a correção, mas o que abandona a repreensão desvia-se."
+  },
+  {
+    "i": 16740,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 18,
+    "t": "O que encobre o ódio tem lábios falsos; e o que divulga boatos é um insensato."
+  },
+  {
+    "i": 16741,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 19,
+    "t": "No muito falar não falta transgressão, mas o que refreia os seus lábios é prudente."
+  },
+  {
+    "i": 16742,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 20,
+    "t": "A língua do justo é prata escolhida; o coração dos ímpios é de nenhum valor."
+  },
+  {
+    "i": 16743,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 21,
+    "t": "Os lábios do justo apascentam a muitos, mas os tolos morrem por falta de entendimento."
+  },
+  {
+    "i": 16744,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 22,
+    "t": "A bênção do Senhor é que enriquece; e não traz consigo dores."
+  },
+  {
+    "i": 16745,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 23,
+    "t": "Para o tolo o praticar a maldade é como um passatempo; assim o é a sabedoria para o homem de entendimento."
+  },
+  {
+    "i": 16746,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 24,
+    "t": "O que o ímpio teme, isso lhe virá; mas o desejo dos justos será cumprido."
+  },
+  {
+    "i": 16747,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 25,
+    "t": "Como passa a tempestade, assim desaparece o ímpio; mas o justo permanece para sempre."
+  },
+  {
+    "i": 16748,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 26,
+    "t": "Como o vinagre para os dentes, e o fumo para os olhos, assim é o preguiçoso para aqueles que o enviam."
+  },
+  {
+    "i": 16749,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 27,
+    "t": "O temor do Senhor prolonga os dias, mas os anos dos ímpios serão abreviados."
+  },
+  {
+    "i": 16750,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 28,
+    "t": "A esperança dos justos é alegria, mas a expectação dos ímpios perecerá."
+  },
+  {
+    "i": 16751,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 29,
+    "t": "O caminho do Senhor é fortaleza para os retos, mas destruição para os que praticam a iniqüidade."
+  },
+  {
+    "i": 16752,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 30,
+    "t": "O justo nunca será abalado; mas os ímpios não habitarão a terra."
+  },
+  {
+    "i": 16753,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 31,
+    "t": "A boca do justo produz sabedoria, mas a língua perversa será cortada."
+  },
+  {
+    "i": 16754,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 32,
+    "t": "Os lábios do justo sabem o que agrada, mas a boca dos ímpios fala perversidades."
+  },
+  {
+    "i": 16755,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 1,
+    "t": "A balança enganosa é abominação para o Senhor, mas o peso justo é o seu prazer."
+  },
+  {
+    "i": 16756,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 2,
+    "t": "Vindo a soberba, virá também a desgraça; mas com os humildes está a sabedoria."
+  },
+  {
+    "i": 16757,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 3,
+    "t": "A integridade dos retos os encaminhará; mas a perversidade dos traiçoeiros os destruirá."
+  },
+  {
+    "i": 16758,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 4,
+    "t": "De nada aproveitam as riquezas no dia da ira, mas a justiça livra da morte."
+  },
+  {
+    "i": 16759,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 5,
+    "t": "A justiça do perfeito endireitará o seu caminho, mas o ímpio cairá pela sua impiedade."
+  },
+  {
+    "i": 16760,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 6,
+    "t": "A justiça dos retos os livrará, mas os traiçoeiros serão apanhados na sua própria cobiça."
+  },
+  {
+    "i": 16761,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 7,
+    "t": "Morrendo o ímpio, a sua expectação perecerá, e a esperança da iniqüidade se desvanecerá."
+  },
+  {
+    "i": 16762,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 8,
+    "t": "O justo é libertado da angústia, e o ímpio entra em seu lugar."
+  },
+  {
+    "i": 16763,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 9,
+    "t": "O hipócrita com a boca destrói o seu próximo, mas os justos são libertados pelo conhecimento."
+  },
+  {
+    "i": 16764,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 10,
+    "t": "Quando os justos prosperam, a cidade se alegra; e quando os ímpios perecem, há júbilo."
+  },
+  {
+    "i": 16765,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 11,
+    "t": "Pela bênção dos retos se exalta a cidade, mas pela boca dos ímpios se derruba."
+  },
+  {
+    "i": 16766,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 12,
+    "t": "O que despreza ao seu próximo é falto de entendimento, mas o homem entendido se mantém calado."
+  },
+  {
+    "i": 16767,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 13,
+    "t": "O que anda mexericando revela segredos; mas o fiel de espírito encobre o negócio."
+  },
+  {
+    "i": 16768,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 14,
+    "t": "Não havendo boa direção, o povo cai; mas na multidão de conselheiros há segurança."
+  },
+  {
+    "i": 16769,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 15,
+    "t": "Certamente sofrerá dano aquele que fica por fiador do estranho; mas o que odeia a fiança estará seguro."
+  },
+  {
+    "i": 16770,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 16,
+    "t": "A mulher graciosa alcança honra, e os poderosos alcançam riquezas."
+  },
+  {
+    "i": 16771,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 17,
+    "t": "O homem benigno faz bem à sua própria alma; mas o cruel a si mesmo se fere."
+  },
+  {
+    "i": 16772,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 18,
+    "t": "O ímpio recebe um salário enganoso; mas para o que semeia a justiça haverá galardão seguro."
+  },
+  {
+    "i": 16773,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 19,
+    "t": "Como a justiça conduz à vida, assim o que segue o mal o faz para a sua própria morte."
+  },
+  {
+    "i": 16774,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 20,
+    "t": "Abominação para o Senhor são os perversos de coração; mas os que são perfeitos em seu caminho são o seu prazer."
+  },
+  {
+    "i": 16775,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 21,
+    "t": "Certamente o mau não ficará sem castigo; mas a descendência dos justos será livre."
+  },
+  {
+    "i": 16776,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 22,
+    "t": "Como jóia de ouro no focinho de um porco, assim é a mulher formosa que se aparta da discrição."
+  },
+  {
+    "i": 16777,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 23,
+    "t": "O desejo dos justos é somente o bem, mas a esperança dos ímpios é a ira."
+  },
+  {
+    "i": 16778,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 24,
+    "t": "Um distribui, e se lhe acrescenta mais; e outro retém mais do que é justo, mas empobrece."
+  },
+  {
+    "i": 16779,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 25,
+    "t": "A alma generosa será saciada, e o que regar será também regado."
+  },
+  {
+    "i": 16780,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 26,
+    "t": "O povo amaldiçoa aquele que retém o trigo, mas bênçãos coroam a cabeça daquele que o vende."
+  },
+  {
+    "i": 16781,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 27,
+    "t": "Aquele que procura o bem, alcança favor, mas o mal virá sobre aquele que o busca."
+  },
+  {
+    "i": 16782,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 28,
+    "t": "Aquele que confia nas suas riquezas cairá, mas os justos florescerão como a folhagem."
+  },
+  {
+    "i": 16783,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 29,
+    "t": "Aquele que perturba a sua casa herdará o vento, e o insensato será servo do sábio."
+  },
+  {
+    "i": 16784,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 30,
+    "t": "O fruto do justo é árvore de vida, e o que ganha almas é sábio."
+  },
+  {
+    "i": 16785,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 31,
+    "t": "Se o justo é recompensado na terra, quanto mais o ímpio e o pecador!"
+  },
+  {
+    "i": 16786,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 1,
+    "t": "Aquele que ama a disciplina ama o conhecimento, mas o que odeia a repreensão é estúpido."
+  },
+  {
+    "i": 16787,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 2,
+    "t": "O homem bom alcança o favor do Senhor, mas ao homem de perversas maquinações ele condenará."
+  },
+  {
+    "i": 16788,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 3,
+    "t": "O homem não se estabelece pela impiedade, mas a raiz dos justos jamais será movida."
+  },
+  {
+    "i": 16789,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 4,
+    "t": "A mulher virtuosa é a coroa do seu marido, mas a mulher que causa vergonha é como podridão nos seus ossos."
+  },
+  {
+    "i": 16790,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 5,
+    "t": "Os pensamentos dos justos são retos, mas os conselhos dos ímpios são engano."
+  },
+  {
+    "i": 16791,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 6,
+    "t": "As palavras dos ímpios são emboscadas para derramar sangue, mas a boca dos justos os livrará."
+  },
+  {
+    "i": 16792,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 7,
+    "t": "Os ímpios são derrubados e já não existem, mas a casa dos justos permanecerá."
+  },
+  {
+    "i": 16793,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 8,
+    "t": "O homem é louvado segundo a sua sabedoria, mas o coração perverso será desprezado."
+  },
+  {
+    "i": 16794,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 9,
+    "t": "Melhor é o que é de condição humilde e tem servo, do que o que se gaba de ser alguém e não tem pão."
+  },
+  {
+    "i": 16795,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 10,
+    "t": "O justo atenta para a vida dos seus animais, mas as entranhas dos ímpios são cruéis."
+  },
+  {
+    "i": 16796,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 11,
+    "t": "O que lavra a sua terra se fartará de pão, mas o que segue a vaidade é falto de juízo."
+  },
+  {
+    "i": 16797,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 12,
+    "t": "O ímpio deseja a presa dos maus, mas a raiz dos justos produz frutos."
+  },
+  {
+    "i": 16798,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 13,
+    "t": "Na transgressão dos lábios há laço mortal, mas o justo escapa da angústia."
+  },
+  {
+    "i": 16799,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 14,
+    "t": "Pelo fruto da sua boca o homem se fartará do bem, e cada um receberá a recompensa das suas obras."
+  }
+]

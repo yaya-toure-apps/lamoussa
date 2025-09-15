@@ -1,0 +1,802 @@
+[
+  {
+    "i": 14600,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 7,
+    "t": "Ni en mi arco estaba mi confianza, ni mi espada me dio la victoria;"
+  },
+  {
+    "i": 14601,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 8,
+    "t": "por ti vencimos a nuestros adversarios, tú cubriste de vergüenza a nuestros enemigos;"
+  },
+  {
+    "i": 14602,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 9,
+    "t": "en Dios nos regocijábamos todo el día, celebrando sin cesar tu nombre."
+  },
+  {
+    "i": 14603,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 10,
+    "t": "Y sin embargo, nos has rechazado y humillado, ya no sales con nuestros ejércitos;"
+  },
+  {
+    "i": 14604,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 11,
+    "t": "nos haces retroceder ante el adversario, nuestros enemigos han saqueado a placer."
+  },
+  {
+    "i": 14605,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 12,
+    "t": "Como animales de matanza nos entregas y entre las naciones nos has dispersado;"
+  },
+  {
+    "i": 14606,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 13,
+    "t": "vendes a tu pueblo a vil precio sin enriquecerte en este mercado."
+  },
+  {
+    "i": 14607,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 14,
+    "t": "Nos haces la burla de nuestros vecinos, fábula y escarnio de nuestro entorno;"
+  },
+  {
+    "i": 14608,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 15,
+    "t": "nos haces el proverbio de las naciones, sacudida de cabeza entre los pueblos."
+  },
+  {
+    "i": 14609,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 16,
+    "t": "Todo el día mi deshonra está delante de mí y la vergüenza cubre mi rostro,"
+  },
+  {
+    "i": 14610,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 17,
+    "t": "bajo los clamores de insulto y blasfemia, ante el espectáculo del odio y la venganza."
+  },
+  {
+    "i": 14611,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 18,
+    "t": "Todo esto nos aconteció sin haberte olvidado, sin haber traicionado tu alianza,"
+  },
+  {
+    "i": 14612,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 19,
+    "t": "sin que nuestros corazones hayan vuelto atrás, sin que nuestros pasos hayan abandonado tu sendero:"
+  },
+  {
+    "i": 14613,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 20,
+    "t": "nos aplastaste en la morada de los chacales, cubriéndonos con la sombra de la muerte."
+  },
+  {
+    "i": 14614,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 21,
+    "t": "Si hubiéramos olvidado el nombre de nuestro Dios, tendido las manos hacia un dios extranjero,"
+  },
+  {
+    "i": 14615,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 22,
+    "t": "¿acaso Dios no lo habría percibido, él que conoce los secretos del corazón?"
+  },
+  {
+    "i": 14616,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 23,
+    "t": "Por ti nos matan todo el día, nos tratan como ovejas de matadero."
+  },
+  {
+    "i": 14617,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 24,
+    "t": "¡Levántate! ¿Por qué duermes, Señor? ¡Despierta! ¡No nos rechaces para siempre!"
+  },
+  {
+    "i": 14618,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 25,
+    "t": "¿Por qué escondes tu rostro, olvidas nuestra opresión, nuestra miseria?"
+  },
+  {
+    "i": 14619,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 26,
+    "t": "Porque nuestra alma está hundida en el polvo, nuestro vientre está pegado a la tierra."
+  },
+  {
+    "i": 14620,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 27,
+    "t": "¡Levántate, ven en nuestra ayuda, redímenos por razón de tu amor!"
+  },
+  {
+    "i": 14621,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 1,
+    "t": "Del maestro del coro. Sobre la tonada: Azucenas... De los hijos de Coré. Poema. Canto de amor."
+  },
+  {
+    "i": 14622,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 2,
+    "t": "Mi corazón se estremece con palabras hermosas: digo mi obra para un rey, mi lengua es la caña de un escriba ágil."
+  },
+  {
+    "i": 14623,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 3,
+    "t": "Tú eres hermoso, el más hermoso de los hijos de los hombres, la gracia se derrama sobre tus labios. Por eso eres bendecido por Dios para siempre."
+  },
+  {
+    "i": 14624,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 4,
+    "t": "Ciñe tu espada sobre tu muslo, valiente, en el fausto y el esplendor"
+  },
+  {
+    "i": 14625,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 5,
+    "t": "anda, cabalga, por la causa de la verdad, de la piedad, de la justicia. Tiende la cuerda en el arco, ¡él vuelve terrible tu derecha!"
+  },
+  {
+    "i": 14626,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 6,
+    "t": "Tus flechas son agudas, he aquí los pueblos bajo ti, ellos pierden el corazón, los enemigos del rey."
+  },
+  {
+    "i": 14627,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 7,
+    "t": "¡Tu trono es de Dios para siempre y a jamás! ¡Cetro de rectitud, el cetro de tu reino!"
+  },
+  {
+    "i": 14628,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 8,
+    "t": "Amas la justicia, odias la impiedad. Por eso Dios, tu Dios, te ha dado la unción de un aceite de alegría como a ninguno de tus rivales;"
+  },
+  {
+    "i": 14629,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 9,
+    "t": "tu vestimenta no es más que mirra y áloe. De los palacios de marfil, las arpas te deleitan."
+  },
+  {
+    "i": 14630,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 10,
+    "t": "Entre tus amadas están las hijas de rey; a tu derecha una dama, bajo los oros de Ofir."
+  },
+  {
+    "i": 14631,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 11,
+    "t": "Escucha, hija mía, mira y presta atención, olvida tu pueblo y la casa de tu padre,"
+  },
+  {
+    "i": 14632,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 12,
+    "t": "entonces el rey deseará tu hermosura: él es tu Señor, ¡postérnate ante él!"
+  },
+  {
+    "i": 14633,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 13,
+    "t": "La hija de Tiro, con presentes, desfruncirá tu rostro, y los pueblos más ricos,"
+  },
+  {
+    "i": 14634,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 14,
+    "t": "con muchas joyas engastadas en oro. Vestida"
+  },
+  {
+    "i": 14635,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 15,
+    "t": "de brocados, la hija de rey es conducida al interior hacia el rey, vírgenes en su séquito. Se conducen las compañeras que le están destinadas;"
+  },
+  {
+    "i": 14636,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 16,
+    "t": "entre alegría y regocijo, ellas entran al palacio."
+  },
+  {
+    "i": 14637,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 17,
+    "t": "En lugar de tus padres te vendrán hijos; tú harás de ellos príncipes por toda la tierra."
+  },
+  {
+    "i": 14638,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 18,
+    "t": "Que yo haga durar tu nombre de edad en edad, que los pueblos te alaben en los siglos de los siglos."
+  },
+  {
+    "i": 14639,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 1,
+    "t": "Del maestro del coro. De los hijos de Coré. Sobre oboes. Cántico."
+  },
+  {
+    "i": 14640,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 2,
+    "t": "Dios es para nosotros refugio y fuerza, socorro en la angustia siempre ofrecido."
+  },
+  {
+    "i": 14641,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 3,
+    "t": "Por eso no temeremos si la tierra es cambiada, si las montañas se tambalean en el corazón de los mares,"
+  },
+  {
+    "i": 14642,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 4,
+    "t": "cuando rugen y hierven sus aguas y que tiemblan los montes a su levantamiento. (¡Con nosotros, Yahvé Sabaot, ciudadela para nosotros, el Dios de Jacob! )"
+  },
+  {
+    "i": 14643,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 5,
+    "t": "¡Un río! Sus brazos regocijan la ciudad de Dios, él santifica las moradas del Altísimo."
+  },
+  {
+    "i": 14644,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 6,
+    "t": "Dios está en ella; ella no puede tambalearse, Dios la socorre al despuntar de la mañana;"
+  },
+  {
+    "i": 14645,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 7,
+    "t": "los pueblos rugían, los reinos se tambaleaban, él ha elevado la voz, la tierra se disuelve."
+  },
+  {
+    "i": 14646,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 8,
+    "t": "¡Con nosotros, Yahvé Sabaot, ciudadela para nosotros, el Dios de Jacob!"
+  },
+  {
+    "i": 14647,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 9,
+    "t": "Andad, contemplad las hazañas de Yahvé, él que llena la tierra de estupores."
+  },
+  {
+    "i": 14648,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 10,
+    "t": "Él pone fin a las guerras hasta el fin de la tierra; el arco, él lo ha roto, la lanza, él la ha quebrado, él ha quemado los escudos en el fuego."
+  },
+  {
+    "i": 14649,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 11,
+    "t": "\"¡Deteneos, conoced que yo soy Dios, exaltado sobre los pueblos, exaltado sobre la tierra!"
+  },
+  {
+    "i": 14650,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 12,
+    "t": "¡Con nosotros, Yahvé Sabaot, ciudadela para nosotros, el Dios de Jacob!"
+  },
+  {
+    "i": 14651,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 1,
+    "t": "Del maestro del coro. De los hijos de Coré. Salmo."
+  },
+  {
+    "i": 14652,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 2,
+    "t": "Todos los pueblos, batid las manos, aclamad a Dios con gritos de alegría!"
+  },
+  {
+    "i": 14653,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 3,
+    "t": "Es Yahvé, el Altísimo, el temible, el gran Rey sobre toda la tierra."
+  },
+  {
+    "i": 14654,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 4,
+    "t": "Él somete pueblos bajo nuestro yugo y naciones bajo nuestros pies."
+  },
+  {
+    "i": 14655,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 5,
+    "t": "Él ha escogido para nosotros nuestra herencia, el orgullo de Jacob, al que ama."
+  },
+  {
+    "i": 14656,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 6,
+    "t": "Dios asciende entre la aclamación, Yahvé, a los gritos del cuerno."
+  },
+  {
+    "i": 14657,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 7,
+    "t": "¡Sonad para nuestro Dios, sonad, sonad para nuestro Rey, sonad!"
+  },
+  {
+    "i": 14658,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 8,
+    "t": "Es el rey de toda la tierra: ¡sonad para Dios, que se aprenda!"
+  },
+  {
+    "i": 14659,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 9,
+    "t": "Dios, él reina sobre los paganos, Dios se sienta sobre su trono de santidad."
+  },
+  {
+    "i": 14660,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 10,
+    "t": "Los príncipes de los pueblos se unen: es el pueblo del Dios de Abraham. A Dios son los escudos de la tierra, a lo más alto él ha ascendido."
+  },
+  {
+    "i": 14661,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 1,
+    "t": "Cántico. Salmo. De los hijos de Coré."
+  },
+  {
+    "i": 14662,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 2,
+    "t": "Grande, Yahvé, y digno de suprema alabanza en la ciudad de nuestro Dios, el monte santo,"
+  },
+  {
+    "i": 14663,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 3,
+    "t": "soberbio de impulso, alegría de toda la tierra; el monte Sión, corazón del Aquilón, ciudad del gran rey:"
+  },
+  {
+    "i": 14664,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 4,
+    "t": "Dios, desde el medio de sus palacios, se ha revelado ciudadela."
+  },
+  {
+    "i": 14665,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 5,
+    "t": "He aquí, unos reyes se habían aliado, avanzando a la vez;"
+  },
+  {
+    "i": 14666,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 6,
+    "t": "vieron, y de golpe estupefactos, presa del pánico, se batieron en retirada."
+  },
+  {
+    "i": 14667,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 7,
+    "t": "Allí, un temblor los asaltó, un escalofrío de parturienta,"
+  },
+  {
+    "i": 14668,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 8,
+    "t": "fue el viento del este que quiebra las naves de Tarsis."
+  },
+  {
+    "i": 14669,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 9,
+    "t": "Como se nos había dicho, lo hemos visto en la ciudad de nuestro Dios, en la ciudad de Yahvé Sabaot; Dios la afirma para siempre."
+  },
+  {
+    "i": 14670,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 10,
+    "t": "Meditamos, Dios, tu amor en medio de tu Templo!"
+  },
+  {
+    "i": 14671,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 11,
+    "t": "¡Como tu nombre, Dios, tu alabanza, hasta el fin de la tierra! Tu derecha está llena de justicia,"
+  },
+  {
+    "i": 14672,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 12,
+    "t": "el monte Sión se regocija; las hijas de Judá exultan ante tus juicios."
+  },
+  {
+    "i": 14673,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 13,
+    "t": "Bordead Sión, recorredla, enumerad sus torres;"
+  },
+  {
+    "i": 14674,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 14,
+    "t": "que vuestros corazones se aferren a sus muros, detallad sus palacios; para contar a las edades futuras"
+  },
+  {
+    "i": 14675,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 15,
+    "t": "que él es Dios, nuestro Dios en los siglos de los siglos, él, él nos conduce!"
+  },
+  {
+    "i": 14676,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 1,
+    "t": "Del maestro del coro. De los hijos de Coré. Salmo."
+  },
+  {
+    "i": 14677,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 2,
+    "t": "Escuchad esto, todos los pueblos, prestad atención, todos los habitantes del mundo,"
+  },
+  {
+    "i": 14678,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 3,
+    "t": "gente común y gente de condición, ricos y pobres juntos!"
+  },
+  {
+    "i": 14679,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 4,
+    "t": "Mi boca enuncia la sabiduría, y el murmullo de mi corazón, la inteligencia;"
+  },
+  {
+    "i": 14680,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 5,
+    "t": "Inclinaré mi oído al proverbio; declararé con el arpa mi enigma."
+  },
+  {
+    "i": 14681,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 6,
+    "t": "¿Por qué he de temer en los días de adversidad, cuando la iniquidad de mis opresores me circunda?"
+  },
+  {
+    "i": 14682,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 7,
+    "t": "Los que confían en sus bienes, y se jactan de la abundancia de sus riquezas,"
+  },
+  {
+    "i": 14683,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 8,
+    "t": "Ninguno de ellos podrá en manera alguna redimir a su hermano, ni dar a Dios su rescate"
+  },
+  {
+    "i": 14684,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 9,
+    "t": "(porque la redención de su alma es de gran precio, y no se logrará jamás),"
+  },
+  {
+    "i": 14685,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 10,
+    "t": "Para que viva para siempre, y nunca vea la corrupción."
+  },
+  {
+    "i": 14686,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 11,
+    "t": "Pues ve que mueren los sabios; igualmente perecen el insensato y el necio, y dejan sus bienes a otros."
+  },
+  {
+    "i": 14687,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 12,
+    "t": "Su íntimo pensamiento es que sus casas serán eternas, y sus habitaciones para perpetuas generaciones; a sus tierras han puesto sus nombres."
+  },
+  {
+    "i": 14688,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 13,
+    "t": "Mas el hombre no permanecerá en honra; es semejante a las bestias que perecen."
+  },
+  {
+    "i": 14689,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 14,
+    "t": "Este es el camino de los que confían en sí mismos, y el fin de sus descendientes, los cuales se complacen en sus dichos."
+  },
+  {
+    "i": 14690,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 15,
+    "t": "Como rebaño son puestos en el Seol; la muerte los pastoreará, y los rectos se enseñorearán de ellos por la mañana; se consumirá su buen parecer en el Seol, lejos de su morada."
+  },
+  {
+    "i": 14691,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 16,
+    "t": "Pero Dios redimirá mi alma del poder del Seol, porque él me tomará consigo."
+  },
+  {
+    "i": 14692,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 17,
+    "t": "No temas cuando se enriquece alguno, cuando aumenta la gloria de su casa;"
+  },
+  {
+    "i": 14693,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 18,
+    "t": "Porque cuando muera no llevará nada; ni descenderá tras él su gloria."
+  },
+  {
+    "i": 14694,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 19,
+    "t": "Aunque mientras vivía, bendecía su alma (y los hombres te alabarán cuando bien te vaya),"
+  },
+  {
+    "i": 14695,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 20,
+    "t": "Irá a la generación de sus padres, y nunca más verá la luz."
+  },
+  {
+    "i": 14696,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 21,
+    "t": "El hombre que está en honra y no entiende, semejante es a las bestias que perecen."
+  },
+  {
+    "i": 14697,
+    "b": 18,
+    "c": 1950,
+    "r": 1950,
+    "o": 1,
+    "t": "Salmo de Asaf. El Dios de dioses, Jehová, ha hablado, y convocado la tierra desde el nacimiento del sol hasta donde se pone."
+  },
+  {
+    "i": 14698,
+    "b": 18,
+    "c": 1950,
+    "r": 1950,
+    "o": 2,
+    "t": "De Sión, perfección de hermosura, Dios ha resplandecido."
+  },
+  {
+    "i": 14699,
+    "b": 18,
+    "c": 1950,
+    "r": 1950,
+    "o": 3,
+    "t": "Vendrá nuestro Dios, y no callará; fuego consumirá delante de él, y tempestad poderosa le rodeará."
+  }
+]

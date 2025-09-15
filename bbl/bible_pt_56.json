@@ -1,0 +1,802 @@
+[
+  {
+    "i": 5600,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 16,
+    "t": "Maldito seja aquele que tratar com desprezo seu pai e sua mãe. — E todo o povo dirá: Amém."
+  },
+  {
+    "i": 5601,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 17,
+    "t": "Maldito seja aquele que remover o marco do seu próximo. — E todo o povo dirá: Amém."
+  },
+  {
+    "i": 5602,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 18,
+    "t": "Maldito seja aquele que desviar o cego do caminho. — E todo o povo dirá: Amém."
+  },
+  {
+    "i": 5603,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 19,
+    "t": "Maldito seja aquele que perverter o direito do estrangeiro, do órfão e da viúva. — E todo o povo dirá: Amém."
+  },
+  {
+    "i": 5604,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 20,
+    "t": "Maldito seja aquele que se deitar com a mulher de seu pai, pois descobre a nudez de seu pai. — E todo o povo dirá: Amém."
+  },
+  {
+    "i": 5605,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 21,
+    "t": "Maldito seja aquele que se deitar com qualquer animal. — E todo o povo dirá: Amém."
+  },
+  {
+    "i": 5606,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 22,
+    "t": "Maldito seja aquele que se deitar com sua irmã, filha de seu pai ou filha de sua mãe. — E todo o povo dirá: Amém."
+  },
+  {
+    "i": 5607,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 23,
+    "t": "Maldito seja aquele que se deitar com sua sogra. — E todo o povo dirá: Amém."
+  },
+  {
+    "i": 5608,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 24,
+    "t": "Maldito seja aquele que ferir o seu próximo secretamente. — E todo o povo dirá: Amém."
+  },
+  {
+    "i": 5609,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 25,
+    "t": "Maldito seja aquele que aceitar um presente para tirar a vida a um inocente. — E todo o povo dirá: Amém."
+  },
+  {
+    "i": 5610,
+    "b": 4,
+    "c": 527,
+    "r": 527,
+    "o": 26,
+    "t": "Maldito seja aquele que não confirmar as palavras desta Lei, não as cumprindo. — E todo o povo dirá: Amém."
+  },
+  {
+    "i": 5611,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 1,
+    "t": "E será que, se diligentemente obedeceres à voz do Senhor teu Deus, tendo cuidado de guardar todos os seus mandamentos que eu hoje te ordeno, também o Senhor teu Deus te exaltará sobre todas as nações da terra;"
+  },
+  {
+    "i": 5612,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 2,
+    "t": "E todas estas bênçãos virão sobre ti e te alcançarão, quando ouvires a voz do Senhor teu Deus:"
+  },
+  {
+    "i": 5613,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 3,
+    "t": "Bendito serás na cidade, e bendito serás no campo."
+  },
+  {
+    "i": 5614,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 4,
+    "t": "Bendito o fruto do teu ventre, e o fruto da tua terra, e o fruto dos teus animais; e as crias das tuas vacas, e os rebanhos das tuas ovelhas."
+  },
+  {
+    "i": 5615,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 5,
+    "t": "Bendito o teu cesto, e a tua amassadeira."
+  },
+  {
+    "i": 5616,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 6,
+    "t": "Bendito serás ao entrares, e bendito serás ao saíres."
+  },
+  {
+    "i": 5617,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 7,
+    "t": "O Senhor entregará, feridos diante de ti, os teus inimigos que se levantarem contra ti; por um caminho sairão contra ti, mas por sete caminhos fugirão da tua presença."
+  },
+  {
+    "i": 5618,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 8,
+    "t": "O Senhor mandará que a bênção esteja contigo nos teus celeiros, e em tudo o que puseres a tua mão; e te abençoará na terra que te dará o Senhor teu Deus."
+  },
+  {
+    "i": 5619,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 9,
+    "t": "O Senhor te confirmará para si como povo santo, como te jurou, quando guardares os mandamentos do Senhor teu Deus, e andares nos seus caminhos."
+  },
+  {
+    "i": 5620,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 10,
+    "t": "E todos os povos da terra verão que és chamado pelo nome do Senhor, e terão temor de ti."
+  },
+  {
+    "i": 5621,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 11,
+    "t": "E o Senhor te dará abundância de bens no fruto do teu ventre, e no fruto dos teus animais, e no fruto da tua terra, sobre a terra que o Senhor jurou a teus pais te dar."
+  },
+  {
+    "i": 5622,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 12,
+    "t": "O Senhor te abrirá o seu bom tesouro, o céu, para dar chuva à tua terra no seu tempo, e para abençoar toda a obra da tua mão; e emprestarás a muitas nações, e não tomarás emprestado."
+  },
+  {
+    "i": 5623,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 13,
+    "t": "E o Senhor te porá por cabeça, e não por cauda; e sempre estarás em cima, e nunca embaixo; se obedeceres aos mandamentos do Senhor teu Deus, que hoje te ordeno, para os guardares e cumprires,"
+  },
+  {
+    "i": 5624,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 14,
+    "t": "E não te desviarás de nenhuma das palavras que hoje te ordeno, nem para a direita nem para a esquerda, para andares após outros deuses, para os servires."
+  },
+  {
+    "i": 5625,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 15,
+    "t": "Será, porém, que, se não deres ouvidos à voz do Senhor teu Deus, para não cuidares em cumprir todos os seus mandamentos e os seus estatutos, que hoje te ordeno, então virão sobre ti todas estas maldições, e te alcançarão:"
+  },
+  {
+    "i": 5626,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 16,
+    "t": "Maldito serás na cidade, e maldito serás no campo."
+  },
+  {
+    "i": 5627,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 17,
+    "t": "Maldito o teu cesto, e a tua amassadeira."
+  },
+  {
+    "i": 5628,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 18,
+    "t": "Maldito o fruto do teu ventre, e o fruto da tua terra, e as crias das tuas vacas, e os rebanhos das tuas ovelhas."
+  },
+  {
+    "i": 5629,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 19,
+    "t": "Maldito serás ao entrares, e maldito serás ao saíres."
+  },
+  {
+    "i": 5630,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 20,
+    "t": "O Senhor mandará sobre ti a maldição, a confusão e a derrota em tudo em que puseres a mão para fazer; até que sejas destruído, e até que repentinamente pereças, por causa da maldade das tuas obras, pelas quais me deixaste."
+  },
+  {
+    "i": 5631,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 21,
+    "t": "O Senhor fará pegar em ti a pestilência, até que te consuma da terra a que vais para possuí-la."
+  },
+  {
+    "i": 5632,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 22,
+    "t": "O Senhor te ferirá com a tísica, e com a febre, e com o calor ardente, e com a secura, e com o crestamento, e com a ferrugem; e te perseguirão até que pereças."
+  },
+  {
+    "i": 5633,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 23,
+    "t": "E os teus céus, que estão sobre a tua cabeça, serão de bronze; e a terra, que está debaixo de ti, será de ferro."
+  },
+  {
+    "i": 5634,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 24,
+    "t": "O Senhor dará por chuva sobre a tua terra pó e poeira; dos céus descerá sobre ti, até que sejas destruído."
+  },
+  {
+    "i": 5635,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 25,
+    "t": "O Senhor te fará ser ferido diante dos teus inimigos; por um caminho sairás contra eles, mas por sete caminhos fugirás da sua presença; e serás agitado por todos os reinos da terra."
+  },
+  {
+    "i": 5636,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 26,
+    "t": "E o teu cadáver servirá de pasto a todas as aves do céu, e aos animais da terra; e ninguém os espantará."
+  },
+  {
+    "i": 5637,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 27,
+    "t": "O Senhor te ferirá com as úlceras do Egito, com tumores, e com sarna, e com coceira, de que não possas curar-te."
+  },
+  {
+    "i": 5638,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 28,
+    "t": "O Senhor te ferirá com loucura, e com cegueira, e com pasmo de coração;"
+  },
+  {
+    "i": 5639,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 29,
+    "t": "E apalparás ao meio-dia, como o cego apalpa na escuridão, e não prosperarás nos teus caminhos; porém somente serás oprimido e roubado todos os dias, e ninguém te salvará."
+  },
+  {
+    "i": 5640,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 30,
+    "t": "Desposarás uma mulher, porém outro homem dormirá com ela; edificarás uma casa, porém não morarás nela; plantarás uma vinha, porém não aproveitarás o seu fruto."
+  },
+  {
+    "i": 5641,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 31,
+    "t": "O teu boi será morto aos teus olhos, porém dele não comerás; o teu jumento será arrebatado diante do teu rosto, e não tornará a ti; as tuas ovelhas serão dadas aos teus inimigos, e não haverá quem te salve."
+  },
+  {
+    "i": 5642,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 32,
+    "t": "Teus filhos e tuas filhas serão dados a outro povo, os teus olhos o verão, e por eles desfalecerão todo o dia; porém não haverá poder na tua mão."
+  },
+  {
+    "i": 5643,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 33,
+    "t": "O fruto da tua terra e todo o teu trabalho os comerá um povo que nunca conheceste; e serás oprimido e quebrantado continuamente;"
+  },
+  {
+    "i": 5644,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 34,
+    "t": "De modo que enlouquecerás pelo que vires com os teus olhos."
+  },
+  {
+    "i": 5645,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 35,
+    "t": "O Senhor te ferirá com chagas malignas nos joelhos e nas pernas, de que não te possas curar, desde a planta do teu pé até ao alto da tua cabeça."
+  },
+  {
+    "i": 5646,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 36,
+    "t": "O Senhor te levará, a ti e a teu rei, que tiveres posto sobre ti, a uma nação que nunca conheceste, nem tu nem teus pais; e ali servirás a outros deuses, ao pau e à pedra."
+  },
+  {
+    "i": 5647,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 37,
+    "t": "E serás por pasmo, por provérbio e por fábula, entre todos os povos a que o Senhor te levará."
+  },
+  {
+    "i": 5648,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 38,
+    "t": "Lançarás muita semente ao campo, e colherás pouco; porque o gafanhoto a consumirá."
+  },
+  {
+    "i": 5649,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 39,
+    "t": "Plantarás vinhas, e cultivarás; porém não beberás vinho, nem colherás as uvas; porque o verme as roerá."
+  },
+  {
+    "i": 5650,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 40,
+    "t": "Terás oliveiras em todos os teus termos, porém não te ungirás com azeite; porque a azeitona cairá."
+  },
+  {
+    "i": 5651,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 41,
+    "t": "Filhos e filhas gerarás; porém não serão para ti; porque irão em cativeiro."
+  },
+  {
+    "i": 5652,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 42,
+    "t": "Toda a tua árvore e o fruto da tua terra consumirá a lagarta."
+  },
+  {
+    "i": 5653,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 43,
+    "t": "O estrangeiro, que está no meio de ti, se elevará muito sobre ti, e tu cada vez mais descerás."
+  },
+  {
+    "i": 5654,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 44,
+    "t": "Ele te emprestará a ti, e tu não lhe emprestarás a ele; ele será a cabeça, e tu serás a cauda."
+  },
+  {
+    "i": 5655,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 45,
+    "t": "E todas estas maldições virão sobre ti, e te perseguirão, e te alcançarão, até que sejas destruído; porquanto não deste ouvidos à voz do Senhor teu Deus, para guardares os seus mandamentos e os seus estatutos, que te ordenou."
+  },
+  {
+    "i": 5656,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 46,
+    "t": "E serão sobre ti por sinal e por maravilha, e sobre a tua descendência para sempre."
+  },
+  {
+    "i": 5657,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 47,
+    "t": "Porquanto não serviste ao Senhor teu Deus com alegria e bondade de coração, pela abundância de tudo."
+  },
+  {
+    "i": 5658,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 48,
+    "t": "Portanto servirás aos teus inimigos, que o Senhor enviará contra ti, com fome, e com sede, e com nudez, e com falta de tudo; e sobre o teu pescoço porá um jugo de ferro, até que te tenha destruído."
+  },
+  {
+    "i": 5659,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 49,
+    "t": "O Senhor levantará contra ti uma nação de longe, desde a extremidade da terra, que voa como a águia, uma nação cuja língua não entenderás;"
+  },
+  {
+    "i": 5660,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 50,
+    "t": "Uma nação de rosto duro, que não perdoará ao velho, nem terá misericórdia do moço."
+  },
+  {
+    "i": 5661,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 51,
+    "t": "E comerá o fruto dos teus animais, e o fruto da tua terra, até que sejas destruído; e não te deixará grão, mosto, nem azeite, nem as crias das tuas vacas, nem os rebanhos das tuas ovelhas, até que te haja consumido."
+  },
+  {
+    "i": 5662,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 52,
+    "t": "E te sitiará em todas as tuas portas, até que venham a cair os teus altos e fortes muros, em que confiavas em toda a tua terra; e te sitiará em todas as tuas portas, em toda a tua terra que te deu o Senhor teu Deus."
+  },
+  {
+    "i": 5663,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 53,
+    "t": "E comerás o fruto do teu ventre, a carne de teus filhos e de tuas filhas, que te der o Senhor teu Deus, no cerco e no aperto com que os teus inimigos te apertarão."
+  },
+  {
+    "i": 5664,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 54,
+    "t": "O homem mais mimoso e delicado entre ti terá inveja do seu irmão, e da mulher do seu regaço, e do resto de seus filhos que ainda lhe ficarem,"
+  },
+  {
+    "i": 5665,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 55,
+    "t": "De sorte que não dará a nenhum deles da carne de seus filhos, que ele comer; porquanto nada lhe ficou no cerco e no aperto com que o teu inimigo te apertará em todas as tuas portas."
+  },
+  {
+    "i": 5666,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 56,
+    "t": "A mulher mais mimosa e delicada entre ti, que nunca experimentou pôr a planta do seu pé sobre a terra, de tão mimosa e delicada que é, terá inveja do homem do seu regaço, e do seu filho, e da sua filha;"
+  },
+  {
+    "i": 5667,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 57,
+    "t": "Por causa das suas secreções, que saírem dentre os seus pés, e por causa de seus filhos que gerar; porque os comerá às escondidas, por falta de tudo, no cerco e no aperto com que o teu inimigo te apertará nas tuas portas."
+  },
+  {
+    "i": 5668,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 58,
+    "t": "Se não guardares, para cumprires todas as palavras desta lei, que estão escritas neste livro, para temeres este nome glorioso e terrível, o Senhor teu Deus,"
+  },
+  {
+    "i": 5669,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 59,
+    "t": "Então o Senhor fará espantosas as tuas pragas, e as pragas de tua descendência, grandes e permanentes pragas, e graves e duradouras enfermidades;"
+  },
+  {
+    "i": 5670,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 60,
+    "t": "E tornará a trazer sobre ti todas as pragas do Egito, de que tanto temor tiveste; e se apegarão a ti."
+  },
+  {
+    "i": 5671,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 61,
+    "t": "Também toda a enfermidade e toda a praga, que não estão escritas no livro desta lei, o Senhor as trará sobre ti, até que sejas destruído."
+  },
+  {
+    "i": 5672,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 62,
+    "t": "E ficareis poucos em número, em lugar de haverdes sido como as estrelas dos céus em multidão; porquanto não deste ouvidos à voz do Senhor teu Deus."
+  },
+  {
+    "i": 5673,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 63,
+    "t": "E será que, assim como o Senhor se alegrava em vós, em vos fazer bem e em vos multiplicar, assim o Senhor se alegrará em vós, em vos destruir e em vos consumir; e arrancados sereis da terra a que vais para a possuir."
+  },
+  {
+    "i": 5674,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 64,
+    "t": "E o Senhor te espalhará entre todos os povos, desde uma extremidade da terra até à outra; e ali servirás a outros deuses, que nunca conheceste, nem tu nem teus pais; ao pau e à pedra."
+  },
+  {
+    "i": 5675,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 65,
+    "t": "E nem ainda entre estas nações descansarás, nem a planta do teu pé terá repouso; porque ali o Senhor te dará um coração agitado, e desfalecimento de olhos, e tristeza de alma."
+  },
+  {
+    "i": 5676,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 66,
+    "t": "E a tua vida como em suspenso estará diante de ti; e terás pavor de noite e de dia, e não crerás na tua vida."
+  },
+  {
+    "i": 5677,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 67,
+    "t": "Pela manhã dirás: Quem me dera ver a noite! e à tarde dirás: Quem me dera ver a manhã! pelo pavor do teu coração, com que estremecerás, e pelo que verás com os teus olhos."
+  },
+  {
+    "i": 5678,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 68,
+    "t": "E o Senhor te fará tornar ao Egito em navios, pelo caminho de que te tenho dito: Nunca mais o verás; e ali vos vendereis aos vossos inimigos por servos e por servas; porém ninguém vos comprará."
+  },
+  {
+    "i": 5679,
+    "b": 4,
+    "c": 528,
+    "r": 528,
+    "o": 69,
+    "t": "Estas são as palavras da aliança que o Senhor ordenou a Moisés que fizesse com os filhos de Israel na terra de Moabe, além da aliança que fizera com eles em Horebe."
+  },
+  {
+    "i": 5680,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 1,
+    "t": "E Moisés convocou todo o Israel, e lhes disse: Vistes tudo o que o Senhor fez perante vossos olhos na terra do Egito a Faraó, e a todos os seus servos, e a toda a sua terra;"
+  },
+  {
+    "i": 5681,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 2,
+    "t": "As grandes provações que viram vossos olhos, aqueles sinais e grandes maravilhas."
+  },
+  {
+    "i": 5682,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 3,
+    "t": "Porém, até o dia de hoje, o Senhor não vos tem dado coração para entender, nem olhos para ver, nem ouvidos para ouvir."
+  },
+  {
+    "i": 5683,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 4,
+    "t": "Quarenta anos vos fiz caminhar pelo deserto; não se envelheceram sobre vós as vossas vestes, nem se gastou o vosso calçado nos vossos pés."
+  },
+  {
+    "i": 5684,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 5,
+    "t": "Pão não comestes, e vinho e bebida forte não bebestes; para que soubésseis que eu sou o Senhor vosso Deus."
+  },
+  {
+    "i": 5685,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 6,
+    "t": "E, chegando vós a este lugar, Siom, rei de Hesbom, e Ogue, rei de Basã, nos saíram ao encontro, à peleja; porém nós os ferimos."
+  },
+  {
+    "i": 5686,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 7,
+    "t": "E tomamos a sua terra, e a demos por herança aos rubenitas e aos gaditas, e à meia tribo de Manassés."
+  },
+  {
+    "i": 5687,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 8,
+    "t": "Guardai, pois, as palavras desta aliança, e cumpri-as, para que prospereis em tudo o que fizerdes."
+  },
+  {
+    "i": 5688,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 9,
+    "t": "Hoje estais todos perante o Senhor vosso Deus; os vossos cabeças, as vossas tribos, os vossos anciãos, e os vossos oficiais, com todos os homens de Israel;"
+  },
+  {
+    "i": 5689,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 10,
+    "t": "Os vossos meninos, as vossas mulheres, e o estrangeiro que está no meio do vosso arraial, desde o rachador de lenha até ao tirador de água;"
+  },
+  {
+    "i": 5690,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 11,
+    "t": "Para entrares na aliança do Senhor teu Deus, e no seu juramento que hoje o Senhor teu Deus faz contigo;"
+  },
+  {
+    "i": 5691,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 12,
+    "t": "Para hoje te confirmar por seu povo, e ele te será por Deus, como te disse, e como jurou a teus pais, Abraão, Isaque e Jacó."
+  },
+  {
+    "i": 5692,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 13,
+    "t": "E não é somente convosco que faço esta aliança e este juramento;"
+  },
+  {
+    "i": 5693,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 14,
+    "t": "Mas tanto com os que hoje estão aqui conosco perante o Senhor nosso Deus, como com os que hoje não estão aqui conosco."
+  },
+  {
+    "i": 5694,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 15,
+    "t": "Porque vós sabeis como habitamos na terra do Egito, e como passamos pelo meio das nações que atravessastes;"
+  },
+  {
+    "i": 5695,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 16,
+    "t": "E vistes as suas abominações, e os seus ídolos, madeira e pedra, prata e ouro, que havia entre eles."
+  },
+  {
+    "i": 5696,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 17,
+    "t": "Para que entre vós não haja homem, nem mulher, nem família, nem tribo, cujo coração hoje se desvie do Senhor nosso Deus, para ir servir os deuses destas nações; para que entre vós não haja raiz que dê fel e absinto."
+  },
+  {
+    "i": 5697,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 18,
+    "t": "E aconteça que, ouvindo ele as palavras desta maldição, se abençoe no seu coração, dizendo: Terei paz, ainda que ande conforme o bom prazer do meu coração; para acrescentar a sede à bebedice."
+  },
+  {
+    "i": 5698,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 19,
+    "t": "O Senhor não lhe quererá perdoar; antes, a ira do Senhor e o seu zelo fumegarão contra esse homem, e toda a maldição escrita neste livro jazerá sobre ele; e o Senhor apagará o seu nome de debaixo do céu."
+  },
+  {
+    "i": 5699,
+    "b": 4,
+    "c": 529,
+    "r": 529,
+    "o": 20,
+    "t": "E o Senhor o separará para mal, de todas as tribos de Israel, conforme todas as maldições da aliança escrita neste livro da lei."
+  }
+]

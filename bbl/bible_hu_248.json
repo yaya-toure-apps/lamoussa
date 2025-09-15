@@ -1,0 +1,802 @@
+[
+  {
+    "i": 24800,
+    "b": 42,
+    "c": 4411,
+    "r": 4411,
+    "o": 73,
+    "t": "És látván ezt az övéi, kik futottak, visszatértek hozzá, és együtt üldözték az ellenséget egészen Kedesig, ahol táboruk vala, és maguk is tábort ütöttek azon a helyen."
+  },
+  {
+    "i": 24801,
+    "b": 42,
+    "c": 4411,
+    "r": 4411,
+    "o": 74,
+    "t": "És elveszett azon a napon háromezer ember az idegen hadakból, Jonathán pedig visszatért Jeruzsálembe."
+  },
+  {
+    "i": 24802,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 1,
+    "t": "Jonathán pedig látván, hogy kedvezőek néki a körülmények, választott férfiakat, kiket elküldött Rómába, hogy megerősítsék és megújítsák a barátságot a rómaiakkal."
+  },
+  {
+    "i": 24803,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 2,
+    "t": "A spártaiakhoz és más helyekre is leveleket küldött ugyanazon értelemben."
+  },
+  {
+    "i": 24804,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 3,
+    "t": "Elmenének azért Rómába, bemenének a szenátusba és mondának: \"Jonathán, a főpap és a zsidók nemzete küldött minket, hogy megújítsuk a barátságot és szövetséget velük, amint az azelőtt vala."
+  },
+  {
+    "i": 24805,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 4,
+    "t": "A szenátus pedig leveleket ada nékik minden országnak elöljáróihoz, megparancsolván, hogy békességgel engedjék el őket a Júda földjére."
+  },
+  {
+    "i": 24806,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 5,
+    "t": "Ímé a másolata annak a levélnek, melyet Jonathán a spártaiaknak írt vala:"
+  },
+  {
+    "i": 24807,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 6,
+    "t": "\"Jonathán, a főpap, a nemzet véneinek tanácsa, a papok és a zsidó nép többi része a spártaiaknak, a mi atyánkfiaiának, üdvözlet!"
+  },
+  {
+    "i": 24808,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 7,
+    "t": "Már a régmúlt időben levél küldetett Onias főpaphoz Areios részéről, ki köztetek uralkodott, bizonyságot tévén arról, hogy ti a mi atyánkfiai vagytok, amint azt az alábbi másolat mutatja."
+  },
+  {
+    "i": 24809,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 8,
+    "t": "Onias pedig tisztelettel fogadta az embert, ki elküldetett vala, és átvette a levelet, mely világosan szólt a szövetségről és barátságról."
+  },
+  {
+    "i": 24810,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 9,
+    "t": "Mi pedig, noha nincs arra szükségünk, mivelhogy vigasztalásunkra vannak a szent könyvek, melyek kezünkben vannak,"
+  },
+  {
+    "i": 24811,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 10,
+    "t": "igyekezénk elküldeni, hogy megújítsuk a testvériséget és barátságot, mely minket hozzátok köt, hogy idegenekké ne legyünk számotokra, mert sok esztendő elmúlt azóta, hogy hozzánk levelet küldöttetek."
+  },
+  {
+    "i": 24812,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 11,
+    "t": "Mi pedig nem szűnünk meg, minden alkalmatossággal, emlékezni reátok az ünnepeken és más szent napokon, az áldozatokban, melyeket felajánlunk és a mi imádságainkban, amint az igazságos és illendő emlékezni az atyánkfiaira."
+  },
+  {
+    "i": 24813,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 12,
+    "t": "Örülünk a ti dicsőségeteknek."
+  },
+  {
+    "i": 24814,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 13,
+    "t": "De mi nékünk szorongattatások és háborúk sokasodtak meg, és a mi szomszédaink királyai hadakoztak ellenünk."
+  },
+  {
+    "i": 24815,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 14,
+    "t": "Nem akartunk titeket megterhelni e háborúk miatt, sem a mi más szövetségeseinket és barátainkat,"
+  },
+  {
+    "i": 24816,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 15,
+    "t": "mert az Égből jő segítség, mely minket megszabadít. Azért ragadtattunk ki a mi ellenségeink kezéből, és azok megaláztattak."
+  },
+  {
+    "i": 24817,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 16,
+    "t": "Kiválasztottuk azért Nouménioszt, Antiokhosz fiát és Antipátert, Jason fiát, és elküldtük őket a rómaiakhoz, hogy megújítsák a barátságot és szövetséget, mely minket azelőtt egyesített velük."
+  },
+  {
+    "i": 24818,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 17,
+    "t": "Megparancsoltuk nékik, hogy menjenek el hozzátok is, hogy köszöntsenek titeket és átadják a mi levelünket a mi testvériségünk megújításáról."
+  },
+  {
+    "i": 24819,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 18,
+    "t": "És most jól teszitek, ha válaszoltok nekünk e dologban."
+  },
+  {
+    "i": 24820,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 19,
+    "t": "Ímé a másolata annak a levélnek, melyet Oniasnak küldtek vala:"
+  },
+  {
+    "i": 24821,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 20,
+    "t": "\"Areios, a spártaiak királya, Oniasnak, a főpapnak, üdvözlet."
+  },
+  {
+    "i": 24822,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 21,
+    "t": "Találtatott egy elbeszélés a spártaiakról és zsidókról, hogy ők atyánkfiai, és hogy Ábrahám nemzetségéből valók."
+  },
+  {
+    "i": 24823,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 22,
+    "t": "Most, hogy ezt tudjuk, jól teszitek, ha írtok nekünk a ti boldogulásotokról."
+  },
+  {
+    "i": 24824,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 23,
+    "t": "Mi pedig ezt írjuk néktek: A ti nyájaitok és jószágaitok a mieink, és a mieink a tieitek. Ennek következtében megparancsoljuk, hogy hozzátok üzenetet vigyenek ezen értelemben."
+  },
+  {
+    "i": 24825,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 24,
+    "t": "Jonathán megtudta, hogy Demetrius tábornokai visszatértek egy nagyobb sereggel, mint azelőtt, hogy hadakozzanak ellene."
+  },
+  {
+    "i": 24826,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 25,
+    "t": "Elindult Jeruzsálemből, és eléjük ment Hamath földjén, mert nem adta nékik azt a nyugalmat, hogy bejöjjenek az ő területére."
+  },
+  {
+    "i": 24827,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 26,
+    "t": "Kémeket küldött az ő táborukba; azok visszatértek és tudtul adták néki, hogy készek éjjel a zsidókra rátörni."
+  },
+  {
+    "i": 24828,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 27,
+    "t": "A nap lenyugvásakor Jonathán megparancsolta az övéinek, hogy virrasszanak, és fegyverük legyen kéznél, hogy készen legyenek a harcra egész éjszaka, és állított előörsöket a tábor körül."
+  },
+  {
+    "i": 24829,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 28,
+    "t": "Arra a hírre, hogy Jonathán és az övéi készen állnak a harcra, az ellenségek megfélemlének, és szívüket borzalom szállta meg, tüzet gyújtottak a táborukban, és elosonának."
+  },
+  {
+    "i": 24830,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 29,
+    "t": "De Jonathán és az ő serege csak reggel vette észre az ő eltávozásukat, mert látták a tüzek világolni."
+  },
+  {
+    "i": 24831,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 30,
+    "t": "Jonathán pedig üldözőbe vette őket, de nem érte utol, mert átkeltek az Eleutheros folyón."
+  },
+  {
+    "i": 24832,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 31,
+    "t": "Jonathán a Zabadéusoknak nevezett arabok ellen fordult, megverte őket és zsákmányt szerzett tőlük,"
+  },
+  {
+    "i": 24833,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 32,
+    "t": "majd tábort bontván, elment Damaszkuszba és bejárta az egész tartományt."
+  },
+  {
+    "i": 24834,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 33,
+    "t": "Simon pedig elindult és elment Askalonig és a szomszédos helyekig. Rátért Joppéra és elfoglalta azt."
+  },
+  {
+    "i": 24835,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 34,
+    "t": "Megtudta ugyanis, hogy a lakosok át akarják adni ezt az erős helyet Demetrius pártfogóinak; ezért helyőrséget helyezett oda, hogy őrizzék azt."
+  },
+  {
+    "i": 24836,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 35,
+    "t": "Miután visszatért, Jonathán összehívta a nép véneinek gyülekezetét és elhatározta velük, hogy építenek erősségeket Júdeában,"
+  },
+  {
+    "i": 24837,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 36,
+    "t": "hogy megemelik Jeruzsálem falait, hogy magas kerítést emelnek a Fellegvár és a város között, hogy elválasszák azt a várostól, és hogy elkülönítsék, hogy az ő emberei ne vehessenek, se ne adhassanak el."
+  },
+  {
+    "i": 24838,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 37,
+    "t": "Összejöttek, hogy újjáépítsék a várost: leesett a patak falának egy része, mely keletre esik; ő pedig megújította a Saphénatha nevű negyedet."
+  },
+  {
+    "i": 24839,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 38,
+    "t": "Simon pedig újjáépítette Adidát az Alföldön, megerősítette és kapukat helyezett oda zárakkal ellátva."
+  },
+  {
+    "i": 24840,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 39,
+    "t": "Tryphon azon gondolkodott, hogy uralkodik Ázsián, hogy felteszi a diadémát és hogy ráteszi a kezét Antiochus királyra."
+  },
+  {
+    "i": 24841,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 40,
+    "t": "Félvén, hogy Jonathán nem fogja őt hagyni, hogy megtegye, és hogy szükség esetén hadat visel ellene, keresett egy módot, hogy elfogja őt és elveszítse; miután mozgásba lendült, elment Bethsanba."
+  },
+  {
+    "i": 24842,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 41,
+    "t": "Jonathán kiment elébe negyvenezer kiválasztott férfival a csatarendezéshez, és elment Bethsanba."
+  },
+  {
+    "i": 24843,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 42,
+    "t": "Tryphon, látván, hogy ő egy népes hadsereggel jött, tartózkodott attól, hogy rátegye a kezét."
+  },
+  {
+    "i": 24844,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 43,
+    "t": "Sőt, tisztelettel fogadta őt, ajánlotta őt minden barátjának, ajándékokat adott néki, és megparancsolta a barátainak és csapatainak, hogy engedelmeskedjenek néki, mint ő magának."
+  },
+  {
+    "i": 24845,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 44,
+    "t": "És monda Jonathánnak: \"Miért fárasztottad meg mindezt a népet, holott nincs közöttünk a háború veszélye?"
+  },
+  {
+    "i": 24846,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 45,
+    "t": "Küldd el őket azért haza, válassz magadnak néhány embert, hogy veled jöjjenek, és gyere velem Ptolemaiszba. Át fogom neked adni ezt a várost, valamint a többi erősséget, a csapatok többi részét és minden tisztviselőt, majd, visszatérvén az útról, el fogok menni, mert e célból jöttem ide."
+  },
+  {
+    "i": 24847,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 46,
+    "t": "Bízván benne, Jonathán cselekedett az ő szavai szerint: elbocsátotta a csapatait, kik visszatértek Júda földjére."
+  },
+  {
+    "i": 24848,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 47,
+    "t": "Háromezer embert tartott maga mellett, kikből kétezret Galileába küldött, és ezer vele ment."
+  },
+  {
+    "i": 24849,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 48,
+    "t": "Amikor Jonathán bement Ptolemaiszba, a ptolemaiszbeliek bezárták a kapukat, megragadták az ő személyét és mindenkit, aki vele jött, kardélre hánytak."
+  },
+  {
+    "i": 24850,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 49,
+    "t": "Tryphon csapatokat és lovasságot küldött Galileába és a Nagy Alföldre, hogy kiirtsák Jonathán minden pártfogóját."
+  },
+  {
+    "i": 24851,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 50,
+    "t": "Azok megértették, hogy ő elfogatott, és hogy elveszett, mint azok, kik vele voltak; bátorították egymást és meneteltek szoros sorokban, készen a harcra."
+  },
+  {
+    "i": 24852,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 51,
+    "t": "Azok, kik üldözték őket, látván, hogy életükért küzdenek, visszatértek."
+  },
+  {
+    "i": 24853,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 52,
+    "t": "Épségben és épen megérkeztek Júda földjére, sírták Jonathánt és az ő társait és nagy félelem szállta meg őket; egész Izrael nagy gyászt tartott."
+  },
+  {
+    "i": 24854,
+    "b": 42,
+    "c": 4412,
+    "r": 4412,
+    "o": 53,
+    "t": "Minden környező nemzet kereste, hogy kiirtsa őket: \"Nincs vezérük, mondták, se segítségük, itt az ideje, hogy elfogjuk őket és kitöröljük az ő emlékezetüket az emberek közül."
+  },
+  {
+    "i": 24855,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 1,
+    "t": "Simon megtudta, hogy Tryphon összegyűjtött egy nagy sereget, hogy elmenjen és elpusztítsa Júda földjét."
+  },
+  {
+    "i": 24856,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 2,
+    "t": "Látván, hogy a nép retteg a borzalomtól, felment Jeruzsálembe, összegyűjtötte a népet,"
+  },
+  {
+    "i": 24857,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 3,
+    "t": "kiket így buzdított: \"Nem vagytok tudatlanok mindarról, amit én, az én atyámfiai és az én atyám háza tett a törvényekért és a szent helyért, valamint a háborúkról és a szorongattatásokról, melyeket láttunk."
+  },
+  {
+    "i": 24858,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 4,
+    "t": "Éppen ezért veszett el minden atyámfia, igen, Izrael ügyéért, és én egyedül maradtam."
+  },
+  {
+    "i": 24859,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 5,
+    "t": "Mostanra, távol legyen tőlem, hogy megkíméljem az életemet a nyomás idején! Mert nem vagyok jobb, mint az én atyámfiai."
+  },
+  {
+    "i": 24860,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 6,
+    "t": "Inkább megbosszulom a nemzetemet, a szent helyet, a ti feleségeiteket és gyermekeiteket, mert minden nemzet szövetkezett, hogy elpusztítson minket, a gyűlölettől hajtva."
+  },
+  {
+    "i": 24861,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 7,
+    "t": "E szavakra a nép lelke fellángolt;"
+  },
+  {
+    "i": 24862,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 8,
+    "t": "hangos szóval válaszoltak: \"Te vagy a mi vezetőnk Júdás és Jonathán, a te atyádfia helyett;"
+  },
+  {
+    "i": 24863,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 9,
+    "t": "vedd kezedbe a mi háborúnk irányítását és mindazt, amit mondasz nekünk, meg fogjuk tenni."
+  },
+  {
+    "i": 24864,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 10,
+    "t": "Összegyűjtött minden harcra alkalmas férfit, sietett befejezni Jeruzsálem falait és megerősítette azt."
+  },
+  {
+    "i": 24865,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 11,
+    "t": "Joppéba küldte Jonathánt, Absalom fiát, egy jelentős csapattal; ő elűzte a lakosokat és ott telepedett le."
+  },
+  {
+    "i": 24866,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 12,
+    "t": "Tryphon elindult Ptolemaiszból egy népes hadsereggel, hogy bemenjen Júda földjére, fogolyként magával vívén Jonathánt."
+  },
+  {
+    "i": 24867,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 13,
+    "t": "Simon pedig ekkor tábort ütött Adidán, a síksággal szemben."
+  },
+  {
+    "i": 24868,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 14,
+    "t": "Tryphon, megtudván, hogy Simon felváltotta az ő testvérét, Jonathánt, és hogy éppen hadba akar szállni ő magával, küldött hozzá követeket, mondván néki:"
+  },
+  {
+    "i": 24869,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 15,
+    "t": "\"A pénz miatt tartjuk fogságban a testvéredet, Jonathánt, mellyel a királyi kincstárnak tartozik, az ő hivatala miatt."
+  },
+  {
+    "i": 24870,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 16,
+    "t": "Küldj tehát most száz talentum ezüstöt és az ő két fiát túszul, nehogy, ha egyszer szabadon engedjük, fellázadjon ellenünk; akkor mi el fogjuk őt engedni."
+  },
+  {
+    "i": 24871,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 17,
+    "t": "Simon, noha tudta, hogy hamisak a szavak, melyeket a követek intéztek hozzá, elküldte a pénzt és a gyermekeket, nehogy magára vonja a nép nagy ellenszenvét, kik azt mondták volna:"
+  },
+  {
+    "i": 24872,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 18,
+    "t": "\"Azért veszett el Jonathán, mert nem küldtem el a pénzt és a gyermekeket."
+  },
+  {
+    "i": 24873,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 19,
+    "t": "Elküldte azért a gyermekeket és a száz talentumot, de Tryphon becsapta őt, nem küldvén vissza Jonathánt."
+  },
+  {
+    "i": 24874,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 20,
+    "t": "Ezután Tryphon elindult, hogy megszállja az országot és elpusztítsa azt; kitérőt tett Adóra útján: Simon és az ő hadserege akadályt gördített eléje mindenütt, ahol csak járt."
+  },
+  {
+    "i": 24875,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 21,
+    "t": "Eközben a Fellegvárbeliek üzeneteket küldtek Tryphonnak, sürgetvén őt, hogy jöjjön el hozzájuk a sivatagon keresztül, és hogy küldjön nékik élelmet."
+  },
+  {
+    "i": 24876,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 22,
+    "t": "Tryphon ekkor az egész lovasságát odarendelte, de azon az éjszakán olyan bőséges hó esett, hogy nem tudott oda elmenni. Elindult onnan és elment Gileád földjére."
+  },
+  {
+    "i": 24877,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 23,
+    "t": "Baskama közelében megölte Jonathánt, ki azon a helyen eltemettetett."
+  },
+  {
+    "i": 24878,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 24,
+    "t": "Tryphon pedig visszatérvén, visszatért a hazájába."
+  },
+  {
+    "i": 24879,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 25,
+    "t": "Simon pedig elküldte, hogy összegyűjtsék az ő testvérének, Jonathánnak a csontjait, és eltemette őt Modinban, az ő atyáinak városában."
+  },
+  {
+    "i": 24880,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 26,
+    "t": "És siratta őt Izraelnek egész népe nagy sírással és sok napon át."
+  },
+  {
+    "i": 24881,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 27,
+    "t": "És épített Simon az ő atyjának és az ő testvéreinek sírjára emlékművet faragott kövekből, elől és hátul is, magasra, hogy látható legyen."
+  },
+  {
+    "i": 24882,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 28,
+    "t": "És emelt hét gúlát, egymással szemben, az ő atyjának, és az ő anyjának, és az ő négy testvérének."
+  },
+  {
+    "i": 24883,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 29,
+    "t": "És körülvette őket magas oszlopokkal, felül hadi eszközökkel, örök emlékezetül, és a hadi eszközök mellett faragott hajókkal, hogy láthassa mindenki, aki a tengeren jár."
+  },
+  {
+    "i": 24884,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 30,
+    "t": "Ez a síremlék, amelyet Modinban készített, és mind a mai napig megvan."
+  },
+  {
+    "i": 24885,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 31,
+    "t": "Azonban Trifón, álnoksággal cselekedvén az ifjú Antiochussal, megölte őt."
+  },
+  {
+    "i": 24886,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 32,
+    "t": "És uralkodott az ő helyében, és felvette Ázsia diadémáját, és sok gonoszságot cselekedett a földön."
+  },
+  {
+    "i": 24887,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 33,
+    "t": "Simon pedig újjáépítette Júdea erősségeit, és magas tornyokkal és magas falakkal vette körül azokat, kapukkal és zárakkal, és ezen erősségekben élelmet halmozott fel."
+  },
+  {
+    "i": 24888,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 34,
+    "t": "Ezenkívül Simon kijelölt férfiakat, akiket elküldött Démétrius királyhoz, hogy az engedje el a tartományt, mert Trifón minden cselekedete rablás volt."
+  },
+  {
+    "i": 24889,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 35,
+    "t": "Démétrius király pedig levelet küldött válaszként a kérésére, ilyen szavakkal:"
+  },
+  {
+    "i": 24890,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 36,
+    "t": "„Démétrius király Simonnak, a főpapnak, a királyok barátjának, a véneknek és a zsidók nemzetének, üdvözlet."
+  },
+  {
+    "i": 24891,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 37,
+    "t": "Elfogadtuk az aranykoszorút és a pálmaágat, amelyet küldtetek nekünk, és készek vagyunk veletek teljes békét kötni, és írni a tisztviselőknek, hogy engedményeket adjanak nektek."
+  },
+  {
+    "i": 24892,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 38,
+    "t": "Mindaz, amit rátok nézve elrendeltünk, állandó marad, és az erősségek, amelyeket építettetek, a tieitek."
+  },
+  {
+    "i": 24893,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 39,
+    "t": "Elengedjük nektek a tévedéseket és a vétkeket, amelyeket mind ez ideig elkövettetek, valamint a koszorút, amellyel tartoztok, és ha valamilyen más adót szednek Jeruzsálemben, az ne követeltessék többé."
+  },
+  {
+    "i": 24894,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 40,
+    "t": "Ha valakik közületek alkalmasak arra, hogy beálljanak a testőrségünkbe, iratkozzanak fel, és legyen béke közöttünk.`\""
+  },
+  {
+    "i": 24895,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 41,
+    "t": "Százhetvenedik esztendőben eltávolíttatott Izraelről a népek igája,"
+  },
+  {
+    "i": 24896,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 42,
+    "t": "és a nép kezdett írni az okiratokra és a szerződésekre: „Simonnak, a kiváló főpapnak, a zsidók hadvezérének és kormányzójának első esztendejében."
+  },
+  {
+    "i": 24897,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 43,
+    "t": "Azokban a napokban Simon eljött, hogy ostrom alá vegye Gazarat, és körülzárja azt a seregeivel. Épített egy mozgótornyot, és odaállította a város elé, rést ütött az egyik bástyán, és elfoglalta azt."
+  },
+  {
+    "i": 24898,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 44,
+    "t": "Akik a toronyban voltak, a térre ugrottak, ami ott nagy zavart okozott."
+  },
+  {
+    "i": 24899,
+    "b": 42,
+    "c": 4413,
+    "r": 4413,
+    "o": 45,
+    "t": "A város lakói feleségeikkel és gyermekeikkel felmentek a falra, és megszaggatva ruháikat, nagy kiáltással kérték Simont, hogy kössön velük békét:"
+  }
+]

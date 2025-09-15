@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17200,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 21,
+    "t": "Ako li je gladan neprijatelj tvoj, nahrani ga; ako li je žedan, napoji ga;"
+  },
+  {
+    "i": 17201,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 22,
+    "t": "Jer ćeš ugljevlje živo zgrnuti na glavu njegovu, i Gospod će ti platiti."
+  },
+  {
+    "i": 17202,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 23,
+    "t": "Sjeverni vjetar rađa kišu, a jezik potvorljiv lice ljuto."
+  },
+  {
+    "i": 17203,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 24,
+    "t": "Bolje je živjeti u uglu krova, nego sa ženom svadljivom u kući zajedničkoj."
+  },
+  {
+    "i": 17204,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 25,
+    "t": "Kao voda hladna duši žednoj, takva je dobra vijest iz zemlje daleke."
+  },
+  {
+    "i": 17205,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 26,
+    "t": "Izvor zamućen i studenac pokvaren jest pravednik koji se povija pred bezbožnikom."
+  },
+  {
+    "i": 17206,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 27,
+    "t": "Nije dobro jesti mnogo meda, niti tražiti slavu svoju."
+  },
+  {
+    "i": 17207,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 28,
+    "t": "Grad razvaljen bez zidova jest čovjek koji ne vlada sobom."
+  },
+  {
+    "i": 17208,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 1,
+    "t": "Kao što snijeg ne priliči ljeti ni kiša u žetvi, tako ne priliči ludi slava."
+  },
+  {
+    "i": 17209,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 2,
+    "t": "Kao što ptica bježi i lastavica leti, tako kletva bez uzroka ne dolazi."
+  },
+  {
+    "i": 17210,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 3,
+    "t": "Bič za konja, uzda za magarca, a batina za leđa bezumnih."
+  },
+  {
+    "i": 17211,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 4,
+    "t": "Ne odgovaraj bezumnome po bezumlju njegovu, da ne budeš i ti kao on."
+  },
+  {
+    "i": 17212,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 5,
+    "t": "Odgovaraj bezumnome po bezumlju njegovu, da ne bude mudar u svojim očima."
+  },
+  {
+    "i": 17213,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 6,
+    "t": "Siječe noge i pije nepravdu tko šalje poruku po ludome."
+  },
+  {
+    "i": 17214,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 7,
+    "t": "Kao što su hrome noge kljasta čovjeka, takva je mudra izreka u ustima bezumnih."
+  },
+  {
+    "i": 17215,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 8,
+    "t": "Kao tko veže kamen u praćku, tako je tko daje slavu ludome."
+  },
+  {
+    "i": 17216,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 9,
+    "t": "Kao trn koji se penje u ruku pijanice, takva je mudra izreka u ustima bezumnih."
+  },
+  {
+    "i": 17217,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 10,
+    "t": "Veliki Bog koji sve stvara, nagrađuje ludoga i kažnjava prijestupnike."
+  },
+  {
+    "i": 17218,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 11,
+    "t": "Kao što se pas vraća na svoju bljuvotinu, tako se lud vraća na svoje ludosti."
+  },
+  {
+    "i": 17219,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 12,
+    "t": "Vidiš li čovjeka koji je mudar u svojim očima? Više nade ima za bezumnoga nego za njega."
+  },
+  {
+    "i": 17220,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 13,
+    "t": "Lijenčina govori: Lav je na putu, lav je na ulicama."
+  },
+  {
+    "i": 17221,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 14,
+    "t": "Vrata se okreću na svojim šarkama, a lijenčina na svom krevetu."
+  },
+  {
+    "i": 17222,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 15,
+    "t": "Lijenčina zavuče ruku u zdjelu, i teško mu je vratiti je ustima svojim."
+  },
+  {
+    "i": 17223,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 16,
+    "t": "Lijenčina je mudriji u svojim očima nego sedam ljudi koji odgovaraju razumno."
+  },
+  {
+    "i": 17224,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 17,
+    "t": "Kao tko hvata psa za uši, tako je tko se miješa u tuđu svađu."
+  },
+  {
+    "i": 17225,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 18,
+    "t": "Kao luđak koji baca iskre, strijele i smrt,"
+  },
+  {
+    "i": 17226,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 19,
+    "t": "Takav je čovjek koji vara bližnjega svojega, i govori: Ja sam se samo šalio."
+  },
+  {
+    "i": 17227,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 20,
+    "t": "Gdje nestane drva, oganj se gasi; i gdje nema klevetnika, svađa prestaje."
+  },
+  {
+    "i": 17228,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 21,
+    "t": "Ugljevlje za žeravicu i drva za oganj, tako je svadljiv čovjek da raspaljuje svađu."
+  },
+  {
+    "i": 17229,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 22,
+    "t": "Riječi klevetnika su kao poslastice, i silaze u najdublje odaje utrobe."
+  },
+  {
+    "i": 17230,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 23,
+    "t": "Kao srebro trosko posuto po grnčariji, takve su usne žarke sa zlim srcem."
+  },
+  {
+    "i": 17231,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 24,
+    "t": "Tko mrzi, pretvara se usnama svojim, a u srcu svome smišlja prijevaru;"
+  },
+  {
+    "i": 17232,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 25,
+    "t": "Kada umiljatim glasom govori, ne vjeruj mu; jer sedam gadosti ima u srcu njegovu."
+  },
+  {
+    "i": 17233,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 26,
+    "t": "Mržnja se prikriva prijevarom, ali će se zloća njezina otkriti u zboru."
+  },
+  {
+    "i": 17234,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 27,
+    "t": "Tko jamu kopa, past će u nju; i tko kamen valja, vratit će se na njega."
+  },
+  {
+    "i": 17235,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 28,
+    "t": "Jezik lažljiv mrzi one koje je ranio, i usta laskava rade propast."
+  },
+  {
+    "i": 17236,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 1,
+    "t": "Ne hvali se danom sutrašnjim, jer ne znaš što će dan donijeti."
+  },
+  {
+    "i": 17237,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 2,
+    "t": "Neka te hvali drugi, a ne tvoja usta; tuđin, a ne tvoje usne."
+  },
+  {
+    "i": 17238,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 3,
+    "t": "Težak je kamen, i pijesak je težak, ali je teži od obojega gnjev lude."
+  },
+  {
+    "i": 17239,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 4,
+    "t": "Žestok je bijes, i ljut je gnjev, ali tko će odoljeti ljubomori?"
+  },
+  {
+    "i": 17240,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 5,
+    "t": "Bolji je javni prijekor nego potajna ljubav."
+  },
+  {
+    "i": 17241,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 6,
+    "t": "Vjerne su rane prijateljeve, a laskave su poljupci neprijateljevi."
+  },
+  {
+    "i": 17242,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 7,
+    "t": "Sit dušu gazi i med, a gladnoj je duši svaka gorka stvar slatka."
+  },
+  {
+    "i": 17243,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 8,
+    "t": "Kao ptica koja luta od svog gnijezda, tako je čovjek koji luta od svoga mjesta."
+  },
+  {
+    "i": 17244,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 9,
+    "t": "Ulje i miris vesele srce, tako i slatkoća prijatelja savjetom iz duše."
+  },
+  {
+    "i": 17245,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 10,
+    "t": "Ne ostavljaj prijatelja svojega ni prijatelja svojega oca, i ne idi u kuću brata svojega u dan svoje nevolje; bolji je susjed blizu nego brat daleko."
+  },
+  {
+    "i": 17246,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 11,
+    "t": "Budi mudar, sine moj, i razveseli srce moje, da mogu odgovoriti onome koji me kori."
+  },
+  {
+    "i": 17247,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 12,
+    "t": "Razborit čovjek vidi zlo i sakrije se, a ludi idu dalje i trpe kaznu."
+  },
+  {
+    "i": 17248,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 13,
+    "t": "Uzmi mu haljinu za onoga koji jamči za stranca, i uzmi zalog za one koji se obvezuju za tuđinke."
+  },
+  {
+    "i": 17249,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 14,
+    "t": "Tko glasno blagoslivlja prijatelja svojega rano ujutro, to će mu se uračunati u prokletstvo."
+  },
+  {
+    "i": 17250,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 15,
+    "t": "Neprestana kiša u dan kišni i svadljiva žena jednaki su."
+  },
+  {
+    "i": 17251,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 16,
+    "t": "Tko je skriva, skriva vjetar, i ulje u desnici svojoj."
+  },
+  {
+    "i": 17252,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 17,
+    "t": "Željezo se oštri željezom, tako čovjek oštri lice bližnjega svojega."
+  },
+  {
+    "i": 17253,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 18,
+    "t": "Tko čuva smokvu, jest će njezin plod; i tko se brine za gospodara svojega, bit će počašćen."
+  },
+  {
+    "i": 17254,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 19,
+    "t": "Kao što voda odražava lice, tako srce čovjeka čovjeku."
+  },
+  {
+    "i": 17255,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 20,
+    "t": "Podzemlje i propast nikada se ne site, tako se ni oči čovjekove ne site."
+  },
+  {
+    "i": 17256,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 21,
+    "t": "Posuda za taljenje je za srebro, i peć za zlato, a čovjek se prokušava ustima onih koji ga hvale."
+  },
+  {
+    "i": 17257,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 22,
+    "t": "Ako i stučeš ludoga u stupi među krupicom, neće odstupiti od njega ludost njegova."
+  },
+  {
+    "i": 17258,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 23,
+    "t": "Dobro poznaj stanje stoke svoje, i pazi na stada svoja;"
+  },
+  {
+    "i": 17259,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 24,
+    "t": "Jer bogatstvo nije zauvijek, niti kruna traje od naraštaja do naraštaja."
+  },
+  {
+    "i": 17260,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 25,
+    "t": "Trava se uklanja, pojavljuje se nova trava, i skuplja se sijeno s gora;"
+  },
+  {
+    "i": 17261,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 26,
+    "t": "Janjci su ti za odjeću, i jarci su ti za kupnju polja;"
+  },
+  {
+    "i": 17262,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 27,
+    "t": "I obilje kozjeg mlijeka za tvoju hranu, za hranu tvojoj kući i za uzdržavanje sluškinja tvojih."
+  },
+  {
+    "i": 17263,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 1,
+    "t": "Bezbožnik bježi kad ga nitko ne goni, a pravednici su hrabri kao lav."
+  },
+  {
+    "i": 17264,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 2,
+    "t": "Zbog prijestupa zemlje mnogi su njezini vladari, ali čovjekom razumnim i umnim stanje se uspostavlja."
+  },
+  {
+    "i": 17265,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 3,
+    "t": "Čovjek ubog koji tlači siromahe jest kiša koja odnosi usjeve i kruha nema."
+  },
+  {
+    "i": 17266,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 4,
+    "t": "Oni koji napuštaju zakon hvale bezbožnika, ali oni koji drže zakon bore se protiv njih."
+  },
+  {
+    "i": 17267,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 5,
+    "t": "Zli ljudi ne razumiju pravdu, ali oni koji traže Gospoda razumiju sve."
+  },
+  {
+    "i": 17268,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 6,
+    "t": "Bolje je siromah koji hodi u svojoj neporočnosti nego bogat koji je pokvaren na svojim putovima."
+  },
+  {
+    "i": 17269,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 7,
+    "t": "Tko drži zakon, sin je razuman, ali tko se druži s razuzdanima, sramoti oca svoga."
+  },
+  {
+    "i": 17270,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 8,
+    "t": "Tko umnožava svoje bogatstvo kamatama i prinosima, skuplja to za onoga tko će se smilovati siromasima."
+  },
+  {
+    "i": 17271,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 9,
+    "t": "Tko odvraća uho svoje od slušanja zakona, i molitva je njegova odvratna."
+  },
+  {
+    "i": 17272,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 10,
+    "t": "Tko zavodi čestite na zao put, past će sam u svoju jamu, ali će pošteni posjedovati dobro."
+  },
+  {
+    "i": 17273,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 11,
+    "t": "Bogat čovjek mudar je u svojim očima, ali siromah razuman ispituje ga."
+  },
+  {
+    "i": 17274,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 12,
+    "t": "Kad pravednici likuju, velika je slava, ali kad se uzdignu bezbožnici, ljudi se skrivaju."
+  },
+  {
+    "i": 17275,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 13,
+    "t": "Tko skriva svoje prijestupe, neće napredovati, ali tko ih priznaje i ostavlja, steći će milosrđe."
+  },
+  {
+    "i": 17276,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 14,
+    "t": "Blago čovjeku koji se uvijek boji, ali tko otvrdne svoje srce, past će u nevolju."
+  },
+  {
+    "i": 17277,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 15,
+    "t": "Kao lav koji riče i medvjed koji napada, takav je zao vladar nad ubogim narodom."
+  },
+  {
+    "i": 17278,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 16,
+    "t": "Vladar bez razuma je veliki tlačitelj, ali tko mrzi lakomstvo, produžit će svoje dane."
+  },
+  {
+    "i": 17279,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 17,
+    "t": "Čovjek opterećen krvlju drugoga bježi do groba; neka ga nitko ne zaustavlja."
+  },
+  {
+    "i": 17280,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 18,
+    "t": "Tko hodi u neporočnosti, bit će spašen, ali tko je pokvaren na dva puta, past će."
+  },
+  {
+    "i": 17281,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 19,
+    "t": "Tko obrađuje svoju zemlju, sit će se kruha, ali tko slijedi ispraznosti, sit će se siromaštva."
+  },
+  {
+    "i": 17282,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 20,
+    "t": "Vjeran čovjek bit će obilno blagoslovljen, ali tko se žuri obogatiti, neće ostati bez kazne."
+  },
+  {
+    "i": 17283,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 21,
+    "t": "Nije dobro biti pristran, jer čovjek će zgriješiti i za komad kruha."
+  },
+  {
+    "i": 17284,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 22,
+    "t": "Tko se žuri obogatiti, ima zlo oko i ne zna da će ga snaći siromaštvo."
+  },
+  {
+    "i": 17285,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 23,
+    "t": "Tko kori čovjeka, na kraju će zadobiti veću naklonost nego onaj koji laska jezikom."
+  },
+  {
+    "i": 17286,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 24,
+    "t": "Tko krade od oca svoga i majke svoje i kaže: Nije to prijestup, on je drug razbojnikov."
+  },
+  {
+    "i": 17287,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 25,
+    "t": "Tko je pohlepan, izaziva svađu, ali tko se uzda u Gospoda, obogatit će se."
+  },
+  {
+    "i": 17288,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 26,
+    "t": "Tko se uzda u svoje srce, lud je, ali tko hodi mudro, bit će spašen."
+  },
+  {
+    "i": 17289,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 27,
+    "t": "Tko daje siromasima, neće oskudijevati, ali tko odvraća oči svoje, obilovat će prokletstvima."
+  },
+  {
+    "i": 17290,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 28,
+    "t": "Kad se uzdignu bezbožnici, ljudi se skrivaju, ali kad propadnu, pravednici se umnožavaju."
+  },
+  {
+    "i": 17291,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 1,
+    "t": "Čovjek koji je često ukoren i otvrdne vratom svojim bit će iznenada slomljen i neće biti lijeka."
+  },
+  {
+    "i": 17292,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 2,
+    "t": "Kad pravednici vladaju, narod se raduje, ali kad bezbožnik vlada, narod uzdiše."
+  },
+  {
+    "i": 17293,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 3,
+    "t": "Tko ljubi mudrost, veseli oca svojega, ali tko se druži s bludnicama, rasipa svoje bogatstvo."
+  },
+  {
+    "i": 17294,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 4,
+    "t": "Kralj pravdom učvršćuje zemlju, ali onaj koji ubire poreze, razara je."
+  },
+  {
+    "i": 17295,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 5,
+    "t": "Čovjek koji laska bližnjemu svome postavlja mrežu pred noge njegove."
+  },
+  {
+    "i": 17296,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 6,
+    "t": "U prijestupu zloga ima zamka, ali pravednik pjeva i raduje se."
+  },
+  {
+    "i": 17297,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 7,
+    "t": "Pravednik se brine za siromahe, ali bezbožnik ne razumije takvu brigu."
+  },
+  {
+    "i": 17298,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 8,
+    "t": "Podsmješljivci potpiruju grad, ali mudri smiruju gnjev."
+  },
+  {
+    "i": 17299,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 9,
+    "t": "Ako se mudar čovjek spori s ludim, bilo da se ljuti ili smije, neće biti mira."
+  }
+]

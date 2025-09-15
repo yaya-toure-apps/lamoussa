@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17200,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 21,
+    "t": "Hladoví-li nepřítel tvůj, nakrm jej, žízní-li, napoj jej,"
+  },
+  {
+    "i": 17201,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 22,
+    "t": "neboť uhlí řeřavé shrneš na hlavu jeho, a Hospodin ti odplatí."
+  },
+  {
+    "i": 17202,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 23,
+    "t": "Severní vítr plodí déšť, a jazyk potupný obličej rozhněvaný."
+  },
+  {
+    "i": 17203,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 24,
+    "t": "Lépe jest bydleti v úhlu na střeše, než s ženou svárlivou v domě společném."
+  },
+  {
+    "i": 17204,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 25,
+    "t": "Jako voda studená hrdlu žíznivému, tak jest zpráva dobrá z země daleké."
+  },
+  {
+    "i": 17205,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 26,
+    "t": "Studnice pošlapaná a zřídlo zkažené, tak jest spravedlivý klesající před bezbožným."
+  },
+  {
+    "i": 17206,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 27,
+    "t": "Není dobré mnoho medu jísti, ani hledati slávu na slávu."
+  },
+  {
+    "i": 17207,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 28,
+    "t": "Město zbořené bez zdí, tak jest muž, kterýž nemá vlády nad duchem svým."
+  },
+  {
+    "i": 17208,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 1,
+    "t": "Jako nesluší sněhu v létě, ani dešti v žni, tak nesluší pocty bláznu."
+  },
+  {
+    "i": 17209,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 2,
+    "t": "Jako ptáče uletí, a vlaštovice prchne, tak zlořečení bez příčiny nepřijde."
+  },
+  {
+    "i": 17210,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 3,
+    "t": "Bič koni, uzda oslovi, a metla na hřbet bláznů."
+  },
+  {
+    "i": 17211,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 4,
+    "t": "Neodpovídej bláznu podle bláznovství jeho, abys nebyl jemu podobný i ty."
+  },
+  {
+    "i": 17212,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 5,
+    "t": "Odpovídej bláznu podle bláznovství jeho, aby se sobě nezdál moudrým."
+  },
+  {
+    "i": 17213,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 6,
+    "t": "Usekává sobě nohy, pije škodu, kdož skrze blázna poselství posílá."
+  },
+  {
+    "i": 17214,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 7,
+    "t": "Jako nohy kulhavého se chatrně drží, tak jest podobenství v ústech bláznů."
+  },
+  {
+    "i": 17215,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 8,
+    "t": "Jako kdož kamenem uvazuje prak, tak jest, kdož dává bláznu čest."
+  },
+  {
+    "i": 17216,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 9,
+    "t": "Jako trní v ruce opilcově roste, tak jest podobenství v ústech bláznů."
+  },
+  {
+    "i": 17217,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 10,
+    "t": "Jako střelec zraňuje všecky, tak jest, kdož najímá blázna a opilce."
+  },
+  {
+    "i": 17218,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 11,
+    "t": "Jako pes navrací se k vývratku svému, tak blázěn opakuje bláznovství své."
+  },
+  {
+    "i": 17219,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 12,
+    "t": "Viděl-li jsi muže sobě moudrého? Více naděje jest z blázna než z něho."
+  },
+  {
+    "i": 17220,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 13,
+    "t": "Říká lenivý: Lev jest na cestě, lev na ulicích."
+  },
+  {
+    "i": 17221,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 14,
+    "t": "Dvéře se obracejí na čepu svém, a lenivý na loži svém."
+  },
+  {
+    "i": 17222,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 15,
+    "t": "Zoufale lenivý skrývá ruku svou v míse, těžce mu ji zase k ústům přinésti."
+  },
+  {
+    "i": 17223,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 16,
+    "t": "Moudřejší sobě zdá se lenivý, než sedm dávajících rozumnou odpověď."
+  },
+  {
+    "i": 17224,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 17,
+    "t": "Jako kdož chytá psa za uši, tak jest, kdož se vměšuje v svár cizí."
+  },
+  {
+    "i": 17225,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 18,
+    "t": "Jako kdož se posmívá a mece ohněm, šípy a smrtí,"
+  },
+  {
+    "i": 17226,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 19,
+    "t": "Tak jest muž, kterýž podvodně činí bližnímu svému, a říká: Zdaliž jsem nežertoval?"
+  },
+  {
+    "i": 17227,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 20,
+    "t": "Kde není dříví, oheň vyhasne, a kde není utrhače, svár utichne."
+  },
+  {
+    "i": 17228,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 21,
+    "t": "Jako uhlí k řeřavému uhlí, a dříví k ohni, tak jest člověk svárlivý ku rozdmychování sváru."
+  },
+  {
+    "i": 17229,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 22,
+    "t": "Slova utrhače jsou jako chutné věci, a scházejí do vnitřností břicha."
+  },
+  {
+    "i": 17230,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 23,
+    "t": "Stříbro pěnou potažené na hliněném hrnci, tak jsou rtové horoucí a srdce zlé."
+  },
+  {
+    "i": 17231,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 24,
+    "t": "Úlisností zná se nenávistník v rtech svých, a v srdci svém ukládá lest."
+  },
+  {
+    "i": 17232,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 25,
+    "t": "Když laskavě mluví, nevěř jemu, nebo sedm ohavností jest v srdci jeho."
+  },
+  {
+    "i": 17233,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 26,
+    "t": "Ačkoli se přetvařuje nenávist lstivostí, odkryta bude zlost její v shromáždění."
+  },
+  {
+    "i": 17234,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 27,
+    "t": "Kdož jámu kope, upadne do ní, a kdož valí kámen, zase se jím převalí."
+  },
+  {
+    "i": 17235,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 28,
+    "t": "Jazyk lživý nenávidí toho, ješto potírá, a ústa pochlebující působí pád."
+  },
+  {
+    "i": 17236,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 1,
+    "t": "Nechlub se dnem zítřejším, nebo nevíš, co zplodí den."
+  },
+  {
+    "i": 17237,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 2,
+    "t": "Ať te chválí jiný, a ne ústa tvá, cizí, a ne rtové tvoji."
+  },
+  {
+    "i": 17238,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 3,
+    "t": "Těžký jest kámen, a břímě písek, ale hněv blázna těžší jest než obojí."
+  },
+  {
+    "i": 17239,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 4,
+    "t": "Prchlivost jest ukrutná, a hněv prudký, ale kdo obstojí proti závisti?"
+  },
+  {
+    "i": 17240,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 5,
+    "t": "Lepší jest domlouvání zjevné, než láska skrytá."
+  },
+  {
+    "i": 17241,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 6,
+    "t": "Věrné jsou rány od milujícího, ale úlisná líbání nenávidějícího."
+  },
+  {
+    "i": 17242,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 7,
+    "t": "Duše nasycená medu se oškliví, ale duši lačné všecko hořké sladké jest."
+  },
+  {
+    "i": 17243,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 8,
+    "t": "Jako ptáče, kteréž se toulá od hnízda svého, tak jest muž, kterýž se toulá od místa svého."
+  },
+  {
+    "i": 17244,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 9,
+    "t": "Mast a kadidlo obveselují srdce, tak sladkost přítele od rady upřímné."
+  },
+  {
+    "i": 17245,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 10,
+    "t": "Přítele svého a přítele otce svého neopouštěj, aniž do domu bratra svého vejídej v den trápení svého. Lepší jest soused blízký, než bratr vzdálený."
+  },
+  {
+    "i": 17246,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 11,
+    "t": "Buď moudrý, synu můj, a obveseluj srdce mé, ať mám co odpovědíti tomu, kdož mi utrhá."
+  },
+  {
+    "i": 17247,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 12,
+    "t": "Prozřetelný vidí zlé a skrývá se, ale hloupí jdou dále a škodu trpí."
+  },
+  {
+    "i": 17248,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 13,
+    "t": "Vezmi roucho jeho, nebo se zaručil za cizího, a pro cizí vezmi od něho zastavení."
+  },
+  {
+    "i": 17249,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 14,
+    "t": "Kdož dobrořečí bližnímu svému hlasem velikým ráno z pilnosti, zlořečením mu se to počítá."
+  },
+  {
+    "i": 17250,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 15,
+    "t": "Střecha skrz kapající v den deštivý, a žena svárlivá rovny jsou."
+  },
+  {
+    "i": 17251,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 16,
+    "t": "Kdož ji schovává, schovává vítr, a mast v pravici své potkává."
+  },
+  {
+    "i": 17252,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 17,
+    "t": "Železo železem se ostří, a muž ostří tvář přítele svého."
+  },
+  {
+    "i": 17253,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 18,
+    "t": "Kdož stříhá fíkový strom, užívati bude ovoce jeho, a kdož ostříhá pána svého, ctěn bude."
+  },
+  {
+    "i": 17254,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 19,
+    "t": "Jako ve vodě tvář proti tváři, tak srdce člověka proti člověku."
+  },
+  {
+    "i": 17255,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 20,
+    "t": "Peklo a zkáza nenasytí se, tak oči člověka nenasytí se."
+  },
+  {
+    "i": 17256,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 21,
+    "t": "Kotlík stříbru, a pec zlatu, tak muž podle chvály své."
+  },
+  {
+    "i": 17257,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 22,
+    "t": "Byťs tloukl blázna v moždíři mezi krupy, však neodejde od něho bláznovství jeho."
+  },
+  {
+    "i": 17258,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 23,
+    "t": "Znaj pilně stav dobytka svého, a přilož srdce k stádům svým."
+  },
+  {
+    "i": 17259,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 24,
+    "t": "Neboť nebudeš míti statku věčně, aniž koruna od národu k národu."
+  },
+  {
+    "i": 17260,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 25,
+    "t": "Sklidí se tráva, a okáže se trávník, a shromáždí se bylina z hor."
+  },
+  {
+    "i": 17261,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 26,
+    "t": "Jehňátka máš k odění svému, a kozly k koupení pole."
+  },
+  {
+    "i": 17262,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 27,
+    "t": "A hojnost kozího mléka k pokrmu tvému, k pokrmu domu tvému, a živnosti děvek tvých."
+  },
+  {
+    "i": 17263,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 1,
+    "t": "Bezbožný utíká, ačkoli ho žádný nehoní, ale spravedliví jako lvíče směle jsou."
+  },
+  {
+    "i": 17264,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 2,
+    "t": "Pro hříchy země mnoho jest knížat jejích, ale skrze muže rozumného a umějícího jest prodloužení jeho."
+  },
+  {
+    "i": 17265,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 3,
+    "t": "Muž chudý utiskující chudé podobný jest povodni ničemné, v níž není chleba."
+  },
+  {
+    "i": 17266,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 4,
+    "t": "Opouštějící zákon chválí bezbožného, ale ostříhající zákon protiví se jemu."
+  },
+  {
+    "i": 17267,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 5,
+    "t": "Lidé zlí nerozumějí soudu, ale kteříž hledají Hospodina, rozumějí všemu."
+  },
+  {
+    "i": 17268,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 6,
+    "t": "Lepší jest chudý chodící v upřímosti své, nežli převrácený cesty, ačkoli bohatý."
+  },
+  {
+    "i": 17269,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 7,
+    "t": "Kdož ostříhá zákon, syn moudrý jest, ale kdož jest společníkem obžerných, zahanbuje otce svého."
+  },
+  {
+    "i": 17270,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 8,
+    "t": "Kdož rozmnožuje statek svůj úrokem a lichvou, tomu, kterýž se slitovává nad chudými, to shromažďuje."
+  },
+  {
+    "i": 17271,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 9,
+    "t": "Kdož odvracuje ucho své, aby neslyšel zákona, i modlitba jeho ohavnost jest."
+  },
+  {
+    "i": 17272,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 10,
+    "t": "Kdož svodí upřímé cesty zlé, do jámy své upadne, ale upřímí dědičně obdrží dobré."
+  },
+  {
+    "i": 17273,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 11,
+    "t": "Bohatý sobě zdá se moudrým, ale chudý rozumný uhlídá jej."
+  },
+  {
+    "i": 17274,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 12,
+    "t": "Když se spravedliví veselí, okrasa veliká jest, ale když povstanou bezbožní, skrývá se člověk."
+  },
+  {
+    "i": 17275,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 13,
+    "t": "Kdož přikrývá hříchy své, nebude míti zdaru, ale kdož se vyznává z nich a opouští jich, slitování dosáhne."
+  },
+  {
+    "i": 17276,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 14,
+    "t": "Blahoslavený člověk, kterýž se vždy bojí, ale kdož zatvrzuje srdce své, upadne v zlé."
+  },
+  {
+    "i": 17277,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 15,
+    "t": "Lev řvoucí a medvěd hladový jestiť kníže bezbožný nad lidem chudým."
+  },
+  {
+    "i": 17278,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 16,
+    "t": "Kníže nemoudrý rozmnožuje loupeže, ale kdož nenávidí lakomství, prodlouží dny."
+  },
+  {
+    "i": 17279,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 17,
+    "t": "Člověk obtížený krví až do hrobu prchati bude, ať ho žádný nezdržuje."
+  },
+  {
+    "i": 17280,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 18,
+    "t": "Kdož chodí v upřímnosti, ten bude spasen; kdož pak se strojí křivě dvěma cestami, ten padne na jedné z nich."
+  },
+  {
+    "i": 17281,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 19,
+    "t": "Kdož vzdělává zemi svou, nasycen bude chlebem; ale kdo následuje zahálky, nasycen bude chudobou."
+  },
+  {
+    "i": 17282,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 20,
+    "t": "Muž věrný velmi požehnání béře; ale kdo pospíchá zbohatnouti, nebude beztrestný."
+  },
+  {
+    "i": 17283,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 21,
+    "t": "Není dobré přijímati osoby spravedlivých, anobrž pro kus chleba prohřeší se člověk."
+  },
+  {
+    "i": 17284,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 22,
+    "t": "Pospíchá za bohatstvím muž závistivý, a neví, že nedostatek přijde na něho."
+  },
+  {
+    "i": 17285,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 23,
+    "t": "Kdož kárá člověka, potom větší milost nalezne než ten, kterýž jazykem lahodí."
+  },
+  {
+    "i": 17286,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 24,
+    "t": "Kdož loupí otce svého neb matku svou, a říká: Není hřích, tovaryš jest mordéře."
+  },
+  {
+    "i": 17287,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 25,
+    "t": "Pyšný duchem podněcuje sváry, ale kdož doufá v Hospodina, obtloustne."
+  },
+  {
+    "i": 17288,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 26,
+    "t": "Kdož doufá v srdce své, blázen jest; ale kdož moudře chodí, ten bude vysvobozen."
+  },
+  {
+    "i": 17289,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 27,
+    "t": "Kdož dává chudému, nebude míti nedostatku; ale kdož odvrací oči své, mnoho zlořečenství béře."
+  },
+  {
+    "i": 17290,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 28,
+    "t": "Když se povyšují bezbožní, skrývá se člověk; ale když hynou, rozmnožují se spravedliví."
+  },
+  {
+    "i": 17291,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 1,
+    "t": "Člověk od kárání zatvrzelý náhle potřen bude, a nebude míti léku."
+  },
+  {
+    "i": 17292,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 2,
+    "t": "Když se rozmnožují spravedliví, veselí se lid; ale když panují bezbožní, lká lid."
+  },
+  {
+    "i": 17293,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 3,
+    "t": "Muž, kterýž miluje moudrost, obveseluje otce svého; ale kdo se stýká s smilnicemi, utracuje statek svůj."
+  },
+  {
+    "i": 17294,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 4,
+    "t": "Král soudem upevňuje zemi svou; ale kdož jest poplatků vyhledávač, ruší ji."
+  },
+  {
+    "i": 17295,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 5,
+    "t": "Člověk, kterýž lahodí bližnímu svému, osidlo rozprostírá nohám jeho."
+  },
+  {
+    "i": 17296,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 6,
+    "t": "V přestoupení člověka zlého jest osidlo; ale spravedlivý zpívá a veselí se."
+  },
+  {
+    "i": 17297,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 7,
+    "t": "Spravedlivý zná příčinu chudých; ale bezbožný nezná uměti."
+  },
+  {
+    "i": 17298,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 8,
+    "t": "Rouhači rozpalují město, ale moudří odvracejí hněv."
+  },
+  {
+    "i": 17299,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 9,
+    "t": "Člověk moudrý, maje soud s bláznem, a hněvá-li se, a směje-li se, nemá žádného odpočinutí."
+  }
+]

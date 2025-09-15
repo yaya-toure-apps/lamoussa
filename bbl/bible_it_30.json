@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "Terràs impuro il tasso, perché, benché rumini, non ha l'unghia fessa;"
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "Terràs impura la lepre, perché, benché rumini, non ha l'unghia fessa;"
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "Terràs impuro il porco, perché ha l'unghia fessa, lo zoccolo spaccato, ma non rumina;"
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "Non mangerete la loro carne e non toccherete i loro corpi morti; li terrete impuri."
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "Fra tutti gli animali che vivono nelle acque, potrete mangiare questi: tutti quelli che hanno pinne e squame, tanto nei mari quanto nei fiumi, li potrete mangiare;"
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "ma tutti quelli che non hanno né pinne né squame, tanto nei mari quanto nei fiumi, fra tutti gli esseri che si muovono nelle acque e fra tutti gli animali che vivono nelle acque, saranno per voi un abominio."
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "Saranno per voi un abominio; non mangerete la loro carne e avrete in abominio i loro corpi morti."
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "Tutto quel che non ha né pinne né squame nelle acque sarà per voi un abominio."
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "Fra i volatili, ecco quelli che terrete in abominio e che non si dovranno mangiare, perché sono un abominio: l'aquila, l'ossifraga e l'aquila di mare;"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "il nibbio, il falco nelle sue diverse specie;"
+  },
+  {
+    "i": 3010,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 15,
+    "t": "ogni specie di corvo;"
+  },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "lo struzzo, il gufo, il gabbiano, lo sparviero nelle sue diverse specie;"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "l'allocco, il cormorano, la civetta;"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "l'ibis, il pellicano, l'avvoltoio;"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "la cicogna, l'airone nelle sue diverse specie, l'upupa e il pipistrello."
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "Ogni insetto alato che cammina su quattro piedi sarà per voi un abominio."
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "Però, fra tutti gli insetti alati che camminano su quattro piedi, potrete mangiare quelli che hanno le gambe sopra i piedi per saltare sulla terra;"
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "di questi potrete mangiare: ogni specie di locusta, ogni specie di cavalletta, ogni specie di grillo e ogni specie di gryllo;"
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "ma ogni altro insetto alato che ha quattro piedi sarà per voi un abominio."
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "Da codesti animali vi renderete impuri; chiunque toccherà il loro corpo morto sarà impuro fino alla sera;"
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "chiunque trasporterà un loro corpo morto dovrà lavarsi le vesti e sarà impuro fino alla sera."
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "Ogni animale che ha l'unghia, ma non fessa, e non rumina, sarà per voi impuro; chiunque lo toccherà sarà impuro."
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "Quanto a tutti i quadrupedi che camminano sulla pianta del piede, saranno per voi impuri; chiunque toccherà il loro corpo morto sarà impuro fino alla sera;"
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "e chiunque trasporterà il loro corpo morto dovrà lavarsi le vesti e sarà impuro fino alla sera. Questi animali saranno per voi impuri."
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "Fra gli animali che strisciano sulla terra, ecco quelli che saranno per voi impuri: la talpa, il topo e ogni specie di ramarro;"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "il geco, il varano, la lucertola, la testuggine e il camaleonte."
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "Questi animali, fra quanti strisciano, saranno per voi impuri; chiunque li toccherà morti sarà impuro fino alla sera."
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "Ogni oggetto sul quale cadrà morto qualcuno di essi diventerà impuro; si tratti di un utensile di legno, di una veste, di una pelle, di un sacco o di qualunque altro oggetto di cui si faccia uso, dovrà essere immerso nell'acqua e resterà impuro fino alla sera; poi sarà puro."
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "Ogni vaso di terra dentro il quale ne sarà caduto qualcuno, lo romperete; ogni cosa che vi si troverà dentro sarà impura."
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "Ogni cibo che serve di nutrimento, sul quale sia venuta dell'acqua, sarà impuro; ogni bevanda che serve di nutrimento, qualunque sia il vaso che la contiene, sarà impura."
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "Ogni oggetto sul quale cadrà parte del loro corpo morto sarà impuro; il forno e il fornello saranno distrutti, perché sono impuri e resteranno impuri per voi."
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "Però, le fonti, le cisterne e gli ammassi d'acqua rimarranno puri; ma chi toccherà i loro corpi morti sarà impuro."
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "Se parte del loro corpo morto cade sopra una semente qualunque, essa rimarrà pura;"
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "ma se è stata versata dell'acqua sulla semente e vi cade sopra parte del loro corpo morto, essa sarà per voi impura."
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "Se muore un animale, del quale vi servite per nutrimento, chi ne toccherà il corpo morto sarà impuro fino alla sera;"
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "chi mangerà del suo corpo morto dovrà lavarsi le vesti e sarà impuro fino alla sera; chi trasporterà il suo corpo morto dovrà lavarsi le vesti e sarà impuro fino alla sera."
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "Ogni essere che striscia sulla terra è un abominio; non se ne mangerà."
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "Non mangerete nulla di ciò che striscia sul ventre, né di ciò che cammina su quattro piedi, né di ciò che ha molti piedi, insomma, nulla di ciò che striscia sulla terra, perché è un abominio."
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "Non vi rendete dunque immondi con alcuno di questi animali che strisciano; non vi contaminate con essi, in modo da diventare impuri."
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "Io sono l'Eterno, il vostro Dio; santificatevi dunque e siate santi, perché io sono santo; non vi contaminate con alcuno di questi animali che strisciano sulla terra."
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "Io sono l'Eterno che vi ho fatti uscire dal paese d'Egitto, per essere il vostro Dio; siate dunque santi, perché io sono santo."
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "Questa è la legge relativa agli animali, ai volatili, a tutti gli esseri viventi che si muovono nelle acque e a tutti gli esseri che strisciano sulla terra;"
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "per fare distinzione fra ciò che è impuro e ciò che è puro, fra gli animali che si possono mangiare e quelli che non si devono mangiare."
+  },
+  {
+    "i": 3043,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 1,
+    "t": "L'Eterno parlò a Mosè e gli disse:"
+  },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Parla ai figli d'Israele e di' loro: Quando una donna sarà rimasta incinta e avrà partorito un maschio, sarà impura per sette giorni; sarà impura come nei giorni della sua mestruazione."
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "L'ottavo giorno si circonciderà il prepuzio del bambino."
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "Poi ella resterà ancora trentatré giorni a purificarsi dal suo sangue; non toccherà alcuna cosa sacra e non andrà al santuario, finché non siano compiuti i giorni della sua purificazione."
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "Ma, se partorisce una femmina, sarà impura per due settimane, come durante le sue mestruazioni; poi resterà sessantasei giorni a purificarsi dal suo sangue."
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "Quando saranno compiuti i giorni della sua purificazione per un figlio maschio o per una figlia, porterà al sacerdote, all'ingresso della tenda di convegno, un agnello di un anno per l'olocausto e un piccione o una tortora per il sacrificio per il peccato."
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "Egli l'offrirà davanti all'Eterno e farà l'espiazione per lei; così ella sarà purificata dal flusso del suo sangue. Questa è la legge relativa alla donna che partorisce un figlio maschio o una figlia."
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "Ma, se non ha mezzi sufficienti per procurarsi un agnello, prenderà due tortore o due piccioni: uno per l'olocausto e l'altro per il sacrificio per il peccato; il sacerdote farà l'espiazione per lei, ed ella sarà purificata."
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "L'Eterno parlò a Mosè e ad Aaronne, dicendo:"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "Quando un uomo avrà sulla pelle del suo corpo un tumore, una pustola o una macchia bianca, che faccia sospettare una piaga di lebbra sulla pelle, lo si condurrà ad Aaronne, il sacerdote, o a uno dei suoi figli, i sacerdoti."
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "Il sacerdote esaminerà la piaga sulla pelle; se il pelo nella piaga è diventato bianco e la piaga appare più profonda della pelle del suo corpo, è una piaga di lebbra; il sacerdote, dopo averla esaminata, lo dichiarerà impuro."
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "Ma se la macchia bianca sulla pelle non è più profonda della pelle e il pelo non è diventato bianco, il sacerdote rinchiuderà per sette giorni il malato."
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "Il settimo giorno il sacerdote lo esaminerà; se gli parrà che la piaga sia rimasta tale e non si sia allargata sulla pelle, lo rinchiuderà per altri sette giorni."
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "Il sacerdote lo esaminerà di nuovo il settimo giorno; se vedrà che la piaga è sbiadita e non si è allargata sulla pelle, il sacerdote lo dichiarerà puro; è soltanto una pustola; il malato si laverà le vesti e sarà puro."
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "Ma se la pustola si allarga sulla pelle, dopo che il malato si è mostrato al sacerdote per essere dichiarato puro, egli si mostrerà di nuovo al sacerdote."
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "Il sacerdote lo esaminerà; se vedrà che la pustola si è allargata sulla pelle, il sacerdote lo dichiarerà impuro; è lebbra."
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "Quando un uomo avrà addosso una piaga di lebbra, sarà condotto al sacerdote."
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "Il sacerdote lo esaminerà; se vedrà sulla pelle un tumore bianco, che abbia fatto imbiancare il pelo, e una piaga viva nella tumefazione,"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "è lebbra inveterata sulla pelle del suo corpo; il sacerdote lo dichiarerà impuro, senza rinchiuderlo, perché è certamente impuro."
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "Ma se la lebbra si allarga sulla pelle e ricopre tutta la pelle del malato, dalla testa ai piedi, dovunque il sacerdote guardi,"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "il sacerdote lo esaminerà; se vedrà che la lebbra ha ricoperto tutto il suo corpo, dichiarerà puro il malato; poiché è tutto diventato bianco, è puro."
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "Ma nel giorno in cui comparirà su di lui una piaga viva, sarà impuro."
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "Il sacerdote esaminerà la piaga viva; se la piaga viva è rossa, dichiarerà impuro il malato; la piaga viva è impura, è lebbra."
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "Ma se la piaga viva ridiventa bianca, il malato andrà dal sacerdote,"
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "il sacerdote lo esaminerà; se la piaga sarà diventata bianca, il sacerdote dichiarerà puro il malato; egli è puro."
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "Quando uno avrà avuto sulla pelle del suo corpo un'ulcera risanata,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "e nel luogo dell'ulcera si formerà un tumore bianco o una macchia bianca rossastra, egli si mostrerà al sacerdote."
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "Il sacerdote lo esaminerà; se vedrà che la macchia appare più profonda della pelle e che il pelo è diventato bianco, il sacerdote lo dichiarerà impuro; è una piaga di lebbra che si è sviluppata nell'ulcera."
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "Ma se il sacerdote, esaminandola, trova che non vi è pelo bianco nella macchia, che essa non è più profonda della pelle ed è sbiadita, rinchiuderà il malato per sette giorni."
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "Se poi la macchia si allarga sulla pelle, il sacerdote lo dichiarerà impuro; è una piaga di lebbra."
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "Ma se la macchia rimane al suo posto e non si allarga, è soltanto la cicatrice dell'ulcera; il sacerdote lo dichiarerà puro."
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Quando uno avrà sulla pelle del suo corpo una bruciatura di fuoco e la carne viva della bruciatura produrrà una macchia bianca rossastra o bianca,"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "il sacerdote la esaminerà; se vedrà che il pelo della macchia è diventato bianco e la macchia appare più profonda della pelle, è lebbra che si è sviluppata nella bruciatura; il sacerdote lo dichiarerà impuro; è una piaga di lebbra."
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "Ma se il sacerdote, esaminandola, trova che non vi è pelo bianco nella macchia, che essa non è più profonda della pelle ed è sbiadita, il sacerdote lo rinchiuderà per sette giorni."
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "Il settimo giorno il sacerdote lo esaminerà; se la macchia si è allargata sulla pelle, il sacerdote lo dichiarerà impuro; è una piaga di lebbra."
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "Ma se la macchia è rimasta al suo posto e non si è allargata sulla pelle, ed è sbiadita, è soltanto un tumore della bruciatura; il sacerdote lo dichiarerà puro, perché è soltanto la cicatrice della bruciatura."
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "Quando un uomo o una donna avrà una piaga sulla testa o sulla barba,"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "Il sacerdote esaminerà codesta piaga e, se ivi scorge un avvallamento visibile della pelle con pelo giallognolo e gracile, dichiarerà immondo il malato. È la tigna, ovverosia la lebbra del capo o del mento."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "Orbene, se all'esame di tal caso di tigna il sacerdote constata che non v'è punto avvallamento visibile della pelle né pelo giallognolo, segregherà per sette giorni il tignoso."
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "Egli esaminerà il male il settimo giorno e, se constaterà che la tigna non si è sviluppata, che il pelo non v'è punto giallognolo, che non v'è punto avvallamento visibile della pelle,"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "il malato si raderà, omettendo tuttavia la parte tignosa, e il sacerdote lo segregherà una seconda volta per sette giorni."
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "Egli esaminerà il male il settimo giorno, e, se constaterà che non si è sviluppato sulla pelle, che non v'è avvallamento visibile della pelle, il sacerdote dichiarerà puro cotesto malato. Dopo aver lavato le sue vesti sarà puro."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "Ma se tuttavia, dopo siffatta purificazione, la tigna si è sviluppata sulla pelle,"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "il sacerdote l'esaminerà: se constaterà uno sviluppo della tigna sulla pelle, è segno che il malato è immondo e non si verificherà se il pelo è giallognolo."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "Mentre se la tigna apparisce stazionaria e se ivi spunta del pelo nero, è segno che il malato è guarito. Egli è puro e il sacerdote lo dichiarerà puro."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "Se si producono delle macchie sulla pelle di un uomo o di una donna e se coteste macchie sono bianche,"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "il sacerdote le esaminerà. Se constaterà che coteste macchie sulla pelle sono di un bianco opaco, trattasi d'un esantema che ha proliferato sulla pelle: il malato è puro."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "Se un uomo perde i capelli del suo cranio, è la calvizie del cranio, egli è puro."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "Se è sul davanti della testa che perde i suoi capelli, è una calvizie della fronte, egli è puro."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "Ma se vi è al cranio o alla fronte un male bianco-rossastro, è segno che una lebbra prolifera sul cranio o la fronte di costui."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "Il sacerdote l'esaminerà e, se constaterà al cranio o alla fronte un tumore bianco-rossastro, del medesimo aspetto che la lebbra della pelle,"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "è segno che l'uomo è lebbroso; egli è immondo. Il sacerdote dovrà dichiararlo immondo, egli è affetto da lebbra al capo."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "Il lebbroso affetto da tal male porterà le sue vesti stracciate e i suoi capelli sciolti; si coprirà i baffi e griderà: \"Immondo! Immondo!"
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "Fintanto che durerà il suo male, egli sarà immondo e, essendo immondo, dimorerà a parte: la sua dimora sarà fuori del campo."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "Quando un vestimento è affetto da lebbra, che sia un vestimento di lana o di lino,"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "un tessuto o una coperta in lana o in lino, del cuoio o un lavoro qualsivoglia in cuoio,"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "se la macchia di cotesto vestimento, di cotesto cuoio, di cotesto tessuto, di cotesta coperta o di cotesto oggetto di cuoio apparisce verdastra o rossastra, trattasi d'un caso di lebbra da mostrare al sacerdote."
+  }
+]

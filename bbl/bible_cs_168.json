@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16800,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 15,
+    "t": "Cesta blázna jest přímá v očích jeho, ale moudrý slyší radu."
+  },
+  {
+    "i": 16801,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 16,
+    "t": "Blázen hned zjevuje hněv svůj, ale rozumný člověk skrývá pohrdání."
+  },
+  {
+    "i": 16802,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 17,
+    "t": "Kdo zjevuje pravdu, ohlašuje spravedlnost, ale svědek lživý jest lstivost sama."
+  },
+  {
+    "i": 16803,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 18,
+    "t": "Někdo mluví zbrkle, jakoby bodal mečem, ale jazyk moudrých uzdravuje."
+  },
+  {
+    "i": 16804,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 19,
+    "t": "Ret pravdivý jest utvrzen na věky, ale jazyk lživý jen na okamžik."
+  },
+  {
+    "i": 16805,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 20,
+    "t": "V srdci, jež promýšlí zlo: lest; u rádců pokojných: radost."
+  },
+  {
+    "i": 16806,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 21,
+    "t": "Spravedlivému se nestane žádná nehoda, ale zlé jsou naplněni neštěstím."
+  },
+  {
+    "i": 16807,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 22,
+    "t": "Ohavností Hospodinu jsou rty lživé, ale miluje ty, kdož činí pravdu."
+  },
+  {
+    "i": 16808,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 23,
+    "t": "Moudrý člověk skrývá své poznání, ale srdce hlupáků hlásá svou pošetilost."
+  },
+  {
+    "i": 16809,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 24,
+    "t": "Ruka pilná bude panovat, ale ruka lenivá bude robotovat."
+  },
+  {
+    "i": 16810,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 25,
+    "t": "Úzkost v srdci člověka jej skličuje, ale dobré slovo jej obveseluje."
+  },
+  {
+    "i": 16811,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 26,
+    "t": "Spravedlivý ukazuje cestu svému bližnímu, ale cesta zlých je svádí."
+  },
+  {
+    "i": 16812,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 27,
+    "t": "Lenost nepeče svou zvěř, ale pilnost jest vzácný statek člověka."
+  },
+  {
+    "i": 16813,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 28,
+    "t": "Na stezce spravedlnosti jest život, cesta zvrácených vede ke smrti."
+  },
+  {
+    "i": 16814,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 1,
+    "t": "Syn moudrý slyší kázeň svého otce, ale posměvač neposlouchá výtky."
+  },
+  {
+    "i": 16815,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 2,
+    "t": "Z ovoce svých úst se člověk nasytí dobrého, ale duše zrádců se sytí násilím."
+  },
+  {
+    "i": 16816,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 3,
+    "t": "Kdo střeží svá ústa, chrání svůj život, kdo otevírá své rty, zahubí se."
+  },
+  {
+    "i": 16817,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 4,
+    "t": "Lenoch touží, ale nic nemá, zatímco hlad pilných jest nasycen."
+  },
+  {
+    "i": 16818,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 5,
+    "t": "Spravedlivý nenávidí slovo lživé, ale bezbožný hanobí a pomlouvá."
+  },
+  {
+    "i": 16819,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 6,
+    "t": "Spravedlnost střeží toho, jehož cesta jest poctivá, ale hřích působí zkázu bezbožného."
+  },
+  {
+    "i": 16820,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 7,
+    "t": "Někdo se vydává za bohatého, ačkoli nic nemá, jiný se dává za chudého, ačkoli má velký majetek."
+  },
+  {
+    "i": 16821,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 8,
+    "t": "Výkupné za život člověka: jeho bohatství, ale chudý neslyší výtky."
+  },
+  {
+    "i": 16822,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 9,
+    "t": "Světlo spravedlivých jest radostné, ale lampa bezbožných zhasne."
+  },
+  {
+    "i": 16823,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 10,
+    "t": "Pýchou vzniká jen svár, ale u těch, kdo přijímají radu, jest moudrost."
+  },
+  {
+    "i": 16824,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 11,
+    "t": "Majetek nabytý spěchem se zmenšuje, ale kdo shromažďuje pozvolna, zbohatne."
+  },
+  {
+    "i": 16825,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 12,
+    "t": "Odkládaná naděje činí srdce nemocným, ale splněné přání jest stromem života."
+  },
+  {
+    "i": 16826,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 13,
+    "t": "Kdo pohrdá slovem, zahyne, kdo respektuje přikázání, bude zachráněn."
+  },
+  {
+    "i": 16827,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 14,
+    "t": "Učení moudrého jest zdrojem života, aby se člověk vyhnul osidlům smrti."
+  },
+  {
+    "i": 16828,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 15,
+    "t": "Velký rozum obstarává přízeň, ale cesta zrádců jest tvrdá."
+  },
+  {
+    "i": 16829,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 16,
+    "t": "Každý rozumný člověk jedná uvážlivě, ale hlupák dává na odiv svou pošetilost."
+  },
+  {
+    "i": 16830,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 17,
+    "t": "Posel ničemný upadne do neštěstí, posel věrný přináší uzdravení."
+  },
+  {
+    "i": 16831,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 18,
+    "t": "Bída a pohrdání tomu, kdo opouští kázeň, ale čest tomu, kdo dbá na pokárání."
+  },
+  {
+    "i": 16832,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 19,
+    "t": "Splněné přání jest sladkost pro duši. Ohavností pro hlupáky jest odvracet se od zla."
+  },
+  {
+    "i": 16833,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 20,
+    "t": "Kdo chodí s moudrými, stane se moudrým, kdo se stýká s hlupáky, zkazí se."
+  },
+  {
+    "i": 16834,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 21,
+    "t": "Za hříšníkem jde neštěstí, ale štěstí odměňuje spravedlivé."
+  },
+  {
+    "i": 16835,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 22,
+    "t": "Synům svých synů zanechává dobrý člověk dědictví, ale spravedlivému jest vyhrazena jmění hříšníků."
+  },
+  {
+    "i": 16836,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 23,
+    "t": "Bohatá úroda na poli chudých, ale někteří hynou pro nedostatek spravedlnosti."
+  },
+  {
+    "i": 16837,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 24,
+    "t": "Kdo šetří hůl, nenávidí svého syna, kdo jej miluje, nešetří na kárání."
+  },
+  {
+    "i": 16838,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 25,
+    "t": "Spravedlivý jí a nasytí se, ale břicho bezbožných lační."
+  },
+  {
+    "i": 16839,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 1,
+    "t": "Moudrost si buduje dům, ale Pošetilost jej svýma rukama boří."
+  },
+  {
+    "i": 16840,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 2,
+    "t": "Kdo chodí v upřímnosti, bojí se Hospodina, kdo se odchyluje od jeho cest, jím pohrdá."
+  },
+  {
+    "i": 16841,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 3,
+    "t": "V ústech hlupáka jest výhonek pýchy, ale rty moudrých je střeží."
+  },
+  {
+    "i": 16842,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 4,
+    "t": "Kde nejsou volci, jesle prázdné, ale silný býk přináší hojný výnos."
+  },
+  {
+    "i": 16843,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 5,
+    "t": "Svědek věrný nelže, ale svědek lživý šíří lež."
+  },
+  {
+    "i": 16844,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 6,
+    "t": "Posměvač hledá moudrost, ale marně, pro člověka rozumného jest poznání snadnou věcí."
+  },
+  {
+    "i": 16845,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 7,
+    "t": "Odejdi od hlupáka, neboť bys neznal moudré rty."
+  },
+  {
+    "i": 16846,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 8,
+    "t": "Moudrostí rozumného jest dohlížet na své chování, ale pošetilost hlupáků jest jen klam."
+  },
+  {
+    "i": 16847,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 9,
+    "t": "Hlupáci se posmívají oběti za hřích, ale mezi spravedlivými jest přízeň."
+  },
+  {
+    "i": 16848,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 10,
+    "t": "Srdce zná svou vlastní bolest a cizinec se nepodílí na jeho radosti."
+  },
+  {
+    "i": 16849,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 11,
+    "t": "Dům bezbožných bude zničen, ale stan spravedlivých bude vzkvétat."
+  },
+  {
+    "i": 16850,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 12,
+    "t": "Někdy se někomu zdá cesta přímá, ale nakonec jest to cesta smrti."
+  },
+  {
+    "i": 16851,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 13,
+    "t": "I ve smíchu nalézá srdce bolest a radost končí zármutkem."
+  },
+  {
+    "i": 16852,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 14,
+    "t": "Srdce zvrácené se sytí svými skutky a dobrý člověk svými díly."
+  },
+  {
+    "i": 16853,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 15,
+    "t": "Naivní člověk věří všemu, co se říká, ale rozumný člověk dohlíží na své kroky."
+  },
+  {
+    "i": 16854,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 16,
+    "t": "Moudrý se bojí zla a odvrací se od něj, hlupák jest troufalý a spoléhá na sebe."
+  },
+  {
+    "i": 16855,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 17,
+    "t": "Člověk hněvivý činí pošetilosti, člověk zlý jest nenáviděn."
+  },
+  {
+    "i": 16856,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 18,
+    "t": "Údělem naivních jest pošetilost, lidé rozumní si z poznání dělají korunu."
+  },
+  {
+    "i": 16857,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 19,
+    "t": "Před dobrými se klanějí zlí a u bran spravedlivých bezbožní."
+  },
+  {
+    "i": 16858,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 20,
+    "t": "I svému bližnímu jest chudý odporný, ale mnozí milují bohatého."
+  },
+  {
+    "i": 16859,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 21,
+    "t": "Hřeší ten, kdo pohrdá svým bližním; blahoslavený, kdo se slitovává nad chudými."
+  },
+  {
+    "i": 16860,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 22,
+    "t": "Není-li bloudění strojiti zlo? Milosrdenství a věrnost tomu, kdo se věnuje dobru."
+  },
+  {
+    "i": 16861,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 23,
+    "t": "Veškerá práce přináší zisk, ale tlachání přináší jen nedostatek."
+  },
+  {
+    "i": 16862,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 24,
+    "t": "Korunou moudrých jest jejich bohatství, pošetilost hlupáků jest pošetilostí."
+  },
+  {
+    "i": 16863,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 25,
+    "t": "Svědek věrný zachraňuje životy, kdo pronáší lži, jest podvodník."
+  },
+  {
+    "i": 16864,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 26,
+    "t": "V bázni Hospodinově jest mocná bezpečnost, pro jeho děti jest útočištěm."
+  },
+  {
+    "i": 16865,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 27,
+    "t": "Bázeň Hospodinova jest zdrojem života, aby se člověk vyhnul osidlům smrti."
+  },
+  {
+    "i": 16866,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 28,
+    "t": "Lid početný, sláva krále, úbytek obyvatelstva, zkáza knížete."
+  },
+  {
+    "i": 16867,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 29,
+    "t": "Člověk pomalý k hněvu jest plný rozumu, kdo má hbitou náladu, vyvyšuje pošetilost."
+  },
+  {
+    "i": 16868,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 30,
+    "t": "Život těla: srdce pokojné, ale závist jest kazivost kostí."
+  },
+  {
+    "i": 16869,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 31,
+    "t": "Utlačovat slabého jest urážet jeho Stvořitele, ctít jej jest být dobrý k ubožákům."
+  },
+  {
+    "i": 16870,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 32,
+    "t": "Vlastní zlobou jest bezbožný poražen, spravedlivý nalézá útočiště ve své bezúhonnosti."
+  },
+  {
+    "i": 16871,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 33,
+    "t": "V srdci rozumném přebývá moudrost, nelze ji poznat v srdci hlupáků."
+  },
+  {
+    "i": 16872,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 34,
+    "t": "Spravedlnost vyvyšuje národ, hřích jest hanbou lidu."
+  },
+  {
+    "i": 16873,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 35,
+    "t": "Přízeň krále náleží rozumnému služebníku a jeho hněv tomu, kdo činí hanbu."
+  },
+  {
+    "i": 16874,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 1,
+    "t": "Laskavá odpověď odvrací hněv, slovo zraňující budí hněv."
+  },
+  {
+    "i": 16875,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 2,
+    "t": "Jazyk moudrých činí poznání příjemným, ústa hlupáků chrstají pošetilost."
+  },
+  {
+    "i": 16876,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 3,
+    "t": "Na každém místě jsou oči Hospodinovy, pozorují zlé i dobré."
+  },
+  {
+    "i": 16877,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 4,
+    "t": "Jazyk uklidňující jest strom života, jazyk zvrácený drtí srdce."
+  },
+  {
+    "i": 16878,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 5,
+    "t": "Hlupák pohrdá otcovským káráním, kdo dbá na pokárání, jest rozumný."
+  },
+  {
+    "i": 16879,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 6,
+    "t": "Hojné statky v domě spravedlivého, ale příjmy bezbožného jsou zdrojem neklidu."
+  },
+  {
+    "i": 16880,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 7,
+    "t": "Rty moudrých rozhlašují vědění, ale srdce bláznů tak nečiní."
+  },
+  {
+    "i": 16881,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 8,
+    "t": "Oběť svévolníků jest ohavností Hospodinu, modlitba pak spravedlivých jest mu libá."
+  },
+  {
+    "i": 16882,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 9,
+    "t": "Ohavností jest Hospodinu cesta zlostníka, ale miluje toho, kdož následuje spravedlnosti."
+  },
+  {
+    "i": 16883,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 10,
+    "t": "Těžké tresce přijde ten, kdož opouští stezku, a kdož nenávidí domlouvání, zemře."
+  },
+  {
+    "i": 16884,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 11,
+    "t": "Před Hospodinem jest i hrob a zkáza, čím více srdce synů lidských!"
+  },
+  {
+    "i": 16885,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 12,
+    "t": "Posměvač nemiluje toho, kdož ho tresce, a k moudrým nepůjde."
+  },
+  {
+    "i": 16886,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 13,
+    "t": "Srdce veselé obličej zkrášluje, ale pro bolest srdce duch bývá zkrušen."
+  },
+  {
+    "i": 16887,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 14,
+    "t": "Srdce rozumného hledá vědění, ústa pak bláznů se krmí bláznovstvím."
+  },
+  {
+    "i": 16888,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 15,
+    "t": "Všecky dny nuzného jsou zlé, ale komu veselé jest srdce, ustavičně hody mívá."
+  },
+  {
+    "i": 16889,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 16,
+    "t": "Lépe málo s bázní Hospodinovou, nežli poklad veliký s nepokojem."
+  },
+  {
+    "i": 16890,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 17,
+    "t": "Lépe jídlo z zelí, kdež jest láska, nežli vůl vykrmený, kdež jest nenávist."
+  },
+  {
+    "i": 16891,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 18,
+    "t": "Člověk prchlivý podněcuje svár, ale dlouho trpělivý tíší rozbroj."
+  },
+  {
+    "i": 16892,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 19,
+    "t": "Cesta lenochů jest jako trní roztroušená, ale stezka upřímých jest vystavěná."
+  },
+  {
+    "i": 16893,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 20,
+    "t": "Syn moudrý obveseluje otce svého, ale člověk bláznivý pohrdá matkou svou."
+  },
+  {
+    "i": 16894,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 21,
+    "t": "Bláznovství jest radostí nemoudrému, ale muž rozumný napravuje chod svůj."
+  },
+  {
+    "i": 16895,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 22,
+    "t": "Kdež není rady, ruší se myšlení, ale v množství rádců stávají."
+  },
+  {
+    "i": 16896,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 23,
+    "t": "Veselí má člověk z odpovědi úst svých, a jak výborná jest řeč v čas slušný!"
+  },
+  {
+    "i": 16897,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 24,
+    "t": "Stezka života umdlévajícímu jest vzhůru, aby ušel hrobu dolů."
+  },
+  {
+    "i": 16898,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 25,
+    "t": "Dům pyšných vyvrátí Hospodin, ale meze vdovy postaví."
+  },
+  {
+    "i": 16899,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 26,
+    "t": "Ohavností jsou Hospodinu myšlení zlá, ale řeči čisté jemu líbezné."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26200,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 29,
+    "t": "Pouta jeho tobě budiž ochranou silnou, a obojky jeho ozdobou vzácnou."
+  },
+  {
+    "i": 26201,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 30,
+    "t": "Jho jeho ozdobou zlatou, a provazy jeho stužky modré."
+  },
+  {
+    "i": 26202,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 31,
+    "t": "Jako rouchem slavnostním obléčeš se jím, a jako korunou radosti bude tě ověnčovat."
+  },
+  {
+    "i": 26203,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 32,
+    "t": "Chceš-li, synu, budeš vzdělaný, a poslušnost tvá přinese ti umění."
+  },
+  {
+    "i": 26204,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 33,
+    "t": "Rád-li slyšíš, naučíš se, a nakláníš-li ucho, budeš moudrý."
+  },
+  {
+    "i": 26205,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 34,
+    "t": "Stůj v shromáždění starších, a uzříš-li moudrého, připoj se k němu."
+  },
+  {
+    "i": 26206,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 35,
+    "t": "Ochotně slyš každé slovo Boží, ať ti neuniknou přísloví subtilní."
+  },
+  {
+    "i": 26207,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 36,
+    "t": "Uzříš-li muže rozumného, jdi k němu za jitra, a kroky tvé ať ošoupají práh jeho dveří."
+  },
+  {
+    "i": 26208,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 37,
+    "t": "Rozjímej o přikázáních Páně, zabývej se ustavičně jeho předpisy. On posílí srdce tvé, a moudrost, po které toužíš, bude ti dána."
+  },
+  {
+    "i": 26209,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 1,
+    "t": "Nečiň zlé, a zlé nebude pánem tvým;"
+  },
+  {
+    "i": 26210,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 2,
+    "t": "vzdal se nespravedlnosti, a ona se vzdálí od tebe."
+  },
+  {
+    "i": 26211,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 3,
+    "t": "Synu můj, nesej do brázd nespravedlnosti, aby ses neobával sklidit sedmkrát více."
+  },
+  {
+    "i": 26212,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 4,
+    "t": "Nežádej od Pána první místo, ani od krále sedadlo slavné."
+  },
+  {
+    "i": 26213,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 5,
+    "t": "Nehraj si na spravedlivého před Pánem, ani na moudrého před králem."
+  },
+  {
+    "i": 26214,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 6,
+    "t": "Neusiluj o místo soudce, nejsi-li schopen vykořenit nespravedlnost, aby ses nenechal ovlivnit mocným, s rizikem ztráty své poctivosti."
+  },
+  {
+    "i": 26215,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 7,
+    "t": "Nečiň se vinným proti shromáždění města, a nepoklesni před lidem."
+  },
+  {
+    "i": 26216,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 8,
+    "t": "Nenech se dvakrát strhnout k hříchu, neboť ani jednou neunikneš."
+  },
+  {
+    "i": 26217,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 9,
+    "t": "Neříkej: „Bůh zváží množství mých obětí, až je předložím Bohu Nejvyššímu, přijme je.“"
+  },
+  {
+    "i": 26218,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 10,
+    "t": "Nebuď nerozhodný v modlitbě a nezanedbávej konat almužnu."
+  },
+  {
+    "i": 26219,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 11,
+    "t": "Neposmívej se muži, který je v nesnázích, neboť ten, kdo ponižuje, může pozdvihnout."
+  },
+  {
+    "i": 26220,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 12,
+    "t": "Nekuj lži proti svému bratru, ani proti příteli."
+  },
+  {
+    "i": 26221,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 13,
+    "t": "Chraň se pronést jakoukoli lež, neboť z ní nemůže vzejít nic dobrého."
+  },
+  {
+    "i": 26222,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 14,
+    "t": "Nepřeháněj to v shromáždění starších a neopakuj svá slova v modlitbě."
+  },
+  {
+    "i": 26223,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 15,
+    "t": "Neodmítej namáhavé práce, ani práci na polích stvořenou Nejvyšším."
+  },
+  {
+    "i": 26224,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 16,
+    "t": "Nepřidej se k počtu hříšníků, pamatuj, že Hněv nemůže otálet."
+  },
+  {
+    "i": 26225,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 17,
+    "t": "Pokoř se hluboce, neboť oheň a červi jsou trestem bezbožného."
+  },
+  {
+    "i": 26226,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 18,
+    "t": "Němeň přítele za peníze, ani pravého bratra za zlato z Ofiru."
+  },
+  {
+    "i": 26227,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 19,
+    "t": "Neodvracej se od moudré a dobré manželky, neboť její milost má větší cenu než zlato."
+  },
+  {
+    "i": 26228,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 20,
+    "t": "Netýrej otroka, který věrně pracuje, ani mzdy zbavujícího se mzdy."
+  },
+  {
+    "i": 26229,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 21,
+    "t": "Miluj ve svém srdci inteligentního otroka, neodmítej mu svobodu."
+  },
+  {
+    "i": 26230,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 22,
+    "t": "Máš-li stáda? Pečuj o ně; máš-li z nich zisk, střež je."
+  },
+  {
+    "i": 26231,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 23,
+    "t": "Máš-li děti? Vychovávej je a od dětství jim ohýbej šíji."
+  },
+  {
+    "i": 26232,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 24,
+    "t": "Máš-li dcery? Dohlížej na jejich tělo, a nerozjasňuj před nimi svou tvář."
+  },
+  {
+    "i": 26233,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 25,
+    "t": "Vdávej svou dceru, vykonáš velkou věc, ale dávej ji muži rozumnému."
+  },
+  {
+    "i": 26234,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 26,
+    "t": "Máš-li ženu podle svého srdce? Neodpuzuj ji, ale nemiluješ-li ji, nespoléhej se na ni."
+  },
+  {
+    "i": 26235,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 27,
+    "t": "Celým svým srdcem cti svého otce a nikdy nezapomeň, co vytrpěla tvá matka."
+  },
+  {
+    "i": 26236,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 28,
+    "t": "Pamatuj, že ti dali život: co jim nabídneš výměnou za to, co pro tebe udělali?"
+  },
+  {
+    "i": 26237,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 29,
+    "t": "Celou svou duší boj se Pána a uctívej jeho kněze."
+  },
+  {
+    "i": 26238,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 30,
+    "t": "Vší silou miluj toho, který tě stvořil, a neopouštěj jeho služebníky."
+  },
+  {
+    "i": 26239,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 31,
+    "t": "Boj se Pána a cti kněze a dávej mu svůj podíl, jak ti je předepsáno: prvotiny, oběť za usmíření, obětování plecí, oběť posvěcení a prvotiny svatých věcí."
+  },
+  {
+    "i": 26240,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 32,
+    "t": "Chudému také projevuj štědrost, aby tvé požehnání bylo dokonalé."
+  },
+  {
+    "i": 26241,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 33,
+    "t": "Ať tvá štědrost zasáhne všechny živé, i mrtvým neodmítej svou zbožnost."
+  },
+  {
+    "i": 26242,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 34,
+    "t": "Neodvracej se od těch, kteří pláčou, rmouť se s těmi, kteří truchlí."
+  },
+  {
+    "i": 26243,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 35,
+    "t": "Neboj se navštěvovat nemocné, takovými činy si získáš náklonnost."
+  },
+  {
+    "i": 26244,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 36,
+    "t": "Ve všem, co činíš, pamatuj na svůj konec a nikdy nebudeš hřešit."
+  },
+  {
+    "i": 26245,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 1,
+    "t": "Nezápas s mocným, aby ses nedostal do jeho rukou."
+  },
+  {
+    "i": 26246,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 2,
+    "t": "Nehádej se s bohatým, aby neměl větší váhu než ty; neboť zlato ztratilo mnoho lidí a naklonilo srdce králů."
+  },
+  {
+    "i": 26247,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 3,
+    "t": "Nespoř se s krásným mluvčím, nepřikládej dříví na jeho oheň."
+  },
+  {
+    "i": 26248,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 4,
+    "t": "Nežertuj s mužem nevychovaným, aby ses nedočkal urážek na své předky."
+  },
+  {
+    "i": 26249,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 5,
+    "t": "Nevyčítej hříšníku kajícímu se, pamatuj, že jsme všichni vinni."
+  },
+  {
+    "i": 26250,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 6,
+    "t": "Nepohrdej mužem pokročilého věku, neboť možná i my zestárneme."
+  },
+  {
+    "i": 26251,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 7,
+    "t": "Neraduj se ze smrti člověka, pamatuj, že všichni musíme zemřít."
+  },
+  {
+    "i": 26252,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 8,
+    "t": "Nepohrdej řečí moudrých a často se vracej k jejich maximám; neboť od nich se naučíš doktríně a umění sloužit mocným."
+  },
+  {
+    "i": 26253,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 9,
+    "t": "Neodmítej řeč starších, neboť oni sami byli ve škole svých otců; od nich se naučíš opatrnosti a umění odpovědět v pravý čas."
+  },
+  {
+    "i": 26254,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 10,
+    "t": "Nepřikládej oheň na uhlí hříšníka, abys se nespálil o jeho plamen."
+  },
+  {
+    "i": 26255,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 11,
+    "t": "Nenech se vyprovokovat mužem drzým, to by byla past nastražená před tvými rty."
+  },
+  {
+    "i": 26256,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 12,
+    "t": "Nepůjčuj muži silnějšímu než ty: půjčíš-li, považuj to za ztracené."
+  },
+  {
+    "i": 26257,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 13,
+    "t": "Neruč nad své možnosti: ručil-li jsi, buď připraven zaplatit."
+  },
+  {
+    "i": 26258,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 14,
+    "t": "Neveď spor se soudcem, neboť rozsudek bude vynesen v jeho prospěch."
+  },
+  {
+    "i": 26259,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 15,
+    "t": "Nevydávej se na cestu s dobrodruhem, aby tě nezasypal zlem; neboť on si dělá, co chce, a jeho bláznovství tě zničí s ním."
+  },
+  {
+    "i": 26260,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 16,
+    "t": "Nevaž se s mužem hněvivým, nezasazuj se s ním na opuštěném místě, neboť krev se v jeho očích nepočítá a tam, kde není pomoci, se na tebe vrhne."
+  },
+  {
+    "i": 26261,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 17,
+    "t": "Neber si hlupáka za důvěrníka, neboť neumí uchovat tvé tajemství."
+  },
+  {
+    "i": 26262,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 18,
+    "t": "Před cizincem nečiň nic, co by mělo zůstat tajné, neboť nevíš, co si může vymyslet."
+  },
+  {
+    "i": 26263,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 19,
+    "t": "Neotvírej své srdce komukoli a nepředstírej, že si získáš jeho přízeň."
+  },
+  {
+    "i": 26264,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 1,
+    "t": "Nebuď žárlivý na svou milovanou manželku a nedávej jí nápad, aby ti ublížila."
+  },
+  {
+    "i": 26265,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 2,
+    "t": "Nevydávej se do rukou ženy, aby si nad tebou nezískala nadvládu."
+  },
+  {
+    "i": 26266,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 3,
+    "t": "Nechoď naproti nevěstce: mohl bys padnout do jejích sítí."
+  },
+  {
+    "i": 26267,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 4,
+    "t": "Nenavštěvuj zpěvačku: nechej se lapit jejími triky."
+  },
+  {
+    "i": 26268,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 5,
+    "t": "Nezastavuj svůj pohled na mladé dívce, abys nebyl polapen, až bude pykat."
+  },
+  {
+    "i": 26269,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 6,
+    "t": "Nevydávej se do rukou prostitutek: ztratil bys tam své dědictví."
+  },
+  {
+    "i": 26270,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 7,
+    "t": "Neprocházej se po ulicích města a nepotuluj se po opuštěných koutech."
+  },
+  {
+    "i": 26271,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 8,
+    "t": "Odvracej svůj pohled od hezké ženy a nezastavuj ho na cizí kráse. Mnozí byli svedeni krásou ženy a láska se tam vznítí jako oheň."
+  },
+  {
+    "i": 26272,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 9,
+    "t": "U vdané ženy se chraň sedět a hodovat u vína s ní, aby tě touha nesvedla k ní a abys ve své vášni neklouzal do záhuby."
+  },
+  {
+    "i": 26273,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 10,
+    "t": "Neopouštěj starého přítele, nově příchozí se mu nevyrovná. Nové víno, nový přítel, nech ho zestárnout, budeš ho pít s rozkoší."
+  },
+  {
+    "i": 26274,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 11,
+    "t": "Nezáviď úspěch hříšníkovi, nevíš, jak to skončí."
+  },
+  {
+    "i": 26275,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 12,
+    "t": "Neraduj se z úspěchu bezbožných, pamatuj, že zde nebudou beztrestní."
+  },
+  {
+    "i": 26276,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 13,
+    "t": "Drž se stranou od člověka, který má moc zabíjet, a nebudeš mít žádný strach ze smrti. Přiblížíš-li se k němu, chraň se chybného kroku, mohl by tě zbavit života. Dobře si uvědom, že jsi obklopen pastmi a že kráčíš po hradbách."
+  },
+  {
+    "i": 26277,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 14,
+    "t": "Nakolik můžeš, navštěvuj svého bližního a rad se s moudrými."
+  },
+  {
+    "i": 26278,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 15,
+    "t": "Pro svou konverzaci hledej inteligentní muže a ať všechny tvé rozhovory směřují k zákonu Nejvyššího."
+  },
+  {
+    "i": 26279,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 16,
+    "t": "Ať spravedliví jsou tví stolovníci a ať tvá hrdost spočívá v bázni Páně."
+  },
+  {
+    "i": 26280,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 17,
+    "t": "Dílo rukou dělníka zasluhuje chvály, ale kníže lidu ať jest zběhlý v řeči."
+  },
+  {
+    "i": 26281,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 18,
+    "t": "Kdo užívá krásných slov, toho se bojí v městě, a kdo mluví z cesty, toho nenávidí."
+  },
+  {
+    "i": 26282,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 1,
+    "t": "Moudrý vladař drží lid svůj v kázni a rozumnost muže obezřelého jest dobře založena."
+  },
+  {
+    "i": 26283,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 2,
+    "t": "Jaký jest vladař, takoví i jeho služebníci, jaký jest správce města, takoví i jeho obyvatelé."
+  },
+  {
+    "i": 26284,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 3,
+    "t": "Král bez vzdělání jest zhoubou lidu svého, město vděčí za svou prosperitu rozumu vůdců."
+  },
+  {
+    "i": 26285,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 4,
+    "t": "V rukou Hospodinových jest vláda světa; on vzbuzuje v pravý čas vůdce, který se hodí."
+  },
+  {
+    "i": 26286,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 5,
+    "t": "Úspěch člověka jest v ruce Hospodinově; on dává písaři jeho slávu."
+  },
+  {
+    "i": 26287,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 6,
+    "t": "Nechovej zášť k bližnímu, ať se provinil jakkoli, a nikdy nereaguj skutky pýchy."
+  },
+  {
+    "i": 26288,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 7,
+    "t": "Pýcha se nelíbí Bohu ani člověku a oba pohlížejí na nespravedlnost jako na hřích."
+  },
+  {
+    "i": 26289,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 8,
+    "t": "Panství přechází od národa k národu pro nespravedlnost, pýchu a peníze. Nic není bezbožnějšího než ten, kdo miluje peníze: i svou duši prodá!"
+  },
+  {
+    "i": 26290,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 9,
+    "t": "Proč tolik pýchy pro toho, kdo jest země a popel, bytost, která, živa, již má vnitřnosti ohavné?"
+  },
+  {
+    "i": 26291,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 10,
+    "t": "Dlouhá nemoc se vysmívá lékaři, kdo jest králem dnes, zítra zemře."
+  },
+  {
+    "i": 26292,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 11,
+    "t": "Když člověk zemře, dostává v úděl hmyz, dravou zvěř a červy."
+  },
+  {
+    "i": 26293,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 12,
+    "t": "Podstata lidské pýchy jest v opuštění Hospodina a v držení svého srdce vzdáleného od Stvořitele."
+  },
+  {
+    "i": 26294,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 13,
+    "t": "Neboť podstata pýchy jest hřích, kdo se jí oddává, šíří ohavnost. Proto Hospodin učinil zjevným jejich soužení a snížil je na nic."
+  },
+  {
+    "i": 26295,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 14,
+    "t": "Hospodin svrhl trůn mocných a posadil na jejich místo tiché."
+  },
+  {
+    "i": 26296,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 15,
+    "t": "Hospodin vykořenil pyšné a zasadil na jejich místo pokorné."
+  },
+  {
+    "i": 26297,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 16,
+    "t": "Hospodin převrátil území národů a zničil je až do základů země."
+  },
+  {
+    "i": 26298,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 17,
+    "t": "Někdy je odváděl a ničil a vymazal ze světa jejich památku."
+  },
+  {
+    "i": 26299,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 18,
+    "t": "Pýcha není určena pro člověka ani prudký hněv pro rasu ženy."
+  }
+]

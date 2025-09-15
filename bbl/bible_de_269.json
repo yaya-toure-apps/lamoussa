@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26900,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 25,
+    "t": "Sei nicht gewaltig im Wein, denn der Wein hat viele verderbt."
+  },
+  {
+    "i": 26901,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 26,
+    "t": "Der Ofen prüft das harte Eisen, also prüft der Wein die Herzen derer, die da spotten."
+  },
+  {
+    "i": 26902,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 27,
+    "t": "Der Wein ist das Leben dem Menschen, so er ihn mäßig trinkt. Was für ein Leben hat er, dem der Wein fehlt? Er ist geschaffen zur Freude der Menschen."
+  },
+  {
+    "i": 26903,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 28,
+    "t": "Freude des Herzens und Wonne der Seele ist der Wein, so er zur rechten Zeit und in Fülle getrunken wird."
+  },
+  {
+    "i": 26904,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 29,
+    "t": "Herzeleid ist der Wein, so er übermäßig getrunken wird, aus Leidenschaft und Trotz."
+  },
+  {
+    "i": 26905,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 30,
+    "t": "Die Trunkenheit erregt den Zorn des Toren zu seinem Verderben, sie mindert seine Kraft und bringt Schläge herbei."
+  },
+  {
+    "i": 26906,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 31,
+    "t": "Bei einem Mahl reize nicht deinen Nächsten und verspotte ihn nicht, wenn er fröhlich ist. Weise ihn nicht zurecht, ärgere ihn nicht mit deinen Forderungen."
+  },
+  {
+    "i": 26907,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 1,
+    "t": "Bist du zum Vorsteher gemacht, erhebe dich nicht, sondern sei unter den Gästen wie einer von ihnen, sorge für sie und setze dich danach."
+  },
+  {
+    "i": 26908,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 2,
+    "t": "Hast du alle deine Pflichten erfüllt, so setze dich, um dich mit ihnen zu freuen und die Krone zu empfangen, den Preis deines Erfolges."
+  },
+  {
+    "i": 26909,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 3,
+    "t": "Rede, du Alter, denn es ziemt dir, doch mit Bescheidenheit; hindere die Musik nicht."
+  },
+  {
+    "i": 26910,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 4,
+    "t": "Bei einer Unterredung halte nicht lange Reden, ermahne nicht zur Unzeit."
+  },
+  {
+    "i": 26911,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 5,
+    "t": "Ein Siegel von Karfunkel auf einem Schmuckstück, so ist ein musikalisches Konzert bei einem Mahl."
+  },
+  {
+    "i": 26912,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 6,
+    "t": "Ein Siegel von Smaragd auf einer Goldfassung, so ist eine Melodie mit einem edlen Wein."
+  },
+  {
+    "i": 26913,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 7,
+    "t": "Rede, du Jüngling, wenn es nötig ist, höchstens zweimal, wenn man dich fragt."
+  },
+  {
+    "i": 26914,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 8,
+    "t": "Fasse deine Rede kurz, sage viel mit wenigen Worten, wisse dich als verständig und schweigsam zu erweisen."
+  },
+  {
+    "i": 26915,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 9,
+    "t": "Verkehre nicht mit den Großen auf Augenhöhe, sei sparsam mit Worten, wenn ein anderer redet."
+  },
+  {
+    "i": 26916,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 10,
+    "t": "Der Blitz geht dem Donner voraus, die Anmut schreitet vor dem bescheidenen Mann her."
+  },
+  {
+    "i": 26917,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 11,
+    "t": "Zur gegebenen Stunde gehe weg, zögere nicht, eile nach Hause, säume nicht."
+  },
+  {
+    "i": 26918,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 12,
+    "t": "Dort ergötze dich, tue, was dir gefällt, aber sündige nicht, indem du frech redest."
+  },
+  {
+    "i": 26919,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 13,
+    "t": "Und dafür preise den Schöpfer, der dich mit seinen Wohltaten überschüttet."
+  },
+  {
+    "i": 26920,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 14,
+    "t": "Wer den Herrn fürchtet, der hört auf seine Lehren, wer ihn sucht, der findet seine Gunst."
+  },
+  {
+    "i": 26921,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 15,
+    "t": "Wer das Gesetz erforscht, der wird davon gesättigt, aber für den Heuchler ist es ein Ärgernis."
+  },
+  {
+    "i": 26922,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 16,
+    "t": "Wer den Herrn fürchtet, der findet die richtige Entscheidung, sie lassen ihre guten Taten leuchten wie ein Licht."
+  },
+  {
+    "i": 26923,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 17,
+    "t": "Der Sünder nimmt die Zurechtweisung nicht an, um seinem Willen zu folgen, findet er Ausreden."
+  },
+  {
+    "i": 26924,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 18,
+    "t": "Der vernünftige Mensch verachtet die Ratschläge nicht, der Fremde und der Stolze kennen keine Furcht."
+  },
+  {
+    "i": 26925,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 19,
+    "t": "Tue nichts ohne Überlegung, damit du deine Taten nicht bereust."
+  },
+  {
+    "i": 26926,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 20,
+    "t": "Gehe nicht auf einem holprigen Weg, damit du nicht an den Steinen anstößt."
+  },
+  {
+    "i": 26927,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 21,
+    "t": "Verlasse dich nicht auf den ebenen Weg"
+  },
+  {
+    "i": 26928,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 22,
+    "t": "und hüte dich vor deinen Kindern."
+  },
+  {
+    "i": 26929,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 23,
+    "t": "Achte in allen Dingen auf dich selbst, auch das heißt, die Gebote zu halten."
+  },
+  {
+    "i": 26930,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 24,
+    "t": "Wer auf das Gesetz vertraut, der hält seine Vorschriften, wer sein Vertrauen auf den Herrn setzt, der erleidet keinen Schaden."
+  },
+  {
+    "i": 26931,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 1,
+    "t": "Wer den Herrn fürchtet, den trifft das Böse nicht, und selbst in der Prüfung wird er befreit."
+  },
+  {
+    "i": 26932,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 2,
+    "t": "Wer das Gesetz hasst, ist nicht weise, aber der falsche Beobachter ist wie ein Schiff im Sturm."
+  },
+  {
+    "i": 26933,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 3,
+    "t": "Der vernünftige Mensch setzt sein Vertrauen auf das Gesetz, das Gesetz ist für ihn glaubwürdig wie ein Orakel."
+  },
+  {
+    "i": 26934,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 4,
+    "t": "Bereite deine Reden vor und du wirst Gehör finden, sammle dein Wissen, bevor du antwortest."
+  },
+  {
+    "i": 26935,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 5,
+    "t": "Die Gefühle des Narren sind wie ein Wagenrad, seine Überlegung wie eine sich drehende Achse."
+  },
+  {
+    "i": 26936,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 6,
+    "t": "Ein Pferd in der Brunst ist wie ein spottender Freund, sobald man es besteigen will, wiehert es."
+  },
+  {
+    "i": 26937,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 7,
+    "t": "Warum ist ein Tag größer als der andere, da doch das ganze Jahr das Licht von der Sonne kommt?"
+  },
+  {
+    "i": 26938,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 8,
+    "t": "Weil sie in der Absicht des Herrn unterschieden wurden, der die Jahreszeiten und die Feste vielfältig gemacht hat."
+  },
+  {
+    "i": 26939,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 9,
+    "t": "Er hat die einen erhöht und geheiligt und die anderen zu gewöhnlichen Tagen gemacht."
+  },
+  {
+    "i": 26940,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 10,
+    "t": "Alle Menschen stammen vom Lehm, aus der Erde wurde Adam geformt."
+  },
+  {
+    "i": 26941,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 11,
+    "t": "In seiner großen Weisheit hat der Herr sie unterschieden, er hat ihre Bedingungen vielfältig gemacht."
+  },
+  {
+    "i": 26942,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 12,
+    "t": "Er hat einige gesegnet und erhöht, er hat sie geheiligt und in seine Nähe gebracht. Er hat andere verflucht und erniedrigt und sie von ihrem Platz gestoßen."
+  },
+  {
+    "i": 26943,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 13,
+    "t": "Wie der Ton in der Hand des Töpfers, der ihn nach seinem Gutdünken formt, so sind die Menschen in der Hand ihres Schöpfers, der sie nach seiner Gerechtigkeit vergilt."
+  },
+  {
+    "i": 26944,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 14,
+    "t": "Dem Bösen steht das Gute gegenüber, dem Tod das Leben. So dem frommen Menschen der Sünder."
+  },
+  {
+    "i": 26945,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 15,
+    "t": "Betrachte also alle Werke des Allerhöchsten, alle gehen paarweise, gegenüber."
+  },
+  {
+    "i": 26946,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 16,
+    "t": "Ich, der ich zuletzt gekommen bin, habe gewacht wie ein Nachleser nach den Weinlesern."
+  },
+  {
+    "i": 26947,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 17,
+    "t": "Durch den Segen des Herrn komme ich als Erster und habe wie der Weinleser die Kelter gefüllt."
+  },
+  {
+    "i": 26948,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 18,
+    "t": "Erkennt, dass ich nicht für mich allein gearbeitet habe, sondern für alle, die nach Belehrung suchen."
+  },
+  {
+    "i": 26949,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 19,
+    "t": "Hört mich also, ihr Großen des Volkes, Vorsteher der Versammlung, leiht euer Ohr."
+  },
+  {
+    "i": 26950,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 20,
+    "t": "Gib deinem Sohn, deiner Frau, deinem Bruder, deinem Freund keine Macht über dich während deines Lebens. Gib einem anderen nicht dein Gut, du könntest es bereuen und müsstest es zurückfordern."
+  },
+  {
+    "i": 26951,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 21,
+    "t": "Solange du lebst und dir noch ein Atemzug bleibt, gib dich nicht der Macht irgendjemandes hin."
+  },
+  {
+    "i": 26952,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 22,
+    "t": "Denn es ist besser, dass deine Kinder dich bitten, als dass du flehende Blicke auf sie richtest."
+  },
+  {
+    "i": 26953,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 23,
+    "t": "Bleibe bei allem, was du tust, der Herr, bringe keine Schmach über deinen Ruf."
+  },
+  {
+    "i": 26954,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 24,
+    "t": "Wenn die Tage deines Lebens vollendet sind, verteile zu Stunde des Todes dein Erbe."
+  },
+  {
+    "i": 26955,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 25,
+    "t": "Dem Esel das Futter, den Knüppel, die Lasten, dem Diener das Brot, die Strafe, die Arbeit."
+  },
+  {
+    "i": 26956,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 26,
+    "t": "Lass deinen Sklaven arbeiten, so findest du Ruhe; lässt du ihm freie Hände, so sucht er die Freiheit."
+  },
+  {
+    "i": 26957,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 27,
+    "t": "Joch und Zaum beugen den Nacken, dem schlechten Diener die Folter und die Frage."
+  },
+  {
+    "i": 26958,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 28,
+    "t": "Setze ihn an die Arbeit, damit er nicht müßig ist,"
+  },
+  {
+    "i": 26959,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 29,
+    "t": "denn die Müßigkeit lehrt alle bösen Streiche."
+  },
+  {
+    "i": 26960,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 30,
+    "t": "Setze ihn an die Arbeit, wie es ihm zukommt, und wenn er nicht gehorcht, lege ihn in Fesseln. Aber sei nicht zu anspruchsvoll gegenüber niemandem, tue nichts, was der Gerechtigkeit widerspricht."
+  },
+  {
+    "i": 26961,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 31,
+    "t": "Hast du nur einen Sklaven? So sei er wie du selbst, da du ihn mit Blut erworben hast. Hast du nur einen Sklaven? Behandle ihn wie einen Bruder, denn du brauchst ihn wie dich selbst."
+  },
+  {
+    "i": 26962,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 32,
+    "t": "Wenn du ihn misshandelst und er die Flucht ergreift,"
+  },
+  {
+    "i": 26963,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 33,
+    "t": "auf welchem Weg wirst du ihn suchen?"
+  },
+  {
+    "i": 26964,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 1,
+    "t": "Die leeren und trügerischen Hoffnungen sind für den Unverständigen, und die Träume verleihen den Narren Flügel."
+  },
+  {
+    "i": 26965,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 2,
+    "t": "Es ist wie einen Schatten greifen und den Wind verfolgen, wenn man sich an Träume hält."
+  },
+  {
+    "i": 26966,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 3,
+    "t": "Spiegel und Träume sind einander ähnlich: Vor einem Gesicht erscheint sein Bild."
+  },
+  {
+    "i": 26967,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 4,
+    "t": "Was kann man aus dem Unreinen Reines ziehen? Was kann man aus der Lüge Wahres ziehen?"
+  },
+  {
+    "i": 26968,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 5,
+    "t": "Wahrsagerei, Vorzeichen, Träume, allesamt Eitelkeiten, das sind Hirngespinste einer schwangeren Frau."
+  },
+  {
+    "i": 26969,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 6,
+    "t": "Es sei denn, sie werden als Boten des Allerhöchsten gesandt, richte dein Herz nicht darauf."
+  },
+  {
+    "i": 26970,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 7,
+    "t": "Die Träume haben viele irregeführt, die sich auf sie verlassen haben, sind gescheitert."
+  },
+  {
+    "i": 26971,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 8,
+    "t": "Ohne Lüge wird das Gesetz erfüllt, und die Weisheit ist vollkommen in der Aufrichtigkeit."
+  },
+  {
+    "i": 26972,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 9,
+    "t": "Man hat viel gelernt, wenn man viel gereist ist, und ein Mann mit Erfahrung redet mit Verstand."
+  },
+  {
+    "i": 26973,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 10,
+    "t": "Wer nicht geprüft wurde, weiß wenig,"
+  },
+  {
+    "i": 26974,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 11,
+    "t": "aber wer gereist ist, dem mangelt es nicht an Wissen."
+  },
+  {
+    "i": 26975,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 12,
+    "t": "Ich habe viel gesehen auf meinen Reisen und ich habe mehr verstanden, als ich sagen könnte."
+  },
+  {
+    "i": 26976,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 13,
+    "t": "Oftmals war ich in Todesgefahr, und ich bin gerettet worden, auf folgende Weise:"
+  },
+  {
+    "i": 26977,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 14,
+    "t": "Wer den Herrn fürchtet, dessen Geist wird leben,"
+  },
+  {
+    "i": 26978,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 15,
+    "t": "denn ihre Hoffnung stützt sich auf den, der sie retten kann."
+  },
+  {
+    "i": 26979,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 16,
+    "t": "Wer den Herrn fürchtet, fürchtet sich vor nichts, er zittert nicht, denn Gott ist seine Hoffnung."
+  },
+  {
+    "i": 26980,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 17,
+    "t": "Wohl dem Menschen, der den Herrn fürchtet:"
+  },
+  {
+    "i": 26981,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 18,
+    "t": "Auf wen stützt er sich und wer ist seine Stütze?"
+  },
+  {
+    "i": 26982,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 19,
+    "t": "Die Augen des Herrn sind auf die gerichtet, die ihn lieben, ein mächtiger Schutz, eine Stütze voller Kraft, ein Schutz vor dem Wüstenwind, ein Schatten vor der Mittagshitze, ein Schutz vor dem Straucheln, eine Sicherheit vor dem Fall."
+  },
+  {
+    "i": 26983,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 20,
+    "t": "Er erhebt die Seele, er erleuchtet die Augen, er schenkt Gesundheit, Leben und Segen."
+  },
+  {
+    "i": 26984,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 21,
+    "t": "Ein Opfer aus unrechtmäßig erworbenem Gut darzubringen, ist Spott,"
+  },
+  {
+    "i": 26985,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 22,
+    "t": "die Gaben der Gottlosen sind nicht wohlgefällig."
+  },
+  {
+    "i": 26986,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 23,
+    "t": "Der Allerhöchste nimmt keine Opfergaben der Gottlosen an, nicht durch die Fülle der Opfer vergibt er die Sünden."
+  },
+  {
+    "i": 26987,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 24,
+    "t": "Es ist, als opfere man den Sohn in Gegenwart seines Vaters, wenn man ein Opfer darbringt mit dem Gut der Armen."
+  },
+  {
+    "i": 26988,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 25,
+    "t": "Eine karge Nahrung ist das Leben der Armen, sie ihnen zu entziehen, ist ein Mord."
+  },
+  {
+    "i": 26989,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 26,
+    "t": "Es ist, als töte man seinen Nächsten, wenn man ihm den Lebensunterhalt nimmt,"
+  },
+  {
+    "i": 26990,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 27,
+    "t": "es ist Blutvergießen, den Arbeiter um seinen Lohn zu bringen."
+  },
+  {
+    "i": 26991,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 28,
+    "t": "Der eine baut, der andere reißt ab; was haben sie davon, als Mühe?"
+  },
+  {
+    "i": 26992,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 29,
+    "t": "Der eine segnet, der andere flucht: Wessen Stimme wird der Herr erhören?"
+  },
+  {
+    "i": 26993,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 30,
+    "t": "Wer sich von der Berührung eines Toten reinigt und ihn wieder berührt, was nützt ihm seine Waschung?"
+  },
+  {
+    "i": 26994,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 31,
+    "t": "So ist es mit dem Menschen, der für seine Sünden fastet, dann aber hingeht und sie wieder begeht; wer wird sein Gebet erhören? Was nützt es ihm, sich zu demütigen?"
+  },
+  {
+    "i": 26995,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 1,
+    "t": "Das Gesetz beobachten heißt, die Opfergaben zu mehren,"
+  },
+  {
+    "i": 26996,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 2,
+    "t": "an den Geboten festhalten heißt, Friedensopfer darzubringen."
+  },
+  {
+    "i": 26997,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 3,
+    "t": "Sich barmherzig zeigen heißt, eine Spende von Feinmehl darzubringen,"
+  },
+  {
+    "i": 26998,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 4,
+    "t": "Almosen geben heißt, ein Lobopfer darzubringen."
+  },
+  {
+    "i": 26999,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 5,
+    "t": "Was dem Herrn gefällt, ist, sich vom Bösen abzuwenden, es ist ein Sühnopfer, das Unrecht zu fliehen."
+  }
+]

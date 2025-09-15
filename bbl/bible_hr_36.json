@@ -1,0 +1,795 @@
+[
+  {
+    "i": 3600,
+    "b": 2,
+    "c": 327,
+    "r": 327,
+    "o": 32,
+    "t": "Svaki desetak od krupne i sitne stoke bit će posvećen Jahvi; deseti dio svega što prođe pod pastirskim štapom."
+  },
+  {
+    "i": 3601,
+    "b": 2,
+    "c": 327,
+    "r": 327,
+    "o": 33,
+    "t": "Neće se birati dobro i zlo, niti će se zamjenjivati; ako se zamijeni, životinja i njezina zamjena bit će posvećene i ne mogu se otkupiti."
+  },
+  {
+    "i": 3602,
+    "b": 2,
+    "c": 327,
+    "r": 327,
+    "o": 34,
+    "t": "To su zapovijedi koje je Jahve dao Mojsiju na gori Sinaju za Izraelce."
+  },
+  {
+    "i": 3603,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 1,
+    "t": "Jahve reče Mojsiju u pustinji Sinajskoj, u Šatoru sastanka, prvoga dana drugoga mjeseca, druge godine po izlasku iz zemlje egipatske. Reče:"
+  },
+  {
+    "i": 3604,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 2,
+    "t": "\"Popišite svu zajednicu Izraelaca po njihovim rodovima i obiteljima, brojeći imena svih muškaraca, glavu po glavu."
+  },
+  {
+    "i": 3605,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 3,
+    "t": "Sve u Izraelu koji su dvadeset godina i više, sposobne za vojsku, upišite ih ti i Aron, prema njihovim postrojbama u boju."
+  },
+  {
+    "i": 3606,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 4,
+    "t": "Neka vam se pridruži po jedan čovjek iz svakog plemena, glavar obitelji."
+  },
+  {
+    "i": 3607,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 5,
+    "t": "\"Evo imena onih koji će vam pomagati: Od Rubena, Elisur, sin Sedeurov."
+  },
+  {
+    "i": 3608,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 6,
+    "t": "Od Šimuna, Selumiel, sin Surisadajev."
+  },
+  {
+    "i": 3609,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 7,
+    "t": "Od Jude, Nahšon, sin Aminadabov."
+  },
+  {
+    "i": 3610,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 8,
+    "t": "Od Jisakara, Netanel, sin Suarov."
+  },
+  {
+    "i": 3611,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 9,
+    "t": "Od Zebuluna, Eliab, sin Helonov."
+  },
+  {
+    "i": 3612,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 10,
+    "t": "Od sinova Josipovih: od Efrajima, Elišama, sin Amihudov; od Manašea, Gamaliel, sin Pedasurov."
+  },
+  {
+    "i": 3613,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 11,
+    "t": "Od Benjamina, Abidan, sin Gideonijev."
+  },
+  {
+    "i": 3614,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 12,
+    "t": "Od Dana, Ahiezer, sin Amisadajev."
+  },
+  {
+    "i": 3615,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 13,
+    "t": "Od Ašera, Pagiel, sin Okranov."
+  },
+  {
+    "i": 3616,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 14,
+    "t": "Od Gada, Elijasaf, sin Deuelov."
+  },
+  {
+    "i": 3617,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 15,
+    "t": "Od Naftalija, Ahira, sin Enanov.\""
+  },
+  {
+    "i": 3618,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 16,
+    "t": "To su bili ljudi na glasu u zajednici; bili su knezovi plemena svojih otaca; bili su glavari tisuća u Izraelu."
+  },
+  {
+    "i": 3619,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 17,
+    "t": "Mojsije i Aron uzeše te ljude koji su bili imenovani po imenu"
+  },
+  {
+    "i": 3620,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 18,
+    "t": "i sabraše svu zajednicu prvoga dana drugoga mjeseca. Izraelci odrediše svoje podrijetlo po svojim rodovima i obiteljima, i bilježila su se imena ljudi od dvadeset godina i više, glavu po glavu."
+  },
+  {
+    "i": 3621,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 19,
+    "t": "Kako je Jahve naredio, Mojsije ih popisa u pustinji Sinajskoj."
+  },
+  {
+    "i": 3622,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 20,
+    "t": "Kad se utvrdilo podrijetlo sinova Rubenovih, prvorođenca Izraelova, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3623,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 21,
+    "t": "Popisano ih je 46.500 za pleme Rubenovo."
+  },
+  {
+    "i": 3624,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 22,
+    "t": "Kad se utvrdilo podrijetlo sinova Šimunovih, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3625,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 23,
+    "t": "Popisano ih je 59.300 za pleme Šimunovo."
+  },
+  {
+    "i": 3626,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 24,
+    "t": "Kad se utvrdilo podrijetlo sinova Gadovih, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3627,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 25,
+    "t": "Popisano ih je 45.650 za pleme Gadovo."
+  },
+  {
+    "i": 3628,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 26,
+    "t": "Kad se utvrdilo podrijetlo sinova Judinih, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3629,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 27,
+    "t": "Popisano ih je 74.600 za pleme Judino."
+  },
+  {
+    "i": 3630,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 28,
+    "t": "Kad se utvrdilo podrijetlo sinova Jisakarovih, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3631,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 29,
+    "t": "Popisano ih je 54.400 za pleme Jisakarovo."
+  },
+  {
+    "i": 3632,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 30,
+    "t": "Kad se utvrdilo podrijetlo sinova Zebulunovih, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3633,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 31,
+    "t": "Popisano ih je 57.400 za pleme Zebulunovo."
+  },
+  {
+    "i": 3634,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 32,
+    "t": "Sinovi Josipovi: Kad se utvrdilo podrijetlo sinova Efrajimovih, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3635,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 33,
+    "t": "Popisano ih je 40.500 za pleme Efrajimovo."
+  },
+  {
+    "i": 3636,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 34,
+    "t": "Kad se utvrdilo podrijetlo sinova Manašeovih, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3637,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 35,
+    "t": "Popisano ih je trideset i dvije tisuće i dvjesto za pleme Manašeovo."
+  },
+  {
+    "i": 3638,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 36,
+    "t": "Kad se utvrdilo podrijetlo sinova Benjaminovih, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3639,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 37,
+    "t": "Popisano ih je 35.400 za pleme Benjaminovo."
+  },
+  {
+    "i": 3640,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 38,
+    "t": "Kad se utvrdilo podrijetlo sinova Danovih, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3641,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 39,
+    "t": "Popisano ih je 62.700 za pleme Danovo."
+  },
+  {
+    "i": 3642,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 40,
+    "t": "Kad se utvrdilo podrijetlo sinova Ašerovih, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3643,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 41,
+    "t": "Popisano ih je 41.500 za pleme Ašerovo."
+  },
+  {
+    "i": 3644,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 42,
+    "t": "Kad se utvrdilo podrijetlo sinova Naftalijevih, po njihovim rodovima i obiteljima, popisali su se, glavu po glavu, imena svih muškaraca od dvadeset godina i više, sposobnih za vojsku."
+  },
+  {
+    "i": 3645,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 43,
+    "t": "Popisano ih je 53.400 za pleme Naftalijevo."
+  },
+  {
+    "i": 3646,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 44,
+    "t": "To su bili oni koje su popisali Mojsije, Aron i knezovi Izraelovi, dvanaest ih, po jedan za svaku obitelj."
+  },
+  {
+    "i": 3647,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 45,
+    "t": "Svi Izraelci od dvadeset godina i više, svi koji su u Izraelu bili sposobni za vojsku, bili su popisani po obiteljima."
+  },
+  {
+    "i": 3648,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 46,
+    "t": "Ukupan broj popisanih bio je 603.550."
+  },
+  {
+    "i": 3649,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 47,
+    "t": "Ali se s njima nisu popisali leviti, ni njihovo pleme po očevima."
+  },
+  {
+    "i": 3650,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 48,
+    "t": "Jahve reče Mojsiju:"
+  },
+  {
+    "i": 3651,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 49,
+    "t": "\"Ne upisuj pleme Levijevo i ne popisuj ga među Izraelcima."
+  },
+  {
+    "i": 3652,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 50,
+    "t": "Nego ti sam upiši levite za službu Prebivališta svjedočanstva, sav njegov namještaj i sve što mu pripada. Oni neka nose Prebivalište i sav njegov namještaj, neka mu vrše službu i neka logoruju oko njega."
+  },
+  {
+    "i": 3653,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 51,
+    "t": "Kada se Prebivalište pomiče, leviti ga rastavljaju; kada se Prebivalište zaustavi, leviti ga podižu. Tko se god tuđin primakne, neka se pogubi."
+  },
+  {
+    "i": 3654,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 52,
+    "t": "Izraelci neka logoruju svaki u svom taboru, svaki uz svoju zastavu, prema svojim jedinicama."
+  },
+  {
+    "i": 3655,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 53,
+    "t": "Nego leviti neka logoruju oko Prebivališta svjedočanstva, da se srdžba ne obori na zajednicu Izraelaca. Leviti neka vrše službu Prebivališta svjedočanstva.\""
+  },
+  {
+    "i": 3656,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 54,
+    "t": "Izraelci su se u svemu držali onoga što je Jahve naredio Mojsiju. Tako su učinili."
+  },
+  {
+    "i": 3657,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 1,
+    "t": "Jahve reče Mojsiju i Aronu:"
+  },
+  {
+    "i": 3658,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 2,
+    "t": "\"Izraelci neka logoruju svaki uz svoju zastavu, pod znakom svojih obitelji. Neka logoruju oko Šatora sastanka, na određenoj udaljenosti."
+  },
+  {
+    "i": 3659,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 3,
+    "t": "Oni koji logoruju na istoku: Na istoku, zastava tabora Judina, prema njihovim jedinicama. Knez sinova Judinih: Nahšon, sin Aminadabov."
+  },
+  {
+    "i": 3660,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 4,
+    "t": "Njegov kontingent: 74.600 popisanih."
+  },
+  {
+    "i": 3661,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 5,
+    "t": "Logoruju blizu njega: Pleme Jisakarovo. Knez sinova Jisakarovih: Netanel, sin Suarov."
+  },
+  {
+    "i": 3662,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 6,
+    "t": "Njegov kontingent: 54.400 popisanih."
+  },
+  {
+    "i": 3663,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 7,
+    "t": "Pleme Zebulunovo. Knez sinova Zebulunovih: Eliab, sin Helonov."
+  },
+  {
+    "i": 3664,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 8,
+    "t": "Njegov kontingent: 57.400 popisanih."
+  },
+  {
+    "i": 3665,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 9,
+    "t": "Popisani iz tabora Judina, prema njihovim jedinicama, ukupno su 186.400. Oni neka prvi kreću na put."
+  },
+  {
+    "i": 3666,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 10,
+    "t": "Na jugu, zastava tabora Rubenova, prema njihovim jedinicama. Knez sinova Rubenovih: Elisur, sin Sedeurov."
+  },
+  {
+    "i": 3667,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 11,
+    "t": "Njegov kontingent: 46.500 popisanih."
+  },
+  {
+    "i": 3668,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 12,
+    "t": "Logoruju blizu njega: Pleme Šimunovo. Knez sinova Šimunovih: Selumiel, sin Surisadajev."
+  },
+  {
+    "i": 3669,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 13,
+    "t": "Njegov kontingent: 59.300 popisanih."
+  },
+  {
+    "i": 3670,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 14,
+    "t": "Pleme Gadovo. Knez sinova Gadovih: Elijasaf, sin Deuelov."
+  },
+  {
+    "i": 3671,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 15,
+    "t": "Njegov kontingent: 45.650 popisanih."
+  },
+  {
+    "i": 3672,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 16,
+    "t": "Popisani iz tabora Rubenova, prema njihovim jedinicama, ukupno su 151.450. Oni neka drugi kreću na put."
+  },
+  {
+    "i": 3673,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 17,
+    "t": "Tada neka krene Šator sastanka, tabor levitski neka bude usred drugih tabora. Kreće se redom kojim se logoruje, svaki pod svojom zastavom."
+  },
+  {
+    "i": 3674,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 18,
+    "t": "Na zapadu, zastava tabora Efrajimova, prema njihovim jedinicama. Knez sinova Efrajimovih: Elišama, sin Amihudov."
+  },
+  {
+    "i": 3675,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 19,
+    "t": "Njegov kontingent: 40.500 popisanih."
+  },
+  {
+    "i": 3676,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 20,
+    "t": "Blizu njega: Pleme Manašeovo. Knez sinova Manašeovih: Gamaliel, sin Pedasurov."
+  },
+  {
+    "i": 3677,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 21,
+    "t": "Njegov kontingent: trideset i dvije tisuće i dvjesto popisanih."
+  },
+  {
+    "i": 3678,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 22,
+    "t": "Pleme Benjaminovo. Knez sinova Benjaminovih: Abidan, sin Gideonijev."
+  },
+  {
+    "i": 3679,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 23,
+    "t": "Njegov kontingent: 35.400 popisanih."
+  },
+  {
+    "i": 3680,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 24,
+    "t": "Popisani iz tabora Efrajimova, prema njihovim jedinicama, ukupno su 108.100. Oni neka treći kreću na put."
+  },
+  {
+    "i": 3681,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 25,
+    "t": "Na sjeveru, zastava tabora Danova, prema njihovim jedinicama. Knez sinova Danovih: Ahiezer, sin Amisadajev."
+  },
+  {
+    "i": 3682,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 26,
+    "t": "Njegov kontingent: 62.700 popisanih."
+  },
+  {
+    "i": 3683,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 27,
+    "t": "Logoruju blizu njega: Pleme Ašerovo. Knez sinova Ašerovih: Pagiel, sin Okranov."
+  },
+  {
+    "i": 3684,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 28,
+    "t": "Njegov kontingent: 41.500 popisanih."
+  },
+  {
+    "i": 3685,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 29,
+    "t": "Pleme Naftalijevo. Knez sinova Naftalijevih: Ahira, sin Enanov."
+  },
+  {
+    "i": 3686,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 30,
+    "t": "Njegov kontingent: 53.400 popisanih."
+  },
+  {
+    "i": 3687,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 31,
+    "t": "Popisani iz tabora Danova ukupno su 157.600; oni neka posljednji kreću na put. Svi pod svojim zastavama.\""
+  },
+  {
+    "i": 3688,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 32,
+    "t": "To su bili Izraelci koji su popisani po obiteljima. Popisani iz tih tabora, prema njihovim jedinicama, ukupno su 603.550."
+  },
+  {
+    "i": 3689,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 33,
+    "t": "Ali, kako je Jahve naredio Mojsiju, leviti nisu bili popisani s Izraelcima."
+  },
+  {
+    "i": 3690,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 34,
+    "t": "Izraelci su se u svemu držali onoga što je Jahve naredio Mojsiju. Tako su logorovali, raspoređeni po zastavama. Tako su i kretali na put, svaki u svom rodu, svaki sa svojom obitelji."
+  },
+  {
+    "i": 3691,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 1,
+    "t": "Ovo je potomstvo Arona i Mojsija, u vrijeme kad je Jahve govorio Mojsiju na gori Sinaju."
+  },
+  {
+    "i": 3692,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 2,
+    "t": "Ovo su imena sinova Aronovih: Nadab, prvorođenac, zatim Abihu, Eleazar, Itamar."
+  },
+  {
+    "i": 3693,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 3,
+    "t": "To su imena sinova Aronovih, svećenika koji su bili pomazani i posvećeni da vrše svećeničku službu."
+  },
+  {
+    "i": 3694,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 4,
+    "t": "Nadab i Abihu umrli su pred Jahvom, u pustinji Sinajskoj, kad su pred njim prinijeli nepripadnu vatru. Nisu imali djece, pa su Eleazar i Itamar vršili svećeničku službu pred Aronom, ocem svojim."
+  },
+  { "i": 3695, "b": 3, "c": 403, "r": 403, "o": 5, "t": "Jahve reče Mojsiju:" },
+  {
+    "i": 3696,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 6,
+    "t": "\"Dovedi pleme Levijevo i stavi ga na raspolaganje Aronu svećeniku: neka mu budu na službu."
+  },
+  {
+    "i": 3697,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 7,
+    "t": "Neka vrše dužnost koja mu pripada, kao i cijeloj zajednici, pred Šatorom sastanka, vršeći službu Prebivališta."
+  },
+  {
+    "i": 3698,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 8,
+    "t": "Neka se brinu za sav namještaj Šatora sastanka i vrše dužnost koja pripada Izraelcima, vršeći službu Prebivališta."
+  },
+  {
+    "i": 3699,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 9,
+    "t": "Dat ćeš levite Aronu i njegovim sinovima, kao darovane; oni će mu biti darovani od strane Izraelaca."
+  }
+]

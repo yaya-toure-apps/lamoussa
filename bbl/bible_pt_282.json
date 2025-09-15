@@ -1,0 +1,802 @@
+[
+  {
+    "i": 28200,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 19,
+    "t": "Mostrai-me a moeda do tributo. E eles lhe apresentaram um dinheiro."
+  },
+  {
+    "i": 28201,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 20,
+    "t": "E ele diz-lhes: De quem é esta efígie e esta inscrição?"
+  },
+  {
+    "i": 28202,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 21,
+    "t": "Dizem-lhe eles: De César. Então ele lhes disse: Dai pois a César o que é de César, e a Deus o que é de Deus."
+  },
+  {
+    "i": 28203,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 22,
+    "t": "E eles, ouvindo isto, maravilharam-se, e, deixando-o, se retiraram."
+  },
+  {
+    "i": 28204,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 23,
+    "t": "No mesmo dia chegaram junto dele os saduceus, que dizem não haver ressurreição, e o interrogaram,"
+  },
+  {
+    "i": 28205,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 24,
+    "t": "Dizendo: Mestre, Moisés disse: Se morrer alguém, não tendo filhos, casará o seu irmão com a mulher dele, e suscitará descendência a seu irmão."
+  },
+  {
+    "i": 28206,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 25,
+    "t": "Ora, houve entre nós sete irmãos; e o primeiro, tendo casado, morreu e, não tendo descendência, deixou sua mulher a seu irmão."
+  },
+  {
+    "i": 28207,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 26,
+    "t": "Da mesma sorte o segundo, e o terceiro, até ao sétimo;"
+  },
+  {
+    "i": 28208,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 27,
+    "t": "Por fim, depois de todos, morreu também a mulher."
+  },
+  {
+    "i": 28209,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 28,
+    "t": "Portanto, na ressurreição, de qual dos sete será a mulher, visto que todos a possuíram?"
+  },
+  {
+    "i": 28210,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 29,
+    "t": "Jesus, porém, respondendo, disse-lhes: Errais, não conhecendo as Escrituras, nem o poder de Deus."
+  },
+  {
+    "i": 28211,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 30,
+    "t": "Porque na ressurreição nem casam nem são dados em casamento; mas serão como os anjos de Deus no céu."
+  },
+  {
+    "i": 28212,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 31,
+    "t": "E, acerca da ressurreição dos mortos, não tendes lido o que Deus vos declarou, dizendo:"
+  },
+  {
+    "i": 28213,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 32,
+    "t": "Eu sou o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó? Ora, Deus não é Deus dos mortos, mas dos vivos."
+  },
+  {
+    "i": 28214,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 33,
+    "t": "E, as turbas, ouvindo isto, ficaram maravilhadas da sua doutrina."
+  },
+  {
+    "i": 28215,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 34,
+    "t": "E os fariseus, ouvindo que ele fizera emudecer os saduceus, reuniram-se no mesmo lugar."
+  },
+  {
+    "i": 28216,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 35,
+    "t": "E um deles, doutor da lei, interrogou-o para o experimentar, dizendo:"
+  },
+  {
+    "i": 28217,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 36,
+    "t": "Mestre, qual é o grande mandamento na lei?"
+  },
+  {
+    "i": 28218,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 37,
+    "t": "E Jesus disse-lhe: Amarás o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento."
+  },
+  {
+    "i": 28219,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 38,
+    "t": "Este é o primeiro e grande mandamento."
+  },
+  {
+    "i": 28220,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 39,
+    "t": "E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo."
+  },
+  {
+    "i": 28221,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 40,
+    "t": "Destes dois mandamentos dependem toda a lei e os profetas."
+  },
+  {
+    "i": 28222,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 41,
+    "t": "E, estando reunidos os fariseus, interrogou-os Jesus,"
+  },
+  {
+    "i": 28223,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 42,
+    "t": "Dizendo: Que pensais vós do Cristo? De quem é filho? Eles disseram-lhe: De Davi."
+  },
+  {
+    "i": 28224,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 43,
+    "t": "Disse-lhes ele: Como é então que Davi, em espírito, lhe chama Senhor, dizendo:"
+  },
+  {
+    "i": 28225,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 44,
+    "t": "Disse o Senhor ao meu Senhor: Assenta-te à minha direita, Até que eu ponha os teus inimigos por escabelo de teus pés?"
+  },
+  {
+    "i": 28226,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 45,
+    "t": "Se Davi, pois, lhe chama Senhor, como é seu filho?"
+  },
+  {
+    "i": 28227,
+    "b": 46,
+    "c": 4822,
+    "r": 4822,
+    "o": 46,
+    "t": "E ninguém podia responder-lhe uma palavra; nem desde aquele dia ousou mais alguém interrogá-lo."
+  },
+  {
+    "i": 28228,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 1,
+    "t": "ENTÃO falou Jesus à multidão, e aos seus discípulos,"
+  },
+  {
+    "i": 28229,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 2,
+    "t": "Dizendo: Na cadeira de Moisés estão assentados os escribas e fariseus."
+  },
+  {
+    "i": 28230,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 3,
+    "t": "Todas as coisas, pois, que vos disserem que observeis, observai-as e fazei-as; mas não procedais em conformidade com as suas obras, porque dizem e não fazem;"
+  },
+  {
+    "i": 28231,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 4,
+    "t": "Pois atam fardos pesados e difíceis de suportar, e os põem aos ombros dos homens; eles, porém, nem com o dedo querem movê-los;"
+  },
+  {
+    "i": 28232,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 5,
+    "t": "E fazem todas as obras a fim de serem vistos pelos homens; pois trazem largos filactérios, e alargam as franjas das suas vestes,"
+  },
+  {
+    "i": 28233,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 6,
+    "t": "E amam os primeiros lugares nas ceias e as primeiras cadeiras nas sinagogas,"
+  },
+  {
+    "i": 28234,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 7,
+    "t": "E as saudações nas praças, e o serem chamados pelos homens; Rabi, Rabi."
+  },
+  {
+    "i": 28235,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 8,
+    "t": "Vós, porém, não queirais ser chamados Rabi, porque um só é o vosso Mestre, a saber, o Cristo, e todos vós sois irmãos."
+  },
+  {
+    "i": 28236,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 9,
+    "t": "E a ninguém na terra chameis vosso pai, porque um só é o vosso Pai, o qual está nos céus."
+  },
+  {
+    "i": 28237,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 10,
+    "t": "Nem vos chameis mestres, porque um só é o vosso Mestre, que é o Cristo."
+  },
+  {
+    "i": 28238,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 11,
+    "t": "O maior dentre vós será vosso servo."
+  },
+  {
+    "i": 28239,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 12,
+    "t": "E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado."
+  },
+  {
+    "i": 28240,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 13,
+    "t": "Mas ai de vós, escribas e fariseus, hipócritas! pois que fechais aos homens o reino dos céus; e nem vós entrais nem deixais entrar aos que estão entrando."
+  },
+  {
+    "i": 28241,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 14,
+    "t": "Ai de vós, escribas e fariseus, hipócritas! pois que devorais as casas das viúvas, sob pretexto de prolongadas orações; por isso sofrereis mais rigoroso juízo."
+  },
+  {
+    "i": 28242,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 15,
+    "t": "Ai de vós, escribas e fariseus, hipócritas! pois que percorreis o mar e a terra para fazer um prosélito; e, depois de o terdes feito, o fazeis filho do inferno duas vezes mais do que vós."
+  },
+  {
+    "i": 28243,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 16,
+    "t": "Ai de vós, condutores cegos! pois que dizeis: Qualquer que jurar pelo templo, isso nada é; mas o que jurar pelo ouro do templo, esse é devedor."
+  },
+  {
+    "i": 28244,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 17,
+    "t": "Insensatos e cegos! Pois qual é maior: o ouro, ou o templo, que santifica o ouro?"
+  },
+  {
+    "i": 28245,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 18,
+    "t": "E aquele que jurar pelo altar isso nada é; mas aquele que jurar pela oferta que está sobre o altar, esse é devedor."
+  },
+  {
+    "i": 28246,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 19,
+    "t": "Insensatos e cegos! Pois qual é maior: a oferta, ou o altar, que santifica a oferta?"
+  },
+  {
+    "i": 28247,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 20,
+    "t": "Portanto, o que jurar pelo altar, jura por ele e por tudo o que sobre ele está;"
+  },
+  {
+    "i": 28248,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 21,
+    "t": "E, o que jurar pelo templo, jura por ele e por aquele que nele habita;"
+  },
+  {
+    "i": 28249,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 22,
+    "t": "E, o que jurar pelo céu, jura pelo trono de Deus e por aquele que está assentado nele."
+  },
+  {
+    "i": 28250,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 23,
+    "t": "Ai de vós, escribas e fariseus, hipócritas! pois que dizimais a hortelã, o endro e o cominho, e desprezais o mais importante da lei, o juízo, a misericórdia e a fé; deveis, porém, fazer estas coisas, e não omitir aquelas."
+  },
+  {
+    "i": 28251,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 24,
+    "t": "Condutores cegos! que coais um mosquito e engolis um camelo."
+  },
+  {
+    "i": 28252,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 25,
+    "t": "Ai de vós, escribas e fariseus, hipócritas! pois que limpais o exterior do copo e do prato, mas o interior está cheio de rapina e de iniqüidade."
+  },
+  {
+    "i": 28253,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 26,
+    "t": "Fariseu cego! limpa primeiro o interior do copo e do prato, para que também o exterior fique limpo."
+  },
+  {
+    "i": 28254,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 27,
+    "t": "Ai de vós, escribas e fariseus, hipócritas! pois que sois semelhantes aos sepulcros caiados, que por fora realmente parecem formosos, mas interiormente estão cheios de ossos de mortos e de toda a imundícia."
+  },
+  {
+    "i": 28255,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 28,
+    "t": "Assim também vós exteriormente pareceis justos aos homens, mas interiormente estais cheios de hipocrisia e de iniqüidade."
+  },
+  {
+    "i": 28256,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 29,
+    "t": "Ai de vós, escribas e fariseus, hipócritas! pois que edificais os sepulcros dos profetas e adornais os monumentos dos justos,"
+  },
+  {
+    "i": 28257,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 30,
+    "t": "E dizeis: Se existíssemos no tempo de nossos pais, nunca nos associaríamos com eles para derramar o sangue dos profetas."
+  },
+  {
+    "i": 28258,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 31,
+    "t": "Assim, vós mesmos testificais que sois filhos dos que mataram os profetas."
+  },
+  {
+    "i": 28259,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 32,
+    "t": "Enchei vós, pois, a medida de vossos pais."
+  },
+  {
+    "i": 28260,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 33,
+    "t": "Serpentes, raça de víboras! como escapareis da condenação do inferno?"
+  },
+  {
+    "i": 28261,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 34,
+    "t": "Portanto, eis que eu vos envio profetas, sábios e escribas; a uns deles matareis e crucificareis; e a outros deles açoitareis nas vossas sinagogas e os perseguireis de cidade em cidade;"
+  },
+  {
+    "i": 28262,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 35,
+    "t": "Para que sobre vós caia todo o sangue justo, que foi derramado sobre a terra, desde o sangue de Abel, o justo, até ao sangue de Zacarias, filho de Baraquias, que matastes entre o santuário e o altar."
+  },
+  {
+    "i": 28263,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 36,
+    "t": "Em verdade vos digo que todas estas coisas hão de vir sobre esta geração."
+  },
+  {
+    "i": 28264,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 37,
+    "t": "Jerusalém, Jerusalém, que matas os profetas, e apedrejas os que te são enviados! quantas vezes quis eu ajuntar os teus filhos, como a galinha ajunta os seus pintos debaixo das asas, e tu não quiseste!"
+  },
+  {
+    "i": 28265,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 38,
+    "t": "Eis que a vossa casa vai ficar-vos deserta;"
+  },
+  {
+    "i": 28266,
+    "b": 46,
+    "c": 4823,
+    "r": 4823,
+    "o": 39,
+    "t": "Porque eu vos digo que desde agora me não vereis mais, até que digais: Bendito o que vem em nome do Senhor."
+  },
+  {
+    "i": 28267,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 1,
+    "t": "E, QUANDO Jesus ia saindo do templo, aproximaram-se dele os seus discípulos para lhe mostrarem a estrutura do templo."
+  },
+  {
+    "i": 28268,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 2,
+    "t": "Jesus, porém, lhes disse: Não vedes tudo isto? Em verdade vos digo que não ficará aqui pedra sobre pedra que não seja derrubada."
+  },
+  {
+    "i": 28269,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 3,
+    "t": "E, estando assentado no Monte das Oliveiras, chegaram-se a ele os seus discípulos em particular, dizendo: Dize-nos, quando serão essas coisas, e que sinal haverá da tua vinda e do fim do mundo?"
+  },
+  {
+    "i": 28270,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 4,
+    "t": "E Jesus, respondendo, disse-lhes: Acautelai-vos, que ninguém vos engane;"
+  },
+  {
+    "i": 28271,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 5,
+    "t": "Porque muitos virão em meu nome, dizendo: Eu sou o Cristo; e enganarão a muitos."
+  },
+  {
+    "i": 28272,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 6,
+    "t": "E ouvireis de guerras e de rumores de guerras; olhai, não vos assusteis, porque é mister que isso tudo aconteça, mas ainda não é o fim."
+  },
+  {
+    "i": 28273,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 7,
+    "t": "Porquanto se levantará nação contra nação, e reino contra reino, e haverá fomes, e pestes, e terremotos, em vários lugares."
+  },
+  {
+    "i": 28274,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 8,
+    "t": "Mas todas estas coisas são o princípio de dores."
+  },
+  {
+    "i": 28275,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 9,
+    "t": "Então vos hão de entregar para serdes atormentados, e matar-vos-ão; e sereis odiados de todas as nações por causa do meu nome."
+  },
+  {
+    "i": 28276,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 10,
+    "t": "Nesse tempo muitos serão escandalizados, e trair-se-ão uns aos outros, e uns aos outros se odiarão."
+  },
+  {
+    "i": 28277,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 11,
+    "t": "E surgirão muitos falsos profetas, e enganarão a muitos."
+  },
+  {
+    "i": 28278,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 12,
+    "t": "E, por se multiplicar a iniqüidade, o amor de muitos esfriará."
+  },
+  {
+    "i": 28279,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 13,
+    "t": "Mas aquele que perseverar até ao fim será salvo."
+  },
+  {
+    "i": 28280,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 14,
+    "t": "E este evangelho do reino será pregado em todo o mundo, em testemunho a todas as nações, e então virá o fim."
+  },
+  {
+    "i": 28281,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 15,
+    "t": "Quando, pois, virdes que a abominação da desolação, de que falou o profeta Daniel, está no lugar santo; quem lê, atenda;"
+  },
+  {
+    "i": 28282,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 16,
+    "t": "Então, os que estiverem na Judéia, fujam para os montes;"
+  },
+  {
+    "i": 28283,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 17,
+    "t": "E quem estiver sobre o telhado não desça a tirar alguma coisa de sua casa;"
+  },
+  {
+    "i": 28284,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 18,
+    "t": "E quem estiver no campo não volte atrás a buscar as suas vestes."
+  },
+  {
+    "i": 28285,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 19,
+    "t": "Mas ai das grávidas e das que amamentarem naqueles dias!"
+  },
+  {
+    "i": 28286,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 20,
+    "t": "E orai para que a vossa fuga não aconteça no inverno nem no sábado;"
+  },
+  {
+    "i": 28287,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 21,
+    "t": "Porque haverá então grande aflição, como nunca houve desde o princípio do mundo até agora, nem tampouco há de haver."
+  },
+  {
+    "i": 28288,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 22,
+    "t": "E, se aqueles dias não fossem abreviados, nenhuma carne se salvaria; mas por causa dos escolhidos serão abreviados aqueles dias."
+  },
+  {
+    "i": 28289,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 23,
+    "t": "Então, se alguém vos disser: Eis que o Cristo está aqui, ou ali, não lhe deis crédito;"
+  },
+  {
+    "i": 28290,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 24,
+    "t": "Porque surgirão falsos cristos e falsos profetas, e farão tão grandes sinais e prodígios que, se possível fora, enganariam até os escolhidos."
+  },
+  {
+    "i": 28291,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 25,
+    "t": "Eis que eu vo-lo tenho predito."
+  },
+  {
+    "i": 28292,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 26,
+    "t": "Portanto, se vos disserem: Eis que ele está no deserto, não saiais. Eis que ele está no interior da casa; não acrediteis."
+  },
+  {
+    "i": 28293,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 27,
+    "t": "Porque, assim como o relâmpago sai do oriente e se mostra até ao ocidente, assim será também a vinda do Filho do homem."
+  },
+  {
+    "i": 28294,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 28,
+    "t": "Pois onde estiver o cadáver, aí se ajuntarão as águias."
+  },
+  {
+    "i": 28295,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 29,
+    "t": "E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas."
+  },
+  {
+    "i": 28296,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 30,
+    "t": "Então aparecerá no céu o sinal do Filho do homem; e todas as tribos da terra se lamentarão, e verão o Filho do homem, vindo sobre as nuvens do céu, com poder e grande glória."
+  },
+  {
+    "i": 28297,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 31,
+    "t": "E ele enviará os seus anjos com rijo clamor de trombeta, os quais ajuntarão os seus escolhidos desde os quatro ventos, de uma à outra extremidade dos céus."
+  },
+  {
+    "i": 28298,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 32,
+    "t": "Aprendei, pois, esta parábola da figueira: Quando já os seus ramos se tornam tenros e brotam folhas, sabeis que está próximo o verão."
+  },
+  {
+    "i": 28299,
+    "b": 46,
+    "c": 4824,
+    "r": 4824,
+    "o": 33,
+    "t": "Igualmente, quando virdes todas estas coisas, sabei que ele está próximo, às portas."
+  }
+]

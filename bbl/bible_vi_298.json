@@ -1,0 +1,802 @@
+[
+  {
+    "i": 29800,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 32,
+    "t": "\"Hỡi bầy chiên nhỏ, chớ sợ hãi, vì Cha các ngươi vui lòng ban nước thiên đàng cho các ngươi."
+  },
+  {
+    "i": 29801,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 33,
+    "t": "\"Hãy bán của cải mình mà bố thí. Hãy sắm cho mình túi không hề cũ, một kho tàng không hề vơi trên trời, là nơi kẻ trộm không lai vãng, mối mọt không phá hoại."
+  },
+  {
+    "i": 29802,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 34,
+    "t": "Vì của cải ngươi ở đâu, thì lòng ngươi cũng ở đó."
+  },
+  {
+    "i": 29803,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 35,
+    "t": "\"Lưng các ngươi phải thắt lại, đèn phải thắp sáng."
+  },
+  {
+    "i": 29804,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 36,
+    "t": "Hãy làm như những người đợi chủ đi ăn cưới về, để khi chủ về đến gõ cửa, thì liền mở cho chủ."
+  },
+  {
+    "i": 29805,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 37,
+    "t": "Phước cho những đầy tớ nào, khi chủ về còn thức! Quả thật, ta bảo các ngươi, chủ sẽ thắt lưng, cho chúng ngồi bàn ăn, và đến hầu hạ từng người."
+  },
+  {
+    "i": 29806,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 38,
+    "t": "Nếu chủ về canh hai, canh ba, mà thấy như vậy, thì những đầy tớ ấy thật có phước!"
+  },
+  {
+    "i": 29807,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 39,
+    "t": "Hãy biết rõ điều này: nếu chủ nhà biết giờ nào kẻ trộm đến, thì sẽ không để nó đào ngạch nhà mình."
+  },
+  {
+    "i": 29808,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 40,
+    "t": "Các ngươi cũng vậy, hãy sẵn sàng, vì Con Người sẽ đến vào giờ mà các ngươi không ngờ!"
+  },
+  {
+    "i": 29809,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 41,
+    "t": "Bấy giờ, Phi-e-rơ hỏi: \"Lạy Chúa, Chúa phán dụ này cho chúng tôi hay là cho mọi người?"
+  },
+  {
+    "i": 29810,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 42,
+    "t": "Chúa đáp: \"Vậy ai là người quản gia trung tín, khôn ngoan, mà chủ sẽ đặt lên coi sóc gia nhân, để cấp phát phần thóc lúa đúng giờ?"
+  },
+  {
+    "i": 29811,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 43,
+    "t": "Phước cho đầy tớ đó, khi chủ về đến, thấy nó đang làm như vậy!"
+  },
+  {
+    "i": 29812,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 44,
+    "t": "Quả thật, ta bảo các ngươi, chủ sẽ đặt nó lên coi sóc tất cả gia sản mình."
+  },
+  {
+    "i": 29813,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 45,
+    "t": "Nhưng nếu đầy tớ ấy nghĩ bụng: Chủ ta chậm đến, rồi bắt đầu đánh đập tôi trai tớ gái, ăn uống say sưa,"
+  },
+  {
+    "i": 29814,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 46,
+    "t": "thì chủ nó sẽ đến vào ngày nó không ngờ, vào giờ nó không biết; chủ sẽ loại nó ra, và cho nó chung số phận với những kẻ bất trung."
+  },
+  {
+    "i": 29815,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 47,
+    "t": "\"Đầy tớ nào biết ý chủ mà không chuẩn bị, hoặc không làm theo ý chủ, thì sẽ bị đòn nhiều."
+  },
+  {
+    "i": 29816,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 48,
+    "t": "Còn đầy tớ nào không biết ý chủ mà làm những việc đáng phạt, thì sẽ bị đòn ít. Ai đã được cho nhiều, thì sẽ bị đòi nhiều; ai đã được giao nhiều, thì sẽ bị đòi thêm."
+  },
+  {
+    "i": 29817,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 49,
+    "t": "\"Ta đến ném lửa xuống đất, và ta ước mong lửa ấy đã bùng lên rồi!"
+  },
+  {
+    "i": 29818,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 50,
+    "t": "Ta phải chịu một phép rửa, và ta đau khổ biết bao cho đến khi phép rửa ấy hoàn tất!"
+  },
+  {
+    "i": 29819,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 51,
+    "t": "\"Các ngươi tưởng ta đến để đem bình an cho trái đất sao? Không, ta bảo các ngươi, nhưng là đem sự chia rẽ."
+  },
+  {
+    "i": 29820,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 52,
+    "t": "Vì từ nay trở đi, năm người trong một nhà sẽ chia rẽ nhau, ba chống lại hai, hai chống lại ba:"
+  },
+  {
+    "i": 29821,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 53,
+    "t": "cha chống lại con trai, con trai chống lại cha, mẹ chống lại con gái, con gái chống lại mẹ, mẹ chồng chống lại nàng dâu, nàng dâu chống lại mẹ chồng."
+  },
+  {
+    "i": 29822,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 54,
+    "t": "Người lại nói với đám đông: \"Khi các ngươi thấy mây kéo lên ở phía tây, thì liền nói: Trời sẽ mưa; và quả thật, trời mưa."
+  },
+  {
+    "i": 29823,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 55,
+    "t": "Khi các ngươi thấy gió nồm thổi, thì nói: Trời sẽ nắng; và quả thật, trời nắng."
+  },
+  {
+    "i": 29824,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 56,
+    "t": "Hỡi những kẻ đạo đức giả! Các ngươi biết xem vẻ mặt đất trời, vậy sao các ngươi không biết xem thời này?"
+  },
+  {
+    "i": 29825,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 57,
+    "t": "\"Sao các ngươi không tự mình xét đoán điều gì là phải?"
+  },
+  {
+    "i": 29826,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 58,
+    "t": "Khi ngươi đi với kẻ thù nghịch đến trước mặt quan tòa, thì dọc đường hãy cố gắng giải hòa với nó, kẻo nó kéo ngươi đến trước mặt quan tòa, quan tòa giao ngươi cho lính canh, và lính canh tống ngươi vào ngục."
+  },
+  {
+    "i": 29827,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 59,
+    "t": "Ta bảo ngươi, ngươi sẽ không ra khỏi đó cho đến khi trả hết đồng bạc cuối cùng."
+  },
+  {
+    "i": 29828,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 1,
+    "t": "Cũng trong thời gian ấy, có mấy người đến thuật lại cho Đức Giê-su việc Phi-lát giết mấy người Ga-li-lê, khiến máu họ hòa lẫn với máu các con vật họ dâng tế."
+  },
+  {
+    "i": 29829,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 2,
+    "t": "Đức Giê-su đáp: \"Các ngươi tưởng rằng những người Ga-li-lê ấy, vì đã chịu khổ như vậy, nên tội lỗi hơn mọi người Ga-li-lê khác sao?"
+  },
+  {
+    "i": 29830,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 3,
+    "t": "Ta bảo các ngươi, không phải vậy đâu; nhưng nếu các ngươi không ăn năn, thì hết thảy các ngươi cũng sẽ bị diệt vong như thế."
+  },
+  {
+    "i": 29831,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 4,
+    "t": "Hoặc mười tám người bị tháp Si-lô-ê đổ xuống đè chết, các ngươi tưởng rằng họ có tội lỗi hơn mọi người ở Giê-ru-sa-lem sao?"
+  },
+  {
+    "i": 29832,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 5,
+    "t": "Ta bảo các ngươi, không phải vậy đâu; nhưng nếu các ngươi không ăn năn, thì hết thảy các ngươi cũng sẽ bị diệt vong như thế."
+  },
+  {
+    "i": 29833,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 6,
+    "t": "Rồi Đức Giê-su kể dụ ngôn sau: \"Một người kia có trồng một cây vả trong vườn nho của mình. Người ấy đến tìm trái trên cây, nhưng không thấy."
+  },
+  {
+    "i": 29834,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 7,
+    "t": "Người bèn bảo người làm vườn nho: Kìa, đã ba năm nay ta đến tìm trái trên cây vả này mà không thấy. Hãy chặt nó đi; nó choán đất vô ích."
+  },
+  {
+    "i": 29835,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 8,
+    "t": "Nhưng người làm vườn đáp: Thưa ông, xin cứ để nó lại năm nay nữa, tôi sẽ đào đất chung quanh và bón phân cho nó."
+  },
+  {
+    "i": 29836,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 9,
+    "t": "May ra sang năm nó sẽ ra trái; bằng không, ông sẽ chặt nó đi."
+  },
+  {
+    "i": 29837,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 10,
+    "t": "Đức Giê-su đang giảng dạy trong một hội đường vào ngày sa-bát."
+  },
+  {
+    "i": 29838,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 11,
+    "t": "Ở đó có một người đàn bà bị quỷ ám, làm cho đau yếu đã mười tám năm. Bà ta lưng còng hẳn xuống, không thể ngẩng lên được."
+  },
+  {
+    "i": 29839,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 12,
+    "t": "Khi thấy bà, Đức Giê-su gọi lại và phán: \"Hỡi bà, bà đã được giải thoát khỏi bệnh tật của mình rồi đấy."
+  },
+  {
+    "i": 29840,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 13,
+    "t": "Rồi Ngài đặt tay lên bà, ngay lúc ấy, bà liền đứng thẳng lên được và tôn vinh Đức Chúa Trời."
+  },
+  {
+    "i": 29841,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 14,
+    "t": "Nhưng người quản hội đường tức giận vì Đức Giê-su chữa bệnh trong ngày sa-bát, nên lên tiếng bảo đám đông: \"Có sáu ngày để làm việc; hãy đến chữa bệnh trong những ngày đó, đừng đến trong ngày sa-bát!"
+  },
+  {
+    "i": 29842,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 15,
+    "t": "Chúa đáp: \"Hỡi những kẻ đạo đức giả! Mỗi người trong các ngươi, trong ngày sa-bát, há chẳng cởi trói bò hay lừa của mình ra khỏi chuồng để dẫn đi uống nước sao?"
+  },
+  {
+    "i": 29843,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 16,
+    "t": "Còn người đàn bà này là con cháu Áp-ra-ham, đã bị Sa-tan trói buộc mười tám năm nay, lẽ nào không được cởi trói trong ngày sa-bát sao?"
+  },
+  {
+    "i": 29844,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 17,
+    "t": "Khi Ngài nói như vậy, mọi kẻ thù của Ngài đều hổ thẹn, còn cả đoàn dân thì vui mừng vì mọi việc vinh hiển Ngài đã làm."
+  },
+  {
+    "i": 29845,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 18,
+    "t": "Vậy, Ngài phán: \"Nước Đức Chúa Trời giống như cái gì? Ta sẽ so sánh Nước ấy với cái gì?"
+  },
+  {
+    "i": 29846,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 19,
+    "t": "Nước ấy giống như một hạt cải mà một người kia lấy gieo trong vườn mình; nó lớn lên thành một cái cây, chim trời đến làm tổ trên cành nó."
+  },
+  {
+    "i": 29847,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 20,
+    "t": "Ngài lại phán: \"Ta sẽ so sánh Nước Đức Chúa Trời với cái gì?"
+  },
+  {
+    "i": 29848,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 21,
+    "t": "Nước ấy giống như men mà một người đàn bà kia lấy trộn vào ba đấu bột, cho đến khi bột dậy cả lên."
+  },
+  {
+    "i": 29849,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 22,
+    "t": "Đức Giê-su đi từ thành phố này sang làng kia, vừa giảng dạy vừa đi về hướng Giê-ru-sa-lem."
+  },
+  {
+    "i": 29850,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 23,
+    "t": "Có người hỏi Ngài: \"Thưa Chúa, có phải chỉ ít người được cứu không?\" Ngài đáp:"
+  },
+  {
+    "i": 29851,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 24,
+    "t": "\"Hãy cố gắng vào qua cửa hẹp, vì ta bảo các ngươi, nhiều người sẽ tìm cách vào mà không được."
+  },
+  {
+    "i": 29852,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 25,
+    "t": "Khi chủ nhà đã đứng dậy đóng cửa lại, mà các ngươi còn đứng ở ngoài gõ cửa và nói: Lạy Chúa, xin mở cửa cho chúng tôi, thì chủ sẽ đáp: Ta không biết các ngươi từ đâu đến."
+  },
+  {
+    "i": 29853,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 26,
+    "t": "Bấy giờ, các ngươi sẽ bắt đầu nói: Chúng tôi đã ăn uống trước mặt Ngài, Ngài đã giảng dạy trên các đường phố của chúng tôi."
+  },
+  {
+    "i": 29854,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 27,
+    "t": "Nhưng chủ sẽ đáp: Ta không biết các ngươi từ đâu đến; hỡi tất cả những kẻ làm điều bất chính, hãy lui ra khỏi ta!"
+  },
+  {
+    "i": 29855,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 28,
+    "t": "\"Tại đó sẽ có khóc lóc và nghiến răng, khi các ngươi thấy Áp-ra-ham, Y-sác, Gia-cốp và tất cả các nhà tiên tri ở trong Nước Đức Chúa Trời, còn các ngươi thì bị đuổi ra ngoài."
+  },
+  {
+    "i": 29856,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 29,
+    "t": "Người ta sẽ từ đông, tây, nam, bắc đến dự tiệc trong Nước Đức Chúa Trời."
+  },
+  {
+    "i": 29857,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 30,
+    "t": "\"Kìa, có những người rốt hết sẽ nên đầu hết, và có những người đầu hết sẽ nên rốt hết."
+  },
+  {
+    "i": 29858,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 31,
+    "t": "Cũng chính giờ ấy, có mấy người Pha-ri-si đến nói với Đức Giê-su: \"Xin Thầy hãy đi khỏi đây, vì Hê-rốt muốn giết Thầy!"
+  },
+  {
+    "i": 29859,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 32,
+    "t": "Ngài đáp: \"Hãy đi nói với con chồn đó rằng: Này, ta đuổi quỷ và chữa bệnh hôm nay và ngày mai, đến ngày thứ ba thì ta xong việc!"
+  },
+  {
+    "i": 29860,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 33,
+    "t": "Nhưng hôm nay, ngày mai và ngày kia, ta còn phải tiếp tục đi, vì một nhà tiên tri không thể chết ngoài Giê-ru-sa-lem được."
+  },
+  {
+    "i": 29861,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 34,
+    "t": "\"Hỡi Giê-ru-sa-lem, Giê-ru-sa-lem! Ngươi giết các nhà tiên tri và ném đá những người được sai đến cùng ngươi. Đã bao lần ta muốn tập hợp các con ngươi lại như gà mái ấp con dưới cánh, mà các ngươi không chịu!"
+  },
+  {
+    "i": 29862,
+    "b": 48,
+    "c": 5013,
+    "r": 5013,
+    "o": 35,
+    "t": "Này, nhà các ngươi sẽ bị bỏ hoang. Ta bảo các ngươi, các ngươi sẽ không thấy ta nữa cho đến ngày các ngươi nói: Chúc phước cho Đấng nhân danh Chúa mà đến!\""
+  },
+  {
+    "i": 29863,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 1,
+    "t": "Vào ngày sa-bát kia, Đức Giê-su đến nhà một thủ lĩnh của người Pha-ri-si để dùng bữa, và họ đang theo dõi Ngài."
+  },
+  {
+    "i": 29864,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 2,
+    "t": "Kìa, có một người mắc bệnh phù thũng đứng trước mặt Ngài."
+  },
+  {
+    "i": 29865,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 3,
+    "t": "Đức Giê-su lên tiếng hỏi các nhà luật pháp và người Pha-ri-si: \"Có được phép chữa bệnh trong ngày sa-bát không?"
+  },
+  {
+    "i": 29866,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 4,
+    "t": "Nhưng họ làm thinh. Ngài bèn nắm lấy người bệnh, chữa lành và đuổi người ấy đi."
+  },
+  {
+    "i": 29867,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 5,
+    "t": "Rồi Ngài hỏi họ: \"Ai trong các ngươi, nếu con trai hoặc con bò của mình bị sa xuống giếng, lại không kéo nó lên ngay, dù là ngày sa-bát?"
+  },
+  {
+    "i": 29868,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 6,
+    "t": "Họ không thể đáp lại Ngài điều gì."
+  },
+  {
+    "i": 29869,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 7,
+    "t": "Ngài lại kể cho những người được mời một dụ ngôn, khi thấy họ chọn những chỗ nhất: \"Khi có ai mời ngươi dự tiệc cưới, thì đừng ngồi vào chỗ nhất,"
+  },
+  {
+    "i": 29870,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 8,
+    "t": "kẻo có người nào được mời trọng hơn ngươi,"
+  },
+  {
+    "i": 29871,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 9,
+    "t": "và người đã mời cả ngươi lẫn người kia đến nói với ngươi: Xin mời ông nhường chỗ này cho người ta. Bấy giờ, ngươi sẽ xấu hổ mà xuống ngồi vào chỗ rốt hết."
+  },
+  {
+    "i": 29872,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 10,
+    "t": "Nhưng khi được mời, hãy ngồi vào chỗ rốt hết, để khi người mời đến nói với ngươi: Hỡi bạn, xin mời bạn lên cao hơn. Bấy giờ, ngươi sẽ được vinh dự trước mặt mọi người cùng dự tiệc."
+  },
+  {
+    "i": 29873,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 11,
+    "t": "Vì ai tự tôn sẽ bị hạ xuống, còn ai tự hạ sẽ được tôn lên."
+  },
+  {
+    "i": 29874,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 12,
+    "t": "Rồi Ngài phán với người đã mời mình: \"Khi ngươi đãi bữa ăn trưa hay bữa ăn tối, thì đừng mời bạn hữu, anh em, bà con hay láng giềng giàu có, kẻo họ mời lại ngươi và ngươi được trả ơn rồi."
+  },
+  {
+    "i": 29875,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 13,
+    "t": "Nhưng khi đãi tiệc, hãy mời những người nghèo khó, tàn tật, què quặt, mù lòa,"
+  },
+  {
+    "i": 29876,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 14,
+    "t": "thì ngươi sẽ được phước, vì họ không có gì để trả lại cho ngươi cả. Ngươi sẽ được trả lại trong sự sống lại của những người công chính."
+  },
+  {
+    "i": 29877,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 15,
+    "t": "Một người trong số những người cùng dự tiệc nghe vậy thì nói với Đức Giê-su: \"Phước cho người nào sẽ dùng bữa trong Nước Đức Chúa Trời!"
+  },
+  {
+    "i": 29878,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 16,
+    "t": "Đức Giê-su đáp: \"Một người kia làm một bữa tiệc lớn và mời nhiều người."
+  },
+  {
+    "i": 29879,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 17,
+    "t": "Đến giờ ăn, người ấy sai đầy tớ đi báo cho những người được mời: Xin mời đến, vì mọi sự đã sẵn sàng."
+  },
+  {
+    "i": 29880,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 18,
+    "t": "Và hết thảy, như đồng lòng, đều bắt đầu cáo lỗi. Người thứ nhất nói: Ta đã mua một đám ruộng, cần phải đi thăm; xin hãy tha cho ta."
+  },
+  {
+    "i": 29881,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 19,
+    "t": "Người khác lại nói: Ta đã mua năm đôi bò, và ta đi thử chúng; xin hãy tha cho ta."
+  },
+  {
+    "i": 29882,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 20,
+    "t": "Người khác nữa nói: Ta mới cưới vợ, vì vậy ta không thể đến được."
+  },
+  {
+    "i": 29883,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 21,
+    "t": "\"Khi trở về, đầy tớ thuật lại mọi điều này cho chủ. Bấy giờ, chủ nhà nổi giận, bảo đầy tớ: Hãy mau ra các ngã tư và đường phố trong thành, dẫn những người nghèo khổ, tàn tật, mù lòa và què quặt vào đây.—"
+  },
+  {
+    "i": 29884,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 22,
+    "t": "Thưa chủ, đầy tớ thưa, mệnh lệnh của ngài đã thi hành, và vẫn còn chỗ."
+  },
+  {
+    "i": 29885,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 23,
+    "t": "Chủ bảo đầy tớ: Hãy ra các đường và các hàng rào, ép người ta vào, để nhà ta được đầy dẫy."
+  },
+  {
+    "i": 29886,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 24,
+    "t": "Vì ta nói cùng các ngươi, không một ai trong những người đã được mời sẽ nếm bữa tiệc của ta."
+  },
+  {
+    "i": 29887,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 25,
+    "t": "Có đoàn dân đông đảo đi theo Ngài, và Ngài xây lại phán cùng họ:"
+  },
+  {
+    "i": 29888,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 26,
+    "t": "\"Nếu ai đến với Ta mà không ghét cha mẹ, vợ con, anh em, chị em mình, và cả mạng sống mình nữa, thì không thể làm môn đồ Ta được."
+  },
+  {
+    "i": 29889,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 27,
+    "t": "Ai không vác thập tự giá mình mà theo Ta, thì không thể làm môn đồ Ta được."
+  },
+  {
+    "i": 29890,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 28,
+    "t": "\"Vậy thì, ai trong các ngươi, nếu muốn xây một cái tháp, lại không ngồi xuống trước, tính phí tổn, xem mình có đủ tiền để hoàn thành không?"
+  },
+  {
+    "i": 29891,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 29,
+    "t": "E rằng, sau khi đặt móng mà không thể xây xong, mọi người thấy vậy sẽ chế nhạo người, mà rằng:"
+  },
+  {
+    "i": 29892,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 30,
+    "t": "Kìa, người này đã bắt đầu xây mà không thể hoàn thành!"
+  },
+  {
+    "i": 29893,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 31,
+    "t": "Hoặc là, vua nào, khi đi đánh trận với một vua khác, lại không ngồi xuống trước, suy xét xem mình có thể đem mười ngàn quân ra đương đầu với người kia đem hai mươi ngàn quân đến đánh mình chăng?"
+  },
+  {
+    "i": 29894,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 32,
+    "t": "Bằng không, khi người kia còn ở xa, vua ấy sai sứ đến xin giảng hòa."
+  },
+  {
+    "i": 29895,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 33,
+    "t": "Vậy, ai trong các ngươi không từ bỏ mọi của cải mình có, thì không thể làm môn đồ Ta được."
+  },
+  {
+    "i": 29896,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 34,
+    "t": "\"Muối là một vật tốt. Nhưng nếu muối mất vị mặn, thì sẽ dùng chi mà nêm nó lại?"
+  },
+  {
+    "i": 29897,
+    "b": 48,
+    "c": 5014,
+    "r": 5014,
+    "o": 35,
+    "t": "Nó không dùng được cho đất, cũng không dùng được cho đống phân; người ta ném nó ra ngoài. Ai có tai mà nghe, hãy nghe!"
+  },
+  {
+    "i": 29898,
+    "b": 48,
+    "c": 5015,
+    "r": 5015,
+    "o": 1,
+    "t": "Bấy giờ, các người thu thuế và người có tội đến gần Ngài để nghe Ngài giảng."
+  },
+  {
+    "i": 29899,
+    "b": 48,
+    "c": 5015,
+    "r": 5015,
+    "o": 2,
+    "t": "Những người Pha-ri-si và các thầy thông giáo lằm bằm mà rằng: \"Người này tiếp những người tội lỗi và ăn chung với họ!"
+  }
+]

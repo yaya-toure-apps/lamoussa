@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13700,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 16,
+    "t": "Jei turi ausis klausyti, įsiklausyk į tai, atkreipk ausis į mano žodžių garsą."
+  },
+  {
+    "i": 13701,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 17,
+    "t": "Argi tas, kuris nekenčia teisingumo, galėtų valdyti? Ar tu pasmerktum Visagalį Teisųjį?"
+  },
+  {
+    "i": 13702,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 18,
+    "t": "Tą, kuris karaliui sako: \"Nenaudėli!\", o didžiūnus vadina nedorėliais,"
+  },
+  {
+    "i": 13703,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 19,
+    "t": "kuris neatsižvelgia į kunigaikščius ir neišskiria turtingo nuo vargšo, nes visi jie yra jo rankų darbas."
+  },
+  {
+    "i": 13704,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 20,
+    "t": "Jie miršta staiga naktį, didieji žūva ir išnyksta, ir jis pašalina tironą be pastangų."
+  },
+  {
+    "i": 13705,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 21,
+    "t": "Nes jo akys stebi žmogaus kelius ir jis pastebi visus jo žingsnius."
+  },
+  {
+    "i": 13706,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 22,
+    "t": "Nėra tamsos ar tiršto šešėlio, kur galėtų pasislėpti nedorėliai."
+  },
+  {
+    "i": 13707,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 23,
+    "t": "Jis nesiunčia žmogui šaukimo, kad šis stotų prieš Dievą teisme."
+  },
+  {
+    "i": 13708,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 24,
+    "t": "Jis sutriuškina didžiuosius be tyrimo ir pastato kitus į jų vietą."
+  },
+  {
+    "i": 13709,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 25,
+    "t": "Nes jis pažįsta jų darbus! Jis juos nuverčia naktį ir jie yra sumindžiojami."
+  },
+  {
+    "i": 13710,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 26,
+    "t": "Kaip nusikaltėlius, jis juos užpliaukšteli, viešai sukausto grandinėmis,"
+  },
+  {
+    "i": 13711,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 27,
+    "t": "nes jie nusisuko nuo jo, nesuprato jo kelių,"
+  },
+  {
+    "i": 13712,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 28,
+    "t": "kol silpnojo šauksmas pakilo pas jį, kol jis išgirdo nuolankiųjų šauksmą."
+  },
+  {
+    "i": 13713,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 29,
+    "t": "Bet jei jis lieka nejudrus, niekas jo nesujaudina, jei jis uždengia savo veidą ir neleidžia savęs pamatyti, tai jis pasigaili tautų ir individų,"
+  },
+  {
+    "i": 13714,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 30,
+    "t": "išvaduoja bedievius nuo sielvarto tinklų,"
+  },
+  {
+    "i": 13715,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 31,
+    "t": "kai šis sako Dievui: \"Aš buvau apgautas, daugiau nedarysiu blogo;"
+  },
+  {
+    "i": 13716,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 32,
+    "t": "jei aš nusidėjau, pamokyk mane, jei padariau neteisybę, daugiau nekartosiu."
+  },
+  {
+    "i": 13717,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 33,
+    "t": "Ar, tavo nuomone, jis turėtų bausti, nes tu atmeti jo sprendimus? Kadangi tu renkiesi, o ne aš, pasidalink su mumis savo išmintimi."
+  },
+  {
+    "i": 13718,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 34,
+    "t": "Bet protingi žmonės man pasakys, kaip ir kiekvienas išmintingas žmogus, kuris manęs klausosi:"
+  },
+  {
+    "i": 13719,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 35,
+    "t": "\"Jobas nekalba su išmintimi, jo žodžiams trūksta supratimo."
+  },
+  {
+    "i": 13720,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 36,
+    "t": "Tad ištyrinėk jį iki galo už jo atsakymus, vertus nedorėlių atsakymų."
+  },
+  {
+    "i": 13721,
+    "b": 17,
+    "c": 1834,
+    "r": 1834,
+    "o": 37,
+    "t": "Nes jis prideda maištą prie savo nuodėmės, nutraukia teisingumą tarp mūsų ir dauginą prieš Dievą savo žodžius."
+  },
+  {
+    "i": 13722,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 1,
+    "t": "Elihu tęsė savo kalbą ir tarė:"
+  },
+  {
+    "i": 13723,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 2,
+    "t": "Ar tu manai užsitikrinti savo teises, tvirtinti savo teisingumą Dievo akivaizdoje,"
+  },
+  {
+    "i": 13724,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 3,
+    "t": "kad išdrįstum jam pasakyti: \"Kas tau iš to, arba kokia man nauda, jei aš nusidėjau ar ne?"
+  },
+  {
+    "i": 13725,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 4,
+    "t": "Na ką gi! Aš tau atsakysiu ir tavo draugams kartu."
+  },
+  {
+    "i": 13726,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 5,
+    "t": "Pažvelk į dangų ir įsižiūrėk, pamatyk, kokie debesys aukštesni už tave!"
+  },
+  {
+    "i": 13727,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 6,
+    "t": "Jei tu nusidedi, kuo jį pasieki? Jei padaugini savo nusikaltimus, ar jam padarai kokią nors žalą?"
+  },
+  {
+    "i": 13728,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 7,
+    "t": "Jei tu esi teisus, ką jam duodi arba ką jis gauna iš tavo rankos?"
+  },
+  {
+    "i": 13729,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 8,
+    "t": "Tavo nedorumas paveikia tavo artimus, tavo teisingumas rūpi mirtingiesiems."
+  },
+  {
+    "i": 13730,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 9,
+    "t": "Jie dejuoja po priespaudos našta, jie šaukiasi pagalbos dėl didžiųjų tironijos,"
+  },
+  {
+    "i": 13731,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 10,
+    "t": "bet niekas negalvoja pasakyti: \"Kur Dievas, mano Kūrėjas, kuris naktį leidžia džiaugsmo giesmes,"
+  },
+  {
+    "i": 13732,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 11,
+    "t": "kuris mus padaro protingesnius už laukinius žvėris, išmintingesnius už padangių paukščius?"
+  },
+  {
+    "i": 13733,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 12,
+    "t": "Tada šaukiama, bet jis neatsako, dėl nedorėlių puikybės."
+  },
+  {
+    "i": 13734,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 13,
+    "t": "Tikrai Dievas neklauso tuštybės, Šadais nekreipia į ją dėmesio."
+  },
+  {
+    "i": 13735,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 14,
+    "t": "Ir juo labiau, kai tu sakai: \"Aš jo nematau, mano byla jam atvira ir aš jo laukiu."
+  },
+  {
+    "i": 13736,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 15,
+    "t": "Arba: \"Jo pyktis nebaudžia ir jis, atrodo, ignoruoja žmogaus maištą."
+  },
+  {
+    "i": 13737,
+    "b": 17,
+    "c": 1835,
+    "r": 1835,
+    "o": 16,
+    "t": "Jobai, tu atveri burną kalbėdamas į tuštumą, iš nežinojimo tu dauginą žodžius."
+  },
+  {
+    "i": 13738,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 1,
+    "t": "Elihu tęsė ir tarė:"
+  },
+  {
+    "i": 13739,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 2,
+    "t": "Palauk truputį ir leisk man pamokyti tave, nes ne viską pasakiau Dievo naudai."
+  },
+  {
+    "i": 13740,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 3,
+    "t": "Aš noriu semtis žinių iš labai toli, kad pateisinčiau savo Kūrėją."
+  },
+  {
+    "i": 13741,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 4,
+    "t": "Iš tiesų, mano žodžiuose nėra melo, ir šalia tavęs yra žmogus, turintis didelę išmintį."
+  },
+  {
+    "i": 13742,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 5,
+    "t": "Dievas neatmeta žmogaus, kurio širdis tyra,"
+  },
+  {
+    "i": 13743,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 6,
+    "t": "jis neleidžia nedorėliams gyventi visa jėga. Jis teisingai teisia vargšus,"
+  },
+  {
+    "i": 13744,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 7,
+    "t": "užtikrina teisiųjų teises. Kai jis iškelia karalius į sostą ir išaukština tuos, kurie sėdi amžinai,"
+  },
+  {
+    "i": 13745,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 8,
+    "t": "tada jis suriša juos grandinėmis, jie paimami į sielvarto pančius."
+  },
+  {
+    "i": 13746,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 9,
+    "t": "Jis nušviečia juos apie jų darbus, apie puikybės klaidas, kurias jie padarė."
+  },
+  {
+    "i": 13747,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 10,
+    "t": "Jis į ausis įdeda įspėjimą, įsako jiems nusigręžti nuo blogio."
+  },
+  {
+    "i": 13748,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 11,
+    "t": "Jei jie klausosi ir pasirodo paklusnūs, jų dienos baigiasi laimėje, o jų metai - malonumuose."
+  },
+  {
+    "i": 13749,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 12,
+    "t": "Priešingu atveju jie pereina per Kanalą ir žūva kaip kvailiai."
+  },
+  {
+    "i": 13750,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 13,
+    "t": "Taip, užkietėję, kurie laiko savo pyktį ir nešaukia pagalbos, kai jis juos sukausto,"
+  },
+  {
+    "i": 13751,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 14,
+    "t": "miršta jaunystėje ir jų gyvenimas yra paniekintas."
+  },
+  {
+    "i": 13752,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 15,
+    "t": "Bet jis išgelbėja vargšą per jo skurdą, jis įspėja jį jo varge."
+  },
+  {
+    "i": 13753,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 16,
+    "t": "Jis taip pat nori ištraukti tave iš kančios. Nors tu džiaugeisi gausa be apribojimų ir riebalai liejosi ant tavo stalo,"
+  },
+  {
+    "i": 13754,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 17,
+    "t": "tu nenagrinėjai nedorėlių bylos ir nepadarei teisybės našlaičiui."
+  },
+  {
+    "i": 13755,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 18,
+    "t": "Saugokis, kad tavęs nesuviliotų gausa, nesugadintų turtingos dovanos."
+  },
+  {
+    "i": 13756,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 19,
+    "t": "Pristatyk didį kaip žmogų be aukso, stipraus rankos žmogų kaip silpną."
+  },
+  {
+    "i": 13757,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 20,
+    "t": "Nesužlugdyk tų, kurie tau svetimi, kad į jų vietą atsidurtų tavo giminė."
+  },
+  {
+    "i": 13758,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 21,
+    "t": "Saugokis, kad nepasuktumei į neteisybę, nes dėl to sielvartas tave išbando."
+  },
+  {
+    "i": 13759,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 22,
+    "t": "Štai, Dievas yra didingas savo jėga ir kokį mokytoją jam prilyginti?"
+  },
+  {
+    "i": 13760,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 23,
+    "t": "Kas jam nurodė kelią, kuriuo sekti, kas išdrįstų jam pasakyti: \"Tu padarei neteisybę?"
+  },
+  {
+    "i": 13761,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 24,
+    "t": "Verčiau pagalvok, kaip išaukštinti jo darbą, kurį žmogus šlovino giesmėmis."
+  },
+  {
+    "i": 13762,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 25,
+    "t": "Tai reginys, siūlomas visiems, žmogus stebi jį iš tolo."
+  },
+  {
+    "i": 13763,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 26,
+    "t": "Taip, Dievas toks didis, kad pranoksta mūsų išmintį, ir jo metų skaičius lieka nesuskaičiuojamas."
+  },
+  {
+    "i": 13764,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 27,
+    "t": "Jis sumažina vandens lašus, išsklaido lietų į rūką."
+  },
+  {
+    "i": 13765,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 28,
+    "t": "Ir debesys išlieja jį, leidžia jam tekėti ant žmonių minios."
+  },
+  {
+    "i": 13766,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 29,
+    "t": "Kas dar supras jo debesies išsidėstymus, grėsmingą jo palapinės griausmą?"
+  },
+  {
+    "i": 13767,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 30,
+    "t": "Jis paskleidžia rūką prieš save, apdengia kalnų viršūnes."
+  },
+  {
+    "i": 13768,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 31,
+    "t": "Per juos jis maitina tautas, suteikia joms maisto gausiai."
+  },
+  {
+    "i": 13769,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 32,
+    "t": "Pilnomis rankomis jis pakelia žaibą ir nustato jam tikslą, kurį pasiekti."
+  },
+  {
+    "i": 13770,
+    "b": 17,
+    "c": 1836,
+    "r": 1836,
+    "o": 33,
+    "t": "Jo triukšmas skelbia jo atėjimą, pyktis užsidega prieš nedorumą."
+  },
+  {
+    "i": 13771,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 1,
+    "t": "Mano paties širdis dreba dėl to ir pašoka iš savo vietos."
+  },
+  {
+    "i": 13772,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 2,
+    "t": "Klausykite, klausykite jo balso triukšmo, griausmo, kuris išeina iš jo burnos!"
+  },
+  {
+    "i": 13773,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 3,
+    "t": "Jo žaibas paleistas po dangaus platybėmis, jis pasiekia žemės pakraščius."
+  },
+  {
+    "i": 13774,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 4,
+    "t": "Už jo riaumoja balsas, nes Dievas griaudžia savo didingu balsu. Ir jis nelaiko sulaikęs savo žaibų, kol jo balsas aidi."
+  },
+  {
+    "i": 13775,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 5,
+    "t": "Taip, Dievas mums parodo nuostabius dalykus, jis atlieka didingus darbus, kurie mus pranoksta."
+  },
+  {
+    "i": 13776,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 6,
+    "t": "Kai jis sako sniegui: \"Krisk ant žemės!\", liūtims: \"Lyk smarkiai!"
+  },
+  {
+    "i": 13777,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 7,
+    "t": "tada jis sustabdo žmonių veiklą, kad kiekvienas pripažintų jo darbą."
+  },
+  {
+    "i": 13778,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 8,
+    "t": "Gyvūnai grįžta į savo urvus ir slepiasi savo oluose."
+  },
+  {
+    "i": 13779,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 9,
+    "t": "Iš pietinės kameros išeina uraganas, o vėjai iš šiaurės atneša šaltį."
+  },
+  {
+    "i": 13780,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 10,
+    "t": "Dievo alsavimas sukuria ledą, ir vandenų paviršius sukietėja."
+  },
+  {
+    "i": 13781,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 11,
+    "t": "Jis apipila debesys drėgme, ir audros debesys paskleidžia Jo žaibą."
+  },
+  {
+    "i": 13782,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 12,
+    "t": "Ir Jis juos varo ratu, ir valdo jų kaitą. Jie vykdo visus Jo įsakymus, ant Jo žemės pasaulio veido."
+  },
+  {
+    "i": 13783,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 13,
+    "t": "Ar bausti žemės tautas, ar dėl gėrio darbų, Jis juos siunčia."
+  },
+  {
+    "i": 13784,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 14,
+    "t": "Klausykis to, Jobai, nesvyruodamas, ir apmąstyk Dievo stebuklus."
+  },
+  {
+    "i": 13785,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 15,
+    "t": "Ar žinai, kaip Dievas jiems įsako, ir kaip Jo debesis nušviečia žaibą?"
+  },
+  {
+    "i": 13786,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 16,
+    "t": "Ar žinai, kaip Jis sulaiko debesis pusiausvyroje, nuostabą keliančiu išminties stebuklu?"
+  },
+  {
+    "i": 13787,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 17,
+    "t": "Tu, kai tavo drabužiai dega ir žemė stovi nejudėdama po pietų vėju,"
+  },
+  {
+    "i": 13788,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 18,
+    "t": "ar gali ištiesti kaip Jis dangų, sukietėjusį kaip išlydyto metalo veidrodis?"
+  },
+  {
+    "i": 13789,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 19,
+    "t": "Pamokyk mane, ką Jam pasakyti: geriau nebesiginčyti dėl mūsų tamsybių."
+  },
+  {
+    "i": 13790,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 20,
+    "t": "Ar mano žodžiai Jam svarbūs, ar Jis informuotas apie žmogaus įsakymus?"
+  },
+  {
+    "i": 13791,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 21,
+    "t": "Kurį laiką šviesa tampa nematoma, kai debesys ją užtemdo; tuomet vėjas praeina ir juos nušluoja,"
+  },
+  {
+    "i": 13792,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 22,
+    "t": "ir iš šiaurės ateina aiškumas. Dievas apsigaubia baimę keliančia spindesiu;"
+  },
+  {
+    "i": 13793,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 23,
+    "t": "Jis, Šadais, mes negalime Jo pasiekti. Aukščiausias jėga ir teisingumu, teisingumo meistras be priespaudos,"
+  },
+  {
+    "i": 13794,
+    "b": 17,
+    "c": 1837,
+    "r": 1837,
+    "o": 24,
+    "t": "Jis primeta save baimę žmonėms; Jam visų protingų dvasių pagarba!"
+  },
+  {
+    "i": 13795,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 1,
+    "t": "Viešpats atsakė Jobui iš audros sūkurio ir tarė:"
+  },
+  {
+    "i": 13796,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 2,
+    "t": "Kas tas, kuris aptemdo mano planus beprasmiškais žodžiais?"
+  },
+  {
+    "i": 13797,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 3,
+    "t": "Susijuosk strėnas kaip narsuolis: Aš tavęs klausiu, o tu mane pamokysi."
+  },
+  {
+    "i": 13798,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 4,
+    "t": "Kur buvai, kai Aš žemę įkūriau? Kalbėk, jei tavo žinojimas yra apšviestas."
+  },
+  {
+    "i": 13799,
+    "b": 17,
+    "c": 1838,
+    "r": 1838,
+    "o": 5,
+    "t": "Kas nustatė jos matus, ar žinotum, arba kas virš jos ištiesė virvę?"
+  }
+]

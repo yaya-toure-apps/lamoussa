@@ -1,0 +1,802 @@
+[
+  {
+    "i": 22800,
+    "b": 32,
+    "c": 3405,
+    "r": 3405,
+    "o": 13,
+    "t": "Vyvrátím z tvého lůna posvátné sloupy tvé a zničím města tvá."
+  },
+  {
+    "i": 22801,
+    "b": 32,
+    "c": 3405,
+    "r": 3405,
+    "o": 14,
+    "t": "V hněvu a prchlivosti vykonám pomstu na národech, které neposlouchaly."
+  },
+  {
+    "i": 22802,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 1,
+    "t": "Slyšte tedy, co praví Hospodin: \"Povstaň, veď spor před horami a pahorky ať slyší tvůj hlas!"
+  },
+  {
+    "i": 22803,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 2,
+    "t": "Slyšte, hory, spor Hospodinův, nakloňte ucho, základy země, neboť Hospodin má spor se svým lidem, pře se s Izraelem:"
+  },
+  {
+    "i": 22804,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 3,
+    "t": "\"Lide můj, co jsem ti učinil? V čem jsem tě unavil? Odpověz mi."
+  },
+  {
+    "i": 22805,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 4,
+    "t": "Vždyť jsem tě vyvedl z egyptské země, vykoupil jsem tě z domu otroctví; poslal jsem před tebou Mojžíše, Árona a Miriam."
+  },
+  {
+    "i": 22806,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 5,
+    "t": "Lide můj, rozpomínej se na úmysl Baláka, krále moábského, a na to, co mu odpověděl Bileám, syn Beórův, od Šittímu až po Gilgál, abys poznal spravedlivé skutky Hospodinovy\" —"
+  },
+  {
+    "i": 22807,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 6,
+    "t": "\"S čím předstoupím před Hospodina, pokloním se před Bohem Nejvyšším? Předstoupím s oběťmi zápalnými, s ročními telaty?"
+  },
+  {
+    "i": 22808,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 7,
+    "t": "Bude mít zalíbení v tisících beranů, v potocích oleje po deseti tisících? Mám dát svého prvorozeného za svůj zločin, plod svého lůna za svůj vlastní hřích\" —"
+  },
+  {
+    "i": 22809,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 8,
+    "t": "\"Bylo ti oznámeno, člověče, co je dobré, co Hospodin od tebe žádá: jen abys činil spravedlnost, miloval milosrdenství a pokorně chodil se svým Bohem."
+  },
+  {
+    "i": 22810,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 9,
+    "t": "Hlas Hospodinův volá k městu: Slyšte, kmeni a shromáždění města!"
+  },
+  {
+    "i": 22811,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 10,
+    "t": "Mohu snést falešnou míru a zmenšenou efe, ohavnou?"
+  },
+  {
+    "i": 22812,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 11,
+    "t": "Mohu považovat za čistého, kdo užívá falešné váhy, měšce se zrádnými závažími?"
+  },
+  {
+    "i": 22813,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 12,
+    "t": "Jejíž boháči jsou plni násilí a jejíž obyvatelé mluví lživě!"
+  },
+  {
+    "i": 22814,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 13,
+    "t": "Proto i já jsem tě začal bít, zpustoším tě pro tvé hříchy."
+  },
+  {
+    "i": 22815,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 14,
+    "t": "Budeš jíst, ale nenasytíš se; odložíš stranou, ale nic neuchováš; a jestliže něco uchováš, vydám to meči."
+  },
+  {
+    "i": 22816,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 15,
+    "t": "Budeš sít, ale nesklidíš; budeš lisovat olivy, ale neomažeš se olejem, mošt, ale nenapiješ se vína."
+  },
+  {
+    "i": 22817,
+    "b": 32,
+    "c": 3406,
+    "r": 3406,
+    "o": 16,
+    "t": "Zachováváš zákony Omrího, všechny zvyklosti domu Achabova; chováš se podle jejich zásad, abych tě učinil předmětem úžasu, tvé obyvatele výsměchem, a abyste nesli pohanu národů."
+  },
+  {
+    "i": 22818,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 1,
+    "t": "Běda mi! Stal jsem se jako sběrač v létě, jako paběrkovač při vinobraní: ani hrozen k jídlu, ani raný fíkový plod, po kterém toužím!"
+  },
+  {
+    "i": 22819,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 2,
+    "t": "Zbožní zmizeli ze země: není ani jediného spravedlivého mezi lidmi! Všichni číhají na krev, každý stíhá svého bratra sítí."
+  },
+  {
+    "i": 22820,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 3,
+    "t": "Aby páchali zlo, jejich ruce jsou zručné: kníže žádá, soudce soudí za dar, velký pronáší podle své libosti."
+  },
+  {
+    "i": 22821,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 4,
+    "t": "Mezi nimi nejlepší je jako trní, nejspravedlivější jako plot z bodláčí. Dnes přichází od severu jejich zkouška; to je chvíle jejich zmatení."
+  },
+  {
+    "i": 22822,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 5,
+    "t": "Nespoléhejte se na bližního, nemějte důvěru v přítele; před tou, která sdílí tvé lože, střez se otevřít ústa."
+  },
+  {
+    "i": 22823,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 6,
+    "t": "Neboť syn uráží otce, dcera se staví proti matce, snacha proti své tchyni, každý má za nepřátele lidi ze svého domu."
+  },
+  {
+    "i": 22824,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 7,
+    "t": "Ale já se dívám k Hospodinu, doufám v Boha, který mě zachrání; můj Bůh mě vyslyší."
+  },
+  {
+    "i": 22825,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 8,
+    "t": "Neraduj se nade mnou, má nepřítelkyně: jestliže jsem padla, povstanu; jestliže přebývám ve tmě, Hospodin je mé světlo."
+  },
+  {
+    "i": 22826,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 9,
+    "t": "Musím snést hněv Hospodinův, protože jsem proti němu zhřešila, dokud nerozsoudí mou při a neučiní mi spravedlnost; vyvede mě na světlo a spatřím jeho spravedlivé skutky."
+  },
+  {
+    "i": 22827,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 10,
+    "t": "Až to uvidí má nepřítelkyně, bude pokryta hanbou, ona, která mi říkala: \"Kde je Hospodin, tvůj Bůh?\" Mé oči ji spatří, zatímco bude pošlapána jako bláto ulic."
+  },
+  {
+    "i": 22828,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 11,
+    "t": "Den znovuvýstavby tvých hradeb! Onoho dne se rozšíří tvé hranice;"
+  },
+  {
+    "i": 22829,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 12,
+    "t": "onoho dne se bude přicházet až k tobě od Asýrie až k Egyptu, od Týru až k Řece, od moře k moři, od hory k hoře."
+  },
+  {
+    "i": 22830,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 13,
+    "t": "Země se stane pustinou kvůli svým obyvatelům, jako odplata za jejich chování."
+  },
+  {
+    "i": 22831,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 14,
+    "t": "Pas svůj lid pod svou berlou, stádo svého dědictví, které přebývá osamoceně v křoví, uprostřed sadů. Ať se pase v Bášanu a Gileádu jako za dávných dnů!"
+  },
+  {
+    "i": 22832,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 15,
+    "t": "Jako za dnů, kdy jsi vyšel z egyptské země, ukaž nám divy!"
+  },
+  {
+    "i": 22833,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 16,
+    "t": "Národy uvidí a budou zahanbeny navzdory veškeré své moci; dají si ruku na ústa, budou mít uši ohlušené."
+  },
+  {
+    "i": 22834,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 17,
+    "t": "Budou lízat prach jako had, jako zvířata, která se plazí po zemi. Vylezou rozechvělé ze svých doupat, vyděšené a bázlivé před tebou."
+  },
+  {
+    "i": 22835,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 18,
+    "t": "Kdo je Bůh jako ty, který snímá vinu, který odpouští zločin, který nerozdmýchává svůj hněv navěky, ale má zalíbení v milosti?"
+  },
+  {
+    "i": 22836,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 19,
+    "t": "Ještě jednou se nad námi smiluj! Pošlapej naše viny, hoď do hlubin moře všechny naše hříchy!"
+  },
+  {
+    "i": 22837,
+    "b": 32,
+    "c": 3407,
+    "r": 3407,
+    "o": 20,
+    "t": "Prokaž Jákobovi svou věrnost, Abrahamovi svou milost, jak jsi přísahal našim otcům od dávných dnů."
+  },
+  {
+    "i": 22838,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 1,
+    "t": "Proroctví o Ninive. Kniha vidění Nahuma Elkoše."
+  },
+  {
+    "i": 22839,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 2,
+    "t": "Žárlivý Bůh a mstící se je Hospodin! Mstí se Hospodin, je bohatý hněvem! Mstí se Hospodin na svých protivnících, chová zášť ke svým nepřátelům."
+  },
+  {
+    "i": 22840,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 3,
+    "t": "Hospodin je pomalý k hněvu, ale velký svou mocí. Beztrestnost, tu nikdy neudělí, Hospodin. Ve vichřici, v bouři si razí cestu, oblaka jsou prach, který víří jeho kroky."
+  },
+  {
+    "i": 22841,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 4,
+    "t": "Hrozí moři, vysušuje je, vysušuje všechny řeky... zvadlý je Bášan a Karmel, zvadlá zeleň Libanonu!"
+  },
+  {
+    "i": 22842,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 5,
+    "t": "Hory se třesou před ním, pahorky se chvějí, země se hroutí před ním, svět a všichni, kteří ho obývají."
+  },
+  {
+    "i": 22843,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 6,
+    "t": "Kdo by mohl obstát před jeho rozhořčením? Kdo by vydržel před jeho planoucím hněvem? Jeho zuřivost se vylévá jako oheň a skály se před ním tříští."
+  },
+  {
+    "i": 22844,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 7,
+    "t": "Hospodin je dobrý; je citadelou v den soužení. Zná ty, kteří v něj doufají,"
+  },
+  {
+    "i": 22845,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 8,
+    "t": "i když přijde povodeň. Zničí ty, kteří se staví proti němu, bude pronásledovat své nepřátele až do tmy."
+  },
+  {
+    "i": 22846,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 9,
+    "t": "Co zamýšlíte proti Hospodinu? On sám ničí; útlak se dvakrát nepozvedne."
+  },
+  {
+    "i": 22847,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 10,
+    "t": "Jako houští spletitého trní budou pohlceni, jako suchá sláma, úplně."
+  },
+  {
+    "i": 22848,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 11,
+    "t": "Z tebe vyšel ten, který zamýšlí proti Hospodinu, muž se zlými úmysly."
+  },
+  {
+    "i": 22849,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 12,
+    "t": "Tak praví Hospodin: I kdyby byli neporušení, i kdyby jich bylo mnoho, budou posekáni a pominou. Jestliže jsem tě pokořil, už tě neponížím."
+  },
+  {
+    "i": 22850,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 13,
+    "t": "A nyní, zlomím jeho jho, které na tobě leží, zpřetrhám tvé řetězy."
+  },
+  {
+    "i": 22851,
+    "b": 33,
+    "c": 3501,
+    "r": 3501,
+    "o": 14,
+    "t": "Pro tebe je toto Hospodinův rozkaz: Nebude již potomstvo, které by neslo tvé jméno; z chrámu tvých bohů odstraním vyřezávané a lité obrazy; zpustoším tvůj hrob, neboť jsi prokletý."
+  },
+  {
+    "i": 22852,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 1,
+    "t": "Hle, na horách nohy posla; zvěstuje: \"Pokoj!\" Sláv své svátky, Judo, plň své sliby, neboť Beliál již u tebe nepřejde, je úplně zničen."
+  },
+  {
+    "i": 22853,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 2,
+    "t": "Proti tobě se blíží ničitel. Nastraž stráž na hradbách, sleduj cestu, přepásej si bedra, shromaždi veškerou svou sílu."
+  },
+  {
+    "i": 22854,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 3,
+    "t": "(Ano, Hospodin obnovuje vinici Jákobovu a vinici Izraelovu. Lupiči je vyloupili, zpřetrhali jejich ratolesti)."
+  },
+  {
+    "i": 22855,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 4,
+    "t": "Štít jeho udatných se červená, jeho stateční jsou oblečeni v šarlat; vozy plápolají veškerou svou ocelí v den jejich seřazení; jezdci se pohybují;"
+  },
+  {
+    "i": 22856,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 5,
+    "t": "na ulicích řádí vozy, řítí se náměstími; při pohledu na ně se zdá, že jsou to plameny; jako blesk běží sem a tam."
+  },
+  {
+    "i": 22857,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 6,
+    "t": "Volají mocné; klopýtají v chůzi; spěchají k hradbám. A úkryt je na svém místě."
+  },
+  {
+    "i": 22858,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 7,
+    "t": "Brány, které vedou k Řece, se otevírají a palác se chvěje ve všech směrech."
+  },
+  {
+    "i": 22859,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 8,
+    "t": "Krása je odváděna do exilu, unášena, její služebnice vydávají sténání jako nářek holubic;"
+  },
+  {
+    "i": 22860,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 9,
+    "t": "bijí se v srdce. Ninive je jako vodní nádrž, z níž unikají vody. \"Zastavte, zastavte!\" Ale nikdo se neohlédne."
+  },
+  {
+    "i": 22861,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 10,
+    "t": "\"Lupte stříbro! Lupte zlato!\" Pokladu není konce, hromada všech cenných předmětů!"
+  },
+  {
+    "i": 22862,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 11,
+    "t": "Lup, plenění, zpustošení! Srdce se rozpouští, kolena se podlamují, mrazení je ve všech bedrech, všechny tváře ztrácejí svou barvu."
+  },
+  {
+    "i": 22863,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 12,
+    "t": "Kde je doupě lvů, jeskyně lvíčat? Když odcházel lev, lvice tam zůstávala a mláďata lva; nikdo je neznepokojoval."
+  },
+  {
+    "i": 22864,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 13,
+    "t": "Lev trhal pro svá mláďata, škrtil pro své lvice; naplnil svá doupata loupeží, své jeskyně kořistí."
+  },
+  {
+    "i": 22865,
+    "b": 33,
+    "c": 3502,
+    "r": 3502,
+    "o": 14,
+    "t": "Hle, já! K tobě! praví Hospodin zástupů. Proměním tvé vozy v dým; meč pohltí tvá lvíčata. Odstraním ze země tvé loupeže a už nebude slyšet hlas tvých poslů."
+  },
+  {
+    "i": 22866,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 1,
+    "t": "Běda krvežíznivému městu, samá lež, plné kořisti, kde neustává loupež!"
+  },
+  {
+    "i": 22867,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 2,
+    "t": "Práskání bičů, rachot kol, koně tryskají, vozy poskakují,"
+  },
+  {
+    "i": 22868,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 3,
+    "t": "jezdci do útoku, plameny mečů, záblesky kopí, zástupy zraněných, masy mrtvých, bez konce mrtvol, klopýtají o jejich mrtvoly!"
+  },
+  {
+    "i": 22869,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 4,
+    "t": "To je kvůli nesčetným prostitucím prostitutky, milostivé krásy, obratné čarodějky, která zotročovala národy svými prostopášnostmi, lid svými kouzly."
+  },
+  {
+    "i": 22870,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 5,
+    "t": "Hle, já! K tobě! praví Hospodin zástupů. Zvednu ti až k obličeji okraje tvého roucha, ukážu národům tvou nahotu, královstvím tvou ohavnost."
+  },
+  {
+    "i": 22871,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 6,
+    "t": "Budu na tebe házet nečistoty, zneuctím tě, vystavím tě pranýři."
+  },
+  {
+    "i": 22872,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 7,
+    "t": "Tehdy každý, kdo tě uvidí, se od tebe odvrátí. Řekne: \"Ninive! Jaká zkáza!\" Kdo by ji litoval? Kde bych ti mohl hledat utěšitele?"
+  },
+  {
+    "i": 22873,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 8,
+    "t": "Byla jsi lepší než No-Amon, která seděla nad Řekami? (obklopovaly ji vody) Přední hradbou měla moře, hradbou vody."
+  },
+  {
+    "i": 22874,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 9,
+    "t": "Její mocí byla Etiopie a Egypt, bez konce. Put a Libyjci byli její pomocníci."
+  },
+  {
+    "i": 22875,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 10,
+    "t": "I ona odešla do vyhnanství, do zajetí; i její malé děti byly rozdrceny na všech křižovatkách; její šlechtici, ti byli losováni, všichni její velcí byli spoutáni řetězy."
+  },
+  {
+    "i": 22876,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 11,
+    "t": "I ty budeš opilá, budeš ta, která se skrývá; i ty budeš muset hledat útočiště před nepřítelem."
+  },
+  {
+    "i": 22877,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 12,
+    "t": "Tvé pevnosti jsou samé fíkovníky s ranými fíky: zatřese se jimi, padají do úst toho, kdo je jí."
+  },
+  {
+    "i": 22878,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 13,
+    "t": "Pohleď na svůj lid: jsou to ženy, které jsou u tebe; brány tvé země se otevírají dokořán nepříteli; oheň pohltil tvé závory."
+  },
+  {
+    "i": 22879,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 14,
+    "t": "Čerpe vodu pro obléhání, upevni své pevnosti, choď v blátě, šlapej hlínu, vezmi si formu na cihly."
+  },
+  {
+    "i": 22880,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 15,
+    "t": "Oheň tě pohltí a meč tě vyhladí. Rozmnož se jako kobylky, rozmnož se jako sarančata;"
+  },
+  {
+    "i": 22881,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 16,
+    "t": "Rozmnož své kupce nad hvězdy nebeské, kobylky rozprostírají svá křídla, odlétají,"
+  },
+  {
+    "i": 22882,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 17,
+    "t": "Tvé stráže jsou jako sarančata, tví písaři jako roj hmyzu. Táboří na hradbách v den chladu. Slunce vyjde: jsou pryč, nikdo neví kam. Běda! Jak"
+  },
+  {
+    "i": 22883,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 18,
+    "t": "Usnuli tvoji pastýři, králi Asýrie? Tví mocní dřímou, tvůj lid je rozptýlen po horách, nikdo je už neshromáždí."
+  },
+  {
+    "i": 22884,
+    "b": 33,
+    "c": 3503,
+    "r": 3503,
+    "o": 19,
+    "t": "Na tvou ránu není léku! Tvá rána je nevyléčitelná. Všichni, kdo slyší, co se o tobě říká, nad tebou tleskají; na koho tedy nepřešla, bez ustání, tvá zlovolnost?"
+  },
+  {
+    "i": 22885,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 1,
+    "t": "Zjevení, které Habakuk prorok viděl."
+  },
+  {
+    "i": 22886,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 2,
+    "t": "Jak dlouho, Hospodine, budu volat o pomoc, a ty neslyšíš, budu křičet k tobě: \"Násilí!\" a ty nezachraňuješ?"
+  },
+  {
+    "i": 22887,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 3,
+    "t": "Proč mi ukazuješ nepravost a hledíš na útlak? Vidím jen loupež a násilí, je tu spor a svár zuří!"
+  },
+  {
+    "i": 22888,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 4,
+    "t": "Proto zákon umírá, právo se už nikdy neobjeví! Ano, bezbožník štve spravedlivého, takže se ukazuje jen pokřivené právo!"
+  },
+  {
+    "i": 22889,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 5,
+    "t": "Pohleďte mezi národy, podívejte se, buďte ohromeni a užaslí! Neboť vykonám ve vašich dnech dílo, které byste nevěřili, kdyby se o něm vyprávělo."
+  },
+  {
+    "i": 22890,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 6,
+    "t": "Ano! Hle, vzbuzuji Kaldejce, ten lid krutý a prudký, který prochází rozsáhlými zeměmi, aby se zmocnil obydlí cizích."
+  },
+  {
+    "i": 22891,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 7,
+    "t": "Je hrozný a strašný, jeho síla je jeho právo, jeho velikost!"
+  },
+  {
+    "i": 22892,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 8,
+    "t": "Jeho koně jsou rychlejší než levharti, dravější než vlci večerní; jeho jezdci poskakují, jeho jezdci přicházejí zdaleka, létají jako orel, který se vrhá, aby se nažral."
+  },
+  {
+    "i": 22893,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 9,
+    "t": "Všichni přicházejí pro kořist, tváře planou jako východní vítr; shromažďují zajatce jako písek!"
+  },
+  {
+    "i": 22894,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 10,
+    "t": "Ten lid se posmívá králům, knížata obrací v posměch. Směje se všem pevnostem: navrší hlínu a dobude je!"
+  },
+  {
+    "i": 22895,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 11,
+    "t": "Potom se vítr obrátil a odešel... Zločinec, který činí svou sílu svým Bohem!"
+  },
+  {
+    "i": 22896,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 12,
+    "t": "Z dávných dob nejsi ty Hospodine, můj Bože, můj Svatý, který neumíráš? Ustanovil jsi ho, Hospodine, aby vykonal právo, jako skála, abys trestal, upevnil jsi ho!"
+  },
+  {
+    "i": 22897,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 13,
+    "t": "Tvé oči jsou příliš čisté, než aby viděly zlo, nemůžeš se dívat na útlak. Proč se díváš na zrádné lidi, mlčíš, když bezbožník pohlcuje spravedlivějšího než on?"
+  },
+  {
+    "i": 22898,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 14,
+    "t": "Jednáš s lidmi jako s rybami v moři, jako s lidmi, kteří se hemží, bez pána!"
+  },
+  {
+    "i": 22899,
+    "b": 34,
+    "c": 3601,
+    "r": 3601,
+    "o": 15,
+    "t": "Vezme je všechny na udici, vytáhne je sítí, shromáždí je do koše, a hle, je v radosti, v jásotu!"
+  }
+]

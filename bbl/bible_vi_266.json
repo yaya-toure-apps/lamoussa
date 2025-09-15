@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26600,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 6,
+    "t": "Kẻ ghét lời quở trách ắt bước trên đường tội lỗi, còn người kính sợ Đức Chúa thì sẽ ăn năn trong lòng."
+  },
+  {
+    "i": 26601,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 7,
+    "t": "Lời lẽ ngọt ngào được khắp nơi biết đến, nhưng người suy xét thấu đáo sẽ thấy rõ những yếu đuối của nó."
+  },
+  {
+    "i": 26602,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 8,
+    "t": "Xây nhà bằng tiền của người khác, ấy là gom đá xây mồ cho chính mình."
+  },
+  {
+    "i": 26603,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 9,
+    "t": "Hội của kẻ tội lỗi như đống rơm, cuối cùng sẽ tan trong ngọn lửa."
+  },
+  {
+    "i": 26604,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 10,
+    "t": "Đường của kẻ tội lỗi được lát bằng đá hoa, nhưng cuối cùng dẫn đến vực thẳm Âm phủ."
+  },
+  {
+    "i": 26605,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 11,
+    "t": "Ai giữ luật pháp, ấy là kiểm soát dục vọng của mình, sự trọn vẹn của lòng kính sợ Đức Chúa là sự khôn ngoan."
+  },
+  {
+    "i": 26606,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 12,
+    "t": "Kẻ thiếu tài năng bẩm sinh không thể học được điều gì, nhưng có những tài năng lại sinh ra cay đắng."
+  },
+  {
+    "i": 26607,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 13,
+    "t": "Tri thức của người khôn ngoan tuôn trào như trận lụt, lời khuyên của người ấy như suối nguồn tươi mát."
+  },
+  {
+    "i": 26608,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 14,
+    "t": "Lòng kẻ dại như bình vỡ, chẳng giữ được chút tri thức nào."
+  },
+  {
+    "i": 26609,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 15,
+    "t": "Nếu người thông thái nghe lời khôn ngoan, họ sẽ trân trọng và thêm vào kiến thức của mình; kẻ phóng đãng nghe được, ắt chê bai và vứt bỏ."
+  },
+  {
+    "i": 26610,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 16,
+    "t": "Lời kẻ dại nặng trĩu như gánh đường xa, nhưng môi miệng người khôn ngoan chứa đựng ân điển."
+  },
+  {
+    "i": 26611,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 17,
+    "t": "Lời lẽ người hiểu biết được tìm kiếm trong hội chúng, mọi người suy ngẫm trong lòng những điều người ấy nói."
+  },
+  {
+    "i": 26612,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 18,
+    "t": "Nhà tan hoang, ấy là sự khôn ngoan của kẻ dại, và tri thức của kẻ ngu ngốc, ấy là lời lẽ lung tung."
+  },
+  {
+    "i": 26613,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 19,
+    "t": "Kỷ luật đối với kẻ ngu dại như xiềng xích nơi chân và gông cùm trên tay phải."
+  },
+  {
+    "i": 26614,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 20,
+    "t": "Kẻ dại cười ầm ĩ, còn người hiểu biết thì cười hiếm hoi và kín đáo."
+  },
+  {
+    "i": 26615,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 21,
+    "t": "Đối với người hiểu biết, kỷ luật là trang sức bằng vàng, là vòng đeo tay phải."
+  },
+  {
+    "i": 26616,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 22,
+    "t": "Kẻ dại vội vã xông vào, người có kinh nghiệm giữ thái độ khiêm tốn;"
+  },
+  {
+    "i": 26617,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 23,
+    "t": "kẻ ngu dại ngó nghiêng từ cửa vào, người có giáo dục đứng ngoài."
+  },
+  {
+    "i": 26618,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 24,
+    "t": "Nghe ngóng sau cánh cửa là việc làm của kẻ vô giáo dục, người hiểu biết cảm thấy hổ thẹn vì điều đó."
+  },
+  {
+    "i": 26619,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 25,
+    "t": "Môi kẻ lắm lời buôn chuyện không liên quan, lời người khôn ngoan được cân nhắc cẩn thận."
+  },
+  {
+    "i": 26620,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 26,
+    "t": "Lòng kẻ dại ở nơi miệng lưỡi, nhưng miệng lưỡi người khôn ngoan ở nơi lòng."
+  },
+  {
+    "i": 26621,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 27,
+    "t": "Khi kẻ gian ác nguyền rủa Satan, chúng nguyền rủa chính mình."
+  },
+  {
+    "i": 26622,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 28,
+    "t": "Kẻ vu khống làm hại chính mình và bị người xung quanh ghét bỏ."
+  },
+  {
+    "i": 26623,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 1,
+    "t": "Kẻ lười biếng giống như hòn đá dơ bẩn, ai ai cũng chế giễu vì sự ô nhục của nó."
+  },
+  {
+    "i": 26624,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 2,
+    "t": "Kẻ lười biếng giống như nắm rác rưởi, ai chạm vào cũng phải giũ tay."
+  },
+  {
+    "i": 26625,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 3,
+    "t": "Cha xấu hổ khi sinh ra đứa con hư đốn, nếu là con gái thì gây tai họa."
+  },
+  {
+    "i": 26626,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 4,
+    "t": "Con gái khôn ngoan sẽ tìm được chồng, nhưng con gái hư hỏng là nỗi buồn của người sinh ra nó."
+  },
+  {
+    "i": 26627,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 5,
+    "t": "Con gái vô liêm sỉ làm ô danh cha và chồng, cả hai đều từ bỏ nó."
+  },
+  {
+    "i": 26628,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 6,
+    "t": "Lời khiển trách không đúng lúc: như tiếng nhạc trong ngày tang, roi vọt và sửa phạt, ấy là sự khôn ngoan trong mọi lúc."
+  },
+  {
+    "i": 26629,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 7,
+    "t": "Con cái sống ngay thẳng, không thiếu thốn điều gì, sẽ làm quên đi gốc gác hèn mọn của cha mẹ."
+  },
+  {
+    "i": 26630,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 8,
+    "t": "Con cái khinh miệt, vô giáo dục, đầy kiêu ngạo, làm ô uế dòng dõi cao quý của gia đình."
+  },
+  {
+    "i": 26631,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 9,
+    "t": "Dạy dỗ kẻ dại như dán lại mảnh vỡ, như đánh thức người ngủ say."
+  },
+  {
+    "i": 26632,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 10,
+    "t": "Nói lý lẽ với kẻ dại như nói với người đang ngủ, cuối cùng chúng sẽ hỏi: \"Chuyện gì vậy?"
+  },
+  {
+    "i": 26633,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 11,
+    "t": "Khóc thương người chết: vì họ đã mất ánh sáng, khóc thương kẻ ngu dại: vì chúng đã mất trí; khóc người chết nhẹ nhàng hơn, vì họ đã tìm được sự yên nghỉ, đối với kẻ ngu dại, cuộc sống còn buồn hơn cả cái chết."
+  },
+  {
+    "i": 26634,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 12,
+    "t": "Tang người chết kéo dài bảy ngày, tang kẻ ngu dại và gian ác kéo dài suốt cuộc đời."
+  },
+  {
+    "i": 26635,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 13,
+    "t": "Đừng nói dài dòng với kẻ dại, đừng đối diện với kẻ ngu ngốc, vì chúng vô cảm, sẽ khinh miệt ngươi, hãy tránh xa chúng để khỏi gặp rắc rối, để khỏi bị ô uế khi tiếp xúc với chúng. Tránh xa chúng, ngươi sẽ tìm được sự yên nghỉ, lời nói lung tung của chúng sẽ không làm ngươi phiền lòng."
+  },
+  {
+    "i": 26636,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 14,
+    "t": "Có gì nặng hơn chì? Gọi là gì? Kẻ dại."
+  },
+  {
+    "i": 26637,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 15,
+    "t": "Cát, muối, khối sắt dễ mang hơn kẻ dại."
+  },
+  {
+    "i": 26638,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 16,
+    "t": "Khung gỗ trong công trình không bị rời ra vì động đất, lòng quyết tâm sau khi suy nghĩ chín chắn không dễ bị lay động khi nguy hiểm."
+  },
+  {
+    "i": 26639,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 17,
+    "t": "Lòng dựa vào suy nghĩ khôn ngoan như đồ trang sức được chạm khắc trên tường bóng loáng."
+  },
+  {
+    "i": 26640,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 18,
+    "t": "Hòn sỏi nhỏ trên đỉnh tường không chống lại được gió, lòng kẻ dại sợ hãi bởi tưởng tượng không thể chống lại nỗi sợ hãi."
+  },
+  {
+    "i": 26641,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 19,
+    "t": "Đánh vào mắt thì chảy nước mắt, đánh vào tim thì cảm xúc trào dâng."
+  },
+  {
+    "i": 26642,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 20,
+    "t": "Ai ném đá vào chim thì làm chúng bay đi, ai trách mắng bạn hữu thì giết chết tình bạn."
+  },
+  {
+    "i": 26643,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 21,
+    "t": "Nếu ngươi rút gươm chống lại bạn hữu, chớ thất vọng: người ấy có thể quay lại;"
+  },
+  {
+    "i": 26644,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 22,
+    "t": "nếu ngươi mở miệng chống lại bạn hữu, chớ sợ: có thể hòa giải, trừ trường hợp lăng mạ, khinh miệt, phản bội bí mật, đòn hiểm, vì lúc đó mọi bạn hữu sẽ bỏ đi."
+  },
+  {
+    "i": 26645,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 23,
+    "t": "Gây dựng lòng tin với người lân cận trong lúc nghèo khó, để khi người ấy thịnh vượng, ngươi sẽ cùng hưởng phúc lợi; trong những ngày thử thách, hãy trung thành với người ấy, để khi người ấy thừa kế, ngươi sẽ nhận phần gia tài. Vì đừng bao giờ khinh thường những đường nét hay ngưỡng mộ người giàu thiếu trí khôn."
+  },
+  {
+    "i": 26646,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 24,
+    "t": "Trước ngọn lửa, người ta thấy hơi nóng của lò và khói; như vậy, trước máu, người ta thấy những lời xúc phạm."
+  },
+  {
+    "i": 26647,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 25,
+    "t": "Ta sẽ không hổ thẹn bảo vệ bạn hữu và ta sẽ không giấu giếm người ấy;"
+  },
+  {
+    "i": 26648,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 26,
+    "t": "và nếu ta gặp điều xấu vì người ấy, tất cả những ai biết được sẽ tránh xa người ấy."
+  },
+  {
+    "i": 26649,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 27,
+    "t": "Ai canh giữ miệng ta và niêm phong môi ta bằng sự sáng suốt để ta không vấp ngã vì chúng, để lưỡi ta không gây ra sự diệt vong cho ta?"
+  },
+  {
+    "i": 26650,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 1,
+    "t": "Lạy Chúa, cha và chủ cuộc đời con, xin chớ để con vấp ngã vì chúng."
+  },
+  {
+    "i": 26651,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 2,
+    "t": "Ai sẽ dùng roi đánh vào tư tưởng con và dùng kỷ luật khôn ngoan sửa trị lòng con, để những sai lầm của con không bị dung thứ và tội lỗi của con không thoát khỏi?"
+  },
+  {
+    "i": 26652,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 3,
+    "t": "Để những sai lầm của con không gia tăng và tội lỗi của con không quá nhiều, để con không rơi vào tay kẻ thù và kẻ địch không chế nhạo con. Hy vọng vào lòng thương xót của Ngài còn xa vời đối với chúng."
+  },
+  {
+    "i": 26653,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 4,
+    "t": "Lạy Chúa, cha và Đức Chúa Trời của đời con, xin chớ bỏ mặc con theo ý chúng, xin khiến mắt con không trơ trẽn,"
+  },
+  {
+    "i": 26654,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 5,
+    "t": "xin cất khỏi con lòng tham muốn,"
+  },
+  {
+    "i": 26655,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 6,
+    "t": "xin đừng để dục vọng và sự dâm ô chiếm đoạt con, xin chớ phó con cho ước muốn vô liêm sỉ."
+  },
+  {
+    "i": 26656,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 7,
+    "t": "Hỡi các con, hãy nghe lời dạy về miệng, ai giữ nó sẽ không bị hổ thẹn."
+  },
+  {
+    "i": 26657,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 8,
+    "t": "Kẻ tội lỗi bị bắt bởi chính môi miệng mình, chúng làm kẻ vu khống và kiêu ngạo ngã xuống."
+  },
+  {
+    "i": 26658,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 9,
+    "t": "Đừng tập cho miệng thề thốt, đừng quen dùng danh Thánh."
+  },
+  {
+    "i": 26659,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 10,
+    "t": "Vì như đầy tớ luôn bị giám sát sẽ không thoát khỏi đòn roi, ai thề thốt và kêu cầu Danh vô ích sẽ không khỏi tội."
+  },
+  {
+    "i": 26660,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 11,
+    "t": "Người thề thốt nhiều thì đầy gian ác và tai ương sẽ không rời khỏi nhà người ấy. Nếu người ấy phạm tội, lỗi sẽ đổ trên người ấy; nếu người ấy hành động khinh suất, người ấy đã phạm tội gấp đôi; nếu người ấy thề gian, người ấy sẽ không được xưng công chính, vì nhà người ấy sẽ đầy dẫy tai họa."
+  },
+  {
+    "i": 26661,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 12,
+    "t": "Có một cách nói giống như cái chết, xin đừng dùng nó trong gia sản của Gia-cốp, vì người thánh thiện sẽ bác bỏ tất cả những điều đó, họ không đắm mình trong tội lỗi."
+  },
+  {
+    "i": 26662,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 13,
+    "t": "Đừng tập cho miệng những lời thô tục ô uế, nơi có lời của tội lỗi."
+  },
+  {
+    "i": 26663,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 14,
+    "t": "Hãy nhớ đến cha mẹ khi ngồi giữa những người cao sang, kẻo ngươi quên mình trước mặt họ, kẻo ngươi cư xử như kẻ dại, và kẻo ngươi ước mình chưa từng sinh ra và nguyền rủa ngày sinh của mình."
+  },
+  {
+    "i": 26664,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 15,
+    "t": "Người quen với lời đáng trách sẽ không sửa đổi được cuộc đời mình."
+  },
+  {
+    "i": 26665,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 16,
+    "t": "Hai loại người làm gia tăng tội lỗi và loại thứ ba chuốc lấy cơn thịnh nộ: đam mê bốc lửa như ngọn lửa: nó sẽ không tắt cho đến khi được thỏa mãn; người thèm muốn thân xác mình: người ấy sẽ không ngừng cho đến khi lửa thiêu đốt người ấy;"
+  },
+  {
+    "i": 26666,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 17,
+    "t": "đối với người vô liêm sỉ, mọi thức ăn đều ngọt ngào, người ấy chỉ yên ổn khi chết."
+  },
+  {
+    "i": 26667,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 18,
+    "t": "Người không chung thủy với giường mình, người nói trong lòng: \"Ai thấy ta? Bóng tối bao quanh ta, tường che chở ta, không ai thấy ta, ta sợ gì? Đấng Tối Cao sẽ không nhớ đến lỗi lầm của ta."
+  },
+  {
+    "i": 26668,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 19,
+    "t": "Điều người ấy sợ là mắt người đời, người ấy không biết rằng mắt Đức Chúa sáng hơn mặt trời gấp mười nghìn lần, chúng quan sát mọi hành động của loài người và thấu suốt những ngóc ngách bí mật nhất."
+  },
+  {
+    "i": 26669,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 20,
+    "t": "Trước khi Ngài tạo dựng, mọi sự đều được Ngài biết đến, chúng vẫn như vậy sau khi hoàn thành."
+  },
+  {
+    "i": 26670,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 21,
+    "t": "Người này sẽ bị trừng phạt giữa thành phố, khi người ấy ít ngờ nhất, người ấy sẽ bị bắt."
+  },
+  {
+    "i": 26671,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 22,
+    "t": "Người vợ không chung thủy với chồng cũng vậy, người mang đến cho chồng người thừa kế do người lạ sinh ra."
+  },
+  {
+    "i": 26672,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 23,
+    "t": "Trước hết, người ấy không vâng theo luật của Đấng Tối Cao, sau đó người ấy có tội với chồng; thứ ba, người ấy đã bị ô uế bởi tội ngoại tình và sinh con với người lạ."
+  },
+  {
+    "i": 26673,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 24,
+    "t": "Người ấy sẽ bị giải đến trước hội chúng và con cái người ấy sẽ bị xét xử."
+  },
+  {
+    "i": 26674,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 25,
+    "t": "Con cái người ấy sẽ không có rễ, cành người ấy sẽ không ra trái."
+  },
+  {
+    "i": 26675,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 26,
+    "t": "Người ấy sẽ để lại ký ức về lời nguyền rủa và sự ô nhục của người ấy sẽ không bao giờ phai mờ."
+  },
+  {
+    "i": 26676,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 27,
+    "t": "Và những người đến sau người ấy sẽ biết rằng không có gì sánh bằng lòng kính sợ Đức Chúa và không có gì ngọt ngào hơn là gắn bó với các điều răn của Đức Chúa."
+  },
+  {
+    "i": 26677,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 28,
+    "t": "Đi theo Đức Chúa là một vinh dự lớn; được Ngài đón nhận là kéo dài ngày tháng của ngươi."
+  },
+  {
+    "i": 26678,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 1,
+    "t": "Sự Khôn Ngoan tự khen mình, giữa dân mình, sự Khôn Ngoan tỏ ra niềm kiêu hãnh."
+  },
+  {
+    "i": 26679,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 2,
+    "t": "Trong hội chúng của Đấng Tối Cao, sự Khôn Ngoan mở miệng và tỏ ra niềm kiêu hãnh trước Quyền Năng của Ngài."
+  },
+  {
+    "i": 26680,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 3,
+    "t": "\"Ta vốn từ miệng Đấng Tối Cao mà ra, và như một làn hơi bao phủ lấy mặt đất."
+  },
+  {
+    "i": 26681,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 4,
+    "t": "Ta ngự trên các tầng trời, và ngai ta là một cột mây."
+  },
+  {
+    "i": 26682,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 5,
+    "t": "Một mình ta đi vòng quanh vòng trời, ta dò xét vực sâu muôn trượng."
+  },
+  {
+    "i": 26683,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 6,
+    "t": "Trong biển khơi dạt dào, trên khắp mặt đất, giữa muôn dân và mọi nước, ta trị vì."
+  },
+  {
+    "i": 26684,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 7,
+    "t": "Giữa muôn người ấy, ta tìm chốn an nghỉ, ta tìm một cơ nghiệp để định cư."
+  },
+  {
+    "i": 26685,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 8,
+    "t": "Bấy giờ, Đấng Tạo Hóa vũ trụ đã ban cho ta một mệnh lệnh, Đấng tạo thành ta đã dựng lều cho ta, Người phán: \"Hỡi Gia-cóp, hãy an cư tại đó, hỡi Ít-ra-en, hãy nhận lấy cơ nghiệp của ngươi!"
+  },
+  {
+    "i": 26686,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 9,
+    "t": "Từ trước muôn đời, từ thuở ban đầu, Người đã dựng nên ta, ta sẽ đời đời trường tồn."
+  },
+  {
+    "i": 26687,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 10,
+    "t": "Trong Lều Thánh, trước nhan Người, ta cử hành nghi lễ; ấy là cách ta lập thân tại Si-ôn,"
+  },
+  {
+    "i": 26688,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 11,
+    "t": "và tìm được chốn nghỉ ngơi trong thành đô yêu dấu, ta thi hành quyền bính tại Giê-ru-sa-lem."
+  },
+  {
+    "i": 26689,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 12,
+    "t": "Ta bén rễ trong một dân tộc vinh hiển, trong lãnh địa của Đức Chúa, ấy là cơ nghiệp của ta."
+  },
+  {
+    "i": 26690,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 13,
+    "t": "Ta lớn lên như cây hương bá trên Li-băng, như cây trắc bá trên núi Hẹt-môn."
+  },
+  {
+    "i": 26691,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 14,
+    "t": "Ta lớn lên như cây chà là ở Én-ghê-đi, như cây hoa hồng ở Giê-ri-cô, như cây ô-liu tuyệt mỹ trong đồng bằng, ta lớn lên như cây tiêu huyền."
+  },
+  {
+    "i": 26692,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 15,
+    "t": "Như quế và hương diên vĩ, ta tỏa ngát hương thơm, như một dược hảo hạng, ta xông ướp, như nhựa thơm, mã não, và hương trầm, như làn khói hương trong Lều."
+  },
+  {
+    "i": 26693,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 16,
+    "t": "Ta giương cành như cây du, ấy là những cành vinh hiển và ân sủng."
+  },
+  {
+    "i": 26694,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 17,
+    "t": "Ta như cây nho có những cành duyên dáng, và hoa ta là sản phẩm của vinh quang và giàu sang."
+  },
+  {
+    "i": 26695,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 18,
+    "t": "Ta là mẹ của tình yêu tuyệt mỹ và lòng kính sợ, của tri thức và niềm hy vọng thánh thiện. Ta ban cho mọi con cái ta những của cải vĩnh hằng, cho những người Người đã chọn."
+  },
+  {
+    "i": 26696,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 19,
+    "t": "Hỡi những ai khao khát ta, hãy đến cùng ta; và hãy no thỏa những sản phẩm của ta."
+  },
+  {
+    "i": 26697,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 20,
+    "t": "Vì kỷ niệm về ta ngọt ngào hơn mật, cơ nghiệp của ta ngọt ngào hơn tàng ong."
+  },
+  {
+    "i": 26698,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 21,
+    "t": "Những ai ăn ta sẽ còn đói, những ai uống ta sẽ còn khát."
+  },
+  {
+    "i": 26699,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 22,
+    "t": "Ai vâng lời ta sẽ không phải hổ thẹn, và những ai hành động nhờ ta sẽ không phạm tội."
+  }
+]

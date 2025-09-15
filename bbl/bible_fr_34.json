@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3400,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 33,
+    "t": "Moi qui vous ai fait sortir du pays d’Égypte afin d’être votre Dieu, je suis Yahvé."
+  },
+  {
+    "i": 3401,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 1,
+    "t": "1 Yahvé parla à Moïse et dit :"
+  },
+  {
+    "i": 3402,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 2,
+    "t": "2 Parle aux Israélites ; tu leur diras : (Les solennités de Yahvé auxquelles vous les convoquerez, ce sont là mes saintes assemblées.) Voici mes solennités :"
+  },
+  {
+    "i": 3403,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 3,
+    "t": "3 Pendant six jours on travaillera, mais le septième jour sera jour de repos complet, jour de sainte convocation, où vous ne ferez aucun travail. Où que vous habitiez, c’est un sabbat pour Yahvé."
+  },
+  {
+    "i": 3404,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 4,
+    "t": "4 Voici les solennités de Yahvé, les saintes assemblées où vous appellerez les Israélites à la date fixée :"
+  },
+  {
+    "i": 3405,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 5,
+    "t": "5 Le premier mois, le quatorzième jour du mois, au crépuscule, c’est Pâque pour Yahvé,"
+  },
+  {
+    "i": 3406,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 6,
+    "t": "6 et le quinzième jour de ce mois, c’est la fête des Azymes pour Yahvé. Pendant sept jours vous mangerez des pains sans levain."
+  },
+  {
+    "i": 3407,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 7,
+    "t": "7 Le premier jour il y aura pour vous une sainte assemblée ; vous ne ferez aucune œuvre servile."
+  },
+  {
+    "i": 3408,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 8,
+    "t": "8 Pendant sept jours vous offrirez un mets à Yahvé. Le septième jour, jour de sainte assemblée, vous ne ferez aucune œuvre servile."
+  },
+  {
+    "i": 3409,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 9,
+    "t": "9 Yahvé parla à Moïse et dit :"
+  },
+  {
+    "i": 3410,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 10,
+    "t": "10 Parle aux Israélites ; tu leur diras : Quand vous serez entrés dans le pays que je vous donne et quand vous y ferez la moisson, vous apporterez au prêtre la première gerbe de votre moisson."
+  },
+  {
+    "i": 3411,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 11,
+    "t": "11 Il l’offrira devant Yahvé en geste de présentation pour que vous soyez agréés. C’est le lendemain du sabbat que le prêtre fera cette présentation"
+  },
+  {
+    "i": 3412,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 12,
+    "t": "12 et, le jour où vous ferez cette présentation, vous offrirez à Yahvé l’holocauste d’un agneau d’un an, sans défaut."
+  },
+  {
+    "i": 3413,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 13,
+    "t": "13 L’oblation en sera ce jour-là de deux dixièmes de fleur de farine pétrie à l’huile, mets consumé pour Yahvé en parfum d’apaisement ; la libation de vin en sera d’un quart de setier."
+  },
+  {
+    "i": 3414,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 14,
+    "t": "14 Vous ne mangerez pas de pain, épis grillés ou pain cuit, avant ce jour, avant d’avoir apporté l’offrande de votre Dieu. C’est une loi perpétuelle pour vos descendants, où que vous habitiez."
+  },
+  {
+    "i": 3415,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 15,
+    "t": "15 À partir du lendemain du sabbat, du jour où vous aurez apporté la gerbe de présentation, vous compterez sept semaines complètes."
+  },
+  {
+    "i": 3416,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 16,
+    "t": "16 Vous compterez cinquante jours jusqu’au lendemain du septième sabbat et vous offrirez alors à Yahvé une nouvelle oblation."
+  },
+  {
+    "i": 3417,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 17,
+    "t": "17 Vous apporterez de vos demeures du pain à offrir en geste de présentation, en deux parts de deux dixièmes de fleur de farine cuite avec du ferment, à titre de prémices pour Yahvé."
+  },
+  {
+    "i": 3418,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 18,
+    "t": "18 Vous offrirez en plus du pain sept agneaux d’un an, sans défaut, un taureau et deux béliers à titre d’holocauste pour Yahvé, accompagnés d’une oblation et d’une libation, mets consumés en parfum d’apaisement pour Yahvé."
+  },
+  {
+    "i": 3419,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 19,
+    "t": "19 Vous ferez aussi avec un bouc un sacrifice pour le péché et avec deux agneaux nés dans l’année un sacrifice de communion."
+  },
+  {
+    "i": 3420,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 20,
+    "t": "20 Le prêtre les offrira en geste de présentation devant Yahvé, en plus du pain des prémices. En plus des deux agneaux, ce sont choses saintes pour Yahvé, qui reviendront au prêtre."
+  },
+  {
+    "i": 3421,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 21,
+    "t": "21 Ce même jour vous ferez une convocation ; ce sera pour vous une sainte assemblée, vous ne ferez aucune œuvre servile. C’est une loi perpétuelle pour vos descendants, où que vous habitiez."
+  },
+  {
+    "i": 3422,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 22,
+    "t": "22 Lorsque vous ferez la moisson dans votre pays, tu ne moissonneras pas jusqu’à l’extrême bord de ton champ et tu ne glaneras pas ta moisson. Tu abandonneras cela au pauvre et à l’étranger. Je suis Yahvé votre Dieu."
+  },
+  {
+    "i": 3423,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 23,
+    "t": "23 Yahvé parla à Moïse et dit :"
+  },
+  {
+    "i": 3424,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 24,
+    "t": "24 Parle aux Israélites, dis-leur : Le septième mois, le premier jour du mois, il y aura pour vous jour de repos, appel en clameur, sainte assemblée."
+  },
+  {
+    "i": 3425,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 25,
+    "t": "25 Vous ne ferez aucune œuvre servile et vous offrirez un mets à Yahvé."
+  },
+  {
+    "i": 3426,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 26,
+    "t": "26 Yahvé parla à Moïse et dit :"
+  },
+  {
+    "i": 3427,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 27,
+    "t": "27 D’autre part, le dixième jour de ce septième mois, c’est le jour des Expiations. Il y aura pour vous une sainte assemblée. Vous jeûnerez et vous offrirez un mets à Yahvé."
+  },
+  {
+    "i": 3428,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 28,
+    "t": "28 Ce jour-là vous ne ferez aucun travail, car c’est le jour des Expiations où l’on accomplit sur vous le rite d’expiation devant Yahvé votre Dieu."
+  },
+  {
+    "i": 3429,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 29,
+    "t": "29 Oui, quiconque ne jeûnera pas ce jour-là sera retranché des siens ;"
+  },
+  {
+    "i": 3430,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 30,
+    "t": "30 quiconque fera un travail ce jour-là, je le supprimerai du milieu de son peuple."
+  },
+  {
+    "i": 3431,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 31,
+    "t": "31 Vous ne ferez aucun travail, c’est une loi perpétuelle pour vos descendants, où que vous habitiez."
+  },
+  {
+    "i": 3432,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 32,
+    "t": "32 Ce sera pour vous un jour de repos complet. Vous jeûnerez ; le soir du neuvième jour du mois, depuis ce soir jusqu’au soir suivant, vous cesserez le travail."
+  },
+  {
+    "i": 3433,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 33,
+    "t": "33 Yahvé parla à Moïse et dit :"
+  },
+  {
+    "i": 3434,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 34,
+    "t": "34 Parle aux Israélites, dis-leur : Le quinzième jour de ce septième mois il y aura pendant sept jours la fête des Tentes pour Yahvé."
+  },
+  {
+    "i": 3435,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 35,
+    "t": "35 Le premier jour, jour de sainte assemblée, vous ne ferez aucune œuvre servile."
+  },
+  {
+    "i": 3436,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 36,
+    "t": "36 Pendant sept jours vous offrirez un mets à Yahvé. Le huitième jour il y aura pour vous une sainte assemblée, vous offrirez un mets à Yahvé. C’est jour de réunion, vous ne ferez aucune œuvre servile."
+  },
+  {
+    "i": 3437,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 37,
+    "t": "37 Telles sont les solennités de Yahvé où vous convoquerez les Israélites, saintes assemblées destinées à offrir des mets à Yahvé, holocaustes, oblations, sacrifices, libations, selon le rituel propre à chaque jour,"
+  },
+  {
+    "i": 3438,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 38,
+    "t": "38 outre les sabbats de Yahvé, les présents, dons votifs et volontaires que vous ferez à Yahvé."
+  },
+  {
+    "i": 3439,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 39,
+    "t": "39 D’autre part, le quinzième jour du septième mois, lorsque vous aurez récolté les produits du pays, vous célébrerez la fête de Yahvé pendant sept jours. Le premier et le huitième jour il y aura jour de repos."
+  },
+  {
+    "i": 3440,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 40,
+    "t": "40 Le premier jour vous prendrez de beaux fruits, des rameaux de palmier, des branches d’arbres touffus et de gattiliers, et vous vous réjouirez pendant sept jours en présence de Yahvé votre Dieu."
+  },
+  {
+    "i": 3441,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 41,
+    "t": "41 Vous célébrerez ainsi une fête pour Yahvé sept jours par an. C’est une loi perpétuelle pour vos descendants. C’est au septième mois que vous ferez cette fête."
+  },
+  {
+    "i": 3442,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 42,
+    "t": "42 Vous habiterez sept jours sous des huttes. Tous les citoyens d’Israël habiteront sous des huttes,"
+  },
+  {
+    "i": 3443,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 43,
+    "t": "43 afin que vos descendants sachent que j’ai fait habiter sous des huttes les Israélites quand je les ai fait sortir du pays d’Égypte. Je suis Yahvé votre Dieu."
+  },
+  {
+    "i": 3444,
+    "b": 2,
+    "c": 323,
+    "r": 323,
+    "o": 44,
+    "t": "44 Et Moïse décrivit aux Israélites les solennités de Yahvé."
+  },
+  {
+    "i": 3445,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 1,
+    "t": "Yahvé parla à Moïse et dit :"
+  },
+  {
+    "i": 3446,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 2,
+    "t": "Ordonne aux Israélites de t’apporter de l’huile d’olives broyées pour le candélabre, et d’y faire monter une flamme permanente."
+  },
+  {
+    "i": 3447,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 3,
+    "t": "C’est devant le rideau du Témoignage, dans la Tente du Rendez-vous, qu’Aaron disposera cette flamme. Elle sera là devant Yahvé du soir au matin, en permanence. Ceci est un décret perpétuel pour vos descendants :"
+  },
+  {
+    "i": 3448,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 4,
+    "t": "Aaron disposera les lampes sur le candélabre pur, devant Yahvé, en permanence."
+  },
+  {
+    "i": 3449,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 5,
+    "t": "Tu prendras de la fleur de farine et tu en feras cuire douze gâteaux, chacun de deux dixièmes."
+  },
+  {
+    "i": 3450,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 6,
+    "t": "Puis tu les placeras en deux rangées de six sur la table pure qui est devant Yahvé."
+  },
+  {
+    "i": 3451,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 7,
+    "t": "Sur chaque rangée tu déposeras de l’encens pur. Ce sera l’aliment offert en mémorial, un mets pour Yahvé."
+  },
+  {
+    "i": 3452,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 8,
+    "t": "C’est chaque jour de sabbat qu’en permanence on les disposera devant Yahvé. Les Israélites les fourniront à titre d’alliance perpétuelle ;"
+  },
+  {
+    "i": 3453,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 9,
+    "t": "ils appartiendront à Aaron et à ses fils, qui les mangeront en un lieu sacré, car c’est pour lui une part très sainte des mets de Yahvé. C’est une loi perpétuelle."
+  },
+  {
+    "i": 3454,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 10,
+    "t": "Le fils d’une Israélite, mais dont le père était égyptien, sortit de sa maison et, se trouvant au milieu des Israélites, il se prit de querelle dans le camp avec un homme qui était israélite."
+  },
+  {
+    "i": 3455,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 11,
+    "t": "Or le fils de l’Israélite blasphéma le Nom et le maudit. On le conduisit alors à Moïse (le nom de la mère était Shelomit, fille de Dibri, de la tribu de Dan)."
+  },
+  {
+    "i": 3456,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 12,
+    "t": "On le mit sous bonne garde pour n’en décider que sur l’ordre de Yahvé."
+  },
+  {
+    "i": 3457,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 13,
+    "t": "Yahvé parla à Moïse et dit :"
+  },
+  {
+    "i": 3458,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 14,
+    "t": "Fais sortir du camp celui qui a prononcé la malédiction. Tous ceux qui l’ont entendu poseront leurs mains sur sa tête et toute la communauté le lapidera."
+  },
+  {
+    "i": 3459,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 15,
+    "t": "Puis tu parleras ainsi aux Israélites : Tout homme qui maudit son Dieu portera le poids de son péché."
+  },
+  {
+    "i": 3460,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 16,
+    "t": "Qui blasphème le nom de Yahvé devra mourir, toute la communauté le lapidera. Qu’il soit étranger ou citoyen, il mourra s’il blasphème le Nom."
+  },
+  {
+    "i": 3461,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 17,
+    "t": "Si un homme frappe un être humain, quel qu’il soit, il devra mourir."
+  },
+  {
+    "i": 3462,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 18,
+    "t": "Qui frappe un animal en doit donner la compensation : vie pour vie."
+  },
+  {
+    "i": 3463,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 19,
+    "t": "Si un homme blesse un compatriote, comme il a fait on lui fera :"
+  },
+  {
+    "i": 3464,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 20,
+    "t": "fracture pour fracture, œil pour œil, dent pour dent. Tel le dommage que l’on inflige à un homme, tel celui que l’on subit :"
+  },
+  {
+    "i": 3465,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 21,
+    "t": "qui frappe un animal en doit donner compensation et qui frappe un homme doit mourir."
+  },
+  {
+    "i": 3466,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 22,
+    "t": "La sentence sera chez vous la même, qu’il s’agisse d’un citoyen ou d’un étranger, car je suis Yahvé votre Dieu."
+  },
+  {
+    "i": 3467,
+    "b": 2,
+    "c": 324,
+    "r": 324,
+    "o": 23,
+    "t": "Moïse ayant ainsi parlé aux Israélites, ils firent sortir du camp celui qui avait prononcé la malédiction et ils le lapidèrent. Ils accomplirent ainsi ce que Yahvé avait ordonné à Moïse."
+  },
+  {
+    "i": 3468,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 1,
+    "t": "Yahvé parla à Moïse sur le mont Sinaï ; il dit :"
+  },
+  {
+    "i": 3469,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 2,
+    "t": "Parle aux Israélites, tu leur diras : Lorsque vous entrerez au pays que je vous donne, la terre chômera un sabbat pour Yahvé."
+  },
+  {
+    "i": 3470,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 3,
+    "t": "Pendant six ans tu ensemenceras ton champ, pendant six ans tu tailleras ta vigne et tu en récolteras les produits."
+  },
+  {
+    "i": 3471,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 4,
+    "t": "Mais en la septième année la terre aura son repos sabbatique, un sabbat pour Yahvé : tu n’ensemenceras pas ton champ et tu ne tailleras pas ta vigne,"
+  },
+  {
+    "i": 3472,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 5,
+    "t": "tu ne moissonneras pas tes épis, qui ne seront pas mis en gerbe, et tu ne vendangeras pas tes raisins, qui ne seront pas émondés. Ce sera pour la terre une année de repos."
+  },
+  {
+    "i": 3473,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 6,
+    "t": "Le sabbat même de la terre vous nourrira, toi, ton serviteur, ta servante, ton journalier, ton hôte, bref ceux qui résident chez toi."
+  },
+  {
+    "i": 3474,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 7,
+    "t": "À ton bétail aussi et aux bêtes de ton pays tous ses produits serviront de nourriture."
+  },
+  {
+    "i": 3475,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 8,
+    "t": "Tu compteras sept semaines d’années, sept fois sept ans, c’est-à-dire le temps de sept semaines d’années, quarante-neuf ans."
+  },
+  {
+    "i": 3476,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 9,
+    "t": "Le septième mois, le dixième jour du mois tu feras retentir l’appel de la trompe ; le jour des Expiations vous sonnerez de la trompe dans tout le pays."
+  },
+  {
+    "i": 3477,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 10,
+    "t": "Vous déclarerez sainte cette cinquantième année et proclamerez l’affranchissement de tous les habitants du pays. Ce sera pour vous un jubilé : chacun de vous rentrera dans son patrimoine, chacun de vous retournera dans son clan."
+  },
+  {
+    "i": 3478,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 11,
+    "t": "Cette cinquantième année sera pour vous une année jubilaire : vous ne sèmerez pas, vous ne moissonnerez pas les épis qui n’auront pas été mis en gerbe, vous ne vendangerez pas les ceps qui auront poussé librement."
+  },
+  {
+    "i": 3479,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 12,
+    "t": "Le jubilé sera pour vous chose sainte, vous mangerez des produits des champs."
+  },
+  {
+    "i": 3480,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 13,
+    "t": "En cette année jubilaire vous rentrerez chacun dans votre patrimoine."
+  },
+  {
+    "i": 3481,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 14,
+    "t": "Si tu vends ou si tu achètes à ton compatriote, que nul ne lèse son frère !"
+  },
+  {
+    "i": 3482,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 15,
+    "t": "C’est en fonction du nombre d’années écoulées depuis le jubilé que tu achèteras à ton compatriote ; c’est en fonction du nombre d’années productives qu’il te fixera le prix de vente."
+  },
+  {
+    "i": 3483,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 16,
+    "t": "Plus sera grand le nombre d’années, plus tu augmenteras le prix, moins il y aura d’années, plus tu le réduiras, car c’est un certain nombre de récoltes qu’il te vend."
+  },
+  {
+    "i": 3484,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 17,
+    "t": "Que nul d’entre vous ne lèse son compatriote, mais aie la crainte de ton Dieu, car c’est moi Yahvé votre Dieu."
+  },
+  {
+    "i": 3485,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 18,
+    "t": "Vous mettrez en pratique mes lois et mes coutumes, vous les garderez pour les mettre en pratique, et ainsi vous habiterez dans le pays en sécurité."
+  },
+  {
+    "i": 3486,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 19,
+    "t": "La terre donnera son fruit, vous mangerez à satiété et vous habiterez en sécurité."
+  },
+  {
+    "i": 3487,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 20,
+    "t": "Pour le cas où vous diriez : \"Que mangerons-nous en cette septième année si nous n’ensemençons pas et ne récoltons pas nos produits\" —"
+  },
+  {
+    "i": 3488,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 21,
+    "t": "j’ai prescrit à ma bénédiction de vous être acquise la sixième année en sorte qu’elle assure des produits pour trois ans."
+  },
+  {
+    "i": 3489,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 22,
+    "t": "Quand vous sèmerez la huitième année vous pourrez encore manger des produits anciens jusqu’à la neuvième année ; jusqu’à ce que viennent les produits de cette année-là vous mangerez des anciens."
+  },
+  {
+    "i": 3490,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 23,
+    "t": "La terre ne sera pas vendue avec perte de tout droit, car la terre m’appartient et vous n’êtes pour moi que des étrangers et des hôtes."
+  },
+  {
+    "i": 3491,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 24,
+    "t": "Pour toute propriété foncière vous laisserez un droit de rachat sur le fonds."
+  },
+  {
+    "i": 3492,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 25,
+    "t": "Si ton frère tombe dans la gêne et doit vendre de son patrimoine, son plus proche parent viendra chez lui exercer ses droits familiaux sur ce que vend son frère."
+  },
+  {
+    "i": 3493,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 26,
+    "t": "Celui qui n’a personne pour exercer ce droit pourra, lorsqu’il aura trouvé de quoi faire le rachat,"
+  },
+  {
+    "i": 3494,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 27,
+    "t": "calculer les années que devrait durer l’aliénation, restituer à l’acheteur le montant pour le temps encore à courir, et rentrer dans son patrimoine."
+  },
+  {
+    "i": 3495,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 28,
+    "t": "S’il ne trouve pas de quoi opérer cette restitution, le fonds vendu restera à l’acquéreur jusqu’à l’année jubilaire. C’est au jubilé que celui-ci en sortira pour rentrer dans son propre patrimoine."
+  },
+  {
+    "i": 3496,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 29,
+    "t": "Si quelqu’un vend une maison d’habitation dans une ville enclose d’une muraille, il aura droit de rachat jusqu’à l’expiration de l’année qui suit la vente ; son droit de rachat est limité à l’année"
+  },
+  {
+    "i": 3497,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 30,
+    "t": "et, si le rachat n’a pas été fait à l’expiration de l’année, cette maison en ville close sera la propriété de l’acquéreur et de ses descendants à l’exclusion de tout autre droit : il n’aura pas à en sortir au jubilé."
+  },
+  {
+    "i": 3498,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 31,
+    "t": "Mais les maisons des villages non enclos de murailles seront considérées comme sises à la campagne, elles comporteront droit de rachat et l’acquéreur en devra sortir au jubilé."
+  },
+  {
+    "i": 3499,
+    "b": 2,
+    "c": 325,
+    "r": 325,
+    "o": 32,
+    "t": "Quant aux villes des lévites, aux maisons des villes que ceux-ci possèdent, elles comportent à leur profit un droit de rachat perpétuel."
+  }
+]

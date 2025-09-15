@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16700,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 32,
+    "t": "\"Und nun, meine Söhne, höret auf mich: Wohl denen, die meine Wege bewahren!"
+  },
+  {
+    "i": 16701,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 33,
+    "t": "Höret Zucht und werdet weise, und verwerfet sie nicht."
+  },
+  {
+    "i": 16702,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 34,
+    "t": "Wohl dem Menschen, der mir gehorcht, wachend täglich an meinen Toren, hütend die Pfosten meiner Türen!"
+  },
+  {
+    "i": 16703,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 35,
+    "t": "Denn wer mich findet, der findet das Leben und erlangt Wohlgefallen vom HERRN."
+  },
+  {
+    "i": 16704,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 36,
+    "t": "Wer aber an mir sündigt, der schädigt seine Seele; alle, die mich hassen, lieben den Tod."
+  },
+  {
+    "i": 16705,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 1,
+    "t": "Die Weisheit hat ihr Haus gebaut, sie hat ihre sieben Säulen gehauen,"
+  },
+  {
+    "i": 16706,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 2,
+    "t": "sie hat ihr Schlachtvieh geschlachtet, ihren Wein gemischt, ja, sie hat auch ihren Tisch bereitet."
+  },
+  {
+    "i": 16707,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 3,
+    "t": "Sie hat ihre Mägde ausgesandt; sie ruft auf den Höhen der Stadt:"
+  },
+  {
+    "i": 16708,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 4,
+    "t": "\"Wer töricht ist, der kehre hier ein!\" Dem Unverständigen spricht sie:"
+  },
+  {
+    "i": 16709,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 5,
+    "t": "\"Kommt, esset von meinem Brot und trinket von dem Wein, den ich gemischt habe!"
+  },
+  {
+    "i": 16710,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 6,
+    "t": "Verlasset die Torheit, so werdet ihr leben, und wandelt auf dem Wege der Einsicht."
+  },
+  {
+    "i": 16711,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 7,
+    "t": "Wer einen Spötter zurechtweist, der holt sich Schmach, und wer einen Gottlosen straft, der zieht sich Schande zu."
+  },
+  {
+    "i": 16712,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 8,
+    "t": "Strafe den Spötter nicht, er wird dich hassen; strafe den Weisen, so wird er dich lieben."
+  },
+  {
+    "i": 16713,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 9,
+    "t": "Gib dem Weisen, so wird er noch weiser werden; lehre den Gerechten, so wird er an Kenntnis zunehmen."
+  },
+  {
+    "i": 16714,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 10,
+    "t": "Der Anfang der Weisheit ist die Furcht des HERRN, und die Erkenntnis des Heiligen ist Einsicht."
+  },
+  {
+    "i": 16715,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 11,
+    "t": "Denn durch mich werden deine Tage sich mehren, und es werden dir noch Jahre hinzugefügt."
+  },
+  {
+    "i": 16716,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 12,
+    "t": "Wenn du weise bist, so bist du es für dich selbst; bist du aber ein Spötter, so mußt du es allein tragen."
+  },
+  {
+    "i": 16717,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 13,
+    "t": "Ein Weib Torheit ist ungestüm, einfältig und weiß nichts."
+  },
+  {
+    "i": 16718,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 14,
+    "t": "Sie sitzt an der Tür ihres Hauses, auf einem Stuhl, auf den Höhen der Stadt,"
+  },
+  {
+    "i": 16719,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 15,
+    "t": "um die Wanderer anzurufen, die ihren Weg geradeaus gehen:"
+  },
+  {
+    "i": 16720,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 16,
+    "t": "\"Wer töricht ist, der kehre hier ein!\" Dem Unverständigen spricht sie:"
+  },
+  {
+    "i": 16721,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 17,
+    "t": "\"Gestohlenes Wasser ist süß, und heimliches Brot schmeckt wohl!"
+  },
+  {
+    "i": 16722,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 18,
+    "t": "Aber er weiß nicht, daß dort Tote sind, daß ihre Gäste in den Tiefen der Hölle liegen."
+  },
+  {
+    "i": 16723,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 1,
+    "t": "Sprüche Salomos. Ein weiser Sohn erfreut seinen Vater, aber ein törichter Sohn ist seiner Mutter Kummer."
+  },
+  {
+    "i": 16724,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 2,
+    "t": "Unrecht Gut hilft nicht, aber Gerechtigkeit errettet vom Tod."
+  },
+  {
+    "i": 16725,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 3,
+    "t": "Der HERR läßt die Seele des Gerechten nicht hungern, aber die Gier der Gottlosen stößt er zurück."
+  },
+  {
+    "i": 16726,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 4,
+    "t": "Lässige Hand macht arm, aber fleißige Hand macht reich."
+  },
+  {
+    "i": 16727,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 5,
+    "t": "Wer im Sommer sammelt, ist ein kluger Sohn, aber wer in der Ernte schläft, ist ein schändlicher Sohn."
+  },
+  {
+    "i": 16728,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 6,
+    "t": "Segen ruht auf dem Haupt des Gerechten, aber der Mund der Gottlosen birgt Frevel."
+  },
+  {
+    "i": 16729,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 7,
+    "t": "Das Andenken des Gerechten bleibt im Segen, aber der Name der Gottlosen wird verwesen."
+  },
+  {
+    "i": 16730,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 8,
+    "t": "Wer weisen Herzens ist, nimmt Gebote an, aber wer törichte Lippen hat, kommt zu Fall."
+  },
+  {
+    "i": 16731,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 9,
+    "t": "Wer rechtschaffen wandelt, wandelt sicher, aber wer krumme Wege geht, wird ertappt werden."
+  },
+  {
+    "i": 16732,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 10,
+    "t": "Wer mit den Augen zwinkert, verursacht Schmerz, wer aber offen zurechtweist, bringt Frieden."
+  },
+  {
+    "i": 16733,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 11,
+    "t": "Der Mund des Gerechten ist eine Quelle des Lebens, aber der Mund der Gottlosen birgt Frevel."
+  },
+  {
+    "i": 16734,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 12,
+    "t": "Haß erregt Streit, aber Liebe deckt alle Übertretungen zu."
+  },
+  {
+    "i": 16735,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 13,
+    "t": "Auf den Lippen des Verständigen findet man Weisheit, aber auf den Rücken des Unverständigen gehört die Rute."
+  },
+  {
+    "i": 16736,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 14,
+    "t": "Die Weisen bewahren das Wissen, aber der Mund des Toren bringt nahes Verderben."
+  },
+  {
+    "i": 16737,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 15,
+    "t": "Das Gut des Reichen ist seine feste Stadt, das Unglück der Armen ist ihre Armut."
+  },
+  {
+    "i": 16738,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 16,
+    "t": "Der Lohn des Gerechten dient zum Leben, der Ertrag des Gottlosen zur Sünde."
+  },
+  {
+    "i": 16739,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 17,
+    "t": "Wer Zucht hält, der ist auf dem Wege zum Leben, wer aber Zurechtweisung verwirft, geht irre."
+  },
+  {
+    "i": 16740,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 18,
+    "t": "Wer Haß verbirgt, hat lügnerische Lippen, und wer Verleumdung ausstreut, ist ein Narr."
+  },
+  {
+    "i": 16741,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 19,
+    "t": "Wo viele Worte sind, da geht es ohne Sünde nicht ab, wer aber seine Lippen zügelt, ist klug."
+  },
+  {
+    "i": 16742,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 20,
+    "t": "Die Zunge des Gerechten ist auserlesenes Silber, aber das Herz der Gottlosen ist wenig wert."
+  },
+  {
+    "i": 16743,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 21,
+    "t": "Die Lippen des Gerechten weiden viele, aber die Toren sterben an Mangel an Einsicht."
+  },
+  {
+    "i": 16744,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 22,
+    "t": "Der Segen des HERRN macht reich, und Mühe fügt nichts hinzu."
+  },
+  {
+    "i": 16745,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 23,
+    "t": "Dem Toren ist es ein Spiel, Böses zu tun, dem Verständigen aber, Weisheit zu üben."
+  },
+  {
+    "i": 16746,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 24,
+    "t": "Was der Gottlose fürchtet, das wird über ihn kommen, aber das Verlangen der Gerechten wird erfüllt werden."
+  },
+  {
+    "i": 16747,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 25,
+    "t": "Wenn der Sturm vorüber ist, ist der Gottlose nicht mehr da, aber der Gerechte bleibt ewiglich bestehen."
+  },
+  {
+    "i": 16748,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 26,
+    "t": "Wie Essig den Zähnen und Rauch den Augen, so ist der Faule denen, die ihn senden."
+  },
+  {
+    "i": 16749,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 27,
+    "t": "Die Furcht des HERRN verlängert die Tage, aber die Jahre der Gottlosen werden verkürzt."
+  },
+  {
+    "i": 16750,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 28,
+    "t": "Die Erwartung der Gerechten ist Freude, aber die Hoffnung der Gottlosen wird zunichte werden."
+  },
+  {
+    "i": 16751,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 29,
+    "t": "Der Weg des HERRN ist eine Festung für den Frommen, aber ein Verderben für die Übeltäter."
+  },
+  {
+    "i": 16752,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 30,
+    "t": "Der Gerechte wird ewiglich nicht wanken, aber die Gottlosen werden das Land nicht bewohnen."
+  },
+  {
+    "i": 16753,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 31,
+    "t": "Der Mund des Gerechten läßt Weisheit sprießen, aber die Zunge der Verkehrtheit wird ausgerottet."
+  },
+  {
+    "i": 16754,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 32,
+    "t": "Die Lippen des Gerechten wissen, was wohlgefällig ist, aber der Mund der Gottlosen weiß Verkehrtes."
+  },
+  {
+    "i": 16755,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 1,
+    "t": "Falsche Waage ist dem HERRN ein Greuel, aber ein volles Gewicht gefällt ihm wohl."
+  },
+  {
+    "i": 16756,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 2,
+    "t": "Kommt Übermut, so kommt auch Schmach, aber Weisheit ist bei den Demütigen."
+  },
+  {
+    "i": 16757,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 3,
+    "t": "Die Rechtschaffenheit der Aufrichtigen leitet sie, aber die Verkehrtheit der Treulosen macht sie zunichte."
+  },
+  {
+    "i": 16758,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 4,
+    "t": "Reichtum hilft nicht am Tage des Zorns, aber Gerechtigkeit errettet vom Tod."
+  },
+  {
+    "i": 16759,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 5,
+    "t": "Die Gerechtigkeit des Frommen ebnet seinen Weg, aber der Gottlose fällt durch seine Gottlosigkeit."
+  },
+  {
+    "i": 16760,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 6,
+    "t": "Die Gerechtigkeit der Aufrichtigen errettet sie, aber die Treulosen werden in ihrer Gier gefangen."
+  },
+  {
+    "i": 16761,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 7,
+    "t": "Wenn der Gottlose stirbt, so ist seine Erwartung dahin, und die Hoffnung der Ungerechten ist zunichte geworden."
+  },
+  {
+    "i": 16762,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 8,
+    "t": "Der Gerechte wird aus der Not errettet, und der Gottlose kommt an seine Stelle."
+  },
+  {
+    "i": 16763,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 9,
+    "t": "Mit seinem Mund richtet der Ruchlose seinen Nächsten zugrunde, aber durch Erkenntnis werden die Gerechten errettet."
+  },
+  {
+    "i": 16764,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 10,
+    "t": "Wenn es den Gerechten wohlgeht, freut sich die Stadt, und wenn die Gottlosen umkommen, jauchzt man."
+  },
+  {
+    "i": 16765,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 11,
+    "t": "Durch den Segen der Aufrichtigen wird eine Stadt erhöht, aber durch den Mund der Gottlosen wird sie niedergerissen."
+  },
+  {
+    "i": 16766,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 12,
+    "t": "Wer seinen Nächsten verachtet, ist ohne Verstand, aber ein verständiger Mann schweigt still."
+  },
+  {
+    "i": 16767,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 13,
+    "t": "Wer als Verleumder umhergeht, verrät Geheimnisse, aber wer treuen Geistes ist, deckt die Sache zu."
+  },
+  {
+    "i": 16768,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 14,
+    "t": "Wo keine Führung ist, da geht ein Volk zugrunde, aber wo viele Ratgeber sind, da ist Rettung."
+  },
+  {
+    "i": 16769,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 15,
+    "t": "Wer für einen Fremden Bürgschaft leistet, der wird Schaden erleiden, aber wer es vermeidet, ist sicher."
+  },
+  {
+    "i": 16770,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 16,
+    "t": "Ein anmutiges Weib erlangt Ehre, und die Gewalttätigen erlangen Reichtum."
+  },
+  {
+    "i": 16771,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 17,
+    "t": "Ein barmherziger Mann tut seiner eigenen Seele wohl, aber ein Unbarmherziger quält sein eigenes Fleisch."
+  },
+  {
+    "i": 16772,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 18,
+    "t": "Der Gottlose erwirkt einen trügerischen Lohn, aber wer Gerechtigkeit sät, einen sicheren Gewinn."
+  },
+  {
+    "i": 16773,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 19,
+    "t": "Wer Gerechtigkeit festhält, gelangt zum Leben, wer aber dem Bösen nachjagt, zum Tod."
+  },
+  {
+    "i": 16774,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 20,
+    "t": "Ein Greuel für den HERRN sind verkehrt Gesinnte, aber Wohlgefallen hat er an denen, die rechtschaffen wandeln."
+  },
+  {
+    "i": 16775,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 21,
+    "t": "Gewiß, der Böse wird nicht ungestraft bleiben, aber der Same der Gerechten wird errettet werden."
+  },
+  {
+    "i": 16776,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 22,
+    "t": "Ein goldener Ring im Rüssel eines Schweins ist ein schönes Weib ohne Anstand."
+  },
+  {
+    "i": 16777,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 23,
+    "t": "Das Verlangen der Gerechten ist lauter Gutes, die Hoffnung der Gottlosen ist Zorn."
+  },
+  {
+    "i": 16778,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 24,
+    "t": "Da ist einer, der austeilt und immer mehr bekommt, und da ist einer, der spart, wo er sollte, und wird doch ärmer."
+  },
+  {
+    "i": 16779,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 25,
+    "t": "Wer reichlich gibt, wird gesättigt, und wer andere erquickt, wird selbst erquickt werden."
+  },
+  {
+    "i": 16780,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 26,
+    "t": "Das Volk verflucht den, der Korn zurückhält; Segen aber ruht auf dem Haupt dessen, der es verkauft."
+  },
+  {
+    "i": 16781,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 27,
+    "t": "Wer nach Gutem trachtet, findet Wohlgefallen; wer aber Böses sucht, über den wird es kommen."
+  },
+  {
+    "i": 16782,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 28,
+    "t": "Wer sich auf seinen Reichtum verlässt, wird fallen; aber die Gerechten werden grünen wie ein Laubbaum."
+  },
+  {
+    "i": 16783,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 29,
+    "t": "Wer sein Haus verwüstet, wird Wind erben; und der Narr wird ein Knecht des Weisen sein."
+  },
+  {
+    "i": 16784,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 30,
+    "t": "Die Frucht des Gerechten ist ein Baum des Lebens, und wer Seelen gewinnt, ist weise."
+  },
+  {
+    "i": 16785,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 31,
+    "t": "Siehe, der Gerechte empfängt seinen Lohn auf Erden, wie viel mehr der Gottlose und der Sünder!"
+  },
+  {
+    "i": 16786,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 1,
+    "t": "Wer Zucht liebt, liebt Erkenntnis; wer aber Zurechtweisung hasst, ist dumm."
+  },
+  {
+    "i": 16787,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 2,
+    "t": "Der Gütige findet Wohlgefallen bei dem HERRN, aber den Ränkeschmied verdammt er."
+  },
+  {
+    "i": 16788,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 3,
+    "t": "Durch Gottlosigkeit wird niemand bestehen; aber die Wurzel der Gerechten wird nicht wanken."
+  },
+  {
+    "i": 16789,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 4,
+    "t": "Eine tüchtige Frau ist ihres Mannes Krone; aber eine Schändliche ist wie Fraß in seinen Knochen."
+  },
+  {
+    "i": 16790,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 5,
+    "t": "Die Gedanken der Gerechten sind recht; aber die Anschläge der Gottlosen sind Betrug."
+  },
+  {
+    "i": 16791,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 6,
+    "t": "Die Worte der Gottlosen lauern auf Blut; aber der Mund der Redlichen rettet sie."
+  },
+  {
+    "i": 16792,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 7,
+    "t": "Die Gottlosen werden gestürzt und sind nicht mehr; aber das Haus der Gerechten bleibt bestehen."
+  },
+  {
+    "i": 16793,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 8,
+    "t": "Nach seiner Einsicht wird ein Mann gelobt; aber wer ein verkehrtes Herz hat, wird verachtet."
+  },
+  {
+    "i": 16794,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 9,
+    "t": "Besser ein Geringer, der einen Knecht hat, als einer, der sich Ehren gibt und doch kein Brot hat."
+  },
+  {
+    "i": 16795,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 10,
+    "t": "Der Gerechte kennt das Leben seines Viehs; aber das Herz der Gottlosen ist unbarmherzig."
+  },
+  {
+    "i": 16796,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 11,
+    "t": "Wer seinen Acker bebaut, wird mit Brot gesättigt werden; wer aber unnützen Dingen nachgeht, ist ein Narr."
+  },
+  {
+    "i": 16797,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 12,
+    "t": "Der Gottlose begehrt die Beute der Bösen; aber die Wurzel der Gerechten bringt Frucht."
+  },
+  {
+    "i": 16798,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 13,
+    "t": "Ein böses Wort verstrickt den Bösen; aber der Gerechte entgeht der Not."
+  },
+  {
+    "i": 16799,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 14,
+    "t": "Von der Frucht seines Mundes wird ein Mann mit Gutem gesättigt, und was seine Hände wirken, wird ihm vergolten."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16800,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 15,
+    "t": "El camino del necio es derecho en su propia opinión, mas el sabio escucha el consejo."
+  },
+  {
+    "i": 16801,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 16,
+    "t": "El necio al punto manifiesta su enojo, mas el avisado disimula la injuria."
+  },
+  {
+    "i": 16802,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 17,
+    "t": "El que declara la verdad manifiesta justicia, mas el testigo falso, engaño."
+  },
+  {
+    "i": 16803,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 18,
+    "t": "Hay hombres cuyas palabras son como golpes de espada; mas la lengua de los sabios es medicina."
+  },
+  {
+    "i": 16804,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 19,
+    "t": "El labio veraz permanecerá para siempre; mas la lengua mentirosa, por un momento."
+  },
+  {
+    "i": 16805,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 20,
+    "t": "Engaño hay en el corazón de los que piensan el mal; pero alegría en los consejeros de paz."
+  },
+  {
+    "i": 16806,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 21,
+    "t": "Ningún daño acontecerá al justo; mas los impíos serán colmados de males."
+  },
+  {
+    "i": 16807,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 22,
+    "t": "Los labios mentirosos son abominación a Jehová; pero los que hacen verdad son su contentamiento."
+  },
+  {
+    "i": 16808,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 23,
+    "t": "El hombre cuerdo encubre su saber; mas el corazón de los necios publica la necedad."
+  },
+  {
+    "i": 16809,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 24,
+    "t": "La mano de los diligentes señoreará; mas la negligencia será tributaria."
+  },
+  {
+    "i": 16810,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 25,
+    "t": "La congoja en el corazón del hombre lo abate; mas la buena palabra lo alegra."
+  },
+  {
+    "i": 16811,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 26,
+    "t": "El justo sirve de guía a su prójimo; mas el camino de los impíos los extravía."
+  },
+  {
+    "i": 16812,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 27,
+    "t": "El indolente ni aun asará lo que ha cazado; mas el haber precioso del hombre es la diligencia."
+  },
+  {
+    "i": 16813,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 28,
+    "t": "En el camino de la justicia está la vida; y en sus senderos no hay muerte."
+  },
+  {
+    "i": 16814,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 1,
+    "t": "El hijo sabio recibe el consejo del padre; mas el burlador no escucha las reprensiones."
+  },
+  {
+    "i": 16815,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 2,
+    "t": "Del fruto de su boca el hombre comerá el bien; mas el alma de los prevaricadores hallará el mal."
+  },
+  {
+    "i": 16816,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 3,
+    "t": "El que guarda su boca guarda su alma; mas el que mucho abre sus labios tendrá calamidad."
+  },
+  {
+    "i": 16817,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 4,
+    "t": "El alma del perezoso desea, y nada alcanza; mas el alma de los diligentes será prosperada."
+  },
+  {
+    "i": 16818,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 5,
+    "t": "El justo aborrece la palabra de mentira; mas el impío se hace odioso e infame."
+  },
+  {
+    "i": 16819,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 6,
+    "t": "La justicia guarda al de camino perfecto; mas la impiedad trastornará al pecador."
+  },
+  {
+    "i": 16820,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 7,
+    "t": "Hay quienes se hacen ricos, y no tienen nada; y hay quienes se hacen pobres, y tienen muchas riquezas."
+  },
+  {
+    "i": 16821,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 8,
+    "t": "El rescate de la vida del hombre está en sus riquezas; pero el pobre no oye censuras."
+  },
+  {
+    "i": 16822,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 9,
+    "t": "La luz de los justos se alegrará; mas se apagará la lámpara de los impíos."
+  },
+  {
+    "i": 16823,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 10,
+    "t": "Ciertamente la soberbia concebirá contienda; mas con los avisados está la sabiduría."
+  },
+  {
+    "i": 16824,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 11,
+    "t": "Las riquezas de vanidad disminuirán; pero el que recoge con mano laboriosa las aumenta."
+  },
+  {
+    "i": 16825,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 12,
+    "t": "La esperanza que se demora es tormento del corazón; pero árbol de vida es el deseo cumplido."
+  },
+  {
+    "i": 16826,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 13,
+    "t": "El que menosprecia el precepto perecerá; mas el que teme el mandamiento será recompensado."
+  },
+  {
+    "i": 16827,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 14,
+    "t": "La enseñanza del sabio es manantial de vida para apartarse de los lazos de la muerte."
+  },
+  {
+    "i": 16828,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 15,
+    "t": "El buen entendimiento da gracia; mas el camino de los transgresores es duro."
+  },
+  {
+    "i": 16829,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 16,
+    "t": "Todo hombre prudente actúa con sabiduría; mas el necio manifiesta su necedad."
+  },
+  {
+    "i": 16830,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 17,
+    "t": "El mal mensajero cae en el mal; mas el mensajero fiel es salud."
+  },
+  {
+    "i": 16831,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 18,
+    "t": "Pobreza y vergüenza tendrá el que menosprecia el consejo; mas el que guarda la corrección recibirá honra."
+  },
+  {
+    "i": 16832,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 19,
+    "t": "El deseo cumplido deleita el alma; pero apartarse del mal es abominación a los necios."
+  },
+  {
+    "i": 16833,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 20,
+    "t": "El que anda con sabios, sabio será; mas el que se junta con necios será quebrantado."
+  },
+  {
+    "i": 16834,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 21,
+    "t": "El mal persigue a los pecadores, mas los justos serán premiados con el bien."
+  },
+  {
+    "i": 16835,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 22,
+    "t": "El hombre de bien deja herencia a los hijos de sus hijos; mas la riqueza del pecador está guardada para el justo."
+  },
+  {
+    "i": 16836,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 23,
+    "t": "En el barbecho de los pobres hay mucho pan; mas se pierde por falta de justicia."
+  },
+  {
+    "i": 16837,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 24,
+    "t": "El que detiene el castigo, a su hijo aborrece; mas el que lo ama, desde temprano lo corrige."
+  },
+  {
+    "i": 16838,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 25,
+    "t": "El justo come hasta saciar su alma; mas el vientre de los impíos tendrá necesidad."
+  },
+  {
+    "i": 16839,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 1,
+    "t": "La mujer sabia edifica su casa; mas la necia con sus manos la derriba."
+  },
+  {
+    "i": 16840,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 2,
+    "t": "El que camina en su rectitud teme a Jehová; mas el de perversos caminos lo menosprecia."
+  },
+  {
+    "i": 16841,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 3,
+    "t": "En la boca del necio está la vara de la soberbia; mas los labios de los sabios los guardarán."
+  },
+  {
+    "i": 16842,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 4,
+    "t": "Sin bueyes el granero está vacío; mas por la fuerza del buey abunda la cosecha."
+  },
+  {
+    "i": 16843,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 5,
+    "t": "El testigo veraz no mentirá; mas el testigo falso hablará mentiras."
+  },
+  {
+    "i": 16844,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 6,
+    "t": "Busca el escarnecedor la sabiduría, y no la halla; mas al hombre entendido la sabiduría le es fácil."
+  },
+  {
+    "i": 16845,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 7,
+    "t": "Vete de delante del hombre necio, porque en él no hallarás labios de ciencia."
+  },
+  {
+    "i": 16846,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 8,
+    "t": "La ciencia del prudente está en entender su camino; mas la indiscreción de los necios es engaño."
+  },
+  {
+    "i": 16847,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 9,
+    "t": "Los necios se mofan del pecado; mas entre los rectos hay buena voluntad."
+  },
+  {
+    "i": 16848,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 10,
+    "t": "El corazón conoce la amargura de su alma; y extraño no se entremeterá en su alegría."
+  },
+  {
+    "i": 16849,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 11,
+    "t": "La casa de los impíos será asolada; pero florecerá la tienda de los rectos."
+  },
+  {
+    "i": 16850,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 12,
+    "t": "Hay camino que al hombre parece derecho; pero su fin es camino de muerte."
+  },
+  {
+    "i": 16851,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 13,
+    "t": "Aun en la risa tendrá dolor el corazón; y el término de la alegría es congoja."
+  },
+  {
+    "i": 16852,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 14,
+    "t": "De sus propios caminos será hastiado el necio de corazón; pero el hombre de bien estará contento del suyo."
+  },
+  {
+    "i": 16853,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 15,
+    "t": "El simple todo lo cree; mas el avisado mira bien sus pasos."
+  },
+  {
+    "i": 16854,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 16,
+    "t": "El sabio teme y se aparta del mal; mas el insensato se muestra insolente y confiado."
+  },
+  {
+    "i": 16855,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 17,
+    "t": "El que fácilmente se enoja hará locuras; y el hombre perverso será aborrecido."
+  },
+  {
+    "i": 16856,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 18,
+    "t": "Los simples heredarán necedad; mas los prudentes se coronarán de sabiduría."
+  },
+  {
+    "i": 16857,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 19,
+    "t": "Los malos se inclinarán delante de los buenos, y los impíos a las puertas del justo."
+  },
+  {
+    "i": 16858,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 20,
+    "t": "El pobre es odioso aun a su amigo; pero muchos son los que aman al rico."
+  },
+  {
+    "i": 16859,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 21,
+    "t": "Peca el que menosprecia a su prójimo; mas el que tiene misericordia de los pobres es bienaventurado."
+  },
+  {
+    "i": 16860,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 22,
+    "t": "¿No yerran los que piensan el mal? Mas misericordia y verdad alcanzarán los que piensan el bien."
+  },
+  {
+    "i": 16861,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 23,
+    "t": "En toda labor hay fruto; mas las vanas palabras del labio empobrecen."
+  },
+  {
+    "i": 16862,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 24,
+    "t": "Las riquezas de los sabios son su corona; pero la insensatez de los necios es infatuación."
+  },
+  {
+    "i": 16863,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 25,
+    "t": "El testigo verdadero libra las almas; mas el engañoso hablará mentiras."
+  },
+  {
+    "i": 16864,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 26,
+    "t": "En el temor de Jehová está la fuerte confianza; y esperanza tendrán sus hijos."
+  },
+  {
+    "i": 16865,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 27,
+    "t": "El temor de Jehová es manantial de vida para apartarse de los lazos de la muerte."
+  },
+  {
+    "i": 16866,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 28,
+    "t": "En la multitud del pueblo está la gloria del rey; y en la falta de pueblo la debilidad del príncipe."
+  },
+  {
+    "i": 16867,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 29,
+    "t": "El que tarda en airarse es grande de entendimiento; mas el que es impaciente de espíritu enaltece la necedad."
+  },
+  {
+    "i": 16868,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 30,
+    "t": "El corazón apacible es vida de la carne; mas la envidia carcome los huesos."
+  },
+  {
+    "i": 16869,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 31,
+    "t": "El que oprime al pobre afrenta a su Hacedor; mas el que tiene misericordia del pobre, lo honra."
+  },
+  {
+    "i": 16870,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 32,
+    "t": "Por su maldad será derribado el impío; mas el justo en su muerte tendrá esperanza."
+  },
+  {
+    "i": 16871,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 33,
+    "t": "En el corazón del prudente reposa la sabiduría; pero en medio de los necios se da a conocer."
+  },
+  {
+    "i": 16872,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 34,
+    "t": "La justicia engrandece a la nación; mas el pecado es afrenta de las naciones."
+  },
+  {
+    "i": 16873,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 35,
+    "t": "El rey se complace en el siervo prudente; mas su enojo es contra el que lo avergüenza."
+  },
+  {
+    "i": 16874,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 1,
+    "t": "La respuesta apacible quita la ira; mas la palabra áspera hace subir el furor."
+  },
+  {
+    "i": 16875,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 2,
+    "t": "La lengua de los sabios adorna la sabiduría; mas la boca de los necios habla sandeces."
+  },
+  {
+    "i": 16876,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 3,
+    "t": "Los ojos de Jehová están en todo lugar, mirando a los malos y a los buenos."
+  },
+  {
+    "i": 16877,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 4,
+    "t": "La lengua apacible es árbol de vida; mas la perversidad de ella es quebrantamiento de espíritu."
+  },
+  {
+    "i": 16878,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 5,
+    "t": "El necio menosprecia el consejo de su padre; mas el que guarda la corrección vendrá a ser prudente."
+  },
+  {
+    "i": 16879,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 6,
+    "t": "En la casa del justo hay gran provisión; pero turbación en las ganancias del impío."
+  },
+  {
+    "i": 16880,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 7,
+    "t": "Los labios del sabio esparcen sabiduría; mas el corazón de los necios no lo hace así."
+  },
+  {
+    "i": 16881,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 8,
+    "t": "El sacrificio de los impíos es abominación a Jehová; mas la oración de los rectos es su deleite."
+  },
+  {
+    "i": 16882,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 9,
+    "t": "Abominación es a Jehová el camino del impío; mas él ama al que sigue la justicia."
+  },
+  {
+    "i": 16883,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 10,
+    "t": "La corrección es molesta al que deja el camino; y el que aborrece la reprensión morirá."
+  },
+  {
+    "i": 16884,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 11,
+    "t": "El Seol y el Abadón están delante de Jehová; ¡cuánto más los corazones de los hijos de los hombres!"
+  },
+  {
+    "i": 16885,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 12,
+    "t": "El escarnecedor no ama al que le reprende, ni se junta con los sabios."
+  },
+  {
+    "i": 16886,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 13,
+    "t": "El corazón alegre hermosea el rostro; mas por el dolor del corazón el espíritu se abate."
+  },
+  {
+    "i": 16887,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 14,
+    "t": "El corazón entendido busca la sabiduría; mas la boca de los necios se alimenta de necedades."
+  },
+  {
+    "i": 16888,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 15,
+    "t": "Todos los días del afligido son malos; mas el de corazón contento tiene un banquete continuo."
+  },
+  {
+    "i": 16889,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 16,
+    "t": "Mejor es lo poco con el temor de Jehová, que el gran tesoro donde hay turbación."
+  },
+  {
+    "i": 16890,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 17,
+    "t": "Mejor es un plato de legumbres donde hay amor, que buey engordado donde hay odio."
+  },
+  {
+    "i": 16891,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 18,
+    "t": "El hombre iracundo levanta contienda; mas el que tarda en airarse apacigua la rencilla."
+  },
+  {
+    "i": 16892,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 19,
+    "t": "El camino del perezoso es como seto de espinos; mas la senda de los rectos, como una calzada."
+  },
+  {
+    "i": 16893,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 20,
+    "t": "El hijo sabio alegra al padre; mas el hombre necio desprecia a su madre."
+  },
+  {
+    "i": 16894,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 21,
+    "t": "La necedad es alegría al falto de entendimiento; mas el hombre entendido endereza sus pasos."
+  },
+  {
+    "i": 16895,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 22,
+    "t": "Los pensamientos son frustrados donde no hay consejo; mas en la multitud de consejeros se afirman."
+  },
+  {
+    "i": 16896,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 23,
+    "t": "El hombre se alegra con la respuesta de su boca; y la palabra a su tiempo, ¡cuán buena es!"
+  },
+  {
+    "i": 16897,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 24,
+    "t": "El camino de la vida es hacia arriba al entendido, para apartarse del Seol abajo."
+  },
+  {
+    "i": 16898,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 25,
+    "t": "Jehová asolará la casa de los soberbios; pero afirmará el término de la viuda."
+  },
+  {
+    "i": 16899,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 26,
+    "t": "Abominación son a Jehová los pensamientos del malo; mas las expresiones de los limpios son agradables."
+  }
+]

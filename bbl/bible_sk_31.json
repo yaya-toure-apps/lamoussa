@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3100,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 50,
+    "t": "Kňaz nech obhliadne ranu a oddelí vec na sedem dní."
+  },
+  {
+    "i": 3101,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 51,
+    "t": "Ak uvidí siedmeho dňa, že sa rana rozšírila na odev, tkaninu, pokrývku, kožu alebo na akúkoľvek vec z kože zhotovenú, je to nákazlivá malomocnosť, a vec je nečistá."
+  },
+  {
+    "i": 3102,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 52,
+    "t": "Odev, tkaninu, pokrývku vlnenú alebo ľanovú, alebo akúkoľvek koženú vec, na ktorej sa objavila rana, spáli, lebo je to nákazlivá malomocnosť, a oheň ju strávi."
+  },
+  {
+    "i": 3103,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 53,
+    "t": "Ale ak kňaz po obhliadke zistí, že sa rana na odeve, tkanine, pokrývke alebo akejkoľvek koženej veci nerozšírila,"
+  },
+  {
+    "i": 3104,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 54,
+    "t": "rozkáže umyť to, na čom je rana, a oddelí ju druhý raz na sedem dní."
+  },
+  {
+    "i": 3105,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 55,
+    "t": "Kňaz po umytí obhliadne ranu a ak vidí, že jej vzhľad sa nezmenil a nerozšírila sa, je vec nečistá. Spáliš ju ohňom; je to hrdza, či už na povrchu alebo na rube."
+  },
+  {
+    "i": 3106,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 56,
+    "t": "Ale ak kňaz po obhliadke zistí, že po umytí rana vybledla, vytrhne ju z odevu, kože, tkaniny alebo pokrývky."
+  },
+  {
+    "i": 3107,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 57,
+    "t": "Ak sa však rana znova objaví na odeve, tkanine, pokrývke alebo akejkoľvek koženej veci, je to prenikajúca choroba a spáliš ohňom to, na čom sa objavila."
+  },
+  {
+    "i": 3108,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 58,
+    "t": "Odev, tkanina, pokrývka alebo akákoľvek kožená vec, z ktorej rana po umytí zmizla, sa po druhom umytí stane čistou."
+  },
+  {
+    "i": 3109,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 59,
+    "t": "Toto je zákon o rane malomocenstva na odeve vlnenom alebo ľanovom, na tkanine, pokrývke alebo na akejkoľvek koženej veci, ako ich vyhlásiť za čisté alebo nečisté."
+  },
+  {
+    "i": 3110,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 1,
+    "t": "Hospodin riekol Mojžišovi:"
+  },
+  {
+    "i": 3111,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 2,
+    "t": "Toto je zákon o malomocnom v deň jeho očisťovania. Privedú ho ku kňazovi."
+  },
+  {
+    "i": 3112,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 3,
+    "t": "Kňaz vyjde von z tábora a ak zistí, že malomocný sa vyliečil z malomocenstva,"
+  },
+  {
+    "i": 3113,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 4,
+    "t": "rozkáže vziať pre očisťovaného dvoch živých a čistých vtákov, cédrové drevo, karmínovú vlnu a yzop."
+  },
+  {
+    "i": 3114,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 5,
+    "t": "Potom rozkáže zabiť jedného vtáka nad hlinenou nádobou nad tečúcou vodou."
+  },
+  {
+    "i": 3115,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 6,
+    "t": "Živého vtáka vezme, vezme aj cédrové drevo, karmínovú vlnu a yzop, a ponorí ich spolu so živým vtákom do krvi vtáka zabitého nad tečúcou vodou."
+  },
+  {
+    "i": 3116,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 7,
+    "t": "Potom sedemkrát pokropí toho, kto sa má očistiť od malomocenstva, a vyhlási ho za čistého. Živého vtáka vypustí do poľa."
+  },
+  {
+    "i": 3117,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 8,
+    "t": "Ten, kto sa očisťuje, nech si operie šaty, oholí všetky chlpy, umyje sa vodou a bude čistý. Potom vstúpi do tábora, ale sedem dní ostane mimo svojho stanu."
+  },
+  {
+    "i": 3118,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 9,
+    "t": "Siedmeho dňa si oholí všetky chlpy, vlasy, bradu a obočie; musí si oholiť všetky chlpy. Nech si operie šaty, umyje sa vodou a bude čistý."
+  },
+  {
+    "i": 3119,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 10,
+    "t": "Ôsmeho dňa vezme dvoch baránkov bez vady, jednu ročnú jahnicu bez vady, tri desatiny efy jemnej múky zamiesenej s olejom na obetu a jeden log oleja."
+  },
+  {
+    "i": 3120,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 11,
+    "t": "Kňaz, ktorý vykonáva očisťovanie, postaví muža, ktorý sa má očistiť, aj s jeho obetami pred Hospodina ku vchodu do stanu zjavenia."
+  },
+  {
+    "i": 3121,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 12,
+    "t": "Potom vezme jedného z baránkov a obetuje ho ako obetu za previnenie spolu s logom oleja. Urobí s nimi obetný pohyb pred Hospodinom."
+  },
+  {
+    "i": 3122,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 13,
+    "t": "Zabije baránka na svätom mieste, kde sa zabíjajú obete za hriech a zápalné obete. Táto obeť za previnenie pripadne kňazovi ako obeť za hriech, lebo je to vec presvätá."
+  },
+  {
+    "i": 3123,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 14,
+    "t": "Kňaz vezme z krvi obete za previnenie a potrie ňou lalôčik pravého ucha očisťovaného, palec jeho pravej ruky a palec jeho pravej nohy."
+  },
+  {
+    "i": 3124,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 15,
+    "t": "Potom vezme log oleja a naleje si trochu oleja do dlane ľavej ruky."
+  },
+  {
+    "i": 3125,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 16,
+    "t": "Namočí prst pravej ruky do oleja, ktorý má v dlani ľavej ruky, a týmto prstom sedemkrát pokropí pred Hospodinom."
+  },
+  {
+    "i": 3126,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 17,
+    "t": "Potom potrie z oleja, ktorý mu zostal v dlani, lalôčik pravého ucha očisťovaného, palec jeho pravej ruky a palec jeho pravej nohy, na to miesto, kde bola daná krv obete za previnenie."
+  },
+  {
+    "i": 3127,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 18,
+    "t": "Zvyšok oleja, ktorý má v dlani, potrie ním hlavu očisťovaného. Tak na ňom vykoná obrad zmierenia pred Hospodinom."
+  },
+  {
+    "i": 3128,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 19,
+    "t": "Kňaz potom vykoná obeť za hriech a vykoná na očisťovanom obrad zmierenia za jeho nečistotu. Potom zabije zápalnú obetu,"
+  },
+  {
+    "i": 3129,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 20,
+    "t": "a na oltári nech obetuje zápalnú obetu aj obetu. Keď takto kňaz vykoná na ňom obrad zmierenia, bude čistý."
+  },
+  {
+    "i": 3130,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 21,
+    "t": "Ak je chudobný a nemá dostatok prostriedkov, vezme len jedného baránka ako obetu za previnenie a urobí s ním obetný pohyb, aby vykonal na ňom obrad zmierenia. Vezme aj len jednu desatinu efy jemnej múky zamiesenej s olejom na obetu a jeden log oleja,"
+  },
+  {
+    "i": 3131,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 22,
+    "t": "a dve hrdličky alebo dva holúbky — ak si ich môže zadovážiť — z ktorých jeden bude určený na obeť za hriech a druhý na zápalnú obetu."
+  },
+  {
+    "i": 3132,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 23,
+    "t": "Na ôsmy deň ich prinesie ku kňazovi ku vchodu do stanu zjavenia pred Hospodina, aby sa očistil."
+  },
+  {
+    "i": 3133,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 24,
+    "t": "Kňaz vezme baránka obety za previnenie a log oleja. Urobí s nimi obetný pohyb pred Hospodinom."
+  },
+  {
+    "i": 3134,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 25,
+    "t": "Potom zabije baránka obety za previnenie, vezme z jeho krvi a potrie ňou lalôčik pravého ucha očisťovaného, palec jeho pravej ruky a palec jeho pravej nohy."
+  },
+  {
+    "i": 3135,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 26,
+    "t": "Naleje si z oleja do dlane ľavej ruky"
+  },
+  {
+    "i": 3136,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 27,
+    "t": "a týmto olejom, ktorý má v dlani ľavej ruky, sedemkrát pokropí prstom pred Hospodinom."
+  },
+  {
+    "i": 3137,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 28,
+    "t": "Potrie z neho lalôčik pravého ucha očisťovaného, palec jeho pravej ruky a palec jeho pravej nohy, na miesto, kde bola daná krv obete za previnenie."
+  },
+  {
+    "i": 3138,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 29,
+    "t": "Zvyšok oleja, ktorý má v dlani, potrie ním hlavu očisťovaného a tak na ňom vykoná obrad zmierenia pred Hospodinom."
+  },
+  {
+    "i": 3139,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 30,
+    "t": "Z dvoch hrdličiek alebo dvoch holúbkov — z toho, čo si môže zadovážiť — obetuje"
+  },
+  {
+    "i": 3140,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 31,
+    "t": "jeden ako obeť za hriech a druhý ako zápalnú obetu s obetou — s tým, čo si mohol zadovážiť. Kňaz takto vykoná obrad zmierenia pred Hospodinom na tom, kto sa očisťuje."
+  },
+  {
+    "i": 3141,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 32,
+    "t": "Toto je zákon o tom, kto je postihnutý malomocenstvom a nemá prostriedky na svoju očistu."
+  },
+  {
+    "i": 3142,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 33,
+    "t": "Hospodin riekol Mojžišovi a Áronovi:"
+  },
+  {
+    "i": 3143,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 34,
+    "t": "Keď prídete do Kanaánskej krajiny, ktorú vám dávam do vlastníctva, ak postihnem malomocenstvom nejaký dom v krajine, ktorú budete vlastniť,"
+  },
+  {
+    "i": 3144,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 35,
+    "t": "majiteľ príde ohlásiť kňazovi a povie: „Zdá sa mi, že je v dome malomocenstvo.“"
+  },
+  {
+    "i": 3145,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 36,
+    "t": "Kňaz rozkáže vypratať dom, prv než príde obhliadnuť ranu; aby sa neznečistilo nič z toho, čo je v ňom. Potom kňaz príde obhliadnuť dom,"
+  },
+  {
+    "i": 3146,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 37,
+    "t": "a ak po obhliadke zistí, že na stenách domu sú vyhĺbeniny zelenkavé alebo červenkasté, ktoré vyzerajú, ako by stenou prenikali hlbšie,"
+  },
+  {
+    "i": 3147,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 38,
+    "t": "kňaz vyjde z domu ku dverám a nechá dom sedem dní zatvorený."
+  },
+  {
+    "i": 3148,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 39,
+    "t": "Siedmeho dňa sa vráti a ak po obhliadke zistí, že sa rana rozšírila na stenách domu,"
+  },
+  {
+    "i": 3149,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 40,
+    "t": "rozkáže vybrať kamene, ktoré sú postihnuté ranou, a vyhodiť ich za mesto na nečisté miesto."
+  },
+  {
+    "i": 3150,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 41,
+    "t": "Potom nech dá oškrabať všetky vnútorné steny domu a nech vylejú oškrabanú omietku za mesto na nečisté miesto."
+  },
+  {
+    "i": 3151,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 42,
+    "t": "Vezmú iné kamene a dajú ich na miesto pôvodných a novou omietkou omietnu dom."
+  },
+  {
+    "i": 3152,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 43,
+    "t": "Ak sa rana znova rozšíri po vybratí kameňov, oškrabaní a omietnutí domu,"
+  },
+  {
+    "i": 3153,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 44,
+    "t": "kňaz príde a obhliadne ho; ak zistí, že sa rana rozšírila, je to prenikajúce malomocenstvo v dome; je nečistý."
+  },
+  {
+    "i": 3154,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 45,
+    "t": "Nech ho zbúrajú, nech vynesú za mesto na nečisté miesto jeho kamene, drevo a všetku jeho omietku."
+  },
+  {
+    "i": 3155,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 46,
+    "t": "Každý, kto vstúpi do domu po celý čas, čo je zatvorený, bude nečistý až do večera."
+  },
+  {
+    "i": 3156,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 47,
+    "t": "Kto bude v dome spať, nech si operie šaty. Kto bude v dome jesť, nech si operie šaty."
+  },
+  {
+    "i": 3157,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 48,
+    "t": "Ale ak kňaz pri obhliadke rany zistí, že sa rana nerozšírila v dome po omietnutí, vyhlási dom za čistý, lebo rana sa zahojila."
+  },
+  {
+    "i": 3158,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 49,
+    "t": "Na obeť za hriech domu vezme dva vtáky, cédrové drevo, karmínovú vlnu a yzop."
+  },
+  {
+    "i": 3159,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 50,
+    "t": "Zabije jedného vtáka nad hlinenou nádobou nad tečúcou vodou."
+  },
+  {
+    "i": 3160,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 51,
+    "t": "Potom vezme cédrové drevo, yzop, karmínovú vlnu a živého vtáka, aby ich ponoril do krvi zabitého vtáka a do tečúcej vody. Sedemkrát pokropí dom,"
+  },
+  {
+    "i": 3161,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 52,
+    "t": "a po tom, ako urobil obeť za hriech domu krvou vtáka, tečúcou vodou, živým vtákom, cédrovým drevom, yzopom a karmínovou vlnou,"
+  },
+  {
+    "i": 3162,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 53,
+    "t": "vypustí živého vtáka za mesto do poľa. Obrad zmierenia vykoná takto na dome a bude čistý."
+  },
+  {
+    "i": 3163,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 54,
+    "t": "Toto je zákon o všetkých prípadoch malomocenstva a lišaja,"
+  },
+  {
+    "i": 3164,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 55,
+    "t": "malomocenstva odevov a domov,"
+  },
+  {
+    "i": 3165,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 56,
+    "t": "hrčí, vyrážok a škvŕn."
+  },
+  {
+    "i": 3166,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 57,
+    "t": "Určuje čas nečistoty a čistoty. Toto je zákon o malomocenstve."
+  },
+  {
+    "i": 3167,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 1,
+    "t": "Hospodin riekol Mojžišovi a Áronovi:"
+  },
+  {
+    "i": 3168,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 2,
+    "t": "Hovorte Izraelitom a povedzte im: Ak má niekto výtok zo svojho tela, tento výtok je nečistý."
+  },
+  {
+    "i": 3169,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 3,
+    "t": "Toto bude jeho nečistota, kým má tento výtok: Či už jeho telo vypúšťa výtok, alebo ho zadržiava, je nečistý."
+  },
+  {
+    "i": 3170,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 4,
+    "t": "Každé lôžko, na ktorom bude ležať ten muž, bude nečisté, a každý predmet, na ktorom bude sedieť, bude nečistý."
+  },
+  {
+    "i": 3171,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 5,
+    "t": "Kto sa dotkne jeho lôžka, nech si operie šaty, umyje sa vodou a bude nečistý až do večera."
+  },
+  {
+    "i": 3172,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 6,
+    "t": "Kto si sadne na predmet, na ktorom sedel ten muž, nech si operie šaty, umyje sa vodou a bude nečistý až do večera."
+  },
+  {
+    "i": 3173,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 7,
+    "t": "Kto sa dotkne tela toho muža, nech si operie šaty, umyje sa vodou a bude nečistý až do večera."
+  },
+  {
+    "i": 3174,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 8,
+    "t": "Ak ten muž napľuje na čistú osobu, tá si nech operie šaty, umyje sa vodou a bude nečistá až do večera."
+  },
+  {
+    "i": 3175,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 9,
+    "t": "Každé sedadlo, na ktorom cestoval ten muž, bude nečisté."
+  },
+  {
+    "i": 3176,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 10,
+    "t": "Všetci, ktorí sa dotknú akejkoľvek veci, ktorá sa nachádzala pod ním, budú nečistí až do večera. Kto bude takúto vec niesť, nech si operie šaty, umyje sa vodou a bude nečistý až do večera."
+  },
+  {
+    "i": 3177,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 11,
+    "t": "Všetci, ktorých sa dotkne ten muž bez toho, aby si opláchol ruky, nech si operú šaty, umyjú sa vodou a budú nečistí až do večera."
+  },
+  {
+    "i": 3178,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 12,
+    "t": "Hlinená nádoba, ktorej sa dotkne ten muž, bude rozbitá, a každý drevený nástroj bude opláchnutý."
+  },
+  {
+    "i": 3179,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 13,
+    "t": "Keď sa ten muž uzdraví, nech si odpočíta sedem dní na svoje očistenie. Nech si operie šaty, umyje svoje telo tečúcou vodou a bude čistý."
+  },
+  {
+    "i": 3180,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 14,
+    "t": "Ôsmy deň vezme dve hrdličky alebo dva holúbky a predstúpi pred Hospodina ku vchodu do Stanu zjavenia, aby ich odovzdal kňazovi."
+  },
+  {
+    "i": 3181,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 15,
+    "t": "Z jedného z nich kňaz obetuje obetu za hriech a z druhého celostnú žertvu. Takto kňaz vykoná nad ním pred Hospodinom obrad zmierenia za jeho výtok."
+  },
+  {
+    "i": 3182,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 16,
+    "t": "Ak muž bude mať výron semena, umyje si telo vo vode a bude nečistý až do večera."
+  },
+  {
+    "i": 3183,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 17,
+    "t": "Každý odev a každá koža, ktorej sa dotkne výron semena, sa operú vo vode a budú nečisté až do večera."
+  },
+  {
+    "i": 3184,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 18,
+    "t": "Ak muž obcuje so ženou, obaja sa umyjú vo vode a budú nečistí až do večera."
+  },
+  {
+    "i": 3185,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 19,
+    "t": "Ak žena má krvotok a krv tečie z jej tela, zostane sedem dní v nečistote svojich mesačných dní. Kto sa jej dotkne, bude nečistý až do večera."
+  },
+  {
+    "i": 3186,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 20,
+    "t": "Každé lôžko, na ktorom bude ležať počas svojej nečistoty, bude nečisté; každé sedadlo, na ktorom bude sedieť, bude nečisté."
+  },
+  {
+    "i": 3187,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 21,
+    "t": "Kto sa dotkne jej lôžka, operie si odev, umyje sa vo vode a bude nečistý až do večera."
+  },
+  {
+    "i": 3188,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 22,
+    "t": "Kto sa dotkne akéhokoľvek sedadla, na ktorom sedela, operie si odev, umyje sa vo vode a bude nečistý až do večera."
+  },
+  {
+    "i": 3189,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 23,
+    "t": "Ak je niečo na lôžku alebo na sedadle, na ktorom sedela, kto sa toho dotkne, bude nečistý až do večera."
+  },
+  {
+    "i": 3190,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 24,
+    "t": "Ak muž obcuje s ňou a nečistota jej mesačných dní sa ho dotkne, bude nečistý sedem dní. Každé lôžko, na ktorom bude ležať, bude nečisté."
+  },
+  {
+    "i": 3191,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 25,
+    "t": "Ak žena má krvotok mnoho dní mimo času svojich mesačných dní alebo ak sa jej mesačné dni predlžujú, bude po celý čas svojho krvotoku v rovnakom stave nečistoty ako počas svojich mesačných dní."
+  },
+  {
+    "i": 3192,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 26,
+    "t": "Každé lôžko, na ktorom bude ležať po celý čas svojho krvotoku, bude ako lôžko počas jej mesačných dní. Každé sedadlo, na ktorom bude sedieť, bude nečisté ako počas jej mesačných dní."
+  },
+  {
+    "i": 3193,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 27,
+    "t": "Kto sa ich dotkne, bude nečistý, operie si odev, umyje sa vo vode a bude nečistý až do večera."
+  },
+  {
+    "i": 3194,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 28,
+    "t": "Keď sa očistí od svojho krvotoku, odpočíta si sedem dní a potom bude čistá."
+  },
+  {
+    "i": 3195,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 29,
+    "t": "Ôsmy deň vezme dve hrdličky alebo dva holúbky a prinesie ich kňazovi ku vchodu do Stanu zjavenia."
+  },
+  {
+    "i": 3196,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 30,
+    "t": "Kňaz z jedného obetuje obetu za hriech a z druhého celostnú žertvu. Takto kňaz vykoná nad ňou pred Hospodinom obrad zmierenia za jej krvotok, ktorý ju robil nečistou."
+  },
+  {
+    "i": 3197,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 31,
+    "t": "Varujte Izraelitov pred ich nečistotami, aby neumierali kvôli nim znesväcovaním Môjho príbytku, ktorý je uprostred nich."
+  },
+  {
+    "i": 3198,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 32,
+    "t": "Toto je zákon o mužovi, ktorý má výtok, o tom, kto je nečistý výronom semena,"
+  },
+  {
+    "i": 3199,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 33,
+    "t": "o žene počas nečistoty jej mesačných dní, o mužovi alebo žene, ktorí majú výtok, o mužovi, ktorý obcuje s nečistou ženou."
+  }
+]

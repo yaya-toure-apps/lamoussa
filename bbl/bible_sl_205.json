@@ -1,0 +1,802 @@
+[
+  {
+    "i": 20500,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 15,
+    "t": "\"Pojdi proč! Nečisti!\" so vpili nanje, \"Pojdi proč! Pojdi proč! Ne dotikaj se!\" Ko so odšli in se potikali med narodi, niso smeli tam ostati."
+  },
+  {
+    "i": 20501,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 16,
+    "t": "Jahvejeva obličja jih je razkropila, ne ozira se več nanje. Ne spoštujejo več duhovnikov, ne priznavajo starcev."
+  },
+  {
+    "i": 20502,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 17,
+    "t": "Naše oči so venomer koprnele, prežale na pomoč, a zaman! Z naših stolpov smo oprezali za narodom, ki ne more rešiti."
+  },
+  {
+    "i": 20503,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 18,
+    "t": "Opazovali so naše korake, da bi nam preprečili naše kraje. Naš konec je bil blizu, naši dnevi dopolnjeni, da, naš konec je prišel!"
+  },
+  {
+    "i": 20504,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 19,
+    "t": "Naši zasledovalci so bili hitrejši od orlov na nebu; v gorah so nas preganjali, v puščavi so nam nastavljali zasede."
+  },
+  {
+    "i": 20505,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 20,
+    "t": "Sap naših nosnic, Jahvejev maziljenec, je bil ujet v njihove jame, o njem smo rekli: \"V njegovi senci bomo živeli med narodi."
+  },
+  {
+    "i": 20506,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 21,
+    "t": "Veseli se, raduj se, hči Edoma, ki prebivaš v deželi Uzu! Tudi tebe bo doletela čaša, napila se boš in razkrila svojo nagoto!"
+  },
+  {
+    "i": 20507,
+    "b": 24,
+    "c": 2604,
+    "r": 2604,
+    "o": 22,
+    "t": "Tvoja krivda je poplačana, hči Siona. Ne bo te več izgnal! Kaznoval bo tvojo krivdo, hči Edoma. Razkril bo tvoje grehe!"
+  },
+  {
+    "i": 20508,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 1,
+    "t": "Spomni se, Jahve, kaj se nam je zgodilo, poglej in vidi našo sramoto!"
+  },
+  {
+    "i": 20509,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 2,
+    "t": "Naša dediščina je prešla v roke tujcev, naše hiše v roke neznancev."
+  },
+  {
+    "i": 20510,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 3,
+    "t": "Smo sirote, brez očeta; naše matere so kakor vdove."
+  },
+  {
+    "i": 20511,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 4,
+    "t": "Za denar pijemo svojo vodo, naš les, ga moramo plačati."
+  },
+  {
+    "i": 20512,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 5,
+    "t": "Jarem je na našem vratu, preganjani smo; izčrpani smo in za nas ni počitka."
+  },
+  {
+    "i": 20513,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 6,
+    "t": "Iztegnemo roko k Egiptu, k Asiriji, da bi se nasitili s kruhom."
+  },
+  {
+    "i": 20514,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 7,
+    "t": "Naši očetje so grešili, jih ni več; in mi nosimo njihove krivde."
+  },
+  {
+    "i": 20515,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 8,
+    "t": "Sužnji gospodujejo nad nami, nihče nas ne reši iz njihove roke."
+  },
+  {
+    "i": 20516,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 9,
+    "t": "Z nevarnostjo za življenje prinašamo svoj kruh, soočeni z mečem puščave."
+  },
+  {
+    "i": 20517,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 10,
+    "t": "Naša koža je kakor peč vroča zaradi plamena lakote."
+  },
+  {
+    "i": 20518,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 11,
+    "t": "Posilili so žene na Sionu, device v judovskih mestih."
+  },
+  {
+    "i": 20519,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 12,
+    "t": "Knezi so bili obešeni po njihovi roki; obličje starcev ni bilo spoštovano."
+  },
+  {
+    "i": 20520,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 13,
+    "t": "Mladeniči so nosili mlinski kamen, dečki so se spotikali pod lesom."
+  },
+  {
+    "i": 20521,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 14,
+    "t": "Starci so zapustili vrata; mladeniči so prenehali s svojo glasbo."
+  },
+  {
+    "i": 20522,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 15,
+    "t": "Radost je izginila iz našega srca, naše plesanje se je spremenilo v žalovanje."
+  },
+  {
+    "i": 20523,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 16,
+    "t": "Kronja naše glave je padla. Gorje nam, ker smo grešili!"
+  },
+  {
+    "i": 20524,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 17,
+    "t": "Zato je naše srce bolno, zato se nam zatemnijo oči:"
+  },
+  {
+    "i": 20525,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 18,
+    "t": "Zato, ker je gora Sion opustošena, šakali tam tavajo!"
+  },
+  {
+    "i": 20526,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 19,
+    "t": "Toda ti, Jahve, ostaneš na veke; tvoj prestol obstane iz roda v rod!"
+  },
+  {
+    "i": 20527,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 20,
+    "t": "Zakaj bi nas pozabil za vedno, nas zapustil do konca dni?"
+  },
+  {
+    "i": 20528,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 21,
+    "t": "Vrni nas k sebi, Jahve, in vrnili se bomo. Obnovi naše dni kot nekoč,"
+  },
+  {
+    "i": 20529,
+    "b": 24,
+    "c": 2605,
+    "r": 2605,
+    "o": 22,
+    "t": "Če nas nisi docela zavrgel, se neznansko razjezil nad nami."
+  },
+  {
+    "i": 20530,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 1,
+    "t": "Tridesetega leta, v četrtem mesecu, petega v mesecu, ko sem bil med izgnanci ob reki Kebar, se je odprlo nebo in bil sem priča božjim videnjem."
+  },
+  {
+    "i": 20531,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 2,
+    "t": "Petega v mesecu - bilo je peto leto izgnanstva kralja Jojakina -"
+  },
+  {
+    "i": 20532,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 3,
+    "t": "Jahvejeva beseda je bila namenjena duhovniku Ezekielu, Buzijevemu sinu, v deželi Kaldejcev, ob reki Kebar. Tam je bila Jahvejeva roka nad njim."
+  },
+  {
+    "i": 20533,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 4,
+    "t": "Pogledal sem: bil je vihar, ki je pihal s severa, velik oblak, ogenj, ki je švigal, z žarom okoli in na sredini kakor sijaj karbunkla sredi ognja."
+  },
+  {
+    "i": 20534,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 5,
+    "t": "V sredini sem razločil nekaj, kar je bilo podobno štirim živalim, katerih videz je bil naslednji: imele so človeško obliko."
+  },
+  {
+    "i": 20535,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 6,
+    "t": "Vsaka je imela štiri obličja in vsaka štiri krila."
+  },
+  {
+    "i": 20536,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 7,
+    "t": "Njihove noge so bile ravne in njihovi podplati kakor podplati goveda, bleščeči kakor sijaj polirane kovine."
+  },
+  {
+    "i": 20537,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 8,
+    "t": "Pod njihovimi krili so bile človeške roke, obrnjene proti štirim smerem, prav tako njihova obličja in njihova krila vseh štirih."
+  },
+  {
+    "i": 20538,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 9,
+    "t": "Njihova krila so bila sklenjena druga z drugim; niso se obračali, ko so hodili: vsak je šel naravnost predse."
+  },
+  {
+    "i": 20539,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 10,
+    "t": "Kar se tiče oblike njihovih obličij, so imeli obličje človeka in vsi štirje so imeli obličje leva na desni in vsi štirje so imeli obličje bika na levi in vsi štirje so imeli obličje orla."
+  },
+  {
+    "i": 20540,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 11,
+    "t": "Njihova krila so bila iztegnjena navzgor; vsak je imel dve krili, ki sta se dotikali in dve krili, ki sta pokrivali telo;"
+  },
+  {
+    "i": 20541,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 12,
+    "t": "In vsak je šel naravnost predse; šli so tja, kamor jih je gnal duh, niso se obračali, ko so hodili."
+  },
+  {
+    "i": 20542,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 13,
+    "t": "Sredi živali je bilo nekaj kakor goreče oglje, ki je bilo videti kot bakle, ki so hodile sem in tja med živalmi; ogenj je oddajal žar in iz ognja so švigale strele."
+  },
+  {
+    "i": 20543,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 14,
+    "t": "Živali so hodile sem in tja, podobne streli."
+  },
+  {
+    "i": 20544,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 15,
+    "t": "Pogledal sem živali; in glej, bilo je kolo na tleh, poleg živali s štirimi obličji."
+  },
+  {
+    "i": 20545,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 16,
+    "t": "Videz teh koles in njihova zgradba sta imela sijaj krizolita. Vsa štiri so imela enako obliko; kar se tiče njihovega videza in zgradbe: bilo je, kakor da je kolo sredi drugega."
+  },
+  {
+    "i": 20546,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 17,
+    "t": "Napredovala so v štirih smereh in se niso obračala, ko so hodila."
+  },
+  {
+    "i": 20547,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 18,
+    "t": "Njihov obseg je bil velik in strašen in njihov obseg je bil pri vseh štirih poln odsevov povsod naokrog."
+  },
+  {
+    "i": 20548,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 19,
+    "t": "Ko so živali napredovale, so kolesa napredovala poleg njih in ko so se živali dvignile od zemlje, so se dvignila tudi kolesa."
+  },
+  {
+    "i": 20549,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 20,
+    "t": "Tja, kamor jih je gnal duh, so šla kolesa in tudi dvigala so se, kajti duh živali je bil v kolesih."
+  },
+  {
+    "i": 20550,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 21,
+    "t": "Ko so napredovale, so napredovala tudi ona, ko so se ustavila, so se ustavila tudi ona in ko so se dvignila od zemlje, so se dvignila tudi kolesa, kajti duh živali je bil v kolesih."
+  },
+  {
+    "i": 20551,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 22,
+    "t": "Nad glavami živali je bilo nekaj, kar je bilo podobno oboku, bleščečemu kakor kristal, razpetemu nad njihovimi glavami, zgoraj,"
+  },
+  {
+    "i": 20552,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 23,
+    "t": "In pod obokom so bila njihova krila dvignjena eno proti drugemu; vsak je imel dve, ki sta pokrivali telo."
+  },
+  {
+    "i": 20553,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 24,
+    "t": "In slišal sem zvok njihovih kril, kakor zvok obilnih voda, kakor glas Vsemogočnega; ko so hodile, je bil to zvok viharja, kakor zvok tabora; ko so se ustavile, so zložile svoja krila."
+  },
+  {
+    "i": 20554,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 25,
+    "t": "In zgodil se je zvok."
+  },
+  {
+    "i": 20555,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 26,
+    "t": "Nad obokom, ki je bil nad njihovimi glavami, je bilo nekaj, kar je bilo videti kot safir v obliki prestola in na tej obliki prestola, zgoraj, na samem vrhu, bitje, ki je imelo človeški videz."
+  },
+  {
+    "i": 20556,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 27,
+    "t": "In videl sem kakor sijaj karbunkla, nekaj kakor ogenj blizu njega, povsod naokrog, od tega, kar je bilo videti kot njegova ledja in navzgor; in od tega, kar je bilo videti kot njegova ledja in navzdol, sem videl nekaj kakor ogenj in žar povsod naokrog;"
+  },
+  {
+    "i": 20557,
+    "b": 25,
+    "c": 2701,
+    "r": 2701,
+    "o": 28,
+    "t": "Videz tega žara, povsod naokrog, je bil kakor videz mavrice, ki se pojavi v oblakih v deževnih dneh. Bilo je nekaj, kar je bilo podobno Jahvejevi slavi. Pogledal sem in padel z obrazom na tla; in slišal sem glas nekoga, ki mi je govoril."
+  },
+  {
+    "i": 20558,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 1,
+    "t": "Rekel mi je: \"Sin človekov, postavi se, govoril ti bom."
+  },
+  {
+    "i": 20559,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 2,
+    "t": "Duh je vstopil vame, kot mi je bilo rečeno, me postavil na noge in slišal sem tistega, ki mi je govoril."
+  },
+  {
+    "i": 20560,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 3,
+    "t": "Rekel mi je: \"Sin človekov, pošiljam te k Izraelcem, k upornikom, ki so se uprli proti meni. Oni in njihovi očetje so se upirali proti meni do tega dne."
+  },
+  {
+    "i": 20561,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 4,
+    "t": "Sinovi so trde glave in trmastega srca, pošiljam te k njim, da jim rečeš: Tako govori Gospod Jahve."
+  },
+  {
+    "i": 20562,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 5,
+    "t": "Naj poslušajo ali ne poslušajo, so rod upornikov, vedeli bodo, da je med njimi prerok."
+  },
+  {
+    "i": 20563,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 6,
+    "t": "Ti pa, sin človekov, ne boj se jih, ne boj se njihovih besed, če ti nasprotujejo in te prezirajo in če sediš na škorpijonih. Ne boj se njihovih besed, ne boj se njihovih pogledov, kajti to je rod upornikov."
+  },
+  {
+    "i": 20564,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 7,
+    "t": "Nosi jim moje besede, naj poslušajo ali ne poslušajo, kajti to je rod upornikov."
+  },
+  {
+    "i": 20565,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 8,
+    "t": "Ti pa, sin človekov, poslušaj, kar ti bom rekel, ne bodi uporen kakor ta rod upornikov. Odpri usta in jej, kar ti bom dal."
+  },
+  {
+    "i": 20566,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 9,
+    "t": "Pogledal sem in glej, proti meni je bila iztegnjena roka, ki je držala zvit volumen."
+  },
+  {
+    "i": 20567,
+    "b": 25,
+    "c": 2702,
+    "r": 2702,
+    "o": 10,
+    "t": "Razgrnil ga je predme: bil je zapisan na sprednji in zadnji strani; pisalo je: \"Žalostinke, stokanje in pritožbe."
+  },
+  {
+    "i": 20568,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 1,
+    "t": "Rekel mi je: \"Sin človekov, kar ti je predstavljeno, jej; jej ta volumen in pojdi govorit Izraelovi hiši."
+  },
+  {
+    "i": 20569,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 2,
+    "t": "Odprl sem usta in mi je dal jesti ta volumen,"
+  },
+  {
+    "i": 20570,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 3,
+    "t": "Potem mi je rekel: \"Sin človekov, nahrani se in se nasiči s tem volumenom, ki ti ga dajem.\" Pojedel sem ga in v mojih ustih je bil sladek kakor med."
+  },
+  {
+    "i": 20571,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 4,
+    "t": "Tedaj mi je rekel: \"Sin človekov, pojdi k Izraelovi hiši in jim nosi moje besede."
+  },
+  {
+    "i": 20572,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 5,
+    "t": "Ne pošiljam te k ljudstvu nejasnega govora in težkega jezika, temveč k Izraelovi hiši."
+  },
+  {
+    "i": 20573,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 6,
+    "t": "Ne pošiljam te k številnim ljudstvom nejasnega govora in težkega jezika, katerih besed ne bi slišal - če bi te poslal k njim, bi te poslušali -"
+  },
+  {
+    "i": 20574,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 7,
+    "t": "Toda Izraelova hiša te noče poslušati, ker noče poslušati mene. Vsa Izraelova hiša ni nič drugega kot trdi obrazi in trmaste srca."
+  },
+  {
+    "i": 20575,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 8,
+    "t": "Glej, delam tvoj obraz enako trd kot njihov obraz in tvoje čelo enako trdo kot njihovo čelo;"
+  },
+  {
+    "i": 20576,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 9,
+    "t": "Delam tvoje čelo trdo kakor diamant, ki je trši od skale. Ne boj se jih, bodi brez strahu pred njimi, kajti to je rod upornikov."
+  },
+  {
+    "i": 20577,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 10,
+    "t": "Potem mi je rekel: \"Sin človekov, vse besede, ki ti jih bom rekel, sprejmi v svoje srce, poslušaj z vsemi svojimi ušesi,"
+  },
+  {
+    "i": 20578,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 11,
+    "t": "In pojdi k izgnancem, k sinovom svojega ljudstva, da jim govoriš. Reci jim: Tako govori Gospod Jahve, naj poslušajo ali ne poslušajo."
+  },
+  {
+    "i": 20579,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 12,
+    "t": "Duh me je dvignil in slišal sem za seboj zvok velikega tresenja: \"Blagoslovljena bodi Jahvejeva slava na mestu njegovega bivališča!"
+  },
+  {
+    "i": 20580,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 13,
+    "t": "In bil je šum njihovih peruti, kakor šum mnogih vodá, kakor glas Vsemogočnega, ko grmí; šum trume je bil, kakor šum vojske. Ko pa so se ustavili, so spustili peruti svoje."
+  },
+  {
+    "i": 20581,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 14,
+    "t": "In duh me je dvignil in me odnesel, in šel sem v zagrenjenosti, v srdu duha svojega; roka Gospodova pa je bila močno nad menoj."
+  },
+  {
+    "i": 20582,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 15,
+    "t": "Pridejm tedaj k pregnancem v Tel-Abib, ki prebivajo ob reki Kebar, in sedel sem tam, kjer so oni sedeli, in sedem dni sem sedel med njimi zgrožen."
+  },
+  {
+    "i": 20583,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 16,
+    "t": "In zgodi se, po sedmih dneh pride mi beseda Gospodova, rekoč:"
+  },
+  {
+    "i": 20584,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 17,
+    "t": "Sin človečji, postavil sem te za stražarja hiši Izraelovi; poslušaj torej besedo iz mojih ust in jih opominjaj od mene."
+  },
+  {
+    "i": 20585,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 18,
+    "t": "Ko rečem brezbožniku: Gotovo boš umrl, in ga ne opominješ in ne govoriš, da bi opominjal brezbožnika od njegovega hudobnega pota, da bi oživel, ta brezbožnik umre zaradi krivice svoje, a kri njegovo bom iskal iz tvoje roke."
+  },
+  {
+    "i": 20586,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 19,
+    "t": "Ali če opominješ brezbožnika, a se on ne odvrne od svoje hudobnosti in od svojega hudobnega pota, umre on zaradi krivice svoje, ti pa si rešil dušo svojo."
+  },
+  {
+    "i": 20587,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 20,
+    "t": "Kadar se pravičnik odvrne od pravičnosti svoje in dela krivico, in nastavim mu spotikalo, umre; ker ga nisi opominjal, umre v grehu svojem, in spomnilo se ne bo pravičnosti njegove, ki jo je storil; a kri njegovo bom iskal iz tvoje roke."
+  },
+  {
+    "i": 20588,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 21,
+    "t": "Ako pa ti opominješ pravičnika, da pravičnik ne greši, in ne greši, bo gotovo živel, ker se je opominjal; in ti si rešil dušo svojo."
+  },
+  {
+    "i": 20589,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 22,
+    "t": "In roka Gospodova je bila tam nad menoj, in mi reče: Vstani, pojdi ven v dolino, in tam bom govoril s teboj."
+  },
+  {
+    "i": 20590,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 23,
+    "t": "Vstanem torej in pojdem ven v dolino; in glej, tam je stala slava Gospodova, kakor slava, ki sem jo videl ob reki Kebar, in padem na obličje svoje."
+  },
+  {
+    "i": 20591,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 24,
+    "t": "In duh pride v mene ter me postavi na noge moje, in mi govori in mi reče: Pojdi, zapri se v hišo svojo."
+  },
+  {
+    "i": 20592,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 25,
+    "t": "In ti, sin človečji, glej, nadevajo ti vrvi in te vežejo z njimi, da ne boš hodil ven mednje."
+  },
+  {
+    "i": 20593,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 26,
+    "t": "In prilepim ti jezik k nebu tvojemu, da omemiš in jim ne boš za grajalca, ker so hiša uporna."
+  },
+  {
+    "i": 20594,
+    "b": 25,
+    "c": 2703,
+    "r": 2703,
+    "o": 27,
+    "t": "Ali ko bom govoril s teboj, ti odprem usta, in jim reci: Tako govori Gospod Bog: Kdor posluša, naj posluša, in kdor se ne meni, naj se ne meni; zakaj hiša uporna so."
+  },
+  {
+    "i": 20595,
+    "b": 25,
+    "c": 2704,
+    "r": 2704,
+    "o": 1,
+    "t": "In ti, sin človečji, vzemi si opeko in jo postavi predse in izriši nanjo mesto, Jeruzalem."
+  },
+  {
+    "i": 20596,
+    "b": 25,
+    "c": 2704,
+    "r": 2704,
+    "o": 2,
+    "t": "In obkolji ga, in naredi proti njemu stolpe in nasuj proti njemu nasip in postavi proti njemu taborišča in namesti proti njemu ovne okrog."
+  },
+  {
+    "i": 20597,
+    "b": 25,
+    "c": 2704,
+    "r": 2704,
+    "o": 3,
+    "t": "In vzemi si ponev železno in jo postavi za železno steno med seboj in mesto, in upri vanj svoje obličje, in naj bo obkoljeno, in oblegaj ga! To bodi znamenje hiši Izraelovi."
+  },
+  {
+    "i": 20598,
+    "b": 25,
+    "c": 2704,
+    "r": 2704,
+    "o": 4,
+    "t": "In lezi na levo stran svojo in položi krivico hiše Izraelove nanjo; toliko dni, kolikor boš ležal nanjo, nosi njih krivico."
+  },
+  {
+    "i": 20599,
+    "b": 25,
+    "c": 2704,
+    "r": 2704,
+    "o": 5,
+    "t": "In jaz ti določim leta njih krivice število dni, tristo in devetdeset dni; tako dolgo nosi krivico hiše Izraelove."
+  }
+]

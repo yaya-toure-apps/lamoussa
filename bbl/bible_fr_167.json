@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16700,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 32,
+    "t": "\"Et maintenant, mes fils, écoutez-moi : heureux ceux qui gardent mes voies !"
+  },
+  {
+    "i": 16701,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 33,
+    "t": "Ecoutez l’instruction et devenez sages, ne la méprisez pas."
+  },
+  {
+    "i": 16702,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 34,
+    "t": "Heureux l’homme qui m’écoute, qui veille jour après jour à mes portes pour en garder les montants !"
+  },
+  {
+    "i": 16703,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 35,
+    "t": "Car qui me trouve trouve la vie, il obtient la faveur de Yahvé ;"
+  },
+  {
+    "i": 16704,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 36,
+    "t": "mais qui pèche contre moi blesse son âme, quiconque me hait chérit la mort.\""
+  },
+  {
+    "i": 16705,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 1,
+    "t": "La Sagesse a bâti sa maison, elle a taillé ses sept colonnes,"
+  },
+  {
+    "i": 16706,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 2,
+    "t": "elle a abattu ses bêtes, préparé son vin, elle a aussi dressé sa table."
+  },
+  {
+    "i": 16707,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 3,
+    "t": "Elle a dépêché ses servantes et proclamé sur les buttes, en haut de la cité :"
+  },
+  {
+    "i": 16708,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 4,
+    "t": "\"Qui est simple ? Qu’il passe par ici !\" À l’homme insensé elle dit :"
+  },
+  {
+    "i": 16709,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 5,
+    "t": "\"Venez, mangez de mon pain, buvez du vin que j’ai préparé !"
+  },
+  {
+    "i": 16710,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 6,
+    "t": "Quittez la niaiserie et vous vivrez, marchez droit dans la voie de l’intelligence.\""
+  },
+  {
+    "i": 16711,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 7,
+    "t": "Qui corrige un railleur s’attire le mépris, qui reprend un méchant, le déshonneur."
+  },
+  {
+    "i": 16712,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 8,
+    "t": "Ne reprends pas le railleur, il te haïrait, reprends le sage, il t’aimera."
+  },
+  {
+    "i": 16713,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 9,
+    "t": "Donne au sage : il deviendra plus sage encore ; instruis le juste, il accroîtra son acquis."
+  },
+  {
+    "i": 16714,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 10,
+    "t": "Principe de la sagesse : la crainte de Yahvé ! la science des saints, voilà l’intelligence."
+  },
+  {
+    "i": 16715,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 11,
+    "t": "Car par moi tes jours se multiplient et pour toi s’accroissent les années de vie."
+  },
+  {
+    "i": 16716,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 12,
+    "t": "Si tu es sage, tu l’es pour toi-même, si tu es railleur, toi seul en porteras la peine."
+  },
+  {
+    "i": 16717,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 13,
+    "t": "Dame Folie est impulsive, niaise et ne connaissant rien !"
+  },
+  {
+    "i": 16718,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 14,
+    "t": "Elle s’assied à la porte de sa maison, sur un trône, en haut de la cité,"
+  },
+  {
+    "i": 16719,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 15,
+    "t": "pour appeler les passants, ceux qui vont droit leur chemin."
+  },
+  {
+    "i": 16720,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 16,
+    "t": "\"Qui est simple ? Qu’il fasse un détour par ici !\" À l’homme insensé elle dit :"
+  },
+  {
+    "i": 16721,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 17,
+    "t": "\"Les eaux dérobées sont douces, et savoureux le pain du mystère !\""
+  },
+  {
+    "i": 16722,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 18,
+    "t": "Or il ignore qu’il y a là des Ombres et que ses invités sont aux vallées du shéol."
+  },
+  {
+    "i": 16723,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 1,
+    "t": "Proverbes de Salomon. Le fils sage réjouit son père, le fils sot chagrine sa mère."
+  },
+  {
+    "i": 16724,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 2,
+    "t": "Trésors mal acquis ne profitent pas, mais la justice délivre de la mort."
+  },
+  {
+    "i": 16725,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 3,
+    "t": "Yahvé ne laisse pas le juste affamé, mais il réprime la convoitise des méchants."
+  },
+  {
+    "i": 16726,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 4,
+    "t": "Main nonchalante appauvrit, la main des diligents enrichit."
+  },
+  {
+    "i": 16727,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 5,
+    "t": "Amasser en été est d’un homme avisé, dormir à la moisson est d’un homme indigne."
+  },
+  {
+    "i": 16728,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 6,
+    "t": "Bénédictions sur la tête du juste, mais la bouche des impies recouvre la violence."
+  },
+  {
+    "i": 16729,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 7,
+    "t": "La mémoire du juste est en bénédiction, le nom des méchants tombe en pourriture."
+  },
+  {
+    "i": 16730,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 8,
+    "t": "L’homme au cœur sage accepte les ordres, l’homme aux lèvres folles court à sa perte."
+  },
+  {
+    "i": 16731,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 9,
+    "t": "Qui va honnêtement va en sécurité, qui suit une voie tortueuse est démasqué."
+  },
+  {
+    "i": 16732,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 10,
+    "t": "Qui cligne de l’œil donne du tourment, qui réprimande en face procure l’apaisement."
+  },
+  {
+    "i": 16733,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 11,
+    "t": "Source de vie : la bouche du juste, mais la bouche des impies recouvre la violence."
+  },
+  {
+    "i": 16734,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 12,
+    "t": "La haine allume des querelles, l’amour couvre toutes les offenses."
+  },
+  {
+    "i": 16735,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 13,
+    "t": "Sur les lèvres de l’homme intelligent se trouve la sagesse, sur le dos de l’insensé, le bâton."
+  },
+  {
+    "i": 16736,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 14,
+    "t": "Les sages thésaurisent le savoir, mais la bouche du fou est un danger menaçant."
+  },
+  {
+    "i": 16737,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 15,
+    "t": "La fortune du riche, voilà sa place forte ; le mal des faibles, c’est leur indigence."
+  },
+  {
+    "i": 16738,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 16,
+    "t": "Le salaire du juste procure la vie, le revenu du méchant, le péché."
+  },
+  {
+    "i": 16739,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 17,
+    "t": "Il marche vers la vie, celui qui garde la discipline ; qui délaisse la réprimande se fourvoie."
+  },
+  {
+    "i": 16740,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 18,
+    "t": "Les lèvres du menteur couvrent la haine ; qui profère une calomnie est un sot."
+  },
+  {
+    "i": 16741,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 19,
+    "t": "Abondance de paroles ne va pas sans offense ; qui retient ses lèvres est avisé."
+  },
+  {
+    "i": 16742,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 20,
+    "t": "La langue du juste est pur argent, le cœur des méchants est de peu de prix."
+  },
+  {
+    "i": 16743,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 21,
+    "t": "Les lèvres du juste repaissent une multitude, mais les fous meurent faute de sens."
+  },
+  {
+    "i": 16744,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 22,
+    "t": "C’est la bénédiction de Yahvé qui enrichit, sans que l’effort y ajoute rien."
+  },
+  {
+    "i": 16745,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 23,
+    "t": "C’est un jeu pour le sot de s’adonner au crime, et pour l’homme intelligent de cultiver la sagesse."
+  },
+  {
+    "i": 16746,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 24,
+    "t": "Ce que redoute le méchant lui échoit, ce que souhaite le juste lui est donné."
+  },
+  {
+    "i": 16747,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 25,
+    "t": "Quand la tourmente a passé, plus de méchant ! mais à jamais, le juste est établi."
+  },
+  {
+    "i": 16748,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 26,
+    "t": "Vinaigre aux dents, fumée aux yeux, tel est le paresseux pour qui l’envoie."
+  },
+  {
+    "i": 16749,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 27,
+    "t": "La crainte de Yahvé prolonge les jours, les années du méchant seront abrégées."
+  },
+  {
+    "i": 16750,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 28,
+    "t": "L’espoir des justes est joie, l’espérance des méchants périra."
+  },
+  {
+    "i": 16751,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 29,
+    "t": "La voie de Yahvé est un rempart pour l’homme honnête, pour les malfaisants, une ruine."
+  },
+  {
+    "i": 16752,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 30,
+    "t": "Jamais le juste ne sera ébranlé, mais les méchants n’habiteront pas le pays."
+  },
+  {
+    "i": 16753,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 31,
+    "t": "La bouche du juste exprime la sagesse, la langue perverse sera coupée."
+  },
+  {
+    "i": 16754,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 32,
+    "t": "Les lèvres du juste connaissent la bienveillance, la bouche des méchants la perversité."
+  },
+  {
+    "i": 16755,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 1,
+    "t": "La balance fausse est une abomination pour Yahvé, mais le poids juste a sa faveur."
+  },
+  {
+    "i": 16756,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 2,
+    "t": "Vienne l’insolence, viendra le mépris, mais chez les humbles se trouve la sagesse."
+  },
+  {
+    "i": 16757,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 3,
+    "t": "Leur honnêteté conduit les hommes droits, leur perversité mène les traîtres à la ruine."
+  },
+  {
+    "i": 16758,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 4,
+    "t": "Au jour de la fureur, la richesse sera inutile, mais la justice délivre de la mort."
+  },
+  {
+    "i": 16759,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 5,
+    "t": "La justice de l’homme honnête rend droit son chemin, le méchant succombe dans sa méchanceté."
+  },
+  {
+    "i": 16760,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 6,
+    "t": "Leur justice sauve les hommes droits, dans leur convoitise les traîtres sont pris."
+  },
+  {
+    "i": 16761,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 7,
+    "t": "L’espérance du méchant périt à sa mort, l’espoir mis dans les richesses est anéanti."
+  },
+  {
+    "i": 16762,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 8,
+    "t": "Le juste échappe à l’angoisse, le méchant y vient à sa place."
+  },
+  {
+    "i": 16763,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 9,
+    "t": "Par sa bouche l’impie ruine son prochain, par le savoir les justes se tirent d’affaire."
+  },
+  {
+    "i": 16764,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 10,
+    "t": "Au bonheur des justes, la cité exulte, à la perte des méchants, c’est un cri de joie."
+  },
+  {
+    "i": 16765,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 11,
+    "t": "Par la bénédiction des hommes droits s’élève une ville, par la bouche des méchants, elle est démolie."
+  },
+  {
+    "i": 16766,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 12,
+    "t": "Qui méprise son prochain est privé de sens ; l’homme intelligent se tait."
+  },
+  {
+    "i": 16767,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 13,
+    "t": "C’est un colporteur de médisance, celui qui révèle les secrets, c’est un esprit sûr, celui qui cache l’affaire."
+  },
+  {
+    "i": 16768,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 14,
+    "t": "Faute de direction un peuple succombe, le succès tient au grand nombre de conseillers."
+  },
+  {
+    "i": 16769,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 15,
+    "t": "Celui qui cautionne l’étranger se fait du tort, qui répugne à toper est en sécurité."
+  },
+  {
+    "i": 16770,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 16,
+    "t": "Une femme gracieuse acquiert de l’honneur, les violents acquièrent la richesse."
+  },
+  {
+    "i": 16771,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 17,
+    "t": "L’homme miséricordieux fait du bien à soi-même, mais un homme intraitable afflige sa propre chair."
+  },
+  {
+    "i": 16772,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 18,
+    "t": "Le méchant accomplit un travail décevant, à qui sème la justice, la récompense est assurée."
+  },
+  {
+    "i": 16773,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 19,
+    "t": "Qui établit la justice va à la vie, qui poursuit le mal, à la mort."
+  },
+  {
+    "i": 16774,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 20,
+    "t": "Abomination pour Yahvé : les cœurs tortueux ; il aime ceux dont la conduite est honnête."
+  },
+  {
+    "i": 16775,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 21,
+    "t": "À coup sûr, le méchant ne restera pas impuni, mais la race des justes sera sauve."
+  },
+  {
+    "i": 16776,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 22,
+    "t": "Un anneau d’or au groin d’un pourceau : une femme belle mais dépourvue de sens."
+  },
+  {
+    "i": 16777,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 23,
+    "t": "Le souhait des justes, ce n’est que le bien, l’espoir des méchants, c’est la colère."
+  },
+  {
+    "i": 16778,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 24,
+    "t": "Tel est prodigue et sa richesse s’accroît, tel amasse sans mesure et ne fait que s’appauvrir."
+  },
+  {
+    "i": 16779,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 25,
+    "t": "L’âme qui bénit prospérera, et qui abreuve sera abreuvé."
+  },
+  {
+    "i": 16780,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 26,
+    "t": "Le peuple maudit l’accapareur de blé, bénédiction sur la tête de celui qui le vend."
+  },
+  {
+    "i": 16781,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 27,
+    "t": "Qui vise le bien obtient la faveur, qui poursuit le mal, celui-ci l’atteindra."
+  },
+  {
+    "i": 16782,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 28,
+    "t": "Qui se fie en la richesse tombera, mais les justes pousseront comme le feuillage."
+  },
+  {
+    "i": 16783,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 29,
+    "t": "Qui laisse sa maison en désordre hérite le vent, et le fou devient esclave du sage."
+  },
+  {
+    "i": 16784,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 30,
+    "t": "Le fruit du juste est un arbre de vie ; le sage captive les âmes."
+  },
+  {
+    "i": 16785,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 31,
+    "t": "Si le juste ici-bas reçoit son salaire, combien plus le méchant et le pécheur."
+  },
+  {
+    "i": 16786,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 1,
+    "t": "Qui aime la discipline aime le savoir, qui hait la réprimande est stupide."
+  },
+  {
+    "i": 16787,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 2,
+    "t": "L’homme de bien attire la faveur de Yahvé, mais l’homme malintentionné, celui-ci le condamne."
+  },
+  {
+    "i": 16788,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 3,
+    "t": "On ne s’affermit pas par la méchanceté, mais rien n’ébranle la racine des justes."
+  },
+  {
+    "i": 16789,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 4,
+    "t": "Une maîtresse femme est la couronne de son mari, mais une femme indigne est comme une carie dans ses os."
+  },
+  {
+    "i": 16790,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 5,
+    "t": "Les desseins du juste sont équité, les machinations du méchant, tromperie."
+  },
+  {
+    "i": 16791,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 6,
+    "t": "Les paroles des méchants sont des pièges de sang, mais la bouche des hommes droits les délivre."
+  },
+  {
+    "i": 16792,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 7,
+    "t": "Jetés bas, les méchants ne sont plus, la maison des justes subsiste."
+  },
+  {
+    "i": 16793,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 8,
+    "t": "On fait l’éloge d’un homme selon son bon sens, le cœur tortueux est en butte aux affronts."
+  },
+  {
+    "i": 16794,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 9,
+    "t": "Mieux vaut un homme du commun qui a un serviteur qu’un homme qui se glorifie et manque de pain."
+  },
+  {
+    "i": 16795,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 10,
+    "t": "Le juste connaît les besoins de ses bêtes, mais les entrailles du méchant sont cruelles."
+  },
+  {
+    "i": 16796,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 11,
+    "t": "Qui cultive sa terre sera rassasié de pain, qui poursuit des chimères est dépourvu de sens."
+  },
+  {
+    "i": 16797,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 12,
+    "t": "L’impie se plaît au filet des méchants, mais la racine des justes rapporte."
+  },
+  {
+    "i": 16798,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 13,
+    "t": "Dans le forfait des lèvres, il y a un piège funeste, mais le juste se tire de la détresse."
+  },
+  {
+    "i": 16799,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 14,
+    "t": "Par le fruit de sa bouche l’homme se rassasie de ce qui est bon, on reçoit la récompense de ses œuvres."
+  }
+]

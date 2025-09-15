@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17600,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 11,
+    "t": "Die Worte der Weisen sind wie Stacheln und wie eingeschlagene Nägel, von Hirten gegeben; sie sind von einem einzigen Hirten gegeben."
+  },
+  {
+    "i": 17601,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 12,
+    "t": "Überdies, mein Sohn, lass dich warnen! Denn des Büchermachens ist kein Ende, und viel Studieren ermüdet den Leib."
+  },
+  {
+    "i": 17602,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 13,
+    "t": "Lasst uns die Summe aller Lehre hören: Fürchte Gott und halte seine Gebote; denn das gilt für alle Menschen."
+  },
+  {
+    "i": 17603,
+    "b": 20,
+    "c": 2212,
+    "r": 2212,
+    "o": 14,
+    "t": "Denn Gott wird jedes Werk vor Gericht bringen, samt allem Verborgenen, es sei gut oder böse."
+  },
+  {
+    "i": 17604,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 1,
+    "t": "Das Hohelied Salomos."
+  },
+  {
+    "i": 17605,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 2,
+    "t": "Er küsse mich mit dem Kusse seines Mundes! Denn deine Liebe ist besser als Wein."
+  },
+  {
+    "i": 17606,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 3,
+    "t": "Lieblich ist der Duft deiner Salben, dein Name ist ein ausgegossenes Öl; darum lieben dich die Jungfrauen."
+  },
+  {
+    "i": 17607,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 4,
+    "t": "Zieh mich, so wollen wir dir nachlaufen! Der König hat mich in seine Gemächer geführt. Wir wollen uns freuen und fröhlich sein in dir, deine Liebe preisen mehr als Wein! Mit Recht lieben sie dich!"
+  },
+  {
+    "i": 17608,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 5,
+    "t": "Ich bin schwarz, aber lieblich, ihr Töchter Jerusalems, wie die Zelte Kedars, wie die Zeltdecken Salomos."
+  },
+  {
+    "i": 17609,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 6,
+    "t": "Seht mich nicht an, weil ich so dunkel bin, denn die Sonne hat mich verbrannt! Meiner Mutter Söhne zürnten mir; sie bestellten mich zur Hüterin der Weinberge; meinen eigenen Weinberg habe ich nicht behütet."
+  },
+  {
+    "i": 17610,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 7,
+    "t": "Sage mir, du, den meine Seele liebt: Wo weidest du, wo lässt du ruhen am Mittag? Denn warum soll ich wie eine Verschleierte umherirren bei den Herden deiner Gefährten?"
+  },
+  {
+    "i": 17611,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 8,
+    "t": "Wenn du es nicht weißt, du Schönste unter den Frauen, so geh hinaus, den Spuren der Herde nach, und weide deine Zicklein bei den Hirtenzelten!"
+  },
+  {
+    "i": 17612,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 9,
+    "t": "Ich vergleiche dich, meine Freundin, mit der Stute an den Wagen Pharaos."
+  },
+  {
+    "i": 17613,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 10,
+    "t": "Lieblich sind deine Wangen mit den Kettchen, dein Hals mit den Perlen."
+  },
+  {
+    "i": 17614,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 11,
+    "t": "Ihr Töchter Jerusalems!"
+  },
+  {
+    "i": 17615,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 12,
+    "t": "Wir wollen dir goldene Kettchen machen mit silbernen Zieraten."
+  },
+  {
+    "i": 17616,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 13,
+    "t": "Solange der König auf seinem Lager liegt, duftet meine Narde."
+  },
+  {
+    "i": 17617,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 14,
+    "t": "Mein Geliebter ist mir ein Myrrhenbeutel, der zwischen meinen Brüsten ruht."
+  },
+  {
+    "i": 17618,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 15,
+    "t": "Mein Geliebter ist mir eine Zypertraube in den Weinbergen von En-Gedi."
+  },
+  {
+    "i": 17619,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 16,
+    "t": "Wie bist du schön, meine Freundin! Wie bist du schön! Deine Augen sind wie Tauben."
+  },
+  {
+    "i": 17620,
+    "b": 21,
+    "c": 2301,
+    "r": 2301,
+    "o": 17,
+    "t": "Wie bist du schön, mein Geliebter, ja, holdselig! Auch unser Lager ist grün."
+  },
+  {
+    "i": 17621,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 1,
+    "t": "Die Balken unseres Hauses sind Zedern, unsere Decken Zypressen."
+  },
+  {
+    "i": 17622,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 2,
+    "t": "Ich bin eine Narzisse in Scharon, eine Lilie in den Tälern."
+  },
+  {
+    "i": 17623,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 3,
+    "t": "Wie eine Lilie unter den Dornen, so ist meine Freundin unter den Jungfrauen."
+  },
+  {
+    "i": 17624,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 4,
+    "t": "Wie ein Apfelbaum unter den Waldbäumen, so ist mein Geliebter unter den Jünglingen. Ich begehre seinen Schatten und sitze darunter, und seine Frucht ist meinem Gaumen süß."
+  },
+  {
+    "i": 17625,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 5,
+    "t": "Er führt mich in den Weinkeller, und seine Liebe ist das Banner über mir."
+  },
+  {
+    "i": 17626,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 6,
+    "t": "Stärkt mich mit Rosinenkuchen, erquickt mich mit Äpfeln! Denn ich bin krank vor Liebe."
+  },
+  {
+    "i": 17627,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 7,
+    "t": "Seine Linke liegt unter meinem Haupt, und seine Rechte umarmt mich."
+  },
+  {
+    "i": 17628,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 8,
+    "t": "Ich beschwöre euch, ihr Töchter Jerusalems, bei den Gazellen und bei den Hirschkühen des Feldes, dass ihr meine Liebe nicht aufweckt noch stört, bis es ihr selbst gefällt!"
+  },
+  {
+    "i": 17629,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 9,
+    "t": "Horch! Da ist mein Geliebter! Siehe, er kommt, springt über die Berge, hüpft über die Hügel."
+  },
+  {
+    "i": 17630,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 10,
+    "t": "Mein Geliebter gleicht einer Gazelle oder einem jungen Hirsch. Siehe, er steht hinter unserer Mauer, späht durchs Fenster, blickt durchs Gitter."
+  },
+  {
+    "i": 17631,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 11,
+    "t": "Mein Geliebter antwortet und spricht zu mir: Steh auf, meine Freundin, meine Schöne, und komm her!"
+  },
+  {
+    "i": 17632,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 12,
+    "t": "Denn siehe, der Winter ist vorüber, der Regen ist vorbei, er ist dahin."
+  },
+  {
+    "i": 17633,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 13,
+    "t": "Die Blumen erscheinen im Land, die Zeit des Singens ist gekommen, und die Stimme der Turteltaube lässt sich hören in unserem Land."
+  },
+  {
+    "i": 17634,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 14,
+    "t": "Der Feigenbaum lässt seine Frühfeigen reifen, und die blühenden Weinstöcke geben ihren Duft. Steh auf, meine Freundin, meine Schöne, und komm her!"
+  },
+  {
+    "i": 17635,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 15,
+    "t": "Meine Taube in den Felsklüften, im Versteck der Felswände, zeige mir dein Angesicht, lass mich deine Stimme hören! Denn deine Stimme ist süß, und dein Angesicht ist lieblich."
+  },
+  {
+    "i": 17636,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 16,
+    "t": "Fangt uns die Füchse, die kleinen Füchse, die die Weinberge verwüsten; denn unsere Weinberge stehen in Blüte!"
+  },
+  {
+    "i": 17637,
+    "b": 21,
+    "c": 2302,
+    "r": 2302,
+    "o": 17,
+    "t": "Mein Geliebter ist mein, und ich bin sein, der sein Vieh unter den Lilien weidet."
+  },
+  {
+    "i": 17638,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 1,
+    "t": "Bis der Tag kühl wird und die Schatten fliehen, kehre um, mein Geliebter, und sei wie eine Gazelle oder ein junger Hirsch auf den Balsambergen!"
+  },
+  {
+    "i": 17639,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 2,
+    "t": "Des Nachts auf meinem Lager suchte ich den, den meine Seele liebt. Ich suchte ihn, aber ich fand ihn nicht."
+  },
+  {
+    "i": 17640,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 3,
+    "t": "Ich will aufstehen und in der Stadt umhergehen, auf den Gassen und auf den Plätzen will ich suchen, den meine Seele liebt. Ich suchte ihn, aber ich fand ihn nicht."
+  },
+  {
+    "i": 17641,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 4,
+    "t": "Es fanden mich die Wächter, die in der Stadt umhergehen. Habt ihr den gesehen, den meine Seele liebt?"
+  },
+  {
+    "i": 17642,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 5,
+    "t": "Kaum war ich an ihnen vorüber, da fand ich den, den meine Seele liebt. Ich ergriff ihn und ließ ihn nicht los, bis ich ihn in das Haus meiner Mutter gebracht hatte, in das Gemach derer, die mich geboren hat."
+  },
+  {
+    "i": 17643,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 6,
+    "t": "Ich beschwöre euch, ihr Töchter Jerusalems, bei den Gazellen und bei den Hirschkühen des Feldes, dass ihr meine Liebe nicht aufweckt noch stört, bis es ihr selbst gefällt!"
+  },
+  {
+    "i": 17644,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 7,
+    "t": "Wer ist die, die da heraufkommt aus der Wüste wie eine Rauchsäule, duftend nach Myrrhe und Weihrauch, nach allerlei Krämerpulver?"
+  },
+  {
+    "i": 17645,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 8,
+    "t": "Siehe, Salomos Sänfte! Sechzig Helden sind rings um sie her, von den Helden Israels."
+  },
+  {
+    "i": 17646,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 9,
+    "t": "Alle sind sie Schwertkämpfer, im Krieg geübt; jeder hat sein Schwert an der Seite, um nächtlichen Schrecken abzuwehren."
+  },
+  {
+    "i": 17647,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 10,
+    "t": "König Salomo ließ sich eine Sänfte machen aus Holz vom Libanon."
+  },
+  {
+    "i": 17648,
+    "b": 21,
+    "c": 2303,
+    "r": 2303,
+    "o": 11,
+    "t": "Ihre Säulen machte er aus Silber, ihre Decke aus Gold, ihren Sitz aus Purpur; ihr Inneres war mit Liebe ausgelegt von den Töchtern Jerusalems."
+  },
+  {
+    "i": 17649,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 1,
+    "t": "Geht hinaus, ihr Töchter Zions, und seht den König Salomo mit dem Kranz, mit dem ihn seine Mutter am Tag seiner Hochzeit gekrönt hat, am Tag der Freude seines Herzens!"
+  },
+  {
+    "i": 17650,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 2,
+    "t": "Wie bist du schön, meine Freundin! Wie bist du schön! Deine Augen sind wie Tauben hinter deinem Schleier. Dein Haar ist wie eine Herde Ziegen, die am Berg Gilead herabwallen."
+  },
+  {
+    "i": 17651,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 3,
+    "t": "Deine Zähne sind wie eine Herde geschorener Schafe, die aus der Schwemme steigen; alle haben sie Zwillinge, und keines fehlt."
+  },
+  {
+    "i": 17652,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 4,
+    "t": "Deine Lippen sind wie eine scharlachrote Schnur, und dein Mund ist lieblich. Deine Wangen sind wie Granatapfelstücke hinter deinem Schleier."
+  },
+  {
+    "i": 17653,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 5,
+    "t": "Dein Hals ist wie der Turm Davids, der auf Befehl gebaut ist; tausend Schilde hängen daran, lauter Schilde von Helden."
+  },
+  {
+    "i": 17654,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 6,
+    "t": "Deine beiden Brüste sind wie zwei junge Gazellen, wie Zwillinge, die unter den Lilien weiden."
+  },
+  {
+    "i": 17655,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 7,
+    "t": "Bis der Tag kühl wird und die Schatten fliehen, will ich zum Myrrheberg gehen, zum Weihrauchhügel."
+  },
+  {
+    "i": 17656,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 8,
+    "t": "Du bist ganz schön, meine Freundin, und kein Fehl ist an dir."
+  },
+  {
+    "i": 17657,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 9,
+    "t": "Komm mit mir vom Libanon, meine Braut, komm mit mir vom Libanon! Steig herab vom Gipfel des Amana, vom Gipfel des Senir und Hermon, von den Wohnungen der Löwen, von den Bergen der Leoparden!"
+  },
+  {
+    "i": 17658,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 10,
+    "t": "Du hast mein Herz bezwungen, meine Schwester, meine Braut, du hast mein Herz bezwungen mit einem einzigen Blick deiner Augen, mit einer einzigen Kette an deinem Hals."
+  },
+  {
+    "i": 17659,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 11,
+    "t": "Wie lieblich ist deine Liebe, meine Schwester, meine Braut! Wie viel besser ist deine Liebe als Wein, und der Duft deiner Salben als alle Gewürze!"
+  },
+  {
+    "i": 17660,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 12,
+    "t": "Deine Lippen, meine Braut, träufeln von Honigseim; Honig und Milch sind unter deiner Zunge, und der Duft deiner Kleider ist wie der Duft des Libanon."
+  },
+  {
+    "i": 17661,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 13,
+    "t": "Ein verschlossener Garten ist meine Schwester, meine Braut, ein verschlossener Garten, ein versiegelter Born."
+  },
+  {
+    "i": 17662,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 14,
+    "t": "Dein Wachstum ist wie ein Lustgarten von Granatäpfeln mit edlen Früchten,"
+  },
+  {
+    "i": 17663,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 15,
+    "t": "Narde und Safran, Kalmus und Zimt, mit allerlei Weihrauchbäumen, Myrrhe und Aloe, mit allen edlen Gewürzen."
+  },
+  {
+    "i": 17664,
+    "b": 21,
+    "c": 2304,
+    "r": 2304,
+    "o": 16,
+    "t": "Ein Gartenbrunnen, ein Born lebendigen Wassers, das vom Libanon fließt."
+  },
+  {
+    "i": 17665,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 1,
+    "t": "Erwache, Nordwind, und komm, Südwind! Durchwehe meinen Garten, damit seine Düfte fließen. Mein Geliebter komme in seinen Garten und esse seine edlen Früchte!"
+  },
+  {
+    "i": 17666,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 2,
+    "t": "Ich komme in meinen Garten, meine Schwester, meine Braut; ich pflücke meine Myrrhe samt meinen Gewürzen, ich esse meine Honigwabe samt meinem Honig, ich trinke meinen Wein samt meiner Milch. Esst, ihr Freunde, trinkt und werdet trunken, ihr Lieben!"
+  },
+  {
+    "i": 17667,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 3,
+    "t": "Ich schlafe, aber mein Herz ist wach. Da ist die Stimme meines Geliebten, der anklopft: Tu mir auf, meine Schwester, meine Freundin, meine Taube, meine Vollkommene! Denn mein Haupt ist voll Tau, meine Locken voll Nachttropfen."
+  },
+  {
+    "i": 17668,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 4,
+    "t": "Ich habe mein Kleid ausgezogen, wie sollte ich es wieder anziehen? Ich habe meine Füße gewaschen, wie sollte ich sie wieder beschmutzen?"
+  },
+  {
+    "i": 17669,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 5,
+    "t": "Mein Geliebter streckte seine Hand durchs Schlüsselloch, und mein Herz ward von Sehnsucht bewegt."
+  },
+  {
+    "i": 17670,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 6,
+    "t": "Da stand ich auf, um meinem Geliebten aufzutun, und meine Hände troffen von Myrrhe, meine Finger von fließender Myrrhe, auf den Griff des Riegels."
+  },
+  {
+    "i": 17671,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 7,
+    "t": "Ich tat meinem Geliebten auf, aber mein Geliebter hatte sich abgewendet und war entflohen. Meine Seele war ganz weg, als er redete. Ich suchte ihn, aber ich fand ihn nicht; ich rief ihn, aber er antwortete mir nicht."
+  },
+  {
+    "i": 17672,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 8,
+    "t": "Es fanden mich die Wächter, die in der Stadt umhergehen; sie schlugen mich, sie verwundeten mich; die Hüter der Mauern nahmen mir meinen Schleier weg."
+  },
+  {
+    "i": 17673,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 9,
+    "t": "Ich beschwöre euch, ihr Töchter Jerusalems, wenn ihr meinen Geliebten findet, was wollt ihr ihm sagen? Dass ich krank bin vor Liebe."
+  },
+  {
+    "i": 17674,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 10,
+    "t": "Was hat denn dein Geliebter vor andern Geliebten voraus, du Schönste unter den Frauen? Was hat denn dein Geliebter vor andern Geliebten voraus, dass du uns so beschwörst?"
+  },
+  {
+    "i": 17675,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 11,
+    "t": "Mein Geliebter ist strahlend und rot, erhaben über Zehntausende."
+  },
+  {
+    "i": 17676,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 12,
+    "t": "Sein Haupt ist wie feinstes Gold, seine Locken sind wellig, schwarz wie ein Rabe."
+  },
+  {
+    "i": 17677,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 13,
+    "t": "Seine Augen sind wie Tauben an Wasserbächen, die sich in Milch baden und vollkommen eingesetzt sind."
+  },
+  {
+    "i": 17678,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 14,
+    "t": "Seine Wangen sind wie Blumenbeete, auf denen Balsam sprießt; seine Lippen sind Lilien, von denen fließende Myrrhe träufelt."
+  },
+  {
+    "i": 17679,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 15,
+    "t": "Seine Hände sind goldene Zylinder, mit Edelsteinen besetzt; sein Leib ist ein Kunstwerk aus Elfenbein, mit Saphiren geschmückt."
+  },
+  {
+    "i": 17680,
+    "b": 21,
+    "c": 2305,
+    "r": 2305,
+    "o": 16,
+    "t": "Seine Beine sind Säulen von Alabaster, gegründet auf goldenen Füßen. Ihr Anblick ist wie der Libanon, auserwählt wie Zedern."
+  },
+  {
+    "i": 17681,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 1,
+    "t": "Seine Rede ist süß, und er ist ganz lieblich. Das ist mein Freund, das ist mein Geliebter, ihr Töchter Jerusalems!"
+  },
+  {
+    "i": 17682,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 2,
+    "t": "Wo ist dein Freund hingegangen, du Schönste unter den Weibern? Wo hat sich dein Freund hingewandt, dass wir ihn mit dir suchen?"
+  },
+  {
+    "i": 17683,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 3,
+    "t": "Mein Freund ist hinabgegangen in seinen Garten, zu den Balsambeeten, dass er weide in den Gärten und Lilien pflücke."
+  },
+  {
+    "i": 17684,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 4,
+    "t": "Ich bin meines Freundes, und mein Freund ist mein! Er weidet unter den Lilien."
+  },
+  {
+    "i": 17685,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 5,
+    "t": "Du bist schön, meine Freundin, wie Tirza, lieblich wie Jerusalem, schrecklich wie ein Heer mit Bannern."
+  },
+  {
+    "i": 17686,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 6,
+    "t": "Wende deine Augen von mir, denn sie überwältigen mich! Dein Haar ist wie eine Herde Ziegen, die am Berg Gilead sich lagern."
+  },
+  {
+    "i": 17687,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 7,
+    "t": "Deine Zähne sind wie eine Herde Schafe, die aus der Schwemme steigen, die alle Zwillinge tragen und keine unfruchtbar ist."
+  },
+  {
+    "i": 17688,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 8,
+    "t": "Sechzig Königinnen sind da und achtzig Kebsweiber, und Jungfrauen ohne Zahl."
+  },
+  {
+    "i": 17689,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 9,
+    "t": "Eine ist meine Taube, meine Vollkommene, die Einzige ihrer Mutter, die Auserwählte ihrer Gebärerin. Die Töchter sahen sie und priesen sie, Königinnen und Kebsweiber lobten sie:"
+  },
+  {
+    "i": 17690,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 10,
+    "t": "Wer ist die, die heraufsteigt wie die Morgenröte, schön wie der Mond, auserwählt wie die Sonne, schrecklich wie ein Heer mit Bannern?"
+  },
+  {
+    "i": 17691,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 11,
+    "t": "Ich bin hinabgegangen in den Nussgarten, um die grünen Gewächse des Tals zu sehen, um zu schauen, ob der Weinstock sprosst, ob die Granatbäume blühen."
+  },
+  {
+    "i": 17692,
+    "b": 21,
+    "c": 2306,
+    "r": 2306,
+    "o": 12,
+    "t": "Ehe ich mich versah, brachte mich meine Seele auf die Wagen meines edlen Volkes!"
+  },
+  {
+    "i": 17693,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 1,
+    "t": "Kehre wieder, kehre wieder, Sulamith! Kehre wieder, kehre wieder, dass wir dich schauen! Was wollt ihr die Sulamith schauen, wie den Reigen von Machanaim?"
+  },
+  {
+    "i": 17694,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 2,
+    "t": "Wie schön sind deine Füße in den Schuhen, du Fürstentochter! Die Rundungen deiner Hüften sind wie Geschmeide, von Künstlerhand gemacht."
+  },
+  {
+    "i": 17695,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 3,
+    "t": "Dein Schoß ist eine runde Schale, der es an Würzwein nicht mangelt. Dein Leib ist ein Weizenhaufen, mit Lilien umstellt."
+  },
+  {
+    "i": 17696,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 4,
+    "t": "Deine beiden Brüste sind wie zwei Rehkitze, Zwillinge einer Gazelle."
+  },
+  {
+    "i": 17697,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 5,
+    "t": "Dein Hals ist wie ein elfenbeinener Turm. Deine Augen sind wie die Teiche in Heschbon am Tor Bath-Rabbim. Deine Nase ist wie der Turm auf dem Libanon, der nach Damaskus schaut."
+  },
+  {
+    "i": 17698,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 6,
+    "t": "Dein Haupt auf dir ist wie der Karmel, und dein wallendes Haar wie Purpur. Ein König ist gefangen in deinen Locken."
+  },
+  {
+    "i": 17699,
+    "b": 21,
+    "c": 2307,
+    "r": 2307,
+    "o": 7,
+    "t": "Wie schön bist du, wie holdselig bist du, du Liebe, in Wonne!"
+  }
+]

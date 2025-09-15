@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16700,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 32,
+    "t": "\"Now therefore hearken unto me, O ye children: for blessed are they that keep my ways."
+  },
+  {
+    "i": 16701,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 33,
+    "t": "Hear instruction, and be wise, and refuse it not."
+  },
+  {
+    "i": 16702,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 34,
+    "t": "Blessed is the man that heareth me, watching daily at my gates, waiting at the posts of my doors."
+  },
+  {
+    "i": 16703,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 35,
+    "t": "For whoso findeth me findeth life, and shall obtain favour of the Lord."
+  },
+  {
+    "i": 16704,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 36,
+    "t": "But he that sinneth against me wrongeth his own soul: all they that hate me love death."
+  },
+  {
+    "i": 16705,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 1,
+    "t": "Wisdom hath builded her house, she hath hewn out her seven pillars:"
+  },
+  {
+    "i": 16706,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 2,
+    "t": "She hath killed her beasts, she hath mingled her wine; she hath also furnished her table."
+  },
+  {
+    "i": 16707,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 3,
+    "t": "She hath sent forth her maidens: she crieth upon the highest places of the city,"
+  },
+  {
+    "i": 16708,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 4,
+    "t": "Whoso is simple, let him turn in hither: as for him that wanteth understanding, she saith to him,"
+  },
+  {
+    "i": 16709,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 5,
+    "t": "Come, eat of my bread, and drink of the wine which I have mingled."
+  },
+  {
+    "i": 16710,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 6,
+    "t": "Forsake the foolish, and live; and go in the way of understanding."
+  },
+  {
+    "i": 16711,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 7,
+    "t": "He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot."
+  },
+  {
+    "i": 16712,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 8,
+    "t": "Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee."
+  },
+  {
+    "i": 16713,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 9,
+    "t": "Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning."
+  },
+  {
+    "i": 16714,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 10,
+    "t": "The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is understanding."
+  },
+  {
+    "i": 16715,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 11,
+    "t": "For by me thy days shall be multiplied, and the years of thy life shall be increased."
+  },
+  {
+    "i": 16716,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 12,
+    "t": "If thou be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it."
+  },
+  {
+    "i": 16717,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 13,
+    "t": "A foolish woman is clamorous: she is simple, and knoweth nothing."
+  },
+  {
+    "i": 16718,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 14,
+    "t": "For she sitteth at the door of her house, on a seat in the high places of the city,"
+  },
+  {
+    "i": 16719,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 15,
+    "t": "To call passengers who go right on their ways:"
+  },
+  {
+    "i": 16720,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 16,
+    "t": "Whoso is simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,"
+  },
+  {
+    "i": 16721,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 17,
+    "t": "Stolen waters are sweet, and bread eaten in secret is pleasant."
+  },
+  {
+    "i": 16722,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 18,
+    "t": "But he knoweth not that the dead are there; and that her guests are in the depths of hell."
+  },
+  {
+    "i": 16723,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 1,
+    "t": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother."
+  },
+  {
+    "i": 16724,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 2,
+    "t": "Treasures of wickedness profit nothing: but righteousness delivereth from death."
+  },
+  {
+    "i": 16725,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 3,
+    "t": "The Lord will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked."
+  },
+  {
+    "i": 16726,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 4,
+    "t": "He becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich."
+  },
+  {
+    "i": 16727,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 5,
+    "t": "He that gathereth in summer is a wise son: but he that sleepeth in harvest is a son that causeth shame."
+  },
+  {
+    "i": 16728,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 6,
+    "t": "Blessings are upon the head of the just: but violence covereth the mouth of the wicked."
+  },
+  {
+    "i": 16729,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 7,
+    "t": "The memory of the just is blessed: but the name of the wicked shall rot."
+  },
+  {
+    "i": 16730,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 8,
+    "t": "The wise in heart will receive commandments: but a prating fool shall fall."
+  },
+  {
+    "i": 16731,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 9,
+    "t": "He that walketh uprightly walketh surely: but he that perverteth his ways shall be known."
+  },
+  {
+    "i": 16732,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 10,
+    "t": "He that winketh with the eye causeth sorrow: but a prating fool shall fall."
+  },
+  {
+    "i": 16733,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 11,
+    "t": "The mouth of a righteous man is a well of life: but violence covereth the mouth of the wicked."
+  },
+  {
+    "i": 16734,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 12,
+    "t": "Hatred stirreth up strifes: but love covereth all sins."
+  },
+  {
+    "i": 16735,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 13,
+    "t": "In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding."
+  },
+  {
+    "i": 16736,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 14,
+    "t": "Wise men lay up knowledge: but the mouth of the foolish is near destruction."
+  },
+  {
+    "i": 16737,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 15,
+    "t": "The rich man's wealth is his strong city: the destruction of the poor is their poverty."
+  },
+  {
+    "i": 16738,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 16,
+    "t": "The labour of the righteous tendeth to life: the fruit of the wicked to sin."
+  },
+  {
+    "i": 16739,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 17,
+    "t": "He is in the way of life that keepeth instruction: but he that refuseth reproof erreth."
+  },
+  {
+    "i": 16740,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 18,
+    "t": "He that hideth hatred with lying lips, and he that uttereth a slander, is a fool."
+  },
+  {
+    "i": 16741,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 19,
+    "t": "In the multitude of words there wanteth not sin: but he that refraineth his lips is wise."
+  },
+  {
+    "i": 16742,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 20,
+    "t": "The tongue of the just is as choice silver: the heart of the wicked is little worth."
+  },
+  {
+    "i": 16743,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 21,
+    "t": "The lips of the righteous feed many: but fools die for want of wisdom."
+  },
+  {
+    "i": 16744,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 22,
+    "t": "The blessing of the Lord, it maketh rich, and he addeth no sorrow with it."
+  },
+  {
+    "i": 16745,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 23,
+    "t": "It is as sport to a fool to do mischief: but a man of understanding hath wisdom."
+  },
+  {
+    "i": 16746,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 24,
+    "t": "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted."
+  },
+  {
+    "i": 16747,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 25,
+    "t": "As the whirlwind passeth, so is the wicked no more: but the righteous is an everlasting foundation."
+  },
+  {
+    "i": 16748,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 26,
+    "t": "As vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him."
+  },
+  {
+    "i": 16749,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 27,
+    "t": "The fear of the Lord prolongeth days: but the years of the wicked shall be shortened."
+  },
+  {
+    "i": 16750,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 28,
+    "t": "The hope of the righteous shall be gladness: but the expectation of the wicked shall perish."
+  },
+  {
+    "i": 16751,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 29,
+    "t": "The way of the Lord is strength to the upright: but destruction shall be to the workers of iniquity."
+  },
+  {
+    "i": 16752,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 30,
+    "t": "The righteous shall never be removed: but the wicked shall not inhabit the earth."
+  },
+  {
+    "i": 16753,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 31,
+    "t": "The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out."
+  },
+  {
+    "i": 16754,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 32,
+    "t": "The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness."
+  },
+  {
+    "i": 16755,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 1,
+    "t": "A false balance is abomination to the Lord: but a just weight is his delight."
+  },
+  {
+    "i": 16756,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 2,
+    "t": "When pride cometh, then cometh shame: but with the lowly is wisdom."
+  },
+  {
+    "i": 16757,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 3,
+    "t": "The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them."
+  },
+  {
+    "i": 16758,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 4,
+    "t": "Riches profit not in the day of wrath: but righteousness delivereth from death."
+  },
+  {
+    "i": 16759,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 5,
+    "t": "The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness."
+  },
+  {
+    "i": 16760,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 6,
+    "t": "The righteousness of the upright shall deliver them: but transgressors shall be taken in their own naughtiness."
+  },
+  {
+    "i": 16761,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 7,
+    "t": "When a wicked man dieth, his expectation shall perish: and the hope of unjust men perisheth."
+  },
+  {
+    "i": 16762,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 8,
+    "t": "The righteous is delivered out of trouble, and the wicked cometh in his stead."
+  },
+  {
+    "i": 16763,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 9,
+    "t": "An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered."
+  },
+  {
+    "i": 16764,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 10,
+    "t": "When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting."
+  },
+  {
+    "i": 16765,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 11,
+    "t": "By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked."
+  },
+  {
+    "i": 16766,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 12,
+    "t": "He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace."
+  },
+  {
+    "i": 16767,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 13,
+    "t": "A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter."
+  },
+  {
+    "i": 16768,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 14,
+    "t": "Where no counsel is, the people fall: but in the multitude of counsellors there is safety."
+  },
+  {
+    "i": 16769,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 15,
+    "t": "He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure."
+  },
+  {
+    "i": 16770,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 16,
+    "t": "A gracious woman retaineth honour: and strong men retain riches."
+  },
+  {
+    "i": 16771,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 17,
+    "t": "The merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh."
+  },
+  {
+    "i": 16772,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 18,
+    "t": "The wicked worketh a deceitful work: but to him that soweth righteousness shall be a sure reward."
+  },
+  {
+    "i": 16773,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 19,
+    "t": "As righteousness tendeth to life: so he that pursueth evil pursueth it to his own death."
+  },
+  {
+    "i": 16774,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 20,
+    "t": "They that are of a froward heart are abomination to the Lord: but such as are upright in their way are his delight."
+  },
+  {
+    "i": 16775,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 21,
+    "t": "Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered."
+  },
+  {
+    "i": 16776,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 22,
+    "t": "As a jewel of gold in a swine's snout, so is a fair woman which is without discretion."
+  },
+  {
+    "i": 16777,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 23,
+    "t": "The desire of the righteous is only good: but the expectation of the wicked is wrath."
+  },
+  {
+    "i": 16778,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 24,
+    "t": "There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty."
+  },
+  {
+    "i": 16779,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 25,
+    "t": "The liberal soul shall be made fat: and he that watereth shall be watered also himself."
+  },
+  {
+    "i": 16780,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 26,
+    "t": "The people shall curse him that withholdeth corn; but blessing shall be upon the head of him that selleth it."
+  },
+  {
+    "i": 16781,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 27,
+    "t": "He that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him."
+  },
+  {
+    "i": 16782,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 28,
+    "t": "He that trusteth in his riches shall fall: but the righteous shall flourish as a branch."
+  },
+  {
+    "i": 16783,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 29,
+    "t": "He that troubleth his own house shall inherit the wind: and the fool shall be servant to the wise of heart."
+  },
+  {
+    "i": 16784,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 30,
+    "t": "The fruit of the righteous is a tree of life; and he that winneth souls is wise."
+  },
+  {
+    "i": 16785,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 31,
+    "t": "Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner."
+  },
+  {
+    "i": 16786,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 1,
+    "t": "Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish."
+  },
+  {
+    "i": 16787,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 2,
+    "t": "A good man obtaineth favour of the LORD: but a man of wicked devices will he condemn."
+  },
+  {
+    "i": 16788,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 3,
+    "t": "A man shall not be established by wickedness: but the root of the righteous shall not be moved."
+  },
+  {
+    "i": 16789,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 4,
+    "t": "A virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones."
+  },
+  {
+    "i": 16790,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 5,
+    "t": "The thoughts of the righteous are right: but the counsels of the wicked are deceit."
+  },
+  {
+    "i": 16791,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 6,
+    "t": "The words of the wicked are to lie in wait for blood: but the mouth of the upright shall deliver them."
+  },
+  {
+    "i": 16792,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 7,
+    "t": "The wicked are overthrown, and are not: but the house of the righteous shall stand."
+  },
+  {
+    "i": 16793,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 8,
+    "t": "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised."
+  },
+  {
+    "i": 16794,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 9,
+    "t": "He that is despised, and hath a servant, is better than he that honoureth himself, and lacketh bread."
+  },
+  {
+    "i": 16795,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 10,
+    "t": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel."
+  },
+  {
+    "i": 16796,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 11,
+    "t": "He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding."
+  },
+  {
+    "i": 16797,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 12,
+    "t": "The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit."
+  },
+  {
+    "i": 16798,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 13,
+    "t": "The wicked is snared by the transgression of his lips: but the just shall come out of trouble."
+  },
+  {
+    "i": 16799,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 14,
+    "t": "A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man's hands shall be rendered unto him."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 29700,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 28,
+    "t": "\"E Gesù gli disse: «Tu hai risposto bene; fa' questo e vivrai»."
+  },
+  {
+    "i": 29701,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 29,
+    "t": "Ma quello, volendo giustificarsi, disse a Gesù: «E chi è il mio prossimo?»"
+  },
+  {
+    "i": 29702,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 30,
+    "t": "Gesù allora riprese: «Un uomo scendeva da Gerusalemme a Gerico e incappò nei briganti, che lo spogliarono, lo percossero e poi se ne andarono, lasciandolo mezzo morto."
+  },
+  {
+    "i": 29703,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 31,
+    "t": "Per caso, un sacerdote scendeva per quella medesima strada; lo vide e passò oltre."
+  },
+  {
+    "i": 29704,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 32,
+    "t": "Anche un levita, giunto in quel luogo, lo vide e passò oltre."
+  },
+  {
+    "i": 29705,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 33,
+    "t": "Invece un Samaritano, che era in viaggio, passandogli accanto lo vide e ne ebbe compassione."
+  },
+  {
+    "i": 29706,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 34,
+    "t": "Avvicinatosi, gli fasciò le ferite, versandovi olio e vino; poi, caricatolo sopra il suo giumento, lo portò a una locanda e si prese cura di lui."
+  },
+  {
+    "i": 29707,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 35,
+    "t": "Il giorno dopo, presi due denari, li diede all'albergatore e disse: Abbi cura di lui e quanto spenderai in più te lo rifonderò al mio ritorno."
+  },
+  {
+    "i": 29708,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 36,
+    "t": "Chi di questi tre ti sembra sia stato il prossimo di colui che è incappato nei briganti?»"
+  },
+  {
+    "i": 29709,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 37,
+    "t": "Quegli rispose: «Chi ha avuto compassione di lui». Gesù gli disse: «Va' e anche tu fa' lo stesso»."
+  },
+  {
+    "i": 29710,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 38,
+    "t": "Mentre erano in cammino, entrò in un villaggio e una donna, di nome Marta, lo accolse nella sua casa."
+  },
+  {
+    "i": 29711,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 39,
+    "t": "Questa aveva una sorella, di nome Maria, la quale, sedutasi ai piedi di Gesù, ascoltava la sua parola."
+  },
+  {
+    "i": 29712,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 40,
+    "t": "Marta invece era tutta presa dai molti servizi. Pertanto, fattasi avanti, disse: «Signore, non ti curi che mia sorella mi ha lasciata sola a servire? Dille dunque che mi aiuti»."
+  },
+  {
+    "i": 29713,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 41,
+    "t": "Ma il Signore le rispose: «Marta, Marta, tu ti preoccupi e ti affanni per molte cose;"
+  },
+  {
+    "i": 29714,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 42,
+    "t": "ma una sola è la cosa di cui c'è bisogno. Maria si è scelta la parte migliore, che non le sarà tolta»."
+  },
+  {
+    "i": 29715,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 1,
+    "t": "Un giorno Gesù si trovava in un luogo a pregare e quando ebbe finito, uno dei suoi discepoli gli disse: «Signore, insegnaci a pregare, come anche Giovanni ha insegnato ai suoi discepoli»."
+  },
+  {
+    "i": 29716,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 2,
+    "t": "Ed egli disse loro: «Quando pregate, dite: Padre, sia santificato il tuo nome, venga il tuo regno;"
+  },
+  {
+    "i": 29717,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 3,
+    "t": "dacci ogni giorno il nostro pane quotidiano,"
+  },
+  {
+    "i": 29718,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 4,
+    "t": "e perdonaci i nostri peccati, perché anche noi perdoniamo a ogni nostro debitore, e non ci indurre in tentazione»."
+  },
+  {
+    "i": 29719,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 5,
+    "t": "Disse loro ancora: «Chi di voi, se ha un amico, va da lui a mezzanotte per dirgli: Amico, prestami tre pani,"
+  },
+  {
+    "i": 29720,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 6,
+    "t": "perché è giunto da me un amico da un viaggio e non ho nulla da offrirgli;"
+  },
+  {
+    "i": 29721,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 7,
+    "t": "e se quegli dall'interno gli risponde: Non darmi fastidio, la porta è ormai chiusa e i miei bambini sono a letto con me, non posso alzarmi per darteli;"
+  },
+  {
+    "i": 29722,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 8,
+    "t": "vi dico che, se anche non si alzasse a darglieli perché è suo amico, almeno per la sua insistenza si alzerà a dargliene quanti ne ha bisogno."
+  },
+  {
+    "i": 29723,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 9,
+    "t": "Ebbene, io vi dico: Chiedete e vi sarà dato, cercate e troverete, bussate e vi sarà aperto."
+  },
+  {
+    "i": 29724,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 10,
+    "t": "Perché chiunque chiede riceve, chi cerca trova e a chi bussa sarà aperto."
+  },
+  {
+    "i": 29725,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 11,
+    "t": "Quale padre tra voi, se il figlio gli chiede un pesce, gli darà una serpe al posto del pesce?"
+  },
+  {
+    "i": 29726,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 12,
+    "t": "O se gli chiede un uovo, gli darà uno scorpione?"
+  },
+  {
+    "i": 29727,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 13,
+    "t": "Se dunque voi, che siete cattivi, sapete dare cose buone ai vostri figli, quanto più il Padre vostro celeste darà lo Spirito Santo a coloro che glielo chiedono!»"
+  },
+  {
+    "i": 29728,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 14,
+    "t": "Gesù stava scacciando un demonio che era muto. Uscito il demonio, il muto cominciò a parlare e le folle rimasero meravigliate."
+  },
+  {
+    "i": 29729,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 15,
+    "t": "Ma alcuni dissero: «Egli scaccia i demoni per opera di Beelzebùl, capo dei demoni»."
+  },
+  {
+    "i": 29730,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 16,
+    "t": "Altri poi, per metterlo alla prova, gli domandavano un segno dal cielo."
+  },
+  {
+    "i": 29731,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 17,
+    "t": "Egli, conoscendo i loro pensieri, disse: «Ogni regno diviso in se stesso va in rovina e una casa cade sull'altra."
+  },
+  {
+    "i": 29732,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 18,
+    "t": "Ora, se anche Satana è diviso in se stesso, come potrà reggere il suo regno? Voi dite che io scaccio i demoni per opera di Beelzebùl."
+  },
+  {
+    "i": 29733,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 19,
+    "t": "Ma se io scaccio i demoni per opera di Beelzebùl, i vostri figli per opera di chi li scacciano? Per questo saranno loro i vostri giudici."
+  },
+  {
+    "i": 29734,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 20,
+    "t": "Se invece io scaccio i demoni con il dito di Dio, allora è giunto a voi il regno di Dio."
+  },
+  {
+    "i": 29735,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 21,
+    "t": "Quando un uomo forte, bene armato, fa la guardia al suo palazzo, i suoi beni stanno al sicuro;"
+  },
+  {
+    "i": 29736,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 22,
+    "t": "ma se arriva uno più forte di lui e lo vince, gli strappa via l'armatura nella quale confidava e ne distribuisce il bottino."
+  },
+  {
+    "i": 29737,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 23,
+    "t": "Chi non è con me è contro di me, e chi non raccoglie con me, disperde."
+  },
+  {
+    "i": 29738,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 24,
+    "t": "Quando lo spirito immondo esce da un uomo, si aggira per luoghi aridi in cerca di riposo e, non trovandone, dice: Ritornerò nella mia casa da cui sono uscito."
+  },
+  {
+    "i": 29739,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 25,
+    "t": "Venuto, la trova spazzata e in ordine."
+  },
+  {
+    "i": 29740,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 26,
+    "t": "Allora va, prende con sé altri sette spiriti peggiori di lui, entrano e vi prendono dimora; e la condizione finale di quell'uomo diventa peggiore della prima»."
+  },
+  {
+    "i": 29741,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 27,
+    "t": "Mentre diceva questo, una donna alzò la voce di mezzo alla folla e disse: «Beato il grembo che ti ha portato e il seno che ti ha allattato!»"
+  },
+  {
+    "i": 29742,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 28,
+    "t": "Ma egli disse: «Beati piuttosto coloro che ascoltano la parola di Dio e la osservano!»"
+  },
+  {
+    "i": 29743,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 29,
+    "t": "Mentre le folle si accalcavano, egli cominciò a dire: «Questa generazione è una generazione malvagia; essa chiede un segno, ma non le sarà dato alcun segno, se non il segno di Giona."
+  },
+  {
+    "i": 29744,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 30,
+    "t": "Poiché come Giona fu un segno per quelli di Ninive, così anche il Figlio dell'uomo lo sarà per questa generazione."
+  },
+  {
+    "i": 29745,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 31,
+    "t": "La regina del Sud sorgerà nel giudizio insieme con gli uomini di questa generazione e li condannerà; perché venne dalle estremità della terra per ascoltare la sapienza di Salomone; ed ecco, qui c'è più di Salomone!"
+  },
+  {
+    "i": 29746,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 32,
+    "t": "Quelli di Ninive sorgeranno nel giudizio insieme con questa generazione e la condanneranno; perché essi si convertirono alla predicazione di Giona; ed ecco, qui c'è più di Giona!"
+  },
+  {
+    "i": 29747,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 33,
+    "t": "Nessuno accende una lucerna e la mette in un luogo nascosto o sotto un moggio, ma sopra il lucerniere, perché quanti entrano vedano la luce."
+  },
+  {
+    "i": 29748,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 34,
+    "t": "La lucerna del tuo corpo è il tuo occhio; quando il tuo occhio è sano, anche tutto il tuo corpo è illuminato; ma quando è malato, anche il tuo corpo è nelle tenebre."
+  },
+  {
+    "i": 29749,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 35,
+    "t": "Guarda dunque che la luce che è in te non sia tenebra!"
+  },
+  {
+    "i": 29750,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 36,
+    "t": "Se dunque il tuo corpo è tutto illuminato, senza avere alcuna parte nelle tenebre, sarà tutto nella luce, come quando la lucerna ti illumina con il suo fulgore»."
+  },
+  {
+    "i": 29751,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 37,
+    "t": "Mentre parlava, un fariseo lo invitò a pranzo presso di sé. Egli entrò e si mise a tavola."
+  },
+  {
+    "i": 29752,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 38,
+    "t": "Il fariseo si meravigliò nel vedere che non aveva fatto le abluzioni prima del pranzo."
+  },
+  {
+    "i": 29753,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 39,
+    "t": "Allora il Signore gli disse: «Voi farisei pulite l'esterno del bicchiere e del piatto, ma il vostro interno è pieno di avidità e di cattiveria."
+  },
+  {
+    "i": 29754,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 40,
+    "t": "Stolti! Colui che ha fatto l'esterno non ha forse fatto anche l'interno?"
+  },
+  {
+    "i": 29755,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 41,
+    "t": "Piuttosto fate l'elemosina di ciò che avete dentro, ed ecco, ogni cosa sarà pura per voi."
+  },
+  {
+    "i": 29756,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 42,
+    "t": "Ma guai a voi, farisei, che pagate la decima della menta, della ruta e di ogni erbaggio, e trascurate la giustizia e l'amore di Dio. Queste cose bisognava praticare, senza omettere quelle."
+  },
+  {
+    "i": 29757,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 43,
+    "t": "Guai a voi, farisei, che amate il primo posto nelle sinagoghe e i saluti sulle piazze."
+  },
+  {
+    "i": 29758,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 44,
+    "t": "Guai a voi, che siete come quei sepolcri che non si vedono e sui quali la gente passa senza saperlo»."
+  },
+  {
+    "i": 29759,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 45,
+    "t": "Intervenne allora un dottore della Legge e gli disse: «Maestro, dicendo questo, offendi anche noi»."
+  },
+  {
+    "i": 29760,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 46,
+    "t": "Egli rispose: «Guai anche a voi, dottori della Legge, che caricate gli uomini di pesi insopportabili, e quei pesi non li toccate nemmeno con un dito!"
+  },
+  {
+    "i": 29761,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 47,
+    "t": "Guai a voi, che costruite i sepolcri dei profeti, e i vostri padri li hanno uccisi."
+  },
+  {
+    "i": 29762,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 48,
+    "t": "Così voi date testimonianza e approvazione alle opere dei vostri padri: essi li hanno uccisi e voi costruite."
+  },
+  {
+    "i": 29763,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 49,
+    "t": "Per questo la Sapienza di Dio ha detto: Manderò loro profeti e apostoli, e di questi ne uccideranno e perseguiteranno,"
+  },
+  {
+    "i": 29764,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 50,
+    "t": "affinché sia chiesto conto a questa generazione del sangue di tutti i profeti, versato fin dalla fondazione del mondo,"
+  },
+  {
+    "i": 29765,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 51,
+    "t": "dal sangue di Abele fino al sangue di Zaccaria, che fu ucciso tra l'altare e il santuario. Sì, io vi dico, ne sarà chiesto conto a questa generazione."
+  },
+  {
+    "i": 29766,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 52,
+    "t": "Guai a voi, dottori della Legge, che vi siete impossessati della chiave della scienza; voi non siete entrati, e a quelli che volevano entrare l'avete impedito»."
+  },
+  {
+    "i": 29767,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 53,
+    "t": "Quando fu uscito di là, gli scribi e i farisei cominciarono a trattarlo in modo ostile e a farlo parlare su molti argomenti,"
+  },
+  {
+    "i": 29768,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 54,
+    "t": "tendendogli insidie, per sorprendere qualche sua parola."
+  },
+  {
+    "i": 29769,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 1,
+    "t": "Nel frattempo si era radunata una folla immensa, tanto che si calpestavano a vicenda, ed egli cominciò a dire anzitutto ai suoi discepoli: «Guardatevi dal lievito dei farisei, che è l'ipocrisia."
+  },
+  {
+    "i": 29770,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 2,
+    "t": "Non c'è nulla di nascosto che non sarà svelato, né di segreto che non sarà conosciuto."
+  },
+  {
+    "i": 29771,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 3,
+    "t": "Pertanto tutto ciò che avrete detto nelle tenebre sarà udito in piena luce, e ciò che avrete detto all'orecchio nelle stanze più interne sarà proclamato sui tetti."
+  },
+  {
+    "i": 29772,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 4,
+    "t": "Dico a voi, amici miei: non abbiate paura di quelli che uccidono il corpo e dopo non possono fare più nulla."
+  },
+  {
+    "i": 29773,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 5,
+    "t": "Vi mostrerò invece chi dovete temere: temete colui che, dopo aver ucciso, ha il potere di gettare nella Geènna. Sì, ve lo dico, temete costui."
+  },
+  {
+    "i": 29774,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 6,
+    "t": "Non si vendono forse cinque passeri per due soldi? Eppure nemmeno uno di essi è dimenticato davanti a Dio."
+  },
+  {
+    "i": 29775,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 7,
+    "t": "Anzi, anche i capelli del vostro capo sono tutti contati. Non abbiate paura: valete più di molti passeri!"
+  },
+  {
+    "i": 29776,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 8,
+    "t": "Io vi dico: chiunque mi riconoscerà davanti agli uomini, anche il Figlio dell'uomo riconoscerà lui davanti agli angeli di Dio;"
+  },
+  {
+    "i": 29777,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 9,
+    "t": "ma chi mi rinnegherà davanti agli uomini sarà rinnegato davanti agli angeli di Dio."
+  },
+  {
+    "i": 29778,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 10,
+    "t": "Chiunque parlerà contro il Figlio dell'uomo gli sarà perdonato; ma a chi bestemmierà lo Spirito Santo non sarà perdonato."
+  },
+  {
+    "i": 29779,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 11,
+    "t": "Quando vi condurranno davanti alle sinagoghe, ai magistrati e alle autorità, non preoccupatevi di come o di che cosa discolparvi o di che cosa dire,"
+  },
+  {
+    "i": 29780,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 12,
+    "t": "poiché lo Spirito Santo v'insegnerà in quella stessa ora ciò che dovrete dire."
+  },
+  {
+    "i": 29781,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 13,
+    "t": "Or uno della folla gli disse: \"Maestro, di' a mio fratello che divida con me l'eredità."
+  },
+  {
+    "i": 29782,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 14,
+    "t": "Ma egli rispose: \"Uomo, chi mi ha costituito giudice o arbitro sopra di voi?"
+  },
+  {
+    "i": 29783,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 15,
+    "t": "Poi disse loro: \"Guardatevi e state in guardia contro ogni avidità; perché non dalla abbondanza dei beni uno ha la sua vita."
+  },
+  {
+    "i": 29784,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 16,
+    "t": "Poi disse loro una parabola: \"La terra di un uomo ricco aveva prodotto in abbondanza."
+  },
+  {
+    "i": 29785,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 17,
+    "t": "Egli ragionava dentro di sé: Che farò, poiché non ho dove riporre i miei raccolti?"
+  },
+  {
+    "i": 29786,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 18,
+    "t": "Poi disse: Farò così: demolirò i miei magazzini e ne costruirò di più grandi, e vi raccoglierò tutto il mio grano e i miei beni,"
+  },
+  {
+    "i": 29787,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 19,
+    "t": "e dirò all'anima mia: Anima, tu hai molti beni riposti per molti anni; riposati, mangia, bevi e datti alla gioia."
+  },
+  {
+    "i": 29788,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 20,
+    "t": "Ma Dio gli disse: Stolto, questa notte stessa ti sarà richiesta la tua anima; e quello che hai preparato, di chi sarà?"
+  },
+  {
+    "i": 29789,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 21,
+    "t": "Così è di chi accumula tesori per sé e non è ricco davanti a Dio."
+  },
+  {
+    "i": 29790,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 22,
+    "t": "Poi disse ai suoi discepoli: \"Perciò vi dico: non siate in ansia per la vostra vita, di che cosa mangerete, né per il corpo, di che cosa vi vestirete."
+  },
+  {
+    "i": 29791,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 23,
+    "t": "La vita infatti vale più del cibo e il corpo più del vestito."
+  },
+  {
+    "i": 29792,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 24,
+    "t": "Osservate i corvi: non seminano e non mietono, non hanno dispensa né granaio, eppure Dio li nutre. Quanto più valete voi degli uccelli!"
+  },
+  {
+    "i": 29793,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 25,
+    "t": "E chi di voi, per quanto si dia da fare, può aggiungere un'ora sola alla sua vita?"
+  },
+  {
+    "i": 29794,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 26,
+    "t": "Se dunque non potete fare nemmeno ciò che è minimo, perché vi affannate per il resto?"
+  },
+  {
+    "i": 29795,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 27,
+    "t": "Osservate i gigli, come crescono: non filano e non tessono; eppure io vi dico che neanche Salomone, con tutta la sua gloria, vestiva come uno di loro."
+  },
+  {
+    "i": 29796,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 28,
+    "t": "Se dunque Dio veste così l'erba che oggi è nel campo e domani è gettata nel forno, quanto più vestirà voi, gente di poca fede!"
+  },
+  {
+    "i": 29797,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 29,
+    "t": "E voi non state a domandarvi che cosa mangerete e che cosa berrete, e non state in ansia."
+  },
+  {
+    "i": 29798,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 30,
+    "t": "Di tutte queste cose si preoccupa la gente del mondo; ma il Padre vostro sa che ne avete bisogno."
+  },
+  {
+    "i": 29799,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 31,
+    "t": "Cercate piuttosto il suo regno, e queste cose vi saranno date in aggiunta."
+  }
+]

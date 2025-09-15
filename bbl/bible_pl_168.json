@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16800,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 15,
+    "t": "Droga głupiego wydaje mu się prosta, lecz mądry słucha rady."
+  },
+  {
+    "i": 16801,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 16,
+    "t": "Głupi ujawnia swą obrazę od razu, lecz roztropny ukrywa zniewagę."
+  },
+  {
+    "i": 16802,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 17,
+    "t": "Kto mówi prawdę, głosi sprawiedliwość, fałszywy świadek zaś – zwodzenie."
+  },
+  {
+    "i": 16803,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 18,
+    "t": "Jest taki, który mówi nierozważnie, jakby mieczem przebijał, lecz język mądrych – lekarstwem."
+  },
+  {
+    "i": 16804,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 19,
+    "t": "Wargi prawdomówne trwają na wieki, język kłamliwy – tylko na chwilę."
+  },
+  {
+    "i": 16805,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 20,
+    "t": "W sercu tych, co knują zło – oszustwo, a u doradców pokoju – radość."
+  },
+  {
+    "i": 16806,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 21,
+    "t": "Sprawiedliwego nie spotka nieszczęście żadne, lecz niegodziwi pełnię doznają klęski."
+  },
+  {
+    "i": 16807,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 22,
+    "t": "Obrzydliwością dla Jahwe są wargi kłamliwe, a ci, którzy prawdą się kierują, Jemu są mili."
+  },
+  {
+    "i": 16808,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 23,
+    "t": "Człowiek roztropny tai swą wiedzę, a serce głupich obwieszcza głupotę."
+  },
+  {
+    "i": 16809,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 24,
+    "t": "Ręka pilnych panuje, a leniwa – cierpi ucisk."
+  },
+  {
+    "i": 16810,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 25,
+    "t": "Zmartwienie w sercu człowieka przygnębia go, a dobre słowo – rozwesela."
+  },
+  {
+    "i": 16811,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 26,
+    "t": "Sprawiedliwy wskazuje drogę swemu bliźniemu, a droga niegodziwych ich zwodzi."
+  },
+  {
+    "i": 16812,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 27,
+    "t": "Leniwy nie upiecze swej zdobyczy, a pilność człowieka jest skarbnicą drogocenną."
+  },
+  {
+    "i": 16813,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 28,
+    "t": "Na ścieżce sprawiedliwości jest życie, a droga występnych wiedzie ku śmierci."
+  },
+  {
+    "i": 16814,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 1,
+    "t": "Syn mądry słucha karcenia ojca, a szyderca – nie słucha nagany."
+  },
+  {
+    "i": 16815,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 2,
+    "t": "Z owocu swych ust człowiek nasyci się dobrem, a dusza zdrajców – przemocą."
+  },
+  {
+    "i": 16816,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 3,
+    "t": "Kto strzeże swych ust, ten strzeże swego życia, a kto zbytnio otwiera wargi, sam się gubi."
+  },
+  {
+    "i": 16817,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 4,
+    "t": "Leniwiec pragnie, lecz nic nie ma, a dusza pilnych będzie nasycona."
+  },
+  {
+    "i": 16818,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 5,
+    "t": "Sprawiedliwy nienawidzi słowa kłamliwego, a niegodziwy sprowadza wstyd i hańbę."
+  },
+  {
+    "i": 16819,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 6,
+    "t": "Sprawiedliwość strzeże tego, którego droga jest nienaganna, a grzech jest zgubą niegodziwego."
+  },
+  {
+    "i": 16820,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 7,
+    "t": "Jest taki, który udaje bogatego, choć nic nie ma, a jest taki, który udaje ubogiego, choć ma wielkie bogactwa."
+  },
+  {
+    "i": 16821,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 8,
+    "t": "Bogactwo człowieka jest okupem za jego życie, a ubogi nie słyszy nagany."
+  },
+  {
+    "i": 16822,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 9,
+    "t": "Światło sprawiedliwych jaśnieje radośnie, a lampa niegodziwych zgaśnie."
+  },
+  {
+    "i": 16823,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 10,
+    "t": "Z pychy pochodzi tylko spór, a u tych, którzy przyjmują radę, jest mądrość."
+  },
+  {
+    "i": 16824,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 11,
+    "t": "Bogactwo szybko nabyte maleje, a kto gromadzi je powoli, pomnaża je."
+  },
+  {
+    "i": 16825,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 12,
+    "t": "Oczekiwanie przedłużające się trapi serce, a spełnione pragnienie jest drzewem życia."
+  },
+  {
+    "i": 16826,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 13,
+    "t": "Kto gardzi słowem, sam sobie szkodzi, a kto szanuje przykazanie, będzie nagrodzony."
+  },
+  {
+    "i": 16827,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 14,
+    "t": "Nauka mądrego jest źródłem życia, aby unikać sideł śmierci."
+  },
+  {
+    "i": 16828,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 15,
+    "t": "Dobry rozsądek zjednuje łaskę, a droga zdrajców jest trudna."
+  },
+  {
+    "i": 16829,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 16,
+    "t": "Człowiek roztropny działa z rozwagą, a głupi obnosi się ze swoją głupotą."
+  },
+  {
+    "i": 16830,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 17,
+    "t": "Posłaniec niegodziwy wpada w nieszczęście, a posłaniec wierny przynosi uzdrowienie."
+  },
+  {
+    "i": 16831,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 18,
+    "t": "Bieda i hańba spotykają tego, kto porzuca karność, a kto przestrzega upomnienia, ten doznaje czci."
+  },
+  {
+    "i": 16832,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 19,
+    "t": "Spełnione pragnienie jest słodkie dla duszy, a obrzydliwością dla głupich – unikanie zła."
+  },
+  {
+    "i": 16833,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 20,
+    "t": "Kto przestaje z mądrymi, staje się mądry, a kto zadaje się z głupimi, ten źle skończy."
+  },
+  {
+    "i": 16834,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 21,
+    "t": "Za grzesznikiem idzie nieszczęście, a sprawiedliwych wynagradza szczęście."
+  },
+  {
+    "i": 16835,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 22,
+    "t": "Człowiek dobry zostawia dziedzictwo wnukom, a dla sprawiedliwego zachowane jest bogactwo grzeszników."
+  },
+  {
+    "i": 16836,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 23,
+    "t": "Obfitość pokarmu jest na roli ubogich, lecz bywa, że ginie z powodu braku sprawiedliwości."
+  },
+  {
+    "i": 16837,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 24,
+    "t": "Kto żałuje rózgi, ten nienawidzi swego syna, a kto go miłuje, w porę go karci."
+  },
+  {
+    "i": 16838,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 25,
+    "t": "Sprawiedliwy je, aż się nasyci, a żołądek niegodziwych cierpi głód."
+  },
+  {
+    "i": 16839,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 1,
+    "t": "Mądrość buduje swój dom, a głupota własnymi rękami go burzy."
+  },
+  {
+    "i": 16840,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 2,
+    "t": "Kto postępuje uczciwie, boi się Jahwe, a kto zbacza ze swych dróg, gardzi Nim."
+  },
+  {
+    "i": 16841,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 3,
+    "t": "W ustach głupiego jest latorośl pychy, a wargi mądrych ich strzegą."
+  },
+  {
+    "i": 16842,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 4,
+    "t": "Gdy nie ma wołów, żłób jest pusty, a siła wołu daje obfite plony."
+  },
+  {
+    "i": 16843,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 5,
+    "t": "Świadek prawdomówny nie kłamie, a świadek fałszywy rozsiewa kłamstwa."
+  },
+  {
+    "i": 16844,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 6,
+    "t": "Szyderca szuka mądrości, lecz na próżno, a dla człowieka rozumnego wiedza jest rzeczą łatwą."
+  },
+  {
+    "i": 16845,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 7,
+    "t": "Oddal się od głupiego, bo nie znajdziesz na jego ustach słów mądrych."
+  },
+  {
+    "i": 16846,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 8,
+    "t": "Mądrością roztropnego jest baczenie na swoją drogę, a głupota głupich jest zwodzeniem."
+  },
+  {
+    "i": 16847,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 9,
+    "t": "Głupi szydzą z ofiary za grzech, a wśród ludzi prawych jest upodobanie."
+  },
+  {
+    "i": 16848,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 10,
+    "t": "Serce zna własny ból i nikt obcy nie podzieli jego radości."
+  },
+  {
+    "i": 16849,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 11,
+    "t": "Dom niegodziwych ulegnie zniszczeniu, a namiot ludzi prawych rozkwitnie."
+  },
+  {
+    "i": 16850,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 12,
+    "t": "Jest droga, która człowiekowi wydaje się słuszna, lecz w końcu prowadzi do śmierci."
+  },
+  {
+    "i": 16851,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 13,
+    "t": "Nawet podczas śmiechu serce doznaje bólu, a radość kończy się żalem."
+  },
+  {
+    "i": 16852,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 14,
+    "t": "Serce odstępcy syci się swymi drogami, a człowiek dobry – swymi uczynkami."
+  },
+  {
+    "i": 16853,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 15,
+    "t": "Niedoświadczony wierzy każdemu słowu, a roztropny zważa na swe kroki."
+  },
+  {
+    "i": 16854,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 16,
+    "t": "Mądry boi się zła i odwraca się od niego, a głupi jest porywczy i pewny siebie."
+  },
+  {
+    "i": 16855,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 17,
+    "t": "Człowiek porywczy popełnia głupstwa, a człowiek złośliwy jest znienawidzony."
+  },
+  {
+    "i": 16856,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 18,
+    "t": "Niedoświadczeni dziedziczą głupotę, a ludzie roztropni koronują się wiedzą."
+  },
+  {
+    "i": 16857,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 19,
+    "t": "Źli korzą się przed dobrymi, a niegodziwi u bram sprawiedliwych."
+  },
+  {
+    "i": 16858,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 20,
+    "t": "Nawet swemu bliźniemu ubogi jest niemiły, a bogatego wielu miłuje."
+  },
+  {
+    "i": 16859,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 21,
+    "t": "Grzeszy ten, kto gardzi swoim bliźnim, a błogosławiony ten, kto lituje się nad ubogimi."
+  },
+  {
+    "i": 16860,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 22,
+    "t": "Czyż nie błądzą ci, którzy knują zło? Miłosierdzie i wierność dla tych, którzy dążą do dobra."
+  },
+  {
+    "i": 16861,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 23,
+    "t": "Z wszelkiego trudu jest zysk, a gadulstwo prowadzi jedynie do niedostatku."
+  },
+  {
+    "i": 16862,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 24,
+    "t": "Koroną mądrych jest ich bogactwo, a głupotą głupich – głupota."
+  },
+  {
+    "i": 16863,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 25,
+    "t": "Świadek prawdomówny ratuje życie, a kto rozsiewa kłamstwa, ten jest oszustem."
+  },
+  {
+    "i": 16864,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 26,
+    "t": "W bojaźni Jahwe jest mocna ufność, a dla swych dzieci On jest ucieczką."
+  },
+  {
+    "i": 16865,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 27,
+    "t": "Bojaźń Jahwe jest źródłem życia, aby unikać sideł śmierci."
+  },
+  {
+    "i": 16866,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 28,
+    "t": "Liczny lud jest chwałą króla, a mała liczba ludności – zgubą księcia."
+  },
+  {
+    "i": 16867,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 29,
+    "t": "Człowiek nieskory do gniewu ma wiele rozumu, a porywczy wywyższa głupotę."
+  },
+  {
+    "i": 16868,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 30,
+    "t": "Życiem ciała jest serce spokojne, a zazdrość – próchnicą kości."
+  },
+  {
+    "i": 16869,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 31,
+    "t": "Kto uciska ubogiego, znieważa jego Stwórcę, a kto lituje się nad nieszczęśliwymi, czci Go."
+  },
+  {
+    "i": 16870,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 32,
+    "t": "Niegodziwy upada przez swoją własną złość, a sprawiedliwy znajduje schronienie w swojej uczciwości."
+  },
+  {
+    "i": 16871,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 33,
+    "t": "W sercu rozumnym mieszka mądrość, a u głupich nie daje się poznać."
+  },
+  {
+    "i": 16872,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 34,
+    "t": "Sprawiedliwość wywyższa naród, a grzech jest hańbą ludów."
+  },
+  {
+    "i": 16873,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 35,
+    "t": "Umiłowanie króla okazuje się roztropnemu słudze, a jego gniew – temu, który sprowadza wstyd."
+  },
+  {
+    "i": 16874,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 1,
+    "t": "Łagodna odpowiedź uśmierza gniew, a słowo raniące wywołuje złość."
+  },
+  {
+    "i": 16875,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 2,
+    "t": "Język mądrych czyni wiedzę miłą, a usta głupich tryskają głupotą."
+  },
+  {
+    "i": 16876,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 3,
+    "t": "Na każdym miejscu są oczy Jahwe, obserwują złych i dobrych."
+  },
+  {
+    "i": 16877,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 4,
+    "t": "Język łagodny jest drzewem życia, a przewrotny – łamie serce."
+  },
+  {
+    "i": 16878,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 5,
+    "t": "Głupi gardzi karceniem ojca, a kto przestrzega upomnienia, ten staje się roztropny."
+  },
+  {
+    "i": 16879,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 6,
+    "t": "W domu sprawiedliwego jest obfitość bogactw, a dochody niegodziwego są źródłem niepokoju."
+  },
+  {
+    "i": 16880,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 7,
+    "t": "Usta mędrych rozsiewają wiedzę, lecz serce głupich nie tak czyni."
+  },
+  {
+    "i": 16881,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 8,
+    "t": "Ofiara niegodziwych jest obrzydliwością dla Jahwe, lecz modlitwa sprawiedliwych jest Mu miła."
+  },
+  {
+    "i": 16882,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 9,
+    "t": "Obrzydliwością dla Jahwe jest zła droga, lecz On miłuje tego, który dąży do sprawiedliwości."
+  },
+  {
+    "i": 16883,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 10,
+    "t": "Sroga kara czeka tego, który zbacza z drogi; kto nienawidzi upomnienia, umrze."
+  },
+  {
+    "i": 16884,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 11,
+    "t": "Szeol i Zagłada są przed Jahwe, tym bardziej serca synów ludzkich!"
+  },
+  {
+    "i": 16885,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 12,
+    "t": "Szyderca nie lubi, gdy się go strofuje, z mądrymi się nie zadaje."
+  },
+  {
+    "i": 16886,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 13,
+    "t": "Serce radosne czyni twarz pogodną, lecz smutek serca przygnębia ducha."
+  },
+  {
+    "i": 16887,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 14,
+    "t": "Serce rozumne szuka wiedzy, lecz usta głupich karmią się głupotą."
+  },
+  {
+    "i": 16888,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 15,
+    "t": "Dla ubogiego wszystkie dni są złe, lecz dla serca radosnego to nieustanna uczta."
+  },
+  {
+    "i": 16889,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 16,
+    "t": "Lepiej mało z bojaźnią Jahwe, niż bogaty skarb z niepokojem."
+  },
+  {
+    "i": 16890,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 17,
+    "t": "Lepiej miska jarzyn z miłością, niż tuczony wół z nienawiścią."
+  },
+  {
+    "i": 16891,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 18,
+    "t": "Człowiek porywczy wznieca kłótnię, lecz człowiek powolny do gniewu łagodzi spór."
+  },
+  {
+    "i": 16892,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 19,
+    "t": "Droga leniwego jest jak żywopłot z cierni, lecz ścieżka prawych jest gościńcem."
+  },
+  {
+    "i": 16893,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 20,
+    "t": "Syn mądry rozwesela ojca, lecz człowiek głupi pogardza matką swoją."
+  },
+  {
+    "i": 16894,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 21,
+    "t": "Głupota jest radością dla człowieka pozbawionego rozsądku, lecz człowiek rozumny idzie prostą drogą."
+  },
+  {
+    "i": 16895,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 22,
+    "t": "Bez narady zamysły się udaremniają, lecz dzięki licznym doradcom nabierają mocy."
+  },
+  {
+    "i": 16896,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 23,
+    "t": "Radością dla człowieka jest odpowiedź ust jego, jak dobra jest mowa we właściwym czasie!"
+  },
+  {
+    "i": 16897,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 24,
+    "t": "Droga życia prowadzi w górę roztropnego, aby uniknąć Szeolu na dole."
+  },
+  {
+    "i": 16898,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 25,
+    "t": "Jahwe burzy dom pyszałków, lecz umacnia granicę wdowy."
+  },
+  {
+    "i": 16899,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 26,
+    "t": "Obrzydliwością dla Jahwe są złe zamysły, lecz słowa uprzejme są czyste."
+  }
+]

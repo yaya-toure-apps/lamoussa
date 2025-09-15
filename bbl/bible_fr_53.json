@@ -1,0 +1,802 @@
+[
+  {
+    "i": 5300,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 11,
+    "t": "Vous pourrez manger de tout oiseau pur,"
+  },
+  {
+    "i": 5301,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 12,
+    "t": "mais voici ceux des oiseaux dont vous ne pourrez manger : le vautour-griffon, le gypaète, l’orfraie,"
+  },
+  {
+    "i": 5302,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 13,
+    "t": "le milan noir, les différentes espèces de milan rouge,"
+  },
+  {
+    "i": 5303,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 14,
+    "t": "toutes les espèces de corbeau,"
+  },
+  {
+    "i": 5304,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 15,
+    "t": "l’autruche, le chat-huant, la mouette et les différentes espèces d’épervier,"
+  },
+  {
+    "i": 5305,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 16,
+    "t": "le hibou, la chouette, l’ibis,"
+  },
+  {
+    "i": 5306,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 17,
+    "t": "le pélican, le vautour blanc, le cormoran,"
+  },
+  {
+    "i": 5307,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 18,
+    "t": "la cigogne et les différentes espèces de héron, la huppe, la chauve-souris."
+  },
+  {
+    "i": 5308,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 19,
+    "t": "Vous tiendrez toutes les bestioles ailées pour impures, vous n’en mangerez pas."
+  },
+  {
+    "i": 5309,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 20,
+    "t": "Vous pourrez manger de tout volatile pur."
+  },
+  {
+    "i": 5310,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 21,
+    "t": "Vous ne pourrez manger aucune bête crevée. Tu la donneras à l’étranger qui réside chez toi pour qu’il la mange, ou bien vends-la à un étranger du dehors. Tu es en effet un peuple consacré à Yahvé ton Dieu. Tu ne feras pas cuire un chevreau dans le lait de sa mère."
+  },
+  {
+    "i": 5311,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 22,
+    "t": "Chaque année, tu devras prendre la dîme de tout ce que tes semailles auront rapporté dans tes champs"
+  },
+  {
+    "i": 5312,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 23,
+    "t": "et, en présence de Yahvé ton Dieu, au lieu qu’il aura choisi pour y faire habiter son nom, tu mangeras la dîme de ton froment, de ton vin nouveau et de ton huile, les premiers-nés de ton gros et de ton petit bétail ; ainsi tu apprendras à toujours craindre Yahvé ton Dieu."
+  },
+  {
+    "i": 5313,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 24,
+    "t": "Si le chemin est trop long pour toi, si tu ne peux pas apporter la dîme parce que le lieu choisi par Yahvé pour y faire habiter son nom est trop loin de chez toi, quand Yahvé ton Dieu t’aura béni"
+  },
+  {
+    "i": 5314,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 25,
+    "t": "tu la convertiras en argent, tu serreras l’argent dans ta main et tu iras au lieu choisi par Yahvé ton Dieu ;"
+  },
+  {
+    "i": 5315,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 26,
+    "t": "là tu échangeras cet argent contre tout ce que tu désireras, gros ou petit bétail, vin ou boisson fermentée, tout ce dont tu auras envie. Tu mangeras là en présence de Yahvé ton Dieu et tu te réjouiras, toi et ta maison."
+  },
+  {
+    "i": 5316,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 27,
+    "t": "Tu ne négligeras pas le lévite qui est dans tes portes, puisqu’il n’a ni part ni héritage avec toi."
+  },
+  {
+    "i": 5317,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 28,
+    "t": "Au bout de trois ans, tu prélèveras toutes les dîmes de tes récoltes de cette année-là et tu les déposeras à tes portes."
+  },
+  {
+    "i": 5318,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 29,
+    "t": "Viendront alors manger le lévite (puisqu’il n’a ni part ni héritage avec toi), l’étranger, l’orphelin et la veuve de ta ville, et ils s’en rassasieront. Ainsi Yahvé ton Dieu te bénira dans tous les travaux que tes mains pourront entreprendre."
+  },
+  {
+    "i": 5319,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 1,
+    "t": "Au bout de sept ans tu feras remise."
+  },
+  {
+    "i": 5320,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 2,
+    "t": "Voici en quoi consiste la remise. Tout détenteur d’un gage personnel qu’il aura obtenu de son prochain, lui en fera remise ; il n’exploitera pas son prochain ni son frère, quand celui-ci en aura appelé à Yahvé pour remise."
+  },
+  {
+    "i": 5321,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 3,
+    "t": "Tu pourras exploiter l’étranger, mais tu libéreras ton frère de ton droit sur lui."
+  },
+  {
+    "i": 5322,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 4,
+    "t": "Qu’il n’y ait donc pas de pauvre chez toi. Car Yahvé ne t’accordera sa bénédiction dans le pays que Yahvé ton Dieu te donne en héritage pour le posséder,"
+  },
+  {
+    "i": 5323,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 5,
+    "t": "que si tu écoutes vraiment la voix de Yahvé ton Dieu, en gardant et pratiquant tous ces commandements que je te prescris aujourd’hui."
+  },
+  {
+    "i": 5324,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 6,
+    "t": "Si Yahvé ton Dieu te bénit comme il l’a dit, tu prêteras à des nations nombreuses, sans avoir besoin de leur emprunter, et tu domineras des nations nombreuses, sans qu’elles te dominent."
+  },
+  {
+    "i": 5325,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 7,
+    "t": "Se trouve-t-il chez toi un pauvre, d’entre tes frères, dans l’une des villes de ton pays que Yahvé ton Dieu t’a donné ? Tu n’endurciras pas ton cœur ni ne fermeras ta main à ton frère pauvre,"
+  },
+  {
+    "i": 5326,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 8,
+    "t": "mais tu lui ouvriras ta main et tu lui prêteras ce qui lui manque."
+  },
+  {
+    "i": 5327,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 9,
+    "t": "Ne va pas tenir en ton cœur ces mauvais propos : \"Voici bientôt la septième année, l’année de remise\", en regardant méchamment ton frère pauvre sans rien lui donner ; il en appellerait à Yahvé contre toi et tu serais chargé d’un péché !"
+  },
+  {
+    "i": 5328,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 10,
+    "t": "Quand tu lui donnes, tu dois lui donner de bon cœur, car pour cela Yahvé ton Dieu te bénira dans toutes tes actions et dans tous tes travaux."
+  },
+  {
+    "i": 5329,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 11,
+    "t": "Certes, les pauvres ne disparaîtront point de ce pays ; aussi je te donne ce commandement : Tu dois ouvrir ta main à ton frère, à celui qui est humilié et pauvre dans ton pays."
+  },
+  {
+    "i": 5330,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 12,
+    "t": "Si ton frère hébreu, homme ou femme, se vend à toi, il te servira six ans. La septième année tu le renverras libre"
+  },
+  {
+    "i": 5331,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 13,
+    "t": "et, le renvoyant libre, tu ne le renverras pas les mains vides."
+  },
+  {
+    "i": 5332,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 14,
+    "t": "Tu chargeras sur ses épaules, à titre de cadeau, quelque produit de ton petit bétail, de ton aire et de ton pressoir ; selon ce dont t’aura béni Yahvé ton Dieu, tu lui donneras."
+  },
+  {
+    "i": 5333,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 15,
+    "t": "Tu te souviendras que tu as été en servitude au pays d’Égypte et que Yahvé ton Dieu t’a racheté : voilà pourquoi je te donne aujourd’hui cet ordre."
+  },
+  {
+    "i": 5334,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 16,
+    "t": "Mais s’il te dit : \"Je ne veux pas te quitter\", s’il t’aime, toi et ta maison, s’il est heureux avec toi,"
+  },
+  {
+    "i": 5335,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 17,
+    "t": "tu prendras un poinçon, tu lui en perceras l’oreille contre la porte et il sera ton serviteur pour toujours. Envers ta servante tu feras de même."
+  },
+  {
+    "i": 5336,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 18,
+    "t": "Qu’il ne te semble pas trop pénible de le renvoyer en liberté : il vaut deux fois le salaire d’un mercenaire, celui qui t’aura servi six ans. Et Yahvé ton Dieu te bénira en tout ce que tu feras."
+  },
+  {
+    "i": 5337,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 19,
+    "t": "Tout premier-né mâle de ta vache ou de ta brebis, tu le consacreras à Yahvé ton Dieu. Tu ne feras pas travailler le premier-né de ta vache, ni ne tondras le premier-né de ta brebis."
+  },
+  {
+    "i": 5338,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 20,
+    "t": "Tu le mangeras, toi et ta maison, chaque année, en présence de Yahvé ton Dieu au lieu choisi par Yahvé."
+  },
+  {
+    "i": 5339,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 21,
+    "t": "S’il a quelque tare, s’il est boiteux ou aveugle, n’importe quelle tare grave, tu ne l’immoleras pas à Yahvé ton Dieu ;"
+  },
+  {
+    "i": 5340,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 22,
+    "t": "tu le mangeras chez toi, purs et impurs réunis, comme tu mangerais de la gazelle ou du cerf ;"
+  },
+  {
+    "i": 5341,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 23,
+    "t": "seulement, tu n’en mangeras pas le sang, tu le répandras à terre comme de l’eau."
+  },
+  {
+    "i": 5342,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 1,
+    "t": "Observe le mois d’Abib et célèbre une Pâque pour Yahvé ton Dieu, car c’est au mois d’Abib que Yahvé ton Dieu, la nuit, t’a fait sortir d’Égypte."
+  },
+  {
+    "i": 5343,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 2,
+    "t": "Tu immoleras pour Yahvé ton Dieu une pâque de gros et de petit bétail, au lieu choisi par Yahvé ton Dieu pour y faire habiter son nom."
+  },
+  {
+    "i": 5344,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 3,
+    "t": "Tu ne mangeras pas, avec la victime, de pain fermenté ; pendant sept jours tu mangeras avec elle des azymes — un pain de misère — car c’est en toute hâte que tu as quitté le pays d’Égypte : ainsi tu te souviendras, tous les jours de ta vie, du jour où tu sortis du pays d’Égypte."
+  },
+  {
+    "i": 5345,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 4,
+    "t": "Pendant sept jours on ne verra pas chez toi de levain, sur tout ton territoire, et de la chair que tu auras sacrifiée le soir du premier jour rien ne devra être gardé jusqu’au lendemain."
+  },
+  {
+    "i": 5346,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 5,
+    "t": "Tu ne pourras pas immoler la pâque dans l’une des villes que Yahvé ton Dieu t’aura données,"
+  },
+  {
+    "i": 5347,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 6,
+    "t": "mais c’est au lieu choisi par Yahvé ton Dieu pour y faire habiter son nom que tu immoleras la pâque, le soir au coucher du soleil, à l’heure de ta sortie d’Égypte."
+  },
+  {
+    "i": 5348,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 7,
+    "t": "Tu la feras cuire et tu la mangeras au lieu choisi par Yahvé ton Dieu, puis, au matin, tu t’en retourneras et tu iras à tes tentes."
+  },
+  {
+    "i": 5349,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 8,
+    "t": "Pendant six jours tu mangeras des azymes ; au septième jour une réunion aura lieu pour Yahvé ton Dieu ; et tu ne feras aucun travail."
+  },
+  {
+    "i": 5350,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 9,
+    "t": "Tu compteras sept semaines. Quand la faucille aura commencé à couper les épis, alors tu commenceras à compter ces sept semaines."
+  },
+  {
+    "i": 5351,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 10,
+    "t": "Puis tu célébreras pour Yahvé ton Dieu la fête des Semaines, avec l’offrande volontaire que fera ta main, selon ce dont Yahvé ton Dieu te bénit."
+  },
+  {
+    "i": 5352,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 11,
+    "t": "En présence de Yahvé ton Dieu tu te réjouiras, au lieu choisi par Yahvé ton Dieu pour y faire habiter son nom : toi, ton fils et ta fille, ton serviteur et ta servante, le lévite qui est dans tes portes, l’étranger, l’orphelin et la veuve qui vivent au milieu de toi."
+  },
+  {
+    "i": 5353,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 12,
+    "t": "Tu te souviendras que tu as été en servitude au pays d’Égypte, et tu garderas ces lois pour les mettre en pratique."
+  },
+  {
+    "i": 5354,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 13,
+    "t": "Tu célébreras la fête des Tentes pendant sept jours, au moment où tu rentreras le produit de ton aire et de ton pressoir."
+  },
+  {
+    "i": 5355,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 14,
+    "t": "Tu te réjouiras à ta fête, toi, ton fils et ta fille, ton serviteur et ta servante, le lévite et l’étranger, l’orphelin et la veuve qui sont dans tes portes."
+  },
+  {
+    "i": 5356,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 15,
+    "t": "Pendant sept jours tu feras fête à Yahvé ton Dieu au lieu choisi par Yahvé ; car Yahvé ton Dieu te bénira dans toutes tes récoltes et dans tous tes travaux, pour que tu sois pleinement joyeux."
+  },
+  {
+    "i": 5357,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 16,
+    "t": "Trois fois par an, on verra tous les mâles de chez toi, devant Yahvé ton Dieu, au lieu qu’il aura choisi : à la fête des Azymes, à la fête des Semaines, à la fête des Tentes. Aucun ne se présentera les mains vides devant Yahvé ;"
+  },
+  {
+    "i": 5358,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 17,
+    "t": "mais chacun donnera, à la mesure de la bénédiction que Yahvé ton Dieu t’aura donnée."
+  },
+  {
+    "i": 5359,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 18,
+    "t": "Tu établiras des juges et des scribes, en chacune des villes que Yahvé ton Dieu te donne, pour toutes tes tribus ; ils jugeront le peuple en des jugements justes."
+  },
+  {
+    "i": 5360,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 19,
+    "t": "Tu ne feras pas dévier le droit, tu n’auras pas égard aux personnes et tu n’accepteras pas de présent, car le présent aveugle les yeux des sages et ruine les causes des justes."
+  },
+  {
+    "i": 5361,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 20,
+    "t": "C’est la stricte justice que tu rechercheras, afin de vivre et de posséder le pays que Yahvé ton Dieu te donne."
+  },
+  {
+    "i": 5362,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 21,
+    "t": "Tu ne planteras pas de pieu sacré, de quelque bois que ce soit, à côté de l’autel de Yahvé ton Dieu que tu te seras bâti,"
+  },
+  {
+    "i": 5363,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 22,
+    "t": "et tu ne dresseras pas de stèle, qui serait odieuse à Yahvé ton Dieu."
+  },
+  {
+    "i": 5364,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 1,
+    "t": "Tu n’immoleras pas à Yahvé ton Dieu une pièce de gros ou de petit bétail qui ait une tare ou un défaut quelconque, car Yahvé ton Dieu a cela en abomination."
+  },
+  {
+    "i": 5365,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 2,
+    "t": "S’il se trouve au milieu de toi, dans l’une des villes que Yahvé ton Dieu t’aura données, un homme ou une femme qui fasse ce qui est mal aux yeux de Yahvé ton Dieu, en transgressant son alliance,"
+  },
+  {
+    "i": 5366,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 3,
+    "t": "qui aille servir d’autres dieux et se prosterner devant eux, et devant le soleil, la lune ou quelque autre de l’armée des cieux, ce que je n’ai pas commandé,"
+  },
+  {
+    "i": 5367,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 4,
+    "t": "et qu’on te le dénonce ; si, après l’avoir entendu et fait une bonne enquête, le fait est avéré et s’il est bien établi que cette chose abominable a été commise en Israël,"
+  },
+  {
+    "i": 5368,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 5,
+    "t": "tu feras sortir aux portes de ta ville cet homme ou cette femme coupable de cette mauvaise action, et tu lapideras cet homme ou cette femme jusqu’à ce que mort s’ensuive."
+  },
+  {
+    "i": 5369,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 6,
+    "t": "On ne pourra être condamné à mort qu’au dire de deux ou trois témoins, on ne sera pas mis à mort au dire d’un seul témoin."
+  },
+  {
+    "i": 5370,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 7,
+    "t": "Les témoins mettront les premiers la main à l’exécution du condamné, puis tout le peuple y mettra la main. Tu feras disparaître le mal du milieu de toi."
+  },
+  {
+    "i": 5371,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 8,
+    "t": "Si tu as à juger un cas qui te dépasse, affaire de meurtre, contestation ou voie de fait, un litige quelconque dans ta ville, tu partiras et tu monteras au lieu choisi par Yahvé ton Dieu,"
+  },
+  {
+    "i": 5372,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 9,
+    "t": "tu iras trouver les prêtres lévites et le juge alors en fonction. Ils feront une enquête, et ils te feront connaître la sentence."
+  },
+  {
+    "i": 5373,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 10,
+    "t": "Tu te conformeras à la parole qu’ils t’auront fait connaître en ce lieu choisi par Yahvé, et tu prendras garde d’agir selon toutes leurs instructions."
+  },
+  {
+    "i": 5374,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 11,
+    "t": "Tu te conformeras à la décision qu’ils t’auront fait connaître et à la sentence qu’ils auront prononcée, sans t’écarter ni à droite ni à gauche de la parole qu’ils t’auront fait connaître."
+  },
+  {
+    "i": 5375,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 12,
+    "t": "Si quelqu’un agit présomptueusement, n’obéissant ni au prêtre qui se tient là pour le service de Yahvé ton Dieu, ni au juge, cet homme mourra. Tu feras disparaître d’Israël le mal."
+  },
+  {
+    "i": 5376,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 13,
+    "t": "Le peuple l’apprendra, craindra, et cessera d’agir avec présomption."
+  },
+  {
+    "i": 5377,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 14,
+    "t": "Lorsque tu seras arrivé en ce pays que Yahvé ton Dieu te donne, que tu en auras pris possession et que tu y habiteras, si tu te dis : \"Je veux établir sur moi un roi, comme toutes les nations d’alentour\","
+  },
+  {
+    "i": 5378,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 15,
+    "t": "c’est un roi choisi par Yahvé ton Dieu que tu devras établir sur toi, c’est quelqu’un d’entre tes frères que tu établiras sur toi comme roi, tu ne pourras pas te donner un roi étranger qui ne soit pas ton frère."
+  },
+  {
+    "i": 5379,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 16,
+    "t": "Mais qu’il n’aille pas multiplier ses chevaux, et qu’il ne ramène pas le peuple en Égypte pour accroître sa cavalerie, car Yahvé vous a dit : \"Vous ne retournerez jamais par ce chemin.\""
+  },
+  {
+    "i": 5380,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 17,
+    "t": "Qu’il ne multiplie pas le nombre de ses femmes, ce qui pourrait égarer son cœur. Qu’il ne multiplie pas à l’excès son argent et son or."
+  },
+  {
+    "i": 5381,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 18,
+    "t": "Lorsqu’il montera sur le trône royal, il devra écrire sur un rouleau, pour son usage, une copie de cette Loi, sous la dictée des prêtres lévites."
+  },
+  {
+    "i": 5382,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 19,
+    "t": "Elle ne le quittera pas ; il la lira tous les jours de sa vie, pour apprendre à craindre Yahvé son Dieu en gardant toutes les paroles de cette Loi, ainsi que ces règles pour les mettre en pratique."
+  },
+  {
+    "i": 5383,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 20,
+    "t": "Il évitera ainsi de s’enorgueillir au-dessus de ses frères, et il ne s’écartera de ces commandements ni à droite ni à gauche. À cette condition, il aura lui et ses fils, de longs jours sur le trône en Israël."
+  },
+  {
+    "i": 5384,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 1,
+    "t": "Les prêtres lévites, toute la tribu de Lévi, n’auront point de part ni d’héritage avec Israël : ils vivront des mets offerts à Yahvé et de son patrimoine."
+  },
+  {
+    "i": 5385,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 2,
+    "t": "Cette tribu n’aura pas d’héritage au milieu de ses frères ; c’est Yahvé qui sera son héritage, ainsi qu’il le lui a dit."
+  },
+  {
+    "i": 5386,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 3,
+    "t": "Voici les droits des prêtres sur le peuple, sur ceux qui offrent un sacrifice de gros ou de petit bétail : on donnera au prêtre l’épaule, les mâchoires et l’estomac."
+  },
+  {
+    "i": 5387,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 4,
+    "t": "Tu lui donneras les prémices de ton froment, de ton vin nouveau et de ton huile, ainsi que les prémices de la tonte de ton petit bétail."
+  },
+  {
+    "i": 5388,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 5,
+    "t": "Car c’est lui que Yahvé ton Dieu a choisi entre toutes tes tribus pour se tenir devant Yahvé ton Dieu, pour faire le service divin et donner la bénédiction au nom de Yahvé, lui et ses fils pour toujours."
+  },
+  {
+    "i": 5389,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 6,
+    "t": "Si le lévite séjournant en l’une de tes villes, où que ce soit en Israël, vient, selon son désir, au lieu choisi par Yahvé,"
+  },
+  {
+    "i": 5390,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 7,
+    "t": "il y officiera au nom de Yahvé son Dieu comme tous ses frères lévites qui se tiennent là en présence de Yahvé,"
+  },
+  {
+    "i": 5391,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 8,
+    "t": "mangeant une part égale à la leur — sans compter ce qui lui vient par la vente de son patrimoine."
+  },
+  {
+    "i": 5392,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 9,
+    "t": "Lorsque tu seras entré dans le pays que Yahvé ton Dieu te donne, tu n’apprendras pas à commettre les mêmes abominations que ces nations-là."
+  },
+  {
+    "i": 5393,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 10,
+    "t": "On ne trouvera chez toi personne qui fasse passer au feu son fils ou sa fille, qui pratique divination, incantation, mantique ou magie,"
+  },
+  {
+    "i": 5394,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 11,
+    "t": "personne qui use de charmes, qui interroge les spectres et devins, qui invoque les morts."
+  },
+  {
+    "i": 5395,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 12,
+    "t": "Car quiconque fait ces choses est en abomination à Yahvé ton Dieu, et c’est à cause de ces abominations que Yahvé ton Dieu chasse ces nations devant toi."
+  },
+  {
+    "i": 5396,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 13,
+    "t": "Tu seras sans tache vis-à-vis de Yahvé ton Dieu."
+  },
+  {
+    "i": 5397,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 14,
+    "t": "Car ces nations que tu dépossèdes écoutaient enchanteurs et devins, mais tel n’a pas été pour toi le don de Yahvé ton Dieu."
+  },
+  {
+    "i": 5398,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 15,
+    "t": "Yahvé ton Dieu suscitera pour toi, du milieu de toi, parmi tes frères, un prophète comme moi, que vous écouterez."
+  },
+  {
+    "i": 5399,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 16,
+    "t": "C’est cela même que tu as demandé à Yahvé ton Dieu, à l’Horeb, au jour de l’Assemblée : \"Pour ne pas mourir, je n’écouterai plus la voix de Yahvé mon Dieu et je ne regarderai plus ce grand feu\","
+  }
+]

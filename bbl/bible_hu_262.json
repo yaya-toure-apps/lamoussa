@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26200,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 29,
+    "t": "Bilincseid legyenek néked hatalmas oltalmazók, nyakláncaid pedig drága ékességek."
+  },
+  {
+    "i": 26201,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 30,
+    "t": "Igája legyen arany dísz, kötelékei bíborszínű szalagok."
+  },
+  {
+    "i": 26202,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 31,
+    "t": "Mint ékes ruhát öltöztesd magadra, és mint öröm diadémjával ékesítsd magad."
+  },
+  {
+    "i": 26203,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 32,
+    "t": "Ha akarod, fiam, tanulsz, és engedelmességed által lehetsz ügyes."
+  },
+  {
+    "i": 26204,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 33,
+    "t": "Ha szeretsz hallgatni, tanulsz, és ha füledet odafordítod, bölcs leszel."
+  },
+  {
+    "i": 26205,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 34,
+    "t": "Állj a vének gyülekezetében, és ha látsz egy bölcset, csatlakozz hozzá."
+  },
+  {
+    "i": 26206,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 35,
+    "t": "Hallgass készségesen minden Istenből származó szót, a finom példabeszédek ne kerüld el."
+  },
+  {
+    "i": 26207,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 36,
+    "t": "Ha látsz egy értelmes embert, menj hozzá már reggel, és lábaid tapossák portáját."
+  },
+  {
+    "i": 26208,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 37,
+    "t": "Elmélkedj az Úr parancsolatain, foglalkozz szüntelenül az ő rendeleteivel. Ő erősíti meg a szívedet, és a bölcsesség, amelyet kívánsz, megadatik néked."
+  },
+  {
+    "i": 26209,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 1,
+    "t": "Ne cselekedj gonoszat, és a gonosz nem lesz úrrá rajtad;"
+  },
+  {
+    "i": 26210,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 2,
+    "t": "fordulj el az igazságtalanságtól, és az eltávozik tőled."
+  },
+  {
+    "i": 26211,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 3,
+    "t": "Fiam, ne vess igazságtalanság barázdáiba, nehogy hétszeresen arass."
+  },
+  {
+    "i": 26212,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 4,
+    "t": "Ne kérd az Úrtól az első helyet, sem a királytól dicső széket."
+  },
+  {
+    "i": 26213,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 5,
+    "t": "Ne játssz igazat az Úr előtt, sem bölcset a király előtt."
+  },
+  {
+    "i": 26214,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 6,
+    "t": "Ne törekedj a bírói tisztségre, ha nem vagy képes kiirtani az igazságtalanságot, nehogy egy nagytól befolyásoltass, és elveszítsd egyenességedet."
+  },
+  {
+    "i": 26215,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 7,
+    "t": "Ne légy bűnös a város gyülekezete előtt, és ne alacsonyodj le a nép előtt."
+  },
+  {
+    "i": 26216,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 8,
+    "t": "Ne hagyd, hogy kétszer bűnre csábítsanak, mert egyszer sem menekülhetsz meg."
+  },
+  {
+    "i": 26217,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 9,
+    "t": "Ne mondd: „Isten figyelembe veszi áldozataim sokaságát, amikor bemutatom azokat a Magasságos Istennek, elfogadja azokat.”"
+  },
+  {
+    "i": 26218,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 10,
+    "t": "Ne légy tétova az imában, és ne hanyagold el az alamizsnát."
+  },
+  {
+    "i": 26219,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 11,
+    "t": "Ne gúnyolj ki egy embert, aki szomorúságban van, mert aki megaláz, felemelhet."
+  },
+  {
+    "i": 26220,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 12,
+    "t": "Ne kovácsolj hazugságot testvéred ellen, még kevésbé egy barátod ellen."
+  },
+  {
+    "i": 26221,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 13,
+    "t": "Őrizkedj attól, hogy hazugságot szólj, mert abból semmi jó nem származhat."
+  },
+  {
+    "i": 26222,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 14,
+    "t": "Ne fecsegj a vének gyülekezetében, és ne ismételgesd szavaidat az imában."
+  },
+  {
+    "i": 26223,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 15,
+    "t": "Ne idegenkedj a fáradságos munkáktól, sem a Magasságos által teremtett földműveléstől."
+  },
+  {
+    "i": 26224,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 16,
+    "t": "Ne számítsd magad a bűnösök közé, emlékezz arra, hogy a Harag nem késik."
+  },
+  {
+    "i": 26225,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 17,
+    "t": "Alázd meg magad mélyen, mert a tűz és a férgek az istentelen büntetése."
+  },
+  {
+    "i": 26226,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 18,
+    "t": "Ne cseréld el a barátot pénzért, sem az igaz testvért az Ofir aranyáért."
+  },
+  {
+    "i": 26227,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 19,
+    "t": "Ne fordulj el egy bölcs és jó feleségtől, mert kegyessége többet ér az aranynál."
+  },
+  {
+    "i": 26228,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 20,
+    "t": "Ne bántsd a rabszolgát, aki hűségesen dolgozik, sem a munkavállalót, aki odaadó."
+  },
+  {
+    "i": 26229,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 21,
+    "t": "Szeresd szívedben az értelmes rabszolgát, ne tagadd meg tőle a szabadságot."
+  },
+  {
+    "i": 26230,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 22,
+    "t": "Vannak nyájaid? Gondozd őket; ha hasznot húzol belőlük, őrizd meg őket."
+  },
+  {
+    "i": 26231,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 23,
+    "t": "Vannak gyermekeid? Neveld őket, és már gyermekkoruktól hajlítsd meg a hátukat."
+  },
+  {
+    "i": 26232,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 24,
+    "t": "Vannak lányaid? Vigyázz a testükre, és ne mosolyogj előttük."
+  },
+  {
+    "i": 26233,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 25,
+    "t": "Add férjhez a lányodat, nagyszerű dolgot tettél, de adjátok őt egy értelmes emberhez."
+  },
+  {
+    "i": 26234,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 26,
+    "t": "Van feleséged a szíved szerint? Ne taszítsd el, de ha nem szereted, ne bízz benne."
+  },
+  {
+    "i": 26235,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 27,
+    "t": "Teljes szívedből tiszteld apádat, és soha ne felejtsd el, mit szenvedett édesanyád."
+  },
+  {
+    "i": 26236,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 28,
+    "t": "Emlékezz arra, hogy ők adtak neked életet: mit adsz nekik cserébe azért, amit érted tettek?"
+  },
+  {
+    "i": 26237,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 29,
+    "t": "Teljes lelkedből féld az Urat, és tiszteld papjait."
+  },
+  {
+    "i": 26238,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 30,
+    "t": "Minden erőddel szeresd azt, aki teremtett téged, és ne hagyd el az ő szolgáit."
+  },
+  {
+    "i": 26239,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 31,
+    "t": "Féld az Urat és tiszteld a papot, és add meg neki a részét, ahogy el van rendelve: zsengéket, engesztelő áldozatot, a lapockák felajánlását, szentelési áldozatot és a szent dolgok zsengéit."
+  },
+  {
+    "i": 26240,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 32,
+    "t": "A szegénynek is tegyél nagylelkűséget, hogy áldásod tökéletes legyen."
+  },
+  {
+    "i": 26241,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 33,
+    "t": "Nagyvonalúságod érintsen minden élőt, még a halottaktól se tagadd meg a kegyességedet."
+  },
+  {
+    "i": 26242,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 34,
+    "t": "Ne fordulj el azoktól, akik sírnak, bánkódj együtt a bánkódókkal."
+  },
+  {
+    "i": 26243,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 35,
+    "t": "Ne félj meglátogatni a betegeket, ilyen cselekedetekkel elnyered a szeretetet."
+  },
+  {
+    "i": 26244,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 36,
+    "t": "Mindenben, amit teszel, emlékezz a végre, és soha nem vétkezel."
+  },
+  {
+    "i": 26245,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 1,
+    "t": "Ne harcolj egy naggyal, nehogy a kezébe essél."
+  },
+  {
+    "i": 26246,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 2,
+    "t": "Ne veszekedj egy gazdaggal, nehogy nagyobb súlya legyen nálad; mert az arany sok embert elveszejtett, és a királyok szívét megingatta."
+  },
+  {
+    "i": 26247,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 3,
+    "t": "Ne vitatkozz egy ékesszólóval, ne tégy fát a tüzére."
+  },
+  {
+    "i": 26248,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 4,
+    "t": "Ne viccelj egy neveletlen emberrel, nehogy lássad szidni őseidet."
+  },
+  {
+    "i": 26249,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 5,
+    "t": "Ne ródd fel a bűnbánó bűnösnek, emlékezz, hogy mindnyájan bűnösök vagyunk."
+  },
+  {
+    "i": 26250,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 6,
+    "t": "Ne vesd meg az idős embert, mert talán mi is megöregszünk."
+  },
+  {
+    "i": 26251,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 7,
+    "t": "Ne örülj egy ember halálának, emlékezz, hogy mindnyájunknak meg kell halnunk."
+  },
+  {
+    "i": 26252,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 8,
+    "t": "Ne vesd meg a bölcsek beszédét, és térj vissza gyakran tanításaikhoz; mert tőlük tanulsz tanítást és a nagyságosak szolgálatának művészetét."
+  },
+  {
+    "i": 26253,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 9,
+    "t": "Ne vesd meg a vének beszédét, mert ők maguk is atyáik iskolájában voltak; tőlük tanulsz óvatosságot és azt, hogy miként válaszolj a megfelelő pillanatban."
+  },
+  {
+    "i": 26254,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 10,
+    "t": "Ne rakj tüzet a bűnös szénre, nehogy megégesd magad a lángjától."
+  },
+  {
+    "i": 26255,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 11,
+    "t": "Ne hagyd, hogy az arcátlan ember kihozzon a sodrodból, ez csapda lenne ajkaid előtt."
+  },
+  {
+    "i": 26256,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 12,
+    "t": "Ne adj kölcsön egy erősebb embernek, mint te vagy: ha kölcsön adsz, tartsd a dolgot elveszettnek."
+  },
+  {
+    "i": 26257,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 13,
+    "t": "Ne vállalj kezességet a képességeid felett: ha kezességet vállaltál, készülj fel a fizetésre."
+  },
+  {
+    "i": 26258,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 14,
+    "t": "Ne perelj egy bíróval, mert az ítélet javára fog szólni."
+  },
+  {
+    "i": 26259,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 15,
+    "t": "Ne indulj útnak egy kalandorral, nehogy elhalmozzon téged rosszal; mert csak a saját feje után megy, és az őrültsége el fog veszejteni téged vele együtt."
+  },
+  {
+    "i": 26260,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 16,
+    "t": "Ne vitatkozz egy haragos emberrel, ne kötelezd el magad vele egy elhagyatott helyen, mert a vér nem számít a szeme előtt, és ott, ahol nincs segítség, rád fog vetni magát."
+  },
+  {
+    "i": 26261,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 17,
+    "t": "Ne vegyél bolondot bizalmasnak, mert nem tudná megőrizni a titkodat."
+  },
+  {
+    "i": 26262,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 18,
+    "t": "Egy idegen előtt ne tegyél semmit, aminek titokban kellene maradnia, mert nem tudod, mit tud kitalálni."
+  },
+  {
+    "i": 26263,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 19,
+    "t": "Ne nyisd meg a szíved bárkinek, és ne próbálj jóindulatot szerezni tőle."
+  },
+  {
+    "i": 26264,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 1,
+    "t": "Ne légy féltékeny a szeretett feleségedre, és ne adj neki ötletet arra, hogy rosszat tegyen neked."
+  },
+  {
+    "i": 26265,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 2,
+    "t": "Ne add át magad egy nő kezébe, nehogy uralmat vegyen feletted."
+  },
+  {
+    "i": 26266,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 3,
+    "t": "Ne menj egy kurtizán elé: beleeshetsz a csapdáiba."
+  },
+  {
+    "i": 26267,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 4,
+    "t": "Ne barátkozz egy énekesnővel: megfoghatnának a mesterkedései."
+  },
+  {
+    "i": 26268,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 5,
+    "t": "Ne szegezd tekinteted egy fiatal lányra, nehogy csapdába essél, amikor bűnhődik."
+  },
+  {
+    "i": 26269,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 6,
+    "t": "Ne add magad prostituáltak kezébe: elveszítheted ott az örökségedet."
+  },
+  {
+    "i": 26270,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 7,
+    "t": "Ne jártasd a tekinteted a város utcáin, és ne járj a kies helyeken."
+  },
+  {
+    "i": 26271,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 8,
+    "t": "Fordítsd el tekinteted egy csinos nőtől, és ne szegezd tekinteted egy idegen szépségre. Sokat megtévesztett egy nő szépsége, és a szerelem fellángol benne, mint a tűz."
+  },
+  {
+    "i": 26272,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 9,
+    "t": "Egy férjes asszony közelében óvakodj ülni és borozni vele, nehogy a vágy elterelje a figyelmedet felé, és szenvedélyedben vesztedbe rohanj."
+  },
+  {
+    "i": 26273,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 10,
+    "t": "Ne hagyd el egy régi barátodat, az újonnan jött nem ér annyit. Új bor, új barát, hagyd megöregedni, élvezettel iszod majd."
+  },
+  {
+    "i": 26274,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 11,
+    "t": "Ne irigyeld a bűnös sikerét, nem tudod, hogyan fog vége lenni."
+  },
+  {
+    "i": 26275,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 12,
+    "t": "Ne örülj az istentelenek sikerének, emlékezz, hogy itt nem maradnak büntetlenül."
+  },
+  {
+    "i": 26276,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 13,
+    "t": "Tartsd távol magad attól az embertől, akinek hatalma van ölni, és nem fogsz félni a haláltól. Ha megközelíted őt, óvakodj a tévedéstől, elveheti az életedet. Tudd meg, hogy csapdák vesznek körül, és a bástyákon jársz."
+  },
+  {
+    "i": 26277,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 14,
+    "t": "Amennyire csak tudod, járj a felebarátoddal, és kérj tanácsot a bölcsektől."
+  },
+  {
+    "i": 26278,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 15,
+    "t": "Beszélgetésedhez keresd az okos embereket, és minden beszélgetésed a Magasságos törvényéről szóljon."
+  },
+  {
+    "i": 26279,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 16,
+    "t": "Az igazak legyenek a lakótársaid, és büszkeséged legyen az Úr félelmében."
+  },
+  {
+    "i": 26280,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 17,
+    "t": "A kéz munkája dicséretet érdemel, de a nép vezérének bölcsnek kell lennie a beszédben."
+  },
+  {
+    "i": 26281,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 18,
+    "t": "A szép szavú embertől rettegnek a városban, a fecsegőt pedig gyűlölik."
+  },
+  {
+    "i": 26282,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 1,
+    "t": "A bölcs kormányzó fegyelemben tartja népét, és az értelmes ember hatalma szilárdan áll."
+  },
+  {
+    "i": 26283,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 2,
+    "t": "Amilyen a kormányzó, olyanok a beosztottai, amilyen a város ura, olyanok a lakosok."
+  },
+  {
+    "i": 26284,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 3,
+    "t": "A tanulatlan király népe romlása, a város a vezetők értelmének köszönheti jólétét."
+  },
+  {
+    "i": 26285,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 4,
+    "t": "Az Úr kezében van a világ kormányzása; ő támasztja a megfelelő időben a megfelelő vezetőt."
+  },
+  {
+    "i": 26286,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 5,
+    "t": "Az ember sikere az Úr kezében van; ő adja az írástudónak a dicsőséget."
+  },
+  {
+    "i": 26287,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 6,
+    "t": "Ne tartsd számon felebarátod vétkeit, bármik is legyenek azok, és soha ne válaszolj gőgös tettekkel."
+  },
+  {
+    "i": 26288,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 7,
+    "t": "A gőg gyűlöletes Isten előtt és az emberek előtt is, és mindketten bűnnek tekintik az igazságtalanságot."
+  },
+  {
+    "i": 26289,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 8,
+    "t": "A hatalom igazságtalanság, gőg és pénz által száll át egyik nemzetről a másikra. Semmi sem istentelenebb, mint aki szereti a pénzt: még a lelkét is eladja!"
+  },
+  {
+    "i": 26290,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 9,
+    "t": "Miért oly büszke az, aki por és hamu, egy lény, akinek már élő korában is undorító a bele?"
+  },
+  {
+    "i": 26291,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 10,
+    "t": "A hosszan tartó betegség kigúnyolja az orvost, aki ma király, holnap meghal."
+  },
+  {
+    "i": 26292,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 11,
+    "t": "Amikor egy ember meghal, örökségül kapja a rovarokat, a vadállatokat és a férgeket."
+  },
+  {
+    "i": 26293,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 12,
+    "t": "Az emberi gőg lényege az, hogy elhagyja az Urat, és távol tartja szívét a Teremtőtől."
+  },
+  {
+    "i": 26294,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 13,
+    "t": "Mert a gőg lényege a bűn, aki átadja magát neki, az utálatosságot terjeszt. Ezért tette az Úr ragyogóvá a nyomorúságukat, és semmivé tette őket."
+  },
+  {
+    "i": 26295,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 14,
+    "t": "Az Úr ledöntötte a hatalmasok trónját, és helyükre a szelídeket ültette."
+  },
+  {
+    "i": 26296,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 15,
+    "t": "Az Úr kitépte a gőgösöket, és helyükre az alázatosokat ültette."
+  },
+  {
+    "i": 26297,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 16,
+    "t": "Az Úr felforgatta a nemzetek területét, és a föld alapjáig elpusztította őket."
+  },
+  {
+    "i": 26298,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 17,
+    "t": "Néha elragadta és elpusztította őket, és eltörölte emléküket a világból."
+  },
+  {
+    "i": 26299,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 18,
+    "t": "A gőg nem való az embernek, sem a heves harag a női nemnek."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2100,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 24,
+    "t": "Akį už akį, dantį už dantį, koją už koją,"
+  },
+  {
+    "i": 2101,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 25,
+    "t": "Nudegimą už nudegimą, žaizdą už žaizdą, mėlynę už mėlynę."
+  },
+  {
+    "i": 2102,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 26,
+    "t": "Jei kas nors išmuštų akį savo vergui ar vergei, jis turės paleisti jį arba ją už akį."
+  },
+  {
+    "i": 2103,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 27,
+    "t": "Ir jei jis išmuštų dantį savo vergui ar vergei, jis turės paleisti jį arba ją už dantį."
+  },
+  {
+    "i": 2104,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 28,
+    "t": "Jei jautis subadytų vyrą ar moterį ir jie mirtų, jautis turės būti užmuštas akmenimis ir jo mėsa nebus valgoma, bet jaučio savininkas nebus laikomas kaltu."
+  },
+  {
+    "i": 2105,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 29,
+    "t": "Tačiau jei jautis anksčiau yra badęs, ir jo savininkas buvo įspėtas, bet jo nesaugojo, o jautis nužudė vyrą ar moterį, jautis turės būti užmuštas akmenimis, o savininkas turės mirti."
+  },
+  {
+    "i": 2106,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 30,
+    "t": "Jei jam būtų paskirta išpirka, jis turės sumokėti viską, kas jam nurodyta, už savo gyvybės išpirką."
+  },
+  {
+    "i": 2107,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 31,
+    "t": "Jei jautis subadytų berniuką ar mergaitę, bus elgiamasi pagal šią taisyklę."
+  },
+  {
+    "i": 2108,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 32,
+    "t": "Jei jautis subadytų vergą ar vergę, jo savininkas turės sumokėti trisdešimt sidabro šekelių jų šeimininkui, o jautis turės būti užmuštas akmenimis."
+  },
+  {
+    "i": 2109,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 33,
+    "t": "Jei kas nors paliktų atvirą šulinį arba iškastų šulinį ir jo neuždengtų, ir jautis ar asilas į jį įkristų,"
+  },
+  {
+    "i": 2110,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 34,
+    "t": "šulinio savininkas turės atlyginti, jis turės sumokėti pinigus jo savininkui, o negyvas gyvulys bus jo."
+  },
+  {
+    "i": 2111,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 35,
+    "t": "Jei kieno nors jautis subadytų kito jaučio ir jis mirtų, jie turės parduoti gyvą jautį ir pasidalinti pinigus, jie taip pat pasidalins ir negyvą gyvulį."
+  },
+  {
+    "i": 2112,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 36,
+    "t": "Tačiau jei jautis anksčiau yra badęs ir jo savininkas jo nesaugojo, jis turės atiduoti gyvą jautį už negyvą jautį, o negyvas gyvulys bus jo."
+  },
+  {
+    "i": 2113,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 37,
+    "t": "Jei kas nors pavogtų jautį ar avį, ir jį papjautų ar parduotų, jis turės atlyginti penkis jaučius už jautį ir keturias avis už avį."
+  },
+  {
+    "i": 2114,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 1,
+    "t": "Jei vagis bus pagautas įsilaužiantis ir bus užmuštas, kraujas už jį nebus atkeršytas."
+  },
+  {
+    "i": 2115,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 2,
+    "t": "Bet jei saulė jau buvo patekėjusi, kraujas už jį bus atkeršytas. Jis turės atlyginti, o jei jis neturi iš ko, jis bus parduotas, kad atlygintų už tai, ką pavogė."
+  },
+  {
+    "i": 2116,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 3,
+    "t": "Jei pavogtas gyvulys, jautis, asilas ar avis, bus rastas gyvas jo žinioje, jis turės atlyginti dvigubai."
+  },
+  {
+    "i": 2117,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 4,
+    "t": "Jei kas nors nugano lauką ar vynuogyną ir paleidžia gyvulius į kito lauką, jis turės atlyginti už lauko derlių. Jei jis nugano visą lauką, jis turės atlyginti pagal geriausią lauko derlių."
+  },
+  {
+    "i": 2118,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 5,
+    "t": "Jei įsiplieskia ugnis ir paliečia erškėčius, ir sudegina pėdą, javus ar lauką, tas, kuris uždegė ugnį, turės atlyginti už tai, kas sudegė."
+  },
+  {
+    "i": 2119,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 6,
+    "t": "Jei kas nors atiduotų saugoti kitam pinigus ar daiktus, ir jie būtų pavogti iš jo namų, vagis, jei bus pagautas, turės atlyginti dvigubai."
+  },
+  {
+    "i": 2120,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 7,
+    "t": "Jei vagis nebus pagautas, namų šeimininkas turės artintis prie Dievo, kad paliudytų, jog jis nepakėlė rankos prieš kito turtą."
+  },
+  {
+    "i": 2121,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 8,
+    "t": "Visais ginčytinais atvejais, susijusiais su jaučiu, asilu, avimi, drabužiu ar bet kokiu kitu prarastu daiktu, apie kurį sakoma: Tai yra jis, ginčas turės būti pateiktas Dievui. Tą, kurį Dievas pripažins kaltu, turės atlyginti dvigubai."
+  },
+  {
+    "i": 2122,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 9,
+    "t": "Jei kas nors atiduotų saugoti kitam asilą, jautį, avį ar bet kokį kitą gyvulį, ir jis nugaištų, susilaužytų galūnę ar būtų pavogtas be liudytojų,"
+  },
+  {
+    "i": 2123,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 10,
+    "t": "Viešpaties priesaika nuspręs tarp jų, ar saugotojas nepakėlė rankos prieš kito turtą. Savininkas pasiims tai, kas liko, ir saugotojas neturės atlyginti."
+  },
+  {
+    "i": 2124,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 11,
+    "t": "Bet jei pavogtas gyvulys būtų rastas pas jį, jis turės atlyginti jo savininkui."
+  },
+  {
+    "i": 2125,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 12,
+    "t": "Jei gyvulys būtų sudraskytas laukinių žvėrių, jis turės atnešti sudraskytą gyvulį kaip įrodymą ir jam nereikės atlyginti."
+  },
+  {
+    "i": 2126,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 13,
+    "t": "Jei kas nors pasiskolintų gyvulį iš kito ir jis susilaužytų galūnę ar nugaištų, kai savininko nėra šalia, jis turės atlyginti."
+  },
+  {
+    "i": 2127,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 14,
+    "t": "Bet jei savininkas yra šalia gyvulio, jam nereikės atlyginti. Jei savininkas yra nuomotojas, jis gaus savo nuomos mokestį."
+  },
+  {
+    "i": 2128,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 15,
+    "t": "Jei kas nors suvedžiotų neįsipareigojusią mergelę ir sugultų su ja, jis turės sumokėti už ją kainą ir ją vesti."
+  },
+  {
+    "i": 2129,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 16,
+    "t": "Jei jos tėvas atsisakytų ją atiduoti jam, jis turės sumokėti sumą, atitinkančią kainą, nustatytą mergelėms."
+  },
+  {
+    "i": 2130,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 17,
+    "t": "Tu neleisi gyventi raganai."
+  },
+  {
+    "i": 2131,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 18,
+    "t": "Kas suguls su gyvuliu, bus nubaustas mirtimi."
+  },
+  {
+    "i": 2132,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 19,
+    "t": "Kas aukoja kitiems dievams, bus sunaikintas."
+  },
+  {
+    "i": 2133,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 20,
+    "t": "Tu neskriausi svetimšalio ir jo neslopinsi, nes jūs patys buvote svetimšaliai Egipto žemėje."
+  },
+  {
+    "i": 2134,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 21,
+    "t": "Jūs neskriausite našlės ar našlaičio."
+  },
+  {
+    "i": 2135,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 22,
+    "t": "Jei tu juos skriausi ir jie šauksis manęs, aš išgirsiu jų šauksmą;"
+  },
+  {
+    "i": 2136,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 23,
+    "t": "mano pyktis įsipliesks, ir aš jus nužudysiu kardu: jūsų žmonos taps našlėmis, o jūsų sūnūs - našlaičiais."
+  },
+  {
+    "i": 2137,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 24,
+    "t": "Jei skolinsi pinigų savo tautiečiui, neturtingam, kuris yra pas tave, tu nesielgsi su juo kaip skolintojas už užstatą, tu neimsi jam palūkanų."
+  },
+  {
+    "i": 2138,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 25,
+    "t": "Jei paimsi kieno nors apsiaustą kaip užstatą, tu turėsi jį jam grąžinti saulei nusileidus."
+  },
+  {
+    "i": 2139,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 26,
+    "t": "Tai jo vienintelė danga, tai apsiaustas, kuriuo jis apgaubia savo kūną, su kuo jis gulės? Jei jis šauksis manęs, aš jį išgirsiu, nes aš esu gailestingas!"
+  },
+  {
+    "i": 2140,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 27,
+    "t": "Tu nekeiksi Dievo ir nelaiminsi savo tautos vado."
+  },
+  {
+    "i": 2141,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 28,
+    "t": "Neatidėliok aukoti iš savo gausos ir savo pertekliaus. Pirmagimį iš savo sūnų atiduosi man."
+  },
+  {
+    "i": 2142,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 29,
+    "t": "Taip pat elgsiesi ir su savo galvijais bei smulkiais gyvuliais: septynias dienas jis liks su savo motina, aštuntą dieną atiduosi jį man."
+  },
+  {
+    "i": 2143,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 30,
+    "t": "Jūs būsite man šventi vyrai. Jūs nevalgysite laukų sudraskytų žvėrių mėsos, jūs ją išmesite šunims."
+  },
+  {
+    "i": 2144,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 1,
+    "t": "Tu neskleisi melagingų gandų. Tu nepadėsi nedorėliui, neteisingai liudydamas."
+  },
+  {
+    "i": 2145,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 2,
+    "t": "Tu neprisidėsi prie daugumos, darydamas blogį, ir neliudysi teisme, sekdamas dauguma, kad nukreiptum teisingumą."
+  },
+  {
+    "i": 2146,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 3,
+    "t": "Ir neteisingai nepalenksi vargšo jo teisme."
+  },
+  {
+    "i": 2147,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 4,
+    "t": "Jei sutiksi savo priešo jautį ar asilą, klaidžiojantį, tu turėsi jį jam atvesti."
+  },
+  {
+    "i": 2148,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 5,
+    "t": "Jei pamatysi, kad tave nekenčiančiojo asilas krenta po savo našta, nesilaikyk atokiai; tu turėsi jam padėti."
+  },
+  {
+    "i": 2149,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 6,
+    "t": "Tu nenukreipsi savo vargšo teisingumo jo teisme."
+  },
+  {
+    "i": 2150,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 7,
+    "t": "Tu laikysies atokiai nuo melagingos bylos. Tu nenužudysi nekaltų ar teisiųjų ir nepateisinsi kalto."
+  },
+  {
+    "i": 2151,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 8,
+    "t": "Tu nepriimsi dovanų, nes dovana apakina įžvalgius žmones ir sugadina teisiųjų bylas."
+  },
+  {
+    "i": 2152,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 9,
+    "t": "Tu neslopinsi svetimšalio. Jūs žinote, ką jaučia svetimšalis, nes jūs patys buvote svetimšaliai Egipto žemėje."
+  },
+  {
+    "i": 2153,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 10,
+    "t": "Šešerius metus sėsi žemę ir surinksi jos derlių."
+  },
+  {
+    "i": 2154,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 11,
+    "t": "Bet septintais metais tu paliksi ją pūdymu ir paliksi jos derlių; tavo tautos vargšai valgys, o laukų žvėrys valgys tai, ką jie paliks. Tu taip pat padarysi savo vynuogynui ir savo alyvmedžiui."
+  },
+  {
+    "i": 2155,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 12,
+    "t": "Šešerias dienas tu dirbsi savo darbus, o septintą dieną tu ilsėsiesi, kad tavo jautis ir asilas pailsėtų, ir kad atsikvėptų tavo tarnaitės sūnus ir svetimšalis."
+  },
+  {
+    "i": 2156,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 13,
+    "t": "Jūs saugokitės visko, ką jums pasakiau, ir neminėsite kitų dievų vardo: tenebūna jo girdėti iš jūsų lūpų."
+  },
+  {
+    "i": 2157,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 14,
+    "t": "Tu man švęsi tris kartus per metus."
+  },
+  {
+    "i": 2158,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 15,
+    "t": "Tu laikysies Neraugintos duonos šventės. Septynias dienas tu valgysi neraugintą duoną, kaip tau įsakiau, nustatytu Abibo mėnesio laiku, nes šį mėnesį tu išėjai iš Egipto. Niekas neturi pasirodyti prieš mane tuščiomis rankomis."
+  },
+  {
+    "i": 2159,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 16,
+    "t": "Tu laikysies Pjūties šventės, savo sėjos darbų pirmienų laukuose, ir Derliaus šventės, metų pabaigoje, kai tu parneši iš laukų savo darbų vaisius."
+  },
+  {
+    "i": 2160,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 17,
+    "t": "Tris kartus per metus visa tavo vyriškoji giminė pasirodys prieš Viešpatį Viešpatį."
+  },
+  {
+    "i": 2161,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 18,
+    "t": "Tu neaukosi mano aukos kraujo su rauginta duona, ir mano šventės riebalai nebus laikomi iki ryto."
+  },
+  {
+    "i": 2162,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 19,
+    "t": "Tu atneši į Viešpaties, tavo Dievo, namus geriausius savo žemės pirmienų. Tu nevirk chebryčio savo motinos piene."
+  },
+  {
+    "i": 2163,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 20,
+    "t": "Štai, aš siųsiu angelą prieš tave, kad jis tave saugotų kelyje ir nuvestų į vietą, kurią tau paskyriau."
+  },
+  {
+    "i": 2164,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 21,
+    "t": "Gerbk jį ir klausyk jo balso, nepasiduok jam, jis neatleis tavo nusižengimų, nes mano Vardas yra jame."
+  },
+  {
+    "i": 2165,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 22,
+    "t": "Bet jei tu gerai klausysi jo balso ir darysi tai, ką sakau, aš būsiu tavo priešų priešas ir tavo priešininkų priešininkas."
+  },
+  {
+    "i": 2166,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 23,
+    "t": "Mano angelas eis prieš tave ir nuves tave pas amoritus, hetitus, perizitus, kanaaniečius, hivitus, jebusitus, ir aš juos sunaikinsiu."
+  },
+  {
+    "i": 2167,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 24,
+    "t": "Tu nesilenksi prieš jų dievus ir jiems netarnausi; tu nedarysi to, ką jie daro, bet tu sunaikinsi jų dievus ir sudaužysi jų stelas."
+  },
+  {
+    "i": 2168,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 25,
+    "t": "Jūs tarnausite Viešpačiui, savo Dievui, tada aš palaiminsiu tavo duoną ir tavo vandenį ir atitolinsiu nuo tavęs ligas."
+  },
+  {
+    "i": 2169,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 26,
+    "t": "Jokia moteris tavo krašte nepasislinks ar nebus nevaisinga, ir aš leisųsi užbaigti tavo dienų skaičių."
+  },
+  {
+    "i": 2170,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 27,
+    "t": "Aš sėsiu prieš tave savo siaubą, aš įmesiu sumaištį visose tautose, į kurias tu įžengsi, ir aš priversiu bėgti visus tavo priešus."
+  },
+  {
+    "i": 2171,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 28,
+    "t": "Aš siųsiu prieš tave širšes, kurios išvarys hivitus, kanaaniečius ir hetitus prieš tave."
+  },
+  {
+    "i": 2172,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 29,
+    "t": "Aš jų neišvarysiu prieš tave per vienerius metus, kad kraštas netaptų dykuma, kurioje tavo sąskaita padaugėtų laukų žvėrys."
+  },
+  {
+    "i": 2173,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 30,
+    "t": "Aš juos išvarysiu prieš tave pamažu, kol tu pakankamai vaisingai išaugsi, kad paveldėtum kraštą."
+  },
+  {
+    "i": 2174,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 31,
+    "t": "Aš nustatysiu tavo sienas nuo Nendrių jūros iki filistinų jūros ir nuo dykumos iki Upės, nes aš atiduosiu į tavo rankas krašto gyventojus, ir tu juos išvarysi prieš tave."
+  },
+  {
+    "i": 2175,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 32,
+    "t": "Tu nesudarysi sąjungos su jais ar su jų dievais."
+  },
+  {
+    "i": 2176,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 33,
+    "t": "Jie negyvens tavo krašte, kad jie neprivers tave nusidėti prieš mane, nes tu tarnausi jų dievams ir tai tau bus spąstai."
+  },
+  {
+    "i": 2177,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 1,
+    "t": "Jis tarė Mozei: Lipk į kalną pas Viešpatį, tu, Aaronas, Nadabas, Abihu ir septyniasdešimt Izraelio vyresniųjų, ir jūs pagarbinsite iš tolo."
+  },
+  {
+    "i": 2178,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 2,
+    "t": "Mozė vienas artinsis prie Viešpaties. Jie nesiartins ir tauta nelips su juo."
+  },
+  {
+    "i": 2179,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 3,
+    "t": "Mozė atėjo ir papasakojo tautai visus Viešpaties žodžius ir visus įstatymus, ir visa tauta atsakė vienu balsu; jie tarė: Visus žodžius, kuriuos Viešpats pasakė, mes įvykdysime."
+  },
+  {
+    "i": 2180,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 4,
+    "t": "Mozė užrašė visus Viešpaties žodžius. Rytą atsikėlęs, jis pastatė aukurą kalno papėdėje ir dvylika stulpų dvylikai Izraelio giminių."
+  },
+  {
+    "i": 2181,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 5,
+    "t": "Jis pasiuntė jaunus izraelitus aukoti deginamąsias aukas ir atnašauti Viešpačiui jautukus kaip bendravimo auką."
+  },
+  {
+    "i": 2182,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 6,
+    "t": "Mozė paėmė pusę kraujo ir supylė į dubenis, o kita kraujo puse apšlakstė aukurą."
+  },
+  {
+    "i": 2183,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 7,
+    "t": "Jis paėmė Sandoros knygą ir skaitė ją tautai. Tauta atsakė: \"Visa, ką Viešpats pasakė, darysime ir klausysime!"
+  },
+  {
+    "i": 2184,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 8,
+    "t": "Mozė paėmė kraujo ir apšlakstė tautą tardamas: \"Štai Sandoros kraujas, kuriuo Viešpats sudarė su jumis sandorą dėl visų šių žodžių!"
+  },
+  {
+    "i": 2185,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 9,
+    "t": "Mozė užkopė į kalną kartu su Aaronu, Nadabu, Abihu ir septyniasdešimt Izraelio vyresniųjų."
+  },
+  {
+    "i": 2186,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 10,
+    "t": "Jie matė Izraelio Dievą. Po Jo kojomis buvo grindinys, padarytas iš safyro, skaidrus kaip pats dangus."
+  },
+  {
+    "i": 2187,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 11,
+    "t": "Jis nepakėlė rankos prieš Izraelio didžiūnus. Jie regėjo Dievą, paskui valgė ir gėrė."
+  },
+  {
+    "i": 2188,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 12,
+    "t": "Viešpats tarė Mozei: \"Užkopk pas mane ant kalno ir pasilik ten. Aš duosiu tau akmens plokštes – įstatymą ir įsakymus, kuriuos parašiau jiems pamokyti."
+  },
+  {
+    "i": 2189,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 13,
+    "t": "Mozė pakilo su savo tarnu Jozue ir užkopė ant Dievo kalno."
+  },
+  {
+    "i": 2190,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 14,
+    "t": "Jis tarė vyresniesiems: \"Palaukite mūsų čia, kol sugrįšime pas jus. Štai Aaronas ir Hūras yra su jumis; jei kas nors turės bylą, tesikreipia į juos."
+  },
+  {
+    "i": 2191,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 15,
+    "t": "Mozė užkopė ant kalno, ir debesis apgaubė kalną."
+  },
+  {
+    "i": 2192,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 16,
+    "t": "Viešpaties šlovė ilsėjosi ant Sinajaus kalno, ir debesis jį dengė šešias dienas. Septintą dieną Viešpats pašaukė Mozę iš debesies."
+  },
+  {
+    "i": 2193,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 17,
+    "t": "Viešpaties šlovės vaizdas Izraelio akims buvo kaip ryjanti ugnis kalno viršūnėje."
+  },
+  {
+    "i": 2194,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 18,
+    "t": "Mozė įžengė į debesį ir užkopė ant kalno. Mozė išbuvo ant kalno keturiasdešimt dienų ir keturiasdešimt naktų."
+  },
+  {
+    "i": 2195,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 1,
+    "t": "Viešpats kalbėjo Mozei ir sakė:"
+  },
+  {
+    "i": 2196,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 2,
+    "t": "\"Kalbėk izraelitams, kad rinktų man atnašą. Iš kiekvieno, kurio širdis noriai duoda, paimkite atnašą man."
+  },
+  {
+    "i": 2197,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 3,
+    "t": "Štai atnaša, kurią priimsite iš jų: aukso, sidabro ir vario;"
+  },
+  {
+    "i": 2198,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 4,
+    "t": "purpurinių, violetinių ir raudonų siūlų, plonos drobės ir ožkos vilnos;"
+  },
+  {
+    "i": 2199,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 5,
+    "t": "raudonai dažytų avinų odų, gerų odų ir akacijos medienos;"
+  }
+]

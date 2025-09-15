@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3100,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 50,
+    "t": "Kněz shlédne nemoc a oddělí onu věc na sedm dní."
+  },
+  {
+    "i": 3101,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 51,
+    "t": "Jestliže pak sedmého dne spatří, že se ta nemoc rozšířila na oděvu, na tkanině, na osnově, na útku, na kůži anebo na čemkoli z kůže zhotoveném, jest to malomocenství zhoubné, nečisté jest."
+  },
+  {
+    "i": 3102,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 52,
+    "t": "Spálí ten oděv, tu osnovu, ten útek, vlněný anebo lněný, anebo jakoukoli věc z kůže, na níž se ta nemoc shledala, neboť jest to malomocenství zhoubné, ohněm bude spálena."
+  },
+  {
+    "i": 3103,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 53,
+    "t": "Jestliže však kněz spatří, že se ta nemoc na oděvu, na osnově, na útku anebo na čemkoli z kůže zhotoveném nerozšířila,"
+  },
+  {
+    "i": 3104,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 54,
+    "t": "nařídí, aby se umyla ta věc, na níž se shledala nemoc, a oddělí ji na sedm dní podruhé."
+  },
+  {
+    "i": 3105,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 55,
+    "t": "Shlédne tu nemoc po umytí, a jestliže spatří, že se nezměnila na pohled a nerozšířila se, nečistá jest, ohněm ji spálíš, hlodala, ať zevnitř či zevně."
+  },
+  {
+    "i": 3106,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 56,
+    "t": "Jestliže však kněz shlédne, že po umytí ta nemoc zbledla, odtrhne ji od oděvu, od kůže, od osnovy anebo od útku."
+  },
+  {
+    "i": 3107,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 57,
+    "t": "Jestliže se však ta nemoc opět objeví na oděvu, na osnově, na útku anebo na jakékoli věci z kůže, zhoubná jest, ohněm spálíš to, na čem se ta nemoc shledala."
+  },
+  {
+    "i": 3108,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 58,
+    "t": "Oděv pak, osnova anebo útek, anebo jakákoli věc z kůže, z níž ta nemoc zmizela po umytí, bude umyta podruhé, a bude čistá."
+  },
+  {
+    "i": 3109,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 59,
+    "t": "Toto jest zákon o nemoci malomocenství na oděvu vlněném anebo lněném, na osnově, na útku anebo na jakékoli věci z kůže, jak se má prohlásit za čistou anebo za nečistou."
+  },
+  {
+    "i": 3110,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 1,
+    "t": "I promluvil Hospodin k Mojžíšovi řka:"
+  },
+  {
+    "i": 3111,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 2,
+    "t": "Toto jest zákon o malomocném v den jeho očištění: Bude přiveden ke knězi,"
+  },
+  {
+    "i": 3112,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 3,
+    "t": "a kněz vyjde ven z tábora. Jestliže spatří kněz, že malomocný byl uzdraven ze své malomocenství,"
+  },
+  {
+    "i": 3113,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 4,
+    "t": "nařídí, aby vzal za toho, jenž má být očištěn, dva ptáky živé a čisté, cedrové dřevo, karmínové barvivo a yzop."
+  },
+  {
+    "i": 3114,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 5,
+    "t": "Nařídí též, aby byl zabit jeden pták nad hliněnou nádobou nad tekoucí vodou."
+  },
+  {
+    "i": 3115,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 6,
+    "t": "Živého pak ptáka vezme s cedrovým dřevem, s karmínovým barvivem a s yzopem a smočí to i toho živého ptáka v krvi ptáka zabitého nad tekoucí vodou."
+  },
+  {
+    "i": 3116,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 7,
+    "t": "A pokropí sedmkrát toho, jenž má být očištěn od malomocenství, a prohlásí jej za čistého a propustí toho živého ptáka do volné přírody."
+  },
+  {
+    "i": 3117,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 8,
+    "t": "Ten, jenž se očišťuje, vypere své oděvy a oholí všecky chlupy, omyje se vodou a bude čistý. Poté vejde do tábora, avšak sedm dní zůstane venku ze svého stanu."
+  },
+  {
+    "i": 3118,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 9,
+    "t": "Sedmého dne oholí všecky chlupy: vlasy, vousy, obočí; všecky chlupy oholí. Vypere své oděvy a omyje své tělo vodou, a bude čistý."
+  },
+  {
+    "i": 3119,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 10,
+    "t": "Osmého dne vezme dva beránky bez vady, jednu ovci roční bez vady, tři desetiny efy bílé mouky zadělané olejem k oběti suché a jednu pintu oleje."
+  },
+  {
+    "i": 3120,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 11,
+    "t": "Kněz, jenž koná očištění, postaví toho muže, jenž se má očistit, i s těmito věcmi před Hospodina ke vchodu do Stanu setkávání."
+  },
+  {
+    "i": 3121,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 12,
+    "t": "Potom vezme jednoho beránka a obětuje jej za vinu spolu s tou pintou oleje a učiní s nimi gesto oběti mávání před Hospodinem."
+  },
+  {
+    "i": 3122,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 13,
+    "t": "Zabije toho beránka na místě svatém, kde se zabíjejí oběti za hřích a zápalné oběti. Neboť tato oběť za vinu připadne knězi, jako oběť za hřích, jest to věc převelice svatá."
+  },
+  {
+    "i": 3123,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 14,
+    "t": "Kněz vezme něco z krve té oběti a potře jí ušní lalůček pravého ucha toho, jenž se očišťuje, palec jeho pravé ruky a palec jeho pravé nohy."
+  },
+  {
+    "i": 3124,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 15,
+    "t": "Poté vezme tu pintu oleje a naleje něco oleje do dlaně své levé ruky."
+  },
+  {
+    "i": 3125,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 16,
+    "t": "Namočí prst své pravé ruky v oleji, jenž jest v dlani jeho levé ruky, a tím olejem pokropí sedmkrát svým prstem před Hospodinem."
+  },
+  {
+    "i": 3126,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 17,
+    "t": "Potom potře ušní lalůček pravého ucha toho, jenž se očišťuje, palec jeho pravé ruky a palec jeho pravé nohy olejem, který mu zbyl v dlani, vedle krve oběti za vinu."
+  },
+  {
+    "i": 3127,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 18,
+    "t": "Zbytek oleje, jenž má v dlani, naleje na hlavu toho, jenž se očišťuje. Tak učiní za něj smíření před Hospodinem."
+  },
+  {
+    "i": 3128,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 19,
+    "t": "Kněz obětuje oběť za hřích a vykoná za toho, jenž se očišťuje, smíření od jeho nečistoty. Poté zabije zápalnou oběť,"
+  },
+  {
+    "i": 3129,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 20,
+    "t": "vystoupí zápalnou obětí a obětí suchou na oltář. Až tak kněz vykoná za toho muže smíření, bude čistý."
+  },
+  {
+    "i": 3130,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 21,
+    "t": "Jestliže jest chudý a nemá dost prostředků, vezme jen jednoho beránka, totiž oběť za vinu, a bude obětován podle gesta oběti mávání, aby se za něj vykonalo smíření. Vezme též jen desetinu efy bílé mouky zadělané olejem k oběti suché a pintu oleje,"
+  },
+  {
+    "i": 3131,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 22,
+    "t": "a dvě hrdličky anebo dva holoubky – jestliže si je bude moci opatřit – z nichž jeden bude určen k oběti za hřích a druhý k zápalné oběti."
+  },
+  {
+    "i": 3132,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 23,
+    "t": "Osmého dne je přinese ke knězi, ke vchodu do Stanu setkávání, před Hospodina, aby se očistil."
+  },
+  {
+    "i": 3133,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 24,
+    "t": "Kněz vezme beránka za vinu a pintu oleje a nabídne je gestem oběti mávání před Hospodinem."
+  },
+  {
+    "i": 3134,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 25,
+    "t": "Potom, když zabije beránka za vinu, vezme něco z jeho krve a potře ušní lalůček pravého ucha toho, jenž se očišťuje, palec jeho pravé ruky a palec jeho pravé nohy."
+  },
+  {
+    "i": 3135,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 26,
+    "t": "Naleje oleje do dlaně své levé ruky"
+  },
+  {
+    "i": 3136,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 27,
+    "t": "a tím olejem, jenž jest v dlani jeho levé ruky, pokropí svým prstem sedmkrát před Hospodinem."
+  },
+  {
+    "i": 3137,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 28,
+    "t": "Potře ušní lalůček pravého ucha toho, jenž se očišťuje, palec jeho pravé ruky a palec jeho pravé nohy na místě, kde byla položena krev oběti za vinu."
+  },
+  {
+    "i": 3138,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 29,
+    "t": "Zbytek oleje, jenž má v dlani, naleje na hlavu toho, jenž se očišťuje, činíce za něj smíření před Hospodinem."
+  },
+  {
+    "i": 3139,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 30,
+    "t": "Z jedné ze dvou hrdliček anebo z jednoho ze dvou holoubků – z toho, co si bude moci opatřit – učiní"
+  },
+  {
+    "i": 3140,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 31,
+    "t": "oběť za hřích a z druhého zápalnou oběť s obětí suchou – s tím, co si bude moci opatřit. Kněz tak vykoná smíření před Hospodinem za toho, jenž se očišťuje."
+  },
+  {
+    "i": 3141,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 32,
+    "t": "Toto jest zákon o tom, jenž jest stižen malomocenstvím, ale není s to opatřit si prostředky k svému očištění."
+  },
+  {
+    "i": 3142,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 33,
+    "t": "I promluvil Hospodin k Mojžíšovi a k Áronovi řka:"
+  },
+  {
+    "i": 3143,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 34,
+    "t": "Když přijdete do země Kanaán, kterou vám dávám do vlastnictví, jestliže raním malomocenstvím dům v zemi, kterou budete držet,"
+  },
+  {
+    "i": 3144,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 35,
+    "t": "jeho majitel přijde a ohlásí to knězi řka: „Zdá se mi, jako by v domě bylo malomocenství.“"
+  },
+  {
+    "i": 3145,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 36,
+    "t": "Kněz nařídí, aby vyklidili dům, než přijde prohlédnout tu nemoc; aby nebylo nic z toho, co jest v domě, učiněno nečistým. Poté přijde kněz, aby prohlédl dům,"
+  },
+  {
+    "i": 3146,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 37,
+    "t": "a spatří-li po prohlídce na stěnách domu prohlubně zelenavé anebo načervenalé, jež činí v zdi důlky,"
+  },
+  {
+    "i": 3147,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 38,
+    "t": "vyjde kněz z domu ke dveřím a nechá jej zavřený po sedm dní."
+  },
+  {
+    "i": 3148,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 39,
+    "t": "Vrátí se sedmého dne, a spatří-li po prohlídce, že se ta nemoc rozšířila na stěnách domu,"
+  },
+  {
+    "i": 3149,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 40,
+    "t": "nařídí, aby vytrhali kameny napadené tou nemocí a vyhodili je ven z města na místo nečisté."
+  },
+  {
+    "i": 3150,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 41,
+    "t": "Potom nechá oškrábat všecky vnitřní stěny domu, a rozptýlí takto oddělenou omítku na místě nečistém vně města."
+  },
+  {
+    "i": 3151,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 42,
+    "t": "Vezmou jiné kameny, aby nahradili ty první, a jinou omítku, aby jím dům omítli."
+  },
+  {
+    "i": 3152,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 43,
+    "t": "Jestliže se ta nemoc opět rozbují po vytrhání kamenů, po oškrábání a po omítnutí domu,"
+  },
+  {
+    "i": 3153,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 44,
+    "t": "přijde kněz, aby jej prohlédl; a spatří-li, že se ta nemoc rozbujela, jest to malomocenství zhoubné v domě; nečistý jest."
+  },
+  {
+    "i": 3154,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 45,
+    "t": "Nechají jej zbořit, kameny jeho, trámy i všecku jeho omítku odnesou na místo nečisté vně města."
+  },
+  {
+    "i": 3155,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 46,
+    "t": "Kdokoli vejde do domu po všecken čas, kdy byl zavřený, bude nečistý až do večera."
+  },
+  {
+    "i": 3156,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 47,
+    "t": "Kdokoli v něm přespí, vypere své oděvy. Kdokoli v něm jí, vypere své oděvy."
+  },
+  {
+    "i": 3157,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 48,
+    "t": "Jestliže však kněz, když přijde prohlédnout tu nemoc, spatří, že se ta nemoc v domě po omítnutí nerozbujela, prohlásí dům za čistý, neboť ta nemoc jest vyléčena."
+  },
+  {
+    "i": 3158,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 49,
+    "t": "Vezme k oběti za hřích za dům dva ptáky, cedrové dřevo, karmínové barvivo a yzop."
+  },
+  {
+    "i": 3159,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 50,
+    "t": "Zabije jednoho z těch ptáků nad hliněnou nádobou nad tekoucí vodou."
+  },
+  {
+    "i": 3160,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 51,
+    "t": "Potom vezme cedrové dřevo, yzop, karmínové barvivo a živého ptáka, aby je smočil v krvi ptáka zabitého i v tekoucí vodě. Sedmkrát pokropí dům,"
+  },
+  {
+    "i": 3161,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 52,
+    "t": "a učiní oběť za hřích za dům krví ptáka, tekoucí vodou, živým ptákem, cedrovým dřevem, yzopem a karmínovým barvivem,"
+  },
+  {
+    "i": 3162,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 53,
+    "t": "propustí toho živého ptáka ven z města do volné přírody. Tak bude za dům vykonáno smíření, a bude čistý."
+  },
+  {
+    "i": 3163,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 54,
+    "t": "Toto jest zákon o všech případech malomocenství a prašiviny,"
+  },
+  {
+    "i": 3164,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 55,
+    "t": "malomocenství na oděvu a na domech,"
+  },
+  {
+    "i": 3165,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 56,
+    "t": "nádory, vyrážky a skvrny."
+  },
+  {
+    "i": 3166,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 57,
+    "t": "Určuje čas nečistoty a čistoty. Toto jest zákon o malomocenství."
+  },
+  {
+    "i": 3167,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 1,
+    "t": "I promluvil Hospodin k Mojžíšovi a k Áronovi řka:"
+  },
+  {
+    "i": 3168,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 2,
+    "t": "Mluvte k synům Izraele a řekněte jim: Jestliže muži vyjde výtok z těla jeho, ten výtok jest nečistý."
+  },
+  {
+    "i": 3169,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 3,
+    "t": "Toto bude jeho nečistota po všecky dny výtoku jeho: Ať již jeho tělo ten výtok vylučuje, či jej zadržuje, jest nečistý."
+  },
+  {
+    "i": 3170,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 4,
+    "t": "Každé lože, na němž bude ležeti ten, jenž má výtok, bude nečisté, a každý nábytek, na němž bude seděti, bude nečistý."
+  },
+  {
+    "i": 3171,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 5,
+    "t": "Kdokoli se dotkne jeho lože, vypere své oděvy, omyje se vodou, a bude nečistý až do večera."
+  },
+  {
+    "i": 3172,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 6,
+    "t": "Kdokoli usedne na nábytku, na němž seděl ten, jenž má výtok, vypere své oděvy, omyje se vodou, a bude nečistý až do večera."
+  },
+  {
+    "i": 3173,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 7,
+    "t": "Kdokoli se dotkne těla toho, jenž má výtok, vypere své oděvy, omyje se vodou, a bude nečistý až do večera."
+  },
+  {
+    "i": 3174,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 8,
+    "t": "Jestliže ten, jenž má výtok, plivne na osobu čistou, ta osoba vypere své oděvy, omyje se vodou, a bude nečistá až do večera."
+  },
+  {
+    "i": 3175,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 9,
+    "t": "Každé sedlo, na němž ten, jenž má výtok, jel, bude nečisté."
+  },
+  {
+    "i": 3176,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 10,
+    "t": "Všichni, kdož se dotknou jakékoli věci, jež byla pod ním, budou nečistí až do večera. Ten, jenž takovou věc ponese, vypere své oděvy, omyje se vodou, a bude nečistý až do večera."
+  },
+  {
+    "i": 3177,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 11,
+    "t": "Všichni, jichž se dotkne ten, jenž má výtok, aniž si umyl ruce, vypere své oděvy, omyje se vodou, a budou nečistí až do večera."
+  },
+  {
+    "i": 3178,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 12,
+    "t": "Hliněná nádoba, jíž se dotkne ten, jenž má výtok, bude rozbita, a každá nádoba dřevěná bude opláchnuta."
+  },
+  {
+    "i": 3179,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 13,
+    "t": "Když ten, jenž má výtok, bude uzdraven, odpočítá sedm dní ke svému očištění. Vypere své oděvy, omyje své tělo tekoucí vodou, a bude čistý."
+  },
+  {
+    "i": 3180,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 14,
+    "t": "Osmého dne vezme dvě hrdličky nebo dva holoubky a předstoupí před Hospodina ke vchodu do Stanu setkávání, aby je odevzdal knězi."
+  },
+  {
+    "i": 3181,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 15,
+    "t": "Z jednoho učiní kněz oběť za hřích a z druhého oběť zápalnou. Tak kněz vykoná nad ním před Hospodinem obřad smíření pro jeho výtok."
+  },
+  {
+    "i": 3182,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 16,
+    "t": "Když z muže vyjde semeno, omyje celé své tělo vodou a bude nečistý až do večera."
+  },
+  {
+    "i": 3183,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 17,
+    "t": "Každý oděv a každá kůže, na kterou dopadne semeno, bude očištěna vodou a bude nečistá až do večera."
+  },
+  {
+    "i": 3184,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 18,
+    "t": "Když muž obcoval s ženou, oba se omyjí vodou a budou nečistí až do večera."
+  },
+  {
+    "i": 3185,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 19,
+    "t": "Když žena má výtok krve, krev vychází z jejího těla, bude po sedm dní v nečistotě svého měsíčního krvácení. Kdo se jí dotkne, bude nečistý až do večera."
+  },
+  {
+    "i": 3186,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 20,
+    "t": "Každé lože, na které si takto poskvrněná lehne, bude nečisté; každé sedadlo, na které si sedne, bude nečisté."
+  },
+  {
+    "i": 3187,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 21,
+    "t": "Kdokoli se dotkne jejího lože, vypere si šaty, omyje se vodou a bude nečistý až do večera."
+  },
+  {
+    "i": 3188,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 22,
+    "t": "Kdokoli se dotkne sedadla, na které si sedla, vypere si šaty, omyje se vodou a bude nečistý až do večera."
+  },
+  {
+    "i": 3189,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 23,
+    "t": "Pokud bude něco na loži nebo na sedadle, na kterém si sedla, a někdo se toho dotkne, bude nečistý až do večera."
+  },
+  {
+    "i": 3190,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 24,
+    "t": "Pokud muž s ní spí, poskvrna jejího měsíčního krvácení jej zasáhne. Bude nečistý po sedm dní. Každé lože, na které si lehne, bude nečisté."
+  },
+  {
+    "i": 3191,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 25,
+    "t": "Když žena má výtok krve po mnoho dní mimo dobu svého měsíčního krvácení, nebo když její měsíční krvácení trvá déle, bude po celou dobu tohoto výtoku v stejném stavu nečistoty jako během doby svého měsíčního krvácení."
+  },
+  {
+    "i": 3192,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 26,
+    "t": "Všechno lože, na kterém si lehne po celou dobu svého výtoku, bude jako lože, na kterém leží během svého měsíčního krvácení. Každé sedadlo, na které si sedne, bude nečisté jako během svého měsíčního krvácení."
+  },
+  {
+    "i": 3193,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 27,
+    "t": "Kdokoli se jich dotkne, bude nečistý, vypere si šaty, omyje se vodou a bude nečistý až do večera."
+  },
+  {
+    "i": 3194,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 28,
+    "t": "Když se uzdraví ze svého výtoku, spočítá si sedm dní a potom bude čistá."
+  },
+  {
+    "i": 3195,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 29,
+    "t": "Osmého dne vezme dvě hrdličky nebo dva holoubky a přinese je knězi ke vchodu do Stanu setkávání."
+  },
+  {
+    "i": 3196,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 30,
+    "t": "Z jednoho učiní kněz oběť za hřích a z druhého oběť zápalnou. Tak kněz vykoná nad ní před Hospodinem obřad smíření pro její výtok, který ji činil nečistou."
+  },
+  {
+    "i": 3197,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 31,
+    "t": "Varujte syny Izraelovy před jejich nečistotami, aby kvůli nim nezemřeli, poskvrňujíce můj příbytek, který je uprostřed nich."
+  },
+  {
+    "i": 3198,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 32,
+    "t": "Toto je zákon týkající se muže, který má výtok, toho, kterého činí nečistým semenný výtok,"
+  },
+  {
+    "i": 3199,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 33,
+    "t": "ženy během nečistoty jejího měsíčního krvácení, muže nebo ženy, kteří mají výtok, muže, který spí s nečistou ženou."
+  }
+]

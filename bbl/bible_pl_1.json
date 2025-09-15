@@ -1,0 +1,802 @@
+[
+  {
+    "i": 100,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 21,
+    "t": "A imię brata jego było Jubal; ten był ojcem wszystkich grających na harfie i na flecie."
+  },
+  {
+    "i": 101,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 22,
+    "t": "Syla też porodziła Tubalkaina, który był mistrzem w wyrobie wszelkiej miedzi i żelaza. A siostra Tubalkaina była Naama."
+  },
+  {
+    "i": 102,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 23,
+    "t": "I rzekł Lamech żonom swoim: \"Ada i Syla, słuchajcie głosu mego; żony Lamechowe, posłuchajcie mowy mojej: Zabiłem męża za zranienie moje i młodzieńca za siniec mój."
+  },
+  {
+    "i": 103,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 24,
+    "t": "Gdyż Kain będzie pomszczony siedmiokroć, Lamech zaś siedemdziesiąt i siedemkroć!"
+  },
+  {
+    "i": 104,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 25,
+    "t": "I poznał Adam żonę swą, a ta porodziła syna i nazwała imię jego Set, mówiąc: \"Dał mi Bóg insze nasienie zamiast Abla, którego zabił Kain."
+  },
+  {
+    "i": 105,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 26,
+    "t": "Setowi też narodził się syn, którego nazwał imieniem Enos. Wtedy zaczęto wzywać imienia Pana."
+  },
+  {
+    "i": 106,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 1,
+    "t": "Oto księga rodowodu Adama: W dzień, w którym Bóg stworzył Adama, na podobieństwo Boże uczynił go."
+  },
+  {
+    "i": 107,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 2,
+    "t": "Mężczyzną i niewiastą stworzył ich, i błogosławił im, i nazwał ich imieniem Adam w dniu, w którym zostali stworzeni."
+  },
+  {
+    "i": 108,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 3,
+    "t": "A gdy Adam przeżył 130 lat, zrodził syna na podobieństwo swoje, według wyobrażenia swego, i nazwał imię jego Set."
+  },
+  {
+    "i": 109,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 4,
+    "t": "A po urodzeniu Seta żył Adam 800 lat i zrodził synów i córki."
+  },
+  {
+    "i": 110,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 5,
+    "t": "I było wszystkich dni Adama, które przeżył, 930 lat, i umarł."
+  },
+  {
+    "i": 111,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 6,
+    "t": "A gdy Set przeżył 105 lat, zrodził Enosa."
+  },
+  {
+    "i": 112,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 7,
+    "t": "A po urodzeniu Enosa żył Set 807 lat i zrodził synów i córki."
+  },
+  {
+    "i": 113,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 8,
+    "t": "I było wszystkich dni Seta 912 lat, i umarł."
+  },
+  {
+    "i": 114,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 9,
+    "t": "A gdy Enos przeżył 90 lat, zrodził Kenana."
+  },
+  {
+    "i": 115,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 10,
+    "t": "A po urodzeniu Kenana żył Enos 815 lat i zrodził synów i córki."
+  },
+  {
+    "i": 116,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 11,
+    "t": "I było wszystkich dni Enosa 905 lat, i umarł."
+  },
+  {
+    "i": 117,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 12,
+    "t": "A gdy Kenan przeżył 70 lat, zrodził Mahalaleela."
+  },
+  {
+    "i": 118,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 13,
+    "t": "A po urodzeniu Mahalaleela żył Kenan 840 lat i zrodził synów i córki."
+  },
+  {
+    "i": 119,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 14,
+    "t": "I było wszystkich dni Kenana 910 lat, i umarł."
+  },
+  {
+    "i": 120,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 15,
+    "t": "A gdy Mahalaleel przeżył 65 lat, zrodził Jereda."
+  },
+  {
+    "i": 121,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 16,
+    "t": "A po urodzeniu Jereda żył Mahalaleel 830 lat i zrodził synów i córki."
+  },
+  {
+    "i": 122,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 17,
+    "t": "I było wszystkich dni Mahalaleela 895 lat, i umarł."
+  },
+  {
+    "i": 123,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 18,
+    "t": "A gdy Jered przeżył 162 lata, zrodził Henocha."
+  },
+  {
+    "i": 124,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 19,
+    "t": "A po urodzeniu Henocha żył Jered 800 lat i zrodził synów i córki."
+  },
+  {
+    "i": 125,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 20,
+    "t": "I było wszystkich dni Jereda 962 lata, i umarł."
+  },
+  {
+    "i": 126,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 21,
+    "t": "A gdy Henoch przeżył 65 lat, zrodził Metuszelacha."
+  },
+  {
+    "i": 127,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 22,
+    "t": "A Henoch chodził z Bogiem. I po urodzeniu Metuszelacha żył Henoch 300 lat i zrodził synów i córki."
+  },
+  {
+    "i": 128,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 23,
+    "t": "I było wszystkich dni Henocha 365 lat."
+  },
+  {
+    "i": 129,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 24,
+    "t": "A gdy Henoch chodził z Bogiem, znikł, gdyż Bóg go wziął."
+  },
+  {
+    "i": 130,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 25,
+    "t": "A gdy Metuszelach przeżył 187 lat, zrodził Lamecha."
+  },
+  {
+    "i": 131,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 26,
+    "t": "A po urodzeniu Lamecha żył Metuszelach 782 lata i zrodził synów i córki."
+  },
+  {
+    "i": 132,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 27,
+    "t": "I było wszystkich dni Metuszelacha 969 lat, i umarł."
+  },
+  {
+    "i": 133,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 28,
+    "t": "A gdy Lamech przeżył 182 lata, zrodził syna."
+  },
+  {
+    "i": 134,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 29,
+    "t": "I nazwał imię jego Noe, mówiąc: \"Ten nas pocieszy w pracy naszej i w trudzie rąk naszych na ziemi, którą Pan przeklął."
+  },
+  {
+    "i": 135,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 30,
+    "t": "A po urodzeniu Noego żył Lamech 595 lat i zrodził synów i córki."
+  },
+  {
+    "i": 136,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 31,
+    "t": "I było wszystkich dni Lamecha 777 lat, i umarł."
+  },
+  {
+    "i": 137,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 32,
+    "t": "A gdy Noe miał 500 lat, zrodził Sema, Chama i Jafeta."
+  },
+  {
+    "i": 138,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 1,
+    "t": "A gdy ludzie zaczęli się mnożyć na ziemi i narodziły im się córki,"
+  },
+  {
+    "i": 139,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 2,
+    "t": "Ujrzeli synowie Boży, że córki ludzkie były piękne, i brali sobie za żony te wszystkie, które sobie upodobali."
+  },
+  {
+    "i": 140,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 3,
+    "t": "I rzekł Pan: \"Nie będzie duch mój przebywał w człowieku na wieki, gdyż jest tylko ciałem; przeto dni jego będą sto dwadzieścia lat."
+  },
+  {
+    "i": 141,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 4,
+    "t": "A w owych czasach byli olbrzymi na ziemi; a także i potem, gdy synowie Boży zbliżali się do córek ludzkich, te im rodziły synów. To są mocarze, którzy w dawnych czasach byli sławni."
+  },
+  {
+    "i": 142,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 5,
+    "t": "A gdy Pan widział, że wielka jest złość ludzi na ziemi i że wszelkie myśli i zamiary ich serc są ustawicznie złe,"
+  },
+  {
+    "i": 143,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 6,
+    "t": "Żałował Pan, że stworzył człowieka na ziemi, i bolał w sercu swoim."
+  },
+  {
+    "i": 144,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 7,
+    "t": "I rzekł Pan: \"Zgładzę z powierzchni ziemi człowieka, którego stworzyłem, począwszy od człowieka aż do bydlęcia, aż do płazów i aż do ptactwa niebieskiego, gdyż żałuję, że je uczyniłem."
+  },
+  {
+    "i": 145,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 8,
+    "t": "Ale Noe znalazł łaskę w oczach Pana."
+  },
+  {
+    "i": 146,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 9,
+    "t": "Oto dzieje Noego: Noe był mężem sprawiedliwym i nienagannym wśród współczesnych sobie; Noe chodził z Bogiem."
+  },
+  {
+    "i": 147,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 10,
+    "t": "I zrodził Noe trzech synów: Sema, Chama i Jafeta."
+  },
+  {
+    "i": 148,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 11,
+    "t": "Ziemia była skażona przed Bogiem i pełna była ziemia nieprawości."
+  },
+  {
+    "i": 149,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 12,
+    "t": "I widział Bóg ziemię, że była skażona, gdyż wszelkie ciało skaziło drogę swoją na ziemi."
+  },
+  {
+    "i": 150,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 13,
+    "t": "I rzekł Bóg do Noego: \"Nadszedł koniec wszelkiego ciała przede mnie, gdyż ziemia jest pełna nieprawości z ich powodu. Oto zniszczę ich wraz z ziemią."
+  },
+  {
+    "i": 151,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 14,
+    "t": "Zrób sobie arkę z drzewa żywicznego. Zrób w arce przegrody i powlecz ją smołą wewnątrz i zewnątrz."
+  },
+  {
+    "i": 152,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 15,
+    "t": "A zrobisz ją w ten sposób: długość arki 300 łokci, szerokość jej 50 łokci, a wysokość jej 30 łokci."
+  },
+  {
+    "i": 153,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 16,
+    "t": "Zrób w arce okno, a na łokieć wysokie wyprowadź je z góry; drzwi arki umieść w jej boku; zrób w niej dolne, środkowe i górne piętro."
+  },
+  {
+    "i": 154,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 17,
+    "t": "\"Bo oto Ja sprowadzę potop, wody na ziemię, aby wytępić wszelkie ciało, w którym jest tchnienie życia pod niebem; wszystko, co jest na ziemi, zginie."
+  },
+  {
+    "i": 155,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 18,
+    "t": "Ale z tobą zawrę przymierze moje; wejdziesz więc do arki ty i synowie twoi, i żona twoja, i żony synów twoich z tobą."
+  },
+  {
+    "i": 156,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 19,
+    "t": "I wprowadzisz do arki ze wszystkiego, co żyje, z każdego ciała po parze, aby je zachować przy życiu z tobą; samca i samicę."
+  },
+  {
+    "i": 157,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 20,
+    "t": "Z ptactwa według rodzajów jego i z bydła według rodzajów jego, i ze wszystkich płazów ziemnych według rodzajów ich, po parze wejdzie z tobą, aby je zachować przy życiu."
+  },
+  {
+    "i": 158,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 21,
+    "t": "Weź też ze sobą wszelkiej żywności, którą się je, i nagromadź ją, aby służyła za pokarm dla ciebie i dla nich."
+  },
+  {
+    "i": 159,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 22,
+    "t": "I uczynił Noe wszystko tak, jak mu Bóg rozkazał."
+  },
+  {
+    "i": 160,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 1,
+    "t": "Potem rzekł Pan do Noego: \"Wejdź do arki ty i cały dom twój, bo ciebie widziałem sprawiedliwym przed sobą w tym pokoleniu."
+  },
+  {
+    "i": 161,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 2,
+    "t": "Ze wszystkich zwierząt czystych weź ze sobą po siedem par, samca i samicę jego; ze zwierząt zaś nieczystych po jednej parze, samca i samicę jego."
+  },
+  {
+    "i": 162,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 3,
+    "t": "Także i z ptactwa niebieskiego po siedem par, samca i samicę, aby zachować ich potomstwo przy życiu na całej ziemi."
+  },
+  {
+    "i": 163,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 4,
+    "t": "Bo za siedem dni spuszczę deszcz na ziemię, który będzie trwał czterdzieści dni i czterdzieści nocy, i wygładzę z powierzchni ziemi wszystko, co stworzyłem."
+  },
+  {
+    "i": 164,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 5,
+    "t": "I uczynił Noe wszystko tak, jak mu Pan rozkazał."
+  },
+  {
+    "i": 165,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 6,
+    "t": "A Noe miał 600 lat, gdy wody potopu zalały ziemię."
+  },
+  {
+    "i": 166,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 7,
+    "t": "I wszedł Noe, i synowie jego, i żona jego, i żony synów jego z nim do arki przed wodami potopu."
+  },
+  {
+    "i": 167,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 8,
+    "t": "Ze zwierząt czystych i ze zwierząt nieczystych, i z ptactwa, i ze wszystkiego, co się pełza po ziemi,"
+  },
+  {
+    "i": 168,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 9,
+    "t": "Weszła do Noego do arki po parze, samiec i samica, jak Bóg rozkazał Noemu."
+  },
+  {
+    "i": 169,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 10,
+    "t": "A gdy minęło siedem dni, wody potopu zalały ziemię."
+  },
+  {
+    "i": 170,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 11,
+    "t": "W roku 600 życia Noego, w miesiącu drugim, siedemnastego dnia miesiąca, tegoż dnia wytrysnęły wszystkie źródła wielkiej głębiny i otworzyły się upusty nieba."
+  },
+  {
+    "i": 171,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 12,
+    "t": "I padał deszcz na ziemię przez czterdzieści dni i czterdzieści nocy."
+  },
+  {
+    "i": 172,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 13,
+    "t": "Tegoż dnia wszedł Noe, i Sem, Cham i Jafet, synowie Noego, i żona Noego, i trzy żony synów jego z nimi do arki."
+  },
+  {
+    "i": 173,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 14,
+    "t": "Oni i wszelkie zwierzę według rodzajów swoich, i wszelkie bydło według rodzajów swoich, i wszelkie płazy pełzające po ziemi według rodzajów swoich, i wszelkie ptactwo według rodzajów swoich, wszelki ptak skrzydlaty."
+  },
+  {
+    "i": 174,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 15,
+    "t": "Weszli do Noego do arki po parze ze wszystkiego, co jest ciałem, w którym jest tchnienie życia."
+  },
+  {
+    "i": 175,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 16,
+    "t": "A ci, co weszli, byli samcem i samicą ze wszystkiego, co jest ciałem, jak Bóg mu rozkazał. I zamknął Pan za nim arkę."
+  },
+  {
+    "i": 176,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 17,
+    "t": "Potop trwał na ziemi czterdzieści dni; wody wezbrały i podniosły arkę, tak że uniosła się ponad ziemię."
+  },
+  {
+    "i": 177,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 18,
+    "t": "Wody wzmagały się i bardzo się pomnożyły na ziemi, i arka pływała po powierzchni wód."
+  },
+  {
+    "i": 178,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 19,
+    "t": "Wody wciąż się wzmagały na ziemi i zakryły wszystkie wysokie góry, które były pod całym niebem."
+  },
+  {
+    "i": 179,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 20,
+    "t": "Wody wezbrały na piętnaście łokci ponad góry, które zostały zakryte."
+  },
+  {
+    "i": 180,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 21,
+    "t": "I wyginęło wszelkie ciało, które się ruszało na ziemi: ptactwo, bydło, zwierzęta dzikie i wszelki płaz, który się płazil po ziemi, i wszyscy ludzie."
+  },
+  {
+    "i": 181,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 22,
+    "t": "Wszystko, co miało w nozdrzach tchnienie życia, wszystko, co było na suchej ziemi, pomarło."
+  },
+  {
+    "i": 182,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 23,
+    "t": "Tak zgładził Bóg wszelki byt, który był na powierzchni ziemi, od człowieka aż do bydła, płazów i ptactwa niebios; zniknęły one z ziemi. Pozostał tylko Noe i ci, którzy z nim byli w arce."
+  },
+  {
+    "i": 183,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 24,
+    "t": "Woda zalewała ziemię przez sto pięćdziesiąt dni."
+  },
+  {
+    "i": 184,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 1,
+    "t": "Wtedy wspomniał Bóg na Noego i na wszystkie zwierzęta dzikie i na wszelkie bydło, które było z nim w arce. I zesłał Bóg wiatr na ziemię, i wody opadły."
+  },
+  {
+    "i": 185,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 2,
+    "t": "Zamknięte zostały źródła głębin i upusty niebios, i powstrzymany został deszcz z nieba."
+  },
+  {
+    "i": 186,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 3,
+    "t": "A wody stopniowo cofały się z ziemi, i po upływie stu pięćdziesięciu dni zaczęły się obniżać."
+  },
+  {
+    "i": 187,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 4,
+    "t": "I siódmego miesiąca, siedemnastego dnia miesiąca, arka osiadła na górach Ararat."
+  },
+  {
+    "i": 188,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 5,
+    "t": "A wody wciąż opadały aż do dziesiątego miesiąca. Pierwszego dnia dziesiątego miesiąca ukazały się szczyty gór."
+  },
+  {
+    "i": 189,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 6,
+    "t": "Po upływie czterdziestu dni otworzył Noe okno, które był uczynił w arce,"
+  },
+  {
+    "i": 190,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 7,
+    "t": "I wypuścił kruka, który wylatywał i wracał, aż wyschła woda na ziemi."
+  },
+  {
+    "i": 191,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 8,
+    "t": "Potem wypuścił gołębicę od siebie, aby zobaczyć, czy opadła woda z powierzchni ziemi."
+  },
+  {
+    "i": 192,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 9,
+    "t": "Lecz gołębica, nie znalazłszy miejsca, gdzie by mogła usiąść jej noga, wróciła do niego do arki, bo woda była jeszcze na całej powierzchni ziemi. I wyciągnął rękę, i wziął ją do siebie do arki."
+  },
+  {
+    "i": 193,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 10,
+    "t": "I poczekał jeszcze siedem dni, i znowu wypuścił gołębicę z arki."
+  },
+  {
+    "i": 194,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 11,
+    "t": "I wróciła do niego gołębica pod wieczór, a oto w dziobie jej gałązka świeża oliwna. Poznał więc Noe, że opadła woda z powierzchni ziemi."
+  },
+  {
+    "i": 195,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 12,
+    "t": "I poczekał jeszcze siedem dni, i wypuścił gołębicę, ale już nie wróciła do niego."
+  },
+  {
+    "i": 196,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 13,
+    "t": "W sześćset pierwszym roku życia Noego, pierwszego miesiąca, pierwszego dnia miesiąca, wyschła woda na ziemi. Noe zdjął więc pokrycie arki, spojrzał i oto powierzchnia ziemi była sucha!"
+  },
+  {
+    "i": 197,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 14,
+    "t": "A drugiego miesiąca, dwudziestego siódmego dnia miesiąca, ziemia była zupełnie sucha."
+  },
+  {
+    "i": 198,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 15,
+    "t": "I rzekł Bóg do Noego:"
+  },
+  {
+    "i": 199,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 16,
+    "t": "\"Wyjdź z arki, ty i żona twoja, synowie twoi i żony synów twoich z tobą."
+  }
+]

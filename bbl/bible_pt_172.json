@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17200,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 21,
+    "t": "Se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber,"
+  },
+  {
+    "i": 17201,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 22,
+    "t": "porque assim amontoarás brasas vivas sobre a sua cabeça, e o Senhor te retribuirá."
+  },
+  {
+    "i": 17202,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 23,
+    "t": "O vento norte traz a chuva, e a língua fingida, o rosto irado."
+  },
+  {
+    "i": 17203,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 24,
+    "t": "Melhor é habitar num canto do eirado do que com mulher rixosa em casa comum."
+  },
+  {
+    "i": 17204,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 25,
+    "t": "Como água fria para a alma sedenta, assim são as boas notícias de terra remota."
+  },
+  {
+    "i": 17205,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 26,
+    "t": "Como fonte turvada e manancial corrompido, assim é o justo que cede diante do ímpio."
+  },
+  {
+    "i": 17206,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 27,
+    "t": "Comer muito mel não é bom, nem buscar a própria glória é honroso."
+  },
+  {
+    "i": 17207,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 28,
+    "t": "Como a cidade derrubada, que não tem muros, assim é o homem que não tem domínio próprio."
+  },
+  {
+    "i": 17208,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 1,
+    "t": "Como a neve no verão e a chuva na colheita, assim não convém honra ao insensato."
+  },
+  {
+    "i": 17209,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 2,
+    "t": "Como o pássaro que foge, como a andorinha que voa, assim a maldição sem causa não se cumpre."
+  },
+  {
+    "i": 17210,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 3,
+    "t": "O chicote é para o cavalo, o freio para o jumento e a vara para as costas dos insensatos."
+  },
+  {
+    "i": 17211,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 4,
+    "t": "Não respondas ao tolo segundo a sua estultícia, para que também tu não te tornes semelhante a ele."
+  },
+  {
+    "i": 17212,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 5,
+    "t": "Responde ao tolo segundo a sua estultícia, para que ele não se julgue sábio aos seus próprios olhos."
+  },
+  {
+    "i": 17213,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 6,
+    "t": "Como o que decepa os pés e bebe a violência é aquele que envia mensagens por intermédio de um tolo."
+  },
+  {
+    "i": 17214,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 7,
+    "t": "As pernas do coxo pendem frouxas; assim é o provérbio na boca dos tolos."
+  },
+  {
+    "i": 17215,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 8,
+    "t": "Como o que ata a pedra na funda, assim é o que dá honra ao tolo."
+  },
+  {
+    "i": 17216,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 9,
+    "t": "Como o espinheiro que sobe à mão do ébrio, assim é o provérbio na boca dos tolos."
+  },
+  {
+    "i": 17217,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 10,
+    "t": "Como o flecheiro que fere a todos, assim é o que assalaria o tolo ou o que assalaria os que passam."
+  },
+  {
+    "i": 17218,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 11,
+    "t": "Como o cão que torna ao seu vômito, assim é o tolo que repete a sua estultícia."
+  },
+  {
+    "i": 17219,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 12,
+    "t": "Tens visto um homem que se julga sábio? Mais esperança há para o tolo do que para ele."
+  },
+  {
+    "i": 17220,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 13,
+    "t": "Diz o preguiçoso: Um leão está no caminho; um leão está nas ruas!"
+  },
+  {
+    "i": 17221,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 14,
+    "t": "Como a porta se revolve sobre os seus gonzos, assim o preguiçoso sobre a sua cama."
+  },
+  {
+    "i": 17222,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 15,
+    "t": "O preguiçoso esconde a mão no prato, e cansa-se de a levar de novo à boca."
+  },
+  {
+    "i": 17223,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 16,
+    "t": "Mais sábio é o preguiçoso aos seus próprios olhos do que sete homens que respondem com discrição."
+  },
+  {
+    "i": 17224,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 17,
+    "t": "Como o que pega pelas orelhas um cão que passa, assim é o que se mete em questão alheia."
+  },
+  {
+    "i": 17225,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 18,
+    "t": "Como o louco que arremessa brasas, setas e mortandades,"
+  },
+  {
+    "i": 17226,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 19,
+    "t": "assim é o homem que engana o seu próximo e diz: Fiz isso por brincadeira."
+  },
+  {
+    "i": 17227,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 20,
+    "t": "Não havendo lenha, o fogo se apaga; e não havendo mexeriqueiro, cessa a contenda."
+  },
+  {
+    "i": 17228,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 21,
+    "t": "Como o carvão para as brasas, e a lenha para o fogo, assim é o homem rixoso para acender contendas."
+  },
+  {
+    "i": 17229,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 22,
+    "t": "As palavras do mexeriqueiro são como bocados saborosos; descem ao íntimo do ventre."
+  },
+  {
+    "i": 17230,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 23,
+    "t": "Como escória de prata revestida sobre um vaso de barro, assim são os lábios lisonjeiros com um coração maligno."
+  },
+  {
+    "i": 17231,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 24,
+    "t": "Aquele que odeia dissimula com os seus lábios, mas no seu íntimo maquina engano;"
+  },
+  {
+    "i": 17232,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 25,
+    "t": "quando te falar mansamente, não te fies nele, porque há sete abominações no seu coração."
+  },
+  {
+    "i": 17233,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 26,
+    "t": "O ódio se cobre com engano, mas a sua maldade será descoberta na congregação."
+  },
+  {
+    "i": 17234,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 27,
+    "t": "Quem abre uma cova nela cairá; e a pedra voltará sobre aquele que a revolve."
+  },
+  {
+    "i": 17235,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 28,
+    "t": "A língua falsa odeia aqueles a quem fere, e a boca lisonjeira causa a ruína."
+  },
+  {
+    "i": 17236,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 1,
+    "t": "Não te glories do dia de amanhã, porque não sabes o que o dia trará."
+  },
+  {
+    "i": 17237,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 2,
+    "t": "Louve-te o estranho, e não a tua boca; o alheio, e não os teus lábios."
+  },
+  {
+    "i": 17238,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 3,
+    "t": "Pesada é a pedra, e a areia também; mas a ira do tolo é mais pesada do que ambas."
+  },
+  {
+    "i": 17239,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 4,
+    "t": "Cruel é o furor, e impetuosa é a ira; mas quem poderá resistir ao ciúme?"
+  },
+  {
+    "i": 17240,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 5,
+    "t": "Melhor é a repreensão feita abertamente do que o amor oculto."
+  },
+  {
+    "i": 17241,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 6,
+    "t": "Leais são as feridas feitas pelo amigo, mas os beijos do inimigo são enganosos."
+  },
+  {
+    "i": 17242,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 7,
+    "t": "A alma farta pisa o favo de mel, mas para a alma faminta todo amargo é doce."
+  },
+  {
+    "i": 17243,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 8,
+    "t": "Como o pássaro que vagueia longe do seu ninho, assim é o homem que vagueia longe do seu lugar."
+  },
+  {
+    "i": 17244,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 9,
+    "t": "O óleo e o perfume alegram o coração; assim o faz a doçura do amigo pelo conselho cordial."
+  },
+  {
+    "i": 17245,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 10,
+    "t": "Não abandones o teu amigo, nem o amigo de teu pai; nem entres na casa de teu irmão no dia da tua adversidade; melhor é o vizinho perto do que o irmão longe."
+  },
+  {
+    "i": 17246,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 11,
+    "t": "Sê sábio, filho meu, e alegra o meu coração, para que eu possa responder àquele que me afronta."
+  },
+  {
+    "i": 17247,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 12,
+    "t": "O avisado vê o mal e se esconde; mas os simples passam adiante e sofrem a pena."
+  },
+  {
+    "i": 17248,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 13,
+    "t": "Toma a roupa daquele que fica fiador por outrem; e por estranhos exige-lhe um penhor."
+  },
+  {
+    "i": 17249,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 14,
+    "t": "O que bendiz ao seu próximo em alta voz, de madrugada, considerar-se-lhe-á por maldição."
+  },
+  {
+    "i": 17250,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 15,
+    "t": "Um gotejar contínuo num dia chuvoso, e a mulher rixosa, são semelhantes:"
+  },
+  {
+    "i": 17251,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 16,
+    "t": "Impedir uma coisa é como querer impedir o vento, ou como tentar segurar o óleo na mão direita."
+  },
+  {
+    "i": 17252,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 17,
+    "t": "Como o ferro com o ferro se aguça, assim o homem afia o rosto do seu amigo."
+  },
+  {
+    "i": 17253,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 18,
+    "t": "Quem cuida da figueira comerá do seu fruto; e o que vela pelo seu amo será honrado."
+  },
+  {
+    "i": 17254,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 19,
+    "t": "Como na água o rosto se reflete, assim o coração do homem para com o homem."
+  },
+  {
+    "i": 17255,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 20,
+    "t": "O Sheol e o Abadom nunca se fartam; assim os olhos do homem nunca se satisfazem."
+  },
+  {
+    "i": 17256,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 21,
+    "t": "O crisol é para a prata, e o forno para o ouro; assim o homem é provado pelos louvores."
+  },
+  {
+    "i": 17257,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 22,
+    "t": "Ainda que batas o tolo com a mão de gral entre grãos pilados, não se apartará dele a sua estultícia."
+  },
+  {
+    "i": 17258,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 23,
+    "t": "Procura conhecer o estado das tuas ovelhas; cuida bem dos teus rebanhos;"
+  },
+  {
+    "i": 17259,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 24,
+    "t": "porque as riquezas não duram para sempre; e, porventura, permanecerá a coroa de geração em geração?"
+  },
+  {
+    "i": 17260,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 25,
+    "t": "Quando a erva se retirar, e aparecerem os renovos, recolhe o feno dos montes;"
+  },
+  {
+    "i": 17261,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 26,
+    "t": "os cordeiros te darão vestimenta, e os bodes, o preço do campo;"
+  },
+  {
+    "i": 17262,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 27,
+    "t": "e haverá bastante leite de cabras para o teu sustento, para o sustento da tua casa e para o mantimento das tuas criadas."
+  },
+  {
+    "i": 17263,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 1,
+    "t": "Fogem os ímpios, sem que ninguém os persiga; mas os justos são ousados como um leão."
+  },
+  {
+    "i": 17264,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 2,
+    "t": "Pela transgressão da terra, muitos são os seus príncipes; mas por um homem entendido e sábio a sua ordem se manterá."
+  },
+  {
+    "i": 17265,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 3,
+    "t": "O homem pobre que oprime os pobres é como a chuva impetuosa que causa falta de pão."
+  },
+  {
+    "i": 17266,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 4,
+    "t": "Os que abandonam a lei louvam o ímpio; mas os que guardam a lei se indignam contra eles."
+  },
+  {
+    "i": 17267,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 5,
+    "t": "Os homens maus não entendem o direito; mas os que buscam ao Senhor entendem tudo."
+  },
+  {
+    "i": 17268,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 6,
+    "t": "Melhor é o pobre que anda na sua integridade do que o perverso nos seus caminhos, ainda que seja rico."
+  },
+  {
+    "i": 17269,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 7,
+    "t": "O que guarda a lei é filho prudente; mas o companheiro dos libertinos envergonha a seu pai."
+  },
+  {
+    "i": 17270,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 8,
+    "t": "O que aumenta os seus bens com usura e extorsão ajunta-os para aquele que se compadece dos pobres."
+  },
+  {
+    "i": 17271,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 9,
+    "t": "O que desvia os seus ouvidos de ouvir a lei, até a sua oração é abominável."
+  },
+  {
+    "i": 17272,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 10,
+    "t": "O que faz errar os retos por um mau caminho, ele mesmo cairá na cova que abriu; mas os homens íntegros herdarão o bem."
+  },
+  {
+    "i": 17273,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 11,
+    "t": "O rico é sábio aos seus próprios olhos; mas o pobre que é entendido o esquadrinha."
+  },
+  {
+    "i": 17274,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 12,
+    "t": "Quando os justos exultam, grande é a glória; mas quando os ímpios sobem, os homens se escondem."
+  },
+  {
+    "i": 17275,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 13,
+    "t": "O que encobre as suas transgressões nunca prosperará; mas o que as confessa e abandona alcançará misericórdia."
+  },
+  {
+    "i": 17276,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 14,
+    "t": "Bem-aventurado o homem que continuamente teme; mas o que endurece o seu coração cairá no mal."
+  },
+  {
+    "i": 17277,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 15,
+    "t": "Como leão que ruge, e urso faminto, assim é o ímpio que governa sobre um povo pobre."
+  },
+  {
+    "i": 17278,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 16,
+    "t": "O príncipe que é falto de entendimento é também um grande opressor; mas o que aborrece a avareza prolongará os seus dias."
+  },
+  {
+    "i": 17279,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 17,
+    "t": "O homem que é atormentado por causa de sangue de alguma pessoa fugirá até a cova; ninguém o detenha!"
+  },
+  {
+    "i": 17280,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 18,
+    "t": "Aquele que anda em integridade estará seguro, mas o que perverte os seus caminhos cairá."
+  },
+  {
+    "i": 17281,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 19,
+    "t": "O que lavra a sua terra se fartará de pão, mas o que segue a ociosos se fartará de pobreza."
+  },
+  {
+    "i": 17282,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 20,
+    "t": "O homem fiel será cumulado de bênçãos, mas o que se apressa a enriquecer não ficará impune."
+  },
+  {
+    "i": 17283,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 21,
+    "t": "Fazer acepção de pessoas não é bom, pois até por um bocado de pão o homem transgredirá."
+  },
+  {
+    "i": 17284,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 22,
+    "t": "Aquele que tem olhos invejosos se apressa atrás das riquezas, e não sabe que a pobreza há de vir sobre ele."
+  },
+  {
+    "i": 17285,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 23,
+    "t": "O que repreende o homem achará depois maior favor do que aquele que lisonjeia com a língua."
+  },
+  {
+    "i": 17286,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 24,
+    "t": "O que rouba a seu pai ou a sua mãe, e diz: \"Não é transgressão\", companheiro é do destruidor."
+  },
+  {
+    "i": 17287,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 25,
+    "t": "O soberbo de coração levanta contendas, mas o que confia no Senhor prosperará."
+  },
+  {
+    "i": 17288,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 26,
+    "t": "O que confia no seu próprio coração é insensato, mas o que anda sabiamente será salvo."
+  },
+  {
+    "i": 17289,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 27,
+    "t": "O que dá ao pobre não terá falta, mas o que desvia os seus olhos terá muitas maldições."
+  },
+  {
+    "i": 17290,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 28,
+    "t": "Quando os ímpios sobem ao poder, os homens se escondem, mas, quando eles perecem, os justos se multiplicam."
+  },
+  {
+    "i": 17291,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 1,
+    "t": "O homem que muitas vezes repreendido endurece a cerviz, de repente será destruído sem que haja remédio."
+  },
+  {
+    "i": 17292,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 2,
+    "t": "Quando os justos governam, o povo se alegra, mas quando o ímpio domina, o povo geme."
+  },
+  {
+    "i": 17293,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 3,
+    "t": "O que ama a sabedoria alegra a seu pai, mas o que frequenta prostitutas desperdiça os seus bens."
+  },
+  {
+    "i": 17294,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 4,
+    "t": "O rei que julga com equidade estabelece a terra, mas o que exige presentes a destrói."
+  },
+  {
+    "i": 17295,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 5,
+    "t": "O homem que lisonjeia ao seu próximo arma uma rede aos seus pés."
+  },
+  {
+    "i": 17296,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 6,
+    "t": "Na transgressão do homem mau há laço, mas o justo canta e se alegra."
+  },
+  {
+    "i": 17297,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 7,
+    "t": "O justo considera a causa dos pobres, mas o ímpio não tem conhecimento para entender."
+  },
+  {
+    "i": 17298,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 8,
+    "t": "Os escarnecedores alvoroçam a cidade, mas os sábios desviam a ira."
+  },
+  {
+    "i": 17299,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 9,
+    "t": "Se o sábio contender com o tolo, quer se irrite, quer se ria, não terá descanso."
+  }
+]

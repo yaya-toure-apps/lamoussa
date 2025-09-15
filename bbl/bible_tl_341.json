@@ -1,0 +1,802 @@
+[
+  {
+    "i": 34100,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 5,
+    "t": "Pagtataltalan ng mga taong masasama ang pagiisip at salat sa katotohanan, na nagsisipagakala na ang kabanalan ay paraan ng pakinabang."
+  },
+  {
+    "i": 34101,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 6,
+    "t": "Datapuwa't ang kabanalan na may kasiyahan ay malaking kapakinabangan:"
+  },
+  {
+    "i": 34102,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 7,
+    "t": "Sapagka't wala tayong dinalang anoman sa sanglibutan, at wala rin naman tayong mailalabas na anoman;"
+  },
+  {
+    "i": 34103,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 8,
+    "t": "Nguni't kung tayo'y may pagkain at pananamit ay masisiyahan na tayo doon."
+  },
+  {
+    "i": 34104,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 9,
+    "t": "Datapuwa't ang mga nagsisipagnasang yumaman, ay nangahuhulog sa tukso at sa silo at sa maraming mga pitang hangal at nakasasama, na siyang naglulubog sa mga tao sa kapahamakan at kamatayan."
+  },
+  {
+    "i": 34105,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 10,
+    "t": "Sapagka't ang pagibig sa salapi ay ugat ng lahat ng uri ng kasamaan; na sa pagnanasa ng iba ay nangasinsay sa pananampalataya, at tinuhog ang kanilang sarili ng maraming mga kalumbayan."
+  },
+  {
+    "i": 34106,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 11,
+    "t": "Datapuwa't ikaw, Oh tao, ng Dios, tumakas ka sa mga bagay na ito, at sumunod ka sa katuwiran, sa kabanalan, sa pananampalataya, sa pagibig, sa pagtitiis, sa kaamuan."
+  },
+  {
+    "i": 34107,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 12,
+    "t": "Makipagbaka ka ng mabuting pakikipagbaka ng pananampalataya, manangan ka sa buhay na walang hanggan, na dito'y tinawag ka, at ipinahayag mo ang mabuting pagpapahayag sa harapan ng maraming mga saksi."
+  },
+  {
+    "i": 34108,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 13,
+    "t": "Ipinagbibilin ko sa iyo sa paningin ng Dios na bumubuhay sa lahat ng mga bagay, at ni Cristo Jesus, na sa harapan ni Poncio Pilato ay sumaksi ng mabuting pagpapahayag;"
+  },
+  {
+    "i": 34109,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 14,
+    "t": "Na tuparin mo ang utos, na walang dungis, walang kapintasan hanggang sa pagpapakita ng ating Panginoong Jesucristo:"
+  },
+  {
+    "i": 34110,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 15,
+    "t": "Na sa kaniyang kapanahunan ay ipahahayag siya, na mapalad at tanging Makapangyarihan Hari ng mga hari, at Panginoon ng mga panginoon;"
+  },
+  {
+    "i": 34111,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 16,
+    "t": "Na siya lamang ang walang kamatayan, na nananahan sa liwanag na di malapitan; na di nakita ng sinomang tao, o makikita man: sumakaniya nawa ang kapurihan at paghaharing walang hanggan. Siya nawa."
+  },
+  {
+    "i": 34112,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 17,
+    "t": "Ang mayayaman sa sanglibutang ito, ay pagbilinan mo na huwag magsipagmataas ng pagiisip, at huwag umasa sa mga kayamanang di nananatili, kundi sa Dios na siyang nagbibigay sa ating sagana ng lahat ng mga bagay upang ating ikagalak;"
+  },
+  {
+    "i": 34113,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 18,
+    "t": "Na sila'y magsigawa ng mabuti, na sila'y magsiyaman sa mabuting gawa, na sila'y maging handa sa pamimigay, maibigin sa pamamahagi;"
+  },
+  {
+    "i": 34114,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 19,
+    "t": "Na mangagtipon sa kanilang sarili ng isang mabuting kinasasaligan para sa panahong darating, upang sila'y makapanangan sa buhay na tunay na buhay."
+  },
+  {
+    "i": 34115,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 20,
+    "t": "Oh Timoteo, ingatan mo ang ipinagkatiwala sa iyo, na ilagan mo ang mga usapan na walang kabuluhan at ang mga pagsalungat ng maling tawag na kaalaman;"
+  },
+  {
+    "i": 34116,
+    "b": 60,
+    "c": 6206,
+    "r": 6206,
+    "o": 21,
+    "t": "Na palibhasa'y pinaniwalaan ng ilan ay nangasinsay tungkol sa pananampalataya. Ang biyaya ay sumainyo nawa."
+  },
+  {
+    "i": 34117,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 1,
+    "t": "Si Pablo, na apostol ni Cristo Jesus sa pamamagitan ng kalooban ng Dios, ayon sa pangako ng buhay na nasa kay Cristo Jesus,"
+  },
+  {
+    "i": 34118,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 2,
+    "t": "Kay Timoteo na aking minamahal na anak: Biyaya, kaawaan, kapayapaan nawang mula sa Dios Ama at kay Cristo Jesus na Panginoon natin."
+  },
+  {
+    "i": 34119,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 3,
+    "t": "Nagpapasalamat ako sa Dios, na mula sa aking kanunununuan ay aking pinaglilingkuran sa budhing malinis, na walang patid na inaalaala kita sa aking mga daing, gabi't araw;"
+  },
+  {
+    "i": 34120,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 4,
+    "t": "Na kinasasabikan kong makita kita, na inaalaala ang iyong mga pagluha, upang ako'y mapuspos ng kagalakan;"
+  },
+  {
+    "i": 34121,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 5,
+    "t": "Na inaalaala ko ang pananampalatayang hindi pakunwari na nasa iyo; na namalagi muna kay Loida na iyong lelang, at kay Eunice na iyong ina; at, ako'y naniniwalang lubos, na nasa iyo rin naman."
+  },
+  {
+    "i": 34122,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 6,
+    "t": "Dahil dito ay ipinaaalaala ko sa iyo na paningasin mo ang kaloob ng Dios, na nasa iyo sa pamamagitan ng pagpapatong ng aking mga kamay."
+  },
+  {
+    "i": 34123,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 7,
+    "t": "Sapagka't hindi tayo binigyan ng Dios ng espiritu ng katakutan; kundi ng kapangyarihan at ng pagibig at ng kahusayan."
+  },
+  {
+    "i": 34124,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 8,
+    "t": "Huwag mo ngang ikahiya ang pagpapatotoo sa ating Panginoon, ni ako na bilanggo niya: kundi magtiis ka ng mga kahirapan dahil sa evangelio ayon sa kapangyarihan ng Dios;"
+  },
+  {
+    "i": 34125,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 9,
+    "t": "Na siyang sa atin ay nagligtas, at sa atin ay tumawag ng isang banal na pagtawag, hindi ayon sa ating mga gawa, kundi ayon sa kaniyang sariling akala at biyaya, na ibinigay sa atin kay Cristo Jesus buhat pa ng mga panahong walang hanggan."
+  },
+  {
+    "i": 34126,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 10,
+    "t": "Nguni't ngayon ay nahayag sa pamamagitan ng pagpapakita ng ating Tagapagligtas na si Cristo Jesus, na siyang nagalis ng kamatayan, at nagdala sa liwanag ng buhay at ng walang pagkasira sa pamamagitan ng evangelio,"
+  },
+  {
+    "i": 34127,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 11,
+    "t": "Na sa bagay na ito ay ako'y itinalaga na tagapangaral, at apostol at guro."
+  },
+  {
+    "i": 34128,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 12,
+    "t": "Dahil dito'y nagtiis din ako ng mga bagay na ito: gayon ma'y hindi ako nahihiya; sapagka't nakikilala ko yaong aking sinampalatayanan, at lubos akong naniniwalang siya'y makapagiingat ng aking ipinagkatiwala sa kaniya hanggang sa araw na yaon."
+  },
+  {
+    "i": 34129,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 13,
+    "t": "Ingatan mo ang mga ulirang mga salitang magagaling na narinig mo sa akin, sa pananampalataya at pagibig na nasa kay Cristo Jesus."
+  },
+  {
+    "i": 34130,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 14,
+    "t": "Yaong mabuting bagay na ipinagkatiwala sa iyo ay ingatan mo sa pamamagitan ng Espiritu Santo na nananahan sa atin."
+  },
+  {
+    "i": 34131,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 15,
+    "t": "Ito'y nalalaman mo, na nagsihiwalay sa akin ang lahat ng nangasa Asia; na sa mga yaon ay si Figello at si Hermogenes."
+  },
+  {
+    "i": 34132,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 16,
+    "t": "Pagkalooban nawa ng Panginoon ng habag ang sangbahayan ni Onesiforo: sapagka't madalas niya akong pinaginhawa, at hindi ikinahiya ang aking tanikala;"
+  },
+  {
+    "i": 34133,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 17,
+    "t": "Kundi, nang siya'y nasa Roma, ay hinanap niya ako ng buong sikap, at ako'y nasumpungan niya."
+  },
+  {
+    "i": 34134,
+    "b": 61,
+    "c": 6301,
+    "r": 6301,
+    "o": 18,
+    "t": "(Pagkalooban nawa siya ng Panginoon na masumpungan niya ang kahabagan ng Panginoon sa araw na yaon); at totoong alam mo kung gaano karaming mga bagay ang ipinaglingkod niya sa Efeso."
+  },
+  {
+    "i": 34135,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 1,
+    "t": "Ikaw nga, anak ko, magpakalakas ka sa biyayang nasa kay Cristo Jesus."
+  },
+  {
+    "i": 34136,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 2,
+    "t": "At ang mga bagay na iyong narinig sa akin sa gitna ng maraming saksi, ay siya mo ring ipagkatiwala sa mga taong tapat, na makapagtuturo naman sa mga iba."
+  },
+  {
+    "i": 34137,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 3,
+    "t": "Makipagtiis ka sa akin ng mga kahirapan, na gaya ng mabuting kawal ni Cristo Jesus."
+  },
+  {
+    "i": 34138,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 4,
+    "t": "Sinomang kawal na nasa pagkakawal ay hindi nahalubilo sa mga bagay ng buhay na ito; upang siya'y kalugdan niyaong nagtala sa pagkakawal."
+  },
+  {
+    "i": 34139,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 5,
+    "t": "At kung ang sinoman ay makikipaglaban naman sa mga laro, ay hindi pinuputungan maliban na kung makipaglabang matuwid."
+  },
+  {
+    "i": 34140,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 6,
+    "t": "Ang magsasaka na nagpapagal ay siyang kailangang unang makabahagi sa mga bunga."
+  },
+  {
+    "i": 34141,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 7,
+    "t": "Isipin mo ang sinasabi ko; sapagka't bibigyan ka ng Panginoon ng pagkaunawa sa lahat ng mga bagay."
+  },
+  {
+    "i": 34142,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 8,
+    "t": "Alalahanin mo si Jesucristo na muling nabuhay sa mga patay, sa binhi ni David, ayon sa aking evangelio:"
+  },
+  {
+    "i": 34143,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 9,
+    "t": "Na siyang pinagtitiisan ko ng kahirapan sa mga tanikala, na tulad sa tampalasan; nguni't ang salita ng Dios ay hindi natatanikalaan."
+  },
+  {
+    "i": 34144,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 10,
+    "t": "Kaya aking tinitiis ang lahat ng mga bagay dahil sa mga hinirang, upang kamtan naman nila ang pagkaligtas na nasa kay Cristo Jesus na may kaluwalhatiang walang hanggan."
+  },
+  {
+    "i": 34145,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 11,
+    "t": "Tapat ang pasabi: Sapagka't kung tayo'y nangamatay na kalakip niya, ay mangabubuhay naman tayong kasama niya:"
+  },
+  {
+    "i": 34146,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 12,
+    "t": "Kung tayo'y mangagtiis, ay mangaghahari naman tayong kasama niya: kung ating ikaila siya, ay ikakaila naman niya tayo:"
+  },
+  {
+    "i": 34147,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 13,
+    "t": "Kung tayo'y hindi mga tapat, siya'y nananatiling tapat; sapagka't hindi makapagkakaila sa kaniyang sarili."
+  },
+  {
+    "i": 34148,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 14,
+    "t": "Ipaalaala mo sa kanila ang mga bagay na ito, na sila'y pagbilinan sa paningin ng Panginoon, na sila'y huwag makipagtalo tungkol sa mga salitaan na hindi mapapakinabangan, sa ikapapahamak ng mga nakikinig."
+  },
+  {
+    "i": 34149,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 15,
+    "t": "Pagsikapan mong humarap na subok sa Dios, manggagawang walang anomang ikahihiya, na gumagamit na matuwid ng salita ng katotohanan."
+  },
+  {
+    "i": 34150,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 16,
+    "t": "Datapuwa't ilagan mo ang mga usapang walang kabuluhan: sapagka't sila'y lalong magpapatuloy sa kasamaan,"
+  },
+  {
+    "i": 34151,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 17,
+    "t": "At ang kanilang salita ay kakalat na gaya ng ganggrena: na sa mga ito ay si Himeneo at si Fileto;"
+  },
+  {
+    "i": 34152,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 18,
+    "t": "Na mga taong tungkol sa katotohanan ay nangasinsay, na sinasabing ang pagkabuhay na maguli ay nakaraan na, at ginugulo ang pananampalataya ng iba."
+  },
+  {
+    "i": 34153,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 19,
+    "t": "Gayon ma'y ang matibay na pinagsasaligan ng Dios ay nananatili na may tatak nito, Nakikilala ng Panginoon ang mga kaniya: at, Lumayo sa kalikuan ang bawa't isa na sumasambitla ng pangalan ng Panginoon."
+  },
+  {
+    "i": 34154,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 20,
+    "t": "Datapuwa't sa isang malaking bahay ay hindi lamang may mga sisidlang ginto at pilak, kundi mayroon din namang kahoy at lupa; at ang iba'y sa ikapupuri, at ang iba'y sa ikasisirang-puri."
+  },
+  {
+    "i": 34155,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 21,
+    "t": "Kung ang sinoman nga ay malinis sa alin man sa mga ito, ay magiging sisidlang ikapupuri, pinakabanal, marapat gamitin ng mayari, nahahanda sa lahat ng gawang mabuti."
+  },
+  {
+    "i": 34156,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 22,
+    "t": "Datapuwa't layuan mo ang masasamang pita ng kabinataan, at sundin mo ang kabanalan, ang pananampalataya, ang pagibig, ang kapayapaan, kasama ng mga nagsisitawag sa Panginoon mula sa pusong malinis."
+  },
+  {
+    "i": 34157,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 23,
+    "t": "Nguni't tanggihan mo ang mga usapang walang kabuluhan at hangal, yamang nalalaman mo na namumunga ng mga pagtatalo."
+  },
+  {
+    "i": 34158,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 24,
+    "t": "At ang alipin ng Panginoon ay hindi nararapat na makipagtalo, kundi maamo sa lahat, sapat na makapagturo, matiisin,"
+  },
+  {
+    "i": 34159,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 25,
+    "t": "Na sawaying may kaamuan ang mga nagsisisalangsang; baka sakaling sila'y pagkalooban ng Dios ng pagsisisi sa ikaaalam ng katotohanan,"
+  },
+  {
+    "i": 34160,
+    "b": 61,
+    "c": 6302,
+    "r": 6302,
+    "o": 26,
+    "t": "At sila'y makawala sa silo ng diablo, na bumihag sa kanila ayon sa kaniyang kalooban."
+  },
+  {
+    "i": 34161,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 1,
+    "t": "Datapuwa't alamin mo ito, na sa mga huling araw ay darating ang mga panahong mapanganib."
+  },
+  {
+    "i": 34162,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 2,
+    "t": "Sapagka't ang mga tao'y magiging maibigin sa kanilang sarili, maibigin sa salapi, mayayabang, mga mapagmalaki, mapagtungayaw, masuwayin sa mga magulang, mga walang turing, mga walang kabanalan,"
+  },
+  {
+    "i": 34163,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 3,
+    "t": "Walang katutubong pagibig, mga walang paglulubag, mga palabintangin, mga walang pagpipigil sa sarili, mga mabangis, hindi mga maibigin sa mabuti,"
+  },
+  {
+    "i": 34164,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 4,
+    "t": "Mga lilo, mga matitigas ang ulo, mga palalo, mga maibigin sa kalayawan kay sa mga maibigin sa Dios;"
+  },
+  {
+    "i": 34165,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 5,
+    "t": "Na may anyo ng kabanalan, datapuwa't tinanggihan ang kapangyarihan nito: lumayo ka rin naman sa mga ito."
+  },
+  {
+    "i": 34166,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 6,
+    "t": "Sapagka't sa mga ito ang nanganggagapang sa mga bahay, at binibihag ang babaing haling na lipos ng mga kasalanan, hinihila ng mga iba't ibang pita,"
+  },
+  {
+    "i": 34167,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 7,
+    "t": "Na laging nagsisipagaral, at kailan pa man ay hindi nakararating sa pagkaalam ng katotohanan."
+  },
+  {
+    "i": 34168,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 8,
+    "t": "At kung paanong si Janes at si Jambres ay nagsilaban kay Moises, ay gayon din naman ang mga ito'y nagsisilaban sa katotohanan; mga taong masasama ang pagiisip, mga itinakuwil tungkol sa pananampalataya."
+  },
+  {
+    "i": 34169,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 9,
+    "t": "Nguni't sila'y hindi mangagpapatuloy: sapagka't mangahahayag sa lahat ng mga tao ang kanilang kamangmangan, gaya naman ng pagkahayag ng sa mga yaon."
+  },
+  {
+    "i": 34170,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 10,
+    "t": "Nguni't sinunod mo ang aking aral, ugali, akala, pananampalataya, pagpapahinuhod, pagibig, pagtitiis,"
+  },
+  {
+    "i": 34171,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 11,
+    "t": "Mga paguusig, mga pagbabata; anomang mga bagay ang nangyari sa akin sa Antioquia, sa Iconio, sa Listra; anomang mga paguusig ang tiniis ko: at sa lahat ay iniligtas ako ng Panginoon."
+  },
+  {
+    "i": 34172,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 12,
+    "t": "Oo, at lahat na ibig mabuhay na may kabanalan kay Cristo Jesus ay mangagbabata ng paguusig."
+  },
+  {
+    "i": 34173,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 13,
+    "t": "Datapuwa't ang masasamang tao at mga magdaraya ay lalong sasama ng sasama, na mangagdadaya, at sila rin ang mangadadaya."
+  },
+  {
+    "i": 34174,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 14,
+    "t": "Datapuwa't manatili ka sa mga bagay na iyong pinagaralan at sa pinagkaroonan mo ng katunayan, yamang nalalaman mo kung kanino mo nangatutuhan;"
+  },
+  {
+    "i": 34175,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 15,
+    "t": "At mula sa pagkasanggol ay iyong nalalaman ang mga banal na kasulatan na makapagpadunong sa iyo sa ikaliligtas sa pamamagitan ng pananampalataya kay Cristo Jesus."
+  },
+  {
+    "i": 34176,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 16,
+    "t": "Ang lahat ng mga kasulatan na kinasihan ng Dios ay mapapakinabangan din naman sa pagtuturo, sa pagsansala, sa pagsaway, sa ikatututo na nasa katuwiran:"
+  },
+  {
+    "i": 34177,
+    "b": 61,
+    "c": 6303,
+    "r": 6303,
+    "o": 17,
+    "t": "Upang ang tao ng Dios ay maging sakdal, tinuruang lubos sa lahat ng mga gawang mabuti."
+  },
+  {
+    "i": 34178,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 1,
+    "t": "Ipinagbibilin ko sa iyo sa paningin ng Dios, at ni Cristo Jesus, na siyang huhukom sa mga buhay at sa mga patay, sa pamamagitan ng kaniyang pagpapakita at sa kaniyang kaharian:"
+  },
+  {
+    "i": 34179,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 2,
+    "t": "Ipangaral mo ang salita; magsikap ka sa kapanahunan, at sa di kapanahunan, sumawata ka, sumaway ka, mangaral ka na may buong pagpapahinuhod at pagtuturo."
+  },
+  {
+    "i": 34180,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 3,
+    "t": "Sapagka't darating ang panahon na hindi nila titiisin ang magaling na aral; kundi, pagkakaroon nila ng kati ng tainga, ay magsisipagbunton sila sa kanilang sarili ng mga gurong ayon sa kanilang sariling mga masasamang pita;"
+  },
+  {
+    "i": 34181,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 4,
+    "t": "At ihihiwalay sa katotohanan ang kanilang mga tainga, at mga ibabaling sa katha."
+  },
+  {
+    "i": 34182,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 5,
+    "t": "Nguni't ikaw ay magpigil sa lahat ng mga bagay, magtiis ka ng mga kahirapan, gawin mo ang gawa ng evangelista, ganapin mo ang iyong ministerio."
+  },
+  {
+    "i": 34183,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 6,
+    "t": "Sapagka't ako'y iniaalay na, at ang panahon ng aking pagpanaw ay dumating na."
+  },
+  {
+    "i": 34184,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 7,
+    "t": "Nakipagbaka ako ng mabuting pakikipagbaka, natapos ko na ang aking takbo, iningatan ko ang pananampalataya:"
+  },
+  {
+    "i": 34185,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 8,
+    "t": "Buhat ngayon ay natataan sa akin ang putong na katuwiran, na ibibigay sa akin ng Panginoon na tapat na hukom sa araw na yaon; at hindi lamang sa akin, kundi sa lahat din naman ng mga naghahangad sa kaniyang pagpapakita."
+  },
+  {
+    "i": 34186,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 9,
+    "t": "Magsikap kang pumarini na madali sa akin:"
+  },
+  {
+    "i": 34187,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 10,
+    "t": "Sapagka't ako'y pinabayaan ni Demas, palibhasa'y iniibig niya ang sanglibutang ito, at napasa Tesalonica; si Crescente ay napasa Galacia, at si Tito ay sa Dalmacia."
+  },
+  {
+    "i": 34188,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 11,
+    "t": "Si Lucas lamang ang kasama ko. Kaunin mo si Marcos, at ipagsama mo; sapagka't siya'y napapakinabangan ko sa ministerio."
+  },
+  {
+    "i": 34189,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 12,
+    "t": "Datapuwa't si Tiquico ay sinugo ko sa Efeso."
+  },
+  {
+    "i": 34190,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 13,
+    "t": "Ang balabal na aking iniwan sa Troas kay Carpo ay iyong dalhin pagparini mo, at ang mga aklat, lalong lalo na ang mga pergamino."
+  },
+  {
+    "i": 34191,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 14,
+    "t": "Si Alejandro na panday-tanso ay ginawan ako ng lubhang masama: gagantihan siya ng Panginoon ayon sa kaniyang mga gawa:"
+  },
+  {
+    "i": 34192,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 15,
+    "t": "Magingat ka rin naman sa kaniya; sapagka't totoong kaniyang sinalangsang ang aming mga salita."
+  },
+  {
+    "i": 34193,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 16,
+    "t": "Sa aking unang pagsasanggalang sinoman ay walang kumampi sa akin, bagkus pinabayaan ako ng lahat: huwag nawang ibilang sa kanila ito."
+  },
+  {
+    "i": 34194,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 17,
+    "t": "Datapuwa't ang Panginoon ay sumaakin, at ako'y pinalakas; upang sa pamamagitan ko ang mabuting balita ay maitanyag ng ganap, at upang mapakinggan ng lahat ng mga Gentil: at ako'y iniligtas sa bibig ng leon."
+  },
+  {
+    "i": 34195,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 18,
+    "t": "Ako'y ililigtas ng Panginoon sa bawa't gawa ng masama, at ako'y kaniyang iingatan sa kaniyang kaharian sa langit: na sumakaniya nawa ang kaluwalhatian magpakailan man. Siya nawa."
+  },
+  {
+    "i": 34196,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 19,
+    "t": "Batiin mo si Prisca at si Aquila, at ang sangbahayan ni Onesiforo."
+  },
+  {
+    "i": 34197,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 20,
+    "t": "Si Erasto ay natira sa Corinto; datapuwa't si Trofimo ay iniwan kong may-sakit sa Mileto."
+  },
+  {
+    "i": 34198,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 21,
+    "t": "Magsikap kang pumarini bago magtaginaw. Binabati ka ni Eubulo, at ni Pudente, at ni Lino, at ni Claudia, at ng lahat ng mga kapatid."
+  },
+  {
+    "i": 34199,
+    "b": 61,
+    "c": 6304,
+    "r": 6304,
+    "o": 22,
+    "t": "Ang Panginoon nawa'y sumainyong espiritu. Ang biyaya nawa'y sumainyo."
+  }
+]

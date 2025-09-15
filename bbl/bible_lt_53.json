@@ -1,0 +1,802 @@
+[
+  {
+    "i": 5300,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 11,
+    "t": "Galėsite valgyti kiekvieną švarų paukštį,"
+  },
+  {
+    "i": 5301,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 12,
+    "t": "bet štai paukščiai, kurių nevalgysite: erelis, grifas, jūrinis erelis,"
+  },
+  {
+    "i": 5302,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 13,
+    "t": "juodasis aitvaras, visos raudonųjų aitvarų rūšys,"
+  },
+  {
+    "i": 5303,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 14,
+    "t": "visos varninių paukščių rūšys,"
+  },
+  {
+    "i": 5304,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 15,
+    "t": "stručiai, pelėdos, kirai ir visos vanaginių paukščių rūšys,"
+  },
+  {
+    "i": 5305,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 16,
+    "t": "apučiai, lūšys, ibiai,"
+  },
+  {
+    "i": 5306,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 17,
+    "t": "pelikanai, baltasis grifas, kormoranai,"
+  },
+  {
+    "i": 5307,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 18,
+    "t": "gandrai ir visos garninių paukščių rūšys, kūlingė, šikšnosparnis."
+  },
+  {
+    "i": 5308,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 19,
+    "t": "Visus sparnuočius laikykite nešvariais, nevalgykite jų."
+  },
+  {
+    "i": 5309,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 20,
+    "t": "Galėsite valgyti kiekvieną švarų sparnuotį."
+  },
+  {
+    "i": 5310,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 21,
+    "t": "Nevalgysite jokio gaišenos. Atiduok ją ateiviui, gyvenančiam tavyje, kad jis ją suvalgytų, arba parduok ją svetimšaliui. Jūs esate tauta, pašvęsta Viešpačiui, savo Dievui. Nevirkite ožiuko jo motinos piene."
+  },
+  {
+    "i": 5311,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 22,
+    "t": "Kasmet turėsite paimti dešimtinę nuo visko, ką jūsų sėkla davė jūsų laukuose"
+  },
+  {
+    "i": 5312,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 23,
+    "t": "ir, Viešpaties, savo Dievo akivaizdoje, toje vietoje, kurią jis pasirinks ten įkurdinti savo vardą, valgysite dešimtinę nuo savo kviečių, savo naujo vyno ir savo aliejaus, savo stambiųjų ir smulkiųjų galvijų pirmagimius; taip išmoksite visada bijoti Viešpaties, savo Dievo."
+  },
+  {
+    "i": 5313,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 24,
+    "t": "Jei kelias jums per ilgas, jei negalite atnešti dešimtinės, nes vieta, kurią Viešpats pasirinko ten įkurdinti savo vardą, yra per toli nuo jūsų namų, kai Viešpats, tavo Dievas, tave palaimins"
+  },
+  {
+    "i": 5314,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 25,
+    "t": "paverskite ją pinigais, suspauskite pinigus savo rankoje ir eikite į vietą, kurią pasirinko Viešpats, jūsų Dievas;"
+  },
+  {
+    "i": 5315,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 26,
+    "t": "ten išmainysite šiuos pinigus į visa, ko geidžiate, stambius ar smulkius galvijus, vyną ar fermentuotą gėrimą, visa, ko tik norite. Valgysite ten Viešpaties, savo Dievo akivaizdoje, ir džiaugsitės jūs ir jūsų namai."
+  },
+  {
+    "i": 5316,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 27,
+    "t": "Nepaliksite be dėmesio levito, kuris yra jūsų vartuose, nes jis neturi nei dalies, nei paveldo su jumis."
+  },
+  {
+    "i": 5317,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 28,
+    "t": "Po trejų metų paimsite visas savo derliaus dešimtines tais metais ir padėsite jas prie savo vartų."
+  },
+  {
+    "i": 5318,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 29,
+    "t": "Tada ateis valgyti levitas (nes jis neturi nei dalies, nei paveldo su jumis), ateivis, našlaitis ir našlė iš jūsų miesto, ir jie pasisotins. Taip Viešpats, tavo Dievas, palaimins visus darbus, kurių imsis tavo rankos."
+  },
+  {
+    "i": 5319,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 1,
+    "t": "Pasibaigus septyneriems metams, atleisite."
+  },
+  {
+    "i": 5320,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 2,
+    "t": "Štai ką reiškia atleidimas. Kiekvienas asmeninio įsipareigojimo, kurį gavo iš savo artimo, turėtojas atleis jam; jis neišnaudos savo artimo nei savo brolio, kai šis šauksis Viešpaties dėl atleidimo."
+  },
+  {
+    "i": 5321,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 3,
+    "t": "Galėsite išnaudoti ateivį, bet išlaisvinsite savo brolį nuo savo teisės į jį."
+  },
+  {
+    "i": 5322,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 4,
+    "t": "Tad tenebūna pas jus vargšo. Nes Viešpats tikrai palaimins tave šalyje, kurią Viešpats, tavo Dievas, duoda tau paveldėti, kad ją valdytumei,"
+  },
+  {
+    "i": 5323,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 5,
+    "t": "jei iš tikrųjų klausysi Viešpaties, savo Dievo, balso, saugodamas ir vykdydamas visus šiuos įsakymus, kuriuos tau šiandien liepiu."
+  },
+  {
+    "i": 5324,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 6,
+    "t": "Jei Viešpats, tavo Dievas, palaimins tave, kaip jis sakė, tu skolinsi daugeliui tautų, neturėdamas reikalo skolintis iš jų, ir tu viešpatausi daugeliui tautų, o jos tau neviešpataus."
+  },
+  {
+    "i": 5325,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 7,
+    "t": "Ar pas tave yra vargšas, iš tavo brolių, viename iš tavo šalies miestų, kuriuos Viešpats, tavo Dievas, tau davė? Neužkietink savo širdies nei neužverk savo rankos savo vargšui broliui,"
+  },
+  {
+    "i": 5326,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 8,
+    "t": "bet atverk jam savo ranką ir paskolink jam tai, ko jam trūksta."
+  },
+  {
+    "i": 5327,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 9,
+    "t": "Nesirink savo širdyje šių blogų žodžių: „Štai jau septyneri metai, atleidimo metai“, piktai žiūrėdamas į savo vargšą brolį, nieko jam neduodamas; jis šauktųsi Viešpaties prieš tave ir tu būtum apkrautas nuodėme!"
+  },
+  {
+    "i": 5328,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 10,
+    "t": "Kai jam duodi, privalai duoti gera širdimi, nes už tai Viešpats, tavo Dievas, palaimins visus tavo veiksmus ir visus tavo darbus."
+  },
+  {
+    "i": 5329,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 11,
+    "t": "Tikrai, vargšai neišnyks iš šios šalies; todėl aš tau duodu šį įsakymą: atverk savo ranką savo broliui, tam, kuris yra pažemintas ir vargšas tavo šalyje."
+  },
+  {
+    "i": 5330,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 12,
+    "t": "Jei tavo brolis hebrajus, vyras ar moteris, parduoda save tau, jis tau tarnaus šešerius metus. Septintais metais paleisi jį laisvą"
+  },
+  {
+    "i": 5331,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 13,
+    "t": "ir, paleisdamas jį laisvą, nepaleisi jo tuščiomis rankomis."
+  },
+  {
+    "i": 5332,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 14,
+    "t": "Užkrausi ant jo pečių, kaip dovaną, šiek tiek savo smulkiųjų galvijų, savo klojimo ir savo spaudyklos produktų; pagal tai, kuo Viešpats, tavo Dievas, tave palaimino, tu jam duosi."
+  },
+  {
+    "i": 5333,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 15,
+    "t": "Atsimink, kad buvai vergas Egipto šalyje ir kad Viešpats, tavo Dievas, tave išpirko: štai kodėl šiandien duodu tau šį įsakymą."
+  },
+  {
+    "i": 5334,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 16,
+    "t": "Bet jei jis tau sako: „Nenoriu tavęs palikti“, jei jis myli tave ir tavo namus, jei jis laimingas su tavimi,"
+  },
+  {
+    "i": 5335,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 17,
+    "t": "paimsi ylą, pradurti jam ausį prie durų, ir jis bus tavo tarnas per amžius. Savo tarnaitei darysi tą patį."
+  },
+  {
+    "i": 5336,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 18,
+    "t": "Tegu tau neatrodo per sunku paleisti jį į laisvę: jis vertas dvigubai daugiau nei samdinio atlyginimas, tas, kuris tau tarnavo šešerius metus. Ir Viešpats, tavo Dievas, palaimins viską, ką darysi."
+  },
+  {
+    "i": 5337,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 19,
+    "t": "Kiekvieną savo karvės ar avies patiną pirmagimį pašvęsi Viešpačiui, savo Dievui. Nepriversi dirbti savo karvės pirmagimio ir nekirpsi savo avies pirmagimio."
+  },
+  {
+    "i": 5338,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 20,
+    "t": "Valgysi jį tu ir tavo namai kasmet Viešpaties, savo Dievo akivaizdoje toje vietoje, kurią pasirinko Viešpats."
+  },
+  {
+    "i": 5339,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 21,
+    "t": "Jei jis turi kokią nors ydą, jei jis šlubas ar aklas, nesvarbu, kokia sunki yda, neaukok jo Viešpačiui, savo Dievui;"
+  },
+  {
+    "i": 5340,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 22,
+    "t": "valgysi jį savo namuose, švarūs ir nešvarūs kartu, kaip valgytum gazelę ar elnią;"
+  },
+  {
+    "i": 5341,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 23,
+    "t": "tik nevalgysi jo kraujo, išliesi jį ant žemės kaip vandenį."
+  },
+  {
+    "i": 5342,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 1,
+    "t": "Laikykis Abibo mėnesio ir švęsk Paschą Viešpačiui, savo Dievui, nes Abibo mėnesį Viešpats, tavo Dievas, naktį išvedė tave iš Egipto."
+  },
+  {
+    "i": 5343,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 2,
+    "t": "Aukosi Viešpačiui, savo Dievui Paschą iš stambiųjų ir smulkiųjų galvijų toje vietoje, kurią Viešpats, tavo Dievas, pasirinko ten įkurdinti savo vardą."
+  },
+  {
+    "i": 5344,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 3,
+    "t": "Nevalgysite su auka raugintos duonos; septynias dienas valgysite su ja neraugintą duoną – vargo duoną – nes skubėdami palikote Egipto šalį: taip prisiminsite visą savo gyvenimą tą dieną, kai išėjote iš Egipto šalies."
+  },
+  {
+    "i": 5345,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 4,
+    "t": "Septynias dienas pas jus nebus matyti mielių visoje jūsų teritorijoje, ir jokio mėsos, kurią paaukosite pirmosios dienos vakare, neturės būti laikoma iki ryto."
+  },
+  {
+    "i": 5346,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 5,
+    "t": "Negalėsite aukoti Paschos viename iš miestų, kuriuos Viešpats, tavo Dievas, tau davė,"
+  },
+  {
+    "i": 5347,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 6,
+    "t": "bet toje vietoje, kurią Viešpats, tavo Dievas, pasirinko ten įkurdinti savo vardą, aukosi Paschą vakare saulei leidžiantis, tuo metu, kai išėjai iš Egipto."
+  },
+  {
+    "i": 5348,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 7,
+    "t": "Išvirsite ją ir valgysite toje vietoje, kurią pasirinko Viešpats, tavo Dievas, o rytą sugrįšite į savo palapines."
+  },
+  {
+    "i": 5349,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 8,
+    "t": "Šešias dienas valgysite neraugintą duoną; septintą dieną įvyks susirinkimas Viešpačiui, tavo Dievui; ir nedirbsite jokio darbo."
+  },
+  {
+    "i": 5350,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 9,
+    "t": "Suskaitysite septynias savaites. Kai pjautuvas pradės pjauti varpas, tada pradėsite skaičiuoti šias septynias savaites."
+  },
+  {
+    "i": 5351,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 10,
+    "t": "Tada švęsite Viešpačiui, savo Dievui, Savaičių šventę, su gera valia dovana, kurią duos tavo ranka, pagal tai, kuo Viešpats, tavo Dievas, tave palaimins."
+  },
+  {
+    "i": 5352,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 11,
+    "t": "Viešpaties, savo Dievo akivaizdoje, džiaugsies toje vietoje, kurią Viešpats, tavo Dievas, pasirinko ten įkurdinti savo vardą: tu, tavo sūnus ir tavo dukra, tavo tarnas ir tavo tarnaitė, levitas, kuris yra tavo vartuose, ateivis, našlaitis ir našlė, gyvenantys tarp jūsų."
+  },
+  {
+    "i": 5353,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 12,
+    "t": "Atsimink, kad buvai vergas Egipto šalyje, ir laikykis šių įstatymų, kad juos vykdytum."
+  },
+  {
+    "i": 5354,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 13,
+    "t": "Švęsite Palapinių šventę septynias dienas tuo metu, kai įnešite savo klojimo ir savo spaudyklos produktus."
+  },
+  {
+    "i": 5355,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 14,
+    "t": "Džiaugsies savo šventėje, tu, tavo sūnus ir tavo dukra, tavo tarnas ir tavo tarnaitė, levitas ir ateivis, našlaitis ir našlė, kurie yra tavo vartuose."
+  },
+  {
+    "i": 5356,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 15,
+    "t": "Septynias dienas švęsite Viešpačiui, savo Dievui, toje vietoje, kurią pasirinko Viešpats; nes Viešpats, tavo Dievas, palaimins visus tavo derlius ir visus tavo darbus, kad būtum visiškai džiaugsmingas."
+  },
+  {
+    "i": 5357,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 16,
+    "t": "Tris kartus per metus visi tavo vyrai pasirodys prieš Viešpatį, tavo Dievą, toje vietoje, kurią jis pasirinks: Neraugintos duonos šventėje, Savaičių šventėje, Palapinių šventėje. Niekas nepasirodys prieš Viešpatį tuščiomis rankomis;"
+  },
+  {
+    "i": 5358,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 17,
+    "t": "bet kiekvienas duos pagal palaiminimą, kurį Viešpats, tavo Dievas, tau davė."
+  },
+  {
+    "i": 5359,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 18,
+    "t": "Paskirsi teisėjus ir raštininkus kiekviename iš miestų, kuriuos Viešpats, tavo Dievas, tau duoda, visoms savo giminėms; jie teis žmones teisingais teismais."
+  },
+  {
+    "i": 5360,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 19,
+    "t": "Nekreipsi į šoną teisės, neatsižvelgsi į asmenis ir nepriimsi dovanos, nes dovana apakina išminčių akis ir sugriauna teisiųjų bylas."
+  },
+  {
+    "i": 5361,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 20,
+    "t": "Ieškok tik griežto teisingumo, kad gyventumei ir valdytumei šalį, kurią Viešpats, tavo Dievas, tau duoda."
+  },
+  {
+    "i": 5362,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 21,
+    "t": "Nesodinsi švento stulpo, iš kokio tik medžio bebūtų, šalia Viešpaties, savo Dievo aukuro, kurį pasistatysi,"
+  },
+  {
+    "i": 5363,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 22,
+    "t": "ir nestatysi paminklinio akmens, kuris būtų pasibjaurėtinas Viešpačiui, tavo Dievui."
+  },
+  {
+    "i": 5364,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 1,
+    "t": "Neaukosi Viešpačiui, savo Dievui, stambiųjų ar smulkiųjų galvijų, turinčių kokią nors ydą ar trūkumą, nes Viešpats, tavo Dievas, laiko tai pasibjaurėjimu."
+  },
+  {
+    "i": 5365,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 2,
+    "t": "Jei tarp tavęs, viename iš miestų, kuriuos Viešpats, tavo Dievas, tau davė, atsiranda vyras ar moteris, kurie daro tai, kas bloga Viešpaties, tavo Dievo akyse, peržengdami jo sandorą,"
+  },
+  {
+    "i": 5366,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 3,
+    "t": "eina tarnauti kitiems dievams ir lenkiasi prieš juos, prieš saulę, mėnulį ar kokį nors kitą dangaus kariuomenės narį, ko aš neįsakiau,"
+  },
+  {
+    "i": 5367,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 4,
+    "t": "ir tau apie tai praneša; jei, išklausius ir gerai ištyrus, faktas yra patvirtintas ir jei gerai nustatyta, kad šis pasibjaurėjimas buvo padarytas Izraelyje,"
+  },
+  {
+    "i": 5368,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 5,
+    "t": "išvesi į savo miesto vartus tą vyrą ar moterį, kaltus dėl šio blogo veiksmo, ir užmuši akmenimis tą vyrą ar moterį, kol jie mirs."
+  },
+  {
+    "i": 5369,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 6,
+    "t": "Į mirtį bus galima nuteisti tik pagal dviejų ar trijų liudytojų žodžius, nebus galima nuteisti mirti pagal vieno liudytojo žodžius."
+  },
+  {
+    "i": 5370,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 7,
+    "t": "Liudytojai pirmieji pridės ranką prie nuteistojo įvykdymo, o tada visa tauta pridės ranką. Pašalinsi blogį iš savo tarpo."
+  },
+  {
+    "i": 5371,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 8,
+    "t": "Jei turi teisti bylą, kuri tau per sunki, žmogžudystės, ginčo ar užpuolimo bylą, bet kokį ginčą tavo mieste, išeisi ir užlipsi į vietą, kurią pasirinko Viešpats, tavo Dievas,"
+  },
+  {
+    "i": 5372,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 9,
+    "t": "eisi pas kunigus levitus ir teisėją, kuris tada tarnauja. Jie atliks tyrimą ir praneš tau nuosprendį."
+  },
+  {
+    "i": 5373,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 10,
+    "t": "Laikysies žodžio, kurį jie tau pranešė toje vietoje, kurią pasirinko Viešpats, ir saugosies elgtis pagal visas jų instrukcijas."
+  },
+  {
+    "i": 5374,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 11,
+    "t": "Laikysies sprendimo, kurį jie tau pranešė, ir nuosprendžio, kurį jie paskelbė, nenukrypdamas nei į dešinę, nei į kairę nuo žodžio, kurį jie tau pranešė."
+  },
+  {
+    "i": 5375,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 12,
+    "t": "Jei kas nors elgiasi įžūliai, neklausydamas nei kunigo, kuris ten stovi tarnauti Viešpačiui, tavo Dievui, nei teisėjo, tas žmogus mirs. Pašalinsi blogį iš Izraelio."
+  },
+  {
+    "i": 5376,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 13,
+    "t": "Žmonės sužinos, išsigąs ir liausis elgtis įžūliai."
+  },
+  {
+    "i": 5377,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 14,
+    "t": "Kai atvyksi į tą šalį, kurią Viešpats, tavo Dievas, tau duoda, paimsi ją į savo valdžią ir ten gyvensi, jei pasakysi sau: „Noriu paskirti sau karalių, kaip visos aplinkinės tautos“,"
+  },
+  {
+    "i": 5378,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 15,
+    "t": "tai karalių, kurį pasirinko Viešpats, tavo Dievas, turėsi paskirti sau, tai kažkas iš tavo brolių, ką paskirsi sau karaliumi, negalėsi duoti sau svetimo karaliaus, kuris nėra tavo brolis."
+  },
+  {
+    "i": 5379,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 16,
+    "t": "Bet tegul jis nesidaugina arklių ir negrąžina žmonių į Egiptą, kad padidintų savo kavaleriją, nes Viešpats jums sakė: „Niekada negrįšite tuo keliu.“"
+  },
+  {
+    "i": 5380,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 17,
+    "t": "Tene jis netesina sau daugelio žmonų, kad jo širdis nenukryptų; ir tene prisirenka sau gausybės sidabro ir aukso."
+  },
+  {
+    "i": 5381,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 18,
+    "t": "Ir nutiks, kai jis atsisės savo karalystės soste, kad jis nusirašys sau į ritinį šio Įstatymo kopiją iš tos, kurią saugo kunigai levitai."
+  },
+  {
+    "i": 5382,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 19,
+    "t": "Ir ji bus su juo, ir jis skaitys ją visas savo gyvenimo dienas, kad išmoktų bijoti Viešpaties, savo Dievo, laikytis visų šio Įstatymo žodžių ir šių nuostatų, kad juos vykdytų."
+  },
+  {
+    "i": 5383,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 20,
+    "t": "Kad jo širdis neišpuiktų aukščiau jo brolių, ir kad nenukryptų nuo įsakymo nei į dešinę, nei į kairę, kad jis ir jo sūnūs ilgai valdytų Izraelyje."
+  },
+  {
+    "i": 5384,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 1,
+    "t": "Kunigai levitai, visa Levio giminė, neturės jokios dalies ar paveldo su Izraeliu; jie maitinsis Viešpaties ugnies aukomis ir Jo paveldu."
+  },
+  {
+    "i": 5385,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 2,
+    "t": "Tad jis neturės paveldo tarp savo brolių; Viešpats yra jo paveldas, kaip Jis jam sakė."
+  },
+  {
+    "i": 5386,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 3,
+    "t": "Štai kunigų teisė iš žmonių, iš tų, kurie aukoja jautį ar avį: jie duos kunigui petį, žandus ir skrandį."
+  },
+  {
+    "i": 5387,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 4,
+    "t": "Jam atiduosi savo javų pirmąsias vaisius, savo vyno ir aliejaus, ir savo avių kirpimo pirmagimius."
+  },
+  {
+    "i": 5388,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 5,
+    "t": "Nes Viešpats, tavo Dievas, jį išsirinko iš visų tavo giminių, kad jis stotų tarnauti Viešpačiui, tavo Dievui, ir laimintų Jo vardu, jis ir jo sūnūs per amžius."
+  },
+  {
+    "i": 5389,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 6,
+    "t": "Ir jeigu levitas ateis iš kurios nors iš tavo vartų, iš viso Izraelio, kur jis gyvena, ir trokš savo širdimi į vietą, kurią Viešpats išsirinks,"
+  },
+  {
+    "i": 5390,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 7,
+    "t": "te tarnauja Viešpaties, savo Dievo, vardu, kaip visi jo broliai levitai, kurie stovi ten prieš Viešpatį."
+  },
+  {
+    "i": 5391,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 8,
+    "t": "Jie turės vienodą dalį valgyti, be to, ką jis gauna iš savo šeimos turto pardavimo."
+  },
+  {
+    "i": 5392,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 9,
+    "t": "Kai įeisi į kraštą, kurį Viešpats, tavo Dievas, tau duoda, neišmok vykdančiųjų tų tautų bjaurastis."
+  },
+  {
+    "i": 5393,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 10,
+    "t": "Tarp tavęs neturi būti nė vieno, kuris perleistų savo sūnų ar dukterį per ugnį, nė vieno, kuris užsiimtų pranašavimu, nė vieno, kuris užsiimtų burtais, nė vieno, kuris užsiimtų ženklų aiškinimu, nė vieno, kuris užsiimtų kerėjimu,"
+  },
+  {
+    "i": 5394,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 11,
+    "t": "nė vieno, kuris užsiimtų burtų darymu, nė vieno, kuris klaustų vaiduoklių ir spiritų, nė vieno, kuris teirautųsi mirusiųjų."
+  },
+  {
+    "i": 5395,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 12,
+    "t": "Nes kiekvienas, kuris daro šiuos dalykus, yra pasibjaurėjimas Viešpačiui, ir dėl šių bjaurysčių Viešpats, tavo Dievas, išvarė juos iš tavęs."
+  },
+  {
+    "i": 5396,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 13,
+    "t": "Būk tobulas prieš Viešpatį, savo Dievą."
+  },
+  {
+    "i": 5397,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 14,
+    "t": "Nes šitos tautos, kurias tu išvarai, klausė būrėjų ir pranašų, bet Viešpats, tavo Dievas, tau to neleido."
+  },
+  {
+    "i": 5398,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 15,
+    "t": "Viešpats, tavo Dievas, pakels tau pranašą iš tavęs, iš tavo brolių, tokį kaip aš, klausykite jo."
+  },
+  {
+    "i": 5399,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 16,
+    "t": "Pagal tai, ko tu prašei Viešpaties, savo Dievo, prie Horebo susirinkimo dieną, sakydamas: „Daugiau nebeklausysiu Viešpaties, savo Dievo, balso ir daugiau nebematysiu šios didelės ugnies, kad nemirčiau.“"
+  }
+]

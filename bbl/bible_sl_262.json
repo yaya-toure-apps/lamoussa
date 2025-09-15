@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26200,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 29,
+    "t": "Njene verige ti bodo za močno zaščito, njene ogrlice pa za dragocen okras."
+  },
+  {
+    "i": 26201,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 30,
+    "t": "Njen jarem bo zlat okras, njene vezi pa škrlatni trakovi."
+  },
+  {
+    "i": 26202,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 31,
+    "t": "Kakor praznično obleko jo obleci, okrasi jo kot diadem radosti."
+  },
+  {
+    "i": 26203,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 32,
+    "t": "Če želiš, moj sin, se pouči, tvoja poslušnost pa ti bo prinesla spretnost."
+  },
+  {
+    "i": 26204,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 33,
+    "t": "Če rad poslušaš, se boš učil, in če boš prisluhnil, boš moder."
+  },
+  {
+    "i": 26205,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 34,
+    "t": "Stoj v zboru starcev, in če vidiš modrega, se ga okleni."
+  },
+  {
+    "i": 20626,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 35,
+    "t": "Voljno poslušaj vsako besedo, ki prihaja od Boga, naj ti subtilni pregovori ne uidejo."
+  },
+  {
+    "i": 26207,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 36,
+    "t": "Če vidiš človeka z razumom, pojdi k njemu že zjutraj in naj tvoje noge obrabijo prag njegovih vrat."
+  },
+  {
+    "i": 26208,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 37,
+    "t": "Premišljuj o Gospodovih zapovedih, nenehno se ukvarjaj z njegovimi predpisi. On bo okrepil tvoje srce in modrost, ki jo želiš, ti bo dana."
+  },
+  {
+    "i": 26209,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 1,
+    "t": "Ne delaj hudega, in zlo ti ne bo gospodarilo;"
+  },
+  {
+    "i": 26210,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 2,
+    "t": "oddalji se od krivice, in se bo od tebe oddaljila."
+  },
+  {
+    "i": 26211,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 3,
+    "t": "Moj sin, ne sej v brazde krivice, da ne boš sedemkrat več požel."
+  },
+  {
+    "i": 26212,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 4,
+    "t": "Ne prosi Gospoda za prvo mesto, niti kralja za slaven sedež."
+  },
+  {
+    "i": 26213,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 5,
+    "t": "Ne igraj pravičnika pred Gospodom, niti modrega pred kraljem."
+  },
+  {
+    "i": 26214,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 6,
+    "t": "Ne stremi po sodniškem mestu, če nisi sposoben izkoreniniti krivice, da se ne bi pustil vplivati od velikega, s tveganjem, da izgubiš svojo poštenost."
+  },
+  {
+    "i": 26215,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 7,
+    "t": "Ne bodi kriv pred zborom mesta in ne zapadej pred ljudstvom."
+  },
+  {
+    "i": 26216,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 8,
+    "t": "Ne pusti se dvakrat zapeljati v greh, kajti niti enkrat ne boš ušel."
+  },
+  {
+    "i": 26217,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 9,
+    "t": "Ne reci: \"Bog bo upošteval množico mojih daritev, ko jih bom daroval Najvišjemu Bogu, jih bo sprejel."
+  },
+  {
+    "i": 26218,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 10,
+    "t": "Ne bodi omahljiv v molitvi in ne zanemarjaj dajanja miloščine."
+  },
+  {
+    "i": 26219,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 11,
+    "t": "Ne posmehuj se človeku, ki je v težavah, kajti tisti, ki ponižuje, lahko tudi povzdigne."
+  },
+  {
+    "i": 26220,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 12,
+    "t": "Ne krivi brata po krivem, niti prijatelja."
+  },
+  {
+    "i": 26221,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 13,
+    "t": "Varuj se izrekanja kakršne koli laži, kajti iz nje ne more priti nič dobrega."
+  },
+  {
+    "i": 26222,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 14,
+    "t": "Ne razpravljaj v zboru starcev in ne ponavljaj svojih besed v molitvi."
+  },
+  {
+    "i": 26223,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 15,
+    "t": "Ne upiraj se težkim opravilom, niti delu na polju, ki ga je ustvaril Najvišji."
+  },
+  {
+    "i": 26224,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 16,
+    "t": "Ne pridružuj se številu grešnikov, spomni se, da je jeza kmalu tu."
+  },
+  {
+    "i": 26225,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 17,
+    "t": "Ponižaj se globoko, kajti ogenj in črvi so kazen hudobnega."
+  },
+  {
+    "i": 26226,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 18,
+    "t": "Ne zamenjaj prijatelja za denar, niti pravega brata za zlato Ofirja."
+  },
+  {
+    "i": 26227,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 19,
+    "t": "Ne odvrni se od modre in dobre žene, kajti njena milost je vredna več kot zlato."
+  },
+  {
+    "i": 26228,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 20,
+    "t": "Ne ravnaj grdo s služabnikom, ki zvesto dela, niti z najemnikom, ki se posveča."
+  },
+  {
+    "i": 26229,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 21,
+    "t": "Ljubi v svojem srcu inteligentnega služabnika, ne odreči mu svobode."
+  },
+  {
+    "i": 26230,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 22,
+    "t": "Imaš črede? Skrbi zanje; če iz njih dobiš dobiček, jih obdrži."
+  },
+  {
+    "i": 26231,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 23,
+    "t": "Imaš otroke? Vzgajaj jih in jim že v otroštvu privzgoji ponižnost."
+  },
+  {
+    "i": 26232,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 24,
+    "t": "Imaš hčere? Pazi na njihovo telo in ne razveseljuj pred njimi svojega obraza."
+  },
+  {
+    "i": 26233,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 25,
+    "t": "Oženi svojo hčer, veliko boš storil, vendar jo daj modremu človeku."
+  },
+  {
+    "i": 26234,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 26,
+    "t": "Imaš ženo po svojem srcu? Ne je zavrzi, če pa je ne ljubiš, ji ne zaupaj."
+  },
+  {
+    "i": 26235,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 27,
+    "t": "Iz vsega srca spoštuj svojega očeta in nikoli ne pozabi, kar je trpela tvoja mati."
+  },
+  {
+    "i": 26236,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 28,
+    "t": "Spomni se, da sta ti dala življenje: kaj jima boš ponudil v zameno za to, kar sta storila zate?"
+  },
+  {
+    "i": 26237,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 29,
+    "t": "Iz vse duše se boj Gospoda in spoštuj njegove duhovnike."
+  },
+  {
+    "i": 26238,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 30,
+    "t": "Z vsemi močmi ljubi tistega, ki te je ustvaril, in ne zapuščaj njegovih služabnikov."
+  },
+  {
+    "i": 26239,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 31,
+    "t": "Boj se Gospoda in časti duhovnika ter mu daj svoj delež, kot ti je predpisano: prvine, spravna žrtev, daritev ramen, posvetilna žrtev in prvine svetih reči."
+  },
+  {
+    "i": 26240,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 32,
+    "t": "Tudi revežu delaj radodarno, da bo tvoj blagoslov popoln."
+  },
+  {
+    "i": 26241,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 33,
+    "t": "Naj tvoja radodarnost doseže vse žive, niti mrtvim ne odreči svoje pobožnosti."
+  },
+  {
+    "i": 26242,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 34,
+    "t": "Ne odvrni se od tistih, ki jokajo, žaluj z žalujočimi."
+  },
+  {
+    "i": 26243,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 35,
+    "t": "Ne boj se obiskovati bolnikov, s takšnimi dejanji si boš pridobil naklonjenost."
+  },
+  {
+    "i": 26244,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 36,
+    "t": "V vsem, kar delaš, se spomni svojega konca in nikoli ne boš grešil."
+  },
+  {
+    "i": 26245,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 1,
+    "t": "Ne bori se z velikim, da ne padeš v njegove roke."
+  },
+  {
+    "i": 26246,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 2,
+    "t": "Ne prepiraj se z bogatim, da ne bo imel večjo težo kot ti; kajti zlato je izgubilo veliko ljudi in je zmehčalo srce kraljev."
+  },
+  {
+    "i": 26247,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 3,
+    "t": "Ne razpravljaj z leporečnežem, ne nalagaj drv na njegov ogenj."
+  },
+  {
+    "i": 26248,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 4,
+    "t": "Ne šaljivi se z neotesanim človekom, da ne boš videl, kako žalijo tvoje prednike."
+  },
+  {
+    "i": 26249,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 5,
+    "t": "Ne graj grešnika, ki se kesa, spomni se, da smo vsi krivi."
+  },
+  {
+    "i": 26250,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 6,
+    "t": "Ne preziraj človeka, ki je v letih, kajti morda bomo tudi mi postali stari."
+  },
+  {
+    "i": 26251,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 7,
+    "t": "Ne veseli se smrti človeka, spomni se, da moramo vsi umreti."
+  },
+  {
+    "i": 26252,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 8,
+    "t": "Ne preziraj govora modrih in se pogosto vračaj k njihovim maksimam; kajti od njih se boš naučil doktrine in umetnosti služenja velikim."
+  },
+  {
+    "i": 26253,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 9,
+    "t": "Ne zaničuj govora starcev, kajti tudi sami so bili v šoli svojih očetov; od njih se boš naučil preudarnosti in umetnosti, kako odgovoriti ob pravem času."
+  },
+  {
+    "i": 26254,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 10,
+    "t": "Ne podžigaj oglja grešnika, da se ne opečeš v njegovem plamenu."
+  },
+  {
+    "i": 26255,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 11,
+    "t": "Ne pusti se razjeziti predrznemu človeku, to bi bila past, postavljena pred tvoje ustnice."
+  },
+  {
+    "i": 26256,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 12,
+    "t": "Ne posojaj človeku, ki je močnejši od tebe: če posojaš, imej stvar za izgubljeno."
+  },
+  {
+    "i": 26257,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 13,
+    "t": "Ne jamči čez svoje zmožnosti: če si jamčil, bodi pripravljen plačati."
+  },
+  {
+    "i": 26258,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 14,
+    "t": "Ne imej spora s sodnikom, kajti sodba bo izrečena v njegovo korist."
+  },
+  {
+    "i": 26259,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 15,
+    "t": "Ne odpravi se na pot z pustolovcem, da te ne obremeni z zlom; kajti dela po svoje in njegova norost te bo uničila z njim."
+  },
+  {
+    "i": 26260,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 16,
+    "t": "Ne prepiraj se z jeznim človekom, ne spuščaj se z njim v puščavo, kajti kri mu ni nič in tam, kjer ni pomoči, se bo vrgel nate."
+  },
+  {
+    "i": 26261,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 17,
+    "t": "Ne jemlji neumneža za zaupnika, kajti ne bo znal obdržati tvoje skrivnosti."
+  },
+  {
+    "i": 26262,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 18,
+    "t": "Pred tujcem ne delaj ničesar, kar bi moralo ostati skrivnost, kajti ne veš, kaj si lahko izmisli."
+  },
+  {
+    "i": 26263,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 19,
+    "t": "Ne odpiraj svojega srca komurkoli in ne trdi, da boš dobil njegovo naklonjenost."
+  },
+  {
+    "i": 26264,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 1,
+    "t": "Ne bodi ljubosumen na svojo ljubljeno ženo in ji ne dajaj ideje, da bi ti storila škodo."
+  },
+  {
+    "i": 26265,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 2,
+    "t": "Ne predaj se v roke ženi, da ne bi prevzela nadzor nad tabo."
+  },
+  {
+    "i": 26266,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 3,
+    "t": "Ne hodi naproti kurtizani: lahko padeš v njene pasti."
+  },
+  {
+    "i": 26267,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 4,
+    "t": "Ne druži se s pevko: ujela te bo njena zvijača."
+  },
+  {
+    "i": 26268,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 5,
+    "t": "Ne ustavi svojega pogleda na mladi deklici, da ne boš ujet, ko bo izpirala."
+  },
+  {
+    "i": 26269,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 6,
+    "t": "Ne predajaj se v roke prostitutkam: tam boš izgubil svojo dediščino."
+  },
+  {
+    "i": 26270,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 7,
+    "t": "Ne sprehajaj svojega pogleda po ulicah mesta in ne tavaj po osamljenih kotičkih."
+  },
+  {
+    "i": 26271,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 8,
+    "t": "Obrni svoj pogled od lepe žene in ga ne ustavi na tuji lepoti. Veliko jih je zapeljala lepota žene in ljubezen se tam vname kot ogenj."
+  },
+  {
+    "i": 26272,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 9,
+    "t": "V bližini poročene žene se varuj, da ne bi sedel in jedel vina z njo, da te želja ne bi zavedla k njej in da v svoji strasti ne bi zdrsnil v pogubo."
+  },
+  {
+    "i": 26273,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 10,
+    "t": "Ne zapuščaj starega prijatelja, novi prišlek ne bo vreden njega. Novo vino, novi prijatelj, pusti, da se postara, pil ga boš z užitkom."
+  },
+  {
+    "i": 26274,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 11,
+    "t": "Ne zavidi uspeha grešniku, ne veš, kako se bo končalo."
+  },
+  {
+    "i": 26275,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 12,
+    "t": "Ne veseli se uspeha hudobnih, spomni se, da tukaj ne bodo ostali nekaznovani."
+  },
+  {
+    "i": 26276,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 13,
+    "t": "Oddalji se od človeka, ki ima moč ubiti, in se ne boš bal smrti. Če se mu približaš, se varuj napačnega koraka, lahko ti vzame življenje. Dobro veš, da si obdan s pastmi in da hodiš po obzidju."
+  },
+  {
+    "i": 26277,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 14,
+    "t": "Kolikor moreš, se druži s svojim bližnjim in se posvetuj z modrimi."
+  },
+  {
+    "i": 26278,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 15,
+    "t": "Za svoj pogovor išči inteligentne ljudi in naj vse tvoje besede govorijo o zakonu Najvišjega."
+  },
+  {
+    "i": 26279,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 16,
+    "t": "Naj bodo pravični tvoji gostje in naj bo tvoj ponos v strahu pred Gospodom."
+  },
+  {
+    "i": 26280,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 17,
+    "t": "Delo rok človeških je vredno hvale, a voditelj ljudstva naj bo spreten v govoru."
+  },
+  {
+    "i": 26281,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 18,
+    "t": "Človeka z lepimi besedami se bojijo v mestu, blebetača pa sovražijo."
+  },
+  {
+    "i": 26282,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 1,
+    "t": "Moder vladar drži svoje ljudstvo v disciplini in oblast razumnega človeka je trdno uveljavljena."
+  },
+  {
+    "i": 26283,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 2,
+    "t": "Kakršen je vladar, taki so njegovi podrejeni, kakršen je voditelj mesta, taki so prebivalci."
+  },
+  {
+    "i": 26284,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 3,
+    "t": "Kralj brez izobrazbe je poguba svojega ljudstva, mesto pa dolguje svojo blaginjo razumnosti voditeljev."
+  },
+  {
+    "i": 26285,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 4,
+    "t": "V Gospodovih rokah je vladanje svetu; on ob pravem času obudi primernega voditelja."
+  },
+  {
+    "i": 26286,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 5,
+    "t": "Uspeh človeka je v Gospodovi roki; on daje pisarju slavo njegovo."
+  },
+  {
+    "i": 26287,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 6,
+    "t": "Ne zameri bližnjemu, ne glede na njegove pregrehe in nikoli ne odgovori z dejanji oholosti."
+  },
+  {
+    "i": 26288,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 7,
+    "t": "Napuh je neprijeten Bogu in človeku in oba gledata na krivico kot na greh."
+  },
+  {
+    "i": 26289,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 8,
+    "t": "Vladavina preide od naroda do naroda zaradi krivice, arogance in denarja. Nič ni bolj brezbožno od tistega, ki ljubi denar: celo svojo dušo proda!"
+  },
+  {
+    "i": 26290,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 9,
+    "t": "Zakaj toliko ponosa za tistega, ki je zemlja in pepel, bitje, ki ima, medtem ko živi, že gnile drobovje?"
+  },
+  {
+    "i": 26291,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 10,
+    "t": "Dolga bolezen se posmehuje zdravniku, ki je danes kralj, jutri pa bo umrl."
+  },
+  {
+    "i": 26292,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 11,
+    "t": "Ko človek umre, prejme v delež žuželke, zveri in črve."
+  },
+  {
+    "i": 26293,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 12,
+    "t": "Načelo človeškega ponosa je zapustiti Gospoda in držati svoje srce oddaljeno od Stvarnika."
+  },
+  {
+    "i": 26294,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 13,
+    "t": "Kajti načelo ponosa je greh, tisti, ki se mu vdaja, širi gnusobo. Zato je Gospod razglasil njihovo stisko in jih zmanjšal na nič."
+  },
+  {
+    "i": 26295,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 14,
+    "t": "Gospod je strmoglavil prestole mogočnih in posadil na njihovo mesto krotke."
+  },
+  {
+    "i": 26296,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 15,
+    "t": "Gospod je izruval ošabne in posadil na njihovo mesto ponižne."
+  },
+  {
+    "i": 26297,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 16,
+    "t": "Gospod je prevrnil ozemlje narodov in jih uničil do temeljev zemlje."
+  },
+  {
+    "i": 26298,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 17,
+    "t": "Včasih jih je odnesel in uničil ter izbrisal iz sveta njihov spomin."
+  },
+  {
+    "i": 26299,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 18,
+    "t": "Ponos ni narejen za človeka, niti silovita jeza za rod žene."
+  }
+]

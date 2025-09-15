@@ -1,0 +1,802 @@
+[
+  {
+    "i": 27100,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 20,
+    "t": "Nu-ți lăsa inima pradă mâhnirii, ci izgonește-o. Gândește-te la sfârșitul tău propriu."
+  },
+  {
+    "i": 27101,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 21,
+    "t": "Nu uita aceasta: nu mai este cale de întoarcere; nu vei sluji cu nimic mortului, ci te vei vătăma pe tine însuți."
+  },
+  {
+    "i": 27102,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 22,
+    "t": "Adu-ți aminte de sentința mea, care va fi și a ta: eu ieri, tu astăzi!"
+  },
+  {
+    "i": 27103,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 23,
+    "t": "De îndată ce un mort se odihnește, lasă să se odihnească și amintirea lui, mângâie-te pentru el de îndată ce duhul său s-a dus."
+  },
+  {
+    "i": 27104,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 24,
+    "t": "Înțelepciunea cărturarului se dobândește în orele de răgaz, și cel care este liber de afaceri devine înțelept."
+  },
+  {
+    "i": 27105,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 25,
+    "t": "Cum ar putea deveni el înțelept, cel care ține plugul, a cărui slavă este să ridiceSecureTokenaiguillonul, care mână boi și nu-i părăsește la lucru, și care nu vorbește decât despre vite?"
+  },
+  {
+    "i": 27106,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 26,
+    "t": "Inima lui este preocupată de brazdele pe care le trasează și privegherile lui sunt petrecute îngrășând vițele."
+  },
+  {
+    "i": 27107,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 27,
+    "t": "Asemenea toți lucrătorii și meșteșugarii care lucrează zi și noapte, cei care fac profesie de a grava sigilii și care se străduiesc să varieze desenul; ei au grijă să reproducă bine modelul și veghează pentru a-și isprăvi lucrarea."
+  },
+  {
+    "i": 27108,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 28,
+    "t": "Asemenea fierarul așezat lângă nicovală: el observă lucrul fierului; vaporii focului îi rod carnea, în căldura cuptorului se zbate; zgomotul ciocanului îl asurzește, are ochii ațintiți asupra modelului său; își pune toată inima să-și facă bine lucrul și își petrece privegherile să-l desăvârșească."
+  },
+  {
+    "i": 27109,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 29,
+    "t": "Asemenea olarul, așezat la lucru, cu picioarele mișcând roata, mereu preocupat de lucrarea sa, toate gesturile sale sunt socotite;"
+  },
+  {
+    "i": 27110,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 30,
+    "t": "cu brațul său frământă lutul, cu picioarele îl constrânge; își pune inima să aplice bine glazura și, în timpul privegherilor, curăță vatra."
+  },
+  {
+    "i": 27111,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 31,
+    "t": "Toți acești oameni și-au pus încrederea în mâinile lor și fiecare este priceput în meseria sa."
+  },
+  {
+    "i": 27112,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 32,
+    "t": "Fără ei, nicio cetate nu s-ar putea construi, nu s-ar putea nici instala, nici călători. Dar nu se caută să-i aibă în sfatul poporului"
+  },
+  {
+    "i": 27113,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 33,
+    "t": "și în adunare nu au un rang înalt. Nu ocupă scaunul judecătorului și nu meditează asupra legii. Nu strălucesc nici prin cultura lor, nici prin judecata lor, nu-i găsești ocupați cu proverbele."
+  },
+  {
+    "i": 27114,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 34,
+    "t": "Dar ei asigură o creație veșnică, și rugăciunea lor are ca obiect afacerile meseriei lor. Altfel stau lucrurile cu cel care își aplică sufletul și meditația la legea Celui Preaînalt."
+  },
+  {
+    "i": 27115,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 1,
+    "t": "El cercetează înțelepciunea tuturor celor vechi, își consacră legile sale profețiilor."
+  },
+  {
+    "i": 27116,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 2,
+    "t": "Păstrează relatările oamenilor celebri, pătrunde în cotloanele parabolelor."
+  },
+  {
+    "i": 27117,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 3,
+    "t": "Caută sensul ascuns al proverbelor, se complace în secretele parabolelor."
+  },
+  {
+    "i": 27118,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 4,
+    "t": "Își ia serviciul printre cei mari, este remarcat în prezența șefilor. Călătorește în țări străine, a făcut experiența binelui și a răului printre oameni."
+  },
+  {
+    "i": 27119,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 5,
+    "t": "De dimineață, cu toată inima, se întoarce către Domnul, creatorul său; imploră în prezența Celui Preaînalt, își deschide gura pentru rugăciune, imploră pentru propriile păcate."
+  },
+  {
+    "i": 27120,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 6,
+    "t": "Dacă aceasta este voința Domnului mare, va fi umplut cu duhul inteligenței. El însuși va răspândi cuvintele sale de înțelepciune, în rugăciunea sa va aduce mulțumiri Domnului."
+  },
+  {
+    "i": 27121,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 7,
+    "t": "Va dobândi dreptatea judecății și a cunoașterii, va medita misterele sale ascunse."
+  },
+  {
+    "i": 27122,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 8,
+    "t": "Va face să apară instrucțiunea pe care a primit-o și își va pune mândria în legea alianței Domnului."
+  },
+  {
+    "i": 27123,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 9,
+    "t": "Mulți vor lăuda inteligența sa și niciodată nu va fi uitat. Amintirea lui nu se va șterge, numele său va trăi din generație în generație."
+  },
+  {
+    "i": 27124,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 10,
+    "t": "Națiunile vor proclama înțelepciunea sa și adunarea va celebra laudele sale."
+  },
+  {
+    "i": 27125,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 11,
+    "t": "Dacă trăiește mult timp, numele său va fi mai glorios decât o mie de altele, și dacă moare, aceasta îi este de ajuns."
+  },
+  {
+    "i": 27126,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 12,
+    "t": "Vreau să mai fac parte din reflecțiile mele, de care sunt plin ca luna în plinătatea ei."
+  },
+  {
+    "i": 27127,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 13,
+    "t": "Ascultați-mă, fiii mei evlavioși, și creșteți ca trandafirul plantat pe marginea unui curs de apă."
+  },
+  {
+    "i": 27128,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 14,
+    "t": "Ca tămâia răspândiți o bună mireasmă, înfloriți ca crinul, dați parfumul vostru, cântați un cântec, binecuvântați-l pe Domnul pentru toate lucrările sale."
+  },
+  {
+    "i": 27129,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 15,
+    "t": "Măriți numele Său, publicați laudele Sale, prin cântările voastre, pe citerele voastre, și veți spune spre lauda Sa:"
+  },
+  {
+    "i": 27130,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 16,
+    "t": "Cât de magnifice sunt toate lucrările Domnului! Toate ordinele Sale sunt executate cu punctualitate."
+  },
+  {
+    "i": 27131,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 17,
+    "t": "Nu trebuie să spunem: Ce este aceasta? De ce aceasta? Totul trebuie studiat la timpul său. La cuvântul Său, apa se oprește și se adună, la vocea Sa se formează rezervoarele de apă,"
+  },
+  {
+    "i": 27132,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 18,
+    "t": "prin ordinul Său, tot ce dorește se împlinește, nu este nimeni care să oprească gestul Său de mântuire."
+  },
+  {
+    "i": 27133,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 19,
+    "t": "Toate lucrările oamenilor sunt înaintea Lui, nu este posibil să scăpăm de privirea Lui;"
+  },
+  {
+    "i": 27134,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 20,
+    "t": "privirea Sa se întinde de la veșnicie la veșnicie, nimic nu este extraordinar în ochii Săi."
+  },
+  {
+    "i": 27135,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 21,
+    "t": "Nu trebuie să spunem: Ce este aceasta? De ce aceasta? Căci totul a fost creat pentru un scop."
+  },
+  {
+    "i": 27136,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 22,
+    "t": "Așa cum binecuvântarea Sa a acoperit totul ca un râu și a adăpat pământul ca un potop,"
+  },
+  {
+    "i": 27137,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 23,
+    "t": "tot așa, națiunilor le dă mânia Sa drept moștenire, astfel a schimbat apele în sare."
+  },
+  {
+    "i": 27138,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 24,
+    "t": "Dacă căile Sale sunt unite pentru oamenii pioși, pentru cei răi sunt pline de obstacole."
+  },
+  {
+    "i": 27139,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 25,
+    "t": "Bunurile au fost create pentru cei buni de la început, și tot așa, pentru cei răi, relele."
+  },
+  {
+    "i": 27140,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 26,
+    "t": "Ceea ce este de primă necesitate pentru viața omului, este apa, focul, fierul și sarea, făina de grâu, laptele și mierea, sucul din struguri, uleiul și veșmântul."
+  },
+  {
+    "i": 27141,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 27,
+    "t": "Toate acestea sunt un bine pentru cei buni, dar pentru păcătoși devin un rău."
+  },
+  {
+    "i": 27142,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 28,
+    "t": "Sunt vânturi create pentru pedeapsă și, în furia lor, își întăresc flagelurile, la ceasul consumării își dezlănțuie violența și potolesc furia Creatorului lor."
+  },
+  {
+    "i": 27143,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 29,
+    "t": "Focul, grindina, foametea și moartea, toate acestea au fost create pentru pedeapsă."
+  },
+  {
+    "i": 27144,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 30,
+    "t": "Dinții fiarelor sălbatice, scorpionii și viperele, sabia răzbunătoare pentru pierderea celor nelegiuiți,"
+  },
+  {
+    "i": 27145,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 31,
+    "t": "toți se bucură să execute ordinele Sale, sunt pe pământ gata pentru caz de nevoie, la momentul potrivit nu vor încălca cuvântul Său."
+  },
+  {
+    "i": 27146,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 32,
+    "t": "De aceea, de la început am fost hotărât, am reflectat și am scris:"
+  },
+  {
+    "i": 27147,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 33,
+    "t": "Lucrările Domnului sunt toate bune, El dă favoarea Sa cui are nevoie, la ceasul potrivit."
+  },
+  {
+    "i": 27148,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 34,
+    "t": "Nu trebuie să spunem: \"Aceasta este mai rău decât aceea!\" căci totul la timpul său va fi recunoscut bun."
+  },
+  {
+    "i": 27149,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 35,
+    "t": "Și acum, cu toată inima, cu gura plină, cântați și binecuvântați numele Domnului!"
+  },
+  {
+    "i": 27150,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 1,
+    "t": "O soartă grea a fost făcută tuturor oamenilor, un jug apăsător apasă pe fiii lui Adam, din ziua în care ies din sânul matern până în ziua întoarcerii lor la mama universală."
+  },
+  {
+    "i": 27151,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 2,
+    "t": "Obiectul reflecțiilor lor, teama inimii lor, este așteptarea anxioasă a zilei morții lor."
+  },
+  {
+    "i": 27152,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 3,
+    "t": "De la cel care șade pe un tron, în glorie, până la cel sărac așezat pe pământ și cenușă,"
+  },
+  {
+    "i": 27153,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 4,
+    "t": "de la cel care poartă purpura și coroana până la cel care este îmbrăcat în stofă groasă, nu este decât furie, invidie, tulburare, neliniște, teamă de moarte, rivalități și certuri."
+  },
+  {
+    "i": 27154,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 5,
+    "t": "Și la ceasul în care, culcat, te odihnești, somnul nopții nu face decât să varieze grijile:"
+  },
+  {
+    "i": 27155,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 6,
+    "t": "abia ai găsit odihna că îndată, dormind, ca în plină zi, ești agitat de coșmaruri, ca un fugar scăpat din luptă."
+  },
+  {
+    "i": 27156,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 7,
+    "t": "În momentul eliberării te trezești, tot surprins că frica ta este zadarnică."
+  },
+  {
+    "i": 27157,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 8,
+    "t": "Pentru orice carne, de la om la animal, dar pentru păcătoși, de șapte ori mai mult,"
+  },
+  {
+    "i": 27158,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 9,
+    "t": "moartea, sângele, cearta și sabia, nenorociri, foamete, tribulație, calamitate!"
+  },
+  {
+    "i": 27159,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 10,
+    "t": "Toate acestea au fost create pentru păcătoși, și din cauza lor a venit potopul."
+  },
+  {
+    "i": 27160,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 11,
+    "t": "Tot ce vine de la pământ se întoarce la pământ, și ce vine de la apă se întoarce la mare."
+  },
+  {
+    "i": 27161,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 12,
+    "t": "Șpăgile și nedreptățile vor dispărea, dar buna credință va dura veșnic."
+  },
+  {
+    "i": 27162,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 13,
+    "t": "Bogățiile dobândite pe nedrept se vor evapora ca un torent, ca tunetul care izbucnește în timpul aversei."
+  },
+  {
+    "i": 27163,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 14,
+    "t": "Când își deschide mâinile, se bucură, astfel păcătoșii vor merge la ruină."
+  },
+  {
+    "i": 27164,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 15,
+    "t": "Odraslele celor nelegiuiți sunt sărace în ramuri, rădăcinile impure nu găsesc decât stâncă aspră."
+  },
+  {
+    "i": 27165,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 16,
+    "t": "Trestia care abundă pe toate apele și pe malurile râului va fi smulsă prima."
+  },
+  {
+    "i": 27166,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 17,
+    "t": "Caritatea este ca un paradis de binecuvântare și milostenia dăinuiește pentru totdeauna."
+  },
+  {
+    "i": 27167,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 18,
+    "t": "Omul independent și lucrătorul au viața dulce; mai bine lotit este cel care găsește o comoară."
+  },
+  {
+    "i": 27168,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 19,
+    "t": "Copiii și un oraș fondat perpetuează un nume; și mai bine este apreciată o femeie ireproșabilă."
+  },
+  {
+    "i": 27169,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 20,
+    "t": "Vinul și artele aduc bucurie în inimă; și mai bine dragostea de înțelepciune."
+  },
+  {
+    "i": 27170,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 21,
+    "t": "Flautul și cithara împodobesc cântecul; și mai bine o voce melodioasă."
+  },
+  {
+    "i": 27171,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 22,
+    "t": "Grația și frumusețea, ochiul le dorește, și mai bine verdeața câmpurilor."
+  },
+  {
+    "i": 27172,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 23,
+    "t": "Prietenul și camaradul se întâlnesc la momentul potrivit; și mai bine femeia și bărbatul."
+  },
+  {
+    "i": 27173,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 24,
+    "t": "Frații și protectorii sunt utili în zilele rele; și mai bine milostenia te scoate din impas."
+  },
+  {
+    "i": 27174,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 25,
+    "t": "Aurul și argintul fac demersul ferm; și mai bine este apreciat sfatul."
+  },
+  {
+    "i": 27175,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 26,
+    "t": "Bogăția și forța dau o inimă asigurată; și mai bine teama de Domnul. Cu teama de Domnul nimic nu lipsește; cu ea nu trebuie să cauți sprijin."
+  },
+  {
+    "i": 27176,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 27,
+    "t": "Teama de Domnul este un paradis de binecuvântare; mai bine decât orice glorie, ea protejează."
+  },
+  {
+    "i": 27177,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 28,
+    "t": "Fiul meu, nu trăi din cerșit, mai bine să mori decât să cerșești."
+  },
+  {
+    "i": 27178,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 29,
+    "t": "Omul care se uită chiorâș la masa altuia, viața lui nu poate fi considerată o viață. Își spurcă gâtlejul cu mâncăruri străine, un om instruit și bine crescut se va feri de asta."
+  },
+  {
+    "i": 27179,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 30,
+    "t": "Pentru gura impudentului, cerșetoria este dulce, dar pentru măruntaiele lui, este un foc arzător."
+  },
+  {
+    "i": 27180,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 1,
+    "t": "O, moarte, cât de amară este amintirea ta pentru omul care trăiește în belșug și prosperitate, pentru cel liniștit, căruia îi merg toate bine și care încă mai poate gusta din hrană."
+  },
+  {
+    "i": 27181,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 2,
+    "t": "O, moarte, binevenită este hotărârea ta pentru omul nenorocit și lipsit de puteri, pentru bătrânul istovit, frământat de griji, răzvrătit și fără răbdare."
+  },
+  {
+    "i": 27182,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 3,
+    "t": "Nu te teme de sentința morții, ci adu-ți aminte de cei dinaintea ta și de cei de după tine."
+  },
+  {
+    "i": 27183,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 4,
+    "t": "Aceasta este legea pe care Domnul a dat-o peste toată făptura; de ce să te răzvrătești împotriva voii Celui Preaînalt? Chiar dacă vei trăi zece ani, o sută de ani, o mie de ani, în șeol nu ți se va imputa viața."
+  },
+  {
+    "i": 27184,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 5,
+    "t": "Niște nelegiuiți sunt fiii păcătoșilor, cei care bântuie casele celor nelegiuiți."
+  },
+  {
+    "i": 27185,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 6,
+    "t": "Moștenirea fiilor păcătoșilor merge spre ruină, iar urmașii lor sunt obiectul unui reproș neîncetat."
+  },
+  {
+    "i": 27186,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 7,
+    "t": "Un tată nelegiuit este insultat de copiii săi, căci de la el au primit dezonoarea."
+  },
+  {
+    "i": 27187,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 8,
+    "t": "Vai vouă, nelegiuiților, care ați părăsit legea Dumnezeului Celui Preaînalt!"
+  },
+  {
+    "i": 27188,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 9,
+    "t": "Dacă vă înmulțiți, este spre pierzare; dacă sunteți zămisliți, veți fi spre blestem; și dacă muriți, blestemul va fi partea voastră."
+  },
+  {
+    "i": 27189,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 10,
+    "t": "Tot ce vine din pământ se întoarce în pământ, astfel merg nelegiuiții de la blestem la ruină."
+  },
+  {
+    "i": 27190,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 11,
+    "t": "Jalea oamenilor se îndreaptă către rămășițele lor, dar numele blestemat al păcătoșilor se șterge."
+  },
+  {
+    "i": 27191,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 12,
+    "t": "Ai grijă de numele tău, căci îți va rămâne mai bine decât o mie de averi în aur."
+  },
+  {
+    "i": 27192,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 13,
+    "t": "O viață fericită durează un anumit număr de zile, dar un nume onorat rămâne veșnic."
+  },
+  {
+    "i": 27193,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 14,
+    "t": "Copiii mei, păziți în pace învățăturile mele. Înțelepciune ascunsă și comoară nevăzută, la ce folosesc amândouă?"
+  },
+  {
+    "i": 27194,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 15,
+    "t": "Mai bine un om care își ascunde nebunia decât un om care își ascunde înțelepciunea."
+  },
+  {
+    "i": 27195,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 16,
+    "t": "Așadar, simțiți rușine după ceea ce voi spune, căci nu este bine să te supui oricărui fel de rușine și nu totul este apreciat de toți."
+  },
+  {
+    "i": 27196,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 17,
+    "t": "Rușinați-vă de desfrâu în fața unui tată și a unei mame și de minciună în fața unui șef și a unui puternic;"
+  },
+  {
+    "i": 27197,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 18,
+    "t": "de delict în fața unui judecător și a unui magistrat și de impietate în fața adunării poporului; de perfidie în fața unui tovarăș sau a unui prieten"
+  },
+  {
+    "i": 27198,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 19,
+    "t": "și de furt în fața satului tău; de adevărul lui Dumnezeu și de alianță, de a te sprijini pe coate la masă, de afront primind sau dăruind,"
+  },
+  {
+    "i": 27199,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 20,
+    "t": "de a rămâne fără răspuns în fața celor care te salută, de a-ți aținti privirea asupra unei prostituate,"
+  }
+]

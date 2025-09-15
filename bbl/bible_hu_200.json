@@ -1,0 +1,802 @@
+[
+  {
+    "i": 20000,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 12,
+    "t": "\"Vedd magadhoz, és legyen rajta a szemed, semmi rosszat ne tégy vele, hanem bánj vele úgy, amint kéri."
+  },
+  {
+    "i": 20001,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 13,
+    "t": "Ezt a megbízást adta (Nebuzáradánnak, a testőrség parancsnokának,) Nebusazbánnak, a főméltóságosnak, Nergalszarészernek, a fővarázslónak és Babilon királyának minden tisztjének. –"
+  },
+  {
+    "i": 20002,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 14,
+    "t": "Embert küldtek, hogy Jeremiást kihúzzák a fogda udvarából, és rábízták Gedaljára, Ahikám fiára, Sáfán fiára, hogy vezesse őt haza, és a nép között lakozott."
+  },
+  {
+    "i": 20003,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 15,
+    "t": "Míg Jeremiás a fogda udvarában volt bezárva, Jahve szava szólt hozzá, mondván:"
+  },
+  {
+    "i": 20004,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 16,
+    "t": "Menj, mondd meg az etióp Ebed-Méleknek: Ezt mondja Jahve Szabaót, Izrael Istene. Ímé, beteljesítem e város ellen a szavaimat, melyek tele vannak szerencsétlenséggel, és nem boldogsággal. Azon a napon, a te szemeid előtt fognak beteljesedni."
+  },
+  {
+    "i": 20005,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 17,
+    "t": "De megmentem téged azon a napon – Jahve mondja –, és nem leszel azoknak a kezébe adva, akik félelmet keltenek benned."
+  },
+  {
+    "i": 20006,
+    "b": 23,
+    "c": 2539,
+    "r": 2539,
+    "o": 18,
+    "t": "Bizonyosan megszabadítalak téged: nem esel el a kard által, életed zsákmányod lesz, mert bennem bíztál, Jahve mondja."
+  },
+  {
+    "i": 20007,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 1,
+    "t": "Ige, mely Jeremiáshoz szólt Jahvétól, miután Nebuzáradán, a testőrség parancsnoka elbocsátotta Rámából, miután elfogta őt, mikor láncra verve volt Jeruzsálem és Júda minden foglyának közepette, akiket Babilonba hurcoltak."
+  },
+  {
+    "i": 20008,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 2,
+    "t": "A testőrség parancsnoka tehát fogta Jeremiást, és azt mondta neki: \"Jahve, a te Istened megjövendölte ezt a szerencsétlenséget erre az országra,"
+  },
+  {
+    "i": 20009,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 3,
+    "t": "és ő hozta el azt. Jahve úgy cselekedett, amint megfenyegetett. Mert vétkeztetek Jahve ellen, nem hallgattatok a szavára: ezért történt veletek ez a szerencsétlenség."
+  },
+  {
+    "i": 20010,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 4,
+    "t": "Most nézd, ma feloldozlak téged a bilincsektől, melyek a kezeden vannak. Ha kedved telik velem menni Babilonba, gyere, szemmel tartalak téged. Ha pedig nem tetszik velem menni, ne gyere. Nézd, az egész ország előtted van; mehetsz oda, ahova jónak és igazságosnak látod menni."
+  },
+  {
+    "i": 20011,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 5,
+    "t": "És mivel Jeremiás még nem fordult vissza, hozzátette: \"Fordulhatsz Gedaljához, Ahikám fiához, Sáfán fiához, akit Babilon királya Júda városainak kormányzójává nevezett ki, és vele maradhatsz a nép között, vagy mehetsz bárhova, ahol jónak látod.\" Azután a testőrség parancsnoka, miután élelemmel és ajándékkal látta el, elbocsátotta őt."
+  },
+  {
+    "i": 20012,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 6,
+    "t": "És Jeremiás Micpába ment Gedaljához, Ahikám fiához, és vele lakozott, a nép azon tagjai között, akik az országban maradtak."
+  },
+  {
+    "i": 20013,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 7,
+    "t": "Mindazok a hadsereg tisztjei, akik embereikkel a vidéken voltak, megtudták, hogy Babilon királya Gedalját, Ahikám fiát kormányzóvá tette az ország felett, és rábízta a férfiakat, nőket és gyermekeket, valamint a kisembereket, akiket nem hurcoltak Babilonba."
+  },
+  {
+    "i": 20014,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 8,
+    "t": "Eljöttek Gedaljához Micpába: Jismael, Netanjáhu fia, Johánán és Jonatán, Káreah fia, Szerája, Tanhumet fia, az efái netofatita fiai, Jizanjáhu, a maakaiti fia, ők és embereik."
+  },
+  {
+    "i": 20015,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 9,
+    "t": "Gedalja, Ahikám fia, Sáfán fia esküt tett nekik és embereiknek: \"Ne féljetek szolgálni a káldeusokat, maradjatok az országban, szolgáljátok Babilon királyát, és jól fogtok járni."
+  },
+  {
+    "i": 20016,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 10,
+    "t": "Én pedig, ímhol, Micpában telepszem le, mint felelős azok előtt a káldeusok előtt, akik hozzánk jönnek. Ti pedig szüreteljétek a bort, gyümölcsöt és olajat, töltsétek meg a korsóitokat, és maradjatok a városaitokban, melyeket elfoglaltok."
+  },
+  {
+    "i": 20017,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 11,
+    "t": "Hasonlóképpen mindazok a júdeaiak, akik Moábban, az ammonitáknál, Edomban és minden más országban voltak, megtudták, hogy Babilon királya meghagyott egy maradékot Júdában, és elébe helyezte Gedalját, Ahikám fiát, Sáfán fiát."
+  },
+  {
+    "i": 20018,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 12,
+    "t": "Mindezek a júdeaiak tehát visszatértek mindenhonnan, ahová szétszóródtak; visszatértek Júda országába, Gedaljához, Micpába, és igen bőségesen szüreteltek bort és gyümölcsöt."
+  },
+  {
+    "i": 20019,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 13,
+    "t": "Johánán, Káreah fia, és mindazok a hadsereg tisztjei, akik a vidéken voltak, eljöttek Gedaljához Micpába,"
+  },
+  {
+    "i": 20020,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 14,
+    "t": "és azt mondták neki: \"Tudod-e, hogy Baálisz, az ammoniták királya megbízta Jismaelt, Netanja fiát, hogy életedre törjön?\" De Gedalja, Ahikám fia nem hitt nekik."
+  },
+  {
+    "i": 20021,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 15,
+    "t": "Johánán, Káreah fia még titokban is azt mondta Gedaljának, Micpában: \"Elmegyek, és megölöm Jismaelt, Netanja fiát, anélkül, hogy bárki is megtudná. Miért törne az életedre, és miért szóródnának szét mindazok a júdeaiak, akik körülötted összegyűltek? Miért pusztulna el Júda maradéka?"
+  },
+  {
+    "i": 20022,
+    "b": 23,
+    "c": 2540,
+    "r": 2540,
+    "o": 16,
+    "t": "De Gedalja, Ahikám fia azt válaszolta Johánánnak, Káreah fiának: \"Ne tedd ezt, mert hamis az, amit Jismaelről mondasz!"
+  },
+  {
+    "i": 20023,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 1,
+    "t": "A hetedik hónapban Jismael, Netanja fia, Elisáma fia, aki királyi sarj volt, a király főembereivel és tíz emberrel eljött Gedaljához, Ahikám fiához Micpába. És amíg együtt étkeztek ott, Micpában,"
+  },
+  {
+    "i": 20024,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 2,
+    "t": "Jismael, Netanja fia felkelt tíz emberével, és karddal leverték Gedalját, Ahikám fiát, Sáfán fiát. Így ölték meg azt, akit Babilon királya az ország élére állított."
+  },
+  {
+    "i": 20025,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 3,
+    "t": "Ugyanígy mindazokat a júdeaiakat, akik vele voltak, Gedaljával Micpában, és a káldeusokat, akik ott voltak – ezek harcosok voltak –, Jismael megölte."
+  },
+  {
+    "i": 20026,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 4,
+    "t": "A második napon Gedalja meggyilkolása után, amikor még senki sem tudott róla,"
+  },
+  {
+    "i": 20027,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 5,
+    "t": "Férfiak érkeztek Sikemből, Silóból és Szamáriából, nyolcvanan, leborotvált szakállal, megszaggatott ruhával és bevagdosott testtel; áldozatokat és tömjént vittek, melyeket Jahve templomának akartak bemutatni."
+  },
+  {
+    "i": 20028,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 6,
+    "t": "Jismael, Netanja fia kiment Micpából eléjük, és sírva közeledett. Miután csatlakozott hozzájuk, azt mondta nekik: \"Jöjjetek Gedaljához, Ahikám fiához."
+  },
+  {
+    "i": 20029,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 7,
+    "t": "De amikor beértek a város közepébe, Jismael, Netanja fia leölette őket embereivel, és a ciszterna mélyére vetette őket."
+  },
+  {
+    "i": 20030,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 8,
+    "t": "Azonban ezen emberek között volt tíz, akik azt mondták Jismaelnek: \"Hagyj minket életben, mert elrejtett készleteink vannak a mezőkön, búzánk, árpánk, olajunk és mézünk.\" Erre megkímélte őket, és nem ölette meg őket testvéreikkel."
+  },
+  {
+    "i": 20031,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 9,
+    "t": "A ciszterna, ahová Jismael vetette mindazoknak az embereknek a holttestét, akiket megölt, egy nagy ciszterna volt, az, amelyet Asa király készíttetett Baásának, Izrael királyának ellenében. Ezzel töltötte meg Jismael, Netanja fia a meggyilkolt embereket."
+  },
+  {
+    "i": 20032,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 10,
+    "t": "Azután Jismael foglyul ejtette a nép egész maradékát, akik Micpában voltak, a király lányait és mindazokat az embereket, akik Micpában maradtak, akiket Nebuzáradán, a testőrség parancsnoka Gedaljára, Ahikám fiára bízott; Jismael, Netanja fia foglyul vitte őket, és elindult, hogy az ammonitákhoz menjen."
+  },
+  {
+    "i": 20033,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 11,
+    "t": "Amikor Johánán, Káreah fia, és mindazok a tisztek, akik vele voltak, megtudták Jismael, Netanja fia minden bűnét,"
+  },
+  {
+    "i": 20034,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 12,
+    "t": "összegyűjtötték minden emberüket, és elmentek, hogy megtámadják Jismaelt, Netanja fiát. Elérték őt Gibeon nagy tava mellett."
+  },
+  {
+    "i": 20035,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 13,
+    "t": "Johánán, Káreah fia és mindazok a tisztek láttán, akik vele voltak, a Jismael körül lévő egész nép örömujjongásban tört ki."
+  },
+  {
+    "i": 20036,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 14,
+    "t": "Mindazok az emberek, akiket Jismael Micpából vitt el, visszafordultak, megfordultak, és Johánánhoz, Káreah fiához mentek."
+  },
+  {
+    "i": 20037,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 15,
+    "t": "Jismael pedig, Netanja fia Johánán elől nyolc emberrel elmenekült, és az ammonitákhoz ment."
+  },
+  {
+    "i": 20038,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 16,
+    "t": "Akkor Johánán, Káreah fia, és mindazok a tisztek, akik vele voltak, összegyűjtötték a nép egész maradékát, akiket Jismael, Netanja fia Micpából foglyul vitt, miután megölte Gedalját, Ahikám fiát: férfiakat – harcosokat –, nőket és gyermekeket, valamint a eunuchokat, akiket Gibeonból hoztak vissza."
+  },
+  {
+    "i": 20039,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 17,
+    "t": "Elindultak, és megálltak a Kimhám fogadójánál, Betlehem közelében, hogy aztán Egyiptomba menjenek,"
+  },
+  {
+    "i": 20040,
+    "b": 23,
+    "c": 2541,
+    "r": 2541,
+    "o": 18,
+    "t": "távol a káldeusoktól, akiktől féltek, mert Jismael, Netanja fia megölte Gedalját, Ahikám fiát, akit Babilon királya az ország fölé állított."
+  },
+  {
+    "i": 20041,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 1,
+    "t": "Akkor mindazok a tisztek, nevezetesen Johánán, Káreah fia, és Azarja, Hósaja fia, valamint az egész nép, kicsik és nagyok eljöttek,"
+  },
+  {
+    "i": 20042,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 2,
+    "t": "és azt mondták Jeremiás prófétának: \"Bárcsak a mi könyörgésünk megérintene téged! Járj közben Jahvénál, a te Istenednél a mi érdekünkben, és az egész maradék érdekében – mert igen kevesen maradtunk abból a számból, ami valaha voltunk, ahogy azt a saját szemeddel látod –,"
+  },
+  {
+    "i": 20043,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 3,
+    "t": "hogy Jahve, a te Istened megmutassa nekünk, mely utat kell követnünk, és mit kell tennünk."
+  },
+  {
+    "i": 20044,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 4,
+    "t": "Jeremiás próféta így válaszolt nekik: \"Értem. Közbenjárok Jahvénál, a ti Isteneteknél a kérésetek szerint; és minden szót, amit Jahve válaszol nektek, tudtotokra adom, anélkül, hogy bármit is eltitkolnék tőletek."
+  },
+  {
+    "i": 20045,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 5,
+    "t": "Ők pedig ezt mondták Jeremiásnak: \"Legyen Jahve tanú ellenünk, igaz és hű, ha nem pontosan cselekszünk a szerint a szó szerint, amelyet Jahve, a te Istened küldött hozzánk."
+  },
+  {
+    "i": 20046,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 6,
+    "t": "Akár kellemes, akár kellemetlen, engedelmeskedni fogunk Jahvénak, a mi Istenünknek a szavának, akihez téged küldünk: így leszünk boldogok, mert engedelmeskedtünk Jahve, a mi Istenünk szavának."
+  },
+  {
+    "i": 20047,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 7,
+    "t": "Tíz nap múlva Jahve szava szólt Jeremiáshoz."
+  },
+  {
+    "i": 20048,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 8,
+    "t": "Akkor összehívta Johánánt, Káreah fiát, és mindazokat a tiszteket, akik vele voltak, valamint az egész népet, kicsiket és nagyokat."
+  },
+  {
+    "i": 20049,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 9,
+    "t": "És azt mondta nekik: \"Így szól Jahve, Izrael Istene, akihez engem küldtetek, hogy bemutassam neki a ti könyörgéseteket."
+  },
+  {
+    "i": 20050,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 10,
+    "t": "Ha valóban ebben az országban maradtok, felépítelek titeket, és nem rombollak le többé, elültetlek titeket, és nem téplek ki többé. Mert megbánom a gonoszt, amit rátok hoztam."
+  },
+  {
+    "i": 20051,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 11,
+    "t": "Ne féljetek Babilon királyától, aki előtt féltek. Ne féljetek tőle – Jahve mondja –, mert veletek vagyok, hogy megmentsélek és megszabadítsalak a kezéből."
+  },
+  {
+    "i": 20052,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 12,
+    "t": "Megkönyörülök rajtatok, hogy ő is megkönyörüljön rajtatok, és engedjen visszatérni a földetekre."
+  },
+  {
+    "i": 20053,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 13,
+    "t": "De ha azt mondjátok: Nem maradunk ebben az országban, így engedetlenkedve Jahve, a ti Istenetek szavának,"
+  },
+  {
+    "i": 20054,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 14,
+    "t": "ha azt mondjátok: Nem! Egyiptom országába megyünk; ott nem látunk többé háborút, nem halljuk többé a kürt hangját, és nem leszünk többé kenyér nélkül; ott akarunk lakni,"
+  },
+  {
+    "i": 20055,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 15,
+    "t": "nos hát! Júda maradéka, halljátok Jahve szavát: Így szól Jahve Szabaót, Izrael Istene. Ha elhatározzátok, hogy Egyiptomba mentek, és bementek oda, hogy ott lakjatok,"
+  },
+  {
+    "i": 20056,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 16,
+    "t": "a kard, amitől féltek, ott fog elérni titeket Egyiptom földjén; és az éhség, amely aggaszt titeket, ott fog rátok tapadni, Egyiptomban: ott fogtok meghalni!"
+  },
+  {
+    "i": 20057,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 17,
+    "t": "És mindazok a férfiak, akik elhatározták, hogy Egyiptomba mennek, hogy ott lakjanak, kard által, éhség által és dögvész által fognak meghalni: egyetlen túlélő vagy menekült sem fog megmenekülni attól a szerencsétlenségtől, amelyet rájuk hozok."
+  },
+  {
+    "i": 20058,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 18,
+    "t": "Igen, így szól Jahve Szabaót, Izrael Istene. Ahogy kiöntöttem haragomat és dühömet Jeruzsálem lakóira, úgy fog kiömleni a haragom rátok, ha Egyiptomba mentek. Utálat tárgyává, ámulattá, átokká és gúnyolódássá lesztek, és nem fogjátok többé látni ezeket a helyeket."
+  },
+  {
+    "i": 20059,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 19,
+    "t": "Júda maradéka, Jahve kijelentette nektek: Ne menjetek Egyiptomba! Jól tudjátok, hogy ma ünnepélyesen figyelmeztettelek titeket."
+  },
+  {
+    "i": 20060,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 20,
+    "t": "Ti tévedtetek el magatokat, amikor engem küldtetek Jahvéhoz, a ti Istenetekhez, mondván: Járj közben értünk Jahvénál, a mi Istenünknél, és mindent, amit Jahve, a mi Istenünk elrendel, jelentsd ki nekünk, hogy mi végrehajtsuk."
+  },
+  {
+    "i": 20061,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 21,
+    "t": "És ma én kijelentem nektek, de ti nem engedelmeskedtek Jahve, a ti Istenetek szavának semmiben sem, amit küldött, hogy mondjam nektek."
+  },
+  {
+    "i": 20062,
+    "b": 23,
+    "c": 2542,
+    "r": 2542,
+    "o": 22,
+    "t": "Jól tudjátok tehát, hogy meghaltok a kard által, éhség által és dögvész által azon a helyen, ahová vágyakoztatok menni, hogy ott lakjatok."
+  },
+  {
+    "i": 20063,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 1,
+    "t": "Amikor Jeremiás befejezte, hogy elmondja az egész népnek mindazokat a szavakat, amelyeket Jahve, az ő Istenük bízott rájuk – mindazokat a lejegyzett szavakat –,"
+  },
+  {
+    "i": 20064,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 2,
+    "t": "Azarja, Hósaja fia, Johánán, Káreah fia, és mindazok a szemtelen férfiak azt válaszolták Jeremiásnak: \"Hazugság az, amit szólsz. Jahve, a mi Istenünk nem bízott meg azzal, hogy azt mondd: Ne menjetek Egyiptomba lakni."
+  },
+  {
+    "i": 20065,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 3,
+    "t": "Hanem Báruk, Nérija fia izgat fel ellenünk, hogy kiszolgáltasson minket a káldeusok kezébe, akik megölnek vagy Babilonba hurcolnak minket."
+  },
+  {
+    "i": 20066,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 4,
+    "t": "Ezért sem Johánán, Káreah fia, sem a tisztek, sem a nép senkije sem engedelmeskedett Jahve szavának, hogy Júdában maradjon."
+  },
+  {
+    "i": 20067,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 5,
+    "t": "Johánán, Káreah fia és a hadsereg összes vezetője elvitte Júda egész maradékát, azokat, akik visszatértek mindazon népek közül, ahová szétszóródtak, hogy lakjanak Júda országában,"
+  },
+  {
+    "i": 20068,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 6,
+    "t": "férfiakat, nőket és gyermekeket, valamint a király lányait és mindazokat a személyeket, akiket Nebuzáradán, a testőrség parancsnoka Gedaljánál, Ahikám fiánál, Sáfán fiánál hagyott, nevezetesen Jeremiás prófétát és Bárukot, Nérija fiát."
+  },
+  {
+    "i": 20069,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 7,
+    "t": "Tehát Egyiptomba mentek, mivel nem engedelmeskedtek Jahve szavának, és megérkeztek Táfneszbe."
+  },
+  {
+    "i": 20070,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 8,
+    "t": "Ekkor Jahve szava szólt Jeremiáshoz, Táfneszben, mondván:"
+  },
+  {
+    "i": 20071,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 9,
+    "t": "Vegyél nagy köveket, és a júdeaiak jelenlétében rejtsd el őket cementbe a teraszon, amely a fáraó palotájának bejáratánál van, Táfneszben."
+  },
+  {
+    "i": 20072,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 10,
+    "t": "Majd mondd meg ezeknek az embereknek: \"Így szól Jahve Szabaót, Izrael Istene. Ímé, elküldöm Nabukodonozort, Babilon királyát, az én szolgámat; trónját azokra a kövekre fogja állítani, amelyeket elrejtettem, és rájuk fogja teríteni baldachinját."
+  },
+  {
+    "i": 20073,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 11,
+    "t": "Eljön, és megveri Egyiptom országát: Aki dögvészre való, dögvészre! Aki fogságra való, fogságba! Aki kardra való, kardra!"
+  },
+  {
+    "i": 20074,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 12,
+    "t": "Felgyújtja Egyiptom istenei templomait, elégeti ezeket az isteneket, vagy száműzi őket, beburkolja magát Egyiptom országával, ahogy a pásztor beburkolja magát köntösével, majd békében kijön onnan."
+  },
+  {
+    "i": 20075,
+    "b": 23,
+    "c": 2543,
+    "r": 2543,
+    "o": 13,
+    "t": "Összetöri a nap templomának obeliszkjeit, amely Egyiptomban van, és felgyújtja Egyiptom istenei templomait."
+  },
+  {
+    "i": 20076,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 1,
+    "t": "Ige, mely Jeremiáshoz szólt mindazoknak a júdeaiaknak, akik Egyiptom országában telepedtek le, akik Migdolban, Táfneszben, Nófban és Patrosz országában laktak."
+  },
+  {
+    "i": 20077,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 2,
+    "t": "Így szól Jahve Szabaót, Izrael Istene. Láttátok mindazt a szerencsétlenséget, amelyet Jeruzsálemre és Júda minden városára hoztam: ma romokban vannak, és lakatlanok."
+  },
+  {
+    "i": 20078,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 3,
+    "t": "Ez azon gonoszságok miatt van, amelyeket elkövettek, hogy felingereljenek engem azzal, hogy idegen isteneknek áldoztak és szolgáltak, akiket sem ők, sem ti, sem atyáitok nem ismertek."
+  },
+  {
+    "i": 20079,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 4,
+    "t": "Fáradhatatlanul küldtem hozzátok minden szolgámat, a prófétákat, küldtem őket, hogy mondják: \"Ne tegyétek ezt az utálatosságot, amit gyűlölök!"
+  },
+  {
+    "i": 20080,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 5,
+    "t": "De nem hallgattak a szavamra, és nem fordították felém fülüket, hogy megtérjenek gonoszságukból, és ne áldozzanak többé más isteneknek."
+  },
+  {
+    "i": 20081,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 6,
+    "t": "Ezért kiömlött haragom és búsulásom, és felgyújtotta Júda városait és Jeruzsálem utcáit, melyek romhalmazzá és pusztasággá lettek, ahogyan ez a mai napon is látható."
+  },
+  {
+    "i": 20082,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 7,
+    "t": "És most azt mondja az Úr, a Seregek Istene, Izráel Istene: Miért okoztok ekkora rosszat magatoknak? Miért irtjátok ki Júdából a férfiakat és nőket, a gyermekeket és csecsemőket, úgy, hogy senki se maradjon belőletek?"
+  },
+  {
+    "i": 20083,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 8,
+    "t": "Mert haragra ingereltek engem kezetek munkájával, más isteneknek áldozva ezen az Egyiptom földjén, ahová jöttetek lakni, és így a saját pusztulásotokon munkálkodtok, és átokká és gúny tárgyává lesztek a föld minden népe számára."
+  },
+  {
+    "i": 20084,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 9,
+    "t": "Elfelejtettétek atyáitok gonoszságait, Júda királyainak és fejedelmeinek gonoszságait, a ti gonoszságaitokat és feleségeitek gonoszságait, melyeket Júda földjén és Jeruzsálem utcáin követtek el?"
+  },
+  {
+    "i": 20085,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 10,
+    "t": "Mind a mai napig nem éreztek semmi bűnbánatot, semmi félelmet, és nem jártatok Törvényem és rendelkezéseim szerint, melyeket elétek tártam, és atyáitok elé."
+  },
+  {
+    "i": 20086,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 11,
+    "t": "Ezért azt mondja az Úr, a Seregek Istene, Izráel Istene: Ímé, ellenetek fordulok a ti vesztetekre, hogy kiirtsam egész Júdát."
+  },
+  {
+    "i": 20087,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 12,
+    "t": "Elveszem Júda maradékát, akik Egyiptom földjére fordultak, hogy oda bemenjenek és ott lakjanak: mindnyájan elpusztulnak Egyiptom földjén, kard által hullanak el, éhínségtől halnak meg, kicsik és nagyok; kard és éhínség által halnak meg, és iszonyat, bámulat, átok és gúny tárgyai lesznek."
+  },
+  {
+    "i": 20088,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 13,
+    "t": "Meglátogatom azokat, akik Egyiptom földjén laknak, ahogyan meglátogattam Jeruzsálemet: karddal, éhínséggel és döghalállal."
+  },
+  {
+    "i": 20089,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 14,
+    "t": "Ebben a Júda maradékában, mely Egyiptom földjére jött lakni, egyetlen megmenekült és életben maradt sem menekül meg, hogy visszatérjen Júda földjére, ahová nagyon vágynak visszatérni és lakni. Mert nem térnek vissza oda, csak néhány megmenekült."
+  },
+  {
+    "i": 20090,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 15,
+    "t": "Akkor minden férfi, aki tudta, hogy feleségeik idegen isteneknek áldoznak, és minden jelenlévő asszony – egy nagy gyülekezet –, (és minden nép, mely Egyiptom földjén és Patroszban lakott) így válaszolt Jeremiásnak:"
+  },
+  {
+    "i": 20091,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 16,
+    "t": "„Ami az Úr nevében hozzánk intézett szavadat illeti, nem akarunk rád hallgatni;"
+  },
+  {
+    "i": 20092,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 17,
+    "t": "Hanem továbbra is megteszünk mindent, amit megígértünk: tömjént áldozunk a Menny Királynőjének és italáldozatot öntünk neki, ahogyan tettük mi és atyáink, királyaink és fejedelmeink Júda városaiban és Jeruzsálem utcáin: akkor bőségesen volt kenyerünk, boldogok voltunk, és nem láttunk semmi bajt."
+  },
+  {
+    "i": 20093,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 18,
+    "t": "De mióta abbahagytuk a Menny Királynőjének való tömjénáldozatot és az italáldozatot, mindenből kifogytunk, és kard és éhínség által pusztultunk el."
+  },
+  {
+    "i": 20094,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 19,
+    "t": "Ráadásul, amikor tömjént áldozunk a Menny Királynőjének és italáldozatot öntünk neki, vajon férjeink tudta nélkül készítünk-e neki süteményeket, melyek őt ábrázolják, és öntünk-e neki italáldozatot?"
+  },
+  {
+    "i": 20095,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 20,
+    "t": "Akkor Jeremiás kijelentette az egész népnek, a férfiaknak és nőknek, mindazoknak, akik ezt a választ adták neki:"
+  },
+  {
+    "i": 20096,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 21,
+    "t": "„Ez a tömjén, melyet áldoztatok Júda városaiban és Jeruzsálem utcáin, ti és atyáitok, királyaitok és fejedelmeitek, valamint az ország népe, vajon nem erre emlékezett az Úr, és ez nem hatolt-e a szívébe?"
+  },
+  {
+    "i": 20097,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 22,
+    "t": "Az Úr nem tudta tovább elviselni tetteitek gonoszságát, a szörnyűséges dolgokat, melyeket cselekedtetek: így lett az országotok romhalmaz, iszonyat és átok, lakatlan, ahogyan ez a mai napon is látható."
+  },
+  {
+    "i": 20098,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 23,
+    "t": "Mert tömjént áldoztatok és vétkeztetek az Úr ellen, nem hallgatva az Úr szavára, és nem járva Törvénye, rendelkezései és parancsolatai szerint; ezért ért el titeket ez a csapás, ahogyan ez a mai napon is látható."
+  },
+  {
+    "i": 20099,
+    "b": 23,
+    "c": 2544,
+    "r": 2544,
+    "o": 24,
+    "t": "Akkor Jeremiás az egész néphez szólt, különösen minden asszonyhoz: „Halljátok meg az Úr szavát, ti mindnyájan, júdaiak, akik Egyiptom földjén vagytok:"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 27100,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 20,
+    "t": "Nepalik savo širdies liūdesiui, bet atstumk jį nuo savęs. Prisimink savo galą."
+  },
+  {
+    "i": 27101,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 21,
+    "t": "Neužmiršk, kad nėra sugrįžimo atgal, ir tu nepadėsi mirusiajam, tik sau nelaimes prisidarysi."
+  },
+  {
+    "i": 27102,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 22,
+    "t": "\"Atmink mano nuosprendį, kuris bus ir tavo: man vakar, tau šiandien!"
+  },
+  {
+    "i": 27103,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 23,
+    "t": "Kai mirusysis atgula, leisk jam ilsėtis atmintyje, paguosk save dėl jo, kai dvasia jo bus iškeliavusi."
+  },
+  {
+    "i": 27104,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 24,
+    "t": "Raštininko išmintis įgyjama laisvu nuo darbų metu, ir tas, kuris neturi rūpesčių, tampa išmintingas."
+  },
+  {
+    "i": 27105,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 25,
+    "t": "Kaip gi gali tapti išmintingu tas, kuris laiko arklą, kurio visa šlovė yra badyti botagu, kuris gano jaučius ir nepalieka jų darbe, ir kuris kalba tik apie gyvulius?"
+  },
+  {
+    "i": 27106,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 26,
+    "t": "Jo širdis yra užimta vagomis, kurias jis brėžia, ir naktys praleidžiamos auginant telyčias."
+  },
+  {
+    "i": 27107,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 27,
+    "t": "Taip pat visi amatininkai ir verslininkai, kurie dirba dieną ir naktį, tie, kurie užsiima antspaudų graviravimu ir stengiasi įvairinti jų piešinius; jie rūpinasi gerai atkurti pavyzdį ir budi, kad užbaigtų savo darbą."
+  },
+  {
+    "i": 27108,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 28,
+    "t": "Taip pat kalvis, sėdintis prie priekalo, stebi geležies darbą; ugnies garai ėda jo kūną, krosnies karštyje jis vargsta; kūjo triukšmas jį apkuršina, jo akys įsmeigtos į pavyzdį; jis įdeda visą širdį, kad gerai atliktų savo darbą, ir naktis praleidžia jį tobulindamas."
+  },
+  {
+    "i": 27109,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 29,
+    "t": "Taip pat puodžius, sėdintis prie savo darbo, kojomis sukdamas ratą, nuolat susirūpinęs savo darbu, visi jo judesiai yra suskaičiuoti."
+  },
+  {
+    "i": 27110,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 30,
+    "t": "Savo ranka jis minko molį, kojomis jį varžo; jis įdeda visą širdį, kad gerai užteptų laką, ir naktį valo židinį."
+  },
+  {
+    "i": 27111,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 31,
+    "t": "Visi šie žmonės pasitiki savo rankomis, ir kiekvienas yra įgudęs savo amate."
+  },
+  {
+    "i": 27112,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 32,
+    "t": "Be jų joks miestas negalėtų būti pastatytas, negalima nei įsikurti, nei keliauti. Bet niekas nesiekia jų turėti tautos taryboje,"
+  },
+  {
+    "i": 27113,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 33,
+    "t": "ir susirinkime jie neužima aukštos vietos. Jie neužima teisėjo sosto ir nesvarsto įstatymo. Jie neblizga nei savo kultūra, nei savo nuomone, jų nerasite užsiimančių patarlėmis."
+  },
+  {
+    "i": 27114,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 34,
+    "t": "Bet jie užtikrina amžiną kūriniją, ir jų malda skirta jų amato reikalams. Kitaip yra su tuo, kuris savo sielą ir apmąstymus skiria Aukščiausiojo įstatymui."
+  },
+  {
+    "i": 27115,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 1,
+    "t": "Jis tyrinėja visų senųjų išmintį, jis skiria savo laisvalaikį pranašystėms."
+  },
+  {
+    "i": 27116,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 2,
+    "t": "Jis saugo žymių žmonių pasakojimus, jis prasiskverbia į palyginimų vingius."
+  },
+  {
+    "i": 27117,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 3,
+    "t": "Jis ieško paslėptos patarlių prasmės, jis mėgaujasi palyginimų paslaptimis."
+  },
+  {
+    "i": 27118,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 4,
+    "t": "Jis tarnauja tarp didžiųjų, jis pastebimas prieš vadus. Jis keliauja po svetimas šalis, jis patyrė gėrį ir blogį tarp žmonių."
+  },
+  {
+    "i": 27119,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 5,
+    "t": "Nuo pat ryto visa širdimi jis kreipiasi į Viešpatį, savo kūrėją; jis maldauja prieš Aukščiausiąjį, jis atveria burną maldai, jis maldauja už savo nuodėmes."
+  },
+  {
+    "i": 27120,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 6,
+    "t": "Jei tokia yra Viešpaties didžiojo valia, jis bus pripildytas proto dvasios. Jis pats skleis savo išminties žodžius, maldoje dėkos Viešpačiui."
+  },
+  {
+    "i": 27121,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 7,
+    "t": "Jis įgis teisingumo ir pažinimo tiesumą, jis apmąstys jo paslėptas paslaptis."
+  },
+  {
+    "i": 27122,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 8,
+    "t": "Jis paskelbs gautą pamokymą ir didžiuosis Viešpaties sandoros įstatymu."
+  },
+  {
+    "i": 27123,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 9,
+    "t": "Daugelis giria jo protą ir niekada jis nebus užmirštas. Jo atminimas neišblės, jo vardas gyvens iš kartos į kartą."
+  },
+  {
+    "i": 27124,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 10,
+    "t": "Tautos skelbs jo išmintį, ir susirinkimas šlovins jo gyrius."
+  },
+  {
+    "i": 27125,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 11,
+    "t": "Jei jis gyvens ilgai, jo vardas bus šlovingesnis už tūkstantį kitų, o jei mirs, jam to pakaks."
+  },
+  {
+    "i": 27126,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 12,
+    "t": "Noriu dar pasidalinti savo mintimis, kurių esu pilnas kaip mėnulis per pilnatį."
+  },
+  {
+    "i": 27127,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 13,
+    "t": "Klausykitės manęs, mano dievobaimingi vaikai, ir augkite kaip rožė, pasodinta prie upelio."
+  },
+  {
+    "i": 27128,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 14,
+    "t": "Kaip smilkalai skleiskite malonų kvapą, žydėkite kaip lelija, skleiskite savo aromatą, giedokite giesmę, laiminkite Viešpatį už visus jo darbus."
+  },
+  {
+    "i": 27129,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 15,
+    "t": "Aukštinkite jo vardą, skelbkite jo šlovę, savo giesmėmis, ant savo arfų, ir sakysite jo šlovei:"
+  },
+  {
+    "i": 27130,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 16,
+    "t": "Kokie nuostabūs visi Viešpaties darbai! Visi jo įsakymai vykdomi tiksliai."
+  },
+  {
+    "i": 27131,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 17,
+    "t": "Negalima sakyti: Kas tai? Kodėl tai? Viskas turi būti ištirta savo laiku. Jo žodžiu vanduo sustoja ir susirenka, jo balsu susidaro vandens rezervuarai,"
+  },
+  {
+    "i": 27132,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 18,
+    "t": "jo įsakymu viskas, ko jis nori, įvykdoma, nėra nieko, kas sustabdytų jo išganymo gestą."
+  },
+  {
+    "i": 27133,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 19,
+    "t": "Visi žmonių darbai yra prieš jį, neįmanoma išvengti jo žvilgsnio;"
+  },
+  {
+    "i": 27134,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 20,
+    "t": "jo žvilgsnis tęsiasi nuo amžinybės iki amžinybės, niekas jam nėra neįprasta."
+  },
+  {
+    "i": 27135,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 21,
+    "t": "Negalima sakyti: Kas tai? Kodėl tai? Nes viskas buvo sukurta tam tikslui."
+  },
+  {
+    "i": 27136,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 22,
+    "t": "Kaip jo palaima viską apgaubė kaip upė ir palaistė žemę kaip tvanas,"
+  },
+  {
+    "i": 27137,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 23,
+    "t": "taip ir tautoms jis duoda savo pyktį kaip dalį, taip jis pavertė vandenis druska."
+  },
+  {
+    "i": 27138,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 24,
+    "t": "Jei jo keliai yra vieningi dievobaimingiems žmonėms, jie yra pilni kliūčių nedorėliams."
+  },
+  {
+    "i": 27139,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 25,
+    "t": "Gėrybės buvo sukurtos geriems žmonėms nuo pat pradžių, ir taip pat, nedorėliams, blogybės."
+  },
+  {
+    "i": 27140,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 26,
+    "t": "Tai, kas žmogui būtiniausia gyvenimui, yra vanduo, ugnis, geležis ir druska, kvietiniai miltai, pienas ir medus, vynuogių sultys, aliejus ir drabužiai."
+  },
+  {
+    "i": 27141,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 27,
+    "t": "Visa tai yra gera geriems žmonėms, bet nusidėjėliams tai tampa blogiu."
+  },
+  {
+    "i": 27142,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 28,
+    "t": "Yra vėjai, sukurti bausmei, ir savo įniršiu jie sustiprina savo rykštes, sunaikinimo valandą jie išlaisvina savo smurtą ir numalšina savo Kūrėjo įniršį."
+  },
+  {
+    "i": 27143,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 29,
+    "t": "Ugnis, kruša, badas ir mirtis – visa tai buvo sukurta bausmei."
+  },
+  {
+    "i": 27144,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 30,
+    "t": "Žvėrių dantys, skorpionai ir gyvatės, kerštingas kardas nedorėlių pražūčiai,"
+  },
+  {
+    "i": 27145,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 31,
+    "t": "visi džiaugiasi vykdydami jo įsakymus, jie yra pasiruošę žemėje prireikus, tinkamu metu jie nepažeis jo žodžio."
+  },
+  {
+    "i": 27146,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 32,
+    "t": "Todėl nuo pat pradžių buvau apsisprendęs, aš apmąsčiau ir parašiau:"
+  },
+  {
+    "i": 27147,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 33,
+    "t": "\"Viešpaties darbai yra visi geri, jis teikia savo malonę tam, kuriam jos reikia, tinkamu metu."
+  },
+  {
+    "i": 27148,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 34,
+    "t": "Negalima sakyti: \"Tai yra blogiau už tai!\" nes viskas savo laiku bus pripažinta geru."
+  },
+  {
+    "i": 27149,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 35,
+    "t": "Ir dabar visa širdimi, pilna burna, giedokite ir laiminkite Viešpaties vardą!"
+  },
+  {
+    "i": 27150,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 1,
+    "t": "Skaudus likimas buvo skirtas visiems žmonėms, sunkus jungas slegia Adomo sūnus nuo tos dienos, kai jie išeina iš motinos įsčių, iki tos dienos, kai sugrįžta pas visuotinę motiną."
+  },
+  {
+    "i": 27151,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 2,
+    "t": "Jų apmąstymų objektas, jų širdies baimė, yra nerimastingas jų mirties dienos laukimas."
+  },
+  {
+    "i": 27152,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 3,
+    "t": "Nuo to, kuris sėdi soste šlovėje, iki vargšo, sėdinčio ant žemės ir pelenų,"
+  },
+  {
+    "i": 27153,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 4,
+    "t": "nuo to, kuris dėvi purpurą ir karūną, iki to, kuris apsirengęs šiurkščiu audeklu, tai tik įniršis, pavydas, sumaištis, nerimas, mirties baimė, varžybos ir ginčai."
+  },
+  {
+    "i": 27154,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 5,
+    "t": "Ir tą valandą, kai atsigulus ilsiesi, nakties miegas tik paįvairina rūpesčius:"
+  },
+  {
+    "i": 27155,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 6,
+    "t": "vos radus poilsį, iškart miegant, kaip vidury dienos, esi blaškomas košmarų, kaip bėglys, pabėgęs iš mūšio."
+  },
+  {
+    "i": 27156,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 7,
+    "t": "Išsilaisvinimo akimirką pabundi, labai nustebęs, kad tavo baimė yra tuščia."
+  },
+  {
+    "i": 27157,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 8,
+    "t": "Visam kūnui, nuo žmogaus iki žvėries, bet nusidėjėliams – septyniskart,"
+  },
+  {
+    "i": 27158,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 9,
+    "t": "mirtis, kraujas, ginčai ir kardas, nelaimės, badas, kančios, nelaimės!"
+  },
+  {
+    "i": 27159,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 10,
+    "t": "Visa tai buvo sukurta nusidėjėliams, ir dėl jų įvyko tvanas."
+  },
+  {
+    "i": 27160,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 11,
+    "t": "Viskas, kas ateina iš žemės, grįžta į žemę, o kas ateina iš vandens, grįžta į jūrą."
+  },
+  {
+    "i": 27161,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 12,
+    "t": "Kyšiai ir neteisybės išnyks, bet geras tikėjimas išliks amžinai."
+  },
+  {
+    "i": 27162,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 13,
+    "t": "Neteisingai įgytas turtas išnyks kaip srautas, kaip perkūnas, kuris trenkia per liūtį."
+  },
+  {
+    "i": 27163,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 14,
+    "t": "Kai jis atveria rankas, jis džiaugiasi, taip nusidėjėliai nueis į pražūtį."
+  },
+  {
+    "i": 27164,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 15,
+    "t": "Nedorėlių atžalos neturi šakų, nešvarios šaknys randa tik aštrų uolą."
+  },
+  {
+    "i": 27165,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 16,
+    "t": "Nendrė, kurios gausu visuose vandenyse ir upių pakraščiuose, bus išrauta pirma."
+  },
+  {
+    "i": 27166,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 17,
+    "t": "Labdaros yra tarsi palaiminimo rojus, o išmalda išlieka amžinai."
+  },
+  {
+    "i": 27167,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 18,
+    "t": "Nepriklausomas žmogus ir darbininkas gyvena maloniai; dar geriau tam, kuris randa lobį."
+  },
+  {
+    "i": 27168,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 19,
+    "t": "Vaikai ir įkurtas miestas įamžina vardą; dar labiau vertinama nepriekaištinga moteris."
+  },
+  {
+    "i": 27169,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 20,
+    "t": "Vynas ir menai džiugina širdį; dar labiau išminties meilė."
+  },
+  {
+    "i": 27170,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 21,
+    "t": "Fleita ir arfa pagražina giesmę; dar labiau melodingas balsas."
+  },
+  {
+    "i": 27171,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 22,
+    "t": "Malonę ir grožį akis trokšta, dar labiau laukų žaluma."
+  },
+  {
+    "i": 27172,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 23,
+    "t": "Draugas ir bičiulis susitinka tinkamu laiku; dar labiau moteris ir vyras."
+  },
+  {
+    "i": 27173,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 24,
+    "t": "Broliai ir gynėjai yra naudingi sunkiomis dienomis; dar labiau išmalda išgelbsti nuo bėdos."
+  },
+  {
+    "i": 27174,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 25,
+    "t": "Auksas ir sidabras daro žingsnį tvirtu; dar labiau vertinama taryba."
+  },
+  {
+    "i": 27175,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 26,
+    "t": "Turtai ir jėga suteikia užtikrintą širdį; dar labiau Viešpaties baimė. Su Viešpaties baime nieko netrūksta; su ja nereikia ieškoti paramos."
+  },
+  {
+    "i": 27176,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 27,
+    "t": "Viešpaties baimė yra palaiminimo rojus; geriau už visą šlovę ji saugo."
+  },
+  {
+    "i": 27177,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 28,
+    "t": "Mano sūnau, negyvenk iš elgetavimo, geriau mirti nei elgetauti."
+  },
+  {
+    "i": 27178,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 29,
+    "t": "Žmogus, kuris žvelgia į svetimą stalą, jo gyvenimas negali būti laikomas gyvenimu. Jis suteršia savo gerklę svetimais valgiais, išsilavinęs ir gerai išauklėtas žmogus to saugos."
+  },
+  {
+    "i": 27179,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 30,
+    "t": "Įžūlaus žmogaus burnai elgetavimas yra saldus, bet jo viduriams – deginanti ugnis."
+  },
+  {
+    "i": 27180,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 1,
+    "t": "Ak, mirtie, koks kartėlis yra tavo atminimas žmogui, gyvenančiam gerai ir savo turte, žmogui ramiu, kuriam viskas sekasi ir kuris dar gali mėgautis maistu!"
+  },
+  {
+    "i": 27181,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 2,
+    "t": "Ak, mirtie, tavo nuosprendis yra laukiamas žmogui nelaimingam ir netekusiam jėgų, senam žmogui, išsekusiam, pilnam rūpesčių, maištaujančiam ir neturinčiam kantrybės."
+  },
+  {
+    "i": 27182,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 3,
+    "t": "Nebijok mirties nuosprendžio, atmink tuos, kurie buvo prieš tave, ir tuos, kurie bus po tavęs."
+  },
+  {
+    "i": 27183,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 4,
+    "t": "Toks yra įstatymas, kurį Viešpats paskelbė visam kūnui; kodėl maištauji prieš Aukščiausiojo gerą valią? Ar gyventum dešimt metų, ar šimtą metų, ar tūkstantį metų, Šeole tau nebus priekaištaujama dėl tavo gyvenimo."
+  },
+  {
+    "i": 27184,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 5,
+    "t": "Nedorėliai, tokie yra nusidėjėlių sūnūs, tie, kurie lanko bedievių namus."
+  },
+  {
+    "i": 27185,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 6,
+    "t": "Nusidėjėlių sūnų paveldas veda į pražūtį, jų palikuonys yra nuolatinis priekaištas."
+  },
+  {
+    "i": 27186,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 7,
+    "t": "Nedoras tėvas yra įžeidinėjamas savo vaikų, nes iš jo jie gauna negarbę."
+  },
+  {
+    "i": 27187,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 8,
+    "t": "Vargas jums, bedieviai, kurie apleidote Aukščiausiojo Dievo įstatymą!"
+  },
+  {
+    "i": 27188,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 9,
+    "t": "Jei dauginsitės, tai pražūčiai: jei būsite pradėti, būsite prakeiksmui; ir jei mirsite, prakeiksmas bus jūsų dalis."
+  },
+  {
+    "i": 27189,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 10,
+    "t": "Viskas, kas ateina iš žemės, grįžta į žemę, taip bedieviai keliauja nuo prakeiksmo į pražūtį."
+  },
+  {
+    "i": 27190,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 11,
+    "t": "Žmonių gedulas skirtas jų palaikams, bet prakeiktas nusidėjėlių vardas išnyksta."
+  },
+  {
+    "i": 27191,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 12,
+    "t": "Rūpinkis savo vardu, nes jis tau liks geriau nei tūkstantis turtų aukse."
+  },
+  {
+    "i": 27192,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 13,
+    "t": "Laimingas gyvenimas trunka tam tikrą dienų skaičių, bet garbingas vardas išlieka amžinai."
+  },
+  {
+    "i": 27193,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 14,
+    "t": "Mano vaikai, laikykitės ramybėje mano nurodymų. Paslėpta išmintis ir nematomas turtas, kam jie abu tarnauja?"
+  },
+  {
+    "i": 27194,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 15,
+    "t": "Geriau žmogus, kuris slepia savo kvailystę, nei žmogus, kuris slepia savo išmintį."
+  },
+  {
+    "i": 27195,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 16,
+    "t": "Taigi patirkite gėdą pagal tai, ką aš pasakysiu, nes nėra gerai pasiduoti bet kokiai gėdai ir ne viskas yra tiksliai vertinama visų."
+  },
+  {
+    "i": 27196,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 17,
+    "t": "Gėdykitės paleistuvystės prieš tėvą ir motiną ir melo prieš vadą ir galingąjį;"
+  },
+  {
+    "i": 27197,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 18,
+    "t": "nusikaltimo prieš teisėją ir magistratą ir bedievystės prieš žmonių susirinkimą; klastos prieš draugą ar bičiulį"
+  },
+  {
+    "i": 27198,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 19,
+    "t": "ir vagystės prieš savo kaimą; Dievo tiesos ir sandoros, sulenkti alkūnes prie stalo, įžeidimo gaunant ar duodant,"
+  },
+  {
+    "i": 27199,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 20,
+    "t": "likti be atsakymo prieš tuos, kurie tave sveikina, nukreipti savo žvilgsnį į prostitutę,"
+  }
+]

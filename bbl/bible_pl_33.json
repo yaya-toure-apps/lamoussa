@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3300,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 21,
+    "t": "I ofiaruje Panu ofiarę zadośćuczynienia u wejścia do Namiotu Zgromadzenia. Będzie to baran na ofiarę zadośćuczynienia."
+  },
+  {
+    "i": 3301,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 22,
+    "t": "A kapłan dokona na nim obrzędu przebłagania przed Panem za grzech, który popełnił, używając barana na ofiarę zadośćuczynienia; i będzie mu odpuszczony grzech, który popełnił."
+  },
+  {
+    "i": 3302,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 23,
+    "t": "Gdy wejdziecie do tej ziemi i zasadzicie jakiekolwiek drzewo owocowe, uważać będziecie jego owoce za jego nieobrzezanie. Przez trzy lata będą one dla was rzeczą nieobrzezaną, nie będziecie ich jeść."
+  },
+  {
+    "i": 3303,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 24,
+    "t": "Czwartego roku wszystkie jego owoce będą poświęcone jako ofiara uwielbienia dla Pana."
+  },
+  {
+    "i": 3304,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 25,
+    "t": "Dopiero w piątym roku będziecie mogli jeść jego owoce i zbierać dla siebie plony. Jam jest Pan, Bóg wasz."
+  },
+  {
+    "i": 3305,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 26,
+    "t": "Nie będziecie jeść niczego z krwią; nie będziecie uprawiać wróżbiarstwa ani zaklinania."
+  },
+  {
+    "i": 3306,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 27,
+    "t": "Nie będziecie zaokrąglać brzegów waszej głowy i nie będziesz obcinać brzegów swojej brody."
+  },
+  {
+    "i": 3307,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 28,
+    "t": "Nie będziecie robić nacięć na ciele z powodu zmarłego i nie będziecie robić tatuaży. Jam jest Pan."
+  },
+  {
+    "i": 3308,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 29,
+    "t": "Nie bezcześć swojej córki, oddając ją na nierząd; aby kraj nie oddał się nierządowi i nie stał się cały występny."
+  },
+  {
+    "i": 3309,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 30,
+    "t": "Będziecie przestrzegać moich szabatów i czcić moje sanktuarium. Jam jest Pan."
+  },
+  {
+    "i": 3310,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 31,
+    "t": "Nie zwracajcie się do duchów ani nie szukajcie wróżbitów, abyście się przez nich nie splugawili. Jam jest Pan, Bóg wasz."
+  },
+  {
+    "i": 3311,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 32,
+    "t": "Przed siwą głową wstaniesz, uczcisz osobę starca i będziesz się bał swojego Boga. Jam jest Pan."
+  },
+  {
+    "i": 3312,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 33,
+    "t": "Jeśli obcy osiedli się z wami w waszym kraju, nie będziecie go uciskać."
+  },
+  {
+    "i": 3313,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 34,
+    "t": "Obcy, który osiedlił się z wami, będzie dla was jak rodak i będziesz go miłował jak siebie samego, bo i wy byliście obcymi w ziemi egipskiej. Jam jest Pan, Bóg wasz."
+  },
+  {
+    "i": 3314,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 35,
+    "t": "Nie będziecie popełniać niesprawiedliwości w sądzie, czy to w miarach długości, wagi, czy objętości."
+  },
+  {
+    "i": 3315,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 36,
+    "t": "Będziecie mieli sprawiedliwe wagi, sprawiedliwe odważniki, sprawiedliwą miarę, sprawiedliwy korzec. Jam jest Pan, Bóg wasz, który was wyprowadził z ziemi egipskiej."
+  },
+  {
+    "i": 3316,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 37,
+    "t": "Przestrzegajcie wszystkich moich praw i wszystkich moich zwyczajów, wprowadzajcie je w życie. Jam jest Pan."
+  },
+  {
+    "i": 3317,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 1,
+    "t": "Pan przemówił do Mojżesza tymi słowy:"
+  },
+  {
+    "i": 3318,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 2,
+    "t": "Powiedz Izraelitom: Ktokolwiek, Izraelita czy obcy osiadły w Izraelu, odda swojego syna Molochowi, musi umrzeć. Ludzie z kraju ukamienują go,"
+  },
+  {
+    "i": 3319,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 3,
+    "t": "zwrócę się przeciwko temu człowiekowi i wytępię go spośród jego ludu, bo oddając jednego ze swoich synów Molochowi, splugawił moje sanktuarium i znieważył moje święte imię."
+  },
+  {
+    "i": 3320,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 4,
+    "t": "Jeśli ludzie z kraju przymkną oczy na tego człowieka, gdy oddaje jednego ze swoich synów Molochowi i nie uśmiercą go,"
+  },
+  {
+    "i": 3321,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 5,
+    "t": "to ja zwrócę się przeciwko temu człowiekowi i jego klanowi. Wytępię ich spośród ich ludu, jego i wszystkich tych, którzy po nim pójdą, oddając się nierządowi za Molochem."
+  },
+  {
+    "i": 3322,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 6,
+    "t": "Kto zwróci się do duchów i wróżbitów, aby oddać się za nimi nierządowi, zwrócę się przeciwko temu człowiekowi i wytępię go spośród jego ludu."
+  },
+  {
+    "i": 3323,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 7,
+    "t": "Uświęcajcie się, abyście byli święci, bo ja jestem Pan, Bóg wasz."
+  },
+  {
+    "i": 3324,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 8,
+    "t": "Będziecie przestrzegać moich praw i będziecie je wprowadzać w życie, bo ja jestem Pan, który was uświęca."
+  },
+  {
+    "i": 3325,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 9,
+    "t": "Zatem: Ktokolwiek przeklnie swojego ojca lub swoją matkę, musi umrzeć. Skoro przeklął swojego ojca lub swoją matkę, jego krew spadnie na niego samego."
+  },
+  {
+    "i": 3326,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 10,
+    "t": "Mężczyzna, który popełnia cudzołóstwo z żoną swojego bliźniego, musi umrzeć, on i jego wspólniczka."
+  },
+  {
+    "i": 3327,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 11,
+    "t": "Mężczyzna, który obcuje z żoną swojego ojca, odkrył nagość swojego ojca. Oboje muszą umrzeć, ich krew spadnie na nich."
+  },
+  {
+    "i": 3328,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 12,
+    "t": "Mężczyzna, który obcuje ze swoją synową: oboje muszą umrzeć. Splugawili się, ich krew spadnie na nich."
+  },
+  {
+    "i": 3329,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 13,
+    "t": "Mężczyzna, który obcuje z mężczyzną, jak się obcuje z kobietą: to obrzydliwość, której obaj się dopuścili, muszą umrzeć, ich krew spadnie na nich."
+  },
+  {
+    "i": 3330,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 14,
+    "t": "Mężczyzna, który bierze za żony kobietę i jej matkę: to kazirodztwo. Spalą ich, jego i je, aby nie było u was kazirodztwa."
+  },
+  {
+    "i": 3331,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 15,
+    "t": "Mężczyzna, który oddaje swoje łoże zwierzęciu: musi umrzeć, a wy zabijecie zwierzę."
+  },
+  {
+    "i": 3332,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 16,
+    "t": "Kobieta, która zbliża się do jakiegokolwiek zwierzęcia, aby się z nim połączyć: zabijesz kobietę i zwierzę. Muszą umrzeć, ich krew spadnie na nich."
+  },
+  {
+    "i": 3333,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 17,
+    "t": "Mężczyzna, który bierze za żonę swoją siostrę, córkę swojego ojca lub córkę swojej matki: jeśli widzi jej nagość i ona widzi jego nagość, to haniebność. Zostaną wytępieni na oczach członków swojego ludu, bo odkrył nagość swojej siostry i poniesie ciężar swojej winy."
+  },
+  {
+    "i": 3334,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 18,
+    "t": "Mężczyzna, który obcuje z kobietą podczas jej miesiączki i odkrywa jej nagość: odsłonił źródło jej krwi, ona sama odkryła źródło swojej krwi, także oboje zostaną wyłączeni spośród swojego ludu."
+  },
+  {
+    "i": 3335,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 19,
+    "t": "Nie odkryjesz nagości siostry swojej matki ani siostry swojego ojca. Odsłonił swoją własną krew, poniosą ciężar swojej winy."
+  },
+  {
+    "i": 3336,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 20,
+    "t": "Mężczyzna, który obcuje z żoną swojego wuja: odkrył jego nagość, poniosą ciężar swojego grzechu i umrą bezdzietni."
+  },
+  {
+    "i": 3337,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 21,
+    "t": "Mężczyzna, który bierze za żonę żonę swojego brata: to splugawienie, odkrył nagość swojego brata, umrą bezdzietni."
+  },
+  {
+    "i": 3338,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 22,
+    "t": "Będziecie przestrzegać wszystkich moich praw, wszystkich moich zwyczajów i będziecie je wprowadzać w życie; aby was nie wypluła ziemia, do której was prowadzę, abyście w niej zamieszkali."
+  },
+  {
+    "i": 3339,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 23,
+    "t": "Nie będziecie postępować według praw narodów, które wypędzam przed wami, bo one praktykowały wszystkie te rzeczy i ja się nimi brzydziłem."
+  },
+  {
+    "i": 3340,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 24,
+    "t": "Dlatego też powiedziałem wam: \"Weźmiecie w posiadanie ich ziemię, ja sam wam dam ją w posiadanie, ziemię opływającą mlekiem i miodem.\" Jam jest Pan, Bóg wasz, który was oddzieliłem od tych ludów."
+  },
+  {
+    "i": 3341,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 25,
+    "t": "Oddzielcie więc zwierzę czyste od nieczystego, ptaka czystego od nieczystego. Nie czyńcie się sami nieczystymi z powodu tych zwierząt, tych ptaków, z powodu wszystkiego, co pełza po ziemi: ja wam kazałem je oddzielić jako nieczyste."
+  },
+  {
+    "i": 3342,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 26,
+    "t": "Bądźcie mi poświęceni, skoro ja, Pan, jestem święty, i oddzielę was od wszystkich tych ludów, abyście byli moimi."
+  },
+  {
+    "i": 3343,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 27,
+    "t": "Mężczyzna lub kobieta, która wśród was będzie nekromantą lub wróżbitą: zostaną zabici, ukamienują ich, ich krew spadnie na nich."
+  },
+  {
+    "i": 3344,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 1,
+    "t": "Pan rzekł do Mojżesza: Powiedz kapłanom, synom Aarona; powiedz im: Żaden z nich nie uczyni się nieczystym z powodu zwłok krewnego,"
+  },
+  {
+    "i": 3345,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 2,
+    "t": "chyba że dla swojej najbliższej rodziny: matki, ojca, syna, córki, brata."
+  },
+  {
+    "i": 3346,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 3,
+    "t": "Dla swojej siostry dziewicy, która pozostaje jego bliską krewną, bo nie należała do żadnego mężczyzny, może się uczynić nieczystym;"
+  },
+  {
+    "i": 3347,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 4,
+    "t": "dla zamężnej kobiety spośród swoich, nie uczyni się nieczystym: splugawiłby się."
+  },
+  {
+    "i": 3348,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 5,
+    "t": "Nie będą robić tonsury na głowie, nie będą golić brzegów brody i nie będą robić nacięć na ciele."
+  },
+  {
+    "i": 3349,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 6,
+    "t": "Będą poświęceni swojemu Bogu i nie będą znieważać imienia swojego Boga: to oni bowiem przynoszą ofiary dla Pana, pokarm swojego Boga, i muszą być w stanie świętości."
+  },
+  {
+    "i": 3350,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 7,
+    "t": "Nie wezmą za żonę kobiety nierządnej i splugawionej, ani kobiety, którą jej mąż odprawił, bo kapłan jest poświęcony swojemu Bogu."
+  },
+  {
+    "i": 3351,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 8,
+    "t": "Będziesz go traktował jako istotę świętą, bo ofiarowuje pokarm twojego Boga. Będzie dla ciebie istotą świętą, bo ja jestem święty, ja Pan, który was uświęcam."
+  },
+  {
+    "i": 3352,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 9,
+    "t": "Jeśli córka mężczyzny, który jest kapłanem, splugawi się, oddając się nierządowi, znieważa swojego ojca i musi zostać spalona w ogniu."
+  },
+  {
+    "i": 3353,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 10,
+    "t": "Co się tyczy kapłana, który ma zwierzchnictwo nad swoimi braćmi, na którego głowę wylano olej namaszczenia i który otrzymuje inwestyturę, przywdziewając święte szaty, nie rozpuści swoich włosów, nie rozedrze swoich szat,"
+  },
+  {
+    "i": 3354,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 11,
+    "t": "nie zbliży się do zwłok żadnego zmarłego i nie uczyni się nieczystym ani dla swojego ojca, ani dla swojej matki."
+  },
+  {
+    "i": 3355,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 12,
+    "t": "Nie wyjdzie z miejsca świętego, aby nie znieważyć sanktuarium swojego Boga, bo nosi na sobie poświęcenie olejem namaszczenia swojego Boga. Jam jest Pan."
+  },
+  {
+    "i": 3356,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 13,
+    "t": "Weźmie za żonę kobietę jeszcze dziewicę."
+  },
+  {
+    "i": 3357,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 14,
+    "t": "Wdowy, kobiety odprawionej lub splugawionej przez nierząd nie weźmie za żonę; tylko dziewicę spośród swoich weźmie za żonę:"
+  },
+  {
+    "i": 3358,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 15,
+    "t": "nie znieważy swojego potomstwa, bo ja jestem Pan, który ją uświęciłem."
+  },
+  {
+    "i": 3359,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 16,
+    "t": "Pan przemówił do Mojżesza tymi słowy:"
+  },
+  {
+    "i": 3360,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 17,
+    "t": "Powiedz Aaronowi i powiedz mu: Żaden z twoich potomków, w jakimkolwiek pokoleniu, nie zbliży się, aby ofiarować pokarm swojego Boga, jeśli ma jakąś ułomność."
+  },
+  {
+    "i": 3361,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 18,
+    "t": "Bo żaden mężczyzna nie powinien się zbliżać, jeśli ma jakąś ułomność, czy to ślepy, czy chromy, mężczyzna oszpecony lub zniekształcony,"
+  },
+  {
+    "i": 3362,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 19,
+    "t": "mężczyzna, którego stopa lub ramię jest złamane,"
+  },
+  {
+    "i": 3363,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 20,
+    "t": "garbaty, cherlak, mężczyzna dotknięty oftalmią, liszajem lub wrzodziejącymi ranami, lub eunuch."
+  },
+  {
+    "i": 3364,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 21,
+    "t": "Żaden z potomków Aarona, kapłana, nie będzie mógł się zbliżyć, aby ofiarować ofiary dla Pana, jeśli ma jakąś ułomność; ma ułomność, nie zbliży się, aby ofiarować pokarm swojego Boga."
+  },
+  {
+    "i": 3365,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 22,
+    "t": "Będzie mógł jeść z pokarmów swojego Boga, rzeczy najświętszych i rzeczy świętych,"
+  },
+  {
+    "i": 3366,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 23,
+    "t": "ale nie zbliży się do zasłony i nie podejdzie do ołtarza; ma ułomność i nie powinien znieważać moich świętych przedmiotów, bo ja jestem Pan, który je uświęciłem."
+  },
+  {
+    "i": 3367,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 24,
+    "t": "I Mojżesz powiedział to Aaronowi, jego synom i wszystkim Izraelitom."
+  },
+  {
+    "i": 3368,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 1,
+    "t": "Pan przemówił do Mojżesza tymi słowy:"
+  },
+  {
+    "i": 3369,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 2,
+    "t": "Powiedz Aaronowi i jego synom: Niech się poświęcają przez święte ofiary Izraelitów, nie znieważając mojego świętego imienia; ze względu na mnie mają je uświęcać. Jam jest Pan."
+  },
+  {
+    "i": 3370,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 3,
+    "t": "Powiedz im: Każdy mężczyzna z waszego potomstwa, w jakimkolwiek pokoleniu, który zbliży się w stanie nieczystości do świętych ofiar poświęconych Panu przez Izraelitów, ten człowiek zostanie wyłączony z mojej obecności. Jam jest Pan."
+  },
+  {
+    "i": 3371,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 4,
+    "t": "Każdy mężczyzna z potomstwa Aarona, który będzie dotknięty trądem lub wyciekiem, nie będzie jadł rzeczy świętych, zanim się nie oczyści. Kto dotknie wszystkiego, co zwłoki uczyniły nieczystym, kto wyemituje płyn nasienny,"
+  },
+  {
+    "i": 3372,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 5,
+    "t": "kto dotknie jakiegokolwiek stworzenia i w ten sposób stanie się nieczystym, lub mężczyzny, który go skazi swoją własną nieczystością, jakąkolwiek by ona nie była,"
+  },
+  {
+    "i": 3373,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 6,
+    "t": "krótko mówiąc, ktokolwiek miał takie kontakty, będzie nieczysty aż do wieczora i nie będzie mógł jeść rzeczy świętych, dopóki nie umyje ciała wodą."
+  },
+  {
+    "i": 3374,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 7,
+    "t": "Po zachodzie słońca zostanie oczyszczony i będzie mógł potem jeść rzeczy święte, bo to jest jego pokarm."
+  },
+  {
+    "i": 3375,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 8,
+    "t": "Nie będzie jadł zwierzęcia martwego lub rozszarpanego, naraziłby się na nieczystość. Jam jest Pan."
+  },
+  {
+    "i": 3376,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 9,
+    "t": "Niech przestrzegają moich nakazów i nie obciążają się grzechem: umarliby, znieważając je, ja jestem Pan, który je uświęciłem."
+  },
+  {
+    "i": 3377,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 10,
+    "t": "Żaden świecki nie będzie jadł rzeczy świętej: ani gość kapłana, ani sługa najemny nie będą jeść rzeczy świętej."
+  },
+  {
+    "i": 3378,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 11,
+    "t": "Ale jeśli kapłan nabędzie osobę za pieniądze, ta osoba będzie mogła z niej jeść, jak ten, który urodził się w jego domu; jedzą bowiem jego własny pokarm."
+  },
+  {
+    "i": 3379,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 12,
+    "t": "Jeśli córka kapłana stała się żoną świeckiego, nie może jeść z świętych ofiar;"
+  },
+  {
+    "i": 3380,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 13,
+    "t": "Ale jeśli wdowa albo oddalona powróci i nie będzie miała potomstwa, a wróci do domu ojca swego jako za młodu swego, z pokarmu ojca swego jeść będzie. Żaden obcy jeść go nie będzie:"
+  },
+  {
+    "i": 3381,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 14,
+    "t": "Jeśli kto nieświadomie zje rzecz świętą, odda ją kapłanowi, dodając do niej piątą część."
+  },
+  {
+    "i": 3382,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 15,
+    "t": "Aby nie plugawili świętych ofiar, które synowie Izraelscy składają Panu."
+  },
+  {
+    "i": 3383,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 16,
+    "t": "A obciążając ich winą, za którą mają dać okup, bo Ja, Pan, poświęcam je."
+  },
+  {
+    "i": 3384,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 17,
+    "t": "I rzekł Pan do Mojżesza, mówiąc:"
+  },
+  {
+    "i": 3385,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 18,
+    "t": "Mów do Aarona i do synów jego, i do wszystkich synów Izraelskich, i rzeknij do nich: Którykolwiek z domu Izraelskiego, albo z obcych osiadłych w Izraelu przynosi ofiarę swoją za ślub, albo za dobrowolną ofiarę, którą ofiarują Panu na ofiarę całopalną,"
+  },
+  {
+    "i": 3386,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 19,
+    "t": "Na upodobanie wasze doskonałą, samca z bydła wołu, z owiec albo z kóz ofiarujcie."
+  },
+  {
+    "i": 3387,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 20,
+    "t": "Żadnej rzeczy, która by miała skazę, nie ofiarujcie; bo nie będzie wam przyjemna."
+  },
+  {
+    "i": 3388,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 21,
+    "t": "A jeśliby kto ofiarował Panu ofiarę biesiadną, czyniąc ślub, albo ofiarę dobrowolną z bydła wołu, albo z owiec, doskonałą ofiarować ją będzie, aby była przyjemna; żadnej skazy w niej nie będzie."
+  },
+  {
+    "i": 3389,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 22,
+    "t": "Ociemniałego, albo złamanego, albo skaleczonego, albo brodawiastego, albo świerzbiącego, albo strupiastego nie ofiarujcie Panu, ani z nich ognia nie kładźcie na ołtarzu Panu."
+  },
+  {
+    "i": 3390,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 23,
+    "t": "Wołu, albo owcę, które mają przedługie, albo krótkie członki, na ofiarę dobrowolną ofiarować możesz, ale na ślub nie będą przyjemne."
+  },
+  {
+    "i": 3391,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 24,
+    "t": "Które ma zgniecione jądra, albo roztarte, albo urwane, albo ucięte, nie ofiarujcie Panu; ani tego czyńcie w ziemi waszej."
+  },
+  {
+    "i": 3392,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 25,
+    "t": "Ani z ręki cudzoziemca nie ofiarujcie żadnej z tych rzeczy Bogu waszemu; bo zepsowanie w nich jest, skazy w nich są; nie będą wam przyjemne."
+  },
+  {
+    "i": 3393,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 26,
+    "t": "I rzekł Pan do Mojżesza, mówiąc:"
+  },
+  {
+    "i": 3394,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 27,
+    "t": "Wół, albo owca, albo koza, gdy się urodzi, siedem dni będzie pod matką swoją, a dnia ósmego i dalej będzie przyjemna na ofiarę ognistą Panu."
+  },
+  {
+    "i": 3395,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 28,
+    "t": "Ale wołu i owce nie ofiarujcie w jeden dzień, i syna jej z nią."
+  },
+  {
+    "i": 3396,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 29,
+    "t": "A gdy ofiarujecie Panu ofiarę dziękczynną, ofiarujcie ją tak, abyście byli upodobani."
+  },
+  {
+    "i": 3397,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 30,
+    "t": "W tenże dzień będzie jedzona, nie zostawicie z niej aż do poranku. Ja jestem Pan."
+  },
+  {
+    "i": 3398,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 31,
+    "t": "Przestrzegajcie przykazań moich i czyńcie je. Jam jest Pan."
+  },
+  {
+    "i": 3399,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 32,
+    "t": "Nie plugawcie imienia świętego mego, abym był poświęcony między synami Izraelskimi. Jam jest Pan, który was poświęcam."
+  }
+]

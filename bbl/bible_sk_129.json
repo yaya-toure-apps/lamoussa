@@ -1,0 +1,802 @@
+[
+  {
+    "i": 12900,
+    "b": 17,
+    "c": 1802,
+    "r": 1802,
+    "o": 9,
+    "t": "I riekla jemu žena jeho: „Či ešte zotrvávaš v bezúhonnosti svojej? Zloreč Bohu a zomri!“"
+  },
+  {
+    "i": 12901,
+    "b": 17,
+    "c": 1802,
+    "r": 1802,
+    "o": 10,
+    "t": "Ale on jej povedal: „Hovoríš ako niektorá z bláznov. Či budeme prijímať dobré od Boha, a zlé prijímať nebudeme?“ Vo všetkom tom nezhrešil Job svojimi rtami."
+  },
+  {
+    "i": 12902,
+    "b": 17,
+    "c": 1802,
+    "r": 1802,
+    "o": 11,
+    "t": "A počuli traja priatelia Jobovi o všetkom tom zlom, ktoré prišlo na neho, a prišli každý zo svojho miesta, Elifaz Temanský, Bildad Šúchijský a Cófar Naámatský, a dohovorili sa spolu, aby prišli k nemu ho ľutovať a potešiť ho."
+  },
+  {
+    "i": 12903,
+    "b": 17,
+    "c": 1802,
+    "r": 1802,
+    "o": 12,
+    "t": "A keď pozdvihli oči svoje z diaľky, nepoznali ho, a povýšili hlas svoj a plakali, a roztrhli každý svoj plášť a sypali prach na svoje hlavy smerom k nebu."
+  },
+  {
+    "i": 12904,
+    "b": 17,
+    "c": 1802,
+    "r": 1802,
+    "o": 13,
+    "t": "A sedeli s ním na zemi sedem dní a sedem nocí, a nikto mu nepovedal slova, lebo videli, že je veľmi veľká jeho bolesť."
+  },
+  {
+    "i": 12905,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 1,
+    "t": "Potom otvoril Job ústa svoje a preklial deň svoj."
+  },
+  {
+    "i": 12906,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 2,
+    "t": "A odpovedal Job a riekol:"
+  },
+  {
+    "i": 12907,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 3,
+    "t": "Nech zahynie deň, v ktorom som sa narodil, i noc, ktorá povedala: Bol splodený muž."
+  },
+  {
+    "i": 12908,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 4,
+    "t": "Ten deň nech sa obráti na tmu, nech sa na neho neobzerá Boh z výsosti a nech ho neosvecuje žiaden jas."
+  },
+  {
+    "i": 12909,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 5,
+    "t": "Nech si ho prisvoja tma a tieň smrti; nech sa naň snesie oblak; nech ho preľakne zatmenie dňa!"
+  },
+  {
+    "i": 12910,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 6,
+    "t": "Tú noc nech uchváti mrákota; nech sa neraduje medzi dňami roku; nech nepočíta sa do počtu mesiacov!"
+  },
+  {
+    "i": 12911,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 7,
+    "t": "Hľa, tá noc nech je pustá, nech do nej nevchádza plesanie!"
+  },
+  {
+    "i": 12912,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 8,
+    "t": "Nech ju preklínajú tí, ktorí preklínajú deň, ktorí sú pripravení prebudiť Leviatana!"
+  },
+  {
+    "i": 12913,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 9,
+    "t": "Nech zatmievajú sa hviezdy jeho úsvitu; nech čaká na svetlo, a nepríde, a nech nevidí viečok zory!"
+  },
+  {
+    "i": 12914,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 10,
+    "t": "Pretože nezavrela dverí života môjho, ani neskryla bôľu pred mojimi očima."
+  },
+  {
+    "i": 12915,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 11,
+    "t": "Prečo som nezomrel z života, prečo som nevypustil ducha, keď som vyšiel z života?"
+  },
+  {
+    "i": 12916,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 12,
+    "t": "Prečo ma prijaly kolená, a načo prsia, aby som bol cicaný?"
+  },
+  {
+    "i": 12917,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 13,
+    "t": "Lebo teraz by som ležal a mal bych pokoj, spal bych, a bol bych odpočinul,"
+  },
+  {
+    "i": 12918,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 14,
+    "t": "s kráľmi a s radcami zeme, ktorí si postavili zrúcaniny,"
+  },
+  {
+    "i": 12919,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 15,
+    "t": "alebo s kniežatami, ktorí mali zlata, ktorí naplnili svoje domy striebrom."
+  },
+  {
+    "i": 12920,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 16,
+    "t": "Alebo jako plod nedokončený skrytý, nebol bych; jako nemluvňatá, ktoré nevidely svetla."
+  },
+  {
+    "i": 12921,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 17,
+    "t": "Tam prestávajú zlostníci zúriť, tam odpočívajú ustatí silou."
+  },
+  {
+    "i": 12922,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 18,
+    "t": "Spolu odpočívajú zajatci, nepočujú hlasu násilníka."
+  },
+  {
+    "i": 12923,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 19,
+    "t": "Malý i veľký je tam, a sluha je voľný od svojho pána."
+  },
+  {
+    "i": 12924,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 20,
+    "t": "Prečo dáva svetlo trápiacemu sa, a život tým, ktorí majú horkú dušu,"
+  },
+  {
+    "i": 12925,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 21,
+    "t": "ktorí čakajú na smrť, ale nejde, a dolujú po nej viacej ako po skrytých pokladoch,"
+  },
+  {
+    "i": 12926,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 22,
+    "t": "ktorí sa veselia až k plesaniu, radujú sa, keď nájdu hrob?"
+  },
+  {
+    "i": 12927,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 23,
+    "t": "Prečo dáva človeku cestu, ktorého cesta je skrytá, ktorého Bôh ohradil?"
+  },
+  {
+    "i": 12928,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 24,
+    "t": "Lebo namiesto pokrmu mi prichádza vzdych, a vylievajú sa, jako vody, revy moje."
+  },
+  {
+    "i": 12929,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 25,
+    "t": "Lebo to, čoho som sa bál, prišlo na mňa, a to, čoho som sa strachoval, stalo sa mi."
+  },
+  {
+    "i": 12930,
+    "b": 17,
+    "c": 1803,
+    "r": 1803,
+    "o": 26,
+    "t": "Nemám pokoja, ani miesta odpočinku, ani som neodišiel do ticha, a prišiel hnev."
+  },
+  {
+    "i": 12931,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 1,
+    "t": "Potom odpovedal Elifaz Temanský a riekol:"
+  },
+  {
+    "i": 12932,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 2,
+    "t": "Ak sa pokúsime hovoriť k tebe, bude ti to ťažko? Ale kto môže zabrániť reči?"
+  },
+  {
+    "i": 12933,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 3,
+    "t": "Hľa, ty si napomínal mnohých, a ruky povislé si posilňoval."
+  },
+  {
+    "i": 12934,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 4,
+    "t": "Tvoje slová pridržiavaly padajúceho, a kolená mdlé si spevňoval."
+  },
+  {
+    "i": 12935,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 5,
+    "t": "Teraz to prišlo na teba, a ťažko nesieš; dotýka sa ťa to, a si zmätený."
+  },
+  {
+    "i": 12936,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 6,
+    "t": "Či nie je tvoja bázeň Božia tvojou pevnosťou, tvoja bezúhonnosť cesty tvojou nádejou?"
+  },
+  {
+    "i": 12937,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 7,
+    "t": "Pamätaj sa už, kto zhynul nevinný? A kde boli vytratení priami?"
+  },
+  {
+    "i": 12938,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 8,
+    "t": "Ako som videl, tí, ktorí orú nepravosť a rozsievajú trápenie, to žnú."
+  },
+  {
+    "i": 12939,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 9,
+    "t": "Od vanu Boha hynú, a od dychu jeho hnevu sú zničení."
+  },
+  {
+    "i": 12940,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 10,
+    "t": "Rev lva a hlas levice, i zuby lvíčat sú zlomené."
+  },
+  {
+    "i": 12941,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 11,
+    "t": "Lev hynul pre nedostatok koristi, a lvíčatá levice sú rozptýlené."
+  },
+  {
+    "i": 12942,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 12,
+    "t": "A mne bolo tajne ukradnuté slovo, a ucho moje prijalo malý kúsok z neho."
+  },
+  {
+    "i": 12943,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 13,
+    "t": "Medzi myšlienkami z videní nočných, keď pripadne tuhý spánok na ľudí,"
+  },
+  {
+    "i": 12944,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 14,
+    "t": "prišiel na mňa strach, a hrôza, a pohnul všetkými kosťami mojimi."
+  },
+  {
+    "i": 12945,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 15,
+    "t": "Vtedy prešiel duch predo mnou, a naježil chlpy môjho tela."
+  },
+  {
+    "i": 12946,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 16,
+    "t": "Postavil sa, ale nepoznal som jeho zjav, podoba bola pred mojimi očima; bolo ticho, a počul som hlas:"
+  },
+  {
+    "i": 12947,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 17,
+    "t": "Či človek bude spravedlivý pred Bohom? Či bude človek čistejší ako svoj Stvoriteľ?"
+  },
+  {
+    "i": 12948,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 18,
+    "t": "Hľa, svojim služobníkom neverí a pri svojich anjeloch nalieha na nesúcnosť,"
+  },
+  {
+    "i": 12949,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 19,
+    "t": "čím skôr obyvateľov domov z hliny, ktorých základ je v prachu, ktorí bývajú potretí jako mole!"
+  },
+  {
+    "i": 12950,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 20,
+    "t": "Od rána až do večera sú potretí, bez toho aby to kto priložil k srdcu, zahynú na večnosť."
+  },
+  {
+    "i": 12951,
+    "b": 17,
+    "c": 1804,
+    "r": 1804,
+    "o": 21,
+    "t": "Či sa vytrhne povrazec ich stanu od nich? Umrú však, a to bez múdrosti."
+  },
+  {
+    "i": 12952,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 1,
+    "t": "Volaj už! Či ti niekto odpovie? A ku ktorému zo svätých sa obrátiš?"
+  },
+  {
+    "i": 12953,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 2,
+    "t": "Lebo blázna zabije hnev, a hlúpeho usmrcuje zlosť."
+  },
+  {
+    "i": 12954,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 3,
+    "t": "Ja som videl, že zakorenil blázon, a hneď som preklial jeho obydlie."
+  },
+  {
+    "i": 12955,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 4,
+    "t": "Ďaleko sú jeho synovia od spasenia, a sú potretí v bráne, a niet toho, kto by ich vytrhol."
+  },
+  {
+    "i": 12956,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 5,
+    "t": "Čo požne, zjedia hladní, áno, berie ho i z medzi tŕnia, a dychtiví požierajú jeho statok."
+  },
+  {
+    "i": 12957,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 6,
+    "t": "Lebo nepochádza trápenie z prachu, ani bolesť nevyrastá zo zeme."
+  },
+  {
+    "i": 12958,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 7,
+    "t": "Ale človek sa rodí k bolesti, jako iskry, aby vzlietaly hore."
+  },
+  {
+    "i": 12959,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 8,
+    "t": "Ale ja bych hľadal Boha, a na Boha bych položil svoju vec,"
+  },
+  {
+    "i": 12960,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 9,
+    "t": "ktorý činí veci veľké a nevyspytateľné, zázrazy bez počtu,"
+  },
+  {
+    "i": 12961,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 10,
+    "t": "ktorý dáva dážď na zem a posiela vody na pole,"
+  },
+  {
+    "i": 12962,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 11,
+    "t": "aby postavil ponižených vysoko a aby sa smútni povzniesli ku spaseniu."
+  },
+  {
+    "i": 12963,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 12,
+    "t": "Kazí úmysly chytrých, a aby nevykonávaly ich ruky ničoho istotného."
+  },
+  {
+    "i": 12964,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 13,
+    "t": "Lapá múdrych v ich chytrosti, a rada prefíkaných sa prevrhne."
+  },
+  {
+    "i": 12965,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 14,
+    "t": "Vo dne sa stretávajú s tmou, a za poludnia hľadajú jako v noci."
+  },
+  {
+    "i": 12966,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 15,
+    "t": "A zachraňuje chudobného od meča, z ich úst a z ruky silného."
+  },
+  {
+    "i": 12967,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 16,
+    "t": "A má úbohý nádej, a nepravosť zapcháva svoje ústa."
+  },
+  {
+    "i": 12968,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 17,
+    "t": "Hľa, blahoslavený je človek, ktorého karhá Bôh, a preto nepohrduj napomínaním Všemohúceho."
+  },
+  {
+    "i": 12969,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 18,
+    "t": "Lebo on poraňuje, a zase zaviaže; udiera, a jeho ruky uzdravujú."
+  },
+  {
+    "i": 12970,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 19,
+    "t": "Šesť ráz ťa vytrhne z bôľu, a v siedmom sa ťa nedotkne zlé."
+  },
+  {
+    "i": 12971,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 20,
+    "t": "Za hladu ťa vykúpi zo smrti, a vo vojne z moci meča."
+  },
+  {
+    "i": 12972,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 21,
+    "t": "Pred bičom jazyka budeš ukrytý a nebudeš sa báť, keď príde spustošenie."
+  },
+  {
+    "i": 12973,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 22,
+    "t": "Budeš sa smiať spustošeniu a hladu a nebudeš sa báť poľnej zvere."
+  },
+  {
+    "i": 12974,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 23,
+    "t": "Lebo so znamením budeš spojený s kameňmi poľa, a poľná zver bude mať pokoj s tebou."
+  },
+  {
+    "i": 12975,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 24,
+    "t": "A zvieš, že je pokoj tvojmu stanu, a obzeráš sa na svoj príbytok, a nič ti nebude chýbať."
+  },
+  {
+    "i": 12976,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 25,
+    "t": "A zvieš, že je mnoho tvojho semena, a tvojho potomstva jako byliny zeme."
+  },
+  {
+    "i": 12977,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 26,
+    "t": "Vojdeš do hrobu v dospelosti, jako sa vojde snop v svoj čas."
+  },
+  {
+    "i": 12978,
+    "b": 17,
+    "c": 1805,
+    "r": 1805,
+    "o": 27,
+    "t": "Hľa, toto sme vystopovali, tak je to. Počuj to a znáj to ty pre seba!"
+  },
+  {
+    "i": 12979,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 1,
+    "t": "Potom odpovedal Job a riekol:"
+  },
+  {
+    "i": 12980,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 2,
+    "t": "Ó, kéby bol môj žiaľ odvážený a všetko moje trápenie na váhu spoločne položené!"
+  },
+  {
+    "i": 12981,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 3,
+    "t": "Lebo ťažšie je to než piesok morský, preto slová moje sú nerozumné."
+  },
+  {
+    "i": 12982,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 4,
+    "t": "Šípy Všemohúceho sú vo mne, duch môj pije ich jed, a hrôzy Božie sa proti mne zoradili."
+  },
+  {
+    "i": 12983,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 5,
+    "t": "Či divý osol rečnie nad trávou, alebo vôl reve pri krmive?"
+  },
+  {
+    "i": 12984,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 6,
+    "t": "Či sa jedáva to, čo je bez chuti, bez soli? Alebo je v bielku vajíčka nejaká chuť?"
+  },
+  {
+    "i": 12985,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 7,
+    "t": "Čoho sa moja duša bojí dotknúť, to je mojím pokrmom v chorobe."
+  },
+  {
+    "i": 12986,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 8,
+    "t": "Ó, kéby sa naplnila moja prosba a Boh vyplnil moju nádej!"
+  },
+  {
+    "i": 12987,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 9,
+    "t": "Kéby Boh chcel ma rozdrviť, uvoľnil ruku svoju a ukončil ma!"
+  },
+  {
+    "i": 12988,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 10,
+    "t": "A to by mi bolo ešte potechou, aby som sa s radosťou napriamil v krutej bolesti, že som nezaprel slová Svätého."
+  },
+  {
+    "i": 12989,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 11,
+    "t": "Či mám silu čakať? Alebo aký je môj koniec, že mám byť trpezlivý?"
+  },
+  {
+    "i": 12990,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 12,
+    "t": "Či je moja sila sila kameňa? Alebo je moje telo z bronzu?"
+  },
+  {
+    "i": 12991,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 13,
+    "t": "Či nemám pomoc v sebe? A či odo mňa neodišlo všetko uplatnenie?"
+  },
+  {
+    "i": 12992,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 14,
+    "t": "Kto odopiera milosrdenstvo svojmu priateľovi, ten opúšťa bázeň pred Všemohúcim."
+  },
+  {
+    "i": 12993,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 15,
+    "t": "Moji bratia boli zradní ako potok, ako koryto potokov, ktoré sa strácajú."
+  },
+  {
+    "i": 12994,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 16,
+    "t": "Ktoré sú temné od ľadu a sneh sa na ne valí,"
+  },
+  {
+    "i": 12995,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 17,
+    "t": "ale v čase horúčavy vysychajú a miznú so svojho miesta v suchu."
+  },
+  {
+    "i": 12996,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 18,
+    "t": "Karavány sa odvracajú od cesty a idú do púšte, kde hynú."
+  },
+  {
+    "i": 12997,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 19,
+    "t": "Karavány z Temy sa obracajú k nim, a karavány zo Sáby dúfajú v nich."
+  },
+  {
+    "i": 12998,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 20,
+    "t": "Sú sklamané vo svojej nádeji, prichádzajú k nim a sú zahanbené."
+  },
+  {
+    "i": 12999,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 21,
+    "t": "Takými ste vy teraz pre mňa; vidíte moju biedu a zľaknete sa."
+  }
+]

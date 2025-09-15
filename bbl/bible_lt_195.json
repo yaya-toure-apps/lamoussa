@@ -1,0 +1,802 @@
+[
+  {
+    "i": 19500,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 13,
+    "t": "Giedokite Viešpačiui, šlovinkite Viešpatį, nes išlaisvino vargšo sielą iš piktadarių rankos!"
+  },
+  {
+    "i": 19501,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 14,
+    "t": "Tebūna prakeikta diena, kurią aš gimiau! Diena, kurią mano motina mane pagimdė, tenebūna palaiminta!"
+  },
+  {
+    "i": 19502,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 15,
+    "t": "Tebūna prakeiktas žmogus, kuris pranešė mano tėvui šią naujieną: \"Gimė tau sūnus, berniukas!\" ir pripildė jį džiaugsmu."
+  },
+  {
+    "i": 19503,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 16,
+    "t": "Tebūna tas žmogus panašus į miestus, kuriuos Viešpats sunaikino be gailesčio; tegu girdi jis pavojaus šauksmą ryte ir karo šauksmą vidurdienį,"
+  },
+  {
+    "i": 19504,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 17,
+    "t": "nes jis neprivertė manęs mirti dar įsčiose, kad mano motina būtų kapas, o jos įsčios mane nešiotų amžinai."
+  },
+  {
+    "i": 19505,
+    "b": 23,
+    "c": 2520,
+    "r": 2520,
+    "o": 18,
+    "t": "Tai kodėl aš išėjau iš įsčių? Kad matyčiau vargą ir skausmą ir baigčiau savo dienas gėdoje."
+  },
+  {
+    "i": 19506,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 1,
+    "t": "Žodis, kuris buvo adresuotas Jeremijui nuo Viešpaties, kai karalius Zedekijas atsiuntė Pashehurą, Malkijos sūnų, ir kunigą Cephaniją, Maasėjos sūnų, jam sakyti:"
+  },
+  {
+    "i": 19507,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 2,
+    "t": "\"Pasikonsultuok su Viešpačiu dėl mūsų, nes Nabuchodonosaras, Babilono karalius, kariauja su mumis; galbūt Viešpats padarys mūsų naudai visus savo stebuklus, kad priešas turėtų nuo mūsų pasitraukti."
+  },
+  {
+    "i": 19508,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 3,
+    "t": "Jeremijas jiems tarė: \"Nunešite Zedekijui šį atsakymą:"
+  },
+  {
+    "i": 19509,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 4,
+    "t": "Taip kalba Viešpats, Izraelio Dievas. Štai, aš sugrąžinsiu karo ginklus, kuriuos jūs laikote ir su kuriais kovojate prieš Babilono karalių ir chaldėjus, jūsų užpuolikus: iš išorės sienų aš juos surinksiu pačiame šio miesto viduryje."
+  },
+  {
+    "i": 19510,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 5,
+    "t": "Ir aš pats kovosiu prieš jus ištiesta ranka ir galinga ranka, su pykčiu, įniršiu ir dideliu pasipiktinimu;"
+  },
+  {
+    "i": 19511,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 6,
+    "t": "aš smogsiu šio miesto gyventojams, žmonėms ir gyvuliams; nuo baisaus maro jie mirs."
+  },
+  {
+    "i": 19512,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 7,
+    "t": "Po to - Viešpaties žodis - aš atiduosiu Zedekiją, Judo karalių, jo tarnus, tautą ir tuos, kurie iš šio miesto išsigelbės nuo maro, kalavijo ir bado, į Nabuchodonosaro, Babilono karaliaus, rankas, į jų priešų rankas ir į tų, kurie kėsinasi į jų gyvybę, rankas; jis juos pervers kalaviju, be gailesčio jiems, nei pasigailėjimo, nei užuojautos."
+  },
+  {
+    "i": 19513,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 8,
+    "t": "Ir šiai tautai tu sakysi: \"Taip kalba Viešpats. Štai, aš dedu prieš jus gyvenimo kelią ir mirties kelią."
+  },
+  {
+    "i": 19514,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 9,
+    "t": "Kas pasiliks šiame mieste, mirs nuo kalavijo, bado ir maro; bet kas išeis ir pasiduos chaldėjams, jūsų užpuolikams, gyvens, jis turės savo gyvybę kaip grobį."
+  },
+  {
+    "i": 19515,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 10,
+    "t": "Nes aš atsisuksi prieš šį miestą jo nelaimei, ne jo laimei - Viešpaties žodis. Jis bus atiduotas Babilono karaliui ir jis jį padegs."
+  },
+  {
+    "i": 19516,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 11,
+    "t": "Judo karališkiesiems namams. Klausykite Viešpaties žodžio,"
+  },
+  {
+    "i": 19517,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 12,
+    "t": "Dovydo namai! Taip kalba Viešpats: kiekvieną rytą darykite teisingumą ir išlaisvinkite išnaudojamąjį iš prispaudėjo rankų. Priešingu atveju mano įniršis išsiverš kaip ugnis ir degins, niekam neužgesinus, dėl jūsų veiksmų nedorumo."
+  },
+  {
+    "i": 19518,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 13,
+    "t": "Tau aš turiu pretenzijų, tu, kuris gyveni slėnyje, Uola-lygumoje, - Viešpaties žodis - o jūs, kurie sakote: \"Kas išdrįstų įsiveržti į mus ir prasiskverbti į mūsų slėptuves?"
+  },
+  {
+    "i": 19519,
+    "b": 23,
+    "c": 2521,
+    "r": 2521,
+    "o": 14,
+    "t": "Aš jus nubaudysiu, kaip nusipelno jūsų veiksmai - Viešpaties žodis. Aš padegsiu jo mišką ir jis praris visus jo apylinkes!"
+  },
+  {
+    "i": 19520,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 1,
+    "t": "Taip kalbėjo Viešpats: Nusileisk į Judo karaliaus rūmus; ten ištarsi šį žodį:"
+  },
+  {
+    "i": 19521,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 2,
+    "t": "Klausyk Viešpaties žodžio, o Judo karaliau, kuris sėdi Dovydo soste, tu, taip pat tavo tarnai ir tavo žmonės, kurie įeina pro šiuos vartus."
+  },
+  {
+    "i": 19522,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 3,
+    "t": "Taip kalba Viešpats: Praktikuokite teisę ir teisingumą; išlaisvinkite išnaudojamąjį iš prispaudėjo rankų; svetimšalio, našlaičio ir našlės neskriauskite, neįžeidinėkite jų; nekaltą kraują nepilkite šioje vietoje."
+  },
+  {
+    "i": 19523,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 4,
+    "t": "Nes jei atidžiai laikysitės šio žodžio, tuomet pro šių rūmų vartus įžengs karaliai, sėdintys Dovydo soste, sėdintys vežimuose ir ant žirgų, jie, jų tarnai ir jų žmonės."
+  },
+  {
+    "i": 19524,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 5,
+    "t": "Bet jei neklausysite šių žodžių, aš prisiekiu savimi - Viešpaties žodis - šie rūmai taps griuvėsiais."
+  },
+  {
+    "i": 19525,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 6,
+    "t": "Taip, taip kalba Viešpats apie Judo karaliaus rūmus: Tu man esi Gileadas ir Libano viršūnė. Tačiau aš paversiu tave dykuma, negyvenamais miestais."
+  },
+  {
+    "i": 19526,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 7,
+    "t": "Aš skiriu prieš tave naikintojus, kiekvieną su savo ginklais; jie nukirs gražiausius tavo kedrus ir įmes juos į ugnį."
+  },
+  {
+    "i": 19527,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 8,
+    "t": "Ir kai daugybė tautų praeis šalia šio miesto, žmonės tarpusavyje tars: \"Kodėl Viešpats taip pasielgė su šiuo dideliu miestu?"
+  },
+  {
+    "i": 19528,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 9,
+    "t": "Bus atsakyta: \"Nes jie apleido Viešpaties, savo Dievo, sandorą, kad pultų prieš kitus dievus ir jiems tarnautų."
+  },
+  {
+    "i": 19529,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 10,
+    "t": "Neverkite to, kuris mirė, nedejuokite dėl jo. Verčiau verkite to, kuris išvyko, nes jis daugiau nebegrįš, daugiau nebepamatys savo gimtinės."
+  },
+  {
+    "i": 19530,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 11,
+    "t": "Nes taip kalbėjo Viešpats apie Šalumą, Josijo sūnų, Judo karalių, kuris karaliavo savo tėvo Josijo vietoje ir turėjo palikti šią vietą: jis daugiau nebegrįš,"
+  },
+  {
+    "i": 19531,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 12,
+    "t": "bet toje vietoje, kur jis buvo išvestas į nelaisvę, jis mirs; ir šio krašto jis daugiau niekada nebepamatys."
+  },
+  {
+    "i": 19532,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 13,
+    "t": "Vargas tam, kuris stato savo namą be teisingumo ir savo aukštutinius kambarius be teisės, kuris verčia savo artimą dirbti už dyką ir nemoka jam atlyginimo,"
+  },
+  {
+    "i": 19533,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 14,
+    "t": "kuris sako sau: \"Aš pasistatysiu sau erdvų rūmą su dideliais aukštutiniais kambariais\", kuris ten įrengia angas, apdengia jį kedru ir nudažo raudonai."
+  },
+  {
+    "i": 19534,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 15,
+    "t": "Ar karaliauji todėl, kad aistringai mėgsti kedrą? Ar tavo tėvas nevalgė ir negėrė? Bet jis praktikavo teisę ir teisingumą! Tuomet jam viskas buvo gerai."
+  },
+  {
+    "i": 19535,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 16,
+    "t": "Jis teisė vargšo ir nelaimingojo bylą. Tuomet viskas buvo gerai. Pažinti mane, ar ne tai yra? - Viešpaties žodis -"
+  },
+  {
+    "i": 19536,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 17,
+    "t": "Bet niekas nepatraukia tavo akių ir tavo širdies, išskyrus tavo paties interesą, nekaltą kraują, kurį reikia išlieti, priespaudą ir smurtą, kurį reikia įvykdyti."
+  },
+  {
+    "i": 19537,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 18,
+    "t": "Todėl taip kalba Viešpats apie Jojaqimą, Josijo sūnų, Judo karalių. Jam nebus apraudojimo: \"Vargas! mano broli! Vargas! o sese!\" Jam nebus apraudojimo: \"Vargas! Viešpatie! Vargas! Jo Didenybe!"
+  },
+  {
+    "i": 19538,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 19,
+    "t": "Jis bus palaidotas taip, kaip laidojamas asilas! Jis bus velkamas ir išmestas toli nuo Jeruzalės vartų!"
+  },
+  {
+    "i": 19539,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 20,
+    "t": "Užkopk į Libaną, kad šauktum, Bašane pakelk balsą, šauk iš Abarimo viršūnių, nes visi tavo meilužiai yra sutraiškyti!"
+  },
+  {
+    "i": 19540,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 21,
+    "t": "Aš tau kalbėjau tavo saugumo metu; tu sakei: \"Aš neklausysiu!\" Toks buvo tavo elgesys nuo tavo jaunystės - neklausyti mano balso."
+  },
+  {
+    "i": 19541,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 22,
+    "t": "Visus tavo ganytojus vėjas nuneš ganyti, o tavo meilužiai išeis į tremtį. Taip, tu būsi tuomet sugėdinta ir paraudusi dėl viso savo iškrypimo."
+  },
+  {
+    "i": 19542,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 23,
+    "t": "Tu, kuris įkūrei savo buveinę Libane, savo lizdą tarp kedrų, kaip tu dejuosi, kai tau ateis skausmai, kančios, kaip tai, kuri gimdo!"
+  },
+  {
+    "i": 19543,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 24,
+    "t": "Gyva aš - Viešpaties žodis - net jei Konijas, Jojaqimo sūnus, Judo karalius, būtų žiedas ant mano dešinės rankos, aš tave iš ten išplėščiau!"
+  },
+  {
+    "i": 19544,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 25,
+    "t": "Aš tave atiduosiu į rankas tų, kurie kėsinasi į tavo gyvybę, į rankas tų, kurie tave baugina, į Nabuchodonosaro, Babilono karaliaus, rankas ir į chaldėjų rankas."
+  },
+  {
+    "i": 19545,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 26,
+    "t": "Aš tave išmesiu, tave ir tavo motiną, kuri tave pagimdė, į kitą šalį: jūs ten negimėte, bet ten mirsite."
+  },
+  {
+    "i": 19546,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 27,
+    "t": "Ir į tą šalį, į kurią jie aistringai trokšta sugrįžti, jie nebesugrįš!"
+  },
+  {
+    "i": 19547,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 28,
+    "t": "Ar tai niekingas ir sudaužytas įrankis tas žmogus, tas Konijas, ar tai daiktas, kurio niekas nenori? Kodėl jie išvaryti, jis ir jo rasė, išmesti į šalį, kurios jie nepažino?"
+  },
+  {
+    "i": 19548,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 29,
+    "t": "Žeme! žeme! žeme! klausyk Viešpaties žodžio."
+  },
+  {
+    "i": 19549,
+    "b": 23,
+    "c": 2522,
+    "r": 2522,
+    "o": 30,
+    "t": "Taip kalba Viešpats: Įrašykite šį žmogų: \"Be vaikų, kažkas, kuriam nepasisekė savo laikais.\" Nes niekas iš jo rasės nepavyks sėdėti Dovydo soste ir valdyti Jude."
+  },
+  {
+    "i": 19550,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 1,
+    "t": "Vargas ganytojams, kurie praranda ir išsklaido mano ganyklos avis - Viešpaties žodis!"
+  },
+  {
+    "i": 19551,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 2,
+    "t": "Todėl taip kalba Viešpats, Izraelio Dievas, prieš ganytojus, kurie turi ganyti mano tautą: jūs išsklaidėte mano avis, jūs jas išvarėte ir nesirūpinote jomis. Na, aš pasirūpinsiu jumis už jūsų nedorus darbus, Viešpaties žodis!"
+  },
+  {
+    "i": 19552,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 3,
+    "t": "Aš pats surinksiu likusius mano avis iš visų šalių, į kurias jas išsklaidžiau, ir aš jas sugrąžinsiu į jų pievą: jos bus vaisingos ir padaugės."
+  },
+  {
+    "i": 19553,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 4,
+    "t": "Aš joms paskirsiu ganytojus, kurie jas ganys; jos daugiau nebijos ir nešiurps; nė viena nepasimes, Viešpaties žodis!"
+  },
+  {
+    "i": 19554,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 5,
+    "t": "Štai ateina dienos - Viešpaties žodis - kai aš Dovydo giminės išauginsiu teisų daigą; karalius karaliaus ir bus protingas, vykdydamas krašte teisę ir teisingumą."
+  },
+  {
+    "i": 19555,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 6,
+    "t": "Jo dienomis Judas bus išgelbėtas ir Izraelis gyvens saugiai. Štai vardas, kuriuo jis bus vadinamas: \"Viešpats-mūsų-Teisingumas."
+  },
+  {
+    "i": 19556,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 7,
+    "t": "Taip pat štai ateina dienos - Viešpaties žodis - kai daugiau nebus sakoma: \"Gyvas Viešpats, kuris išvedė izraelitus iš Egipto šalies\","
+  },
+  {
+    "i": 19557,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 8,
+    "t": "bet: \"Gyvas Viešpats, kuris išvedė ir sugrąžino Izraelio namų giminę iš šiaurės šalies ir iš visų šalių, į kurias jis juos buvo išsklaidęs, kad jie gyventų savo pačių žemėje."
+  },
+  {
+    "i": 19558,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 9,
+    "t": "Apie pranašus. Mano širdis manyje sudužo, aš drebu visais savo nariais. Aš esu kaip girtas žmogus, kaip kažkas, ką vynas pavergė, dėl Viešpaties ir jo šventų žodžių."
+  },
+  {
+    "i": 19559,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 10,
+    "t": "Nes kraštas pilnas svetimautojų; taip, dėl prakeikimo kraštas gedulingas ir dykumos ganyklos išdžiūvusios; žmonės bėga į blogį, jie eikvoja savo jėgas neteisybei."
+  },
+  {
+    "i": 19560,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 11,
+    "t": "Taip, net pranašas ir kunigas yra bedieviai, net mano Namuose aš radau jų nedorumą, Viešpaties žodis."
+  },
+  {
+    "i": 19561,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 12,
+    "t": "Taip pat jų kelias pasikeis jiems į klampynę; įsitraukę ten, į tamsą, jie ten nusivers. Nes aš atnešiu ant jų nelaimę, jų bausmės metus, Viešpaties žodis."
+  },
+  {
+    "i": 19562,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 13,
+    "t": "Samarijos pranašų tarpe aš mačiau beprotybę; jie pranašavo Baalo vardu ir klaidinio mano tautą Izraelį."
+  },
+  {
+    "i": 19563,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 14,
+    "t": "Bet Jeruzalės pranašų tarpe aš mačiau siaubą: svetimavimą, užsispyrimą melu, paramą duotą nedorėliams, kad niekas neatsiverstų nuo savo nedorumo. Jie visi man yra kaip Sodoma, o jos gyventojai - kaip Gomora!"
+  },
+  {
+    "i": 19564,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 15,
+    "t": "Todėl taip kalba Viešpats Sabaotas prieš pranašus: Štai, aš duosiu jiems valgyti pelyno ir duosiu jiems gerti užnuodyto vandens, nes, kylant iš Jeruzalės pranašų, bedievystė išplito visame krašte."
+  },
+  {
+    "i": 19565,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 16,
+    "t": "Taip kalba Viešpats Sabaotas: Neklausykite tų pranašų žodžių, kurie jums pranašauja; jie jus apgaudinėja, jie skleidžia savo širdies vizijas, nieko, kas kiltų iš Viešpaties burnos;"
+  },
+  {
+    "i": 19566,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 17,
+    "t": "jie drįsta sakyti tiems, kurie manęs nekenčia: \"Viešpats kalbėjo; jūs turėsite ramybę!\" ir visiems tiems, kurie seka savo širdies užsispyrimą: \"Jokia blogybė jums neatsitiks!"
+  },
+  {
+    "i": 19567,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 18,
+    "t": "Bet kas gi dalyvavo Viešpaties taryboje, kad matytų ir girdėtų jo žodį? Kas atkreipė dėmesį į jo žodį ir jį išgirdo?"
+  },
+  {
+    "i": 19568,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 19,
+    "t": "Štai viesulas nuo Viešpaties, jo įniršis, kuris sprogsta, viesulas siautėja, ant bedievių galvų jis įsiveržia;"
+  },
+  {
+    "i": 19569,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 20,
+    "t": "Viešpaties pyktis nenusisuks, kol jis neįvykdys ir neįgyvendins savo širdies sumanymų: Dienų pabaigoje jūs tai suprasite aiškiai!"
+  },
+  {
+    "i": 19570,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 21,
+    "t": "Aš nesiunčiau šių pranašų, ir jie bėga! Aš jiems nieko nesakiau, ir jie pranašauja!"
+  },
+  {
+    "i": 19571,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 22,
+    "t": "Jei jie būtų dalyvavę mano taryboje, jie būtų paskelbę mano žodžius mano tautai, jie būtų privertę juos atsitraukti nuo savo blogo kelio ir nuo savo veiksmų iškrypimo!"
+  },
+  {
+    "i": 19572,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 23,
+    "t": "Ar aš būsiu Dievas tik iš arti - Viešpaties žodis - iš toli aš daugiau nebūsiu Dievas?"
+  },
+  {
+    "i": 19573,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 24,
+    "t": "Ar žmogus gali įsiterpti į paslėptas vietas, kad aš jo nematytų? - Viešpaties žodis - Argi aš nepripildau dangaus ir žemės? Viešpaties žodis."
+  },
+  {
+    "i": 19574,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 25,
+    "t": "Aš išgirdau, kaip kalba pranašai, kurie pranašauja mano vardu melą, sakydami: \"Aš sapnavau! Aš sapnavau!"
+  },
+  {
+    "i": 19575,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 26,
+    "t": "Iki kada pranašų viduje bus žmonių, kurie pranašauja melą ir skelbia savo širdies apgavystę?"
+  },
+  {
+    "i": 19576,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 27,
+    "t": "Su sapnais, kuriuos jie pasakoja vienas kitam, jie stengiasi priversti mano tautą pamiršti mano Vardą; taip jų tėvai pamiršo mano Vardą Baalo naudai!"
+  },
+  {
+    "i": 19577,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 28,
+    "t": "Pranašas, kuris sapnavo, tepasakoja sapną! O tas, kuris turi iš manęs žodį, tepaskelbia ištikimai mano žodį! Kas bendro tarp šiaudų ir kviečių? - Viešpaties žodis -"
+  },
+  {
+    "i": 19578,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 29,
+    "t": "Ar mano žodis nėra kaip ugnis? - Viešpaties žodis - Ar jis nėra kaip kūjis, kuris suskaldo uolą?"
+  },
+  {
+    "i": 19579,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 30,
+    "t": "Taip pat aš imsiuosi pranašų - Viešpaties žodis - kurie vienas nuo kito vagia mano žodžius."
+  },
+  {
+    "i": 19580,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 31,
+    "t": "Štai aš prieš pranašus, – tai VIEŠPATIES žodis, – kurie pavartoja savo liežuvius ir sako: 'Tai apreiškimas!'"
+  },
+  {
+    "i": 19581,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 32,
+    "t": "Štai aš prieš tuos, kurie pranašauja melagingus sapnus, – tai VIEŠPATIES žodis, – kurie juos pasakoja ir savo melais bei įžūlumu suvedžioja mano tautą. Aš jų nesiunčiau ir neįsakiau jiems, ir jie nėra jokios naudos šiai tautai, – tai VIEŠPATIES žodis."
+  },
+  {
+    "i": 19582,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 33,
+    "t": "Kai ši tauta ar pranašas, ar kunigas tavęs paklaus: 'Kokia yra VIEŠPATIES našta?', tu atsakysi jiems: 'Jūs esate našta, kurios aš atsikratysiu, – tai VIEŠPATIES žodis!'"
+  },
+  {
+    "i": 19583,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 34,
+    "t": "Jei pranašas ar kunigas, ar kas nors iš tautos sakys: 'VIEŠPATIES našta', aš nubausiu tą žmogų ir jo namus."
+  },
+  {
+    "i": 19584,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 35,
+    "t": "Štai ką turėtumėte sakyti vienas kitam, kiekvienas savo artimui: 'Ką VIEŠPATS atsakė?' arba: 'Ką VIEŠPATS kalbėjo?'"
+  },
+  {
+    "i": 19585,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 36,
+    "t": "Bet nebesakykite 'VIEŠPATIES našta', nes kiekvienam jo paties žodis bus našta, jei iškreipsite gyvojo Dievo, Galybių VIEŠPATIES, mūsų Dievo, žodžius."
+  },
+  {
+    "i": 19586,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 37,
+    "t": "Štai kaip turėtum kalbėti pranašui: 'Ką VIEŠPATS tau atsakė?' arba: 'Ką VIEŠPATS kalbėjo?'"
+  },
+  {
+    "i": 19587,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 38,
+    "t": "Bet jei sakote 'VIEŠPATIES našta', tada taip kalba VIEŠPATS: kadangi vartojate šį posakį 'VIEŠPATIES našta', nors buvau perspėjęs jus nebesakyti 'VIEŠPATIES našta',"
+  },
+  {
+    "i": 19588,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 39,
+    "t": "todėl aš jus pakelsiu ir išmesiu nuo savo veido, jus ir miestą, kurį buvau davęs jums ir jūsų protėviams."
+  },
+  {
+    "i": 19589,
+    "b": 23,
+    "c": 2523,
+    "r": 2523,
+    "o": 40,
+    "t": "Uždėsiu jums amžiną gėdą ir nesibaigiančią negarbę, kuri niekada nebus pamiršta!"
+  },
+  {
+    "i": 19590,
+    "b": 23,
+    "c": 2524,
+    "r": 2524,
+    "o": 1,
+    "t": "VIEŠPATS man parodė du krepšius figų, padėtus prieš VIEŠPATIES Šventyklą. Tai buvo po to, kai Babilono karalius Nebukadnecaras išvedė į tremtį iš Jeruzalės Judo karalių Jechoniją, Jehojakimo sūnų, ir Judo didžiūnus, amatininkus ir kalvius ir nugabeno juos į Babiloną."
+  },
+  {
+    "i": 19591,
+    "b": 23,
+    "c": 2524,
+    "r": 2524,
+    "o": 2,
+    "t": "Viename krepšyje buvo labai geros figos, kaip ankstyvosios figos, o kitame krepšyje – labai blogos figos, tokios blogos, kad jų nebuvo galima valgyti."
+  },
+  {
+    "i": 19592,
+    "b": 23,
+    "c": 2524,
+    "r": 2524,
+    "o": 3,
+    "t": "VIEŠPATS manęs paklausė: 'Ką matai, Jeremijau?' Aš atsakiau: 'Figas. Geros yra labai geros, o blogos yra labai blogos, jų negalima valgyti'."
+  },
+  {
+    "i": 19593,
+    "b": 23,
+    "c": 2524,
+    "r": 2524,
+    "o": 4,
+    "t": "Tada man atėjo VIEŠPATIES žodis:"
+  },
+  {
+    "i": 19594,
+    "b": 23,
+    "c": 2524,
+    "r": 2524,
+    "o": 5,
+    "t": "Taip kalba VIEŠPATS, Izraelio Dievas: 'Kaip į šias geras figas, taip aš rūpinsiuosi Judo tremtiniais, kuriuos iš šios vietos išsiunčiau į chaldėjų šalį'."
+  },
+  {
+    "i": 19595,
+    "b": 23,
+    "c": 2524,
+    "r": 2524,
+    "o": 6,
+    "t": "Aš kreipsiu į juos savo akis jų gerovei, atvesiu juos atgal į šį kraštą, statysiu juos, o ne grioviu, sodinsiu juos, o ne rausiu."
+  },
+  {
+    "i": 19596,
+    "b": 23,
+    "c": 2524,
+    "r": 2524,
+    "o": 7,
+    "t": "Duosiu jiems širdį pažinti, kad aš esu VIEŠPATS. Jie bus mano tauta, o aš būsiu jų Dievas, nes jie sugrįš pas mane visa savo širdimi."
+  },
+  {
+    "i": 19597,
+    "b": 23,
+    "c": 2524,
+    "r": 2524,
+    "o": 8,
+    "t": "Bet kaip elgiamasi su blogomis figomis, kurios tokios blogos, kad jų negalima valgyti, – taip, – tai VIEŠPATIES žodis, – taip aš pasielgsiu su Judo karaliumi Zedekiju, jo didžiūnais ir likusia Jeruzale, su tais, kurie liko šiame krašte, ir su tais, kurie gyvena Egipto krašte."
+  },
+  {
+    "i": 19598,
+    "b": 23,
+    "c": 2524,
+    "r": 2524,
+    "o": 9,
+    "t": "Padarysiu juos siaubu ir nelaime visoms žemės karalystėms, pajuokos objektu, patarle, pašaipa ir prakeikimu visose vietose, į kurias juos išsklaidysiu."
+  },
+  {
+    "i": 19599,
+    "b": 23,
+    "c": 2524,
+    "r": 2524,
+    "o": 10,
+    "t": "Siųsiu prieš juos kalaviją, badą ir marą, kol jie išnyks iš krašto, kurį daviau jiems ir jų protėviams'."
+  }
+]

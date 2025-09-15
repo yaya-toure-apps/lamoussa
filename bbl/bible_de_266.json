@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26600,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 6,
+    "t": "Wer Zurechtweisung hasst, wandelt auf dem Pfad des Sünders, wer aber den Herrn fürchtet, bekehrt sich in seinem Herzen."
+  },
+  {
+    "i": 26601,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 7,
+    "t": "Der Schönredner ist allenthalben bekannt, aber der Verständige erkennt seine Schwächen."
+  },
+  {
+    "i": 26602,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 8,
+    "t": "Sein Haus mit dem Geld anderer zu bauen, ist wie Steine für sein Grab zu sammeln."
+  },
+  {
+    "i": 26603,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 9,
+    "t": "Die Versammlung der Sünder ist ein Haufen Werg, der in Flammen und Feuer enden wird."
+  },
+  {
+    "i": 26604,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 10,
+    "t": "Der Weg der Sünder ist wohl gepflastert, aber er führt in den Abgrund des Scheols."
+  },
+  {
+    "i": 26605,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 11,
+    "t": "Wer das Gesetz hält, beherrscht seine Neigung, die Vollendung der Furcht des Herrn ist die Weisheit."
+  },
+  {
+    "i": 26606,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 12,
+    "t": "Mancher kann nichts lernen aus Mangel an natürlichen Gaben, aber es gibt Gaben, die Bitterkeit erzeugen."
+  },
+  {
+    "i": 26607,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 13,
+    "t": "Die Wissenschaft des Weisen quillt über wie eine Flut, und sein Rat ist wie eine lebendige Quelle."
+  },
+  {
+    "i": 26608,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 14,
+    "t": "Das Herz des Narren ist wie ein zerbrochenes Gefäß, das keine Erkenntnis fasst."
+  },
+  {
+    "i": 26609,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 15,
+    "t": "Wenn ein Gebildeter ein weises Wort hört, schätzt er es und fügt das Seine hinzu; wenn ein Liederlicher es hört, missfällt es ihm, er wirft es hinter sich."
+  },
+  {
+    "i": 26610,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 16,
+    "t": "Die Rede des Narren wiegt wie eine Last auf der Reise, aber auf den Lippen des Weisen findet man Gnade."
+  },
+  {
+    "i": 26611,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 17,
+    "t": "Das Wort des Verständigen wird in der Versammlung gesucht, was er sagt, darüber sinnt jeder in seinem Herzen nach."
+  },
+  {
+    "i": 26612,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 18,
+    "t": "Ein Haus in Trümmern ist die Weisheit des Narren, und die Wissenschaft des Unverständigen sind zusammenhanglose Reden."
+  },
+  {
+    "i": 26613,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 19,
+    "t": "Die Züchtigung ist für den Unverständigen wie Fesseln an seinen Füßen und Handschellen an seiner rechten Hand."
+  },
+  {
+    "i": 26614,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 20,
+    "t": "Der Narr bricht in lautes Gelächter aus, das Lachen des Mannes von Verstand ist selten und diskret."
+  },
+  {
+    "i": 26615,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 21,
+    "t": "Für den Verständigen ist die Züchtigung ein goldenes Schmuckstück, ein Armband an seinem rechten Arm."
+  },
+  {
+    "i": 26616,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 22,
+    "t": "Der Narr eilt, seinen Eintritt zu machen, der Mann von Erfahrung nimmt eine bescheidene Haltung ein;"
+  },
+  {
+    "i": 26617,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 23,
+    "t": "Von der Tür aus schaut der Unverständige hinein, der Wohlerzogene bleibt draußen."
+  },
+  {
+    "i": 26618,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 24,
+    "t": "Es ist die Tat eines schlecht Erzogenen, an den Türen zu lauschen, ein Mann von Verstand spürt die Schmach."
+  },
+  {
+    "i": 26619,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 25,
+    "t": "Die Lippen des Schwätzers faseln von dem, was sie nichts angeht, die Worte der Weisen werden sorgfältig abgewogen."
+  },
+  {
+    "i": 26620,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 26,
+    "t": "Das Herz der Narren ist in ihrem Mund, aber der Mund der Weisen ist ihr Herz."
+  },
+  {
+    "i": 26621,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 27,
+    "t": "Wenn der Gottlose den Satan verflucht, verflucht er sich selbst."
+  },
+  {
+    "i": 26622,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 28,
+    "t": "Der Verleumder tut sich selbst Unrecht und wird von seiner Umgebung gehasst."
+  },
+  {
+    "i": 26623,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 1,
+    "t": "Der Faule ist wie ein beschmutzter Stein, jedermann verhöhnt ihn wegen seiner Schande."
+  },
+  {
+    "i": 26624,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 2,
+    "t": "Der Faule ist wie eine Handvoll Unrat, wer ihn berührt, schüttelt die Hand."
+  },
+  {
+    "i": 26625,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 3,
+    "t": "Es ist die Schande eines Vaters, einen schlecht erzogenen Sohn zur Welt gebracht zu haben, und wenn es eine Tochter ist, verursacht sie Schaden."
+  },
+  {
+    "i": 26626,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 4,
+    "t": "Eine verständige Tochter findet einen Ehemann, aber die unwürdige Tochter ist der Kummer dessen, der sie gezeugt hat."
+  },
+  {
+    "i": 26627,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 5,
+    "t": "Eine schamlose Tochter entehrt ihren Vater und ihren Ehemann, beide verleugnen sie."
+  },
+  {
+    "i": 26628,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 6,
+    "t": "Unangebrachte Zurechtweisungen: Musik an einem Trauertag; Peitschenhiebe und Züchtigung, das ist zu jeder Zeit die Weisheit."
+  },
+  {
+    "i": 26629,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 7,
+    "t": "Kinder, die ein ehrliches Leben führen und an nichts Mangel haben, lassen die dunkle Herkunft ihrer Eltern vergessen."
+  },
+  {
+    "i": 26630,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 8,
+    "t": "Verächtliche, schlecht erzogene, von Stolz erfüllte Kinder beschmutzen den Adel ihrer Familie."
+  },
+  {
+    "i": 26631,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 9,
+    "t": "Es ist, wie Scherben zusammenzukleben, einen Narren zu belehren, es ist, wie einen vom Schlaf Betäubten aufzuwecken."
+  },
+  {
+    "i": 26632,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 10,
+    "t": "Einen Narren zu belehren ist, wie einen Schläfrigen zu belehren, am Ende wird er sagen: \"Worum geht es?"
+  },
+  {
+    "i": 26633,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 11,
+    "t": "Beweine einen Toten: er hat das Licht verloren, beweine einen Unverständigen: er hat den Verstand verloren; beweine den Toten leiser, denn er hat Ruhe gefunden, für den Unverständigen ist das Leben trauriger als der Tod."
+  },
+  {
+    "i": 26634,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 12,
+    "t": "Für einen Toten dauert die Trauer sieben Tage, für den Unverständigen und den Gottlosen alle Tage ihres Lebens."
+  },
+  {
+    "i": 26635,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 13,
+    "t": "Halte keine langen Reden zu dem Unverständigen, geh nicht auf den Narren zu, denn er wird dich, unempfindlich wie er ist, mit Verachtung überschütten, hüte dich vor ihm, um keinen Ärger zu haben, um dich nicht an seinem Kontakt zu beschmutzen. Wende dich von ihm ab, du wirst Ruhe finden, seine Abschweifungen werden dich nicht langweilen."
+  },
+  {
+    "i": 26636,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 14,
+    "t": "Was ist schwerer als Blei? Wie nennt man das? Den Unverständigen."
+  },
+  {
+    "i": 26637,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 15,
+    "t": "Sand, Salz, die Masse des Eisens sind leichter zu tragen als der Unverständige."
+  },
+  {
+    "i": 26638,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 16,
+    "t": "Ein Holzgerüst, das in einem Bau zusammengefügt ist, lässt sich nicht durch ein Erdbeben lösen; ein entschlossenes Herz lässt sich nach reiflicher Überlegung in der Stunde der Gefahr nicht bewegen."
+  },
+  {
+    "i": 26639,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 17,
+    "t": "Ein Herz, das auf einer weisen Überlegung beruht, ist wie ein gemeißeltes Ornament an einer polierten Wand."
+  },
+  {
+    "i": 26640,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 18,
+    "t": "Kleine Kieselsteine auf der Spitze einer Mauer widerstehen nicht dem Wind: Das Herz des Narren, das von seinen Einbildungen erschreckt wird, kann der Angst nicht widerstehen."
+  },
+  {
+    "i": 26641,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 19,
+    "t": "Wenn man das Auge schlägt, fließen Tränen, wenn man das Herz schlägt, kommen die Gefühle zum Vorschein."
+  },
+  {
+    "i": 26642,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 20,
+    "t": "Wer einen Stein auf Vögel wirft, lässt sie davonfliegen, wer seinem Freund einen Vorwurf macht, tötet die Freundschaft."
+  },
+  {
+    "i": 26643,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 21,
+    "t": "Wenn du das Schwert gegen deinen Freund gezogen hast, verzweifle nicht: er kann zurückkehren;"
+  },
+  {
+    "i": 26644,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 22,
+    "t": "Wenn du deinen Mund gegen deinen Freund aufgetan hast, fürchte dich nicht: Eine Versöhnung ist möglich, außer im Fall von Beleidigung, Verachtung, Verrat eines Geheimnisses, heimtückischem Schlag, denn dann wird jeder Freund weggehen. "
+  },
+  {
+    "i": 26645,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 23,
+    "t": "Gewinne das Vertrauen deines Nächsten in seiner Armut, damit du dich in seinem Wohlstand mit ihm an seinen Gütern erfreuen kannst; bleibe ihm in Tagen der Prüfung treu, damit du, wenn er erbt, deinen Anteil am Erbe erhältst. Denn man darf niemals die Konturen verachten noch einen reichen Menschen ohne Verstand bewundern."
+  },
+  {
+    "i": 26646,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 24,
+    "t": "Vor den Flammen sieht man den Dampf des Brandes und den Rauch; so gehen vor dem Blut die Beschimpfungen her."
+  },
+  {
+    "i": 26647,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 25,
+    "t": "Ich werde mich nicht schämen, einen Freund zu beschützen, und ich werde mich nicht vor ihm verstecken;"
+  },
+  {
+    "i": 26648,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 26,
+    "t": "Und wenn mir durch ihn etwas Schlimmes widerfährt, werden sich alle, die es erfahren, vor ihm hüten."
+  },
+  {
+    "i": 26649,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 27,
+    "t": "Wer wird meiner Zunge eine Wache vor mein Maul setzen und auf meine Lippen das Siegel der Unterscheidung, damit ich nicht durch sie strauchele, damit meine Zunge nicht meinen Untergang verursache?"
+  },
+  {
+    "i": 26650,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 1,
+    "t": "Herr, Vater und Meister meines Lebens, lass mich nicht durch sie straucheln."
+  },
+  {
+    "i": 26651,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 2,
+    "t": "Wer wird meine Gedanken mit der Peitsche züchtigen und meinem Herzen die Zucht der Weisheit auferlegen, damit man meine Fehler nicht verschont und meine Sünden nicht entgehen?"
+  },
+  {
+    "i": 26652,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 3,
+    "t": "Damit sich meine Fehler nicht mehren und meine Sünden nicht überhandnehmen, damit ich nicht in die Hände meiner Widersacher falle und mein Feind mich nicht verspottet. Weit entfernt von ihnen ist die Hoffnung auf deine Barmherzigkeit."
+  },
+  {
+    "i": 26653,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 4,
+    "t": "Herr, Vater und Gott meines Lebens, überlass mich nicht ihrer Willkür, lass meine Blicke nicht unverschämt sein,"
+  },
+  {
+    "i": 26654,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 5,
+    "t": "wende die Begierde von mir ab,"
+  },
+  {
+    "i": 26655,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 6,
+    "t": "dass sich der sexuelle Appetit und die Wollust nicht meiner bemächtigen, liefere mich nicht der unverschämten Begierde aus."
+  },
+  {
+    "i": 26656,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 7,
+    "t": "Hört, meine Kinder, eine Unterweisung über den Mund, wer ihn hütet, wird nicht zuschanden werden."
+  },
+  {
+    "i": 26657,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 8,
+    "t": "Der Sünder wird von seinen eigenen Lippen gefangen, sie lassen den Verleumder und den Stolzen fallen."
+  },
+  {
+    "i": 26658,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 9,
+    "t": "Gewöhne deinen Mund nicht an das Schwören, gewöhne dich nicht an, den Namen des Heiligen auszusprechen."
+  },
+  {
+    "i": 26659,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 10,
+    "t": "Denn so wie ein Diener, der ständig überwacht wird, den Schlägen nicht entgehen wird, so wird auch derjenige, der schwört und den Namen zu Unrecht und kreuz und quer anruft, nicht ohne Schuld sein."
+  },
+  {
+    "i": 26660,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 11,
+    "t": "Ein Mensch, der mit Schwüren um sich wirft, ist voller Gottlosigkeit, und die Plage wird sich nicht von seinem Haus entfernen. Wenn er sündigt, wird seine Schuld auf ihm lasten; wenn er leichtfertig gehandelt hat, hat er doppelt gesündigt; wenn er einen falschen Eid geschworen hat, wird er nicht gerechtfertigt werden, denn sein Haus wird voller Unheil sein."
+  },
+  {
+    "i": 26661,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 12,
+    "t": "Es gibt eine Art zu sprechen, die dem Tod ähnelt, sie soll nicht im Erbe Jakobs üblich sein, denn die frommen Menschen weisen all dies zurück, sie suhlen sich nicht in der Sünde."
+  },
+  {
+    "i": 26662,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 13,
+    "t": "Gewöhne deinen Mund nicht an die grobe Unreinheit, wo sich das Wort der Sünde befindet."
+  },
+  {
+    "i": 26663,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 14,
+    "t": "Gedenke deines Vaters und deiner Mutter, wenn du inmitten der Großen sitzt, damit du dich nicht in ihrer Gegenwart vergisst, dich nicht wie ein Narr benimmst und nicht so weit kommst, dir zu wünschen, nicht geboren zu sein und den Tag deiner Geburt zu verfluchen."
+  },
+  {
+    "i": 26664,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 15,
+    "t": "Ein Mensch, der an tadelnswerte Worte gewöhnt ist, wird sich sein Leben lang nicht bessern."
+  },
+  {
+    "i": 26665,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 16,
+    "t": "Zwei Arten von Wesen mehren die Sünden, und die dritte zieht den Zorn auf sich: Die brennende Leidenschaft wie ein Brand: Sie wird nicht erlöschen, bis sie gestillt ist; der Mensch, der sein eigenes Fleisch begehrt: Er wird nicht aufhören, bis das Feuer ihn verzehrt;"
+  },
+  {
+    "i": 26666,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 17,
+    "t": "Für den unzüchtigen Menschen ist jede Nahrung süß, er wird sich erst in seinem Tod beruhigen."
+  },
+  {
+    "i": 26667,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 18,
+    "t": "Der Mensch, der seinem eigenen Lager untreu ist, der in seinem Herzen sagt: \"Wer sieht mich? Der Schatten umgibt mich, die Mauern schützen mich, niemand sieht mich, was sollte ich fürchten? Der Allerhöchste wird sich meiner Fehler nicht erinnern."
+  },
+  {
+    "i": 26668,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 19,
+    "t": "Was er fürchtet, sind die Augen der Menschen, er weiß nicht, dass die Augen des Herrn zehntausendmal heller sind als die Sonne, dass sie alle Handlungen der Menschen beobachten und in die geheimsten Winkel eindringen."
+  },
+  {
+    "i": 26669,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 20,
+    "t": "Bevor er schuf, waren ihm alle Dinge bekannt, sie sind es auch nach ihrer Vollendung."
+  },
+  {
+    "i": 26670,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 21,
+    "t": "Inmitten der Stadt wird dieser Mann bestraft werden, wenn er es am wenigsten erwartet, wird er gefasst werden."
+  },
+  {
+    "i": 26671,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 22,
+    "t": "So ist es auch mit der Frau, die ihrem Mann untreu ist und ihm einen Erben bringt, der von einem Fremden gezeugt wurde."
+  },
+  {
+    "i": 26672,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 23,
+    "t": "Zunächst hat sie dem Gesetz des Allerhöchsten nicht gehorcht, dann ist sie schuldig an ihrem Mann; drittens hat sie sich durch Ehebruch beschmutzt und Kinder von einem Fremden empfangen."
+  },
+  {
+    "i": 26673,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 24,
+    "t": "Sie wird vor die Versammlung zitiert werden, und man wird ihre Kinder untersuchen."
+  },
+  {
+    "i": 26674,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 25,
+    "t": "Ihre Kinder werden keine Wurzeln haben, ihre Zweige werden keine Frucht tragen."
+  },
+  {
+    "i": 26675,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 26,
+    "t": "Sie wird ein Andenken an Verfluchung hinterlassen, und ihre Schande wird niemals ausgelöscht werden."
+  },
+  {
+    "i": 26676,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 27,
+    "t": "Und die, die nach ihr kommen, werden wissen, dass nichts der Furcht des Herrn gleichkommt und dass nichts süßer ist, als sich an die Gebote des Herrn zu halten."
+  },
+  {
+    "i": 26677,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 28,
+    "t": "Gott nachzufolgen ist eine große Ehre; es verlängert deine Tage, von ihm aufgenommen zu werden."
+  },
+  {
+    "i": 26678,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 1,
+    "t": "Die Weisheit lobt sich selbst, inmitten ihres Volkes zeigt sie ihren Stolz."
+  },
+  {
+    "i": 26679,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 2,
+    "t": "In der Versammlung des Allerhöchsten öffnet sie den Mund, und vor seiner Macht zeigt sie ihren Stolz."
+  },
+  {
+    "i": 26680,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 3,
+    "t": "\"Ich bin aus dem Munde des Allerhöchsten hervorgegangen, und wie ein Nebel habe ich die Erde bedeckt."
+  },
+  {
+    "i": 26681,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 4,
+    "t": "Ich habe in den Himmeln gewohnt, und mein Thron war eine Wolkensäule."
+  },
+  {
+    "i": 26682,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 5,
+    "t": "Ich allein habe den Kreis des Himmels umrundet, ich habe die Tiefe der Abgründe durchwandert."
+  },
+  {
+    "i": 26683,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 6,
+    "t": "In den Fluten des Meeres, auf der ganzen Erde, unter allen Völkern und allen Nationen habe ich geherrscht."
+  },
+  {
+    "i": 26684,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 7,
+    "t": "Unter ihnen allen habe ich Ruhe gesucht, ich habe gesucht, in welchem Erbe ich mich niederlassen sollte."
+  },
+  {
+    "i": 26685,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 8,
+    "t": "Da gab mir der Schöpfer des Universums einen Befehl, der mich erschaffen hat, hat mich mein Zelt aufschlagen lassen. Er sprach zu mir: \"Lass dich in Jakob nieder, in Israel empfange dein Erbe."
+  },
+  {
+    "i": 26686,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 9,
+    "t": "Vor den Zeiten, vom Anbeginn hat er mich erschaffen, ewig werde ich bestehen."
+  },
+  {
+    "i": 26687,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 10,
+    "t": "Im heiligen Zelt, in seiner Gegenwart, habe ich meinen Dienst verrichtet; so habe ich mich in Zion etabliert,"
+  },
+  {
+    "i": 26688,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 11,
+    "t": "und in der geliebten Stadt habe ich meine Ruhe gefunden, in Jerusalem übe ich meine Macht aus."
+  },
+  {
+    "i": 26689,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 12,
+    "t": "Ich habe Wurzeln geschlagen bei einem Volk voller Herrlichkeit, im Besitz des Herrn befindet sich mein Erbe."
+  },
+  {
+    "i": 26690,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 13,
+    "t": "Ich bin aufgewachsen wie die Zeder des Libanon, wie die Zypresse auf dem Berg Hermon."
+  },
+  {
+    "i": 26691,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 14,
+    "t": "Ich bin aufgewachsen wie die Palme von Engaddi, wie die Rosenpflanzen von Jericho, wie ein herrlicher Olivenbaum in der Ebene, ich bin aufgewachsen wie eine Platane."
+  },
+  {
+    "i": 26692,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 15,
+    "t": "Wie Zimt und Akazie habe ich Duft gegeben, wie eine auserlesene Myrrhe habe ich parfümiert, wie Galbanum, Onyx, Ladanum, wie der Weihrauchdampf im Zelt."
+  },
+  {
+    "i": 26693,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 16,
+    "t": "Ich habe meine Zweige ausgebreitet wie die Terebinthe, es sind Zweige der Herrlichkeit und Gnade."
+  },
+  {
+    "i": 26694,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 17,
+    "t": "Ich bin wie ein Weinstock mit anmutigen Ranken, und meine Blüten sind Produkte der Herrlichkeit und des Reichtums."
+  },
+  {
+    "i": 26695,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 18,
+    "t": "Ich bin die Mutter der schönen Liebe und der Furcht, der Erkenntnis und der heiligen Hoffnung. Allen meinen Kindern gebe ich ewige Güter, denen, die er auserwählt hat."
+  },
+  {
+    "i": 26696,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 19,
+    "t": "Kommt zu mir, ihr, die ihr mich begehrt; und sättigt euch an meinen Produkten."
+  },
+  {
+    "i": 26697,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 20,
+    "t": "Denn mein Andenken ist süßer als Honig, mein Erbe süßer als eine Honigwabe."
+  },
+  {
+    "i": 26698,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 21,
+    "t": "Die mich essen, werden noch Hunger haben, die mich trinken, werden noch Durst haben."
+  },
+  {
+    "i": 26699,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 22,
+    "t": "Wer mir gehorcht, wird sich nicht schämen müssen, und die durch mich wirken, werden nicht sündigen."
+  }
+]

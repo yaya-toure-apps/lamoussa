@@ -1,0 +1,802 @@
+[
+  {
+    "i": 6400,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 20,
+    "t": "Quant aux clans des fils de Qehat, aux Lévites qui restaient parmi les fils de Qehat, les villes de leur lot furent prises sur la tribu d’Éphraïm."
+  },
+  {
+    "i": 6401,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 21,
+    "t": "On leur donna Sichem, ville de refuge pour le meurtrier, avec ses pâturages, dans la montagne d’Éphraïm, ainsi que Gézer et ses pâturages,"
+  },
+  {
+    "i": 6402,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 22,
+    "t": "Qibçayim et ses pâturages, et Bet-Horôn et ses pâturages : quatre villes."
+  },
+  {
+    "i": 6403,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 23,
+    "t": "De la tribu de Dan, Elteqé et ses pâturages, Gibbetôn et ses pâturages,"
+  },
+  {
+    "i": 6404,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 24,
+    "t": "Ayyalôn et ses pâturages, et Gat-Rimmôn et ses pâturages : quatre villes."
+  },
+  {
+    "i": 6405,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 25,
+    "t": "De la demi-tribu de Manassé, Tanak et ses pâturages, et Yibleam et ses pâturages : deux villes."
+  },
+  {
+    "i": 6406,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 26,
+    "t": "Total : dix villes avec leurs pâturages pour les clans qui restaient parmi les fils de Qehat."
+  },
+  {
+    "i": 6407,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 27,
+    "t": "Aux fils de Gershôn, de clans lévitiques, on donna, de la demi-tribu de Manassé, Golân en Bashân, ville de refuge pour le meurtrier, et Ashtarot, avec leurs pâturages : deux villes."
+  },
+  {
+    "i": 6408,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 28,
+    "t": "De la tribu d’Issachar, Qishyôn et ses pâturages, Daberat et ses pâturages,"
+  },
+  {
+    "i": 6409,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 29,
+    "t": "Yarmut et ses pâturages, et En-Gannim et ses pâturages : quatre villes."
+  },
+  {
+    "i": 6410,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 30,
+    "t": "De la tribu d’Asher, Mishéal et ses pâturages, Abdôn et ses pâturages,"
+  },
+  {
+    "i": 6411,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 31,
+    "t": "Helqat et ses pâturages, et Rehob et ses pâturages : quatre villes."
+  },
+  {
+    "i": 6412,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 32,
+    "t": "De la tribu de Nephtali, Qédesh en Galilée, ville de refuge pour le meurtrier, avec ses pâturages, Hammot-Dor et ses pâturages, et Qartân et ses pâturages : trois villes."
+  },
+  {
+    "i": 6413,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 33,
+    "t": "Total des villes des Gershonites, selon leurs clans : treize villes et leurs pâturages."
+  },
+  {
+    "i": 6414,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 34,
+    "t": "Au clan des fils de Merari, au reste des Lévites, échurent de la tribu de Zabulon Yoqnéam et ses pâturages, Qarta et ses pâturages,"
+  },
+  {
+    "i": 6415,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 35,
+    "t": "Rimmôn et ses pâturages, et Nahalal et ses pâturages : quatre villes."
+  },
+  {
+    "i": 6416,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 36,
+    "t": "De l’autre côté du Jourdain de Jéricho, de la tribu de Ruben, Béçèr dans le désert, sur le plateau, ville de refuge pour le meurtrier, avec ses pâturages, Yahaç et ses pâturages,"
+  },
+  {
+    "i": 6417,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 37,
+    "t": "Qedémot et ses pâturages, et Méphaat et ses pâturages : quatre villes."
+  },
+  {
+    "i": 6418,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 38,
+    "t": "De la tribu de Gad, Ramot en Galaad, ville de refuge pour le meurtrier, avec ses pâturages, Mahanayim et ses pâturages,"
+  },
+  {
+    "i": 6419,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 39,
+    "t": "Heshbôn et ses pâturages, et Yazèr et ses pâturages : quatre villes."
+  },
+  {
+    "i": 6420,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 40,
+    "t": "Total des villes qui furent le lot des fils de Merari selon leurs clans, du reste des clans lévitiques : douze villes."
+  },
+  {
+    "i": 6421,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 41,
+    "t": "Le nombre total des villes des Lévites au milieu du domaine des Israélites était de 48 villes avec leurs pâturages."
+  },
+  {
+    "i": 6422,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 42,
+    "t": "Ces villes comprenaient chacune la ville et ses pâturages alentour. Il en allait ainsi pour toutes les villes."
+  },
+  {
+    "i": 6423,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 43,
+    "t": "C’est ainsi que Yahvé donna aux Israélites tout le pays qu’il avait juré de donner à leurs pères. Ils en prirent possession et s’y établirent."
+  },
+  {
+    "i": 6424,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 44,
+    "t": "Yahvé leur procura la tranquillité sur toutes leurs frontières, tout comme il l’avait juré à leurs pères et, de tous leurs ennemis, aucun ne réussit à tenir devant eux. Tous leurs ennemis, Yahvé les livra entre leurs mains."
+  },
+  {
+    "i": 6425,
+    "b": 5,
+    "c": 621,
+    "r": 621,
+    "o": 45,
+    "t": "De toutes les promesses que Yahvé avait faites à la maison d’Israël, aucune ne manqua son effet : tout se réalisa."
+  },
+  {
+    "i": 6426,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 1,
+    "t": "Josué convoqua les Rubénites, les Gadites et la demi-tribu de Manassé"
+  },
+  {
+    "i": 6427,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 2,
+    "t": "et leur dit : \"Vous avez observé tout ce que Moïse, serviteur de Yahvé, vous a ordonné, et vous avez écouté ma voix chaque fois que je vous ai donné un ordre."
+  },
+  {
+    "i": 6428,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 3,
+    "t": "Vous n’avez pas abandonné vos frères, depuis longtemps jusqu’aujourd’hui, gardant l’observance du commandement de Yahvé votre Dieu."
+  },
+  {
+    "i": 6429,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 4,
+    "t": "Maintenant Yahvé votre Dieu a procuré à vos frères le repos qu’il leur avait promis. Retournez donc à vos tentes, au pays où vous vous êtes fixés et que Moïse, serviteur de Yahvé, vous a donné au-delà du Jourdain."
+  },
+  {
+    "i": 6430,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 5,
+    "t": "Seulement, prenez bien soin de mettre en pratique le commandement et la Loi que Moïse, serviteur de Yahvé, vous a prescrits : d’aimer Yahvé votre Dieu, de suivre toujours ses voies, d’observer ses commandements, de vous attacher à lui et de le servir de tout votre cœur et de toute votre âme.\""
+  },
+  {
+    "i": 6431,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 6,
+    "t": "Josué les bénit et les renvoya ; et ils s’en allèrent à leurs tentes."
+  },
+  {
+    "i": 6432,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 7,
+    "t": "Moïse avait donné à une moitié de la tribu de Manassé un territoire en Bashân ; à la seconde moitié, Josué en donna un autre au milieu de ses frères, sur la rive occidentale du Jourdain. Comme il les renvoyait à leurs tentes, Josué les bénit"
+  },
+  {
+    "i": 6433,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 8,
+    "t": "et leur dit : \"Vous retournerez à vos tentes avec de grandes richesses, du bétail à foison, de l’argent, de l’or, du bronze, du fer et des vêtements en très grande quantité ; partagez avec vos frères les dépouilles de vos ennemis.\""
+  },
+  {
+    "i": 6434,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 9,
+    "t": "Les fils de Ruben et les fils de Gad s’en retournèrent avec la demi-tribu de Manassé et quittèrent les Israélites à Silo, dans le pays de Canaan, pour s’en aller au pays de Galaad où ils s’étaient fixés, suivant l’ordre de Yahvé transmis par Moïse."
+  },
+  {
+    "i": 6435,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 10,
+    "t": "Lorsqu’ils furent arrivés aux cercles de pierres du Jourdain, qui sont au pays de Canaan, les fils de Ruben, les fils de Gad et la demi-tribu de Manassé bâtirent là un autel sur le bord du Jourdain, un autel de grande apparence."
+  },
+  {
+    "i": 6436,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 11,
+    "t": "Le fait parvint aux oreilles des Israélites. Voici, disait-on, que les fils de Ruben, les fils de Gad et la demi-tribu de Manassé ont construit cet autel, du côté du pays de Canaan, vers les cercles de pierres du Jourdain, sur la rive des Israélites."
+  },
+  {
+    "i": 6437,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 12,
+    "t": "À cette nouvelle toute la communauté des Israélites se réunit à Silo pour marcher contre eux et leur faire la guerre."
+  },
+  {
+    "i": 6438,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 13,
+    "t": "Les Israélites envoyèrent auprès des fils de Ruben, des fils de Gad et de la demi-tribu de Manassé, au pays de Galaad, le prêtre Pinhas, fils d’Eléazar,"
+  },
+  {
+    "i": 6439,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 14,
+    "t": "et avec lui dix notables, un notable par famille pour chaque tribu d’Israël, chacun d’eux étant chef de sa famille parmi les clans d’Israël."
+  },
+  {
+    "i": 6440,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 15,
+    "t": "Parvenus chez les fils de Ruben, chez les fils de Gad et dans la demi-tribu de Manassé au pays de Galaad, ils leur dirent :"
+  },
+  {
+    "i": 6441,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 16,
+    "t": "\"Ainsi parle toute la communauté de Yahvé : Que signifie cette infidélité que vous avez commise envers le Dieu d’Israël, vous détournant aujourd’hui de Yahvé et vous bâtissant un autel, ce qui est aujourd’hui une rébellion contre Yahvé ?"
+  },
+  {
+    "i": 6442,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 17,
+    "t": "\"N’était-ce donc pas assez pour nous du crime de Péor, dont nous n’avons pas encore réussi à nous purifier jusqu’à présent, en dépit du fléau qui a sévi contre toute la communauté de Yahvé ?"
+  },
+  {
+    "i": 6443,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 18,
+    "t": "Or vous vous détournez aujourd’hui de Yahvé, et puisqu’aujourd’hui vous vous révoltez contre Yahvé, demain sa colère va s’enflammer contre toute la communauté d’Israël."
+  },
+  {
+    "i": 6444,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 19,
+    "t": "\"Le pays où vous vous êtes fixés est-il impur ? Passez dans le pays où s’est fixé Yahvé, là où s’est installée sa demeure, et fixez-vous parmi nous. Mais ne vous révoltez pas contre Yahvé et ne nous entraînez pas dans votre rébellion en vous bâtissant un autel rival de l’autel de Yahvé notre Dieu."
+  },
+  {
+    "i": 6445,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 20,
+    "t": "Lorsque Akân, fils de Zérah, fut infidèle dans l’affaire de l’anathème, la Colère n’atteignit-elle pas la communauté d’Israël entière, quoiqu’il ne fût qu’un seul individu ? Ne dut-il pas mourir pour son crime ?\""
+  },
+  {
+    "i": 6446,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 21,
+    "t": "Les fils de Ruben, les fils de Gad et la demi-tribu de Manassé, prenant la parole, répondirent aux chefs des clans d’Israël :"
+  },
+  {
+    "i": 6447,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 22,
+    "t": "\"Le Dieu des dieux, Yahvé, le Dieu des dieux, Yahvé le sait bien, et Israël doit le savoir : s’il y a eu de notre part rébellion ou infidélité à l’égard de Yahvé, qu’il refuse de nous sauver aujourd’hui,"
+  },
+  {
+    "i": 6448,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 23,
+    "t": "et si nous avons bâti un autel pour nous détourner de Yahvé et pour y offrir l’holocauste et l’oblation, ou pour y faire des sacrifices de communion, que Yahvé en demande compte !"
+  },
+  {
+    "i": 6449,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 24,
+    "t": "En vérité, c’est par un souci motivé que nous avons agi ainsi : Demain, vos fils pourraient dire aux nôtres : Qu’y a-t-il de commun entre vous et Yahvé, le Dieu d’Israël ?"
+  },
+  {
+    "i": 6450,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 25,
+    "t": "Yahvé n’a-t-il pas mis entre nous et vous, fils de Ruben et fils de Gad, une frontière qui est le Jourdain ? Vous n’avez aucune part sur Yahvé. Ainsi vos fils seraient cause que les nôtres cesseraient de craindre Yahvé."
+  },
+  {
+    "i": 6451,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 26,
+    "t": "\"Aussi nous sommes-nous dit : Bâtissons-nous cet autel destiné non à des holocaustes ni à d’autres sacrifices,"
+  },
+  {
+    "i": 6452,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 27,
+    "t": "mais à servir de témoin entre nous et vous et entre nos descendants après nous, attestant qu’on célèbre le culte de Yahvé avec nos holocaustes, nos victimes et nos sacrifices de communion en sa présence. Vos fils ne pourront donc pas dire demain aux nôtres : Vous n’avez aucune part sur Yahvé !"
+  },
+  {
+    "i": 6453,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 28,
+    "t": "Et nous nous sommes dit : S’il leur arrivait toutefois de dire cela soit à nous-mêmes, soit demain à nos descendants, nous répondrions : Regardez la bâtisse de l’autel de Yahvé que nos pères ont fait, non en vue d’holocaustes ou d’autres sacrifices, mais comme un témoin entre nous et vous."
+  },
+  {
+    "i": 6454,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 29,
+    "t": "Loin de nous de nous révolter contre Yahvé et de nous détourner aujourd’hui de derrière Yahvé en bâtissant, pour y offrir holocaustes, oblations ou sacrifices, un autel rival de l’autel de Yahvé notre Dieu, érigé devant sa demeure.\""
+  },
+  {
+    "i": 6455,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 30,
+    "t": "Quand le prêtre Pinhas, les notables de la communauté et les chefs des clans d’Israël qui l’accompagnaient eurent entendu les paroles prononcées par les fils de Gad, les fils de Ruben et les fils de Manassé, ils les approuvèrent."
+  },
+  {
+    "i": 6456,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 31,
+    "t": "Alors le prêtre Pinhas, fils d’Eléazar, dit aux fils de Ruben, aux fils de Gad et aux fils de Manassé : \"Nous savons aujourd’hui que Yahvé est au milieu de nous, puisque vous n’avez pas commis une telle infidélité à son égard ; dès lors, vous avez préservé les Israélites du châtiment de Yahvé.\""
+  },
+  {
+    "i": 6457,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 32,
+    "t": "Le prêtre Pinhas, fils d’Eléazar, et les notables, ayant quitté les fils de Ruben et les fils de Gad, revinrent du pays de Galaad dans le pays de Canaan, auprès des Israélites auxquels ils rapportèrent la réponse."
+  },
+  {
+    "i": 6458,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 33,
+    "t": "La chose plut aux Israélites ; les Israélites rendirent grâces à Dieu et ne parlèrent plus de monter contre eux pour leur faire la guerre et ravager le pays habité par les fils de Ruben et les fils de Gad."
+  },
+  {
+    "i": 6459,
+    "b": 5,
+    "c": 622,
+    "r": 622,
+    "o": 34,
+    "t": "Les fils de Ruben et les fils de Gad appelèrent l’autel..., \"car, disaient-ils, il sera un témoin entre nous que c’est Yahvé qui est Dieu.\""
+  },
+  {
+    "i": 6460,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 1,
+    "t": "Or, longtemps après que Yahvé eut procuré le repos à Israël, au milieu de tous les ennemis qui l’entouraient — Josué était devenu vieux, il était avancé en âge —,"
+  },
+  {
+    "i": 6461,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 2,
+    "t": "Josué convoqua tout Israël, ses anciens, ses chefs, ses juges et ses scribes, et leur dit : \"Pour moi, je suis vieux et avancé en âge ;"
+  },
+  {
+    "i": 6462,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 3,
+    "t": "pour vous, vous avez vu tout ce que Yahvé a fait à cause de vous à toutes ces populations ; c’est Yahvé votre Dieu qui a combattu pour vous."
+  },
+  {
+    "i": 6463,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 4,
+    "t": "Voyez, j’ai tiré au sort pour vous, comme héritage pour vos tribus, ces populations qui restent, et toutes les populations que j’ai exterminées depuis le Jourdain jusqu’à la Grande mer à l’occident."
+  },
+  {
+    "i": 6464,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 5,
+    "t": "Yahvé votre Dieu les chassera lui-même devant vous, il les dépossédera devant vous et vous prendrez possession de leur pays, comme vous l’a dit Yahvé votre Dieu."
+  },
+  {
+    "i": 6465,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 6,
+    "t": "\"Montrez-vous donc très forts pour garder et accomplir tout ce qui est écrit dans le livre de la Loi de Moïse sans vous en écarter ni à droite ni à gauche,"
+  },
+  {
+    "i": 6466,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 7,
+    "t": "sans vous mêler à ces populations qui subsistent encore à côté de vous. Vous ne prononcerez pas le nom de leurs dieux, vous ne les invoquerez pas dans vos serments, vous ne les servirez pas et vous ne vous prosternerez pas devant eux."
+  },
+  {
+    "i": 6467,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 8,
+    "t": "Au contraire, vous vous attacherez à Yahvé votre Dieu, comme vous l’avez fait jusqu’à ce jour."
+  },
+  {
+    "i": 6468,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 9,
+    "t": "Yahvé a dépossédé devant vous des populations grandes et fortes, et personne n’a pu, jusqu’à présent, vous tenir tête."
+  },
+  {
+    "i": 6469,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 10,
+    "t": "Un seul d’entre vous pouvait en poursuivre mille, car Yahvé votre Dieu combattait lui-même pour vous, comme il vous l’avait dit."
+  },
+  {
+    "i": 6470,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 11,
+    "t": "Vous prendrez bien soin, car il y va de votre vie, d’aimer Yahvé votre Dieu."
+  },
+  {
+    "i": 6471,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 12,
+    "t": "\"Mais s’il vous arrive de vous détourner et de vous lier au restant de ces populations qui subsistent encore à côté de vous, de contracter mariage avec elles, de vous mêler à elles et elles à vous,"
+  },
+  {
+    "i": 6472,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 13,
+    "t": "alors sachez bien que Yahvé votre Dieu cessera de déposséder devant vous ces populations : elles seront pour vous un filet, un piège, des épines dans vos flancs et des chardons dans vos yeux, jusqu’à ce que vous ayez disparu de ce bon sol que vous avait donné Yahvé votre Dieu."
+  },
+  {
+    "i": 6473,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 14,
+    "t": "\"Voici que je m’en vais aujourd’hui par le chemin de tout le monde. Reconnaissez de tout votre cœur et de toute votre âme que, de toutes les promesses que Yahvé votre Dieu avait faites en votre faveur, pas une n’a manqué son effet : tout s’est réalisé pour vous, pas une n’a manqué son effet."
+  },
+  {
+    "i": 6474,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 15,
+    "t": "\"Eh bien ! de même que toute promesse faite par Yahvé votre Dieu en votre faveur s’est réalisée pour vous, de même Yahvé réalisera contre vous toutes ses menaces, jusqu’à vous chasser de ce bon sol que Yahvé votre Dieu vous a donné."
+  },
+  {
+    "i": 6475,
+    "b": 5,
+    "c": 623,
+    "r": 623,
+    "o": 16,
+    "t": "\"Si en effet vous transgressez l’alliance que Yahvé votre Dieu vous a imposée, si vous allez servir d’autres dieux, si vous vous prosternez devant eux, alors la colère de Yahvé s’enflammera contre vous et vous disparaîtrez rapidement du bon pays qu’il vous a donné.\""
+  },
+  {
+    "i": 6476,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 1,
+    "t": "Josué réunit toutes les tribus d’Israël à Sichem ; puis il convoqua tous les anciens d’Israël, ses chefs, ses juges, ses scribes qui se rangèrent en présence de Dieu."
+  },
+  {
+    "i": 6477,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 2,
+    "t": "Josué dit alors à tout le peuple : \"Ainsi parle Yahvé, le Dieu d’Israël : Au-delà du Fleuve habitaient jadis vos pères, Térah, père d’Abraham et de Nahor, et ils servaient d’autres dieux."
+  },
+  {
+    "i": 6478,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 3,
+    "t": "Alors je pris votre père Abraham d’au-delà du Fleuve et je lui fis parcourir toute la terre de Canaan, je multipliai sa descendance et je lui donnai Isaac."
+  },
+  {
+    "i": 6479,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 4,
+    "t": "À Isaac, je donnai Jacob et Ésaü. À Ésaü, je donnai en possession la montagne de Séïr. Jacob et ses fils descendirent en Égypte."
+  },
+  {
+    "i": 6480,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 5,
+    "t": "J’envoyai ensuite Moïse et Aaron et frappai l’Égypte par les prodiges que j’opérai au milieu d’elle ; ensuite je vous en fis sortir."
+  },
+  {
+    "i": 6481,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 6,
+    "t": "Je fis donc sortir vos pères de l’Égypte et vous arrivâtes à la mer ; les Égyptiens poursuivirent vos pères avec des chars et des cavaliers, à la mer des Roseaux."
+  },
+  {
+    "i": 6482,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 7,
+    "t": "Ils crièrent alors vers Yahvé qui étendit un brouillard épais entre vous et les Égyptiens, et fit revenir sur eux la mer qui les recouvrit. Vous avez vu de vos propres yeux ce que j’ai fait en Égypte, puis vous avez séjourné de longs jours dans le désert."
+  },
+  {
+    "i": 6483,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 8,
+    "t": "Je vous fis entrer ensuite dans le pays des Amorites qui habitaient au-delà du Jourdain. Ils vous firent la guerre et je les livrai entre vos mains, aussi avez-vous pris possession de leur pays, car je les anéantis devant vous."
+  },
+  {
+    "i": 6484,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 9,
+    "t": "Puis se leva Balaq, fils de Cippor, roi de Moab, pour faire la guerre à Israël, et il envoya chercher Balaam, fils de Béor, pour vous maudire."
+  },
+  {
+    "i": 6485,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 10,
+    "t": "Mais je ne voulus pas écouter Balaam : il dut même vous bénir et je vous ai sauvé de sa main."
+  },
+  {
+    "i": 6486,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 11,
+    "t": "Vous avez ensuite passé le Jourdain pour atteindre Jéricho, mais les habitants de Jéricho vous firent la guerre, les Amorites, les Perizzites, les Cananéens, les Hittites, les Girgashites, les Hivvites et les Jébuséens, et je les livrai entre vos mains."
+  },
+  {
+    "i": 6487,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 12,
+    "t": "J’envoyai devant vous les frelons qui chassèrent devant vous les deux rois amorites, ce que tu ne dois ni à ton épée ni à ton arc."
+  },
+  {
+    "i": 6488,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 13,
+    "t": "Je vous ai donné une terre qui ne vous a demandé aucune fatigue, des villes que vous n’avez pas bâties et dans lesquelles vous vous êtes installés, des vignes et des olivettes que vous n’avez pas plantées et qui sont votre nourriture."
+  },
+  {
+    "i": 6489,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 14,
+    "t": "\"Et maintenant, craignez Yahvé et servez-le dans la perfection en toute sincérité ; éloignez les dieux que servirent vos pères au-delà du Fleuve et en Égypte, et servez Yahvé."
+  },
+  {
+    "i": 6490,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 15,
+    "t": "S’il ne vous paraît pas bon de servir Yahvé, choisissez aujourd’hui qui vous voulez servir, soit les dieux que servaient vos pères au-delà du Fleuve, soit les dieux des Amorites dont vous habitez maintenant le pays. Quant à moi et ma famille, nous servirons Yahvé.\""
+  },
+  {
+    "i": 6491,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 16,
+    "t": "Le peuple répondit : \"Loin de nous d’abandonner Yahvé pour servir d’autres dieux !"
+  },
+  {
+    "i": 6492,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 17,
+    "t": "Yahvé notre Dieu est celui qui nous a fait monter, nous et nos pères, du pays d’Égypte, de la maison de servitude, qui devant nos yeux a opéré ces grands signes et nous a gardés tout le long du chemin que nous avons parcouru et parmi toutes les populations à travers lesquelles nous avons passé."
+  },
+  {
+    "i": 6493,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 18,
+    "t": "Et Yahvé a chassé devant nous toutes les populations ainsi que les Amorites qui habitaient le pays. Nous aussi, nous servirons Yahvé, car c’est lui notre Dieu.\""
+  },
+  {
+    "i": 6494,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 19,
+    "t": "Alors Josué dit au peuple : \"Vous ne pouvez pas servir Yahvé car il est un Dieu saint, il est un Dieu jaloux, qui ne tolérera pas vos transgressions ni vos péchés."
+  },
+  {
+    "i": 6495,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 20,
+    "t": "Si vous abandonnez Yahvé pour servir les dieux de l’étranger, il vous maltraitera à nouveau et vous anéantira après vous avoir fait du bien.\""
+  },
+  {
+    "i": 6496,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 21,
+    "t": "Le peuple répondit à Josué : \"Non ! C’est Yahvé que nous servirons.\""
+  },
+  {
+    "i": 6497,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 22,
+    "t": "Alors Josué dit au peuple : \"Vous êtes témoins contre vous-mêmes que vous avez fait choix de Yahvé pour le servir.\" Ils répondirent : \"Nous sommes témoins\" —"
+  },
+  {
+    "i": 6498,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 23,
+    "t": "\"Alors, écartez les dieux de l’étranger qui sont au milieu de vous et inclinez votre cœur vers Yahvé, Dieu d’Israël.\""
+  },
+  {
+    "i": 6499,
+    "b": 5,
+    "c": 624,
+    "r": 624,
+    "o": 24,
+    "t": "Le peuple dit à Josué : \"C’est Yahvé notre Dieu que nous servirons, c’est à sa voix que nous obéirons.\""
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13100,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 14,
+    "t": "kad stebėtų mane, jei nusidėčiau, ir nepateisintų mano kaltės."
+  },
+  {
+    "i": 13101,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 15,
+    "t": "Jei aš kaltas, vargas man! Jei esu teisus, nedrįstu pakelti galvos, aš, persmelktas įžeidimų, apsvaigęs nuo sielvartų!"
+  },
+  {
+    "i": 13102,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 16,
+    "t": "Kaip liūtas, tu mane persekioji, tu dauginiesi savo žygdarbius mano atžvilgiu,"
+  },
+  {
+    "i": 13103,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 17,
+    "t": "tu atnaujini savo atakas, tavo įniršis prieš mane didėja, tavo šviežios pajėgos seka viena po kitos prieš mane."
+  },
+  {
+    "i": 13104,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 18,
+    "t": "Ak! Kodėl išvedei mane iš įsčių? Būčiau žuvęs tada: jokia akis nebūtų manęs mačiusi,"
+  },
+  {
+    "i": 13105,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 19,
+    "t": "būčiau toks, tarsi nebūčiau buvęs, iš pilvo būčiau nuneštas į kapą."
+  },
+  {
+    "i": 13106,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 20,
+    "t": "Ir tokie trumpi mano gyvenimo dienos! Nustok į mane žiūrėti, kad galėčiau šiek tiek džiaugtis,"
+  },
+  {
+    "i": 13107,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 21,
+    "t": "prieš man iškeliaujant be grįžimo į tamsos ir tirštos šešėlio šalį,"
+  },
+  {
+    "i": 13108,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 22,
+    "t": "kur karaliauja tamsa ir netvarka, kur net šviesa panaši į tamsią naktį."
+  },
+  {
+    "i": 13109,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 26,
+    "t": "Ar įveri nendrę į jo šnerves, ar kabliu perveri jo žandikaulį?"
+  },
+  {
+    "i": 13110,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 1,
+    "t": "Naamato Sofaras prabilo ir tarė:"
+  },
+  {
+    "i": 13111,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 2,
+    "t": "Ar plepys liks be atsako? Ar pakanka būti kalbiam, kad būtum teisus?"
+  },
+  {
+    "i": 13112,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 3,
+    "t": "Ar tavo žodžių gausa nutildys kitus, ar tyčiosisiesi be atsakymo?"
+  },
+  {
+    "i": 13113,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 4,
+    "t": "Tu sakei: „Mano elgesys yra tyras, aš esu nepriekaištingas tavo akyse.“"
+  },
+  {
+    "i": 13114,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 5,
+    "t": "Bet jei Dievas norėtų kalbėti, atverti lūpas tau atsakyti,"
+  },
+  {
+    "i": 13115,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 6,
+    "t": "jei jis tau atskleistų Išminties paslaptis, kurios sutrikdo bet kokį įžvalgumą, tu žinotum, kad Dievas reikalauja iš tavęs atsiskaityti už tavo kaltę."
+  },
+  {
+    "i": 13116,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 7,
+    "t": "Ar teigi, kad suvoki Dievo gelmę, pasieki Šadaio ribą?"
+  },
+  {
+    "i": 13117,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 8,
+    "t": "Ji aukštesnė už dangų: ką darysi? Gelsvesnė už šeolą: ką sužinosi?"
+  },
+  {
+    "i": 13118,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 9,
+    "t": "Ji būtų ilgesnė už žemę, kurią reikia išmatuoti, ir platesnė už jūrą."
+  },
+  {
+    "i": 13119,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 10,
+    "t": "Jei jis įsikiša, kad uždarytų ir sušauktų susirinkimą, kas jam sutrukdys?"
+  },
+  {
+    "i": 13120,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 11,
+    "t": "Nes jis pažįsta neteisybę žmoguje; jis mato nusikaltimą ir atkreipia į jį dėmesį."
+  },
+  {
+    "i": 13121,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 12,
+    "t": "Taigi, lengvatikis turi tapti protingesnis, o žmogus su laukinio asilo papročiais leistis prijaukinamas."
+  },
+  {
+    "i": 13122,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 13,
+    "t": "Ateik, ištiesink savo mintis, ištiesk savo delnus į jį!"
+  },
+  {
+    "i": 13123,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 14,
+    "t": "Jei atmesite blogį, už kurį būtumėte atsakingas, ir neleisite neteisybei gyventi po jūsų palapinėmis,"
+  },
+  {
+    "i": 13124,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 15,
+    "t": "pakelsi tyrą kaktą, būsi tvirtas ir be baimės."
+  },
+  {
+    "i": 13125,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 16,
+    "t": "Apie savo nelaimę daugiau negalvosi, ji paliks praeinančio vandens prisiminimą."
+  },
+  {
+    "i": 13126,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 17,
+    "t": "Tada prasidės už vidurdienį šviesesnis gyvenimas, ir net tamsa bus kaip rytas."
+  },
+  {
+    "i": 13127,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 18,
+    "t": "Pasitikintis, nes yra vilties, net po sumaišties, tu gulsi saugiai."
+  },
+  {
+    "i": 13128,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 19,
+    "t": "Kai ilsėsiesi, niekas tavęs netrikdys, ir daugelis žmonių ieškos tavo malonės."
+  },
+  {
+    "i": 13129,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 20,
+    "t": "Nedorėliai, jie suka išblyškusias akis, visos prieglaudos jiems trūksta; jų viltis yra paskutinis atodūsis."
+  },
+  {
+    "i": 13130,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 1,
+    "t": "Jobas prabilo ir tarė:"
+  },
+  {
+    "i": 13131,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 2,
+    "t": "Iš tiesų, jūs esate tautos balsas, su jumis mirs Išmintis."
+  },
+  {
+    "i": 13132,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 3,
+    "t": "Aš taip pat turiu proto, kaip ir jūs, aš jums niekuo nenusileidžiu, ir kas gi viso to nežino?"
+  },
+  {
+    "i": 13133,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 4,
+    "t": "Bet žmogus tampa savo draugo pajuokos objektu, kai šaukiasi Dievo, kad gautų atsakymą. Tyras teisusis yra išjuokiamas."
+  },
+  {
+    "i": 13134,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 5,
+    "t": "„Nelaimei, panieka!“, mano laimingi žmonės, dar vienas smūgis tam, kuris svyruoja!"
+  },
+  {
+    "i": 13135,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 6,
+    "t": "Tačiau plėšikų palapinės yra ramybėje: visiška sauga tiems, kurie provokuoja Dievą, ir tam, kuris įdeda Dievą į savo kumštį!"
+  },
+  {
+    "i": 13136,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 7,
+    "t": "Klausk gyvulių, kad pasimokytum, dangaus paukščių, kad sužinotum."
+  },
+  {
+    "i": 13137,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 8,
+    "t": "Žemės ropliai duos tau pamokas, jie tau praneš, jūros žuvys."
+  },
+  {
+    "i": 13138,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 9,
+    "t": "Nes kuris gi nežino, tarp jų visų, kad Dievo ranka visa tai padarė!"
+  },
+  {
+    "i": 13139,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 10,
+    "t": "Jo rankose yra visų gyvųjų siela ir visos žmogaus kūno kvėpavimas."
+  },
+  {
+    "i": 13140,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 11,
+    "t": "Ar ausis nevertina kalbų, kaip gomurys ragauja patiekalus?"
+  },
+  {
+    "i": 13141,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 12,
+    "t": "Išmintis yra senolių reikalas, įžvalgumas – senatvės."
+  },
+  {
+    "i": 13142,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 13,
+    "t": "Bet jame gyvena išmintis ir galia, jam priklauso patarimas ir įžvalgumas."
+  },
+  {
+    "i": 13143,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 14,
+    "t": "Jei jis sunaikina, niekas negali atstatyti, jei ką nors įkalina, niekas neatidarys."
+  },
+  {
+    "i": 13144,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 15,
+    "t": "Jei jis sulaiko vandenis, tai sausra; jei jis juos paleidžia, jie apverčia žemę."
+  },
+  {
+    "i": 13145,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 16,
+    "t": "Jame stiprybė ir nuovoka, jam priklauso paklydęs ir tas, kuris jį klaidina."
+  },
+  {
+    "i": 13146,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 17,
+    "t": "Jis padaro kvailais šalies patarėjus ir ištinka teisėjus beprotybe."
+  },
+  {
+    "i": 13147,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 18,
+    "t": "Jis atriša karalių diržus ir uždeda virvę ant jų strėnų."
+  },
+  {
+    "i": 13148,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 19,
+    "t": "Jis priverčia kunigus eiti basus ir nuverčia įsitvirtinusias galias."
+  },
+  {
+    "i": 13149,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 20,
+    "t": "Jis atima žodį iš užtikrintiausių, atima įžvalgumą iš senolių."
+  },
+  {
+    "i": 13150,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 21,
+    "t": "Jis išlieja panieką ant didikų, atriša stipruolių diržus."
+  },
+  {
+    "i": 13151,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 22,
+    "t": "Jis atskleidžia tamsos gelmes, atveda į šviesą tirštą šešėlį."
+  },
+  {
+    "i": 13152,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 23,
+    "t": "Jis padidina tautas, tada jas sugriauna: jis išplečia žmones, tada juos sunaikina."
+  },
+  {
+    "i": 13153,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 24,
+    "t": "Jis atima protą iš šalies vadovų, priverčia juos klaidžioti dykumoje be kelių,"
+  },
+  {
+    "i": 13154,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 25,
+    "t": "apčiuopomis eiti tamsoje be šviesos ir svyruoti tarsi apsvaigus."
+  },
+  {
+    "i": 13155,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 1,
+    "t": "Visa tai mačiau savo akimis, girdėjau savo ausimis ir supratau."
+  },
+  {
+    "i": 13156,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 2,
+    "t": "Aš žinau tiek pat, kiek jūs, aš jums niekuo nenusileidžiu."
+  },
+  {
+    "i": 13157,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 3,
+    "t": "Bet aš turiu kalbėti su Šadai, noriu Dievui pareikšti priekaištus."
+  },
+  {
+    "i": 13158,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 4,
+    "t": "Jūs esate tik šarlatanai, išgalvoti gydytojai!"
+  },
+  {
+    "i": 13159,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 5,
+    "t": "Kas gi jus išmokys tylos, vienintelės išminties, kuri jums tinka!"
+  },
+  {
+    "i": 13160,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 6,
+    "t": "Išklausykite, prašau, mano skundus, būkite atidūs į mano lūpų gynybą."
+  },
+  {
+    "i": 13161,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 7,
+    "t": "Ar manote, kad ginsite Dievą neteisinga kalba ir melagingais žodžiais?"
+  },
+  {
+    "i": 13162,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 8,
+    "t": "Taip laikytis jo pusės, būti jo advokatais?"
+  },
+  {
+    "i": 13163,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 9,
+    "t": "Ar būtų gerai, jei jis jus ištirtų? Ar tyčiojamasi iš jo, kaip žaidžiama su žmogumi?"
+  },
+  {
+    "i": 13164,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 10,
+    "t": "Jis jums skirtų griežtą papeikimą už jūsų slaptą šališkumą."
+  },
+  {
+    "i": 13165,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 11,
+    "t": "Ar jo didybė jūsų negąsdina? Ar jo baimė nekrenta ant jūsų?"
+  },
+  {
+    "i": 13166,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 12,
+    "t": "Jūsų išmoktos pamokos yra pelenų sentencijos, jūsų gynyba – molio gynyba."
+  },
+  {
+    "i": 13167,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 13,
+    "t": "Tylėkite! Aš kalbėsiu, kas benutiktų."
+  },
+  {
+    "i": 13168,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 14,
+    "t": "Aš griebiu savo kūną dantimis, aš dedu savo gyvybę į savo rankas,"
+  },
+  {
+    "i": 13169,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 15,
+    "t": "jis gali mane nužudyti: neturiu kitos vilties, kaip tik apginti savo elgesį prieš jį."
+  },
+  {
+    "i": 13170,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 16,
+    "t": "Ir tai mane išgelbės, nes bedievis nedrįstų pasirodyti jo akivaizdoje."
+  },
+  {
+    "i": 13171,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 17,
+    "t": "Klausykite, klausykite mano žodžių, atkreipkite dėmesį į mano pareiškimus."
+  },
+  {
+    "i": 13172,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 18,
+    "t": "Štai: aš eisiu į teismą, suvokdamas, kad esu teisus."
+  },
+  {
+    "i": 13173,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 19,
+    "t": "Kas nori prieštarauti man? Iš anksto sutinku būti nutildytas ir žūti!"
+  },
+  {
+    "i": 13174,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 20,
+    "t": "Padaryk man tik dvi nuolaidas, tada nesislėpsiu toli nuo tavo veido:"
+  },
+  {
+    "i": 13175,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 21,
+    "t": "Atitrauk savo ranką, kuri slegia mane, ir daugiau nebegąsdink manęs savo baime."
+  },
+  {
+    "i": 13176,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 22,
+    "t": "Tada pradėk ginčą ir aš atsakysiu; arba aš kalbėsiu, ir tu man atsakysi."
+  },
+  {
+    "i": 13177,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 23,
+    "t": "Kiek klaidų ir nuodėmių aš padariau? Pasakyk man, koks buvo mano nusižengimas, mano nuodėmė?"
+  },
+  {
+    "i": 13178,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 24,
+    "t": "Kodėl slepi savo veidą ir laikai mane savo priešu?"
+  },
+  {
+    "i": 13179,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 25,
+    "t": "Ar nori išgąsdinti vėjo nunešamą lapą, persekioti sausą šiaudą?"
+  },
+  {
+    "i": 13180,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 26,
+    "t": "Tu, kuris rašai prieš mane karčius nuosprendžius ir priskiri man mano jaunystės nuodėmes,"
+  },
+  {
+    "i": 13181,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 27,
+    "t": "kuris įdėjai mano kojas į pančius, stebi visus mano takus ir fiksuoja mano žingsnius!"
+  },
+  {
+    "i": 13182,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 28,
+    "t": "Ir jis trupa kaip mediena, sukirmijęs, arba kaip drabužis, suėstas kandžių,"
+  },
+  {
+    "i": 13183,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 1,
+    "t": "žmogus, gimęs iš moters, kuris turi trumpą gyvenimą, bet kančių iki soties."
+  },
+  {
+    "i": 13184,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 2,
+    "t": "Panašus į gėlę, jis išsiskleidžia ir nuvysta, jis bėga kaip šešėlis be sustojimo."
+  },
+  {
+    "i": 13185,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 3,
+    "t": "Ir į šį tvarinį tu laikai akis atmerktas, tu atvedi jį į teismą prieš tave!"
+  },
+  {
+    "i": 13186,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 4,
+    "t": "Bet kas ištrauks švarų iš nešvaraus? Niekas!"
+  },
+  {
+    "i": 13187,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 5,
+    "t": "Kadangi jo dienos suskaičiuotos, mėnesių skaičius priklauso nuo tavęs, tu jam nustatei neperžengiamą ribą,"
+  },
+  {
+    "i": 13188,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 6,
+    "t": "nukreipk nuo jo savo akis ir palik jį, kaip samdinį, pabaigti savo dieną."
+  },
+  {
+    "i": 13189,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 7,
+    "t": "Medis išsaugo viltį, vieną kartą nupjautas, jis gali atgimti dar kartą ir jo atžalos toliau auga."
+  },
+  {
+    "i": 13190,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 8,
+    "t": "Net su šaknimis, kurios paseno žemėje ir kelmas žūsta dirvoje,"
+  },
+  {
+    "i": 13191,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 9,
+    "t": "kai tik užuodžia vandenį, jis sprogsta ir išleidžia šakas kaip jaunas sodinukas."
+  },
+  {
+    "i": 13192,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 10,
+    "t": "Bet žmogus, jei miršta, lieka negyvas; kai žmogus iškvepia, kur gi jis yra?"
+  },
+  {
+    "i": 13193,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 11,
+    "t": "Jūrų vandenys gali išnykti, upės išdžiūti ir išsausėti:"
+  },
+  {
+    "i": 13194,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 12,
+    "t": "žmogus, vieną kartą atsigulęs, nebepakils, dangūs nusidėvės, kol jis atsibus, arba bus pažadintas iš savo miego."
+  },
+  {
+    "i": 13195,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 13,
+    "t": "O! Jei tu mane paslėptum šeole, jei tu mane ten paslėptum, kol tęsis tavo pyktis, jei tu man nustatytum laiką, kad paskui prisimintum mane:"
+  },
+  {
+    "i": 13196,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 14,
+    "t": "nes, vieną kartą mirus, ar galima atgyti? - visas mano tarnybos dienas aš laukčiau, kol ateis mano atleidimas."
+  },
+  {
+    "i": 13197,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 15,
+    "t": "Tu šauktumei ir aš tau atsakysiu; tu norėtum vėl pamatyti savo rankų darbą."
+  },
+  {
+    "i": 13198,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 16,
+    "t": "Kol dabar tu skaičiuoji visus mano žingsnius, tu daugiau nebešnipinėtum mano nuodėmės,"
+  },
+  {
+    "i": 13199,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 17,
+    "t": "tu užantspauduotum mano nusižengimą maišelyje ir tu uždengtum mano kaltę."
+  }
+]

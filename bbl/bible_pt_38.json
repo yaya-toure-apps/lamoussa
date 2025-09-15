@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3800,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 10,
+    "t": "Cada um terá para si as coisas que consagrar; o que cada um entregar ao sacerdote será deste."
+  },
+  {
+    "i": 3801,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 11,
+    "t": "E falou o Senhor a Moisés, dizendo:"
+  },
+  {
+    "i": 3802,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 12,
+    "t": "\"Fala aos filhos de Israel e dize-lhes: Se a mulher de alguém se desviar e lhe for infiel,"
+  },
+  {
+    "i": 3803,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 13,
+    "t": "e algum homem se deitar com ela e houver cópula, e isto for oculto aos olhos de seu marido, e se esconder, havendo-se ela contaminado, e não houver testemunha contra ela, por não ter sido apanhada em flagrante,"
+  },
+  {
+    "i": 3804,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 14,
+    "t": "e sobre ele vier o espírito de ciúmes, e tiver ciúmes de sua mulher, havendo-se ela contaminado, ou sobre ele vier o espírito de ciúmes, e tiver ciúmes de sua mulher, não se havendo ela contaminado,"
+  },
+  {
+    "i": 3805,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 15,
+    "t": "então, o homem levará a sua mulher ao sacerdote e, com ela, a oferta por ela, a décima parte de um efa de farinha de cevada; não deitará sobre ela azeite, nem lhe porá incenso, porquanto é oferta de ciúmes, oferta memorativa, que traz a lembrança da iniquidade."
+  },
+  {
+    "i": 3806,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 16,
+    "t": "E o sacerdote fará chegar a mulher e a porá perante o Senhor."
+  },
+  {
+    "i": 3807,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 17,
+    "t": "Depois, o sacerdote tomará água santa num vaso de barro e, do pó que houver no chão do tabernáculo, o sacerdote tomará e o deitará na água."
+  },
+  {
+    "i": 3808,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 18,
+    "t": "E o sacerdote porá a mulher perante o Senhor, e descobrirá a cabeça da mulher, e porá sobre as suas mãos a oferta memorativa, que é a oferta de ciúmes; e o sacerdote terá na mão as águas amargas, que trazem consigo a maldição."
+  },
+  {
+    "i": 3809,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 19,
+    "t": "E o sacerdote fará jurar a mulher e lhe dirá: Se nenhum homem se deitou contigo, e se não te apartaste do teu marido para a imundícia, estas águas amargas, que trazem consigo a maldição, não te danem;"
+  },
+  {
+    "i": 3810,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 20,
+    "t": "mas, se te apartaste de teu marido e te contaminaste, e algum homem, além de teu marido, se deitou contigo..."
+  },
+  {
+    "i": 3811,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 21,
+    "t": "Então, o sacerdote fará jurar a mulher com o juramento da maldição e lhe dirá: O Senhor te faça por maldição e por praga no meio do teu povo, fazendo o Senhor consumir a tua coxa e inchar o teu ventre;"
+  },
+  {
+    "i": 3812,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 22,
+    "t": "e estas águas, que trazem consigo a maldição, entrem nas tuas entranhas, para te fazerem inchar o ventre e consumir a coxa. E a mulher dirá: Amém! Amém!"
+  },
+  {
+    "i": 3813,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 23,
+    "t": "Depois, o sacerdote escreverá estas maldições num livro e com as águas amargas as lavará."
+  },
+  {
+    "i": 3814,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 24,
+    "t": "E fará beber à mulher as águas amargas, que trazem consigo a maldição; e as águas que trazem consigo a maldição entrarão nela para amargura."
+  },
+  {
+    "i": 3815,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 25,
+    "t": "E o sacerdote tomará da mão da mulher a oferta de ciúmes, e moverá a oferta perante o Senhor, e a oferecerá sobre o altar."
+  },
+  {
+    "i": 3816,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 26,
+    "t": "E o sacerdote tomará um punhado da oferta como porção memorativa e a queimará sobre o altar; e, depois, fará beber a água à mulher."
+  },
+  {
+    "i": 3817,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 27,
+    "t": "Havendo-lhe dado a beber a água, será que, se ela se tiver contaminado e tiver sido infiel a seu marido, as águas que trazem consigo a maldição lhe entrarão para amargura; o seu ventre se inchará, e a sua coxa se consumirá; e aquela mulher será por maldição no meio do seu povo."
+  },
+  {
+    "i": 3818,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 28,
+    "t": "Mas, se a mulher não se tiver contaminado, mas estiver limpa, então, será livre e conceberá filhos."
+  },
+  {
+    "i": 3819,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 29,
+    "t": "Esta é a lei dos ciúmes, quando a mulher se desviar de seu marido e se contaminar,"
+  },
+  {
+    "i": 3820,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 30,
+    "t": "ou quando sobre o marido vier o espírito de ciúmes e tiver ciúmes de sua mulher; então, apresentará a mulher perante o Senhor, e o sacerdote cumprirá para com ela toda esta lei."
+  },
+  {
+    "i": 3821,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 31,
+    "t": "E aquele homem será absolvido da iniquidade, e aquela mulher levará sobre si a sua iniquidade."
+  },
+  {
+    "i": 3822,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 1,
+    "t": "E falou o Senhor a Moisés, dizendo:"
+  },
+  {
+    "i": 3823,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 2,
+    "t": "\"Fala aos filhos de Israel e dize-lhes: Quando um homem ou mulher fizer particular voto, voto de nazireu, para se separar ao Senhor,"
+  },
+  {
+    "i": 3824,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 3,
+    "t": "de vinho e de bebida forte se apartará; vinagre de vinho e vinagre de bebida forte não beberá; nem beberá alguma beberagem de uvas, nem comerá uvas frescas nem secas."
+  },
+  {
+    "i": 3825,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 4,
+    "t": "Todos os dias do seu nazireado não comerá de coisa alguma, que se faz da vinha, desde os caroços até à casca."
+  },
+  {
+    "i": 3826,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 5,
+    "t": "Todos os dias do voto do seu nazireado sobre a sua cabeça não passará navalha; até que se cumpram os dias, que se separou ao Senhor, santo será, deixando crescer livremente o cabelo da sua cabeça."
+  },
+  {
+    "i": 3827,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 6,
+    "t": "Todos os dias que se separar ao Senhor, não se chegará a corpo morto;"
+  },
+  {
+    "i": 3828,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 7,
+    "t": "nem por seu pai, nem por sua mãe, nem por seu irmão, nem por sua irmã, se contaminará, quando estes morrerem, porque a consagração do seu Deus está sobre a sua cabeça."
+  },
+  {
+    "i": 3829,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 8,
+    "t": "Todos os dias do seu nazireado é santo ao Senhor."
+  },
+  {
+    "i": 3830,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 9,
+    "t": "Porém, se alguém morrer repentinamente junto a ele, e, assim, contaminar a cabeça do seu nazireado, então, rapará a sua cabeça no dia da sua purificação; ao sétimo dia a rapará."
+  },
+  {
+    "i": 3831,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 10,
+    "t": "E, ao oitavo dia, trará dois pombinhos ou dois rolos ao sacerdote, à porta do tabernáculo da congregação;"
+  },
+  {
+    "i": 3832,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 11,
+    "t": "e o sacerdote oferecerá um para expiação do pecado e o outro para holocausto; e fará expiação por ele, porquanto pecou por causa do morto; e naquele mesmo dia santificará a sua cabeça."
+  },
+  {
+    "i": 3833,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 12,
+    "t": "E separará de novo ao Senhor os dias do seu nazireado e trará um cordeiro de um ano para expiação da transgressão; e os dias antecedentes cairão, porquanto o seu nazireado foi contaminado."
+  },
+  {
+    "i": 3834,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 13,
+    "t": "Esta é a lei do nazireu: no dia em que se cumprirem os dias do seu nazireado, levá-lo-ão à porta do tabernáculo da congregação."
+  },
+  {
+    "i": 3835,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 14,
+    "t": "E ele oferecerá a sua oferta ao Senhor: um cordeiro sem defeito de um ano, para holocausto; e uma cordeira sem defeito de um ano, para expiação do pecado; e um carneiro sem defeito, para oferta pacífica;"
+  },
+  {
+    "i": 3836,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 15,
+    "t": "e um cesto de bolos asmos, de flor de farinha, amassados com azeite, e coscorões asmos untados com azeite, com a sua oferta de manjares e as suas libações."
+  },
+  {
+    "i": 3837,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 16,
+    "t": "Então, o sacerdote os apresentará perante o Senhor e oferecerá a sua expiação do pecado e o seu holocausto."
+  },
+  {
+    "i": 3838,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 17,
+    "t": "E oferecerá o carneiro para oferta pacífica ao Senhor, com o cesto dos bolos asmos; também o sacerdote oferecerá a sua oferta de manjares e a sua libação."
+  },
+  {
+    "i": 3839,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 18,
+    "t": "Então, o nazireu rapará à porta do tabernáculo da congregação a cabeça do seu nazireado, e tomará o cabelo da cabeça do seu nazireado e o porá sobre o fogo que está debaixo do sacrifício da oferta pacífica."
+  },
+  {
+    "i": 3840,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 19,
+    "t": "E o sacerdote tomará a espádua cozida do carneiro, e um bolo asmo do cesto, e um coscorão asmo e os porá nas mãos do nazireu, depois que tiver rapado a cabeça do seu nazireado."
+  },
+  {
+    "i": 3841,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 20,
+    "t": "Então, o sacerdote os moverá por oferta movida perante o Senhor; isto é santo para o sacerdote, juntamente com o peito movido e com a espádua alçada; e, depois, o nazireu poderá beber vinho."
+  },
+  {
+    "i": 3842,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 21,
+    "t": "Esta é a lei do nazireu, que fizer voto; esta é a sua oferta ao Senhor pelo seu nazireado, além do que alcançar a sua mão; segundo o seu voto, que fizer, assim fará conforme a lei do seu nazireado."
+  },
+  {
+    "i": 3843,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 22,
+    "t": "E falou o Senhor a Moisés, dizendo:"
+  },
+  {
+    "i": 3844,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 23,
+    "t": "\"Fala a Arão e a seus filhos, dizendo: Assim abençoareis os filhos de Israel, dizendo-lhes:"
+  },
+  {
+    "i": 3845,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 24,
+    "t": "O Senhor te abençoe e te guarde;"
+  },
+  {
+    "i": 3846,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 25,
+    "t": "o Senhor faça resplandecer o seu rosto sobre ti e tenha misericórdia de ti;"
+  },
+  {
+    "i": 3847,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 26,
+    "t": "o Senhor levante sobre ti o seu rosto e te dê a paz."
+  },
+  {
+    "i": 3848,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 27,
+    "t": "Assim porão o meu nome sobre os filhos de Israel, e eu os abençoarei."
+  },
+  {
+    "i": 3849,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 1,
+    "t": "E aconteceu que, no dia em que Moisés acabou de levantar o tabernáculo, e o ungiu, e o santificou, e todos os seus utensílios, também ungiu e santificou o altar e todos os seus utensílios."
+  },
+  {
+    "i": 3850,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 2,
+    "t": "Então, os príncipes de Israel, os cabeças da casa de seus pais, que eram os príncipes das tribos e que estavam sobre os que foram contados, ofereceram;"
+  },
+  {
+    "i": 3851,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 3,
+    "t": "e trouxeram a sua oferta perante o Senhor: seis carros cobertos e doze bois; um carro para dois príncipes, e um boi para cada um; e os trouxeram perante o tabernáculo."
+  },
+  {
+    "i": 3852,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 4,
+    "t": "Então, falou o Senhor a Moisés, dizendo:"
+  },
+  {
+    "i": 3853,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 5,
+    "t": "\"Recebe deles, para que sejam para o serviço do tabernáculo da congregação, e dá-los-ás aos levitas, a cada um conforme o seu ministério."
+  },
+  {
+    "i": 3854,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 6,
+    "t": "Então, Moisés tomou os carros e os bois e os deu aos levitas."
+  },
+  {
+    "i": 3855,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 7,
+    "t": "Aos filhos de Gérson deu dois carros e quatro bois, conforme o seu ministério."
+  },
+  {
+    "i": 3856,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 8,
+    "t": "E aos filhos de Merari deu quatro carros e oito bois, conforme o seu ministério, debaixo da direção de Itamar, filho de Arão, o sacerdote."
+  },
+  {
+    "i": 3857,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 9,
+    "t": "Mas aos filhos de Coate não deu, porquanto a seu cargo estava o santuário; levavam-no sobre os seus ombros."
+  },
+  {
+    "i": 3858,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 10,
+    "t": "E os príncipes ofereceram a oferta da dedicação do altar, no dia em que foi ungido; ofereceram os príncipes a sua oferta perante o altar."
+  },
+  {
+    "i": 3859,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 11,
+    "t": "E o Senhor disse a Moisés: \"Cada dia um príncipe oferecerá a sua oferta para a dedicação do altar."
+  },
+  {
+    "i": 3860,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 12,
+    "t": "E o que ofereceu a sua oferta no primeiro dia foi Naassom, filho de Aminadabe, da tribo de Judá."
+  },
+  {
+    "i": 3861,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 13,
+    "t": "E a sua oferta foi uma taça de prata do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, conforme o siclo do santuário; ambas cheias de flor de farinha, amassada com azeite, para oferta de manjares;"
+  },
+  {
+    "i": 3862,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 14,
+    "t": "uma colher de ouro de dez siclos, cheia de incenso;"
+  },
+  {
+    "i": 3863,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 15,
+    "t": "um novilho, um carneiro e um cordeiro de um ano, para holocausto;"
+  },
+  {
+    "i": 3864,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 16,
+    "t": "um bode, para expiação do pecado;"
+  },
+  {
+    "i": 3865,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 17,
+    "t": "e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano; esta foi a oferta de Naassom, filho de Aminadabe."
+  },
+  {
+    "i": 3866,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 18,
+    "t": "No segundo dia, ofereceu Natanael, filho de Zuar, príncipe de Issacar."
+  },
+  {
+    "i": 3867,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 19,
+    "t": "Ofereceu, como sua oferta, uma taça de prata do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, conforme o siclo do santuário; ambas cheias de flor de farinha, amassada com azeite, para oferta de manjares;"
+  },
+  {
+    "i": 3868,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 20,
+    "t": "uma colher de ouro de dez siclos, cheia de incenso;"
+  },
+  {
+    "i": 3869,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 21,
+    "t": "um novilho, um carneiro e um cordeiro de um ano, para holocausto;"
+  },
+  {
+    "i": 3870,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 22,
+    "t": "um bode, para expiação do pecado;"
+  },
+  {
+    "i": 3871,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 23,
+    "t": "e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano; esta foi a oferta de Natanael, filho de Zuar."
+  },
+  {
+    "i": 3872,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 24,
+    "t": "No terceiro dia, ofereceu Eliabe, filho de Helom, príncipe dos filhos de Zebulom."
+  },
+  {
+    "i": 3873,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 25,
+    "t": "A sua oferta foi uma taça de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, conforme o siclo do santuário; ambas cheias de flor de farinha, amassada com azeite, para oferta de manjares;"
+  },
+  {
+    "i": 3874,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 26,
+    "t": "uma colher de ouro de dez siclos, cheia de incenso;"
+  },
+  {
+    "i": 3875,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 27,
+    "t": "um novilho, um carneiro e um cordeiro de um ano, para holocausto;"
+  },
+  {
+    "i": 3876,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 28,
+    "t": "um bode, para expiação do pecado;"
+  },
+  {
+    "i": 3877,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 29,
+    "t": "e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano; esta foi a oferta de Eliabe, filho de Helom."
+  },
+  {
+    "i": 3878,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 30,
+    "t": "No quarto dia, ofereceu Elizur, filho de Sedeur, príncipe dos filhos de Rúben."
+  },
+  {
+    "i": 3879,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 31,
+    "t": "A sua oferta foi uma taça de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, conforme o siclo do santuário; ambas cheias de flor de farinha, amassada com azeite, para oferta de manjares;"
+  },
+  {
+    "i": 3880,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 32,
+    "t": "uma taça de ouro de dez siclos, cheia de incenso,"
+  },
+  {
+    "i": 3881,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 33,
+    "t": "um novilho, um carneiro e um cordeiro de um ano para holocausto,"
+  },
+  {
+    "i": 3882,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 34,
+    "t": "um bode para sacrifício pelo pecado,"
+  },
+  {
+    "i": 3883,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 35,
+    "t": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano. Esta foi a oferta de Elizur, filho de Sedeur."
+  },
+  {
+    "i": 3884,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 36,
+    "t": "Aquele que apresentou sua oferta no quinto dia foi Selumiel, filho de Zurisadai, príncipe dos filhos de Simeão."
+  },
+  {
+    "i": 3885,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 37,
+    "t": "Sua oferta consistia em: uma taça de prata pesando cento e trinta siclos, uma taça de aspersão de prata de setenta siclos (em siclos do santuário), ambas cheias, para a oblação, de flor de farinha amassada com azeite,"
+  },
+  {
+    "i": 3886,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 38,
+    "t": "uma taça de ouro de dez siclos, cheia de incenso,"
+  },
+  {
+    "i": 3887,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 39,
+    "t": "um novilho, um carneiro e um cordeiro de um ano para holocausto,"
+  },
+  {
+    "i": 3888,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 40,
+    "t": "um bode para sacrifício pelo pecado,"
+  },
+  {
+    "i": 3889,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 41,
+    "t": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano. Esta foi a oferta de Selumiel, filho de Zurisadai."
+  },
+  {
+    "i": 3890,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 42,
+    "t": "Aquele que apresentou sua oferta no sexto dia foi Eliasaf, filho de Reuel, príncipe dos filhos de Gade."
+  },
+  {
+    "i": 3891,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 43,
+    "t": "Sua oferta consistia em: uma taça de prata pesando cento e trinta siclos, uma taça de aspersão de prata de setenta siclos (em siclos do santuário), ambas cheias, para a oblação, de flor de farinha amassada com azeite,"
+  },
+  {
+    "i": 3892,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 44,
+    "t": "uma taça de ouro de dez siclos, cheia de incenso,"
+  },
+  {
+    "i": 3893,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 45,
+    "t": "um novilho, um carneiro e um cordeiro de um ano para holocausto,"
+  },
+  {
+    "i": 3894,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 46,
+    "t": "um bode para sacrifício pelo pecado,"
+  },
+  {
+    "i": 3895,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 47,
+    "t": "e, para o sacrifício de comunhão, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano. Esta foi a oferta de Eliasaf, filho de Reuel."
+  },
+  {
+    "i": 3896,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 48,
+    "t": "Aquele que apresentou sua oferta no sétimo dia foi Elisama, filho de Amiúde, príncipe dos filhos de Efraim."
+  },
+  {
+    "i": 3897,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 49,
+    "t": "Sua oferta consistia em: uma taça de prata pesando cento e trinta siclos, uma taça de aspersão de prata de setenta siclos (em siclos do santuário), ambas cheias, para a oblação, de flor de farinha amassada com azeite,"
+  },
+  {
+    "i": 3898,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 50,
+    "t": "uma taça de ouro de dez siclos, cheia de incenso,"
+  },
+  {
+    "i": 3899,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 51,
+    "t": "um novilho, um carneiro e um cordeiro de um ano para holocausto,"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 19100,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 8,
+    "t": "Preto sa odejte do vrecoviny, nariekajte a kvíľte, lebo horúci hnev Hospodinov sa od nás neodvrátil."
+  },
+  {
+    "i": 19101,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 9,
+    "t": "V ten deň, hovorí Hospodin, kráľovi stratí odvahu a kniežatám tiež; kňazi budú zdesení a proroci ohromení."
+  },
+  {
+    "i": 19102,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 10,
+    "t": "A riekol som: Ach, Pane Hospodine, veľmi si oklamal tento ľud a Jeruzalem, hovoriac: Budete mať pokoj, hoci nám meč prenikol až k hrdlu!"
+  },
+  {
+    "i": 19103,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 11,
+    "t": "V tom čase povedia tomuto ľudu a Jeruzalemu: Púštny vietor od vysokých miest vanie proti dcére môjho ľudu; nie je to na preosievanie, ani na prečisťovanie,"
+  },
+  {
+    "i": 19104,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 12,
+    "t": "ale silný vietor prichádza ku mne odtiaľ. Teraz ja sám vyhlásim nad nimi súd!"
+  },
+  {
+    "i": 19105,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 13,
+    "t": "Hľa, prichádza ako oblaky, jeho vozy sú ako víchrica, jeho kone sú rýchlejšie ako orly. Beda nám, sme stratení!"
+  },
+  {
+    "i": 19106,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 14,
+    "t": "Umy si srdce od zla, Jeruzalem, aby si bol spasený! Ako dlho budeš v sebe uchovávať svoje zlé myšlienky?"
+  },
+  {
+    "i": 19107,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 15,
+    "t": "Hlas zvestuje novinu z Dánu a z Efrajimských vrchov hlása nešťastie."
+  },
+  {
+    "i": 108,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 16,
+    "t": "Oznámte to národom, hlásajte to proti Jeruzalemu: Prichádzajú nepriatelia z ďalekej krajiny a kričia proti judským mestám;"
+  },
+  {
+    "i": 19109,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 17,
+    "t": "obkľučujú ho ako strážcovia poľa, lebo sa mi sprotivil, hovorí Hospodin."
+  },
+  {
+    "i": 19110,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 18,
+    "t": "Tvoje cesty a tvoje skutky ti to spôsobili. To je tvoje zlo, aké je horké! Aké preniká až do tvojho srdca!"
+  },
+  {
+    "i": 19111,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 19,
+    "t": "Moje vnútro! Moje vnútro! Bolesti mám! Steny môjho srdca! Moje srdce sa vznášava vo mne! Nemôžem mlčať, lebo som počul zvuk trúby a bojový pokrik."
+  },
+  {
+    "i": 19112,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 20,
+    "t": "Ohlasuje sa pohroma za pohromou, celá krajina je spustošená, náhle sú zničené moje stany, moje útočiská v okamihu."
+  },
+  {
+    "i": 19113,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 21,
+    "t": "Dokedy budem vidieť zástavu a počuť zvuk trúby?"
+  },
+  {
+    "i": 19114,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 22,
+    "t": "Lebo môj ľud je hlúpy, nepozná ma; sú to deti bez rozumu, nemajú pochopenie; sú múdri na páchanie zla, ale nevedia konať dobro."
+  },
+  {
+    "i": 19115,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 23,
+    "t": "Pozrel som na zem, a hľa, chaos; na nebesá, a ich svetlo zmizlo."
+  },
+  {
+    "i": 19116,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 24,
+    "t": "Pozrel som na vrchy, a hľa, trasú sa a všetky pahorky sa chvejú."
+  },
+  {
+    "i": 19117,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 25,
+    "t": "Pozrel som, a hľa, niet človeka a všetko vtáctvo nebeské odletelo."
+  },
+  {
+    "i": 19118,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 26,
+    "t": "Pozrel som, a hľa, úrodný kraj je púšťou a všetky jeho mestá sú zbúrané pred Hospodinom, pred horúčavou jeho hnevu."
+  },
+  {
+    "i": 19119,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 27,
+    "t": "Lebo takto hovorí Hospodin: Celá krajina bude spustošená, ale ju úplne nezničím."
+  },
+  {
+    "i": 19120,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 28,
+    "t": "Preto bude zem smútiť a nebesá hore budú stmavnuté! Lebo som hovoril, rozhodol som, nebudem ľutovať ani sa nevrátim."
+  },
+  {
+    "i": 19121,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 29,
+    "t": "Pred hlukom jazdca a strelca uteká celé mesto, skrývajú sa v húštinách, vystupujú na skaly; každé mesto je opustené, nikto v ňom nebýva."
+  },
+  {
+    "i": 19122,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 30,
+    "t": "A ty, spustošená, čo budeš robiť? Hoci sa obliekaš do purpuru, ozdobuješ sa zlatými šperkami a líčením zväčšuješ oči, márne sa skrášľuješ! Tí, ktorí ťa milovali, tebou pohŕdajú, siahajú ti na život."
+  },
+  {
+    "i": 19123,
+    "b": 23,
+    "c": 2504,
+    "r": 2504,
+    "o": 31,
+    "t": "Lebo počujem výkriky ako od ženy pri pôrode, ako úzkosť rodičky; to sú výkriky dcéry Siona, ktorá lapá po dychu a vystiera ruky: Beda mi, podlieham pod rukami vrahov!"
+  },
+  {
+    "i": 19124,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 1,
+    "t": "Choďte po uliciach Jeruzalema, pozrite sa teda, pýtajte sa, hľadajte na jeho námestiach, či nájdete človeka, ktorý by konal právo a hľadal pravdu: potom odpustím tomuto mestu, hovorí Hospodin."
+  },
+  {
+    "i": 19125,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 2,
+    "t": "Ale ak hovoria: Akože žije Hospodin, tak prisahajú falošne!"
+  },
+  {
+    "i": 19126,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 3,
+    "t": "Či tvoje oči nehľadia na pravdu, Hospodine? Udrel si ich, ale necítili; zničil si ich, ale odmietli ponaučenie. Zatvrdili svoju tvár viac ako skala, odmietli sa obrátiť."
+  },
+  {
+    "i": 19127,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 4,
+    "t": "Hovoril som si: Sú to len chudáci, konajú bláznivo, lebo nepoznajú cestu Hospodinovu, ani právo svojho Boha."
+  },
+  {
+    "i": 19128,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 5,
+    "t": "Pôjdem teda k veľkým a budem sa s nimi rozprávať, lebo oni poznajú cestu Hospodinovu a právo svojho Boha! Ale aj oni zlomili jarmo, pretrhli putá!"
+  },
+  {
+    "i": 19129,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 6,
+    "t": "Preto na nich zaútočí lev z lesa, vlk zo stepi ich zničí, leopard striehne pred ich mestami: každý, kto z nich vyjde, bude roztrhaný. Lebo ich zločiny sú mnohé, ich vzbury početné."
+  },
+  {
+    "i": 19130,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 7,
+    "t": "Prečo by som ti mal odpustiť? Tvoji synovia ma opustili a prisahali na bohov, ktorí nimi nie sú. Nasýtil som ich a stali sa cudzoložníkmi; hrnuli sa do domu smilnice."
+  },
+  {
+    "i": 19131,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 8,
+    "t": "Sú to vykŕmené kone, ktoré sa túlajú, každý erdží za ženou svojho blížneho."
+  },
+  {
+    "i": 19132,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 9,
+    "t": "A či by som nemal trestať tieto skutky? Hovorí Hospodin. Či by som sa nemal pomstiť národu, ako je tento?"
+  },
+  {
+    "i": 19133,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 10,
+    "t": "Vystúpte na jeho terasy! Ničte! Ale úplne ho nezničte! Vyrúbte jeho výhonky, lebo nepatria Hospodinovi!"
+  },
+  {
+    "i": 19134,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 11,
+    "t": "Áno, veľmi ma zradil dom Izraela a dom Júdu, hovorí Hospodin."
+  },
+  {
+    "i": 19135,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 12,
+    "t": "Zapreli Hospodina a povedali: Niet ho! Nezasiahne nás nijaké nešťastie, neuvidíme meč ani hlad!"
+  },
+  {
+    "i": 19136,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 13,
+    "t": "Proroci sú len vietor a slovo v nich niet; nech sa im stane to, čo hovoria!"
+  },
+  {
+    "i": 19137,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 14,
+    "t": "Preto takto hovorí Hospodin, Boh zástupov: Pretože ste takto hovorili, urobím zo svojich slov oheň v tvojich ústach a z tohto ľudu drevo, ktoré ten oheň pohltí."
+  },
+  {
+    "i": 19138,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 15,
+    "t": "Ja privediem na vás národ z ďalekej krajiny, dom Izraela, hovorí Hospodin. Je to národ trvalý, je to národ veľmi starý, národ, ktorého jazyk nepoznáš a nerozumieš, čo hovorí."
+  },
+  {
+    "i": 19139,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 16,
+    "t": "Jeho tulec je otvorený hrob; je to národ hrdinov."
+  },
+  {
+    "i": 19140,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 17,
+    "t": "Zožerie tvoju úrodu a tvoj chlieb, zožerie tvojich synov a tvoje dcéry, zožerie tvoj malý i veľký dobytok, zožerie tvoj vinič a tvoj figovník; mečom zničí tie silné mestá, v ktoré dôveruješ."
+  },
+  {
+    "i": 19141,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 18,
+    "t": "Avšak ani v tých dňoch, hovorí Hospodin, vás úplne nezničím."
+  },
+  {
+    "i": 19142,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 19,
+    "t": "A keď sa budete pýtať: Prečo nám to všetko urobil Hospodin, náš Boh? Odpovieš im: Ako ste ma opustili, aby ste slúžili v svojej krajine cudzím bohom, tak budete slúžiť cudzincom v krajine, ktorá nie je vaša."
+  },
+  {
+    "i": 19143,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 20,
+    "t": "Oznamte to v dome Jákobovom, hlásajte to v Jude takto:"
+  },
+  {
+    "i": 19144,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 21,
+    "t": "Počujte teda toto, hlúpy ľudia a bez rozumu! Majú oči, ale nič nevidia, majú uši, ale nič nepočujú."
+  },
+  {
+    "i": 19145,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 22,
+    "t": "Mňa sa nebudete báť? Hovorí Hospodin. Nebudete sa triasť predo mnou, ktorý som položil piesok za hranicu mora, večnú bariéru, ktorú neprekročí: jeho vlny sa hýbu, ale sú bezmocné, hučia, ale ju neprekročia."
+  },
+  {
+    "i": 19146,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 23,
+    "t": "Ale tento ľud má spurné a odbojné srdce; sprotivili sa a odišli!"
+  },
+  {
+    "i": 19147,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 24,
+    "t": "Nepovedali si v srdci: Bojme sa Hospodina, nášho Boha, ktorý dáva dážď, jesenný i jarný, v svojom čase a ktorý nám zachováva týždne žatvy."
+  },
+  {
+    "i": 19148,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 25,
+    "t": "Vaše previnenia porušili tento poriadok, vaše hriechy odviedli od vás tieto dobrá."
+  },
+  {
+    "i": 19149,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 26,
+    "t": "Áno, v mojom ľude sa nachádzajú zločinci, striehnu ako vtáčnici v zálohe; kladú pasce a chytajú ľudí."
+  },
+  {
+    "i": 19150,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 27,
+    "t": "Ako je klietka plná vtákov, tak sú ich domy plné lúpeže; takto sa stali významnými a bohatými,"
+  },
+  {
+    "i": 19151,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 28,
+    "t": "sú tuční, lesklí, dokonca prekročili mieru zla: nerešpektujú právo, právo sirôt, no darí sa im! Nepreukázali spravodlivosť núdznym,"
+  },
+  {
+    "i": 19152,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 29,
+    "t": "a či by som nemal trestať tieto skutky? Hovorí Hospodin. Či by som sa nemal pomstiť národu, ako je tento?"
+  },
+  {
+    "i": 19153,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 30,
+    "t": "V tejto krajine sa dejú hrozné, ohavné veci:"
+  },
+  {
+    "i": 19154,
+    "b": 23,
+    "c": 2505,
+    "r": 2505,
+    "o": 31,
+    "t": "Proroci prorokujú lož, kňazi zarábajú. A môjmu ľudu sa to páči! Ale čo budete robiť, keď príde koniec?"
+  },
+  {
+    "i": 19155,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 1,
+    "t": "Utekajte, Benjamínci, z Jeruzalema! V Tekoe trúbte na trúbu! Na Bét-hakkeréme vztýčte zástavu! Lebo od severu prichádza nešťastie, veľká pohroma."
+  },
+  {
+    "i": 19156,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 2,
+    "t": "Krásnu a nežnú zničím, dcéru Siona!"
+  },
+  {
+    "i": 19157,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 3,
+    "t": "Prichádzajú k nej pastieri so svojimi stádami! Okolo nej rozložili stany, každý pasie svoju časť."
+  },
+  {
+    "i": 19158,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 4,
+    "t": "Pripravte proti nej svätý boj! Vstaňte! Vystúpme na útok za poludnia! Beda nám! Deň sa už nakláňa, večerné tiene sa predlžujú."
+  },
+  {
+    "i": 19159,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 5,
+    "t": "Vstaňte! Vystúpme na útok v noci, nech zničíme jej paláce!"
+  },
+  {
+    "i": 19160,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 6,
+    "t": "Lebo takto hovorí Hospodin zástupov: Vyrúbte stromy, pred Jeruzalemom postavte násyp: je to mesto, ktoré bude navštívené, v ktorom je len útlak."
+  },
+  {
+    "i": 19161,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 7,
+    "t": "Ako studňa, ktorá vydáva svoju vodu, tak ona vydáva svoju zlobu. Počuť v ňom násilie a pustošenie; predo mnou sú neustále choroby a zranenia."
+  },
+  {
+    "i": 19162,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 8,
+    "t": "Naprav sa, Jeruzalem, inak sa moja duša od teba odvráti, inak ťa premením na pustatinu, na neobývanú krajinu."
+  },
+  {
+    "i": 19163,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 9,
+    "t": "Takto hovorí Hospodin zástupov: Budú oberať, oberať ako na viniči, to, čo zostalo z Izraela; znova prejdú rukou, ako vinohradník po ratolestiach!"
+  },
+  {
+    "i": 19164,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 10,
+    "t": "Ku komu mám hovoriť, pred kým svedčiť, aby počúvali? Hľa, ich ucho je neobrezané, nemôžu byť pozorní. Hľa, slovo Hospodinovo je im na posmech, už im nechutí."
+  },
+  {
+    "i": 19165,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 11,
+    "t": "Som naplnený hnevom Hospodinovým, som unavený ho zadržiavať! Vylej ho teda na dieťa na ulici a aj na zhromaždenia mládeže. Budú zajatí, manžel i manželka a starý muž, človek plný dní."
+  },
+  {
+    "i": 19166,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 12,
+    "t": "Ich domy prejdú na iných, ich polia a ich ženy spolu. Áno, vystriem ruku na obyvateľov tejto krajiny, hovorí Hospodin!"
+  },
+  {
+    "i": 19167,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 13,
+    "t": "Lebo od najmenšieho po najväčšieho, všetci sú žiadostiví lúpeže; prorok ako kňaz, všetci konajú lož."
+  },
+  {
+    "i": 19168,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 14,
+    "t": "Ľahkovážne ošetrujú rany môjho ľudu hovoriac: Pokoj! Pokoj! Hoci niet pokoja."
+  },
+  {
+    "i": 19169,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 15,
+    "t": "Hanbia sa za svoje ohavné skutky, ale už necítia hanbu, už sa ani nevedia červenať. Preto padnú medzi tými, ktorí padajú, zakopnú, keď ich navštívim, hovorí Hospodin."
+  },
+  {
+    "i": 19170,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 16,
+    "t": "Takto hovorí Hospodin: Zastavte sa na cestách a pozrite sa, spýtajte sa na staré cesty: aká bola cesta dobra? Nasledujte ju a nájdete odpočinok pre svoje duše. Ale povedali: Nebudeme ju nasledovať!"
+  },
+  {
+    "i": 19171,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 17,
+    "t": "Ustanovil som pre vás strážcov: Pozor na zvuk trúby! Ale povedali: Nebudeme tomu venovať pozornosť!"
+  },
+  {
+    "i": 19172,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 18,
+    "t": "Tak teda, národy, počujte, zhromaždenie, poznaj, čo sa im stane!"
+  },
+  {
+    "i": 19173,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 19,
+    "t": "Zem, počuj! Hľa, privádzam na tento ľud nešťastie: je to ovocie ich myšlienok, lebo nevenovali pozornosť mojim slovám a pohŕdali mojím zákonom."
+  },
+  {
+    "i": 19174,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 20,
+    "t": "Čo mi záleží na kadidle dovezenom zo Šéby, na vonnej trstine, ktorá prichádza z ďalekej krajiny? Vaše spaľované obete sa mi nepáčia, vaše obete mi nie sú príjemné."
+  },
+  {
+    "i": 19175,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 21,
+    "t": "Preto takto hovorí Hospodin: Hľa, položím pred tento ľud prekážky, o ktoré zakopnú. Otec i syn, všetci spolu, sused a priateľ, zahynú."
+  },
+  {
+    "i": 19176,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 22,
+    "t": "Takto hovorí Hospodin: Hľa, prichádza ľud od severu, veľký národ sa dvíha z končín zeme;"
+  },
+  {
+    "i": 19177,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 23,
+    "t": "pevne držia luk a oštep, sú barbarskí a nemilosrdní; ich hluk je ako hučanie mora; sedia na koňoch, sú pripravení bojovať ako jeden muž proti tebe, dcéra Siona."
+  },
+  {
+    "i": 19178,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 24,
+    "t": "Dozvedeli sme sa novinu, naše ruky zoslabli, zmocnila sa nás úzkosť, bolesť ako pri rodičke."
+  },
+  {
+    "i": 19179,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 25,
+    "t": "Nevychádzajte do poľa, neriskujte na cestách, lebo nepriateľ nesie meč: hrôza zo všetkých strán!"
+  },
+  {
+    "i": 19180,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 26,
+    "t": "Dcéra ľudu môjho, obleč sa do vrecoviny, váľaj sa v popole, smúť ako za jediným synom, horko nariekaj, lebo náhle prichádza na nás pustošiteľ."
+  },
+  {
+    "i": 19181,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 27,
+    "t": "Ustanovil som ťa ako skúšajúceho môjho ľudu, aby si poznal a vyskúšal ich správanie."
+  },
+  {
+    "i": 19182,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 28,
+    "t": "Všetci sú do jedného vzbúrenci, rozsievači ohovárania, tvrdí ako meď a železo, všetci sú skazonosní."
+  },
+  {
+    "i": 19183,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 29,
+    "t": "Mechy horia, aby olovo bolo strávené ohňom. Marné je úsilie hutníka, lebo troska sa neodlučuje."
+  },
+  {
+    "i": 19184,
+    "b": 23,
+    "c": 2506,
+    "r": 2506,
+    "o": 30,
+    "t": "„Striebro zavrhnuté,“ tak ich nazývajú! Áno, Hospodin ich zavrhol!"
+  },
+  {
+    "i": 19185,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 1,
+    "t": "Slovo, ktoré prehovoril Hospodin k Jeremiášovi, hovoriac:"
+  },
+  {
+    "i": 19186,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 2,
+    "t": "Postav sa do brány Hospodinovho chrámu a hlásaj tam toto slovo a hovor: Počujte slovo Hospodinovo, všetci Júdejčania, ktorí vchádzate týmito bránami, aby ste sa klaňali pred Hospodinom."
+  },
+  {
+    "i": 19187,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 3,
+    "t": "Takto hovorí Hospodin Zástupov, Boh Izraela: Napravte svoje cesty a svoje skutky a ja vám dám bývať na tomto mieste."
+  },
+  {
+    "i": 19188,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 4,
+    "t": "Nespoliehajte sa na klamlivé slová: „Toto je svätyňa Hospodinova, svätyňa Hospodinova, svätyňa Hospodinova!“"
+  },
+  {
+    "i": 19189,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 5,
+    "t": "Ak však skutočne napravíte svoje cesty a svoje skutky, ak budete konať právo jeden voči druhému,"
+  },
+  {
+    "i": 19190,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 6,
+    "t": "ak nebudete utláčať cudzinca, sirotu a vdovu, ak nebudete prelievať nevinnú krv na tomto mieste a ak nepôjdete za cudzími bohmi na svoju záhubu,"
+  },
+  {
+    "i": 19191,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 7,
+    "t": "vtedy vám dám bývať na tomto mieste, v krajine, ktorú som dal vašim otcom od večnosti až naveky."
+  },
+  {
+    "i": 19192,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 8,
+    "t": "Ale hľa, vy sa spoliehate na klamlivé slová, na to, čo je márne."
+  },
+  {
+    "i": 19193,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 9,
+    "t": "Čože! Kradnúť, vraždiť, cudzoložiť, krivo prisahať, páliť kadidlo Baalovi, nasledovať cudzích bohov, ktorých nepoznáte,"
+  },
+  {
+    "i": 19194,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 10,
+    "t": "a potom prísť a postaviť sa predo mňa v tomto chráme, ktorý nesie moje meno, a povedať: „Sme v bezpečí!“, aby ste mohli pokračovať vo všetkých týchto ohavnostiach!"
+  },
+  {
+    "i": 19195,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 11,
+    "t": "Je snáď vo vašich očiach táto svätyňa, ktorá nesie moje meno, pelešou zbojníkov? Ja však vidím jasne, hovorí Hospodin!"
+  },
+  {
+    "i": 19196,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 12,
+    "t": "Choďte teda na miesto, ktoré bolo moje, do Šíla: tam som kedysi prebýval so svojím menom; pozrite sa, čo som s ním urobil pre zlobu svojho ľudu Izraela."
+  },
+  {
+    "i": 19197,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 13,
+    "t": "A teraz, pretože ste páchali všetky tieto skutky - hovorí Hospodin - pretože ste nepočúvali, keď som k vám neúnavne hovoril, a neodpovedali ste na moje volanie,"
+  },
+  {
+    "i": 19198,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 14,
+    "t": "tak naložím s týmto chrámom, ktorý nesie moje meno, a v ktorom máte dôveru, s týmto miestom, ktoré som dal vám a vašim otcom, ako som naložil so Šílom."
+  },
+  {
+    "i": 19199,
+    "b": 23,
+    "c": 2507,
+    "r": 2507,
+    "o": 15,
+    "t": "Odvrhnem vás od seba, ako som odvrhol všetkých vašich bratov, celý rod Efraimov."
+  }
+]

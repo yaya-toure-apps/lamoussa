@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26900,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 25,
+    "t": "Ne légy erős a bor mellett, mert a bor sokakat elpusztított már."
+  },
+  {
+    "i": 26901,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 26,
+    "t": "A kemence próbálja meg az acél edzettségét, így próbálja meg a bor a szíveket a hencegők tornáján."
+  },
+  {
+    "i": 26902,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 27,
+    "t": "A bor élet az ember számára, ha mértékkel issza. Milyen élet az, amely bortól megfosztatik? Az emberek örömére teremtetett."
+  },
+  {
+    "i": 26903,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 28,
+    "t": "Szívvidámság és a lélek öröme, íme a bor, melyet akkor iszunk, amikor kell, és a maga teljességében."
+  },
+  {
+    "i": 26904,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 29,
+    "t": "Lélek keserűsége, íme a bor, melyet mértéktelenül, szenvedéllyel és kihívással iszunk."
+  },
+  {
+    "i": 26905,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 30,
+    "t": "A részegség felkelti a bolond dühét a maga vesztére, csökkenti erejét és ütéseket provokál."
+  },
+  {
+    "i": 26906,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 31,
+    "t": "Lakoma közben ne provokáld a szomszédodat, és ne csúfold ki őt, ha vidám, ne vess szemére semmit, ne bosszantsd azzal, hogy követelődzöl."
+  },
+  {
+    "i": 26907,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 1,
+    "t": "Elöljáróvá tettek téged? Ne viselkedj gőgösen, légy a vendégekkel, mint egy közülük, gondoskodj róluk, és azután ülj le."
+  },
+  {
+    "i": 26908,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 2,
+    "t": "Miután minden kötelességedet teljesítetted, foglalj helyet, hogy velük örvendezz, és elnyerd a koszorút, sikerességed díját."
+  },
+  {
+    "i": 26909,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 3,
+    "t": "Szólj, vénember, mert az illik hozzád, de diszkréten: ne akadályozd a zenét."
+  },
+  {
+    "i": 26910,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 4,
+    "t": "Hallgatás közben ne áraszd a beszédeket, ne prédikálj alkalmatlan időben."
+  },
+  {
+    "i": 26911,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 5,
+    "t": "Karneolpecsét az ékszeren, ilyen a zenei koncert a lakoma közben."
+  },
+  {
+    "i": 26912,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 6,
+    "t": "Smaragdpecsét aranyfoglalatban, ilyen a dallam a válogatott bor mellett."
+  },
+  {
+    "i": 26913,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 7,
+    "t": "Szólj, ifjú ember, amikor szükséges, legfeljebb kétszer, ha kérdeznek téged."
+  },
+  {
+    "i": 26914,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 8,
+    "t": "Fogd össze a beszédedet, mondj sokat kevés szóval, tudd megmutatni magad egyszerre értelmesnek és csendesnek."
+  },
+  {
+    "i": 26915,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 9,
+    "t": "Ne tárgyalj a nagyokkal egyenlőként, ha más beszél, légy szűkszavú."
+  },
+  {
+    "i": 26916,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 10,
+    "t": "A villám előzi meg a mennydörgést, a kegyelem a szerény embert."
+  },
+  {
+    "i": 26917,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 11,
+    "t": "Mikor eljön az óra, menj el, ne húzd az időt, siess haza, ne lézengj."
+  },
+  {
+    "i": 26918,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 12,
+    "t": "Ott szórakozz, tégy, ami tetszik neked, de ne vétkezz azzal, hogy szemtelenül beszélsz."
+  },
+  {
+    "i": 26919,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 13,
+    "t": "És ezért áldd az Alkotót, azt, aki elhalmoz téged jótéteményeivel."
+  },
+  {
+    "i": 26920,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 14,
+    "t": "Aki féli az Urat, megérti a tanításait, akik keresik őt, megtalálják kegyét."
+  },
+  {
+    "i": 26921,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 15,
+    "t": "Aki a törvényt kutatja, betelik vele, de a képmutatónak az botrány."
+  },
+  {
+    "i": 26922,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 16,
+    "t": "Akik félik az Urat, helyes döntést hoznak, jótetteik úgy ragyognak, mint a fény."
+  },
+  {
+    "i": 26923,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 17,
+    "t": "A bűnös nem fogadja el a feddést, hogy kövesse akaratát, kifogásokat talál."
+  },
+  {
+    "i": 26924,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 18,
+    "t": "Az értelmes ember nem veti meg a tanácsokat, az idegen és a büszke nem ismeri a félelmet."
+  },
+  {
+    "i": 26925,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 19,
+    "t": "Ne tégy semmit gondolkodás nélkül, akkor nem fogod megbánni a tetteidet."
+  },
+  {
+    "i": 26926,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 20,
+    "t": "Ne járj rögös úton, nehogy megbotolj a köveken."
+  },
+  {
+    "i": 26927,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 21,
+    "t": "Ne bízz a sima úton"
+  },
+  {
+    "i": 26928,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 22,
+    "t": "és óvakodj a gyermekeidtől."
+  },
+  {
+    "i": 26929,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 23,
+    "t": "Mindenben vigyázz magadra, ez is a parancsolatok megtartása."
+  },
+  {
+    "i": 26930,
+    "b": 45,
+    "c": 4732,
+    "r": 4732,
+    "o": 24,
+    "t": "Aki bízik a törvényben, megtartja annak előírásait, aki az Úrban bízik, semmilyen kárt nem szenved."
+  },
+  {
+    "i": 26931,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 1,
+    "t": "Akit féli az Úr, nem sújtja a rossz, és még a próbatételben is megszabadul."
+  },
+  {
+    "i": 26932,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 2,
+    "t": "Aki gyűlöli a törvényt, nem bölcs, de a hamis megtartó olyan, mint a hajó a viharban."
+  },
+  {
+    "i": 26933,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 3,
+    "t": "Az értelmes ember bízik a törvényben, a törvény számára olyan hiteles, mint egy jóslat."
+  },
+  {
+    "i": 26934,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 4,
+    "t": "Készítsd elő a beszédeidet, és meghallgatásra találsz, gyűjtsd össze a tudásodat, mielőtt válaszolsz."
+  },
+  {
+    "i": 26935,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 5,
+    "t": "A bolond érzései olyanok, mint a szekér kereke, az érvelése olyan, mint a tengely, mely forog."
+  },
+  {
+    "i": 26936,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 6,
+    "t": "A tüzelő ló olyan, mint a gúnyolódó barát, amint fel akarnak ülni rá, nyerít."
+  },
+  {
+    "i": 26937,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 7,
+    "t": "Miért nagyobb egyik nap, mint a másik, hiszen egész évben a naptól jön a fény?"
+  },
+  {
+    "i": 26938,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 8,
+    "t": "Azért, mert ki lettek különböztetve az Úr gondolatában, aki változatossá tette az évszakokat és az ünnepeket."
+  },
+  {
+    "i": 26939,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 9,
+    "t": "Ő magasztalta fel és szentelte meg az egyiket, a másikat pedig közönséges nappá tette."
+  },
+  {
+    "i": 26940,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 10,
+    "t": "Minden ember a porból származik, a földből lett Ádám megformálva."
+  },
+  {
+    "i": 26941,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 11,
+    "t": "Nagy bölcsességében az Úr megkülönböztette őket, változatossá tette életkörülményeiket."
+  },
+  {
+    "i": 26942,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 12,
+    "t": "Megáldott és felmagasztalt némelyeket, megszentelte és maga mellé helyezte őket. Elátkozott és megalázott némelyeket, és elvetette őket helyükről."
+  },
+  {
+    "i": 26943,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 13,
+    "t": "Mint a fazekas kezében a agyag, aki kedve szerint formálja, úgy az emberek Teremtőjük kezében, aki igazsága szerint jutalmazza őket."
+  },
+  {
+    "i": 26944,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 14,
+    "t": "A rosszal szemben ott a jó, a halállal szemben az élet. Így, a kegyes emberrel szemben, a bűnös."
+  },
+  {
+    "i": 26945,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 15,
+    "t": "Tekintsd tehát meg a Magasságos minden művét, minden párban jár, szemben egymással."
+  },
+  {
+    "i": 26946,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 16,
+    "t": "Én, utolsóként érkezve, úgy virrasztottam, mint a szőlőszemező a szüretelők után."
+  },
+  {
+    "i": 26947,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 17,
+    "t": "Az Úr áldásával elsőként érkezem, és mint a szüretelő, megtöltöttem a sajtót."
+  },
+  {
+    "i": 26948,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 18,
+    "t": "Ismerjétek fel, hogy nem csak magamért munkálkodtam, hanem mindazokért, akik az oktatást keresik."
+  },
+  {
+    "i": 26949,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 19,
+    "t": "Hallgassatok tehát rám, nép nagyjai, a gyülekezet elöljárói, figyeljetek ide!"
+  },
+  {
+    "i": 26950,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 20,
+    "t": "A fiadnak, a feleségednek, a testvérednek, a barátodnak, ne adj hatalmat magad fölött életedben. Ne add másnak a javaidat, megbánhatod, és vissza kell kérned őket."
+  },
+  {
+    "i": 26951,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 21,
+    "t": "Amíg élsz, és van még lélegzeted, ne add át magad senkinek a hatalmába."
+  },
+  {
+    "i": 26952,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 22,
+    "t": "Mert jobb, ha a gyermekeid könyörögnek neked, mint ha te fordítasz feléjük könyörgő tekinteteket."
+  },
+  {
+    "i": 26953,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 23,
+    "t": "Mindenben, amit teszel, maradj te a mester, ne ejts foltot a hírneveden."
+  },
+  {
+    "i": 26954,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 24,
+    "t": "Amikor betelnek életed napjai, a halál órájában oszd szét az örökségedet."
+  },
+  {
+    "i": 26955,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 25,
+    "t": "A szamárnak a takarmány, a bot, a terhek, a szolgának a kenyér, a büntetés, a munka."
+  },
+  {
+    "i": 26956,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 26,
+    "t": "Dolgoztasd a rabszolgádat, nyugalmat találsz; hagyd szabadon a kezeit, szabadságot fog keresni."
+  },
+  {
+    "i": 26957,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 27,
+    "t": "Az iga és a zabla meghajlítja a nyakat, a rossz szolgának a kínzás és a kérdezés."
+  },
+  {
+    "i": 26958,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 28,
+    "t": "Dolgoztasd őt, hogy ne maradjon tétlen,"
+  },
+  {
+    "i": 26959,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 29,
+    "t": "mert a tétlenség minden rossz trükköt megtanít."
+  },
+  {
+    "i": 26960,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 30,
+    "t": "Fogd munkára, ahogy illik, és ha nem engedelmeskedik, verd láncra. De ne légy túl követelőző senkivel szemben, ne tégy semmi igazságtalant."
+  },
+  {
+    "i": 26961,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 31,
+    "t": "Csak egy rabszolgád van? Legyen, mint te magad, hiszen vérrel vetted őt. Csak egy rabszolgád van? Bánj vele úgy, mint egy testvérrel, mert szükséged van rá, mint magadra."
+  },
+  {
+    "i": 26962,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 32,
+    "t": "Ha rosszul bánsz vele, és megszökik,"
+  },
+  {
+    "i": 26963,
+    "b": 45,
+    "c": 4733,
+    "r": 4733,
+    "o": 33,
+    "t": "melyik úton fogsz keresni őt?"
+  },
+  {
+    "i": 26964,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 1,
+    "t": "A hiú és csalóka remények a bolondnak valók, és az álmok szárnyakat adnak az ostobáknak."
+  },
+  {
+    "i": 26965,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 2,
+    "t": "Árnyat megragadni és a szelet kergetni annyi, mint álmoknál időzni."
+  },
+  {
+    "i": 26966,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 3,
+    "t": "A tükör és az álmok hasonló dolgok: egy arc előtt megjelenik annak képe."
+  },
+  {
+    "i": 26967,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 4,
+    "t": "A tisztátalanból mit lehet tisztát nyerni? A hazugságból mit lehet igazat nyerni?"
+  },
+  {
+    "i": 26968,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 5,
+    "t": "Jóslás, augúriumok, álmok, csupa hiábavalóság, ezek terhes asszony álmodozásai."
+  },
+  {
+    "i": 26969,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 6,
+    "t": "Hacsak nem a Magasságos küldi őket látogatóba, ne alkalmazd rájuk a szívedet."
+  },
+  {
+    "i": 26970,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 7,
+    "t": "Az álmok sokakat félrevezettek, akik számítottak rájuk, elbuktak."
+  },
+  {
+    "i": 26971,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 8,
+    "t": "Hazugság nélkül teljesedik be a Törvény, és a bölcsesség tökéletes az őszinteségben."
+  },
+  {
+    "i": 26972,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 9,
+    "t": "Sokat tanult az, aki sokat utazott, és a tapasztalt ember értelmesen beszél."
+  },
+  {
+    "i": 26973,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 10,
+    "t": "Aki nem volt próba alá vetve, keveset tud,"
+  },
+  {
+    "i": 26974,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 11,
+    "t": "de aki utazott, bővelkedik a tudásban."
+  },
+  {
+    "i": 26975,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 12,
+    "t": "Sokat láttam utazásaim során, és többet értettem meg, mint amennyit el tudnék mondani."
+  },
+  {
+    "i": 26976,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 13,
+    "t": "Sokszor voltam halálveszélyben, és megmenekültem, íme, hogyan:"
+  },
+  {
+    "i": 26977,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 14,
+    "t": "Akik félik az Urat, lelkük élni fog,"
+  },
+  {
+    "i": 26978,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 15,
+    "t": "mert reményük arra támaszkodik, aki megmentheti őket."
+  },
+  {
+    "i": 26979,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 16,
+    "t": "Aki féli az Urat, nem fél semmitől, nem remeg, mert Isten a reménye."
+  },
+  {
+    "i": 26980,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 17,
+    "t": "Boldog az a lélek, aki féli az Urat:"
+  },
+  {
+    "i": 26981,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 18,
+    "t": "kire támaszkodik és ki az ő támasza?"
+  },
+  {
+    "i": 26982,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 19,
+    "t": "Az Úr szemei azokra néznek, akik őt szeretik, hatalmas védelem, erős támasz, menedék a sivatag szele elől, árnyék a déli hőség ellen, védelem az akadályok ellen, biztonság az elesésekkel szemben."
+  },
+  {
+    "i": 26983,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 20,
+    "t": "Ő emeli fel a lelket, ő világítja meg a szemeket, ő ad egészséget, életet és áldást."
+  },
+  {
+    "i": 26984,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 21,
+    "t": "A rosszul szerzett javak feláldozása gúnyolódás,"
+  },
+  {
+    "i": 26985,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 22,
+    "t": "a gonoszok ajándékai nem kedvesek."
+  },
+  {
+    "i": 26986,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 23,
+    "t": "A Magasságos nem fogadja el a gonoszok áldozatait, nem az áldozatok bősége miatt bocsátja meg a bűnöket."
+  },
+  {
+    "i": 26987,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 24,
+    "t": "Olyan, mintha a fiút áldozná fel apja jelenlétében, aki a szegények javaival áldoz."
+  },
+  {
+    "i": 26988,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 25,
+    "t": "A szegények élete a sovány élelem, megfosztani őket ettől gyilkosság."
+  },
+  {
+    "i": 26989,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 26,
+    "t": "Olyan, mintha megölné felebarátját, aki elveszi tőle a megélhetést,"
+  },
+  {
+    "i": 26990,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 27,
+    "t": "vérontás az, ha megfosztja a munkást a járandóságától."
+  },
+  {
+    "i": 26991,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 28,
+    "t": "Az egyik épít, a másik rombol; mit nyernek ebből, ha nem bajt?"
+  },
+  {
+    "i": 26992,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 29,
+    "t": "Az egyik áld, a másik átkoz: kinek a hangját hallgatja meg az Úr?"
+  },
+  {
+    "i": 26993,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 30,
+    "t": "Aki megtisztul a halott érintésétől, és ismét megérinti, mire jó az ő mosakodása?"
+  },
+  {
+    "i": 26994,
+    "b": 45,
+    "c": 4734,
+    "r": 4734,
+    "o": 31,
+    "t": "Így az ember, aki böjtöl a bűneiért, aztán elmegy és ismét elköveti azokat; ki hallgatja meg az ő imáját? Mire jó megalázkodnia?"
+  },
+  {
+    "i": 26995,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 1,
+    "t": "A törvény megtartása az áldozatok megsokszorozása,"
+  },
+  {
+    "i": 26996,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 2,
+    "t": "a parancsokhoz ragaszkodni a közösségi áldozatok bemutatása."
+  },
+  {
+    "i": 26997,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 3,
+    "t": "Irgalmasnak lenni finomlisztből való áldozat bemutatása,"
+  },
+  {
+    "i": 26998,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 4,
+    "t": "alamizsnát adni dicsőítő áldozat bemutatása."
+  },
+  {
+    "i": 26999,
+    "b": 45,
+    "c": 4735,
+    "r": 4735,
+    "o": 5,
+    "t": "Ami tetszik az Úrnak, az az, ha elfordulunk a gonosztól, engesztelő áldozat az igazságtalanság elkerülése."
+  }
+]

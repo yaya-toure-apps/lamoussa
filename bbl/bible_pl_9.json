@@ -1,0 +1,802 @@
+[
+  {
+    "i": 900,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 28,
+    "t": "Nie pozwoliłeś mi ucałować synów moich i córek moich. Zaiste, nierozumnieś uczynił!"
+  },
+  {
+    "i": 901,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 29,
+    "t": "W mocy mej ręki jest uczynić ci zło, lecz Bóg ojca twego, nocy onej, rzekł do mnie: Strzeż się, abyś nie mówił do Jakuba nic złego."
+  },
+  {
+    "i": 902,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 30,
+    "t": "Terazże odszedłeś, przeto że tęskniłeś bardzo do domu ojca twego! A czemuż ukradłeś bogów moich?"
+  },
+  {
+    "i": 903,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 31,
+    "t": "I odpowiedział Jakub Labanowi, rzekąc: \"Bałem się, bo rzekłem sobie, iżbyś mi nie zabrał córek twoich."
+  },
+  {
+    "i": 904,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 32,
+    "t": "Lecz u kogo znajdziesz bogów twoich, ten niechaj nie żyje; przed braćmi naszymi rozpoznaj, co jest twego u mnie, i weź to sobie.\" Albowiem Jakub nie wiedział, że Rachel ukradła ich."
+  },
+  {
+    "i": 905,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 33,
+    "t": "I wszedł Laban do namiotu Jakuba, i do namiotu Lei, i do namiotu dwóch służebnic, i nic nie znalazł. I wyszedł z namiotu Lei, i wszedł do namiotu Rachel."
+  },
+  {
+    "i": 906,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 34,
+    "t": "A Rachel wzięła bożki domowe, i włożyła je w kosz juczny wielbłąda, i usiadła na nich. I przeszukał Laban wszystek namiot, i nic nie znalazł."
+  },
+  {
+    "i": 907,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 35,
+    "t": "I rzekła Rachel do ojca swego: \"Niechże nie gniewa się pan mój, że nie mogę powstać przed obliczem twoim, bo mam to, co zwykłe jest u kobiet.\" I szukał, a nie znalazł bożków."
+  },
+  {
+    "i": 908,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 36,
+    "t": "I rozgniewał się Jakub, i strofował Labana. I rzekł Jakub do Labana: \"Jakiż jest grzech mój, jakaż wina moja, że tak zapalczywie goniłeś za mną?"
+  },
+  {
+    "i": 909,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 37,
+    "t": "Przeszukałeś wszystkie sprzęty moje; co znalazłeś z wszystkich sprzętów domu twego? Połóż to tutaj przed braćmi moimi i braćmi twoimi, niechaj rozsądzą między nami obydwoma!"
+  },
+  {
+    "i": 910,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 38,
+    "t": "Oto dwadzieścia lat jestem u ciebie, owce twoje i kozy twoje nie roniły, a baranów trzody twojej nie jadłem."
+  },
+  {
+    "i": 911,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 39,
+    "t": "Sztuki rozszarpanej nie przynosiłem ci, ja sam ponosiłem stratę; ode mnie żądałeś jej, czy została skradziona w dzień, czy skradziona w nocy."
+  },
+  {
+    "i": 912,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 40,
+    "t": "Za dnia trawił mnie upał, a w nocy mróz, i sen uciekał od oczu moich."
+  },
+  {
+    "i": 913,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 41,
+    "t": "Oto dwadzieścia lat jestem w domu twoim; służyłem ci czternaście lat za dwie córki twoje, i sześć lat za trzodę twoją, i dziesięciokrotnie zmieniałeś zapłatę moją."
+  },
+  {
+    "i": 914,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 42,
+    "t": "Gdyby Bóg ojca mego, Bóg Abrahama, Strach Izaaka, nie był ze mną, z pewnością teraz odprawiłbyś mnie z niczym. Bóg wejrzał na utrapienie moje i na trud rąk moich, i nocy onej wydał wyrok."
+  },
+  {
+    "i": 915,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 43,
+    "t": "I odpowiedział Laban, i rzekł do Jakuba: \"Córki te są córkami moimi, dzieci te są dziećmi moimi, trzoda ta jest trzodą moją, wszystko, co widzisz, jest moje. Lecz cóż mam uczynić dzisiaj córkom moim, albo dzieciom, które one urodziły?"
+  },
+  {
+    "i": 916,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 44,
+    "t": "Przeto teraz uczyńmy przymierze, ja i ty..., i niech to będzie świadectwem między mną a tobą."
+  },
+  {
+    "i": 917,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 45,
+    "t": "Wziął tedy Jakub kamień, i postawił go jako stelę."
+  },
+  {
+    "i": 918,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 46,
+    "t": "I rzekł Jakub do braci swoich: \"Nazbierajcie kamieni.\" I nazbierali kamieni, i usypali z nich kopiec, i jedli tam, na kopcu."
+  },
+  {
+    "i": 919,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 47,
+    "t": "I nazwał go Laban Jegar Sahaduta, a Jakub nazwał go Galeed."
+  },
+  {
+    "i": 920,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 48,
+    "t": "I rzekł Laban: \"Niechaj ten kopiec będzie dzisiaj świadkiem między mną a tobą.\" Dlatego nazwał go Galeed,"
+  },
+  {
+    "i": 921,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 49,
+    "t": "I Mispa, ponieważ rzekł: \"Niechaj Pan czuwa między mną a tobą, gdy się oddalimy od siebie."
+  },
+  {
+    "i": 922,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 50,
+    "t": "Jeśli będziesz źle obchodził się z córkami moimi, albo jeśli weźmiesz inne żony oprócz córek moich, a nie będzie z nami nikogo, patrz: Bóg jest świadkiem między mną a tobą."
+  },
+  {
+    "i": 923,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 51,
+    "t": "I rzekł Laban do Jakuba: \"Oto ten kopiec, który usypałem między mną a tobą, i oto stela."
+  },
+  {
+    "i": 924,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 52,
+    "t": "Świadkiem jest ten kopiec i świadkiem jest ta stela, że ja nie będę przechodził poza ten kopiec ku tobie, i że ty nie będziesz przechodził poza ten kopiec i tę stelę ku mnie, w złym zamiarze."
+  },
+  {
+    "i": 925,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 53,
+    "t": "Bóg Abrahama i Bóg Nachora niechaj rozsądzi między nami.\" I przysiągł Jakub na Strach Izaaka, ojca swego."
+  },
+  {
+    "i": 926,
+    "b": 0,
+    "c": 131,
+    "r": 131,
+    "o": 54,
+    "t": "I złożył Jakub ofiarę na górze, i zaprosił braci swoich na ucztę. I jedli ucztę, i spędzili noc na górze."
+  },
+  {
+    "i": 927,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 1,
+    "t": "Wstawszy wcześnie rano, Laban ucałował wnuki swoje i córki swoje, i pobłogosławił im. Potem odszedł Laban, i wrócił do domu swego."
+  },
+  {
+    "i": 928,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 2,
+    "t": "A Jakub szedł swoją drogą, i spotkali go aniołowie Boży."
+  },
+  {
+    "i": 929,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 3,
+    "t": "Widząc ich, Jakub rzekł: \"To jest obóz Boży!\" I nazwał to miejsce Machanajim."
+  },
+  {
+    "i": 930,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 4,
+    "t": "I wysłał Jakub posłów przed sobą do Ezawa, brata swego, do ziemi Seir, na pole Edom."
+  },
+  {
+    "i": 931,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 5,
+    "t": "I dał im taki rozkaz: \"Tak powiedzcie panu memu Ezawowi: Tak mówi sługa twój Jakub: Mieszkałem u Labana i przebywałem tam aż dotąd."
+  },
+  {
+    "i": 932,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 6,
+    "t": "I nabyłem woły i osły, trzody i sługi, i służebnice. Chcę to oznajmić panu memu, aby znaleźć łaskę w oczach twoich."
+  },
+  {
+    "i": 933,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 7,
+    "t": "I wrócili posłowie do Jakuba, mówiąc: \"Byliśmy u brata twego, Ezawa, a on sam idzie teraz na spotkanie tobie, a z nim czterysta mężów."
+  },
+  {
+    "i": 934,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 8,
+    "t": "I zlęknął się Jakub bardzo, i był zatrwożony. Podzielił tedy na dwa obozy lud, który był z nim, i trzody, i bydło."
+  },
+  {
+    "i": 935,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 9,
+    "t": "I rzekł sobie: \"Jeśli Ezaw przyjdzie do jednego obozu, i uderzy na niego, to obóz, który pozostanie, będzie mógł się uratować."
+  },
+  {
+    "i": 936,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 10,
+    "t": "I rzekł Jakub: \"Boże ojca mego Abrahama, i Boże ojca mego Izaaka, Panie, który mi rozkazałeś: Wróć do ziemi twojej i do rodziny twojej, a ja ci dobrze uczynię,"
+  },
+  {
+    "i": 937,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 11,
+    "t": "Jestem niegodny wszystkich łask i wszelkiej dobroci, którą wyświadczyłeś słudze twemu. Albowiem tylko z laską moją przeszedłem ten Jordan, a teraz mam dwa obozy."
+  },
+  {
+    "i": 938,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 12,
+    "t": "Wybaw mnie, proszę, z ręki brata mego, z ręki Ezawa, bo się go boję, żeby przypadkiem nie przyszedł i nie pobił mnie, matki z dziećmi."
+  },
+  {
+    "i": 939,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 13,
+    "t": "Ty przecież rzekłeś: Uczynię ci dobrze i rozmnożę potomstwo twoje jak piasek morski, którego z powodu mnóstwa nie można zliczyć."
+  },
+  {
+    "i": 940,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 14,
+    "t": "I spędził tam noc. A z tego, co miał pod ręką, wziął na dar dla brata swego Ezawa:"
+  },
+  {
+    "i": 941,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 15,
+    "t": "Dwieście kóz i dwadzieścia kozłów, dwieście owiec i dwadzieścia baranów,"
+  },
+  {
+    "i": 942,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 16,
+    "t": "Wielbłądy karmiące z ich małymi, czterdzieści krów i dziesięć byków, dwadzieścia oślic i dziesięć ośląt."
+  },
+  {
+    "i": 943,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 17,
+    "t": "I powierzył je sługom swoim, każdą trzodę osobno, i rzekł do sług swoich: \"Idźcie przede mną, i zostawcie przestrzeń między trzodami."
+  },
+  {
+    "i": 944,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 18,
+    "t": "I rozkazał pierwszemu, mówiąc: \"Gdy spotka cię brat mój Ezaw, i zapyta cię: Czyj jesteś? Dokąd idziesz? Czyje jest to, co idzie przed tobą?"
+  },
+  {
+    "i": 945,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 19,
+    "t": "Wtedy odpowiesz: Sługi twego Jakuba, to jest dar posłany panu memu Ezawowi, a on sam idzie za nami."
+  },
+  {
+    "i": 946,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 20,
+    "t": "I rozkazał także drugiemu, i trzeciemu, i wszystkim, którzy szli za trzodami, mówiąc: \"Tak powiecie Ezawowi, gdy go spotkacie,"
+  },
+  {
+    "i": 947,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 21,
+    "t": "I powiecie: Także i sługa twój Jakub idzie za nami.\" Albowiem rzekł sobie: \"Przebłagam go darem, który idzie przede mną, potem ujrzę jego oblicze, może mi przebaczy."
+  },
+  {
+    "i": 948,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 22,
+    "t": "I poszedł dar przed nim, a on sam spędził tę noc w obozie."
+  },
+  {
+    "i": 949,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 23,
+    "t": "Tejże nocy wstał, i wziął dwie żony swoje, i dwie służebnice swoje, i jedenaścioro dzieci swoich, i przeprawił się przez bród Jabboku."
+  },
+  {
+    "i": 950,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 24,
+    "t": "Wziął ich i przeprowadził przez potok, i przeprowadził także wszystko, co miał."
+  },
+  {
+    "i": 951,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 25,
+    "t": "I pozostał Jakub sam. I ktoś zmagał się z nim aż do wschodu zorzy porannej."
+  },
+  {
+    "i": 952,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 26,
+    "t": "Widząc, że go nie przemaga, dotknął go w staw biodrowy, i wywichnął się staw biodrowy Jakuba, gdy się z nim zmagał."
+  },
+  {
+    "i": 953,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 27,
+    "t": "I rzekł: \"Puść mnie, bo już wschodzi zorza poranna\", ale Jakub odpowiedział: \"Nie puszczę cię, aż mi pobłogosławisz."
+  },
+  {
+    "i": 954,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 28,
+    "t": "I zapytał go: \"Jakie jest imię twoje?\" Odpowiedział: \"Jakub."
+  },
+  {
+    "i": 955,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 29,
+    "t": "I rzekł: \"Nie będziesz się już nazywał Jakub, lecz Izrael, bo walczyłeś z Bogiem i z ludźmi, i zwyciężyłeś."
+  },
+  {
+    "i": 956,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 30,
+    "t": "I rzekł Jakub: \"Powiedz mi, proszę, imię twoje\", ale on odpowiedział: \"Czemu pytasz o imię moje?\" I pobłogosławił mu tam."
+  },
+  {
+    "i": 957,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 31,
+    "t": "I nazwał Jakub to miejsce Penuel, \"bo widziałem Boga twarzą w twarz, a jednak życie moje zostało zachowane."
+  },
+  {
+    "i": 958,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 32,
+    "t": "Gdy słońce wzeszło, minął Penuel, i kuśtykał na biodro swoje."
+  },
+  {
+    "i": 959,
+    "b": 0,
+    "c": 132,
+    "r": 132,
+    "o": 33,
+    "t": "Dlatego synowie Izraela nie jedzą aż do dnia dzisiejszego ścięgna biodrowego, które jest w stawie biodrowym, dlatego że dotknął stawu biodrowego Jakuba, w ścięgno biodrowe."
+  },
+  {
+    "i": 960,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 1,
+    "t": "A Jakub, podniósłszy oczy swoje, ujrzał, że Ezaw idzie, a z nim czterysta mężów. Podzielił tedy dzieci między Leę, Rachelę i dwie służebnice,"
+  },
+  {
+    "i": 961,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 2,
+    "t": "I postawił na przedzie służebnice i ich dzieci, potem Leę i jej dzieci, a na końcu Rachelę i Józefa."
+  },
+  {
+    "i": 962,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 3,
+    "t": "Sam zaś poszedł przed nimi, i pokłonił się siedem razy aż do ziemi, zanim zbliżył się do brata swego."
+  },
+  {
+    "i": 963,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 4,
+    "t": "A Ezaw pobiegł na spotkanie mu, i objął go, i rzucił się na szyję jego, i ucałował go, i płakali."
+  },
+  {
+    "i": 964,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 5,
+    "t": "I podniósłszy oczy swoje, ujrzał kobiety i dzieci, i zapytał: \"Kim są ci, których masz ze sobą?\" Jakub odpowiedział: \"To są dzieci, którymi Bóg obdarzył sługę twego."
+  },
+  {
+    "i": 965,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 6,
+    "t": "I przystąpiły służebnice, one i ich dzieci, i pokłoniły się."
+  },
+  {
+    "i": 966,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 7,
+    "t": "Przystąpiła także Lea z dziećmi swymi, i pokłonili się; a na końcu przystąpiła Rachela i Józef, i pokłonili się."
+  },
+  {
+    "i": 967,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 8,
+    "t": "I zapytał Ezaw: \"Na cóż ci wszystko to wojsko, które spotkałem?\" Odpowiedział: \"Aby znaleźć łaskę w oczach pana mego."
+  },
+  {
+    "i": 968,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 9,
+    "t": "I rzekł Ezaw: \"Mam dosyć, bracie mój, niech to, co twoje, zostanie u ciebie."
+  },
+  {
+    "i": 969,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 10,
+    "t": "Ale Jakub rzekł: \"Nie, proszę! Jeśli znalazłem łaskę w oczach twoich, przyjmij dar z ręki mojej. Albowiem ujrzałem twoje oblicze, jakoby oblicze Boga, i przyjąłeś mnie łaskawie."
+  },
+  {
+    "i": 970,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 11,
+    "t": "Przyjmij tedy dar mój, który ci przyniesiono, gdyż Bóg mi sprzyjał i mam wszystko, czego mi potrzeba\", i nalegał na niego, aż przyjął."
+  },
+  {
+    "i": 971,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 12,
+    "t": "I rzekł Ezaw: \"Ruszajmy w drogę, a ja pójdę przed tobą."
+  },
+  {
+    "i": 972,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 13,
+    "t": "Ale Jakub mu odpowiedział: \"Pan mój wie, że dzieci są delikatne, i że muszę myśleć o owcach i krowach karmiących; jeśli je przepędzi się choćby jednego dnia, cała trzoda pomrze."
+  },
+  {
+    "i": 973,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 14,
+    "t": "Niechże pan mój idzie przed sługą swoim, a ja będę powoli szedł miarą stada, które jest przede mną, i miarą dzieci, aż przyjdę do pana mego do Seir."
+  },
+  {
+    "i": 974,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 15,
+    "t": "Wtedy Ezaw rzekł: \"Zostawię przynajmniej z tobą część ludzi, którzy mi towarzyszą!\" Ale Jakub odpowiedział: \"Po co to? Niechże znajdę tylko łaskę w oczach pana mego!"
+  },
+  {
+    "i": 975,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 16,
+    "t": "Ezaw wrócił tegoż dnia swoją drogą do Seir,"
+  },
+  {
+    "i": 976,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 17,
+    "t": "A Jakub poszedł do Sukkot, i zbudował sobie dom, i szałasy dla bydła swego; dlatego nazwano to miejsce Sukkot."
+  },
+  {
+    "i": 977,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 18,
+    "t": "Potem Jakub przybył szczęśliwie do miasta Sychem, które jest w ziemi Kanaan, gdy wracał z Paddan-Aram, i rozbił obóz naprzeciw miasta."
+  },
+  {
+    "i": 978,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 19,
+    "t": "I kupił od synów Chamora, ojca Sychema, za sto sztuk srebra, rolę, na której rozbił swój namiot."
+  },
+  {
+    "i": 979,
+    "b": 0,
+    "c": 133,
+    "r": 133,
+    "o": 20,
+    "t": "I postawił tam ołtarz, i nazwał go \"El, Bóg Izraela."
+  },
+  {
+    "i": 980,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 1,
+    "t": "Dina zaś, córka Lei, którą urodziła Jakóbowi, wyszła, aby oglądać córki tej ziemi."
+  },
+  {
+    "i": 981,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 2,
+    "t": "Ujrzał ją Sychem, syn Chamora Hiewejczyka, księcia tej ziemi, i porwawszy ją, obcował z nią, i zgwałcił ją."
+  },
+  {
+    "i": 982,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 3,
+    "t": "A dusza jego przylgnęła do Diny, córki Jakóba, i umiłował pannę, i przemawiał do serca jej."
+  },
+  {
+    "i": 983,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 4,
+    "t": "I rzekł Sychem do Chamora, ojca swego, mówiąc: Weź mi tę dziewczynę za żonę."
+  },
+  {
+    "i": 984,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 5,
+    "t": "Usłyszał Jakób, że zgwałcił Dinę, córkę jego; ale synowie jego byli z bydłem jego na polu, i milczał Jakób aż do ich przyjścia."
+  },
+  {
+    "i": 985,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 6,
+    "t": "Wyszedł tedy Chamor, ojciec Sychema, do Jakóba, aby z nim pomówić."
+  },
+  {
+    "i": 986,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 7,
+    "t": "A synowie Jakóba przyszli z pola, gdy to usłyszeli; i zmartwili się bardzo ci mężowie, i rozgniewali się wielce, przeto iż uczynił obrzydliwość w Izraelu, obcując z córką Jakóba, czego się nie godzi czynić."
+  },
+  {
+    "i": 987,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 8,
+    "t": "I mówił do nich Chamor, rzekąc: Dusza Sychema, syna mego, przylgnęła do córki waszej; proszę, dajcie mu ją za żonę."
+  },
+  {
+    "i": 988,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 9,
+    "t": "A spowinowaćcie się z nami; córki wasze dawajcie nam, a córki nasze bierzcie sobie."
+  },
+  {
+    "i": 989,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 10,
+    "t": "I mieszkajcie z nami, a ziemia będzie otwarta przed wami; mieszkajcie w niej i obracajcie się w niej, a posiądźcie ją."
+  },
+  {
+    "i": 990,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 11,
+    "t": "Rzekł też Sychem do ojca jej, i do braci jej: Niechże znajdę łaskę w oczach waszych, a co rzeczecie do mnie, dam."
+  },
+  {
+    "i": 991,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 12,
+    "t": "Naznaczcie mi bardzo wiele wiana i darów, a dam wam, jako rzeczecie do mnie; tylko mi dajcie tę dziewczynę za żonę."
+  },
+  {
+    "i": 992,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 13,
+    "t": "I odpowiedzieli synowie Jakóba Sychemowi i Chamorowi, ojcu jego, zdradliwie, i mówili, dlatego że zgwałcił Dinę, siostrę ich."
+  },
+  {
+    "i": 993,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 14,
+    "t": "I rzekli im: Nie możemy tego uczynić, abyśmy dali siostrę naszą mężowi nieobrzezanemu; boć to jest hańba nasza."
+  },
+  {
+    "i": 994,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 15,
+    "t": "Ale w tem wam pozwolimy, jeźli się staniecie jako my, aby był obrzezany każdy mężczyzna między wami."
+  },
+  {
+    "i": 995,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 16,
+    "t": "Tedy córki nasze dawać wam będziemy, a córki wasze brać sobie będziemy, i mieszkać będziemy z wami, i będziemy jednym ludem."
+  },
+  {
+    "i": 996,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 17,
+    "t": "Ale jeźli nie usłuchacie nas, abyście się obrzezali, tedy weźmiemy córkę naszą i pójdziemy."
+  },
+  {
+    "i": 997,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 18,
+    "t": "I podobały się słowa ich Chamorowi, i Sychemowi, synowi Chamora."
+  },
+  {
+    "i": 998,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 19,
+    "t": "A nie omieszkał młodzieniec uczynić tej rzeczy; bo się w niej kochał w córce Jakóba, a był najzacniejszy ze wszystkiego domu ojca swego."
+  },
+  {
+    "i": 999,
+    "b": 0,
+    "c": 134,
+    "r": 134,
+    "o": 20,
+    "t": "Poszedł tedy Chamor i Sychem, syn jego, do bramy miasta swego, i mówili do obywateli swego miasta, mówiąc:"
+  }
+]

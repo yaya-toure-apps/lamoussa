@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2100,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 24,
+    "t": "Oko za oko, zub za zub, noha za nohu,"
+  },
+  {
+    "i": 2101,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 25,
+    "t": "popálenina za popáleninu, modrina za modrinu, rana za ranu."
+  },
+  {
+    "i": 2102,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 26,
+    "t": "Ak by niekto udrel oko svojho otroka alebo oko svojej otrokyne a poškodil ho, prepustí ho za to oko na slobodu."
+  },
+  {
+    "i": 2103,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 27,
+    "t": "A ak by mu vyrazil zub svojho otroka alebo zub svojej otrokyne, prepustí ho za ten zub na slobodu."
+  },
+  {
+    "i": 2104,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 28,
+    "t": "Ak by vôl prebodol muža alebo ženu a usmrtil ich, vôl bude ukameňovaný a jeho mäso sa nebude jesť, ale majiteľ vola bude bez viny."
+  },
+  {
+    "i": 2105,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 29,
+    "t": "Ak však bol vôl už predtým bodavý a jeho majiteľ bol na to upozornený, ale ho nestrážil, a zabil muža alebo ženu, vôl bude ukameňovaný a aj jeho majiteľ bude usmrtený."
+  },
+  {
+    "i": 2106,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 30,
+    "t": "Ak mu bude uložená peňažná náhrada, dá ako výkupné za svoj život všetko, čo mu bude uložené."
+  },
+  {
+    "i": 2107,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 31,
+    "t": "Ak by prebodol syna alebo dcéru, nech sa s ním zaobchádza podľa tohto pravidla."
+  },
+  {
+    "i": 2108,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 32,
+    "t": "Ak by vôl prebodol otroka alebo otrokyňu, dá ich pánovi tridsať šekelov striebra a vôl bude ukameňovaný."
+  },
+  {
+    "i": 2109,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 33,
+    "t": "Ak niekto otvorí studňu alebo ak niekto vykopá studňu a neprikryje ju, a spadne do nej vôl alebo osol,"
+  },
+  {
+    "i": 2110,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 34,
+    "t": "majiteľ studne to nahradí, zaplatí peniaze jeho majiteľovi a mŕtve zviera bude jeho."
+  },
+  {
+    "i": 2111,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 35,
+    "t": "Ak by vôl niekoho ubil vola iného a usmrtil ho, predajú živého vola a rozdelia si jeho cenu a aj mŕtveho vola si rozdelia."
+  },
+  {
+    "i": 2112,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 36,
+    "t": "Ak však bolo známe, že vôl bol už predtým bodavý, ale jeho majiteľ ho nestrážil, dá vola za vola a mŕtve zviera bude jeho."
+  },
+  {
+    "i": 2113,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 37,
+    "t": "Ak niekto ukradne vola alebo ovcu a zabije ju alebo predá, nahradí päť volov za vola a štyri ovce za ovcu."
+  },
+  {
+    "i": 2114,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 1,
+    "t": "Ak zlodeja pristihnú pri vlamovaní a zabijú ho, nikto nebude zodpovedný za jeho krv."
+  },
+  {
+    "i": 2115,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 2,
+    "t": "Ak však už slnko vyšlo, bude zodpovedný za jeho krv. Musí nahradiť škodu; ak nemá prostriedky, bude predaný za to, čo ukradol."
+  },
+  {
+    "i": 2116,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 3,
+    "t": "Ak sa nájde v jeho držbe živé zviera, ktoré ukradol, či už vôl, osol alebo ovca, nahradí ho dvojnásobne."
+  },
+  {
+    "i": 2117,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 4,
+    "t": "Ak niekto dá spásať pole alebo vinicu a pustí dobytok, aby spásal pole iného, nahradí z toho najlepšie, čo má na svojom poli, alebo z toho najlepšie, čo má vo svojej vinici."
+  },
+  {
+    "i": 2118,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 5,
+    "t": "Ak vypukne oheň a zachváti tŕnie a spáli stohy, obilie alebo pole, ten, kto oheň založil, nahradí škodu."
+  },
+  {
+    "i": 2119,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 6,
+    "t": "Ak niekto dá inému do úschovy peniaze alebo veci a tie sú mu ukradnuté z domu, ak zlodeja nájdu, nahradí dvojnásobne."
+  },
+  {
+    "i": 2120,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 7,
+    "t": "Ak zlodeja nenájdu, majiteľ domu pristúpi pred Boha a prisahá, že nevztiahol ruku na majetok iného."
+  },
+  {
+    "i": 2121,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 8,
+    "t": "V každom spore o vola, osla, ovcu, odev alebo akúkoľvek stratenú vec, o ktorej sa hovorí: Toto je ono, prednesú svoju vec pred Boha. Koho Boh odsúdi, nahradí svojmu blížnemu dvojnásobne."
+  },
+  {
+    "i": 2122,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 9,
+    "t": "Ak niekto zverí inému do úschovy osla, vola, ovcu alebo akékoľvek zviera a ono uhynie, zraní sa alebo je odcudzené bez svedkov,"
+  },
+  {
+    "i": 2123,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 10,
+    "t": "prísaha pred Hospodinom rozhodne medzi nimi, či nevztiahol ruku na majetok svojho blížneho. Jeho majiteľ to prijme a on to nebude musieť nahradiť."
+  },
+  {
+    "i": 2124,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 11,
+    "t": "Ak mu však bolo zviera ukradnuté, nahradí to jeho majiteľovi."
+  },
+  {
+    "i": 2125,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 12,
+    "t": "Ak je zviera roztrhané divou zverou, prinesie ho ako dôkaz a nemusí ho nahradiť."
+  },
+  {
+    "i": 2126,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 13,
+    "t": "Ak si niekto požičia od iného zviera a ono sa zraní alebo uhynie, keď jeho majiteľ nie je s ním, musí ho nahradiť."
+  },
+  {
+    "i": 2127,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 14,
+    "t": "Ak však jeho majiteľ je s ním, nemusí ho nahradiť. Ak je prenajaté, dostane zaň nájomné."
+  },
+  {
+    "i": 2128,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 15,
+    "t": "Ak niekto zvádza pannu, ktorá nie je zasnúbená, a obcuje s ňou, zaplatí jej otcovi veno a vezme si ju za manželku."
+  },
+  {
+    "i": 2129,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 16,
+    "t": "Ak jej otec odmietne dať mu ju, zaplatí sumu rovnajúcu sa venu pre panny."
+  },
+  {
+    "i": 2130,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 17,
+    "t": "Čarodejnicu nenecháš nažive."
+  },
+  {
+    "i": 2131,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 18,
+    "t": "Každý, kto obcuje so zvieraťom, bude usmrtený."
+  },
+  {
+    "i": 2132,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 19,
+    "t": "Kto obetuje iným bohom, bude vyhladený."
+  },
+  {
+    "i": 2133,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 20,
+    "t": "Nebudeš utláčať cudzinca ani ho nebudeš prenasledovať, lebo aj vy ste boli cudzincami v egyptskej krajine."
+  },
+  {
+    "i": 2134,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 21,
+    "t": "Nebudeš zle zaobchádzať s vdovou ani so sirotou."
+  },
+  {
+    "i": 2135,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 22,
+    "t": "Ak by si s nimi zle zaobchádzal a oni by ku mne volali, určite vypočujem ich volanie,"
+  },
+  {
+    "i": 2136,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 23,
+    "t": "môj hnev vzplanie a zabijem vás mečom; vaše ženy budú vdovy a vaše deti siroty."
+  },
+  {
+    "i": 2137,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 24,
+    "t": "Ak požičiaš peniaze niekomu z môjho ľudu, chudobnému, ktorý je s tebou, nebudeš sa k nemu správať ako úžerník; nebudeš mu účtovať úroky."
+  },
+  {
+    "i": 2138,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 25,
+    "t": "Ak vezmeš od niekoho plášť do zálohy, vrátiš mu ho pred západom slnka,"
+  },
+  {
+    "i": 2139,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 26,
+    "t": "lebo to je jeho prikrývka, to je odev, ktorým si prikrýva telo. V čom by mal spať? Ak ku mne bude volať, vypočujem ho, lebo som milostivý."
+  },
+  {
+    "i": 2140,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 27,
+    "t": "Nebudeš zlorečiť Bohu ani nebudeš preklínať vládcu svojho ľudu."
+  },
+  {
+    "i": 2141,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 28,
+    "t": "Nebudeš meškať s obetovaním zo svojej hojnosti a zo svojho prebytku. Prvorodeného zo svojich synov mi dáš."
+  },
+  {
+    "i": 2142,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 29,
+    "t": "Tak urobíš aj so svojím dobytkom a svojimi ovcami: sedem dní bude so svojou matkou, ôsmy deň mi ho dáš."
+  },
+  {
+    "i": 2143,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 30,
+    "t": "Budete mi svätými mužmi. Nebudete jesť mäso roztrhané divou zverou na poli; hodíte ho psom."
+  },
+  {
+    "i": 2144,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 1,
+    "t": "Nebudeš šíriť falošné správy. Nebudeš sa spájať so zlým a svedčiť nespravodlivo."
+  },
+  {
+    "i": 2145,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 2,
+    "t": "Nebudeš sa prikláňať k väčšine, aby si konal zlo, ani nebudeš svedčiť v spore, aby si sa riadil väčšinou a prekrútil právo,"
+  },
+  {
+    "i": 2146,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 3,
+    "t": "ani nebudeš uprednostňovať chudobného v jeho spore."
+  },
+  {
+    "i": 2147,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 4,
+    "t": "Ak stretneš vola svojho nepriateľa alebo jeho osla, ktorý sa zatúlal, musíš mu ho vrátiť."
+  },
+  {
+    "i": 2148,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 5,
+    "t": "Ak uvidíš osla toho, ktorý ťa nenávidí, ako leží pod svojou ťarchou, neotáčaj sa od neho; musíš mu s ním pomôcť."
+  },
+  {
+    "i": 2149,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 6,
+    "t": "Nebudeš prekrúcať právo svojho chudobného v jeho spore."
+  },
+  {
+    "i": 2150,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 7,
+    "t": "Budeš sa držať ďaleko od falošnej veci. Nezabiješ nevinného ani spravodlivého a neospravedlníš vinníka."
+  },
+  {
+    "i": 2151,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 8,
+    "t": "Neprijmeš úplatky, lebo úplatky oslepujú bystrých a prekrúcajú záležitosti spravodlivých."
+  },
+  {
+    "i": 2152,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 9,
+    "t": "Nebudeš utláčať cudzinca. Viete, ako sa cíti cudzinec, lebo aj vy ste boli cudzincami v egyptskej krajine."
+  },
+  {
+    "i": 2153,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 10,
+    "t": "Šesť rokov budeš osievať svoju zem a zbierať jej úrodu,"
+  },
+  {
+    "i": 2154,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 11,
+    "t": "ale siedmy rok ju necháš ležať úhorom a opustíš jej úrodu, aby ju jedli chudobní z tvojho ľudu, a zver poľa zožerie, čo po nich zostane. Tak urobíš aj so svojou vinicou a so svojím olivovníkom."
+  },
+  {
+    "i": 2155,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 12,
+    "t": "Šesť dní budeš vykonávať svoje práce, ale siedmy deň budeš odpočívať, aby si odpočinul tvoj vôl a tvoj osol a aby si oddýchol syn tvojej otrokyne a cudzinec."
+  },
+  {
+    "i": 2156,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 13,
+    "t": "Budete dbať na všetko, čo som vám povedal, a nebudete spomínať meno iných bohov; nech ho nepočuť z vašich úst."
+  },
+  {
+    "i": 2157,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 14,
+    "t": "Tri razy do roka mi budeš sláviť sviatok."
+  },
+  {
+    "i": 2158,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 15,
+    "t": "Budeš zachovávať sviatok nekvasených chlebov. Sedem dní budeš jesť nekvasené chleby, ako som ti prikázal, v určenom čase mesiaca Abíb, lebo v tomto mesiaci si vyšiel z Egypta. Nikto sa predo mnou neukáže s prázdnymi rukami."
+  },
+  {
+    "i": 2159,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 16,
+    "t": "Budeš zachovávať sviatok žatvy, prvotiny svojich prác, ktoré si zasial na poli, a sviatok zberu na konci roka, keď zoberieš z poľa ovocie svojej práce."
+  },
+  {
+    "i": 2160,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 17,
+    "t": "Tri razy do roka sa všetci muži z tvojho národa ukážu pred Pánom Hospodinom."
+  },
+  {
+    "i": 2161,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 18,
+    "t": "Nebudeš obetovať krv mojej obete s kvaseným chlebom a tuk z môjho sviatku nebude ponechaný do rána."
+  },
+  {
+    "i": 2162,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 19,
+    "t": "Prinesieš do domu Hospodina, svojho Boha, to najlepšie z prvotiny svojej zeme. Nebudeš variť kozľa v mlieku jeho matky."
+  },
+  {
+    "i": 2163,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 20,
+    "t": "Hľa, posielam pred tebou anjela, aby ťa strážil na ceste a doviedol ťa na miesto, ktoré som ti určil."
+  },
+  {
+    "i": 2164,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 21,
+    "t": "Rešpektuj ho a počúvaj jeho hlas, nebuď voči nemu spurný, lebo on neodpustí vaše priestupky, lebo v ňom je moje meno."
+  },
+  {
+    "i": 2165,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 22,
+    "t": "Ale ak budeš pozorne počúvať jeho hlas a budeš robiť všetko, čo hovorím, budem nepriateľom tvojich nepriateľov a protivníkom tvojich protivníkov."
+  },
+  {
+    "i": 2166,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 23,
+    "t": "Môj anjel pôjde pred tebou a dovedie ťa k Amorejčanom, Chetitom, Perizejčanom, Kanaánčanom, Hivijčanom, Jebuzejčanom a vyhubím ich."
+  },
+  {
+    "i": 2167,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 24,
+    "t": "Nebudeš sa klaňať ich bohom ani im nebudeš slúžiť; nebudeš robiť to, čo oni robia, ale zničíš ich bohov a rozlámeš ich stĺpy."
+  },
+  {
+    "i": 2168,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 25,
+    "t": "Budeš slúžiť Hospodinovi, svojmu Bohu, a ja požehnám tvoj chlieb a tvoju vodu a odvrátim od teba choroby."
+  },
+  {
+    "i": 2169,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 26,
+    "t": "V tvojej krajine nebude žena, ktorá by potratila alebo bola neplodná, a nechám, aby sa naplnil počet tvojich dní."
+  },
+  {
+    "i": 2170,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 27,
+    "t": "Pošlem pred tebou svoju hrôzu, vnesiem zmätok medzi všetky národy, ku ktorým prídeš, a dám všetkým tvojim nepriateľom utiecť pred tebou."
+  },
+  {
+    "i": 2171,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 28,
+    "t": "Pošlem pred tebou osy, ktoré vyženú Hivijčanov, Kanaánčanov a Chetitov pred tebou."
+  },
+  {
+    "i": 2172,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 29,
+    "t": "Nevyženiem ich pred tebou za jeden rok, aby sa krajina nestala púšťou a nerozmnožili sa na tvoj úkor zvieratá poľa."
+  },
+  {
+    "i": 2173,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 30,
+    "t": "Budem ich pred tebou vyháňať postupne, až kým sa nerozmnožíš natoľko, aby si zdedil krajinu."
+  },
+  {
+    "i": 2174,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 31,
+    "t": "Určím tvoje hranice od Červeného mora po more Filištíncov a od púšte po Rieku, lebo vám vydám do rúk obyvateľov krajiny a vy ich vyženiete pred sebou."
+  },
+  {
+    "i": 2175,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 32,
+    "t": "Neuzavriete s nimi zmluvu ani s ich bohmi."
+  },
+  {
+    "i": 2176,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 33,
+    "t": "Nebudú bývať vo vašej krajine, aby vás nepriviedli k hriechu proti mne, lebo by ste slúžili ich bohom a to by vám bolo osídlom."
+  },
+  {
+    "i": 2177,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 1,
+    "t": "Povedal Mojžišovi: Vystúp k Hospodinovi ty, Áron, Nadab, Abihu a sedemdesiat starších z Izraela a klaňajte sa zďaleka."
+  },
+  {
+    "i": 2178,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 2,
+    "t": "Len Mojžiš sa priblíži k Hospodinovi. Oni sa nepriblížia a ľud s ním nevystúpi."
+  },
+  {
+    "i": 2179,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 3,
+    "t": "Mojžiš prišiel a oznámil ľudu všetky Hospodinove slová a všetky zákony a všetok ľud odpovedal jedným hlasom: Všetky slová, ktoré Hospodin povedal, budeme zachovávať."
+  },
+  {
+    "i": 2180,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 4,
+    "t": "Mojžiš zapísal všetky slová Hospodinove, a vstal za rána a postavil oltár pod horou a dvanásť stĺpov pre dvanásť kmeňov Izraelových."
+  },
+  {
+    "i": 2181,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 5,
+    "t": "Potom poslal mládencov z Izraelových synov, ktorí obetovali zápalné obete a zabíjali Hospodinovi obete pokojné, mladé býky."
+  },
+  {
+    "i": 2182,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 6,
+    "t": "A Mojžiš vzal polovicu krvi a dal ju do mís, a polovicu krvi pokropil na oltár."
+  },
+  {
+    "i": 2183,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 7,
+    "t": "A vzal knihu zmluvy a čítal ju pred ľudom, a oni riekli: \"Všetko, čo hovoril Hospodin, učiníme a budeme poslušní."
+  },
+  {
+    "i": 2184,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 8,
+    "t": "Mojžiš vzal krv a pokropil ňou ľud a riekol: \"Hľa, krv zmluvy, ktorú učinil s vami Hospodin o všetkých týchto veciach."
+  },
+  {
+    "i": 2185,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 9,
+    "t": "Potom vystúpil Mojžiš a Áron, Nadab a Abihu a sedemdesiat starších z Izraelových synov."
+  },
+  {
+    "i": 2186,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 10,
+    "t": "A videli Boha Izraelovho, a pod jeho nohami bolo ako dielo zo zafírového kameňa, sťa samé nebo pre jasnosť."
+  },
+  {
+    "i": 2187,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 11,
+    "t": "A nevystrel svojej ruky na popredných mužov Izraelových synov. A videli Boha, a jedli a pili."
+  },
+  {
+    "i": 2188,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 12,
+    "t": "A Hospodin riekol Mojžišovi: \"Vystúp ku mne na vrch a buď tam, a dám ti kamenné tabule, zákon a prikázanie, ktoré som napísal, aby si ich vyučoval."
+  },
+  {
+    "i": 2189,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 13,
+    "t": "Mojžiš vstal, a Jozua, jeho služobník, a vystúpil Mojžiš na vrch Boží."
+  },
+  {
+    "i": 2190,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 14,
+    "t": "A povedal starším: \"Počkajte nás tu, dokiaľ sa nenavrátime k vám. Hľa, Áron a Húr sú s vami. Kto bude mať nejakú vec, nech sa obráti na nich."
+  },
+  {
+    "i": 2191,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 15,
+    "t": "Potom vystúpil Mojžiš na vrch, a oblak prikryl vrch."
+  },
+  {
+    "i": 2192,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 16,
+    "t": "A sláva Hospodinova spočinula na vrchu Sinaji, a prikryl ho oblak po šesť dní. A siedmeho dňa zavolal Hospodin Mojžiša zprostred oblaku."
+  },
+  {
+    "i": 2193,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 17,
+    "t": "A zjav slávy Hospodinovej bol v očiach Izraelových synov ako stravujúci oheň na vrchu."
+  },
+  {
+    "i": 2194,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 18,
+    "t": "A Mojžiš vošiel do oblaku a vystúpil na vrch. A bol Mojžiš na vrchu štyridsať dní a štyridsať nocí."
+  },
+  {
+    "i": 2195,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 1,
+    "t": "A Hospodin hovoril Mojžišovi rieknuc:"
+  },
+  {
+    "i": 2196,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 2,
+    "t": "\"Hovor Izraelovým synom, aby mi priniesli obetný dar. Od každého, ktorého srdce ho bude k tomu pohýnať, vezmite mi obetný dar."
+  },
+  {
+    "i": 2197,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 3,
+    "t": "A toto je obetný dar, ktorý vezmete od nich: zlato, striebro a meď,"
+  },
+  {
+    "i": 2198,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 4,
+    "t": "belasé, purpurové a karmínové tkaniny, jemné plátno a kozia srsť,"
+  },
+  {
+    "i": 2199,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 5,
+    "t": "kože baranov farbené na červeno, kožky jazvecov a drevo akáciové;"
+  }
+]

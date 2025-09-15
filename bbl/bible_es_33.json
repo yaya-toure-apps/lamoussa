@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3300,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 21,
+    "t": "Y traerá a Yahvé un sacrificio de reparación a la entrada de la Tienda del Encuentro. Será un carnero de reparación."
+  },
+  {
+    "i": 3301,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 22,
+    "t": "Con este carnero de reparación, el sacerdote hará sobre el hombre el rito de expiación delante de Yahvé por el pecado cometido; y el pecado que ha cometido le será perdonado."
+  },
+  {
+    "i": 3302,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 23,
+    "t": "Cuando hayáis entrado en esta tierra y hayáis plantado algún árbol frutal, consideraréis sus frutos como si fuese su prepucio. Durante tres años serán para vosotros cosa incircuncisa, y no comeréis de ellos."
+  },
+  {
+    "i": 3303,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 24,
+    "t": "Al cuarto año, todos los frutos serán consagrados en una fiesta de alabanza a Yahvé."
+  },
+  {
+    "i": 3304,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 25,
+    "t": "Es en el quinto año cuando podréis comer de sus frutos y cosechar para vosotros mismos los productos. Yo soy Yahvé vuestro Dios."
+  },
+  {
+    "i": 3305,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 26,
+    "t": "No comeréis nada con sangre; no practicaréis ni adivinación ni encantamiento."
+  },
+  {
+    "i": 3306,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 27,
+    "t": "No redondearéis el borde de vuestra cabellera, ni cortarás el borde de tu barba."
+  },
+  {
+    "i": 3307,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 28,
+    "t": "No os haréis incisiones en el cuerpo por un muerto, ni os haréis tatuaje. Yo soy Yahvé."
+  },
+  {
+    "i": 3308,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 29,
+    "t": "No profanes a tu hija prostituyéndola, para que así la tierra no sea prostituida y se vuelva toda ella incestuosa."
+  },
+  {
+    "i": 3309,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 30,
+    "t": "Guardaréis mis sábados y reverenciaréis mi santuario. Yo soy Yahvé."
+  },
+  {
+    "i": 3310,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 31,
+    "t": "No os volváis a los espectros ni busquéis a los adivinos, pues os contaminarían. Yo soy Yahvé vuestro Dios."
+  },
+  {
+    "i": 3311,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 32,
+    "t": "Te levantarás delante de una cabeza canosa, honrarás la persona del anciano y temerás a tu Dios. Yo soy Yahvé."
+  },
+  {
+    "i": 3312,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 33,
+    "t": "Si un extranjero reside con vosotros en vuestra tierra, no le molestaréis."
+  },
+  {
+    "i": 3313,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 34,
+    "t": "El extranjero que reside con vosotros será para vosotros como un compatriota, y le amarás como a ti mismo, pues extranjeros fuisteis en la tierra de Egipto. Yo soy Yahvé vuestro Dios."
+  },
+  {
+    "i": 3314,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 35,
+    "t": "No cometeréis injusticia alguna al juzgar, ya se trate de medidas de longitud, de peso o de capacidad."
+  },
+  {
+    "i": 3315,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 36,
+    "t": "Tendréis balanzas justas, pesas justas, medida justa, un sextario justo. Yo soy Yahvé vuestro Dios, quien os sacó de la tierra de Egipto."
+  },
+  {
+    "i": 3316,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 37,
+    "t": "Guardad todas mis leyes y todas mis costumbres, y ponedlas en práctica. Yo soy Yahvé."
+  },
+  {
+    "i": 3317,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 1,
+    "t": "Yahvé habló a Moisés y dijo:"
+  },
+  {
+    "i": 3318,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 2,
+    "t": "Dirás a los israelitas: Quienquiera, israelita o extranjero residente en Israel, que dé alguno de sus hijos a Molek, deberá morir. Los habitantes del país le apedrearán,"
+  },
+  {
+    "i": 3319,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 3,
+    "t": "yo me volveré contra ese hombre y le extirparé de en medio de su pueblo, pues al dar uno de sus hijos a Molek habrá profanado mi santuario y mi santo nombre."
+  },
+  {
+    "i": 3320,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 4,
+    "t": "Si los habitantes del país quieren cerrar los ojos sobre ese hombre cuando dé uno de sus hijos a Molek y no le dan muerte,"
+  },
+  {
+    "i": 3321,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 5,
+    "t": "yo mismo me opondré a ese hombre y a su clan. Les extirparé de en medio de su pueblo, a él y a todos los que después de él vayan a prostituirse en pos de Molek."
+  },
+  {
+    "i": 3322,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 6,
+    "t": "Aquel que se dirija a los espectros y a los adivinos para prostituirse tras ellos, yo me volveré contra ese hombre y le extirparé de en medio de su pueblo."
+  },
+  {
+    "i": 3323,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 7,
+    "t": "Os santificaréis para ser santos, pues yo soy Yahvé vuestro Dios."
+  },
+  {
+    "i": 3324,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 8,
+    "t": "Guardaréis mis leyes y las pondréis en práctica, pues yo soy Yahvé quien os hace santos."
+  },
+  {
+    "i": 3325,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 9,
+    "t": "Por tanto: Quien maldiga a su padre o a su madre, deberá morir. Puesto que maldijo a su padre o a su madre, su sangre caerá sobre sí mismo."
+  },
+  {
+    "i": 3326,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 10,
+    "t": "El hombre que comete adulterio con la mujer de su prójimo, deberá morir, él y su cómplice."
+  },
+  {
+    "i": 3327,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 11,
+    "t": "El hombre que se acuesta con la mujer de su padre ha descubierto la desnudez de su padre. Ambos deberán morir, su sangre caerá sobre ellos."
+  },
+  {
+    "i": 3328,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 12,
+    "t": "El hombre que se acuesta con su nuera: ambos deberán morir. Se han contaminado, su sangre caerá sobre ellos."
+  },
+  {
+    "i": 3329,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 13,
+    "t": "El hombre que se acuesta con un hombre como se acuesta con una mujer: es una abominación que ambos han cometido, deberán morir, su sangre caerá sobre ellos."
+  },
+  {
+    "i": 3330,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 14,
+    "t": "El hombre que toma por esposas a una mujer y a su madre: es un incesto. Se les quemará, a él y a ellas, para que no haya incesto entre vosotros."
+  },
+  {
+    "i": 3331,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 15,
+    "t": "El hombre que da su lecho a una bestia: deberá morir, y mataréis a la bestia."
+  },
+  {
+    "i": 3332,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 16,
+    "t": "La mujer que se acerca a un animal cualquiera para aparearse con él: matarás a la mujer y al animal. Deberán morir, su sangre caerá sobre ellos."
+  },
+  {
+    "i": 3333,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 17,
+    "t": "El hombre que toma por esposa a su hermana, hija de su padre o hija de su madre: si ve su desnudez y ella ve la suya, es una ignominia. Serán exterminados a la vista de los miembros de su pueblo, pues él ha descubierto la desnudez de su hermana, y él cargará con el peso de su culpa."
+  },
+  {
+    "i": 3334,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 18,
+    "t": "El hombre que se acuesta con una mujer durante su menstruación y descubre su desnudez: ha puesto al descubierto la fuente de su sangre, ella misma ha descubierto la fuente de su sangre, así que ambos serán extirpados de en medio de su pueblo."
+  },
+  {
+    "i": 3335,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 19,
+    "t": "No descubrirás la desnudez de la hermana de tu madre ni la de la hermana de tu padre. Ha puesto al descubierto su propia carne, y cargarán con el peso de su culpa."
+  },
+  {
+    "i": 3336,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 20,
+    "t": "El hombre que se acuesta con la mujer de su tío paterno: ha descubierto la desnudez de éste, cargarán con el peso de su pecado y morirán sin hijos."
+  },
+  {
+    "i": 3337,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 21,
+    "t": "El hombre que toma por esposa a la mujer de su hermano: es una inmundicia, ha descubierto la desnudez de su hermano, morirán sin hijos."
+  },
+  {
+    "i": 3338,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 22,
+    "t": "Guardaréis todas mis leyes, todas mis costumbres, y las pondréis en práctica; así no os vomitará la tierra adonde os conduzco para que habitéis en ella."
+  },
+  {
+    "i": 3339,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 23,
+    "t": "No seguiréis las leyes de las naciones que yo arrojo de delante de vosotros, pues ellas han practicado todas estas cosas, y las he aborrecido."
+  },
+  {
+    "i": 3340,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 24,
+    "t": "Por eso os he dicho: \"Tomaréis posesión de su suelo, yo mismo os daré la posesión, una tierra que mana leche y miel.\" Yo soy Yahvé vuestro Dios, quien os ha apartado de estos pueblos."
+  },
+  {
+    "i": 3341,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 25,
+    "t": "Poned, pues, la bestia pura aparte de la impura, el ave pura aparte de la impura. No os hagáis inmundos vosotros mismos con estas bestias, estas aves, con todo lo que se arrastra sobre el suelo: yo os las he hecho poner aparte como impuras."
+  },
+  {
+    "i": 3342,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 26,
+    "t": "Sedme consagrados, puesto que yo, Yahvé, soy santo, y os apartaré de todos estos pueblos para que seáis míos."
+  },
+  {
+    "i": 3343,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 27,
+    "t": "El hombre o la mujer que entre vosotros sea nigromante o adivino: serán muertos, se les apedreará, su sangre caerá sobre ellos."
+  },
+  {
+    "i": 3344,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 1,
+    "t": "Yahvé dijo a Moisés: Habla a los sacerdotes, hijos de Aarón; les dirás: Ninguno de ellos se hará impuro cerca del cadáver de alguno de los suyos,"
+  },
+  {
+    "i": 3345,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 2,
+    "t": "salvo por su parentela más próxima: madre, padre, hijo, hija, hermano."
+  },
+  {
+    "i": 3346,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 3,
+    "t": "Por su hermana virgen que sigue siendo su pariente próxima, pues no ha pertenecido a un hombre, podrá hacerse impuro;"
+  },
+  {
+    "i": 3347,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 4,
+    "t": "por una mujer casada entre los suyos, no se hará impuro, pues se profanaría."
+  },
+  {
+    "i": 3348,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 5,
+    "t": "No se harán tonsura en la cabeza, ni se afeitarán el borde de la barba, ni se harán incisiones en el cuerpo."
+  },
+  {
+    "i": 3349,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 6,
+    "t": "Serán consagrados a su Dios y no profanarán el nombre de su Dios; pues son ellos quienes traen las ofrendas de Yahvé, alimento de su Dios, y deben estar en estado de santidad."
+  },
+  {
+    "i": 3350,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 7,
+    "t": "No tomarán por esposa a una mujer prostituta y profanada, ni a una mujer que su marido haya repudiado, pues el sacerdote está consagrado a su Dios."
+  },
+  {
+    "i": 3351,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 8,
+    "t": "Le tratarás como a un ser santo, pues él ofrece el alimento de tu Dios. Será para ti un ser santo, pues yo soy santo, yo Yahvé quien os santifica."
+  },
+  {
+    "i": 3352,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 9,
+    "t": "Si la hija de un hombre que es sacerdote se profana prostituyéndose, profana a su padre y debe ser quemada al fuego."
+  },
+  {
+    "i": 3353,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 10,
+    "t": "En cuanto al sacerdote que tiene la preeminencia sobre sus hermanos, él sobre cuya cabeza se vierte el aceite de la unción y que recibe la investidura revistiendo los hábitos sagrados, no desatará sus cabellos, ni rasgará sus vestiduras,"
+  },
+  {
+    "i": 3354,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 11,
+    "t": "no se acercará al cadáver de ningún muerto, y no se hará impuro ni por su padre ni por su madre."
+  },
+  {
+    "i": 3355,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 12,
+    "t": "No saldrá del lugar santo, de manera que no profane el santuario de su Dios, pues lleva sobre sí mismo la consagración del aceite de unción de su Dios. Yo soy Yahvé."
+  },
+  {
+    "i": 3356,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 13,
+    "t": "Tomará por esposa a una mujer aún virgen."
+  },
+  {
+    "i": 3357,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 14,
+    "t": "La viuda, la repudiada o la profanada por la prostitución, no las tomará por esposas; sólo tomará por esposa a una virgen de entre los suyos,"
+  },
+  {
+    "i": 3358,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 15,
+    "t": "no profanará a su descendencia, pues soy yo, Yahvé, quien la ha santificado."
+  },
+  {
+    "i": 3359,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 16,
+    "t": "Yahvé habló a Moisés y dijo:"
+  },
+  {
+    "i": 3360,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 17,
+    "t": "Habla a Aarón y dile: Ninguno de tus descendientes, en ninguna generación, se acercará para ofrecer el alimento de su Dios si tiene una enfermedad."
+  },
+  {
+    "i": 3361,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 18,
+    "t": "Pues ningún hombre debe acercarse si tiene una enfermedad, ya sea ciego o cojo, un hombre desfigurado o deforme,"
+  },
+  {
+    "i": 3362,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 19,
+    "t": "un hombre cuyo pie o brazo esté fracturado,"
+  },
+  {
+    "i": 3363,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 20,
+    "t": "un jorobado, un raquítico, un hombre afectado de oftalmía, de sarna o de llagas purulentas, o un eunuco."
+  },
+  {
+    "i": 3364,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 21,
+    "t": "Ninguno de los descendientes de Aarón, el sacerdote, podrá acercarse para ofrecer las ofrendas de Yahvé si tiene una enfermedad; tiene una enfermedad, no se acercará para ofrecer el alimento de su Dios."
+  },
+  {
+    "i": 3365,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 22,
+    "t": "Podrá comer de los alimentos de su Dios, cosas muy santas y cosas santas,"
+  },
+  {
+    "i": 3366,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 23,
+    "t": "pero no vendrá junto al velo y no se acercará al altar; tiene una enfermedad y no debe profanar mis objetos sagrados, pues soy yo, Yahvé, quien los he santificado."
+  },
+  {
+    "i": 3367,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 24,
+    "t": "Y Moisés lo dijo a Aarón, a sus hijos y a todos los israelitas."
+  },
+  {
+    "i": 3368,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 1,
+    "t": "Yahvé habló a Moisés y dijo:"
+  },
+  {
+    "i": 3369,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 2,
+    "t": "Habla a Aarón y a sus hijos: que se consagren por las santas ofrendas de los israelitas, sin profanar mi santo nombre; por causa de mí deben santificarlo. Yo soy Yahvé."
+  },
+  {
+    "i": 3370,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 3,
+    "t": "Diles: Todo hombre de vuestra descendencia, en ninguna generación, que se acerque en estado de impureza a las santas ofrendas consagradas a Yahvé por los israelitas, ese hombre será extirpado de mi presencia. Yo soy Yahvé."
+  },
+  {
+    "i": 3371,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 4,
+    "t": "Todo hombre de la descendencia de Aarón que esté afectado de lepra o de flujo, no comerá de las cosas santas antes de ser purificado. El que haya tocado todo lo que un cadáver haya hecho impuro, el que haya emitido líquido seminal,"
+  },
+  {
+    "i": 3372,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 5,
+    "t": "el que haya tocado cualquier bichito y se haya hecho así impuro, o a un hombre que le haya contaminado con su propia impureza, cualquiera que sea,"
+  },
+  {
+    "i": 3373,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 6,
+    "t": "en resumen, quienquiera que haya tenido tales contactos estará impuro hasta la tarde, y no podrá comer de las cosas santas hasta después de haber lavado su cuerpo con agua."
+  },
+  {
+    "i": 3374,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 7,
+    "t": "A la puesta del sol, será purificado y podrá comer luego de las cosas santas, pues ése es su alimento."
+  },
+  {
+    "i": 3375,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 8,
+    "t": "No comerá de bestia muerta o desgarrada, pues contraería la impureza. Yo soy Yahvé."
+  },
+  {
+    "i": 3376,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 9,
+    "t": "Que guarden mis observancias y no se carguen de un pecado: morirían profanándolas, yo soy Yahvé quien las he santificado."
+  },
+  {
+    "i": 3377,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 10,
+    "t": "Ningún laico comerá de una cosa santa: ni el huésped de un sacerdote ni el siervo a jornal comerán de una cosa santa."
+  },
+  {
+    "i": 3378,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 11,
+    "t": "Pero si un sacerdote adquiere una persona a precio de dinero, ésta podrá comer de ella como el que ha nacido en su casa; pues comen de su propio alimento."
+  },
+  {
+    "i": 3379,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 12,
+    "t": "Si la hija de un sacerdote se ha convertido en esposa de un laico, no puede comer de las ofrendas sagradas;"
+  },
+  {
+    "i": 3380,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 13,
+    "t": "mas si se convirtiere en viuda o fuere repudiada, y no tuviere hijo, y se tornare a la casa de su padre como en su juventud, comerá del alimento de su padre; pero ningún extraño comerá de él:"
+  },
+  {
+    "i": 3381,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 14,
+    "t": "Y si alguno comiere cosa sagrada por yerro, añadirá a ella la quinta parte, y la dará al sacerdote con la cosa sagrada."
+  },
+  {
+    "i": 3382,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 15,
+    "t": "No profanarán, pues, las cosas santas que los hijos de Israel apartan para Yahvé,"
+  },
+  {
+    "i": 3383,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 16,
+    "t": "para que no lleven la iniquidad del pecado cuando comieren las santas ofrendas de ellos; porque yo Yahvé que las santifico."
+  },
+  {
+    "i": 3384,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 17,
+    "t": "Y habló Yahvé a Moisés, diciendo:"
+  },
+  {
+    "i": 3385,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 18,
+    "t": "Habla a Aarón y a sus hijos, y a todos los hijos de Israel, y diles: Cualquier varón de la casa de Israel, o de los extranjeros en Israel, que ofreciere su ofrenda en pago de sus votos, o en ofrendas voluntarias que ofreciere a Yahvé en holocausto,"
+  },
+  {
+    "i": 3386,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 19,
+    "t": "para ser aceptado, ofreceréis macho sin defecto de entre el ganado vacuno, o de entre los corderos, o de entre las cabras."
+  },
+  {
+    "i": 3387,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 20,
+    "t": "Ninguna cosa en que haya defecto ofreceréis, porque no será aceptable por vosotros."
+  },
+  {
+    "i": 3388,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 21,
+    "t": "Asimismo, cuando alguno ofreciere sacrificio de paz a Yahvé, para cumplir un voto, o voluntariamente, de ganado vacuno u ovejuno, para ser aceptado será sin defecto; ningún defecto habrá en él."
+  },
+  {
+    "i": 3389,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 22,
+    "t": "Ciego, o perniquebrado, o mutilado, o ulceroso, o sarnoso, u que tenga postilla, no ofreceréis éstos a Yahvé, ni de ellos pondréis ofrenda encendida sobre el altar de Yahvé."
+  },
+  {
+    "i": 3390,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 23,
+    "t": "Buey o cordero que tenga miembro largo o corto, podrás ofrecerlo en ofrenda voluntaria; mas en pago de voto no será aceptado."
+  },
+  {
+    "i": 3391,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 24,
+    "t": "Animal que tenga magullados los testículos, o estrujados, o rotos, o cortados, no ofreceréis a Yahvé, ni lo haréis en vuestra tierra."
+  },
+  {
+    "i": 3392,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 25,
+    "t": "Ni de mano de extranjero ofreceréis a vuestro Dios ninguno de estos animales, porque su corrupción está en ellos; hay en ellos defecto, no os serán aceptos."
+  },
+  {
+    "i": 3393,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 26,
+    "t": "Y habló Yahvé a Moisés, diciendo:"
+  },
+  {
+    "i": 3394,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 27,
+    "t": "El becerro o el cordero, cuando naciere, siete días estará debajo de su madre; mas desde el octavo día será acepto para ofrenda encendida a Yahvé."
+  },
+  {
+    "i": 3395,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 28,
+    "t": "Mas vaca u oveja, no degollaréis en un mismo día a ella y a su hijo."
+  },
+  {
+    "i": 3396,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 29,
+    "t": "Y cuando ofreciereis sacrificio de alabanza a Yahvé, ofrecedlo de tal manera que seáis aceptados:"
+  },
+  {
+    "i": 3397,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 30,
+    "t": "en el mismo día se comerá; no dejaréis nada de él para la mañana siguiente. Yo soy Yahvé."
+  },
+  {
+    "i": 3398,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 31,
+    "t": "Guardad, pues, mis mandamientos, y ponedlos por obra. Yo soy Yahvé."
+  },
+  {
+    "i": 3399,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 32,
+    "t": "Y no profanéis mi santo nombre, para que yo sea santificado en medio de los hijos de Israel. Yo soy Yahvé que os santifico,"
+  }
+]

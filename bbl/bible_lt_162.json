@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16200,
+    "b": 18,
+    "c": 2029,
+    "r": 2029,
+    "o": 4,
+    "t": "Viešpats Teisusis sutraukė nedorėlių pančius."
+  },
+  {
+    "i": 16201,
+    "b": 18,
+    "c": 2029,
+    "r": 2029,
+    "o": 5,
+    "t": "Tepasijunta visi, tebūna atstumti Siono priešai;"
+  },
+  {
+    "i": 16202,
+    "b": 18,
+    "c": 2029,
+    "r": 2029,
+    "o": 6,
+    "t": "tebūna jie kaip žolė ant stogų, kuri sudžiūsta dar prieš išraunant!"
+  },
+  {
+    "i": 16203,
+    "b": 18,
+    "c": 2029,
+    "r": 2029,
+    "o": 7,
+    "t": "Pjovėjas neprisisemia jos saujon, nei rišėjas glėbin;"
+  },
+  {
+    "i": 16204,
+    "b": 18,
+    "c": 2029,
+    "r": 2029,
+    "o": 8,
+    "t": "ir nesakys praeiviai: Viešpaties palaima su jumis! Mes jus laiminame Viešpaties vardu."
+  },
+  {
+    "i": 16205,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 1,
+    "t": "Pakylų giesmė. Iš gelmių šaukiuosi Tavęs, Viešpatie:"
+  },
+  {
+    "i": 16206,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 2,
+    "t": "Viešpatie, išgirsk mano balsą. Tepalinksta Tavo ausis į mano maldos šauksmą!"
+  },
+  {
+    "i": 16207,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 3,
+    "t": "Jei Tu atsimintum kaltes, Viešpatie, Viešpatie, kas išliktų?"
+  },
+  {
+    "i": 16208,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 4,
+    "t": "Bet atleidimas yra pas Tave, kad būtų pagarba Tau."
+  },
+  {
+    "i": 16209,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 5,
+    "t": "Aš tikiuosi, Viešpatie, mano siela tiki Tavo žodžiu;"
+  },
+  {
+    "i": 16210,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 6,
+    "t": "mano siela laukia Viešpaties labiau negu sargybiniai aušros; labiau negu sargybiniai aušros,"
+  },
+  {
+    "i": 16211,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 7,
+    "t": "tegu Izraelis laukia Viešpaties! Nes pas Viešpatį yra malonė, pas Jį – išpirkimo gausa;"
+  },
+  {
+    "i": 16212,
+    "b": 18,
+    "c": 2030,
+    "r": 2030,
+    "o": 8,
+    "t": "Jis išpirks Izraelį iš visų jo kaltių."
+  },
+  {
+    "i": 16213,
+    "b": 18,
+    "c": 2031,
+    "r": 2031,
+    "o": 1,
+    "t": "Pakylų giesmė. Dovydo. Viešpatie, mano širdis nėra išdidi, nei mano akys iškilios. Aš nesekiau didelių dalykų, nei stebuklų, kurie viršija mano jėgas."
+  },
+  {
+    "i": 16214,
+    "b": 18,
+    "c": 2031,
+    "r": 2031,
+    "o": 2,
+    "t": "Ne, aš laikau savo sielą ramybėje ir tyloje; kaip mažas vaikas prie savo motinos, kaip mažas vaikas, tokia yra mano siela manyje."
+  },
+  {
+    "i": 16215,
+    "b": 18,
+    "c": 2031,
+    "r": 2031,
+    "o": 3,
+    "t": "Dėk viltis, Izraeli, į Viešpatį, nuo dabar ir amžinai!"
+  },
+  {
+    "i": 16216,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 1,
+    "t": "Pakylų giesmė. Prisimink, Viešpatie, Dovydui visus jo vargus,"
+  },
+  {
+    "i": 16217,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 2,
+    "t": "priesaiką, kurią jis davė Viešpačiui, savo įžadą Jokūbo Galingajam:"
+  },
+  {
+    "i": 16218,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 3,
+    "t": "\"Neįeisiu aš į savo namų palapinę, nelipsiu į savo poilsio guolį,"
+  },
+  {
+    "i": 16219,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 4,
+    "t": "neduosiu miego savo akims ir poilsio savo vokams,"
+  },
+  {
+    "i": 16220,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 5,
+    "t": "kol nerasiu vietos Viešpačiui, buveinės Jokūbo Galingajam!"
+  },
+  {
+    "i": 16221,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 6,
+    "t": "Štai: apie Ją kalbama Efratoje, mes Ją atradome Miško laukuose!"
+  },
+  {
+    "i": 16222,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 7,
+    "t": "Eikime į vietą, kur Jis gyvena, pulkime kniūbsti priešais Jo pakojį."
+  },
+  {
+    "i": 16223,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 8,
+    "t": "Kelkis, Viešpatie, į savo poilsio vietą, Tu ir Tavo galybės arka."
+  },
+  {
+    "i": 16224,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 9,
+    "t": "Tavo kunigai apsivilks teisumu, Tavo ištikimieji šauks džiaugsmu."
+  },
+  {
+    "i": 16225,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 10,
+    "t": "Dėl Tavo tarno Dovydo neatstumk savo pateptojo veido."
+  },
+  {
+    "i": 16226,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 11,
+    "t": "Viešpats prisiekė Dovydui, tiesą, nuo kurios Jis niekada nenukryps: „Tavo įsčių vaisių aš pasodinsiu ant sosto, skirto Tau.“"
+  },
+  {
+    "i": 16227,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 12,
+    "t": "Jei Tavo sūnūs laikysis mano sandoros, mano liudijimo, kurio aš juos išmokiau, jų sūnūs patys amžinai sėdės ant sosto, skirto Tau."
+  },
+  {
+    "i": 16228,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 13,
+    "t": "Nes Viešpats pasirinko Sioną, Jis geidė šios vietos sau:"
+  },
+  {
+    "i": 16229,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 14,
+    "t": "\"Tai mano poilsio vieta amžinai, ten aš sėdėsiu, nes aš to troškau."
+  },
+  {
+    "i": 16230,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 15,
+    "t": "Jos maistą aš palaiminsiu palaima, jos vargšus aš pasotinsiu duona,"
+  },
+  {
+    "i": 16231,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 16,
+    "t": "jos kunigus aš aprengsiu išganymu, ir jos ištikimieji džiūgaus džiaugsmu."
+  },
+  {
+    "i": 16232,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 17,
+    "t": "Ten aš pažadinsiu Dovydo palikuonis, aš paruošiu žiburį savo pateptajam;"
+  },
+  {
+    "i": 16233,
+    "b": 18,
+    "c": 2032,
+    "r": 2032,
+    "o": 18,
+    "t": "jo priešus aš aprengsiu gėda, bet ant jo žydės jo diademą."
+  },
+  {
+    "i": 16234,
+    "b": 18,
+    "c": 2033,
+    "r": 2033,
+    "o": 1,
+    "t": "Pakylų giesmė. Dovydo. Štai! Kaip gera, kaip malonu broliams gyventi vienybėje!"
+  },
+  {
+    "i": 16235,
+    "b": 18,
+    "c": 2033,
+    "r": 2033,
+    "o": 2,
+    "t": "Tai puikus aliejus ant galvos, kuris teka ant barzdos, kuris teka ant Aarono barzdos, ant jo tunikos apykaklės."
+  },
+  {
+    "i": 16236,
+    "b": 18,
+    "c": 2033,
+    "r": 2033,
+    "o": 3,
+    "t": "Tai Hermono rasa, kuri krinta ant Siono aukštumų; ten Viešpats įsakė palaiminimą, amžinąjį gyvenimą."
+  },
+  {
+    "i": 16237,
+    "b": 18,
+    "c": 2034,
+    "r": 2034,
+    "o": 1,
+    "t": "Eime! Laupinkite Viešpatį, visi Viešpaties tarnai, tarnaujantys Viešpaties namuose, mūsų Dievo namų kiemuose. Naktimis"
+  },
+  {
+    "i": 16238,
+    "b": 18,
+    "c": 2034,
+    "r": 2034,
+    "o": 2,
+    "t": "kelkite savo rankas į šventyklą ir laiminkite Viešpatį."
+  },
+  {
+    "i": 16239,
+    "b": 18,
+    "c": 2034,
+    "r": 2034,
+    "o": 3,
+    "t": "Tepalaimina tave Viešpats iš Siono, Jis, kuris sukūrė dangų ir žemę!"
+  },
+  {
+    "i": 16240,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 1,
+    "t": "Aleliuja! Šlovinkite Viešpaties vardą, šlovinkite, Viešpaties tarnai,"
+  },
+  {
+    "i": 16241,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 2,
+    "t": "tarnaujantys Viešpaties namuose, mūsų Dievo namų kiemuose."
+  },
+  {
+    "i": 16242,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 3,
+    "t": "Šlovinkite Viešpatį, nes Jis geras, Viešpatie, giedokite Jo vardui, nes Jis saldus."
+  },
+  {
+    "i": 16243,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 4,
+    "t": "Jokūbą Viešpats išsirinko sau, Izraelį, kurį Jis padarė savo nuosavybe."
+  },
+  {
+    "i": 16244,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 5,
+    "t": "Aš žinau, kad Jis didis, Viešpatie, kad mūsų Viešpats viršija visus dievus."
+  },
+  {
+    "i": 16245,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 6,
+    "t": "Visa, kas patinka Viešpačiui, Jis daro, danguje ir žemėje, jūrose ir visose gelmėse."
+  },
+  {
+    "i": 16246,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 7,
+    "t": "Iš žemės krašto Jis pakelia debesis, kartu su žaibais Jis sukuria lietų, Jis ištraukia vėją iš savo lobių."
+  },
+  {
+    "i": 16247,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 8,
+    "t": "Jis smogė Egiptui pirmagimiais, nuo žmogaus iki galvijo;"
+  },
+  {
+    "i": 16248,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 9,
+    "t": "Jis siuntė ženklus ir stebuklus tavo viduryje, Egipte, faraonui ir visiems jo tarnams."
+  },
+  {
+    "i": 16249,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 10,
+    "t": "Jis smogė daugybei tautų, Jis pražudė narsius karalius,"
+  },
+  {
+    "i": 16250,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 11,
+    "t": "Sihoną, amoritų karalių, ir Ogą, Bašano karalių, ir visas Kanaano karalystes;"
+  },
+  {
+    "i": 16251,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 12,
+    "t": "ir Jis atidavė jų žemę kaip paveldą, kaip paveldą Izraeliui, savo tautai."
+  },
+  {
+    "i": 16252,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 13,
+    "t": "Viešpatie, Tavo vardas amžinai! Viešpatie, Tavo atminimas iš kartos į kartą!"
+  },
+  {
+    "i": 16253,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 14,
+    "t": "Nes Viešpats gina savo tautą, Jis gaili savo tarnų."
+  },
+  {
+    "i": 16254,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 15,
+    "t": "Tautų stabai yra sidabras ir auksas, žmogaus rankų darbas!"
+  },
+  {
+    "i": 16255,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 16,
+    "t": "jie turi burną ir nekalba, jie turi akis ir nemato."
+  },
+  {
+    "i": 16256,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 17,
+    "t": "Jie turi ausis ir negirdi, jokio atodūsio jų burnoje."
+  },
+  {
+    "i": 16257,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 18,
+    "t": "Tokie patys bus tie, kurie juos padarė, kiekvienas, kuris jais pasitiki."
+  },
+  {
+    "i": 16258,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 19,
+    "t": "Izraelio namai, laiminkite Viešpatį, Aarono namai, laiminkite Viešpatį,"
+  },
+  {
+    "i": 16259,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 20,
+    "t": "Levio namai, laiminkite Viešpatį, tie, kurie bijo Viešpaties, laiminkite Viešpatį."
+  },
+  {
+    "i": 16260,
+    "b": 18,
+    "c": 2035,
+    "r": 2035,
+    "o": 21,
+    "t": "Tebūna palaimintas Viešpats iš Siono, Jis, kuris gyvena Jeruzalėje!"
+  },
+  {
+    "i": 16261,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 1,
+    "t": "Aleliuja! Dėkokite Viešpačiui, nes Jis geras, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16262,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 2,
+    "t": "Dėkokite dievų Dievui, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16263,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 3,
+    "t": "Dėkokite viešpačių Viešpačiui, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16264,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 4,
+    "t": "Vienas Jis padarė nuostabius dalykus, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16265,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 5,
+    "t": "Jis sukūrė dangų išmintingai, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16266,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 6,
+    "t": "Jis įtvirtino žemę virš vandenų, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16267,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 7,
+    "t": "Jis sukūrė didžiuosius šviesulius, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16268,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 8,
+    "t": "Saulę, kad valdytų dieną, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16269,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 9,
+    "t": "Mėnulį ir žvaigždes, kad valdytų naktį, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16270,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 10,
+    "t": "Jis smogė Egiptui pirmagimiais, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16271,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 11,
+    "t": "Ir išvedė iš ten Izraelį, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16272,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 12,
+    "t": "Stipria ranka ir ištiesta ranka, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16273,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 13,
+    "t": "Jis perskyrė per pusę Nendrių jūrą, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16274,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 14,
+    "t": "Ir pervedė Izraelį per jos vidurį, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16275,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 15,
+    "t": "Ten paskandindamas faraoną ir jo kariuomenę, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16276,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 16,
+    "t": "Jis vedė savo tautą į dykumą, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16277,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 17,
+    "t": "Jis smogė galingiems karaliams, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16278,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 18,
+    "t": "Pražudė baisius karalius, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16279,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 19,
+    "t": "Sihoną, amoritų karalių, nes amžina Jo meilė!"
+  },
+  {
+    "i": 16280,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 20,
+    "t": "Ir Ogą, Bašano karalių, nes amžina Jo malonė!"
+  },
+  {
+    "i": 16281,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 21,
+    "t": "Jis atidavė jų žemę paveldui, nes amžina Jo malonė!"
+  },
+  {
+    "i": 16282,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 22,
+    "t": "Paveldui Izraeliui, savo tarnui, nes amžina Jo malonė!"
+  },
+  {
+    "i": 16283,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 23,
+    "t": "Jis atsiminė mus mūsų pažeminime, nes amžina Jo malonė!"
+  },
+  {
+    "i": 16284,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 24,
+    "t": "Jis išgelbėjo mus iš engėjų rankų, nes amžina Jo malonė!"
+  },
+  {
+    "i": 16285,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 25,
+    "t": "Kiekvienam kūnui Jis duoda maisto, nes amžina Jo malonė!"
+  },
+  {
+    "i": 16286,
+    "b": 18,
+    "c": 2036,
+    "r": 2036,
+    "o": 26,
+    "t": "Dėkokite Dievui dangaus, nes amžina Jo malonė!"
+  },
+  {
+    "i": 16287,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 1,
+    "t": "Prie Babilono upių mes sėdėjome ir verkėme, prisimindami Sioną;"
+  },
+  {
+    "i": 16288,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 2,
+    "t": "ant aplinkinių tuopų mes pakabinome savo arfas."
+  },
+  {
+    "i": 16289,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 3,
+    "t": "Ir ten mūsų kaliniai prašė mūsų giesmių, mūsų plėšikai – džiaugsmo: „Giedokite mums, sakė jie, Siono giesmę.“"
+  },
+  {
+    "i": 16290,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 4,
+    "t": "Kaip mes galime giedoti Viešpaties giesmę svetimoje žemėje?"
+  },
+  {
+    "i": 16291,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 5,
+    "t": "Jei aš tave užmiršiu, Jeruzale, te išdžiūsta mano dešinė!"
+  },
+  {
+    "i": 16292,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 6,
+    "t": "Te prilimpa mano liežuvis prie mano gomurio, jei aš tave pamiršiu, jei aš nepakelsiu Jeruzalės aukščiausiai virš mano džiaugsmo!"
+  },
+  {
+    "i": 16293,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 7,
+    "t": "Atsimink, Viešpatie, prieš Edomo vaikus Jeruzalės dieną, kai jie sakė: „Išardykite! Išardykite iki pamatų!“"
+  },
+  {
+    "i": 16294,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 8,
+    "t": "Babilono dukra, kuri turi žūti, palaimintas, kas tau atlygins už tai, ką tu padarei mums,"
+  },
+  {
+    "i": 16295,
+    "b": 18,
+    "c": 2037,
+    "r": 2037,
+    "o": 9,
+    "t": "palaimintas, kas sučiups ir sutraiškys tavo kūdikius į akmenį!"
+  },
+  {
+    "i": 16296,
+    "b": 18,
+    "c": 2038,
+    "r": 2038,
+    "o": 1,
+    "t": "Dovydo. Dėkoju tau, Viešpatie, visa savo širdimi, tu išgirdai mano burnos žodžius. Giedu tau angelų akivaizdoje,"
+  },
+  {
+    "i": 16297,
+    "b": 18,
+    "c": 2038,
+    "r": 2038,
+    "o": 2,
+    "t": "puolu veidu žemėn prie tavo šventos šventyklos. Dėkoju tavo vardui už tavo meilę ir tavo tiesą; tavo pažadas net pranoko tavo vardą."
+  },
+  {
+    "i": 16298,
+    "b": 18,
+    "c": 2038,
+    "r": 2038,
+    "o": 3,
+    "t": "Tą dieną, kai aš šaukiausi, tu mane išklausei, tu sustiprinai mano sielą."
+  },
+  {
+    "i": 16299,
+    "b": 18,
+    "c": 2038,
+    "r": 2038,
+    "o": 4,
+    "t": "Visi žemės karaliai dėkoja tau, Viešpatie, nes jie girdi tavo burnos pažadus;"
+  }
+]

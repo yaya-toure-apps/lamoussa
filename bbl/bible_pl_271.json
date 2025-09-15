@@ -1,0 +1,802 @@
+[
+  {
+    "i": 27100,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 20,
+    "t": "Nie oddawaj serca swego smutkowi, odpędź go. Pomyśl o końcu swoim."
+  },
+  {
+    "i": 27101,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 21,
+    "t": "Nie zapominaj: nie ma powrotu, na nic się zmarłemu nie przydasz, a sam sobie szkodę uczynisz."
+  },
+  {
+    "i": 27102,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 22,
+    "t": "„Pamiętaj o wyroku moim, który i ciebie dosięgnie: mnie wczoraj, tobie dziś!”"
+  },
+  {
+    "i": 27103,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 23,
+    "t": "Gdy tylko umarły spocznie, daj spocząć jego pamięci, pociesz się po nim, skoro duch jego odszedł."
+  },
+  {
+    "i": 27104,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 24,
+    "t": "Mądrość uczonego nabywana jest w czasie wolnym, a kto się o mało troszczy, ten mądrości nabędzie."
+  },
+  {
+    "i": 27105,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 25,
+    "t": "Jakże mądrym może być ten, co trzyma pług, którego chwała jest w posługiwaniu się ościeniem, co prowadzi woły i zajęty jest ich pracą, a jego rozmowa jest tylko o bydlętach?"
+  },
+  {
+    "i": 27106,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 26,
+    "t": "Serce jego zajęte jest bruzdami, które orze, a jego czuwanie przeznaczone jest na tuczenie jałowic."
+  },
+  {
+    "i": 27107,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 27,
+    "t": "Tak też jest z każdym robotnikiem i rzemieślnikiem, który pracuje dniem i nocą, z tymi, którzy zawodowo ryją pieczęcie i starają się o urozmaicenie rysunku; dbają o to, aby dobrze odtworzyć wzór i czuwają, aby dokończyć swoje dzieło."
+  },
+  {
+    "i": 27108,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 28,
+    "t": "Tak też kowal, siedząc przy kowadle, obserwuje pracę żelaza; para ognia niszczy mu ciało, w upale ogniska się mozoli; huk młota go ogłusza, oczy jego utkwione są we wzór; wkłada całe serce w to, by dobrze wykonać swą pracę, a czuwa, by ją doprowadzić do doskonałości."
+  },
+  {
+    "i": 27109,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 29,
+    "t": "Tak też garncarz, siedząc przy swej pracy, nogami obracając koło, bezustannie zajęty swym dziełem, wszystkie jego ruchy są odmierzone;"
+  },
+  {
+    "i": 27110,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 30,
+    "t": "ręką swoją ugniata glinę, nogami ją ujarzmia; wkłada serce w to, by dobrze nałożyć glazurę, a podczas czuwania czyści ognisko."
+  },
+  {
+    "i": 27111,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 31,
+    "t": "Wszyscy ci ludzie złożyli ufność w swoich rękach i każdy jest biegły w swoim rzemiośle."
+  },
+  {
+    "i": 27112,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 32,
+    "t": "Bez nich żadne miasto nie mogłoby być zbudowane, nie można by się osiedlić ani podróżować. Lecz nie szuka się ich w radzie ludu"
+  },
+  {
+    "i": 27113,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 33,
+    "t": "i na zgromadzeniu nie mają wysokiej pozycji. Nie zajmują miejsca sędziego i nie rozważają prawa. Nie jaśnieją ani kulturą, ani rozsądkiem, nie spotyka się ich zajętych przysłowiami."
+  },
+  {
+    "i": 27114,
+    "b": 45,
+    "c": 4738,
+    "r": 4738,
+    "o": 34,
+    "t": "Lecz zapewniają trwanie wieczne, a ich modlitwa dotyczy spraw ich rzemiosła. Inaczej jest z tym, który poświęca duszę swoją i rozważania prawu Najwyższego."
+  },
+  {
+    "i": 27115,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 1,
+    "t": "Bada mądrość wszystkich starożytnych, poświęca swój wolny czas proroctwom."
+  },
+  {
+    "i": 27116,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 2,
+    "t": "Zachowuje opowieści mężów sławnych, wnika w zawiłości przypowieści."
+  },
+  {
+    "i": 27117,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 3,
+    "t": "Szuka ukrytego sensu przysłów, znajduje upodobanie w tajemnicach przypowieści."
+  },
+  {
+    "i": 27118,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 4,
+    "t": "Służy pośród wielkich, zauważa się go w obecności władców. Podróżuje po obcych krajach, doświadczył dobra i zła wśród ludzi."
+  },
+  {
+    "i": 27119,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 5,
+    "t": "Od rana, całym sercem, zwraca się do Pana, swego Stwórcy; błaga w obecności Najwyższego, otwiera usta do modlitwy, błaga za swoje grzechy."
+  },
+  {
+    "i": 27120,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 6,
+    "t": "Jeśli taka jest wola Pana wielkiego, zostanie napełniony duchem rozumu. On sam rozleje słowa mądrości, w modlitwie swej odda Panu dzięki."
+  },
+  {
+    "i": 27121,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 7,
+    "t": "Nabywa prawości sądu i poznania, rozważa Jego tajemnice ukryte."
+  },
+  {
+    "i": 27122,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 8,
+    "t": "Ukaże pouczenie, które otrzymał, i pokładzie swą dumę w prawie przymierza Pańskiego."
+  },
+  {
+    "i": 27123,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 9,
+    "t": "Wielu chwalić będzie jego rozum i nigdy się go nie zapomni. Pamięć o nim nie przeminie, imię jego żyć będzie z pokolenia na pokolenie."
+  },
+  {
+    "i": 27124,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 10,
+    "t": "Narody głosić będą jego mądrość, a zgromadzenie będzie sławić jego chwałę."
+  },
+  {
+    "i": 27125,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 11,
+    "t": "Jeśli długo żyć będzie, imię jego będzie bardziej chwalebne niż tysiące innych, a jeśli umrze, to mu wystarczy."
+  },
+  {
+    "i": 27126,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 12,
+    "t": "Chcę jeszcze podzielić się swoimi przemyśleniami, którymi jestem napełniony jak księżyc w pełni."
+  },
+  {
+    "i": 27127,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 13,
+    "t": "Słuchajcie mnie, dzieci pobożne, i rośnijcie jak róża zasadzona nad brzegiem strumienia."
+  },
+  {
+    "i": 27128,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 14,
+    "t": "Jak kadzidło roztaczajcie miłą woń, kwitnijcie jak lilia, dajcie swój zapach, śpiewajcie pieśń, błogosławcie Pana za wszystkie Jego dzieła."
+  },
+  {
+    "i": 27129,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 15,
+    "t": "Wysławiajcie Jego imię, głoście Jego chwałę, przez wasze pieśni, na waszych cytrach, i powiecie ku Jego chwale:"
+  },
+  {
+    "i": 27130,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 16,
+    "t": "Jakże wspaniałe są wszystkie dzieła Pańskie! Wszystkie Jego rozkazy wykonywane są punktualnie."
+  },
+  {
+    "i": 27131,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 17,
+    "t": "Nie trzeba mówić: Co to jest? Dlaczego to? Wszystko musi być badane w swoim czasie. Na Jego słowo woda się zatrzymuje i gromadzi, na Jego głos tworzą się zbiorniki wód,"
+  },
+  {
+    "i": 27132,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 18,
+    "t": "na Jego rozkaz wszystko, czego pragnie, się spełnia, nie ma nikogo, kto powstrzymałby Jego zbawczy gest."
+  },
+  {
+    "i": 27133,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 19,
+    "t": "Wszystkie dzieła ludzi są przed Nim, nie można uciec przed Jego spojrzeniem;"
+  },
+  {
+    "i": 27134,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 20,
+    "t": "Jego wzrok sięga od wieczności do wieczności, nic nie jest niezwykłe w Jego oczach."
+  },
+  {
+    "i": 27135,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 21,
+    "t": "Nie trzeba mówić: Co to jest? Dlaczego to? Albowiem wszystko zostało stworzone w jakimś celu."
+  },
+  {
+    "i": 27136,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 22,
+    "t": "Tak jak Jego błogosławieństwo wszystko pokryło jak rzeka i napoiło ziemię jak potop,"
+  },
+  {
+    "i": 27137,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 23,
+    "t": "tak też narodom daje swój gniew w udziale, tak zmienił wody w sól."
+  },
+  {
+    "i": 27138,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 24,
+    "t": "Jeśli Jego drogi są zjednoczone dla ludzi pobożnych, to dla złych są pełne przeszkód."
+  },
+  {
+    "i": 27139,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 25,
+    "t": "Dobra zostały stworzone dla dobrych od początku, i tak samo dla złych, zła."
+  },
+  {
+    "i": 27140,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 26,
+    "t": "To, co jest najpotrzebniejsze do życia człowieka, to woda, ogień, żelazo i sól, mąka pszenna, mleko i miód, sok z winogron, oliwa i odzienie."
+  },
+  {
+    "i": 27141,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 27,
+    "t": "Wszystko to jest dobre dla dobrych, ale dla grzeszników staje się złem."
+  },
+  {
+    "i": 27142,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 28,
+    "t": "Są wiatry stworzone do karania i w swojej furii wzmacniają swoje plagi, w godzinie spełnienia uwalniają swoją przemoc i zaspokajają furię swojego Stwórcy."
+  },
+  {
+    "i": 27143,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 29,
+    "t": "Ogień, grad, głód i śmierć, wszystko to zostało stworzone do karania."
+  },
+  {
+    "i": 27144,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 30,
+    "t": "Zęby drapieżników, skorpiony i żmije, miecz mścicielski na zgubę bezbożnych,"
+  },
+  {
+    "i": 27145,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 31,
+    "t": "wszyscy z radością wykonują Jego rozkazy, są na ziemi gotowi na wypadek potrzeby, w odpowiednim momencie nie naruszą Jego słowa."
+  },
+  {
+    "i": 27146,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 32,
+    "t": "Dlatego od samego początku byłem zdecydowany, rozważyłem i napisałem:"
+  },
+  {
+    "i": 27147,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 33,
+    "t": "„Dzieła Pańskie są wszystkie dobre, daje On łaskę swoją temu, kto jej potrzebuje, w stosownym czasie."
+  },
+  {
+    "i": 27148,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 34,
+    "t": "Nie trzeba mówić: „To jest gorsze od tamtego!”, albowiem wszystko w swoim czasie zostanie uznane za dobre."
+  },
+  {
+    "i": 27149,
+    "b": 45,
+    "c": 4739,
+    "r": 4739,
+    "o": 35,
+    "t": "A teraz z całego serca, pełnymi ustami, śpiewajcie i błogosławcie imię Pańskie!”"
+  },
+  {
+    "i": 27150,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 1,
+    "t": "Udział ciężki został dany wszystkim ludziom, jarzmo ciężkie ciąży na synach Adama, od dnia, w którym wychodzą z łona matki, aż do dnia ich powrotu do matki wszechświata."
+  },
+  {
+    "i": 27151,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 2,
+    "t": "Przedmiotem ich rozważań, trwogą ich serca, jest niespokojne oczekiwanie dnia ich śmierci."
+  },
+  {
+    "i": 27152,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 3,
+    "t": "Od tego, który zasiada na tronie, w chwale, aż do nędzarza siedzącego na ziemi i w popiele,"
+  },
+  {
+    "i": 27153,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 4,
+    "t": "od tego, który nosi purpurę i koronę, aż do tego, który jest ubrany w grubą tkaninę, to tylko furia, zawiść, niepokój, troska, strach przed śmiercią, rywalizacje i kłótnie."
+  },
+  {
+    "i": 27154,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 5,
+    "t": "A w chwili, gdy się położy, aby odpocząć, sen nocny jedynie zmienia troski:"
+  },
+  {
+    "i": 27155,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 6,
+    "t": "zaledwie znalazło się odpocznienie, a już śpiąc, jak w biały dzień, jest się dręczonym koszmarami, jak uciekinier, który uszedł z bitwy."
+  },
+  {
+    "i": 27156,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 7,
+    "t": "W chwili wybawienia budzi się, zdziwiony, że jego strach jest próżny."
+  },
+  {
+    "i": 27157,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 8,
+    "t": "Dla wszelkiego ciała, od człowieka do zwierzęcia, lecz dla grzeszników siedmiokrotnie,"
+  },
+  {
+    "i": 27158,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 9,
+    "t": "śmierć, krew, kłótnia i miecz, nieszczęścia, głód, ucisk, klęska!"
+  },
+  {
+    "i": 27159,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 10,
+    "t": "Wszystko to zostało stworzone dla grzeszników, i z ich powodu przyszedł potop."
+  },
+  {
+    "i": 27160,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 11,
+    "t": "Wszystko, co pochodzi z ziemi, wraca do ziemi, a co pochodzi z wody, powraca do morza."
+  },
+  {
+    "i": 27161,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 12,
+    "t": "Łapówki i niesprawiedliwości znikną, lecz dobra wiara trwać będzie wiecznie."
+  },
+  {
+    "i": 27162,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 13,
+    "t": "Bogactwa źle nabyte rozwieją się jak potok, jak uderzenie grzmotu, które rozlega się podczas ulewy."
+  },
+  {
+    "i": 27163,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 14,
+    "t": "Kiedy otwiera ręce, raduje się, tak grzesznicy pójdą na zatracenie."
+  },
+  {
+    "i": 27164,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 15,
+    "t": "Latorośle bezbożnych są ubogie w gałęzie, korzenie nieczyste znajdują jedynie twardą skałę."
+  },
+  {
+    "i": 27165,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 16,
+    "t": "Trzcina, która obficie rośnie na wszystkich wodach i na brzegach rzeki, zostanie wyrwana jako pierwsza."
+  },
+  {
+    "i": 27166,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 17,
+    "t": "Miłość jest jak raj błogosławieństwa, a jałmużna trwa na zawsze."
+  },
+  {
+    "i": 27167,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 18,
+    "t": "Człowiek niezależny i pracownik mają życie słodkie; lepiej jeszcze temu, kto znajduje skarb."
+  },
+  {
+    "i": 27168,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 19,
+    "t": "Dzieci i założone miasto utrwalają imię; jeszcze bardziej ceni się nienaganną niewiastę."
+  },
+  {
+    "i": 27169,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 20,
+    "t": "Wino i sztuka radują serce; lepiej jeszcze umiłowanie mądrości."
+  },
+  {
+    "i": 27170,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 21,
+    "t": "Flet i cytra uświetniają pieśń; lepiej jeszcze głos melodyjny."
+  },
+  {
+    "i": 27171,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 22,
+    "t": "Gracja i piękno, oko ich pragnie, lepiej jeszcze zieleń pól."
+  },
+  {
+    "i": 27172,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 23,
+    "t": "Przyjaciel i towarzysz spotykają się w odpowiednim momencie; lepiej jeszcze kobieta i mężczyzna."
+  },
+  {
+    "i": 27173,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 24,
+    "t": "Bracia i opiekunowie są przydatni w złe dni; lepiej jeszcze jałmużna ratuje z opresji."
+  },
+  {
+    "i": 27174,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 25,
+    "t": "Złoto i srebro sprawiają, że krok jest pewny; lepiej jeszcze ceni się radę."
+  },
+  {
+    "i": 27175,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 26,
+    "t": "Bogactwo i siła dają serce pewne; lepiej jeszcze bojaźń Pańska. Z bojaźnią Pańską niczego nie brakuje; z nią nie trzeba szukać oparcia."
+  },
+  {
+    "i": 27176,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 27,
+    "t": "Bojaźń Pańska jest rajem błogosławieństwa; lepiej niż cała chwała chroni."
+  },
+  {
+    "i": 27177,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 28,
+    "t": "Synu mój, nie żyj z żebraniny, lepiej umrzeć niż żebrać."
+  },
+  {
+    "i": 27178,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 29,
+    "t": "Człowiek, który łypie w stronę stołu cudzego, jego życie nie może uchodzić za życie. Kala gardło swoje pokarmami obcymi, człowiek uczony i dobrze wychowany się tego wystrzeże."
+  },
+  {
+    "i": 27179,
+    "b": 45,
+    "c": 4740,
+    "r": 4740,
+    "o": 30,
+    "t": "W ustach bezwstydnika żebranina jest słodka, ale w jego wnętrznościach jest ogniem płonącym."
+  },
+  {
+    "i": 27180,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 1,
+    "t": "O śmierci, jakże gorzka jest myśl o tobie dla człowieka żyjącego w szczęściu i obfitości, dla męża spokojnego, któremu wszystko się udaje i który jeszcze pokarmu kosztować może!"
+  },
+  {
+    "i": 27181,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 2,
+    "t": "O śmierci, wyrok twój jest mile widziany dla człowieka nędznego i sił pozbawionego, dla starca znużonego, troskami trapionego, buntującego się i cierpliwości pozbawionego!"
+  },
+  {
+    "i": 27182,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 3,
+    "t": "Nie lękaj się postanowienia śmierci, wspomnij na tych przed tobą i tych po tobie!"
+  },
+  {
+    "i": 27183,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 4,
+    "t": "To jest prawo, które Pan ustanowił dla wszelkiego ciała; przeczże buntujesz się przeciw upodobaniu Najwyższego? Czy żyjesz lat dziesięć, sto, tysiąc, w Szeolu nie będą ci wytykać twego życia!"
+  },
+  {
+    "i": 27184,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 5,
+    "t": "Złośliwi nicponie, tacy są synowie grzeszników, ci, którzy nawiedzają domy bezbożnych!"
+  },
+  {
+    "i": 27185,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 6,
+    "t": "Dziedzictwo synów grzeszników idzie na zatracenie, ich potomstwo jest przedmiotem nieustannego wyrzutu!"
+  },
+  {
+    "i": 27186,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 7,
+    "t": "Ojciec bezbożny jest znieważany przez swe dzieci, albowiem od niego pochodzi hańba!"
+  },
+  {
+    "i": 27187,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 8,
+    "t": "Biada wam, bezbożni, którzyście opuścili Prawo Boga Najwyższego!"
+  },
+  {
+    "i": 27188,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 9,
+    "t": "Jeśli się rozmnażacie, to ku zgubie: Jeśli jesteście zrodzeni, będziecie ku przekleństwu; a jeśli umrzecie, przekleństwo będzie waszym udziałem!"
+  },
+  {
+    "i": 27189,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 10,
+    "t": "Wszystko, co z ziemi pochodzi, do ziemi powraca, tak idą bezbożni od przekleństwa ku ruinie!"
+  },
+  {
+    "i": 27190,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 11,
+    "t": "Żałoba ludzka odnosi się do ich szczątków, lecz imię przeklęte grzeszników zanika!"
+  },
+  {
+    "i": 27191,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 12,
+    "t": "Dbaj o swoje imię, albowiem pozostanie ci ono daleko lepsze niż tysiąc bogactw w złocie!"
+  },
+  {
+    "i": 27192,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 13,
+    "t": "Życie szczęśliwe trwa pewną liczbę dni, ale imię uczciwe trwa na wieki!"
+  },
+  {
+    "i": 27193,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 14,
+    "t": "Dzieci moje, strzeżcie w pokoju moich pouczeń. Mądrość ukryta i skarb niewidzialny, na cóż się przydadzą jedno i drugie?"
+  },
+  {
+    "i": 27194,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 15,
+    "t": "Lepszy mąż, który ukrywa swoją głupotę, niż mąż, który ukrywa swoją mądrość!"
+  },
+  {
+    "i": 27195,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 16,
+    "t": "A więc wstydźcie się według tego, co powiem, albowiem nie jest dobrze ulegać wszelkiemu wstydowi i nie wszystko jest dokładnie doceniane przez wszystkich!"
+  },
+  {
+    "i": 27196,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 17,
+    "t": "Wstydźcie się rozwiązłości przed ojcem i matką, i kłamstwa przed zwierzchnikiem i możnym;"
+  },
+  {
+    "i": 27197,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 18,
+    "t": "przestępstwa przed sędzią i urzędnikiem, i bezbożności przed zgromadzeniem ludu; zdrady przed towarzyszem lub przyjacielem"
+  },
+  {
+    "i": 27198,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 19,
+    "t": "i kradzieży przed twoją wioską; prawdy Bożej i przymierza, podpierania się łokciami przy stole, afrontu przy otrzymywaniu lub dawaniu,"
+  },
+  {
+    "i": 27199,
+    "b": 45,
+    "c": 4741,
+    "r": 4741,
+    "o": 20,
+    "t": "pozostawania bez odpowiedzi wobec tych, którzy cię pozdrawiają, zatrzymywania wzroku na prostytutce,"
+  }
+]

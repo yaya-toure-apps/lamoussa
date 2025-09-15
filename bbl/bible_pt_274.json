@@ -1,0 +1,424 @@
+[
+  { "i": 27400, "b": 45, "c": 4750, "r": 4750, "o": 6, "t": null },
+  { "i": 27401, "b": 45, "c": 4750, "r": 4750, "o": 7, "t": null },
+  { "i": 27402, "b": 45, "c": 4750, "r": 4750, "o": 8, "t": null },
+  { "i": 27403, "b": 45, "c": 4750, "r": 4750, "o": 9, "t": null },
+  { "i": 27404, "b": 45, "c": 4750, "r": 4750, "o": 10, "t": null },
+  { "i": 27405, "b": 45, "c": 4750, "r": 4750, "o": 11, "t": null },
+  { "i": 27406, "b": 45, "c": 4750, "r": 4750, "o": 12, "t": null },
+  { "i": 27407, "b": 45, "c": 4750, "r": 4750, "o": 13, "t": null },
+  { "i": 27408, "b": 45, "c": 4750, "r": 4750, "o": 14, "t": null },
+  { "i": 27409, "b": 45, "c": 4750, "r": 4750, "o": 15, "t": null },
+  { "i": 27410, "b": 45, "c": 4750, "r": 4750, "o": 16, "t": null },
+  { "i": 27411, "b": 45, "c": 4750, "r": 4750, "o": 17, "t": null },
+  { "i": 27412, "b": 45, "c": 4750, "r": 4750, "o": 18, "t": null },
+  { "i": 27413, "b": 45, "c": 4750, "r": 4750, "o": 19, "t": null },
+  { "i": 27414, "b": 45, "c": 4750, "r": 4750, "o": 20, "t": null },
+  { "i": 27415, "b": 45, "c": 4750, "r": 4750, "o": 21, "t": null },
+  { "i": 27416, "b": 45, "c": 4750, "r": 4750, "o": 22, "t": null },
+  { "i": 27417, "b": 45, "c": 4750, "r": 4750, "o": 23, "t": null },
+  { "i": 27418, "b": 45, "c": 4750, "r": 4750, "o": 24, "t": null },
+  { "i": 27419, "b": 45, "c": 4750, "r": 4750, "o": 25, "t": null },
+  { "i": 27420, "b": 45, "c": 4750, "r": 4750, "o": 26, "t": null },
+  { "i": 27421, "b": 45, "c": 4750, "r": 4750, "o": 27, "t": null },
+  { "i": 27422, "b": 45, "c": 4750, "r": 4750, "o": 28, "t": null },
+  { "i": 27423, "b": 45, "c": 4750, "r": 4750, "o": 29, "t": null },
+  { "i": 27424, "b": 45, "c": 4751, "r": 4751, "o": 1, "t": null },
+  { "i": 27425, "b": 45, "c": 4751, "r": 4751, "o": 2, "t": null },
+  { "i": 27426, "b": 45, "c": 4751, "r": 4751, "o": 3, "t": null },
+  { "i": 27427, "b": 45, "c": 4751, "r": 4751, "o": 4, "t": null },
+  { "i": 27428, "b": 45, "c": 4751, "r": 4751, "o": 5, "t": null },
+  { "i": 27429, "b": 45, "c": 4751, "r": 4751, "o": 6, "t": null },
+  { "i": 27430, "b": 45, "c": 4751, "r": 4751, "o": 7, "t": null },
+  { "i": 27431, "b": 45, "c": 4751, "r": 4751, "o": 8, "t": null },
+  { "i": 27432, "b": 45, "c": 4751, "r": 4751, "o": 9, "t": null },
+  { "i": 27433, "b": 45, "c": 4751, "r": 4751, "o": 10, "t": null },
+  { "i": 27434, "b": 45, "c": 4751, "r": 4751, "o": 11, "t": null },
+  { "i": 27435, "b": 45, "c": 4751, "r": 4751, "o": 12, "t": null },
+  { "i": 27436, "b": 45, "c": 4751, "r": 4751, "o": 13, "t": null },
+  { "i": 27437, "b": 45, "c": 4751, "r": 4751, "o": 14, "t": null },
+  { "i": 27438, "b": 45, "c": 4751, "r": 4751, "o": 15, "t": null },
+  { "i": 27439, "b": 45, "c": 4751, "r": 4751, "o": 16, "t": null },
+  { "i": 27440, "b": 45, "c": 4751, "r": 4751, "o": 17, "t": null },
+  { "i": 27441, "b": 45, "c": 4751, "r": 4751, "o": 18, "t": null },
+  { "i": 27442, "b": 45, "c": 4751, "r": 4751, "o": 19, "t": null },
+  { "i": 27443, "b": 45, "c": 4751, "r": 4751, "o": 20, "t": null },
+  { "i": 27444, "b": 45, "c": 4751, "r": 4751, "o": 21, "t": null },
+  { "i": 27445, "b": 45, "c": 4751, "r": 4751, "o": 22, "t": null },
+  { "i": 27446, "b": 45, "c": 4751, "r": 4751, "o": 23, "t": null },
+  { "i": 27447, "b": 45, "c": 4751, "r": 4751, "o": 24, "t": null },
+  { "i": 27448, "b": 45, "c": 4751, "r": 4751, "o": 25, "t": null },
+  { "i": 27449, "b": 45, "c": 4751, "r": 4751, "o": 26, "t": null },
+  { "i": 27450, "b": 45, "c": 4751, "r": 4751, "o": 27, "t": null },
+  { "i": 27451, "b": 45, "c": 4751, "r": 4751, "o": 28, "t": null },
+  { "i": 27452, "b": 45, "c": 4751, "r": 4751, "o": 29, "t": null },
+  { "i": 27453, "b": 45, "c": 4751, "r": 4751, "o": 30, "t": null },
+  {
+    "i": 27454,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 1,
+    "t": "LIVRO da geração de Jesus Cristo, filho de Davi, filho de Abraão."
+  },
+  {
+    "i": 27455,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 2,
+    "t": "Abraão gerou a Isaque; e Isaque gerou a Jacó; e Jacó gerou a Judá e a seus irmãos;"
+  },
+  {
+    "i": 27456,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 3,
+    "t": "E Judá gerou, de Tamar, a Perez e a Zerá; e Perez gerou a Esrom; e Esrom gerou a Arão;"
+  },
+  {
+    "i": 27457,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 4,
+    "t": "E Arão gerou a Aminadabe; e Aminadabe gerou a Naassom; e Naassom gerou a Salmom;"
+  },
+  {
+    "i": 27458,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 5,
+    "t": "E Salmom gerou, de Raabe, a Boaz; e Boaz gerou de Rute a Obede; e Obede gerou a Jessé;"
+  },
+  {
+    "i": 27459,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 6,
+    "t": "E Jessé gerou ao rei Davi; e o rei Davi gerou a Salomão da que foi mulher de Urias."
+  },
+  {
+    "i": 27460,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 7,
+    "t": "E Salomão gerou a Roboão; e Roboão gerou a Abias; e Abias gerou a Asa;"
+  },
+  {
+    "i": 27461,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 8,
+    "t": "E Asa gerou a Josafá; e Josafá gerou a Jorão; e Jorão gerou a Uzias;"
+  },
+  {
+    "i": 27462,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 9,
+    "t": "E Uzias gerou a Jotão; e Jotão gerou a Acaz; e Acaz gerou a Ezequias;"
+  },
+  {
+    "i": 27463,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 10,
+    "t": "E Ezequias gerou a Manassés; e Manassés gerou a Amom; e Amom gerou a Josias;"
+  },
+  {
+    "i": 27464,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 11,
+    "t": "E Josias gerou a Jeconias e a seus irmãos na deportação para Babilônia."
+  },
+  {
+    "i": 27465,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 12,
+    "t": "E, depois da deportação para a Babilônia, Jeconias gerou a Salatiel; e Salatiel gerou a Zorobabel;"
+  },
+  {
+    "i": 27466,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 13,
+    "t": "E Zorobabel gerou a Abiúde; e Abiúde gerou a Eliaquim; e Eliaquim gerou a Azor;"
+  },
+  {
+    "i": 27467,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 14,
+    "t": "E Azor gerou a Sadoque; e Sadoque gerou a Aquim; e Aquim gerou a Eliúde;"
+  },
+  {
+    "i": 27468,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 15,
+    "t": "E Eliúde gerou a Eleázar; e Eleázar gerou a Matã; e Matã gerou a Jacó;"
+  },
+  {
+    "i": 27469,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 16,
+    "t": "E Jacó gerou a José, marido de Maria, da qual nasceu JESUS, que se chama o Cristo."
+  },
+  {
+    "i": 27470,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 17,
+    "t": "De sorte que todas as gerações, desde Abraão até Davi, são catorze gerações; e desde Davi até a deportação para a Babilônia, catorze gerações; e desde a deportação para a Babilônia até Cristo, catorze gerações."
+  },
+  {
+    "i": 27471,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 18,
+    "t": "Ora, o nascimento de Jesus Cristo foi assim: Estando Maria, sua mãe, desposada com José, antes de se ajuntarem, achou-se ter concebido do Espírito Santo."
+  },
+  {
+    "i": 27472,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 19,
+    "t": "Então José, seu marido, como era justo, e a não queria infamar, intentou deixá-la secretamente."
+  },
+  {
+    "i": 27473,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 20,
+    "t": "E, projetando ele isto, eis que em sonho lhe apareceu um anjo do Senhor, dizendo: José, filho de Davi, não temas receber a Maria, tua mulher, porque o que nela está gerado é do Espírito Santo;"
+  },
+  {
+    "i": 27474,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 21,
+    "t": "E dará à luz um filho e chamarás o seu nome JESUS; porque ele salvará o seu povo dos seus pecados."
+  },
+  {
+    "i": 27475,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 22,
+    "t": "Tudo isto aconteceu para que se cumprisse o que foi dito da parte do Senhor, pelo profeta, que diz;"
+  },
+  {
+    "i": 27476,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 23,
+    "t": "Eis que a virgem conceberá, e dará à luz um filho, E chamá-lo-ão pelo nome de EMANUEL, Que traduzido é: Deus conosco."
+  },
+  {
+    "i": 27477,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 24,
+    "t": "E José, despertando do sono, fez como o anjo do Senhor lhe ordenara, e recebeu a sua mulher;"
+  },
+  {
+    "i": 27478,
+    "b": 46,
+    "c": 4801,
+    "r": 4801,
+    "o": 25,
+    "t": "E não a conheceu até que deu à luz seu filho, o primogênito; e pôs-lhe por nome Jesus."
+  },
+  {
+    "i": 27479,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 1,
+    "t": "E, TENDO nascido Jesus em Belém de Judéia, no tempo do rei Herodes, eis que uns magos vieram do oriente a Jerusalém,"
+  },
+  {
+    "i": 27480,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 2,
+    "t": "Dizendo: Onde está aquele que é nascido rei dos judeus? porque vimos a sua estrela no oriente, e viemos a adorá-lo."
+  },
+  {
+    "i": 27481,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 3,
+    "t": "E o rei Herodes, ouvindo isto, perturbou-se, e toda Jerusalém com ele."
+  },
+  {
+    "i": 27482,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 4,
+    "t": "E, congregados todos os príncipes dos sacerdotes, e os escribas do povo, perguntou-lhes onde havia de nascer o Cristo."
+  },
+  {
+    "i": 27483,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 5,
+    "t": "E eles lhe disseram: Em Belém de Judéia; porque assim está escrito pelo profeta:"
+  },
+  {
+    "i": 27484,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 6,
+    "t": "E tu, Belém, terra de Judá, De modo nenhum és a menor entre as capitais de Judá; Porque de ti sairá o Guia Que há de apascentar o meu povo de Israel."
+  },
+  {
+    "i": 27485,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 7,
+    "t": "Então Herodes, chamando secretamente os magos, inquiriu exatamente deles acerca do tempo em que a estrela lhes aparecera."
+  },
+  {
+    "i": 27486,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 8,
+    "t": "E, enviando-os a Belém, disse: Ide, e perguntai diligentemente pelo menino e, quando o achardes, participai-mo, para que também eu vá e o adore."
+  },
+  {
+    "i": 27487,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 9,
+    "t": "E, tendo eles ouvido o rei, partiram; e eis que a estrela, que tinham visto no oriente, ia adiante deles, até que, chegando, se deteve sobre o lugar onde estava o menino."
+  },
+  {
+    "i": 27488,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 10,
+    "t": "E, vendo eles a estrela, regozijaram-se muito com grande alegria."
+  },
+  {
+    "i": 27489,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 11,
+    "t": "E, entrando na casa, acharam o menino com Maria sua mãe e, prostrando-se, o adoraram; e abrindo os seus tesouros, ofertaram-lhe dádivas: ouro, incenso e mirra."
+  },
+  {
+    "i": 27490,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 12,
+    "t": "E, sendo por divina revelação avisados em sonhos para que não voltassem para junto de Herodes, partiram para a sua terra por outro caminho."
+  },
+  {
+    "i": 27491,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 13,
+    "t": "E, tendo eles se retirado, eis que o anjo do Senhor apareceu a José em sonhos, dizendo: Levanta-te, e toma o menino e sua mãe, e foge para o Egito, e demora-te lá até que eu te diga; porque Herodes há de procurar o menino para o matar."
+  },
+  {
+    "i": 27492,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 14,
+    "t": "E, levantando-se ele, tomou o menino e sua mãe, de noite, e foi para o Egito."
+  },
+  {
+    "i": 27493,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 15,
+    "t": "E esteve lá, até à morte de Herodes, para que se cumprisse o que foi dito da parte do Senhor pelo profeta, que diz: Do Egito chamei o meu Filho."
+  },
+  {
+    "i": 27494,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 16,
+    "t": "Então Herodes, vendo que tinha sido iludido pelos magos, irritou-se muito, e mandou matar todos os meninos que havia em Belém, e em todos os seus contornos, de dois anos para baixo, segundo o tempo que diligentemente inquirira dos magos."
+  },
+  {
+    "i": 27495,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 17,
+    "t": "Então se cumpriu o que foi dito pelo profeta Jeremias, que diz:"
+  },
+  {
+    "i": 27496,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 18,
+    "t": "Em Ramá se ouviu uma voz, Lamentação, choro e grande pranto: Raquel chorando os seus filhos, E não querendo ser consolada, porque já não existem."
+  },
+  {
+    "i": 27497,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 19,
+    "t": "Morto, porém, Herodes, eis que o anjo do Senhor apareceu num sonho a José no Egito,"
+  },
+  {
+    "i": 27498,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 20,
+    "t": "Dizendo: Levanta-te, e toma o menino e sua mãe, e vai para a terra de Israel; porque já estão mortos os que procuravam a morte do menino."
+  },
+  {
+    "i": 27499,
+    "b": 46,
+    "c": 4802,
+    "r": 4802,
+    "o": 21,
+    "t": "Então ele se levantou, e tomou o menino e sua mãe, e foi para a terra de Israel."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13000,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 22,
+    "t": "Zdali jsem vám pravil: „Dar mi učiňte, oběť mi přineste z majetku svého?“"
+  },
+  {
+    "i": 13001,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 23,
+    "t": "Vytrhněte mne z sevření utiskovatele, vysvoboďte mne z ruky násilníka?"
+  },
+  {
+    "i": 13002,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 24,
+    "t": "Poučte mne, a já zmlknu; ukažte mi, v čem jsem pochybil."
+  },
+  {
+    "i": 13003,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 25,
+    "t": "Snesitelné jsou řeči spravedlivé, avšak vaše výtky, co sledují?"
+  },
+  {
+    "i": 13004,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 26,
+    "t": "Chcete snad hanět slova, řeči zoufalství, jež vítr odnáší?"
+  },
+  {
+    "i": 13005,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 27,
+    "t": "Až losovat byste chtěli o sirotka, lacino prodávat přítele svého!"
+  },
+  {
+    "i": 13006,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 28,
+    "t": "Nuže, prosím vás, pohleďte na mne! Tváří v tvář nebudu lhát."
+  },
+  {
+    "i": 13007,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 29,
+    "t": "Navraťte se, ať není bezpráví; navraťte se, neboť zůstávám ve svém právu."
+  },
+  {
+    "i": 13008,
+    "b": 17,
+    "c": 1806,
+    "r": 1806,
+    "o": 30,
+    "t": "Zdaž je na mých rtech zlo? Zdaž mé patro již neumí rozeznat neštěstí?"
+  },
+  {
+    "i": 13009,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 1,
+    "t": "Zdali není čas služby, kterou člověk koná na zemi, nevede-li život žoldnéře?"
+  },
+  {
+    "i": 13010,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 2,
+    "t": "Jako otrok touží po stínu, dělník se pachtí po své mzdě,"
+  },
+  {
+    "i": 13011,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 3,
+    "t": "dostal jsem v podíl měsíce zklamání, k svému účtu noci utrpení."
+  },
+  {
+    "i": 13012,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 4,
+    "t": "Leže na loži, říkám si: „Kdy bude den?“ Sotva vstanu: „Kdy přijde večer?“ A bláznivé myšlenky mne sužují až do soumraku."
+  },
+  {
+    "i": 13013,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 5,
+    "t": "Červi a hroudy zemské pokrývají mé tělo, má kůže praská a hnisá."
+  },
+  {
+    "i": 13014,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 6,
+    "t": "Mé dny uběhly rychleji než tkalcovský člunek a zmizely bez naděje."
+  },
+  {
+    "i": 13015,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 7,
+    "t": "Pomni, že život můj je jen dech, že mé oči již nespatří štěstí!"
+  },
+  {
+    "i": 13016,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 8,
+    "t": "Již nebudu viditelný pro žádný pohled, tvé oči budou na mne a zmizím."
+  },
+  {
+    "i": 13017,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 9,
+    "t": "Jako oblak se rozplyne a zmizí, kdo sestoupí do šeolu, se nevrátí."
+  },
+  {
+    "i": 13018,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 10,
+    "t": "Neobrátí se, aby obýval svůj dům, a jeho příbytek ho již nepozná."
+  },
+  {
+    "i": 13019,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 11,
+    "t": "A proto nemohu mlčet, budu mluvit v úzkosti svého ducha, budu si stěžovat v hořkosti své duše."
+  },
+  {
+    "i": 13020,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 12,
+    "t": "Jsem snad moře já, anebo mořská obluda, abys proti mně postavil stráž?"
+  },
+  {
+    "i": 13021,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 13,
+    "t": "Když řeknu: „Lůžko mé mi uleví, lože mé zmírní mé nářky,“"
+  },
+  {
+    "i": 13022,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 14,
+    "t": "pak mne děsíš sny, hrozíš mi viděními."
+  },
+  {
+    "i": 13023,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 15,
+    "t": "Ach! Kéž bych byl uškrcen: smrt raději než mé bolesti."
+  },
+  {
+    "i": 13024,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 16,
+    "t": "Marně se trápím, nebudu žít věčně; nech mne již, mé dny jsou jen dech!"
+  },
+  {
+    "i": 13025,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 17,
+    "t": "Co je člověk, že si ho tolik ceníš, že na něj upíráš svou pozornost,"
+  },
+  {
+    "i": 13026,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 18,
+    "t": "abys ho zkoumal každé ráno, abys ho zkoumal v každém okamžiku?"
+  },
+  {
+    "i": 13027,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 19,
+    "t": "Přestaneš se konečně na mne dívat, abys mi nechal čas polknout slinu?"
+  },
+  {
+    "i": 13028,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 20,
+    "t": "Jestliže jsem zhřešil, co jsem ti učinil, tobě, pozorný pozorovateli člověka? Proč sis mne vzal za cíl, proč ti jsem na obtíž?"
+  },
+  {
+    "i": 13029,
+    "b": 17,
+    "c": 1807,
+    "r": 1807,
+    "o": 21,
+    "t": "Nemůžeš tolerovat mou urážku, přejít mou chybu? Neboť brzy ulehnu v prachu, budeš mne hledat, a již nebudu."
+  },
+  {
+    "i": 13030,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 1,
+    "t": "Bildad z Šuachu promluvil a řekl:"
+  },
+  {
+    "i": 13031,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 2,
+    "t": "Dokdy budeš takto mluvit a říkat věci podobné velkému větru?"
+  },
+  {
+    "i": 13032,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 3,
+    "t": "Může Bůh ohýbat právo, Všemocný překrucovat spravedlnost?"
+  },
+  {
+    "i": 13033,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 4,
+    "t": "Jestliže tvoji synové zhřešili proti němu, potrestal je pro jejich viny."
+  },
+  {
+    "i": 13034,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 5,
+    "t": "Hledej Boha, pros Všemocného."
+  },
+  {
+    "i": 13035,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 6,
+    "t": "Pro tebe, jsi-li bezúhonný a spravedlivý, již nyní na tebe zasvítí jeho světlo a obnoví dům spravedlivého."
+  },
+  {
+    "i": 13036,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 7,
+    "t": "Tvůj dřívější stav se ti bude zdát jako nic, tak velká bude tvá budoucnost."
+  },
+  {
+    "i": 13037,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 8,
+    "t": "Dotazuj se na minulé pokolení, rozvažuj o zkušenosti získané jeho otci."
+  },
+  {
+    "i": 13038,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 9,
+    "t": "My, zrození včera, nic nevíme, náš život na zemi pomíjí jako stín."
+  },
+  {
+    "i": 13039,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 10,
+    "t": "Ale oni tě poučí, budou k tobě mluvit, a jejich myšlenka vydá tyto výroky:"
+  },
+  {
+    "i": 13040,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 11,
+    "t": "„Roste papyrus mimo močály? Může sítina růst bez vody?"
+  },
+  {
+    "i": 13041,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 12,
+    "t": "Když je ještě v své svěžesti a není sklizena, dříve než jakákoli jiná bylina usychá."
+  },
+  {
+    "i": 13042,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 13,
+    "t": "Takový je úděl těch, kdo zapomínají na Boha, tak hyne naděje bezbožníka."
+  },
+  {
+    "i": 13043,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 14,
+    "t": "Jeho důvěra je jen vlásek, jeho bezpečí pavučina."
+  },
+  {
+    "i": 13044,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 15,
+    "t": "Opírá-li se o svůj příbytek, ten povolí; drží-li se ho, ten se zhroutí."
+  },
+  {
+    "i": 13045,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 16,
+    "t": "Plný mízy na slunci, nad zahradou vrhal své mladé výhonky."
+  },
+  {
+    "i": 13046,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 17,
+    "t": "Jeho kořeny se propletly na kamenitém návrší, čerpal svůj život uprostřed skal."
+  },
+  {
+    "i": 13047,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 18,
+    "t": "Je vytržen ze svého místa; jeho místo ho zapře: Nikdy jsem tě neviděl!"
+  },
+  {
+    "i": 13048,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 19,
+    "t": "A hle, hnije na cestě, zatímco ze země klíčí jiní."
+  },
+  {
+    "i": 13049,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 20,
+    "t": "Ne, Bůh neodmítá člověka bezúhonného, nepodporuje zlé."
+  },
+  {
+    "i": 13050,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 21,
+    "t": "Smích opět naplní tvá ústa, radost zazáří na tvých rtech."
+  },
+  {
+    "i": 13051,
+    "b": 17,
+    "c": 1808,
+    "r": 1808,
+    "o": 22,
+    "t": "Tvoji nepřátelé budou pokryti hanbou a stan zlých zmizí.`\""
+  },
+  {
+    "i": 13052,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 1,
+    "t": "Job promluvil a řekl:"
+  },
+  {
+    "i": 13053,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 2,
+    "t": "V pravdě vím dobře, že tomu tak je: Může se člověk ospravedlnit před Bohem?"
+  },
+  {
+    "i": 13054,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 3,
+    "t": "Tomu, kdo se s ním rád hádá, neodpoví ani jednou z tisíce."
+  },
+  {
+    "i": 13055,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 4,
+    "t": "Mezi nejmoudřejšími a nejzdatnějšími kdo by mu vzdoroval bez trestu?"
+  },
+  {
+    "i": 13056,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 5,
+    "t": "Přesunuje hory, aniž by to věděly, a ve svém hněvu je převrací."
+  },
+  {
+    "i": 13057,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 6,
+    "t": "Země se otřásá na svém místě a hýbou se její sloupy."
+  },
+  {
+    "i": 13058,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 7,
+    "t": "Na jeho obranu slunce nevychází, klade pečeť na hvězdy."
+  },
+  {
+    "i": 13059,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 8,
+    "t": "Jen on sám rozprostřel Nebesa a pošlapal hřbet Moře."
+  },
+  {
+    "i": 13060,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 9,
+    "t": "Stvořil Medvědici a Oriona, Kuřátka a Komory Jihu."
+  },
+  {
+    "i": 13061,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 10,
+    "t": "On je autorem děl velkolepých a nevystižitelných, divů, jež nelze spočítat."
+  },
+  {
+    "i": 13062,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 11,
+    "t": "Projdu-li kolem, nevidím ho a klouže nepostřehnutelně."
+  },
+  {
+    "i": 13063,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 12,
+    "t": "Uchvátí-li kořist, kdo mu v tom zabrání a kdo se mu odváží říci: „Co to děláš?"
+  },
+  {
+    "i": 13064,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 13,
+    "t": "Bůh se nevzdává svého hněvu: pod ním zůstávají padlí satelité Rachaba."
+  },
+  {
+    "i": 13065,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 14,
+    "t": "A já, chtěl bych se bránit, vybral bych si argumenty proti němu?"
+  },
+  {
+    "i": 13066,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 15,
+    "t": "I kdybych měl pravdu, k čemu mu odpovídat? Svého soudce bych musel prosit."
+  },
+  {
+    "i": 13067,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 16,
+    "t": "A kdyby se na mou výzvu ráčil dostavit, nemohu věřit, že by naslouchal mému hlasu,"
+  },
+  {
+    "i": 13068,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 17,
+    "t": "ten, který mne rozdrtí pro vlas, který bezdůvodně množí mé rány"
+  },
+  {
+    "i": 13069,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 18,
+    "t": "a nenechá mne ani se nadechnout, tolik mne sytí hořkostí!"
+  },
+  {
+    "i": 13070,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 19,
+    "t": "Obrátit se k síle? On vyniká v síle! K soudu? Ale kdo ho předvolá?"
+  },
+  {
+    "i": 13071,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 20,
+    "t": "Ospravedlním-li se, jeho ústa mne mohou odsoudit; mám-li se za dokonalého, prohlásí mne za zvráceného."
+  },
+  {
+    "i": 13072,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 21,
+    "t": "Ale jsem dokonalý? Již to sám nevím a nestarám se o existenci!"
+  },
+  {
+    "i": 13073,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 22,
+    "t": "Neboť je to všechno jedno a odvažuji se říci: stejně zahubí člověka bezúhonného i zlého."
+  },
+  {
+    "i": 13074,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 23,
+    "t": "Když náhle udeří smrtelná rána, směje se úzkosti nevinných."
+  },
+  {
+    "i": 13075,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 24,
+    "t": "V zemi vydané do moci zlého zakrývá tvář soudců. Jestliže ne on, kdo tedy?"
+  },
+  {
+    "i": 13076,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 25,
+    "t": "Mé dny plynou, rychlejší než běžec, utíkají, aniž by viděly štěstí."
+  },
+  {
+    "i": 13077,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 26,
+    "t": "Kloužou jako čluny ze sítiny, jako orel se snese na svou kořist."
+  },
+  {
+    "i": 13078,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 27,
+    "t": "Rozhodnu-li se potlačit svůj nářek, změnit svůj vzhled, abych se tvářil vesele,"
+  },
+  {
+    "i": 13079,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 28,
+    "t": "hrůza mne jímá tváří v tvář všem mým zlům, neboť, vím, že mne nepovažuješ za nevinného."
+  },
+  {
+    "i": 13080,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 29,
+    "t": "Jestliže jsem i zhřešil, proč se nadarmo trápím?"
+  },
+  {
+    "i": 13081,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 30,
+    "t": "Byť bych se umýval louhem, a čistil ruce své sodou,"
+  },
+  {
+    "i": 13082,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 31,
+    "t": "Ty mne přesto do jámy uvrhneš, a i oděv můj se mne oškliví!"
+  },
+  {
+    "i": 13083,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 32,
+    "t": "Neboť on není jako já, člověk, abych mu odpověděl, abychom spolu před soud předstoupili."
+  },
+  {
+    "i": 13084,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 33,
+    "t": "Není mezi námi soudce, jenž by ruku svou na nás oba vložil,"
+  },
+  {
+    "i": 13085,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 34,
+    "t": "aby odvrátil ode mne metlu svou, a hrůzu svou ode mne zahnal!"
+  },
+  {
+    "i": 13086,
+    "b": 17,
+    "c": 1809,
+    "r": 1809,
+    "o": 35,
+    "t": "Budu tedy mluvit bez bázně před ním, neboť nejsem takový sám před sebou!"
+  },
+  {
+    "i": 13087,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 1,
+    "t": "Poněvadž se mi život protiví, chci volně mluvit v hořkosti duše své, vylévat hoře svého srdce."
+  },
+  {
+    "i": 13088,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 2,
+    "t": "Řeknu Bohu: Neodsoudíš mne, sděl mi, proč se se mnou přeš?"
+  },
+  {
+    "i": 13089,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 3,
+    "t": "Zda je to tobě dobré, abys mne sužoval, a dílo rukou svých zavrhoval, a radu bezbožných podporoval?"
+  },
+  {
+    "i": 13090,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 4,
+    "t": "Zda máš oči z masa, a vidíš jako člověk?"
+  },
+  {
+    "i": 13091,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 5,
+    "t": "Zda jsou tvé dny jako dny smrtelníka, a tvé roky plynou jako dny člověka?"
+  },
+  {
+    "i": 13092,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 6,
+    "t": "Že hledáš vinu mou, a zkoumáš hřích můj,"
+  },
+  {
+    "i": 13093,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 7,
+    "t": "ačkoliv víš, že jsem nevinný, a že mne nikdo nemůže vyrvat z ruky tvé!"
+  },
+  {
+    "i": 13094,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 8,
+    "t": "Ruce tvé mne utvořily a stvořily; pak se odvracíš, abys mne zahubil!"
+  },
+  {
+    "i": 13095,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 9,
+    "t": "Pamatuj, že jsi mne učinil jako hlínu, a navrátíš mne do prachu."
+  },
+  {
+    "i": 13096,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 10,
+    "t": "Zda jsi mne nevylil jako mléko, a nechal ztuhnout jako tvaroh,"
+  },
+  {
+    "i": 13097,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 11,
+    "t": "oblékl mne kůží a masem, protkal kostmi a žilami?"
+  },
+  {
+    "i": 13098,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 12,
+    "t": "Pak jsi mi daroval život, a s péčí jsi bděl nad dechem mým."
+  },
+  {
+    "i": 13099,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 13,
+    "t": "Ale skryté věci jsi měl na mysli; vím, že jsi si mne ponechal"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 22500,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 4,
+    "t": "\"Kaj tudi vi, Tir in Sidon, kaj mi hočete? In vi vsi, filistejske pokrajine? Se mi hočete maščevati? Če pa se mi boste maščevali, hitro bom storil, da se bo maščevanje povrnilo na vaše glave!"
+  },
+  {
+    "i": 22501,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 5,
+    "t": "\"Vi, ki ste vzeli moje srebro in zlato, ki ste odnesli v svoje templje moje dragocene zaklade,"
+  },
+  {
+    "i": 22502,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 6,
+    "t": "\"vi, ki ste prodali sinovom Javana sinove Juda in Jeruzalema, da bi jih oddaljili od njihovega ozemlja!"
+  },
+  {
+    "i": 22503,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 7,
+    "t": "\"Glej, poklical jih bom iz kraja, kamor ste jih prodali, in storil bom, da se bodo vaša dejanja povrnila na vaše glave!"
+  },
+  {
+    "i": 22504,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 8,
+    "t": "\"Prodajal bom vaše sinove in vaše hčere, izročil jih bom sinovom Juda; ti pa jih bodo prodali Sabejcem, oddaljenemu narodu, kajti Gospod je govoril!"
+  },
+  {
+    "i": 22505,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 9,
+    "t": "\"Razglasite to med narodi: Pripravite se na vojno! Pokličite hrabre! Naj stopijo naprej, naj se dvignejo vsi vojaki!"
+  },
+  {
+    "i": 22506,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 10,
+    "t": "\"Iz svojih lemežev skujte meče, iz svojih srpov sulice, naj šibki reče: 'Hrabar sem!'"
+  },
+  {
+    "i": 22507,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 11,
+    "t": "\"Pohitite in pridite, vsi narodi okoli vas, in zberite se tam! (Gospod, pošlji svoje hrabre.)"
+  },
+  {
+    "i": 22508,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 12,
+    "t": "\"Naj se narodi premaknejo in dvignejo v Jozafatovo dolino! Kajti tam bom sedel, da bom sodil vse narode naokrog."
+  },
+  {
+    "i": 22509,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 13,
+    "t": "\"Spustite srp: žetev je zrela; pridite, teptajte: tlačilnica je polna; kadi prekipevajo, tako velika je njihova hudobija!"
+  },
+  {
+    "i": 22510,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 14,
+    "t": "\"Množice na množice v Dolini odločitve! Kajti blizu je Gospodov dan v Dolini odločitve!"
+  },
+  {
+    "i": 22511,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 15,
+    "t": "\"Sonce in luna se stemnita, zvezde izgubijo svoj sijaj."
+  },
+  {
+    "i": 22512,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 16,
+    "t": "\"Gospod grmi iz Siona, iz Jeruzalema se oglaša njegov glas; nebesa in zemlja se tresejo! Toda Gospod bo svojemu ljudstvu pribežališče, trdnjava za otroke Izraela!"
+  },
+  {
+    "i": 22513,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 17,
+    "t": "\"Tedaj boste spoznali, da sem jaz Gospod, vaš Bog, ki prebivam na Sionu, moji sveti gori! Jeruzalem bo sveto mesto, tujci ne bodo več hodili skozenj!"
+  },
+  {
+    "i": 22514,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 18,
+    "t": "\"Tisti dan bodo gore kapljale od novega vina, griči se bodo cedili od mleka in po vseh judovih potokih bodo tekle vode. Iz Gospodove hiše bo izviral studenec in namakal dolino Akacij."
+  },
+  {
+    "i": 22515,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 19,
+    "t": "\"Egipt bo postal puščava, Edom pa opustošena pusta dežela, zaradi nasilja, ki so ga storili nad sinovi Juda, katerih nedolžno kri so prelili v njihovi deželi."
+  },
+  {
+    "i": 22516,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 20,
+    "t": "\"Toda Juda bo naseljen na veke in Jeruzalem iz roda v rod."
+  },
+  {
+    "i": 22517,
+    "b": 28,
+    "c": 3004,
+    "r": 3004,
+    "o": 21,
+    "t": "\"Maščeval bom njihovo kri, ne bom priznal nekaznovanosti,\" in Gospod bo imel svoje prebivališče na Sionu."
+  },
+  {
+    "i": 22518,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 1,
+    "t": "\"Besede Amosa, ki je bil eden izmed pastirjev Tekoe. Kar je videl o Izraelu v dneh Ozija, judovega kralja, in v dneh Jeroboama, Joasovega sina, izraelskega kralja, dve leti pred potresom."
+  },
+  {
+    "i": 22519,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 2,
+    "t": "\"Rekel je: Iz Siona Gospod grmi in iz Jeruzalema daje svoj glas; pašniki pastirjev žalujejo in vrh Karmela se suši."
+  },
+  {
+    "i": 22520,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 3,
+    "t": "\"Tako govori Gospod: Zaradi treh zločinov Damaska in zaradi štirih sem se odločil brez povratka! Ker so poteptali Gilead z železnimi sanmi,"
+  },
+  {
+    "i": 22521,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 4,
+    "t": "\"poslal bom ogenj v Hazaélovo hišo in požrl bo palače Ben-Hadada;"
+  },
+  {
+    "i": 22522,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 5,
+    "t": "\"zlomil bom Damaskovo zaporo, iz Bikéat-Avena bom iztrebil prebivalca, iz Bet-Edna tistega, ki drži žezlo, in aramijsko ljudstvo bo odvedeno v Kir, pravi Gospod."
+  },
+  {
+    "i": 22523,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 6,
+    "t": "\"Tako govori Gospod: Zaradi treh zločinov Gaze in zaradi štirih sem se odločil brez povratka! Ker so deportirali cele populacije, da bi jih izročili Edomu,"
+  },
+  {
+    "i": 22524,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 7,
+    "t": "\"poslal bom ogenj v obzidje Gaze in požrl bo njene palače;"
+  },
+  {
+    "i": 22525,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 8,
+    "t": "\"iz Asdoda bom iztrebil prebivalca in iz Askelona tistega, ki drži žezlo; obrnil bom svojo roko proti Ekronu in kar ostane od Filistejcev, bo poginilo, pravi Gospod Jahve."
+  },
+  {
+    "i": 22526,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 9,
+    "t": "\"Tako govori Gospod: Zaradi treh zločinov Tira in zaradi štirih sem se odločil brez povratka! Ker so izročili Edomu cele populacije ujetnikov, ne da bi se spomnili na zavezo med brati,"
+  },
+  {
+    "i": 22527,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 10,
+    "t": "\"poslal bom ogenj v obzidje Tira in požrl bo njegove palače."
+  },
+  {
+    "i": 22528,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 11,
+    "t": "\"Tako govori Gospod: Zaradi treh zločinov Edoma in zaradi štirih sem se odločil brez povratka! Ker je preganjal svojega brata z mečem, dušil vsako usmiljenje, ker večno ohranja svojo jezo in brez konca goji svojo bes,"
+  },
+  {
+    "i": 22529,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 12,
+    "t": "\"poslal bom ogenj v Teman in požrl bo palače Bozre."
+  },
+  {
+    "i": 22530,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 13,
+    "t": "\"Tako govori Gospod: Zaradi treh zločinov sinov Amonovih in zaradi štirih sem se odločil brez povratka! Ker so iztaknili nosečnice Gileada, da bi razširili svoje ozemlje,"
+  },
+  {
+    "i": 22531,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 14,
+    "t": "\"zažgal bom obzidje Rabe in požrl bo njene palače, v hrupu, na dan bitke, v nevihti, na dan viharja;"
+  },
+  {
+    "i": 22532,
+    "b": 29,
+    "c": 3101,
+    "r": 3101,
+    "o": 15,
+    "t": "\"in njihov kralj bo šel v izgnanstvo, on in njegovi knezi z njim, pravi Gospod."
+  },
+  {
+    "i": 22533,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 1,
+    "t": "\"Tako govori Gospod: Zaradi treh zločinov Moaba in zaradi štirih sem se odločil brez povratka! Ker je sežgal kosti edomskega kralja, da so se spremenile v pepel,"
+  },
+  {
+    "i": 22534,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 2,
+    "t": "\"poslal bom ogenj v Moab, požrl bo palače Kerijota, in Moab bo umrl v vrvežu, v hrupu, ob zvoku roga;"
+  },
+  {
+    "i": 22535,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 3,
+    "t": "\"iztrebil bom sodnika iz njegove srede in vse njegove kneze, jih bom pobil z njim, pravi Gospod."
+  },
+  {
+    "i": 22536,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 4,
+    "t": "\"Tako govori Gospod: Zaradi treh zločinov Juda in zaradi štirih sem se odločil brez povratka! Ker so zavrgli Gospodovo postavo in niso držali njegovih odlokov, ker so jih zavedle njihove Laži, tiste, ki so jih sledili njihovi očetje,"
+  },
+  {
+    "i": 22537,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 5,
+    "t": "\"poslal bom ogenj v Juda in požrl bo Jeruzalemske palače."
+  },
+  {
+    "i": 22538,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 6,
+    "t": "\"Tako govori Gospod: Zaradi treh zločinov Izraela in zaradi štirih sem se odločil brez povratka! Ker prodajajo pravičnega za denar in ubogega za par sandal;"
+  },
+  {
+    "i": 22539,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 7,
+    "t": "\"ker teptajo glave šibkih v prah zemlje in ker zavijajo pot ponižnih; ker gre sin in oče k isti deklici, da bi onečastili moje sveto ime;"
+  },
+  {
+    "i": 22540,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 8,
+    "t": "\"ker se razprostirajo na obleki, vzeti v zastavo, poleg vseh oltarjev, in ker pijejo v hiši svojega boga vino tistih, ki so bili kaznovani z globo."
+  },
+  {
+    "i": 22541,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 9,
+    "t": "\"In jaz sem pred njimi uničil Amorita, katerega rast je bila enaka rasti cedre, ki je bil močan kakor hrasti! Uničil sem njegov sad zgoraj in njegove korenine spodaj!"
+  },
+  {
+    "i": 22542,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 10,
+    "t": "\"In jaz sem vas pripeljal iz egiptovske dežele in vas vodil štirideset let po puščavi, da bi posedli amoritsko deželo!"
+  },
+  {
+    "i": 22543,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 11,
+    "t": "\"Med vašimi sinovi sem obudil preroke in med vašimi mladeniči nazirejce! Ali ni tako, otroci Izraela? Govor Gospodov."
+  },
+  {
+    "i": 22544,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 12,
+    "t": "\"Toda vi ste nazirejce napajali z vinom, prerokom pa ste dali ukaz: 'Ne prerokujte!'"
+  },
+  {
+    "i": 22545,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 13,
+    "t": "\"Glej! Jaz vas bom zdrobil na mestu, kakor drobi voz, poln snopov;"
+  },
+  {
+    "i": 22546,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 14,
+    "t": "\"hitrost bo manjka človeku hitremu, močan človek ne bo razvil svoje moči in hrabri ne bo rešil svojega življenja;"
+  },
+  {
+    "i": 22547,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 15,
+    "t": "\"tisti, ki upravlja z lokom, ne bo obstal, človek s hitrimi nogami ne bo pobegnil, tisti, ki jezdi konja, ne bo rešil svojega življenja,"
+  },
+  {
+    "i": 22548,
+    "b": 29,
+    "c": 3102,
+    "r": 3102,
+    "o": 16,
+    "t": "\"in najpogumnejši med hrabrimi bo tisti dan gol pobegnil, govori Gospod."
+  },
+  {
+    "i": 22549,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 1,
+    "t": "\"Poslušajte to besedo, ki jo Gospod izreka proti vam, otroci Izraela, proti vsej družini, ki sem jo pripeljal iz egiptovske dežele:"
+  },
+  {
+    "i": 22550,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 2,
+    "t": "\"Poznal sem samo vas iz vseh družin zemlje, zato vas bom kaznoval za vse vaše krivde."
+  },
+  {
+    "i": 22551,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 3,
+    "t": "\"Ali gresta dva skupaj, če se nista dogovorila?"
+  },
+  {
+    "i": 22552,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 4,
+    "t": "\"Ali lev rjove v gozdu, če nima plena? Ali mladi lev daje svoj glas iz svoje jame, če ni nič ujel?"
+  },
+  {
+    "i": 22553,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 5,
+    "t": "\"Ali pade vrabec v mrežo na zemlji, če ni pasti? Ali se mreža dvigne s tal, če ni nič ujela?"
+  },
+  {
+    "i": 22554,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 6,
+    "t": "\"Ali se oglasi rog v mestu, ne da bi se ljudstvo prestrašilo? Ali se zgodi nesreča v mestu, ne da bi jo povzročil Gospod?"
+  },
+  {
+    "i": 22555,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 7,
+    "t": "\"Toda Gospod Jahve ne stori ničesar, ne da bi razodel skrivnost svojim služabnikom, prerokom."
+  },
+  {
+    "i": 22556,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 8,
+    "t": "\"Lev je zarjovel: kdo se ne bi bal? Gospod Jahve je govoril: kdo ne bi prerokoval?"
+  },
+  {
+    "i": 22557,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 9,
+    "t": "\"Razglasite to na palačah Asura in na palačah egiptovske dežele; recite: zberite se na gorah Samarije in poglejte, kakšne so nerednosti v njeni sredi in kakšno zatiranje v njenem osrčju!"
+  },
+  {
+    "i": 22558,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 10,
+    "t": "\"Ne znajo delovati pravično – govori Gospod – oni, ki kopičijo nasilje in ropanje v svojih palačah."
+  },
+  {
+    "i": 22559,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 11,
+    "t": "\"Zato tako govori Gospod Jahve: Sovražnik bo zavzel deželo, podrl bo tvojo moč in tvoje palače bodo izropane."
+  },
+  {
+    "i": 22560,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 12,
+    "t": "\"Tako govori Gospod: Kakor pastir reši iz levje žrele dve nogi ali košček ušesa, tako bodo rešeni otroci Izraela, ki sedijo v Samariji, v kotu postelje in na damastskem divanu."
+  },
+  {
+    "i": 22561,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 13,
+    "t": "\"Poslušajte in pričajte proti Jakobovi hiši – govori Gospod Jahve, Bog Sabaot –"
+  },
+  {
+    "i": 22562,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 14,
+    "t": "\"na dan, ko bom kaznoval Izraela za njegove zločine, bom posegel proti oltarjem Betela; rogovi oltarja bodo posekani in bodo padli na zemljo."
+  },
+  {
+    "i": 22563,
+    "b": 29,
+    "c": 3103,
+    "r": 3103,
+    "o": 15,
+    "t": "\"Udrihal bom zimsko hišo z letno hišo, hiše iz slonovine bodo uničene, marsikatere hiše bodo izginile, govori Gospod."
+  },
+  {
+    "i": 22564,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 1,
+    "t": "\"Poslušajte to besedo, bašanske krave, ki ste na gori Samarije, ki izkoriščate šibke, ki maltretirate uboge, ki rečete svojim možem: 'Prinesi in pijmo!'"
+  },
+  {
+    "i": 22565,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 2,
+    "t": "\"Gospod je prisegel pri svoji svetosti: glejte, prihajajo nad vas dnevi, ko vas bodo odvedli s trnki in do zadnje z ribiškimi harpuno;"
+  },
+  {
+    "i": 22566,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 3,
+    "t": "\"odšli boste skozi vrzeli, vsaka naravnost pred seboj, in vas bodo pregnali proti Hermonu, govori Gospod."
+  },
+  {
+    "i": 22567,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 4,
+    "t": "\"Pojdite v Betel in grešite! V Gilgalu grešite še bolj! Prinašajte zjutraj svoje žrtve, vsake tri dni svoje desetine;"
+  },
+  {
+    "i": 22568,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 5,
+    "t": "\"zažigajte kvas v žrtvi hvalnici, vpijte svoje prostovoljne darove, razglasite jih, saj to je tisto, kar imate radi, otroci Izraela! Govor Gospoda Jahveja."
+  },
+  {
+    "i": 22569,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 6,
+    "t": "\"Prav tako sem vam izčistil zobe v vseh vaših mestih, oropal sem vas kruha v vseh vaših vaseh; pa se niste vrnili k meni! Govor Gospodov."
+  },
+  {
+    "i": 22570,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 7,
+    "t": "\"Prav tako sem vam odrekel dež, tri mesece pred žetvijo; deževal sem na eno mesto, na drugo mesto pa nisem dal deževati; eno polje je prejelo dež, eno polje pa se je zaradi pomanjkanja dežja posušilo;"
+  },
+  {
+    "i": 22571,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 8,
+    "t": "\"dve, tri mesta so omahovala k drugemu mestu, da bi pila vodo, ne da bi se mogla odžejati; pa se niste vrnili k meni! Govor Gospodov."
+  },
+  {
+    "i": 22572,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 9,
+    "t": "\"Udaril sem vas z rjo in pepelasto plesnijo, posušil sem vaše vrtove in vaše vinograde; vaše smokve in vaše oljke so požrle kobilice; pa se niste vrnili k meni! Govor Gospodov."
+  },
+  {
+    "i": 22573,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 10,
+    "t": "\"Poslal sem med vas kugo, kakor egiptovsko kugo; pobil sem vaše mladeniče z mečem, medtem ko so bili vaši konji zajeti; dal sem, da je prišla smrdljivica vaših taborišč do vaših nosnic; pa se niste vrnili k meni! Govor Gospodov."
+  },
+  {
+    "i": 22574,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 11,
+    "t": "\"Prevrnil sem vas, kakor je Bog prevrnil Sodomo in Gomoro, in bili ste kakor kolešček, rešen iz ognja; pa se niste vrnili k meni! Govor Gospodov."
+  },
+  {
+    "i": 22575,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 12,
+    "t": "\"Zato, tako ti bom storil, Izrael! Ker ti bom tako storil, pripravi se srečati svojega Boga, Izrael!"
+  },
+  {
+    "i": 22576,
+    "b": 29,
+    "c": 3104,
+    "r": 3104,
+    "o": 13,
+    "t": "\"Kajti on je tisti, ki oblikuje gore in ustvarja veter, ki razodeva človeku njegove misli, ki spreminja zoro v temo in ki hodi po višavah zemlje: Gospod, Bog Sabaot, je njegovo ime."
+  },
+  {
+    "i": 22577,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 1,
+    "t": "\"Poslušajte to besedo, ki jo izrekam proti vam, žalostinka, hiša Izraelova:"
+  },
+  {
+    "i": 22578,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 2,
+    "t": "\"Padla je, ne bo se več vzdignila, devica Izraelova! Razprostrta je na svoji zemlji, nikogar, da bi jo dvignil!"
+  },
+  {
+    "i": 22579,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 3,
+    "t": "\"Kajti tako govori Gospod Jahve: mesto, ki je poslalo v boj tisoč mož, jih bo imelo samo še sto, in tisto, ki jih je poslalo sto, jih bo imelo samo še deset, za hišo Izraelovo."
+  },
+  {
+    "i": 22580,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 4,
+    "t": "Kajti tako govori Gospod hiši Izraelovi: Iščite me in živeli boste!"
+  },
+  {
+    "i": 22581,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 5,
+    "t": "Ne iščite pa Betela in ne hodite v Gilgal in ne potujte v Beeršebo; zakaj Gilgal bo gotovo odveden v sužnost in Betel bo postal ničev."
+  },
+  {
+    "i": 22582,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 6,
+    "t": "Iščite Gospoda in živeli boste, da ne plane na Jožefovo hišo kakor ogenj, ki jo požre, in ne bo je, kdor bi ga ugasnil v Betelu!"
+  },
+  {
+    "i": 22583,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 7,
+    "t": "Vi spreminjate pravico v pelin in pravičnost mečete na zemljo."
+  },
+  {
+    "i": 22584,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 8,
+    "t": "On je, ki je naredil Vlašiče in Orion, ki spreminja smrtno senco v jutro in mrači dan v noč; ki kliče vode morske in jih razliva po zemlji. Gospod je njegovo ime."
+  },
+  {
+    "i": 22585,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 9,
+    "t": "On pošilja pogubo na močnega in poguba prihaja na trdnjavo."
+  },
+  {
+    "i": 22586,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 10,
+    "t": "Sovražijo, kdor opominja pri vratih, in jim je ogaben, kdor govori pošteno."
+  },
+  {
+    "i": 22587,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 11,
+    "t": "Ker gazite ubogega in iz njega izterjujete davek na žitu, gradili ste hiše iz klesanega kamna, a ne boste živeli v njih; zasadili ste prijetne vinograde, a ne boste pili njih vina."
+  },
+  {
+    "i": 22588,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 12,
+    "t": "Kajti vem, koliko hudodelstev imate in kako veliki so vaši grehi: zatirate pravičnega, jemljete podkupnine in preprečujete ubogim pravico pri vratih."
+  },
+  {
+    "i": 22589,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 13,
+    "t": "Zato pameten molči v tem času, zakaj hudoben čas je."
+  },
+  {
+    "i": 22590,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 14,
+    "t": "Iščite dobro in ne hudega, da boste živeli, in tako bo Gospod, Bog nad vojskami, z vami, kakor pravite."
+  },
+  {
+    "i": 22591,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 15,
+    "t": "Sovražite hudo in ljubite dobro ter vzpostavite pravico pri vratih; morda se bo Gospod, Bog nad vojskami, usmilil ostanka Jožefovega!"
+  },
+  {
+    "i": 22592,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 16,
+    "t": "Zato tako govori Gospod, Bog nad vojskami, Gospod: Po vseh trgih bo žalovanje in po vseh ulicah bodo govorili: Gorje, gorje! In klicali bodo kmeta k žalovanju in k joku tiste, ki znajo jokati."
+  },
+  {
+    "i": 22593,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 17,
+    "t": "Po vseh vinogradih bo žalovanje, zakaj šel bom skozi tvojo sredo, pravi Gospod."
+  },
+  {
+    "i": 22594,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 18,
+    "t": "Gorje tistim, ki si želijo Gospodovega dne! Kaj bo vam Gospodov dan? Tema bo in ne svetloba."
+  },
+  {
+    "i": 22595,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 19,
+    "t": "Kakor ko bi kdo bežal pred levom in bi ga srečal medved; in bi prišel v hišo in se naslonil z roko na steno, pa bi ga pičila kača!"
+  },
+  {
+    "i": 22596,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 20,
+    "t": "Ali ni tema Gospodov dan in ne svetloba? Temen je in brez sijaja!"
+  },
+  {
+    "i": 22597,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 21,
+    "t": "Sovražim, zavračam vaše praznike in ne prenesem vaših slovesnih zborovanj."
+  },
+  {
+    "i": 22598,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 22,
+    "t": "Kadar mi darujete žgalne daritve in vaše jedilne daritve, jih ne sprejmem in ne ozrem se na daritev vaših pitanih živali."
+  },
+  {
+    "i": 22599,
+    "b": 29,
+    "c": 3105,
+    "r": 3105,
+    "o": 23,
+    "t": "Umakni od mene hrup tvojih pesmi, tvojih harf ne poslušam!"
+  }
+]

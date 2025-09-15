@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13300,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 2,
+    "t": "¿Hasta cuándo me afligiréis, y me quebrantaréis con vuestras palabras?"
+  },
+  {
+    "i": 13301,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 3,
+    "t": "Ya diez veces me habéis agraviado, y no os avergonzáis de ultrajarme."
+  },
+  {
+    "i": 13302,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 4,
+    "t": "Sea que en verdad yo haya errado, mi error quedará conmigo."
+  },
+  {
+    "i": 13303,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 5,
+    "t": "Pero si os envanecéis contra mí, y argüís mi oprobio,"
+  },
+  {
+    "i": 13304,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 6,
+    "t": "sabed ahora que Dios me ha derribado, y me ha cercado con su red."
+  },
+  {
+    "i": 13305,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 7,
+    "t": "He aquí, clamo agravio, y no soy oído; doy voces, y no hay justicia."
+  },
+  {
+    "i": 13306,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 8,
+    "t": "Cercó mi camino de modo que no pase, y puso tinieblas en mis senderos."
+  },
+  {
+    "i": 13307,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 9,
+    "t": "Me despojó de mi gloria, y quitó la corona de mi cabeza."
+  },
+  {
+    "i": 13308,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 10,
+    "t": "Me destruyó por todos lados, y me he ido; y ha hecho cesar, como árbol, mi esperanza."
+  },
+  {
+    "i": 13309,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 11,
+    "t": "Encendió contra mí su ira, y me cuenta entre sus enemigos."
+  },
+  {
+    "i": 13310,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 12,
+    "t": "Vinieron a una sus ejércitos, y se levantaron contra mí, y sitiaron mi tienda."
+  },
+  {
+    "i": 13311,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 13,
+    "t": "Hizo alejar de mí a mis hermanos, y mis conocidos se apartaron de mí."
+  },
+  {
+    "i": 13312,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 14,
+    "t": "Mis parientes se detuvieron, y mis íntimos amigos se olvidaron de mí."
+  },
+  {
+    "i": 13313,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 15,
+    "t": "Los moradores de mi casa, y mis criadas, me tienen por extraño; forastero soy a sus ojos."
+  },
+  {
+    "i": 13314,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 16,
+    "t": "Llamé a mi siervo, y no respondió; con mi boca le supliqué."
+  },
+  {
+    "i": 13315,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 17,
+    "t": "Mi aliento es repugnante a mi mujer, y mi hedor a los hijos de mis entrañas."
+  },
+  {
+    "i": 13316,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 18,
+    "t": "Aun los muchachos me desprecian; al levantarme, hablan contra mí."
+  },
+  {
+    "i": 13317,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 19,
+    "t": "Todos mis íntimos amigos me aborrecen, y los que yo amaba se han vuelto contra mí."
+  },
+  {
+    "i": 13318,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 20,
+    "t": "Mi piel y mi carne se han pegado a mis huesos, y he escapado con la piel de mis dientes."
+  },
+  {
+    "i": 13319,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 21,
+    "t": "¡Oh, vosotros mis amigos, tened compasión de mí, tened compasión de mí! Porque la mano de Dios me ha tocado."
+  },
+  {
+    "i": 13320,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 22,
+    "t": "¿Por qué me perseguís como Dios, y no os saciáis de mi carne?"
+  },
+  {
+    "i": 13321,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 23,
+    "t": "¡Quién diera ahora que mis palabras fuesen escritas! ¡Quién diera que se inscribiesen en un libro;"
+  },
+  {
+    "i": 13322,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 24,
+    "t": "que con cincel de hierro y con plomo fuesen esculpidas en piedra para siempre!"
+  },
+  {
+    "i": 13323,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 25,
+    "t": "Yo sé que mi Redentor vive, y al fin se levantará sobre el polvo;"
+  },
+  {
+    "i": 13324,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 26,
+    "t": "y después de deshecha esta mi piel, en mi carne he de ver a Dios;"
+  },
+  {
+    "i": 13325,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 27,
+    "t": "al cual veré por mí mismo, y mis ojos le verán, y no otro; aunque mis entrañas se consuman dentro de mí."
+  },
+  {
+    "i": 13326,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 28,
+    "t": "Mas debierais decir: ¿Por qué le perseguimos? Pues la raíz del mal se halla en mí."
+  },
+  {
+    "i": 13327,
+    "b": 17,
+    "c": 1819,
+    "r": 1819,
+    "o": 29,
+    "t": "Temed vosotros a la espada, porque el furor trae los castigos de la espada, para que sepáis que hay un juicio."
+  },
+  {
+    "i": 13328,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 1,
+    "t": "Respondió Zofar naamatita, y dijo:"
+  },
+  {
+    "i": 13329,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 2,
+    "t": "Por esto mis pensamientos me hacen responder, y por tanto me apresuro."
+  },
+  {
+    "i": 13330,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 3,
+    "t": "La reprensión de mi oprobio he oído, y me hace responder el espíritu de mi inteligencia."
+  },
+  {
+    "i": 13331,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 4,
+    "t": "¿No sabes esto, que así ha sido siempre, desde el tiempo en que fue puesto el hombre sobre la tierra,"
+  },
+  {
+    "i": 13332,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 5,
+    "t": "que la alegría de los malos es breve, y el gozo del impío por un momento?"
+  },
+  {
+    "i": 13333,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 6,
+    "t": "Aunque suba su altivez hasta el cielo, y su cabeza toque las nubes,"
+  },
+  {
+    "i": 13334,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 7,
+    "t": "perecerá para siempre como su estiércol; los que le hubieren visto dirán: ¿Qué hay de él?"
+  },
+  {
+    "i": 13335,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 8,
+    "t": "Como sueño volará, y no será hallado, y se disipará como visión nocturna."
+  },
+  {
+    "i": 13336,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 9,
+    "t": "El ojo que le veía, nunca más le verá, ni su lugar le conocerá más."
+  },
+  {
+    "i": 13337,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 10,
+    "t": "Sus hijos complacerán a los pobres, y sus manos devolverán lo que él robó."
+  },
+  {
+    "i": 13338,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 11,
+    "t": "Sus huesos están llenos de su mocedad, mas con él se acostarán en el polvo."
+  },
+  {
+    "i": 13339,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 12,
+    "t": "Si el mal se endulzó en su boca, si lo ocultaba debajo de su lengua,"
+  },
+  {
+    "i": 13340,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 13,
+    "t": "si le parecía bien, y no lo dejaba, sino que lo detenía en su paladar,"
+  },
+  {
+    "i": 13341,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 14,
+    "t": "su comida se mudará en sus entrañas; hiel de áspides será dentro de él."
+  },
+  {
+    "i": 13342,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 15,
+    "t": "Devoró riquezas, pero las vomitará; de su vientre las sacará Dios."
+  },
+  {
+    "i": 13343,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 16,
+    "t": "Veneno de áspides chupará; lo matará lengua de víbora."
+  },
+  {
+    "i": 13344,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 17,
+    "t": "No verá los arroyos, los ríos de miel y de leche."
+  },
+  {
+    "i": 13345,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 18,
+    "t": "Restituirá el trabajo, y no lo engullirá; según la sustancia que adquirió, así restituirá, y no se gozará con ella."
+  },
+  {
+    "i": 13346,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 19,
+    "t": "Por cuanto quebrantó y desamparó a los pobres, robó casas, y no las edificó;"
+  },
+  {
+    "i": 13347,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 20,
+    "t": "por tanto no tendrá sosiego en su vientre, ni salvará nada de lo que codiciaba."
+  },
+  {
+    "i": 13348,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 21,
+    "t": "No quedó nada que no devorase; por tanto, su bienestar no será duradero."
+  },
+  {
+    "i": 13349,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 22,
+    "t": "En el colmo de su abundancia padecerá estrechez; toda la fuerza de la miseria vendrá sobre él."
+  },
+  {
+    "i": 13350,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 23,
+    "t": "Cuando comenzare a llenar su vientre, Dios enviará sobre él el ardor de su ira, y la hará llover sobre él juntamente con su comida."
+  },
+  {
+    "i": 13351,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 24,
+    "t": "Huirá de las armas de hierro, y le atravesará el arco de bronce."
+  },
+  {
+    "i": 13352,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 25,
+    "t": "Sacará la saeta, y la sacará de su cuerpo, y la punta relumbrante saldrá de su hiel; terrores vendrán sobre él."
+  },
+  {
+    "i": 13353,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 26,
+    "t": "Todas las tinieblas están reservadas para sus tesoros; fuego no encendido lo consumirá; será quebrantado lo que quede en su tienda."
+  },
+  {
+    "i": 13354,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 27,
+    "t": "Los cielos revelarán su iniquidad, y la tierra se levantará contra él."
+  },
+  {
+    "i": 13355,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 28,
+    "t": "Los renuevos de su casa serán transportados; serán esparcidos en el día de su furor."
+  },
+  {
+    "i": 13356,
+    "b": 17,
+    "c": 1820,
+    "r": 1820,
+    "o": 29,
+    "t": "Esta es la porción que Dios prepara al impío, y la heredad que Dios le señala."
+  },
+  {
+    "i": 13357,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 1,
+    "t": "Respondió Job, y dijo:"
+  },
+  {
+    "i": 13358,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 2,
+    "t": "Oíd atentamente mi palabra, y sea esto el consuelo que me deis."
+  },
+  {
+    "i": 13359,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 3,
+    "t": "Toleradme, y hablaré yo; y después que haya hablado, escarneced."
+  },
+  {
+    "i": 13360,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 4,
+    "t": "¿Acaso contra el hombre es mi queja? Y si así fuera, ¿por qué no se había de angustiar mi espíritu?"
+  },
+  {
+    "i": 13361,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 5,
+    "t": "Miradme, espantaos, y poned la mano sobre vuestra boca."
+  },
+  {
+    "i": 13362,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 6,
+    "t": "Aun yo mismo, cuando me acuerdo, me espanto, y el temblor estremece mi carne."
+  },
+  {
+    "i": 13363,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 7,
+    "t": "¿Por qué viven los impíos, y se envejecen, y aun crecen en riquezas?"
+  },
+  {
+    "i": 13364,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 8,
+    "t": "Su descendencia se robustece a su vista, y sus renuevos están delante de sus ojos."
+  },
+  {
+    "i": 13365,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 9,
+    "t": "Sus casas están a salvo de temor, ni viene sobre ellos el castigo de Dios."
+  },
+  {
+    "i": 13366,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 10,
+    "t": "Su toro engendra, y no falla; pare su vaca, y no malogra su cría."
+  },
+  {
+    "i": 13367,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 11,
+    "t": "Salen sus pequeñuelos como manada, y sus hijos saltan."
+  },
+  {
+    "i": 13368,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 12,
+    "t": "Al son de tamboril y de cítara cantan, y se alegran al son de la flauta."
+  },
+  {
+    "i": 13369,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 13,
+    "t": "Pasan sus días en prosperidad, y descienden en paz al Seol."
+  },
+  {
+    "i": 13370,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 14,
+    "t": "Dicen a Dios: Apártate de nosotros, porque no queremos el conocimiento de tus caminos."
+  },
+  {
+    "i": 13371,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 15,
+    "t": "¿Quién es el Todopoderoso, para que le sirvamos? ¿Y de qué nos aprovechará que oremos a él?"
+  },
+  {
+    "i": 13372,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 16,
+    "t": "He aquí que su bien no está en mano propia. ¡Lejos esté de mí el consejo de los impíos!"
+  },
+  {
+    "i": 13373,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 17,
+    "t": "¡Cuántas veces es apagada la lámpara de los impíos, y viene sobre ellos su quebranto, y Dios les reparte dolores en su ira!"
+  },
+  {
+    "i": 13374,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 18,
+    "t": "Serán como la hojarasca delante del viento, y como el tamo que arrebata el torbellino."
+  },
+  {
+    "i": 13375,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 19,
+    "t": "Dios guardará para sus hijos el castigo de su maldad; a él mismo le dará su merecido, para que lo conozca."
+  },
+  {
+    "i": 13376,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 20,
+    "t": "Verán sus ojos su quebranto, y beberá de la ira del Todopoderoso."
+  },
+  {
+    "i": 13377,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 21,
+    "t": "Porque ¿qué le importa su casa después de sí, cuando sea cortado el número de sus meses?"
+  },
+  {
+    "i": 13378,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 22,
+    "t": "¿Enseñará alguien sabiduría a Dios, a quien juzga a los de arriba?"
+  },
+  {
+    "i": 13379,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 23,
+    "t": "Este muere en el vigor de su hermosura, del todo próspero y tranquilo,"
+  },
+  {
+    "i": 13380,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 24,
+    "t": "Sus ijares engordados y la médula de sus huesos bien húmeda."
+  },
+  {
+    "i": 13381,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 25,
+    "t": "Y otro muere con amargura en el alma, sin haber probado el bien."
+  },
+  {
+    "i": 13382,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 26,
+    "t": "Juntos yacen en el polvo, y los gusanos los cubren."
+  },
+  {
+    "i": 13383,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 27,
+    "t": "¡Oh, yo conozco vuestros pensamientos, vuestras reflexiones malvadas sobre mí!"
+  },
+  {
+    "i": 13384,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 28,
+    "t": "\"¿Dónde está, decís, la casa del gran señor, dónde la tienda donde habitaban los impíos?"
+  },
+  {
+    "i": 13385,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 29,
+    "t": "¿No preguntáis a los viajeros, desconocéis sus testimonios?"
+  },
+  {
+    "i": 13386,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 30,
+    "t": "En el día del desastre, el impío es perdonado, en el día de la furia, es puesto a salvo."
+  },
+  {
+    "i": 13387,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 31,
+    "t": "¿Y quién le reprocha en su cara su conducta, y le paga por lo que ha hecho?"
+  },
+  {
+    "i": 13388,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 32,
+    "t": "Es llevado al cementerio, donde vela sobre su túmulo."
+  },
+  {
+    "i": 13389,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 33,
+    "t": "Los terrones del valle le son dulces, y, tras él, toda la población desfila."
+  },
+  {
+    "i": 13390,
+    "b": 17,
+    "c": 1821,
+    "r": 1821,
+    "o": 34,
+    "t": "¿Qué significan, pues, vuestros vanos consuelos? ¡Y qué engaño son vuestras respuestas!"
+  },
+  {
+    "i": 13391,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 1,
+    "t": "Elifaz de Temán tomó la palabra y dijo:"
+  },
+  {
+    "i": 13392,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 2,
+    "t": "¿Puede un hombre ser útil a Dios, cuando un ser sensato sólo es útil para sí mismo?"
+  },
+  {
+    "i": 13393,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 3,
+    "t": "¿Acaso le interesa a Shaddaí tu justicia, saca provecho de tu conducta íntegra?"
+  },
+  {
+    "i": 13394,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 4,
+    "t": "¿Será acaso por tu piedad que te corrige y que entra en juicio contigo?"
+  },
+  {
+    "i": 13395,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 5,
+    "t": "¿No es más bien por tu gran maldad, por tus faltas ilimitadas?"
+  },
+  {
+    "i": 13396,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 6,
+    "t": "Has exigido de tus hermanos prendas injustificadas, despojado de sus vestiduras a los que están desnudos;"
+  },
+  {
+    "i": 13397,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 7,
+    "t": "omitido saciar la sed del hombre sediento y negado el pan al hambriento;"
+  },
+  {
+    "i": 13398,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 8,
+    "t": "entregado la tierra a un hombre de mano, para que se instale el favorito;"
+  },
+  {
+    "i": 13399,
+    "b": 17,
+    "c": 1822,
+    "r": 1822,
+    "o": 9,
+    "t": "despedido a las viudas con las manos vacías y quebrantado el brazo de los huérfanos."
+  }
+]

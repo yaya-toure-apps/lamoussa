@@ -1,0 +1,802 @@
+[
+  {
+    "i": 14200,
+    "b": 18,
+    "c": 1920,
+    "r": 1920,
+    "o": 8,
+    "t": "Jedni se chlubí vozy, jiní koňmi, my pak vzýváme jméno Hospodina, Boha svého."
+  },
+  {
+    "i": 14201,
+    "b": 18,
+    "c": 1920,
+    "r": 1920,
+    "o": 9,
+    "t": "Oni se klátí a padají, my však stojíme pevně."
+  },
+  {
+    "i": 14202,
+    "b": 18,
+    "c": 1920,
+    "r": 1920,
+    "o": 10,
+    "t": "Hospodine, zachraň krále, vyslyš nás v den, kdy voláme."
+  },
+  {
+    "i": 14203,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 1,
+    "t": "Pro předního zpěváka. Žalm Davidův."
+  },
+  {
+    "i": 14204,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 2,
+    "t": "Hospodine, v síle tvé se král raduje, jak veliká je jeho radost z tvé spásy!"
+  },
+  {
+    "i": 14205,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 3,
+    "t": "Splnil jsi mu touhu srdce jeho, neodmítl jsi žádost rtů jeho."
+  },
+  {
+    "i": 14206,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 4,
+    "t": "Neboť jsi ho předstihl požehnáním přehojným, na hlavu jeho jsi vložil korunu z ryzího zlata;"
+  },
+  {
+    "i": 14207,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 5,
+    "t": "život si vyžádal od tebe, dal jsi mu délku dnů na věčné věky."
+  },
+  {
+    "i": 14208,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 6,
+    "t": "Veliká je sláva jeho v tvé spáse, slávu a důstojnost jsi naň vložil;"
+  },
+  {
+    "i": 14209,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 7,
+    "t": "ano, učinil jsi ho požehnáním věčným, oblažuješ ho radostí před tvou tváří;"
+  },
+  {
+    "i": 14210,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 8,
+    "t": "neboť král doufá v Hospodina, milost Nejvyššího ho chrání před uklouznutím."
+  },
+  {
+    "i": 14211,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 9,
+    "t": "Ruka tvá nalezne všechny tvé nepřátele, pravice tvá nalezne ty, kteří tě nenávidí;"
+  },
+  {
+    "i": 14212,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 10,
+    "t": "učiníš je ohnivou pecí v den hněvu svého, Hospodin je ve svém hněvu pohltí, oheň je stráví;"
+  },
+  {
+    "i": 14213,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 11,
+    "t": "jejich plod zničíš ze země, jejich potomstvo zprostředku synů Adamových."
+  },
+  {
+    "i": 14214,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 12,
+    "t": "Neboť proti tobě zamýšleli zlo, spřádali plány, ale nic nezmohou."
+  },
+  {
+    "i": 14215,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 13,
+    "t": "Obrátíš je zády, mířit budeš na ně tětivou svou."
+  },
+  {
+    "i": 14216,
+    "b": 18,
+    "c": 1921,
+    "r": 1921,
+    "o": 14,
+    "t": "Povstaň, Hospodine, ve své síle! Zpívat budeme a hrát k chvále tvé moci."
+  },
+  {
+    "i": 14217,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 1,
+    "t": "Pro předního zpěváka. Podle \"Laně jitřní.\" Žalm Davidův."
+  },
+  {
+    "i": 14218,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 2,
+    "t": "Bože můj, Bože můj, proč jsi mě opustil? Daleko jsi od spásy mé, od slov křiku mého!"
+  },
+  {
+    "i": 14219,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 3,
+    "t": "Bože můj, volám ve dne, a neodpovídáš, v noci, a nemám pokoje."
+  },
+  {
+    "i": 14220,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 4,
+    "t": "Ty jsi však svatý, který přebýváš v chválách Izraele!"
+  },
+  {
+    "i": 14221,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 5,
+    "t": "V tebe doufali otcové naši, doufali, a vysvobodil jsi je,"
+  },
+  {
+    "i": 14222,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 6,
+    "t": "k tobě volali, a byli zachráněni, v tebe doufali, a nebyli zahanbeni."
+  },
+  {
+    "i": 14223,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 7,
+    "t": "Já jsem však červ, a ne člověk, posměch lidí, opovržení lidu,"
+  },
+  {
+    "i": 14224,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 8,
+    "t": "všichni, kteří mě vidí, se mi posmívají, šklebí se ústy, potřásají hlavou:"
+  },
+  {
+    "i": 14225,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 9,
+    "t": "\"Svěřil se Hospodinu, ať ho vysvobodí! Ať ho vytrhne, když v něm má zalíbení!"
+  },
+  {
+    "i": 14226,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 10,
+    "t": "Ty jsi mě vyvedl z lůna, v tobě jsem se cítil bezpečně na prsou matky své;"
+  },
+  {
+    "i": 14227,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 11,
+    "t": "tobě jsem byl svěřen od narození, od lůna matky mé jsi ty Bůh můj."
+  },
+  {
+    "i": 14228,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 12,
+    "t": "Nevzdaluj se ode mne, neboť blízko je soužení, a není, kdo by pomohl!"
+  },
+  {
+    "i": 14229,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 13,
+    "t": "Mnozí býci mě obklopili, silní býci bášanští mě obstoupili;"
+  },
+  {
+    "i": 14230,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 14,
+    "t": "otevírají na mne tlamu svou, jako lev rvoucí a řvoucí."
+  },
+  {
+    "i": 14231,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 15,
+    "t": "Jako voda jsem se rozlil, a všechny kosti mé se rozpadly; srdce mé je jako vosk, roztavené uprostřed útrob mých;"
+  },
+  {
+    "i": 14232,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 16,
+    "t": "jazyk můj přilnul k patru mému jako střep, a do prachu smrti jsi mě uvrhl."
+  },
+  {
+    "i": 14233,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 17,
+    "t": "Neboť psi mě obklopili, zástup zločinců mě obstoupil; probodli ruce mé i nohy mé;"
+  },
+  {
+    "i": 14234,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 18,
+    "t": "mohu spočítat všechny kosti své, oni se dívají, zhlížejí na mě;"
+  },
+  {
+    "i": 14235,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 19,
+    "t": "rozdělují si šaty mé a o můj oděv losují."
+  },
+  {
+    "i": 14236,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 20,
+    "t": "Ty však, Hospodine, nevzdaluj se ode mne, sílo má, pospěš mi na pomoc;"
+  },
+  {
+    "i": 14237,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 21,
+    "t": "vysvoboď duši mou od meče, jedinou mou od psí moci;"
+  },
+  {
+    "i": 14238,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 22,
+    "t": "zachraň mě z tlamy lví, od rohů bůvolů, duši mou ubohou."
+  },
+  {
+    "i": 14239,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 23,
+    "t": "Budu zvěstovat jméno tvé bratřím svým, uprostřed shromáždění tě budu chválit:"
+  },
+  {
+    "i": 14240,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 24,
+    "t": "\"Vy, kteří se bojíte Hospodina, chvalte ho, celý rode Jákobův, oslavujte ho, bojte se ho, celý rode Izraelův!"
+  },
+  {
+    "i": 14241,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 25,
+    "t": "Neboť nepohrdl, ani neznevážil utrpení ubohého, ani neskryl před ním tvář svou, ale slyšel, když k němu volal."
+  },
+  {
+    "i": 14242,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 26,
+    "t": "Od tebe pochází má chvála ve velikém shromáždění, splním sliby své před těmi, kteří se ho bojí."
+  },
+  {
+    "i": 14243,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 27,
+    "t": "Ubozí budou jíst a budou nasyceni, chválit budou Hospodina ti, kteří ho hledají: \"Nechť žije srdce vaše navěky!"
+  },
+  {
+    "i": 14244,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 28,
+    "t": "Všechny končiny země se rozpomenou a navrátí se k Hospodinu, všechny rodiny národů se budou klanět před ním,"
+  },
+  {
+    "i": 14245,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 29,
+    "t": "neboť Hospodinu patří království, on vládne nad národy!"
+  },
+  {
+    "i": 14246,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 30,
+    "t": "Ano, před ním se budou klanět všichni mocní země, před ním se skloní všichni, kteří sestupují do prachu, a pro toho, kdo již nežije,"
+  },
+  {
+    "i": 14247,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 31,
+    "t": "jeho potomstvo mu bude sloužit, zvěstovat bude Pána budoucím věkům,"
+  },
+  {
+    "i": 14248,
+    "b": 18,
+    "c": 1922,
+    "r": 1922,
+    "o": 32,
+    "t": "vyprávět bude lidem, kteří se narodí, o jeho spravedlnosti: On to učinil!"
+  },
+  {
+    "i": 14249,
+    "b": 18,
+    "c": 1923,
+    "r": 1923,
+    "o": 1,
+    "t": "Žalm Davidův. Hospodin je můj pastýř, nebudu mít nedostatek."
+  },
+  {
+    "i": 14250,
+    "b": 18,
+    "c": 1923,
+    "r": 1923,
+    "o": 2,
+    "t": "Na pastvách zelených mi dává odpočívat. K vodám tichým mě vede,"
+  },
+  {
+    "i": 14251,
+    "b": 18,
+    "c": 1923,
+    "r": 1923,
+    "o": 3,
+    "t": "duši mou občerstvuje, vede mě po stezkách spravedlnosti pro jméno své."
+  },
+  {
+    "i": 14252,
+    "b": 18,
+    "c": 1923,
+    "r": 1923,
+    "o": 4,
+    "t": "I kdybych šel údolím stínu smrti, nebudu se bát zlého, neboť ty jsi se mnou; prut tvůj a hůl tvá, ty mě potěšují."
+  },
+  {
+    "i": 14253,
+    "b": 18,
+    "c": 1923,
+    "r": 1923,
+    "o": 5,
+    "t": "Prostíráš mi stůl před mými nepřáteli, hlavu mi olejem pomazuješ, kalich můj překypuje."
+  },
+  {
+    "i": 14254,
+    "b": 18,
+    "c": 1923,
+    "r": 1923,
+    "o": 6,
+    "t": "Ano, dobrota a milosrdenství mě budou provázet po všechny dny života mého, a přebývat budu v domě Hospodinově po dlouhé dny."
+  },
+  {
+    "i": 14255,
+    "b": 18,
+    "c": 1924,
+    "r": 1924,
+    "o": 1,
+    "t": "Žalm Davidův. Hospodinova je země a vše, co ji naplňuje, svět a všichni, kdo na něm bydlí;"
+  },
+  {
+    "i": 14256,
+    "b": 18,
+    "c": 1924,
+    "r": 1924,
+    "o": 2,
+    "t": "neboť on ji založil na mořích a na řekách ji upevnil."
+  },
+  {
+    "i": 14257,
+    "b": 18,
+    "c": 1924,
+    "r": 1924,
+    "o": 3,
+    "t": "Kdo vystoupí na horu Hospodinovu? A kdo se postaví na jeho svatém místě?"
+  },
+  {
+    "i": 14258,
+    "b": 18,
+    "c": 1924,
+    "r": 1924,
+    "o": 4,
+    "t": "Ten, kdo má ruce nevinné a srdce čisté, jehož duše se neobrací k marnosti a kdo nepřísahá lstivě."
+  },
+  {
+    "i": 14259,
+    "b": 18,
+    "c": 1924,
+    "r": 1924,
+    "o": 5,
+    "t": "Ten obdrží požehnání od Hospodina a spravedlnost od Boha, Spasitele svého."
+  },
+  {
+    "i": 14260,
+    "b": 18,
+    "c": 1924,
+    "r": 1924,
+    "o": 6,
+    "t": "To je rod těch, kteří ho hledají, kteří hledají tvář tvou, Bože Jákobův."
+  },
+  {
+    "i": 14261,
+    "b": 18,
+    "c": 1924,
+    "r": 1924,
+    "o": 7,
+    "t": "Pozdvihněte, brány, své hlavy, pozdvihněte se, vchody věčné, a vejde král slávy!"
+  },
+  {
+    "i": 14262,
+    "b": 18,
+    "c": 1924,
+    "r": 1924,
+    "o": 8,
+    "t": "Kdo je ten král slávy? Hospodin silný a mocný, Hospodin mocný v boji."
+  },
+  {
+    "i": 14263,
+    "b": 18,
+    "c": 1924,
+    "r": 1924,
+    "o": 9,
+    "t": "Pozdvihněte, brány, své hlavy, pozdvihněte se, vchody věčné, a vejde král slávy!"
+  },
+  {
+    "i": 14264,
+    "b": 18,
+    "c": 1924,
+    "r": 1924,
+    "o": 10,
+    "t": "Kdo je ten král slávy? Hospodin zástupů, on je král slávy."
+  },
+  {
+    "i": 14265,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 1,
+    "t": "Davidův. K tobě, Hospodine, pozdvihuji duši svou,"
+  },
+  {
+    "i": 14266,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 2,
+    "t": "Bože můj. V tebe doufám, ať nejsem zahanben, ať se mi nepřátelé moji neposmívají!"
+  },
+  {
+    "i": 14267,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 3,
+    "t": "Žádný, kdo v tebe doufá, nebude zahanben, ale zahanbeni budou ti, kteří se bezdůvodně zpronevěřují."
+  },
+  {
+    "i": 14268,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 4,
+    "t": "Ukaž mi, Hospodine, cesty své, nauč mě stezkám svým;"
+  },
+  {
+    "i": 14269,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 5,
+    "t": "veď mě v pravdě své a uč mě, neboť ty jsi Bůh, Spasitel můj. V tebe celý den doufám pro tvou dobrotu, Hospodine."
+  },
+  {
+    "i": 14270,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 6,
+    "t": "Rozpomeň se na slitování své, Hospodine, na lásku svou, neboť jsou od věčnosti."
+  },
+  {
+    "i": 14271,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 7,
+    "t": "Nepřipomínej si hříchy mého mládí, ale vzpomeň si na mě podle lásky své!"
+  },
+  {
+    "i": 14272,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 8,
+    "t": "Spravedlivý a dobrý je Hospodin, proto ukazuje hříšníkům cestu,"
+  },
+  {
+    "i": 14273,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 9,
+    "t": "vede pokorné ve spravedlnosti, učí ubohé cestě své."
+  },
+  {
+    "i": 14274,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 10,
+    "t": "Všechny cesty Hospodinovy jsou láska a věrnost pro ty, kteří zachovávají smlouvu jeho a ustanovení jeho."
+  },
+  {
+    "i": 14275,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 11,
+    "t": "Pro jméno své, Hospodine, odpusť mi nepravost mou, neboť je veliká."
+  },
+  {
+    "i": 14276,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 12,
+    "t": "Kdo se bojí Hospodina, tomu ukáže cestu, kterou má zvolit;"
+  },
+  {
+    "i": 14277,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 13,
+    "t": "duše jeho bude přebývat v dobru, a potomstvo jeho zdědí zemi."
+  },
+  {
+    "i": 14278,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 14,
+    "t": "Důvěrné tajemství Hospodinovo je pro ty, kteří se ho bojí, smlouvu svou jim dává poznat."
+  },
+  {
+    "i": 14279,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 15,
+    "t": "Oči mé jsou upřeny k Hospodinu, neboť on mi vytrhává nohy z osidel."
+  },
+  {
+    "i": 14280,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 16,
+    "t": "Obrať se ke mně a smiluj se nade mnou, neboť jsem osamělý a strápený."
+  },
+  {
+    "i": 14281,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 17,
+    "t": "Uvolni tíseň mého srdce a vyveď mne z mých soužení."
+  },
+  {
+    "i": 14282,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 18,
+    "t": "Pohleď na mé trápení a mou bolest a odpusť mi všechny mé hříchy."
+  },
+  {
+    "i": 14283,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 19,
+    "t": "Viz mé nepřátele, jak se množí, a jakou prudkou nenávistí mne nenávidí."
+  },
+  {
+    "i": 14284,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 20,
+    "t": "Ochraň mou duši a vysvoboď mne, ať nejsem zahanben, neboť ty jsi má ochrana."
+  },
+  {
+    "i": 14285,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 21,
+    "t": "Nechť mě má bezúhonnost a spravedlnost chrání, neboť v tebe doufám, Hospodine."
+  },
+  {
+    "i": 14286,
+    "b": 18,
+    "c": 1925,
+    "r": 1925,
+    "o": 22,
+    "t": "Vykup Izraele, ó Bože, ze všech jeho úzkostí."
+  },
+  {
+    "i": 14287,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 1,
+    "t": "Davidův. Suď mne, Hospodine, neboť jsem chodil v bezúhonnosti své a spoléhám na Hospodina a neuhýbám."
+  },
+  {
+    "i": 14288,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 2,
+    "t": "Zkoumej mne, Hospodine, a zkuš mne, prověř v ohni mé ledví a mé srdce,"
+  },
+  {
+    "i": 14289,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 3,
+    "t": "neboť před očima mám tvou lásku a chodím v tvé pravdě."
+  },
+  {
+    "i": 14290,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 4,
+    "t": "Neseděl jsem s prolhaným člověkem a k pokrytci nechci vstoupit,"
+  },
+  {
+    "i": 14291,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 5,
+    "t": "nenávidím spolek zločinců a s bezbožným nechci sedět."
+  },
+  {
+    "i": 14292,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 6,
+    "t": "Umyji své ruce v nevinnosti a obejdu tvůj oltář, Hospodine,"
+  },
+  {
+    "i": 14293,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 7,
+    "t": "rozhlásím díkůčinění a vypovím všechny tvé divy,"
+  },
+  {
+    "i": 14294,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 8,
+    "t": "Hospodine, miluji krásu tvého domu a místo, kde přebývá tvá sláva."
+  },
+  {
+    "i": 14295,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 9,
+    "t": "Nepřipojuj mou duši ke hříšníkům ani můj život k mužům krveprolití,"
+  },
+  {
+    "i": 14296,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 10,
+    "t": "kteří mají v rukou neřest a jejich pravice je plná úplatků."
+  },
+  {
+    "i": 14297,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 11,
+    "t": "Já však chci chodit v bezúhonnosti své, vykoupni mne a smiluj se nade mnou,"
+  },
+  {
+    "i": 14298,
+    "b": 18,
+    "c": 1926,
+    "r": 1926,
+    "o": 12,
+    "t": "má noha stojí na přímé cestě, budu ti žehnat, Hospodine, ve shromážděních."
+  },
+  {
+    "i": 14299,
+    "b": 18,
+    "c": 1927,
+    "r": 1927,
+    "o": 1,
+    "t": "Davidův. Hospodin je mé světlo a má spása, koho bych se bál? Hospodin je pevnost mého života, před kým bych se třásl?"
+  }
+]

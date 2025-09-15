@@ -1,0 +1,802 @@
+[
+  {
+    "i": 5300,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 11,
+    "t": "De toda ave limpa podereis comer;"
+  },
+  {
+    "i": 5301,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 12,
+    "t": "porém estas são as aves de que não comereis: a águia, o quebrantosso, o abutre,"
+  },
+  {
+    "i": 5302,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 13,
+    "t": "o milhafre, o falcão segundo a sua espécie,"
+  },
+  {
+    "i": 5303,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 14,
+    "t": "todo o corvo segundo a sua espécie,"
+  },
+  {
+    "i": 5304,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 15,
+    "t": "o avestruz, o mocho, a gaivota, o gavião segundo a sua espécie,"
+  },
+  {
+    "i": 5305,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 16,
+    "t": "o bufo, a coruja, o íbis,"
+  },
+  {
+    "i": 5306,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 17,
+    "t": "o pelicano, o abutre branco, o corvo marinho,"
+  },
+  {
+    "i": 5307,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 18,
+    "t": "a cegonha, a garça segundo a sua espécie, a poupa e o morcego."
+  },
+  {
+    "i": 5308,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 19,
+    "t": "Todo inseto alado vos será imundo; não se comerá."
+  },
+  {
+    "i": 5309,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 20,
+    "t": "Toda ave limpa podereis comer."
+  },
+  {
+    "i": 5310,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 21,
+    "t": "Não comereis coisa alguma que tenha morrido por si; ao estrangeiro que está dentro das tuas portas a darás a comer, ou a venderás ao forasteiro; porque és povo santo ao Senhor teu Deus. Não cozerás o cabrito no leite de sua mãe."
+  },
+  {
+    "i": 5311,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 22,
+    "t": "Certamente darás o dízimo de todo o fruto da tua semente, que cada ano se recolher do campo."
+  },
+  {
+    "i": 5312,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 23,
+    "t": "E, perante o Senhor teu Deus, no lugar que ele escolher para ali fazer habitar o seu nome, comerás os dízimos do teu grão, do teu mosto, e do teu azeite, e os primogênitos das tuas vacas e das tuas ovelhas; para que aprendas a temer sempre ao Senhor teu Deus."
+  },
+  {
+    "i": 5313,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 24,
+    "t": "E, quando o caminho te for tão comprido que os não possas levar, por estar longe de ti o lugar que o Senhor teu Deus escolher para ali pôr o seu nome, então, quando o Senhor teu Deus te tiver abençoado,"
+  },
+  {
+    "i": 5314,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 25,
+    "t": "então vende-os, e ata o dinheiro na tua mão, e vai ao lugar que o Senhor teu Deus escolher;"
+  },
+  {
+    "i": 5315,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 26,
+    "t": "e aquele dinheiro gastarás em tudo o que deseja a tua alma, em vacas, e em ovelhas, e em vinho, e em bebida forte, e em tudo o que te pedir a tua alma; e ali comerás perante o Senhor teu Deus, e te alegrarás, tu e a tua casa;"
+  },
+  {
+    "i": 5316,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 27,
+    "t": "porém não desampararás o levita que está dentro das tuas portas; pois não tem parte nem herança contigo."
+  },
+  {
+    "i": 5317,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 28,
+    "t": "Ao fim de cada três anos tirarás todos os dízimos dos teus produtos do mesmo ano, e os recolherás dentro das tuas portas;"
+  },
+  {
+    "i": 5318,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 29,
+    "t": "então virá o levita (pois não tem parte nem herança contigo), e o estrangeiro, e o órfão, e a viúva, que estão dentro das tuas portas, e comerão, e se fartarão; para que o Senhor teu Deus te abençoe em toda a obra que as tuas mãos fizerem."
+  },
+  {
+    "i": 5319,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 1,
+    "t": "Ao fim de cada sete anos farás remissão."
+  },
+  {
+    "i": 5320,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 2,
+    "t": "Este é o modo da remissão: todo credor remitirá o que emprestou ao seu próximo; não o exigirá do seu próximo ou do seu irmão, pois que é apregoada a remissão do Senhor."
+  },
+  {
+    "i": 5321,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 3,
+    "t": "Do estrangeiro o exigirás; mas o que for teu, que estiver com teu irmão, a tua mão o remitirá."
+  },
+  {
+    "i": 5322,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 4,
+    "t": "Para que não haja nenhum pobre entre vós (pois o Senhor abundantemente te abençoará na terra que o Senhor teu Deus te dá por herança, para a possuíres),"
+  },
+  {
+    "i": 5323,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 5,
+    "t": "contanto que diligentemente ouças a voz do Senhor teu Deus, para guardares e cumprires todos estes mandamentos que hoje te ordeno."
+  },
+  {
+    "i": 5324,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 6,
+    "t": "Pois o Senhor teu Deus te abençoará, como te prometeu; assim, emprestarás a muitas nações, mas não tomarás emprestado; e dominarás sobre muitas nações, mas elas não dominarão sobre ti."
+  },
+  {
+    "i": 5325,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 7,
+    "t": "Se entre ti houver algum pobre, um de teus irmãos, em alguma das tuas portas, na terra que o Senhor teu Deus te dá, não endurecerás o teu coração, nem fecharás a tua mão a teu irmão pobre;"
+  },
+  {
+    "i": 5326,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 8,
+    "t": "antes lhe abrirás de todo a tua mão, e livremente lhe emprestarás o que lhe falta."
+  },
+  {
+    "i": 5327,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 9,
+    "t": "Guarda-te de que em teu coração não se origine este pensamento vil: Aproxima-se o sétimo ano, o ano da remissão; e que o teu olho não seja maligno para com teu irmão pobre, e não lhe dês nada; pois ele clamará contra ti ao Senhor, e haverá em ti pecado."
+  },
+  {
+    "i": 5328,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 10,
+    "t": "Livremente lhe darás, e que o teu coração não seja maligno quando lhe deres; pois por esta causa te abençoará o Senhor teu Deus em toda a tua obra, e em tudo o que puseres a tua mão."
+  },
+  {
+    "i": 5329,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 11,
+    "t": "Pois nunca deixará de haver pobres na terra; pelo que eu te ordeno, dizendo: Livremente abrirás a tua mão para o teu irmão, para o teu necessitado, e para o teu pobre na tua terra."
+  },
+  {
+    "i": 5330,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 12,
+    "t": "Se teu irmão hebreu, ou irmã hebréia, se vender a ti, seis anos te servirá; mas no sétimo ano o libertarás de ti."
+  },
+  {
+    "i": 5331,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 13,
+    "t": "E, quando o libertares, não o mandarás vazio;"
+  },
+  {
+    "i": 5332,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 14,
+    "t": "liberalmente o fornecerás do teu rebanho, da tua eira e do teu lagar; daquilo com que o Senhor teu Deus te tiver abençoado, lhe darás."
+  },
+  {
+    "i": 5333,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 15,
+    "t": "Lembra-te de que foste servo na terra do Egito, e de que o Senhor teu Deus te resgatou; por isso eu hoje te ordeno isto."
+  },
+  {
+    "i": 5334,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 16,
+    "t": "Se, porém, ele te disser: Não quero apartar-me de ti; porquanto te amo a ti, e a tua casa; porque bem está contigo;"
+  },
+  {
+    "i": 5335,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 17,
+    "t": "então tomarás uma sovela, e lhe furarás a orelha à porta, e será teu servo para sempre; assim também farás à tua serva."
+  },
+  {
+    "i": 5336,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 18,
+    "t": "Não te seja pesado quando o libertares de ti; pois te serviu por dois salários de jornaleiro seis anos; e o Senhor teu Deus te abençoará em tudo o que fizeres."
+  },
+  {
+    "i": 5337,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 19,
+    "t": "Todo primogênito macho que nascer das tuas vacas e das tuas ovelhas, o santificarás ao Senhor teu Deus; com o primogênito da tua vaca não trabalharás, nem tosquiarás o primogênito da tua ovelha."
+  },
+  {
+    "i": 5338,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 20,
+    "t": "Cada ano o comerás, tu e a tua casa, perante o Senhor teu Deus, no lugar que o Senhor escolher."
+  },
+  {
+    "i": 5339,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 21,
+    "t": "Mas, se tiver algum defeito, se for aleijado, ou cego, ou tiver qualquer defeito grave, não o sacrificarás ao Senhor teu Deus;"
+  },
+  {
+    "i": 5340,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 22,
+    "t": "nas tuas portas o comerás; o imundo e o limpo juntamente o comerão, como da corça e do veado;"
+  },
+  {
+    "i": 5341,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 23,
+    "t": "somente não comerás o seu sangue; sobre a terra o derramarás como água."
+  },
+  {
+    "i": 5342,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 1,
+    "t": "Guarda o mês de Abibe, e celebra a páscoa ao Senhor teu Deus; porque no mês de Abibe o Senhor teu Deus te tirou do Egito, de noite."
+  },
+  {
+    "i": 5343,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 2,
+    "t": "Portanto sacrificarás a páscoa ao Senhor teu Deus, das ovelhas e das vacas, no lugar que o Senhor escolher para ali fazer habitar o seu nome."
+  },
+  {
+    "i": 5344,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 3,
+    "t": "Dela não comerás pão levedado; sete dias comerás com ela pães ázimos, pão de aflição (porquanto apressadamente saíste da terra do Egito); para que te lembres do dia da tua saída da terra do Egito, todos os dias da tua vida."
+  },
+  {
+    "i": 5345,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 4,
+    "t": "Por sete dias não se verá fermento contigo em todo o teu termo, nem ficará nada da carne que sacrificaste na tarde do primeiro dia, até pela manhã."
+  },
+  {
+    "i": 5346,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 5,
+    "t": "Não poderás sacrificar a páscoa em nenhuma das tuas portas, que o Senhor teu Deus te dá;"
+  },
+  {
+    "i": 5347,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 6,
+    "t": "mas no lugar que o Senhor teu Deus escolher para ali fazer habitar o seu nome, ali sacrificarás a páscoa à tarde, ao pôr do sol, ao tempo determinado em que saíste do Egito."
+  },
+  {
+    "i": 5348,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 7,
+    "t": "E a assarás, e a comerás, no lugar que o Senhor teu Deus escolher; depois, pela manhã, voltarás e irás para as tuas tendas."
+  },
+  {
+    "i": 5349,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 8,
+    "t": "Seis dias comerás pães ázimos; e no sétimo dia haverá assembléia solene ao Senhor teu Deus; não farás trabalho algum."
+  },
+  {
+    "i": 5350,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 9,
+    "t": "Sete semanas contarás; desde que começares a segar a seara, começarás a contar as sete semanas."
+  },
+  {
+    "i": 5351,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 10,
+    "t": "Então celebrarás a festa das semanas ao Senhor teu Deus com ofertas voluntárias, conforme o Senhor teu Deus te tiver abençoado;"
+  },
+  {
+    "i": 5352,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 11,
+    "t": "e te alegrarás perante o Senhor teu Deus, tu, e teu filho, e tua filha, e o teu servo, e a tua serva, e o levita que está dentro das tuas portas, e o estrangeiro, e o órfão, e a viúva, que estão no meio de ti, no lugar que o Senhor teu Deus escolher para ali fazer habitar o seu nome."
+  },
+  {
+    "i": 5353,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 12,
+    "t": "Lembra-te de que foste servo no Egito; guarda, pois, estes estatutos e cumpre-os."
+  },
+  {
+    "i": 5354,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 13,
+    "t": "A festa dos tabernáculos celebrarás por sete dias, quando tiveres recolhido da tua eira e do teu lagar."
+  },
+  {
+    "i": 5355,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 14,
+    "t": "E alegrar-te-ás na tua festa, tu, e teu filho, e tua filha, e o teu servo, e a tua serva, e o levita, e o estrangeiro, e o órfão, e a viúva, que estão dentro das tuas portas."
+  },
+  {
+    "i": 5356,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 15,
+    "t": "Por sete dias celebrarás a festa ao Senhor teu Deus, no lugar que o Senhor escolher; porque o Senhor teu Deus te abençoará em toda a tua colheita, e em toda a obra das tuas mãos, pelo que estarás inteiramente alegre."
+  },
+  {
+    "i": 5357,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 16,
+    "t": "Três vezes no ano todo varão teu aparecerá perante o Senhor teu Deus, no lugar que ele escolher: na festa dos pães ázimos, na festa das semanas, e na festa dos tabernáculos; e não aparecerá vazio perante o Senhor;"
+  },
+  {
+    "i": 5358,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 17,
+    "t": "cada um oferecerá conforme puder, conforme a bênção que o Senhor teu Deus lhe tiver dado."
+  },
+  {
+    "i": 5359,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 18,
+    "t": "Em todas as tuas portas, que o Senhor teu Deus te dá, por todas as tuas tribos, porás juízes e oficiais; e eles julgarão o povo com justo juízo."
+  },
+  {
+    "i": 5360,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 19,
+    "t": "Não torcerás o juízo, não farás acepção de pessoas, nem receberás peitas; porque a peita cega os olhos dos sábios, e perverte as palavras dos justos."
+  },
+  {
+    "i": 5361,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 20,
+    "t": "A justiça, somente a justiça seguirás, para que vivas, e possuas em herança a terra que o Senhor teu Deus te dá."
+  },
+  {
+    "i": 5362,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 21,
+    "t": "Não plantarás nenhuma árvore junto ao altar do Senhor teu Deus que fizeres para ti."
+  },
+  {
+    "i": 5363,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 22,
+    "t": "Nem levantarás coluna, a qual o Senhor teu Deus odeia."
+  },
+  {
+    "i": 5364,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 1,
+    "t": "Não sacrificarás ao Senhor teu Deus boi ou ovelha em que haja algum defeito, ou alguma coisa má; porque isso é abominação ao Senhor teu Deus."
+  },
+  {
+    "i": 5365,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 2,
+    "t": "Se no meio de ti, em alguma das tuas portas que o Senhor teu Deus te dá, se achar algum homem ou mulher que fizer o que é mau aos olhos do Senhor teu Deus, transgredindo o seu pacto,"
+  },
+  {
+    "i": 5366,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 3,
+    "t": "que for e servir outros deuses, e os adorar, ou ao sol, ou à lua, ou a todo o exército do céu, o que eu não ordenei;"
+  },
+  {
+    "i": 5367,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 4,
+    "t": "e te for denunciado, e ouvires, então inquirirás bem; e eis que, sendo verdade, e certo que se fez tal abominação em Israel,"
+  },
+  {
+    "i": 5368,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 5,
+    "t": "então tirarás para fora das tuas portas o homem ou a mulher que fez esta maldade, e apedrejarás, até que morram."
+  },
+  {
+    "i": 5369,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 6,
+    "t": "Pelo depoimento de duas ou três testemunhas será morto o que houver de morrer; pelo depoimento de uma só testemunha não será morto."
+  },
+  {
+    "i": 5370,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 7,
+    "t": "As mãos das testemunhas serão as primeiras contra ele, para o matar; e depois as mãos de todo o povo; assim tirarás o mal do meio de ti."
+  },
+  {
+    "i": 5371,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 8,
+    "t": "Se alguma causa te for difícil demais no juízo, entre sangue e sangue, entre demanda e demanda, entre ferida e ferida, causas de litígio nas tuas portas, então te levantarás, e subirás ao lugar que o Senhor teu Deus escolher;"
+  },
+  {
+    "i": 5372,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 9,
+    "t": "e virás aos sacerdotes levitas, e ao juiz que houver naqueles dias, e inquirirás; e eles te anunciarão a sentença do juízo."
+  },
+  {
+    "i": 5373,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 10,
+    "t": "E farás conforme a sentença que te anunciarem do lugar que o Senhor escolher; e terás cuidado de fazer conforme tudo o que te ensinarem."
+  },
+  {
+    "i": 5374,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 11,
+    "t": "Conforme a sentença da lei que te ensinarem, e conforme o juízo que te disserem, farás; não te desviarás da sentença que te anunciarem, nem para a direita nem para a esquerda."
+  },
+  {
+    "i": 5375,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 12,
+    "t": "O homem, pois, que se पोर्टार soberbamente, não dando ouvidos ao sacerdote, que está ali para ministrar perante o Senhor teu Deus, nem ao juiz, esse homem morrerá; e tirarás o mal de Israel."
+  },
+  {
+    "i": 5376,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 13,
+    "t": "Para que todo o povo ouça, e tema, e nunca mais se porte soberbamente."
+  },
+  {
+    "i": 5377,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 14,
+    "t": "Quando entrares na terra que o Senhor teu Deus te dá, e a possuíres, e nela habitares, e disseres: Porei sobre mim um rei, como todas as nações que estão em redor de mim;"
+  },
+  {
+    "i": 5378,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 15,
+    "t": "porás certamente sobre ti aquele que o Senhor teu Deus escolher; dentre teus irmãos porás sobre ti um rei; não poderás pôr sobre ti um estrangeiro, que não seja teu irmão."
+  },
+  {
+    "i": 5379,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 16,
+    "t": "Ele, porém, não multiplicará para si cavalos, nem fará voltar o povo ao Egito, para multiplicar cavalos; pois o Senhor vos disse: Nunca mais voltareis por este caminho."
+  },
+  {
+    "i": 5380,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 17,
+    "t": "E que não multiplique para si muitas mulheres, para que o seu coração não se desvie; nem multiplique grandemente para si prata ou ouro."
+  },
+  {
+    "i": 5381,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 18,
+    "t": "E será que, quando se assentar sobre o trono do seu reino, então escreverá para si num livro, deste original, uma cópia desta lei, dos levitas sacerdotes."
+  },
+  {
+    "i": 5382,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 19,
+    "t": "E o terá consigo, e nele lerá todos os dias da sua vida, para que aprenda a temer ao Senhor seu Deus, para guardar todas as palavras desta lei, e estes estatutos, para os cumprir;"
+  },
+  {
+    "i": 5383,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 20,
+    "t": "Para que o seu coração não se levante acima de seus irmãos, e não se desvie do mandamento, nem para a direita nem para a esquerda; para que prolongue os seus dias no seu reino, ele e seus filhos no meio de Israel."
+  },
+  {
+    "i": 5384,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 1,
+    "t": "Os sacerdotes levitas, toda a tribo de Levi, não terão parte nem herança com Israel; dos sacrifícios queimados ao Senhor e da sua herança comerão."
+  },
+  {
+    "i": 5385,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 2,
+    "t": "Pelo que não terá herança no meio de seus irmãos; o Senhor é a sua herança, como lhe disse."
+  },
+  {
+    "i": 5386,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 3,
+    "t": "Este, pois, será o direito dos sacerdotes, a receber do povo, dos que oferecerem sacrifício, seja boi ou gado miúdo: que darão ao sacerdote a espádua, e as queixadas, e o bucho."
+  },
+  {
+    "i": 5387,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 4,
+    "t": "As primícias do teu grão, do teu mosto, e do teu azeite, e as primícias da tosquia das tuas ovelhas lhe darás."
+  },
+  {
+    "i": 5388,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 5,
+    "t": "Porque o Senhor teu Deus o escolheu de todas as tuas tribos, para que assista e ministre em nome do Senhor, ele e seus filhos, perpetuamente."
+  },
+  {
+    "i": 5389,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 6,
+    "t": "E, quando vier um levita de alguma das tuas portas, de todo o Israel, onde peregrinar, e vier com todo o desejo da sua alma ao lugar que o Senhor escolher,"
+  },
+  {
+    "i": 5390,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 7,
+    "t": "Então servirá em nome do Senhor seu Deus, como também todos os seus irmãos, os levitas, que ali estão perante o Senhor."
+  },
+  {
+    "i": 5391,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 8,
+    "t": "Igual porção comerão, além da venda de seu patrimônio."
+  },
+  {
+    "i": 5392,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 9,
+    "t": "Quando entrares na terra que o Senhor teu Deus te dá, não aprenderás a fazer conforme as abominações daquelas nações."
+  },
+  {
+    "i": 5393,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 10,
+    "t": "Entre ti não se achará quem faça passar pelo fogo o seu filho ou a sua filha, nem adivinhador, nem prognosticador, nem agoureiro, nem feiticeiro;"
+  },
+  {
+    "i": 5394,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 11,
+    "t": "Nem encantador, nem quem consulte a espíritos, nem mágico, nem quem consulte os mortos;"
+  },
+  {
+    "i": 5395,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 12,
+    "t": "Pois todo aquele que faz estas coisas é abominável ao Senhor; e por estas abominações o Senhor teu Deus os lança fora de diante de ti."
+  },
+  {
+    "i": 5396,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 13,
+    "t": "Perfeito serás para com o Senhor teu Deus."
+  },
+  {
+    "i": 5397,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 14,
+    "t": "Porque estas nações, que hás de possuir, ouvem os prognosticadores e os adivinhadores; porém, quanto a ti, o Senhor teu Deus não te permitiu tal coisa."
+  },
+  {
+    "i": 5398,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 15,
+    "t": "O Senhor teu Deus te levantará um profeta do meio de ti, de teus irmãos, como eu; a ele ouvireis."
+  },
+  {
+    "i": 5399,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 16,
+    "t": "Conforme a tudo o que pediste ao Senhor teu Deus em Horebe, no dia da assembléia, dizendo: Nunca mais ouvirei a voz do Senhor meu Deus, nem mais verei este grande fogo, para que não morra."
+  }
+]

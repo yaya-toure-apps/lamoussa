@@ -1,0 +1,802 @@
+[
+  {
+    "i": 28600,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 3,
+    "t": "I riekol človeku, ktorý mal suchú ruku: Vstaň a postav sa do prostriedku!"
+  },
+  {
+    "i": 28601,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 4,
+    "t": "A riekol im: Dovolí sa v sobotu dobre činiť, alebo zle robiť? Život zachrániť, alebo zahubiť? Ale oni mlčali."
+  },
+  {
+    "i": 28602,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 5,
+    "t": "A obzrúc sa na nich s hnevom, zarmútený nad zatvrdlivosťou ich srdca, riekol človeku: Vystri ruku svoju! I vystrel, a ruka mu bola uzdravená, zdravá ako tá druhá."
+  },
+  {
+    "i": 28603,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 6,
+    "t": "A farizeovia vyjdúc hneď sa radili s herodiánmi proti nemu, ako by ho zahubili."
+  },
+  {
+    "i": 28604,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 7,
+    "t": "A Ježiš sa odobral so svojimi učeníkmi k moru, a veliké množstvo z Galiley išlo za ním, i z Judska,"
+  },
+  {
+    "i": 28605,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 8,
+    "t": "aj z Jeruzalema i z Idumey i z Zajordánska i z okolia Týru a Sidona veliké množstvo, počujúc o tom, čo činí, prišlo k nemu."
+  },
+  {
+    "i": 28606,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 9,
+    "t": "A riekol svojim učeníkom, aby bola pri ňom loďka hotová pre zástup, aby ho neobtiadol."
+  },
+  {
+    "i": 28607,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 10,
+    "t": "Lebo mnohých uzdravil, takže sa na neho tiskli, aby sa ho dotkli, ktorí len mali neduhy."
+  },
+  {
+    "i": 28608,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 11,
+    "t": "A nečistí duchovia, kedy ho videli, padali pred ním a kričali, hovoriac: Ty si Syn Boží!"
+  },
+  {
+    "i": 28609,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 12,
+    "t": "A tuho im dohrozoval, aby ho neoznamovali."
+  },
+  {
+    "i": 28610,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 13,
+    "t": "Potom vystúpil na vrch, a povolal k sebe, ktorých chcel, a prišli k nemu."
+  },
+  {
+    "i": 28611,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 14,
+    "t": "A ustanovil ich dvanástich, aby boli s ním, a aby ich posielal kázať,"
+  },
+  {
+    "i": 28612,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 15,
+    "t": "a mali moc uzdravovať neduhy a vyháňať démonov."
+  },
+  {
+    "i": 28613,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 16,
+    "t": "A ustanovil tých dvanástich: Šimona, ktorému dal meno Peter,"
+  },
+  {
+    "i": 28614,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 17,
+    "t": "Jakuba Zebedeovho a Jána, brata Jakubovho, ktorým dal meno Boanerges, to jest synov hromu,"
+  },
+  {
+    "i": 28615,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 18,
+    "t": "a Andreja a Filipa a Bartolomeja a Matúša a Tomáša a Jakuba Alfeovho a Tadeáša a Šimona Kananejského,"
+  },
+  {
+    "i": 28616,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 19,
+    "t": "a Judáša Iškariotského, ktorý ho i zradil."
+  },
+  {
+    "i": 28617,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 20,
+    "t": "A prišiel do domu, a zase sa sišiel zástup, takže sa ani nemohli najesť chleba."
+  },
+  {
+    "i": 28618,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 21,
+    "t": "A keď počuli jeho príbuzní, išli ho zadržať, lebo hovorili: Vyšiel zmyslov!"
+  },
+  {
+    "i": 28619,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 22,
+    "t": "A zákonníci, ktorí prišli z Jeruzalema, hovorili: Má Belzebúba, a kniežaťom démonov vyháňa démonov."
+  },
+  {
+    "i": 28620,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 23,
+    "t": "A zavolajúc ich, hovoril im v podobenstvách: Ako môže satan vyháňať satana?"
+  },
+  {
+    "i": 28621,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 24,
+    "t": "A jestli sa kráľovstvo rozdelí samo proti sebe, nemôže stáť to kráľovstvo."
+  },
+  {
+    "i": 28622,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 25,
+    "t": "A jestli sa dom rozdelí sám proti sebe, nebude môcť stáť ten dom."
+  },
+  {
+    "i": 28623,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 26,
+    "t": "Ak tedy povstane satan sám proti sebe a rozdelí sa, nemôže obstáť, ale má koniec."
+  },
+  {
+    "i": 28624,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 27,
+    "t": "Nikto nemôže do domu silného vojsť a lúpiť jeho náradie, iba ak najprv zviaže silného, a vtedy vylúpi jeho dom."
+  },
+  {
+    "i": 28625,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 28,
+    "t": "Veru vám hovorím, že všetko odpustia synom človeka, hriechy i rúhania, ktorými by sa len rúhali;"
+  },
+  {
+    "i": 28626,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 29,
+    "t": "ale kto by sa rúhal proti Svätému Duchu, nemá odpustenia na veky, ale je vinný večného súdu."
+  },
+  {
+    "i": 28627,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 30,
+    "t": "Pretože hovorili: Má nečistého ducha."
+  },
+  {
+    "i": 28628,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 31,
+    "t": "A prišla jeho mať a jeho bratia, a stojac vonku, poslali k nemu volať ho."
+  },
+  {
+    "i": 28629,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 32,
+    "t": "A sedel okolo neho zástup, a povedali mu: Hľa, tvoja mať a tvoji bratia a tvoje sestry vonku ťa hľadajú."
+  },
+  {
+    "i": 28630,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 33,
+    "t": "A odpovedal im a riekol: Kto je moja mať, a moji bratia?"
+  },
+  {
+    "i": 28631,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 34,
+    "t": "A obzrúc sa na tých, ktorí sedeli okolo neho, riekol: Hľa, moja mať a moji bratia!"
+  },
+  {
+    "i": 28632,
+    "b": 47,
+    "c": 4903,
+    "r": 4903,
+    "o": 35,
+    "t": "Lebo ktokoľvek by činil vôľu Božiu, ten je môj brat i moja sestra i mať."
+  },
+  {
+    "i": 28633,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 1,
+    "t": "A zase počal učiť pri mori. A sišiel sa k nemu veliký zástup, takže vstúpil do lode a sedel na mori, a celý zástup bol na zemi pri mori."
+  },
+  {
+    "i": 28634,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 2,
+    "t": "A učil ich mnohému v podobenstvách, a riekol im v svojom učení:"
+  },
+  {
+    "i": 28635,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 3,
+    "t": "Čujte! Hľa, vyšiel rozsievač siať."
+  },
+  {
+    "i": 28636,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 4,
+    "t": "A stalo sa, keď sial, že jedno padlo pri ceste, a prišlo vtáctvo a pozobalo to."
+  },
+  {
+    "i": 28637,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 5,
+    "t": "A iné padlo na skalnatú zem, kde nemalo mnoho zeme, a hneď vyraší, lebo nemalo hlbokej zeme."
+  },
+  {
+    "i": 28638,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 6,
+    "t": "A keď vyšlo slnko, spálilo sa a uschlo, pretože nemalo koreňa."
+  },
+  {
+    "i": 28639,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 7,
+    "t": "A iné padlo do tŕnia, a vyrástlo tŕnie a zadusilo to, a nevydalo ovocia."
+  },
+  {
+    "i": 28640,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 8,
+    "t": "A iné padlo na dobrú zem a vydalo ovocie, vyrástlo a zrástlo sa, a prinieslo jedno tridsať, druhé šesťdesiat, druhé sto."
+  },
+  {
+    "i": 28641,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 9,
+    "t": "A riekol: Kto má uši na počúvanie, nech počuje!"
+  },
+  {
+    "i": 28642,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 10,
+    "t": "A keď bol sám, pýtali sa ho tí, ktorí boli okolo neho, s dvanástimi, o podobenstvách."
+  },
+  {
+    "i": 28643,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 11,
+    "t": "A riekol im: Vám je dané znať tajomstvo kráľovstva Božieho, ale tým, ktorí sú vonku, deje sa všetko v podobenstvách,"
+  },
+  {
+    "i": 28644,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 12,
+    "t": "aby hľadiac hľadeli a nevideli, a počujúc počuli a nerozumeli, aby sa azda neobrátili, a boli by im odpustené hriechy."
+  },
+  {
+    "i": 28645,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 13,
+    "t": "A riekol im: Či nerozumiete tomuto podobenstvu? Ako tedy všetkým podobenstvám porozumiete?"
+  },
+  {
+    "i": 28646,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 14,
+    "t": "Rozsievač seje slovo."
+  },
+  {
+    "i": 28647,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 15,
+    "t": "A títo sú tí pri ceste, kde seje slovo, ale len čo ho počujú, hneď prijde satan a odníme slovo zasiate v ich srdciach."
+  },
+  {
+    "i": 28648,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 16,
+    "t": "A tak podobne tí, ktorí sú zasiati na skalnaté miesta, ktorí, keď počujú slovo, hneď ho prijímajú s radosťou,"
+  },
+  {
+    "i": 28649,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 17,
+    "t": "ale nemajú koreňa sami v sebe a sú časní; potom, keď nastane súženie alebo prenasledovanie pre slovo, hneď sa pohoršujú."
+  },
+  {
+    "i": 28650,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 18,
+    "t": "A títo sú tí, ktorí sú zasiati medzi tŕnie: tí, ktorí počujú slovo,"
+  },
+  {
+    "i": 28651,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 19,
+    "t": "ale starosti sveta a oklamnosť bohatstva a žiadosti iných vecí vchádzajú a dusia to slovo, a stáva sa bez ovocia."
+  },
+  {
+    "i": 28652,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 20,
+    "t": "A títo sú tí, ktorí sú zasiati na dobrej zemi: tí, ktorí počujú slovo a prijímajú, a prinášajú ovocie, jedno tridsať a jedno šesťdesiat a jedno sto."
+  },
+  {
+    "i": 28653,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 21,
+    "t": "A riekol im: Či lampa prijde nato, aby ju postavili pod mericu alebo pod posteľ? A nie nato, aby ju postavili na svietnik?"
+  },
+  {
+    "i": 28654,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 22,
+    "t": "Lebo neni nič tajné, čo by sa nemalo zjaviť, ani sa nič nezatajilo, iba aby prišlo na javo."
+  },
+  {
+    "i": 28655,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 23,
+    "t": "Ak má niekto uši na počúvanie, nech počuje!"
+  },
+  {
+    "i": 28656,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 24,
+    "t": "A riekol im: Hľaďte, čo počúvate! Akou mierou meriate, bude vám namerané, a vám, ktorí počúvate, bude pridané."
+  },
+  {
+    "i": 28657,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 25,
+    "t": "Lebo kto má, tomu bude dané, a kto nemá, i to, čo má, bude mu odňaté."
+  },
+  {
+    "i": 28658,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 26,
+    "t": "A riekol: Takto je s kráľovstvom Božím, ako keď človek hodí semeno na zem,"
+  },
+  {
+    "i": 28659,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 27,
+    "t": "a spí a vstáva v noci i vo dne, a semeno sa pučí a rastie, jako on sám nevie."
+  },
+  {
+    "i": 28660,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 28,
+    "t": "Lebo sama od seba prináša zem úrodu, najprv zelinu, potom klas, potom plnú pšenicu v klase."
+  },
+  {
+    "i": 28661,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 29,
+    "t": "A keď sa dozrieva úroda, hneď priloží kosák, pretože prišla žeň."
+  },
+  {
+    "i": 28662,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 30,
+    "t": "A riekol: Čomu prirovnáme kráľovstvo Božie? Alebo akým ho podobenstvom znázorníme?"
+  },
+  {
+    "i": 28663,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 31,
+    "t": "Je ako horčičné zrnko, ktoré, keď ho sejú na zem, je menšie od všetkých semien, ktoré sú na zemi;"
+  },
+  {
+    "i": 28664,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 32,
+    "t": "a keď je zasiate, vyrastie a stáva sa väčším od všetkých bylín a vyháňa veľké ratolesti, takže pod jeho tieňom môžu prebývať nebeskí vtáci."
+  },
+  {
+    "i": 28665,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 33,
+    "t": "A v mnohých takýchto podobenstvách im hovoril slovo, ako mohli počúvať."
+  },
+  {
+    "i": 28666,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 34,
+    "t": "A bez podobenstva im nehovoril, ale svojim učeníkom na samote vykladal všetko."
+  },
+  {
+    "i": 28667,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 35,
+    "t": "A toho dňa, keď bol večer, riekol im: Poďme na druhý breh!"
+  },
+  {
+    "i": 28668,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 36,
+    "t": "A opustiac zástup, vzali ho tak, jako bol, v lodi, a iné lode boli s ním."
+  },
+  {
+    "i": 28669,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 37,
+    "t": "A povstala veľká víchrica, a vlny sa valili do lode, takže sa loď už naplňovala."
+  },
+  {
+    "i": 28670,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 38,
+    "t": "A on bol na zadku lode, spiac na poduške. I zobudili ho a povedali mu: Učiteľu, či ti nenie ľúto, že hynieme?"
+  },
+  {
+    "i": 28671,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 39,
+    "t": "A zobudiac sa pohrozil vetru a riekol moru: Umlkni, prestaň! A prestal vietor, a nastala veliká tichosť."
+  },
+  {
+    "i": 28672,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 40,
+    "t": "A riekol im: Prečo sa tak bojíte? Ako to, že nemáte viery?"
+  },
+  {
+    "i": 28673,
+    "b": 47,
+    "c": 4904,
+    "r": 4904,
+    "o": 41,
+    "t": "A báli sa veľkým strachom a hovorili jeden druhému: Ktože to je, že ho i vietor i more poslúcha?"
+  },
+  {
+    "i": 28674,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 1,
+    "t": "A prišli na druhý breh mora, do krajiny Gadarenských."
+  },
+  {
+    "i": 28675,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 2,
+    "t": "A hneď, ako vyšiel z lode, išiel mu naproti z hrobov človek, ktorý mal nečistého ducha,"
+  },
+  {
+    "i": 28676,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 3,
+    "t": "ktorý mal svoju bydlisko v hroboch, a ani reťazami ho nemohol nikto zviazať,"
+  },
+  {
+    "i": 28677,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 4,
+    "t": "pretože často bol bývaval zviazaný putami a reťazami, ale roztrhal reťaze a polámal putá, a nikto nemohol ho skrotiť."
+  },
+  {
+    "i": 28678,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 5,
+    "t": "A vždy vo dne i v noci bol v hroboch a v horách kričiac a bijúc sa kameňmi."
+  },
+  {
+    "i": 28679,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 6,
+    "t": "A vidiac Ježiša zďaleka, bežal a poklonil sa mu,"
+  },
+  {
+    "i": 28680,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 7,
+    "t": "A zvolal hlasom mocným: „Čo máš so mnou, Ježišu, Synu Boha Najvyššieho? Zaprisahám ťa Bohom, nemuč ma!“"
+  },
+  {
+    "i": 28681,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 8,
+    "t": "Lebo hovoril mu: „Vyjdi z toho človeka, duchu nečistý!“"
+  },
+  {
+    "i": 28682,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 9,
+    "t": "A pýtal sa ho: „Aké je tvoje meno?“ Odpovedal mu: „Légia je mi meno, lebo mnohí sme.“"
+  },
+  {
+    "i": 28683,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 10,
+    "t": "A veľmi ho prosili, aby ich nevyháňal z tej krajiny."
+  },
+  {
+    "i": 28684,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 11,
+    "t": "Páslo sa tam pri vrchu veľké stádo svíň."
+  },
+  {
+    "i": 28685,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 12,
+    "t": "A prosili ho všetci nečistí duchovia: „Pošli nás do tých svíň, aby sme vošli do nich.“"
+  },
+  {
+    "i": 28686,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 13,
+    "t": "A Ježiš im to dovolil. I vyšli nečistí duchovia a vošli do svíň. Vrhlo sa stádo dolu strminou do mora; bolo ich okolo dvetisíc a utopili sa v mori."
+  },
+  {
+    "i": 28687,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 14,
+    "t": "Pastieri utiekli a rozhlásili to po meste i po osadách. Tu vyšli ľudia pozrieť sa, čo sa stalo."
+  },
+  {
+    "i": 28688,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 15,
+    "t": "Prišli k Ježišovi a videli toho posadnutého, čo mal v sebe légia, ako sedí oblečený a je pri zdravom rozume; i báli sa."
+  },
+  {
+    "i": 28689,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 16,
+    "t": "Očití svedkovia im porozprávali, čo sa stalo s posadnutým a so svinami."
+  },
+  {
+    "i": 28690,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 17,
+    "t": "A začali ho prosiť, aby odišiel z ich kraja."
+  },
+  {
+    "i": 28691,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 18,
+    "t": "Keď nastupoval do člna, prosil ho ten, čo bol predtým posadnutý, aby smel byť s ním."
+  },
+  {
+    "i": 28692,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 19,
+    "t": "Ale on mu to nedovolil, iba mu povedal: „Choď domov k svojim a zvestuj im, čo ti urobil Pán a ako sa nad tebou zmiloval.“"
+  },
+  {
+    "i": 28693,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 20,
+    "t": "Odišiel teda a začal rozhlasovať v Dekapole, čo s ním Ježiš urobil. A všetci sa divili."
+  },
+  {
+    "i": 28694,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 21,
+    "t": "Keď sa Ježiš preplavil naspäť na druhý breh, zišiel sa k nemu veľký zástup. A bol pri mori."
+  },
+  {
+    "i": 28695,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 22,
+    "t": "Tu prišiel jeden z predstavených synagógy, menom Jairus, a keď ho uvidel, padol mu k nohám"
+  },
+  {
+    "i": 28696,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 23,
+    "t": "a veľmi ho prosil: „Dcérka mi zomiera. Poď, vlož na ňu ruky, aby ozdravela a žila.“"
+  },
+  {
+    "i": 28697,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 24,
+    "t": "I odišiel s ním a nasledoval ho veľký zástup, ktorý sa na neho tlačil."
+  },
+  {
+    "i": 28698,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 25,
+    "t": "Istá žena, ktorá dvanásť rokov trpela na krvotok,"
+  },
+  {
+    "i": 28699,
+    "b": 47,
+    "c": 4905,
+    "r": 4905,
+    "o": 26,
+    "t": "a mnoho vytrpela od mnohých lekárov a minula všetko, čo mala, a nič jej nepomohlo, ba ešte sa jej prihoršilo,"
+  }
+]

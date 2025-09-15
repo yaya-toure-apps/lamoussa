@@ -1,0 +1,802 @@
+[
+  {
+    "i": 200,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 17,
+    "t": "Hỡi các ngươi, hãy đem ra khỏi ngươi mọi loài thú vật ở cùng ngươi, tức là các loài xác thịt, chim chóc, súc vật, và mọi loài côn trùng bò trên đất; hầu cho chúng sanh sản đầy dẫy trên đất, thêm nhiều và nảy nở trên đất."
+  },
+  {
+    "i": 201,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 18,
+    "t": "Nô-ê ra khỏi tàu, cùng các con trai, vợ, và các dâu của mình;"
+  },
+  {
+    "i": 202,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 19,
+    "t": "cũng mọi loài thú, côn trùng, chim, và các vật chi động trên mặt đất, tùy theo loại mà ra khỏi tàu."
+  },
+  {
+    "i": 203,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 20,
+    "t": "Nô-ê lập một bàn thờ cho Đức Giê-hô-va, rồi bắt các loài vật thanh sạch và các loài chim thanh sạch, dâng của lễ thiêu trên bàn thờ."
+  },
+  {
+    "i": 204,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 21,
+    "t": "Đức Giê-hô-va hưởng lấy mùi thơm, bèn phán trong lòng rằng: Ta sẽ chẳng rủa đất nữa vì loài người; vì ý tưởng của lòng loài người là xấu xa từ khi còn trẻ; ta cũng sẽ chẳng hành hại mọi vật sống nữa, y như ta đã làm."
+  },
+  {
+    "i": 205,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 22,
+    "t": "Hễ đất còn, thì mùa gieo giống cùng mùa gặt hái, lạnh và nóng, mùa hạ và mùa đông, ngày và đêm, chẳng bao giờ thôi."
+  },
+  {
+    "i": 206,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 1,
+    "t": "Đức Chúa Trời ban phước cho Nô-ê và các con trai người, mà phán rằng: Hãy sanh sản thêm nhiều, làm cho đầy dẫy trên đất."
+  },
+  {
+    "i": 207,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 2,
+    "t": "Các loài vật trên đất, chim trời, vật chi động trên đất, và cá biển, đều sẽ kinh sợ và khiếp đảm các ngươi; hết thảy đều phó vào tay các ngươi."
+  },
+  {
+    "i": 208,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 3,
+    "t": "Phàm vật chi động và có sự sống thì dùng làm đồ ăn cho các ngươi. Ta cho mọi vật đó như ta đã cho cây cỏ xanh vậy."
+  },
+  {
+    "i": 209,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 4,
+    "t": "Nhưng các ngươi chẳng nên ăn thịt còn hồn sống, nghĩa là có huyết."
+  },
+  {
+    "i": 210,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 5,
+    "t": "Quả thật, ta sẽ đòi huyết của mạng sống các ngươi; ta sẽ đòi nơi mọi vật, và nơi loài người; ta sẽ đòi mạng sống của người nơi tay anh em người."
+  },
+  {
+    "i": 211,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 6,
+    "t": "Hễ ai làm đổ huyết người, thì huyết người sẽ bị người khác làm đổ lại; vì Đức Chúa Trời làm người theo hình tượng Ngài."
+  },
+  {
+    "i": 212,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 7,
+    "t": "Còn các ngươi, hãy sanh sản thêm nhiều, hãy nảy nở đầy dẫy trên đất và gia thêm trên đó."
+  },
+  {
+    "i": 213,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 8,
+    "t": "Đức Chúa Trời phán cùng Nô-ê và các con trai người rằng:"
+  },
+  {
+    "i": 214,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 9,
+    "t": "Nầy, ta lập giao ước cùng các ngươi, và cùng dòng dõi các ngươi về sau,"
+  },
+  {
+    "i": 215,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 10,
+    "t": "cùng mọi vật sống ở với các ngươi, chim, súc vật, và mọi loài thú ở trên đất cùng các ngươi, tức là từ mọi loài ra khỏi tàu, cho đến mọi loài thú trên đất."
+  },
+  {
+    "i": 216,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 11,
+    "t": "Ta lập giao ước cùng các ngươi, chẳng có xác thịt nào bị nước lụt hủy diệt nữa, và cũng chẳng có nước lụt đến hủy hoại đất nữa."
+  },
+  {
+    "i": 217,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 12,
+    "t": "Đức Chúa Trời lại phán rằng: Nầy là dấu chỉ về sự giao ước mà ta lập cùng các ngươi, và cùng mọi vật sống ở với các ngươi, trải qua các đời mãi mãi về sau:"
+  },
+  {
+    "i": 218,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 13,
+    "t": "Ta đặt cầu vồng của ta trong mây, dùng làm dấu chỉ sự giao ước giữa ta và đất."
+  },
+  {
+    "i": 219,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 14,
+    "t": "Về sau, khi ta góp mây trên đất, thì sẽ có cầu vồng hiện ra trong mây,"
+  },
+  {
+    "i": 220,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 15,
+    "t": "ta bèn nhớ lại sự giao ước ta đã lập cùng các ngươi, và cùng mọi vật sống có xác thịt; nước sẽ chẳng thành lụt mà hủy diệt mọi xác thịt nữa."
+  },
+  {
+    "i": 221,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 16,
+    "t": "Cầu vồng sẽ ở trong mây, ta nhìn thấy nó, thì nhớ lại sự giao ước đời đời của ta cùng mọi vật sống có xác thịt ở trên đất."
+  },
+  {
+    "i": 222,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 17,
+    "t": "Đức Chúa Trời phán cùng Nô-ê rằng: Đó là dấu chỉ về sự giao ước mà ta đã lập cùng mọi xác thịt ở trên đất."
+  },
+  {
+    "i": 223,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 18,
+    "t": "Các con trai của Nô-ê ra khỏi tàu là Sem, Cham và Gia-phết; Cham là tổ phụ của Ca-na-an."
+  },
+  {
+    "i": 224,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 19,
+    "t": "Ba người đó là con trai của Nô-ê; các dân tộc trên khắp thế gian đều do ba người đó mà ra."
+  },
+  {
+    "i": 225,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 20,
+    "t": "Nô-ê làm nghề nông, bắt đầu trồng một vườn nho."
+  },
+  {
+    "i": 226,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 21,
+    "t": "Uống rượu say, người nằm trần truồng trong trại mình."
+  },
+  {
+    "i": 227,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 22,
+    "t": "Cham, là tổ phụ của Ca-na-an, thấy sự trần truồng của cha, bèn ra thuật lại cho hai anh em mình hay ở ngoài."
+  },
+  {
+    "i": 228,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 23,
+    "t": "Sem và Gia-phết bèn lấy một cái áo choàng, đặt trên vai hai người, đi giật lùi lại đắp áo ấy trùm sự trần truồng của cha; hai người đều xây mặt đi, nên không thấy sự trần truồng của cha."
+  },
+  {
+    "i": 229,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 24,
+    "t": "Khi Nô-ê tỉnh rượu, biết việc con út mình đã làm,"
+  },
+  {
+    "i": 230,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 25,
+    "t": "bèn nói rằng: Ca-na-an đáng rủa! Nó sẽ làm tôi tớ hèn hạ cho các anh em mình!"
+  },
+  {
+    "i": 231,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 26,
+    "t": "Người lại nói: Đáng ngợi khen thay Giê-hô-va Đức Chúa Trời của Sem! Ca-na-an sẽ làm tôi tớ cho Sem!"
+  },
+  {
+    "i": 232,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 27,
+    "t": "Nguyện Đức Chúa Trời mở rộng Gia-phết! Người sẽ ở trong trại của Sem, và Ca-na-an sẽ làm tôi tớ cho Gia-phết!"
+  },
+  {
+    "i": 233,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 28,
+    "t": "Sau cơn nước lụt, Nô-ê còn sống ba trăm năm mươi năm."
+  },
+  {
+    "i": 234,
+    "b": 0,
+    "c": 109,
+    "r": 109,
+    "o": 29,
+    "t": "Vậy, Nô-ê hưởng thọ chín trăm năm mươi tuổi, rồi qua đời."
+  },
+  {
+    "i": 235,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 1,
+    "t": "Đây là dòng dõi của các con trai Nô-ê là Sem, Cham và Gia-phết; sau cơn nước lụt, các con trai sanh ra cho họ."
+  },
+  {
+    "i": 236,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 2,
+    "t": "Các con trai Gia-phết là Gô-me, Ma-gốc, Ma-đai, Gia-van, Tu-banh, Mê-sêch, và Ti-rách."
+  },
+  {
+    "i": 237,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 3,
+    "t": "Các con trai Gô-me là A-sê-na, Ri-phát, và Tô-ga-ma."
+  },
+  {
+    "i": 238,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 4,
+    "t": "Các con trai Gia-van là Ê-li-sa, Ta-rê-si, Kít-tim, và Đô-đa-nim."
+  },
+  {
+    "i": 239,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 5,
+    "t": "Ấy là các con cháu Gia-phết, tùy theo xứ mình, mà chia ra các cù lao; mỗi người cứ theo tiếng nói, tùy họ hàng, và theo nước mình."
+  },
+  {
+    "i": 240,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 6,
+    "t": "Các con trai Cham là Cút, Mích-ra-im, Phút, và Ca-na-an."
+  },
+  {
+    "i": 241,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 7,
+    "t": "Các con trai Cút là Sê-ba, Ha-vi-la, Sáp-ta, Ra-ma, và Sáp-tê-ca. Các con trai Ra-ma là Sê-ba và Đê-đan."
+  },
+  {
+    "i": 242,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 8,
+    "t": "Cút cũng sanh Ním-rốt; người ấy khởi làm một người dõng sĩ trên đất."
+  },
+  {
+    "i": 243,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 9,
+    "t": "Người là một tay thợ săn giỏi trước mặt Đức Giê-hô-va; bởi cớ đó, có tục ngữ rằng: Như Ním-rốt, một tay thợ săn giỏi trước mặt Đức Giê-hô-va."
+  },
+  {
+    "i": 244,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 10,
+    "t": "Các thành đầu nước người là Ba-bên, Ếch-rết, A-cát, và Canh-nê, tại xứ Si-nê-a."
+  },
+  {
+    "i": 245,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 11,
+    "t": "Từ xứ đó, người đi đến A-si-ri, xây thành Ni-ni-ve, Rê-hô-bốt-Ê, Ca-lách,"
+  },
+  {
+    "i": 246,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 12,
+    "t": "và Rê-sen ở giữa Ni-ni-ve và Ca-lách; đó là một thành lớn."
+  },
+  {
+    "i": 247,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 13,
+    "t": "Mích-ra-im sanh dân Lu-đim, A-na-mim, Lê-ha-bim, Náp-tu-him,"
+  },
+  {
+    "i": 248,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 14,
+    "t": "Pa-trô-sim, Cát-lu-him (tức là tổ phụ dân Phi-li-tin), và Cáp-tô-rim."
+  },
+  {
+    "i": 249,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 15,
+    "t": "Ca-na-an sanh Si-đôn, là con trưởng nam mình, kế đến là Hếch,"
+  },
+  {
+    "i": 250,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 16,
+    "t": "và dân Giê-bu-sít, A-mô-rít, Ghi-rê-ga-sít,"
+  },
+  {
+    "i": 251,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 17,
+    "t": "Hê-vít, A-rê-kít, Si-nít,"
+  },
+  {
+    "i": 252,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 18,
+    "t": "A-va-đít, Sê-ma-rít, và Ha-ma-tít; kế đó, các họ hàng Ca-na-an tan rải ra."
+  },
+  {
+    "i": 253,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 19,
+    "t": "Địa phận của dân Ca-na-an giáp từ Si-đôn đi về hướng Ghê-ra, cho đến Ga-xa, rồi đi về hướng Sô-đôm, Gô-mô-rơ, Át-ma, và Xê-bô-im, cho đến La-sa."
+  },
+  {
+    "i": 254,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 20,
+    "t": "Ấy là các con cháu Cham, tùy theo họ hàng, tiếng nói, xứ, và nước mình."
+  },
+  {
+    "i": 255,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 21,
+    "t": "Sem là tổ phụ của hết thảy con cháu Ê-be, và là anh của Gia-phết, cũng có con cái sanh ra."
+  },
+  {
+    "i": 256,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 22,
+    "t": "Các con trai Sem là Ê-lam, A-sua, A-bạt-xát, Lút, và A-ram."
+  },
+  {
+    "i": 257,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 23,
+    "t": "Các con trai A-ram là Út, Hun, Ghết-te, và Ma."
+  },
+  {
+    "i": 258,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 24,
+    "t": "A-bạt-xát sanh Sê-lách; Sê-lách sanh Ê-be."
+  },
+  {
+    "i": 259,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 25,
+    "t": "Ê-be sanh hai con trai: một người tên là Phê-léc, vì trong đời người đó, đất đã chia ra; còn em người tên là Giốc-tan."
+  },
+  {
+    "i": 260,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 26,
+    "t": "Giốc-tan sanh An-mô-đát, Sê-lép, Hạt-sa-ma-vết, Giê-ra,"
+  },
+  {
+    "i": 261,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 27,
+    "t": "Ha-đô-ram, U-xa, Đích-la,"
+  },
+  {
+    "i": 262,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 28,
+    "t": "Ô-banh, A-bi-ma-ên, Sê-ba,"
+  },
+  {
+    "i": 263,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 29,
+    "t": "Ô-phia, Ha-vi-la, và Giô-báp; các người đó đều là con trai của Giốc-tan."
+  },
+  {
+    "i": 264,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 30,
+    "t": "Địa phận họ ở từ Mê-sa đi đến Sê-pha, là núi miền Đông."
+  },
+  {
+    "i": 265,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 31,
+    "t": "Ấy là các con cháu Sem, tùy theo họ hàng, tiếng nói, xứ, và nước mình."
+  },
+  {
+    "i": 266,
+    "b": 0,
+    "c": 110,
+    "r": 110,
+    "o": 32,
+    "t": "Ấy là các họ hàng của con cháu Nô-ê, tùy theo đời, và nước mình; các dân tộc tản ra trên đất do bởi các họ hàng ấy sau cơn nước lụt."
+  },
+  {
+    "i": 267,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 1,
+    "t": "Vả, cả thiên hạ đều có một thứ tiếng, và một giọng nói."
+  },
+  {
+    "i": 268,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 2,
+    "t": "Khi ở Đông phương dời đi, người ta gặp một đồng bằng tại xứ Si-nê-a, rồi ở tại đó."
+  },
+  {
+    "i": 269,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 3,
+    "t": "Người nầy nói với người kia rằng: Hè! Chúng ta hãy làm gạch và hầm cho kỹ càng. Vậy, gạch thế cho đá, nhựa chai thế cho hồ."
+  },
+  {
+    "i": 270,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 4,
+    "t": "Lại nói rằng: Chúng ta hãy xây một cái thành, và dựng một cái tháp cao đến tận trời, để gây lấy danh tiếng cho chúng ta, kẻo phải tản lạc khắp trên mặt đất."
+  },
+  {
+    "i": 271,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 5,
+    "t": "Đức Giê-hô-va bèn ngự xuống đặng xem cái thành và cái tháp mà con cái loài người đã xây."
+  },
+  {
+    "i": 272,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 6,
+    "t": "Đức Giê-hô-va phán rằng: Nầy, chúng nó hiệp lại thành một dân, đều có một thứ tiếng; và đó là điều chúng nó mới bắt đầu làm; bây giờ chắc chúng nó làm mọi việc đã định chẳng ai ngăn cản được."
+  },
+  {
+    "i": 273,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 7,
+    "t": "Vậy, ta hãy xuống, làm lộn xộn tiếng nói của chúng nó, hầu cho chúng nó không hiểu tiếng nhau."
+  },
+  {
+    "i": 274,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 8,
+    "t": "Đức Giê-hô-va từ đó làm cho chúng nó tản ra khắp trên mặt đất, và chúng nó thôi xây thành."
+  },
+  {
+    "i": 275,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 9,
+    "t": "Ấy vì cớ đó đặt tên thành ấy là Ba-bên, vì tại đó Đức Giê-hô-va làm lộn xộn tiếng nói của cả thế gian, và từ đó Ngài làm cho loài người tản ra khắp trên mặt đất."
+  },
+  {
+    "i": 276,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 10,
+    "t": "Đây là dòng dõi của Sem: Hai năm sau cơn nước lụt, khi Sem được một trăm tuổi, thì sanh A-bạt-xát."
+  },
+  {
+    "i": 277,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 11,
+    "t": "Sau khi sanh A-bạt-xát rồi, Sem còn sống năm trăm năm, sanh con trai và con gái."
+  },
+  {
+    "i": 278,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 12,
+    "t": "Khi A-bạt-xát được ba mươi lăm tuổi, thì sanh Sê-lách."
+  },
+  {
+    "i": 279,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 13,
+    "t": "Sau khi sanh Sê-lách rồi, A-bạt-xát còn sống bốn trăm ba năm, sanh con trai và con gái."
+  },
+  {
+    "i": 280,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 14,
+    "t": "Khi Sê-lách được ba mươi tuổi, thì sanh Ê-be."
+  },
+  {
+    "i": 281,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 15,
+    "t": "Sau khi sanh Ê-be rồi, Sê-lách còn sống bốn trăm ba năm, sanh con trai và con gái."
+  },
+  {
+    "i": 282,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 16,
+    "t": "Khi Ê-be được ba mươi bốn tuổi, thì sanh Phê-léc."
+  },
+  {
+    "i": 283,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 17,
+    "t": "Sau khi sanh Phê-léc rồi, Ê-be còn sống bốn trăm ba mươi năm, sanh con trai và con gái."
+  },
+  {
+    "i": 284,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 18,
+    "t": "Khi Phê-léc được ba mươi tuổi, thì sanh Rê-u."
+  },
+  {
+    "i": 285,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 19,
+    "t": "Sau khi sanh Rê-u rồi, Phê-léc còn sống hai trăm chín năm, sanh con trai và con gái."
+  },
+  {
+    "i": 286,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 20,
+    "t": "Khi Rê-u được ba mươi hai tuổi, thì sanh Sê-rúc."
+  },
+  {
+    "i": 287,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 21,
+    "t": "Sau khi sanh Sê-rúc rồi, Rê-u còn sống hai trăm bảy năm, sanh con trai và con gái."
+  },
+  {
+    "i": 288,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 22,
+    "t": "Khi Sê-rúc được ba mươi tuổi, thì sanh Na-ho."
+  },
+  {
+    "i": 289,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 23,
+    "t": "Sau khi sanh Na-ho rồi, Sê-rúc còn sống hai trăm năm, sanh con trai và con gái."
+  },
+  {
+    "i": 290,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 24,
+    "t": "Khi Na-ho được hai mươi chín tuổi, thì sanh Thê-ra."
+  },
+  {
+    "i": 291,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 25,
+    "t": "Sau khi sanh Thê-ra rồi, Na-ho còn sống một trăm mười chín năm, sanh con trai và con gái."
+  },
+  {
+    "i": 292,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 26,
+    "t": "Khi Thê-ra được bảy mươi tuổi, thì sanh Áp-ram, Na-ho, và Ha-ran."
+  },
+  {
+    "i": 293,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 27,
+    "t": "Đây là dòng dõi của Thê-ra: Thê-ra sanh Áp-ram, Na-ho, và Ha-ran. Ha-ran sanh Lót."
+  },
+  {
+    "i": 294,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 28,
+    "t": "Ha-ran chết trước mặt Thê-ra, là cha mình, tại quê hương mình, là U-rơ của người Canh-đê."
+  },
+  {
+    "i": 295,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 29,
+    "t": "Áp-ram và Na-ho cưới vợ; vợ của Áp-ram tên là Sa-rai, còn vợ của Na-ho tên là Minh-ca, con gái của Ha-ran, là cha Minh-ca và Gích-ca."
+  },
+  {
+    "i": 296,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 30,
+    "t": "Vả, Sa-rai son sẻ, không có con."
+  },
+  {
+    "i": 297,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 31,
+    "t": "Thê-ra đem Áp-ram là con mình, Lót là cháu mình, con của Ha-ran, và Sa-rai là dâu mình, vợ của Áp-ram, ra khỏi U-rơ của người Canh-đê, đặng đi đến xứ Ca-na-an; đến Ha-ran, thì ở lại đó."
+  },
+  {
+    "i": 298,
+    "b": 0,
+    "c": 111,
+    "r": 111,
+    "o": 32,
+    "t": "Thê-ra hưởng thọ hai trăm lẻ năm tuổi, rồi qua đời tại Ha-ran."
+  },
+  {
+    "i": 299,
+    "b": 0,
+    "c": 112,
+    "r": 112,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán cùng Áp-ram rằng: Ngươi hãy lìa khỏi xứ, vòng bà con, và nhà cha ngươi, mà đi đến xứ ta sẽ chỉ cho."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2400,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 19,
+    "t": "At si Aaron at ang kaniyang mga anak ay maghuhugas doon ng kanilang mga paa:"
+  },
+  {
+    "i": 2401,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 20,
+    "t": "Pagka sila'y pumapasok sa tabernakulo ng kapisanan, ay maghuhugas sila ng tubig, upang sila'y huwag mamatay, o pagka sila'y lumalapit sa dambana na mangasiwa, upang magsunog ng handog na pinaraan sa apoy sa Panginoon."
+  },
+  {
+    "i": 2402,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 21,
+    "t": "Gayon sila maghuhugas ng kanilang mga kamay at ng kanilang mga paa upang huwag silang mamatay: at magiging isang palatuntunan magpakailan man sa kanila, sa kaniya at sa kaniyang binhi, sa buong panahon ng kanilang mga lahi."
+  },
+  {
+    "i": 2403,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 22,
+    "t": "Bukod dito'y nagsalita ang Panginoon kay Moises, na sinasabi,"
+  },
+  {
+    "i": 2404,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 23,
+    "t": "Magdala ka rin ng mga pinakamagaling na espesia, ng taganas na mira ay limang daang siklo, at ng mabangong kanela ay kalahati nito, dalawang daan at limang pu; at ng mabangong kalamo ay dalawang daan at limang pu,"
+  },
+  {
+    "i": 2405,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 24,
+    "t": "At ng kasia, limang daan, ayon sa siklo ng santuario, at ng langis ng oliva ay isang hin:"
+  },
+  {
+    "i": 2406,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 25,
+    "t": "At iyong gagawing banal na langis na pangpahid, isang pabangong kinatha ng ayon sa katha ng manggagawa ng pabango: siya ngang magiging banal na langis na pangpahid."
+  },
+  {
+    "i": 2407,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 26,
+    "t": "At iyong papahiran niyaon ang tabernakulo ng kapisanan, at ang kaban ng patotoo,"
+  },
+  {
+    "i": 2408,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 27,
+    "t": "At ang dulang, at ang lahat ng mga kasangkapan niyaon, at ang kandelero at ang mga kasangkapan niyaon, at ang dambanang suuban."
+  },
+  {
+    "i": 2409,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 28,
+    "t": "At ang dambana ng handog na susunugin sangpu ng lahat ng mga kasangkapan, at ang hugasan at ang tungtungan."
+  },
+  {
+    "i": 2410,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 29,
+    "t": "At pakabanalin mo upang maging mga kabanalbanalan: lahat ng makahipo sa mga yao'y magiging banal."
+  },
+  {
+    "i": 2411,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 30,
+    "t": "At iyong papahiran ng langis si Aaron at ang kaniyang mga anak, at iyong papagbabanalin sila, upang sila'y mangasiwa sa akin sa katungkulang saserdote."
+  },
+  {
+    "i": 2412,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 31,
+    "t": "At iyong sasalitain sa mga anak ni Israel, na iyong sasabihin, Ito'y magiging banal na langis na pangpahid sa akin sa buong panahon ng iyong mga lahi."
+  },
+  {
+    "i": 2413,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 32,
+    "t": "Sa laman ng tao ay huwag ninyong ibubuhos, ni huwag kayong gagawa ng gaya niyan sa pagkakatha: banal nga at aariin ninyong banal."
+  },
+  {
+    "i": 2414,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 33,
+    "t": "Sinomang kumatha ng gaya niyan, o sinomang gumamit niyan sa isang taga ibang lupa, ay ihihiwalay sa kaniyang bayan."
+  },
+  {
+    "i": 2415,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 34,
+    "t": "At sinabi ng Panginoon kay Moises, Magdala ka ng mababangong espesia, estacte, at onycha, at galbano; mabangong espesia na may taganas na kamangyan: na magkakaisa ng timbang;"
+  },
+  {
+    "i": 2416,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 35,
+    "t": "At iyong gagawing kamangyan, na isang pabangong ayon sa katha ng manggagawa ng pabango, na tinimplahan ng asin, na pulos at banal;"
+  },
+  {
+    "i": 2417,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 36,
+    "t": "At iyong didikdikin ang iba niyan ng durog na durog at ilalagay mo sa harap ng kaban ng patotoo, sa loob ng tabernakulo ng kapisanan na aking pakikipagtagpuan sa iyo: aariin ninyong kabanalbanalan."
+  },
+  {
+    "i": 2418,
+    "b": 1,
+    "c": 230,
+    "r": 230,
+    "o": 37,
+    "t": "At ang kamangyan na inyong gagawin, ayon sa pagkakatha niyan ay huwag ninyong gagawin para sa inyo: aariin mong banal sa Panginoon."
+  },
+  {
+    "i": 2419,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 1,
+    "t": "At ang Panginoon ay nagsalita kay Moises, na sinasabi,"
+  },
+  {
+    "i": 2420,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 2,
+    "t": "Tingnan mo aking tinawag sa pangalan si Bezaleel na anak ni Uri, na anak ni Hur, sa lipi ni Juda:"
+  },
+  {
+    "i": 2421,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 3,
+    "t": "At aking pinuspos siya ng Espiritu ng Dios, sa karunungan at pagkakilala, at kaalaman, at sa lahat ng sarisaring gawain,"
+  },
+  {
+    "i": 2422,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 4,
+    "t": "Upang kumatha ng mga gawang kaayaaya, upang gumawa sa ginto, at sa pilak, at sa tanso,"
+  },
+  {
+    "i": 2423,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 5,
+    "t": "At upang umukit ng mga batong pangkalupkop, upang gumawa ng mga nililok na kahoy, at upang gumawa sa lahat na sarisaring gawain."
+  },
+  {
+    "i": 2424,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 6,
+    "t": "At ako, narito, aking inihalal na kasama niya si Aholiab, na anak ni Ahisamac sa lipi ni Dan; at sa puso ng lahat na maalam na puso, ay aking isinilid ang karunungan, upang magawa nila ang lahat ng aking iniutos sa iyo:"
+  },
+  {
+    "i": 2425,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 7,
+    "t": "Ang tabernakulo ng kapisanan at ang kaban ng patotoo, at ang luklukan ng awa na nasa ibabaw niyaon, at ang lahat ng kasangkapan ng Tolda:"
+  },
+  {
+    "i": 2426,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 8,
+    "t": "At ang dulang at ang mga sisidlan niyaon at ang kandelerong dalisay, sangpu ng lahat na mga sisidlan; at ang dambana ng kamangyan;"
+  },
+  {
+    "i": 2427,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 9,
+    "t": "At ang dambana ng handog na susunugin sangpu ng lahat ng mga sisidlan niyaon, at ang hugasan at ang tungtungan niyaon;"
+  },
+  {
+    "i": 2428,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 10,
+    "t": "At ang mga kasuutang mabuting yari, at ang mga banal na kasuutan na pangsuot kay Aarong saserdote, at ang mga kasuutan sa kaniyang mga anak, upang mangasiwa sa katungkulang saserdote;"
+  },
+  {
+    "i": 2429,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 11,
+    "t": "At ang langis na pangpahid, at ang kamangyan na mabangong mga kamangyan na itataan sa dakong banal: ayon sa lahat na iniutos ko sa iyo ay kanilang gagawin."
+  },
+  {
+    "i": 2430,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 12,
+    "t": "At ang Panginoo'y nagsalita kay Moises, na sinasabi,"
+  },
+  {
+    "i": 2431,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 13,
+    "t": "Salitain mo rin sa mga anak ni Israel, na iyong sabihin, Katotohanang ipangingilin ninyo ang aking mga sabbath; sapagka't isang tanda sa akin at sa inyo sa buong panahon ng inyong mga lahi, upang inyong makilala na ako ang Panginoon na nagpapabanal sa inyo."
+  },
+  {
+    "i": 2432,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 14,
+    "t": "Inyong ipangingilin ang sabbath nga; sapagka't yao'y pangilin sa inyo: bawa't lumapastangan ay walang pagsalang papatayin: sapagka't sinomang gumawa ng anomang gawa sa araw na yaon, ay ihihiwalay ang taong yaon sa kaniyang bayan."
+  },
+  {
+    "i": 2433,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 15,
+    "t": "Anim na araw na gagawin ang gawain; datapuwa't ang ikapitong araw ay sabbath na takdang kapahingahan, pangilin sa Panginoon: sinomang gumawa ng anomang gawa sa araw ng sabbath, ay walang pagsalang papatayin."
+  },
+  {
+    "i": 2434,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 16,
+    "t": "Kaya't ang mga anak ni Israel ay mangingilin ng sabbath, na tutuparin ang sabbath sa buong panahon ng kanilang mga lahi, na pinakapalaging tipan."
+  },
+  {
+    "i": 2435,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 17,
+    "t": "Ito'y isang tanda sa akin at sa mga anak ni Israel magpakailan man: sapagka't sa anim na araw ay ginawa ng Panginoon ang langit at lupa, at sa ikapitong araw, ay nagpahinga at naginhawahan."
+  },
+  {
+    "i": 2436,
+    "b": 1,
+    "c": 231,
+    "r": 231,
+    "o": 18,
+    "t": "At kaniyang ibinigay kay Moises, pagkatapos na makipagsalitaan sa kaniya sa ibabaw ng bundok ng Sinai, ang dalawang tapyas ng patotoo, na mga tapyas na bato, na sinulatan ng daliri ng Dios."
+  },
+  {
+    "i": 2437,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 1,
+    "t": "At nang makita ng bayan na nagluluwat si Moises ng pagpanaog sa bundok, ay nagpipisan ang bayan kay Aaron, at nagsabi sa kaniya, Tumindig ka at igawa mo kami ng mga dios na mangunguna sa amin; sapagka't tungkol sa Moises na ito, na lalaking nagsampa sa amin mula sa lupain ng Egipto, ay hindi namin maalaman kung anong nangyari sa kaniya."
+  },
+  {
+    "i": 2438,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 2,
+    "t": "At sinabi ni Aaron sa kanila, Alisin ninyo ang mga hikaw na ginto, na nasa tainga ng inyo-inyong asawa, ng inyong mga anak na lalake, at babae, at dalhin ninyo sa akin."
+  },
+  {
+    "i": 2439,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 3,
+    "t": "At inalis ng buong bayan ang mga hikaw na ginto na nangasa kanilang mga tainga, at dinala kay Aaron."
+  },
+  {
+    "i": 2440,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 4,
+    "t": "At kaniyang tinanggap sa kanilang kamay, at niyari sa pamamagitan ng isang buril, at ginawang isang guyang binubo, at kanilang sinabi, Ang mga ito ang maging iyong mga dios, Oh Israel, na nagsampa sa iyo mula sa lupain ng Egipto."
+  },
+  {
+    "i": 2441,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 5,
+    "t": "At nang makita ito ni Aaron, ay nagtayo siya ng isang dambana sa harapan niyaon: at itinanyag ni Aaron at sinabi, Bukas ay pista sa Panginoon."
+  },
+  {
+    "i": 2442,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 6,
+    "t": "At sila'y bumangong maaga nang kinabukasan, at naghandog ng mga handog na susunugin, at nagdala ng mga handog tungkol sa kapayapaan; at ang bayan ay umupong kumain at uminom, at tumindig upang magkatuwa."
+  },
+  {
+    "i": 2443,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 7,
+    "t": "At sinalita ng Panginoon kay Moises, Yumaon ka, bumaba ka, sapagka't ang iyong bayan, na iyong isinampa mula sa lupain ng Egipto ay nangagsisama:"
+  },
+  {
+    "i": 2444,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 8,
+    "t": "Sila'y humiwalay na madali sa daan na aking iniutos sa kanila: sila'y gumawa ng isang guyang binubo, at kanilang sinamba, at kanilang hinainan, at kanilang sinabi, Ang mga ito'y iyong maging mga dios, Oh Israel, na nagsampa sa iyo mula sa lupain ng Egipto."
+  },
+  {
+    "i": 2445,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 9,
+    "t": "At sinabi ng Panginoon kay Moises, Aking nakita ang bayang ito, at, narito, isang bayang may matigas na ulo;"
+  },
+  {
+    "i": 2446,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 10,
+    "t": "Ngayo'y bayaan mo nga ako upang ang aking pagiinit ay magalab laban sa kanila, at upang aking lipulin sila: at ikaw ay aking gagawing dakilang bansa."
+  },
+  {
+    "i": 2447,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 11,
+    "t": "At dumalangin si Moises sa Panginoon niyang Dios, at sinabi, Panginoon, bakit ang iyong pagiinit ay pinapagaalab mo laban sa iyong bayan, na iyong inilabas sa lupain ng Egipto sa pamamagitan ng dakilang kapangyarihan at ng makapangyarihang kamay?"
+  },
+  {
+    "i": 2448,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 12,
+    "t": "Bakit sasalitain ng mga Egipcio, na sasabihin, Dahil sa kasamaan, inilabas sila upang patayin sila sa mga bundok, at upang lipulin sila sa balat ng lupa? Iurong mo ang iyong mabangis na pagiinit, at pagsisihan mo ang kasamaang ito laban sa iyong bayan."
+  },
+  {
+    "i": 2449,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 13,
+    "t": "Alalahanin mo si Abraham, si Isaac, at si Israel na iyong mga lingkod, na silang iyong mga sinumpaan sa iyong sarili, at mga pinagsabihan, Aking pararamihin ang inyong binhi na gaya ng mga bituin sa langit, at lahat ng lupaing ito na aking sinalita ay aking ibibigay sa inyong binhi, at kanilang mamanahin magpakailan man."
+  },
+  {
+    "i": 2450,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 14,
+    "t": "At pinagsisihan ng Panginoon ang kasamaan na kaniyang sinabing kaniyang gagawin sa kaniyang bayan."
+  },
+  {
+    "i": 2451,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 15,
+    "t": "At si Moises ay pumihit, at bumaba sa bundok, na dala ang dalawang tapyas ng patotoo sa kaniyang kamay; mga tapyas na may sulat sa dalawang mukha niyaon; sa isang mukha at sa kabilang mukha ay may sulat."
+  },
+  {
+    "i": 2452,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 16,
+    "t": "At ang mga tapyas ay gawa ng Dios, at ang sulat ay sulat ng Dios, na nakaukit sa mga tapyas."
+  },
+  {
+    "i": 2453,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 17,
+    "t": "At ng marinig ni Josue ang ingay ng bayan na humihiyaw, ay sinabi kay Moises, May ingay ng pagbabaka sa kampamento."
+  },
+  {
+    "i": 2454,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 18,
+    "t": "At kaniyang sinabi, Hindi ingay ng pagtatagumpay, o ingay man ng pagkatalo, kundi ingay ng mga umaawit ang aking naririnig."
+  },
+  {
+    "i": 2455,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 19,
+    "t": "At nangyari paglapit niya sa kampamento, na kaniyang nakita ang guya at ang sayawan; at ang galit ni Moises ay naginit at kaniyang inihagis ang mga tapyas na nasa kaniyang mga kamay at nangasira sa paanan ng bundok."
+  },
+  {
+    "i": 2456,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 20,
+    "t": "At kaniyang kinuha ang guya na kanilang ginawa, at sinunog ng apoy, at giniling hanggang sa naging alabok, at isinaboy sa ibabaw ng tubig, at ipinainom sa mga anak ni Israel."
+  },
+  {
+    "i": 2457,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 21,
+    "t": "At sinabi ni Moises kay Aaron, Anong ginawa ng bayang ito sa iyo, na dinalhan mo sila ng isang malaking sala?"
+  },
+  {
+    "i": 2458,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 22,
+    "t": "At sinabi ni Aaron, Huwag maginit ang galit ng aking panginoon: iyong kilala ang bayan, na sila'y mahilig sa kasamaan."
+  },
+  {
+    "i": 2459,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 23,
+    "t": "Sapagka't kanilang sinabi sa akin, Igawa mo kami ng mga dios na mangunguna sa amin: sapagka't tungkol sa Moises na ito, na lalaking nagsampa sa amin mula sa lupain ng Egipto ay hindi namin maalaman kung anong nangyari sa kaniya."
+  },
+  {
+    "i": 2460,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 24,
+    "t": "At aking sinabi sa kanila, Sinomang may ginto, ay magalis; na anopa't kanilang ibinigay sa akin: at aking inihagis sa apoy at lumabas ang guyang ito."
+  },
+  {
+    "i": 2461,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 25,
+    "t": "At nang makita ni Moises na ang bayan ay nakakawala; sapagka't pinabayaan ni Aarong makawala ng maging isang kabiruan sa gitna ng kanilang mga kaaway:"
+  },
+  {
+    "i": 2462,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 26,
+    "t": "Ay tumayo nga si Moises sa pintuang-daan ng kampamento, at nagsabi, Sinomang sa Panginoon ang kiling ay lumapit sa akin. At lahat ng mga anak ni Levi ay nagpipisan sa kaniya."
+  },
+  {
+    "i": 2463,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 27,
+    "t": "At sinabi niya sa kanila, Ganito ang sabi ng Panginoon, ng Dios ng Israel: Ipatong ng bawa't lalake ang kaniyang tabak sa kaniyang hita, at yumaon kayong paroo't parito sa mga pintuang-daan, sa buong kampamento, at patayin ng bawa't lalake ang kaniyang kapatid na lalake, at ng bawa't lalake ang kaniyang kasama, at ng bawa't lalake ang kaniyang kapuwa."
+  },
+  {
+    "i": 2464,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 28,
+    "t": "At ginawa ng mga anak ni Levi ang ayon sa salita ni Moises: at nabuwal sa bayan ng araw na yaon, ang may tatlong libong katao."
+  },
+  {
+    "i": 2465,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 29,
+    "t": "At sinabi ni Moises, Italaga ninyo ang inyong sarili ngayon sa Panginoon, oo, bawa't lalake laban sa kaniyang anak na lalake, at laban sa kaniyang kapatid na lalake, upang kaniyang ipagkaloob sa inyo ang pagpapala sa araw na ito."
+  },
+  {
+    "i": 2466,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 30,
+    "t": "At nangyari ng kinabukasan, na sinabi ni Moises sa bayan, Kayo'y nagkasala ng malaking kasalanan: at ngayo'y sasampahin ko ang Panginoon; marahil ay aking matutubos ang inyong kasalanan."
+  },
+  {
+    "i": 2467,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 31,
+    "t": "At bumalik si Moises sa Panginoon, at nagsabi, Oh, ang bayang ito'y nagkasala ng malaking kasalanan, at gumawa sila ng mga dios na ginto."
+  },
+  {
+    "i": 2468,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 32,
+    "t": "Gayon ma'y ngayon, kung iyong ipatatawad ang kanilang kasalanan; at kung hindi, ay alisin mo ako, isinasamo ko sa iyo, sa iyong aklat na sinulat mo."
+  },
+  {
+    "i": 2469,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 33,
+    "t": "At sinabi ng Panginoon kay Moises, Ang magkasala laban sa akin ay siya kong aalisin sa aking aklat."
+  },
+  {
+    "i": 2470,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 34,
+    "t": "At ngayo'y yumaon ka, iyong patnubayan ang bayan sa dakong aking sinalita sa iyo: narito, ang aking anghel ay magpapauna sa iyo: gayon ma'y sa araw na aking dalawin sila ay aking dadalawin ang kanilang kasalanang ipinagkasala nila."
+  },
+  {
+    "i": 2471,
+    "b": 1,
+    "c": 232,
+    "r": 232,
+    "o": 35,
+    "t": "At sinaktan nga ng Panginoon ang bayan, sapagka't kanilang ginawa ang guya na ginawa ni Aaron."
+  },
+  {
+    "i": 2472,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 1,
+    "t": "At sinalita ng Panginoon kay Moises, Yumaon ka, sumampa ka mula rito, ikaw at ang bayan na iyong isinampa mula sa lupain ng Egipto, na patungo kayo sa lupain na aking isinumpa kay Abraham, kay Isaac, at kay Jacob, na aking sinasabi, Sa iyong binhi ay aking ibibigay."
+  },
+  {
+    "i": 2473,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 2,
+    "t": "At aking susuguin ang isang anghel sa unahan mo: at aking palalayasin ang Cananeo, ang Amorrheo, at ang Hetheo, at ang Pherezeo, ang Heveo, at ang Jebuseo:"
+  },
+  {
+    "i": 2474,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 3,
+    "t": "Sa isang lupaing binubukalan ng gatas at pulot: sapagka't hindi ako sasampa sa gitna mo; sapagka't ikaw ay bayang may matigas na ulo; baka ikaw ay aking lipulin sa daan."
+  },
+  {
+    "i": 2475,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 4,
+    "t": "At nang marinig ng bayan ang masasamang balitang ito, ay nanangis sila: at walang taong nagsuot ng kaniyang mga pahiyas."
+  },
+  {
+    "i": 2476,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 5,
+    "t": "At sinabi ng Panginoon kay Moises, Sabihin mo sa mga anak ni Israel, Kayo'y isang bayang may matigas na ulo: kung ako'y sumampa sa gitna mo na sangdali, ay lilipulin kita: kaya't ngayo'y alisin mo ang iyong mga pahiyas sa iyo upang aking maalaman kung anong aking gagawin sa iyo."
+  },
+  {
+    "i": 2477,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 6,
+    "t": "At ang mga anak ni Israel ay naghubad ng kanilang mga pahiyas mula sa bundok ng Horeb."
+  },
+  {
+    "i": 2478,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 7,
+    "t": "Kinaugalian nga ni Moises na dalhin ang tolda at itayo sa labas ng kampamento, na malayo sa kampamento at kaniyang tinawag iyon, Tabernakulo ng kapisanan. At nangyari na bawa't magsiyasat sa Panginoon ay lumalabas na pumaparoon sa tabernakulo ng kapisanan, na nasa labas ng kampamento."
+  },
+  {
+    "i": 2479,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 8,
+    "t": "At nangyari, pagka si Moises ay lumalabas na napasa sa Tolda, na ang buong bayan ay bumabangon at tumatayo, bawa't lalake sa pintuan ng kaniyang tolda at pinanonood si Moises hanggang sa makapasok sa Tolda."
+  },
+  {
+    "i": 2480,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 9,
+    "t": "At nangyari, pagka si Moises ay pumapasok sa Tolda ay bumababa ang haliging ulap at tumitigil sa pintuan ng Tolda ang Panginoon ay nakikipagsalitaan kay Moises."
+  },
+  {
+    "i": 2481,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 10,
+    "t": "At nakikita ng buong bayan ang haliging ulap at tumitigil sa pintuan ng Tolda; at ang buong bayan ay tumitindig at sumasamba, na bawa't isa'y sa tabi ng pintuan ng kaniyang tolda."
+  },
+  {
+    "i": 2482,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 11,
+    "t": "At nakikipagsalitaan ang Panginoon kay Moises ng mukhaan, gaya ng isang taong nakikipagsalitaan sa kaniyang kaibigan. At siya'y bumabalik uli sa kampamento, datapuwa't ang kaniyang tagapangasiwang si Josue, na anak ni Nun, na may kabataan pa, ay hindi umaalis sa Tolda."
+  },
+  {
+    "i": 2483,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 12,
+    "t": "At sinabi ni Moises sa Panginoon, Tingnan mo, iyong sinasabi sa akin: Isampa mo ang bayang ito: at hindi mo ipinakilala sa akin kung sino yaong susuguin mo na kasama ko. Gayon ma'y iyong sinabi, Aking nakikilala ka sa pangalan, at ikaw rin naman ay nakasumpong ng biyaya sa aking paningin."
+  },
+  {
+    "i": 2484,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 13,
+    "t": "Ngayon nga, isinasamo ko sa iyo, na kung ako'y nakasumpong ng biyaya sa iyong paningin, ay ituro mo sa akin ngayon ang iyong mga daan, upang ikaw ay aking makilala, na ano pa't ako'y makasumpong ng biyaya sa iyong paningin: at akalain mo, na ang bansang ito ay iyong bayan."
+  },
+  {
+    "i": 2485,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 14,
+    "t": "At kaniyang sinabi, Ako'y sasa iyo, at ikaw ay aking bibigyan ng kapahingahan."
+  },
+  {
+    "i": 2486,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 15,
+    "t": "At sinabi niya sa kaniya, Kung ikaw ay hindi sasa akin ay huwag mo na kaming pasampahin mula rito."
+  },
+  {
+    "i": 2487,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 16,
+    "t": "Sapagka't saan ngayon makikilala na ako'y nakasumpong ng biyaya sa iyong paningin, ako at ang iyong bayan? hindi ba dahil sa ikaw ay lumalakad na kasama namin, upang kami ay maging bukod, ako at ang iyong bayan, sa lahat ng bayan na nasa balat ng lupa?"
+  },
+  {
+    "i": 2488,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 17,
+    "t": "At sinabi ng Panginoon kay Moises, Akin ding gagawin ang bagay na ito na iyong sinalita: sapagka't ikaw ay nakasumpong ng biyaya sa aking paningin, at ikaw ay aking nakikilala sa pangalan."
+  },
+  {
+    "i": 2489,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 18,
+    "t": "At sinabi ni Moises, Ipakita mo sa akin, idinadalangin ko sa iyo, ang iyong kaluwalhatian."
+  },
+  {
+    "i": 2490,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 19,
+    "t": "At kaniyang sinabi, Aking papangyayarihin ang aking buong kabutihan sa harap mo, at aking itatanyag ang pangalan ng Panginoon sa harap mo; at ako'y magkakaloob ng biyaya sa kanino mang aking ibig pagkalooban, at ako'y magmamaawain sa kanino mang aking ibig kaawaan."
+  },
+  {
+    "i": 2491,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 20,
+    "t": "At kaniyang sinabi, Hindi mo makikita ang aking mukha: sapagka't hindi maaaring makita ako ng tao at mabuhay."
+  },
+  {
+    "i": 2492,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 21,
+    "t": "At sinabi ng Panginoon, Narito, may isang dako sa tabi ko, at ikaw ay tatayo sa ibabaw ng batong iyan:"
+  },
+  {
+    "i": 2493,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 22,
+    "t": "At mangyayari, na samantalang ang aking kaluwalhatian ay dumadaan, na aking ilalagay ka sa isang bitak ng bato, at tatakpan kita ng aking kamay hanggang sa ako'y makaraan:"
+  },
+  {
+    "i": 2494,
+    "b": 1,
+    "c": 233,
+    "r": 233,
+    "o": 23,
+    "t": "At aking aalisin ang aking kamay, at iyong makikita ang aking likod: datapuwa't ang aking mukha ay hindi makikita."
+  },
+  {
+    "i": 2495,
+    "b": 1,
+    "c": 234,
+    "r": 234,
+    "o": 1,
+    "t": "At sinabi ng Panginoon kay Moises, Humugis ka ng dalawang tapyas na bato na gaya ng una: at aking isusulat sa mga tapyas ang mga salita na nasa unang mga tapyas, na iyong sinira."
+  },
+  {
+    "i": 2496,
+    "b": 1,
+    "c": 234,
+    "r": 234,
+    "o": 2,
+    "t": "At iyong ihanda sa kinaumagahan, at sumampa ka sa kinaumagahan sa bundok ng Sinai at humarap ka roon sa akin sa taluktok ng bundok."
+  },
+  {
+    "i": 2497,
+    "b": 1,
+    "c": 234,
+    "r": 234,
+    "o": 3,
+    "t": "At sinomang tao ay huwag sasampang kasama mo, o makikita ang sinomang tao sa buong bundok; kahit ang mga kawan at ang mga bakahan ay huwag manginain sa harap ng bundok na yaon."
+  },
+  {
+    "i": 2498,
+    "b": 1,
+    "c": 234,
+    "r": 234,
+    "o": 4,
+    "t": "At siya'y humugis ng dalawang tapyas na bato na gaya ng una; at bumangon si Moises na maaga sa kinaumagahan, at sumampa sa bundok ng Sinai, gaya ng iniutos ng Panginoon sa kaniya, at kinuha sa kaniyang kamay ang dalawang tapyas na bato."
+  },
+  {
+    "i": 2499,
+    "b": 1,
+    "c": 234,
+    "r": 234,
+    "o": 5,
+    "t": "At ang Panginoon ay bumaba sa ulap, at tumayong kasama niya roon at itinanyag ang pangalan ng Panginoon."
+  }
+]

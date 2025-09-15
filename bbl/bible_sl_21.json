@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2100,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 24,
+    "t": "Oko za oko, zob za zob, noga za nogo,"
+  },
+  {
+    "i": 2101,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 25,
+    "t": "opeklina za opeklinino, modrica za modrico, rana za rano."
+  },
+  {
+    "i": 2102,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 26,
+    "t": "Če kdo udari oko svojemu hlapcu ali oko svoji dekli in ga poškoduje, naj ga izpusti na svobodo zaradi njegovega očesa."
+  },
+  {
+    "i": 2103,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 27,
+    "t": "In če izbije zob svojemu hlapcu ali zob svoji dekli, naj ga izpusti na svobodo zaradi njegovega zoba."
+  },
+  {
+    "i": 2104,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 28,
+    "t": "Če vol zbode človeka ali ženo in umreta, naj se vol posuje s kamenjem in njegovega mesa se ne jé, gospodar vola pa je prost."
+  },
+  {
+    "i": 2105,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 29,
+    "t": "Če pa je vol že poprej zbodal in je bil njegov gospodar opozorjen, pa ga ni pazil, in je ubil človeka ali ženo, naj se vol posuje s kamenjem in tudi njegov gospodar naj umre."
+  },
+  {
+    "i": 2106,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 30,
+    "t": "Če se mu naloži odkupnina, naj da za odkup svojega življenja vse, kar mu je naloženo."
+  },
+  {
+    "i": 2107,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 31,
+    "t": "Če zbode sina ali hčer, naj se ravna z njim po tej postavi."
+  },
+  {
+    "i": 2108,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 32,
+    "t": "Če vol zbode hlapca ali dekle, naj da njegov gospodar gospodarju trideset srebrnikov, vol pa naj se posuje s kamenjem."
+  },
+  {
+    "i": 2109,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 33,
+    "t": "Če kdo odpre jamo ali če kdo izkoplje jamo in je ne pokrije, pa vanjo pade vol ali osel,"
+  },
+  {
+    "i": 2110,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 34,
+    "t": "naj lastnik jame povrne škodo in da njegovemu lastniku denar, poginula žival pa naj bo njegova."
+  },
+  {
+    "i": 2111,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 35,
+    "t": "Če vol komu zbode vola, da umre, naj prodajo živega vola in si razdelijo njegovo kupnino, pa tudi poginulo žival si naj razdelita."
+  },
+  {
+    "i": 2112,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 36,
+    "t": "Če pa je znano, da je vol že poprej zbodal, pa ga njegov gospodar ni pazil, naj da živega vola za vola, ki je poginil, poginula žival pa naj bo njegova."
+  },
+  {
+    "i": 2113,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 37,
+    "t": "Če kdo ukrade vola ali ovco in jo zakolje ali proda, naj povrne pet volov za vola in štiri ovce za ovco."
+  },
+  {
+    "i": 2114,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 1,
+    "t": "Če se tat ujame pri vlomu in ga kdo ubije, ni kriv za prelivanje krvi."
+  },
+  {
+    "i": 2115,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 2,
+    "t": "Če pa je sonce že vzšlo, je kriv za prelivanje krvi. Povrniti mora; če nima s čim, naj se ga proda za to, kar je ukradel."
+  },
+  {
+    "i": 2116,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 3,
+    "t": "Če se najde ukradeno, naj bo vol ali osel ali ovca, živ pri njem, naj povrne dvojno."
+  },
+  {
+    "i": 2117,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 4,
+    "t": "Če kdo pase na polju ali vinogradu in spusti živino, da pase na polju drugega, naj povrne najboljše s svojega polja in najboljše s svojega vinograda; če pa popase celo polje, naj povrne najboljše s polja in najboljše z vinograda."
+  },
+  {
+    "i": 2118,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 5,
+    "t": "Če se razplamti ogenj in se dotakne trnja, da se požge žito v snopih ali na polju, naj povrne tisti, ki je ogenj razplamtel."
+  },
+  {
+    "i": 2119,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 6,
+    "t": "Če kdo da drugemu denar ali posodo v varstvo in se ukrade iz hiše tistega, naj, če se tat odkrije, povrne dvojno."
+  },
+  {
+    "i": 2120,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 7,
+    "t": "Če se tatu ne odkrije, naj stopi gospodar hiše pred Boga in prisegne, da ni stegnil roke po imetju drugega."
+  },
+  {
+    "i": 2121,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 8,
+    "t": "V vsaki sporni zadevi, glede vola, osla, ovce, obleke ali katerekoli druge stvari, za katero kdo pravi: »To je moje,« naj pride pravda pred Boga; kdor bo spoznan za krivega, naj drugemu povrne dvojno."
+  },
+  {
+    "i": 2122,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 9,
+    "t": "Če kdo da drugemu v varstvo osla, vola, ovco ali kakršnokoli živino in pogine ali se poškoduje ali se ukrade, pa ni nikogar, ki bi videl,"
+  },
+  {
+    "i": 2123,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 10,
+    "t": "naj prisega pred Gospodom razsodi med njima, ali ni stegnil roke po imetju drugega; njegov lastnik naj to sprejme, on pa naj mu ne bo treba povrniti."
+  },
+  {
+    "i": 2124,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 11,
+    "t": "Če pa se ukrade od njega, naj povrne njegovemu lastniku."
+  },
+  {
+    "i": 2125,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 12,
+    "t": "Če jo raztrga zver, naj prinese kot dokaz raztrganino in mu ne bo treba povrniti."
+  },
+  {
+    "i": 2126,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 13,
+    "t": "Če kdo izposodi od drugega živino in se poškoduje ali pogine, ko lastnika ni zraven, jo mora povrniti."
+  },
+  {
+    "i": 2127,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 14,
+    "t": "Če pa je lastnik zraven, je ne bo treba povrniti. Če jo je najel, pride v ceno najemnina."
+  },
+  {
+    "i": 2128,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 15,
+    "t": "Če kdo zapelje neizprosno dekle, ki še ni zaročena, in leži z njo, jo mora vzeti za ženo in plačati ženina."
+  },
+  {
+    "i": 2129,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 16,
+    "t": "Če pa jo njen oče noče dati, naj plača denar toliko, kolikor velja ženina za device."
+  },
+  {
+    "i": 2130,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 17,
+    "t": "Čarovnice ne puščaj živeti."
+  },
+  {
+    "i": 2131,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 18,
+    "t": "Kdor leži z živino, naj bo usmrčen."
+  },
+  {
+    "i": 2132,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 19,
+    "t": "Kdor daruje drugim bogovom, naj bo uničen."
+  },
+  {
+    "i": 2133,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 20,
+    "t": "Ne zatiraj tujca in ne stiskaj ga, saj ste bili tudi vi tujci v egiptovski deželi."
+  },
+  {
+    "i": 2134,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 21,
+    "t": "Vdove in sirote ne stiskajte."
+  },
+  {
+    "i": 2135,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 22,
+    "t": "Če jo kako stiskaš in ona vpije k meni, bom vsekakor poslušal njeno vpitje,"
+  },
+  {
+    "i": 2136,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 23,
+    "t": "se bo moja jeza razvnela in vas bom ubil z mečem, vaše žene bodo vdove in vaši otroci sirote."
+  },
+  {
+    "i": 2137,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 24,
+    "t": "Če posodiš denar kateri izmed mojih oseb, ki so revne in so pri tebi, ne obnašaj se do nje kot oderuh; ne nalagaj mu obresti."
+  },
+  {
+    "i": 2138,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 25,
+    "t": "Če vzameš sosedu plašč v zastavo, mu ga moraš vrniti, preden sonce zaide,"
+  },
+  {
+    "i": 2139,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 26,
+    "t": "kajti to je njegovo edino pokrivalo, plašč za njegovo kožo; v čem naj spi? Če bo vpil k meni, ga bom poslušal, kajti milostljiv sem."
+  },
+  {
+    "i": 2140,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 27,
+    "t": "Ne preklinjaj Boga in ne preklinjaj vladarja svojega ljudstva."
+  },
+  {
+    "i": 2141,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 28,
+    "t": "Prvine svojih žetev in svojega mošta ne odlašaj prinesti. Prvorojenca svojih sinov mi daj."
+  },
+  {
+    "i": 2142,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 29,
+    "t": "Enako delaj s svojim govedom in drobnico; sedem dni naj bo pri materi, osmi dan mi ga daj."
+  },
+  {
+    "i": 2143,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 30,
+    "t": "Bodite mi sveti ljudje; mesa, ki ga je na polju raztrgala zver, ne jejte, ampak ga vrzite psom."
+  },
+  {
+    "i": 2144,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 1,
+    "t": "Ne prenašaj lažnivih novic. Ne združuj se s krivičnikom in ne bodi lažniva priča."
+  },
+  {
+    "i": 2145,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 2,
+    "t": "Ne hodi z množico, da bi delal hudo, in v pravdi ne pričaj, da bi se nagnil k množici in krivil pravico,"
+  },
+  {
+    "i": 2146,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 3,
+    "t": "ne priznavaj revnemu v njegovi pravdi."
+  },
+  {
+    "i": 2147,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 4,
+    "t": "Če naletiš na sovražnikovega vola ali osla, ki blodi naokoli, mu ga moraš pripeljati nazaj."
+  },
+  {
+    "i": 2148,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 5,
+    "t": "Če vidiš, da je pod tovorom obležal osel tistega, ki te sovraži, se ne umakni, temveč mu ga moraš pomagati dvigniti."
+  },
+  {
+    "i": 2149,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 6,
+    "t": "Ne prikrivaj pravice svojemu revnemu v njegovi pravdi."
+  },
+  {
+    "i": 2150,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 7,
+    "t": "Ogiblji se lažnive zadeve. Ne dajati umreti nedolžnemu in pravičnemu, in ne opravičuj krivičnega."
+  },
+  {
+    "i": 2151,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 8,
+    "t": "Ne sprejemaj podkupnine, kajti podkupnina oslepi bistre in uniči pravdo pravičnih."
+  },
+  {
+    "i": 2152,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 9,
+    "t": "Ne stiskaj tujca, saj veste, kako je tujcu, ker ste bili tudi vi tujci v egiptovski deželi."
+  },
+  {
+    "i": 2153,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 10,
+    "t": "Šest let obdeluj zemljo in spravljaj njene pridelke,"
+  },
+  {
+    "i": 2154,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 11,
+    "t": "sedmo leto pa jo pusti počivati in neobdelano, da se preživijo revni iz tvojega ljudstva, in kar ostane za njimi, naj pojedo divje živali; enako delaj s svojim vinogradom in s svojim oljčnikom."
+  },
+  {
+    "i": 2155,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 12,
+    "t": "Šest dni opravljaj svoja dela, sedmi dan pa počivaj, da se odpočije tvoj vol in tvoj osel in da si oddahne sin tvoje dekle in tujec."
+  },
+  {
+    "i": 2156,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 13,
+    "t": "Pazite na vse, kar sem vam rekel; ne omenjajte imena drugih bogov, da se ne bi slišalo iz vaših ust."
+  },
+  {
+    "i": 2157,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 14,
+    "t": "Tri praznike mi obhajuj v letu."
+  },
+  {
+    "i": 2158,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 15,
+    "t": "Obhajuj praznik opresnikov; sedem dni jej opresnike, kakor sem ti zapovedal, ob določenem času v mesecu abibu, kajti v njem si prišel iz Egipta; nihče naj se ne prikaže pred menoj praznih rok."
+  },
+  {
+    "i": 2159,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 16,
+    "t": "Obhajuj praznik žetve prvih pridelkov svojega dela, kar si posejal na polju, in praznik spravila ob koncu leta, ko spraviš s polja sad svojega dela."
+  },
+  {
+    "i": 2160,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 17,
+    "t": "Trikrat v letu naj se prikažejo vsi tvoji moški pred Gospodom Jahvejem."
+  },
+  {
+    "i": 2161,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 18,
+    "t": "Ne daruj krvi moje daritve skupaj s kvašenim kruhom in maščoba moje praznične daritve naj ne ostane do naslednjega jutra."
+  },
+  {
+    "i": 2162,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 19,
+    "t": "Najboljše prve pridelke svoje zemlje prinesi v hišo Gospoda, svojega Boga. Ne kuhaj kozliča v mleku njegove matere."
+  },
+  {
+    "i": 2163,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 20,
+    "t": "Glej, jaz pošiljam angela pred teboj, da te varuje na poti in te pripelje na kraj, ki sem ti ga pripravil."
+  },
+  {
+    "i": 2164,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 21,
+    "t": "Spoštuj ga in poslušaj njegov glas, ne upiraj se mu, kajti ne bo odpustil vaših prestopkov, ker je v njem moje Ime."
+  },
+  {
+    "i": 2165,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 22,
+    "t": "Če pa res poslušaš njegov glas in delaš vse, kar ti bom rekel, bom sovražnik tvojim sovražnikom in nasprotnik tvojim nasprotnikom."
+  },
+  {
+    "i": 2166,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 23,
+    "t": "Moj angel bo šel pred teboj in te pripeljal k Amoréjcem, Hetitom, Perizéjcem, Kanaáncem, Hivéjcem in Jebuséjcem, in jaz jih bom iztrebil."
+  },
+  {
+    "i": 2167,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 24,
+    "t": "Ne priklanjaj se njihovim bogovom in jim ne služi; ne delaj tako, kakor delajo oni, temveč uniči njihove bogove in razbij njihove stebre."
+  },
+  {
+    "i": 2168,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 25,
+    "t": "Služite Gospodu, svojemu Bogu, in blagoslovil bom tvoj kruh in tvojo vodo in odstranil bolezen iz tvoje srede."
+  },
+  {
+    "i": 2169,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 26,
+    "t": "Ne bo ženske, ki bi v tvoji deželi izgubila plod ali bila nerodovitna; številko tvojih dni bom dopolnil."
+  },
+  {
+    "i": 2170,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 27,
+    "t": "Svojo grozo bom poslal pred teboj in zmedel bom vse ljudi, h katerim prideš, in vse svoje sovražnike bom prisilil, da se obrnejo za hrbet."
+  },
+  {
+    "i": 2171,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 28,
+    "t": "Poslal bom sršene pred teboj, da bodo pred teboj izgnali Hivéjce, Kanaánce in Hetite."
+  },
+  {
+    "i": 2172,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 29,
+    "t": "Ne bom jih izgnal pred teboj v enem letu, da ne bi zemlja postala pusta in se razmnožile divje zveri proti tebi."
+  },
+  {
+    "i": 2173,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 30,
+    "t": "Postopoma jih bom izgnal pred teboj, dokler se ne razmnožiš in ne zasedeš dežele."
+  },
+  {
+    "i": 2174,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 31,
+    "t": "Določil bom tvojo mejo od Rdečega morja do Filistejskega morja in od puščave do Reke, kajti dal vam bom v roke prebivalce dežele in jih boš izgnal pred seboj."
+  },
+  {
+    "i": 2175,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 32,
+    "t": "Ne sklepetaj z njimi zaveze niti z njihovimi bogovi."
+  },
+  {
+    "i": 2176,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 33,
+    "t": "Ne smejo prebivati v tvoji deželi, da te ne bi zavedli v greh zoper mene, ker bi služil njihovim bogovom in bi ti to bilo v past."
+  },
+  {
+    "i": 2177,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 1,
+    "t": "Potem je rekel Mojzesu: »Vzpenite se h Gospodu ti, Aron, Nadab in Abihú in sedemdeset Izraelovih starešin in molite na daljavo."
+  },
+  {
+    "i": 2178,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 2,
+    "t": "Samo Mojzes naj se približa Gospodu, drugi pa naj se ne približujejo in ljudstvo naj ne hodi z njim gor.«"
+  },
+  {
+    "i": 2179,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 3,
+    "t": "Mojzes je prišel in povedal ljudstvu vse Gospodove besede in vse postave. Vse ljudstvo je odgovorilo z enim glasom: »Vse besede, ki jih je izrekel Gospod, bomo izpolnjevali.«"
+  },
+  {
+    "i": 2180,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 4,
+    "t": "Mojzes pa je zapisal vse besede Gospodove. In zgodaj zjutraj je vstal ter postavil oltar pod goro in dvanajst kamnov po dvanajstih Izraelovih rodovih."
+  },
+  {
+    "i": 2181,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 5,
+    "t": "In poslal je mladeniče Izraelove, da so darovali žgalne daritve in zaklali Gospodu mlade bike v mirovilno daritev."
+  },
+  {
+    "i": 2182,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 6,
+    "t": "Mojzes pa je vzel polovico krvi in jo dal v posode, drugo polovico krvi pa je polil po oltarju."
+  },
+  {
+    "i": 2183,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 7,
+    "t": "Potem je vzel knjigo zaveze in jo bral ljudstvu. In rekli so: \"Vse, kar je Gospod govoril, bomo storili in poslušali."
+  },
+  {
+    "i": 2184,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 8,
+    "t": "Mojzes pa je vzel kri in jo polil po ljudstvu ter rekel: \"Glej, to je kri zaveze, ki jo je Gospod sklenil z vami glede vseh teh besed."
+  },
+  {
+    "i": 2185,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 9,
+    "t": "Nato se je Mojzes povzpel gor, Aron, Nadab in Abihu in sedemdeset starešin Izraelovih."
+  },
+  {
+    "i": 2186,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 10,
+    "t": "In videli so Boga Izraelovega, in pod njegovimi nogami je bilo kakor tlak iz safirja, jasen kakor nebo."
+  },
+  {
+    "i": 2187,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 11,
+    "t": "Na odličnike Izraelove pa ni stegnil roke; videli so Boga ter jedli in pili."
+  },
+  {
+    "i": 2188,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 12,
+    "t": "Gospod pa je rekel Mojzesu: \"Povzpni se k meni na goro in bodi tam; in dal ti bom kamniti plošči, postavo in zapoved, ki sem ju zapisal za njihovo poučevanje."
+  },
+  {
+    "i": 2189,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 13,
+    "t": "Mojzes se je torej dvignil, in Jozue, njegov služabnik, in Mojzes se je povzpel na Božjo goro."
+  },
+  {
+    "i": 2190,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 14,
+    "t": "Starešinam pa je rekel: \"Počakajte tukaj, dokler se ne vrnemo k vam. Glejte, Aron in Hur sta pri vas; kdor ima kako pravdo, naj se obrne nanju."
+  },
+  {
+    "i": 2191,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 15,
+    "t": "Mojzes pa se je povzpel na goro in oblak je prekril goro."
+  },
+  {
+    "i": 2192,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 16,
+    "t": "Slava Gospodova pa se je naselila na gori Sinaj in oblak jo je prekrival šest dni. Sedmi dan pa je Gospod poklical Mojzesa iz srede oblaka."
+  },
+  {
+    "i": 2193,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 17,
+    "t": "Videz slave Gospodove pa je bil v očeh Izraelovih kakor požirajoč ogenj na vrhu gore."
+  },
+  {
+    "i": 2194,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 18,
+    "t": "Mojzes pa je stopil v sredi oblaka in se povzpel na goro. In Mojzes je ostal na gori štirideset dni in štirideset noči."
+  },
+  {
+    "i": 2195,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 1,
+    "t": "Gospod pa je govoril Mojzesu, rekoč:"
+  },
+  {
+    "i": 2196,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 2,
+    "t": "\"Govori Izraelovim sinovom, da mi prinesejo dar. Od vsakega, čigar srce ga nagiba, sprejmite darilo za mene."
+  },
+  {
+    "i": 2197,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 3,
+    "t": "To pa je darilo, ki ga boste sprejeli od njih: zlato, srebro in baker;"
+  },
+  {
+    "i": 2198,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 4,
+    "t": "škrlatno in rdeče barvilo, karmezin, tančica in kozja dlaka;"
+  },
+  {
+    "i": 2199,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 5,
+    "t": "ovčje kože, pobarvane rdeče, fine kože in akacijev les;"
+  }
+]

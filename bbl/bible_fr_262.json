@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26200,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 29,
+    "t": "Ses entraves te deviendront une puissante protection, ses colliers une parure précieuse."
+  },
+  {
+    "i": 26201,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 30,
+    "t": "Son joug sera un ornement d'or, ses liens des rubans de pourpre."
+  },
+  {
+    "i": 26202,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 31,
+    "t": "Comme un vêtement d'apparat tu la revêtiras, tu la ceindras comme un diadème de joie."
+  },
+  {
+    "i": 26203,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 32,
+    "t": "Si tu le veux, mon fils, tu t'instruiras et ta docilité te vaudra l'habileté."
+  },
+  {
+    "i": 26204,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 33,
+    "t": "Si tu aimes à écouter, tu apprendras et si tu prêtes l'oreille, tu seras sage."
+  },
+  {
+    "i": 26205,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 34,
+    "t": "Tiens-toi dans l'assemblée des vieillards et si tu vois un sage, attache-toi à lui."
+  },
+  {
+    "i": 26206,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 35,
+    "t": "Écoute volontiers toute parole qui vient de Dieu, que les proverbes subtils ne t'échappent pas."
+  },
+  {
+    "i": 26207,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 36,
+    "t": "Si tu vois un homme de sens, va vers lui dès le matin, et que tes pas usent le seuil de sa porte."
+  },
+  {
+    "i": 26208,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 37,
+    "t": "Médite sur les commandements du Seigneur, occupe-toi sans cesse de ses préceptes. C'est lui qui fortifiera ton coeur et la sagesse que tu désires te sera accordée."
+  },
+  {
+    "i": 26209,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 1,
+    "t": "Ne fais pas le mal, et le mal ne sera pas ton maître ;"
+  },
+  {
+    "i": 26210,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 2,
+    "t": "éloigne-toi de l'injustice et elle s'écartera de toi."
+  },
+  {
+    "i": 26211,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 3,
+    "t": "Mon fils, ne sème pas dans les sillons d'injustice de crainte de récolter sept fois plus."
+  },
+  {
+    "i": 26212,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 4,
+    "t": "Ne demande pas au Seigneur la première place, ni au roi un siège glorieux."
+  },
+  {
+    "i": 26213,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 5,
+    "t": "Ne joue pas au juste devant le Seigneur, ni au sage devant le roi."
+  },
+  {
+    "i": 26214,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 6,
+    "t": "Ne brigue pas la place de juge si tu n'es pas capable d'extirper l'injustice, de peur de te laisser influencer par un grand, au risque de perdre ta droiture."
+  },
+  {
+    "i": 26215,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 7,
+    "t": "Ne te rends pas coupable envers l'assemblée de la ville et ne déchois pas devant le peuple."
+  },
+  {
+    "i": 26216,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 8,
+    "t": "Ne te laisse pas entraîner deux fois à pécher, car pour une seule fois tu n'échapperas pas."
+  },
+  {
+    "i": 26217,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 9,
+    "t": "Ne dis pas : \"Dieu considérera la multitude de mes offrandes, quand je les présenterai au Dieu Très-Haut il les recevra.\""
+  },
+  {
+    "i": 26218,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 10,
+    "t": "Ne sois pas hésitant dans la prière et ne néglige pas de faire l'aumône."
+  },
+  {
+    "i": 26219,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 11,
+    "t": "Ne te gausse pas d'un homme qui est dans la peine, car celui qui humilie peut relever."
+  },
+  {
+    "i": 26220,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 12,
+    "t": "Ne forge pas le mensonge contre ton frère, pas davantage envers un ami."
+  },
+  {
+    "i": 26221,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 13,
+    "t": "Garde-toi de proférer aucun mensonge, car il ne peut en sortir rien de bon."
+  },
+  {
+    "i": 26222,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 14,
+    "t": "Ne pérore pas dans l'assemblée des vieillards et ne répète pas tes paroles dans la prière."
+  },
+  {
+    "i": 26223,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 15,
+    "t": "Ne répugne pas aux besognes pénibles, ni au travail des champs créé par le Très-Haut."
+  },
+  {
+    "i": 26224,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 16,
+    "t": "Ne te range pas au nombre des pécheurs, souviens-toi que la Colère ne saurait tarder."
+  },
+  {
+    "i": 26225,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 17,
+    "t": "Humilie-toi profondément, car le feu et les vers sont le châtiment de l'impie."
+  },
+  {
+    "i": 26226,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 18,
+    "t": "N'échange pas un ami contre de l'argent, ni un vrai frère pour l'or d'Ophir."
+  },
+  {
+    "i": 26227,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 19,
+    "t": "Ne te détourne pas d'une épouse sage et bonne, car sa grâce vaut plus que l'or."
+  },
+  {
+    "i": 26228,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 20,
+    "t": "Ne maltraite pas l'esclave qui travaille fidèlement, ni le salarié qui se dévoue."
+  },
+  {
+    "i": 26229,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 21,
+    "t": "Aime dans ton coeur l'esclave intelligent, ne lui refuse pas la liberté."
+  },
+  {
+    "i": 26230,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 22,
+    "t": "As-tu des troupeaux ? Prends-en soin ; si tu en tires profit, garde-les."
+  },
+  {
+    "i": 26231,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 23,
+    "t": "As-tu des enfants ? Fais leur éducation et dès l'enfance fais-leur plier l'échine."
+  },
+  {
+    "i": 26232,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 24,
+    "t": "As-tu des filles ? Veille sur leur corps, et n'égaie pas devant elles ton visage."
+  },
+  {
+    "i": 26233,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 25,
+    "t": "Marie ta fille, tu auras accompli une grande chose, mais donne-la à un homme sensé."
+  },
+  {
+    "i": 26234,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 26,
+    "t": "As-tu une femme selon ton coeur ? Ne la répudie pas, mais si tu ne l'aimes pas ne te fie pas à elle."
+  },
+  {
+    "i": 26235,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 27,
+    "t": "De tout ton coeur honore ton père et n'oublie jamais ce qu'a souffert ta mère."
+  },
+  {
+    "i": 26236,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 28,
+    "t": "Souviens-toi qu'ils t'ont donné le jour : que leur offriras-tu en échange de ce qu'ils ont fait pour toi ?"
+  },
+  {
+    "i": 26237,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 29,
+    "t": "De toute ton âme crains le Seigneur et révère ses prêtres."
+  },
+  {
+    "i": 26238,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 30,
+    "t": "De toutes tes forces aime celui qui t'a créé et ne délaisse pas ses ministres."
+  },
+  {
+    "i": 26239,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 31,
+    "t": "Crains le Seigneur et honore le prêtre et donne-lui sa part comme il t'est prescrit : prémices, sacrifice de réparation, offrande des épaules, sacrifice de sanctification et prémices des choses saintes."
+  },
+  {
+    "i": 26240,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 32,
+    "t": "Au pauvre également fais des largesses, pour que ta bénédiction soit parfaite."
+  },
+  {
+    "i": 26241,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 33,
+    "t": "Que ta générosité touche tous les vivants, même aux morts ne refuse pas ta piété."
+  },
+  {
+    "i": 26242,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 34,
+    "t": "Ne te détourne pas de ceux qui pleurent, afflige-toi avec les affligés."
+  },
+  {
+    "i": 26243,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 35,
+    "t": "Ne crains pas de visiter des malades, par de tels actes tu te gagneras l'affection."
+  },
+  {
+    "i": 26244,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 36,
+    "t": "Dans tout ce que tu fais souviens-toi de ta fin et tu ne pécheras jamais."
+  },
+  {
+    "i": 26245,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 1,
+    "t": "Ne lutte pas avec un grand, de peur de tomber entre ses mains."
+  },
+  {
+    "i": 26246,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 2,
+    "t": "Ne te querelle pas avec un riche, de peur qu'il n'ait plus de poids que toi ; car l'or a perdu bien des gens et a fait fléchir le coeur des rois."
+  },
+  {
+    "i": 26247,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 3,
+    "t": "Ne dispute pas avec un beau parleur, ne mets pas de bois sur son feu."
+  },
+  {
+    "i": 26248,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 4,
+    "t": "Ne plaisante pas avec un homme mal élevé, de peur de voir insulter tes ancêtres."
+  },
+  {
+    "i": 26249,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 5,
+    "t": "Ne fais pas de reproches au pécheur repentant, souviens-toi que nous sommes tous coupables."
+  },
+  {
+    "i": 26250,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 6,
+    "t": "Ne méprise pas un homme avancé en âge, car peut-être nous aussi deviendrons vieux."
+  },
+  {
+    "i": 26251,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 7,
+    "t": "Ne te réjouis pas de la mort d'un homme, souviens-toi que tous nous devons mourir."
+  },
+  {
+    "i": 26252,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 8,
+    "t": "Ne méprise pas le discours des sages et reviens souvent à leurs maximes ; car c'est d'eux que tu apprendras la doctrine et l'art de servir les grands."
+  },
+  {
+    "i": 26253,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 9,
+    "t": "Ne fais pas fi du discours des vieillards, car eux-mêmes ont été à l'école de leurs pères ; c'est d'eux que tu apprendras la prudence et l'art de répondre à point nommé."
+  },
+  {
+    "i": 26254,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 10,
+    "t": "Ne mets pas le feu aux charbons du pécheur de crainte de te brûler à sa flamme."
+  },
+  {
+    "i": 26255,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 11,
+    "t": "Ne te laisse pas pousser à bout par l'homme insolent, ce serait un piège tendu devant tes lèvres."
+  },
+  {
+    "i": 26256,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 12,
+    "t": "Ne prête pas à un homme plus fort que toi : si tu prêtes, tiens la chose pour perdue."
+  },
+  {
+    "i": 26257,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 13,
+    "t": "Ne te porte pas caution au-delà de tes moyens : si tu t'es porté caution, sois prêt à payer."
+  },
+  {
+    "i": 26258,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 14,
+    "t": "N'aie pas de procès avec un juge, car la sentence sera rendue en sa faveur."
+  },
+  {
+    "i": 26259,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 15,
+    "t": "Ne te mets pas en route avec un aventurier, de peur qu'il ne t'accable de maux ; car il n'en fait qu'à sa tête et sa folie te perdra avec lui."
+  },
+  {
+    "i": 26260,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 16,
+    "t": "Ne te dispute pas avec un homme coléreux, ne t'engage pas avec lui dans un lieu désert, car le sang ne compte pas à ses yeux et là où il n'y a pas de secours il se jettera sur toi."
+  },
+  {
+    "i": 26261,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 17,
+    "t": "Ne prends pas un sot pour confident, car il ne saurait garder ton secret."
+  },
+  {
+    "i": 26262,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 18,
+    "t": "Devant un étranger, ne fais rien qui doive rester secret, car tu ne sais pas ce qu'il peut inventer."
+  },
+  {
+    "i": 26263,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 19,
+    "t": "N'ouvre pas ton coeur à n'importe qui et ne prétends pas obtenir ses bonnes grâces."
+  },
+  {
+    "i": 26264,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 1,
+    "t": "Ne sois pas jaloux de ton épouse bien-aimée et ne lui donne pas l'idée de te faire du mal."
+  },
+  {
+    "i": 26265,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 2,
+    "t": "Ne te livre pas entre les mains d'une femme, de peur qu'elle ne prenne de l'ascendant sur toi."
+  },
+  {
+    "i": 26266,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 3,
+    "t": "Ne va pas au-devant d'une courtisane : tu pourrais tomber dans ses pièges."
+  },
+  {
+    "i": 26267,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 4,
+    "t": "Ne fréquente pas une chanteuse : tu te ferais prendre à ses artifices."
+  },
+  {
+    "i": 26268,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 5,
+    "t": "N'arrête pas ton regard sur une jeune fille, de peur d'être piégé quand elle expiera."
+  },
+  {
+    "i": 26269,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 6,
+    "t": "Ne te livre pas aux mains des prostituées : tu y perdrais ton patrimoine."
+  },
+  {
+    "i": 26270,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 7,
+    "t": "Ne promène pas ton regard dans les rues de la ville et ne rôde pas dans les coins déserts."
+  },
+  {
+    "i": 26271,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 8,
+    "t": "Détourne ton regard d'une jolie femme et ne l'arrête pas sur une beauté étrangère. Beaucoup ont été égarés par la beauté d'une femme et l'amour s'y enflamme comme un feu."
+  },
+  {
+    "i": 26272,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 9,
+    "t": "Près d'une femme mariée garde-toi bien de t'asseoir et de pique-niquer au vin avec elle de peur que le désir ne te dévie vers elle et que dans ta passion tu ne glisses à ta perte."
+  },
+  {
+    "i": 26273,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 10,
+    "t": "N'abandonne pas un vieil ami, le nouveau venu ne le vaudra pas. Vin nouveau, ami nouveau, laisse-le vieillir, tu le boiras avec délices."
+  },
+  {
+    "i": 26274,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 11,
+    "t": "N'envie pas le succès du pécheur, tu ne sais comment cela finira."
+  },
+  {
+    "i": 26275,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 12,
+    "t": "Ne te félicite pas de la réussite des impies, souviens-toi qu'ici-bas ils ne resteront pas impunis."
+  },
+  {
+    "i": 26276,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 13,
+    "t": "Tiens-toi éloigné de l'homme qui a le pouvoir de tuer et tu n'auras aucune crainte de la mort. Si tu l'approches, garde-toi d'un faux pas il pourrait t'ôter la vie. Sache bien que tu es entouré de pièges et que tu marches sur les remparts."
+  },
+  {
+    "i": 26277,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 14,
+    "t": "Autant que tu le peux fréquente ton prochain et prends conseil des sages."
+  },
+  {
+    "i": 26278,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 15,
+    "t": "Pour ta conversation recherche les hommes intelligents et que tous tes entretiens portent sur la loi du Très-Haut."
+  },
+  {
+    "i": 26279,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 16,
+    "t": "Que les justes soient tes commensaux et que ta fierté soit dans la crainte du Seigneur."
+  },
+  {
+    "i": 26280,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 17,
+    "t": "Un ouvrage fait de main d'ouvrier mérite louange, mais le chef du peuple, lui, doit être habile dans le discours."
+  },
+  {
+    "i": 26281,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 18,
+    "t": "Le beau parleur est redouté dans la ville et le bavard est détesté."
+  },
+  {
+    "i": 26282,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 1,
+    "t": "Le sage gouvernant tient son peuple dans la discipline et l'autorité d'un homme sensé est bien établie."
+  },
+  {
+    "i": 26283,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 2,
+    "t": "Tel le gouvernant et tels ses subordonnés, tel celui qui régit la ville et tels les habitants."
+  },
+  {
+    "i": 26284,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 3,
+    "t": "Un roi sans instruction est la ruine de son peuple, une ville doit sa prospérité à l'intelligence des chefs."
+  },
+  {
+    "i": 26285,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 4,
+    "t": "Aux mains du Seigneur est le gouvernement du monde ; il suscite au bon moment le chef qui convient."
+  },
+  {
+    "i": 26286,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 5,
+    "t": "Le succès d'un homme est dans la main du Seigneur ; c'est lui qui donne au scribe sa gloire."
+  },
+  {
+    "i": 26287,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 6,
+    "t": "Ne garde pas rancune au prochain, quels que soient ses torts, et ne réagis jamais par des actes d'arrogance."
+  },
+  {
+    "i": 26288,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 7,
+    "t": "L'orgueil déplaît à Dieu comme à l'homme et tous deux regardent l'injustice comme une faute."
+  },
+  {
+    "i": 26289,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 8,
+    "t": "La souveraineté passe d'une nation à une autre par l'injustice, l'arrogance et l'argent. Rien de plus impie que celui qui aime l'argent : même son âme il la vend !"
+  },
+  {
+    "i": 26290,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 9,
+    "t": "Pourquoi tant d'orgueil pour qui est terre et cendre, un être qui, vivant, a déjà les tripes dégoûtantes ?"
+  },
+  {
+    "i": 26291,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 10,
+    "t": "Une longue maladie se moque du médecin, qui est roi aujourd'hui demain mourra."
+  },
+  {
+    "i": 26292,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 11,
+    "t": "Quand un homme meurt, il reçoit en partage les insectes, les fauves et les vers."
+  },
+  {
+    "i": 26293,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 12,
+    "t": "Le principe de l'orgueil humain, c'est d'abandonner le Seigneur et de tenir son coeur éloigné du Créateur."
+  },
+  {
+    "i": 26294,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 13,
+    "t": "Car le principe de l'orgueil c'est le péché, celui qui s'y adonne répand l'abomination. C'est pourquoi le Seigneur a rendu éclatante leur détresse et les a réduits à néant."
+  },
+  {
+    "i": 26295,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 14,
+    "t": "Le Seigneur a renversé le trône des puissants et fait asseoir à leur place les doux."
+  },
+  {
+    "i": 26296,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 15,
+    "t": "Le Seigneur a déraciné les orgueilleux et planté à leur place les humbles."
+  },
+  {
+    "i": 26297,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 16,
+    "t": "Le Seigneur a bouleversé le territoire des nations et les a anéanties jusqu'aux fondements de la terre."
+  },
+  {
+    "i": 26298,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 17,
+    "t": "Il les a quelquefois enlevées et détruites et a effacé du monde leur souvenir."
+  },
+  {
+    "i": 26299,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 18,
+    "t": "L'orgueil n'est pas fait pour l'homme ni la violente colère pour la race de la femme."
+  }
+]

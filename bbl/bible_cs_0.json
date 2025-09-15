@@ -1,0 +1,802 @@
+[
+  {
+    "i": 0,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 1,
+    "t": "Na počátku stvořil Bůh nebe a zemi."
+  },
+  {
+    "i": 1,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 2,
+    "t": "Země pak byla nesličná a pustá, a tma byla nad propastí, a Duch Boží vznášel se nad vodami."
+  },
+  {
+    "i": 2,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 3,
+    "t": "I řekl Bůh: „Budiž světlo!“ I bylo světlo."
+  },
+  {
+    "i": 3,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 4,
+    "t": "A viděl Bůh světlo, že jest dobré; i oddělil Bůh světlo od tmy."
+  },
+  {
+    "i": 4,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 5,
+    "t": "A nazval Bůh světlo dnem, a tmu nazval nocí. I byl večer a bylo jitro, den první."
+  },
+  {
+    "i": 5,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 6,
+    "t": "I řekl Bůh: „Budiž obloha uprostřed vod, a odděluj vody od vod!“ I stalo se tak."
+  },
+  {
+    "i": 6,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 7,
+    "t": "Učinil Bůh oblohu a oddělil vody, kteréž jsou pod oblohou, od vod, kteréž jsou nad oblohou."
+  },
+  {
+    "i": 7,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 8,
+    "t": "A nazval Bůh oblohu nebem. I byl večer a bylo jitro, den druhý."
+  },
+  {
+    "i": 8,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 9,
+    "t": "I řekl Bůh: „Shromažďte se vody, kteréž jsou pod nebem, na místo jedno, a ukaž se suchá země!“ I stalo se tak."
+  },
+  {
+    "i": 9,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 10,
+    "t": "A nazval Bůh suchou zemi zemí, a shromáždění vod nazval moři. I viděl Bůh, že jest to dobré."
+  },
+  {
+    "i": 10,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 11,
+    "t": "I řekl Bůh: „Pustiž země trávu, bylinu vydávající semeno, stromoví ovoce nesoucí podle druhu svého, v němž by bylo semeno jeho na zemi!“ I stalo se tak."
+  },
+  {
+    "i": 11,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 12,
+    "t": "I vyvedla země trávu, bylinu vydávající semeno podle druhu svého, a stromoví nesoucí ovoce, v němž semeno jeho bylo podle druhu svého. I viděl Bůh, že jest to dobré."
+  },
+  {
+    "i": 12,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 13,
+    "t": "I byl večer a bylo jitro, den třetí."
+  },
+  {
+    "i": 13,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 14,
+    "t": "I řekl Bůh: „Budiž světla na obloze nebeské, k oddělování dne od noci, a budou na znamení, léta a dni."
+  },
+  {
+    "i": 14,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 15,
+    "t": "A budou světla na obloze nebeské, aby svítila na zemi!“ I stalo se tak."
+  },
+  {
+    "i": 15,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 16,
+    "t": "Učinil Bůh dvě světla veliká: světlo větší, aby panovalo nade dnem, a světlo menší, aby panovalo nad nocí; též i hvězdy."
+  },
+  {
+    "i": 16,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 17,
+    "t": "A postavil je Bůh na obloze nebeské, aby svítila na zemi,"
+  },
+  {
+    "i": 17,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 18,
+    "t": "A panovala nade dnem i nad nocí, a oddělovala světlo od tmy. I viděl Bůh, že jest to dobré."
+  },
+  {
+    "i": 18,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 19,
+    "t": "I byl večer a bylo jitro, den čtvrtý."
+  },
+  {
+    "i": 19,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 20,
+    "t": "I řekl Bůh: „Vydejž vody hmyz duše živé, a ptactvo létat nad zemí pod oblohou nebeskou!“ I stalo se tak."
+  },
+  {
+    "i": 20,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 21,
+    "t": "I stvořil Bůh velryby veliké, a všelikou duši živou hýbající se, kterouž vyvedly vody podle druhu jejich, a všeliké ptactvo křídlové podle druhu jeho. I viděl Bůh, že jest to dobré."
+  },
+  {
+    "i": 21,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 22,
+    "t": "I požehnal jim Bůh, řka: „Ploďtež se a množte se, a naplňte vody v mořích, a ptactvo ať se rozmnožuje na zemi!“"
+  },
+  {
+    "i": 22,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 23,
+    "t": "I byl večer a bylo jitro, den pátý."
+  },
+  {
+    "i": 23,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 24,
+    "t": "I řekl Bůh: „Vydejž země duši živou podle druhu jejího, dobytek a zeměplazy, i zvěř zemskou podle druhu jejího!“ I stalo se tak."
+  },
+  {
+    "i": 24,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 25,
+    "t": "Učinil tedy Bůh zvěř zemskou podle druhu jejího, i dobytek podle druhu jeho, i všecky zeměplazy podle druhu jejich. I viděl Bůh, že jest to dobré."
+  },
+  {
+    "i": 25,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 26,
+    "t": "I řekl Bůh: „Učiňme člověka k obrazu našemu, podlé podobenství našeho, a ať panují nad rybami mořskými, a nad ptactvem nebeským, i nad hovady, a nade vší zemí, i nad všelikým zeměplazem hýbajícím se na zemi!“"
+  },
+  {
+    "i": 26,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 27,
+    "t": "I stvořil Bůh člověka k obrazu svému, k obrazu Božímu stvořil jej, muže a ženu stvořil je."
+  },
+  {
+    "i": 27,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 28,
+    "t": "A požehnal jim Bůh, a řekl jim Bůh: „Ploďtež se a množte se, a naplňte zemi, a podmaňte ji sobě, a panujte nad rybami mořskými, a nad ptactvem nebeským, i nad všelikým živočichem hýbajícím se na zemi!“"
+  },
+  {
+    "i": 28,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 29,
+    "t": "Řekl Bůh: „Aj, dal jsem vám všecku bylinu vydávající semeno, kteráž jest na vší zemi, a všecky stromy, na nichž jest ovoce stromu nesoucí semeno, budeť vám k pokrmu."
+  },
+  {
+    "i": 29,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 30,
+    "t": "A všeliké zvěři zemské, a všelikému ptactvu nebeskému, a všelikému hýbajícímu se po zemi, v němž jest duše živá, všecku zelenou trávu dal jsem ku pokrmu.“ I stalo se tak."
+  },
+  {
+    "i": 30,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 31,
+    "t": "I viděl Bůh vše, což učinil, a aj, bylo velmi dobré. I byl večer a bylo jitro, den šestý."
+  },
+  {
+    "i": 31,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 1,
+    "t": "Dokonána jsou tedy nebesa i země, a všecko vojsko jejich."
+  },
+  {
+    "i": 32,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 2,
+    "t": "I dokonal Bůh dne sedmého dílo své, kteréž dělal; a odpočinul v den sedmý ode všeho díla svého, kteréž byl dělal."
+  },
+  {
+    "i": 33,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 3,
+    "t": "A požehnal Bůh dni sedmému a posvětil ho; nebo v něm odpočinul ode všeho díla svého, kteréž stvořil a udělal."
+  },
+  {
+    "i": 34,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 4,
+    "t": "Ti jsou rodové nebes i země, když stvořeni jsou, v den, když učinil Hospodin Bůh zemi i nebesa."
+  },
+  {
+    "i": 35,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 5,
+    "t": "A všelikého trsu polního, prvé nežli byl na zemi, a všeliké byliny polní, prvé nežli vzklíčila; nebo byl ještě Hospodin Bůh nedal deště na zemi, ani člověka, ješto by dělal zemi."
+  },
+  {
+    "i": 36,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 6,
+    "t": "Ale pára vystupovala z země, a svlažovala všecku svrchnost země."
+  },
+  {
+    "i": 37,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 7,
+    "t": "I učinil Hospodin Bůh člověka z prachu země, a vdechl v oblíčej jeho dchnutí života, i učiněn jest člověk v duši živou."
+  },
+  {
+    "i": 38,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 8,
+    "t": "A zasadil Hospodin Bůh ráj v Eden na východ, a postavil tam člověka, kteréhož byl učinil."
+  },
+  {
+    "i": 39,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 9,
+    "t": "I vyvedl Hospodin Bůh z země všeliký strom na pohledění krásný, a k jídlu dobrý, strom života také uprostřed ráje, i strom vědění dobrého a zlého."
+  },
+  {
+    "i": 40,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 10,
+    "t": "Řeka pak vycházela z Eden k svlažování ráje, a odtud dělila se ve čtyři hlavní řeky."
+  },
+  {
+    "i": 41,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 11,
+    "t": "Jméno jedné Fison, ta obchází všecku zemi Hevilat, kdež jest zlato."
+  },
+  {
+    "i": 42,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 12,
+    "t": "A zlato té země výborné jest; tam jest i bdellium a kámen onychin."
+  },
+  {
+    "i": 43,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 13,
+    "t": "A jméno řeky druhé Gihon, ta obchází všecku zemi Kuš."
+  },
+  {
+    "i": 44,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 14,
+    "t": "A jméno řeky třetí Hidekel, ta teče proti Assur. Řeka pak čtvrtá jest Eufrates."
+  },
+  {
+    "i": 45,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 15,
+    "t": "Vzal tedy Hospodin Bůh člověka, a postavil jej v ráji Eden, aby jej dělal a ostříhal."
+  },
+  {
+    "i": 46,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 16,
+    "t": "I přikázal Hospodin Bůh člověku, řka: „Ze všech stromů rajských svobodně jísti budeš."
+  },
+  {
+    "i": 47,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 17,
+    "t": "Ale ze stromu vědění dobrého a zlého nejez; nebo v který den bys z něho jedl, smrtí umřeš.“"
+  },
+  {
+    "i": 48,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 18,
+    "t": "Řekl také Hospodin Bůh: „Není dobré člověku samému býti; učiním jemu pomoc jemu rovnou.“"
+  },
+  {
+    "i": 49,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 19,
+    "t": "A uhnětl Hospodin Bůh z země všelikou zvěř polní, a všecko ptactvo nebeské, i přivedl je k Adamovi, aby viděl, jak by je nazval. A jakž nazval Adam kterou duši živou, takové jest jméno její."
+  },
+  {
+    "i": 50,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 20,
+    "t": "I nazval Adam jmény všecka hovada, i ptactvo nebeské, i všelikou zvěř polní; ale Adamovi nenalezena pomoc jemu rovná."
+  },
+  {
+    "i": 51,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 21,
+    "t": "Pustil tedy Hospodin Bůh tvrdý spánek na Adama, i usnul. A vyňal jedno z žeber jeho, a naplnil tělo masem místo něho."
+  },
+  {
+    "i": 52,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 22,
+    "t": "A vzdělav Hospodin Bůh žebro, kteréž vyňal z Adama, v ženu, přivedl ji k Adamovi."
+  },
+  {
+    "i": 53,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 23,
+    "t": "I řekl Adam: „Tato již kost jest z kostí mých a tělo z těla mého; tato slouti bude žena, nebo z muže vzata jest.“"
+  },
+  {
+    "i": 54,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 24,
+    "t": "Protož opustí muž otce svého i matku svou, a přidruží se k manželce své, i budou jedno tělo."
+  },
+  {
+    "i": 55,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 25,
+    "t": "Byli pak oba dva nazí, Adam i manželka jeho, a nestyděli se."
+  },
+  {
+    "i": 56,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 1,
+    "t": "Had pak byl nejchytřejší ze všech zvířat polních, kteréž učinil Hospodin Bůh. I řekl ženě: „Zdaliž jest Bůh řekl: Nejezte z žádného stromu rajského?“"
+  },
+  {
+    "i": 57,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 2,
+    "t": "I řekla žena hadovi: „Z ovoce stromů rajských jíme."
+  },
+  {
+    "i": 58,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 3,
+    "t": "Ale o ovoci stromu, kterýž jest uprostřed ráje, řekl Bůh: Nejezte z něho, aniž se ho dotýkejte, abyste neumřeli.“"
+  },
+  {
+    "i": 59,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 4,
+    "t": "I řekl had ženě: „Nikoli neumřete."
+  },
+  {
+    "i": 60,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 5,
+    "t": "Ale ví Bůh, že v který den byste jedli z něho, otevrou se oči vaše, a budete jako bohové, vědouce dobré i zlé.“"
+  },
+  {
+    "i": 61,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 6,
+    "t": "I viděla žena, že dobrý jest strom k jídlu, a že jest rozkošný na pohledění, a strom žádostivý k nabytí umění; protož vzala z ovoce jeho, a jedla, i dala muži svému s sebou, a jedl."
+  },
+  {
+    "i": 62,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 7,
+    "t": "I otevříny jsou oči obou, a poznali, že nazí jsou; protož splétše listí fíkové, udělali sobě zástěry."
+  },
+  {
+    "i": 63,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 8,
+    "t": "A uslyšeli hlas Hospodina Boha procházejícího se po ráji v větříku denním; i skryl se Adam i žena jeho před oblíčejem Hospodina Boha v stromoví rajském."
+  },
+  {
+    "i": 64,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 9,
+    "t": "I zavolal Hospodin Bůh na Adama, a řekl jemu: „Kde jsi?“"
+  },
+  {
+    "i": 65,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 10,
+    "t": "Kterýžto odpověděl: „Hlas tvůj slyšel jsem v ráji, a bál jsem se; nebo jsem nahý, protož jsem se skryl.“"
+  },
+  {
+    "i": 66,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 11,
+    "t": "I řekl jemu Bůh: „Kdo tobě oznámil, že jsi nahý? Zdali jsi jedl s stromu, s něhož jsem já tobě přikázal, abys nejedl?“"
+  },
+  {
+    "i": 67,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 12,
+    "t": "Odpověděl Adam: „Žena, kterouž jsi mi dal, ta mi dala s toho stromu, i jedl jsem.“"
+  },
+  {
+    "i": 68,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 13,
+    "t": "Řekl Hospodin Bůh ženě: „Co jsi to učinila?“ I řekla žena: „Had mne oklamal, protož jsem jedla.“"
+  },
+  {
+    "i": 69,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 14,
+    "t": "Tedy řekl Hospodin Bůh hadovi: „Proto že jsi to učinil, zlořečený budeš nade všecka hovada, a nade všecku zvěř polní; po břiše choditi budeš, a prach jísti po všecky dny života svého."
+  },
+  {
+    "i": 70,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 15,
+    "t": "A nepřátelství položím mezi tebou a mezi ženou, a mezi semenem tvým a semenem jejím; ono potře tobě hlavu, a ty potřeš jemu patu.“"
+  },
+  {
+    "i": 71,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 16,
+    "t": "Ženě pak řekl: „Rozmnožím bolestí těhotenství tvého, v bolesti roditi budeš dítky, a k muži tvému obrácena bude žádost tvá, a on panovati bude nad tebou.“"
+  },
+  {
+    "i": 72,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 17,
+    "t": "Adamovi také řekl: „Proto že jsi uposlechl hlasu manželky své, a jedl jsi s stromu, o kterémž jsem přikázal tobě, abys nejedl z něho: zlořečená bude země pro tebe; v bolesti jísti budeš z ní po všecky dny života svého."
+  },
+  {
+    "i": 73,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 18,
+    "t": "Trní a bodláčí roditi bude tobě, a jísti budeš byliny polní."
+  },
+  {
+    "i": 74,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 19,
+    "t": "V potu oblíčeje svého jísti budeš chléb, dokudž se nenavrátíš do země; nebo z ní jsi vzat. Prach jsi, a v prach se navrátíš.“"
+  },
+  {
+    "i": 75,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 20,
+    "t": "I nazval Adam jméno manželky své Eva, proto že ona jest matka všech živých."
+  },
+  {
+    "i": 76,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 21,
+    "t": "Učinil také Hospodin Bůh Adamovi a manželce jeho sukně kožené, a oblékl je."
+  },
+  {
+    "i": 77,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 22,
+    "t": "Řekl Hospodin Bůh: „Aj, člověk učiněn jest jako jeden z nás, věda dobré i zlé. Nyní tedy aby nevztáhl ruky své, a nevzal také s stromu života, a nejedl, a žil na věky.“"
+  },
+  {
+    "i": 78,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 23,
+    "t": "Protož vyvedl jej Hospodin Bůh z ráje Eden, aby dělal zemi, z níž vzat jest."
+  },
+  {
+    "i": 79,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 24,
+    "t": "A vyhnal člověka, a postavil od východu ráje Eden cherubíny, a meč plamenný, kterýž se sem i tam obracoval, k ostříhání cesty k stromu života."
+  },
+  {
+    "i": 80,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 1,
+    "t": "I poznal Adam Evu, ženu svou, a počala, a porodila Kaina, a řekla: \"Obdržela jsem muže skrze Hospodina."
+  },
+  {
+    "i": 81,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 2,
+    "t": "I porodila i Abele, bratra jeho. I byl Abel pastýř ovcí, ale Kain byl oráč zemský."
+  },
+  {
+    "i": 82,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 3,
+    "t": "Stalo se pak po některém času, že obětoval Kain z ovoce země oběť Hospodinu,"
+  },
+  {
+    "i": 83,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 4,
+    "t": "Abel také obětoval z prvorozených ovcí svých a z tuku jejich. I shlédl Hospodin na Abele a na oběť jeho,"
+  },
+  {
+    "i": 84,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 5,
+    "t": "Na Kaina pak a na oběť jeho neshlédl. Protož rozhněval se Kain velmi, a spadla tvář jeho."
+  },
+  {
+    "i": 85,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 6,
+    "t": "I řekl Hospodin Kainovi: \"Pročež se hněváš, a pročež padla tvář tvá?"
+  },
+  {
+    "i": 86,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 7,
+    "t": "Zdaliž, dobře-li činíš, nebudeš přijat? Pakli nedobře činíš, hřích ve dveřích leží. K toběť jest žádost jeho, a ty panuj nad ním."
+  },
+  {
+    "i": 87,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 8,
+    "t": "I mluvil Kain s Abelem bratrem svým. I stalo se, když byli na poli, povstal Kain proti Abelovi bratru svému, a zabil ho."
+  },
+  {
+    "i": 88,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 9,
+    "t": "Řekl Hospodin Kainovi: \"Kde jest Abel bratr tvůj?\" A on řekl: \"Nevím. Zdaliž jsem já strážce bratra svého?"
+  },
+  {
+    "i": 89,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 10,
+    "t": "I řekl Hospodin: \"Co jsi to učinil? Hlas krve bratra tvého křičí ke mně ze země!"
+  },
+  {
+    "i": 90,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 11,
+    "t": "Protož nyní zlořečený budeš od země, kteráž otevřela ústa svá, aby přijala krev bratra tvého z ruky tvé."
+  },
+  {
+    "i": 91,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 12,
+    "t": "Budeš-li dělati zemi, nebudeť dávati tobě více síly své; toulavý a potulný budeš na zemi."
+  },
+  {
+    "i": 92,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 13,
+    "t": "I řekl Kain Hospodinu: \"Větší jest nepravost má, než aby mi odpuštěno bylo."
+  },
+  {
+    "i": 93,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 14,
+    "t": "Aj, vyháníš mne dnes z země této, a od tváři tvé skrýti se musím, a budu toulavý a potulný na zemi. I staneť se, že každý, kdož mne nalezne, zabije mne."
+  },
+  {
+    "i": 94,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 15,
+    "t": "Řekl jemu Hospodin: \"Nikoliž, ale kdož by koli zabil Kaina, sedmkrát pomsta bude vzata na něm.\" I vložil Hospodin znamení na Kaina, aby ho nezabil žádný, kdož by ho nalezl."
+  },
+  {
+    "i": 95,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 16,
+    "t": "Vyšel tedy Kain od tváři Hospodinovy, a bydlil v zemi Nód, na východ od Eden."
+  },
+  {
+    "i": 96,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 17,
+    "t": "I poznal Kain ženu svou, kteráž počala, a porodila Enocha. I vzdělal město, a nazval jméno města toho podle jména syna svého Enoch."
+  },
+  {
+    "i": 97,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 18,
+    "t": "Enochovi pak narodil se Irád, a Irád zplodil Mehujaele, a Mehujael zplodil Metúšaele, a Metúšael zplodil Lámecha."
+  },
+  {
+    "i": 98,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 19,
+    "t": "Vzal sobě pak Lámech dvě ženy, jméno jedné bylo Ada, a jméno druhé Cilla."
+  },
+  {
+    "i": 99,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 20,
+    "t": "I porodila Ada Jabala, kterýž byl otec bydlících v staních, a chovajících dobytek."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17200,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 21,
+    "t": "Si ton ennemi a faim, donne-lui à manger, s’il a soif, donne-lui à boire,"
+  },
+  {
+    "i": 17201,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 22,
+    "t": "c’est amasser des charbons sur sa tête et Yahvé te le revaudra."
+  },
+  {
+    "i": 17202,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 23,
+    "t": "L’aquilon engendre la pluie, la langue dissimulatrice un visage irrité."
+  },
+  {
+    "i": 17203,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 24,
+    "t": "Mieux vaut habiter à l’angle d’un toit que faire maison commune avec une femme querelleuse."
+  },
+  {
+    "i": 17204,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 25,
+    "t": "De l’eau fraîche pour une gorge altérée : telle est une bonne nouvelle venant d’un pays lointain."
+  },
+  {
+    "i": 17205,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 26,
+    "t": "Fontaine piétinée, source souillée : tel est un juste tremblant devant un méchant."
+  },
+  {
+    "i": 17206,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 27,
+    "t": "Il n’est pas bon de manger trop de miel, ni de rechercher gloire sur gloire."
+  },
+  {
+    "i": 17207,
+    "b": 19,
+    "c": 2125,
+    "r": 2125,
+    "o": 28,
+    "t": "Ville ouverte, sans remparts : tel un homme qui ne se possède pas."
+  },
+  {
+    "i": 17208,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 1,
+    "t": "Pas plus que la neige à l’été ou la pluie à la moisson, les honneurs ne conviennent au sot."
+  },
+  {
+    "i": 17209,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 2,
+    "t": "Le passereau s’échappe, l’hirondelle s’envole, ainsi la malédiction gratuite n’atteint pas son but."
+  },
+  {
+    "i": 17210,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 3,
+    "t": "Le fouet pour le cheval, la bride pour l’âne, pour l’échine des sots, le bâton."
+  },
+  {
+    "i": 17211,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 4,
+    "t": "Ne répond pas à l’insensé selon sa folie, de peur de lui devenir semblable, toi aussi."
+  },
+  {
+    "i": 17212,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 5,
+    "t": "Réponds à l’insensé selon sa folie, de peur qu’il ne soit sage à ses propres yeux."
+  },
+  {
+    "i": 17213,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 6,
+    "t": "Il se mutile, il s’abreuve de violence, celui qui envoie un message par l’entremise d’un sot."
+  },
+  {
+    "i": 17214,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 7,
+    "t": "Mal assurées, les jambes du boiteux ; ainsi un proverbe dans la bouche des sots."
+  },
+  {
+    "i": 17215,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 8,
+    "t": "C’est attacher la pierre à la fronde que de rendre honneur à un sot."
+  },
+  {
+    "i": 17216,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 9,
+    "t": "Une ronce pousse dans la main d’un ivrogne comme un proverbe dans la bouche d’un sot."
+  },
+  {
+    "i": 17217,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 10,
+    "t": "Un archer blessant tout le monde : tel est celui qui embauche le sot et l’ivrogne qui passent."
+  },
+  {
+    "i": 17218,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 11,
+    "t": "Comme le chien revient à son vomissement, le sot retourne à sa folie."
+  },
+  {
+    "i": 17219,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 12,
+    "t": "Tu vois un homme sage à ses propres yeux ? Il y a plus à espérer d’un insensé."
+  },
+  {
+    "i": 17220,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 13,
+    "t": "Le paresseux dit : \"Un fauve sur le chemin ! un lion par les rues !\""
+  },
+  {
+    "i": 17221,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 14,
+    "t": "La porte tourne sur ses gonds, et sur son lit le paresseux."
+  },
+  {
+    "i": 17222,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 15,
+    "t": "Le paresseux plonge la main dans le plat : la ramener à sa bouche le fatigue !"
+  },
+  {
+    "i": 17223,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 16,
+    "t": "Le paresseux est plus sage à ses propres yeux que sept personnes répondant avec tact."
+  },
+  {
+    "i": 17224,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 17,
+    "t": "Il prend par les oreilles un chien qui passe, celui qui s’immisce dans une querelle étrangère."
+  },
+  {
+    "i": 17225,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 18,
+    "t": "Un homme pris de folie qui lance des traits enflammés, des flèches et la mort :"
+  },
+  {
+    "i": 17226,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 19,
+    "t": "tel est l’homme qui ment à son compagnon, puis dit : \"N’était-ce pas pour plaisanter ?\""
+  },
+  {
+    "i": 17227,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 20,
+    "t": "Faute de bois, le feu s’éteint, faute de calomniateur, la querelle s’apaise."
+  },
+  {
+    "i": 17228,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 21,
+    "t": "Du charbon sur les braises, du bois sur le feu, tel est l’homme querelleur pour attiser les disputes."
+  },
+  {
+    "i": 17229,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 22,
+    "t": "Les dires du calomniateur sont de friands morceaux qui descendent jusqu’au fond des entrailles."
+  },
+  {
+    "i": 17230,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 23,
+    "t": "De l’argent non purifié appliqué sur de l’argile : tels sont lèvres brûlantes et cœur mauvais."
+  },
+  {
+    "i": 17231,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 24,
+    "t": "Celui qui hait donne le change par ses propos, mais en son sein gît la tromperie ;"
+  },
+  {
+    "i": 17232,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 25,
+    "t": "s’il prend un ton cauteleux, ne t’y fie pas, car en son cœur il y a sept abominations."
+  },
+  {
+    "i": 17233,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 26,
+    "t": "La haine peut s’envelopper de ruse, elle révélera sa méchanceté dans l’assemblée."
+  },
+  {
+    "i": 17234,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 27,
+    "t": "Qui creuse une fosse y tombe, qui roule une roche, elle revient sur lui."
+  },
+  {
+    "i": 17235,
+    "b": 19,
+    "c": 2126,
+    "r": 2126,
+    "o": 28,
+    "t": "La langue menteuse hait ses victimes, la bouche enjôleuse provoque la chute."
+  },
+  {
+    "i": 17236,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 1,
+    "t": "Ne te félicite pas du lendemain, car tu ignores ce qu’aujourd’hui enfantera."
+  },
+  {
+    "i": 17237,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 2,
+    "t": "Qu’autrui fasse ton éloge, mais non ta propre bouche, un étranger, mais non tes lèvres !"
+  },
+  {
+    "i": 17238,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 3,
+    "t": "Lourde est la pierre, pesant le sable, mais plus lourd qu’eux, le dépit du fou."
+  },
+  {
+    "i": 17239,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 4,
+    "t": "Cruelle est la fureur, impétueuse la colère, mais contre la jalousie, qui tiendra ?"
+  },
+  {
+    "i": 17240,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 5,
+    "t": "Mieux vaut réprimande ouverte qu’amour dissimulé."
+  },
+  {
+    "i": 17241,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 6,
+    "t": "Fidèles sont les coups d’un ami, mensongers les baisers d’un ennemi."
+  },
+  {
+    "i": 17242,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 7,
+    "t": "Gorge rassasiée méprise le miel, gorge affamée trouve douce toute amertume."
+  },
+  {
+    "i": 17243,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 8,
+    "t": "Comme l’oiseau qui erre loin de son nid, ainsi l’homme qui erre loin de son pays."
+  },
+  {
+    "i": 17244,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 9,
+    "t": "L’huile et le parfum mettent le cœur en joie, et la douceur de l’amitié, plus que la complaisance en soi-même."
+  },
+  {
+    "i": 17245,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 10,
+    "t": "N’abandonne pas ton ami ni l’ami de ton père ; à la maison de ton frère, ne va pas au jour de ton affliction. Mieux vaut un voisin proche qu’un frère éloigné."
+  },
+  {
+    "i": 17246,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 11,
+    "t": "Deviens sage, mon fils, et réjouis mon cœur, que je puisse répondre à qui m’outrage."
+  },
+  {
+    "i": 17247,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 12,
+    "t": "L’homme avisé voit le malheur et se cache, les niais passent outre, à leurs dépens."
+  },
+  {
+    "i": 17248,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 13,
+    "t": "Prends-lui son vêtement, car il a cautionné un étranger, à cause d’inconnus, prends-lui un gage."
+  },
+  {
+    "i": 17249,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 14,
+    "t": "Si quelqu’un bénit son prochain à haute voix dès l’aube, cela lui est compté pour une malédiction."
+  },
+  {
+    "i": 17250,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 15,
+    "t": "Gargouille qui ne cesse de couler un jour de pluie et femme querelleuse sont pareilles !"
+  },
+  {
+    "i": 17251,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 16,
+    "t": "Qui veut la saisir, saisit le vent et sa droite rencontre de l’huile."
+  },
+  {
+    "i": 17252,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 17,
+    "t": "Le fer s’aiguise par le fer, l’homme s’affine en face de son prochain."
+  },
+  {
+    "i": 17253,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 18,
+    "t": "Le gardien du figuier mange de son fruit, qui veille sur son maître sera honoré."
+  },
+  {
+    "i": 17254,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 19,
+    "t": "Comme l’eau donne le reflet du visage, ainsi le cœur de l’homme pour l’homme."
+  },
+  {
+    "i": 17255,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 20,
+    "t": "Insatiables sont le Shéol et la Perdition, ainsi les yeux de l’homme sont-ils insatiables."
+  },
+  {
+    "i": 17256,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 21,
+    "t": "Il y a la fournaise pour l’argent, le fourneau pour l’or : l’homme vaut ce que vaut sa réputation."
+  },
+  {
+    "i": 17257,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 22,
+    "t": "Quand tu pilerais le fou au mortier (parmi les grains, avec un pilon), sa folie ne se séparerait pas de lui."
+  },
+  {
+    "i": 17258,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 23,
+    "t": "Connais bien l’état de ton bétail, à ton troupeau donne tes soins ;"
+  },
+  {
+    "i": 17259,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 24,
+    "t": "car la richesse n’est pas éternelle, et une couronne ne se transmet pas d’âge en âge."
+  },
+  {
+    "i": 17260,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 25,
+    "t": "Une fois l’herbe enlevée, le regain apparu, ramassé le foin des montagnes,"
+  },
+  {
+    "i": 17261,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 26,
+    "t": "aie des agneaux pour te vêtir, des boucs pour acheter un champ,"
+  },
+  {
+    "i": 17262,
+    "b": 19,
+    "c": 2127,
+    "r": 2127,
+    "o": 27,
+    "t": "le lait des chèvres en abondance pour te sustenter, pour nourrir ta maison et faire vivre tes servantes."
+  },
+  {
+    "i": 17263,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 1,
+    "t": "Le méchant s’enfuit quand nul ne le poursuit, d’un lionceau les justes ont l’assurance."
+  },
+  {
+    "i": 17264,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 2,
+    "t": "Quand un pays se révolte, nombreux sont les princes, avec l’homme intelligent et instruit, c’est la stabilité."
+  },
+  {
+    "i": 17265,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 3,
+    "t": "Un homme méchant qui opprime des faibles, c’est une pluie dévastatrice et plus de pain."
+  },
+  {
+    "i": 17266,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 4,
+    "t": "Ceux qui délaissent la loi font l’éloge du méchant, ceux qui observent la loi s’irritent contre eux."
+  },
+  {
+    "i": 17267,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 5,
+    "t": "Les méchants ne comprennent pas le droit, ceux qui cherchent Yahvé comprennent tout."
+  },
+  {
+    "i": 17268,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 6,
+    "t": "Mieux vaut le pauvre qui se conduit honnêtement que l’homme aux voies tortueuses, fût-il riche."
+  },
+  {
+    "i": 17269,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 7,
+    "t": "Qui garde la loi est un fils intelligent, qui hante les débauchés est la honte de son père."
+  },
+  {
+    "i": 17270,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 8,
+    "t": "Qui accroît son bien par usure et par intérêt, c’est pour qui en gratifiera les pauvres qu’il amasse."
+  },
+  {
+    "i": 17271,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 9,
+    "t": "Qui se bouche les oreilles pour ne pas entendre la loi, sa prière même est une abomination."
+  },
+  {
+    "i": 17272,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 10,
+    "t": "Qui fourvoie les gens droits dans le mauvais chemin, en sa propre fosse tombera. Les hommes honnêtes posséderont le bonheur."
+  },
+  {
+    "i": 17273,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 11,
+    "t": "Le riche est sage à ses propres yeux, mais un pauvre intelligent le démasque."
+  },
+  {
+    "i": 17274,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 12,
+    "t": "Quand les justes exultent, c’est une grande fierté, quand se lèvent les méchants, on se dérobe."
+  },
+  {
+    "i": 17275,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 13,
+    "t": "Qui masque ses forfaits point ne réussira ; qui les avoue et y renonce obtiendra merci."
+  },
+  {
+    "i": 17276,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 14,
+    "t": "Heureux l’homme toujours en alarme ; qui s’endurcit le cœur tombera dans le malheur."
+  },
+  {
+    "i": 17277,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 15,
+    "t": "Un lion rugissant, un ours qui bondit, tel est le chef méchant sur un peuple faible."
+  },
+  {
+    "i": 17278,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 16,
+    "t": "Un prince sans intelligence est riche en extorsions, qui hait la cupidité prolongera ses jours."
+  },
+  {
+    "i": 17279,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 17,
+    "t": "Un homme coupable de meurtre fuira jusqu’à la tombe : qu’on ne l’arrête pas !"
+  },
+  {
+    "i": 17280,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 18,
+    "t": "Qui se conduit honnêtement sera sauf ; qui, tortueux, suit deux voies, tombera dans l’une d’elles."
+  },
+  {
+    "i": 17281,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 19,
+    "t": "Qui cultive sa terre sera rassasié de pain, qui poursuit des chimères sera rassasié d’indigence."
+  },
+  {
+    "i": 17282,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 20,
+    "t": "L’homme loyal sera comblé de bénédictions, qui se hâte de faire fortune ne restera pas impuni."
+  },
+  {
+    "i": 17283,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 21,
+    "t": "C’est mal de faire acception de personnes, mais pour une bouchée de pain, l’homme commet un forfait."
+  },
+  {
+    "i": 17284,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 22,
+    "t": "Il court après la fortune, l’homme au regard cupide, ignorant que c’est la disette qui lui adviendra."
+  },
+  {
+    "i": 17285,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 23,
+    "t": "Qui reprend autrui aura faveur à la fin, plus que le flatteur."
+  },
+  {
+    "i": 17286,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 24,
+    "t": "Qui dérobe à son père et à sa mère en disant : \"Point d’offense !\" du brigand est l’associé."
+  },
+  {
+    "i": 17287,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 25,
+    "t": "L’homme envieux engage la querelle, qui se confie en Yahvé prospérera."
+  },
+  {
+    "i": 17288,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 26,
+    "t": "Qui se fie à son propre sens est un sot, qui chemine avec sagesse sera sauf."
+  },
+  {
+    "i": 17289,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 27,
+    "t": "Pour qui donne aux pauvres, pas de disette, mais pour qui ferme les yeux, abondante malédiction."
+  },
+  {
+    "i": 17290,
+    "b": 19,
+    "c": 2128,
+    "r": 2128,
+    "o": 28,
+    "t": "Quand se lèvent les méchants, chacun se cache ; qu’ils viennent à périr, les justes se multiplient."
+  },
+  {
+    "i": 17291,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 1,
+    "t": "Celui qui, sous les reproches, raidit la nuque sera brisé soudain et sans remède."
+  },
+  {
+    "i": 17292,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 2,
+    "t": "Quand les justes se multiplient, le peuple est en liesse ; quand les méchants dominent, le peuple gémit."
+  },
+  {
+    "i": 17293,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 3,
+    "t": "Qui aime la sagesse réjouit son père, qui hante les prostituées dissipe son bien."
+  },
+  {
+    "i": 17294,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 4,
+    "t": "Par l’équité, un roi fait prospérer le pays, mais l’exacteur le mène à la ruine."
+  },
+  {
+    "i": 17295,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 5,
+    "t": "L’homme qui flatte son prochain tend un filet sous ses pas."
+  },
+  {
+    "i": 17296,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 6,
+    "t": "Dans l’offense du méchant il y a un piège, mais le juste exulte et se réjouit."
+  },
+  {
+    "i": 17297,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 7,
+    "t": "Le juste connaît la cause des faibles, le méchant n’a pas l’intelligence de la connaître."
+  },
+  {
+    "i": 17298,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 8,
+    "t": "Les railleurs mettent la cité en effervescence, mais les sages apaisent la colère."
+  },
+  {
+    "i": 17299,
+    "b": 19,
+    "c": 2129,
+    "r": 2129,
+    "o": 9,
+    "t": "Un sage est-il en procès avec un sot, qu’il se fâche ou plaisante, il n’aura pas de repos."
+  }
+]

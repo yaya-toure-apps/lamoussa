@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26600,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 6,
+    "t": "Aki gyűlöli a feddést, a bűnös útjára tér, aki pedig féli az Urat, az megtér szívében."
+  },
+  {
+    "i": 26601,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 7,
+    "t": "A szép szavú embert mindenki ismeri, de a gondolkodó ember ismeri a gyengeségeit."
+  },
+  {
+    "i": 26602,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 8,
+    "t": "Mások pénzéből házat építeni olyan, mint köveket gyűjteni a sírodhoz."
+  },
+  {
+    "i": 26603,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 9,
+    "t": "A bűnösök gyülekezete tarlórakás, mely végül lángba és tűzbe jut."
+  },
+  {
+    "i": 26604,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 10,
+    "t": "A bűnösök útja jól ki van kövezve, de a seol mélységébe vezet."
+  },
+  {
+    "i": 26605,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 11,
+    "t": "Aki megtartja a törvényt, az uralkodik a hajlamán, az Úr félelmének tökéletessége a bölcsesség."
+  },
+  {
+    "i": 26606,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 12,
+    "t": "Van, aki semmit sem tud tanulni természetes adottság híján, de vannak olyan adottságok, melyek keserűséget szülnek."
+  },
+  {
+    "i": 26607,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 13,
+    "t": "A bölcs tudománya bővelkedik, mint egy özönvíz, és tanácsa, mint egy élő forrás."
+  },
+  {
+    "i": 26608,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 14,
+    "t": "A bolond szíve olyan, mint egy törött edény, mely nem tart meg semmilyen ismeretet."
+  },
+  {
+    "i": 26609,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 15,
+    "t": "Ha egy tanult ember bölcs szót hall, megbecsüli és hozzáteszi a magáét; ha egy züllött ember hallja, az nem tetszik neki, eldobja maga mögött."
+  },
+  {
+    "i": 26610,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 16,
+    "t": "A bolond beszéde olyan, mint egy teher az utazás során, de a bölcs ajkán kegyelmet találunk."
+  },
+  {
+    "i": 26611,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 17,
+    "t": "Az értelmes ember szavát keresik a gyülekezetben, amit mond, mindenki megfontolja a szívében."
+  },
+  {
+    "i": 26612,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 18,
+    "t": "Egy romos ház, ilyen a bolond bölcsessége, és az esztelen tudománya összefüggéstelen beszéd."
+  },
+  {
+    "i": 26613,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 19,
+    "t": "A fegyelem az esztelen számára bilincs a lábán és kézbilincs a jobb kezén."
+  },
+  {
+    "i": 26614,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 20,
+    "t": "A bolond hangosan nevet, az értelmes ember nevetése ritka és diszkrét."
+  },
+  {
+    "i": 26615,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 21,
+    "t": "Az értelmes ember számára a fegyelem arany ékszer, karperec a jobb karján."
+  },
+  {
+    "i": 26616,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 22,
+    "t": "A bolond siet belépni, a tapasztalt ember szerény magatartást tanúsít;"
+  },
+  {
+    "i": 26617,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 23,
+    "t": "az esztelen az ajtóból befelé néz, a jó modorú ember kívül marad."
+  },
+  {
+    "i": 26618,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 24,
+    "t": "A rossz nevelés jele, ha valaki az ajtóknál hallgatózik, az értelmes ember érzi ennek a szégyenét."
+  },
+  {
+    "i": 26619,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 25,
+    "t": "A fecsegő ajka olyasmiről fecseg, ami nem rá tartozik, a bölcsek szavait gondosan megmérik."
+  },
+  {
+    "i": 26620,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 26,
+    "t": "A bolondok szíve a szájukban van, de a bölcsek szája a szívük."
+  },
+  {
+    "i": 26621,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 27,
+    "t": "Amikor a gonosz átkozza a Sátánt, önmagát átkozza."
+  },
+  {
+    "i": 26622,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 28,
+    "t": "A rágalmazó kárt okoz önmagának és gyűlöletet kelt a környezetében."
+  },
+  {
+    "i": 26623,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 1,
+    "t": "A lusta ember olyan, mint egy trágyával borított kő, mindenki gúnyolja a gyalázata miatt."
+  },
+  {
+    "i": 26624,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 2,
+    "t": "A lusta ember olyan, mint egy marék szemét, aki hozzáér, megrázza a kezét."
+  },
+  {
+    "i": 26625,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 3,
+    "t": "Szégyen az apának, ha rossz nevelésű fiút hozott a világra, és ha lány, az kárt okoz."
+  },
+  {
+    "i": 26626,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 4,
+    "t": "Az értelmes lány férjet talál, de a méltatlan lány bánatot okoz annak, aki nemzette."
+  },
+  {
+    "i": 26627,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 5,
+    "t": "A szemérmetlen lány becstelenséget hoz apjára és férjére, mindketten megtagadják őt."
+  },
+  {
+    "i": 26628,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 6,
+    "t": "Időtlen szemrehányások: zene a gyász napján; korbácsütések és javítás, ez mindenkor a bölcsesség."
+  },
+  {
+    "i": 26629,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 7,
+    "t": "A gyermekek, akik becsületes életet élnek, semmiben sem szenvednek hiányt, elfeledtetik szüleik homályos származását."
+  },
+  {
+    "i": 26630,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 8,
+    "t": "A megvető, rossz nevelésű, büszkeséggel teli gyermekek beszennyezik családjuk nemességét."
+  },
+  {
+    "i": 26631,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 9,
+    "t": "Olyan, mint a cserépdarabok összeragasztása, a bolond tanítása, olyan, mint egy álmos embert felébreszteni."
+  },
+  {
+    "i": 26632,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 10,
+    "t": "A bolonddal való érvelés olyan, mint egy szundikáló emberrel való érvelés, a végén azt mondja: \"Miről van szó?"
+  },
+  {
+    "i": 26633,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 11,
+    "t": "Sírj egy halottért: elvesztette a fényt, sírj egy esztelenért: elvesztette az eszét; sírj halkan a halottért, mert nyugalmat talált, az esztelen számára az élet szomorúbb, mint a halál."
+  },
+  {
+    "i": 26634,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 12,
+    "t": "A halottért a gyász hét napig tart, az esztelenért és az istentelenért életük minden napján."
+  },
+  {
+    "i": 26635,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 13,
+    "t": "Ne intézz hosszú beszédeket az esztelenhez, ne menj az esztelen elé, mert érzéketlenül megvetéssel fog elborítani, óvakodj tőle, hogy ne legyen bajod, hogy ne szennyeződj be a vele való érintkezés során. Távolodj el tőle, nyugalmat találsz, a tévelygései nem fognak untatni."
+  },
+  {
+    "i": 26636,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 14,
+    "t": "Mi nehezebb, mint az ólom? Hogy hívják azt? Az esztelen."
+  },
+  {
+    "i": 26637,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 15,
+    "t": "A homok, a só, a vastömeg könnyebben hordozható, mint az esztelen."
+  },
+  {
+    "i": 26638,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 16,
+    "t": "A főszerkezetbe összeszerelt faszerkezetet nem lehet megbontani egy földrengéssel; a meggondolt, érett elmélkedés után elhatározott szívet nem lehet megrendíteni a veszély órájában."
+  },
+  {
+    "i": 26639,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 17,
+    "t": "A bölcs elmélkedésre támaszkodó szív olyan, mint egy cizellált dísz egy sima falon."
+  },
+  {
+    "i": 26640,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 18,
+    "t": "A fal tetején lévő kis kavicsok nem állnak ellen a szélnek: a képzelgéseitől megijedt bolond szíve nem tud ellenállni a félelemnek."
+  },
+  {
+    "i": 26641,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 19,
+    "t": "A szem megütése könnyeket csal elő, a szív megütése érzelmeket idéz elő."
+  },
+  {
+    "i": 26642,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 20,
+    "t": "Aki követ dob a madarakra, elűzi őket, aki szemrehányást tesz a barátjának, megöli a barátságot."
+  },
+  {
+    "i": 26643,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 21,
+    "t": "Ha kardot rántottál a barátod ellen, ne ess kétségbe: visszatérhet;"
+  },
+  {
+    "i": 26644,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 22,
+    "t": "ha megnyitottad a szádat a barátod ellen, ne félj: lehetséges a kibékülés, kivéve a gyalázkodás, a megvetés, a titok elárulása, a hitszegés esetét, mert akkor minden barát elmegy."
+  },
+  {
+    "i": 26645,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 23,
+    "t": "Nyerje meg felebarátja bizalmát szegénységében, hogy jólétében vele együtt élvezhesse javait; a próbatétel napjaiban maradj hű hozzá, hogy örökbefogadás esetén részesedj az örökségből. Mert soha nem szabad megvetni a kontúrokat, és nem szabad csodálni egy értelmetől megfosztott gazdagot."
+  },
+  {
+    "i": 26646,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 24,
+    "t": "A lángok előtt a tűzhely párája és a füst látható; így a vér előtt a sértegetések."
+  },
+  {
+    "i": 26647,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 25,
+    "t": "Nem szégyellem megvédeni a barátomat, és nem fogok előle elrejtőzni;"
+  },
+  {
+    "i": 26648,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 26,
+    "t": "és ha rossz ér engem miatta, mindenki, aki megtudja, óvakodni fog tőle."
+  },
+  {
+    "i": 26649,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 27,
+    "t": "Ki állít őrt a szám elé, és a megkülönböztetés pecsétjét az ajkaimra, hogy ne botoljak meg miattuk, hogy a nyelvem ne okozza a vesztémet?"
+  },
+  {
+    "i": 26650,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 1,
+    "t": "Uram, életem atyja és mestere, ne engedd, hogy megbotoljak miattuk."
+  },
+  {
+    "i": 26651,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 2,
+    "t": "Ki alkalmazza a korbácsot a gondolataimra és a bölcsesség fegyelmét a szívemre, hogy ne kíméljék a hibáimat, és hogy a bűneim ne szökjenek meg?"
+  },
+  {
+    "i": 26652,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 3,
+    "t": "Attól való félelemből, hogy a hibáim elszaporodjanak és a bűneim ne szaporodjanak meg, hogy ne essem az ellenségeim kezébe, és hogy az ellenségem ne gúnyoljon engem. Távol van tőlük a te irgalmad reménye."
+  },
+  {
+    "i": 26653,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 4,
+    "t": "Uram, életem atyja és Istene, ne hagyj engem a szeszélyeiknek, tedd, hogy a tekintetem ne legyen arcátlan,"
+  },
+  {
+    "i": 26654,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 5,
+    "t": "fordítsd el tőlem a vágyat,"
+  },
+  {
+    "i": 26655,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 6,
+    "t": "hogy a szexuális étvágy és a bujaság ne kerítsen hatalmába, ne adj át a szemérmetlen vágyakozásnak."
+  },
+  {
+    "i": 26656,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 7,
+    "t": "Halljátok meg, gyermekeim, a szájról szóló tanítást, aki őrzi azt, az nem fog zavarba jönni."
+  },
+  {
+    "i": 26657,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 8,
+    "t": "A bűnöst a saját ajkai fogják meg, azok buktatják el a rágalmazót és a gőgöst."
+  },
+  {
+    "i": 26658,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 9,
+    "t": "Ne szoktasd a szádat esküdözésre, ne vedd fel a szokást, hogy kiejtsd a Szent nevét."
+  },
+  {
+    "i": 26659,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 10,
+    "t": "Mert ahogy egy mindig felügyelt szolga sem fogja elkerülni az ütéseket, úgy az sem marad bűntelen, aki esküszik és helytelenül és össze-vissza hívja a Nevet."
+  },
+  {
+    "i": 26660,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 11,
+    "t": "A sok esküt tevő ember tele van istentelenséggel, és a csapás nem fog eltávolodni a házától. Ha vétkezik, a vétke rajta lesz; ha könnyelműen cselekedett, kétszeresen vétkezett; ha hamis esküt tett, nem fog megigazulni, mert a háza tele lesz csapásokkal."
+  },
+  {
+    "i": 26661,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 12,
+    "t": "Van egyfajta beszéd, ami a halálhoz hasonlít, ne legyen használatban Jákob örökségében, mert a jámbor emberek mindezt elutasítják, nem hempergőznek a bűnben."
+  },
+  {
+    "i": 26662,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 13,
+    "t": "Ne szoktasd a szádat a durva tisztátalansághoz, ahol a bűn szava található."
+  },
+  {
+    "i": 26663,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 14,
+    "t": "Emlékezz apádra és anyádra, amikor a nagyok között ülsz, nehogy megfeledkezz magadról a jelenlétükben, nehogy úgy viselkedj, mint egy bolond, és nehogy odáig juss, hogy azt kívánod, bárcsak meg sem születtél volna, és átkozod a születésed napját."
+  },
+  {
+    "i": 26664,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 15,
+    "t": "A helytelenítő szavakhoz szokott ember nem fogja megjavítani az életét."
+  },
+  {
+    "i": 26665,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 16,
+    "t": "Kétféle lény szaporítja meg a bűnöket, és a harmadik haragot von maga után: a lángoló szenvedély, mint egy parázs: nem fog kialudni, amíg nem elégíti ki; az ember, aki a saját testére vágyik: nem fogja abbahagyni, amíg a tűz fel nem emészti;"
+  },
+  {
+    "i": 26666,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 17,
+    "t": "a szemérmetlen ember számára minden étel édes, csak a halálakor fog megnyugodni."
+  },
+  {
+    "i": 26667,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 18,
+    "t": "A férfi, aki hűtlen a saját ágyához, aki azt mondja a szívében: \"Ki lát engem? Árnyék vesz körül, a falak védenek, senki sem lát, mitől félnék? A Felséges nem fog emlékezni a hibáimra."
+  },
+  {
+    "i": 26668,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 19,
+    "t": "Amitől fél, az az emberek szeme, nem tudja, hogy az Úr szeme tízezerszer fényesebb, mint a nap, hogy megfigyeli az emberek minden cselekedetét, és behatol a legtitkosabb zugokba."
+  },
+  {
+    "i": 26669,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 20,
+    "t": "Mielőtt megteremtette, minden dolog ismert volt előtte, azok még a befejezésük után is."
+  },
+  {
+    "i": 26670,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 21,
+    "t": "A város közepén ez az ember megbüntetésre kerül, amikor a legkevésbé számít rá, elfogják."
+  },
+  {
+    "i": 26671,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 22,
+    "t": "Ugyanez vonatkozik a feleségre, aki hűtlen a férjéhez, aki egy idegentől fogant örököst hoz neki."
+  },
+  {
+    "i": 26672,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 23,
+    "t": "Először is engedetlenkedett a Felséges törvényének, másodszor vétkes a férjével szemben; harmadszor megbecstelenítette magát a házasságtöréssel, és egy idegentől fogant gyermekeket."
+  },
+  {
+    "i": 26673,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 24,
+    "t": "Az összejövetel elé vezetik, és megvizsgálják a gyermekeit."
+  },
+  {
+    "i": 26674,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 25,
+    "t": "A gyermekeinek nem lesz gyökere, az ágai nem fognak gyümölcsöt hozni."
+  },
+  {
+    "i": 26675,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 26,
+    "t": "Átkozott emléket fog hagyni maga után, és a szégyene soha nem fog eltörlődni."
+  },
+  {
+    "i": 26676,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 27,
+    "t": "És akik utána jönnek, tudni fogják, hogy semmi sem ér fel az Úr félelmével, és hogy semmi sem édesebb, mint ragaszkodni az Úr parancsolataihoz."
+  },
+  {
+    "i": 26677,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 28,
+    "t": "Istent követni nagy megtiszteltetés; az meghosszabbítja a napjaidat, ha fogad téged."
+  },
+  {
+    "i": 26678,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 1,
+    "t": "A Bölcsesség dicséri önmagát, a népe közepette mutatja meg a büszkeségét."
+  },
+  {
+    "i": 26679,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 2,
+    "t": "A Felséges gyülekezetében megnyitja a száját, és hatalma előtt mutatja meg a büszkeségét."
+  },
+  {
+    "i": 26680,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 3,
+    "t": "\"Én a Magasságos szájából jöttem ki, és mint egy pára, beborítottam a földet."
+  },
+  {
+    "i": 26681,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 4,
+    "t": "\"Az egekben laktam, és trónusom felhőoszlop volt."
+  },
+  {
+    "i": 26682,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 5,
+    "t": "\"Egyedül jártam be az egek körét, bebarangoltam a mélységek mélyét."
+  },
+  {
+    "i": 26683,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 6,
+    "t": "\"A tenger hullámaiban, az egész földön, minden nép és nemzet között uralkodtam."
+  },
+  {
+    "i": 26684,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 7,
+    "t": "\"Mind közöttük kerestem a nyugalmat, kerestem, melyik örökségbe telepedjek le."
+  },
+  {
+    "i": 26685,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 8,
+    "t": "\"Akkor a mindenség teremtője parancsot adott nekem, aki teremtett, felállíttatta velem a sátrat, és így szólt: 'Telepedj le Jákobban, Izraelben vedd birtokba örökségedet!'"
+  },
+  {
+    "i": 26686,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 9,
+    "t": "\"A századok előtt, a kezdetektől teremtett engem, örökké megmaradok."
+  },
+  {
+    "i": 26687,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 10,
+    "t": "\"A szent sátorban, az ő jelenlétében szolgáltam; így telepedtem le Sionban,"
+  },
+  {
+    "i": 26688,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 11,
+    "t": "\"és a szeretett városban találtam meg nyugalmam, Jeruzsálemben gyakorlom hatalmamat."
+  },
+  {
+    "i": 26689,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 12,
+    "t": "\"Egy dicsőséges nép között gyökereztem meg, az Úr birtokában van örökségem."
+  },
+  {
+    "i": 26690,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 13,
+    "t": "\"Úgy növekedtem, mint a libanoni cédrus, mint a ciprus a Hermon hegyén."
+  },
+  {
+    "i": 26691,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 14,
+    "t": "\"Úgy növekedtem, mint az engaddi pálma, mint a jerikói rózsatövek, mint egy pompás olajfa a síkságon, úgy növekedtem, mint egy platán."
+  },
+  {
+    "i": 26692,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 15,
+    "t": "\"Mint a fahéj és az akantusz, illatot árasztottam, mint a válogatott mirha, illatoztam, mint a galbánum, az ónix, a labdánum, mint a tömjén füstje a sátorban."
+  },
+  {
+    "i": 26693,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 16,
+    "t": "\"Kiterjesztettem ágaimat, mint a terebintfa, dicsőség és kegyelem ágai ezek."
+  },
+  {
+    "i": 26694,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 17,
+    "t": "\"Olyan vagyok, mint egy szőlő kecses indákkal, és virágaim a dicsőség és a gazdagság termékei."
+  },
+  {
+    "i": 26695,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 18,
+    "t": "\"Én vagyok a szép szerelem és a félelem, a tudás és a szent reménység anyja. Minden gyermekemnek örök javakat adok, azoknak, akiket ő kiválasztott."
+  },
+  {
+    "i": 26696,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 19,
+    "t": "\"Jöjjetek hozzám, akik vágyakoztok rám; és elégítsétek meg magatokat termékeimmel."
+  },
+  {
+    "i": 26697,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 20,
+    "t": "\"Mert emlékezetem édesebb a méznél, örökségem édesebb a mézes cseppnél."
+  },
+  {
+    "i": 26698,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 21,
+    "t": "\"Akik esznek engem, még éhezni fognak, akik isznak engem, még szomjazni fognak."
+  },
+  {
+    "i": 26699,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 22,
+    "t": "\"Aki engedelmeskedik nekem, nem fog szégyenkezni, és akik általam munkálkodnak, nem vétkeznek."
+  }
+]

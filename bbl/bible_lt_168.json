@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16800,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 15,
+    "t": "Kvailio kelias jo akyse yra tiesus, bet išmintingasis klauso patarimo."
+  },
+  {
+    "i": 16801,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 16,
+    "t": "Kvailys tuojau pat parodo savo pyktį, bet sumanus žmogus slepia panieką."
+  },
+  {
+    "i": 16802,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 17,
+    "t": "Kas apreiškia tiesą, tas skelbia teisingumą, o netikras liudytojas tėra apgaulė."
+  },
+  {
+    "i": 16803,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 18,
+    "t": "Kas kalba neapgalvotai, tas žeidžia kaip kalaviju, bet išmintingųjų liežuvis gydo."
+  },
+  {
+    "i": 16804,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 19,
+    "t": "Tiesa kalbančios lūpos išlieka amžinai, o melagingas liežuvis - tik akimirką."
+  },
+  {
+    "i": 16805,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 20,
+    "t": "Širdyje, kuri suka pikta, yra klasta; o taikingiems patarėjams - džiaugsmas."
+  },
+  {
+    "i": 16806,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 21,
+    "t": "Teisiajam neatsitinka jokio nuostolio, bet nedorėliai pilni nelaimių."
+  },
+  {
+    "i": 16807,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 22,
+    "t": "Pasibjaurėjimas Viešpačiui yra melagingos lūpos; Jis myli tuos, kurie daro tiesą."
+  },
+  {
+    "i": 16808,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 23,
+    "t": "Išmintingas žmogus slepia savo žinias, o kvailių širdis skelbia savo kvailystę."
+  },
+  {
+    "i": 16809,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 24,
+    "t": "Darbščiai rankai - vadovavimas, o tingi ranka turės baudžiavą."
+  },
+  {
+    "i": 16810,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 25,
+    "t": "Skausmas žmogaus širdyje ją slegia, bet geras žodis ją pradžiugina."
+  },
+  {
+    "i": 16811,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 26,
+    "t": "Teisusis rodo kelią savo draugui, o nedorėlių kelias juos suklaidina."
+  },
+  {
+    "i": 16812,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 27,
+    "t": "Tinginystė nekepa savo laimikio, bet darbštumas yra brangus žmogaus išteklius."
+  },
+  {
+    "i": 16813,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 28,
+    "t": "Teisingumo taku - gyvenimas; o nedorėlių kelias veda į mirtį."
+  },
+  {
+    "i": 16814,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 1,
+    "t": "Išmintingas sūnus klauso savo tėvo pamokymo, o pašaipūnas neklauso priekaišto."
+  },
+  {
+    "i": 16815,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 2,
+    "t": "Savo burnos vaisiais žmogus maitinasi tuo, kas gera, bet išdavikų siela sotūs smurtu."
+  },
+  {
+    "i": 16816,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 3,
+    "t": "Kas saugo savo burną, tas saugo savo gyvybę, o kas plačiai atveria lūpas, tas pražūsta."
+  },
+  {
+    "i": 16817,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 4,
+    "t": "Tingusis laukia, bet nieko jo alkanaus; o darbščiųjų alkis numalšinamas."
+  },
+  {
+    "i": 16818,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 5,
+    "t": "Teisusis nekenčia melagingo žodžio, o nedorėlis gėdina ir šmeižia."
+  },
+  {
+    "i": 16819,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 6,
+    "t": "Teisingumas saugo tą, kurio kelias yra sąžiningas, o nuodėmė sukelia nedorėlio pražūtį."
+  },
+  {
+    "i": 16820,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 7,
+    "t": "Vienas apsimeta turtingu, nors neturi nieko, o kitas apsimeta vargšu, nors turi didelių turtų."
+  },
+  {
+    "i": 16821,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 8,
+    "t": "Žmogaus gyvybės išpirka - jo turtas; bet vargšas negirdi priekaišto."
+  },
+  {
+    "i": 16822,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 9,
+    "t": "Teisiųjų šviesa yra džiaugsminga, o nedorėlių žibintas užgęsta."
+  },
+  {
+    "i": 16823,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 10,
+    "t": "Įžūlumas gimdo tik kivirčus; o pas tuos, kurie priima patarimus, randama išmintis."
+  },
+  {
+    "i": 16824,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 11,
+    "t": "Skubotas turtas mažėja, o kas kaupia pamažu, tas praturtėja."
+  },
+  {
+    "i": 16825,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 12,
+    "t": "Atidėta viltis serguliuoja širdį; patenkintas troškimas yra gyvybės medis."
+  },
+  {
+    "i": 16826,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 13,
+    "t": "Kas niekina žodį, tas pražus, o kas gerbia įsakymą, tas bus saugus."
+  },
+  {
+    "i": 16827,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 14,
+    "t": "Išmintingojo mokymas yra gyvybės šaltinis, kad išvengtum mirties spąstų."
+  },
+  {
+    "i": 16828,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 15,
+    "t": "Didelis nuovokumas atneša malonę, o išdavikų kelias yra sunkus."
+  },
+  {
+    "i": 16829,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 16,
+    "t": "Kiekvienas išmintingas žmogus elgiasi apdairiai, o kvailys demonstruoja savo kvailystę."
+  },
+  {
+    "i": 16830,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 17,
+    "t": "Piktas pasiuntinys patenka į nelaimę, o ištikimas pasiuntinys atneša išgydymą."
+  },
+  {
+    "i": 16831,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 18,
+    "t": "Skurdas ir panieka tam, kuris apleidžia pamokymą, o garbė tam, kuris laikosi papeikimo."
+  },
+  {
+    "i": 16832,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 19,
+    "t": "Patenkintas troškimas - saldumas sielai. Pasibjaurėjimas kvailiams yra nusigręžti nuo pikto."
+  },
+  {
+    "i": 16833,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 20,
+    "t": "Kas eina su išmintingais, tas taps išmintingas, o kas draugauja su kvailiais, tas taps blogas."
+  },
+  {
+    "i": 16834,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 21,
+    "t": "Nusidėjėlio pėdose - nelaimė; o laimė atlygina teisingiesiems."
+  },
+  {
+    "i": 16835,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 22,
+    "t": "Savo vaikų vaikams geras žmogus palieka palikimą, o teisingajam yra rezervuotas nusidėjėlių turtas."
+  },
+  {
+    "i": 16836,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 23,
+    "t": "Gausu maisto vargšų dirbamoje žemėje; bet kai kurie žūsta dėl teisingumo stokos."
+  },
+  {
+    "i": 16837,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 24,
+    "t": "Kas taupo rykštę, tas nekenčia savo sūnaus, o kas jį myli, tas gaili pataisymo."
+  },
+  {
+    "i": 16838,
+    "b": 19,
+    "c": 2113,
+    "r": 2113,
+    "o": 25,
+    "t": "Teisusis valgo ir pasisotina, o nedorėlių pilvas šaukia iš bado."
+  },
+  {
+    "i": 16839,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 1,
+    "t": "Išmintis stato savo namus, o kvailystė savo rankomis juos nugriauna."
+  },
+  {
+    "i": 16840,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 2,
+    "t": "Kas eina savo teisumu, tas bijo Viešpaties, o kas nukrypsta nuo savo kelių, tas Juo paniekina."
+  },
+  {
+    "i": 16841,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 3,
+    "t": "Kvailio burnoje yra puikybės atžala, o išmintingųjų lūpos juos saugo."
+  },
+  {
+    "i": 16842,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 4,
+    "t": "Nėra jaučių, tuščios ėdžios; stiprus jautis, gausios pajamos."
+  },
+  {
+    "i": 16843,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 5,
+    "t": "Teisingas liudytojas nemeluoja, o netikras liudytojas skleidžia melą."
+  },
+  {
+    "i": 16844,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 6,
+    "t": "Pašaipūnas siekia išminties, bet veltui, o protingam žmogui žinios yra lengvai pasiekiamos."
+  },
+  {
+    "i": 16845,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 7,
+    "t": "Atsitrauk nuo kvailio, nežinotum išmintingų lūpų."
+  },
+  {
+    "i": 16846,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 8,
+    "t": "Išmintingam žmogui išmintis yra stebėti savo elgesį, o kvailių kvailystė tėra apgaulė."
+  },
+  {
+    "i": 16847,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 9,
+    "t": "Kvailiai pašiepia auką už nuodėmę, o tarp teisingų žmonių randama malonė."
+  },
+  {
+    "i": 16848,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 10,
+    "t": "Širdis pažįsta savo paties sielvartą ir joks svetimas nepasidalija jo džiaugsmu."
+  },
+  {
+    "i": 16849,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 11,
+    "t": "Nedorėlių namai bus sunaikinti, o teisingų žmonių palapinė klestės."
+  },
+  {
+    "i": 16850,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 12,
+    "t": "Vienas kelias atrodo tiesus kažkam, bet galų gale tai yra mirties kelias."
+  },
+  {
+    "i": 16851,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 13,
+    "t": "Net juoke širdis randa skausmą, o džiaugsmas baigiasi sielvartu."
+  },
+  {
+    "i": 16852,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 14,
+    "t": "Klystanti širdis pasisotina savo žingsniais, o geras žmogus - savo darbais."
+  },
+  {
+    "i": 16853,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 15,
+    "t": "Naivuolis tiki viskuo, kas sakoma, o išmintingas žmogus stebi savo žingsnius."
+  },
+  {
+    "i": 16854,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 16,
+    "t": "Išmintingas bijo pikto ir nusigręžia, o kvailys yra įžūlus ir įsitikinęs savimi."
+  },
+  {
+    "i": 16855,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 17,
+    "t": "Žmogus, greitas į pyktį, daro kvailystes, o žmogus, turintis blogų ketinimų, yra bjaurus."
+  },
+  {
+    "i": 16856,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 18,
+    "t": "Kvailių dalis yra kvailystė, o protingi žmonės iš žinių pasidaro vainiką."
+  },
+  {
+    "i": 16857,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 19,
+    "t": "Prieš geruosius nedorėliai lenkiasi, o prie teisingųjų durų - bedieviai."
+  },
+  {
+    "i": 16858,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 20,
+    "t": "Net savo kaimynui vargšas yra bjaurus, o daugelis myli turtingąjį."
+  },
+  {
+    "i": 16859,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 21,
+    "t": "Nusideda tas, kuris niekina savo artimą; laimingas, kuris gailisi vargšų."
+  },
+  {
+    "i": 16860,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 22,
+    "t": "Argi ne klaidinga yra sukti pikta? Gailestingumas ir ištikimybė tam, kuris atsidėjęs geram."
+  },
+  {
+    "i": 16861,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 23,
+    "t": "Kiekvienas darbas duoda pelną, o plepėjimas sukelia tik skurdą."
+  },
+  {
+    "i": 16862,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 24,
+    "t": "Išmintingųjų vainikas yra jų turtas; o kvailių kvailystė yra kvailystė."
+  },
+  {
+    "i": 16863,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 25,
+    "t": "Teisingas liudytojas gelbsti gyvybes, o kas sako melus, tas yra apgavikas."
+  },
+  {
+    "i": 16864,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 26,
+    "t": "Viešpaties baimėje - stiprus saugumas; savo vaikams Jis yra prieglobstis."
+  },
+  {
+    "i": 16865,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 27,
+    "t": "Viešpaties baimė yra gyvybės šaltinis, kad išvengtum mirties spąstų."
+  },
+  {
+    "i": 16866,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 28,
+    "t": "Gausi tauta - karaliaus šlovė; gyventojų mažėjimas - kunigaikščio žlugimas."
+  },
+  {
+    "i": 16867,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 29,
+    "t": "Žmogus, lėtas į pyktį, yra pilnas proto, o kas greitai įsidega, tas išaukština kvailystę."
+  },
+  {
+    "i": 16868,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 30,
+    "t": "Kūno gyvybė - taiki širdis; o pavydas yra kaulų ėduonis."
+  },
+  {
+    "i": 16869,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 31,
+    "t": "Engti silpnąjį - įžeisti jo Kūrėją; garbinti Jį yra būti geram nelaimingiesiems."
+  },
+  {
+    "i": 16870,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 32,
+    "t": "Savo paties piktumu nedorėlis yra parblokštas, o teisusis randa prieglobstį savo dorumu."
+  },
+  {
+    "i": 16871,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 33,
+    "t": "Protingoje širdyje gyvena išmintis; o kvailių širdyje jos nepažinsi."
+  },
+  {
+    "i": 16872,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 34,
+    "t": "Teisingumas išaukština tautą, o nuodėmė yra tautų gėda."
+  },
+  {
+    "i": 16873,
+    "b": 19,
+    "c": 2114,
+    "r": 2114,
+    "o": 35,
+    "t": "Karaliaus malonė tenka sumaniam tarnui, o Jo pyktis - tam, kuris gėdina."
+  },
+  {
+    "i": 16874,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 1,
+    "t": "Malonus atsakymas numalšina įniršį, o žeidžiantis žodis sukelia pyktį."
+  },
+  {
+    "i": 16875,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 2,
+    "t": "Išmintingųjų liežuvis daro žinias malonias, o kvailių burna išvemia kvailystę."
+  },
+  {
+    "i": 16876,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 3,
+    "t": "Visur yra Viešpaties akys, Jos stebi nedorėlius ir geruosius."
+  },
+  {
+    "i": 16877,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 4,
+    "t": "Raminantis liežuvis yra gyvybės medis, o iškreiptas liežuvis sulaužo širdį."
+  },
+  {
+    "i": 16878,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 5,
+    "t": "Kvailys niekina tėvo pataisymą, o kas laikosi papeikimo, tas yra išmintingas."
+  },
+  {
+    "i": 16879,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 6,
+    "t": "Gausu turto teisiojo namuose, o nedorėlio pajamos yra nerimo šaltinis."
+  },
+  {
+    "i": 16880,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 7,
+    "t": "Išmintingųjų lūpos skleidžia žinias, bet kvailių širdis ne."
+  },
+  {
+    "i": 16881,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 8,
+    "t": "Nedorėlių auka yra pasibjaurėjimas Viešpačiui, bet teisiųjų malda Jam patinka."
+  },
+  {
+    "i": 16882,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 9,
+    "t": "Pasibjaurėjimas Viešpačiui yra nedoras kelias, bet Jis myli tą, kuris siekia teisingumo."
+  },
+  {
+    "i": 16883,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 10,
+    "t": "Griežtas pamokymas laukia to, kuris nukrypsta nuo kelio; kas nekenčia papeikimo, mirs."
+  },
+  {
+    "i": 16884,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 11,
+    "t": "Šeolas ir pražūtis yra prieš Viešpatį, juo labiau žmonių vaikų širdys!"
+  },
+  {
+    "i": 16885,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 12,
+    "t": "Pasišaipytojas nemėgsta, kad jį baretų, su išmintingaisiais jis nesibičiuliauja."
+  },
+  {
+    "i": 16886,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 13,
+    "t": "Linksma širdis džiugina veidą, o liūdna širdis prislėgia dvasią."
+  },
+  {
+    "i": 16887,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 14,
+    "t": "Protinga širdis ieško žinių, o kvailių burna penisi kvailyste."
+  },
+  {
+    "i": 16888,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 15,
+    "t": "Vargšui visos dienos blogos, o linksmai širdžiai tai nuolatinė puota."
+  },
+  {
+    "i": 16889,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 16,
+    "t": "Geriau mažai su Viešpaties baime, negu dideli turtai su rūpesčiu."
+  },
+  {
+    "i": 16890,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 17,
+    "t": "Geriau porcija daržovių su meile, negu riebus jautis su neapykanta."
+  },
+  {
+    "i": 16891,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 18,
+    "t": "Karštakošis žmogus kelia kivirčus, o lėtas pykti malšina ginčus."
+  },
+  {
+    "i": 16892,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 19,
+    "t": "Tinginio kelias yra tarsi erškėčių tvora, o teisiųjų takas - didelis kelias."
+  },
+  {
+    "i": 16893,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 20,
+    "t": "Išmintingas sūnus džiugina tėvą, o kvailas žmogus niekina motiną."
+  },
+  {
+    "i": 16894,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 21,
+    "t": "Kvailumas džiugina beprotį, o protingas žmogus eina tiesiai savo keliu."
+  },
+  {
+    "i": 16895,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 22,
+    "t": "Trūkstant apmąstymų, planai žlunga, o dėka daugybės patarėjų, jie įgauna kūną."
+  },
+  {
+    "i": 16896,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 23,
+    "t": "Džiaugsmas žmogui yra jo burnos atsakas, kaip gera, kai atsakymas duotas laiku!"
+  },
+  {
+    "i": 16897,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 24,
+    "t": "Išmintingam žmogui gyvenimo takas veda aukštyn, kad išvengtų šeolo apačioje."
+  },
+  {
+    "i": 16898,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 25,
+    "t": "Viešpats sugriauna išdidžiųjų namus, bet Jis atstato našlės riboženklį."
+  },
+  {
+    "i": 16899,
+    "b": 19,
+    "c": 2115,
+    "r": 2115,
+    "o": 26,
+    "t": "Pasibjaurėjimas Viešpačiui yra pikti sumanymai, bet malonūs žodžiai yra tyri."
+  }
+]

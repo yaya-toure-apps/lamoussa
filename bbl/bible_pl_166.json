@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16600,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 17,
+    "t": "Niechże one będą dla ciebie samego, a nie dla obcych z tobą!"
+  },
+  {
+    "i": 16601,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 18,
+    "t": "Błogosławione niech będzie twoje źródło! Raduj się żoną twojej młodości:"
+  },
+  {
+    "i": 16602,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 19,
+    "t": "Łanią wdzięczną, gazelą miłą! Jej piersią upajaj się zawsze, w jej miłości ustawicznie się rozmiłuj!"
+  },
+  {
+    "i": 16603,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 20,
+    "t": "Synu mój, czemuż masz się oddawać obcej i tulić do cudzego łona?"
+  },
+  {
+    "i": 16604,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 21,
+    "t": "Albowiem oczy Pana patrzą na drogi człowieka i śledzą wszystkie jego ścieżki."
+  },
+  {
+    "i": 16605,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 22,
+    "t": "Niegodziwego chwytają własne jego złości, a więzy jego grzechu go trzymają."
+  },
+  {
+    "i": 16606,
+    "b": 19,
+    "c": 2105,
+    "r": 2105,
+    "o": 23,
+    "t": "Umrze on z braku karności, a w ogromie swej głupoty pobłądzi."
+  },
+  {
+    "i": 16607,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 1,
+    "t": "Synu mój, jeśli poręczyłeś za bliźniego swego, jeśli dałeś rękę za obcego,"
+  },
+  {
+    "i": 16608,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 2,
+    "t": "Jeśli uwikłałeś się słowami swych ust, jeśli schwytany zostałeś słowami swych ust,"
+  },
+  {
+    "i": 16609,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 3,
+    "t": "Uczyńże to, synu mój, a wyratuj się, bo dostałeś się w ręce bliźniego swego: idź, upadnij na twarz i naprzykrzaj się bliźniemu swemu,"
+  },
+  {
+    "i": 16610,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 4,
+    "t": "Nie dawaj snu swym oczom ani odpoczynku swym powiekom,"
+  },
+  {
+    "i": 16611,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 5,
+    "t": "Wyrwij się jak gazela z sieci, jak ptak z ręki ptasznika."
+  },
+  {
+    "i": 16612,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 6,
+    "t": "Idź do mrówki, leniwcze! Przypatrz się jej postępowaniu, abyś zmądrzał:"
+  },
+  {
+    "i": 16613,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 7,
+    "t": "Która nie ma zwierzchnika, stróża ani władcy,"
+  },
+  {
+    "i": 16614,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 8,
+    "t": "Przygotowuje w lecie swój pokarm i zbiera w żniwa swoją żywność."
+  },
+  {
+    "i": 16615,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 9,
+    "t": "Jak długo, leniwcze, będziesz leżał? Kiedyż wstaniesz ze swego snu?"
+  },
+  {
+    "i": 16616,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 10,
+    "t": "Trochę snu, trochę drzemki, trochę założenia rąk dla odpoczynku,"
+  },
+  {
+    "i": 16617,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 11,
+    "t": "A przyjdzie na ciebie nędza jak włóczęga i niedostatek jak zbrojny mąż."
+  },
+  {
+    "i": 16618,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 12,
+    "t": "Człowiek nikczemny, człowiek zły, chodzi z przewrotnymi ustami,"
+  },
+  {
+    "i": 16619,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 13,
+    "t": "Mruga oczyma, mówi nogami, daje znaki palcami."
+  },
+  {
+    "i": 16620,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 14,
+    "t": "Przewrotność w jego sercu, knuje zło w każdym czasie, wznieca spory."
+  },
+  {
+    "i": 16621,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 15,
+    "t": "Dlatego nagle przyjdzie nań zguba, w jednej chwili zostanie złamany, a nie będzie ratunku."
+  },
+  {
+    "i": 16622,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 16,
+    "t": "Sześć rzeczy nienawidzi Pan, a siedem jest obrzydliwością dla jego duszy:"
+  },
+  {
+    "i": 16623,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 17,
+    "t": "Oczy wyniosłe, język kłamliwy, ręce, które przelewają krew niewinną,"
+  },
+  {
+    "i": 16624,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 18,
+    "t": "Serce, które knuje złe zamysły, nogi, które spieszą do zła,"
+  },
+  {
+    "i": 16625,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 19,
+    "t": "Fałszywy świadek, który mówi kłamstwa, i ten, który wznieca spory między braćmi."
+  },
+  {
+    "i": 16626,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 20,
+    "t": "Synu mój, strzeż przykazań swego ojca i nie opuszczaj nauki swojej matki."
+  },
+  {
+    "i": 16627,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 21,
+    "t": "Zwiąż je stale w swym sercu, zawieś je na swej szyi."
+  },
+  {
+    "i": 16628,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 22,
+    "t": "Gdy będziesz chodził, one cię poprowadzą, gdy będziesz spał, one cię strzec będą, a gdy się obudzisz, one będą ci towarzyszyć."
+  },
+  {
+    "i": 16629,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 23,
+    "t": "Albowiem przykazanie jest pochodnią, a nauka światłem, a upomnienia karności drogą życia,"
+  },
+  {
+    "i": 16630,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 24,
+    "t": "Aby cię strzec przed złą kobietą, przed pochlebnym językiem cudzej."
+  },
+  {
+    "i": 16631,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 25,
+    "t": "Nie pożądaj w sercu swym jej piękności, nie daj się uwieść jej powiekami,"
+  },
+  {
+    "i": 16632,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 26,
+    "t": "Bo nierządnica zadowala się kawałkiem chleba, ale zamężna kobieta czyha na drogie życie."
+  },
+  {
+    "i": 16633,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 27,
+    "t": "Czy może kto wziąć ogień w swoje zanadrze, aby jego szaty się nie zapaliły?"
+  },
+  {
+    "i": 16634,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 28,
+    "t": "Czy może kto chodzić po węglach rozżarzonych, aby jego stopy się nie poparzyły?"
+  },
+  {
+    "i": 16635,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 29,
+    "t": "Tak jest z tym, który obcuje z żoną bliźniego swego: kto się jej dotknie, nie ujdzie bezkarnie."
+  },
+  {
+    "i": 16636,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 30,
+    "t": "Nie gardzi się złodziejem, gdy kradnie, aby nasycić swoją duszę, gdy jest głodny,"
+  },
+  {
+    "i": 16637,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 31,
+    "t": "Ale gdy zostanie przyłapany, musi zwrócić siedmiokrotnie, oddać całe mienie swego domu."
+  },
+  {
+    "i": 16638,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 32,
+    "t": "Lecz cudzołożnik jest pozbawiony rozumu, kto tak czyni, sam siebie gubi!"
+  },
+  {
+    "i": 16639,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 33,
+    "t": "Doświadczy on bicia i zniewagi, a jego hańba nie zostanie zmazana."
+  },
+  {
+    "i": 16640,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 34,
+    "t": "Bo zazdrość wzbudza gniew męża, a w dzień pomsty nie będzie miał litości,"
+  },
+  {
+    "i": 16641,
+    "b": 19,
+    "c": 2106,
+    "r": 2106,
+    "o": 35,
+    "t": "Nie przyjmie żadnego zadośćuczynienia, ani się zgodzi na nic, choćbyś pomnożył dary."
+  },
+  {
+    "i": 16642,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 1,
+    "t": "Synu mój, strzeż moich słów i zachowaj w sobie moje przykazania."
+  },
+  {
+    "i": 16643,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 2,
+    "t": "Strzeż moich przykazań, a będziesz żył, a moją naukę jak źrenicę swych oczu."
+  },
+  {
+    "i": 16644,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 3,
+    "t": "Zwiąż je na swych palcach, wypisz je na tablicy swego serca."
+  },
+  {
+    "i": 16645,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 4,
+    "t": "Powiedz mądrości: \"Ty jesteś moją siostrą!\" A roztropność nazwij swoją krewną,"
+  },
+  {
+    "i": 16646,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 5,
+    "t": "Aby cię strzegła przed cudzą kobietą, przed obcą, która ma słodkie słowa."
+  },
+  {
+    "i": 16647,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 6,
+    "t": "Gdy byłem w oknie swego domu, patrzyłem przez kratę,"
+  },
+  {
+    "i": 16648,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 7,
+    "t": "I ujrzałem między prostaczkami, zauważyłem między młodzieńcami młodzieńca pozbawionego rozumu,"
+  },
+  {
+    "i": 16649,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 8,
+    "t": "Który przechodził ulicą koło jej rogu i szedł drogą do jej domu,"
+  },
+  {
+    "i": 16650,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 9,
+    "t": "W zmierzchu, pod wieczór, w nocy i w ciemności."
+  },
+  {
+    "i": 16651,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 10,
+    "t": "A oto wyszła mu naprzeciw kobieta, ubrana jak nierządnica, podstępna w sercu,"
+  },
+  {
+    "i": 16652,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 11,
+    "t": "Gadatliwa i krnąbrna, jej nogi nie mogą usiedzieć w domu,"
+  },
+  {
+    "i": 16653,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 12,
+    "t": "Raz na ulicy, raz na placach, czatuje na każdym rogu."
+  },
+  {
+    "i": 16654,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 13,
+    "t": "I uchwyciła go, pocałowała go i z bezczelną twarzą rzekła do niego:"
+  },
+  {
+    "i": 16655,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 14,
+    "t": "\"Miałam złożyć ofiarę pojednania, dzisiaj wypełniłam swoje śluby,"
+  },
+  {
+    "i": 16656,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 15,
+    "t": "Dlatego wyszłam ci na spotkanie, aby cię szukać, i znalazłam cię."
+  },
+  {
+    "i": 16657,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 16,
+    "t": "Nakryłam swoje łoże kobiercami, tkaninami haftowanymi, płótnem z Egiptu,"
+  },
+  {
+    "i": 16658,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 17,
+    "t": "Pokropiłam swoje łoże mirrą, aloesem i cynamonem."
+  },
+  {
+    "i": 16659,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 18,
+    "t": "Pójdź, upajajmy się miłością aż do rana, rozkoszujmy się pieszczotami!"
+  },
+  {
+    "i": 16660,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 19,
+    "t": "Bo męża nie ma w domu: poszedł w daleką drogę,"
+  },
+  {
+    "i": 16661,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 20,
+    "t": "Wziął ze sobą woreczek z pieniędzmi, wróci do domu dopiero w czasie pełni księżyca."
+  },
+  {
+    "i": 16662,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 21,
+    "t": "Zwodzi go wieloma pochlebstwami, uwodzi go gładkością swoich warg."
+  },
+  {
+    "i": 16663,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 22,
+    "t": "Nagle idzie za nią, jak wół idzie na rzeź, jak głupiec idzie na karanie,"
+  },
+  {
+    "i": 16664,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 23,
+    "t": "Aż strzała przeszyje jego wątrobę, jak ptak śpieszy się do sidła, nie wiedząc, że to grozi jego życiu."
+  },
+  {
+    "i": 16665,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 24,
+    "t": "Teraz więc, synowie, słuchajcie mnie i uważajcie na słowa moich ust:"
+  },
+  {
+    "i": 16666,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 25,
+    "t": "Niech twoje serce nie zbacza na jej drogi, nie błąkaj się po jej ścieżkach,"
+  },
+  {
+    "i": 16667,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 26,
+    "t": "Bo wielu powaliła, raniąc śmiertelnie, a bardzo liczni są wszyscy, których zabiła."
+  },
+  {
+    "i": 16668,
+    "b": 19,
+    "c": 2107,
+    "r": 2107,
+    "o": 27,
+    "t": "Jej dom jest drogą do piekła, prowadzącą do komnat śmierci."
+  },
+  {
+    "i": 16669,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 1,
+    "t": "Czyż mądrość nie woła? Czyż roztropność nie podnosi swego głosu?"
+  },
+  {
+    "i": 16670,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 2,
+    "t": "Na szczycie wzniesień nad drogą, na rozstaju dróg stoi,"
+  },
+  {
+    "i": 16671,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 3,
+    "t": "Przy bramach, u wejścia do miasta, wchodzących woła:"
+  },
+  {
+    "i": 16672,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 4,
+    "t": "\"Do was, ludzie, wołam, a mój głos kieruję do synów ludzkich."
+  },
+  {
+    "i": 16673,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 5,
+    "t": "Prostaczkowie, zrozumiejcie roztropność, a głupcy, nabierzcie rozumu!"
+  },
+  {
+    "i": 16674,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 6,
+    "t": "Słuchajcie, bo mam do powiedzenia rzeczy ważne, a moje wargi otwieram, aby mówić o tym, co prawe."
+  },
+  {
+    "i": 16675,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 7,
+    "t": "Moje usta głoszą prawdę, bo niegodziwość jest obrzydliwością dla moich warg."
+  },
+  {
+    "i": 16676,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 8,
+    "t": "Wszystkie słowa moich ust są sprawiedliwe, nie ma w nich nic przewrotnego ani fałszywego."
+  },
+  {
+    "i": 16677,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 9,
+    "t": "Wszystkie są jasne dla rozumnego, a prawe dla tych, którzy znaleźli poznanie."
+  },
+  {
+    "i": 16678,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 10,
+    "t": "Przyjmijcie moją naukę, a nie srebro, poznanie raczej niż czyste złoto."
+  },
+  {
+    "i": 16679,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 11,
+    "t": "Bo mądrość jest lepsza niż perły, i nic z tego, czego można pożądać, nie może się z nią równać."
+  },
+  {
+    "i": 16680,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 12,
+    "t": "\"Ja, Mądrość, mieszkam z roztropnością i posiadam wiedzę rozważną."
+  },
+  {
+    "i": 16681,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 13,
+    "t": "(Bojaźń Pańska to nienawiść zła). Nienawidzę pychy i wyniosłości, złego postępowania i ust przewrotnych."
+  },
+  {
+    "i": 16682,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 14,
+    "t": "Moja jest rada i rozwaga, ja jestem rozumem, moja moc!"
+  },
+  {
+    "i": 16683,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 15,
+    "t": "Przeze mnie królowie panują i możni stanowią prawo;"
+  },
+  {
+    "i": 16684,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 16,
+    "t": "przeze mnie rządzą książęta i wielmoże, wszyscy sprawiedliwi sędziowie."
+  },
+  {
+    "i": 16685,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 17,
+    "t": "Miłuję tych, którzy mnie miłują, którzy mnie pilnie szukają, znajdują mnie."
+  },
+  {
+    "i": 16686,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 18,
+    "t": "U mnie jest bogactwo i chwała, dobra trwałe i sprawiedliwość."
+  },
+  {
+    "i": 16687,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 19,
+    "t": "Mój owoc lepszy niż złoto, niż złoto czyste, moje plony lepsze niż srebro wyborne."
+  },
+  {
+    "i": 16688,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 20,
+    "t": "Wiodę drogą sprawiedliwości, ścieżką prawa,"
+  },
+  {
+    "i": 16689,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 21,
+    "t": "aby obdarzyć dobrami tych, którzy mnie miłują, i napełnić ich skarbce."
+  },
+  {
+    "i": 16690,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 22,
+    "t": "Pan mnie stworzył, początek swej drogi, przed dziełami swymi odwiecznymi."
+  },
+  {
+    "i": 16691,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 23,
+    "t": "Od wieków jestem ustanowiona, od początku, przed założeniem ziemi."
+  },
+  {
+    "i": 16692,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 24,
+    "t": "Kiedy głębiny nie były, byłam zrodzona, kiedy nie było źródeł obfitych w wody."
+  },
+  {
+    "i": 16693,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 25,
+    "t": "Zanim góry zostały wzniesione, przed pagórkami byłam zrodzona;"
+  },
+  {
+    "i": 16694,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 26,
+    "t": "zanim uczynił ziemię i pola, i pierwsze zręby świata."
+  },
+  {
+    "i": 16695,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 27,
+    "t": "Kiedy umacniał niebiosa, byłam tam, kiedy zakreślił krąg nad powierzchnią głębiny,"
+  },
+  {
+    "i": 16696,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 28,
+    "t": "kiedy zagęścił obłoki w górze, kiedy wzmocniły się źródła głębiny,"
+  },
+  {
+    "i": 16697,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 29,
+    "t": "kiedy wyznaczył morzu jego granice, aby wody nie przekraczały jego brzegu, kiedy kreślił fundamenty ziemi,"
+  },
+  {
+    "i": 16698,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 30,
+    "t": "byłam u Jego boku jako mistrzyni, byłam Jego rozkoszą, dzień po dniu, igrając cały czas w Jego obecności,"
+  },
+  {
+    "i": 16699,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 31,
+    "t": "igrając na powierzchni Jego ziemi i znajdując rozkosz w synach ludzkich."
+  }
+]

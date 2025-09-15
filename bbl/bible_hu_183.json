@@ -1,0 +1,802 @@
+[
+  {
+    "i": 18300,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 17,
+    "t": "Ezren reszketnek majd egyetlen fenyegetésétől, öt elől pedig elfutnak, mígnem megmaradtok, mint egy árbóc a hegy tetején, mint egy jel a dombon."
+  },
+  {
+    "i": 18301,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 18,
+    "t": "Ezért várja az Úr, hogy megkönyörüljön rajtatok, ezért emelkedik fel, hogy irgalmazzon nektek, mert az Úr az igazság Istene; boldogok mindazok, akik benne reménykednek."
+  },
+  {
+    "i": 18302,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 19,
+    "t": "Bizony, Sion népe, aki Jeruzsálemben lakozol, többé nem kell sírnod, mert megkönyörül rajtad a kiáltásodért, mihelyt meghallja, válaszol neked."
+  },
+  {
+    "i": 18303,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 20,
+    "t": "Az Úr a szorongatás kenyerét adja nektek, és a kimért vizet, a te tanítód többé nem rejtőzik el, és szemeid meglátják a te tanítódat."
+  },
+  {
+    "i": 18304,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 21,
+    "t": "Füleid meghallják a mögötted szóló szót: \"Ez az út, ezen járjatok, akár jobbra, akár balra mentek."
+  },
+  {
+    "i": 18305,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 22,
+    "t": "Tisztátalannak ítéled ezüst bálványaid bevonatát és arany szobraiddal való borítást; elveted őket, mint egy undorító tárgyat: \"El innen!\" – mondod."
+  },
+  {
+    "i": 18306,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 23,
+    "t": "És esőt ad a földbe vetett magra, és a föld termése, a kenyér bőséges és tápláló lesz. A te barmaid azon a napon tágas legelőkön legelnek."
+  },
+  {
+    "i": 18307,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 24,
+    "t": "A barmok és a szamarak, amelyek a földet munkálják, vadóselekből való takarmányt esznek, amelyet lapáttal és villával terítenek."
+  },
+  {
+    "i": 18308,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 25,
+    "t": "Minden magas hegyen és minden magas dombon patakok és vízfolyások lesznek a nagy öldöklés napján, amikor összedőlnek az erődök."
+  },
+  {
+    "i": 18309,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 26,
+    "t": "Akkor a hold fénye olyan lesz, mint a nap fénye, és a nap fénye hétszer erősebb lesz, mint hét nap fénye, azon a napon, amikor az Úr bekötözi népe sebét, és meggyógyítja a kapott ütések nyomait."
+  },
+  {
+    "i": 18310,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 27,
+    "t": "Ímé, az Úr neve messziről jön, égő a haragja, súlyos a fenyegetése. Ajkai telve vannak dühvel, nyelve pedig emésztő tűz."
+  },
+  {
+    "i": 18311,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 28,
+    "t": "Lelke olyan, mint egy áradó patak, amely a nyakig ér, hogy megrázza a nemzeteket halálos megrázkódtatással, és tévelygés zabláját tegye a népek állkapcsára."
+  },
+  {
+    "i": 18312,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 29,
+    "t": "Ének lesz az ajkaitokon, mint egy ünnepi éjszakán, és öröm lesz a szívetekben, mint amikor fuvolaszóval mentek az Úr hegyére, Izrael sziklájához."
+  },
+  {
+    "i": 18313,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 30,
+    "t": "Az Úr hallatja majd hangja fenségét, érezteti karja súlyát, haragjának hevességében, amelyet emésztő tűz, villám, zápor és jégeső kísér."
+  },
+  {
+    "i": 18314,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 31,
+    "t": "Mert az Úr hangjára Assur megrémül, megveri őt a botjával;"
+  },
+  {
+    "i": 18315,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 32,
+    "t": "valahányszor átvonul, a fenyítés vesszeje lesz az, amelyet az Úr mér rá, dobok és kinnorok hangja mellett, és azokban a harcokban, amelyeket emelt kézzel vív ellene."
+  },
+  {
+    "i": 18316,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 33,
+    "t": "Mert régtől fogva elkészíttetett Tófet, - a királynak is szánják - mély és széles a máglyája, tűz és fa bőségesen van benne; az Úr lehelete, mint egy kénes patak, meggyújtja azt."
+  },
+  {
+    "i": 18317,
+    "b": 22,
+    "c": 2431,
+    "r": 2431,
+    "o": 1,
+    "t": "Jaj azoknak, akik Egyiptomba mennek segítségért. A lovakban bíznak, a szekerekben vetik bizalmukat, mert azok sokan vannak, és a lovasokban, mert azok igen erősek. Nem fordultak Izrael Szentjéhez, nem kérdezték az Urat."
+  },
+  {
+    "i": 18318,
+    "b": 22,
+    "c": 2431,
+    "r": 2431,
+    "o": 2,
+    "t": "Pedig ő is bölcs, és bajt hozhat, soha nem szegte meg a szavát. Felkel a gonoszok nemzetsége ellen, a gonosztevők oltalma ellen."
+  },
+  {
+    "i": 18319,
+    "b": 22,
+    "c": 2431,
+    "r": 2431,
+    "o": 3,
+    "t": "Az egyiptomi ember, nem isten, lovai test, nem lélek; az Úr kinyújtja a kezét: a védő megbotlik, a védett elesik, mind együtt elvesznek."
+  },
+  {
+    "i": 18320,
+    "b": 22,
+    "c": 2431,
+    "r": 2431,
+    "o": 4,
+    "t": "Mert így szólt hozzám az Úr: Ahogy ordít az oroszlán, az oroszlánkölyök a zsákmánya után, amikor az összes pásztort odahívják ellene, de nem hagyja magát megfélemlíteni a kiáltásukkal, sem megzavarni a lármájukkal, úgy száll alá a Seregek Ura, hogy harcoljon Sion hegyén, annak halmán."
+  },
+  {
+    "i": 18321,
+    "b": 22,
+    "c": 2431,
+    "r": 2431,
+    "o": 5,
+    "t": "Mint a röpködő madarak, úgy oltalmazza a Seregek Ura Jeruzsálemet; védelmével megmenti, támogatásával megszabadítja."
+  },
+  {
+    "i": 18322,
+    "b": 22,
+    "c": 2431,
+    "r": 2431,
+    "o": 6,
+    "t": "Térjetek vissza ahhoz, akit Izrael fiai oly mélyen elárultak."
+  },
+  {
+    "i": 18323,
+    "b": 22,
+    "c": 2431,
+    "r": 2431,
+    "o": 7,
+    "t": "Mert azon a napon mindenki elveti ezüst hamis isteneit és arany hamis isteneit, amelyeket bűnös kezeitek készítettek nektek."
+  },
+  {
+    "i": 18324,
+    "b": 22,
+    "c": 2431,
+    "r": 2431,
+    "o": 8,
+    "t": "Assur elesik a kard által, nem ember kardja által, elnyeli a kard, nem halandóé. Elmenekül a kard elől, és ifjai leigáztattatnak."
+  },
+  {
+    "i": 18325,
+    "b": 22,
+    "c": 2431,
+    "r": 2431,
+    "o": 9,
+    "t": "Rémületében elhagyja szikláját, és rémült vezérei elhagyják a zászlót. Az Úr szózata, akinek a tüze Sionban van, és a kemencéje Jeruzsálemben."
+  },
+  {
+    "i": 18326,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 1,
+    "t": "Ímé, igazságosan uralkodik a király, és a fejedelmek jog szerint kormányoznak."
+  },
+  {
+    "i": 18327,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 2,
+    "t": "Mindegyik olyan lesz, mint egy rejtekhely a szél ellen, egy menedék a zápor ellen, mint patakok egy szikkadt földön, mint egy szilárd szikla árnyéka egy kietlen vidéken."
+  },
+  {
+    "i": 18328,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 3,
+    "t": "A látók szemei többé nem lesznek ragacsosak, a hallók fülei figyelmesek lesznek."
+  },
+  {
+    "i": 18329,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 4,
+    "t": "A határozatlanok szíve arra törekszik, hogy megértsen, és a dadogók nyelve habozás nélkül mond ki világos szavakat."
+  },
+  {
+    "i": 18330,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 5,
+    "t": "A bolondot többé nem nevezik nemesnek, sem a csalót nagynak."
+  },
+  {
+    "i": 18331,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 6,
+    "t": "Mert a bolond bolondságokat mond, és szíve gonoszságra adja magát, istentelenséget gyakorolva, az Úrról torz dolgokat mondva, az éhezőt élelem nélkül hagyva; megtagadja az italt a szomjazótól."
+  },
+  {
+    "i": 18332,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 7,
+    "t": "A csaló csalárdságai pedig gonoszak, mesterkedéseket sző, hogy hazug szavakkal elveszítse a szegényt, miközben a szerencsétlennek joga van hozzá."
+  },
+  {
+    "i": 18333,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 8,
+    "t": "A nemesnek pedig csak nemes szándékai voltak, felkel, hogy nemesen cselekedjen."
+  },
+  {
+    "i": 18334,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 9,
+    "t": "Fölemelkedett asszonyok, keljetek fel, halljátok meg a hangomat, nagyképű lányok, figyeljetek a szavamra."
+  },
+  {
+    "i": 18335,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 10,
+    "t": "Egy év múlva és néhány nap múlva remegni fogtok, ti önhittek, mert vége a szüretnek, nincs többé termés."
+  },
+  {
+    "i": 18336,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 11,
+    "t": "Remegjetek, ti, akik fölemelkedettek vagytok, reszkessetek, ti, akik nagyképűek vagytok; vetkőzzetek le, meztelenítsétek meg magatokat, övezzétek fel a derekatokat."
+  },
+  {
+    "i": 18337,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 12,
+    "t": "Verjétek a melleteket a derűs vidékek sorsán, a gyümölcsökkel megrakott szőlőkön;"
+  },
+  {
+    "i": 18338,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 13,
+    "t": "népem földjén tüskebokor nő, mint a zűrzavaros város minden vidám házán."
+  },
+  {
+    "i": 18339,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 14,
+    "t": "Mert elhagyatott a vár, elnéptelenedett a zajos város, Ófel és az őrtorony örökre meztelenek lesznek, a vadszamarak gyönyörűsége, a nyájak legelője."
+  },
+  {
+    "i": 18340,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 15,
+    "t": "Míg ki nem árad ránk a Felülvaló Lelke, és a sivatag gyümölcsöskertté válik, a gyümölcsöskert pedig erdőre emlékeztet."
+  },
+  {
+    "i": 18341,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 16,
+    "t": "A sivatagban megtelepszik a jog, és a gyümölcsöskertben lakozik az igazság."
+  },
+  {
+    "i": 18342,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 17,
+    "t": "Az igazság gyümölcse a béke lesz, és az igazság hatása örök nyugalom és biztonság."
+  },
+  {
+    "i": 18343,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 18,
+    "t": "Népem a béke lakóhelyén lakik, pompás otthonokban, magasztos lakhelyeken."
+  },
+  {
+    "i": 18344,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 19,
+    "t": "És ha az erdő teljesen elpusztul, ha a város súlyosan megaláztatik,"
+  },
+  {
+    "i": 18345,
+    "b": 22,
+    "c": 2432,
+    "r": 2432,
+    "o": 20,
+    "t": "boldogok lesztek, ha mindenütt vetsz, ahol van víz, szabadon engedve a barmot és a szamarat."
+  },
+  {
+    "i": 18346,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 1,
+    "t": "Jaj neked, aki pusztítasz és nem pusztulsz, aki áruló vagy, miközben nem árulnak el; ha befejezed a pusztítást, elpusztulsz, ha befejezed az árulásaidat, elárulnak."
+  },
+  {
+    "i": 18347,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 2,
+    "t": "Úr, könyörülj rajtunk, benned reménykedünk. Légy a karunk minden reggel, és a mi szabadításunk is a szorongatás idején."
+  },
+  {
+    "i": 18348,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 3,
+    "t": "A lárma zajára a népek elfutnak, amikor felkelsz, a nemzetek szétszóródnak."
+  },
+  {
+    "i": 18349,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 4,
+    "t": "Összegyűjtik nálatok a zsákmányt, ahogy a sáska összegyűjti, rárohannak, mint a sáskák rohanása."
+  },
+  {
+    "i": 18350,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 5,
+    "t": "Felmagasztaltatik az Úr, mert ott fenn trónol, betölti Siont joggal és igazsággal."
+  },
+  {
+    "i": 18351,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 6,
+    "t": "És ez lesz a biztonság a te napjaidban: a bölcsesség és az ismeret a megmentő gazdagság, az Úr félelme, ez az ő kincse."
+  },
+  {
+    "i": 18352,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 7,
+    "t": "Ímé, Ariel kiált az utcákon, a béke hírnökei keservesen sírnak."
+  },
+  {
+    "i": 18353,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 8,
+    "t": "Az utak elhagyatottak, nincs többé járókelő az ösvényeken, megszegték a szövetséget, megvetették a tanúkat, senkire sem figyeltek."
+  },
+  {
+    "i": 18354,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 9,
+    "t": "Gyászolva, a föld eped. Szégyen borítja, a Libanon elszárad, Sáron olyan lett, mint a puszta, Básán és a Kármel remeg."
+  },
+  {
+    "i": 18355,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 10,
+    "t": "Most felkelek, mondja az Úr, most felemelem magam, most felemelkedem."
+  },
+  {
+    "i": 18356,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 11,
+    "t": "Szénát fogantok, szalmát szültök, lelkem, mint egy tűz, elpusztít titeket."
+  },
+  {
+    "i": 18357,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 12,
+    "t": "A népek elfogynak, mint a mésszel, levágott tövisek, tűzben égettetnek el."
+  },
+  {
+    "i": 18358,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 13,
+    "t": "Halljátok meg, ti, akik távol vagytok, amit tettem, tudjátok meg, ti, akik közel vagytok, mi az én hatalmam."
+  },
+  {
+    "i": 18359,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 14,
+    "t": "A bűnösök megrémültek Sionban, rettegés fogta el a gonoszokat. Ki állhat meg közülünk emésztő tűz előtt? Ki állhat meg közülünk örökös parázs előtt?"
+  },
+  {
+    "i": 18360,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 15,
+    "t": "Aki igazságosan cselekszik és becsületesen beszél, aki visszautasítja a kicsikart hasznot és a kezével elhárítja a vesztegetést, aki befogja a fülét, hogy ne halljon véres beszédeket, és lezárja a szemét, hogy ne lásson gonoszságot,"
+  },
+  {
+    "i": 18361,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 16,
+    "t": "ő a magasságban lakik, a meredek sziklák lesznek a menedéke, kenyeret adnak neki, a víz nem fogy el."
+  },
+  {
+    "i": 18362,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 17,
+    "t": "Szemeid meglátják a királyt a szépségében, meglátnak egy távoli országot."
+  },
+  {
+    "i": 18363,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 18,
+    "t": "Szíved a félelmeire gondol: \"Hol van az, aki számolt? Hol van az, aki mérlegelt? Hol van az, aki megszámlálta a tornyokat?"
+  },
+  {
+    "i": 18364,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 19,
+    "t": "Többé nem látod a szemtelen népet, a érthetetlen nyelvet beszélő népet, a barbár és értelmetlen nyelvet."
+  },
+  {
+    "i": 18365,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 20,
+    "t": "Tekints Sionra, ünnepeink városára, lássák szemeid Jeruzsálemet, biztos lakhelyet, sátrat, amelyet nem mozdítanak el, amelynek soha nem tépik ki a cölöpeit, amelynek soha nem szakadnak el a kötelei."
+  },
+  {
+    "i": 18366,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 21,
+    "t": "De ott mutatja meg az Úr a mi hatalmunkat, mint folyók és széles csatornák helyét, ahol nem fognak evezős hajók közlekedni, amelyeket nem kereszteznek nagy hajók."
+  },
+  {
+    "i": 18367,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 22,
+    "t": "(Mert az Úr ítél bennünket, és az Úr kormányoz bennünket, az Úr a mi királyunk, ő a mi megmentőnk.)"
+  },
+  {
+    "i": 18368,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 23,
+    "t": "Elszakadtak a köteleid, nem tartják többé az árbocot, nem vonják fel többé a jelet. Akkor hatalmas zsákmányt osztottak el, a sánták raboltak."
+  },
+  {
+    "i": 18369,
+    "b": 22,
+    "c": 2433,
+    "r": 2433,
+    "o": 24,
+    "t": "Egyetlen lakos sem mondja többé: \"Beteg vagyok\", a nép, amely ott lakik, látni fogja a bűne megbocsátását."
+  },
+  {
+    "i": 18370,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 1,
+    "t": "Közeledjetek, nemzetek, hogy halljátok, népek, legyetek figyelmesek, hallja meg a föld, és ami betölti, a világ és annak egész lakossága."
+  },
+  {
+    "i": 18371,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 2,
+    "t": "Mert az Úr haragja minden nemzet ellen van, dühe pedig egész seregük ellen. Kárhozatra szánta őket, átadta őket a mészárlásnak."
+  },
+  {
+    "i": 18372,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 3,
+    "t": "Áldozataikat kivetik, hulláik bűze elterjed, a hegyek vérrel áznak,"
+  },
+  {
+    "i": 18373,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 4,
+    "t": "az egek egész serege felbomlik. Az egek összegöngyölődnek, mint egy könyv, egész seregük elhervad, mint a szőlőtőről lehulló levelek, mint a fügefáról lehullók."
+  },
+  {
+    "i": 18374,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 5,
+    "t": "Mert kardom megrészegedett az egekben: Ímé, lecsap Edómra, a kárhozatra szánt népre, hogy megbüntesse."
+  },
+  {
+    "i": 18375,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 6,
+    "t": "Az Úr kardja tele van vérrel, zsírtól ragacsos, a bárányok és a kecskék vérétől, a kosok veséinek zsírjától; mert áldozat van az Úrnak Boçrában, nagy öldöklés Edóm földjén."
+  },
+  {
+    "i": 18376,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 7,
+    "t": "A bivalyok velük együtt esnek el, a borjak a hizlalt barmokkal, földjük vérrel ázik, poruk zsírtól ragadós."
+  },
+  {
+    "i": 18377,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 8,
+    "t": "Mert ez a bosszú napja az Úrnak, a megtorlás éve, Sion perében."
+  },
+  {
+    "i": 18378,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 9,
+    "t": "Patakjai szurokká változnak, a pora kénné, országa pedig égő szurokká."
+  },
+  {
+    "i": 18379,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 10,
+    "t": "Éjjel-nappal nem alszik ki, örökké száll fel a füstje, nemzedékről nemzedékre elszárad, örökké és mindörökké senki sem megy át rajta."
+  },
+  {
+    "i": 18380,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 11,
+    "t": "És a pelikáné és a süné lesz az, a bagoly és a holló lakozik majd benne; és rávonja az Úr a pusztaság mérőzsinórját és az üresség mérlegét."
+  },
+  {
+    "i": 18381,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 12,
+    "t": "Nemesei nem lesznek ott, hogy királyságot kiáltsanak, és minden fejedelme odalesz."
+  },
+  {
+    "i": 18382,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 13,
+    "t": "Palotáiban tövis nő, erősségeiben csalán és bogáncs; és lesz a sakálok tanyája, a struccok udvara."
+  },
+  {
+    "i": 18383,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 14,
+    "t": "A vadmacskák találkoznak a hiénákkal, és a szatír kiált a szatírnak; ott tanyázik majd a Lilith is, és ott talál nyugalmat."
+  },
+  {
+    "i": 18384,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 15,
+    "t": "Ott fészkel a kígyó, ott rak tojást, ott költi ki, ott gyűjti össze kicsinyeit árnyékába; ott gyülekeznek a saskeselyűk is, egyik a másikhoz."
+  },
+  {
+    "i": 18385,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 16,
+    "t": "Keressétek az Úr könyvében és olvassátok el: egy sem hiányzik közülük, egyik sem nélkülözi a társát. Mert az ő szája parancsolta, és az ő Lelke gyűjtötte össze őket."
+  },
+  {
+    "i": 18386,
+    "b": 22,
+    "c": 2434,
+    "r": 2434,
+    "o": 17,
+    "t": "És ő vetett sorsot rájuk, és az ő keze osztotta ki nekik zsinórral, örökre birtokolják azt, nemzedékről nemzedékre ott lakoznak."
+  },
+  {
+    "i": 18387,
+    "b": 22,
+    "c": 2435,
+    "r": 2435,
+    "o": 1,
+    "t": "Örüljön a puszta és a kietlen föld, örvendezzen a sivatag, és viruljon, mint a nárcisz!"
+  },
+  {
+    "i": 18388,
+    "b": 22,
+    "c": 2435,
+    "r": 2435,
+    "o": 2,
+    "t": "Virulva viruljon, örvendezzen ujjongva; megadatik neki a Libanon dicsősége, a Kármel és a Sáron ékessége. Ők látják majd az Úr dicsőségét, a mi Istenünk ékességét."
+  },
+  {
+    "i": 18389,
+    "b": 22,
+    "c": 2435,
+    "r": 2435,
+    "o": 3,
+    "t": "Erősítsétek meg a lankadt kezeket, és szilárdítsátok meg a tántorgó térdeket!"
+  },
+  {
+    "i": 18390,
+    "b": 22,
+    "c": 2435,
+    "r": 2435,
+    "o": 4,
+    "t": "Mondjátok a remegő szívűeknek: „Legyetek erősek, ne féljetek! Íme, a ti Istenetek! Eljön a bosszú, az isteni megtorlás! Ő jön, hogy megmentsen titeket!”"
+  },
+  {
+    "i": 18391,
+    "b": 22,
+    "c": 2435,
+    "r": 2435,
+    "o": 5,
+    "t": "Akkor megnyílnak a vakok szemei, és a süketek fülei megnyílnak."
+  },
+  {
+    "i": 18392,
+    "b": 22,
+    "c": 2435,
+    "r": 2435,
+    "o": 6,
+    "t": "Akkor ugrándozik a sánta, mint a szarvas, és a néma nyelve ujjong. Mert vizek fakadnak a pusztában, és patakok a sivatagban."
+  },
+  {
+    "i": 18393,
+    "b": 22,
+    "c": 2435,
+    "r": 2435,
+    "o": 7,
+    "t": "A perzselt föld tóvá válik, és a szomjas föld vizek forrásává; a sakálok tanyáján, ahol tanyáztak, nád és káka lesz."
+  },
+  {
+    "i": 18394,
+    "b": 22,
+    "c": 2435,
+    "r": 2435,
+    "o": 8,
+    "t": "Lesz ott egy út, egy ösvény, amelyet szent útnak hívnak; nem megy át rajta tisztátalan; Ő maga jár majd ezen az úton velük, és a bolondok nem tévednek el rajta."
+  },
+  {
+    "i": 18395,
+    "b": 22,
+    "c": 2435,
+    "r": 2435,
+    "o": 9,
+    "t": "Nem lesz ott oroszlán, és a legvadabb állat sem megy fel oda, nem találkozni vele ott; hanem a megváltottak járnak majd ott."
+  },
+  {
+    "i": 18396,
+    "b": 22,
+    "c": 2435,
+    "r": 2435,
+    "o": 10,
+    "t": "Akiket az Úr megszabadított, visszatérnek, ujjongva érkeznek Sionba, örök örömmel a fejükön. Öröm és vígság kíséri őket, a fájdalom és a sóhajtozás megszűnik."
+  },
+  {
+    "i": 18397,
+    "b": 22,
+    "c": 2436,
+    "r": 2436,
+    "o": 1,
+    "t": "Lőn pedig Ezékiás király tizennegyedik esztendejében, feljöve Szanhérib, Asszíria királya Júda minden erős városai ellen, és bevette azokat."
+  },
+  {
+    "i": 18398,
+    "b": 22,
+    "c": 2436,
+    "r": 2436,
+    "o": 2,
+    "t": "És elküldé Asszíria királya Lákisból Rabsakét Ezékiás királyhoz Jeruzsálembe nagy sereggel. És megálla a felső tó csatornájánál, a ruhafestő mezejének útján."
+  },
+  {
+    "i": 18399,
+    "b": 22,
+    "c": 2436,
+    "r": 2436,
+    "o": 3,
+    "t": "És kimenének hozzá Eljákim, Hilkijjának fia, a palota gondviselője, Sebna, az írnok, és Joakh, Aszáfnak fia, a hírmondó."
+  }
+]

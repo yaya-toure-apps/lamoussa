@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4800,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 41,
+    "t": "Und sie brachen auf von Hor, dem Berg, und lagerten sich in Zalmona."
+  },
+  {
+    "i": 4801,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 42,
+    "t": "Und sie brachen auf von Zalmona und lagerten sich in Punon."
+  },
+  {
+    "i": 4802,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 43,
+    "t": "Und sie brachen auf von Punon und lagerten sich in Obot."
+  },
+  {
+    "i": 4803,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 44,
+    "t": "Und sie brachen auf von Obot und lagerten sich in Ije-Abarim, an der Grenze von Moab."
+  },
+  {
+    "i": 4804,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 45,
+    "t": "Und sie brachen auf von Ijim und lagerten sich in Dibon-Gad."
+  },
+  {
+    "i": 4805,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 46,
+    "t": "Und sie brachen auf von Dibon-Gad und lagerten sich in Almon-Diblatajim."
+  },
+  {
+    "i": 4806,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 47,
+    "t": "Und sie brachen auf von Almon-Diblatajim und lagerten sich im Gebirge Abarim, vor Nebo."
+  },
+  {
+    "i": 4807,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 48,
+    "t": "Und sie brachen auf vom Gebirge Abarim und lagerten sich in den Ebenen Moabs, am Jordan, Jericho gegenüber."
+  },
+  {
+    "i": 4808,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 49,
+    "t": "Und sie lagerten sich am Jordan, von Bet-Jeschimot bis Abel-Schittim, in den Ebenen Moabs."
+  },
+  {
+    "i": 4809,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 50,
+    "t": "Und der HERR redete mit Mose in den Ebenen Moabs, am Jordan, Jericho gegenüber, und sprach:"
+  },
+  {
+    "i": 4810,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 51,
+    "t": "Rede mit den Kindern Israel und sprich zu ihnen: Wenn ihr über den Jordan in das Land Kanaan kommt,"
+  },
+  {
+    "i": 4811,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 52,
+    "t": "so sollt ihr alle Einwohner des Landes vor euch vertreiben und alle ihre Götzenbilder zerstören, alle ihre gegossenen Bilder vernichten und alle ihre Höhenstätten verwüsten."
+  },
+  {
+    "i": 4812,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 53,
+    "t": "Und nehmt das Land ein und wohnt darin; denn euch habe ich das Land gegeben, es zu besitzen."
+  },
+  {
+    "i": 4813,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 54,
+    "t": "Und teilt das Land durch das Los unter euch, nach euren Geschlechtern. Dem größeren Geschlecht sollt ihr ein größeres Erbteil geben, und dem kleineren Geschlecht sollt ihr ein kleineres Erbteil geben; jedem soll sein Erbteil nach dem Los zufallen. Nach den Stämmen eurer Väter sollt ihr es verteilen."
+  },
+  {
+    "i": 4814,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 55,
+    "t": "Wenn ihr aber die Einwohner des Landes nicht vor euch vertreibt, so werden die, die ihr von ihnen übrig lasst, zu Stacheln in euren Augen und zu Dornen in euren Seiten, und sie werden euch bedrängen in dem Land, darin ihr wohnt."
+  },
+  {
+    "i": 4815,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 56,
+    "t": "Und ich werde euch tun, wie ich ihnen zu tun gedachte."
+  },
+  {
+    "i": 4816,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 1,
+    "t": "Und der HERR redete mit Mose und sprach:"
+  },
+  {
+    "i": 4817,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 2,
+    "t": "Gebiete den Kindern Israel und sprich zu ihnen: Wenn ihr in das Land Kanaan kommt, so ist dies das Land, das euch zum Erbteil zufallen soll: das Land Kanaan nach seinen Grenzen."
+  },
+  {
+    "i": 4818,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 3,
+    "t": "Eure südliche Grenze soll vom Wüstenzin an der Seite von Edom verlaufen. Und eure südliche Grenze soll vom Ende des Salzmeeres nach Osten beginnen."
+  },
+  {
+    "i": 4819,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 4,
+    "t": "Und die Grenze soll sich im Süden wenden zur Anhöhe der Skorpione und nach Zin ziehen, und ihr Ausgang soll südlich von Kadesch-Barnea sein. Und sie soll nach Hazar-Addar ziehen und nach Azmon hinübergehen."
+  },
+  {
+    "i": 4820,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 5,
+    "t": "Und die Grenze soll sich von Azmon zum Bach Ägypten wenden, und ihr Ausgang soll am Meer sein."
+  },
+  {
+    "i": 4821,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 6,
+    "t": "Und eure westliche Grenze soll das große Meer sein; dies soll eure westliche Grenze sein."
+  },
+  {
+    "i": 4822,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 7,
+    "t": "Und dies soll eure nördliche Grenze sein: Vom großen Meer sollt ihr eine Linie zum Berg Hor ziehen,"
+  },
+  {
+    "i": 4823,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 8,
+    "t": "und vom Berg Hor sollt ihr eine Linie ziehen zum Eingang von Hamat, und der Ausgang der Grenze soll in Zedad sein."
+  },
+  {
+    "i": 4824,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 9,
+    "t": "Und die Grenze soll nach Sifron ziehen, und ihr Ausgang soll in Hazar-Enan sein; dies soll eure nördliche Grenze sein."
+  },
+  {
+    "i": 4825,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 10,
+    "t": "Und eure östliche Grenze sollt ihr von Hazar-Enan nach Schefam ziehen."
+  },
+  {
+    "i": 4826,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 11,
+    "t": "Und die Grenze soll von Schefam nach Harbel, östlich von Ajin, hinabziehen; und die Grenze soll weiter hinabziehen und an das Ufer des Sees Genezareth im Osten stoßen."
+  },
+  {
+    "i": 4827,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 12,
+    "t": "Und die Grenze soll am Jordan entlang bis zum Salzmeer hinabziehen. Dies soll euer Land sein nach seinen Grenzen ringsum."
+  },
+  {
+    "i": 4828,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 13,
+    "t": "Und Mose gebot den Kindern Israel und sprach: Dies ist das Land, das ihr durch das Los unter euch verteilen sollt, das der HERR den neun Stämmen und dem halben Stamm zu geben befohlen hat."
+  },
+  {
+    "i": 4829,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 14,
+    "t": "Denn der Stamm der Kinder Ruben nach den Häusern ihrer Väter und der Stamm der Kinder Gad nach den Häusern ihrer Väter haben ihr Erbteil empfangen, und der halbe Stamm Manasse hat sein Erbteil empfangen."
+  },
+  {
+    "i": 4830,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 15,
+    "t": "Diese zwei Stämme und der halbe Stamm haben ihr Erbteil jenseits des Jordan, Jericho gegenüber, im Osten, gegen den Aufgang der Sonne, empfangen."
+  },
+  {
+    "i": 4831,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 16,
+    "t": "Und der HERR redete mit Mose und sprach:"
+  },
+  {
+    "i": 4832,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 17,
+    "t": "Dies sind die Namen der Männer, die euch das Land verteilen sollen: Eleasar, der Priester, und Josua, der Sohn Nuns,"
+  },
+  {
+    "i": 4833,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 18,
+    "t": "und von jedem Stamm sollt ihr einen Fürsten nehmen, um das Land zu verteilen."
+  },
+  {
+    "i": 4834,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 19,
+    "t": "Und dies sind die Namen der Männer: Vom Stamm Juda Kaleb, der Sohn Jefunnes;"
+  },
+  {
+    "i": 4835,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 20,
+    "t": "vom Stamm Simeon Samuel, der Sohn Ammihuds;"
+  },
+  {
+    "i": 4836,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 21,
+    "t": "vom Stamm Benjamin Elidad, der Sohn Kislons;"
+  },
+  {
+    "i": 4837,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 22,
+    "t": "vom Stamm Dan der Fürst Bukki, der Sohn Joglis;"
+  },
+  {
+    "i": 4838,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 23,
+    "t": "von den Söhnen Josefs, vom Stamm Manasse der Fürst Hanniel, der Sohn Efods;"
+  },
+  {
+    "i": 4839,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 24,
+    "t": "und vom Stamm Ephraim der Fürst Kemuel, der Sohn Schiftans;"
+  },
+  {
+    "i": 4840,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 25,
+    "t": "vom Stamm Sebulon der Fürst Elizafan, der Sohn Parnaks;"
+  },
+  {
+    "i": 4841,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 26,
+    "t": "vom Stamm Issachar der Fürst Paltiel, der Sohn Azzans;"
+  },
+  {
+    "i": 4842,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 27,
+    "t": "vom Stamm Asser der Fürst Ahihud, der Sohn Schelomis;"
+  },
+  {
+    "i": 4843,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 28,
+    "t": "vom Stamm Naftali der Fürst Pedahel, der Sohn Ammihuds."
+  },
+  {
+    "i": 4844,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 29,
+    "t": "Dies sind die, denen der HERR befahl, den Kindern Israel ihr Erbteil im Land Kanaan zuzuteilen."
+  },
+  {
+    "i": 4845,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 1,
+    "t": "Und der HERR redete mit Mose in den Ebenen Moabs, am Jordan, Jericho gegenüber, und sprach:"
+  },
+  {
+    "i": 4846,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 2,
+    "t": "Gebiete den Kindern Israel, dass sie den Leviten von ihrem Erbteil Städte zum Wohnen geben, und die Weideplätze rings um die Städte sollt ihr den Leviten geben."
+  },
+  {
+    "i": 4847,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 3,
+    "t": "Die Städte sollen sie zum Wohnen haben, und die Weideplätze sollen für ihr Vieh, für ihre Habe und für alle ihre Tiere sein."
+  },
+  {
+    "i": 4848,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 4,
+    "t": "Und die Weideplätze um die Städte, die ihr den Leviten geben sollt, sollen vom Mauerrand der Stadt eintausend Ellen ringsum sein."
+  },
+  {
+    "i": 4849,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 5,
+    "t": "Und ihr sollt außerhalb der Stadt zweitausend Ellen für die östliche Seite, zweitausend Ellen für die südliche Seite, zweitausend Ellen für die westliche Seite und zweitausend Ellen für die nördliche Seite messen, sodass die Stadt in der Mitte liegt. Dies sollen die Weideplätze der Städte sein."
+  },
+  {
+    "i": 4850,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 6,
+    "t": "Und die Städte, die ihr den Leviten geben sollt, sollen die sechs Freistädte sein, die ihr geben sollt, damit der Totschläger dorthin fliehen kann; und dazu sollt ihr zweiundvierzig Städte geben."
+  },
+  {
+    "i": 4851,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 7,
+    "t": "Alle Städte, die ihr den Leviten geben sollt, sind achtundvierzig Städte mit ihren Weideplätzen."
+  },
+  {
+    "i": 4852,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 8,
+    "t": "Und von dem Besitz der Kinder Israel sollt ihr dem, der viel hat, viel nehmen, und dem, der wenig hat, wenig nehmen; jeder soll den Leviten von seinen Städten geben, je nach dem Erbteil, das ihm zugefallen ist."
+  },
+  {
+    "i": 4853,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 9,
+    "t": "Und der HERR redete mit Mose und sprach:"
+  },
+  {
+    "i": 4854,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 10,
+    "t": "Rede mit den Kindern Israel und sprich zu ihnen: Wenn ihr über den Jordan in das Land Kanaan kommt,"
+  },
+  {
+    "i": 4855,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 11,
+    "t": "so sollt ihr euch Städte bestimmen, die Freistädte sein sollen, damit der Totschläger dorthin fliehen kann, der einen Menschen unabsichtlich erschlagen hat."
+  },
+  {
+    "i": 4856,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 12,
+    "t": "Und die Städte sollen euch zur Flucht vor dem Bluträcher dienen, damit der Totschläger nicht stirbt, bis er vor der Gemeinde zum Gericht gestanden hat."
+  },
+  {
+    "i": 4857,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 13,
+    "t": "Und die Städte, die ihr geben sollt, sollen euch sechs Freistädte sein:"
+  },
+  {
+    "i": 4858,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 14,
+    "t": "drei Städte sollt ihr jenseits des Jordan geben, und drei Städte sollt ihr im Land Kanaan geben; es sollen Freistädte sein."
+  },
+  {
+    "i": 4859,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 15,
+    "t": "Für die Kinder Israel, für den Fremdling und für den Beisassen unter euch sollen diese sechs Städte zur Flucht dienen, damit jeder dorthin fliehen kann, der einen Menschen unabsichtlich erschlagen hat."
+  },
+  {
+    "i": 4860,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 16,
+    "t": "Wenn er ihn aber mit einem eisernen Werkzeug schlägt, sodass er stirbt, so ist er ein Mörder; der Mörder soll unbedingt getötet werden."
+  },
+  {
+    "i": 4861,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 17,
+    "t": "Und wenn er ihn mit einem Stein, durch den man sterben kann, schlägt, sodass er stirbt, so ist er ein Mörder; der Mörder soll unbedingt getötet werden."
+  },
+  {
+    "i": 4862,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 18,
+    "t": "Oder wenn er ihn mit einem hölzernen Werkzeug, durch das man sterben kann, schlägt, sodass er stirbt, so ist er ein Mörder; der Mörder soll unbedingt getötet werden."
+  },
+  {
+    "i": 4863,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 19,
+    "t": "Der Bluträcher soll den Mörder töten; wenn er ihn antrifft, soll er ihn töten."
+  },
+  {
+    "i": 4864,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 20,
+    "t": "Wenn er ihn aber aus Hass stößt oder ihn mit Vorsatz wirft, sodass er stirbt,"
+  },
+  {
+    "i": 4865,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 21,
+    "t": "oder wenn er ihn aus Feindschaft mit der Hand schlägt, sodass er stirbt, so soll der Schläger unbedingt getötet werden, denn er ist ein Mörder. Der Bluträcher soll den Mörder töten, wenn er ihn antrifft."
+  },
+  {
+    "i": 4866,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 22,
+    "t": "Wenn er ihn aber unversehens, ohne Feindschaft, stößt oder ein beliebiges Wurfgeschoss wirft, ohne Vorsatz,"
+  },
+  {
+    "i": 4867,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 23,
+    "t": "oder einen Stein, durch den man sterben kann, ohne es zu sehen, auf ihn fallen lässt, sodass er stirbt, während er ihm nicht feind ist und ihm kein Leid zufügen will,"
+  },
+  {
+    "i": 4868,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 24,
+    "t": "so soll die Gemeinde zwischen dem Schläger und dem Bluträcher nach diesen Bestimmungen richten."
+  },
+  {
+    "i": 4869,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 25,
+    "t": "Und die Gemeinde soll den Totschläger aus der Hand des Bluträchers erretten, und die Gemeinde soll ihn in seine Freistadt zurückbringen, wohin er geflohen ist; und er soll darin wohnen, bis der Hohepriester stirbt, der mit dem heiligen Öl gesalbt wurde."
+  },
+  {
+    "i": 4870,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 26,
+    "t": "Wenn aber der Totschläger außerhalb des Gebiets seiner Freistadt hinausgeht, wohin er geflohen ist,"
+  },
+  {
+    "i": 4871,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 27,
+    "t": "und der Bluträcher ihn außerhalb des Gebiets seiner Freistadt antrifft, so darf der Bluträcher den Totschläger töten; es soll keine Blutschuld auf ihm liegen,"
+  },
+  {
+    "i": 4872,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 28,
+    "t": "denn er muss bis zum Tod des Hohepriesters in seiner Freistadt wohnen; aber nach dem Tod des Hohepriesters darf der Totschläger in sein Land zurückkehren, in sein Eigentum."
+  },
+  {
+    "i": 4873,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 29,
+    "t": "Dies soll euch eine Rechtssatzung sein für eure Geschlechter, an allen euren Wohnorten."
+  },
+  {
+    "i": 4874,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 30,
+    "t": "Jeder, der einen Menschen erschlägt, soll auf die Aussage von Zeugen als Mörder getötet werden; ein einzelner Zeuge aber soll nicht gegen jemanden aussagen, um ihn zum Tod zu verurteilen."
+  },
+  {
+    "i": 4875,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 31,
+    "t": "Und ihr sollt für das Leben eines Mörders, der des Todes schuldig ist, kein Sühnegeld annehmen, denn er soll unbedingt getötet werden."
+  },
+  {
+    "i": 4876,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 32,
+    "t": "Auch sollt ihr kein Sühnegeld für den annehmen, der in seine Freistadt geflohen ist, damit er in sein Land zurückkehren kann, um vor dem Tod des Hohepriesters darin zu wohnen."
+  },
+  {
+    "i": 4877,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 33,
+    "t": "Und ihr sollt das Land, in dem ihr seid, nicht entweihen; denn das Blut entweiht das Land, und für das Land kann keine Sühnung geschehen für das vergossene Blut, außer durch das Blut dessen, der es vergossen hat."
+  },
+  {
+    "i": 4878,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 34,
+    "t": "Und du sollst das Land, in dem ihr wohnt, nicht unrein machen, in dessen Mitte ich wohne; denn ich, der HERR, wohne inmitten der Kinder Israel."
+  },
+  {
+    "i": 4879,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 1,
+    "t": "Und die Oberhäupter der Sippen der Kinder Gileads, des Sohnes Machirs, des Sohnes Manasses, von den Sippen der Kinder Josefs, traten herzu und redeten vor Mose und vor den Fürsten, den Oberhäuptern der Sippen der Kinder Israel,"
+  },
+  {
+    "i": 4880,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 2,
+    "t": "und sprachen: \"Jahwe hat unserem Herrn geboten, das Land den Israeliten durch das Los zu geben und zu verteilen; und unser Herr hat von Jahwe den Befehl empfangen, den Erbteil unseres Bruders Zelophehad seinen Töchtern zu geben."
+  },
+  {
+    "i": 4881,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 3,
+    "t": "Wenn sie aber einen aus einem anderen Stamm Israels heiraten, so wird ihr Anteil von dem Anteil unserer Väter abgetrennt. Der Anteil des Stammes, dem sie angehören werden, wird vermehrt, und der Anteil, der uns durch das Los zugefallen ist, wird vermindert werden."
+  },
+  {
+    "i": 4882,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 4,
+    "t": "Und wenn das Jobeljahr für die Israeliten kommt, so wird der Anteil dieser Frauen dem Anteil des Stammes hinzugefügt werden, dem sie angehören werden, und er wird von dem Anteil unseres Stammes abgetrennt werden."
+  },
+  {
+    "i": 4883,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 5,
+    "t": "Mose gab den Israeliten auf Befehl Jahwes diesen Befehl und sprach: \"Der Stamm der Söhne Josephs hat recht geredet."
+  },
+  {
+    "i": 4884,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 6,
+    "t": "Dies ist, was Jahwe für die Töchter Zelophehads gebietet: Sie sollen heiraten, wen sie wollen, vorausgesetzt, sie heiraten in einem Geschlecht des Stammes ihres Vaters."
+  },
+  {
+    "i": 4885,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 7,
+    "t": "Der Anteil der Israeliten soll nicht von Stamm zu Stamm übergehen; die Israeliten sollen jeder an dem Anteil seines Stammes festhalten."
+  },
+  {
+    "i": 4886,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 8,
+    "t": "Jede Tochter, die einen Anteil in einem der Stämme Israels besitzt, soll in einem Geschlecht ihres väterlichen Stammes heiraten, damit die Israeliten jeder den Anteil seines Vaters behalten."
+  },
+  {
+    "i": 4887,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 9,
+    "t": "Ein Anteil soll nicht von einem Stamm auf den anderen übertragen werden: Jeder der Stämme Israels soll an seinem Anteil festhalten."
+  },
+  {
+    "i": 4888,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 10,
+    "t": "Die Töchter Zelophehads taten, wie Jahwe es Mose geboten hatte."
+  },
+  {
+    "i": 4889,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 11,
+    "t": "Machla, Tirza, Hogla, Milka und Noa, die Töchter Zelophehads, heirateten die Söhne ihrer Onkel väterlicherseits."
+  },
+  {
+    "i": 4890,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 12,
+    "t": "Da sie in Geschlechtern der Söhne Manasses, des Sohnes Josephs, geheiratet hatten, fiel ihr Anteil dem Stamm des Geschlechts ihres Vaters zu."
+  },
+  {
+    "i": 4891,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 13,
+    "t": "Dies sind die Gebote und Gesetze, die Jahwe den Israeliten durch Mose in den Steppen Moabs, nahe dem Jordan, gegenüber Jericho, verordnete."
+  },
+  {
+    "i": 4892,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 1,
+    "t": "Dies sind die Worte, die Mose zu ganz Israel jenseits des Jordans redete, in der Wüste, in der Araba, gegenüber Suph, zwischen Paran und Tophel, Laban, Hazerot und Di-Sahab. —"
+  },
+  {
+    "i": 4893,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 2,
+    "t": "Es sind elf Tagereisen vom Horeb, auf dem Weg des Gebirges Seir, bis nach Kadesch-Barnea. —"
+  },
+  {
+    "i": 4894,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 3,
+    "t": "Im vierzigsten Jahr, am ersten Tag des elften Monats, redete Mose zu den Israeliten nach allem, was Jahwe ihm über sie geboten hatte."
+  },
+  {
+    "i": 4895,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 4,
+    "t": "Er hatte Sihon geschlagen, den König der Amoriter, der in Heschbon wohnte, und Og, den König des Baschan, der in Aschtarot und in Edreï wohnte."
+  },
+  {
+    "i": 4896,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 5,
+    "t": "Jenseits des Jordans, im Land Moab, beschloss Mose, dieses Gesetz einzugraben. Er sprach:"
+  },
+  {
+    "i": 4897,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 6,
+    "t": "Jahwe, unser Gott, hat zu uns am Horeb geredet: \"Ihr habt genug in diesem Gebirge gewohnt."
+  },
+  {
+    "i": 4898,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 7,
+    "t": "Geht weg, zieht ab und geht zum Gebirge der Amoriter, zu allen, die in der Araba, im Gebirge, im Tiefland, im Negev und am Ufer des Meeres wohnen, geht ins Land Kanaan und zum Libanon bis zum großen Strom, dem Euphrat."
+  },
+  {
+    "i": 4899,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 8,
+    "t": "Siehe, das Land, das ich euch gegeben habe; so geht nun hin und nehmt das Land in Besitz, das Jahwe euren Vätern Abraham, Isaak und Jakob und ihren Nachkommen nach ihnen mit einem Eid versprochen hat."
+  }
+]

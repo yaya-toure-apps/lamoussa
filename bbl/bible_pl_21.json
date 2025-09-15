@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2100,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 24,
+    "t": "Oko za oko, ząb za ząb, noga za nogę,"
+  },
+  {
+    "i": 2101,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 25,
+    "t": "oparzenie za oparzenie, rana za ranę, pręga za pręgę."
+  },
+  {
+    "i": 2102,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 26,
+    "t": "Jeśli kto uderzy w oko niewolnika swego lub niewolnicy, i wybiwszy je, puści go wolnym za oko jego."
+  },
+  {
+    "i": 0,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 27,
+    "t": "A jeśliby ząb wybił niewolnikowi swemu, albo niewolnicy, puści go wolnym za ząb jego."
+  },
+  {
+    "i": 2104,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 28,
+    "t": "Jeśliby wół bodł człowieka, albo niewiastę, i umarłby, ukamionowany będzie wół, a nie będą jedli mięsa jego; ale właściciel wołu będzie niewinny."
+  },
+  {
+    "i": 2105,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 29,
+    "t": "Ale jeśliby wół bodł wprzódy, a właściciel jego był wiedział, a nie strzegłby go, i zabiłby człowieka, albo niewiastę, ukamionowany będzie wół, i właściciel jego umrze."
+  },
+  {
+    "i": 2106,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 30,
+    "t": "Jeśliby mu nałożono okup, da za okup duszę swoję, wszystko co mu nałożono."
+  },
+  {
+    "i": 2107,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 31,
+    "t": "Jeśliby syna bodł, albo córkę, według tegoż sądu uczynią mu."
+  },
+  {
+    "i": 2108,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 32,
+    "t": "Jeśliby niewolnika, albo niewolnicę wół bodł, da panu jego trzydzieści syklów srebra, a wół będzie ukamionowany."
+  },
+  {
+    "i": 2109,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 33,
+    "t": "Jeśliby kto otworzył studnię, albo jeśliby kto wykopał studnię, a nie nakryłby jej, i wpadłby tam wół, albo osieł,"
+  },
+  {
+    "i": 2110,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 34,
+    "t": "Właściciel studni nagrodzi; pieniądze odda panu jego, a zdechłe będzie jego."
+  },
+  {
+    "i": 2111,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 35,
+    "t": "Jeśliby wół czyj bodł wołu cudzego, i umarłby, tedy przedadzą wołu żywego, a pieniądze rozdzielą między siebie, także i zdechłego rozdzielą."
+  },
+  {
+    "i": 2112,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 36,
+    "t": "Ale jeśliby wprzódy był wiedział, że wół jego bodzie, a nie strzegłby go, tedy odda wołu za wołu, a zdechłe będzie jego."
+  },
+  {
+    "i": 2113,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 37,
+    "t": "\"Jeśliby kto ukradł wołu, albo owcę, a zabiłby ją, albo przedałby ją, odda pięć wołów za wołu, a cztery owce za owcę."
+  },
+  {
+    "i": 2114,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 1,
+    "t": "Jeśliby złodziej był znalezion ukopujący, a byłby uderzon, i umarłby, nie będzie krew jego pomsta uczyniona."
+  },
+  {
+    "i": 2115,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 2,
+    "t": "Ale jeśliby słońce weszło nad nim, będzie krew jego pomsta uczyniona. Nagrodzi, jeśliby nie miał czem, przedan będzie dla kradzieży swojej."
+  },
+  {
+    "i": 2116,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 3,
+    "t": "Jeśliby znaleziona była kradziona rzecz w ręce jego żywa, albo wół, albo osieł, albo owca, odda podwójną."
+  },
+  {
+    "i": 2117,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 4,
+    "t": "\"Jeśliby kto spustoszył rolę, albo winnicę, a puściłby bydlę swoje, aby spustoszyło rolę cudzą, z najlepszego pola swego, i z najlepszej winnicy swojej nagrodzi."
+  },
+  {
+    "i": 2118,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 5,
+    "t": "Jeśliby ogień wyszedł, i znalazł ciernie, a zapaliłby snopy, albo zboże stojące, albo pole, tedy nagrodzi ten, który zapalił ogień."
+  },
+  {
+    "i": 2119,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 6,
+    "t": "Jeśliby kto dał drugiemu pieniądze, albo naczynie ku strzeżeniu, i skradziono by z domu onego, jeśliby znalezion był złodziej, odda podwójną."
+  },
+  {
+    "i": 2120,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 7,
+    "t": "Jeśliby nie był znalezion złodziej, tedy przystąpi pan domu przed Boga, jeśliby nie wyciągnął ręki swojej na cudzą własność."
+  },
+  {
+    "i": 2121,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 8,
+    "t": "O każdą sprawę przestępstwa, o wołu, o osła, o owcę, o szatę, o wszelką rzecz zgubioną, o której by rzekł: Ta jest, do Boga przyjdzie sprawa obojga; którego Bóg potępi, odda podwójną bliźniemu swemu."
+  },
+  {
+    "i": 2122,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 9,
+    "t": "Jeśliby kto dał drugiemu osła, albo wołu, albo owcę, albo wszelakie bydlę ku strzeżeniu, i zdechłoby, albo zranione byłoby, albo upędzone, nie widząc nikt,"
+  },
+  {
+    "i": 2123,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 10,
+    "t": "Przysięga Pańska będzie między obydwoma, jeśliby nie wyciągnął ręki swojej na cudzą własność; tedy weźmie pan jego, a on nie nagrodzi."
+  },
+  {
+    "i": 2124,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 11,
+    "t": "A jeśliby mu skradziono, tedy nagrodzi panu jego."
+  },
+  {
+    "i": 2125,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 12,
+    "t": "Jeśliby rozszarpane było, przyniesie na świadectwo rozszarpane, a nie nagrodzi."
+  },
+  {
+    "i": 2126,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 13,
+    "t": "Jeśliby kto pożyczył od bliźniego swego bydlęcia, i zranione byłoby, albo zdechłoby, nie będąc pan jego z niem, nagrodzi koniecznie."
+  },
+  {
+    "i": 2127,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 14,
+    "t": "Ale jeśliby pan jego był z niem, nie nagrodzi; jeśliby najęte było, idzie za najem jego."
+  },
+  {
+    "i": 2128,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 15,
+    "t": "\"Jeśliby kto zwiódł pannę nie zaślubioną, a spałby z nią, zapłatą da ją sobie za żonę."
+  },
+  {
+    "i": 2129,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 16,
+    "t": "Jeśliby jej ociec bronił dać jej sobie, tedy odważy pieniądze według zapłaty panien."
+  },
+  {
+    "i": 2130,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 17,
+    "t": "\"Czarownicy nie dopuścisz żyć."
+  },
+  {
+    "i": 2131,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 18,
+    "t": "Ktoby obcował z bydlęciem, śmiercią umrze."
+  },
+  {
+    "i": 2132,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 19,
+    "t": "Kto ofiaruje bogom cudzym, wytracony będzie, tylko samemu Panu."
+  },
+  {
+    "i": 2133,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 20,
+    "t": "Przychodnia nie będziesz trapił, ani go uciskał; boście wy byli przychodniami w ziemi Egipskiej."
+  },
+  {
+    "i": 2134,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 21,
+    "t": "Żadnej wdowy i sieroty nie będziecie trapić."
+  },
+  {
+    "i": 2135,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 22,
+    "t": "Jeślibyś ich trapił, a oni wołać będą do mnie, usłyszę wołanie ich,"
+  },
+  {
+    "i": 2136,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 23,
+    "t": "I zapali się gniew mój, i pobiję was mieczem, i będą żony wasze wdowami, a synowie wasi sierotami."
+  },
+  {
+    "i": 2137,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 24,
+    "t": "Jeślibyś pożyczył pieniędzy ubogiemu z ludu mego, który jest z tobą, nie będziesz go uciskał jako lichwiarz, ani mu będziesz naglił."
+  },
+  {
+    "i": 2138,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 25,
+    "t": "Jeślibyś wziął w zastaw płaszcz bliźniego swego, przed zachodem słońca oddasz mu go,"
+  },
+  {
+    "i": 2139,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 26,
+    "t": "Bo to jest okrycie jego same, to jest szata jego na skórze jego; w czemże spać będzie? A jeśliby wołał do mnie, usłyszę go, bo jestem miłosierny."
+  },
+  {
+    "i": 2140,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 27,
+    "t": "Bogów nie będziesz złorzeczył, a książęciu ludu twego nie będziesz przeklinał."
+  },
+  {
+    "i": 2141,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 28,
+    "t": "\"Z opłat twoich hojnych i z cieczy twojej nie będziesz się ociągał ofiarować; pierworodnego synów twoich dasz mi."
+  },
+  {
+    "i": 2142,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 29,
+    "t": "Także uczynisz z wołu twego, i z owiec twoich; siedem dni będzie pod matką swoją, dnia ósmego dasz mi go."
+  },
+  {
+    "i": 2143,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 30,
+    "t": "I będziecie mi ludźmi świętymi; mięsa w polu rozszarpanego nie będziecie jeść; psom je rzucicie."
+  },
+  {
+    "i": 2144,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 1,
+    "t": "\"Nie roznoś famy fałszywej; nie podawaj ręki swej z niezbożnikiem, abyś był świadkiem niesprawiedliwym."
+  },
+  {
+    "i": 2145,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 2,
+    "t": "Nie pójdziesz za mnogimi, abyś czynił złe, i nie będziesz odpowiadał w sprawie, upadając na słowa wielu, abyś się uchylił od prawdy."
+  },
+  {
+    "i": 2146,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 3,
+    "t": "Także ubogiemu nie będziesz miłował twarzy jego w sprawie jego."
+  },
+  {
+    "i": 2147,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 4,
+    "t": "Jeślibyś nalazł wołu nieprzyjaciela swego, albo osła jego błąkającego się, pewnie przyprowadziesz go do niego."
+  },
+  {
+    "i": 2148,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 5,
+    "t": "Jeślibyś widział osła tego, który cię nienawidzi, leżącego pod brzemieniem jego, a miałbyś przestać pomoc mu, pewnie pomożesz mu."
+  },
+  {
+    "i": 2149,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 6,
+    "t": "Nie uchylisz sądu ubogiemu twemu w sprawie jego."
+  },
+  {
+    "i": 2150,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 7,
+    "t": "Od słowa fałszywego oddalisz się; niewinnego i sprawiedliwego nie zabijesz; bo nie usprawiedliwię niezbożnika."
+  },
+  {
+    "i": 2151,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 8,
+    "t": "Darów nie będziesz brał; bo dary zaćmiewają oczy mądrych, a podwracają sprawy sprawiedliwych."
+  },
+  {
+    "i": 2152,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 9,
+    "t": "Przychodnia nie będziesz uciskał; bo wy wiecie duszę przychodnia, gdyżście wy byli przychodniami w ziemi Egipskiej."
+  },
+  {
+    "i": 2153,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 10,
+    "t": "\"Sześć lat obsiewać będziesz ziemię twoję, i zbierać będziesz urodzaje jej."
+  },
+  {
+    "i": 2154,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 11,
+    "t": "Ale siódmego roku odpocznąć jej dasz, a opuścisz ją, aby jedli ubodzy z ludu twego; a co zostanie po nich, jeść będą zwierzęta polne; tak uczynisz z winnicą twoją, i z oliwnicą twoją."
+  },
+  {
+    "i": 2155,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 12,
+    "t": "Sześć dni czynić będziesz sprawy twoje, ale dnia siódmego odpoczniesz, aby odpoczął wół twój, i osieł twój, i aby ochłodził się syn służebnicy twojej, i przychodzień."
+  },
+  {
+    "i": 2156,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 13,
+    "t": "A wszystkiego, co wam mówię, strzeżcie się; a imienia bogów cudzych nie wspominajcie; niech nie będzie słyszano z ust waszych."
+  },
+  {
+    "i": 2157,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 14,
+    "t": "\"Trzy razy w rok święto mi obchodzić będziesz."
+  },
+  {
+    "i": 2158,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 15,
+    "t": "Święta przaśników będziesz strzegł; siedem dni jeść będziesz chleb przaśny, jakożem ci rozkazał, czasu naznaconego miesiąca Abib; boś w nim wyszedł z Egiptu, a nie pokażą się przed obliczem mojem próżno."
+  },
+  {
+    "i": 2159,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 16,
+    "t": "Także święta żniwa pierwocin robot twoich, które posiejesz na roli; i święta zebrania na wyjściu roku, gdy zbierzesz roboty twoje z roli."
+  },
+  {
+    "i": 2160,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 17,
+    "t": "Trzy razy w rok pokaże się wszystko mężobójstwo twoje przed Panem Bogiem."
+  },
+  {
+    "i": 2161,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 18,
+    "t": "Nie będziesz ofiarował z kwasem krwi ofiary mojej, ani ostanie tłustość święta mojego aż do poranku."
+  },
+  {
+    "i": 2162,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 19,
+    "t": "Pierwociny pierwszych owoców ziemi twojej przyniesiesz do domu Pana Boga twego. Nie będziesz warzył koźlęcia w mleku matki jego."
+  },
+  {
+    "i": 2163,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 20,
+    "t": "\"Oto Ja posyłam Anioła mego przed tobą, aby cię strzegł na drodze, i wprowadził cię na miejsce, którem nagotował."
+  },
+  {
+    "i": 2164,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 21,
+    "t": "Strzeż się przed nim, i słuchaj głosu jego; nie drażnij go; boć nie popuści występków waszych; bo imię moje jest w nim."
+  },
+  {
+    "i": 2165,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 22,
+    "t": "Ale jeźli pilnie słuchać będziesz głosu jego, i czynić będziesz wszystko, co mówię, tedy będę nieprzyjacielem nieprzyjaciołom twoim, i przeciwnikiem przeciwnikom twoim."
+  },
+  {
+    "i": 2166,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 23,
+    "t": "Bo Anioł mój pójdzie przed tobą, i wprowadzi cię do Amorejczyków, i do Hetejczyków, i do Ferezejczyków, i do Chananejczyków, i do Hewejczyków, i do Jebuzejczyków, i wygładzę ich."
+  },
+  {
+    "i": 2167,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 24,
+    "t": "Nie będziesz się kłaniał bogom ich, ani im będziesz służył, ani będziesz czynił według uczynków ich; ale popsujesz je, i potłuczesz obrazy ich."
+  },
+  {
+    "i": 2168,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 25,
+    "t": "Przetoż służcie Panu Bogu waszemu, a błogosławić będzie chlebowi twemu, i wodzie twojej, i oddalę chorobę z pośrodku ciebie."
+  },
+  {
+    "i": 2169,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 26,
+    "t": "Nie będzie niepłodnej, ani bezpłodnej w ziemi twojej; a liczbę dni twoich wypełnię."
+  },
+  {
+    "i": 2170,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 27,
+    "t": "Straszne rzeczy moje puszczę przed tobą, i porażę wszelki lud, do którego wnijdziesz, i obrócę wszystkich nieprzyjaciół twoich plecy ku tobie."
+  },
+  {
+    "i": 2171,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 28,
+    "t": "Puszczę też przed tobą szerszenie, które wygonią Hewejczyki, Chananejczyki, i Hetejczyki przed obliczem twojem."
+  },
+  {
+    "i": 2172,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 29,
+    "t": "Nie wygonię ich przed obliczem twojem roku jednego, aby ziemia nie spustoszała, a rozmnożyły się przeciwko tobie zwierzęta polne."
+  },
+  {
+    "i": 2173,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 30,
+    "t": "Mało po mału wyganiać je będę przed obliczem twojem, aż się rozmnożysz, i dziedzicznie posiądziesz ziemię."
+  },
+  {
+    "i": 2174,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 31,
+    "t": "I postanowię granice twoje od morza Czerwonego aż do morza Filistyńskiego, i od puszczy aż do rzeki; bo podam w ręce wasze obywatele onej ziemi, i wygonisz je przed obliczem twojem."
+  },
+  {
+    "i": 2175,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 32,
+    "t": "Nie będziesz czynił z nimi przymierza, ani z bogami ich."
+  },
+  {
+    "i": 2176,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 33,
+    "t": "Nie będą mieszkać w ziemi twojej, aby cię nie przywiedli do grzechu przeciwko mnie; gdybyś służył bogom ich, zaiste byłoby ci sidłem."
+  },
+  {
+    "i": 2177,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 1,
+    "t": "Potem rzekł do Mojżesza: Wstąp do Pana, ty, i Aaron, Nadab, i Abihu, i siedmdziesiąt starszych z Izraela, a kłaniajcie się z daleka."
+  },
+  {
+    "i": 2178,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 2,
+    "t": "A niech się sam Mojżesz przybliży do Pana, a oni się nie przybliżą, i lud niech nie wstępuje z nim."
+  },
+  {
+    "i": 2179,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 3,
+    "t": "Przyszedł tedy Mojżesz, i oznajmił ludowi wszystkie słowa Pańskie, i wszystkie sądy; a odpowiadając wszystek lud jednomyślnie, rzekli: Wszystko, co mówił Pan, uczynimy."
+  },
+  {
+    "i": 2180,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 4,
+    "t": "I spisał Mojżesz wszystkie słowa Pańskie, a wstawszy rano, zbudował ołtarz pod górą i dwanaście słupów, według dwunastu pokoleń Izraela."
+  },
+  {
+    "i": 2181,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 5,
+    "t": "I posłał młodzieńców z synów Izraela, którzy złożyli całopalenia i ofiarowali ofiary pojednania Panu z młodych cielców."
+  },
+  {
+    "i": 2182,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 6,
+    "t": "Mojżesz zaś wziął połowę krwi i wlał ją do czasz, a drugą połową krwi pokropił ołtarz."
+  },
+  {
+    "i": 2183,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 7,
+    "t": "Potem wziął księgę przymierza i czytał ją głośno przed ludem. A oni rzekli: \"Wszystko, co Pan powiedział, uczynimy i będziemy posłuszni."
+  },
+  {
+    "i": 2184,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 8,
+    "t": "Mojżesz wziął krew i pokropił nią lud, mówiąc: \"Oto krew przymierza, które Pan zawarł z wami na podstawie wszystkich tych słów."
+  },
+  {
+    "i": 2185,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 9,
+    "t": "Potem wstąpił Mojżesz, Aaron, Nadab i Abihu oraz siedemdziesięciu starszych Izraela."
+  },
+  {
+    "i": 2186,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 10,
+    "t": "I ujrzeli Boga Izraela, a pod jego stopami jakby posadzkę z szafiru, czystą jak samo niebo."
+  },
+  {
+    "i": 2187,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 11,
+    "t": "I nie podniósł swej ręki na dostojników Izraelitów. Patrzyli na Boga, a potem jedli i pili."
+  },
+  {
+    "i": 2188,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 12,
+    "t": "I rzekł Pan do Mojżesza: \"Wstąp do mnie na górę i pozostań tam, a dam ci tablice kamienne - zakon i przykazania - które napisałem, aby ich pouczyć."
+  },
+  {
+    "i": 2189,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 13,
+    "t": "Wstał tedy Mojżesz i Jozue, sługa jego, i wstąpili na górę Bożą."
+  },
+  {
+    "i": 2190,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 14,
+    "t": "A starszym rzekł: \"Czekajcie tu na nas, aż wrócimy do was. Macie z sobą Aarona i Hura; kto ma sprawę, niech się do nich uda."
+  },
+  {
+    "i": 2191,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 15,
+    "t": "Potem Mojżesz wstąpił na górę, a obłok zakrył górę."
+  },
+  {
+    "i": 2192,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 16,
+    "t": "I zamieszkała chwała Pańska na górze Synaj, a obłok zakrywał ją przez sześć dni. Siódmego dnia Pan zawołał na Mojżesza z pośrodka obłoku."
+  },
+  {
+    "i": 2193,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 17,
+    "t": "A wygląd chwały Pańskiej w oczach synów Izraela był jak ogień trawiący na szczycie góry."
+  },
+  {
+    "i": 2194,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 18,
+    "t": "Wszedł tedy Mojżesz w pośrodek obłoku i wstąpił na górę. I przebywał Mojżesz na górze czterdzieści dni i czterdzieści nocy."
+  },
+  {
+    "i": 2195,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 1,
+    "t": "I rzekł Pan do Mojżesza, mówiąc:"
+  },
+  {
+    "i": 2196,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 2,
+    "t": "\"Powiedz synom Izraela, aby mi przynieśli ofiarę. Od każdego, którego serce pobudzi, weźmiecie ofiarę dla mnie."
+  },
+  {
+    "i": 2197,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 3,
+    "t": "A to jest ofiara, którą przyjmiecie od nich: złoto, srebro i miedź,"
+  },
+  {
+    "i": 2198,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 4,
+    "t": "purpurę fioletową i szkarłatną, karmazyn, bisior i sierść kozicy,"
+  },
+  {
+    "i": 2199,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 5,
+    "t": "skóry baranie farbowane na czerwono, skóry morskie i drzewo akacjowe;"
+  }
+]

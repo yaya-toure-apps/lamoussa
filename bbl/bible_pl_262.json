@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26200,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 29,
+    "t": "Ona staną się potężną ochroną dla ciebie, a jej obroże drogocenną ozdobą."
+  },
+  {
+    "i": 26201,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 30,
+    "t": "Jej jarzmo będzie ozdobą ze złota, a jej więzy purpurowymi wstęgami."
+  },
+  {
+    "i": 26202,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 31,
+    "t": "Jak szatą chwalebną odziejesz ją, a jak diademem radości nią się przepaszesz."
+  },
+  {
+    "i": 26203,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 32,
+    "t": "Jeśli zechcesz, synu, nauczysz się, a twoja uległość przyniesie ci biegłość."
+  },
+  {
+    "i": 26204,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 33,
+    "t": "Jeśli lubisz słuchać, nauczysz się, a jeśli nadstawiasz ucha, będziesz mądry."
+  },
+  {
+    "i": 26205,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 34,
+    "t": "Stój w zgromadzeniu starców, a jeśli ujrzysz mędrca, przylgnij do niego."
+  },
+  {
+    "i": 26206,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 35,
+    "t": "Chętnie słuchaj każdego słowa pochodzącego od Boga, niech subtelne przysłowia ci nie umkną."
+  },
+  {
+    "i": 26207,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 36,
+    "t": "Jeśli ujrzysz męża roztropnego, udaj się do niego z samego rana, a twoje kroki niech zetrą próg jego drzwi."
+  },
+  {
+    "i": 26208,
+    "b": 45,
+    "c": 4706,
+    "r": 4706,
+    "o": 37,
+    "t": "Rozmyślaj nad przykazaniami Pana, zajmuj się bez ustanku jego nakazami. On to wzmocni twoje serce, a mądrość, której pragniesz, zostanie ci udzielona."
+  },
+  {
+    "i": 26209,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 1,
+    "t": "Nie czyń zła, a zło nie będzie twoim panem;"
+  },
+  {
+    "i": 26210,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 2,
+    "t": "oddal się od niesprawiedliwości, a ona odejdzie od ciebie."
+  },
+  {
+    "i": 26211,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 3,
+    "t": "Synu mój, nie siej na bruzdach niesprawiedliwości, byś nie zebrał siedem razy więcej."
+  },
+  {
+    "i": 26212,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 4,
+    "t": "Nie żądaj od Pana pierwszego miejsca, ani od króla chwalebnego siedzenia."
+  },
+  {
+    "i": 26213,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 5,
+    "t": "Nie udawaj sprawiedliwego przed Panem, ani mądrego przed królem."
+  },
+  {
+    "i": 26214,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 6,
+    "t": "Nie ubiegaj się o miejsce sędziego, jeśli nie jesteś zdolny wytępić niesprawiedliwości, byś nie dał się wpłynąć przez możnego, ryzykując utratę prawości."
+  },
+  {
+    "i": 26215,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 7,
+    "t": "Nie zawin wobec zgromadzenia miasta i nie upadaj przed ludem."
+  },
+  {
+    "i": 26216,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 8,
+    "t": "Nie daj się zwieść do grzechu dwukrotnie, bo za jeden raz nie unikniesz kary."
+  },
+  {
+    "i": 26217,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 9,
+    "t": "Nie mów: \"Bóg weźmie pod uwagę mnóstwo moich ofiar, gdy je ofiaruję Bogu Najwyższemu, przyjmie je."
+  },
+  {
+    "i": 26218,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 10,
+    "t": "Nie bądź niezdecydowany w modlitwie i nie zaniedbuj czynienia jałmużny."
+  },
+  {
+    "i": 26219,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 11,
+    "t": "Nie naśmiewaj się z człowieka, który jest w strapieniu, bo ten, który poniża, może podnieść."
+  },
+  {
+    "i": 26220,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 12,
+    "t": "Nie knuj kłamstwa przeciwko swemu bratu, ani tym bardziej przeciwko przyjacielowi."
+  },
+  {
+    "i": 26221,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 13,
+    "t": "Strzeż się wygłaszania jakiegokolwiek kłamstwa, bo nic dobrego z niego nie może wyniknąć."
+  },
+  {
+    "i": 26222,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 14,
+    "t": "Nie rozprawiaj w zgromadzeniu starców i nie powtarzaj swoich słów w modlitwie."
+  },
+  {
+    "i": 26223,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 15,
+    "t": "Nie odrzucaj ciężkich prac, ani pracy na polach stworzonych przez Najwyższego."
+  },
+  {
+    "i": 26224,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 16,
+    "t": "Nie zaliczaj się do grzeszników, pamiętaj, że Gniew nie może zwlekać."
+  },
+  {
+    "i": 26225,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 17,
+    "t": "Uniż się głęboko, bo ogień i robaki są karą dla bezbożnika."
+  },
+  {
+    "i": 26226,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 18,
+    "t": "Nie zamieniaj przyjaciela na pieniądze, ani prawdziwego brata na złoto z Ofiru."
+  },
+  {
+    "i": 26227,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 19,
+    "t": "Nie odwracaj się od mądrej i dobrej żony, bo jej łaska jest cenniejsza niż złoto."
+  },
+  {
+    "i": 26228,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 20,
+    "t": "Nie maltretuj niewolnika, który wiernie pracuje, ani pracownika, który się poświęca."
+  },
+  {
+    "i": 26229,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 21,
+    "t": "Kochaj w swoim sercu inteligentnego niewolnika, nie odmawiaj mu wolności."
+  },
+  {
+    "i": 26230,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 22,
+    "t": "Czy masz stada? Zatroszcz się o nie; jeśli czerpiesz z nich zysk, strzeż ich."
+  },
+  {
+    "i": 26231,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 23,
+    "t": "Czy masz dzieci? Wychowuj je, a od dzieciństwa nakłoń ich karku."
+  },
+  {
+    "i": 26232,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 24,
+    "t": "Czy masz córki? Strzeż ich ciała i nie rozweselaj przed nimi swojej twarzy."
+  },
+  {
+    "i": 26233,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 25,
+    "t": "Wydać córkę za mąż, dokonasz wielkiej rzeczy, ale daj ją za męża mężowi rozsądnemu."
+  },
+  {
+    "i": 26234,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 26,
+    "t": "Czy masz żonę według swego serca? Nie odrzucaj jej, ale jeśli jej nie kochasz, nie ufaj jej."
+  },
+  {
+    "i": 26235,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 27,
+    "t": "Z całego serca czcij swego ojca i nigdy nie zapominaj o tym, co wycierpiała twoja matka."
+  },
+  {
+    "i": 26236,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 28,
+    "t": "Pamiętaj, że dali ci życie: co im ofiarujesz w zamian za to, co dla ciebie zrobili?"
+  },
+  {
+    "i": 26237,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 29,
+    "t": "Z całej duszy bój się Pana i czcij jego kapłanów."
+  },
+  {
+    "i": 26238,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 30,
+    "t": "Ze wszystkich sił miłuj tego, który cię stworzył i nie opuszczaj jego sług."
+  },
+  {
+    "i": 26239,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 31,
+    "t": "Bój się Pana i czcij kapłana, i oddaj mu jego część, jak jest ci przepisane: pierwociny, ofiarę zadośćuczynienia, ofiarę z łopatek, ofiarę poświęcenia i pierwociny rzeczy świętych."
+  },
+  {
+    "i": 26240,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 32,
+    "t": "Także ubogiemu okaż szczodrość, aby twoje błogosławieństwo było doskonałe."
+  },
+  {
+    "i": 26241,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 33,
+    "t": "Niech twoja szczodrość dotknie wszystkich żyjących, nawet umarłym nie odmawiaj pobożności."
+  },
+  {
+    "i": 26242,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 34,
+    "t": "Nie odwracaj się od tych, którzy płaczą, smuć się z zasmuconymi."
+  },
+  {
+    "i": 26243,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 35,
+    "t": "Nie bój się odwiedzać chorych, przez takie czyny zyskasz sobie sympatię."
+  },
+  {
+    "i": 26244,
+    "b": 45,
+    "c": 4707,
+    "r": 4707,
+    "o": 36,
+    "t": "We wszystkim, co czynisz, pamiętaj o swoim końcu, a nigdy nie zgrzeszysz."
+  },
+  {
+    "i": 26245,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 1,
+    "t": "Nie walcz z możnym, abyś nie wpadł w jego ręce."
+  },
+  {
+    "i": 26246,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 2,
+    "t": "Nie kłóć się z bogatym, aby nie miał większej wagi niż ty; bo złoto zgubiło wielu ludzi i zmiękczyło serca królów."
+  },
+  {
+    "i": 26247,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 3,
+    "t": "Nie spieraj się z pięknomówcą, nie dokładaj drewna do jego ognia."
+  },
+  {
+    "i": 26248,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 4,
+    "t": "Nie żartuj z człowiekiem źle wychowanym, abyś nie oglądał zniewagi swoich przodków."
+  },
+  {
+    "i": 26249,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 5,
+    "t": "Nie wyrzucaj grzesznikowi, który się nawraca, pamiętaj, że wszyscy jesteśmy winni."
+  },
+  {
+    "i": 26250,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 6,
+    "t": "Nie pogardzaj człowiekiem w podeszłym wieku, bo być może i my staniemy się starzy."
+  },
+  {
+    "i": 26251,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 7,
+    "t": "Nie raduj się ze śmierci człowieka, pamiętaj, że wszyscy musimy umrzeć."
+  },
+  {
+    "i": 26252,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 8,
+    "t": "Nie pogardzaj mową mędrców i często wracaj do ich maksym; bo od nich nauczysz się doktryny i sztuki służenia możnym."
+  },
+  {
+    "i": 26253,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 9,
+    "t": "Nie lekceważ mowy starców, bo oni sami byli w szkole swoich ojców; od nich nauczysz się roztropności i sztuki odpowiadania w odpowiednim czasie."
+  },
+  {
+    "i": 26254,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 10,
+    "t": "Nie dokładaj ognia do węgli grzesznika, abyś nie spalił się w jego płomieniu."
+  },
+  {
+    "i": 26255,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 11,
+    "t": "Nie daj się wyprowadzić z równowagi przez człowieka zuchwałego, to byłaby pułapka zastawiona przed twoimi wargami."
+  },
+  {
+    "i": 26256,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 12,
+    "t": "Nie pożyczaj człowiekowi silniejszemu od ciebie: jeśli pożyczasz, uważaj to za stracone."
+  },
+  {
+    "i": 26257,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 13,
+    "t": "Nie ręcz ponad swoje możliwości: jeśli poręczyłeś, bądź gotów zapłacić."
+  },
+  {
+    "i": 26258,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 14,
+    "t": "Nie prowadź procesu z sędzią, bo wyrok zostanie wydany na jego korzyść."
+  },
+  {
+    "i": 26259,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 15,
+    "t": "Nie wyruszaj w drogę z awanturnikiem, aby nie obciążył cię złem; bo on robi tylko to, co chce, a jego szaleństwo zgubi ciebie wraz z nim."
+  },
+  {
+    "i": 26260,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 16,
+    "t": "Nie kłóć się z człowiekiem gniewnym, nie wdawaj się z nim w spór na pustym miejscu, bo krew nie liczy się w jego oczach, a tam, gdzie nie ma pomocy, rzuci się na ciebie."
+  },
+  {
+    "i": 26261,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 17,
+    "t": "Nie bierz głupca za powiernika, bo nie będzie umiał dochować twojej tajemnicy."
+  },
+  {
+    "i": 26262,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 18,
+    "t": "Przed obcym nie rób nic, co powinno pozostać tajemnicą, bo nie wiesz, co może wymyślić."
+  },
+  {
+    "i": 26263,
+    "b": 45,
+    "c": 4708,
+    "r": 4708,
+    "o": 19,
+    "t": "Nie otwieraj swojego serca byle komu i nie udawaj, że chcesz uzyskać jego względy."
+  },
+  {
+    "i": 26264,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 1,
+    "t": "Nie bądź zazdrosny o swoją ukochaną żonę i nie dawaj jej powodu do czynienia ci zła."
+  },
+  {
+    "i": 26265,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 2,
+    "t": "Nie oddawaj się w ręce kobiety, aby nie zyskała nad tobą przewagi."
+  },
+  {
+    "i": 26266,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 3,
+    "t": "Nie idź na spotkanie z kurtyzaną: możesz wpaść w jej sidła."
+  },
+  {
+    "i": 26267,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 4,
+    "t": "Nie zadawaj się ze śpiewaczką: dasz się złapać na jej sztuczki."
+  },
+  {
+    "i": 26268,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 5,
+    "t": "Nie zatrzymuj swojego wzroku na młodej dziewczynie, abyś nie został uwięziony, gdy będzie pokutowała."
+  },
+  {
+    "i": 26269,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 6,
+    "t": "Nie oddawaj się w ręce prostytutek: stracisz na tym swój majątek."
+  },
+  {
+    "i": 26270,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 7,
+    "t": "Nie prowadzaj swojego wzroku po ulicach miasta i nie kręć się po opuszczonych zakątkach."
+  },
+  {
+    "i": 26271,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 8,
+    "t": "Odwróć swój wzrok od ładnej kobiety i nie zatrzymuj go na obcej urodzie. Wielu zostało zwiedzionych przez piękno kobiety, a miłość rozpala się w niej jak ogień."
+  },
+  {
+    "i": 26272,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 9,
+    "t": "W pobliżu zamężnej kobiety wystrzegaj się siadania i urządzania pikniku z winem z nią, aby pożądanie nie zboczyło cię ku niej i abyś w swej namiętności nie poślizgnął się ku zgubie."
+  },
+  {
+    "i": 26273,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 10,
+    "t": "Nie opuszczaj starego przyjaciela, nowo przybyły nie będzie go wart. Nowe wino, nowy przyjaciel, pozwól mu dojrzeć, będziesz go pił z rozkoszą."
+  },
+  {
+    "i": 26274,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 11,
+    "t": "Nie zazdrość sukcesu grzesznikowi, nie wiesz, jak to się skończy."
+  },
+  {
+    "i": 26275,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 12,
+    "t": "Nie ciesz się z sukcesu bezbożnych, pamiętaj, że tu na ziemi nie pozostaną bezkarni."
+  },
+  {
+    "i": 26276,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 13,
+    "t": "Trzymaj się z dala od człowieka, który ma moc zabijania, a nie będziesz odczuwał strachu przed śmiercią. Jeśli się do niego zbliżysz, strzeż się fałszywego kroku, mógłby ci odebrać życie. Wiedz dobrze, że jesteś otoczony pułapkami i że stąpasz po murach obronnych."
+  },
+  {
+    "i": 26277,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 14,
+    "t": "Na tyle, na ile możesz, przebywaj z bliźnim i zasięgaj rady u mędrców."
+  },
+  {
+    "i": 26278,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 15,
+    "t": "Do rozmowy szukaj ludzi inteligentnych i niech wszystkie twoje rozmowy dotyczą prawa Najwyższego."
+  },
+  {
+    "i": 26279,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 16,
+    "t": "Niech sprawiedliwi będą twoimi współbiesiadnikami, a twoją dumą niech będzie bojaźń Pańska."
+  },
+  {
+    "i": 26280,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 17,
+    "t": "Dzieło rąk ludzkich zasługuje na pochwałę, lecz wódz ludu powinien być biegły w mowie."
+  },
+  {
+    "i": 26281,
+    "b": 45,
+    "c": 4709,
+    "r": 4709,
+    "o": 18,
+    "t": "Gładkie słowa budzą trwogę w mieście, a gadatliwy jest znienawidzony."
+  },
+  {
+    "i": 26282,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 1,
+    "t": "Mądry rządca utrzymuje swój lud w karności, a władza męża roztropnego jest dobrze ugruntowana."
+  },
+  {
+    "i": 26283,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 2,
+    "t": "Jaki władca, tacy i podwładni, jaki ten, który rządzi miastem, tacy i mieszkańcy."
+  },
+  {
+    "i": 26284,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 3,
+    "t": "Król bez nauki jest zgubą swego ludu, a miasto zawdzięcza swój dobrobyt inteligencji przywódców."
+  },
+  {
+    "i": 26285,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 4,
+    "t": "W rękach Pana jest władza nad światem; On wzbudza we właściwym czasie wodza, który jest odpowiedni."
+  },
+  {
+    "i": 26286,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 5,
+    "t": "Sukces człowieka jest w ręku Pana; to On daje skrybie jego chwałę."
+  },
+  {
+    "i": 26287,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 6,
+    "t": "Nie żyw urazy do bliźniego, bez względu na jego winy, i nigdy nie reaguj aktami arogancji."
+  },
+  {
+    "i": 26288,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 7,
+    "t": "Pycha nie podoba się Bogu, tak jak i człowiekowi, a obaj patrzą na niesprawiedliwość jako na winę."
+  },
+  {
+    "i": 26289,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 8,
+    "t": "Władza przechodzi z jednego narodu na drugi przez niesprawiedliwość, arogancję i pieniądze. Nic nie jest bardziej bezbożne niż ten, kto kocha pieniądze: nawet swoją duszę sprzedaje!"
+  },
+  {
+    "i": 26290,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 9,
+    "t": "Dlaczego tyle pychy dla tego, który jest ziemią i prochem, istotą, która, żyjąc, ma już wnętrzności odrażające?"
+  },
+  {
+    "i": 26291,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 10,
+    "t": "Długa choroba szydzi z lekarza, który jest królem dzisiaj, a jutro umrze."
+  },
+  {
+    "i": 26292,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 11,
+    "t": "Kiedy człowiek umiera, otrzymuje w udziale owady, drapieżniki i robaki."
+  },
+  {
+    "i": 26293,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 12,
+    "t": "Zasadą ludzkiej pychy jest porzucenie Pana i trzymanie serca z dala od Stwórcy."
+  },
+  {
+    "i": 26294,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 13,
+    "t": "Albowiem zasadą pychy jest grzech, a ten, kto się jej oddaje, rozsiewa obrzydliwość. Dlatego Pan uczynił jawną ich niedolę i zniweczył ich."
+  },
+  {
+    "i": 26295,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 14,
+    "t": "Pan obalił trony możnych i posadził na ich miejscu cichych."
+  },
+  {
+    "i": 26296,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 15,
+    "t": "Pan wykorzenił pysznych i zasadził na ich miejscu pokornych."
+  },
+  {
+    "i": 26297,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 16,
+    "t": "Pan zburzył terytorium narodów i unicestwił je aż do fundamentów ziemi."
+  },
+  {
+    "i": 26298,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 17,
+    "t": "Czasami ich zabierał i niszczył, i wymazał z świata ich wspomnienie."
+  },
+  {
+    "i": 26299,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 18,
+    "t": "Pycha nie jest stworzona dla człowieka, ani gwałtowny gniew dla rodzaju niewieściego."
+  }
+]

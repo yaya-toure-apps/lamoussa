@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4000,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 14,
+    "t": "Partiu, pois, o estandarte do acampamento dos filhos de Judá, segundo os seus exércitos; e Naassom, filho de Aminadabe, estava sobre o seu exército."
+  },
+  {
+    "i": 4001,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 15,
+    "t": "E sobre o exército da tribo dos filhos de Issacar estava Natanael, filho de Zuar."
+  },
+  {
+    "i": 4002,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 16,
+    "t": "E sobre o exército da tribo dos filhos de Zebulom estava Eliabe, filho de Helom."
+  },
+  {
+    "i": 4003,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 17,
+    "t": "Então o tabernáculo foi desarmado; e os filhos de Gérson e os filhos de Merari partiram, levando o tabernáculo."
+  },
+  {
+    "i": 4004,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 18,
+    "t": "Depois partiu o estandarte do acampamento de Rúben, segundo os seus exércitos; e Elizur, filho de Sedeur, estava sobre o seu exército."
+  },
+  {
+    "i": 4005,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 19,
+    "t": "E sobre o exército da tribo dos filhos de Simeão estava Selumiel, filho de Zurisadai."
+  },
+  {
+    "i": 4006,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 20,
+    "t": "E sobre o exército da tribo dos filhos de Gad estava Eliasaf, filho de Reuel."
+  },
+  {
+    "i": 4007,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 21,
+    "t": "Então partiram os coatitas, levando o santuário; e os outros levantaram o tabernáculo, enquanto aqueles vinham."
+  },
+  {
+    "i": 4008,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 22,
+    "t": "Depois partiu o estandarte do acampamento dos filhos de Efraim, segundo os seus exércitos; e Elisama, filho de Amiúde, estava sobre o seu exército."
+  },
+  {
+    "i": 4009,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 23,
+    "t": "E sobre o exército da tribo dos filhos de Manassés estava Gamaliel, filho de Pedazur."
+  },
+  {
+    "i": 4010,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 24,
+    "t": "E sobre o exército da tribo dos filhos de Benjamim estava Abidã, filho de Gideoni."
+  },
+  {
+    "i": 4011,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 25,
+    "t": "E, por fim, partiu o estandarte do acampamento dos filhos de Dã, a retaguarda de todos os acampamentos, segundo os seus exércitos; e Aiezer, filho de Amisadai, estava sobre o seu exército."
+  },
+  {
+    "i": 4012,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 26,
+    "t": "E sobre o exército da tribo dos filhos de Aser estava Pagiel, filho de Ocrã."
+  },
+  {
+    "i": 4013,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 27,
+    "t": "E sobre o exército da tribo dos filhos de Naftali estava Aira, filho de Enã."
+  },
+  {
+    "i": 4014,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 28,
+    "t": "Esta era a ordem de marcha dos filhos de Israel, segundo os seus exércitos; assim partiram."
+  },
+  {
+    "i": 4015,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 29,
+    "t": "Então disse Moisés a Hobabe, filho de Reuel, o midianita, sogro de Moisés: Nós caminhamos para o lugar de que o Senhor disse: Dar-vo-lo-ei; vem conosco, e te faremos bem; porque o Senhor falou bem sobre Israel."
+  },
+  {
+    "i": 4016,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 30,
+    "t": "Porém ele lhe respondeu: Não irei; antes me irei à minha terra e à minha parentela."
+  },
+  {
+    "i": 4017,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 31,
+    "t": "E Moisés disse: Rogote que não nos deixes; porquanto tu sabes como nos havemos de acampar no deserto; e tu nos serás por olhos."
+  },
+  {
+    "i": 4018,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 32,
+    "t": "Assim, se vieres conosco, o bem que o Senhor nos fizer, o mesmo te faremos nós."
+  },
+  {
+    "i": 4019,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 33,
+    "t": "Assim, partiram do monte do Senhor jornada de três dias; e a arca do pacto do Senhor ia adiante deles na jornada de três dias, para lhes buscar lugar de descanso."
+  },
+  {
+    "i": 4020,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 34,
+    "t": "E a nuvem do Senhor ia sobre eles de dia, quando partiam do arraial."
+  },
+  {
+    "i": 4021,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 35,
+    "t": "E acontecia que, partindo a arca, Moisés dizia: Levanta-te, Senhor, e dissipados sejam os teus inimigos, e fujam diante de ti os que te odeiam."
+  },
+  {
+    "i": 4022,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 36,
+    "t": "E, pousando ela, dizia: Volta, Senhor, para os muitos milhares de Israel."
+  },
+  {
+    "i": 4023,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 1,
+    "t": "E o povo queixou-se, e chegou aos ouvidos do Senhor; ouvindo, pois, o Senhor a sua voz, a sua ira se acendeu, e o fogo do Senhor ardeu entre eles, e consumiu os que estavam na última parte do arraial."
+  },
+  {
+    "i": 4024,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 2,
+    "t": "Então o povo clamou a Moisés, e Moisés orou ao Senhor, e o fogo se apagou."
+  },
+  {
+    "i": 4025,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 3,
+    "t": "Por isso chamou aquele lugar Tabera, porquanto o fogo do Senhor se tinha acendido entre eles."
+  },
+  {
+    "i": 4026,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 4,
+    "t": "E o vulgo, que estava no meio deles, veio a ter grande desejo; pelo que os filhos de Israel tornaram a chorar, e disseram: Quem nos dará carne para comer?"
+  },
+  {
+    "i": 4027,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 5,
+    "t": "Lembramo-nos dos peixes que no Egito comíamos de graça; dos pepinos, dos melões, dos porros, das cebolas e dos alhos."
+  },
+  {
+    "i": 4028,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 6,
+    "t": "Mas agora a nossa alma se seca; coisa nenhuma há senão este maná diante dos nossos olhos."
+  },
+  {
+    "i": 4029,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 7,
+    "t": "E era o maná como semente de coentro, e a sua aparência como a aparência de bdélio."
+  },
+  {
+    "i": 4030,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 8,
+    "t": "O povo espalhava-se, e o colhia, e o moía em moinhos, ou o pisava em gral, e o cozia em panelas, e dele fazia bolos; e o seu sabor era como o sabor de azeite fresco."
+  },
+  {
+    "i": 4031,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 9,
+    "t": "E, quando o orvalho descia de noite sobre o arraial, o maná também sobre ele descia."
+  },
+  {
+    "i": 4032,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 10,
+    "t": "Então Moisés ouviu chorar o povo pelas suas famílias, cada um à porta da sua tenda; e a ira do Senhor grandemente se acendeu; e pareceu mal aos olhos de Moisés."
+  },
+  {
+    "i": 4033,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 11,
+    "t": "E disse Moisés ao Senhor: Por que fizeste mal a teu servo, e por que não achei graça aos teus olhos, que puseste sobre mim a carga de todo este povo?"
+  },
+  {
+    "i": 4034,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 12,
+    "t": "Concebi eu porventura todo este povo? Dei-o eu à luz? Para que me digas: Leva-o ao teu colo, como a ama leva a criança que mama, à terra que juraste a seus pais?"
+  },
+  {
+    "i": 4035,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 13,
+    "t": "Donde teria eu carne para dar a todo este povo? Porquanto choram a mim, dizendo: Dá-nos carne para comermos."
+  },
+  {
+    "i": 4036,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 14,
+    "t": "Eu sozinho não posso levar a todo este povo, porque muito pesado é para mim."
+  },
+  {
+    "i": 4037,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 15,
+    "t": "E, se assim me tratas, mata-me, peço-te, se tenho achado graça aos teus olhos, e não veja eu o meu mal."
+  },
+  {
+    "i": 4038,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 16,
+    "t": "Então disse o Senhor a Moisés: Ajunta-me setenta homens dos anciãos de Israel, de quem sabes que são anciãos do povo e seus oficiais; e os trarás à tenda da congregação, para que ali estejam contigo."
+  },
+  {
+    "i": 4039,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 17,
+    "t": "Então eu descerei e ali falarei contigo, e tirarei do espírito que está sobre ti, e o porei sobre eles; para que contigo levem a carga do povo, e tu sozinho não a leves."
+  },
+  {
+    "i": 4040,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 18,
+    "t": "E dize ao povo: Santificai-vos para amanhã, e comereis carne; porquanto chorastes aos ouvidos do Senhor, dizendo: Quem nos dará carne para comer? Bem nos ia no Egito. Pelo que o Senhor vos dará carne, e comereis."
+  },
+  {
+    "i": 4041,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 19,
+    "t": "Não comereis um dia, nem dois dias, nem cinco dias, nem dez dias, nem vinte dias;"
+  },
+  {
+    "i": 4042,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 20,
+    "t": "Mas um mês inteiro, até que vos saia pelos narizes, e vos seja como enjôo; porquanto rejeitastes ao Senhor, que está no meio de vós, e chorastes diante dele, dizendo: Por que saímos do Egito?"
+  },
+  {
+    "i": 4043,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 21,
+    "t": "E disse Moisés: Seiscentos mil homens de pé é este povo, no meio do qual estou; e tu dizes: Dar-lhes-ei carne, e comerão um mês inteiro."
+  },
+  {
+    "i": 4044,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 22,
+    "t": "Degolar-se-ão para eles ovelhas e vacas, para que tenham bastante? Ou ajuntar-se-ão para eles todos os peixes do mar, para que tenham bastante?"
+  },
+  {
+    "i": 4045,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 23,
+    "t": "Então disse o Senhor a Moisés: Seria, pois, encurtada a mão do Senhor? Agora verás se a minha palavra te acontecerá, ou não."
+  },
+  {
+    "i": 4046,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 24,
+    "t": "Saiu, pois, Moisés, e falou as palavras do Senhor ao povo; e ajuntou setenta homens dos anciãos do povo, e os colocou ao redor da tenda."
+  },
+  {
+    "i": 4047,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 25,
+    "t": "Então o Senhor desceu na nuvem, e lhe falou; e, tirando do espírito que estava sobre ele, o pôs sobre os setenta anciãos; e aconteceu que, quando o espírito repousou sobre eles, profetizaram; mas depois nunca mais."
+  },
+  {
+    "i": 4048,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 26,
+    "t": "Porém dois homens ficaram no arraial; o nome de um era Eldade, e o nome do outro Medade; e repousou sobre eles o espírito (porque estavam entre os inscritos, ainda que não saíram à tenda), e profetizavam no arraial."
+  },
+  {
+    "i": 4049,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 27,
+    "t": "Então correu um moço, e o anunciou a Moisés, e disse: Eldade e Medade profetizam no arraial."
+  },
+  {
+    "i": 4050,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 28,
+    "t": "E respondeu Josué, filho de Num, servo de Moisés, desde a sua mocidade, e disse: Moisés, senhor meu, proíbe-lho."
+  },
+  {
+    "i": 4051,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 29,
+    "t": "Porém Moisés lhe disse: Tens tu ciúmes por mim? Quem dera que todo o povo do Senhor fosse profeta, e que o Senhor pusesse o seu espírito sobre eles!"
+  },
+  {
+    "i": 4052,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 30,
+    "t": "Depois Moisés se recolheu ao arraial, ele e os anciãos de Israel."
+  },
+  {
+    "i": 4053,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 31,
+    "t": "Então soprou um vento do Senhor, e trouxe codornizes do mar, e as espalhou pelo arraial, quase caminho de um dia de um lado, e quase caminho de um dia do outro lado, ao redor do arraial; quase dois côvados sobre a face da terra."
+  },
+  {
+    "i": 4054,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 32,
+    "t": "Então o povo se levantou todo aquele dia e toda aquela noite, e todo o dia seguinte, e ajuntaram as codornizes; o que menos ajuntou, ajuntou dez cômeres; e as estenderam para si ao redor do arraial."
+  },
+  {
+    "i": 4055,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 33,
+    "t": "Estando ainda a carne entre os seus dentes, antes que fosse mastigada, a ira do Senhor se acendeu contra o povo, e feriu o Senhor o povo com uma grandíssima praga."
+  },
+  {
+    "i": 4056,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 34,
+    "t": "Por isso chamou o nome daquele lugar Quibrote-Hataavá, porquanto ali enterraram o povo que teve o desejo."
+  },
+  {
+    "i": 4057,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 35,
+    "t": "De Quibrote-Hataavá partiu o povo para Hazerote; e ficaram em Hazerote."
+  },
+  {
+    "i": 4058,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 1,
+    "t": "E falaram Miriã e Arão contra Moisés, por causa da mulher cusita que tomara; porquanto tinha tomado uma mulher cusita."
+  },
+  {
+    "i": 4059,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 2,
+    "t": "E disseram: Porventura falou o Senhor somente por Moisés? Não falou também por nós? E o Senhor o ouviu."
+  },
+  {
+    "i": 4060,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 3,
+    "t": "Ora, Moisés era homem mui manso, mais do que todos os homens que havia sobre a terra."
+  },
+  {
+    "i": 4061,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 4,
+    "t": "E logo o Senhor disse a Moisés, e a Arão, e a Miriã: Saí vós três à tenda da congregação. E saíram eles três."
+  },
+  {
+    "i": 4062,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 5,
+    "t": "Então o Senhor desceu na coluna de nuvem, e se pôs à porta da tenda; e chamou a Arão e a Miriã, e ambos se apresentaram."
+  },
+  {
+    "i": 4063,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 6,
+    "t": "E disse: Ouvi agora as minhas palavras; se entre vós houver profeta, eu, o Senhor, em visão a ele me farei conhecer, ou em sonhos falarei com ele."
+  },
+  {
+    "i": 4064,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 7,
+    "t": "Não é assim com o meu servo Moisés, que é fiel em toda a minha casa."
+  },
+  {
+    "i": 4065,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 8,
+    "t": "Boca a boca falo com ele, claramente e não por enigmas; pois ele vê a forma do Senhor; por que, pois, não tivestes temor de falar contra o meu servo, contra Moisés?"
+  },
+  {
+    "i": 4066,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 9,
+    "t": "Assim a ira do Senhor contra eles se acendeu; e retirou-se."
+  },
+  {
+    "i": 4067,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 10,
+    "t": "E a nuvem se retirou de sobre a tenda; e eis que Miriã estava leprosa, branca como a neve; e Arão olhou para Miriã, e eis que estava leprosa."
+  },
+  {
+    "i": 4068,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 11,
+    "t": "Então Arão disse a Moisés: Ai, senhor meu! rogo-te que não ponhas sobre nós este pecado, pois loucamente procedemos, e havemos pecado."
+  },
+  {
+    "i": 4069,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 12,
+    "t": "Ora, não seja ela como um aborto, que saindo do ventre de sua mãe, tem já metade da sua carne consumida."
+  },
+  {
+    "i": 4070,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 13,
+    "t": "Clamou, pois, Moisés ao Senhor, dizendo: Ó Deus, rogo-te que a cures."
+  },
+  {
+    "i": 4071,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 14,
+    "t": "E disse o Senhor a Moisés: Se seu pai lhe cuspira no rosto, não seria envergonhada por sete dias? Esteja fechada fora do arraial por sete dias; e depois seja recebida outra vez."
+  },
+  {
+    "i": 4072,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 15,
+    "t": "Assim Miriã foi fechada fora do arraial por sete dias; e o povo não partiu, até que Miriã foi recebida outra vez."
+  },
+  {
+    "i": 4073,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 16,
+    "t": "Depois partiu o povo de Hazerote, e acampou no deserto de Parã."
+  },
+  {
+    "i": 4074,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 1,
+    "t": "Então falou o Senhor a Moisés, dizendo:"
+  },
+  {
+    "i": 4075,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 2,
+    "t": "Envia homens, para que espiem a terra de Canaã, que eu hei de dar aos filhos de Israel; de cada tribo de seus pais enviareis um homem, sendo cada um deles príncipe entre eles."
+  },
+  {
+    "i": 4076,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 3,
+    "t": "E enviou-os Moisés do deserto de Parã, segundo a ordem do Senhor; todos aqueles homens eram cabeças dos filhos de Israel."
+  },
+  {
+    "i": 4077,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 4,
+    "t": "E estes são os seus nomes: Da tribo de Rúben, Samua, filho de Zacur."
+  },
+  {
+    "i": 4078,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 5,
+    "t": "Da tribo de Simeão, Safate, filho de Hori."
+  },
+  {
+    "i": 4079,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 6,
+    "t": "Da tribo de Judá, Calebe, filho de Jefoné."
+  },
+  {
+    "i": 4080,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 7,
+    "t": "para a tribo de Issacar, Igal, filho de José;"
+  },
+  {
+    "i": 4081,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 8,
+    "t": "para a tribo de Efraim, Oseias, filho de Num;"
+  },
+  {
+    "i": 4082,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 9,
+    "t": "para a tribo de Benjamim, Palti, filho de Rafu;"
+  },
+  {
+    "i": 4083,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 10,
+    "t": "para a tribo de Zebulom, Gadiel, filho de Sodi;"
+  },
+  {
+    "i": 4084,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 11,
+    "t": "para a tribo de José, para a tribo de Manassés, Gadi, filho de Susi;"
+  },
+  {
+    "i": 4085,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 12,
+    "t": "para a tribo de Dã, Amiel, filho de Gemali;"
+  },
+  {
+    "i": 4086,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 13,
+    "t": "para a tribo de Aser, Setur, filho de Micael;"
+  },
+  {
+    "i": 4087,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 14,
+    "t": "para a tribo de Naftali, Nabi, filho de Vafsi;"
+  },
+  {
+    "i": 4088,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 15,
+    "t": "para a tribo de Gade, Geuel, filho de Maqui."
+  },
+  {
+    "i": 4089,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 16,
+    "t": "Estes são os nomes dos homens que Moisés enviou a espiar a terra. E Moisés chamou Oseias, filho de Num, Josué."
+  },
+  {
+    "i": 4090,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 17,
+    "t": "Moisés os enviou a espiar a terra de Canaã, e lhes disse: Subi ao Neguebe e, depois, subi à montanha."
+  },
+  {
+    "i": 4091,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 18,
+    "t": "Vede que terra é, e qual é o povo que nela habita, se forte ou fraco, se poucos ou muitos;"
+  },
+  {
+    "i": 4092,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 19,
+    "t": "e como é a terra em que habitam, se boa ou má; e como são as cidades em que habitam, se em arraiais ou em fortalezas;"
+  },
+  {
+    "i": 4093,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 20,
+    "t": "e como é a terra, se fértil ou estéril; se nela há árvores ou não; e esforçai-vos e tomai do fruto da terra. Ora, eram aqueles dias os das primícias das uvas."
+  },
+  {
+    "i": 4094,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 21,
+    "t": "Assim, subiram e espiaram a terra, desde o deserto de Zim até Reobe, à entrada de Hamate."
+  },
+  {
+    "i": 4095,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 22,
+    "t": "E subiram pelo Neguebe e foram até Hebrom, onde estavam Aimã, Sesai e Talmai, filhos de Anaque (Hebrom foi edificada sete anos antes de Zoã, no Egito)."
+  },
+  {
+    "i": 4096,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 23,
+    "t": "Depois, vieram até o vale de Escol e dali cortaram um ramo de vide com um cacho de uvas, o qual trouxeram dois homens, sobre uma vara, como também romãs e figos."
+  },
+  {
+    "i": 4097,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 24,
+    "t": "Aquele lugar se chamou o vale de Escol, por causa do cacho que dali cortaram os filhos de Israel."
+  },
+  {
+    "i": 4098,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 25,
+    "t": "E, volvidos quarenta dias, retornaram de espiar a terra."
+  },
+  {
+    "i": 4099,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 26,
+    "t": "E foram, e chegaram a Moisés, e a Arão, e a toda a congregação dos filhos de Israel, no deserto de Parã, a Cades; e trouxeram-lhes a eles e a toda a congregação a resposta, e mostraram-lhes o fruto da terra."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13100,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 14,
+    "t": "de me surveiller si je pèche et de ne pas m’innocenter de mes fautes."
+  },
+  {
+    "i": 13101,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 15,
+    "t": "Suis-je coupable, malheur à moi ! suis-je dans mon droit, je n’ose lever la tête, moi, saturé d’outrages, ivre de peines !"
+  },
+  {
+    "i": 13102,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 16,
+    "t": "Fier comme un lion, tu me prends en chasse, tu multiplies tes exploits à mon propos,"
+  },
+  {
+    "i": 13103,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 17,
+    "t": "tu renouvelles tes attaques, ta fureur sur moi redouble, tes troupes fraîches se succèdent contre moi."
+  },
+  {
+    "i": 13104,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 18,
+    "t": "Oh ! Pourquoi m’as-tu fait sortir du sein ? J’aurais péri alors : nul œil ne m’aurait vu,"
+  },
+  {
+    "i": 13105,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 19,
+    "t": "je serais comme n’ayant pas été, du ventre on m’aurait porté à la tombe."
+  },
+  {
+    "i": 13106,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 20,
+    "t": "Et ils durent si peu, les jours de mon existence ! Cesse donc de me fixer, pour me permettre un peu de joie,"
+  },
+  {
+    "i": 13107,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 21,
+    "t": "avant que je m’en aille sans retour au pays des ténèbres et de l’ombre épaisse,"
+  },
+  {
+    "i": 13108,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 22,
+    "t": "où règnent l’obscurité et le désordre, où la clarté même ressemble à la nuit sombre."
+  },
+  {
+    "i": 13109,
+    "b": 17,
+    "c": 1810,
+    "r": 1810,
+    "o": 26,
+    "t": "Fais-tu passer un jonc dans ses naseaux, avec un croc perces-tu sa mâchoire ?"
+  },
+  {
+    "i": 13110,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 1,
+    "t": "Cophar de Naamat prit la parole et dit :"
+  },
+  {
+    "i": 13111,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 2,
+    "t": "Le bavard restera-t-il sans réponse ? Suffit-il d’être loquace pour avoir raison ?"
+  },
+  {
+    "i": 13112,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 3,
+    "t": "Ton verbiage rendra-t-il muets les autres, te moqueras-tu sans qu’on te confonde ?"
+  },
+  {
+    "i": 13113,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 4,
+    "t": "Tu as dit : \"Ma conduite est pure, je suis irréprochable à tes yeux.\""
+  },
+  {
+    "i": 13114,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 5,
+    "t": "Mais si Dieu voulait parler, ouvrir les lèvres pour te répondre,"
+  },
+  {
+    "i": 13115,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 6,
+    "t": "s’il te dévoilait les secrets de la Sagesse, qui déconcertent toute sagacité, tu saurais que Dieu te demande compte de ta faute."
+  },
+  {
+    "i": 13116,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 7,
+    "t": "Prétends-tu sonder la profondeur de Dieu, atteindre la limite de Shaddaï ?"
+  },
+  {
+    "i": 13117,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 8,
+    "t": "Elle est plus haute que les cieux : que feras-tu ? Plus profonde que le shéol : que sauras-tu ?"
+  },
+  {
+    "i": 13118,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 9,
+    "t": "Elle serait plus longue que la terre à mesurer et plus large que la mer."
+  },
+  {
+    "i": 13119,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 10,
+    "t": "S’il intervient pour enfermer et convoquer l’assemblée, qui l’en empêchera ?"
+  },
+  {
+    "i": 13120,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 11,
+    "t": "Car lui connaît la fausseté chez l’homme ; il voit le crime et y prête attention."
+  },
+  {
+    "i": 13121,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 12,
+    "t": "Aussi l’écervelé doit-il s’assagir, et l’homme aux mœurs d’onagre se laisser domestiquer."
+  },
+  {
+    "i": 13122,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 13,
+    "t": "Allons, redresse tes pensées, tends tes paumes vers lui !"
+  },
+  {
+    "i": 13123,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 14,
+    "t": "Si tu répudies le mal dont tu serais responsable et ne laisses pas l’injustice habiter sous tes tentes,"
+  },
+  {
+    "i": 13124,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 15,
+    "t": "tu lèveras un front pur, tu seras ferme et sans crainte."
+  },
+  {
+    "i": 13125,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 16,
+    "t": "Ton malheur, tu n’y songeras plus, il laissera le souvenir des eaux qui passent."
+  },
+  {
+    "i": 13126,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 17,
+    "t": "Alors débutera une existence plus radieuse que le midi et l’obscurité même sera comme le matin."
+  },
+  {
+    "i": 13127,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 18,
+    "t": "Confiant car il y a de l’espoir, même après la confusion, tu te coucheras en sécurité."
+  },
+  {
+    "i": 13128,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 19,
+    "t": "Lorsque tu reposeras, nul ne te troublera, et bien des gens rechercheront ta faveur."
+  },
+  {
+    "i": 13129,
+    "b": 17,
+    "c": 1811,
+    "r": 1811,
+    "o": 20,
+    "t": "Les méchants, eux, tournent des yeux éteints, tout refuge leur fait défaut ; leur espoir, c’est le dernier soupir."
+  },
+  {
+    "i": 13130,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 1,
+    "t": "Job prit la parole et dit :"
+  },
+  {
+    "i": 13131,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 2,
+    "t": "Vraiment, vous êtes la voix du peuple, avec vous mourra la Sagesse."
+  },
+  {
+    "i": 13132,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 3,
+    "t": "Moi aussi, j’ai de l’intelligence, tout comme vous, je ne vous cède en rien, et qui donc ne sait tout cela ?"
+  },
+  {
+    "i": 13133,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 4,
+    "t": "Mais un homme devient la risée de son ami, quand il crie vers Dieu pour avoir une réponse. On se moque du juste intègre."
+  },
+  {
+    "i": 13134,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 5,
+    "t": "\"À l’infortune, le mépris ! opinent les gens heureux, un coup de plus à qui chancelle !\""
+  },
+  {
+    "i": 13135,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 6,
+    "t": "Cependant, les tentes des pillards sont en paix : pleine sécurité pour ceux qui provoquent Dieu et pour celui qui met Dieu dans son poing !"
+  },
+  {
+    "i": 13136,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 7,
+    "t": "Interroge pourtant le bétail pour t’instruire, les oiseaux du ciel pour t’informer."
+  },
+  {
+    "i": 13137,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 8,
+    "t": "Les reptiles du sol te donneront des leçons, ils te renseigneront, les poissons des mers."
+  },
+  {
+    "i": 13138,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 9,
+    "t": "Car lequel ignore, parmi eux tous, que la main de Dieu a fait tout cela !"
+  },
+  {
+    "i": 13139,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 10,
+    "t": "Il tient en son pouvoir l’âme de tout vivant et le souffle de toute chair d’homme."
+  },
+  {
+    "i": 13140,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 11,
+    "t": "L’oreille n’apprécie-t-elle pas les discours, comme le palais goûte les mets ?"
+  },
+  {
+    "i": 13141,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 12,
+    "t": "La sagesse est l’affaire des vieillards, le discernement le fait du grand âge."
+  },
+  {
+    "i": 13142,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 13,
+    "t": "Mais en Lui résident sagesse et puissance, à lui le conseil et le discernement."
+  },
+  {
+    "i": 13143,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 14,
+    "t": "S’il détruit, nul ne peut rebâtir, s’il emprisonne quelqu’un, nul n’ouvrira."
+  },
+  {
+    "i": 13144,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 15,
+    "t": "S’il retient les eaux, c’est la sécheresse ; s’il les relâche, elles bouleversent la terre."
+  },
+  {
+    "i": 13145,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 16,
+    "t": "En lui vigueur et sagacité, à lui appartiennent l’égaré et celui qui l’égare."
+  },
+  {
+    "i": 13146,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 17,
+    "t": "Il rend stupides les conseillers du pays et frappe les juges de démence."
+  },
+  {
+    "i": 13147,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 18,
+    "t": "Il délie la ceinture des rois et passe une corde à leurs reins."
+  },
+  {
+    "i": 13148,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 19,
+    "t": "Il fait marcher nu-pieds les prêtres et renverse les puissances établies."
+  },
+  {
+    "i": 13149,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 20,
+    "t": "Il ôte la parole aux plus assurés, ravit le discernement aux vieillards."
+  },
+  {
+    "i": 13150,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 21,
+    "t": "Il déverse le mépris sur les nobles, dénoue le ceinturon des forts."
+  },
+  {
+    "i": 13151,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 22,
+    "t": "Il dévoile les profondeurs des ténèbres, amène à la lumière l’ombre épaisse."
+  },
+  {
+    "i": 13152,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 23,
+    "t": "Il agrandit des nations, puis les ruine : il fait s’étendre des peuples, puis les supprime."
+  },
+  {
+    "i": 13153,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 24,
+    "t": "Il ôte l’esprit aux chefs d’un pays, les fait errer dans un désert sans routes,"
+  },
+  {
+    "i": 13154,
+    "b": 17,
+    "c": 1812,
+    "r": 1812,
+    "o": 25,
+    "t": "tâtonner dans les ténèbres, sans lumière, et tituber comme sous l’ivresse."
+  },
+  {
+    "i": 13155,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 1,
+    "t": "Tout cela, je l’ai vu de mes yeux, entendu de mes oreilles, et compris."
+  },
+  {
+    "i": 13156,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 2,
+    "t": "J’en sais, moi, autant que vous, je ne vous cède en rien."
+  },
+  {
+    "i": 13157,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 3,
+    "t": "Mais j’ai à parler à Shaddaï, je veux faire à Dieu des remontrances."
+  },
+  {
+    "i": 13158,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 4,
+    "t": "Vous, vous n’êtes que des charlatans, des médecins de fantaisie !"
+  },
+  {
+    "i": 13159,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 5,
+    "t": "Qui donc vous apprendra le silence, la seule sagesse qui vous convienne !"
+  },
+  {
+    "i": 13160,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 6,
+    "t": "Ecoutez, je vous prie, mes griefs, soyez attentifs au plaidoyer de mes lèvres."
+  },
+  {
+    "i": 13161,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 7,
+    "t": "Pensez-vous défendre Dieu par un langage inique et par des propos mensongers ?"
+  },
+  {
+    "i": 13162,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 8,
+    "t": "Prendre ainsi son parti, vous faire ses avocats ?"
+  },
+  {
+    "i": 13163,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 9,
+    "t": "Serait-il bon qu’il vous scrutât ? Se moque-t-on de lui comme on se joue d’un homme ?"
+  },
+  {
+    "i": 13164,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 10,
+    "t": "Il vous infligerait une sévère réprimande pour votre partialité secrète."
+  },
+  {
+    "i": 13165,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 11,
+    "t": "Est-ce que sa majesté ne vous effraie pas ? Sa terreur ne fond-elle pas sur vous ?"
+  },
+  {
+    "i": 13166,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 12,
+    "t": "Vos leçons apprises sont des sentences de cendre, vos défenses, des défenses d’argile."
+  },
+  {
+    "i": 13167,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 13,
+    "t": "Faites silence ! C’est moi qui vais parler, quoi qu’il m’advienne."
+  },
+  {
+    "i": 13168,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 14,
+    "t": "Je prends ma chair entre mes dents, je place ma vie dans mes mains,"
+  },
+  {
+    "i": 13169,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 15,
+    "t": "il peut me tuer : je n’ai d’autre espoir que de défendre devant lui ma conduite."
+  },
+  {
+    "i": 13170,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 16,
+    "t": "Et cela même me sauvera, car un impie n’oserait comparaître en sa présence."
+  },
+  {
+    "i": 13171,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 17,
+    "t": "Ecoutez, écoutez mes paroles, prêtez l’oreille à mes déclarations."
+  },
+  {
+    "i": 13172,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 18,
+    "t": "Voici : je vais procéder en justice, conscient d’être dans mon droit."
+  },
+  {
+    "i": 13173,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 19,
+    "t": "Qui veut plaider contre moi ? D’avance, j’accepte d’être réduit au silence et de périr !"
+  },
+  {
+    "i": 13174,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 20,
+    "t": "Fais-moi seulement deux concessions, alors je ne me cacherai pas loin de ta face :"
+  },
+  {
+    "i": 13175,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 21,
+    "t": "Ecarte ta main qui pèse sur moi et ne m’épouvante plus par ta terreur."
+  },
+  {
+    "i": 13176,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 22,
+    "t": "Puis engage le débat et je répondrai ; ou plutôt je parlerai et tu me répliqueras."
+  },
+  {
+    "i": 13177,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 23,
+    "t": "Combien de fautes et de péchés ai-je commis ? Dis-moi quelle a été ma transgression, mon péché ?"
+  },
+  {
+    "i": 13178,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 24,
+    "t": "Pourquoi caches-tu ta face et me considères-tu comme ton ennemi ?"
+  },
+  {
+    "i": 13179,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 25,
+    "t": "Veux-tu effrayer une feuille chassée par le vent, poursuivre une paille sèche ?"
+  },
+  {
+    "i": 13180,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 26,
+    "t": "Toi qui rédiges contre moi d’amères sentences et m’imputes mes fautes de jeunesse,"
+  },
+  {
+    "i": 13181,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 27,
+    "t": "qui as mis mes pieds dans les ceps, observes tous mes sentiers et prends l’empreinte de mes pas !"
+  },
+  {
+    "i": 13182,
+    "b": 17,
+    "c": 1813,
+    "r": 1813,
+    "o": 28,
+    "t": "Et lui s’effrite comme un bois vermoulu, ou comme un vêtement dévoré par la teigne,"
+  },
+  {
+    "i": 13183,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 1,
+    "t": "l’homme, né de la femme, qui a la vie courte, mais des tourments à satiété."
+  },
+  {
+    "i": 13184,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 2,
+    "t": "Pareil à la fleur, il éclôt puis se fane, il fuit comme l’ombre sans arrêt."
+  },
+  {
+    "i": 13185,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 3,
+    "t": "Et sur cet être tu gardes les yeux ouverts, tu l’amènes en jugement devant toi !"
+  },
+  {
+    "i": 13186,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 4,
+    "t": "Mais qui donc extraira le pur de l’impur ? Personne !"
+  },
+  {
+    "i": 13187,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 5,
+    "t": "Puisque ses jours sont comptés, que le nombre de ses mois dépend de toi, que tu lui fixes un terme infranchissable,"
+  },
+  {
+    "i": 13188,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 6,
+    "t": "détourne de lui tes yeux et laisse-le, tel un mercenaire, finir sa journée."
+  },
+  {
+    "i": 13189,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 7,
+    "t": "L’arbre conserve un espoir, une fois coupé, il peut renaître encore et ses rejetons continuent de pousser."
+  },
+  {
+    "i": 13190,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 8,
+    "t": "Même avec des racines qui ont vieilli en terre et une souche qui périt dans le sol,"
+  },
+  {
+    "i": 13191,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 9,
+    "t": "dès qu’il flaire l’eau, il bourgeonne et se fait une ramure comme un jeune plant."
+  },
+  {
+    "i": 13192,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 10,
+    "t": "Mais l’homme, s’il meurt, reste inerte ; quand un humain expire, où donc est-il ?"
+  },
+  {
+    "i": 13193,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 11,
+    "t": "Les eaux de la mer pourront disparaître, les fleuves tarir et se dessécher :"
+  },
+  {
+    "i": 13194,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 12,
+    "t": "l’homme une fois couché ne se relèvera pas, les cieux s’useront avant qu’il ne s’éveille, ou ne soit réveillé de son sommeil."
+  },
+  {
+    "i": 13195,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 13,
+    "t": "Oh ! Si tu m’abritais dans le shéol, si tu m’y cachais, tant que dure ta colère, si tu me fixais un délai, pour te souvenir ensuite de moi :"
+  },
+  {
+    "i": 13196,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 14,
+    "t": "car, une fois mort, peut-on revivre ? — tous les jours de mon service j’attendrais, jusqu’à ce que vienne ma relève."
+  },
+  {
+    "i": 13197,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 15,
+    "t": "Tu appellerais et je te répondrais ; tu voudrais revoir l’œuvre de tes mains."
+  },
+  {
+    "i": 13198,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 16,
+    "t": "Tandis que maintenant tu comptes tous mes pas, tu n’épierais plus mon péché,"
+  },
+  {
+    "i": 13199,
+    "b": 17,
+    "c": 1814,
+    "r": 1814,
+    "o": 17,
+    "t": "tu scellerais ma transgression dans un sachet et tu couvrirais ma faute."
+  }
+]

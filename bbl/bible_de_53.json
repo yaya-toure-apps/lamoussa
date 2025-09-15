@@ -1,0 +1,802 @@
+[
+  {
+    "i": 5300,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 11,
+    "t": "Alles reine Geflügel magst du essen,"
+  },
+  {
+    "i": 5301,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 12,
+    "t": "aber dies sind die Vögel, die du nicht essen sollst: der Gier, der Lämmergeier, der Fischadler,"
+  },
+  {
+    "i": 5302,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 13,
+    "t": "der rote Milan und alle Arten des schwarzen Milans,"
+  },
+  {
+    "i": 5303,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 14,
+    "t": "alle Arten von Raben,"
+  },
+  {
+    "i": 5304,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 15,
+    "t": "der Strauß, die Nachteule, die Möwe und alle Arten von Habichten,"
+  },
+  {
+    "i": 5305,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 16,
+    "t": "der Uhu, die Waldohreule, der Ibis,"
+  },
+  {
+    "i": 5306,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 17,
+    "t": "der Pelikan, der Aasgeier, der Kormoran,"
+  },
+  {
+    "i": 5307,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 18,
+    "t": "der Storch und alle Arten von Reihern, der Wiedehopf, die Fledermaus."
+  },
+  {
+    "i": 5308,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 19,
+    "t": "Alle geflügelten Insekten sollen euch unrein sein, davon sollt ihr nicht essen."
+  },
+  {
+    "i": 5309,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 20,
+    "t": "Alles reine Geflügel aber mögt ihr essen."
+  },
+  {
+    "i": 5310,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 21,
+    "t": "Ihr sollt kein von selbst verendetes Tier essen; dem Fremdling, der in deinen Toren weilt, sollst du es geben, damit er es esse, oder du verkaufst es einem Ausländer. Denn du bist ein heiliges Volk dem HERRN, deinem Gott. Du sollst das Böcklein nicht in der Milch seiner Mutter kochen."
+  },
+  {
+    "i": 5311,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 22,
+    "t": "Du sollst alle Jahre den Zehnten absondern von allem Ertrag deiner Saat, der auf dem Felde wächst,"
+  },
+  {
+    "i": 5312,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 23,
+    "t": "und sollst vor dem HERRN, deinem Gott, an dem Ort, den er erwählen wird, um seinen Namen dort wohnen zu lassen, den Zehnten deines Getreides, deines Weins und deines Öls essen, und die Erstgeburt deiner Rinder und deiner Schafe, damit du lernst, den HERRN, deinen Gott, allezeit zu fürchten."
+  },
+  {
+    "i": 5313,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 24,
+    "t": "Wenn aber der Weg zu lang für dich ist, so dass du es nicht hintragen kannst, weil der Ort, den der HERR, dein Gott, erwählen wird, um seinen Namen dort wohnen zu lassen, zu weit von dir entfernt ist, wenn der HERR, dein Gott, dich segnet,"
+  },
+  {
+    "i": 5314,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 25,
+    "t": "so sollst du es zu Geld machen, das Geld in deine Hand nehmen und zu dem Ort ziehen, den der HERR, dein Gott, erwählen wird,"
+  },
+  {
+    "i": 5315,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 26,
+    "t": "und sollst das Geld für alles verwenden, was deine Seele begehrt, für Rinder, Schafe, Wein und berauschende Getränke, für alles, was dich gelüstet; und du sollst dort vor dem HERRN, deinem Gott, essen und dich freuen, du und dein Haus."
+  },
+  {
+    "i": 5316,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 27,
+    "t": "Den Leviten, der in deinen Toren weilt, sollst du nicht verlassen; denn er hat kein Teil noch Erbe mit dir."
+  },
+  {
+    "i": 5317,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 28,
+    "t": "Alle drei Jahre sollst du alle Zehnten deiner Ernte in diesem Jahr absondern und sie in deinen Toren aufbewahren,"
+  },
+  {
+    "i": 5318,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 29,
+    "t": "damit der Levit komme, der kein Teil noch Erbe mit dir hat, und der Fremdling, die Waise und die Witwe, die in deinen Toren sind, und essen und sich sättigen; damit der HERR, dein Gott, dich segne in allen Werken deiner Hand, die du unternimmst."
+  },
+  {
+    "i": 5319,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 1,
+    "t": "Nach sieben Jahren sollst du einen Erlass halten."
+  },
+  {
+    "i": 5320,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 2,
+    "t": "Und dies ist die Art des Erlasses: Jeder Gläubiger soll seine Forderung an seinen Nächsten erlassen, er soll seinen Nächsten oder seinen Bruder nicht treiben, wenn der Erlass des HERRN ausgerufen ist."
+  },
+  {
+    "i": 5321,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 3,
+    "t": "Den Ausländer magst du treiben, aber was dein Bruder von dir hat, das sollst du ihm erlassen."
+  },
+  {
+    "i": 5322,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 4,
+    "t": "Denn es wird kein Armer unter dir sein; denn der HERR wird dich gewisslich segnen in dem Land, das dir der HERR, dein Gott, zum Erbe geben wird, um es in Besitz zu nehmen,"
+  },
+  {
+    "i": 5323,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 5,
+    "t": "wenn du nur fleißig auf die Stimme des HERRN, deines Gottes, hörst und alle diese Gebote hältst und tust, die ich dir heute gebiete."
+  },
+  {
+    "i": 5324,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 6,
+    "t": "Denn der HERR, dein Gott, wird dich segnen, wie er dir verheißen hat, und du wirst vielen Völkern leihen, aber von niemand entlehnen; und du wirst über viele Völker herrschen, aber sie werden nicht über dich herrschen."
+  },
+  {
+    "i": 5325,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 7,
+    "t": "Wenn aber ein Armer unter dir ist, einer deiner Brüder, in irgendeiner deiner Städte in deinem Land, das dir der HERR, dein Gott, gibt, so sollst du dein Herz nicht verhärten und deine Hand deinem armen Bruder nicht verschließen,"
+  },
+  {
+    "i": 5326,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 8,
+    "t": "sondern du sollst deine Hand ihm auftun und ihm willig leihen, was er Mangel hat."
+  },
+  {
+    "i": 5327,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 9,
+    "t": "Hüte dich davor, dass nicht ein frevelhafter Gedanke in deinem Herzen aufkommt, nämlich: »Das siebte Jahr, das Erlassjahr, ist nahe«, und dein Auge darum deinen armen Bruder nicht beneidet und du ihm nichts gibst, und er dann wegen dir zum HERRN schreit, und es dir zur Sünde gerechnet werde!"
+  },
+  {
+    "i": 5328,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 10,
+    "t": "Du sollst ihm willig geben, und dein Herz soll nicht widerwillig sein, wenn du ihm gibst; denn um deswillen wird dich der HERR, dein Gott, segnen in allen deinen Werken und in allem, was du unternimmst."
+  },
+  {
+    "i": 5329,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 11,
+    "t": "Denn es wird niemals an Armen fehlen im Land; darum gebiete ich dir und sage: Du sollst deine Hand deinem Bruder auftun, den Elenden und Armen in deinem Land."
+  },
+  {
+    "i": 5330,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 12,
+    "t": "Wenn sich dein Bruder, ein Hebräer oder eine Hebräerin, dir verkauft, so soll er dir sechs Jahre dienen; aber im siebten Jahr sollst du ihn frei von dir entlassen."
+  },
+  {
+    "i": 5331,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 13,
+    "t": "Und wenn du ihn frei von dir entlässt, so sollst du ihn nicht leer entlassen,"
+  },
+  {
+    "i": 5332,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 14,
+    "t": "sondern du sollst ihn reichlich ausstatten mit dem, was von deinem Kleinvieh, deiner Tenne und deiner Kelter kommt; wie der HERR, dein Gott, dich gesegnet hat, so sollst du ihm geben."
+  },
+  {
+    "i": 5333,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 15,
+    "t": "Und du sollst daran denken, dass du selbst ein Knecht im Land Ägypten warst, und dass der HERR, dein Gott, dich erlöst hat; darum gebiete ich dir dies heute."
+  },
+  {
+    "i": 5334,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 16,
+    "t": "Wenn er aber zu dir sagt: »Ich will nicht von dir weggehen«, weil er dich und dein Haus lieb hat, da es ihm gut bei dir geht,"
+  },
+  {
+    "i": 5335,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 17,
+    "t": "so sollst du eine Ahle nehmen und sein Ohr an die Tür bohren, und er soll dir ewig dienen. Ebenso sollst du mit deiner Magd verfahren."
+  },
+  {
+    "i": 5336,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 18,
+    "t": "Es soll dich nicht hart ankommen, wenn du ihn frei von dir entlässt; denn er hat dir sechs Jahre den doppelten Lohn eines Tagelöhners erarbeitet. Und der HERR, dein Gott, wird dich segnen in allem, was du tust."
+  },
+  {
+    "i": 5337,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 19,
+    "t": "Alle männliche Erstgeburt, die von deinen Rindern und Schafen geboren wird, sollst du dem HERRN, deinem Gott, heiligen. Du sollst die Erstgeburt deiner Rinder nicht zur Arbeit gebrauchen und die Erstgeburt deiner Schafe nicht scheren."
+  },
+  {
+    "i": 5338,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 20,
+    "t": "Vor dem HERRN, deinem Gott, sollst du sie alle Jahre essen an dem Ort, den der HERR erwählen wird, du und dein Haus."
+  },
+  {
+    "i": 5339,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 21,
+    "t": "Wenn aber ein Fehler daran ist, so dass es lahm oder blind ist oder irgendeinen schlimmen Fehler hat, so sollst du es dem HERRN, deinem Gott, nicht opfern."
+  },
+  {
+    "i": 5340,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 22,
+    "t": "Du sollst es in deinen Toren essen, der Reine wie der Unreine miteinander, wie man eine Gazelle oder einen Hirsch isst."
+  },
+  {
+    "i": 5341,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 23,
+    "t": "Nur sein Blut sollst du nicht essen, sondern es auf die Erde gießen wie Wasser."
+  },
+  {
+    "i": 5342,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 1,
+    "t": "Beachte den Monat Abib und halte dem HERRN, deinem Gott, Passah; denn im Monat Abib hat dich der HERR, dein Gott, bei Nacht aus Ägypten geführt."
+  },
+  {
+    "i": 5343,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 2,
+    "t": "Und du sollst dem HERRN, deinem Gott, Passah opfern, von Rindern und Schafen, an dem Ort, den der HERR erwählen wird, um seinen Namen dort wohnen zu lassen."
+  },
+  {
+    "i": 5344,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 3,
+    "t": "Du sollst nichts Gesäuertes dazu essen; sieben Tage lang sollst du ungesäuertes Brot dazu essen, Brot der Mühsal, denn in Hast bist du aus dem Land Ägypten gezogen, damit du des Tages gedenkst, da du aus dem Land Ägypten gezogen bist, solange du lebst."
+  },
+  {
+    "i": 5345,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 4,
+    "t": "Sieben Tage lang soll kein Sauerteig bei dir gefunden werden, in deinem ganzen Gebiet, und von dem Fleisch, das du am Abend des ersten Tages opferst, soll nichts bis zum Morgen übrig bleiben."
+  },
+  {
+    "i": 5346,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 5,
+    "t": "Du darfst das Passah nicht in irgendeiner deiner Städte opfern, die dir der HERR, dein Gott, gibt,"
+  },
+  {
+    "i": 5347,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 6,
+    "t": "sondern an dem Ort, den der HERR, dein Gott, erwählen wird, um seinen Namen dort wohnen zu lassen, sollst du das Passah opfern, am Abend, beim Untergang der Sonne, zur bestimmten Zeit, als du aus Ägypten gezogen bist."
+  },
+  {
+    "i": 5348,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 7,
+    "t": "Du sollst es kochen und essen an dem Ort, den der HERR, dein Gott, erwählen wird, und am Morgen sollst du zurückkehren und zu deinen Zelten gehen."
+  },
+  {
+    "i": 5349,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 8,
+    "t": "Sechs Tage sollst du ungesäuertes Brot essen, und am siebten Tag soll eine Festversammlung für den HERRN, deinen Gott, sein; da sollst du keine Arbeit tun."
+  },
+  {
+    "i": 5350,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 9,
+    "t": "Du sollst dir sieben Wochen abzählen; vom Tag an, da die Sichel an das Getreide gelegt wird, sollst du anfangen, die sieben Wochen zu zählen."
+  },
+  {
+    "i": 5351,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 10,
+    "t": "Dann sollst du das Fest der Wochen für den HERRN, deinen Gott, feiern, mit einer freiwilligen Gabe deiner Hand, die du geben sollst, wie der HERR, dein Gott, dich gesegnet hat."
+  },
+  {
+    "i": 5352,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 11,
+    "t": "Und du sollst dich freuen vor dem HERRN, deinem Gott, an dem Ort, den der HERR erwählen wird, um seinen Namen dort wohnen zu lassen, du und dein Sohn und deine Tochter, dein Knecht und deine Magd, der Levit, der in deinen Toren weilt, der Fremdling, die Waise und die Witwe, die in deiner Mitte sind."
+  },
+  {
+    "i": 5353,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 12,
+    "t": "Und du sollst daran denken, dass du selbst ein Knecht im Land Ägypten warst, und sollst diese Satzungen bewahren und sie tun."
+  },
+  {
+    "i": 5354,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 13,
+    "t": "Das Laubhüttenfest sollst du sieben Tage lang feiern, wenn du die Ernte von deiner Tenne und deiner Kelter eingebracht hast."
+  },
+  {
+    "i": 5355,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 14,
+    "t": "Und du sollst dich freuen an deinem Fest, du und dein Sohn und deine Tochter, dein Knecht und deine Magd, der Levit, der Fremdling, die Waise und die Witwe, die in deinen Toren sind."
+  },
+  {
+    "i": 5356,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 15,
+    "t": "Sieben Tage lang sollst du dem HERRN, deinem Gott, das Fest feiern an dem Ort, den der HERR erwählen wird; denn der HERR, dein Gott, wird dich segnen in deiner ganzen Ernte und in allem Werk deiner Hände, so dass du ganz und gar fröhlich sein wirst."
+  },
+  {
+    "i": 5357,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 16,
+    "t": "Dreimal im Jahr sollen alle deine Männer vor dem HERRN, deinem Gott, erscheinen an dem Ort, den er erwählen wird: am Fest der ungesäuerten Brote, am Fest der Wochen und am Laubhüttenfest. Und sie sollen nicht leer vor dem HERRN erscheinen,"
+  },
+  {
+    "i": 5358,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 17,
+    "t": "sondern jeder soll eine Gabe darbringen, wie der HERR, dein Gott, dich gesegnet hat."
+  },
+  {
+    "i": 5359,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 18,
+    "t": "Du sollst dir Richter und Amtleute bestellen in allen deinen Städten, die dir der HERR, dein Gott, gibt, für alle deine Stämme, die das Volk mit gerechtem Urteil richten sollen."
+  },
+  {
+    "i": 5360,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 19,
+    "t": "Du sollst das Recht nicht beugen, die Person nicht ansehen und keine Bestechung annehmen; denn die Bestechung verblendet die Augen der Weisen und verkehrt die Sache der Gerechten."
+  },
+  {
+    "i": 5361,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 20,
+    "t": "Dem Recht, dem Recht allein sollst du nachjagen, damit du lebst und das Land in Besitz nimmst, das dir der HERR, dein Gott, gibt."
+  },
+  {
+    "i": 5362,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 21,
+    "t": "Du sollst dir keinen Hain pflanzen aus irgendeinem Holz neben dem Altar des HERRN, deines Gottes, den du dir machen sollst,"
+  },
+  {
+    "i": 5363,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 22,
+    "t": "und du sollst dir kein Gedenkmal aufrichten, denn das hasst der HERR, dein Gott."
+  },
+  {
+    "i": 5364,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 1,
+    "t": "Du sollst dem HERRN, deinem Gott, kein Rind oder Schaf opfern, das einen Fehler oder irgendein Gebrechen hat; denn das ist dem HERRN, deinem Gott, ein Gräuel."
+  },
+  {
+    "i": 5365,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 2,
+    "t": "Wenn sich in deiner Mitte, in irgendeiner deiner Städte, die dir der HERR, dein Gott, gibt, ein Mann oder eine Frau findet, der tut, was böse ist in den Augen des HERRN, deines Gottes, indem er seinen Bund übertritt,"
+  },
+  {
+    "i": 5366,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 3,
+    "t": "und hingeht und anderen Göttern dient und sie anbetet, die Sonne, den Mond oder das ganze Heer des Himmels, was ich nicht geboten habe,"
+  },
+  {
+    "i": 5367,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 4,
+    "t": "und es dir berichtet und du es hörst, so sollst du gründlich nachforschen. Und wenn es sich als wahr erweist und feststeht, dass dieser Gräuel in Israel begangen worden ist,"
+  },
+  {
+    "i": 5368,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 5,
+    "t": "so sollst du den Mann oder die Frau, die dieses böse Werk getan haben, zu deinen Toren hinausführen und sie steinigen, bis sie sterben."
+  },
+  {
+    "i": 5369,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 6,
+    "t": "Auf die Aussage von zwei oder drei Zeugen soll der Schuldige sterben; er soll nicht auf die Aussage eines einzigen Zeugen sterben."
+  },
+  {
+    "i": 5370,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 7,
+    "t": "Die Zeugen sollen die Hand zuerst an ihn legen, um ihn zu töten, und danach das ganze Volk. So sollst du das Böse aus deiner Mitte wegtun."
+  },
+  {
+    "i": 5371,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 8,
+    "t": "Wenn dir eine Rechtssache zu schwer ist zum Urteil, sei es eine Blutsache, eine Streitsache oder eine Gewaltsache, irgendeine Streitigkeit in deinen Städten, so sollst du aufbrechen und an den Ort hinaufziehen, den der HERR, dein Gott, erwählen wird,"
+  },
+  {
+    "i": 5372,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 9,
+    "t": "und zu den Priestern, den Leviten, und zu dem Richter gehen, der zu jener Zeit im Amt ist, und sie sollen forschen, und sie sollen dir den Urteilsspruch mitteilen."
+  },
+  {
+    "i": 5373,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 10,
+    "t": "Und du sollst dich nach dem Urteilsspruch richten, den sie dir an jenem Ort mitteilen werden, den der HERR erwählen wird, und sollst alles genau so tun, wie sie dich anweisen werden."
+  },
+  {
+    "i": 5374,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 11,
+    "t": "Nach dem Urteilsspruch, den sie dir mitteilen, und nach dem Urteil, das sie sprechen werden, sollst du dich richten; weiche nicht ab von dem Urteil, das sie dir mitteilen, weder zur Rechten noch zur Linken."
+  },
+  {
+    "i": 5375,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 12,
+    "t": "Wenn aber jemand so vermessen ist, dass er nicht auf den Priester hört, der dort steht, um den Dienst des HERRN, deines Gottes, zu verrichten, noch auf den Richter, so soll dieser Mensch sterben. So sollst du das Böse aus Israel wegtun,"
+  },
+  {
+    "i": 5376,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 13,
+    "t": "damit das ganze Volk es hört und sich fürchtet und nicht mehr vermessen handelt."
+  },
+  {
+    "i": 5377,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 14,
+    "t": "Wenn du in das Land kommst, das dir der HERR, dein Gott, gibt, und es in Besitz nimmst und darin wohnst und dann sagst: »Ich will einen König über mich setzen, wie alle Völker rings um mich her«,"
+  },
+  {
+    "i": 5378,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 15,
+    "t": "so sollst du unbedingt den zum König über dich setzen, den der HERR, dein Gott, erwählen wird. Einen aus deinen Brüdern sollst du zum König über dich setzen; du darfst keinen Fremden über dich setzen, der nicht dein Bruder ist."
+  },
+  {
+    "i": 5379,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 16,
+    "t": "Er soll aber nicht viele Pferde halten und das Volk nicht wieder nach Ägypten zurückführen, um viele Pferde zu beschaffen; denn der HERR hat euch gesagt: »Ihr sollt niemals wieder auf diesem Weg zurückkehren!«"
+  },
+  {
+    "i": 5380,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 17,
+    "t": "Er soll sich nicht viele Frauen nehmen, damit sein Herz nicht abfalle. Auch soll er nicht Silber und Gold über die Maßen mehren."
+  },
+  {
+    "i": 5381,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 18,
+    "t": "Wenn er nun auf dem Thron seines Königreiches sitzt, soll er sich eine Abschrift dieses Gesetzes, die in einem Buch enthalten ist, von den Priestern, den Leviten, nehmen lassen."
+  },
+  {
+    "i": 5382,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 19,
+    "t": "Und er soll es bei sich haben und darin lesen alle Tage seines Lebens, damit er lernt, den HERRN, seinen Gott, zu fürchten und alle Worte dieses Gesetzes und diese Satzungen zu halten und danach zu tun."
+  },
+  {
+    "i": 5383,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 20,
+    "t": "Damit sein Herz sich nicht überhebe über seine Brüder und er nicht abweiche von dem Gebot, weder zur Rechten noch zur Linken, auf dass er lange lebe in seinem Königreich, er und seine Söhne, in Israel."
+  },
+  {
+    "i": 5384,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 1,
+    "t": "Die Priester, die Leviten, der ganze Stamm Levi, sollen keinen Anteil noch Erbe haben mit Israel; von den Opfergaben des HERRN, die ihm durch Feuer dargebracht werden, sollen sie leben, und von seinem Erbe sollen sie sich nähren."
+  },
+  {
+    "i": 5385,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 2,
+    "t": "Sie sollen kein Erbe haben unter ihren Brüdern; der HERR ist ihr Erbe, wie er ihnen zugesagt hat."
+  },
+  {
+    "i": 5386,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 3,
+    "t": "Und dies soll der Priester Recht sein von dem Volk, von denen, die ein Schlachtopfer darbringen, sei es Rind oder Schaf: man soll dem Priester die Schulter, die Kinnbacken und den Magen geben."
+  },
+  {
+    "i": 5387,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 4,
+    "t": "Die Erstlingsfrüchte deines Getreides, deines Weines und deines Öls sollst du ihm geben, auch die erste Schur deiner Schafe."
+  },
+  {
+    "i": 5388,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 5,
+    "t": "Denn ihn hat der HERR, dein Gott, aus allen deinen Stämmen erwählt, dass er vor dem HERRN stehe, um ihm zu dienen und in seinem Namen zu segnen, er und seine Söhne für immer."
+  },
+  {
+    "i": 5389,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 6,
+    "t": "Wenn aber ein Levit aus irgendeiner deiner Städte in ganz Israel, wo er sich aufhält, kommt nach seinem ganzen Herzenswunsch an den Ort, den der HERR erwählen wird,"
+  },
+  {
+    "i": 5390,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 7,
+    "t": "so soll er dienen im Namen des HERRN, seines Gottes, wie alle seine Brüder, die Leviten, die dort vor dem HERRN stehen."
+  },
+  {
+    "i": 5391,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 8,
+    "t": "Sie sollen gleiche Anteile zu essen haben, außer dem, was ihm vom Verkauf seines väterlichen Gutes zukommt."
+  },
+  {
+    "i": 5392,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 9,
+    "t": "Wenn du in das Land kommst, das dir der HERR, dein Gott, gibt, sollst du nicht lernen, die Gräueltaten dieser Völker zu verüben."
+  },
+  {
+    "i": 5393,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 10,
+    "t": "Es soll niemand unter dir gefunden werden, der seinen Sohn oder seine Tochter durchs Feuer gehen lässt, noch Wahrsager, Zauberer oder Beschwörer,"
+  },
+  {
+    "i": 5394,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 11,
+    "t": "noch jemand, der Geister befragt, noch Wahrsager, noch Totenbeschwörer."
+  },
+  {
+    "i": 5395,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 12,
+    "t": "Denn wer dies tut, ist dem HERRN ein Gräuel; und wegen dieser Gräuel vertreibt der HERR, dein Gott, diese Völker vor dir her."
+  },
+  {
+    "i": 5396,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 13,
+    "t": "Du sollst vollkommen sein vor dem HERRN, deinem Gott."
+  },
+  {
+    "i": 5397,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 14,
+    "t": "Denn diese Völker, die du aus deinem Besitz vertreibst, hören auf Wahrsager und Zauberer; dir aber hat der HERR, dein Gott, so etwas nicht erlaubt."
+  },
+  {
+    "i": 5398,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 15,
+    "t": "Einen Propheten wie mich wird dir der HERR, dein Gott, aus deiner Mitte, aus deinen Brüdern, erwecken; auf ihn sollt ihr hören."
+  },
+  {
+    "i": 5399,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 16,
+    "t": "Ganz so, wie du es von dem HERRN, deinem Gott, am Horeb erbeten hast, am Tag der Versammlung, als du sagtest: Ich will die Stimme des HERRN, meines Gottes, nicht mehr hören und dieses große Feuer nicht mehr sehen, damit ich nicht sterbe!"
+  }
+]

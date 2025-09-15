@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2700,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 38,
+    "t": "az arany oltárt, a kenet olaját, az illatos füstölőszert és a függönyt a Szent Sátor bejáratához;"
+  },
+  {
+    "i": 2701,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 39,
+    "t": "a rézoltárt és a rézrácsát, a rúdait és minden tartozékát; a mosdótartót és annak talpazatát;"
+  },
+  {
+    "i": 2702,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 40,
+    "t": "a pitvar függönyeit, annak oszlopait, talpazatait és a függönyt a pitvar kapujához, a köteleit, cövekeit, valamint a Szent Hajléknak minden tartozékát, a Találkozás Sátorához;"
+  },
+  {
+    "i": 2703,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 41,
+    "t": "az istentiszteleti ruhákat a szentélyben való szolgálathoz – a szent ruhákat Áronnak, a papnak, és fiainak ruháit a papi szolgálathoz."
+  },
+  {
+    "i": 2704,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 42,
+    "t": "És elvégezték Izráel fiai mindazt a munkát, a miként az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2705,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 43,
+    "t": "És látta Mózes az egész munkát: úgy végezték el, a mint az Úr parancsolta. És megáldotta őket Mózes."
+  },
+  {
+    "i": 2706,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 1,
+    "t": "Szólt pedig az Úr Mózesnek, mondván:"
+  },
+  {
+    "i": 2707,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 2,
+    "t": "„Az első hónap első napján állítsd fel a Szent Hajlékot, a Találkozás Sátorát,"
+  },
+  {
+    "i": 2708,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 3,
+    "t": "helyezd oda a Bizonyság ládáját, és takard le a ládát a kárpittal."
+  },
+  {
+    "i": 2709,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 4,
+    "t": "Vidd oda az asztalt, és helyezd el rajta a tartozékait. Vidd oda a gyertyatartót, és gyújtsd meg a lámpásait."
+  },
+  {
+    "i": 2710,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 5,
+    "t": "Az arany illatáldozati oltárt a Bizonyság ládája elé helyezd, és tedd a függönyt a Szent Hajlék bejáratához."
+  },
+  {
+    "i": 2711,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 6,
+    "t": "Az égőáldozati oltárt a Szent Hajlék, a Találkozás Sátora bejárata elé helyezd."
+  },
+  {
+    "i": 2712,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 7,
+    "t": "A mosdótartót a Találkozás Sátora és az oltár közé helyezd, és töltsd meg vízzel."
+  },
+  {
+    "i": 2713,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 8,
+    "t": "Állítsd fel a pitvart körös-körül, és tedd a függönyt a pitvar kapujához."
+  },
+  {
+    "i": 2714,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 9,
+    "t": "Fogd a kenet olaját, és kend meg a Szent Hajlékot és mindent, ami benne van; szenteld fel azt és minden tartozékát, és legyen az ékes szent."
+  },
+  {
+    "i": 2715,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 10,
+    "t": "Kend meg az égőáldozati oltárt és minden tartozékát, szenteld fel az oltárt, és az oltár legyen ékes szent."
+  },
+  {
+    "i": 2716,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 11,
+    "t": "Kend meg a mosdótartót és a talpazatát, és szenteld fel azt."
+  },
+  {
+    "i": 2717,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 12,
+    "t": "Azután vezesd oda Áront és fiait a Találkozás Sátora bejáratához, mosd meg őket vízzel,"
+  },
+  {
+    "i": 2718,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 13,
+    "t": "és öltöztesd fel Áront szent ruháiba, kend fel és szenteld fel őt, hogy gyakorolja az én papságomat."
+  },
+  {
+    "i": 2719,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 14,
+    "t": "Fiait is vezesd oda, és öltöztesd fel őket tunikákba,"
+  },
+  {
+    "i": 2720,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 15,
+    "t": "és kend fel őket, a miként felkented az ő atyjokat, hogy gyakorolják az én papságomat. Ez azért legyen, hogy az ő felkenetésük örök papságot adjon nekik, nemzeteikben."
+  },
+  {
+    "i": 2721,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 16,
+    "t": "És megcselekedte Mózes. Mindent úgy cselekedett, a mint az Úr parancsolta néki."
+  },
+  {
+    "i": 2722,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 17,
+    "t": "A második esztendő első hónapjának első napján felállították a Szent Hajlékot."
+  },
+  {
+    "i": 2723,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 18,
+    "t": "Mózes felállította a Szent Hajlékot; odatette a talpazatait, ráhelyezte a kereteit, elhelyezte a rudakat, és felállította az oszlopokat."
+  },
+  {
+    "i": 2724,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 19,
+    "t": "Kiterjesztette a sátrat a Szent Hajlék fölé, és ráhelyezte a sátor takaróját, a mint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2725,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 20,
+    "t": "Fogta a Bizonyságot, betette a ládába, ráhelyezte a rudakat a ládára, és ráhelyezte a fedelet a ládára."
+  },
+  {
+    "i": 2726,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 21,
+    "t": "Bevitte a ládát a Szent Hajlékba, és elhelyezte a kárpit függönyét; eltakarta így a Bizonyság ládáját, a mint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2727,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 22,
+    "t": "Odatette az asztalt a Találkozás Sátorába, a Szent Hajléknak északi oldalára, a kárpit végétől;"
+  },
+  {
+    "i": 2728,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 23,
+    "t": "és sorba rakta a kenyeret az Úr előtt, a mint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2729,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 24,
+    "t": "Odatette a gyertyatartót a Találkozás Sátorába, az asztallal szemben, a Szent Hajléknak déli oldalára;"
+  },
+  {
+    "i": 2730,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 25,
+    "t": "és meggyújtotta a lámpásokat az Úr előtt, a mint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2731,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 26,
+    "t": "Odatette az arany oltárt a Találkozás Sátorába, a kárpit elé;"
+  },
+  {
+    "i": 2732,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 27,
+    "t": "és füstölő illatszert égetett rajta, a mint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2733,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 28,
+    "t": "Majd odatette a függönyt a Szent Hajlék bejáratához."
+  },
+  {
+    "i": 2734,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 29,
+    "t": "Az égőáldozati oltárt pedig odatette a Szent Hajlék, a Találkozás Sátora bejáratához, és égőáldozatot és ételáldozatot áldozott rajta, a mint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2735,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 30,
+    "t": "A mosdótartót a Találkozás Sátora és az oltár közé helyezte, és vizet tett bele a mosdásokhoz,"
+  },
+  {
+    "i": 2736,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 31,
+    "t": "amivel Mózes, Áron és fiai megmosták a kezüket és a lábukat."
+  },
+  {
+    "i": 2737,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 32,
+    "t": "Mikor bementek a Találkozás Sátorába, vagy mikor az oltárhoz közeledtek, megmosták magukat, a mint az Úr parancsolta Mózesnek."
+  },
+  {
+    "i": 2738,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 33,
+    "t": "Felállította a pitvart a Szent Hajlék és az oltár körül, és kitette a függönyt a pitvar kapujához. Így fejezte be Mózes a munkát."
+  },
+  {
+    "i": 2739,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 34,
+    "t": "A felhő beborította a Találkozás Sátorát, és az Úr dicsősége betöltötte a Szent Hajlékot."
+  },
+  {
+    "i": 2740,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 35,
+    "t": "Mózes nem tudott bemenni a Találkozás Sátorába, mert a felhő rajta maradt, és az Úr dicsősége betöltötte a Szent Hajlékot."
+  },
+  {
+    "i": 2741,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 36,
+    "t": "Minden útjuk során, mikor a felhő felemelkedett a Szent Hajlék fölül, Izráel fiai útnak indultak."
+  },
+  {
+    "i": 2742,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 37,
+    "t": "Ha pedig a felhő nem emelkedett fel, nem indultak útnak addig a napig, a melyen felemelkedett."
+  },
+  {
+    "i": 2743,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 38,
+    "t": "Mert nappal az Úr felhője volt a Szent Hajlékon, éjjel pedig tűz volt benne, Izráel egész házának szeme láttára, minden útjuk során."
+  },
+  {
+    "i": 2744,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 1,
+    "t": "Szólítá az Úr Mózest, és szóla néki a gyülekezet sátorából, mondván:"
+  },
+  {
+    "i": 2745,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 2,
+    "t": "Szólj Izráel fiainak, és mondd meg nékik: Ha valaki közületek áldozatot hoz az Úrnak, a baromból való áldozatot, a marhából és a juhból hozzátok áldozatotokat."
+  },
+  {
+    "i": 2746,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 3,
+    "t": "Ha égő áldozata marhából való, hímet hozzon, épet, a gyülekezet sátorának nyílásához hozza, hogy kedves legyen az Úr előtt."
+  },
+  {
+    "i": 2747,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 4,
+    "t": "És tegye kezét az áldozat fejére, hogy kedves legyen, hogy engesztelést szerezzen néki."
+  },
+  {
+    "i": 2748,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 5,
+    "t": "Akkor vágja le a tulkot az Úr előtt; Áron fiai pedig, a papok, vigyék oda a vért, ésHintsék a vért körös-körül az oltárra, a mely a gyülekezet sátorának nyílásánál van."
+  },
+  {
+    "i": 2749,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 6,
+    "t": "Azután nyúzza meg az áldozatot, és darabolja fel részeire."
+  },
+  {
+    "i": 2750,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 7,
+    "t": "És Áron fiai, a papok, tegyenek tüzet az oltárra, és rakjanak fát a tűzre."
+  },
+  {
+    "i": 2751,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 8,
+    "t": "És rakják Áron fiai, a papok, a részeket, a fejet és a kövérséget a fára, a mely az oltáron levő tűzön van."
+  },
+  {
+    "i": 2752,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 9,
+    "t": "A belsőséget pedig és a lábszárakat vízzel mossa meg; és a pap füstölögtesse el az egészet az oltáron: égőáldozat, kedves illat az Úrnak."
+  },
+  {
+    "i": 2753,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 10,
+    "t": "Ha pedig juhból, akár bárányból, akár kecskegidából való az ő áldozata égő áldozatul, hímet hozzon, épet."
+  },
+  {
+    "i": 2754,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 11,
+    "t": "És vágja le azt az oltár északi oldalán az Úr előtt; Áron fiai pedig, a papok, öntsék ki annak vérét az oltárra körös-körül."
+  },
+  {
+    "i": 2755,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 12,
+    "t": "Azután darabolja fel azt részeire; a pap pedig rakja azokat, a fejet és a kövérséget a fára, a mely az oltáron levő tűzön van."
+  },
+  {
+    "i": 2756,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 13,
+    "t": "A belsőséget pedig és a lábszárakat mossa meg vízzel; és a pap vigye oda az egészet, és füstölögtesse el az oltáron: égő áldozat, kedves illat az Úrnak."
+  },
+  {
+    "i": 2757,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 14,
+    "t": "Ha pedig madárból hoz égő áldozatot az Úrnak, gerlicét vagy galambfiakat hozzon az ő áldozatául."
+  },
+  {
+    "i": 2758,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 15,
+    "t": "És vigye el azt a pap az oltárhoz, és csavarja ki annak fejét, és füstölögtesse el az oltáron; vérét pedig facsarja ki az oltár oldalára."
+  },
+  {
+    "i": 2759,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 16,
+    "t": "Zacskóját pedig szedje ki tollával együtt, és dobja oda az oltár mellé napkelet felé, a hamu helyére."
+  },
+  {
+    "i": 2760,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 17,
+    "t": "Szakadja azt azután ketté szárnyai szerint, de ne válassza el; és füstölögtesse azt el a pap az oltáron, a fán, a mely a tűzön van: égő áldozat, kedves illat az Úrnak."
+  },
+  {
+    "i": 2761,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 1,
+    "t": "Ha pedig valaki ételáldozatot áldoz az Úrnak, lisztláng legyen az ő áldozata, és öntsön arra olajat, és tegyen reá tömjént."
+  },
+  {
+    "i": 2762,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 2,
+    "t": "És vigye el azt Áron fiaihoz, a papokhoz; és vegyen abból egy tele marokkal lisztlángból és olajból, az egész tömjénnel együtt, és füstölögtesse el a pap emlékeztetőül az oltáron: kedves illatú tűzáldozat az Úrnak."
+  },
+  {
+    "i": 2763,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 3,
+    "t": "Ami pedig megmarad az ételáldozatból, az Ároné és az ő fiaié legyen: szentséges a tűzáldozatokból az Úrnak."
+  },
+  {
+    "i": 2764,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 4,
+    "t": "Ha pedig kemencében sült ételáldozatot áldozol, lisztlángból készült kovásztalan lepényeket, olajjal elegyített pogácsákat, vagy olajjal megkent kovásztalan lángosokat."
+  },
+  {
+    "i": 2765,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 5,
+    "t": "Ha pedig serpenyőben sütött ételáldozat a te áldozatod, kovásztalan lisztláng legyen, olajjal elegyítve."
+  },
+  {
+    "i": 2766,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 6,
+    "t": "Törd össze azt apró darabokra, és önts reá olajat: ételáldozat az."
+  },
+  {
+    "i": 2767,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 7,
+    "t": "Ha pedig fazékban készült ételáldozat a te áldozatod, lisztlángból készítsd el olajjal."
+  },
+  {
+    "i": 2768,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 8,
+    "t": "És vidd el az ételáldozatot, a mely ily módon készült, az Úrnak; és add át a papnak, az pedig vigye azt az oltárhoz."
+  },
+  {
+    "i": 2769,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 9,
+    "t": "És vegye el a pap az ételáldozatból az emlékeztető részt, és füstölögtesse el azt az oltáron: kedves illatú tűzáldozat az Úrnak."
+  },
+  {
+    "i": 2770,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 10,
+    "t": "Ami pedig megmarad az ételáldozatból, az Ároné és az ő fiaié legyen: szentséges a tűzáldozatokból az Úrnak."
+  },
+  {
+    "i": 2771,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 11,
+    "t": "Semmi ételáldozatot, a melyet az Úrnak áldoztok, ne készítsetek kovászból, mert se kovászt, se mézet ne füstölögtessetek el az Úrnak tűzáldozatul."
+  },
+  {
+    "i": 2772,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 12,
+    "t": "Első zsengétek áldozataként áldozzátok azokat az Úrnak, de az oltárra ne szálljanak fel kedves illat gyanánt."
+  },
+  {
+    "i": 2773,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 13,
+    "t": "És minden ételáldozatodat sóval ízesítsd meg; és ne hagyd el a te ételáldozatodról a te Istened szövetségének sóját: minden áldozatodhoz hozzál sót."
+  },
+  {
+    "i": 2774,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 14,
+    "t": "Ha pedig zsenge ételáldozatot áldozol az Úrnak, tűzön pirított kalászokat, tört búzakását áldozzad a te zsendge ételáldozatod gyanánt."
+  },
+  {
+    "i": 2775,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 15,
+    "t": "És önts reá olajat, és tegyél reá tömjént: ételáldozat az."
+  },
+  {
+    "i": 2776,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 16,
+    "t": "És füstölögtesse el a pap annak emlékeztető részét a tört kásából és az olajból az egész tömjénnel együtt: tűzáldozat az Úrnak."
+  },
+  {
+    "i": 2777,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 1,
+    "t": "Ha pedig valaki hálaáldozatot áldoz, és ha marhát áldoz, akár hímet, akár nőstényt, épet áldozza az Úr előtt."
+  },
+  {
+    "i": 2778,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 2,
+    "t": "És tegye rá kezét az áldozat fejére, és vágja le a gyülekezet sátorának nyílásánál; Áron fiai pedig, a papok, öntsék a vért az oltárra körös-körül."
+  },
+  {
+    "i": 2779,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 3,
+    "t": "És áldozzék a hálaáldozatból tűzáldozatul az Úrnak a kövéret, a belsőséget borító kövéret, és mindazt a kövéret, a mely a belsőségen van;"
+  },
+  {
+    "i": 2780,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 4,
+    "t": "a két vesét, a rajtuk levő hájat, mely a derékhoz tartozik, továbbá a májról és a vesékről lekapart hájat."
+  },
+  {
+    "i": 2781,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 5,
+    "t": "Áron fiai ezt füstölögtessék el az oltáron az égőáldozat mellett, a tűzre helyezett fán. Ez kedves illatú, étekáldozat az Úrnak."
+  },
+  {
+    "i": 2782,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 6,
+    "t": "Ha juh vagy kecske a közösségi áldozat, melyet az Úrnak szánt, hím vagy nőstény legyen az, de hibátlan legyen."
+  },
+  {
+    "i": 2783,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 7,
+    "t": "Ha bárányt áldoz, akkor azt az Úr színe előtt áldozza fel,"
+  },
+  {
+    "i": 2784,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 8,
+    "t": "helyezze kezét az áldozat fejére, és vágja le a Találkozás Sátra előtt, Áron fiai pedig öntsék a vért az oltár köré."
+  },
+  {
+    "i": 2785,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 9,
+    "t": "A közösségi áldozatból áldozzon tűzáldozatot az Úrnak: a teljes farkat, melyet a keresztcsontnál választ le, a belsőségeket borító hájat, az egész hájat, mely a belsőségeken van,"
+  },
+  {
+    "i": 2786,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 10,
+    "t": "a két vesét, a rajtuk levő hájat, mely a derékhoz tartozik, továbbá a májról és a vesékről lekapart hájat."
+  },
+  {
+    "i": 2787,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 11,
+    "t": "A pap füstölögtesse el ezt az oltáron ételként, tűzáldozatként az Úrnak."
+  },
+  {
+    "i": 2788,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 12,
+    "t": "Ha kecske az áldozata, akkor azt az Úr színe előtt áldozza fel,"
+  },
+  {
+    "i": 2789,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 13,
+    "t": "helyezze kezét a fejére, és vágja le a Találkozás Sátra előtt, Áron fiai pedig öntsék a vért az oltár köré."
+  },
+  {
+    "i": 2790,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 14,
+    "t": "Ebből áldozzon tűzáldozatot az Úrnak: a belsőségeket borító hájat, az egész hájat, mely a belsőségeken van,"
+  },
+  {
+    "i": 2791,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 15,
+    "t": "a két vesét, a rajtuk levő hájat, mely a derékhoz tartozik, továbbá a májról és a vesékről lekapart hájat."
+  },
+  {
+    "i": 2792,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 16,
+    "t": "A pap füstölögtesse el ezeket az oltáron ételként, kedves illatú tűzáldozatként. Minden háj az Úré."
+  },
+  {
+    "i": 2793,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 17,
+    "t": "Ez örök törvény legyen nemzedékeiteken át, bárhol laktok is: se hájat, se vért ne egyetek!"
+  },
+  {
+    "i": 2794,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 1,
+    "t": "Az Úr szólt Mózeshez, mondván:"
+  },
+  {
+    "i": 2795,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 2,
+    "t": "Szólj Izráel fiainak, mondván: Ha valaki véletlenül vétkezik az Úr parancsai ellen, és tesz azok közül valamit, amit tilos megtenni,"
+  },
+  {
+    "i": 2796,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 3,
+    "t": "ha a felkent főpap vétkezik, és ezzel bűnbe viszi a népet, akkor a vétkéért, melyet elkövetett, áldozzon az Úrnak egy hibátlan bikát bűnért való áldozatul."
+  },
+  {
+    "i": 2797,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 4,
+    "t": "A bikát vigye az Úr elé a Találkozás Sátra bejáratához, tegye a kezét a fejére, és vágja le az Úr előtt."
+  },
+  {
+    "i": 2798,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 5,
+    "t": "A felkent főpap vegyen a bika véréből, és vigye be a Találkozás Sátra belsejébe."
+  },
+  {
+    "i": 2799,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 6,
+    "t": "Mártsa ujját a vérbe, és hintsen hétszer a szentély függönye előtt, az Úr színe előtt."
+  }
+]

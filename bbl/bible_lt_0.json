@@ -1,0 +1,802 @@
+[
+  {
+    "i": 0,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 1,
+    "t": "Pradžioje Dievas sukūrė dangų ir žemę."
+  },
+  {
+    "i": 1,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 2,
+    "t": "O žemė buvo be pavidalo ir tuščia, ir tamsa gaubė gelmes, ir Dievo Dvasia sklandė virš vandenų."
+  },
+  {
+    "i": 2,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 3,
+    "t": "Ir tarė Dievas: „Tebūna šviesa!“ Ir atsirado šviesa."
+  },
+  {
+    "i": 3,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 4,
+    "t": "Ir Dievas matė, kad šviesa gera, ir Dievas atskyrė šviesą nuo tamsos."
+  },
+  {
+    "i": 4,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 5,
+    "t": "Ir Dievas pavadino šviesą „diena“, o tamsą „naktimi“. Ir buvo vakaras, ir buvo rytas – pirmoji diena."
+  },
+  {
+    "i": 5,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 6,
+    "t": "Ir tarė Dievas: „Tebūna tvirtumas tarp vandenų, ir teskiria jis vandenis nuo vandenų!“ Ir taip įvyko."
+  },
+  {
+    "i": 6,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 7,
+    "t": "Ir Dievas padarė tvirtumą, ir atskyrė vandenis, esančius po tvirtumu, nuo vandenų, esančių virš tvirtumo."
+  },
+  {
+    "i": 7,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 8,
+    "t": "Ir Dievas pavadino tvirtumą „dangumi“. Ir buvo vakaras, ir buvo rytas – antroji diena."
+  },
+  {
+    "i": 8,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 9,
+    "t": "Ir tarė Dievas: „Susitelkite vandenys po dangumi į vieną vietą, ir tepasirodo sausuma!“ Ir taip įvyko."
+  },
+  {
+    "i": 9,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 10,
+    "t": "Ir Dievas pavadino sausumą „žeme“, o susitelkusius vandenis pavadino „jūromis“. Ir Dievas matė, kad tai gera."
+  },
+  {
+    "i": 10,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 11,
+    "t": "Ir tarė Dievas: „Tepražysta žemė žalumynais – augalais, nešančiais sėklą, ir vaismedžiais, vedančiais vaisius pagal jų rūšį, kuriuose yra sėklos!“ Ir taip įvyko."
+  },
+  {
+    "i": 11,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 12,
+    "t": "Ir žemė išaugino žalumynus: augalus, nešančius sėklą pagal jų rūšį, ir medžius, vedančius vaisius, kuriuose yra sėklos pagal jų rūšį. Ir Dievas matė, kad tai gera."
+  },
+  {
+    "i": 12,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 13,
+    "t": "Ir buvo vakaras, ir buvo rytas – trečioji diena."
+  },
+  {
+    "i": 13,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 14,
+    "t": "Ir tarė Dievas: „Tebūna šviesuliai dangaus tvirtume, kad atskirtų dieną nuo nakties, ir tebūna jie ženklai metams, dienoms ir laikams."
+  },
+  {
+    "i": 14,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 15,
+    "t": "Ir tebūna jie šviesuliai dangaus tvirtume, kad apšviestų žemę!“ Ir taip įvyko."
+  },
+  {
+    "i": 15,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 16,
+    "t": "Ir Dievas padarė du didelius šviesulius: didesnįjį, kad valdytų dieną, ir mažesnįjį, kad valdytų naktį, ir žvaigždes."
+  },
+  {
+    "i": 16,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 17,
+    "t": "Ir Dievas įdėjo juos į dangaus tvirtumą, kad apšviestų žemę,"
+  },
+  {
+    "i": 17,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 18,
+    "t": "kad valdytų dieną ir naktį, ir atskirtų šviesą nuo tamsos. Ir Dievas matė, kad tai gera."
+  },
+  {
+    "i": 18,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 19,
+    "t": "Ir buvo vakaras, ir buvo rytas – ketvirtoji diena."
+  },
+  {
+    "i": 19,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 20,
+    "t": "Ir tarė Dievas: „Tevirda vandenys gyvūnijos gausa, ir telaksto paukščiai virš žemės, dangaus tvirtume!“ Ir taip įvyko."
+  },
+  {
+    "i": 20,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 21,
+    "t": "Ir Dievas sukūrė didžiuosius jūros žvėris ir visus gyvūnus, kurie juda ir virda vandenyse pagal jų rūšį, ir visus sparnuočius pagal jų rūšį. Ir Dievas matė, kad tai gera."
+  },
+  {
+    "i": 21,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 22,
+    "t": "Ir Dievas juos palaimino, tardamas: „Būkite vaisingi ir dauginkitės, pripildykite jūras vandenų, ir tepasidaugina paukščiai žemėje!“"
+  },
+  {
+    "i": 22,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 23,
+    "t": "Ir buvo vakaras, ir buvo rytas – penktoji diena."
+  },
+  {
+    "i": 23,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 24,
+    "t": "Ir tarė Dievas: „Teteikia žemė gyvūnus pagal jų rūšį: galvijus, roplius ir laukinius žvėris pagal jų rūšį!“ Ir taip įvyko."
+  },
+  {
+    "i": 24,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 25,
+    "t": "Ir Dievas padarė laukinius žvėris pagal jų rūšį, galvijus pagal jų rūšį ir visus roplius pagal jų rūšį. Ir Dievas matė, kad tai gera."
+  },
+  {
+    "i": 25,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 26,
+    "t": "Ir tarė Dievas: „Padarykime žmogų pagal mūsų paveikslą ir panašumą; tevaldo jie jūros žuvis, dangaus paukščius, galvijus ir visus laukinius žvėris, ir visus roplius, kurie šliaužioja žeme!“"
+  },
+  {
+    "i": 26,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 27,
+    "t": "Ir Dievas sukūrė žmogų pagal savo paveikslą, pagal Dievo paveikslą sukūrė jį; vyrą ir moterį sukūrė juos."
+  },
+  {
+    "i": 27,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 28,
+    "t": "Ir Dievas juos palaimino, ir Dievas jiems tarė: „Būkite vaisingi ir dauginkitės, pripildykite žemę ir valdykite ją! Valdykite jūros žuvis, dangaus paukščius ir visus gyvūnus, kurie šliaužioja žeme!“"
+  },
+  {
+    "i": 28,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 29,
+    "t": "Ir tarė Dievas: „Štai aš daviau jums visus augalus, nešančius sėklą, kurie yra visoje žemėje, ir visus medžius, kurių vaisiai neša sėklą; tai bus jūsų maistas."
+  },
+  {
+    "i": 29,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 30,
+    "t": "Ir visiems laukiniams žvėrims, visiems dangaus paukščiams ir viskam, kas šliaužioja žeme, ir turi gyvybės alsavimą, aš daviau visus žalius augalus kaip maistą.“ Ir taip įvyko."
+  },
+  {
+    "i": 30,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 31,
+    "t": "Ir Dievas apžvelgė visa, ką buvo padaręs, ir štai, tai buvo labai gera. Ir buvo vakaras, ir buvo rytas – šeštoji diena."
+  },
+  {
+    "i": 31,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 1,
+    "t": "Taip buvo baigti dangus ir žemė bei visa jų gausybė."
+  },
+  {
+    "i": 32,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 2,
+    "t": "Septintą dieną Dievas baigė savo darbą, kurį buvo atlikęs, ir septintą dieną ilsėjosi nuo viso darbo, kurį buvo atlikęs."
+  },
+  {
+    "i": 33,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 3,
+    "t": "Dievas palaimino septintą dieną ir ją pašventino, nes tą dieną ilsėjosi nuo viso savo kūrybos darbo."
+  },
+  {
+    "i": 34,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 4,
+    "t": "Štai dangaus ir žemės kilmė, kai jie buvo sukurti. Tuo metu, kai Viešpats Dievas padarė žemę ir dangų,"
+  },
+  {
+    "i": 35,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 5,
+    "t": "žemėje dar nebuvo jokio lauko krūmo ir joks lauko augalas dar nebuvo išdygęs, nes Viešpats Dievas dar nebuvo siuntęs lietaus ant žemės ir nebuvo žmogaus žemei dirbti."
+  },
+  {
+    "i": 36,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 6,
+    "t": "Bet nuo žemės kilo rūkas ir drėkino visą žemės paviršių."
+  },
+  {
+    "i": 37,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 7,
+    "t": "Tada Viešpats Dievas padarė žmogų iš žemės dulkių ir įkvėpė į jo šnerves gyvybės alsavimą, ir žmogus tapo gyva būtybe."
+  },
+  {
+    "i": 38,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 8,
+    "t": "Viešpats Dievas pasodino sodą Edene, rytuose, ir ten apgyvendino žmogų, kurį buvo padaręs."
+  },
+  {
+    "i": 39,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 9,
+    "t": "Viešpats Dievas užaugino iš žemės visus medžius, gražius akiai ir gerus maistui, ir gyvybės medį sodo viduryje, ir gero bei pikto pažinimo medį."
+  },
+  {
+    "i": 40,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 10,
+    "t": "Iš Edeno ištekėjo upė sodui drėkinti ir iš ten ji pasidalijo į keturias atšakas."
+  },
+  {
+    "i": 41,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 11,
+    "t": "Pirmosios upės vardas Pišonas: ji apteka visą Havilos kraštą, kur yra aukso."
+  },
+  {
+    "i": 42,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 12,
+    "t": "To krašto auksas grynas; ten yra bedelio derva ir onikso akmuo."
+  },
+  {
+    "i": 43,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 13,
+    "t": "Antrosios upės vardas Gihonas: ji apteka visą Kušo kraštą."
+  },
+  {
+    "i": 44,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 14,
+    "t": "Trečiosios upės vardas Tigras: jis teka į rytus nuo Asirijos. Ketvirtoji upė yra Eufratas."
+  },
+  {
+    "i": 45,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 15,
+    "t": "Viešpats Dievas paėmė žmogų ir apgyvendino jį Edeno sode, kad jį dirbtų ir saugotų."
+  },
+  {
+    "i": 46,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 16,
+    "t": "Ir Viešpats Dievas įsakė žmogui, tardamas: „Nuo kiekvieno sodo medžio tau leista valgyti."
+  },
+  {
+    "i": 47,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 17,
+    "t": "Bet nuo gero ir pikto pažinimo medžio tau nedera valgyti, nes tą dieną, kurią nuo jo valgysi, tikrai mirsi.“"
+  },
+  {
+    "i": 48,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 18,
+    "t": "Viešpats Dievas tarė: „Nėra gera žmogui būti vienam. Padarysiu jam tinkamą padėjėją.“"
+  },
+  {
+    "i": 49,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 19,
+    "t": "Viešpats Dievas padarė iš žemės visus laukinius žvėris ir visus dangaus paukščius ir atvedė juos pas žmogų, kad pamatytų, kaip jis juos pavadins; kiekvienas turėjo vadintis tuo vardu, kuriuo žmogus jį pavadins."
+  },
+  {
+    "i": 50,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 20,
+    "t": "Žmogus davė vardus visiems galvijams, dangaus paukščiams ir visiems laukiniams žvėrims, bet sau nerado tinkamos padėjėjos."
+  },
+  {
+    "i": 51,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 21,
+    "t": "Tada Viešpats Dievas užleido žmogui apmirimą, ir jis užmigo. Jis paėmė vieną iš jo šonkaulių ir užpildė jo vietą mėsa."
+  },
+  {
+    "i": 52,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 22,
+    "t": "Ir iš šonkaulio, kurį buvo paėmęs iš žmogaus, Viešpats Dievas padarė moterį ir atvedė ją pas žmogų."
+  },
+  {
+    "i": 53,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 23,
+    "t": "Tada šis sušuko: „Štai pagaliau kaulas iš mano kaulų ir kūnas iš mano kūno! Ji bus vadinama „moterimi“, nes ji paimta iš vyro!“"
+  },
+  {
+    "i": 54,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 24,
+    "t": "Todėl vyras paliks savo tėvą ir motiną ir glausis prie savo žmonos, ir jie taps vienu kūnu."
+  },
+  {
+    "i": 55,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 25,
+    "t": "O abu buvo nuogi – žmogus ir jo žmona – ir nesigėdijo vienas prieš kitą."
+  },
+  {
+    "i": 56,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 1,
+    "t": "Gyvatė buvo gudriausias iš visų laukinių gyvūnų, kuriuos Viešpats Dievas buvo padaręs. Ji tarė moteriai: „Ar tikrai Dievas pasakė: „Nevalgykite nuo jokio sodo medžio?“"
+  },
+  {
+    "i": 57,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 2,
+    "t": "Moteris atsakė gyvatei: „Mes galime valgyti nuo sodo medžių vaisių."
+  },
+  {
+    "i": 58,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 3,
+    "t": "Bet nuo medžio vaisiaus, kuris yra sodo viduryje, Dievas pasakė: „Nevalgykite nuo jo, net nelieskite jo, kad nemirtumėte.“"
+  },
+  {
+    "i": 59,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 4,
+    "t": "Gyvatė atsakė moteriai: „Jūs tikrai nemirsite!"
+  },
+  {
+    "i": 60,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 5,
+    "t": "Bet Dievas žino, kad tą dieną, kurią valgysite nuo jo, atsivers jūsų akys ir būsite kaip dievai, žinantys gerą ir pikta.“"
+  },
+  {
+    "i": 61,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 6,
+    "t": "Moteris pamatė, kad medis geras maistui ir gražus akiai, ir kad medis trokštamas išminties įgyti. Ji paėmė jo vaisiaus ir valgė. Ji davė ir savo vyrui, kuris buvo su ja, ir jis valgė."
+  },
+  {
+    "i": 62,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 7,
+    "t": "Tada abiejų akys atsivėrė ir jie suprato, kad yra nuogi; jie susiuvo figos lapus ir pasidarė juosmens apdangalus."
+  },
+  {
+    "i": 63,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 8,
+    "t": "Jie išgirdo Viešpaties Dievo balsą, vaikščiojantį sode vėsiu paros metu, ir žmogus su savo žmona pasislėpė nuo Viešpaties Dievo tarp sodo medžių."
+  },
+  {
+    "i": 64,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 9,
+    "t": "Viešpats Dievas pašaukė žmogų ir tarė jam: „Kur tu esi?“"
+  },
+  {
+    "i": 65,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 10,
+    "t": "Išgirdau tavo balsą sode, atsakė žmogus, išsigandau, nes esu nuogas, ir pasislėpiau."
+  },
+  {
+    "i": 66,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 11,
+    "t": "Jis tarė: „Kas tau pasakė, kad esi nuogas? Ar tu valgei nuo medžio, nuo kurio tau buvau uždraudęs valgyti?!“"
+  },
+  {
+    "i": 67,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 12,
+    "t": "Žmogus atsakė: „Moteris, kurią tu man davei, ji davė man nuo to medžio, ir aš valgiau!“"
+  },
+  {
+    "i": 68,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 13,
+    "t": "Viešpats Dievas tarė moteriai: „Ką tu padarei?!“ Moteris atsakė: „Gyvatė mane apgavo, ir aš valgiau.“"
+  },
+  {
+    "i": 69,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 14,
+    "t": "Tada Viešpats Dievas tarė gyvatei: „Kadangi tai padarei, prakeikta būsi labiau už visus galvijus ir visus laukinius žvėris! Šliaužiosi ant pilvo ir valgysi dulkes visas savo gyvenimo dienas."
+  },
+  {
+    "i": 70,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 15,
+    "t": "Ir aš įdėsiu priešiškumą tarp tavęs ir moters, tarp tavo sėklos ir jos sėklos. Jis sutrins tau galvą, o tu įgelsi jam į kulnį.“"
+  },
+  {
+    "i": 71,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 16,
+    "t": "Moteriai jis tarė: „Padauginsiu tavo skausmus nėštumo metu, su skausmais gimdysi vaikus. Tavo geismas trauks prie tavo vyro, o jis valdys tave.“"
+  },
+  {
+    "i": 72,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 17,
+    "t": "Žmogui jis tarė: „Kadangi tu paklausei savo žmonos balso ir valgei nuo medžio, nuo kurio aš tau buvau uždraudęs valgyti, prakeikta žemė dėl tavęs! Su pastangomis maitinsiesi iš jos visas savo gyvenimo dienas."
+  },
+  {
+    "i": 73,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 18,
+    "t": "Ji tau augins erškėčius ir usnis, ir tu valgysi lauko augalus."
+  },
+  {
+    "i": 74,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 19,
+    "t": "Valgysi duoną prakaitu užliedęs veidą, kol sugrįši į žemę, iš kurios buvai paimtas. Nes tu esi dulkė ir į dulkę sugrįši.“"
+  },
+  {
+    "i": 75,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 20,
+    "t": "Žmogus pavadino savo žmoną „Ieva“, nes ji buvo visų gyvųjų motina."
+  },
+  {
+    "i": 76,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 21,
+    "t": "Viešpats Dievas padarė žmogui ir jo žmonai odinius drabužius ir jais aprengė juos."
+  },
+  {
+    "i": 77,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 22,
+    "t": "Tada Viešpats Dievas tarė: „Štai žmogus tapo kaip vienas iš mūsų, žinantis gerą ir pikta! Kad tik jis dabar neapimtų ranka ir nevalgytų nuo gyvybės medžio, ir negyventų amžinai!“"
+  },
+  {
+    "i": 78,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 23,
+    "t": "Ir Viešpats Dievas išsiuntė jį iš Edeno sodo dirbti žemės, iš kurios jis buvo paimtas."
+  },
+  {
+    "i": 79,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 24,
+    "t": "Jis išvarė žmogų ir pastatė prie Edeno sodo cherubinus ir liepsnojantį kalaviją, kuris sukasi aplinkui, kad saugotų kelią į gyvybės medį."
+  },
+  {
+    "i": 80,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 1,
+    "t": "Ir pažino žmogus Ievą, savo žmoną; ir ji prasidėjo, ir pagimdė Kainą, ir tarė: \"Įsigijau vyrą iš Viešpaties."
+  },
+  {
+    "i": 81,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 2,
+    "t": "Ir vėl pagimdė Abelį, Kaino brolį. Ir Abelis buvo avių piemuo, o Kainas žemdirbys."
+  },
+  {
+    "i": 82,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 3,
+    "t": "Praėjus laikui, nutiko, kad Kainas atnešė Viešpačiui žemės vaisių auką,"
+  },
+  {
+    "i": 83,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 4,
+    "t": "o Abelis taip pat atnešė iš savo bandos pirmagimių, ir net jų taukų. Ir Viešpats palankiai pažvelgė į Abelį ir jo auką,"
+  },
+  {
+    "i": 84,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 5,
+    "t": "bet į Kainą ir jo auką nepažvelgė palankiai. Ir Kainas labai supyko, ir jo veidas nusmuko."
+  },
+  {
+    "i": 85,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 6,
+    "t": "Ir Viešpats tarė Kainui: \"Kodėl tu pyksti, ir kodėl tavo veidas nusmukęs?"
+  },
+  {
+    "i": 86,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 7,
+    "t": "Jei gerai darai, argi nebus tau pakelta galva? Bet jei gerai nedarai, nuodėmė tyko prie durų. Ji geidžia tavęs, bet tu turi ją valdyti!"
+  },
+  {
+    "i": 87,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 8,
+    "t": "Ir Kainas tarė savo broliui Abeliui: \"Eikime į lauką.\" Ir jiems būnant lauke, Kainas užpuolė savo brolį Abelį ir jį nužudė."
+  },
+  {
+    "i": 88,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 9,
+    "t": "Ir Viešpats tarė Kainui: \"Kur tavo brolis Abelis?\" Jis atsakė: \"Nežinau. Ar aš savo brolio sargas?"
+  },
+  {
+    "i": 89,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 10,
+    "t": "Ir Viešpats tarė: \"Ką tu padarei! Tavo brolio kraujo balsas šaukiasi manęs iš žemės!"
+  },
+  {
+    "i": 90,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 11,
+    "t": "Dabar tu esi prakeiktas nuo žemės, kuri atvėrė savo burną priimti tavo brolio kraują iš tavo rankos."
+  },
+  {
+    "i": 91,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 12,
+    "t": "Kai dirbsi žemę, ji tau neduos savo derliaus. Būsi klajūnas ir valkata žemėje."
+  },
+  {
+    "i": 92,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 13,
+    "t": "Ir Kainas tarė Viešpačiui: \"Mano bausmė didesnė, negu galiu pakelti!"
+  },
+  {
+    "i": 93,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 14,
+    "t": "Štai Tu šiandien išvarai mane nuo žemės paviršiaus, ir aš turėsiu slėptis nuo Tavo veido, ir būsiu klajūnas ir valkata žemėje. Ir nutiks, kad kas tik mane sutiks, tas mane nužudys!"
+  },
+  {
+    "i": 94,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 15,
+    "t": "Ir Viešpats jam tarė: \"Todėl, jei kas nužudys Kainą, už tai bus atkeršyta septyniskart.\" Ir Viešpats uždėjo ženklą Kainui, kad kas jį sutiktų, nenužudytų."
+  },
+  {
+    "i": 95,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 16,
+    "t": "Ir Kainas išėjo nuo Viešpaties veido, ir apsigyveno Nodo žemėje, į rytus nuo Edeno."
+  },
+  {
+    "i": 96,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 17,
+    "t": "Ir Kainas pažino savo žmoną, ir ji prasidėjo, ir pagimdė Enochą. Ir jis pastatė miestą, ir pavadino miestą savo sūnaus vardu, Enochu."
+  },
+  {
+    "i": 97,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 18,
+    "t": "Enochui gimė Iradas, o Iradas pagimdė Mehujaelį, o Mehujaelis pagimdė Metušaelį, o Metušaelis pagimdė Lamechą."
+  },
+  {
+    "i": 98,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 19,
+    "t": "Lamechas paėmė sau dvi žmonas: vienos vardas buvo Ada, o kitos vardas Cila."
+  },
+  {
+    "i": 99,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 20,
+    "t": "Ada pagimdė Jabalą. Jis buvo palapinėse gyvenančių ir gyvulius auginančių tėvas."
+  }
+]

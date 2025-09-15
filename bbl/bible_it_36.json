@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3600,
+    "b": 2,
+    "c": 327,
+    "r": 327,
+    "o": 32,
+    "t": "Ogni decima di bestiame grosso e minuto sarà cosa consacrata all'Eterno, la decima di tutto ciò che passa sotto la verga."
+  },
+  {
+    "i": 3601,
+    "b": 2,
+    "c": 327,
+    "r": 327,
+    "o": 33,
+    "t": "Non si dovrà esaminare se sia buono o cattivo, e non si dovrà fare sostituzione; se poi si sostituisce, tanto l'uno che l'altro saranno cosa consacrata e non potranno essere riscattati."
+  },
+  {
+    "i": 3602,
+    "b": 2,
+    "c": 327,
+    "r": 327,
+    "o": 34,
+    "t": "Questi sono i comandamenti che l'Eterno diede a Mosè sul monte Sinai per i figli d'Israele."
+  },
+  {
+    "i": 3603,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 1,
+    "t": "L'Eterno parlò a Mosè nel deserto del Sinai, nella tenda del convegno, il primo giorno del secondo mese, nel secondo anno dopo la loro uscita dal paese d'Egitto, e disse:"
+  },
+  {
+    "i": 3604,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 2,
+    "t": "«Fate il censimento di tutta la comunità dei figli d'Israele, per casato e per famiglia, registrando i nomi di tutti i maschi, uno per uno."
+  },
+  {
+    "i": 3605,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 3,
+    "t": "Tutti quelli d'Israele dai vent'anni in su, atti alla guerra, voi li conterete, tu e Aaronne, secondo le loro schiere."
+  },
+  {
+    "i": 3606,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 4,
+    "t": "Con voi ci sarà un uomo per tribù, un capo di famiglia."
+  },
+  {
+    "i": 3607,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 5,
+    "t": "«Questi sono i nomi di quelli che vi assisteranno: per Ruben, Elisur, figlio di Sedeur."
+  },
+  {
+    "i": 3608,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 6,
+    "t": "Per Simeone, Selumiel, figlio di Zurisaddai."
+  },
+  {
+    "i": 3609,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 7,
+    "t": "Per Giuda, Naasson, figlio di Amminadab."
+  },
+  {
+    "i": 3610,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 8,
+    "t": "Per Issacar, Nethaneel, figlio di Zuar."
+  },
+  {
+    "i": 3611,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 9,
+    "t": "Per Zabulon, Eliab, figlio di Elon."
+  },
+  {
+    "i": 3612,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 10,
+    "t": "Per i figli di Giuseppe: per Efraim, Elisama, figlio di Ammiud; per Manasse, Gamaliel, figlio di Pedazur."
+  },
+  {
+    "i": 3613,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 11,
+    "t": "Per Beniamino, Abidan, figlio di Gideoni."
+  },
+  {
+    "i": 3614,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 12,
+    "t": "Per Dan, Aiezer, figlio di Ammisaddai."
+  },
+  {
+    "i": 3615,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 13,
+    "t": "Per Ascer, Pagiel, figlio di Ocran."
+  },
+  {
+    "i": 3616,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 14,
+    "t": "Per Gad, Eliasaf, figlio di Reuel."
+  },
+  {
+    "i": 3617,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 15,
+    "t": "Per Neftali, Ahira, figlio di Enan.»"
+  },
+  {
+    "i": 3618,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 16,
+    "t": "Questi erano uomini stimati nella comunità, erano prìncipi delle loro tribù patriarcali, erano a capo delle migliaia d'Israele."
+  },
+  {
+    "i": 3619,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 17,
+    "t": "Mosè e Aaronne presero questi uomini, che erano stati designati per nome,"
+  },
+  {
+    "i": 3620,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 18,
+    "t": "e convocarono tutta la comunità il primo giorno del secondo mese. Essi stabilirono la loro discendenza, per casato e per famiglia, e si registrarono i nomi degli uomini dai vent'anni in su, uno per uno."
+  },
+  {
+    "i": 3621,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 19,
+    "t": "Come l'Eterno aveva comandato, Mosè li registrò nel deserto del Sinai."
+  },
+  {
+    "i": 3622,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 20,
+    "t": "Quando si fu stabilita la discendenza dei figli di Ruben, primogenito d'Israele, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3623,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 21,
+    "t": "Se ne contarono quarantaseimila cinquecento per la tribù di Ruben."
+  },
+  {
+    "i": 3624,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 22,
+    "t": "Quando si fu stabilita la discendenza dei figli di Simeone, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3625,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 23,
+    "t": "Se ne contarono cinquantanovemila trecento per la tribù di Simeone."
+  },
+  {
+    "i": 3626,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 24,
+    "t": "Quando si fu stabilita la discendenza dei figli di Gad, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3627,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 25,
+    "t": "Se ne contarono quarantacinquemila seicentocinquanta per la tribù di Gad."
+  },
+  {
+    "i": 3628,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 26,
+    "t": "Quando si fu stabilita la discendenza dei figli di Giuda, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3629,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 27,
+    "t": "Se ne contarono settantaquattromila seicento per la tribù di Giuda."
+  },
+  {
+    "i": 3630,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 28,
+    "t": "Quando si fu stabilita la discendenza dei figli di Issacar, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3631,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 29,
+    "t": "Se ne contarono cinquantaquattromila quattrocento per la tribù di Issacar."
+  },
+  {
+    "i": 3632,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 30,
+    "t": "Quando si fu stabilita la discendenza dei figli di Zabulon, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3633,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 31,
+    "t": "Se ne contarono cinquantasettemila quattrocento per la tribù di Zabulon."
+  },
+  {
+    "i": 3634,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 32,
+    "t": "Figli di Giuseppe: Quando si fu stabilita la discendenza dei figli di Efraim, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3635,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 33,
+    "t": "Se ne contarono quarantamila cinquecento per la tribù di Efraim."
+  },
+  {
+    "i": 3636,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 34,
+    "t": "Quando si fu stabilita la discendenza dei figli di Manasse, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3637,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 35,
+    "t": "Se ne contarono trentaduemila duecento per la tribù di Manasse."
+  },
+  {
+    "i": 3638,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 36,
+    "t": "Quando si fu stabilita la discendenza dei figli di Beniamino, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3639,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 37,
+    "t": "Se ne contarono trentacinquemila quattrocento per la tribù di Beniamino."
+  },
+  {
+    "i": 3640,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 38,
+    "t": "Quando si fu stabilita la discendenza dei figli di Dan, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3641,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 39,
+    "t": "Se ne contarono sessantaduemila settecento per la tribù di Dan."
+  },
+  {
+    "i": 3642,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 40,
+    "t": "Quando si fu stabilita la discendenza dei figli di Ascer, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3643,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 41,
+    "t": "Se ne contarono quarantunomila cinquecento per la tribù di Ascer."
+  },
+  {
+    "i": 3644,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 42,
+    "t": "Quando si fu stabilita la discendenza dei figli di Neftali, per casato e per famiglia, si registrarono, uno per uno, i nomi di tutti i maschi dai vent'anni in su, atti alla guerra."
+  },
+  {
+    "i": 3645,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 43,
+    "t": "Se ne contarono cinquantatremila quattrocento per la tribù di Neftali."
+  },
+  {
+    "i": 3646,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 44,
+    "t": "Questi furono quelli che registrarono Mosè, Aaronne e i prìncipi d'Israele, in numero di dodici, uno per ciascuna delle loro famiglie patriarcali."
+  },
+  {
+    "i": 3647,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 45,
+    "t": "Tutti gli Israeliti dai vent'anni in su, tutti quelli d'Israele che erano atti alla guerra, furono registrati per famiglia."
+  },
+  {
+    "i": 3648,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 46,
+    "t": "Il totale dei registrati fu di seicentotremila cinquecentocinquanta."
+  },
+  {
+    "i": 3649,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 47,
+    "t": "Ma non si registrarono con loro i Leviti, né la loro tribù patriarcale."
+  },
+  {
+    "i": 3650,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 48,
+    "t": "L'Eterno parlò a Mosè e disse:"
+  },
+  {
+    "i": 3651,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 49,
+    "t": "«Non registrare, però, la tribù di Levi e non farne il censimento in mezzo ai figli d'Israele."
+  },
+  {
+    "i": 3652,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 50,
+    "t": "Ma incarica tu stesso i Leviti del servizio del tabernacolo della testimonianza, di tutti i suoi arredi e di tutto ciò che gli appartiene. Essi porteranno il tabernacolo e tutti i suoi arredi, ne avranno il servizio e accamperanno intorno."
+  },
+  {
+    "i": 3653,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 51,
+    "t": "Quando il tabernacolo si sposterà, i Leviti lo smonteranno; quando il tabernacolo si fermerà, i Leviti lo erigeranno. Il profano che vi si avvicinerà sarà messo a morte."
+  },
+  {
+    "i": 3654,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 52,
+    "t": "I figli d'Israele accamperanno ciascuno nel suo accampamento, ciascuno vicino alla sua bandiera, secondo le loro schiere."
+  },
+  {
+    "i": 3655,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 53,
+    "t": "Ma i Leviti accamperanno intorno al tabernacolo della testimonianza, affinché l'ira non scoppi contro la comunità dei figli d'Israele. E i Leviti faranno il servizio del tabernacolo della testimonianza.»"
+  },
+  {
+    "i": 3656,
+    "b": 3,
+    "c": 401,
+    "r": 401,
+    "o": 54,
+    "t": "I figli d'Israele si conformarono in ogni punto a ciò che l'Eterno aveva comandato a Mosè. Così fecero."
+  },
+  {
+    "i": 3657,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 1,
+    "t": "L'Eterno parlò a Mosè e ad Aaronne e disse:"
+  },
+  {
+    "i": 3658,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 2,
+    "t": "«I figli d'Israele accamperanno ciascuno vicino alla sua bandiera, sotto gli emblemi delle loro famiglie patriarcali. Accamperanno intorno alla tenda del convegno, a una certa distanza."
+  },
+  {
+    "i": 3659,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 3,
+    "t": "Quelli che accamperanno a est: A oriente, la bandiera del campo di Giuda, secondo le loro schiere. Il principe dei figli di Giuda: Naasson, figlio di Amminadab."
+  },
+  {
+    "i": 3660,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 4,
+    "t": "Il suo contingente: settantaquattromila seicento registrati."
+  },
+  {
+    "i": 3661,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 5,
+    "t": "Accampano vicino a lui: la tribù di Issacar. Il principe dei figli di Issacar: Nethaneel, figlio di Zuar."
+  },
+  {
+    "i": 3662,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 6,
+    "t": "Il suo contingente: cinquantaquattromila quattrocento registrati."
+  },
+  {
+    "i": 3663,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 7,
+    "t": "La tribù di Zabulon. Il principe dei figli di Zabulon: Eliab, figlio di Elon."
+  },
+  {
+    "i": 3664,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 8,
+    "t": "Il suo contingente: cinquantasettemila quattrocento registrati."
+  },
+  {
+    "i": 3665,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 9,
+    "t": "I registrati del campo di Giuda, secondo le loro schiere, sono in tutto centottantaseimila quattrocento. Essi leveranno il campo per primi."
+  },
+  {
+    "i": 3666,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 10,
+    "t": "A sud, la bandiera del campo di Ruben, secondo le loro schiere. Il principe dei figli di Ruben: Elisur, figlio di Sedeur."
+  },
+  {
+    "i": 3667,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 11,
+    "t": "Il suo contingente: quarantaseimila cinquecento registrati."
+  },
+  {
+    "i": 3668,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 12,
+    "t": "Accampano vicino a lui: la tribù di Simeone. Il principe dei figli di Simeone: Selumiel, figlio di Zurisaddai."
+  },
+  {
+    "i": 3669,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 13,
+    "t": "Il suo contingente: cinquantanovemila trecento registrati."
+  },
+  {
+    "i": 3670,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 14,
+    "t": "La tribù di Gad. Il principe dei figli di Gad: Eliasaf, figlio di Reuel."
+  },
+  {
+    "i": 3671,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 15,
+    "t": "Il suo contingente: quarantacinquemila seicentocinquanta registrati."
+  },
+  {
+    "i": 3672,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 16,
+    "t": "I registrati del campo di Ruben, secondo le loro schiere, sono in tutto centocinquantunomila quattrocentocinquanta. Essi leveranno il campo per secondi."
+  },
+  {
+    "i": 3673,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 17,
+    "t": "Allora partirà la tenda del convegno, con il campo dei Leviti in mezzo agli altri campi. Si parte nell'ordine in cui si accampa, ciascuno sotto la sua bandiera."
+  },
+  {
+    "i": 3674,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 18,
+    "t": "A ovest, la bandiera del campo di Efraim, secondo le loro schiere. Il principe dei figli di Efraim: Elisama, figlio di Ammiud."
+  },
+  {
+    "i": 3675,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 19,
+    "t": "Il suo contingente: quarantamila cinquecento registrati."
+  },
+  {
+    "i": 3676,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 20,
+    "t": "Vicino a lui: la tribù di Manasse. Il principe dei figli di Manasse: Gamaliel, figlio di Pedazur."
+  },
+  {
+    "i": 3677,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 21,
+    "t": "Il suo contingente: trentaduemila duecento registrati."
+  },
+  {
+    "i": 3678,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 22,
+    "t": "La tribù di Beniamino. Il principe dei figli di Beniamino: Abidan, figlio di Gideoni."
+  },
+  {
+    "i": 3679,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 23,
+    "t": "Il suo contingente: trentacinquemila quattrocento registrati."
+  },
+  {
+    "i": 3680,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 24,
+    "t": "Coloro che furono censiti dell'accampamento di Efraim, secondo le loro schiere, furono in tutto centottomila e cento. Questi leveranno il campo per terzi."
+  },
+  {
+    "i": 3681,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 25,
+    "t": "A settentrione starà la bandiera dell'accampamento di Dan, secondo le loro schiere. Il principe dei figli di Dan sarà Achiezer, figlio di Ammishaddai."
+  },
+  {
+    "i": 3682,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 26,
+    "t": "La sua schiera, con il numero dei censiti, fu di sessantaduemila e settecento."
+  },
+  {
+    "i": 3683,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 27,
+    "t": "Accanto a lui si accamperà la tribù di Ascer. Il principe dei figli di Ascer sarà Pagiel, figlio di Ocran."
+  },
+  {
+    "i": 3684,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 28,
+    "t": "La sua schiera, con il numero dei censiti, fu di quarantunomila e cinquecento."
+  },
+  {
+    "i": 3685,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 29,
+    "t": "Poi la tribù di Neftali. Il principe dei figli di Neftali sarà Achira, figlio di Enan."
+  },
+  {
+    "i": 3686,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 30,
+    "t": "La sua schiera, con il numero dei censiti, fu di cinquantatremila e quattrocento."
+  },
+  {
+    "i": 3687,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 31,
+    "t": "Coloro che furono censiti dell'accampamento di Dan furono in tutto centocinquantasettemila e seicento. Questi leveranno il campo per ultimi, secondo le loro bandiere."
+  },
+  {
+    "i": 3688,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 32,
+    "t": "Questi furono gli Israeliti, secondo le loro case patriarcali. Tutti coloro che furono censiti negli accampamenti, secondo le loro schiere, furono in tutto seicentotremila cinquecentocinquanta."
+  },
+  {
+    "i": 3689,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 33,
+    "t": "Ma i Leviti non furono censiti fra gli Israeliti, come il Signore aveva comandato a Mosè."
+  },
+  {
+    "i": 3690,
+    "b": 3,
+    "c": 402,
+    "r": 402,
+    "o": 34,
+    "t": "Gli Israeliti fecero dunque in tutto secondo quanto il Signore aveva comandato a Mosè. Così si accampavano, secondo le loro bandiere, e così levavano il campo, ciascuno con la sua famiglia e la sua casa patriarcale."
+  },
+  {
+    "i": 3691,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 1,
+    "t": "Queste sono le generazioni di Aaronne e di Mosè, quando il Signore parlò a Mosè sul monte Sinai."
+  },
+  {
+    "i": 3692,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 2,
+    "t": "Questi sono i nomi dei figli di Aaronne: Nadab, il primogenito, Abiu, Eleazaro e Itamar."
+  },
+  {
+    "i": 3693,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 3,
+    "t": "Questi sono i nomi dei figli di Aaronne, i sacerdoti che ricevettero l'unzione e che furono investiti per esercitare il sacerdozio."
+  },
+  {
+    "i": 3694,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 4,
+    "t": "Nadab e Abiu morirono dinanzi al Signore, nel deserto del Sinai, quando offrirono dinanzi a lui un fuoco illegittimo; essi non avevano figli. Eleazaro e Itamar esercitarono il sacerdozio alla presenza di Aaronne loro padre."
+  },
+  {
+    "i": 3695,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 5,
+    "t": "Il Signore parlò a Mosè e disse:"
+  },
+  {
+    "i": 3696,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 6,
+    "t": "\"Fa' avvicinare la tribù di Levi e mettila a disposizione di Aaronne, il sacerdote, perché lo servano."
+  },
+  {
+    "i": 3697,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 7,
+    "t": "Essi adempiranno il suo incarico e quello di tutta la comunità, dinanzi alla tenda del convegno, per fare il servizio del tabernacolo."
+  },
+  {
+    "i": 3698,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 8,
+    "t": "Avranno cura di tutti gli utensili della tenda del convegno e adempiranno l'incarico degli Israeliti, facendo il servizio del tabernacolo."
+  },
+  {
+    "i": 3699,
+    "b": 3,
+    "c": 403,
+    "r": 403,
+    "o": 9,
+    "t": "Tu darai i Leviti ad Aaronne e ai suoi figli, come donati; essi gli sono dati dagli Israeliti."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 13500,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 18,
+    "t": "Sazidao je kuću poput pauka, sagradio je kolibu kao čuvar:"
+  },
+  {
+    "i": 13501,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 19,
+    "t": "Bogat liježe, ali to je posljednji put; kad otvori oči, više ničega nema."
+  },
+  {
+    "i": 13502,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 20,
+    "t": "Užasi ga napadaju usred dana, a noću ga vihor odnosi."
+  },
+  {
+    "i": 13503,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 21,
+    "t": "Vjetar istočni ga podiže i odnese, iščupa ga s mjesta njegova boravka."
+  },
+  {
+    "i": 13504,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 22,
+    "t": "Bez milosti ga uzimaju za metu, mora bježati od prijetećih ruku."
+  },
+  {
+    "i": 13505,
+    "b": 17,
+    "c": 1827,
+    "r": 1827,
+    "o": 23,
+    "t": "Plješću njegovoj propasti, zvižde mu kud god ide."
+  },
+  {
+    "i": 13506,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 1,
+    "t": "Postoje rudnici za srebro i mjesto gdje se pročišćava zlato."
+  },
+  {
+    "i": 13507,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 2,
+    "t": "Željezo se vadi iz zemlje, a rastopljeni kamen daje bakar."
+  },
+  {
+    "i": 13508,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 3,
+    "t": "Prekidaju tminu, istražuju do krajnjih granica kamen mračan i taman."
+  },
+  {
+    "i": 13509,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 4,
+    "t": "Stranci prodiru u klance na mjestima koja se ne posjećuju, i kolebaju se, obješeni, daleko od ljudi."
+  },
+  {
+    "i": 13510,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 5,
+    "t": "Zemlja iz koje izlazi kruh je uništena vatrom ispod."
+  },
+  {
+    "i": 13511,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 6,
+    "t": "Tamo su kamenje nalazišta safira, a također i čestice zlata."
+  },
+  {
+    "i": 13512,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 7,
+    "t": "Ptica grabljivica ne zna put, oko lešinara ga ne vidi."
+  },
+  {
+    "i": 13513,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 8,
+    "t": "Njime ne gaze ohole zvijeri, lav ga nikada nije utro put."
+  },
+  {
+    "i": 13514,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 9,
+    "t": "Čovjek se obara na kremen, prevrće planine u njihovim korijenima."
+  },
+  {
+    "i": 13515,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 10,
+    "t": "U stijenama probija kanale, otvara oči prema svakom dragocjenom predmetu."
+  },
+  {
+    "i": 13516,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 11,
+    "t": "Istražuje izvore rijeka, izvodi na svjetlo ono što je ostalo skriveno."
+  },
+  {
+    "i": 13517,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 12,
+    "t": "Ali mudrost, odakle dolazi? Gdje se nalazi, inteligencija?"
+  },
+  {
+    "i": 13518,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 13,
+    "t": "Čovjek ne zna put, ne otkriva se na zemlji živih."
+  },
+  {
+    "i": 13519,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 14,
+    "t": "Bezdan izjavljuje: \"Ne sadržavam je!\" i More: \"Nije kod mene!\""
+  },
+  {
+    "i": 13520,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 15,
+    "t": "Ne može se steći s masivnim zlatom, platiti je težinom srebra,"
+  },
+  {
+    "i": 13521,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 16,
+    "t": "procijeniti je zlatom iz Ofira, dragocjenim ahatom ili safirom."
+  },
+  {
+    "i": 13522,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 17,
+    "t": "Ne uspoređuje joj se zlato ili staklo, ne mijenja se za posudu od finog zlata."
+  },
+  {
+    "i": 13523,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 18,
+    "t": "Koralji i kristal ne zaslužuju spomen, bolje bi bilo uloviti Mudrost nego bisere."
+  },
+  {
+    "i": 13524,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 19,
+    "t": "Uz nju, topaz iz Kuša je bezvrijedan, a čisto zlato gubi svoju težinu razmjene."
+  },
+  {
+    "i": 13525,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 20,
+    "t": "Ali mudrost, odakle dolazi? Gdje se nalazi, inteligencija?"
+  },
+  {
+    "i": 13526,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 21,
+    "t": "Skriva se od očiju svakog živog bića, skriva se od ptica nebeskih."
+  },
+  {
+    "i": 13527,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 22,
+    "t": "Propast i Smrt izjavljuju: \"Glas o njezinoj slavi dopro je do naših ušiju.\""
+  },
+  {
+    "i": 13528,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 23,
+    "t": "Samo je Bog razabrao put i poznavao, On, gdje se ona nalazi."
+  },
+  {
+    "i": 13529,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 24,
+    "t": "(Jer vidi do krajeva zemlje, opaža sve što je pod nebom.)"
+  },
+  {
+    "i": 13530,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 25,
+    "t": "Kad je htio dati težinu vjetru, izmjeriti vodu mjerom;"
+  },
+  {
+    "i": 13531,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 26,
+    "t": "kad je nametnuo zakon kiši, put grmljavini,"
+  },
+  {
+    "i": 13532,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 27,
+    "t": "tada ju je vidio i procijenio, proniknuo je u nju i čak je ispitao."
+  },
+  {
+    "i": 13533,
+    "b": 17,
+    "c": 1828,
+    "r": 1828,
+    "o": 28,
+    "t": "Tada je rekao čovjeku: \"Strah Gospodnji, to je mudrost; bježati od zla, to je inteligencija.\""
+  },
+  {
+    "i": 13534,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 1,
+    "t": "Job nastavi govoriti u sentencama i reče:"
+  },
+  {
+    "i": 13535,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 2,
+    "t": "Tko će mi vratiti mjesece od prije, one dane kada je Bog bdio nada mnom,"
+  },
+  {
+    "i": 13536,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 3,
+    "t": "gdje je njegova svjetiljka sjala nada mnom i njegova me svjetlost vodila u tami!"
+  },
+  {
+    "i": 13537,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 4,
+    "t": "Da mogu ponovo vidjeti dane svoje jeseni, kada je Bog štitio moj šator,"
+  },
+  {
+    "i": 13538,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 5,
+    "t": "da je Shaddai ostao sa mnom i da su me moji sinovi okruživali;"
+  },
+  {
+    "i": 13539,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 6,
+    "t": "kad su mi se stopala kupala u mliječnoj kiselini, a iz stijene su tekli potoci ulja!"
+  },
+  {
+    "i": 13540,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 7,
+    "t": "Ako sam izašao prema gradskim vratima, ako sam postavio svoje mjesto na trgu,"
+  },
+  {
+    "i": 13541,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 8,
+    "t": "na moj pogled, mladići su se povlačili, starješine su ustajali."
+  },
+  {
+    "i": 13542,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 9,
+    "t": "Uglednici su prekidali svoje govore i stavljali ruku na usta."
+  },
+  {
+    "i": 13543,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 10,
+    "t": "Glas vođa je utihnuo i njihov jezik se zalijepio za nepce."
+  },
+  {
+    "i": 13544,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 11,
+    "t": "Slušajući me, čestitali su mi, gledajući me, svjedočili su o meni."
+  },
+  {
+    "i": 13545,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 12,
+    "t": "Jer sam izbavljao siromahe u nevolji i siročad lišenu potpore."
+  },
+  {
+    "i": 13546,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 13,
+    "t": "Blagoslov umirućeg se spustio na mene i vratio sam radost srcu udovice."
+  },
+  {
+    "i": 13547,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 14,
+    "t": "Odjenuo sam pravdu kao odjeću, imao sam pravo za plašt i turban."
+  },
+  {
+    "i": 13548,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 15,
+    "t": "Bio sam oči slijepima, noge hromima."
+  },
+  {
+    "i": 13549,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 16,
+    "t": "Bio sam otac siromaha; slučaj nepoznatog, ispitivao sam ga."
+  },
+  {
+    "i": 13550,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 17,
+    "t": "Razbijao sam zube čovjeka bezakonika, iz njihovih zuba iščupao sam plijen."
+  },
+  {
+    "i": 13551,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 18,
+    "t": "I rekoh: \"Umrijet ću u svom ponosu, nakon mnogih dana kao pijesak."
+  },
+  {
+    "i": 13552,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 19,
+    "t": "Moji korijeni imaju pristup vodi, rosa se taloži noću na mom lišću."
+  },
+  {
+    "i": 13553,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 20,
+    "t": "Moja će slava uvijek biti nova i u mojoj ruci će moj luk povratiti snagu."
+  },
+  {
+    "i": 13554,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 21,
+    "t": "Slušali su me, u iščekivanju, tiho da čuju moje mišljenje."
+  },
+  {
+    "i": 13555,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 22,
+    "t": "Kad sam govorio, nitko nije odgovarao, i na njih su kap po kap padale moje riječi."
+  },
+  {
+    "i": 13556,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 23,
+    "t": "Čekali su me kao kišu, njihova usta su se otvarala kao za kasnu kišu."
+  },
+  {
+    "i": 13557,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 24,
+    "t": "Ako bih im se nasmiješio, nisu se usudili vjerovati, sakupljali su na mom licu svaki znak naklonosti."
+  },
+  {
+    "i": 13558,
+    "b": 17,
+    "c": 1829,
+    "r": 1829,
+    "o": 25,
+    "t": "Pokazivao sam im put sjedeći na njihovom čelu, kao kralj postavljen među svojim trupama, i vodio sam ih posvuda po svojoj volji."
+  },
+  {
+    "i": 13559,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 1,
+    "t": "A sada, ja sam podsmijeh ljudima koji su mlađi od mene, a čiji su očevi bili previše bijedni u mojim očima da bih ih miješao s psima mog stada."
+  },
+  {
+    "i": 13560,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 2,
+    "t": "Također, snaga njihovih ruku bi mi bila beskorisna: izgubili su svu snagu,"
+  },
+  {
+    "i": 13561,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 3,
+    "t": "iscrpljeni glađu i izgladnjelošću, jer su glodali korijenje stepe, to mračno mjesto propasti i pustoši;"
+  },
+  {
+    "i": 13562,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 4,
+    "t": "brali su lobodu na grmu i pravili kruh od korijenja žukve."
+  },
+  {
+    "i": 13563,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 5,
+    "t": "Izgnani iz društva ljudi, koji ih zvižde kao lopove,"
+  },
+  {
+    "i": 13564,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 6,
+    "t": "žive na obroncima klisura, u špiljama ili pukotinama stijene."
+  },
+  {
+    "i": 13565,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 7,
+    "t": "Iz grmlja ih se čuje kako riču, gomilaju se pod čičkom."
+  },
+  {
+    "i": 13566,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 8,
+    "t": "Sinovi vucibatina, još više, ljudi bez imena, odbacuje ih zemlja."
+  },
+  {
+    "i": 13567,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 9,
+    "t": "A sada, eto, pjevaju mi pjesme. Što od mene čine svoju priču!"
+  },
+  {
+    "i": 13568,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 10,
+    "t": "Obuzeti užasom, drže se na udaljenosti, preda mnom pljuju bez zadrške."
+  },
+  {
+    "i": 13569,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 11,
+    "t": "I zato što je popustio moj luk i oborio me, odbacuju uzde u mojoj prisutnosti."
+  },
+  {
+    "i": 13570,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 12,
+    "t": "Njihovo potomstvo se pojavljuje na mojoj desnoj strani, špijunira jesam li miran i utire put prema meni svojim zlokobnim stazama."
+  },
+  {
+    "i": 13571,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 13,
+    "t": "Zatvaraju mi svaki izlaz, iskorištavaju da me izgube i nitko ih ne zaustavlja,"
+  },
+  {
+    "i": 13572,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 14,
+    "t": "prodiru kao kroz široku rupu i valjam se pod ruševinama."
+  },
+  {
+    "i": 13573,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 15,
+    "t": "Užasi se okreću protiv mene, moje samopouzdanje je otjerano kao vjetrom, moja nada u spas nestaje kao oblak."
+  },
+  {
+    "i": 13574,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 16,
+    "t": "A sada, život u meni istječe, dani nevolje su me obuzeli."
+  },
+  {
+    "i": 13575,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 17,
+    "t": "Noću zlo probija moje kosti i moji glodavci ne spavaju."
+  },
+  {
+    "i": 13576,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 18,
+    "t": "Silom me zgrabio za odjeću, stegnuo me za ovratnik moje tunike."
+  },
+  {
+    "i": 13577,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 19,
+    "t": "Bacio me u blato, ja sam kao prašina i pepeo."
+  },
+  {
+    "i": 13578,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 20,
+    "t": "Vičem prema Tebi i ne odgovaraš; predstavljam se, a ti me ne primjećuješ."
+  },
+  {
+    "i": 13579,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 21,
+    "t": "Postao si okrutan prema meni, tvoja se snažna ruka okomljuje na mene."
+  },
+  {
+    "i": 13580,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 22,
+    "t": "Odvoziš me na konju po vjetru i rastvaraš me u oluji."
+  },
+  {
+    "i": 13581,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 23,
+    "t": "Da, znam da me vraćaš prema smrti, prema sastanku svakog živog bića."
+  },
+  {
+    "i": 13582,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 24,
+    "t": "Ipak, jesam li digao ruku na siromaha, kad je u svojoj nevolji tražio pravdu?"
+  },
+  {
+    "i": 13583,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 25,
+    "t": "Nisam li plakao nad onim čiji je život mučan, nisam li osjetio milost za potrebitog?"
+  },
+  {
+    "i": 13584,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 26,
+    "t": "Nadao sam se sreći, a nesreća je došla; očekivao sam svjetlo: evo tame."
+  },
+  {
+    "i": 13585,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 27,
+    "t": "Moja utroba vrije bez prestanka, dani patnje su me dotaknuli."
+  },
+  {
+    "i": 13586,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 28,
+    "t": "Ako se pojavim sumornog lica, nitko me ne tješi, ako ustanem u skupštini, to je da vičem."
+  },
+  {
+    "i": 13587,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 29,
+    "t": "Postao sam brat šakalima i pratitelj nojeva."
+  },
+  {
+    "i": 13588,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 30,
+    "t": "Moja koža na meni je pocrnjela, moje kosti su spaljene groznicom."
+  },
+  {
+    "i": 13589,
+    "b": 17,
+    "c": 1830,
+    "r": 1830,
+    "o": 31,
+    "t": "Moja harfa je ugođena na pjesme žalosti, moja flauta na glas oplakivača."
+  },
+  {
+    "i": 13590,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 1,
+    "t": "Napravio sam pakt sa svojim očima, do te mjere da nisam fiksirao nijednu djevicu."
+  },
+  {
+    "i": 13591,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 2,
+    "t": "Dakle, koji udio Bog čini odande gore, koji udio Shaddai dodjeljuje sa svoga neba?"
+  },
+  {
+    "i": 13592,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 3,
+    "t": "Nije li to nesreća koju rezervira za nepravednika i nedaća za zlikovce?"
+  },
+  {
+    "i": 13593,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 4,
+    "t": "Ne vidi li moje ponašanje, ne broji li sve moje korake?"
+  },
+  {
+    "i": 13594,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 5,
+    "t": "Jesam li putovao s lažima, ubrzao korak prema neistini?"
+  },
+  {
+    "i": 13595,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 6,
+    "t": "Neka me izmjeri na točnoj vagi: On, Bog, prepoznat će moju cjelovitost!"
+  },
+  {
+    "i": 13596,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 7,
+    "t": "Ako su moji koraci skrenuli s pravog puta, ako je moje srce bilo zavedeno mojim očima i ako je nečistoća prianja uz moje ruke,"
+  },
+  {
+    "i": 13597,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 8,
+    "t": "neka drugi jedu ono što sam posijao i neka se iščupaju moje mladice!"
+  },
+  {
+    "i": 13598,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 9,
+    "t": "Ako je moje srce bilo zavedeno ženom, ako sam špijunirao na vratima svog bližnjeg,"
+  },
+  {
+    "i": 13599,
+    "b": 17,
+    "c": 1831,
+    "r": 1831,
+    "o": 10,
+    "t": "neka moja žena počne mljeti za druge, neka drugi imaju odnos s njom!"
+  }
+]

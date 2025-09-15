@@ -1,0 +1,802 @@
+[
+  {
+    "i": 14600,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 7,
+    "t": "Nem íjamban bíztam, sem kardom nem szerzett nekem győzelmet;"
+  },
+  {
+    "i": 14601,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 8,
+    "t": "általad győztük le ellenségeinket, te borítottad szégyenbe gyűlölőinket;"
+  },
+  {
+    "i": 14602,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 9,
+    "t": "Istenben ujjongtunk egész nap, szüntelenül dicsőítve nevedet."
+  },
+  {
+    "i": 14603,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 10,
+    "t": "Pedig elvetettél és megaláztál minket, nem vonulsz hadainkkal;"
+  },
+  {
+    "i": 14604,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 11,
+    "t": "meghátráltatsz minket az ellenség előtt, gyűlölőink pedig kedvükre fosztogatnak."
+  },
+  {
+    "i": 14605,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 12,
+    "t": "Mészárszékre való juhként adsz oda minket, és szétszórtál minket a nemzetek közé;"
+  },
+  {
+    "i": 14606,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 13,
+    "t": "eladod népedet olcsó áron, és nem gazdagodsz meg ezen a vásáron."
+  },
+  {
+    "i": 14607,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 14,
+    "t": "Szomszédaink gyalázatává tettél minket, környezetünk gúnyjává és nevetségévé;"
+  },
+  {
+    "i": 14608,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 15,
+    "t": "közmondássá tettél minket a nemzetek között, fejcsóválássá a népek között."
+  },
+  {
+    "i": 14609,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 16,
+    "t": "Egész nap előttem van a gyalázatom, és szégyen borítja arcomat,"
+  },
+  {
+    "i": 14610,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 17,
+    "t": "a gyalázkodás és káromlás zajában, a gyűlölet és bosszú látványában."
+  },
+  {
+    "i": 14611,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 18,
+    "t": "Mindez ránk jött anélkül, hogy elfeledtünk volna téged, anélkül, hogy megszegtük volna szövetségedet,"
+  },
+  {
+    "i": 14612,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 19,
+    "t": "anélkül, hogy szívünk visszafordult volna, anélkül, hogy lépteink eltértek volna ösvényedtől;"
+  },
+  {
+    "i": 14613,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 20,
+    "t": "összezúztál minket a sakálok lakhelyén, betakarva minket a halál árnyékával."
+  },
+  {
+    "i": 14614,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 21,
+    "t": "Ha elfeledtük volna Istenünk nevét, és idegen istenhez emeltük volna kezünket,"
+  },
+  {
+    "i": 14615,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 22,
+    "t": "vajon Isten nem vette volna-e észre, ő, aki ismeri a szív titkait?"
+  },
+  {
+    "i": 14616,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 23,
+    "t": "Érted gyilkolnak minket egész nap, vágójuhokként bánnak velünk."
+  },
+  {
+    "i": 14617,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 24,
+    "t": "Kelj fel, miért alszol, Uram? Ébredj fel, ne vess el egészen a végéig!"
+  },
+  {
+    "i": 14618,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 25,
+    "t": "Miért rejted el arcodat, feledkezel meg nyomorúságunkról, ínségünkről?"
+  },
+  {
+    "i": 14619,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 26,
+    "t": "Mert lelkünk a porba süllyedt, hasunk a földhöz tapadt."
+  },
+  {
+    "i": 14620,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 27,
+    "t": "Kelj fel, légy segítségünkre, válts meg minket szeretetedért!"
+  },
+  {
+    "i": 14621,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 1,
+    "t": "Az éneklőmesternek. Liliomokra... Kórah fiainak. Költemény. Szerelmi ének."
+  },
+  {
+    "i": 14622,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 2,
+    "t": "Szívem szép szavaktól remeg: elmondom művemet a királynak, nyelvem az ügyes íródeák nádszála."
+  },
+  {
+    "i": 14623,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 3,
+    "t": "Szép vagy, a legszebb az emberek fiai között, báj árad ajkaidon. Ezért áld meg téged az Isten örökké."
+  },
+  {
+    "i": 14624,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 4,
+    "t": "Kösd kardodat oldaladra, vitéz, pompában és ragyogásban"
+  },
+  {
+    "i": 14625,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 5,
+    "t": "menj, lovagolj az igazság, a jámborság, az igazságosság ügyéért. Feszítsd meg az íjat, rettenetessé teszi jobbodat!"
+  },
+  {
+    "i": 14626,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 6,
+    "t": "Élesek a nyilaid, íme, népek vannak alattad, elhagyja őket a szív, a király ellenségeit."
+  },
+  {
+    "i": 14627,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 7,
+    "t": "Istené a te trónod mindörökké! Igazságosság pálcája a te országod pálcája!"
+  },
+  {
+    "i": 14628,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 8,
+    "t": "Szereted az igazságot, gyűlölöd a gonoszságot. Ezért kent fel téged Isten, a te Istened az öröm olajával, mint senkit a vetélytársaid közül;"
+  },
+  {
+    "i": 14629,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 9,
+    "t": "ruhád nem más, mint mirha és áloé. Elefántcsont palotákból hárfák gyönyörködtetnek téged."
+  },
+  {
+    "i": 14630,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 10,
+    "t": "Kedveseid között királylányok vannak; jobbodon egy úrnő, Ofir aranyában."
+  },
+  {
+    "i": 14631,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 11,
+    "t": "Hallgass, leányom, nézz szét és figyelj, feledd el népedet és atyád házát,"
+  },
+  {
+    "i": 14632,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 12,
+    "t": "akkor megkívánja a király szépségedet: ő a te Urad, borulj le előtte!"
+  },
+  {
+    "i": 14633,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 13,
+    "t": "Tírusz leánya ajándékokkal deríti fel arcodat, és a leggazdagabb népek,"
+  },
+  {
+    "i": 14634,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 14,
+    "t": "sok arannyal ékesített ékszerrel. Öltözve"
+  },
+  {
+    "i": 14635,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 15,
+    "t": "hímzett ruhákba a király leányát beviszik a királyhoz, szüzek kíséretében. Elhozzák a neki szánt társakat;"
+  },
+  {
+    "i": 14636,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 16,
+    "t": "örömmel és ujjongással bemennek a palotába."
+  },
+  {
+    "i": 14637,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 17,
+    "t": "Atyáid helyett fiak jönnek neked; fejedelmekké teszed őket az egész földön."
+  },
+  {
+    "i": 14638,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 18,
+    "t": "Hadd tegyem maradandóvá nevedet nemzedékről nemzedékre, hadd dicsérjenek a népek örökkön örökké."
+  },
+  {
+    "i": 14639,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 1,
+    "t": "Az éneklőmesternek. Kórah fiainak. Oboára. Ének."
+  },
+  {
+    "i": 14640,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 2,
+    "t": "Isten a mi menedékünk és erőnk, segítség a szorongattatásban mindig felkínálva."
+  },
+  {
+    "i": 14641,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 3,
+    "t": "Ezért nem félünk, ha megváltozik a föld, ha a hegyek inognak a tengerek szívében,"
+  },
+  {
+    "i": 14642,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 4,
+    "t": "amikor zúgnak és fortyognak vizeik, és remegnek a hegyek az ő háborgásukkor. (Velünk van a Seregek Ura, citadella számunkra, Jákob Istene!)"
+  },
+  {
+    "i": 14643,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 5,
+    "t": "Folyó! Ágai megörvendeztetik Isten városát, megszenteli a Felséges lakhelyeit."
+  },
+  {
+    "i": 14644,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 6,
+    "t": "Isten benne van; nem inoghat meg, Isten megsegíti a reggel fordulatánál;"
+  },
+  {
+    "i": 14645,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 7,
+    "t": "népek zúgtak, királyságok inogtak, felemelte szavát, a föld elolvadt."
+  },
+  {
+    "i": 14646,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 8,
+    "t": "Velünk van a Seregek Ura, citadella számunkra, Jákob Istene!"
+  },
+  {
+    "i": 14647,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 9,
+    "t": "Jertek, lássátok meg az Úr nagy tetteit, ő, aki csodákkal tölti be a földet."
+  },
+  {
+    "i": 14648,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 10,
+    "t": "Háborúkat szüntet meg a föld végéig; az íjat eltörte, a dárdát összetörte, a pajzsokat tűzben égette el."
+  },
+  {
+    "i": 14649,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 11,
+    "t": "\"Hagyjátok abba, tudjátok meg, hogy én vagyok az Isten, felmagasztaltatva a népek felett, felmagasztaltatva a földön!"
+  },
+  {
+    "i": 14650,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 12,
+    "t": "Velünk van a Seregek Ura, citadella számunkra, Jákob Istene!"
+  },
+  {
+    "i": 14651,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 1,
+    "t": "Az éneklőmesternek. Kórah fiainak. Zsoltár."
+  },
+  {
+    "i": 14652,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 2,
+    "t": "Minden nép, tapsoljatok, ujjongjatok Istennek örömujjongással!"
+  },
+  {
+    "i": 14653,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 3,
+    "t": "Mert az Úr a Felséges, a félelmetes, a nagy Király az egész föld felett."
+  },
+  {
+    "i": 14654,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 4,
+    "t": "Népeket vet uralmunk alá, és nemzeteket lábaink alá."
+  },
+  {
+    "i": 14655,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 5,
+    "t": "Kiválasztotta nekünk örökségünket, Jákob büszkeségét, amelyet szeret."
+  },
+  {
+    "i": 14656,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 6,
+    "t": "Felmegy az Isten ujjongás közepette, az Úr kürtzengés közepette."
+  },
+  {
+    "i": 14657,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 7,
+    "t": "Énekeljetek Istenünknek, énekeljetek, énekeljetek Királyunknak, énekeljetek!"
+  },
+  {
+    "i": 14658,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 8,
+    "t": "Mert az egész föld Királya: énekeljetek Istennek, tanítsátok meg!"
+  },
+  {
+    "i": 14659,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 9,
+    "t": "Isten uralkodik a pogányok felett, Isten ül szentsége trónján."
+  },
+  {
+    "i": 14660,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 10,
+    "t": "A népek fejedelmei egyesülnek: Ábrahám Istenének népe ez. Istené a föld pajzsai, a magasba emelkedett."
+  },
+  {
+    "i": 14661,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 1,
+    "t": "Ének. Zsoltár. Kórah fiainak."
+  },
+  {
+    "i": 14662,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 2,
+    "t": "Nagy az Úr, és dicséretes nagyon Istenünk városában, a szent hegyen,"
+  },
+  {
+    "i": 14663,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 3,
+    "t": "fenséges lendülettel, az egész föld örömére; a Sion hegye, Észak szíve, a nagy király városa:"
+  },
+  {
+    "i": 14664,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 4,
+    "t": "Isten palotáinak közepéből citadellává lett."
+  },
+  {
+    "i": 14665,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 5,
+    "t": "Íme, királyok szövetkeztek, egyszerre előrenyomulva;"
+  },
+  {
+    "i": 14666,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 6,
+    "t": "látták, és hirtelen elképedve, pánikba esve elszaladtak."
+  },
+  {
+    "i": 14667,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 7,
+    "t": "Ott remegés fogta el őket, vajúdó asszony gyötrelme,"
+  },
+  {
+    "i": 14668,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 8,
+    "t": "keleti szél volt az, amely összetöri Társis hajóit."
+  },
+  {
+    "i": 14669,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 9,
+    "t": "Ahogyan hallottuk, úgy láttuk Istenünk városában, a Seregek Ura városában; Isten megerősíti azt mindörökké."
+  },
+  {
+    "i": 14670,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 10,
+    "t": "Gondolkodunk, Isten, a te szereteteden Templomod közepén!"
+  },
+  {
+    "i": 14671,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 11,
+    "t": "Mint a te neved, Isten, a te dicséreted, a föld végső határáig! Jobbod igazsággal van tele,"
+  },
+  {
+    "i": 14672,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 12,
+    "t": "ujjong a Sion hegye; Júda leányai örvendeznek a te ítéleteid előtt."
+  },
+  {
+    "i": 14673,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 13,
+    "t": "Kerüljétek meg Siont, járjátok be, számláljátok meg tornyait;"
+  },
+  {
+    "i": 14674,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 14,
+    "t": "szívetek ragaszkodjon falaihoz, részletezzétek palotáit; hogy elmondhassátok a jövő nemzedékeknek"
+  },
+  {
+    "i": 14675,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 15,
+    "t": "hogy ő az Isten, a mi Istenünk örökkön örökké, ő vezet minket!"
+  },
+  {
+    "i": 14676,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 1,
+    "t": "Az éneklőmesternek. Kórah fiainak. Zsoltár."
+  },
+  {
+    "i": 14677,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 2,
+    "t": "Halljátok meg ezt, minden népek, figyeljetek, a világ minden lakói,"
+  },
+  {
+    "i": 14678,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 3,
+    "t": "közember és előkelő, gazdag és szegény egyaránt!"
+  },
+  {
+    "i": 14679,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 4,
+    "t": "Szám bölcsességet szól, és szívem zúgása, az értelem;"
+  },
+  {
+    "i": 14680,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 5,
+    "t": "Fülelek a példabeszédre, hárfán oldom meg rejtvényemet."
+  },
+  {
+    "i": 14681,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 6,
+    "t": "Miért félnék a gonosz napokon, mikor álnokságom körülvesz engem?"
+  },
+  {
+    "i": 14682,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 7,
+    "t": "Ők gazdagságukban bíznak, és vagyonuk bőségével dicsekednek."
+  },
+  {
+    "i": 14683,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 8,
+    "t": "De az ember nem válthatja meg magát, sem váltságdíjat nem adhat Istennek érette,"
+  },
+  {
+    "i": 14684,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 9,
+    "t": "Mert drága a lelkének váltsága, és soha sem elég."
+  },
+  {
+    "i": 14685,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 10,
+    "t": "Hogy örökké éljen, és soha ne lásson rothadást."
+  },
+  {
+    "i": 14686,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 11,
+    "t": "Mert látja, hogy a bölcsek is meghalnak, az esztelen és a bolond is elpusztul, és vagyonukat másokra hagyják."
+  },
+  {
+    "i": 14687,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 12,
+    "t": "Sírjaik örökkévaló otthonuk, lakóhelyük nemzedékről nemzedékre; nevüket a földeken hirdetik vala!"
+  },
+  {
+    "i": 14688,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 13,
+    "t": "Az ember, bár tisztességben van, nem érti; hasonló a vágóállatokhoz."
+  },
+  {
+    "i": 14689,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 14,
+    "t": "Ez az útjuk bolondságuk, mégis utódaik helyeslik szavukat."
+  },
+  {
+    "i": 14690,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 15,
+    "t": "Mint juhokat a Seolba terelik őket; a halál legelteti őket; és az igazak uralkodnak rajtuk reggel; alakjuk eltűnik; a Seol az ő lakóhelyük!"
+  },
+  {
+    "i": 14691,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 16,
+    "t": "De Isten kiváltja lelkemet a Seol hatalmából, mert magához fogad engem."
+  },
+  {
+    "i": 14692,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 17,
+    "t": "Ne félj, ha meggazdagodik valaki, ha megnő házának dicsősége."
+  },
+  {
+    "i": 14693,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 18,
+    "t": "Mert halálakor semmit sem vihet magával; dicsősége nem száll le vele."
+  },
+  {
+    "i": 14694,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 19,
+    "t": "Bár lelkét életében áldotta, és dicsérnek téged, hogy jót tettél magaddal,"
+  },
+  {
+    "i": 14695,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 20,
+    "t": "Eljut atyái nemzedékéhez, akik soha többé nem látnak világosságot."
+  },
+  {
+    "i": 14696,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 21,
+    "t": "Az ember, bár tisztességben van, nem érti; hasonló a vágóállatokhoz."
+  },
+  {
+    "i": 14697,
+    "b": 18,
+    "c": 1950,
+    "r": 1950,
+    "o": 1,
+    "t": "Zsoltár. Aszáfé. Az Istenek Istene, az Úr, szól, és hívja a földet napkelettől napnyugatig."
+  },
+  {
+    "i": 14698,
+    "b": 18,
+    "c": 1950,
+    "r": 1950,
+    "o": 2,
+    "t": "Sionból, a tökéletes szépségből ragyog Isten,"
+  },
+  {
+    "i": 14699,
+    "b": 18,
+    "c": 1950,
+    "r": 1950,
+    "o": 3,
+    "t": "Eljő Istenünk, és nem hallgat; tűz emészt előtte, körülötte pedig hatalmas szélvihar."
+  }
+]

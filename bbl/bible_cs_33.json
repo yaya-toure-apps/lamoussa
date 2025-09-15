@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3300,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 21,
+    "t": "Přivede Hospodinu oběť za provinění ke vchodu do Stánku setkávání, berana za provinění."
+  },
+  {
+    "i": 3301,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 22,
+    "t": "S tímto beranem za provinění kněz vykoná smíření nad člověkem před Hospodinem za hřích, kterého se dopustil, a bude mu odpuštěn hřích, kterého se dopustil."
+  },
+  {
+    "i": 3302,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 23,
+    "t": "Když vejdete do země a zasadíte jakýkoli ovocný strom, pohlédnete na jeho plody, jako by to byla jeho předkožka. Po tři léta vám budou věcí neobřezanou, nebudete z nich jíst."
+  },
+  {
+    "i": 3303,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 24,
+    "t": "Čtvrtého roku všechny jeho plody budou zasvěceny v slavnosti chvály Hospodinu."
+  },
+  {
+    "i": 3304,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 25,
+    "t": "Pátého roku budete moci jíst jeho plody a sklízet pro sebe úrodu. Já jsem Hospodin, váš Bůh."
+  },
+  {
+    "i": 3305,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 26,
+    "t": "Nebudete jíst nic s krví; nebudete provozovat věštění ani zaklínání."
+  },
+  {
+    "i": 3306,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 27,
+    "t": "Nebudete si zaokrouhlovat okraj vlasů a neostříháš si okraj vousů."
+  },
+  {
+    "i": 3307,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 28,
+    "t": "Nebudete si dělat zářezy do těla pro mrtvého a nebudete si dělat tetování. Já jsem Hospodin."
+  },
+  {
+    "i": 3308,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 29,
+    "t": "Neznesvěť svou dceru tím, že ji prostituuješ; tak nebude země zprostituována a učiněna zcela incestní."
+  },
+  {
+    "i": 3309,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 30,
+    "t": "Budete zachovávat mé soboty a uctívat mou svatyni. Já jsem Hospodin."
+  },
+  {
+    "i": 3310,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 31,
+    "t": "Neobracejte se k duchům a nevyhledávejte věštce, znečistili by vás. Já jsem Hospodin, váš Bůh."
+  },
+  {
+    "i": 3311,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 32,
+    "t": "Povstaneš před šedivou hlavou, uctíš osobu starce a budeš se bát svého Boha. Já jsem Hospodin."
+  },
+  {
+    "i": 3312,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 33,
+    "t": "Bude-li s vámi v zemi přebývat cizinec, nebudete ho utiskovat."
+  },
+  {
+    "i": 3313,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 34,
+    "t": "Cizinec, který s vámi přebývá, vám bude jako rodák a budeš ho milovat jako sebe samého, neboť jste byli cizinci v zemi egyptské. Já jsem Hospodin, váš Bůh."
+  },
+  {
+    "i": 3314,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 35,
+    "t": "Nebudete se dopouštět nespravedlnosti při souzení, ať se jedná o míry délky, váhy nebo objemu."
+  },
+  {
+    "i": 3315,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 36,
+    "t": "Budete mít spravedlivé váhy, spravedlivé závaží, spravedlivou míru, spravedlivý efah. Já jsem Hospodin, váš Bůh, který vás vyvedl ze země egyptské."
+  },
+  {
+    "i": 3316,
+    "b": 2,
+    "c": 319,
+    "r": 319,
+    "o": 37,
+    "t": "Zachovávejte všechny mé zákony a všechny mé obyčeje, uvádějte je v život. Já jsem Hospodin."
+  },
+  {
+    "i": 3317,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 1,
+    "t": "Hospodin promluvil k Mojžíšovi a řekl:"
+  },
+  {
+    "i": 3318,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 2,
+    "t": "Řekneš Izraelitům: Kdokoli, Izraelita nebo cizinec usazený v Izraeli, kdo dá ze svých synů Molochovi, musí zemřít. Lid země ho ukamenuje,"
+  },
+  {
+    "i": 3319,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 3,
+    "t": "obrátím se proti tomu muži a vytrhnu ho zprostředka jeho lidu, neboť tím, že dal jednoho ze svých synů Molochovi, znesvětil mou svatyni a zneuctil mé svaté jméno."
+  },
+  {
+    "i": 3320,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 4,
+    "t": "Jestliže lid země zavře oči před tím mužem, když dává jednoho ze svých synů Molochovi, a neusmrtí ho,"
+  },
+  {
+    "i": 3321,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 5,
+    "t": "já sám se postavím proti tomu muži a jeho rodu. Vytrhnu je zprostředka jejich lidu, jeho i všechny ty, kteří se po něm půjdou prostituovat za Molochem."
+  },
+  {
+    "i": 3322,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 6,
+    "t": "Ten, kdo se obrátí k duchům a věštcům, aby se za nimi prostituoval, obrátím se proti tomu muži a vytrhnu ho zprostředka jeho lidu."
+  },
+  {
+    "i": 3323,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 7,
+    "t": "Posvěťte se, abyste byli svatí, neboť já jsem Hospodin, váš Bůh."
+  },
+  {
+    "i": 3324,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 8,
+    "t": "Budete zachovávat mé zákony a budete je uvádět v život, neboť já jsem Hospodin, který vás činí svatými."
+  },
+  {
+    "i": 3325,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 9,
+    "t": "Tedy: Kdokoli zlorečí svému otci nebo své matce, musí zemřít. Protože zlořečil svému otci nebo své matce, jeho krev padne na něho samotného."
+  },
+  {
+    "i": 3326,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 10,
+    "t": "Muž, který se dopustí cizoložství s ženou svého bližního, musí zemřít, on i jeho spoluvinice."
+  },
+  {
+    "i": 3327,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 11,
+    "t": "Muž, který spí s ženou svého otce, odhalil nahotu svého otce. Oba musí zemřít, jejich krev padne na ně."
+  },
+  {
+    "i": 3328,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 12,
+    "t": "Muž, který spí se svou snachou: oba musí zemřít. Znečistili se, jejich krev padne na ně."
+  },
+  {
+    "i": 3329,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 13,
+    "t": "Muž, který spí s mužem, jako se spí s ženou: je to ohavnost, které se oba dopustili, musí zemřít, jejich krev padne na ně."
+  },
+  {
+    "i": 3330,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 14,
+    "t": "Muž, který si vezme za manželku ženu i její matku: je to incest. Upálí se, on i ony, aby u vás nebyl incest."
+  },
+  {
+    "i": 3331,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 15,
+    "t": "Muž, který dá své lůžko zvířeti: musí zemřít a vy zabijete zvíře."
+  },
+  {
+    "i": 3332,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 16,
+    "t": "Žena, která se přiblíží k jakémukoli zvířeti, aby se s ním spojila: zabiješ ženu i zvíře. Musí zemřít, jejich krev padne na ně."
+  },
+  {
+    "i": 3333,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 17,
+    "t": "Muž, který si vezme za manželku svou sestru, dceru svého otce nebo dceru své matky: pokud uvidí její nahotu a ona uvidí jeho, je to hanebnost. Budou vyhlazeni před očima členů svého lidu, neboť odhalil nahotu své sestry a ponese tíhu své viny."
+  },
+  {
+    "i": 3334,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 18,
+    "t": "Muž, který spí s ženou během jejích měsíčků a odhalí její nahotu: odhalil pramen její krve, ona sama odhalila pramen své krve, proto oba budou vytrženi zprostředka svého lidu."
+  },
+  {
+    "i": 3335,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 19,
+    "t": "Neodhalíš nahotu sestry své matky ani sestry svého otce. Odhalil svou vlastní krev, ponesou tíhu své viny."
+  },
+  {
+    "i": 3336,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 20,
+    "t": "Muž, který spí s ženou svého strýce z otcovy strany: odhalil jeho nahotu, ponesou tíhu svého hříchu a zemřou bez dětí."
+  },
+  {
+    "i": 3337,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 21,
+    "t": "Muž, který si vezme za manželku ženu svého bratra: je to nečistota, odhalil nahotu svého bratra, zemřou bez dětí."
+  },
+  {
+    "i": 3338,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 22,
+    "t": "Budete zachovávat všechny mé zákony, všechny mé obyčeje a budete je uvádět v život; tak vás nevyzvrátí země, do které vás vedu, abyste v ní přebývali."
+  },
+  {
+    "i": 3339,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 23,
+    "t": "Nebudete se řídit zákony národů, které před vámi vyháním, neboť ty činily všechny tyto věci a já jsem se jich ošklivil."
+  },
+  {
+    "i": 3340,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 24,
+    "t": "Proto jsem vám řekl: „Zaberete jejich půdu, já vám dám do vlastnictví, zemi oplývající mlékem a medem.“ Já jsem Hospodin, váš Bůh, který jsem vás oddělil od těchto národů."
+  },
+  {
+    "i": 3341,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 25,
+    "t": "Oddělte tedy zvíře čisté od nečistého, ptáka čistého od nečistého. Nečiňte se sami nečistými těmito zvířaty, těmito ptáky, vším, co se plazí po zemi: dal jsem vám je oddělit jako nečisté."
+  },
+  {
+    "i": 3342,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 26,
+    "t": "Buďte mi zasvěceni, neboť já, Hospodin, jsem svatý, a oddělím vás od všech těchto národů, abyste byli moji."
+  },
+  {
+    "i": 3343,
+    "b": 2,
+    "c": 320,
+    "r": 320,
+    "o": 27,
+    "t": "Muž nebo žena, kteří by mezi vámi byli vyvolávači duchů nebo věštci: budou usmrceni, ukamenují je, jejich krev padne na ně."
+  },
+  {
+    "i": 3344,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 1,
+    "t": "Hospodin řekl Mojžíšovi: Mluv ke kněžím, synům Áronovým; řekneš jim: Žádný z nich se neučiní nečistým u mrtvoly některého ze svých bližních,"
+  },
+  {
+    "i": 3345,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 2,
+    "t": "leda pro své nejbližší příbuzné: matku, otce, syna, dceru, bratra."
+  },
+  {
+    "i": 3346,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 3,
+    "t": "Pro svou pannu sestru, která zůstává jeho blízkou příbuznou, protože nepatřila muži, se může učinit nečistým;"
+  },
+  {
+    "i": 3347,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 4,
+    "t": "pro ženu vdanou mezi svými se neučiní nečistým: znesvětil by se."
+  },
+  {
+    "i": 3348,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 5,
+    "t": "Neučiní si tonzuru na hlavě, neoholí si okraj vousů a neudělají si zářezy na těle."
+  },
+  {
+    "i": 3349,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 6,
+    "t": "Budou zasvěceni svému Bohu a neznesvětí jméno svého Boha: oni jsou totiž ti, kdo přinášejí pokrmy Hospodinu, potravu svého Boha, a musí být ve stavu svatosti."
+  },
+  {
+    "i": 3350,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 7,
+    "t": "Nevezmou si za manželku ženu prostituovanou a zneuctěnou, ani ženu, kterou její manžel vyhnal, neboť kněz je zasvěcen svému Bohu."
+  },
+  {
+    "i": 3351,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 8,
+    "t": "Budeš s ním zacházet jako se svatou bytostí, neboť nabízí potravu tvého Boha. Bude pro tebe svatou bytostí, neboť já jsem svatý, já Hospodin, který vás posvěcuji."
+  },
+  {
+    "i": 3352,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 9,
+    "t": "Jestliže se dcera muže, který je kněz, zneuctí prostitucí, zneuctí svého otce a musí být upálena ohněm."
+  },
+  {
+    "i": 3353,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 10,
+    "t": "Pokud jde o kněze, který má přednost před svými bratry, jemuž na hlavu byl vylit olej pomazání a který dostává investituru tím, že se obléká do posvátného roucha, nerozpustí si vlasy, neroztrhne si šaty,"
+  },
+  {
+    "i": 3354,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 11,
+    "t": "nepřijde k mrtvole žádného mrtvého a neučiní se nečistým ani pro svého otce, ani pro svou matku."
+  },
+  {
+    "i": 3355,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 12,
+    "t": "Nevyjde ze svatého místa, aby neznesvětil svatyni svého Boha, neboť na sobě nese zasvěcení oleje pomazání svého Boha. Já jsem Hospodin."
+  },
+  {
+    "i": 3356,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 13,
+    "t": "Vezme si za manželku ženu ještě pannu."
+  },
+  {
+    "i": 3357,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 14,
+    "t": "Vdovu, ženu zapuzenou nebo zneuctěnou prostitucí si nevezme za manželky; pouze pannu ze svých si vezme za manželku:"
+  },
+  {
+    "i": 3358,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 15,
+    "t": "neznesvětí své potomstvo, neboť já jsem Hospodin, který jsem ho posvětil."
+  },
+  {
+    "i": 3359,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 16,
+    "t": "Hospodin promluvil k Mojžíšovi a řekl:"
+  },
+  {
+    "i": 3360,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 17,
+    "t": "Mluv k Áronovi a řekni mu: Nikdo z tvých potomků, v jakémkoli pokolení, se nepřiblíží, aby obětoval pokrm svého Boha, má-li nějakou vadu."
+  },
+  {
+    "i": 3361,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 18,
+    "t": "Neboť žádný muž se nemá přiblížit, má-li nějakou vadu, ať je to slepý nebo chromý, muž znetvořený nebo deformovaný,"
+  },
+  {
+    "i": 3362,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 19,
+    "t": "muž, jehož noha nebo paže je zlomená,"
+  },
+  {
+    "i": 3363,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 20,
+    "t": "hrbatý, rachitický, muž postižený oftalmií, lišejem nebo hnisavými ranami, nebo eunuch."
+  },
+  {
+    "i": 3364,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 21,
+    "t": "Nikdo z potomků Árona, kněze, se nebude moci přiblížit, aby obětoval pokrmy Hospodinu, má-li nějakou vadu; má vadu, nepřiblíží se, aby obětoval potravu svého Boha."
+  },
+  {
+    "i": 3365,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 22,
+    "t": "Bude moci jíst z potravy svého Boha, věci velmi svaté i věci svaté,"
+  },
+  {
+    "i": 3366,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 23,
+    "t": "ale nepřijde k oponě a nepřiblíží se k oltáři; má vadu a nesmí znesvětit mé posvátné předměty, neboť já jsem Hospodin, který jsem je posvětil."
+  },
+  {
+    "i": 3367,
+    "b": 2,
+    "c": 321,
+    "r": 321,
+    "o": 24,
+    "t": "A Mojžíš to řekl Áronovi, jeho synům a všem Izraelitům."
+  },
+  {
+    "i": 3368,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 1,
+    "t": "Hospodin promluvil k Mojžíšovi a řekl:"
+  },
+  {
+    "i": 3369,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 2,
+    "t": "Mluv k Áronovi a jeho synům: ať se zasvěcují svatými obětmi Izraelitů, aby neznesvěcovali mé svaté jméno; kvůli mně ho musí posvětit. Já jsem Hospodin."
+  },
+  {
+    "i": 3370,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 3,
+    "t": "Řekni jim: Každý muž z vašeho potomstva, v jakémkoli pokolení, který se v nečistotě přiblíží ke svatým obětem zasvěceným Hospodinu Izraelity, ten muž bude vytržen z mé přítomnosti. Já jsem Hospodin."
+  },
+  {
+    "i": 3371,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 4,
+    "t": "Každý muž z Áronova potomstva, který bude postižen malomocenstvím nebo výtokem, nebude jíst svaté věci, dokud nebude očištěn. Ten, kdo se dotkne všeho, co mrtvola učinila nečistým, ten, kdo vypustí semennou tekutinu,"
+  },
+  {
+    "i": 3372,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 5,
+    "t": "ten, kdo se dotkne jakékoli havěti a tak se učiní nečistým, nebo muže, který ho nakazí svou vlastní nečistotou, ať je jakákoli,"
+  },
+  {
+    "i": 3373,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 6,
+    "t": "zkrátka kdokoli bude mít takové kontakty, bude nečistý až do večera a nebude moci jíst svaté věci, dokud si neumyje tělo vodou."
+  },
+  {
+    "i": 3374,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 7,
+    "t": "Při západu slunce bude očištěn a bude moci jíst svaté věci, neboť to je jeho potrava."
+  },
+  {
+    "i": 3375,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 8,
+    "t": "Nebude jíst zvíře mrtvé nebo roztrhané, nakazil by se nečistotou. Já jsem Hospodin."
+  },
+  {
+    "i": 3376,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 9,
+    "t": "Ať zachovávají mé předpisy a nezatěžují se hříchem: zemřeli by tím, že je znesvětí, já jsem Hospodin, který jsem je posvětil."
+  },
+  {
+    "i": 3377,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 10,
+    "t": "Žádný laik nebude jíst svatou věc: ani host kněze, ani námezdní služebník nebudou jíst svatou věc."
+  },
+  {
+    "i": 3378,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 11,
+    "t": "Ale jestliže kněz získá osobu za peníze, ta z ní bude moci jíst jako ten, kdo se narodil v jeho domě; jedí totiž jeho vlastní potravu."
+  },
+  {
+    "i": 3379,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 12,
+    "t": "Jestliže se dcera kněze stala manželkou laika, nemůže jíst z posvátných dávek;"
+  },
+  {
+    "i": 3380,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 13,
+    "t": "Jestliže se však stane vdovou nebo bude zapuzena, a nemá dítě, vrátí se do domu svého otce jako za dnů svého mládí, bude jíst z pokrmu svého otce. Žádný laik z toho jíst nebude:"
+  },
+  {
+    "i": 3381,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 14,
+    "t": "Jestliže by někdo z nedbalosti snědl něco svatého, nahradí to knězi a přidá k tomu pětinu."
+  },
+  {
+    "i": 3382,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 15,
+    "t": "Neznesvětí svaté oběti, které Izraelité oddělují pro Hospodina."
+  },
+  {
+    "i": 3383,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 16,
+    "t": "Když je budou jíst, uvalí na ně vinu, která by je zavazovala k náhradě, neboť já jsem Hospodin, který posvětil tyto oběti."
+  },
+  {
+    "i": 3384,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 17,
+    "t": "Hospodin promluvil k Mojžíšovi a řekl:"
+  },
+  {
+    "i": 3385,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 18,
+    "t": "Mluv k Áronovi, k jeho synům, ke všem Izraelitům; řekneš jim: Každý z domu Izraele, nebo každý cizinec, který bydlí v Izraeli, který přináší svůj dar jako slib nebo dobrovolný dar a učiní z něho zápalnou oběť pro Hospodina,"
+  },
+  {
+    "i": 3386,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 19,
+    "t": "bude muset, aby byl přijat, obětovat samce bez vady, býka, ovci nebo kozla."
+  },
+  {
+    "i": 3387,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 20,
+    "t": "Neobětujete z toho nic, co má vadu, neboť to vás neučiní přijatelnými."
+  },
+  {
+    "i": 3388,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 21,
+    "t": "Jestliže někdo obětuje Hospodinu oběť společenství, aby splnil slib nebo aby učinil dobrovolný dar, z velkého nebo malého dobytka, zvíře bude muset, aby bylo přijato, být bez vady; nenajde se na něm žádná vada."
+  },
+  {
+    "i": 3389,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 22,
+    "t": "Nebudete obětovat Hospodinu zvíře slepé, zmrzačené, zohavené, vředovaté, prašivé nebo hnisavé. Žádná část takových zvířat nebude položena na oltář jako pokrm pro Hospodina."
+  },
+  {
+    "i": 3390,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 23,
+    "t": "Můžeš učinit dobrovolný dar z kusu zakrslého nebo znetvořeného, z velkého nebo malého dobytka, ale pro splnění slibu nebude přijat."
+  },
+  {
+    "i": 3391,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 24,
+    "t": "Nebudete obětovat Hospodinu zvíře, jehož varlata jsou zatažena, rozdrcena, vytržena nebo uříznuta. Neučiníte to ve své zemi,"
+  },
+  {
+    "i": 3392,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 25,
+    "t": "a nepřijmete nic takového z ruky cizince, abyste to obětovali jako pokrm svého Boha. Jejich znetvoření je totiž vada a tyto oběti by vás neučinily přijatelnými."
+  },
+  {
+    "i": 3393,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 26,
+    "t": "Hospodin promluvil k Mojžíšovi a řekl:"
+  },
+  {
+    "i": 3394,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 27,
+    "t": "Jakmile se narodí tele, jehně nebo kůzle, zůstane sedm dní u své matky. Osmého dne bude moci být přijato jako pokrm obětovaný Hospodinu."
+  },
+  {
+    "i": 3395,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 28,
+    "t": "Tele nebo jehně, nezabijete téhož dne zvíře a jeho mládě."
+  },
+  {
+    "i": 3396,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 29,
+    "t": "Jestliže přinášíte Hospodinu oběť s chválou, učiňte to tak, abyste byli přijati:"
+  },
+  {
+    "i": 3397,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 30,
+    "t": "bude se jíst téhož dne, aniž by se něco nechalo do příštího rána. Já jsem Hospodin."
+  },
+  {
+    "i": 3398,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 31,
+    "t": "Zachovávejte má přikázání a uvádějte je v život. Já jsem Hospodin."
+  },
+  {
+    "i": 3399,
+    "b": 2,
+    "c": 322,
+    "r": 322,
+    "o": 32,
+    "t": "Neznesvětíte mé svaté jméno, abych byl posvěcen uprostřed Izraelitů, já Hospodin, který vás posvěcuji."
+  }
+]

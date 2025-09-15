@@ -1,0 +1,802 @@
+[
+  {
+    "i": 32100,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 23,
+    "t": "Dia memerintahkan kepala pasukan untuk menahan Paulus, tetapi dengan kelonggaran, dan tidak melarang seorang pun dari pihaknya untuk melayaninya."
+  },
+  {
+    "i": 32101,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 24,
+    "t": "Setelah beberapa hari, Feliks datang bersama istrinya Drusila, yang adalah seorang Yahudi. Dia memanggil Paulus dan mendengarkannya berbicara tentang iman kepada Kristus Yesus."
+  },
+  {
+    "i": 32102,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 25,
+    "t": "Tetapi ketika dia mulai berdiskusi tentang keadilan, pengendalian diri, dan penghakiman yang akan datang, Feliks menjadi takut dan menjawab: \"Untuk saat ini, kamu boleh pergi. Aku akan memanggilmu kembali pada kesempatan pertama."
+  },
+  {
+    "i": 32103,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 26,
+    "t": "Dia juga berharap bahwa Paulus akan memberinya uang; karena itu dia sering memanggilnya untuk berbicara dengannya."
+  },
+  {
+    "i": 32104,
+    "b": 50,
+    "c": 5224,
+    "r": 5224,
+    "o": 27,
+    "t": "Setelah dua tahun berlalu, Feliks digantikan oleh Porsius Festus. Karena ingin menyenangkan orang-orang Yahudi, Feliks meninggalkan Paulus dalam tahanan."
+  },
+  {
+    "i": 32105,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 1,
+    "t": "Tiga hari setelah tiba di provinsi itu, Festus pergi dari Kaisarea ke Yerusalem."
+  },
+  {
+    "i": 32106,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 2,
+    "t": "Imam-imam kepala dan orang-orang terkemuka Yahudi datang menghadapnya sebagai penuduh Paulus. Menyampaikan permohonan mereka"
+  },
+  {
+    "i": 32107,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 3,
+    "t": "terhadap dia, mereka meminta sebagai suatu bantuan agar dia dipindahkan ke Yerusalem; mereka merencanakan suatu penyergapan untuk membunuhnya di jalan."
+  },
+  {
+    "i": 32108,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 4,
+    "t": "Tetapi Festus menjawab bahwa Paulus harus tetap di penjara di Kaisarea, bahwa dia sendiri akan segera pergi."
+  },
+  {
+    "i": 32109,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 5,
+    "t": "\"Oleh karena itu, biarlah mereka yang berkualitas di antara kamu turun bersamaku, kata dia, dan jika orang ini bersalah dalam hal apa pun, biarlah mereka mengajukan tuntutan terhadapnya."
+  },
+  {
+    "i": 32110,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 6,
+    "t": "Setelah menghabiskan delapan hingga sepuluh hari bersama mereka, dia turun ke Kaisarea dan, duduk di pengadilan keesokan harinya, dia menyuruh Paulus dibawa kepadanya."
+  },
+  {
+    "i": 32111,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 7,
+    "t": "Ketika dia tiba, orang-orang Yahudi yang turun dari Yerusalem mengelilinginya, membawa banyak tuduhan yang berat terhadapnya, yang tidak dapat mereka buktikan."
+  },
+  {
+    "i": 32112,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 8,
+    "t": "Paulus membela diri: \"Aku tidak melakukan kesalahan apa pun terhadap Hukum Taurat orang Yahudi, atau terhadap Bait Suci, atau terhadap Kaisar,"
+  },
+  {
+    "i": 32113,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 9,
+    "t": "Karena ingin menyenangkan orang-orang Yahudi, Festus menjawab Paulus: \"Apakah kamu bersedia naik ke Yerusalem untuk diadili di sana di hadapanku?"
+  },
+  {
+    "i": 32114,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 10,
+    "t": "Tetapi Paulus menjawab: \"Aku berdiri di hadapan pengadilan Kaisar; di sanalah aku harus diadili. Aku tidak melakukan kesalahan apa pun terhadap orang-orang Yahudi, engkau sendiri tahu betul."
+  },
+  {
+    "i": 32115,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 11,
+    "t": "Tetapi jika aku benar-benar bersalah, jika aku telah melakukan kejahatan yang pantas dihukum mati, aku tidak menolak untuk mati. Sebaliknya, jika tidak ada dasar dalam tuduhan orang-orang ini terhadapku, tidak seorang pun berhak menyerahkan aku kepada mereka. Aku naik banding kepada Kaisar!"
+  },
+  {
+    "i": 32116,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 12,
+    "t": "Kemudian Festus, setelah berunding dengan dewannya, menjawab: \"Kamu naik banding kepada Kaisar, kamu akan pergi ke hadapan Kaisar."
+  },
+  {
+    "i": 32117,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 13,
+    "t": "Beberapa hari kemudian, Raja Agripa dan Bernike tiba di Kaisarea dan datang memberi hormat kepada Festus."
+  },
+  {
+    "i": 32118,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 14,
+    "t": "Karena kunjungan mereka berlarut-larut, Festus menceritakan kepada raja kasus Paulus: \"Ada di sini, kata dia, seorang pria yang ditinggalkan Feliks dalam tahanan."
+  },
+  {
+    "i": 32119,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 15,
+    "t": "Ketika aku berada di Yerusalem, imam-imam kepala dan para penatua orang Yahudi mengajukan keluhan tentang dia, meminta hukuman baginya."
+  },
+  {
+    "i": 32120,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 16,
+    "t": "Aku menjawab mereka bahwa orang Romawi tidak memiliki kebiasaan untuk menyerahkan seorang pria sebelum, setelah dituduh, dia memiliki para penuduhnya di hadapannya dan diberi kesempatan untuk membela diri terhadap dakwaan itu."
+  },
+  {
+    "i": 32121,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 17,
+    "t": "Oleh karena itu mereka datang ke sini bersamaku, dan tanpa menunda, keesokan harinya, aku duduk di pengadilanku dan menyuruh pria itu dibawa kepadaku."
+  },
+  {
+    "i": 32122,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 18,
+    "t": "Dihadapkan dengan kehadirannya, para penuduh tidak mengajukan keluhan tentang pelanggaran yang, menurutku, aku curigai."
+  },
+  {
+    "i": 32123,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 19,
+    "t": "Mereka hanya memiliki dengannya entah perselisihan apa yang menyangkut agama mereka dan tentang seorang Yesus tertentu, yang sudah mati, dan yang Paulus nyatakan masih hidup."
+  },
+  {
+    "i": 32124,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 20,
+    "t": "Bagiku, yang bingung di hadapan perdebatan semacam itu, aku bertanya kepadanya apakah dia ingin pergi ke Yerusalem untuk diadili di sana tentang hal itu."
+  },
+  {
+    "i": 32125,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 21,
+    "t": "Tetapi Paulus telah mengajukan banding agar kasusnya dicadangkan untuk penghakiman kaisar agung, aku memerintahkan untuk menahannya sampai aku mengirimnya kepada Kaisar."
+  },
+  {
+    "i": 32126,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 22,
+    "t": "Agripa berkata kepada Festus: \"Aku juga ingin mendengar orang itu\" - \"Besok, kata dia, engkau akan mendengarnya."
+  },
+  {
+    "i": 32127,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 23,
+    "t": "Oleh karena itu, keesokan harinya, Agripa dan Bernike datang dengan kemegahan besar dan pergi ke ruang sidang, dikelilingi oleh para tribun dan orang-orang terkemuka kota. Atas perintah Festus, Paulus dibawa."
+  },
+  {
+    "i": 32128,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 24,
+    "t": "Kemudian Festus berkata: \"Raja Agripa dan kalian semua yang hadir di sini bersama kami, kalian melihat orang ini yang menjadi subjek seluruh komunitas Yahudi campur tangan kepadaku, baik di Yerusalem maupun di sini, memprotes dengan keras bahwa dia tidak boleh dibiarkan hidup lebih lama."
+  },
+  {
+    "i": 32129,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 25,
+    "t": "Bagiku, aku menyadari bahwa dia tidak melakukan sesuatu yang pantas dihukum mati; namun, karena dia sendiri telah mengajukan banding kepada kaisar agung, aku memutuskan untuk mengirimnya kepadanya."
+  },
+  {
+    "i": 32130,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 26,
+    "t": "Aku tidak memiliki sesuatu yang sangat spesifik untuk ditulis kepada Tuhan tentang dia; itulah sebabnya aku membawanya ke hadapan kalian, terutama di hadapanmu, Raja Agripa, sehingga setelah interogasi ini, aku memiliki sesuatu untuk ditulis."
+  },
+  {
+    "i": 32131,
+    "b": 50,
+    "c": 5225,
+    "r": 5225,
+    "o": 27,
+    "t": "Bagiku tampaknya tidak masuk akal, memang, untuk mengirim seorang tahanan tanpa menunjukkan pada saat yang sama tuduhan yang membebaninya."
+  },
+  {
+    "i": 32132,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 1,
+    "t": "Agripa berkata kepada Paulus: \"Kamu diizinkan untuk membela kasusmu.\" Kemudian, mengulurkan tangannya, Paulus mengajukan pembelaannya:"
+  },
+  {
+    "i": 32133,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 2,
+    "t": "\"Tentang semua yang dituduhkan orang-orang Yahudi kepadaku, aku merasa senang, Raja Agripa, bahwa hari ini aku harus membela diri di hadapanmu,"
+  },
+  {
+    "i": 32134,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 3,
+    "t": "terutama karena engkau mengetahui semua kebiasaan dan kontroversi orang Yahudi. Oleh karena itu, aku mohon agar engkau mendengarkanku dengan sabar."
+  },
+  {
+    "i": 32135,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 4,
+    "t": "\"Apa yang telah menjadi hidupku sejak masa mudaku, bagaimana sejak awal aku telah hidup di tengah-tengah bangsaku, di Yerusalem sendiri, semua orang Yahudi mengetahuinya."
+  },
+  {
+    "i": 32136,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 5,
+    "t": "Mereka telah mengenalku sejak lama dan dapat, jika mereka mau, bersaksi bahwa aku telah hidup sesuai dengan partai yang paling ketat dari agama kami, sebagai seorang Farisi."
+  },
+  {
+    "i": 32137,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 6,
+    "t": "Bahkan sekarang, jika aku diadili, itu karena harapanku pada janji yang dibuat Allah kepada nenek moyang kita"
+  },
+  {
+    "i": 32138,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 7,
+    "t": "dan yang kedua belas suku kita, dalam ibadah yang mereka berikan kepada Allah dengan tekun, siang dan malam, berharap untuk mencapai penggenapannya. Karena harapan inilah, ya raja, aku dituduh oleh orang-orang Yahudi."
+  },
+  {
+    "i": 32139,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 8,
+    "t": "Mengapa kamu menganggap tidak dapat dipercaya di antara kamu bahwa Allah membangkitkan orang mati?"
+  },
+  {
+    "i": 32140,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 9,
+    "t": "\"Jadi bagiku, aku telah menganggap bahwa aku harus menggunakan segala cara untuk melawan nama Yesus orang Nazaret itu."
+  },
+  {
+    "i": 32141,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 10,
+    "t": "Dan itulah yang telah aku lakukan di Yerusalem; aku sendiri telah melemparkan banyak orang kudus ke penjara, setelah menerima kuasa ini dari imam-imam kepala, dan ketika mereka dihukum mati, aku memberikan persetujuanku."
+  },
+  {
+    "i": 32142,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 11,
+    "t": "Sering juga, menjelajahi semua sinagoga, aku ingin, dengan perlakuan burukku, memaksa mereka untuk menghujat dan, dalam amarahku yang berlebihan terhadap mereka, aku mengejar mereka bahkan ke kota-kota asing."
+  },
+  {
+    "i": 32143,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 12,
+    "t": "\"Demikianlah aku pergi ke Damaskus dengan kuasa penuh dan misi dari imam-imam kepala."
+  },
+  {
+    "i": 32144,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 13,
+    "t": "Di jalan, sekitar tengah hari, aku melihat, ya raja, datang dari langit dan lebih terang dari matahari, sebuah cahaya yang bersinar di sekitarku dan orang-orang yang bersamaku."
+  },
+  {
+    "i": 32145,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 14,
+    "t": "Kami semua jatuh ke tanah, dan aku mendengar sebuah suara berkata kepadaku dalam bahasa Ibrani: Saulus, Saulus, mengapa engkau menganiaya Aku? Sulit bagimu untuk menendang galah rangsang."
+  },
+  {
+    "i": 32146,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 15,
+    "t": "Aku menjawab: Siapakah Engkau, Tuhan? Tuhan berkata: Aku adalah Yesus, yang engkau aniaya."
+  },
+  {
+    "i": 32147,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 16,
+    "t": "Tetapi bangkitlah dan berdirilah. Karena inilah sebabnya Aku menampakkan diri kepadamu: untuk menetapkan engkau sebagai pelayan dan saksi dari penglihatan di mana engkau baru saja melihat Aku dan dari penglihatan di mana Aku akan menunjukkan diri kepadamu lagi."
+  },
+  {
+    "i": 32148,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 17,
+    "t": "Itulah sebabnya Aku akan melepaskanmu dari orang-orang dan dari bangsa-bangsa bukan Yahudi, kepada siapa Aku mengutusmu,"
+  },
+  {
+    "i": 32149,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 18,
+    "t": "untuk membuka mata mereka, agar mereka berbalik dari kegelapan kepada terang dan dari kuasa Setan kepada Allah, dan agar mereka memperoleh, melalui iman kepada-Ku, pengampunan dosa-dosa mereka dan bagian warisan dengan orang-orang yang dikuduskan."
+  },
+  {
+    "i": 32150,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 19,
+    "t": "\"Sejak itu, Raja Agripa, aku tidak memberontak terhadap penglihatan surgawi."
+  },
+  {
+    "i": 32151,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 20,
+    "t": "Sebaliknya, kepada penduduk Damaskus terlebih dahulu, di Yerusalem dan di seluruh tanah Yudea, kemudian kepada bangsa-bangsa bukan Yahudi, aku berkhotbah bahwa mereka harus bertobat dan kembali kepada Allah dengan melakukan perbuatan yang sesuai dengan pertobatan."
+  },
+  {
+    "i": 32152,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 21,
+    "t": "Itulah sebabnya orang-orang Yahudi, setelah menangkap aku di Bait Suci, mencoba membunuhku."
+  },
+  {
+    "i": 32153,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 22,
+    "t": "Didukung oleh perlindungan Allah, aku terus sampai hari ini memberikan kesaksianku di hadapan orang kecil dan orang besar, tanpa pernah mengatakan apa pun di luar dari apa yang telah dinyatakan oleh para nabi dan Musa harus terjadi:"
+  },
+  {
+    "i": 32154,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 23,
+    "t": "bahwa Kristus akan menderita dan bahwa, setelah dibangkitkan pertama dari antara orang mati, ia akan mengumumkan terang kepada orang-orang dan kepada bangsa-bangsa bukan Yahudi."
+  },
+  {
+    "i": 32155,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 24,
+    "t": "Dia berada di sana dalam pembelaannya, ketika Festus berkata dengan suara keras: \"Kamu gila, Paulus; pengetahuanmu yang besar membuatmu kehilangan akal."
+  },
+  {
+    "i": 32156,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 25,
+    "t": "Maka Paulus berkata: \"Aku tidak gila, Festus yang sangat baik, tetapi aku berbicara bahasa kebenaran dan akal sehat."
+  },
+  {
+    "i": 32157,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 26,
+    "t": "Karena raja mengetahui hal-hal ini, kepada siapa aku berbicara dengan segala keyakinan, yakin bahwa tidak ada sesuatu pun yang asing baginya. Karena ini tidak terjadi di sudut!"
+  },
+  {
+    "i": 32158,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 27,
+    "t": "Apakah engkau percaya kepada para nabi, Raja Agripa? Aku tahu bahwa engkau percaya."
+  },
+  {
+    "i": 32159,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 28,
+    "t": "Dan Raja Agripa menjawab Paulus: \"Sedikit lagi dan, dengan alasanmu, engkau akan membuatku menjadi seorang Kristen!"
+  },
+  {
+    "i": 32160,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 29,
+    "t": "Dan Paulus: \"Entah sedikit atau banyak, semoga Allah membuat bukan hanya engkau, tetapi semua orang yang mendengarkanku hari ini, menjadi seperti diriku, kecuali rantai-rantai ini."
+  },
+  {
+    "i": 32161,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 30,
+    "t": "Kemudian raja bangkit, demikian juga gubernur, Bernike dan mereka yang duduk bersama mereka."
+  },
+  {
+    "i": 32162,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 31,
+    "t": "Ketika mereka mundur, mereka berbicara di antara mereka sendiri: \"Orang ini, kata mereka, tidak melakukan sesuatu yang pantas dihukum mati atau dirantai."
+  },
+  {
+    "i": 32163,
+    "b": 50,
+    "c": 5226,
+    "r": 5226,
+    "o": 32,
+    "t": "Agripa sendiri berkata kepada Festus: \"Orang ini bisa dibebaskan jika dia tidak mengajukan banding kepada Kaisar."
+  },
+  {
+    "i": 32164,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 1,
+    "t": "Ketika keberangkatan kita ke Italia telah diputuskan, Paulus dan beberapa tahanan lainnya diserahkan kepada seorang kepala pasukan dari kohor Augusta, bernama Yulius."
+  },
+  {
+    "i": 32165,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 2,
+    "t": "Kami naik ke kapal dari Adramitium yang akan berangkat ke pantai-pantai Asia, dan kami berlayar. Bersama kami ada Aristarkhus, seorang Makedonia dari Tesalonika."
+  },
+  {
+    "i": 32166,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 3,
+    "t": "Keesokan harinya, kami tiba di Sidon. Yulius menunjukkan kemanusiaan terhadap Paulus dengan mengizinkannya pergi menemui teman-temannya dan menerima perbuatan baik mereka."
+  },
+  {
+    "i": 32167,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 4,
+    "t": "Setelah berangkat dari sana, kami menyusuri pantai Siprus, karena angin bertiup melawan."
+  },
+  {
+    "i": 32168,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 5,
+    "t": "Setelah itu, menyeberangi laut Kilikia dan Pamfilia, kami tiba setelah lima belas hari di Mira di Likia."
+  },
+  {
+    "i": 32169,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 6,
+    "t": "Di sana, kepala pasukan menemukan sebuah kapal Aleksandria yang akan berangkat ke Italia dan menyuruh kami naik."
+  },
+  {
+    "i": 32170,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 7,
+    "t": "Selama beberapa hari pelayaran sangat lambat, dan kami tiba dengan susah payah di ketinggian Knidus. Angin tidak mengizinkan kami untuk berlabuh, kami kemudian menyusuri Kreta menuju Tanjung Salmone,"
+  },
+  {
+    "i": 32171,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 8,
+    "t": "dan setelah menyusurinya dengan susah payah, kami tiba di suatu tempat yang disebut Pelabuhan Indah, di dekatnya terletak kota Lasea."
+  },
+  {
+    "i": 32172,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 9,
+    "t": "Sudah banyak waktu berlalu, dan pelayaran sekarang berbahaya, karena bahkan Hari Raya Pendamaian telah berlalu. Paulus memperingatkan mereka:"
+  },
+  {
+    "i": 32173,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 10,
+    "t": "\"Sahabat-sahabatku, kata dia kepada mereka, aku melihat bahwa pelayaran akan berjalan tidak tanpa bahaya dan tanpa kerusakan serius tidak hanya untuk muatan dan kapal, tetapi bahkan untuk diri kita sendiri."
+  },
+  {
+    "i": 32174,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 11,
+    "t": "Kepala pasukan lebih percaya kepada nakhoda dan pemilik kapal daripada kepada perkataan Paulus;"
+  },
+  {
+    "i": 32175,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 12,
+    "t": "pelabuhan itu juga tidak cocok untuk musim dingin. Oleh karena itu, sebagian besar berpendapat untuk berangkat dan untuk mencapai, jika mungkin, untuk menghabiskan musim dingin di sana, Feniks, sebuah pelabuhan di Kreta yang menghadap ke barat daya dan barat laut."
+  },
+  {
+    "i": 32176,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 13,
+    "t": "Setelah angin selatan yang lembut bertiup, mereka percaya diri untuk melaksanakan rencana mereka. Mereka mengangkat jangkar dan mulai menyusuri Kreta dari dekat."
+  },
+  {
+    "i": 32177,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 14,
+    "t": "Tetapi segera, datang dari pulau itu, mengamuklah angin topan bernama Eurakilon."
+  },
+  {
+    "i": 32178,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 15,
+    "t": "Kapal itu terseret dan tidak dapat menahan angin; oleh karena itu kami menyerah pada arus."
+  },
+  {
+    "i": 32179,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 16,
+    "t": "Berlayar di bawah sebuah pulau kecil bernama Kauda, kami berhasil dengan susah payah menguasai sekoci."
+  },
+  {
+    "i": 32180,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 17,
+    "t": "Setelah mengangkatnya, mereka menggunakan alat bantu: mereka melilit kapal; kemudian, karena takut terdampar di Sirte, mereka menurunkan sauh apung. Demikianlah mereka hanyut terbawa arus."
+  },
+  {
+    "i": 32181,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 18,
+    "t": "Keesokan harinya, karena kami sangat dihantam badai, mereka mulai meringankan kapal."
+  },
+  {
+    "i": 32182,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 19,
+    "t": "Dan pada hari ketiga, dengan tangan mereka sendiri, para pelaut membuang perlengkapan ke laut."
+  },
+  {
+    "i": 32183,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 20,
+    "t": "Baik matahari maupun bintang tidak bersinar selama beberapa hari, dan badai terus mengamuk dengan kekuatan yang sama; maka segala harapan untuk selamat telah hilang bagi kami."
+  },
+  {
+    "i": 32184,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 21,
+    "t": "Sudah lama mereka tidak makan: kemudian Paulus, berdiri di tengah-tengah mereka, berkata: \"Seharusnya kamu mendengarkan aku, teman-teman, dan tidak meninggalkan Kreta; kita akan terhindar dari bahaya dan kerugian ini."
+  },
+  {
+    "i": 32185,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 22,
+    "t": "Bagaimanapun juga, aku mendorongmu untuk berani, karena tidak seorang pun di antaramu akan kehilangan nyawanya, hanya kapal yang akan hilang."
+  },
+  {
+    "i": 32186,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 23,
+    "t": "Malam ini seorang malaikat dari Allah, yang kepadanya aku menjadi milik dan yang aku layani, telah menampakkan diri kepadaku,"
+  },
+  {
+    "i": 32187,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 24,
+    "t": "dan dia berkata kepadaku: Jangan takut, Paulus. Engkau harus menghadap Kaisar, dan lihatlah, Allah menganugerahkan kepadamu nyawa semua orang yang berlayar bersamamu."
+  },
+  {
+    "i": 32188,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 25,
+    "t": "Oleh karena itu, beranilah, teman-teman! Aku percaya kepada Allah bahwa akan terjadi seperti yang telah dikatakan kepadaku."
+  },
+  {
+    "i": 32189,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 26,
+    "t": "Tetapi kita harus terdampar di sebuah pulau."
+  },
+  {
+    "i": 32190,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 27,
+    "t": "Itu adalah malam keempat belas dan kami terombang-ambing di Laut Adriatik, ketika, sekitar tengah malam, para pelaut merasakan pendekatan daratan."
+  },
+  {
+    "i": 32191,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 28,
+    "t": "Mereka menjatuhkan sondir dan menemukan dua puluh depa; sedikit lebih jauh, mereka menjatuhkannya lagi dan menemukan lima belas depa."
+  },
+  {
+    "i": 32192,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 29,
+    "t": "Karena takut kami akan terdampar di suatu tempat di bebatuan, mereka menjatuhkan empat sauh di buritan; dan mereka memohon kedatangan hari."
+  },
+  {
+    "i": 32193,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 30,
+    "t": "Tetapi para pelaut berusaha melarikan diri dari kapal. Mereka menurunkan sekoci ke laut, dengan dalih akan memanjangkan sauh dari haluan."
+  },
+  {
+    "i": 32194,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 31,
+    "t": "Paulus kemudian berkata kepada perwira dan para prajurit: \"Jika orang-orang ini tidak tetap berada di kapal, kamu tidak dapat diselamatkan."
+  },
+  {
+    "i": 32195,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 32,
+    "t": "Maka para prajurit memotong tali sekoci dan membiarkannya jatuh."
+  },
+  {
+    "i": 32196,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 33,
+    "t": "Sementara menunggu fajar menyingsing, Paulus mendesak semua orang untuk makan. \"Lihatlah, hari ini adalah hari keempat belas,\" katanya, \"bahwa, dalam penantian, kamu tetap berpuasa, tanpa makan apa pun."
+  },
+  {
+    "i": 32197,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 34,
+    "t": "Oleh karena itu, aku mendesakmu untuk makan, karena keselamatanmu sendiri dipertaruhkan di sini. Tidak seorang pun di antaramu akan kehilangan sehelai rambut pun dari kepalanya."
+  },
+  {
+    "i": 32198,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 35,
+    "t": "Setelah mengatakan ini, dia mengambil roti, mengucap syukur kepada Allah di hadapan semua orang, memecah-mecahkannya, dan mulai makan."
+  },
+  {
+    "i": 32199,
+    "b": 50,
+    "c": 5227,
+    "r": 5227,
+    "o": 36,
+    "t": "Kemudian, menemukan keberanian mereka, mereka juga semua makan."
+  }
+]

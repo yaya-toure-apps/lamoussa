@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2700,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 38,
+    "t": "el altar de oro, el aceite de la unción, el incienso aromático y el velo para la entrada del Tabernáculo;"
+  },
+  {
+    "i": 2701,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 39,
+    "t": "el altar de bronce con su enrejado de bronce, sus varas y todos sus utensilios; la fuente y su base;"
+  },
+  {
+    "i": 2702,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 40,
+    "t": "las cortinas del atrio, sus columnas, sus bases, el velo para la puerta del atrio, sus cuerdas, sus estacas y todos los utensilios del servicio del Tabernáculo, para el Tabernáculo de Reunión;"
+  },
+  {
+    "i": 2703,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 41,
+    "t": "las vestiduras del ministerio para ministrar en el santuario, las vestiduras sagradas para Aarón el sacerdote, y las vestiduras de sus hijos para que ejerzan el sacerdocio."
+  },
+  {
+    "i": 2704,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 42,
+    "t": "Así hicieron los hijos de Israel toda la obra, conforme a todo lo que Yahvé había mandado a Moisés."
+  },
+  {
+    "i": 2705,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 43,
+    "t": "Y vio Moisés toda la obra, y he aquí que la habían hecho como Yahvé había mandado. Y Moisés los bendijo."
+  },
+  {
+    "i": 2706,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 1,
+    "t": "Y habló Yahvé a Moisés, diciendo:"
+  },
+  {
+    "i": 2707,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 2,
+    "t": "\"En el día primero del mes primero levantarás el Tabernáculo, el Tabernáculo de Reunión,"
+  },
+  {
+    "i": 2708,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 3,
+    "t": "y pondrás en él el arca del Testimonio, y cubrirás el arca con el velo."
+  },
+  {
+    "i": 2709,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 4,
+    "t": "Meterás la mesa y ordenarás sobre ella lo que ha de ser ordenado; meterás también el candelabro y encenderás sus lámparas."
+  },
+  {
+    "i": 2710,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 5,
+    "t": "Pondrás el altar de oro para el incienso delante del arca del Testimonio, y pondrás la cortina delante de la entrada del Tabernáculo."
+  },
+  {
+    "i": 2711,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 6,
+    "t": "Pondrás el altar del holocausto delante de la entrada del Tabernáculo, del Tabernáculo de Reunión."
+  },
+  {
+    "i": 2712,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 7,
+    "t": "Colocarás la fuente entre el Tabernáculo de Reunión y el altar, y pondrás agua en ella."
+  },
+  {
+    "i": 2713,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 8,
+    "t": "Colocarás el atrio alrededor, y pondrás la cortina a la puerta del atrio."
+  },
+  {
+    "i": 2714,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 9,
+    "t": "Tomarás el aceite de la unción, y ungirás el Tabernáculo y todo lo que está en él; lo consagrarás con todos sus utensilios, y será cosa santísima."
+  },
+  {
+    "i": 2715,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 10,
+    "t": "Ungirás el altar del holocausto con todos sus utensilios, consagrarás el altar, y será altar santísimo."
+  },
+  {
+    "i": 2716,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 11,
+    "t": "Ungirás la fuente y su base, y la consagrarás."
+  },
+  {
+    "i": 2717,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 12,
+    "t": "Harás acercar a Aarón y a sus hijos a la entrada del Tabernáculo de Reunión, y los lavarás con agua."
+  },
+  {
+    "i": 2718,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 13,
+    "t": "Vestirás a Aarón las vestiduras sagradas, lo ungirás y lo consagrarás, para que ejerza mi sacerdocio."
+  },
+  {
+    "i": 2719,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 14,
+    "t": "Harás que se acerquen sus hijos y los vestirás con túnicas,"
+  },
+  {
+    "i": 2720,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 15,
+    "t": "y los ungirás como ungiste a su padre, para que ejerzan mi sacerdocio; y su unción les servirá para un sacerdocio perpetuo, por sus generaciones."
+  },
+  {
+    "i": 2721,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 16,
+    "t": "Y Moisés lo hizo así; hizo conforme a todo lo que Yahvé le había mandado."
+  },
+  {
+    "i": 2722,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 17,
+    "t": "Así, en el día primero del mes primero, en el año segundo, fue levantado el Tabernáculo."
+  },
+  {
+    "i": 2723,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 18,
+    "t": "Moisés levantó el Tabernáculo, puso sus bases, colocó sus tablas, puso sus travesaños y erigió sus columnas."
+  },
+  {
+    "i": 2724,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 19,
+    "t": "Extendió la tienda sobre el Tabernáculo, y puso la cubierta de la tienda encima, como Yahvé había mandado a Moisés."
+  },
+  {
+    "i": 2725,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 20,
+    "t": "Tomó el Testimonio, lo puso dentro del arca, colocó las varas en el arca y puso el propiciatorio encima del arca."
+  },
+  {
+    "i": 2726,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 21,
+    "t": "Introdujo el arca en el Tabernáculo, puso el velo de la cortina y cubrió con él el arca del Testimonio, como Yahvé había mandado a Moisés."
+  },
+  {
+    "i": 2727,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 22,
+    "t": "Puso la mesa en el Tabernáculo de Reunión, al lado norte del Tabernáculo, fuera del velo,"
+  },
+  {
+    "i": 2728,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 23,
+    "t": "y colocó sobre ella el pan en orden delante de Yahvé, como Yahvé había mandado a Moisés."
+  },
+  {
+    "i": 2729,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 24,
+    "t": "Puso el candelabro en el Tabernáculo de Reunión, frente a la mesa, al lado sur del Tabernáculo,"
+  },
+  {
+    "i": 2730,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 25,
+    "t": "y encendió las lámparas delante de Yahvé, como Yahvé había mandado a Moisés."
+  },
+  {
+    "i": 2731,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 26,
+    "t": "Puso el altar de oro en el Tabernáculo de Reunión, delante del velo,"
+  },
+  {
+    "i": 2732,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 27,
+    "t": "e hizo arder sobre él incienso aromático, como Yahvé había mandado a Moisés."
+  },
+  {
+    "i": 2733,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 28,
+    "t": "Puso luego la cortina a la entrada del Tabernáculo."
+  },
+  {
+    "i": 2734,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 29,
+    "t": "El altar del holocausto lo puso a la entrada del Tabernáculo, del Tabernáculo de Reunión, y ofreció sobre él el holocausto y la ofrenda vegetal, como Yahvé había mandado a Moisés."
+  },
+  {
+    "i": 2735,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 30,
+    "t": "Colocó la fuente entre el Tabernáculo de Reunión y el altar, y puso en ella agua para lavarse,"
+  },
+  {
+    "i": 2736,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 31,
+    "t": "con la cual Moisés, Aarón y sus hijos se lavaban las manos y los pies."
+  },
+  {
+    "i": 2737,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 32,
+    "t": "Cuando entraban en el Tabernáculo de Reunión o se acercaban al altar, se lavaban, como Yahvé había mandado a Moisés."
+  },
+  {
+    "i": 2738,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 33,
+    "t": "Levantó el atrio alrededor del Tabernáculo y del altar, y puso la cortina a la puerta del atrio. Así Moisés terminó la obra."
+  },
+  {
+    "i": 2739,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 34,
+    "t": "Entonces la nube cubrió el Tabernáculo de Reunión, y la gloria de Yahvé llenó el Tabernáculo."
+  },
+  {
+    "i": 2740,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 35,
+    "t": "Y Moisés no podía entrar en el Tabernáculo de Reunión, porque la nube permanecía sobre él, y la gloria de Yahvé llenaba el Tabernáculo."
+  },
+  {
+    "i": 2741,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 36,
+    "t": "En todas sus jornadas, cuando la nube se alzaba de encima del Tabernáculo, los hijos de Israel se ponían en marcha;"
+  },
+  {
+    "i": 2742,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 37,
+    "t": "pero si la nube no se alzaba, no se ponían en marcha hasta el día en que ella se alzaba."
+  },
+  {
+    "i": 2743,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 38,
+    "t": "Porque la nube de Yahvé estaba sobre el Tabernáculo de día, y de noche había fuego en ella, a la vista de toda la casa de Israel, en todas sus jornadas."
+  },
+  {
+    "i": 2744,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 1,
+    "t": "Y Yahvé llamó a Moisés, y habló con él desde el Tabernáculo de Reunión, diciendo:"
+  },
+  {
+    "i": 2745,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 2,
+    "t": "Habla a los hijos de Israel y diles: Cuando alguno de vosotros presente una ofrenda a Yahvé, podréis presentar vuestra ofrenda de animales, ya sea de ganado vacuno o de ganado ovino."
+  },
+  {
+    "i": 2746,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 3,
+    "t": "Si su ofrenda es un holocausto de ganado vacuno, ofrecerá un macho sin defecto; lo ofrecerá a la entrada del Tabernáculo de Reunión, para que sea aceptable delante de Yahvé."
+  },
+  {
+    "i": 2747,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 4,
+    "t": "Pondrá su mano sobre la cabeza del holocausto, y le será aceptado para hacer expiación por él."
+  },
+  {
+    "i": 2748,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 5,
+    "t": "Entonces degollará el novillo delante de Yahvé, y los hijos de Aarón, los sacerdotes, ofrecerán la sangre y la rociarán alrededor del altar que está a la entrada del Tabernáculo de Reunión."
+  },
+  {
+    "i": 2749,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 6,
+    "t": "Después desollará la víctima y la descuartizará,"
+  },
+  {
+    "i": 2750,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 7,
+    "t": "y los hijos de Aarón, los sacerdotes, pondrán fuego sobre el altar y colocarán leña sobre el fuego."
+  },
+  {
+    "i": 2751,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 8,
+    "t": "Luego los hijos de Aarón, los sacerdotes, colocarán los pedazos, la cabeza y la grasa, sobre la leña que está sobre el fuego del altar."
+  },
+  {
+    "i": 2752,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 9,
+    "t": "Lavará con agua sus entrañas y sus patas, y el sacerdote hará arder todo sobre el altar. Es un holocausto, una ofrenda encendida de aroma agradable para Yahvé."
+  },
+  {
+    "i": 2753,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 10,
+    "t": "Si su ofrenda es del ganado ovino, cordero o cabrito para holocausto, ofrecerá un macho sin defecto."
+  },
+  {
+    "i": 2754,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 11,
+    "t": "Lo degollará al lado norte del altar, delante de Yahvé, y los hijos de Aarón, los sacerdotes, rociarán su sangre alrededor del altar."
+  },
+  {
+    "i": 2755,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 12,
+    "t": "Luego lo descuartizará y el sacerdote colocará los pedazos, con su cabeza y su grasa, sobre la leña que está sobre el fuego del altar."
+  },
+  {
+    "i": 2756,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 13,
+    "t": "Lavará con agua las entrañas y las patas, y el sacerdote ofrecerá todo, haciéndolo arder sobre el altar. Es un holocausto, una ofrenda encendida de aroma agradable para Yahvé."
+  },
+  {
+    "i": 2757,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 14,
+    "t": "Si su ofrenda a Yahvé es un holocausto de aves, ofrecerá tórtolas o pichones."
+  },
+  {
+    "i": 2758,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 15,
+    "t": "El sacerdote la ofrecerá al altar, y le quitará la cabeza y la hará arder sobre el altar; y su sangre será exprimida sobre la pared del altar."
+  },
+  {
+    "i": 2759,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 16,
+    "t": "Le quitará el buche con sus plumas, y lo echará junto al altar, en el lugar donde se echan las cenizas."
+  },
+  {
+    "i": 2760,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 17,
+    "t": "La partirá por sus dos alas, sin dividirla por completo, y el sacerdote la hará arder sobre el altar, sobre la leña que está en el fuego. Es un holocausto, una ofrenda encendida de aroma agradable para Yahvé."
+  },
+  {
+    "i": 2761,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 1,
+    "t": "Cuando alguien ofrezca a Yahvé una ofrenda vegetal, su ofrenda será de flor de harina, sobre la cual echará aceite y pondrá incienso."
+  },
+  {
+    "i": 2762,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 2,
+    "t": "La traerá a los hijos de Aarón, los sacerdotes; el sacerdote tomará de ella un puñado de flor de harina y de aceite, junto con todo su incienso, y lo hará arder sobre el altar como memorial, una ofrenda encendida de aroma agradable para Yahvé."
+  },
+  {
+    "i": 2763,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 3,
+    "t": "Y lo que quede de la ofrenda vegetal será para Aarón y para sus hijos; es cosa santísima de las ofrendas encendidas para Yahvé."
+  },
+  {
+    "i": 2764,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 4,
+    "t": "Cuando ofrezcas una ofrenda vegetal cocida al horno, será de flor de harina, tortas sin levadura amasadas con aceite, u hojaldres sin levadura untados con aceite."
+  },
+  {
+    "i": 2765,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 5,
+    "t": "Si tu ofrenda es una ofrenda vegetal cocida en la sartén, será de flor de harina amasada con aceite, sin levadura."
+  },
+  {
+    "i": 2766,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 6,
+    "t": "La partirás en pedazos y le echarás aceite por encima; es una ofrenda vegetal."
+  },
+  {
+    "i": 2767,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 7,
+    "t": "Si tu ofrenda es una ofrenda vegetal cocida en la olla, será hecha con flor de harina y aceite."
+  },
+  {
+    "i": 2768,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 8,
+    "t": "Y traerás a Yahvé la ofrenda vegetal que se hará de estas cosas, y la presentarás al sacerdote, quien la acercará al altar."
+  },
+  {
+    "i": 2769,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 9,
+    "t": "El sacerdote tomará de la ofrenda vegetal su memorial, y lo hará arder sobre el altar como ofrenda encendida de aroma agradable para Yahvé."
+  },
+  {
+    "i": 2770,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 10,
+    "t": "Y lo que quede de la ofrenda vegetal será para Aarón y para sus hijos; es cosa santísima de las ofrendas encendidas para Yahvé."
+  },
+  {
+    "i": 2771,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 11,
+    "t": "Ninguna ofrenda vegetal que ofrezcáis a Yahvé será hecha con levadura, porque no quemaréis ninguna levadura ni ninguna miel como ofrenda encendida para Yahvé."
+  },
+  {
+    "i": 2772,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 12,
+    "t": "Como ofrenda de primicias las ofreceréis a Yahvé, pero no ascenderán como aroma agradable sobre el altar."
+  },
+  {
+    "i": 2773,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 13,
+    "t": "Sazonarás con sal toda ofrenda vegetal que ofrezcas, y no dejarás que falte en tu ofrenda vegetal la sal del pacto de tu Dios; con todas tus ofrendas ofrecerás sal a tu Dios."
+  },
+  {
+    "i": 2774,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 14,
+    "t": "Si ofreces a Yahvé una ofrenda vegetal de primicias, ofrecerás espigas tostadas al fuego, o grano desmenuzado, como ofrenda vegetal de tus primicias."
+  },
+  {
+    "i": 2775,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 15,
+    "t": "Pondrás sobre ella aceite y pondrás incienso sobre ella; es una ofrenda vegetal;"
+  },
+  {
+    "i": 2776,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 16,
+    "t": "y el sacerdote hará arder como memorial una parte del grano desmenuzado y del aceite, con todo su incienso; es una ofrenda encendida para Yahvé."
+  },
+  {
+    "i": 2777,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 1,
+    "t": "Si su sacrificio es un sacrificio de paz, y si ofrece de ganado vacuno, sea macho o hembra, lo ofrecerá sin defecto delante de Yahvé."
+  },
+  {
+    "i": 2778,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 2,
+    "t": "Pondrá su mano sobre la cabeza de la víctima, y la degollará a la entrada del Tabernáculo de Reunión; y los hijos de Aarón, los sacerdotes, rociarán la sangre alrededor del altar."
+  },
+  {
+    "i": 2779,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 3,
+    "t": "Luego ofrecerá una parte de este sacrificio de paz como ofrenda encendida para Yahvé: la grasa que cubre las entrañas, toda la grasa que está sobre las entrañas,"
+  },
+  {
+    "i": 2780,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 4,
+    "t": "los dos riñones, la grasa que está sobre ellos, y la que está sobre los ijares, y la telilla que está sobre el hígado, con los riñones, la quitará,"
+  },
+  {
+    "i": 2781,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 5,
+    "t": "y los hijos de Aarón la harán arder en el altar, sobre el holocausto que estará sobre la leña que está sobre el fuego; ofrenda es de olor grato para Jehová."
+  },
+  {
+    "i": 2782,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 6,
+    "t": "Y si su ofrenda fuere de ovejas, para sacrificio de paz a Jehová, macho o hembra, la ofrecerá sin defecto."
+  },
+  {
+    "i": 2783,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 7,
+    "t": "Si ofreciere cordero por su ofrenda, lo ofrecerá delante de Jehová."
+  },
+  {
+    "i": 2784,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 8,
+    "t": "Y pondrá su mano sobre la cabeza de su ofrenda, y la degollará delante del tabernáculo de reunión; y los hijos de Aarón rociarán su sangre sobre el altar alrededor."
+  },
+  {
+    "i": 2785,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 9,
+    "t": "Después ofrecerá del sacrificio de paz, como ofrenda encendida a Jehová, su grosura, la cola entera, la cual quitará desde el hueso del espinazo; la grosura que cubre los intestinos, y toda la grosura que está sobre las entrañas,"
+  },
+  {
+    "i": 2786,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 10,
+    "t": "los dos riñones, la grosura que está sobre ellos, y la que está sobre los ijares, y la telilla que está sobre el hígado, con los riñones, la quitará,"
+  },
+  {
+    "i": 2787,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 11,
+    "t": "Y el sacerdote lo hará arder sobre el altar; alimento de ofrenda encendida a Jehová."
+  },
+  {
+    "i": 2788,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 12,
+    "t": "Si su ofrenda fuere una cabra, la ofrecerá delante de Jehová."
+  },
+  {
+    "i": 2789,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 13,
+    "t": "Y pondrá su mano sobre la cabeza de ella, y la degollará delante del tabernáculo de reunión; y los hijos de Aarón rociarán su sangre sobre el altar alrededor."
+  },
+  {
+    "i": 2790,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 14,
+    "t": "Después ofrecerá de ella su grosura, como ofrenda encendida a Jehová, la grosura que cubre los intestinos, y toda la grosura que está sobre las entrañas,"
+  },
+  {
+    "i": 2791,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 15,
+    "t": "los dos riñones, la grosura que está sobre ellos, y la que está sobre los ijares, y la telilla que está sobre el hígado, con los riñones, la quitará."
+  },
+  {
+    "i": 2792,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 16,
+    "t": "Y el sacerdote hará arder esto sobre el altar; alimento de ofrenda encendida en olor grato; toda la grosura es de Jehová."
+  },
+  {
+    "i": 2793,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 17,
+    "t": "Estatuto perpetuo será por vuestras generaciones, en todas vuestras habitaciones, que ninguna grosura ni ninguna sangre comeréis."
+  },
+  {
+    "i": 2794,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 1,
+    "t": "Habló Jehová a Moisés, diciendo:"
+  },
+  {
+    "i": 2795,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 2,
+    "t": "Habla a los hijos de Israel, diciendo: Cuando alguna persona pecare por yerro en alguno de los mandamientos de Jehová sobre cosas que no se han de hacer, e hiciere alguna de ellas:"
+  },
+  {
+    "i": 2796,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 3,
+    "t": "Si el sacerdote ungido pecare según el pecado del pueblo, ofrecerá a Jehová por su pecado un becerro sin defecto en expiación."
+  },
+  {
+    "i": 2797,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 4,
+    "t": "Traerá el becerro a la puerta del tabernáculo de reunión delante de Jehová, y pondrá su mano sobre la cabeza del becerro, y degollará el becerro delante de Jehová."
+  },
+  {
+    "i": 2798,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 5,
+    "t": "Y el sacerdote ungido tomará de la sangre del becerro, y la traerá al tabernáculo de reunión,"
+  },
+  {
+    "i": 2799,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 6,
+    "t": "y mojará el sacerdote su dedo en la sangre, y rociará siete veces delante de Jehová hacia el velo del santuario."
+  }
+]

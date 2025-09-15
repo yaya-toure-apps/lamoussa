@@ -1,0 +1,802 @@
+[
+  {
+    "i": 0,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 1,
+    "t": "Am Anfang schuf Gott Himmel und Erde."
+  },
+  {
+    "i": 1,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 2,
+    "t": "Und die Erde war wüst und leer, und Finsternis lag auf der Tiefe; und der Geist Gottes schwebte über dem Wasser."
+  },
+  {
+    "i": 2,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 3,
+    "t": "Und Gott sprach: Es werde Licht! Und es ward Licht."
+  },
+  {
+    "i": 3,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 4,
+    "t": "Und Gott sah, dass das Licht gut war; da schied Gott das Licht von der Finsternis."
+  },
+  {
+    "i": 4,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 5,
+    "t": "Und Gott nannte das Licht Tag, und die Finsternis nannte er Nacht. Da ward aus Abend und Morgen der erste Tag."
+  },
+  {
+    "i": 5,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 6,
+    "t": "Und Gott sprach: Es werde eine Feste zwischen den Wassern, die scheide zwischen Wasser und Wasser! Und es geschah also."
+  },
+  {
+    "i": 6,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 7,
+    "t": "Da machte Gott die Feste und schied das Wasser unter der Feste von dem Wasser über der Feste."
+  },
+  {
+    "i": 7,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 8,
+    "t": "Und Gott nannte die Feste Himmel. Da ward aus Abend und Morgen der zweite Tag."
+  },
+  {
+    "i": 8,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 9,
+    "t": "Und Gott sprach: Es sammle sich das Wasser unter dem Himmel an einem Ort, dass man das Trockene sehe! Und es geschah also."
+  },
+  {
+    "i": 9,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 10,
+    "t": "Und Gott nannte das Trockene Erde, und die Sammlung des Wassers nannte er Meer. Und Gott sah, dass es gut war."
+  },
+  {
+    "i": 10,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 11,
+    "t": "Und Gott sprach: Es lasse die Erde aufgehen Gras und Kraut, das Samen trägt, fruchtbare Bäume auf Erden, die ein jeder nach seiner Art Früchte tragen, in welchen ihr Same ist! Und es geschah also."
+  },
+  {
+    "i": 11,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 12,
+    "t": "Und die Erde brachte hervor Gras und Kraut, das Samen trägt, ein jedes nach seiner Art, und Bäume, die da Früchte tragen, in welchen ihr Same ist, ein jeder nach seiner Art. Und Gott sah, dass es gut war."
+  },
+  {
+    "i": 12,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 13,
+    "t": "Da ward aus Abend und Morgen der dritte Tag."
+  },
+  {
+    "i": 13,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 14,
+    "t": "Und Gott sprach: Es werden Lichter an der Feste des Himmels, die da scheiden Tag und Nacht, und geben Zeichen, Zeiten, Tage und Jahre,"
+  },
+  {
+    "i": 14,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 15,
+    "t": "und seien Lichter an der Feste des Himmels, dass sie scheinen auf die Erde! Und es geschah also."
+  },
+  {
+    "i": 15,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 16,
+    "t": "Und Gott machte zwei große Lichter: ein großes Licht, das den Tag regiere, und ein kleines Licht, das die Nacht regiere, dazu auch die Sterne."
+  },
+  {
+    "i": 16,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 17,
+    "t": "Und Gott setzte sie an die Feste des Himmels, dass sie die Erde bescheinen,"
+  },
+  {
+    "i": 17,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 18,
+    "t": "und den Tag und die Nacht regieren und scheiden Licht und Finsternis. Und Gott sah, dass es gut war."
+  },
+  {
+    "i": 18,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 19,
+    "t": "Da ward aus Abend und Morgen der vierte Tag."
+  },
+  {
+    "i": 19,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 20,
+    "t": "Und Gott sprach: Es wimmle das Wasser von lebendigem Getier, und Vögel sollen fliegen auf Erden unter der Feste des Himmels! Und es geschah also."
+  },
+  {
+    "i": 20,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 21,
+    "t": "Und Gott schuf große Walfische und allerlei Getier, das da lebt und webt im Wasser, ein jedes nach seiner Art, und allerlei geflügelte Vögel, ein jeder nach seiner Art. Und Gott sah, dass es gut war."
+  },
+  {
+    "i": 21,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 22,
+    "t": "Und Gott segnete sie und sprach: Seid fruchtbar und mehret euch und füllet das Wasser im Meer, und das Geflügel mehre sich auf Erden!"
+  },
+  {
+    "i": 22,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 23,
+    "t": "Da ward aus Abend und Morgen der fünfte Tag."
+  },
+  {
+    "i": 23,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 24,
+    "t": "Und Gott sprach: Die Erde bringe hervor lebendiges Getier, ein jedes nach seiner Art: Vieh, Gewürm und Tiere der Erde, ein jedes nach seiner Art! Und es geschah also."
+  },
+  {
+    "i": 24,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 25,
+    "t": "Und Gott machte die Tiere der Erde, ein jedes nach seiner Art, und das Vieh nach seiner Art und allerlei Gewürm auf Erden nach seiner Art. Und Gott sah, dass es gut war."
+  },
+  {
+    "i": 25,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 26,
+    "t": "Und Gott sprach: Lasset uns Menschen machen, ein Bild, das uns gleich sei, die da herrschen über die Fische im Meer und über die Vögel unter dem Himmel und über das Vieh und über alle Tiere der Erde und über alles Gewürm, das auf Erden kriecht!"
+  },
+  {
+    "i": 26,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 27,
+    "t": "Und Gott schuf den Menschen zu seinem Bilde, zum Bilde Gottes schuf er ihn; Mann und Frau schuf er sie."
+  },
+  {
+    "i": 27,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 28,
+    "t": "Und Gott segnete sie und sprach zu ihnen: Seid fruchtbar und mehret euch und füllet die Erde und machet sie euch untertan und herrschet über die Fische im Meer und über die Vögel unter dem Himmel und über alles Getier, das auf Erden kriecht!"
+  },
+  {
+    "i": 28,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 29,
+    "t": "Und Gott sprach: Sehet da, ich habe euch gegeben alles Kraut, das Samen trägt auf der ganzen Erde, und alle Bäume, in welchen Früchte sind, die Samen tragen, zu eurer Speise."
+  },
+  {
+    "i": 29,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 30,
+    "t": "Und allen Tieren der Erde und allen Vögeln unter dem Himmel und allem Gewürm, das da lebt auf Erden, habe ich alles grüne Kraut zur Speise gegeben. Und es geschah also."
+  },
+  {
+    "i": 30,
+    "b": 0,
+    "c": 101,
+    "r": 101,
+    "o": 31,
+    "t": "Und Gott sah an alles, was er gemacht hatte, und siehe, es war sehr gut. Da ward aus Abend und Morgen der sechste Tag."
+  },
+  {
+    "i": 31,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 1,
+    "t": "Also ward vollendet Himmel und Erde mit ihrem ganzen Heer."
+  },
+  {
+    "i": 32,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 2,
+    "t": "Und Gott vollendete am siebenten Tage sein Werk, das er machte, und ruhte am siebenten Tage von allen seinem Werk, das er machte."
+  },
+  {
+    "i": 33,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 3,
+    "t": "Und Gott segnete den siebenten Tag und heiligte ihn, denn an ihm ruhte er von allen seinem Werk, das Gott geschaffen und gemacht hatte."
+  },
+  {
+    "i": 34,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 4,
+    "t": "Dies ist die Geschichte des Himmels und der Erde, da sie geschaffen wurden, zu der Zeit, da Gott der HERR Erde und Himmel machte."
+  },
+  {
+    "i": 35,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 5,
+    "t": "Und alle Bäume auf dem Felde waren noch nicht auf Erden, und allerlei Kraut auf dem Felde war noch nicht gewachsen; denn Gott der HERR hatte noch nicht regnen lassen auf Erden, und kein Mensch war da, der das Land bebaute."
+  },
+  {
+    "i": 36,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 6,
+    "t": "Aber ein Nebel stieg auf von der Erde und feuchtete alles Land."
+  },
+  {
+    "i": 37,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 7,
+    "t": "Da machte Gott der HERR den Menschen aus einem Erdenkloß, und blies ihm ein den Odem des Lebens in seine Nase. Und also ward der Mensch ein lebendiges Wesen."
+  },
+  {
+    "i": 38,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 8,
+    "t": "Und Gott der HERR pflanzte einen Garten in Eden gegen Morgen und setzte den Menschen hinein, den er gemacht hatte."
+  },
+  {
+    "i": 39,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 9,
+    "t": "Und Gott der HERR ließ aufwachsen aus der Erde allerlei Bäume, lieblich anzusehen und gut zu essen, und den Baum des Lebens mitten im Garten und den Baum der Erkenntnis des Guten und Bösen."
+  },
+  {
+    "i": 40,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 10,
+    "t": "Und es ging aus von Eden ein Strom, zu wässern den Garten, und teilte sich von da in vier Hauptflüsse."
+  },
+  {
+    "i": 41,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 11,
+    "t": "Der erste heißt Pison, der fließt um das ganze Land Hevila, da das Gold ist."
+  },
+  {
+    "i": 42,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 12,
+    "t": "Und das Gold desselben Landes ist gut; daselbst findet man auch Bedellion und den Edelstein Onyx."
+  },
+  {
+    "i": 43,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 13,
+    "t": "Der andere Strom heißt Gihon, der fließt um das ganze Land Kusch."
+  },
+  {
+    "i": 44,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 14,
+    "t": "Der dritte Strom heißt Tigris, der fließt vor Assyrien. Der vierte Strom ist der Euphrat."
+  },
+  {
+    "i": 45,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 15,
+    "t": "Und Gott der HERR nahm den Menschen und setzte ihn in den Garten Eden, dass er ihn bebaute und bewahrte."
+  },
+  {
+    "i": 46,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 16,
+    "t": "Und Gott der HERR gebot dem Menschen und sprach: Du darfst essen von allerlei Bäumen im Garten;"
+  },
+  {
+    "i": 47,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 17,
+    "t": "aber von dem Baum der Erkenntnis des Guten und Bösen sollst du nicht essen; denn welches Tages du davon issest, wirst du des Todes sterben."
+  },
+  {
+    "i": 48,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 18,
+    "t": "Und Gott der HERR sprach: Es ist nicht gut, dass der Mensch allein sei; ich will ihm eine Gehilfin machen, die um ihn sei."
+  },
+  {
+    "i": 49,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 19,
+    "t": "Denn da Gott der HERR die Tiere auf Erden und alle Vögel unter dem Himmel aus Erde gemacht hatte, brachte er sie zu dem Menschen, dass er sähe, wie er sie nennte; denn wie der Mensch allerlei lebendige Tiere nannte, so sollten sie heißen."
+  },
+  {
+    "i": 50,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 20,
+    "t": "Und der Mensch gab einem jeglichen Vieh und Vogel unter dem Himmel und Tier auf dem Felde seinen Namen; aber für den Menschen ward keine Gehilfin gefunden, die um ihn wäre."
+  },
+  {
+    "i": 51,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 21,
+    "t": "Da ließ Gott der HERR einen tiefen Schlaf fallen auf den Menschen, und er schlief ein. Und er nahm eine seiner Rippen und schloss die Stätte zu mit Fleisch."
+  },
+  {
+    "i": 52,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 22,
+    "t": "Und Gott der HERR baute ein Weib aus der Rippe, die er von dem Menschen nahm, und brachte sie zu ihm."
+  },
+  {
+    "i": 53,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 23,
+    "t": "Da sprach der Mensch: Das ist doch Bein von meinem Bein und Fleisch von meinem Fleisch; man wird sie Männin nennen, darum dass sie vom Manne genommen ist."
+  },
+  {
+    "i": 54,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 24,
+    "t": "Darum wird ein Mann seinen Vater und seine Mutter verlassen und seinem Weibe anhangen, und sie werden sein ein Fleisch."
+  },
+  {
+    "i": 55,
+    "b": 0,
+    "c": 102,
+    "r": 102,
+    "o": 25,
+    "t": "Und sie waren beide nackt, der Mensch und sein Weib, und schämten sich nicht."
+  },
+  {
+    "i": 56,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 1,
+    "t": "Aber die Schlange war listiger denn alle Tiere auf dem Felde, die Gott der HERR gemacht hatte, und sprach zu dem Weibe: Ja, sollte Gott gesagt haben, ihr sollt nicht essen von allerlei Bäumen im Garten?"
+  },
+  {
+    "i": 57,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 2,
+    "t": "Da sprach das Weib zu der Schlange: Wir essen von den Früchten der Bäume im Garten;"
+  },
+  {
+    "i": 58,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 3,
+    "t": "aber von den Früchten des Baumes mitten im Garten hat Gott gesagt: Esset nicht davon, rühret sie auch nicht an, dass ihr nicht sterbet!"
+  },
+  {
+    "i": 59,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 4,
+    "t": "Da sprach die Schlange zu dem Weibe: Ihr werdet nicht sterben,"
+  },
+  {
+    "i": 60,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 5,
+    "t": "sondern Gott weiß, dass welches Tages ihr davon esset, so werden eure Augen aufgetan, und ihr werdet sein wie Gott und wissen, was gut und böse ist."
+  },
+  {
+    "i": 61,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 6,
+    "t": "Und das Weib sah, dass von dem Baum gut zu essen wäre und dass er lieblich anzusehen und ein lustiger Baum wäre; denn er machte klug. Und sie nahm von der Frucht und aß und gab ihrem Mann auch davon, und er aß."
+  },
+  {
+    "i": 62,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 7,
+    "t": "Da wurden ihrer beider Augen aufgetan, und sie wurden gewahr, dass sie nackt waren, und flochten Feigenblätter zusammen und machten sich Schurze."
+  },
+  {
+    "i": 63,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 8,
+    "t": "Und da sie die Stimme Gottes des HERRN hörten, der im Garten wandelte, da der Tag kühl geworden war, verkrochen sich Adam und sein Weib vor dem Angesicht Gottes des HERRN unter die Bäume im Garten."
+  },
+  {
+    "i": 64,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 9,
+    "t": "Und Gott der HERR rief Adam und sprach zu ihm: Wo bist du?"
+  },
+  {
+    "i": 65,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 10,
+    "t": "Und er sprach: Ich hörte deine Stimme im Garten und fürchtete mich; denn ich bin nackt, darum verkroch ich mich."
+  },
+  {
+    "i": 66,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 11,
+    "t": "Und er sprach: Wer hat dir gesagt, dass du nackt bist? Hast du nicht gegessen von dem Baum, davon ich dir gebot, du solltest nicht davon essen?"
+  },
+  {
+    "i": 67,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 12,
+    "t": "Da sprach Adam: Das Weib, das du mir zugesellet hast, gab mir von dem Baum, und ich aß."
+  },
+  {
+    "i": 68,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 13,
+    "t": "Da sprach Gott der HERR zum Weibe: Warum hast du das getan? Das Weib sprach: Die Schlange betrog mich, also aß ich."
+  },
+  {
+    "i": 69,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 14,
+    "t": "Da sprach Gott der HERR zu der Schlange: Weil du das getan hast, seist du verflucht vor allem Vieh und vor allen Tieren auf dem Felde! Auf deinem Bauch sollst du kriechen und Erde essen dein Leben lang."
+  },
+  {
+    "i": 70,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 15,
+    "t": "Und ich will Feindschaft setzen zwischen dir und dem Weibe und zwischen deinem Samen und ihrem Samen. Derselbe soll dir den Kopf zertreten, und du wirst ihn in die Ferse stechen."
+  },
+  {
+    "i": 71,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 16,
+    "t": "Und zum Weibe sprach er: Ich will dir große Schmerzen bereiten, wenn du schwanger wirst; du sollst mit Schmerzen Kinder gebären und dein Verlangen soll nach deinem Mann sein, und er soll herrschen über dich."
+  },
+  {
+    "i": 72,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 17,
+    "t": "Und zu Adam sprach er: Dieweil du hast gehorcht der Stimme deines Weibes und hast gegessen von dem Baum, davon ich dir gebot und sagte: Du sollst nicht davon essen!, verflucht sei der Acker um deinetwillen! Mit Mühsal sollst du dich nähren darauf dein Leben lang."
+  },
+  {
+    "i": 73,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 18,
+    "t": "Dornen und Disteln soll er dir tragen, und sollst das Kraut auf dem Felde essen."
+  },
+  {
+    "i": 74,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 19,
+    "t": "Im Schweiße deines Angesichts sollst du dein Brot essen, bis dass du wieder zu Erde werdest, davon du genommen bist. Denn du bist Erde und sollst zu Erde werden."
+  },
+  {
+    "i": 75,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 20,
+    "t": "Und Adam nannte sein Weib Eva, darum dass sie eine Mutter ist aller Lebendigen."
+  },
+  {
+    "i": 76,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 21,
+    "t": "Und Gott der HERR machte Adam und seinem Weibe Röcke von Fellen und kleidete sie."
+  },
+  {
+    "i": 77,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 22,
+    "t": "Und Gott der HERR sprach: Siehe, Adam ist geworden wie unser einer und weiß, was gut und böse ist. Nun aber, dass er nicht seine Hand ausstrecke und nehme auch von dem Baum des Lebens und esse und lebe ewiglich!"
+  },
+  {
+    "i": 78,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 23,
+    "t": "Da wies ihn Gott der HERR aus dem Garten Eden, dass er den Acker bebaute, davon er genommen war."
+  },
+  {
+    "i": 79,
+    "b": 0,
+    "c": 103,
+    "r": 103,
+    "o": 24,
+    "t": "Und er trieb den Menschen hinaus und lagerte vor dem Garten Eden die Cherubim mit einem bloßen, feurigen Schwert, zu behüten den Weg zu dem Baum des Lebens."
+  },
+  {
+    "i": 80,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 1,
+    "t": "Und Adam erkannte sein Weib Eva, und sie ward schwanger und gebar Kain und sprach: „Ich habe einen Mann gewonnen mit Hilfe des Herrn.“"
+  },
+  {
+    "i": 81,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 2,
+    "t": "Und sie gebar weiter Abel, seinen Bruder. Und Abel ward ein Schäfer, Kain aber ein Ackermann."
+  },
+  {
+    "i": 82,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 3,
+    "t": "Es begab sich aber nach etlicher Zeit, dass Kain dem Herrn Opfer brachte von den Früchten des Feldes,"
+  },
+  {
+    "i": 83,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 4,
+    "t": "und Abel brachte auch von den Erstlingen seiner Herde und von ihrem Fett. Und der Herr sah gnädig auf Abel und sein Opfer,"
+  },
+  {
+    "i": 84,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 5,
+    "t": "aber auf Kain und sein Opfer sah er nicht gnädig. Da ward Kain sehr zornig, und seine Gebärde verfinsterte sich."
+  },
+  {
+    "i": 85,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 6,
+    "t": "Da sprach der Herr zu Kain: „Warum bist du zornig, und warum hat sich deine Gebärde verfinstert?"
+  },
+  {
+    "i": 86,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 7,
+    "t": "Ist es nicht also? Wenn du fromm bist, so darfst du frei aufblicken; bist du aber nicht fromm, so lauert die Sünde vor der Tür, und ihr Verlangen ist nach dir; du aber herrsche über sie!“"
+  },
+  {
+    "i": 87,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 8,
+    "t": "Und Kain sprach zu seinem Bruder Abel: „Lass uns aufs Feld gehen!“ Und es geschah, als sie auf dem Felde waren, erhob sich Kain wider seinen Bruder Abel und schlug ihn tot."
+  },
+  {
+    "i": 88,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 9,
+    "t": "Da sprach der Herr zu Kain: „Wo ist dein Bruder Abel?“ Er sprach: „Ich weiß es nicht. Bin ich meines Bruders Hüter?“"
+  },
+  {
+    "i": 89,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 10,
+    "t": "Da sprach der Herr: „Was hast du getan? Die Stimme des Blutes deines Bruders schreit zu mir von der Erde!"
+  },
+  {
+    "i": 90,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 11,
+    "t": "Und nun sei verflucht von der Erde, die ihren Mund aufgetan hat, um das Blut deines Bruders von deiner Hand zu empfangen."
+  },
+  {
+    "i": 91,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 12,
+    "t": "Wenn du den Acker bebaust, soll er dir forthin seine Kraft nicht geben. Unstet und flüchtig sollst du sein auf Erden!“"
+  },
+  {
+    "i": 92,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 13,
+    "t": "Da sprach Kain zum Herrn: „Meine Strafe ist zu groß, als dass ich sie tragen könnte."
+  },
+  {
+    "i": 93,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 14,
+    "t": "Siehe, du treibst mich heute vom Ackerland, und ich muss mich vor deinem Angesicht verbergen und werde unstet und flüchtig auf Erden sein; und es wird geschehen, wer mich findet, der wird mich erschlagen.“"
+  },
+  {
+    "i": 94,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 15,
+    "t": "Da sprach der Herr zu ihm: „Darum soll jeder, der Kain erschlägt, siebenfältig gerächt werden.“ Und der Herr machte ein Zeichen an Kain, dass ihn niemand erschlüge, der ihn fände."
+  },
+  {
+    "i": 95,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 16,
+    "t": "Da ging Kain von dem Angesicht des Herrn und wohnte im Lande Nod, östlich von Eden."
+  },
+  {
+    "i": 96,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 17,
+    "t": "Und Kain erkannte sein Weib, und sie ward schwanger und gebar Henoch. Und er baute eine Stadt und nannte die Stadt nach dem Namen seines Sohnes Henoch."
+  },
+  {
+    "i": 97,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 18,
+    "t": "Und Henoch zeugte Irad, und Irad zeugte Mehujaël, und Mehujaël zeugte Metusaël, und Metusaël zeugte Lamech."
+  },
+  {
+    "i": 98,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 19,
+    "t": "Und Lamech nahm sich zwei Weiber; der Name der einen war Ada, und der Name der andern Zilla."
+  },
+  {
+    "i": 99,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 20,
+    "t": "Und Ada gebar Jabal; der ist der Vater derer, die in Zelten wohnen und Vieh halten."
+  }
+]

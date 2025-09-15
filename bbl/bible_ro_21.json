@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2100,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 24,
+    "t": "Ochi pentru ochi, dinte pentru dinte, picior pentru picior,"
+  },
+  {
+    "i": 2101,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 25,
+    "t": "Arsură pentru arsură, vânătaie pentru vânătaie, rană pentru rană."
+  },
+  {
+    "i": 2102,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 26,
+    "t": "Dacă un om lovește ochiul robului său sau ochiul roabei sale și-l orbește, îi va da drumul liber, ca răsplată pentru ochiul său."
+  },
+  {
+    "i": 2103,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 27,
+    "t": "Și dacă îi scoate un dinte robului său sau un dinte roabei sale, îi va da drumul liber, ca răsplată pentru dintele său."
+  },
+  {
+    "i": 2104,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 28,
+    "t": "Dacă un bou împunge un bărbat sau o femeie și-i omoară, boul să fie împroșcat cu pietre și carnea lui să nu fie mâncată, dar proprietarul boului va fi iertat."
+  },
+  {
+    "i": 2105,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 29,
+    "t": "Dar dacă boul era de mai înainte un împungător și proprietarul, fiind înștiințat, nu l-a păzit și boul omoară un bărbat sau o femeie, boul să fie împroșcat cu pietre și proprietarul lui să fie dat morții."
+  },
+  {
+    "i": 2106,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 30,
+    "t": "Dacă i se pune o răscumpărare, el să dea, pentru răscumpărarea vieții sale, tot ce i se pune."
+  },
+  {
+    "i": 2107,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 31,
+    "t": "Dacă împunge un fiu sau o fiică, să i se facă după obiceiul acesta."
+  },
+  {
+    "i": 2108,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 32,
+    "t": "Dacă împunge un rob sau o roabă, proprietarul boului să plătească prețul – treizeci de sicli – stăpânului lor și boul să fie împroșcat cu pietre."
+  },
+  {
+    "i": 2109,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 33,
+    "t": "Dacă cineva lasă un puț deschis sau dacă cineva sapă un puț și nu-l acoperă și cade în el un bou sau un măgar,"
+  },
+  {
+    "i": 2110,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 34,
+    "t": "Proprietarul puțului să plătească, să dea proprietarului lor banii și animalul mort să fie al lui."
+  },
+  {
+    "i": 2111,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 35,
+    "t": "Dacă boul cuiva împunge boul altuia și-l omoară, să vândă boul viu și să împartă prețul, și, de asemenea, să împartă și animalul mort."
+  },
+  {
+    "i": 2112,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 36,
+    "t": "Dar dacă era știut că boul împungea de mai înainte și proprietarul nu l-a păzit, să dea bou pentru bou și animalul mort să fie al lui."
+  },
+  {
+    "i": 2113,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 37,
+    "t": "Dacă cineva fură un bou sau o oaie și apoi îl junghie sau îl vinde, să dea cinci boi pentru un bou și patru oi pentru o oaie."
+  },
+  {
+    "i": 2114,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 1,
+    "t": "Dacă hoțul este prins spărgând un zid și este lovit de moarte, nu va fi vărsat sânge pentru el."
+  },
+  {
+    "i": 2115,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 2,
+    "t": "Dar dacă soarele răsărise deja, va fi vărsat sânge pentru el. El să dea despăgubire; dacă nu are cu ce, să fie vândut pentru ce a furat."
+  },
+  {
+    "i": 2116,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 3,
+    "t": "Dacă animalul furat – bou, măgar sau oaie – este găsit viu în posesia lui, să dea înapoi îndoit."
+  },
+  {
+    "i": 2117,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 4,
+    "t": "Dacă cineva lasă un ogor sau o vie să fie păscute și lasă câmpul altuia să fie păscut, să dea despăgubire cu ceea ce a păscut câmpul, după rodul lui. Dacă a lăsat tot câmpul să fie păscut, să dea despăgubire de la recolta cea mai bună a câmpului."
+  },
+  {
+    "i": 2118,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 5,
+    "t": "Dacă un foc izbucnește și se întâlnește cu spini și mistuie stoguri, recolte sau câmpuri, cel care a aprins focul să dea despăgubire pentru ce a ars."
+  },
+  {
+    "i": 2119,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 6,
+    "t": "Dacă cineva dă cuiva în păstrare bani sau obiecte și sunt furate de la acesta, hoțul, dacă este descoperit, să dea înapoi îndoit."
+  },
+  {
+    "i": 2120,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 7,
+    "t": "Dacă hoțul nu este descoperit, stăpânul casei să se apropie de Dumnezeu ca să mărturisească că nu și-a pus mâna pe avutul celuilalt."
+  },
+  {
+    "i": 2121,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 8,
+    "t": "În orice pricină litigioasă cu privire la un bou, un măgar, o oaie, o haină sau orice obiect pierdut despre care se zice: „Acesta este”, pricina să fie adusă înaintea lui Dumnezeu. Cel pe care Dumnezeu îl va declara vinovat să dea înapoi îndoit."
+  },
+  {
+    "i": 2122,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 9,
+    "t": "Dacă cineva dă în grija altuia un măgar, un taur, o oaie sau orice alt animal și animalul moare, își rupe un membru sau este luat fără martori,"
+  },
+  {
+    "i": 2123,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 10,
+    "t": "Un jurământ înaintea Domnului va decide între cele două părți dacă păzitorul și-a pus mâna pe avutul celuilalt sau nu. Proprietarul va lua ce a mai rămas și păzitorul nu va trebui să dea despăgubire."
+  },
+  {
+    "i": 2124,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 11,
+    "t": "Dar dacă animalul furat era la el, să-l dea înapoi proprietarului lui."
+  },
+  {
+    "i": 2125,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 12,
+    "t": "Dacă animalul este sfâșiat de o fiară, să aducă ca mărturie animalul sfâșiat și nu va trebui să dea despăgubire."
+  },
+  {
+    "i": 2126,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 13,
+    "t": "Dacă cineva împrumută un animal de la altul și animalul își rupe un membru sau moare în absența proprietarului, va trebui să dea despăgubire."
+  },
+  {
+    "i": 2127,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 14,
+    "t": "Dar dacă proprietarul este cu animalul, nu va trebui să dea despăgubire. Dacă proprietarul este un închiriator, va primi prețul închirierii."
+  },
+  {
+    "i": 2128,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 15,
+    "t": "Dacă cineva seduce o fecioară care nu este logodită și se culcă cu ea, să plătească prețul și s-o ia de soție."
+  },
+  {
+    "i": 2129,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 16,
+    "t": "Dacă tatăl ei refuză s-o dea lui, să plătească o sumă echivalentă cu prețul stabilit pentru fecioare."
+  },
+  {
+    "i": 2130,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 17,
+    "t": "Să nu lași să trăiască vrăjitoarea."
+  },
+  {
+    "i": 2131,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 18,
+    "t": "Oricine se împreunează cu un animal să fie dat morții."
+  },
+  {
+    "i": 2132,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 19,
+    "t": "Cel care aduce jertfă altor dumnezei să fie sortit anathemei."
+  },
+  {
+    "i": 2133,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 20,
+    "t": "Să nu necăjești pe străin și să nu-l asuprești, căci și voi ați fost străini în țara Egiptului."
+  },
+  {
+    "i": 2134,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 21,
+    "t": "Să nu maltratezi pe o văduvă sau pe un orfan."
+  },
+  {
+    "i": 2135,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 22,
+    "t": "Dacă-l maltratezi și el strigă către mine, eu voi auzi strigătul lui;"
+  },
+  {
+    "i": 2136,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 23,
+    "t": "Mânia mea se va aprinde și vă voi nimici cu sabia: soțiile voastre vor fi văduve și fiii voștri orfani."
+  },
+  {
+    "i": 2137,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 24,
+    "t": "Dacă împrumuți bani unui compatriot, unui nevoiaș care este la tine, să nu te porți cu el ca un cămătar, să nu-i pui dobândă."
+  },
+  {
+    "i": 2138,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 25,
+    "t": "Dacă iei în gaj mantaua cuiva, să i-o dai înapoi la apusul soarelui."
+  },
+  {
+    "i": 2139,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 26,
+    "t": "Este singura lui acoperire, este mantaua cu care își învelește trupul, în ce se va culca? Dacă strigă către mine, îl voi auzi, căci eu sunt milostiv!"
+  },
+  {
+    "i": 2140,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 27,
+    "t": "Să nu hulești pe Dumnezeu și să nu blestemi pe un conducător al poporului tău."
+  },
+  {
+    "i": 2141,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 28,
+    "t": "Să nu întârzii să oferi din belșugul tău și din prisosul tău. Pe cel întâi născut dintre fiii tăi să mi-l dai."
+  },
+  {
+    "i": 2142,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 29,
+    "t": "Așa vei face și cu vitele tale mari și mici: șapte zile să stea cu mama lor, în ziua a opta să mi-l dai."
+  },
+  {
+    "i": 2143,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 30,
+    "t": "Veți fi pentru mine oameni sfinți. Să nu mâncați carnea unui animal sfâșiat de o fiară pe câmp, s-o aruncați la câini."
+  },
+  {
+    "i": 2144,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 1,
+    "t": "Să nu răspândești zvonuri false. Să nu-ți unești mâna cu cel rău, mărturisind pe nedrept."
+  },
+  {
+    "i": 2145,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 2,
+    "t": "Să nu ții partea celui mai mare număr ca să comiți răul și să nu mărturisești într-un proces, urmând pe cel mai mare număr ca să abați dreptatea,"
+  },
+  {
+    "i": 2146,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 3,
+    "t": "Nici să nu favorizezi pe cel sărac în procesul lui."
+  },
+  {
+    "i": 2147,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 4,
+    "t": "Dacă întâlnești boul sau măgarul dușmanului tău rătăcind, să i-l duci înapoi."
+  },
+  {
+    "i": 2148,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 5,
+    "t": "Dacă vezi măgarul celui care te urăște căzând sub povara lui, încetează să stai deoparte; împreună cu el să-i vii în ajutor."
+  },
+  {
+    "i": 2149,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 6,
+    "t": "Să nu abați dreptatea săracului tău în procesul lui."
+  },
+  {
+    "i": 2150,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 7,
+    "t": "Să te ții departe de o pricină mincinoasă. Să nu faci să piară pe cel nevinovat sau pe cel drept și să nu justifici pe cel vinovat."
+  },
+  {
+    "i": 2151,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 8,
+    "t": "Să nu primești daruri, căci darul orbește pe cei clarvăzători și ruinează pricinile celor drepți."
+  },
+  {
+    "i": 2152,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 9,
+    "t": "Să nu asuprești pe străin. Voi știți ce simte străinul, căci și voi ați fost străini în țara Egiptului."
+  },
+  {
+    "i": 2153,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 10,
+    "t": "Șase ani să semeni pământul și să strângi roadele lui."
+  },
+  {
+    "i": 2154,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 11,
+    "t": "Dar în al șaptelea an să-l lași nelucrat și să abandonezi roadele lui; săracii poporului tău să le mănânce și fiarele câmpului să mănânce ce vor lăsa. Așa vei face și cu via ta și cu măslinul tău."
+  },
+  {
+    "i": 2155,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 12,
+    "t": "Șase zile să-ți faci treburile, dar în ziua a șaptea să te odihnești, ca să se odihnească boul și măgarul tău și să-și tragă sufletul fiul roabei tale și străinul."
+  },
+  {
+    "i": 2156,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 13,
+    "t": "Să luați seama la tot ce v-am spus și să nu pomeniți numele altor dumnezei: să nu se audă ieșind din gura ta."
+  },
+  {
+    "i": 2157,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 14,
+    "t": "De trei ori pe an să-mi prăznuiești sărbători."
+  },
+  {
+    "i": 2158,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 15,
+    "t": "Să ții sărbătoarea Azimilor. Șapte zile să mănânci azimi, așa cum ți-am poruncit, la timpul fixat din luna Abib, căci în luna aceasta ai ieșit din Egipt. Să nu te prezinți înaintea mea cu mâinile goale."
+  },
+  {
+    "i": 2159,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 16,
+    "t": "Să ții sărbătoarea secerișului, a primelor roade ale muncii tale de semănat pe câmpuri și sărbătoarea strângerii roadelor, la sfârșitul anului, când vei strânge de pe câmpuri rodul muncii tale."
+  },
+  {
+    "i": 2160,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 17,
+    "t": "De trei ori pe an, toată populația ta masculină să se prezinte înaintea Domnului Dumnezeu."
+  },
+  {
+    "i": 2161,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 18,
+    "t": "Să nu aduci jertfă cu pâine dospită sângele jertfei mele și grăsimea sărbătorii mele să nu fie păstrată până a doua zi."
+  },
+  {
+    "i": 2162,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 19,
+    "t": "Să aduci la casa Domnului Dumnezeului tău cele mai bune prime roade din pământul tău. Să nu fierbi un ied în laptele mamei lui."
+  },
+  {
+    "i": 2163,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 20,
+    "t": "Iată, eu voi trimite un înger înaintea ta, ca să vegheze asupra ta pe drum și să te ducă în locul pe care l-am pregătit pentru tine."
+  },
+  {
+    "i": 2164,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 21,
+    "t": "Cinstiți-l și ascultați glasul lui, nu fiți răzvrătiți împotriva lui, căci el nu ar ierta fărădelegile voastre, căci Numele meu este în el."
+  },
+  {
+    "i": 2165,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 22,
+    "t": "Dar dacă asculți bine glasul lui și faci ce spun eu, eu voi fi vrăjmașul vrăjmașilor tăi și adversarul adversarilor tăi."
+  },
+  {
+    "i": 2166,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 23,
+    "t": "Îngerul meu va merge înaintea ta și te va duce la amoriți, hitiți, periziți, canaaniți, heviți, iebuseni și-i voi nimici."
+  },
+  {
+    "i": 2167,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 24,
+    "t": "Să nu te prosternezi înaintea dumnezeilor lor și să nu le slujești; să nu faci ce fac ei, ci să dărâmi dumnezeii lor și să sfărâmi stâlpii lor."
+  },
+  {
+    "i": 2168,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 25,
+    "t": "Să slujiți Domnului Dumnezeul vostru, atunci voi binecuvânta pâinea ta și apa ta și voi îndepărta de la tine boala."
+  },
+  {
+    "i": 2169,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 26,
+    "t": "Nicio femeie din țara ta nu va avorta și nu va fi stearpă și voi lăsa să se împlinească numărul zilelor tale."
+  },
+  {
+    "i": 2170,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 27,
+    "t": "Voi semăna înaintea ta groaza mea, voi arunca confuzie printre toate popoarele pe unde vei pătrunde și voi face să dea bir cu fugiții toți vrăjmașii tăi."
+  },
+  {
+    "i": 2171,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 28,
+    "t": "Voi trimite înaintea ta viespi care vor alunga pe heviți, pe canaaniți și pe hitiți dinaintea ta."
+  },
+  {
+    "i": 2172,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 29,
+    "t": "Nu-i voi alunga dinaintea ta într-un singur an, de teamă ca țara să nu devină un deșert unde s-ar înmulți pe cheltuiala ta fiarele câmpului."
+  },
+  {
+    "i": 2173,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 30,
+    "t": "Îi voi alunga dinaintea ta încetul cu încetul, până când te vei înmulți destul ca să moștenești țara."
+  },
+  {
+    "i": 2174,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 31,
+    "t": "Voi stabili hotarele tale de la marea Roșie până la marea filistenilor și de la deșert până la Râu, căci voi da în mâinile voastre pe locuitorii țării și-i vei alunga dinaintea ta."
+  },
+  {
+    "i": 2175,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 32,
+    "t": "Să nu faci alianță cu ei nici cu dumnezeii lor."
+  },
+  {
+    "i": 2176,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 33,
+    "t": "Să nu locuiască în țara ta, de teamă să nu te facă să păcătuiești împotriva mea, căci ai sluji dumnezeilor lor și aceasta ar fi pentru tine o cursă."
+  },
+  {
+    "i": 2177,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 1,
+    "t": "El a zis lui Moise: „Suie-te la Domnul, tu, Aaron, Nadab, Abihu și șaptezeci dintre bătrânii lui Israel și prosternați-vă de departe."
+  },
+  {
+    "i": 2178,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 2,
+    "t": "Moise să se apropie singur de Domnul. Ei să nu se apropie și poporul să nu se suie cu el.”"
+  },
+  {
+    "i": 2179,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 3,
+    "t": "Moise a venit să spună poporului toate cuvintele Domnului și toate legile și tot poporul a răspuns într-un singur glas; ei au zis: „Toate cuvintele pe care le-a spus Domnul, le vom pune în practică.”"
+  },
+  {
+    "i": 2180,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 4,
+    "t": "Și Moise a scris toate cuvintele Domnului; apoi, sculându-se dis-de-dimineață, a zidit un altar la poalele muntelui și a pus douăsprezece pietre de aducere aminte pentru cele douăsprezece seminții ale lui Israel."
+  },
+  {
+    "i": 2181,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 5,
+    "t": "Și a trimis pe unii dintre tinerii israeliți, care au adus arderi de tot și au junghiat înaintea Domnului junci ca jertfe de mulțumire."
+  },
+  {
+    "i": 2182,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 6,
+    "t": "Și Moise a luat jumătate din sânge și a pus-o în vase, iar cealaltă jumătate a sângelui a stropit-o pe altar."
+  },
+  {
+    "i": 2183,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 7,
+    "t": "Apoi a luat cartea legământului și a citit-o în auzul poporului. Și au zis ei: \"Toate cuvintele pe care le-a grăit Domnul le vom face și vom asculta."
+  },
+  {
+    "i": 2184,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 8,
+    "t": "Atunci Moise a luat sângele și a stropit poporul, zicând: \"Iată sângele legământului pe care l-a încheiat Domnul cu voi, potrivit tuturor acestor cuvinte."
+  },
+  {
+    "i": 2185,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 9,
+    "t": "Apoi Moise s-a suit împreună cu Aaron, Nadab și Abihu și cu șaptezeci dintre bătrânii lui Israel."
+  },
+  {
+    "i": 2186,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 10,
+    "t": "Și au văzut pe Dumnezeul lui Israel. Sub picioarele Lui era ca o lucrare de safir strălucitor, limpede ca însuși cerul."
+  },
+  {
+    "i": 2187,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 11,
+    "t": "Dar El nu și-a întins mâna asupra căpeteniilor fiilor lui Israel. Ci ei au văzut pe Dumnezeu, apoi au mâncat și au băut."
+  },
+  {
+    "i": 2188,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 12,
+    "t": "Și Domnul a zis lui Moise: \"Suie-te la Mine pe munte și rămâi acolo, ca să-ți dau tablele de piatră, legea și poruncile pe care le-am scris pentru învățătura lor."
+  },
+  {
+    "i": 2189,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 13,
+    "t": "Moise s-a sculat împreună cu Iosua, slujitorul său, și s-au suit pe muntele lui Dumnezeu."
+  },
+  {
+    "i": 2190,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 14,
+    "t": "Și a zis către bătrâni: \"Rămâneți aici până ne vom întoarce la voi. Iată, Aaron și Hur sunt cu voi; cine are vreo treabă să se adreseze lor."
+  },
+  {
+    "i": 2191,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 15,
+    "t": "Apoi Moise s-a suit pe munte și norul a acoperit muntele."
+  },
+  {
+    "i": 2192,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 16,
+    "t": "Și slava Domnului s-a așezat pe muntele Sinai și norul l-a acoperit șase zile. Iar în ziua a șaptea, Domnul a chemat pe Moise din mijlocul norului."
+  },
+  {
+    "i": 2193,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 17,
+    "t": "Și înfățișarea slavei Domnului era în ochii fiilor lui Israel ca un foc mistuitor pe vârful muntelui."
+  },
+  {
+    "i": 2194,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 18,
+    "t": "Moise a intrat în mijlocul norului și s-a suit pe munte. Și Moise a rămas pe munte patruzeci de zile și patruzeci de nopți."
+  },
+  {
+    "i": 2195,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 1,
+    "t": "Și Domnul a grăit lui Moise, zicând:"
+  },
+  {
+    "i": 2196,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 2,
+    "t": "\"Spune fiilor lui Israel să ia pentru Mine o contribuție; de la orice om care o dă de bunăvoie, cu inima, să primiți contribuția Mea."
+  },
+  {
+    "i": 2197,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 3,
+    "t": "Și aceasta este contribuția pe care o veți primi de la ei: aur, argint și aramă;"
+  },
+  {
+    "i": 2198,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 4,
+    "t": "mătase albastră, purpurie și roșie, in subțire și păr de capră;"
+  },
+  {
+    "i": 2199,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 5,
+    "t": "piei de berbec vopsite în roșu, piei de vițel de mare și lemn de salcâm;"
+  }
+]

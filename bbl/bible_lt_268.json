@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26800,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 4,
+    "t": "Žmogus artimui savo neturi gailesčio, tad kaip melsis už savo nuodėmes?"
+  },
+  {
+    "i": 26801,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 5,
+    "t": "Tasai, kuris tėra kūnas, puoselėja pagiežą, tai kas gi atleis jam jo nuopuolius?"
+  },
+  {
+    "i": 26802,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 6,
+    "t": "Atmink galą ir nustok nekęsti, atmink puvimą ir mirtį, ir būk ištikimas įsakymams."
+  },
+  {
+    "i": 26803,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 7,
+    "t": "Atmink įsakymus ir nelaikyk pykčio ant artimo savo, atmink Aukščiausiojo sandorą ir atleisk nusižengimą."
+  },
+  {
+    "i": 26804,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 8,
+    "t": "Atsitrauk nuo barnių, ir vengsi nuodėmės; o aistringas žmogus kursto barnius."
+  },
+  {
+    "i": 26805,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 9,
+    "t": "Nusikaltėlis sėja nesantaiką tarp bičiulių, tarp taikoje gyvenančių žmonių jis įmeta nesusipratimų."
+  },
+  {
+    "i": 26806,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 10,
+    "t": "Ugnis dega pagal savo kurą, ginčas auga priklausomai nuo užsispyrimo; žmogaus įniršis priklauso nuo jo jėgos, jo pyktis kyla pagal jo turtus."
+  },
+  {
+    "i": 26807,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 11,
+    "t": "Staigus ginčas įžiebia ugnį, neapgalvotas kivirčas pralieją kraują."
+  },
+  {
+    "i": 26808,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 12,
+    "t": "Pūstelėk ant kibirkšties, ir ji įsiliepsnos, spjauk ant jos, ir ji užges: tokia yra tavo burnos galia."
+  },
+  {
+    "i": 26809,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 13,
+    "t": "Vargas plepiui ir klastingajam: jie pražudė daugybę taikoje gyvenusių žmonių."
+  },
+  {
+    "i": 26810,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 14,
+    "t": "Trečias liežuvis sukrėtė daugelį žmonių, išblaškė juos iš vienos tautos į kitą; jis sugriovė galingus miestus ir nuvertė didžiųjų namus."
+  },
+  {
+    "i": 26811,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 15,
+    "t": "Trečias liežuvis privertė atstumti tobulas moteris, atimdamas iš jų jų darbų vaisius."
+  },
+  {
+    "i": 26812,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 16,
+    "t": "Kas klausosi jo, neberanda ramybės, nebegali pasilikti taikoje."
+  },
+  {
+    "i": 26813,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 17,
+    "t": "Kirčio smūgis palieka žymę, bet liežuvio smūgis sulaužo kaulus."
+  },
+  {
+    "i": 26814,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 18,
+    "t": "Daugybė žmonių krito nuo kalavijo, bet dar daugiau žuvo nuo liežuvio."
+  },
+  {
+    "i": 26815,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 19,
+    "t": "Palaimintas, kuris yra apsaugotas nuo jo išpuolių, kuris nėra veikiamas jo įniršio, kuris nenešė jo jungo, kuris nebuvo surištas jo grandinėmis."
+  },
+  {
+    "i": 26816,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 20,
+    "t": "Nes jo jungas yra geležinis jungas, o jo grandinės – bronzinės grandinės."
+  },
+  {
+    "i": 26817,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 21,
+    "t": "Baisi mirtis, mirtis, kurią jis sukelia, ir šeolas yra pranašesnis už jį."
+  },
+  {
+    "i": 26818,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 22,
+    "t": "Jis neturi įtakos dievobaimingiems žmonėms, jie nedega jo liepsnoje."
+  },
+  {
+    "i": 26819,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 23,
+    "t": "Tie, kurie apleidžia Viešpatį, yra jo aukos, juose jis degs be užgesimo, jis bus paleistas prieš juos kaip liūtas, jis draskys juos kaip pantera."
+  },
+  {
+    "i": 26820,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 24,
+    "t": "Štai, apjuos spygliukais savo nuosavybę, saugok savo pinigus ir auksą."
+  },
+  {
+    "i": 26821,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 25,
+    "t": "Savo kalboje naudok svarstykles ir svorius, ant savo burnos uždėk duris ir spyną."
+  },
+  {
+    "i": 26822,
+    "b": 45,
+    "c": 4728,
+    "r": 4728,
+    "o": 26,
+    "t": "Saugokis per ją žengti klaidingus žingsnius, tu pakliūtum į to, kuris tavęs tyko, valdžią."
+  },
+  {
+    "i": 26823,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 1,
+    "t": "Skolinti savo artimui – tai praktikuoti gailestingumą, ateiti jam į pagalbą – tai laikytis įsakymų."
+  },
+  {
+    "i": 26824,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 2,
+    "t": "Žinok, kaip skolinti savo artimui, kai jam to reikia; savo ruožtu, grąžink sutartu laiku."
+  },
+  {
+    "i": 26825,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 3,
+    "t": "Laikykis savo žodžio ir būk ištikimas kitam, ir visuose savo poreikiuose rasi, ko tau reikia."
+  },
+  {
+    "i": 26826,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 4,
+    "t": "Daugelis skolinimą traktuoja kaip netikėtą pelną ir sukelia sunkumų tiems, kurie jiems padėjo."
+  },
+  {
+    "i": 26827,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 5,
+    "t": "Prieš gaunant, bučiuojama skolintojo ranka, nuolankiai kalbama apie jo turtus. Mokėjimo dieną vilkinama, grąžinimo pretekstu aiškinama, kad esama nusivylusių, kaltinamos aplinkybės."
+  },
+  {
+    "i": 26828,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 6,
+    "t": "Ar galima atsiskaityti? Skolintojas vos atgaus pusę savo pinigų ir galės save laikyti laimingu. Priešingu atveju jam bus atimti pinigai ir jis turės, nenusipelnęs, dar vieną priešą, kuris atsilygina prakeiksmais ir įžeidimais ir kuris už pagarbą atsilygina įžeidimais."
+  },
+  {
+    "i": 26829,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 7,
+    "t": "Daugybė žmonių, be piktumo, atsisako skolinti, jie nesirūpina, kad būtų apiplėšti prieš jų valią."
+  },
+  {
+    "i": 26830,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 8,
+    "t": "Vis dėlto būk atlaidus nelaimingiesiems, neleisk jiems laukti tavo išmaldos."
+  },
+  {
+    "i": 26831,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 9,
+    "t": "Kad paklustum priesakui, ateik į pagalbą vargšui; jam reikia pagalbos: negrąžink jo tuščiomis rankomis."
+  },
+  {
+    "i": 26832,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 10,
+    "t": "Paaukok savo pinigus už brolį ir draugą, kad jie nerūdytų veltui po akmeniu."
+  },
+  {
+    "i": 26833,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 11,
+    "t": "Naudok savo turtus pagal Aukščiausiojo priesakus, tai tau bus naudingiau už auksą."
+  },
+  {
+    "i": 26834,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 12,
+    "t": "Saugok savo išmaldas savo klėtyse, jos išlaisvins tave nuo visų nelaimių."
+  },
+  {
+    "i": 26835,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 13,
+    "t": "Geriau nei tvirtas skydas, geriau nei sunki ietis priešą, jos kovos už tave."
+  },
+  {
+    "i": 26836,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 14,
+    "t": "Geras žmogus laiduoja už savo artimą; tai prarasti visą gėdą, jei jį apleisi."
+  },
+  {
+    "i": 26837,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 15,
+    "t": "Nepamiršk savo garanto paslaugų: jis atidavė savo gyvybę už tave."
+  },
+  {
+    "i": 26838,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 16,
+    "t": "Apie savo garanto gerumą nusidėjėliui nerūpi,"
+  },
+  {
+    "i": 26839,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 17,
+    "t": "nedėkingas pamiršta tą, kuris jį išgelbėjo."
+  },
+  {
+    "i": 26840,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 18,
+    "t": "Garantija sugriovė daugybę teisių žmonių ir blaškė juos kaip jūros bangas. Ji ištrėmė galingus žmones, kurie klaidžiojo tarp svetimų tautų."
+  },
+  {
+    "i": 26841,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 19,
+    "t": "Nedorėlis, kuris skuba laiduoti siekdamas pelno, skuba pasmerkti."
+  },
+  {
+    "i": 26842,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 20,
+    "t": "Ateik į pagalbą savo artimui pagal savo galią ir saugokis pats nepulti."
+  },
+  {
+    "i": 26843,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 21,
+    "t": "Pirmas dalykas, kad galėtum gyventi, yra vanduo, duona ir drabužiai, ir namas, kad galėtum pasislėpti."
+  },
+  {
+    "i": 26844,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 22,
+    "t": "Geriau vargšo gyvenimas po lentų pastoge nei prabangūs valgiai svetimuose namuose."
+  },
+  {
+    "i": 26845,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 23,
+    "t": "Ar turi mažai, ar daug, parodyk esąs patenkintas, negirdėsi savo aplinkos priekaištų."
+  },
+  {
+    "i": 26846,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 24,
+    "t": "Liūdnas gyvenimas keliauti iš namų į namus, ten, kur sustoji, nedrįsti atverti burnos;"
+  },
+  {
+    "i": 26847,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 25,
+    "t": "esi svetimas, tu geri nepadėkingam žmogui, ir be to, išgirsti daug šiurkščių žodžių:"
+  },
+  {
+    "i": 26848,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 26,
+    "t": "„Ateik čia, svetimšali, padenk stalą, jei turi ką nors, duok man valgyti.“"
+  },
+  {
+    "i": 26849,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 27,
+    "t": "„Eik šalin, svetimšali, užleisk vietą labiau vertam, mano brolis ateina manęs aplankyti, man reikia namo.“"
+  },
+  {
+    "i": 26850,
+    "b": 45,
+    "c": 4729,
+    "r": 4729,
+    "o": 28,
+    "t": "Sunku protingam žmogui išgirsti priekaištus už svetingumą ir būti traktuojamam kaip skolininkui."
+  },
+  {
+    "i": 26851,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 1,
+    "t": "Kas myli savo sūnų, negaili jam rykštės, vėliau tas sūnus bus jo paguoda."
+  },
+  {
+    "i": 26852,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 2,
+    "t": "Kas gerai auklėja savo sūnų, patirs pasitenkinimą, o tarp savo pažįstamų didžiuosis juo."
+  },
+  {
+    "i": 26853,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 3,
+    "t": "Tas, kuris moko savo sūnų, pavydi savo priešui ir džiaugiasi priešais savo draugus."
+  },
+  {
+    "i": 26854,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 4,
+    "t": "Tėvui mirus, tarsi jis nebūtų miręs, nes jis palieka po savęs sūnų, panašų į jį."
+  },
+  {
+    "i": 26855,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 5,
+    "t": "Gyvas būdamas, jis rado džiaugsmą jo buvimu, prieš mirtį jam nebuvo sunku."
+  },
+  {
+    "i": 26856,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 6,
+    "t": "Prieš savo priešus jis palieka keršytoją, o savo draugams – tą, kuris atsilygins jiems už jų gerus darbus."
+  },
+  {
+    "i": 26857,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 7,
+    "t": "Kas lepina savo sūnų, laižys jo žaizdas, nuo kiekvieno jo riksmo jo viduriai susitrauks."
+  },
+  {
+    "i": 26858,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 8,
+    "t": "Nepažabotas žirgas tampa bailus, vaikas, paliktas likimo valiai, tampa blogai išauklėtas."
+  },
+  {
+    "i": 26859,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 9,
+    "t": "Leiskis malonumams su savo vaiku, ir būsi apstulbęs, žaisk su juo, jis privers tave verkti."
+  },
+  {
+    "i": 26860,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 10,
+    "t": "Nesijuok su juo, jei nenori verkti su juo, galiausiai imsi griežti dantimis."
+  },
+  {
+    "i": 26861,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 11,
+    "t": "Neleisk jam laisvės jaunystėje ir neužmerk akių prieš jo kvailystes."
+  },
+  {
+    "i": 26862,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 12,
+    "t": "Priversk jį palenkti nugarą jaunystėje, sumušinėk jam šonus, kol jis dar vaikas, kad, būdamas užsispyręs, jis nepaklustų tau ir tu nepatirtum dėl to skausmo."
+  },
+  {
+    "i": 26863,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 13,
+    "t": "Užaugink savo sūnų ir gerai jį išmokyk, kad nereikėtų kentėti jo įžūlumo."
+  },
+  {
+    "i": 26864,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 14,
+    "t": "Geriau sveikas ir tvirtas vargšas nei turtingas, išbandytas savo kūne."
+  },
+  {
+    "i": 26865,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 15,
+    "t": "Sveikata ir tvirtumas verti daugiau už visą pasaulio auksą, tvirtas kūnas – daugiau už didžiulius turtus."
+  },
+  {
+    "i": 26866,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 16,
+    "t": "Nėra turto, kuris būtų pranašesnis už sveikatą, nei gerovės, kuri būtų aukštesnė už širdies džiaugsmą."
+  },
+  {
+    "i": 26867,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 17,
+    "t": "Geriau mirtis nei liūdnas gyvenimas, amžinas poilsis nei nuolatinė liga."
+  },
+  {
+    "i": 26868,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 18,
+    "t": "Valgiai su gausa prieš užčiauptą burną, tokios yra aukos, padėtos ant kapo."
+  },
+  {
+    "i": 26869,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 19,
+    "t": "Kam reikalinga auka stabui, kuris nevalgo ir nejaučia! Toks yra tas, kurį Viešpats persekioja:"
+  },
+  {
+    "i": 26870,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 20,
+    "t": "jis žiūri ir atsidūsta, jis yra kaip eunuchas, kuris apkabina mergelę ir atsidūsta."
+  },
+  {
+    "i": 26871,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 21,
+    "t": "Nepasiduok liūdesiui ir nepasiduok juodoms mintims."
+  },
+  {
+    "i": 26872,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 22,
+    "t": "Širdies džiaugsmas, štai žmogaus gyvenimas, linksmybės, štai kas pratęsia jo dienas."
+  },
+  {
+    "i": 26873,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 23,
+    "t": "Apgauk savo rūpesčius, paguosk savo širdį, nuvyti liūdesį: nes liūdesys daugelį pražudė, jis negali atnešti jokios naudos."
+  },
+  {
+    "i": 26874,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 24,
+    "t": "Aistra ir pyktis sutrumpina dienas, rūpesčiai senina prieš laiką."
+  },
+  {
+    "i": 26875,
+    "b": 45,
+    "c": 4730,
+    "r": 4730,
+    "o": 25,
+    "t": "Dosniai širdžiai – geras apetitas: ji rūpinasi tuo, ką valgo."
+  },
+  {
+    "i": 26876,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 1,
+    "t": "Nemiga, kurią sukelia turtai, yra alinanti, rūpesčiai, kuriuos jie atneša, atima miegą."
+  },
+  {
+    "i": 26877,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 2,
+    "t": "Budėjimo rūpesčiai neleidžia miegoti, sunki liga atitolina miegą."
+  },
+  {
+    "i": 26878,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 3,
+    "t": "Turtingas žmogus stengiasi kaupti turtus, o kai sustoja, tai tam, kad pasisotintų malonumais;"
+  },
+  {
+    "i": 26879,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 4,
+    "t": "vargšas dirba neturėdamas iš ko gyventi, o kai tik sustoja, puola į neviltį."
+  },
+  {
+    "i": 26880,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 5,
+    "t": "Kas myli auksą, vargu ar išvengs nuodėmės, o kas siekia pelno, bus apgaulės auka."
+  },
+  {
+    "i": 26881,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 6,
+    "t": "Daugelis tapo aukso aukomis, jų žlugimas buvo neišvengiamas."
+  },
+  {
+    "i": 26882,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 7,
+    "t": "Nes tai yra spąstai tiems, kurie jam aukoja, ir visi bepročiai leidžiasi į juos patekti."
+  },
+  {
+    "i": 26883,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 8,
+    "t": "Palaimintas turtingas žmogus, kuris saugo save be dėmės ir nebėga paskui auksą."
+  },
+  {
+    "i": 26884,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 9,
+    "t": "Kas jis toks, kad mes jį sveikintume? Nes jis daro stebuklus savo tautoje."
+  },
+  {
+    "i": 26885,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 10,
+    "t": "Kas išbandė šį išbandymą ir pasirodė tobulas? Jam tai bus garbės dalykas. Kas galėjo nusidėti, bet nenusidėjo, daryti bloga, bet nedarė?"
+  },
+  {
+    "i": 26886,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 11,
+    "t": "Jo turtas bus sustiprintas, o susirinkimas paskelbs jo geradarystes."
+  },
+  {
+    "i": 26887,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 12,
+    "t": "Ar atsisėdai prie prašmatnaus stalo? Plačiai atvėręs burną priešais jį, nesakyk: „Kokia gausa!“"
+  },
+  {
+    "i": 26888,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 13,
+    "t": "Atmink, kad blogai turėti godžias akis: ar yra baisesnis padaras už akį? Todėl ji verkia bet kuriuo atveju."
+  },
+  {
+    "i": 26889,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 14,
+    "t": "Ten, kur tavo šeimininkas žiūri, netiesk rankos, nepulk prie patiekalo kartu su juo."
+  },
+  {
+    "i": 26890,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 15,
+    "t": "Spręsk, ką jaučia tavo artimas pagal save, ir visame kame būk apdairus."
+  },
+  {
+    "i": 26891,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 16,
+    "t": "Valgyk kaip gerai išauklėtas žmogus, kas tau patiekiama, nežaisk žandikauliais, netapk nekenčiamas."
+  },
+  {
+    "i": 26892,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 17,
+    "t": "Sustok pirmas iš gero auklėjimo, nebūk apsirijęs, kad nebūtum įžeistas."
+  },
+  {
+    "i": 26893,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 18,
+    "t": "Jei esi prie stalo gausioje draugijoje, netarnauk sau prieš kitus."
+  },
+  {
+    "i": 26894,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 19,
+    "t": "Ko reikia nedaug gerai išauklėtam žmogui! Taigi, atsigulęs jis laisvai kvėpuoja."
+  },
+  {
+    "i": 26895,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 20,
+    "t": "Saikingas režimas, geras miegas, anksti keliamės, protas laisvas. Nemiga, vėmimas, diegliai – tai persivalgančiam žmogui."
+  },
+  {
+    "i": 26896,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 21,
+    "t": "Jei buvai priverstas per daug valgyti, atsikelk, eik vemti ir tau palengvės."
+  },
+  {
+    "i": 26897,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 22,
+    "t": "Klausyk manęs, sūnau, nepaniekindamas manęs: vėliau suprasi mano žodžius. Visame kame, ką darai, būk nuosaikus ir niekada nepasieks liga."
+  },
+  {
+    "i": 26898,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 23,
+    "t": "Iškilmingas šeimininkas yra labai giriamas, o jo dosnumo pagyros yra ilgalaikės."
+  },
+  {
+    "i": 26899,
+    "b": 45,
+    "c": 4731,
+    "r": 4731,
+    "o": 24,
+    "t": "Bet šykštus šeimininkas yra peikiamas mieste, o jo šykštumo bruožai yra cituojami."
+  }
+]

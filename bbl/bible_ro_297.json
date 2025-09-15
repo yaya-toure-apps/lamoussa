@@ -1,0 +1,802 @@
+[
+  {
+    "i": 29700,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 28,
+    "t": "\"Bine ai răspuns, i-a zis Iisus; fă aceasta și vei trăi."
+  },
+  {
+    "i": 29701,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 29,
+    "t": "Dar el, vrând să se îndreptățească, a zis către Iisus: \"Și cine este aproapele meu?"
+  },
+  {
+    "i": 29702,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 30,
+    "t": "Iisus a răspuns: \"Un om cobora de la Ierusalim la Ierihon și a căzut între tâlhari, care, după ce l-au dezbrăcat și l-au rănit, au plecat, lăsându-l aproape mort."
+  },
+  {
+    "i": 29703,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 31,
+    "t": "Din întâmplare, un preot cobora pe calea aceea și, văzându-l, a trecut pe lângă el."
+  },
+  {
+    "i": 29704,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 32,
+    "t": "De asemenea, și un levit, ajungând în acel loc și văzându-l, a trecut pe lângă el."
+  },
+  {
+    "i": 29705,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 33,
+    "t": "Dar un samaritean, mergând pe cale, a venit la el și, văzându-l, i s-a făcut milă."
+  },
+  {
+    "i": 29706,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 34,
+    "t": "Și, apropiindu-se, i-a legat rănile, turnând pe ele untdelemn și vin, și, punându-l pe asinul său, l-a dus la un han și a avut grijă de el."
+  },
+  {
+    "i": 29707,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 35,
+    "t": "Iar a doua zi, scoțând doi dinari, i-a dat hangiului și i-a zis: Ai grijă de el și ce vei mai cheltui, eu, când mă voi întoarce, îți voi plăti."
+  },
+  {
+    "i": 29708,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 36,
+    "t": "Care dintre acești trei ți se pare că a fost aproapele celui căzut între tâlhari?"
+  },
+  {
+    "i": 29709,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 37,
+    "t": "El a zis: \"Cel care a făcut milă cu el.\" Și Iisus i-a zis: \"Du-te și fă și tu asemenea."
+  },
+  {
+    "i": 29710,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 38,
+    "t": "În timp ce mergeau, a intrat într-un sat, iar o femeie, cu numele Marta, L-a primit în casa ei."
+  },
+  {
+    "i": 29711,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 39,
+    "t": "Și ea avea o soră, numită Maria, care, așezându-se la picioarele Domnului, asculta cuvântul Lui."
+  },
+  {
+    "i": 29712,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 40,
+    "t": "Iar Marta era ocupată cu multă slujire. Atunci, apropiindu-se, a zis: \"Doamne, nu-Ți pasă că sora mea m-a lăsat singură să slujesc? Spune-i, deci, să mă ajute."
+  },
+  {
+    "i": 29713,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 41,
+    "t": "Și, răspunzând, Domnul i-a zis: \"Marto, Marto, te îngrijești și te frămânți pentru multe;"
+  },
+  {
+    "i": 29714,
+    "b": 48,
+    "c": 5010,
+    "r": 5010,
+    "o": 42,
+    "t": "dar un singur lucru trebuie. Maria a ales partea cea bună, care nu se va lua de la ea."
+  },
+  {
+    "i": 29715,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 1,
+    "t": "Și a fost că, pe când Se ruga Iisus într-un loc, după ce a încetat, unul dintre ucenicii Săi I-a zis: \"Doamne, învață-ne să ne rugăm, precum și Ioan a învățat pe ucenicii săi."
+  },
+  {
+    "i": 29716,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 2,
+    "t": "Și le-a zis: \"Când vă rugați, ziceți: Tatăl nostru, sfințească-se numele Tău; vie împărăția Ta;"
+  },
+  {
+    "i": 29717,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 3,
+    "t": "pâinea noastră cea de toate zilele dă-ne-o nouă în fiecare zi;"
+  },
+  {
+    "i": 29718,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 4,
+    "t": "și ne iartă nouă păcatele noastre, căci și noi iertăm tuturor celor ce ne sunt datori; și nu ne duce pe noi în ispită."
+  },
+  {
+    "i": 29719,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 5,
+    "t": "Și le-a mai zis: \"Cine dintre voi, având un prieten, se va duce la el la miezul nopții și-i va zice: Prietene, împrumută-mi trei pâini,"
+  },
+  {
+    "i": 29720,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 6,
+    "t": "căci un prieten al meu a venit la mine din călătorie și nu am ce-i pune înainte;"
+  },
+  {
+    "i": 29721,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 7,
+    "t": "iar acela, dinăuntru, răspunzând, va zice: Nu mă supăra; iată, ușa este încuiată și copiii mei sunt cu mine în pat; nu pot să mă scol să-ți dau;"
+  },
+  {
+    "i": 29722,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 8,
+    "t": "vă spun vouă, chiar dacă nu se va scula să-i dea pentru că-i este prieten, totuși, pentru nerușinarea lui, sculându-se, îi va da oricâte îi trebuie."
+  },
+  {
+    "i": 29723,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 9,
+    "t": "\"Și Eu vă zic vouă: Cereți și vi se va da; căutați și veți afla; bateți și vi se va deschide."
+  },
+  {
+    "i": 29724,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 10,
+    "t": "Căci oricine cere primește, cel care caută află și celui care bate i se va deschide."
+  },
+  {
+    "i": 29725,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 11,
+    "t": "Cine este acela dintre voi, ca tată, de la care fiul său va cere pește și, în loc de pește, îi va da un șarpe?"
+  },
+  {
+    "i": 29726,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 12,
+    "t": "Sau, dacă va cere un ou, îi va da un scorpion?"
+  },
+  {
+    "i": 29727,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 13,
+    "t": "Deci, dacă voi, fiind răi, știți să dați fiilor voștri daruri bune, cu cât mai mult Tatăl cel din ceruri va da Duhul Sfânt celor care cer de la El!"
+  },
+  {
+    "i": 29728,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 14,
+    "t": "Și scotea un demon, care era mut. Și a fost că, după ce a ieșit demonul, mutul a grăit și mulțimile s-au minunat."
+  },
+  {
+    "i": 29729,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 15,
+    "t": "Dar unii dintre ei au zis: \"Cu Beelzebul, căpetenia demonilor, scoate el demonii."
+  },
+  {
+    "i": 29730,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 16,
+    "t": "Iar alții, ispitindu-L, cereau de la El semn din cer."
+  },
+  {
+    "i": 29731,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 17,
+    "t": "Dar El, cunoscând gândurile lor, le-a zis: \"Orice împărăție, dezbinată în sine, se pustiește, și casa peste casă cade."
+  },
+  {
+    "i": 29732,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 18,
+    "t": "Deci, dacă și Satana s-a dezbinat în sine, cum va sta împărăția lui? Că ziceți că Eu cu Beelzebul scot demonii."
+  },
+  {
+    "i": 29733,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 19,
+    "t": "Iar dacă Eu cu Beelzebul scot demonii, fiii voștri cu cine îi scot? De aceea, ei vor fi judecătorii voștri."
+  },
+  {
+    "i": 29734,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 20,
+    "t": "Iar dacă Eu cu degetul lui Dumnezeu scot demonii, iată că a sosit la voi împărăția lui Dumnezeu."
+  },
+  {
+    "i": 29735,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 21,
+    "t": "Când cel tare, bine înarmat, își păzește curtea, averile lui sunt în siguranță;"
+  },
+  {
+    "i": 29736,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 22,
+    "t": "dar dacă vine unul mai tare decât el și-l biruie, îi ia armele cu care se încredea și împarte prăzile lui."
+  },
+  {
+    "i": 29737,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 23,
+    "t": "\"Cel care nu este cu Mine este împotriva Mea și cel care nu adună cu Mine risipește."
+  },
+  {
+    "i": 29738,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 24,
+    "t": "\"Când duhul necurat a ieșit dintr-un om, umblă prin locuri fără apă, căutând odihnă, și, negăsind, zice: Mă voi întoarce la casa mea de unde am ieșit."
+  },
+  {
+    "i": 29739,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 25,
+    "t": "Și, venind, o găsește măturată și împodobită."
+  },
+  {
+    "i": 29740,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 26,
+    "t": "Atunci se duce și ia cu sine alte șapte duhuri, mai rele decât el, și, intrând, locuiesc acolo, și se fac cele de pe urmă ale omului aceluia mai rele decât cele dintâi."
+  },
+  {
+    "i": 29741,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 27,
+    "t": "Și a fost că, pe când spunea El acestea, o femeie, ridicând glasul din mulțime, I-a zis: \"Fericit pântecele care Te-a purtat și sânii pe care i-ai supt!"
+  },
+  {
+    "i": 29742,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 28,
+    "t": "Dar El a zis: \"Ba mai degrabă fericiți sunt cei care ascultă cuvântul lui Dumnezeu și-l păzesc!"
+  },
+  {
+    "i": 29743,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 29,
+    "t": "Și, adunându-se mulțimile, a început să spună: \"Acest neam este un neam viclean; cere semn și nu i se va da semn, decât semnul lui Iona."
+  },
+  {
+    "i": 29744,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 30,
+    "t": "Căci, precum a fost Iona semn pentru niniviteni, așa va fi și Fiul Omului pentru acest neam."
+  },
+  {
+    "i": 29745,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 31,
+    "t": "Regina de la miazăzi se va scula, la judecată, cu oamenii acestui neam și-i va osândi, căci ea a venit de la marginile pământului ca să asculte înțelepciunea lui Solomon; și iată, aici este mai mult decât Solomon!"
+  },
+  {
+    "i": 29746,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 32,
+    "t": "Bărbații niniviteni se vor scula, la judecată, cu acest neam și-l vor osândi, căci ei s-au pocăit la propovăduirea lui Iona; și iată, aici este mai mult decât Iona!"
+  },
+  {
+    "i": 29747,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 33,
+    "t": "\"Nimeni, aprinzând un sfeșnic, nu-l pune în loc ascuns, nici sub vas, ci îl pune pe sfeșnic, ca cei care intră să vadă lumina."
+  },
+  {
+    "i": 29748,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 34,
+    "t": "Ochiul este lumina trupului tău; când ochiul tău este curat, tot trupul tău este luminat; dar dacă ochiul tău este rău, și trupul tău este întunecat."
+  },
+  {
+    "i": 29749,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 35,
+    "t": "Vezi, deci, ca lumina care este în tine să nu fie întuneric!"
+  },
+  {
+    "i": 29750,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 36,
+    "t": "Dacă, deci, tot trupul tău este luminat, neavând nicio parte întunecată, va fi luminat în întregime, ca atunci când sfeșnicul te luminează cu strălucirea sa."
+  },
+  {
+    "i": 29751,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 37,
+    "t": "Și, în timp ce vorbea, un fariseu L-a rugat să prânzească la el. Și, intrând, S-a așezat la masă."
+  },
+  {
+    "i": 29752,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 38,
+    "t": "Iar fariseul, văzând aceasta, s-a mirat că nu s-a spălat mai întâi înainte de prânz."
+  },
+  {
+    "i": 29753,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 39,
+    "t": "Și Domnul i-a zis: \"Voi, fariseilor, curățați partea din afară a paharului și a vasului, dar partea voastră dinăuntru este plină de răpire și de răutate!"
+  },
+  {
+    "i": 29754,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 40,
+    "t": "Nebunilor! Cel care a făcut partea din afară n-a făcut și pe cea dinăuntru?"
+  },
+  {
+    "i": 29755,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 41,
+    "t": "Mai degrabă dați milostenie din cele dinăuntru și iată că toate vă vor fi curate."
+  },
+  {
+    "i": 29756,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 42,
+    "t": "Dar vai vouă, fariseilor, că dați zeciuială din mentă, din rută și din toate zarzavaturile și lăsați deoparte dreptatea și iubirea lui Dumnezeu! Acestea trebuia să le faceți și pe acelea să nu le lăsați."
+  },
+  {
+    "i": 29757,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 43,
+    "t": "Vai vouă, fariseilor, că iubiți scaunul cel dintâi în sinagogi și salutările pe piețe!"
+  },
+  {
+    "i": 29758,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 44,
+    "t": "Vai vouă, că sunteți ca mormintele care nu se văd și pe deasupra cărora umblă oamenii și nu știu!"
+  },
+  {
+    "i": 29759,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 45,
+    "t": "Și, răspunzând, un învățător de lege I-a zis: \"Învățătorule, grăind acestea, și pe noi ne ocărăști!"
+  },
+  {
+    "i": 29760,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 46,
+    "t": "Iar El a zis: \"Vai și vouă, învățătorilor de lege, că împovărați pe oameni cu poveri greu de purtat, și voi înșivă nu vă atingeți de aceste poveri nici măcar cu unul dintre degetele voastre!"
+  },
+  {
+    "i": 29761,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 47,
+    "t": "\"Vai vouă, că zidiți mormintele profeților, iar părinții voștri i-au ucis!"
+  },
+  {
+    "i": 29762,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 48,
+    "t": "Așadar, sunteți martori și încuviințați faptele părinților voștri, că ei i-au ucis și voi zidiți!"
+  },
+  {
+    "i": 29763,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 49,
+    "t": "\"De aceea și Înțelepciunea lui Dumnezeu a zis: Le voi trimite profeți și apostoli, și dintre ei vor ucide și vor prigoni,"
+  },
+  {
+    "i": 29764,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 50,
+    "t": "ca să se ceară de la acest neam sângele tuturor profeților, care a fost vărsat de la întemeierea lumii,"
+  },
+  {
+    "i": 29765,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 51,
+    "t": "de la sângele lui Abel până la sângele lui Zaharia, care a fost ucis între altar și templu. Da, vă spun, se va cere de la acest neam."
+  },
+  {
+    "i": 29766,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 52,
+    "t": "Vai vouă, învățătorilor de lege, că ați luat cheia științei! Nici voi n-ați intrat, și pe cei care voiau să intre i-ați oprit!"
+  },
+  {
+    "i": 29767,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 53,
+    "t": "Și, ieșind El de acolo, cărturarii și fariseii au început să-L urască grozav și să-L întrebe despre multe lucruri,"
+  },
+  {
+    "i": 29768,
+    "b": 48,
+    "c": 5011,
+    "r": 5011,
+    "o": 54,
+    "t": "pândindu-L să prindă ceva din gura Lui, ca să-L acuze."
+  },
+  {
+    "i": 29769,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 1,
+    "t": "În acel timp, adunându-se mulțimile, de mii de oameni, încât se călcau unii pe alții, a început să spună, mai întâi ucenicilor Săi: \"Păziți-vă de aluatul fariseilor, care este fățărnicia."
+  },
+  {
+    "i": 29770,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 2,
+    "t": "Căci nimic nu este acoperit care să nu se descopere, nici ascuns care să nu se știe."
+  },
+  {
+    "i": 29771,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 3,
+    "t": "De aceea, toate câte ați spus în întuneric se vor auzi la lumină, și cele grăite la ureche, în odăi, se vor vesti pe acoperișuri."
+  },
+  {
+    "i": 29772,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 4,
+    "t": "\"Vă spun vouă, prietenilor Mei: Nu vă temeți de cei care ucid trupul și după aceea nu mai pot face nimic."
+  },
+  {
+    "i": 29773,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 5,
+    "t": "Vă voi arăta de cine să vă temeți: temeți-vă de Cel care, după ce a ucis, are putere să arunce în gheenă; da, vă spun vouă, de Acela să vă temeți."
+  },
+  {
+    "i": 29774,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 6,
+    "t": "Nu se vând oare cinci vrăbii cu doi bani? Și niciuna dintre ele nu este uitată înaintea lui Dumnezeu!"
+  },
+  {
+    "i": 29775,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 7,
+    "t": "Dar și firele de păr de pe cap sunt toate numărate. Nu vă temeți; sunteți mai de preț decât multe vrăbii."
+  },
+  {
+    "i": 29776,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 8,
+    "t": "\"Vă spun vouă: pe oricine va mărturisi pentru Mine înaintea oamenilor, și Fiul Omului va mărturisi pentru el înaintea îngerilor lui Dumnezeu;"
+  },
+  {
+    "i": 29777,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 9,
+    "t": "iar cel care Mă va tăgădui înaintea oamenilor va fi tăgăduit înaintea îngerilor lui Dumnezeu."
+  },
+  {
+    "i": 29778,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 10,
+    "t": "\"Și oricui va zice un cuvânt împotriva Fiului Omului i se va ierta; dar celui care va huli împotriva Duhului Sfânt nu i se va ierta."
+  },
+  {
+    "i": 29779,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 11,
+    "t": "\"Când vă vor duce în sinagogi, înaintea magistraților și a autorităților, nu vă îngrijorați cum să vă apărați sau ce să spuneți,"
+  },
+  {
+    "i": 29780,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 12,
+    "t": "Căci Duhul Sfânt vă va învăța în ceasul acela ce trebuie să spuneți."
+  },
+  {
+    "i": 29781,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 13,
+    "t": "Și cineva din mulțime I-a zis: \"Învățătorule, spune fratelui meu să împartă cu mine moștenirea."
+  },
+  {
+    "i": 29782,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 14,
+    "t": "Iar El i-a zis: \"Omule, cine M-a pus pe Mine judecător sau împărțitor peste voi?"
+  },
+  {
+    "i": 29783,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 15,
+    "t": "Și le-a zis: \"Vedeți și păziți-vă de orice lăcomie, căci viața cuiva nu stă în bogăția lui, oricât de mult ar avea."
+  },
+  {
+    "i": 29784,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 16,
+    "t": "Și le-a spus o pildă, zicând: \"Țarina unui om bogat a rodit mult."
+  },
+  {
+    "i": 29785,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 17,
+    "t": "Și el cugeta în sine, zicând: Ce voi face, fiindcă nu am unde să-mi adun roadele?"
+  },
+  {
+    "i": 29786,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 18,
+    "t": "Și a zis: Aceasta voi face: voi strica hambarele mele și voi zidi altele mai mari și voi aduna acolo toate roadele mele și bunătățile mele,"
+  },
+  {
+    "i": 29787,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 19,
+    "t": "Și voi zice sufletului meu: Suflete, ai multe bunătăți strânse pentru mulți ani; odihnește-te, mănâncă, bea, veselește-te."
+  },
+  {
+    "i": 29788,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 20,
+    "t": "Dar Dumnezeu i-a zis: Nebune! În noaptea aceasta se va cere de la tine sufletul tău; și cele ce ai pregătit ale cui vor fi?"
+  },
+  {
+    "i": 29789,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 21,
+    "t": "Așa este cel ce adună comori pentru sine și nu se îmbogățește în Dumnezeu."
+  },
+  {
+    "i": 29790,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 22,
+    "t": "Apoi a zis ucenicilor Săi: \"De aceea vă spun vouă: Nu vă îngrijorați pentru viața voastră, ce veți mânca, nici pentru trupul vostru cu ce vă veți îmbrăca."
+  },
+  {
+    "i": 29791,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 23,
+    "t": "Căci viața este mai mult decât hrana și trupul mai mult decât îmbrăcămintea."
+  },
+  {
+    "i": 29792,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 24,
+    "t": "Priviți corbii că nu seamănă, nici nu seceră, nu au cămară, nici hambare și Dumnezeu îi hrănește. Cu cât mai mult sunteți voi decât păsările!"
+  },
+  {
+    "i": 29793,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 25,
+    "t": "Și cine dintre voi, îngrijorându-se, poate să adauge un cot la înălțimea lui?"
+  },
+  {
+    "i": 29794,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 26,
+    "t": "Deci, dacă nu puteți nici măcar lucrul cel mai mic, de ce vă mai îngrijorați de celelalte?"
+  },
+  {
+    "i": 29795,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 27,
+    "t": "Luați în considerare crinii, cum nu torc și nici nu țes. Dar vă spun vouă că nici Solomon, în toată slava lui, nu s-a îmbrăcat ca unul dintre ei."
+  },
+  {
+    "i": 29796,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 28,
+    "t": "Deci, dacă Dumnezeu îmbracă așa iarba care astăzi este pe câmp și mâine este aruncată în cuptor, cu cât mai mult pe voi, puțin credincioșilor!"
+  },
+  {
+    "i": 29797,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 29,
+    "t": "Așadar, nu căutați ce veți mânca și ce veți bea și nu vă frământați."
+  },
+  {
+    "i": 29798,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 30,
+    "t": "Căci toate aceste lucruri caută neamurile lumii, dar Tatăl vostru știe că aveți nevoie de ele."
+  },
+  {
+    "i": 29799,
+    "b": 48,
+    "c": 5012,
+    "r": 5012,
+    "o": 31,
+    "t": "Ci căutați Împărăția Lui, și acestea se vor adăuga vouă."
+  }
+]

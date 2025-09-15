@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16700,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 32,
+    "t": "\"Sada, sine moj, poslušajte me, blago onima koji drže se mojih putova!\""
+  },
+  {
+    "i": 16701,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 33,
+    "t": "Poslušajte pouku i mudri postanite, nemojte je prezreti."
+  },
+  {
+    "i": 16702,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 34,
+    "t": "Blago čovjeku koji me sluša, koji dan za danom bdije na mojim vratima i čuva dovratnike moje!"
+  },
+  {
+    "i": 16703,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 35,
+    "t": "Jer tko mene nađe, život nalazi i stječe milost Jahvinu;"
+  },
+  {
+    "i": 16704,
+    "b": 19,
+    "c": 2108,
+    "r": 2108,
+    "o": 36,
+    "t": "ali tko protiv mene griješi, duši svojoj šteti, tko me mrzi, ljubi smrt.\""
+  },
+  {
+    "i": 16705,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 1,
+    "t": "Mudrost je sagradila kuću svoju, isklesala sedam stupova njezinih,"
+  },
+  {
+    "i": 16706,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 2,
+    "t": "poklala je životinje svoje, pomiješala vino svoje, i stol svoj postavila."
+  },
+  {
+    "i": 16707,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 3,
+    "t": "Poslala je sluškinje svoje i proglasila na vrhuncima, na najvišim mjestima gradskim:"
+  },
+  {
+    "i": 16708,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 4,
+    "t": "\"Tko je nerazuman? Neka ovamo svrati!\" Onome tko je bez razuma kaže:"
+  },
+  {
+    "i": 16709,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 5,
+    "t": "\"Dođite, jedite kruh moj i pijte vino koje sam pomiješala!"
+  },
+  {
+    "i": 16710,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 6,
+    "t": "Ostavite ludost i živjet ćete, hodite pravo putem razuma.\""
+  },
+  {
+    "i": 16711,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 7,
+    "t": "Tko kori rugača, sramotu navlači na sebe, tko opominje opakoga, pogrdu prima."
+  },
+  {
+    "i": 16712,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 8,
+    "t": "Ne kori rugača, jer će te zamrziti; kori mudraca, i ljubit će te."
+  },
+  {
+    "i": 16713,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 9,
+    "t": "Podaj mudromu, i bit će još mudriji; pouči pravednoga, i povećat će znanje svoje."
+  },
+  {
+    "i": 16714,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 10,
+    "t": "Početak mudrosti je strah Gospodnji, a spoznaja svetih, to je razum."
+  },
+  {
+    "i": 16715,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 11,
+    "t": "Jer po meni se umnožavaju dani tvoji, i za tebe se uvećavaju godine života."
+  },
+  {
+    "i": 16716,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 12,
+    "t": "Ako si mudar, sebi si mudar, ako si rugač, sam ćeš to iskusiti."
+  },
+  {
+    "i": 16717,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 13,
+    "t": "Luda žena je bučna, nerazumna i ništa ne zna!"
+  },
+  {
+    "i": 16718,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 14,
+    "t": "Sjedi na vratima kuće svoje, na prijestolju, na najvišim mjestima gradskim,"
+  },
+  {
+    "i": 16719,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 15,
+    "t": "da pozove prolaznike, one koji ravno idu putem svojim."
+  },
+  {
+    "i": 16720,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 16,
+    "t": "\"Tko je nerazuman? Neka ovamo svrati!\" Onome tko je bez razuma kaže:"
+  },
+  {
+    "i": 16721,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 17,
+    "t": "\"Ukradene vode su slatke, i sladak je kruh tajni!\""
+  },
+  {
+    "i": 16722,
+    "b": 19,
+    "c": 2109,
+    "r": 2109,
+    "o": 18,
+    "t": "Ali on ne zna da su ondje sjene i da su njezini gosti u dubinama Podzemlja."
+  },
+  {
+    "i": 16723,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 1,
+    "t": "Mudre izreke Salomonove. Mudar sin veseli oca, a lud sin žalosti majku svoju."
+  },
+  {
+    "i": 16724,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 2,
+    "t": "Blago stečeno zlim putem ne koristi, ali pravednost izbavlja od smrti."
+  },
+  {
+    "i": 16725,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 3,
+    "t": "Jahve ne dopušta da pravednik gladuje, ali odbija požudu opakih."
+  },
+  {
+    "i": 16726,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 4,
+    "t": "Lijena ruka siromaši, a ruka marljivih bogati."
+  },
+  {
+    "i": 16727,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 5,
+    "t": "Tko sabire ljeti, mudar je sin, a tko spava u žetvi, sramotan je sin."
+  },
+  {
+    "i": 16728,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 6,
+    "t": "Blagoslovi su na glavi pravednika, ali usta opakih skrivaju nasilje."
+  },
+  {
+    "i": 16729,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 7,
+    "t": "Spomen na pravednika je blagoslovljen, ali ime opakih trune."
+  },
+  {
+    "i": 16730,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 8,
+    "t": "Mudar srcem prima zapovijedi, a tko je lud u usnama, pada."
+  },
+  {
+    "i": 16731,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 9,
+    "t": "Tko hodi pošteno, sigurno hodi, a tko ide krivim putem, bit će otkriven."
+  },
+  {
+    "i": 16732,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 10,
+    "t": "Tko žmirka očima, zadaje bol, a tko otvoreno kori, donosi mir."
+  },
+  {
+    "i": 16733,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 11,
+    "t": "Izvor je života usta pravednikova, ali usta opakih skrivaju nasilje."
+  },
+  {
+    "i": 16734,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 12,
+    "t": "Mržnja izaziva svađe, a ljubav pokriva sve uvrede."
+  },
+  {
+    "i": 16735,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 13,
+    "t": "Na usnama razumnoga nalazi se mudrost, a na leđima bezumnika, šiba."
+  },
+  {
+    "i": 16736,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 14,
+    "t": "Mudri pohranjuju znanje, ali usta ludoga bliska su propasti."
+  },
+  {
+    "i": 16737,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 15,
+    "t": "Bogatstvo je bogatašu utvrda, a siromaštvo je propast siromašnima."
+  },
+  {
+    "i": 16738,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 16,
+    "t": "Nagrada pravedniku vodi u život, a dobitak opakoga u grijeh."
+  },
+  {
+    "i": 16739,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 17,
+    "t": "Tko čuva pouku, ide putem života, a tko odbacuje opomenu, zalutao je."
+  },
+  {
+    "i": 16740,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 18,
+    "t": "Tko prikriva mržnju, lažljivim usnama govori, a tko širi klevetu, bezuman je."
+  },
+  {
+    "i": 16741,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 19,
+    "t": "U mnoštvu riječi neizbježno je griješiti, ali tko suzdržava usne svoje, mudar je."
+  },
+  {
+    "i": 16742,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 20,
+    "t": "Jezik je pravednika čisto srebro, a srce opakih malo vrijedi."
+  },
+  {
+    "i": 16743,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 21,
+    "t": "Usne pravednika hrane mnoge, ali ludi umiru zbog nedostatka razuma."
+  },
+  {
+    "i": 16744,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 22,
+    "t": "Blagoslov Jahvin obogaćuje, a trud mu ništa ne dodaje."
+  },
+  {
+    "i": 16745,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 23,
+    "t": "Ludome je zabava činiti zlo, a razumnome mudrost."
+  },
+  {
+    "i": 16746,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 24,
+    "t": "Što se boji opaki, to ga snalazi, a što želi pravednik, to mu se daje."
+  },
+  {
+    "i": 16747,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 25,
+    "t": "Kad prođe oluja, opaki nestaje, a pravednik ostaje zauvijek."
+  },
+  {
+    "i": 16748,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 26,
+    "t": "Kao što je ocat zubima i dim očima, takav je lijenčina onima koji ga šalju."
+  },
+  {
+    "i": 16749,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 27,
+    "t": "Strah Gospodnji produljuje dane, a godine opakih se skraćuju."
+  },
+  {
+    "i": 16750,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 28,
+    "t": "Nada je pravednika radost, a nada opakih propada."
+  },
+  {
+    "i": 16751,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 29,
+    "t": "Put je Jahvin utvrda čestitome, a propast onima koji čine zlo."
+  },
+  {
+    "i": 16752,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 30,
+    "t": "Pravednik se nikada neće pokolebati, ali opaki neće prebivati u zemlji."
+  },
+  {
+    "i": 16753,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 31,
+    "t": "Usta pravednikova rađaju mudrost, a jezik pokvareni bit će iskorijenjen."
+  },
+  {
+    "i": 16754,
+    "b": 19,
+    "c": 2110,
+    "r": 2110,
+    "o": 32,
+    "t": "Usne pravednika znaju što je ugodno, a usta opakih govore izopačenosti."
+  },
+  {
+    "i": 16755,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 1,
+    "t": "Kriva vaga je gnusoba Jahvina, a točan uteg mu je mio."
+  },
+  {
+    "i": 16756,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 2,
+    "t": "Kad dođe oholost, dolazi i sramota, ali kod poniznih je mudrost."
+  },
+  {
+    "i": 16757,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 3,
+    "t": "Poštenje vodi pravednike, a prijevara vodi izdajnike u propast."
+  },
+  {
+    "i": 16758,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 4,
+    "t": "Bogatstvo neće koristiti u dan gnjeva, ali pravednost izbavlja od smrti."
+  },
+  {
+    "i": 16759,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 5,
+    "t": "Pravednost čestitoga ravna put njegov, a opaki pada zbog opakosti svoje."
+  },
+  {
+    "i": 16760,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 6,
+    "t": "Pravednost izbavlja pravednike, a u požudi svojoj uhvaćeni su izdajnici."
+  },
+  {
+    "i": 16761,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 7,
+    "t": "Kad umre opaki, propada mu nada, i nada u bogatstvo propada."
+  },
+  {
+    "i": 16762,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 8,
+    "t": "Pravednik se izbavlja iz tjeskobe, a na njegovo mjesto dolazi opaki."
+  },
+  {
+    "i": 16763,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 9,
+    "t": "Usta licemjerna uništavaju bližnjega, ali se pravednici spašavaju znanjem."
+  },
+  {
+    "i": 16764,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 10,
+    "t": "Kad je pravednicima dobro, grad se raduje, a kad propadnu opaki, nastaje veselje."
+  },
+  {
+    "i": 16765,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 11,
+    "t": "Blagoslovom se pravednika uzvisuje grad, a ustima se opakih ruši."
+  },
+  {
+    "i": 16766,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 12,
+    "t": "Tko prezire bližnjega, nema razuma, a čovjek razuman šuti."
+  },
+  {
+    "i": 16767,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 13,
+    "t": "Klevetnik odaje tajne, a tko je vjeran duhom, taji stvar."
+  },
+  {
+    "i": 16768,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 14,
+    "t": "Gdje nema vodstva, narod propada, a spasenje je u mnoštvu savjetnika."
+  },
+  {
+    "i": 16769,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 15,
+    "t": "Tko jamči za tuđinca, zlo će ga snaći, a tko mrzi jamčenje, siguran je."
+  },
+  {
+    "i": 16770,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 16,
+    "t": "Ljubazna žena stječe čast, a nasilnici stječu bogatstvo."
+  },
+  {
+    "i": 16771,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 17,
+    "t": "Čovjek milosrdan čini dobro sebi, a čovjek nemilosrdan muči vlastito tijelo."
+  },
+  {
+    "i": 16772,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 18,
+    "t": "Opaki stječe varljivu dobit, a tko sije pravednost, ima sigurnu nagradu."
+  },
+  {
+    "i": 16773,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 19,
+    "t": "Tko se drži pravednosti, ide u život, a tko slijedi zlo, u smrt."
+  },
+  {
+    "i": 16774,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 20,
+    "t": "Gnusoba su Jahvina srca izopačena, a mili su mu oni koji su besprijekorni na putu."
+  },
+  {
+    "i": 16775,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 21,
+    "t": "Zasigurno opaki neće proći nekažnjeno, a potomstvo pravednika bit će spašeno."
+  },
+  {
+    "i": 16776,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 22,
+    "t": "Kao zlatni prsten u njušci svinje, tako je lijepa žena bez razuma."
+  },
+  {
+    "i": 16777,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 23,
+    "t": "Želja je pravednika samo dobro, a nada opakih je gnjev."
+  },
+  {
+    "i": 16778,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 24,
+    "t": "Netko velikodušno daje, a sve više mu se umnožava, a netko škrtari i osiromašuje."
+  },
+  {
+    "i": 16779,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 25,
+    "t": "Duša darežljiva bit će obogaćena, i tko napaja, bit će napojen."
+  },
+  {
+    "i": 16780,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 26,
+    "t": "Narod proklinje onoga tko zadržava žito, a blagoslov je na glavi onoga tko ga prodaje."
+  },
+  {
+    "i": 16781,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 27,
+    "t": "Tko teži dobru, stječe naklonost, a tko traži zlo, ono će ga stići."
+  },
+  {
+    "i": 16782,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 28,
+    "t": "Tko se uzda u bogatstvo, past će, a pravednici će pupati kao lišće."
+  },
+  {
+    "i": 16783,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 29,
+    "t": "Tko nered stvara u kući svojoj, nasljeđuje vjetar, i bezumnik postaje rob mudromu."
+  },
+  {
+    "i": 16784,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 30,
+    "t": "Plod je pravednika stablo života, a mudar osvaja duše."
+  },
+  {
+    "i": 16785,
+    "b": 19,
+    "c": 2111,
+    "r": 2111,
+    "o": 31,
+    "t": "Ako pravednik ovdje na zemlji prima nagradu, koliko li će više opaki i grešnik!"
+  },
+  {
+    "i": 16786,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 1,
+    "t": "Tko ljubi pouku, ljubi znanje, a tko mrzi ukor, bezuman je."
+  },
+  {
+    "i": 16787,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 2,
+    "t": "Čovjeku dobru naklonjen je Jahve, a čovjeka zlonamjernoga osudit će."
+  },
+  {
+    "i": 16788,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 3,
+    "t": "Ne učvršćuje se čovjek opačinom, a korijen pravednika nikada se neće pokolebati."
+  },
+  {
+    "i": 16789,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 4,
+    "t": "Vrijedna je žena kruna mužu svome, a sramotna je kao trulež u kostima njegovim."
+  },
+  {
+    "i": 16790,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 5,
+    "t": "Misli su pravednika pravedne, a nakane opakih su prijevarne."
+  },
+  {
+    "i": 16791,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 6,
+    "t": "Riječi su opakih zasjede za krvoproliće, ali usta pravednika izbavljaju."
+  },
+  {
+    "i": 16792,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 7,
+    "t": "Kad se obore opaki, više ih nema, a kuća pravednika stoji."
+  },
+  {
+    "i": 16793,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 8,
+    "t": "Hvaljen je čovjek po razumu svome, a izopačeno srce prezreno je."
+  },
+  {
+    "i": 16794,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 9,
+    "t": "Bolje je biti običan čovjek koji ima slugu nego se hvaliti, a kruha nemati."
+  },
+  {
+    "i": 16795,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 10,
+    "t": "Pravednik mari za životinje svoje, a srce je opakih okrutno."
+  },
+  {
+    "i": 16796,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 11,
+    "t": "Tko obrađuje zemlju svoju, bit će sit kruha, a tko slijedi ispraznosti, bezuman je."
+  },
+  {
+    "i": 16797,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 12,
+    "t": "Opaki žudi za plijenom zlih ljudi, a korijen pravednika donosi plod."
+  },
+  {
+    "i": 16798,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 13,
+    "t": "U grijehu usana leži pogibeljna zamka, ali se pravednik izbavlja iz nevolje."
+  },
+  {
+    "i": 16799,
+    "b": 19,
+    "c": 2112,
+    "r": 2112,
+    "o": 14,
+    "t": "Od ploda usta svojih čovjek se nasiti dobra, i nagrada je mu prema djelima njegovim."
+  }
+]

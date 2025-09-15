@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2100,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 24,
+    "t": "Szemet szemért, fogat fogért, lábat lábért,"
+  },
+  {
+    "i": 2101,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 25,
+    "t": "Égetést égetésért, sebet sebért, ütést ütésért."
+  },
+  {
+    "i": 2102,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 26,
+    "t": "Ha valaki megüti szolgájának vagy szolgálólányának a szemét, és elrontja azt, szeméért bocsássa szabadon."
+  },
+  {
+    "i": 2103,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 27,
+    "t": "És ha kiveri szolgájának vagy szolgálólányának a fogát, fogáért bocsássa szabadon."
+  },
+  {
+    "i": 2104,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 28,
+    "t": "Ha egy ökör agyonszúr egy férfit vagy egy nőt, az ökröt kövezzék meg, és húsát ne egyék meg, de az ökör tulajdonosa ártatlan marad."
+  },
+  {
+    "i": 2105,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 29,
+    "t": "De ha az ökör korábban is szúrt már, és tulajdonosát figyelmeztették, de nem őrizte, és az megöl egy férfit vagy egy nőt, az ökröt kövezzék meg, és tulajdonosát is öljék meg."
+  },
+  {
+    "i": 2106,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 30,
+    "t": "Ha váltságot vetnek ki rá, adja élete váltságdíjaként mindazt, amit kivetnek rá."
+  },
+  {
+    "i": 2107,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 31,
+    "t": "Ha fiút vagy leányt szúr fel, ugyanazon törvény szerint bánjanak vele."
+  },
+  {
+    "i": 2108,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 32,
+    "t": "Ha szolgát vagy szolgálólányt szúr fel az ökör, adjon annak urának harminc siklust ezüstöt, az ökröt pedig kövezzék meg."
+  },
+  {
+    "i": 2109,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 33,
+    "t": "Ha valaki nyitva hagy egy vermet, vagy ha valaki vermet ás, és nem fedi be, és ökör vagy szamár esik bele,"
+  },
+  {
+    "i": 2110,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 34,
+    "t": "a verem tulajdonosa fizessen kárpótlást, fizesse vissza az árát annak tulajdonosának, és a döglött állat az övé legyen."
+  },
+  {
+    "i": 2111,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 35,
+    "t": "Ha valakinek az ökre megöli a másiknak az ökrét, akkor adják el az élő ökröt, és osszák meg az árát, a döglött állatot is osszák meg."
+  },
+  {
+    "i": 2112,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 36,
+    "t": "De ha köztudott volt, hogy az ökör korábban is szúrt már, és tulajdonosa nem őrizte, adjon egy élő ökröt a döglött ökör helyett, és a döglött állat az övé legyen."
+  },
+  {
+    "i": 2113,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 37,
+    "t": "Ha valaki ökröt vagy juhot lop, és levágja vagy eladja, öt ökröt fizessen az ökörért és négy juhot a juhért."
+  },
+  {
+    "i": 2114,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 1,
+    "t": "Ha a tolvajt betörés közben érik tetten, és megölik, nem lesz vérontás miatta."
+  },
+  {
+    "i": 2115,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 2,
+    "t": "De ha a nap már felkelt, lesz vérontás miatta. Fizetnie kell, de ha nincs miből, adják el a lopásért."
+  },
+  {
+    "i": 2116,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 3,
+    "t": "Ha a lopott állatot, akár ökröt, akár szamarat, akár juhot élve találják nála, kétszeresen fizessen."
+  },
+  {
+    "i": 2117,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 4,
+    "t": "Ha valaki mezőt vagy szőlőt legeltet, és ráereszti a jószágát más mezőjére, a saját mezőjének terméséből fizesse ki a kárt, a legjavából. De ha az egész mezőt lelegeltette, a saját mezőjének a legjobb terméséből"
+  },
+  {
+    "i": 2118,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 5,
+    "t": "Ha tűz üt ki, és eléri a töviseket, és megemészti a kévéket, a learatatlan gabonát vagy a mezőt, az, aki a tüzet okozta, fizessen kártérítést."
+  },
+  {
+    "i": 2119,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 6,
+    "t": "Ha valaki pénzt vagy holmit ad őrizetbe a felebarátjának, és azt ellopják az ő házából, ha megtalálják a tolvajt, kétszeresen fizessen."
+  },
+  {
+    "i": 2120,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 7,
+    "t": "Ha nem találják meg a tolvajt, akkor a ház ura menjen az Isten elé, és esküdjön meg, hogy nem nyúlt hozzá a felebarátja holmijához."
+  },
+  {
+    "i": 2121,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 8,
+    "t": "Minden tulajdonjogi perben, akár ökör, akár szamár, akár juh, akár ruha, akár bármilyen elveszett dolog miatt, amiről azt mondják: Ez az, a felek vigyék ügyüket Isten elé. Akiket Isten bűnösnek talál, kétszeresen fizessenek"
+  },
+  {
+    "i": 2122,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 9,
+    "t": "Ha valaki szamarat, ökröt, juhot vagy bármilyen állatot ad őrizetbe a felebarátjának, és az elpusztul, megsérül vagy elhajtják anélkül, hogy látta volna valaki,"
+  },
+  {
+    "i": 2123,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 10,
+    "t": "legyen eskü az Úrra, hogy nem nyúlt hozzá a felebarátja holmijához. Ennek tulajdonosa fogadja el, a másik pedig ne fizessen kártérítést."
+  },
+  {
+    "i": 2124,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 11,
+    "t": "De ha ellopták tőle, fizessen kártérítést annak tulajdonosának."
+  },
+  {
+    "i": 2125,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 12,
+    "t": "Ha vadállat tépte szét, vigye oda bizonyítékul a széttépett állatot, és ne fizessen kártérítést."
+  },
+  {
+    "i": 2126,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 13,
+    "t": "Ha valaki állatot kér kölcsön a felebarátjától, és az megsérül vagy elpusztul, miközben tulajdonosa nincs vele, fizessen kártérítést."
+  },
+  {
+    "i": 2127,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 14,
+    "t": "De ha tulajdonosa vele van, ne fizessen kártérítést. Ha bérelt állatról van szó, a bér fejében történt."
+  },
+  {
+    "i": 2128,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 15,
+    "t": "Ha valaki elcsábít egy szűz lányt, aki nem jegyzett el senkivel, és vele hál, fizessen érte jegyajándékot, és legyen a felesége."
+  },
+  {
+    "i": 2129,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 16,
+    "t": "De ha apja megtagadja, hogy neki adja, fizessen annyi pénzt, amennyit a szüzekért szoktak fizetni."
+  },
+  {
+    "i": 2130,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 17,
+    "t": "A varázslónőt ne hagyd életben."
+  },
+  {
+    "i": 2131,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 18,
+    "t": "Aki állattal közösül, halállal lakoljon."
+  },
+  {
+    "i": 2132,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 19,
+    "t": "Aki más isteneknek áldozik, pusztuljon ki."
+  },
+  {
+    "i": 2133,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 20,
+    "t": "Ne nyomorgasd és ne sanyargasd a jövevényt, hiszen ti is jövevények voltatok Egyiptom földjén."
+  },
+  {
+    "i": 2134,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 21,
+    "t": "Özvegyet és árvát ne sanyargassatok."
+  },
+  {
+    "i": 2135,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 22,
+    "t": "Ha mégis sanyargatod, és az hozzám kiált, meghallom a kiáltását,"
+  },
+  {
+    "i": 2136,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 23,
+    "t": "és haragom fellángol, és karddal öltelek meg benneteket, feleségeitek özvegyek, fiaitok pedig árvák lesznek."
+  },
+  {
+    "i": 2137,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 24,
+    "t": "Ha pénzt kölcsönzöl népem szegény emberének, aki veled lakik, ne uzsorásként bánj vele, és ne vess rá kamatot."
+  },
+  {
+    "i": 2138,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 25,
+    "t": "Ha zálogba veszed a felebarátod köntösét, napnyugtakor add vissza neki,"
+  },
+  {
+    "i": 2139,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 26,
+    "t": "mert az az ő takarója, az a köntös a teste számára. Mibe feküdjön? Ha hozzám kiált, meghallgatom, mert irgalmas vagyok."
+  },
+  {
+    "i": 2140,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 27,
+    "t": "Istent ne szidalmazd, és néped vezetőjét ne átkozd."
+  },
+  {
+    "i": 2141,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 28,
+    "t": "Termésednek és gyümölcsödnek a legjavát ne halogasd felajánlani. Elsőszülött fiadat nekem add."
+  },
+  {
+    "i": 2142,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 29,
+    "t": "Ugyanígy tégy a marháiddal és a juhaiddal is: hét napig legyen anyjukkal, a nyolcadik napon nekem add."
+  },
+  {
+    "i": 2143,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 30,
+    "t": "Szent emberek legyetek előttem. Ne egyetek a mezőn vadállat által széttépett húst, hanem dobjátok a kutyáknak."
+  },
+  {
+    "i": 2144,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 1,
+    "t": "Ne terjessz hamis híreket. Ne támogasd a gonoszt, tanúskodva a bűnös mellett."
+  },
+  {
+    "i": 2145,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 2,
+    "t": "Ne kövesd a többséget a gonoszságban, és ne tanúskodj a perben a többség után, hogy elferdítsd az igazságot,"
+  },
+  {
+    "i": 2146,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 3,
+    "t": "és a szegénynek se kedvezz a perében."
+  },
+  {
+    "i": 2147,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 4,
+    "t": "Ha ellenséged ökrét vagy szamarát találod kóborolni, vidd vissza hozzá."
+  },
+  {
+    "i": 2148,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 5,
+    "t": "Ha látod gyűlölőd szamarát a teher alatt roskadozni, ne hagyd ott; mindenképpen segíts neki."
+  },
+  {
+    "i": 2149,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 6,
+    "t": "A szegényed jogát ne ferdítsd el a perében."
+  },
+  {
+    "i": 2150,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 7,
+    "t": "A hamis vádat kerüld el. Ne ölj ártatlant és igazat, és ne igazold a bűnöst."
+  },
+  {
+    "i": 2151,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 8,
+    "t": "Ne fogadj el ajándékot, mert az ajándék megvakítja a látókat, és megrontja az igazak ügyét."
+  },
+  {
+    "i": 2152,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 9,
+    "t": "A jövevényt ne nyomorgasd. Tudjátok, mit érez a jövevény, mert ti is jövevények voltatok Egyiptom földjén."
+  },
+  {
+    "i": 2153,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 10,
+    "t": "Hat évig vesd be a földedet, és takarítsd be annak termését."
+  },
+  {
+    "i": 2154,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 11,
+    "t": "De a hetedik évben hagyd parlagon, és hagyd el annak termését; néped szegényei egyék, és a mezei vadak egyék meg, amit hagynak. Ugyanígy tégy a szőlőddel és az olajfáddal is."
+  },
+  {
+    "i": 2155,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 12,
+    "t": "Hat napon át végezd a munkádat, a hetedik napon pedig pihenj, hogy megpihenhessen az ökröd és a szamarad, és megnyugodhasson szolgálód fia és a jövevény."
+  },
+  {
+    "i": 2156,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 13,
+    "t": "Tartsátok meg mindazt, amit mondtam nektek, és más istenek nevét ne említsétek, ne hallatszék a szádból."
+  },
+  {
+    "i": 2157,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 14,
+    "t": "Évente háromszor ünnepelj nekem."
+  },
+  {
+    "i": 2158,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 15,
+    "t": "Tartsd meg a kovásztalan kenyerek ünnepét. Hét napon át egyél kovásztalan kenyeret, ahogy megparancsoltam neked, Abib hónapjának meghatározott idejében, mert ebben a hónapban jöttél ki Egyiptomból. Ne jelenjetek meg előttem üres kézzel."
+  },
+  {
+    "i": 2159,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 16,
+    "t": "Tartsd meg az aratás ünnepét, a mezőn vetett munkád első zsengéjét, és a betakarítás ünnepét az év végén, amikor begyűjtöd a mezőről munkád gyümölcsét."
+  },
+  {
+    "i": 2160,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 17,
+    "t": "Évente háromszor jelenjen meg minden férfiú a Seregek Urának, az Úrnak színe előtt."
+  },
+  {
+    "i": 2161,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 18,
+    "t": "Ne áldozz kovászos kenyérrel az én véres áldozatomra, és az én ünnepi áldozatom kövérje ne maradjon reggelig."
+  },
+  {
+    "i": 2162,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 19,
+    "t": "Földed első zsengéjének a legjavát vidd el az Úrnak, a te Istenednek házába. Ne főzd meg a kecskegidát az anyja tejében."
+  },
+  {
+    "i": 2163,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 20,
+    "t": "Íme, én angyalt küldök előtted, hogy megőrizzen téged az úton, és bevezessen arra a helyre, amelyet készítettem neked."
+  },
+  {
+    "i": 2164,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 21,
+    "t": "Tiszteld őt, és hallgass a szavára, ne lázadj fel ellene, mert nem bocsátja meg a ti vétkeiteket, mert az én nevem van őbenne."
+  },
+  {
+    "i": 2165,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 22,
+    "t": "De ha valóban hallgatsz a szavára, és megteszed mindazt, amit mondok, akkor ellensége leszek a te ellenségeidnek, és gyűlölője a te gyűlölőidnek."
+  },
+  {
+    "i": 2166,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 23,
+    "t": "Mert az én angyalom előtted megy, és bevisz téged az emóriakhoz, a hettitákhoz, a perizitákhoz, a kánaánitákhoz, a hivvitákhoz és a jebúsziakhoz, és én kiirtom őket."
+  },
+  {
+    "i": 2167,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 24,
+    "t": "Ne borulj le az ő isteneik előtt, és ne tiszteld azokat, és ne cselekedj az ő cselekedeteik szerint, hanem rontsd le azokat, és törd össze az ő szent oszlopaikat."
+  },
+  {
+    "i": 2168,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 25,
+    "t": "Szolgáljátok az Urat, a ti Isteneteket, és ő megáldja a te kenyeredet és a te vizedet, és eltávolít tőled minden betegséget."
+  },
+  {
+    "i": 2169,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 26,
+    "t": "Nem lesz vetélő vagy meddő a te földeden, és napjaid számát teljessé teszem."
+  },
+  {
+    "i": 2170,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 27,
+    "t": "Riadalmamat küldöm előtted, és megzavarok minden népet, amelyhez eljutsz, és minden ellenségedet megfutamítom előtted."
+  },
+  {
+    "i": 2171,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 28,
+    "t": "Darázsokat küldök előtted, amelyek kiűzik a hivvitákat, a kánaánitákat és a hettitákat előled."
+  },
+  {
+    "i": 2172,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 29,
+    "t": "Nem űzöm ki őket előled egy év alatt, hogy a föld el ne pusztuljon, és meg ne szaporodjék rajtad a mezei vad."
+  },
+  {
+    "i": 2173,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 30,
+    "t": "Apránként űzöm ki őket előled, míg el nem szaporodol, és birtokba nem veszed a földet."
+  },
+  {
+    "i": 2174,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 31,
+    "t": "Határaidat a Vörös-tengertől a filiszteusok tengeréig, a pusztától a folyóig terjesztem ki, mert kezedbe adom a föld lakóit, és kiűzöd őket magad elől."
+  },
+  {
+    "i": 2175,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 32,
+    "t": "Ne köss szövetséget velük, sem az ő isteneikkel."
+  },
+  {
+    "i": 2176,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 33,
+    "t": "Ne lakjanak a te földeden, nehogy bűnre csábítsanak engem ellen, mert ha az ő isteneiket szolgálod, az neked tőr lesz."
+  },
+  {
+    "i": 2177,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 1,
+    "t": "És mondta Mózesnek: Jöjj fel az Úrhoz te, Áron, Nádáb, Abihu és Izráel hetven vénje, és boruljatok le távolról."
+  },
+  {
+    "i": 2178,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 2,
+    "t": "Egyedül Mózes közeledjék az Úrhoz, de ők ne közeledjenek, és a nép se jöjjön fel vele."
+  },
+  {
+    "i": 2179,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 3,
+    "t": "Mózes pedig elment, és elmondta a népnek az Úr minden szavát és minden törvényt, és az egész nép egy szívvel felelt, és mondta: Mindazt a szót, amit az Úr mondott, megtesszük."
+  },
+  {
+    "i": 2180,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 4,
+    "t": "És feljegyzé Mózes mind az Úr szavait. Felkelvén reggel, oltárt építe a hegy alatt, és tizenkét oszlopot Izráel tizenkét nemzetsége szerint."
+  },
+  {
+    "i": 2181,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 5,
+    "t": "És elkülde Izráel fiai közül ifjakat, és áldozának égő áldozatokat, és áldozának hálaáldozatul az Úrnak tulkokat."
+  },
+  {
+    "i": 2182,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 6,
+    "t": "Mózes pedig vevé a vérnek felét, és tölté csészékbe; a vérnek másik felét pedig az oltárra hinté."
+  },
+  {
+    "i": 2183,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 7,
+    "t": "És vevé a szövetségnek könyvét, és elolvasá a nép füle hallatára; és mondának: Mindent megcselekszünk, a mit az Úr mondott, és engedelmesek leszünk."
+  },
+  {
+    "i": 2184,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 8,
+    "t": "Mózes pedig vevé a vért, és meghinté a népet, és monda: Ímé a szövetség vére, a melyet az Úr kötött veletek mind e beszédek szerint."
+  },
+  {
+    "i": 2185,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 9,
+    "t": "Felméne pedig Mózes és Áron, Nádáb és Abihu, és Izráel véneinek hetvenen."
+  },
+  {
+    "i": 2186,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 10,
+    "t": "És láták Izráel Istenét, és lába alatt vala, mintegy zafirkőből való padló, és olyan tiszta, mint maga az ég."
+  },
+  {
+    "i": 2187,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 11,
+    "t": "És nem emelé kezét Izráel fiainak nemeseire; hanem láták az Istent, és evének és ivának."
+  },
+  {
+    "i": 2188,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 12,
+    "t": "És monda az Úr Mózesnek: Jőjj fel hozzám a hegyre, és légy ott; és néked adom a kőtáblákat, a törvényt és a parancsolatokat, a melyeket írtam, hogy azokat tanítsd."
+  },
+  {
+    "i": 2189,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 13,
+    "t": "Felkele azért Mózes és Józsué, az ő szolgája; és felméne Mózes az Isten hegyére."
+  },
+  {
+    "i": 2190,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 14,
+    "t": "A véneknek pedig monda: Várjatok itt minket, mígnem visszatérünk hozzátok; ímé Áron és Húr veletek vannak; a kinek valami ügye van, forduljon azokhoz."
+  },
+  {
+    "i": 2191,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 15,
+    "t": "Felméne tehát Mózes a hegyre, és a felhő beborítá a hegyet."
+  },
+  {
+    "i": 2192,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 16,
+    "t": "És az Úr dicsősége megnyugovék a Sinai hegyén, és beborítá azt a felhő hat napig; a hetedik napon pedig szólá Mózesnek a felhőből."
+  },
+  {
+    "i": 2193,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 17,
+    "t": "És az Úr dicsőségének látása olyan vala az Izráel fiai szemei előtt, mint egy emésztő tűz a hegy tetején."
+  },
+  {
+    "i": 2194,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 18,
+    "t": "Beméne azért Mózes a felhőbe, és felméne a hegyre; és ott vala Mózes a hegyen negyven nap és negyven éjjel."
+  },
+  {
+    "i": 2195,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 1,
+    "t": "Szóla pedig az Úr Mózesnek, mondván:"
+  },
+  {
+    "i": 2196,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 2,
+    "t": "Szólj Izráel fiainak, hogy gyűjtsenek nékem adományt; minden embertől, a kinek szíve hajlandó, gyűjtsetek adományt nékem."
+  },
+  {
+    "i": 2197,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 3,
+    "t": "Ez pedig az adomány, a melyet gyűjtsetek tőlök: arany, ezüst, réz,"
+  },
+  {
+    "i": 2198,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 4,
+    "t": "Kék, és bíborpiros, és karmazsinpiros, és lenfonál, és kecskeszőr,"
+  },
+  {
+    "i": 2199,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 5,
+    "t": "Veresre festett kosbőrök, és borzbőrök, és sittimfa."
+  }
+]

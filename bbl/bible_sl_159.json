@@ -1,0 +1,802 @@
+[
+  {
+    "i": 15900,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 6,
+    "t": "Ušesa imajo, pa ne slišijo, nos imajo, pa ne vonjajo."
+  },
+  {
+    "i": 15901,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 7,
+    "t": "Roke imajo, pa ne tipajo, noge imajo, pa ne hodijo, iz grla svojega glasu ne dajo!"
+  },
+  {
+    "i": 15902,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 8,
+    "t": "Kakor one, naj bodo tisti, ki jih delajo, vsak, ki vanje zaupa."
+  },
+  {
+    "i": 15903,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 9,
+    "t": "Hiša Izraelova, zaupaj v GOSPODA, on je njihova pomoč in ščit!"
+  },
+  {
+    "i": 15904,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 10,
+    "t": "Hiša Aaronova, zaupaj v GOSPODA, on je njihova pomoč in ščit!"
+  },
+  {
+    "i": 15905,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 11,
+    "t": "Tisti, ki se bojijo GOSPODA, zaupajte v GOSPODA, on je njihova pomoč in ščit!"
+  },
+  {
+    "i": 15906,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 12,
+    "t": "GOSPOD se spominja na nas, blagoslovil bo, blagoslovil bo hišo Izraelovo, blagoslovil bo hišo Aaronovo,"
+  },
+  {
+    "i": 15907,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 13,
+    "t": "blagoslovil bo tiste, ki se bojijo GOSPODA, male z velikimi."
+  },
+  {
+    "i": 15908,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 14,
+    "t": "GOSPOD naj vas pomnoži, vas in vaše otroke!"
+  },
+  {
+    "i": 15909,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 15,
+    "t": "Blagoslovljeni ste od GOSPODA, ki je naredil nebo in zemljo!"
+  },
+  {
+    "i": 15910,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 16,
+    "t": "Nebo je GOSPODOVO nebo, zemljo pa je dal sinovom človeškim."
+  },
+  {
+    "i": 15911,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 17,
+    "t": "Ne, mrtvi ne hvalijo GOSPODA, niti vsi, ki gredo v molk,"
+  },
+  {
+    "i": 15912,
+    "b": 18,
+    "c": 2015,
+    "r": 2015,
+    "o": 18,
+    "t": "ampak mi, živi, blagoslavljamo GOSPODA od zdaj in na veke!"
+  },
+  {
+    "i": 15913,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 1,
+    "t": "Aleluja! Ljubim, ker GOSPOD sliši glas moje molitve,"
+  },
+  {
+    "i": 15914,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 2,
+    "t": "ker nagiba svoje uho k meni, tisti dan, ko kličem."
+  },
+  {
+    "i": 15915,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 3,
+    "t": "Žalost smrtna me je obkrožala, stiske groba me so našle, stisko in žalost sem doživljal,"
+  },
+  {
+    "i": 15916,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 4,
+    "t": "tedaj sem klical ime GOSPODOVO: »O GOSPOD, reši mojo dušo!«"
+  },
+  {
+    "i": 15917,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 5,
+    "t": "Milostljiv je GOSPOD in pravičen, naš Bog je usmiljen;"
+  },
+  {
+    "i": 15918,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 6,
+    "t": "GOSPOD varuje preproste, bil sem nemočen, pa me je rešil."
+  },
+  {
+    "i": 15919,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 7,
+    "t": "Vrni se, moja duša, k svojemu počitku, ker je GOSPOD dobro storil s teboj!"
+  },
+  {
+    "i": 15920,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 8,
+    "t": "Kajti rešil je mojo dušo iz smrti, moje oči iz solz in moje noge iz padca;"
+  },
+  {
+    "i": 15921,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 9,
+    "t": "hodil bom pred obličjem GOSPODOVIM v deželi živih."
+  },
+  {
+    "i": 15922,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 10,
+    "t": "Verujem, tudi ko rečem: »Zelo sem nesrečen!«,"
+  },
+  {
+    "i": 15923,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 11,
+    "t": "jaz, ki sem v svoji stiski rekel: »Vsak človek je lažnivec!«"
+  },
+  {
+    "i": 15924,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 12,
+    "t": "Kako se bom oddolžil GOSPODU za vse dobrote, ki mi jih je storil?"
+  },
+  {
+    "i": 15925,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 13,
+    "t": "Vzdignil bom kelih odrešenja in klical ime GOSPODOVO."
+  },
+  {
+    "i": 15926,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 14,
+    "t": "Izpolnil bom svoje zaobljube GOSPODU, da, pred vsem njegovim ljudstvom!"
+  },
+  {
+    "i": 15927,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 15,
+    "t": "Draga je v očeh GOSPODOVIH smrt njegovih svetih."
+  },
+  {
+    "i": 15928,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 16,
+    "t": "O GOSPOD, prosim, jaz sem tvoj služabnik, jaz sem tvoj služabnik, sin tvoje dekle, razvezal si moje vezi."
+  },
+  {
+    "i": 15929,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 17,
+    "t": "Daroval ti bom daritev zahvaljevanja in klical ime GOSPODOVO."
+  },
+  {
+    "i": 15930,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 18,
+    "t": "Izpolnil bom svoje zaobljube GOSPODU, da, pred vsem njegovim ljudstvom,"
+  },
+  {
+    "i": 15931,
+    "b": 18,
+    "c": 2016,
+    "r": 2016,
+    "o": 19,
+    "t": "v dvorih hiše GOSPODOVE, sredi tebe, Jeruzalem!"
+  },
+  {
+    "i": 15932,
+    "b": 18,
+    "c": 2017,
+    "r": 2017,
+    "o": 1,
+    "t": "Aleluja! Hvalite GOSPODA, vsi narodi, slavite ga, vse dežele!"
+  },
+  {
+    "i": 15933,
+    "b": 18,
+    "c": 2017,
+    "r": 2017,
+    "o": 2,
+    "t": "Močna je njegova ljubezen do nas, za vekomaj njegova resnica."
+  },
+  {
+    "i": 15934,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 1,
+    "t": "Aleluja! Zahvaljujte se GOSPODU, ker je dober, ker vekomaj traja njegova ljubezen!"
+  },
+  {
+    "i": 15935,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 2,
+    "t": "Naj reče hiša Izraelova: vekomaj traja njegova ljubezen!"
+  },
+  {
+    "i": 15936,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 3,
+    "t": "Naj reče hiša Aaronova: vekomaj traja njegova ljubezen!"
+  },
+  {
+    "i": 15937,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 4,
+    "t": "Naj rečejo tisti, ki se bojijo GOSPODA: vekomaj traja njegova ljubezen!"
+  },
+  {
+    "i": 15938,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 5,
+    "t": "Iz stiske sem klical GOSPODA, on me je uslišal in me postavil na široko."
+  },
+  {
+    "i": 15939,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 6,
+    "t": "GOSPOD je z menoj, ne bom se bal, kaj mi more človek?"
+  },
+  {
+    "i": 15940,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 7,
+    "t": "GOSPOD je z menoj, moja pomoč med vsemi, videl bom padec svojih sovražnikov."
+  },
+  {
+    "i": 15941,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 8,
+    "t": "Bolje je zateči se h GOSPODU, kot zaupati v človeka;"
+  },
+  {
+    "i": 15942,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 9,
+    "t": "bolje je zateči se h GOSPODU, kot zaupati v močne."
+  },
+  {
+    "i": 15943,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 10,
+    "t": "Pogani so me obkrožili, v imenu GOSPODOVEM jih premagam;"
+  },
+  {
+    "i": 15944,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 11,
+    "t": "obkrožili so me, me obkolili, v imenu GOSPODOVEM jih premagam;"
+  },
+  {
+    "i": 15945,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 12,
+    "t": "obkrožili so me kot čebele, zagoreli so kot ogenj trnja, v imenu GOSPODOVEM jih premagam."
+  },
+  {
+    "i": 15946,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 13,
+    "t": "Potisnili so me, potisnili, da bi padel, a GOSPOD mi je prišel na pomoč;"
+  },
+  {
+    "i": 15947,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 14,
+    "t": "moja moč in moja pesem je GOSPOD, on mi je bil odrešenje."
+  },
+  {
+    "i": 15948,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 15,
+    "t": "Glasovi radosti in odrešenja v šotorih pravičnih: »Desnica GOSPODOVA je storila močna dela,"
+  },
+  {
+    "i": 15949,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 16,
+    "t": "desnica GOSPODOVA je vzvišena, desnica GOSPODOVA je storila močna dela!«"
+  },
+  {
+    "i": 15950,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 17,
+    "t": "Ne bom umrl, ampak bom živel in oznanjal dela GOSPODOVA;"
+  },
+  {
+    "i": 15951,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 18,
+    "t": "hudo me je kaznoval GOSPOD, a me ni izročil smrti."
+  },
+  {
+    "i": 15952,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 19,
+    "t": "Odprite mi vrata pravičnosti, vstopil bom in se zahvalil GOSPODU!"
+  },
+  {
+    "i": 15953,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 20,
+    "t": "To so vrata GOSPODOVA, pravični bodo vstopili skozi njih."
+  },
+  {
+    "i": 15954,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 21,
+    "t": "Zahvaljujem se ti, ker si me uslišal in si mi bil odrešenje."
+  },
+  {
+    "i": 15955,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 22,
+    "t": "Kamen, ki so ga zidarji zavrgli, je postal vogelna glava;"
+  },
+  {
+    "i": 15956,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 23,
+    "t": "to je delo GOSPODOVO, čudovito je v naših očeh."
+  },
+  {
+    "i": 15957,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 24,
+    "t": "To je dan, ki ga je naredil GOSPOD, radujmo se in veselimo ga!"
+  },
+  {
+    "i": 15958,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 25,
+    "t": "O GOSPOD, prosim, daj odrešenje! O GOSPOD, prosim, daj zmago!"
+  },
+  {
+    "i": 15959,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 26,
+    "t": "Blagoslovljen, ki prihaja v imenu GOSPODOVEM! Blagoslavljamo vas iz hiše GOSPODOVE."
+  },
+  {
+    "i": 15960,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 27,
+    "t": "GOSPOD je Bog, on nas razsvetljuje. Pripravite svoje sprevode, z vejami v rokah, do rogov oltarja."
+  },
+  {
+    "i": 15961,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 28,
+    "t": "Ti si moj Bog, zahvaljujem se ti, moj Bog, tebe poveličujem; zahvaljujem se ti, ker si me uslišal in si mi bil odrešenje."
+  },
+  {
+    "i": 15962,
+    "b": 18,
+    "c": 2018,
+    "r": 2018,
+    "o": 29,
+    "t": "Zahvaljujte se GOSPODU, ker je dober, ker vekomaj traja njegova ljubezen!"
+  },
+  {
+    "i": 15963,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 1,
+    "t": "Blagor tistim, ki so neomadeževani na svoji poti, tistim, ki hodijo po postavi GOSPODOVI!"
+  },
+  {
+    "i": 15964,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 2,
+    "t": "Blagor tistim, ki se držijo njegovega pričevanja, tistim, ki ga iščejo z vsem srcem,"
+  },
+  {
+    "i": 15965,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 3,
+    "t": "in ki ne delajo hudega, ampak hodijo po njegovih potih!"
+  },
+  {
+    "i": 15966,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 4,
+    "t": "Ti si zapovedal svoje zapovedi, da jih natančno izpolnjujemo."
+  },
+  {
+    "i": 15967,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 5,
+    "t": "O, da bi moje poti bile trdne v izpolnjevanju tvojih ukazov!"
+  },
+  {
+    "i": 15968,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 6,
+    "t": "Tedaj me ne bo sram, ko bom gledal na vse tvoje zapovedi."
+  },
+  {
+    "i": 15969,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 7,
+    "t": "Zahvaljeval se ti bom v iskrenosti srca, ko se bom učil tvojih pravičnih sodb."
+  },
+  {
+    "i": 15970,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 8,
+    "t": "Tvoje ukaze hočem izpolnjevati, ne zapusti me povsem!"
+  },
+  {
+    "i": 15971,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 9,
+    "t": "Kako bo mladenič ohranil svojo pot čisto? S tem, da se drži tvoje besede."
+  },
+  {
+    "i": 15972,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 10,
+    "t": "Z vsem srcem te iščem, ne dovoli mi, da bi zašel od tvojih zapovedi!"
+  },
+  {
+    "i": 15973,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 11,
+    "t": "V svojem srcu sem skrival tvoje obljube, da ne bi grešil zoper tebe."
+  },
+  {
+    "i": 15974,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 12,
+    "t": "Blagoslovljen si ti, GOSPOD, nauči me svojih ukazov!"
+  },
+  {
+    "i": 15975,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 13,
+    "t": "S svojimi ustnicami sem našteval vse sodbe tvojih ust."
+  },
+  {
+    "i": 15976,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 14,
+    "t": "Na poti tvojih pričevanj se veselim bolj kot vsega bogastva."
+  },
+  {
+    "i": 15977,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 15,
+    "t": "O tvojih zapovedih bom premišljeval in gledal na tvoje poti."
+  },
+  {
+    "i": 15978,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 16,
+    "t": "V tvojih ukazih najdem svoje veselje, ne pozabljam tvoje besede."
+  },
+  {
+    "i": 15979,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 17,
+    "t": "Stori dobro svojemu služabniku, da bom živel in se držal tvoje besede!"
+  },
+  {
+    "i": 15980,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 18,
+    "t": "Odpri moje oči, da bom uzrl čudovitosti tvoje postave."
+  },
+  {
+    "i": 15981,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 19,
+    "t": "Tuj sem na zemlji, ne skrivaj mi svojih zapovedi."
+  },
+  {
+    "i": 15982,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 20,
+    "t": "Duša moja koprni in hrepeni po tvojih sodbah vsak čas."
+  },
+  {
+    "i": 15983,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 21,
+    "t": "Pograjaš prevzetne, preklete, ki se odklanjajo od tvojih zapovedi."
+  },
+  {
+    "i": 15984,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 22,
+    "t": "Odvzemi mi sramoto in prezir, kajti tvoje pričevanje hranim."
+  },
+  {
+    "i": 15985,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 23,
+    "t": "Če se knezi usedejo in govorijo zoper mene, tvoj služabnik premišljuje tvoje volje."
+  },
+  {
+    "i": 15986,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 24,
+    "t": "Tvoje pričevanje je moj užitek, tvoje volje so moji svetovalci."
+  },
+  {
+    "i": 15987,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 25,
+    "t": "Duša moja je pritrjena k prahu, oživi me po svoji besedi."
+  },
+  {
+    "i": 15988,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 26,
+    "t": "Izpovem svoje poti, ti mi odgovoriš, nauči me svojih volj."
+  },
+  {
+    "i": 15989,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 27,
+    "t": "Daj mi razumeti pot tvojih ukazov, premišljeval bom o tvojih čudovitostih."
+  },
+  {
+    "i": 15990,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 28,
+    "t": "Duša moja se topi od žalosti, dvigni me po svoji besedi."
+  },
+  {
+    "i": 15991,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 29,
+    "t": "Obrni me od poti laži, milostno mi daj svojo postavo."
+  },
+  {
+    "i": 15992,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 30,
+    "t": "Izbral sem pot resnice, prilagajam se tvojim sodbam."
+  },
+  {
+    "i": 15993,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 31,
+    "t": "Držim se tvojega pričevanja, o Jahve, ne razočaraj me."
+  },
+  {
+    "i": 15994,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 32,
+    "t": "Tekač sem po poti tvojih zapovedi, kajti moje srce si razširil."
+  },
+  {
+    "i": 15995,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 33,
+    "t": "Nauči me, o Jahve, poti tvojih volj, želel jo bom ohraniti v nagrado."
+  },
+  {
+    "i": 15996,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 34,
+    "t": "Daj mi razumeti, da bom hranil tvojo postavo, da jo bom iz vsega srca opazoval."
+  },
+  {
+    "i": 15997,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 35,
+    "t": "Vodi me na pot svojih zapovedi, kajti v tem je moja naslada."
+  },
+  {
+    "i": 15998,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 36,
+    "t": "Nagnî moje srce k svojemu pričevanju, in ne k dobičku."
+  },
+  {
+    "i": 15999,
+    "b": 18,
+    "c": 2019,
+    "r": 2019,
+    "o": 37,
+    "t": "Osvobodi moje oči podob ničnosti, oživi me po svoji besedi."
+  }
+]

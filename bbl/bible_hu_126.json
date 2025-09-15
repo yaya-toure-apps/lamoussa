@@ -1,0 +1,802 @@
+[
+  {
+    "i": 12600,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 12,
+    "t": "És testvérei, akik a Templom szolgálatában voltak: nyolcszázhuszonketten; Adája, Jerohám fiának fia, Pelália fiának fia, Amci fiának fia, Zekária fiának fia, Pásúr fiának fia, Malkija,"
+  },
+  {
+    "i": 12601,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 13,
+    "t": "És testvérei, a családfők: kétszáznegyvenketten; és Amászai, Azáréel fiának fia, Ahzai fiának fia, Mesillémat fiának fia, Immer,"
+  },
+  {
+    "i": 12602,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 14,
+    "t": "És testvérei, tekintélyes férfiak: százhuszonnyolcan. Zabdiel, Haggadol fia, parancsolt nékik."
+  },
+  {
+    "i": 12603,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 15,
+    "t": "A léviták közül: Semája, Hassub fiának fia, Azrikám fiának fia, Hasábia fiának fia, Bunni,"
+  },
+  {
+    "i": 12604,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 16,
+    "t": "Sábtai és Józábád, azok a lévita fejedelmek, akik Isten Templomának külső ügyeivel foglalkoztak,"
+  },
+  {
+    "i": 12605,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 17,
+    "t": "Mattánia, Mika fiának fia, Zabdi fiának fia, Aszaf, aki a himnuszokat vezette, hálaadást énekelt az imádságért; Bakbukja, a második testvérei között; Obádia, Sammua fiának fia, Galál fiának fia, Jedutún."
+  },
+  {
+    "i": 12606,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 18,
+    "t": "A léviták száma a Szent Városban: kétszáznyolcvannégy."
+  },
+  {
+    "i": 12607,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 19,
+    "t": "A kapuőrök: Akkub, Talmón és testvéreik, akik a kapuknál őrködtek: százhatvanketten."
+  },
+  {
+    "i": 12608,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 20,
+    "t": "Izráel fiainak, a papoknak és a lévitáknak a többi része pedig Júda minden városában lakott, ki-ki a maga birtokán,"
+  },
+  {
+    "i": 12609,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 21,
+    "t": "A \"szolgák\" Ofelben laktak; Ciha és Gispá voltak a \"szolgák\" élén –"
+  },
+  {
+    "i": 12610,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 22,
+    "t": "A jeruzsálemi léviták feje Uzzi volt, Báni fiának fia, Hasábia fiának fia, Mattánia fiának fia, Mika; Aszaf fiainak egyike volt, az énekesek, akik Isten Templomának szolgálatával voltak megbízva;"
+  },
+  {
+    "i": 12611,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 23,
+    "t": "mert királyi utasítás vonatkozott rájuk, és egy rendelet rögzítette az énekesek szerepét napról napra. –"
+  },
+  {
+    "i": 12612,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 24,
+    "t": "Petája, Mesézábéel fiának fia, aki Zérah fiainak, Júda fiának családjából való volt, a király rendelkezésére állt a nép minden ügyében."
+  },
+  {
+    "i": 12613,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 25,
+    "t": "És a falvakban, amelyek a mezőiken feküdtek. Júda fiai lakta Kirját-Arbát és tartozékait, Díbont és tartozékait, Jekkabceélt és az illetékességi körébe tartozó falvakat,"
+  },
+  {
+    "i": 12614,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 26,
+    "t": "Jésuát, Moládát, Bet-Péletet,"
+  },
+  {
+    "i": 12615,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 27,
+    "t": "Hacár-Suált, Beersebát és tartozékait,"
+  },
+  {
+    "i": 12616,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 28,
+    "t": "Ciklágot, Mekónát és tartozékait,"
+  },
+  {
+    "i": 12617,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 29,
+    "t": "Én-Rimmont, Koréát, Jármutot,"
+  },
+  {
+    "i": 12618,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 30,
+    "t": "Zánóát, Adullámot és az illetékességi körükbe tartozó falvakat, Lákist és vidékeit, Azékát és tartozékait: így telepedtek le Beersebától a Hinnom völgyéig."
+  },
+  {
+    "i": 12619,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 31,
+    "t": "Benjamin fiai Gébában, Mikmásban, Ajjában és Béthelben laktak, valamint annak tartozékaiban,"
+  },
+  {
+    "i": 12620,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 32,
+    "t": "Anatót, Nób, Anánia,"
+  },
+  {
+    "i": 12621,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 33,
+    "t": "Hácór, Ráma, Gittáim,"
+  },
+  {
+    "i": 12622,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 34,
+    "t": "Hadid, Cébóim, Nebállát,"
+  },
+  {
+    "i": 12623,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 35,
+    "t": "Lod és Ónó, és a Kézművesek völgye."
+  },
+  {
+    "i": 12624,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 36,
+    "t": "A léviták csoportjai mind Júdában, mind Benjaminban megtalálhatók voltak."
+  },
+  {
+    "i": 12625,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 1,
+    "t": "Íme, a papok és a léviták, akik Zorobábellel, Sealtiel fiával és Józsuával tértek vissza: Serája, Jirmeja, Esdrás,"
+  },
+  {
+    "i": 12626,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 2,
+    "t": "Amária, Malluk, Hattus,"
+  },
+  {
+    "i": 12627,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 3,
+    "t": "Sekánia, Rehum, Merémót,"
+  },
+  {
+    "i": 12628,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 4,
+    "t": "Iddó, Ginnetón, Abijja,"
+  },
+  {
+    "i": 12629,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 5,
+    "t": "Mijjámin, Maádja, Bilga,"
+  },
+  {
+    "i": 12630,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 6,
+    "t": "Semája; továbbá: Jojárib, Jedája,"
+  },
+  {
+    "i": 12631,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 7,
+    "t": "Sallu, Ámók, Hilkija, Jedája. Ezek voltak a papok fejei és testvéreik Józsua idejében,"
+  },
+  {
+    "i": 12632,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 8,
+    "t": "vagyis a léviták: Józsua, Binnui, Kadmiel, Serébia, Júda, Mattánia – ez utóbbi testvéreivel vezette a hálaadó himnuszokat,"
+  },
+  {
+    "i": 12633,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 9,
+    "t": "míg Bakbukja, Unni és testvéreik velük szemben álltak, a maguk rendje szerint."
+  },
+  {
+    "i": 12634,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 10,
+    "t": "Józsua nemzé Jojákimot; Jojákim nemzé Eljásíbot; Eljásíb Jójadát,"
+  },
+  {
+    "i": 12635,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 11,
+    "t": "Jójada nemzé Johánánt; és Johánán nemzé Jadduát."
+  },
+  {
+    "i": 12636,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 12,
+    "t": "Jojákim idejében a papi családok fejei a következők voltak: Serája családja: Merája; Jirmeja családja: Hanánia,"
+  },
+  {
+    "i": 12637,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 13,
+    "t": "Eszdrás családja: Mesullám; Amária családja: Jehohanán,"
+  },
+  {
+    "i": 12638,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 14,
+    "t": "Malluk családja: Jonatán; Sebánia családja: József,"
+  },
+  {
+    "i": 12639,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 15,
+    "t": "Hárim családja: Adna; Merájót családja: Helkai,"
+  },
+  {
+    "i": 12640,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 16,
+    "t": "Iddó családja: Zekária; Ginnetón családja: Mesullám,"
+  },
+  {
+    "i": 12641,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 17,
+    "t": "Abijja családja: Zikri; Minjámin családja; Moádja családja: Piltái,"
+  },
+  {
+    "i": 12642,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 18,
+    "t": "Bilga családja: Sammua; Semája családja: Jehonatán,"
+  },
+  {
+    "i": 12643,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 19,
+    "t": "továbbá: Jojárib családja: Matténai; Jedája családja: Uzzi,"
+  },
+  {
+    "i": 12644,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 20,
+    "t": "Sallai családja: Kallai; Ámók családja: Éber,"
+  },
+  {
+    "i": 12645,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 21,
+    "t": "Hilkija családja: Hasábia; Jedája családja: Netánéel."
+  },
+  {
+    "i": 12646,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 22,
+    "t": "Eljásíb, Jójada, Johánán és Jaddua idejében a papok családjainak fejeit bejegyezték a Krónikák könyvébe, egészen a perzsa Dárius uralkodásáig."
+  },
+  {
+    "i": 12647,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 23,
+    "t": "Lévi fiai. A családok fejeit bejegyezték a Krónikák könyvébe, de csak Eljásíb unokájának, Johánán idejéig."
+  },
+  {
+    "i": 12648,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 24,
+    "t": "A léviták fejei a következők voltak: Hasábia, Serébia, Józsua, Binnui, Kadmiel; és testvéreik, akik szemben álltak velük, hogy a dicsőítő és hálaadó himnuszokat végrehajtsák Dávid, Isten emberének utasításai szerint, egyik osztály a másikkal szemben,"
+  },
+  {
+    "i": 12649,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 25,
+    "t": "a következők voltak: Mattánia, Bakbukja és Obádia. Ami Mesullámot, Talmónt és Akkubot illeti, a kapuőrök, ők őrködtek a kapuk melletti raktáraknál."
+  },
+  {
+    "i": 12650,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 26,
+    "t": "Ezek Józsua fiának, Jojákimnak, Józádák fiának idejében éltek, valamint Nehémiás, a kormányzó és Esdrás, a pap-írástudó idejében."
+  },
+  {
+    "i": 12651,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 27,
+    "t": "Jeruzsálem falának felszentelésekor a lévitákat mindenütt, ahol laktak, megkeresték, hogy Jeruzsálembe hozzák őket: az volt a cél, hogy örvendezve ünnepeljék a felszentelést hálaadó énekekkel és cintányér-, lant- és citerazenével."
+  },
+  {
+    "i": 12652,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 28,
+    "t": "Az énekesek, Lévi fiai, tehát összegyűltek Jeruzsálem környéki kerületből, a Netófatiták falvaiból,"
+  },
+  {
+    "i": 12653,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 29,
+    "t": "Bet-ha-Gilgálból, Géba és Azmávet mezejéről: mert az énekesek falvakat építettek Jeruzsálem körül."
+  },
+  {
+    "i": 12654,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 30,
+    "t": "A papok és a léviták megtisztították magukat, majd megtisztították a népet, a kapukat és a falat."
+  },
+  {
+    "i": 12655,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 31,
+    "t": "Ekkor felvittem Júda fejedelmeit a falra, és két nagy kórust szerveztem. Az első a fal tetején ment végig, jobbra, a Szemét kapuja felé;"
+  },
+  {
+    "i": 12656,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 32,
+    "t": "mögötte Hosea és Júda fejedelmeinek fele ment –"
+  },
+  {
+    "i": 12657,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 33,
+    "t": "valamint Azária, Esdrás, Mesullám,"
+  },
+  {
+    "i": 12658,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 34,
+    "t": "Júda, Benjamin, Semája és Jirmeja,"
+  },
+  {
+    "i": 12659,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 35,
+    "t": "a papok közül kiválasztva és trombitákkal ellátva; majd Zekária, Jonatán fiának fia, Semája fiának fia, Mattánia fiának fia, Mika fiának fia, Zakkur fiának fia, Aszaf,"
+  },
+  {
+    "i": 12660,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 36,
+    "t": "testvéreivel, Semájával, Azáréellel, Milalajjal, Gilalajjal, Maajjal, Netánéellel, Júdával, Hananival, Dávid, Isten emberének hangszereivel ellátva. És Esdrás, az írástudó, ment az élükön. –"
+  },
+  {
+    "i": 12661,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 37,
+    "t": "A Forrás kapujánál egyenesen felmentek, a Dávid Városának lépcsői közelében, a fal tetején, és Dávid Palotájának feljáróján keresztül, egészen a Víz kapujáig, keleten."
+  },
+  {
+    "i": 12662,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 38,
+    "t": "Ami a második kórust illeti, az balra ment: én követtem őt, a nép fejedelmeinek felével, a fal tetején, a Kemencék tornya felett és a széles falig,"
+  },
+  {
+    "i": 12663,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 39,
+    "t": "majd az Efraim kapuja, a Hal kapuja, a Hanánéel tornya és a Száz tornya felett, egészen a Juh kapujáig; a Őrség kapujánál álltunk meg."
+  },
+  {
+    "i": 12664,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 40,
+    "t": "A két kórus ezután helyet foglalt Isten Templomában. – Velem volt a tisztségviselők fele"
+  },
+  {
+    "i": 12665,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 41,
+    "t": "valamint a papok, Eljákim, Maaszéja, Minjámin, Mika, Eljoenai, Zekária, Hanánia, trombitákkal ellátva,"
+  },
+  {
+    "i": 12666,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 42,
+    "t": "továbbá Maaszéja, Semája, Eleázár, Uzzi, Jehohanán, Malkija, Elám és Ézer. – Az énekesek hallatták hangjukat Jizrája vezetésével."
+  },
+  {
+    "i": 12667,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 43,
+    "t": "Azon a napon jelentős áldozatokat mutattak be, és az emberek örvendeztek: mert Isten nagy okot adott nekik az örvendezésre; az asszonyok és a gyermekek is örvendeztek. Jeruzsálem öröme messzehallatszott."
+  },
+  {
+    "i": 12668,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 44,
+    "t": "Abban az időben az élelmiszerek, a beszolgáltatások, az első termések és a tizedek számára fenntartott helyiségekbe olyan embereket neveztek ki, akik a városok területéről összegyűjtötték azokat a részeket, amelyeket a törvény a papoknak és a lévitáknak juttatott. Mert Júda örömét lelte a szolgálatban lévő papokban és lévitákban."
+  },
+  {
+    "i": 12669,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 45,
+    "t": "Ők biztosították Istenük szolgálatát és a tisztítások szolgálatát – valamint az énekeseket és a kapuőröket –, Dávid és Salamon, az ő fiának előírásai szerint."
+  },
+  {
+    "i": 12670,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 46,
+    "t": "Mert Dávid és Aszaf napjaitól, réges-régen, létezett egy énekesek feje és a dicsőítő és hálaadó énekek vezetője Istennek."
+  },
+  {
+    "i": 12671,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 47,
+    "t": "Tehát egész Izráel Zorobábel és Nehémiás idejében az énekeseknek és a kapuőröknek adta a nekik járó részeket, napi szükségleteik szerint. A szent adományokat a lévitáknak adták át, a léviták pedig Áron fiainak adták át."
+  },
+  {
+    "i": 12672,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 1,
+    "t": "Abban az időben felolvasták a népnek Mózes könyvéből, és ott ezt írva találták: \"Az ammonita és a moábita nem léphet be Isten gyülekezetébe, és ez örökre szól,"
+  },
+  {
+    "i": 12673,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 2,
+    "t": "mert nem jöttek az izráeliták elé kenyérrel és vízzel. Megvesztegették ellenük Bálámot, hogy átkozza meg őket, de Istenünk az átkot áldássá változtatta."
+  },
+  {
+    "i": 12674,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 3,
+    "t": "Amint meghallották a Törvényt, kizártak Izráelből minden idegen elemet."
+  },
+  {
+    "i": 12675,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 4,
+    "t": "De azelőtt Eljásíb papot nevezték ki Istenünk Templomának helyiségeibe. Tobijjához kötődve,"
+  },
+  {
+    "i": 12676,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 5,
+    "t": "egy tágas termet rendezett be neki, ahol korábban az adományokat, a füstölőszereket, az edényeket, a búza, a bor és az olaj tizedét helyezték el, vagyis a léviták, az énekesek és a kapuőrök részeit, valamint azt, amit a papoknak szedtek össze."
+  },
+  {
+    "i": 12677,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 6,
+    "t": "Mindezek alatt távol voltam Jeruzsálemtől, mert a babiloni Artaxerxész király harminckettedik évében a királyhoz mentem; de egy bizonyos idő elteltével engedélyt kértem a királytól,"
+  },
+  {
+    "i": 12678,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 7,
+    "t": "és visszatértem Jeruzsálembe. Akkor tudtam meg a rossz tettet, amelyet Eljásíb Tobijja érdekében tett, amikor helyiséget rendezett be neki Isten Templomának udvarában."
+  },
+  {
+    "i": 12679,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 8,
+    "t": "Ez nagyon nem tetszett nekem: ezért az utolsó darabig kidobtam az utcára Tobijja összes bútorát a helyiségből,"
+  },
+  {
+    "i": 12680,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 9,
+    "t": "És parancsolám, hogy tisztítsák meg a kamrákat; és helyreállítám az Isten házának edényeit, az áldozatokat és a tömjént."
+  },
+  {
+    "i": 12681,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 10,
+    "t": "És megtudám azt is, hogy a léviták részei nem adatik meg, és elszéledtek a léviták és énekesek, kik a szolgálatot végezték, kiki a maga mezejére."
+  },
+  {
+    "i": 12682,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 11,
+    "t": "És megdorgálám a fejedelmeket, és mondám: Miért van elhagyatva az Isten háza? Összegyűjtém azért őket, és állítám helyükre."
+  },
+  {
+    "i": 12683,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 12,
+    "t": "És egész Júda behozá a tizedet a gabonából, borból és olajból a tárházakba."
+  },
+  {
+    "i": 12684,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 13,
+    "t": "És a tárházak fölé rendeltem Selémiás papot, Sádok írástudót, és Pedáját a léviták közül, és melléjük Hánánt, Zakkúr fiát, Mattanjá fiát, mert híveknek tartattak; és az ő tisztük volt, hogy a testvéreknek osztogassanak."
+  },
+  {
+    "i": 12685,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 14,
+    "t": "Emlékezzél meg rólam, Istenem, ezért, és ne töröld el az én jótéteményeimet, melyeket cselekedtem az én Istenem háza iránt és annak szolgálatai iránt!"
+  },
+  {
+    "i": 12686,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 15,
+    "t": "Azokban a napokban látám Júdában, hogy tapossák a szőlőket szombatnapon, és hordják a kévéket, és rakják a szamarakra, és a bort, szőlőt, fügét, és mindenféle terhet, és beviszik Jeruzsálembe szombatnapon; és megdorgálám őket azon a napon, melyen eladták az élelmet."
+  },
+  {
+    "i": 12687,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 16,
+    "t": "A Tirusziak is laktak abban, kik hoztak halat és mindenféle árut, és eladták szombatnapon a Júda fiainak Jeruzsálemben."
+  },
+  {
+    "i": 12688,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 17,
+    "t": "És megdorgálám Júda főembereit, és mondám nekik: Micsoda gonosz dolog ez, melyet cselekesztek, hogy megszentségtelenítitek a szombatnapot?"
+  },
+  {
+    "i": 12689,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 18,
+    "t": "Nem így cselekedtek-é a ti atyáitok? És a mi Istenünk mindezen veszedelmet hozá reánk és e városra. És ti gyarapítjátok a haragot Izráelre, megszentségtelenítvén a szombatot!"
+  },
+  {
+    "i": 12690,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 19,
+    "t": "És lőn, amint besötétedett Jeruzsálem kapuinál szombat előtt, meghagyám, hogy zárják be az ajtókat, és megmondám, hogy ne nyissák ki azokat szombat utánig; és néhány szolgámat odaállítám a kapukhoz, hogy ne hozhassanak be terhet szombatnapon."
+  },
+  {
+    "i": 12691,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 20,
+    "t": "És megszálltak a kereskedők és mindenféle áruval kufárkodók egyszer vagy kétszer Jeruzsálemen kívül."
+  },
+  {
+    "i": 12692,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 21,
+    "t": "És megdorgálám őket, és mondám nekik: Miért szálltok meg a fal mellett? Ha még egyszer így cselekesztek, kezet emelek reátok. Attól fogva nem jöttek szombatnapon."
+  },
+  {
+    "i": 12693,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 22,
+    "t": "És megmondám a lévitáknak, hogy tisztítsák meg magokat, és jőjjenek el, és őrizzék a kapukat, hogy megszenteljék a szombatnapot. Emlékezzél meg rólam ezért is, én Istenem, és könyörülj rajtam a te nagy irgalmasságod szerint!"
+  },
+  {
+    "i": 12694,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 23,
+    "t": "Azokban a napokban azt is látám, hogy a zsidók Asdódból, Ammonból és Moábból való asszonyokat vettek volt el."
+  },
+  {
+    "i": 12695,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 24,
+    "t": "És fiaik fele Asdód nyelven beszél vala, vagy az amaz nép nyelven, és nem tudtak zsidóul beszélni."
+  },
+  {
+    "i": 12696,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 25,
+    "t": "És megdorgálám őket, és átkoztam őket, és megvertem némelyeket közülök, és megtépém a hajukat, és megesketém őket az Istenre, hogy: Ne adjátok a ti leányaitokat az ő fiaiknak, és ne vegyétek el az ő leányaikat a ti fiaitoknak, se magatoknak!"
+  },
+  {
+    "i": 12697,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 26,
+    "t": "Nem éppen ebben vétkezett-é Salamon, Izráel királya? Pedig a sok nép között nem volt hozzá hasonló király, és szerette őt az ő Istene, és királylyá tevé őt az Isten egész Izráel felett; őt is a pogány asszonyok bűnbe vitték."
+  },
+  {
+    "i": 12698,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 27,
+    "t": "Avagy engedelmeskedjünk-é nektek, hogy ezt a nagy gonoszságot cselekedjétek, hogy vétkezzetek a mi Istenünk ellen, elvéve pogány asszonyokat?"
+  },
+  {
+    "i": 12699,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 28,
+    "t": "Jójada fiainak egyike, Eliásib főpap unokája pedig, a Horonita Szanballatnak veje vala; azért elűzém őt magamtól."
+  }
+]

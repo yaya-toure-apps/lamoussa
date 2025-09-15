@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3100,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 50,
+    "t": "At titingnan ng saserdote ang tila salot, at ipatatago ng pitong araw ang bagay na may tila salot:"
+  },
+  {
+    "i": 3101,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 51,
+    "t": "At titingnan ang bagay na may tila salot, sa ikapitong araw: kung kumalat ang tila salot sa kasuutan, maging sa paayon, o sa pahalang, o sa balat, o alin mang ginagawa sa balat, ay ketong na ngumangatngat ang gayon tila salot; yao'y karumaldumal."
+  },
+  {
+    "i": 3102,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 52,
+    "t": "At kaniyang susunugin ang kasuutan, maging paayon, at maging pahalang ng balahibo ng tupa o lino o sa alin mang kasangkapang balat na kinaroroonan ng salot; sapagka't yao'y ketong na ngumangatngat, yao'y susunugin sa apoy."
+  },
+  {
+    "i": 3103,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 53,
+    "t": "At kung pagtingin ng saserdote, at, narito, kung makita ngang hindi kumalat ang salot sa kasuutan, maging sa paayon man, o sa pahalang man, o sa alin mang kasangkapang balat;"
+  },
+  {
+    "i": 3104,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 54,
+    "t": "Ay palalabhan nga ng saserdote yaong kinaroroonan ng salot, at ipatatago pa ng pitong araw:"
+  },
+  {
+    "i": 3105,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 55,
+    "t": "At titingnan ng saserdote ang bagay na may salot, pagkatapos na malabhan: at, narito, kung makitang ang salot ay hindi nagbago ang kulay, at hindi kumalat ang salot, yao'y karumaldumal; susunugin mo sa apoy: isang ngatngat nga, maging ang nanisnis ay nasa karayagan o nasa kabaligtaran."
+  },
+  {
+    "i": 3106,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 56,
+    "t": "At kung pagtingin ng saserdote, at, narito, kung makita ngang namutla ang dakong may salot pagkatapos na malabhan, ay hahapakin sa kasuutan, o sa balat, o sa paayon, o sa pahalang:"
+  },
+  {
+    "i": 3107,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 57,
+    "t": "At kung muling lumitaw sa kasuutang yaon, maging sa paayon, o sa pahalang, o sa alin mang yari sa balat, ay muling sumisibol: susunugin mo sa apoy yaong kinaroroonan ng salot."
+  },
+  {
+    "i": 3108,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 58,
+    "t": "At ang kasuutan, maging sa paayon, o sa pahalang, o sa alin mang yari sa balat, na iyong labhan, at maalis ang salot, ay lalabhan ngang ikalawa, at magiging malinis."
+  },
+  {
+    "i": 3109,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 59,
+    "t": "Ito ang kautusan tungkol sa salot na ketong sa kasuutang balahibo ng tupa o lino, maging sa paayon, o sa pahalang, o sa alin mang yari sa balat, upang ipakilalang malinis, o upang ipakilalang karumaldumal."
+  },
+  {
+    "i": 3110,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 1,
+    "t": "At sinalita ng Panginoon kay Moises, na sinasabi,"
+  },
+  {
+    "i": 3111,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 2,
+    "t": "Ito ang magiging kautusan tungkol sa may ketong, sa kaarawan ng kaniyang paglilinis, siya'y dadalhin sa saserdote:"
+  },
+  {
+    "i": 3112,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 3,
+    "t": "At ang saserdote ay lalabas sa kampamento; at titingnan ng saserdote, at, narito, kung ang salot na ketong ay gumaling sa may ketong;"
+  },
+  {
+    "i": 3113,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 4,
+    "t": "Ay ipagutos nga ng saserdote na ikuha siya na lilinisin, ng dalawang ibong malinis na buhay, at kahoy na cedro, at grana, at hisopo;"
+  },
+  {
+    "i": 3114,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 5,
+    "t": "At ipaguutos ng saserdote, na patayin ang isa sa mga ibon, sa isang sisidlang lupa sa ibabaw ng tubig na umaagos."
+  },
+  {
+    "i": 3115,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 6,
+    "t": "Tungkol sa ibong buhay, ay kaniyang kukunin at ang kahoy na cedro, at ang grana at ang hisopo, at babasain pati ng ibong buhay, sa dugo ng ibong pinatay sa ibabaw ng tubig na umaagos:"
+  },
+  {
+    "i": 3116,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 7,
+    "t": "At iwiwisik niya na makapito doon sa kaniya na lilinisin sa ketong, at ipakikilalang malinis, at pawawalan ang ibong buhay sa kalawakan ng parang."
+  },
+  {
+    "i": 3117,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 8,
+    "t": "At siya na lilinisin ay maglalaba ng kaniyang mga suot, at magaahit ng lahat niyang buhok, at maliligo sa tubig; at magiging malinis: at pagkatapos ay papasok sa kampamento, datapuwa't tatahan sa labas ng kaniyang tolda na pitong araw."
+  },
+  {
+    "i": 3118,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 9,
+    "t": "At mangyayaring sa ikapitong araw, ay muling magaahit ng lahat niyang buhok, sa kaniyang ulo, at sa kaniyang baba, at sa kaniyang kilay, na anopa't aahitin niya ang lahat niyang buhok; at kaniyang lalabhan ang kaniyang mga suot, at kaniyang paliliguan ang kaniyang laman sa tubig, at magiging malinis."
+  },
+  {
+    "i": 3119,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 10,
+    "t": "At sa ikawalong araw ay kukuha siya ng dalawang korderong lalake na walang kapintasan, at ng isang korderong babae ng unang taon na walang kapintasan, at ng isang handog na harina na tatlong ikasangpung bahagi ng isang epa ng mainam na harina na hinaluan ng langis, at ng isang log na langis."
+  },
+  {
+    "i": 3120,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 11,
+    "t": "At ihaharap ang taong lilinisin ng saserdoteng naglilinis sa kaniya, at gayon din ang mga bagay na yaon, sa harap ng Panginoon, sa pintuan ng tabernakulo ng kapisanan:"
+  },
+  {
+    "i": 3121,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 12,
+    "t": "At kukuha ang saserdote ng isa sa mga korderong lalake at ihahandog na pinakahandog sa pagkakasala, at ng log ng langis, at aalugin na pinakahandog na inalog sa harap ng Panginoon:"
+  },
+  {
+    "i": 3122,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 13,
+    "t": "At papatayin ang korderong lalake sa pinagpapatayan ng handog dahil sa kasalanan at ng handog na susunugin, sa dako ng santuario: sapagka't kung paanong ang handog dahil sa kasalanan ay sa saserdote, gayon din ang handog dahil sa pagkakasala; bagay ngang kabanalbanalan:"
+  },
+  {
+    "i": 3123,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 14,
+    "t": "At ang saserdote ay kukuha sa dugo ng handog dahil sa pagkakasala, at ilalagay ng saserdote sa pingol ng kanang tainga niyaong lilinisin, at sa daliring hinlalaki ng kaniyang kanang kamay, at sa daliring hinlalaki ng kaniyang kanang paa;"
+  },
+  {
+    "i": 3124,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 15,
+    "t": "At kukuha ang saserdote sa log ng langis, at ibubuhos sa ibabaw ng palad ng kaniyang kaliwang kamay:"
+  },
+  {
+    "i": 3125,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 16,
+    "t": "At itutubog ng saserdote ang kanang daliri niya sa langis na nasa kaniyang kaliwang kamay, at magwiwisik siyang makapito ng langis ng kaniyang daliri sa harap ng Panginoon:"
+  },
+  {
+    "i": 3126,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 17,
+    "t": "At sa lumabis sa langis na nasa kaniyang kamay, ay maglalagay ang saserdote sa ibabaw ng pingol ng kanang tainga niyaong lilinisin, at sa daliring hinlalaki ng kaniyang kanang kamay at sa daliring hinlalaki ng kaniyang kanang paa, sa ibabaw ng dugo ng dahil sa pagkakasala:"
+  },
+  {
+    "i": 3127,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 18,
+    "t": "At ang labis sa langis na nasa kamay ng saserdote, ay ilalagay nito sa ulo niyaong lilinisin: at itutubos sa kaniya ng saserdote sa harap ng Panginoon."
+  },
+  {
+    "i": 3128,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 19,
+    "t": "At ihahandog ng saserdote ang handog dahil sa kasalanan, at itutubos sa kaniya, na lilinisin dahil sa kaniyang karumihan; at pagkatapos ay papatayin ang handog na susunugin:"
+  },
+  {
+    "i": 3129,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 20,
+    "t": "At ihahandog ng saserdote ang handog na susunugin at ang handog na harina sa ibabaw ng dambana: at itutubos sa kaniya ng saserdote, at siya'y magiging malinis."
+  },
+  {
+    "i": 3130,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 21,
+    "t": "At kung siya'y dukha at ang kaniyang kaya ay hindi aabot, ay kukuha nga siya ng isang korderong lalake na handog dahil sa pagkakasala, na aalugin upang itubos sa kaniya, at ng ikasampung bahagi ng isang epa na mainam na harina, na hinaluan ng langis na pinakahandog na harina, at ng isang log ng langis;"
+  },
+  {
+    "i": 3131,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 22,
+    "t": "At ng dalawang batobato o ng dalawang inakay ng kalapati, kung alin ang aabutin ng kaniyang kaya; at ang isa'y magiging handog dahil sa kasalanan, at ang isa'y handog na susunugin."
+  },
+  {
+    "i": 3132,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 23,
+    "t": "At sa ikawalong araw ay kaniyang dadalhin sa saserdote sa pintuan ng tabernakulo ng kapisanan upang gamitin sa kaniyang paglilinis sa harap ng Panginoon."
+  },
+  {
+    "i": 3133,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 24,
+    "t": "At kukunin ng saserdote ang korderong handog dahil sa pagkakasala at ang log ng langis, at aalugin ng saserdote na pinakahandog na inalog sa harap ng Panginoon."
+  },
+  {
+    "i": 3134,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 25,
+    "t": "At kaniyang papatayin ang korderong handog dahil sa pagkakasala, at kukuha ang saserdote ng dugo ng handog dahil sa pagkakasala, at ilalagay sa pingol ng kanang tainga niyaong lilinisin, at sa daliring hinlalaki ng kaniyang kanang kamay, at sa daliring hinlalaki ng kaniyang kanang paa:"
+  },
+  {
+    "i": 3135,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 26,
+    "t": "At magbubuhos ang saserdote ng langis sa ibabaw ng palad ng kaniyang kaliwang kamay:"
+  },
+  {
+    "i": 3136,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 27,
+    "t": "At makapitong magwiwisik ang saserdote ng kaniyang kanang daliri, ng langis na nasa kaniyang kaliwang kamay, sa harap ng Panginoon:"
+  },
+  {
+    "i": 3137,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 28,
+    "t": "At maglalagay ang saserdote ng langis na nasa kaniyang kamay, sa pingol ng kanang tainga niyaong lilinisin, at sa daliring hinlalaki ng kaniyang kanang kamay, at sa daliring hinlalaki ng kaniyang kanang paa, sa ibabaw ng pinaglagyan ng dugong handog dahil sa pagkakasala:"
+  },
+  {
+    "i": 3138,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 29,
+    "t": "At ang labis ng langis na nasa kamay ng saserdote ay ilalagay niya sa ulo niyaong lilinisin, upang itubos sa kaniya sa harap ng Panginoon."
+  },
+  {
+    "i": 3139,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 30,
+    "t": "At kaniyang ihahandog ang isa sa mga batobato o sa mga inakay ng kalapati, kung alin ang kaniyang kaya;"
+  },
+  {
+    "i": 3140,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 31,
+    "t": "Kung alin ang abutin ng kaniyang kaya, na ang isa'y handog dahil sa kasalanan, at ang isa'y handog na susunugin, pati ng handog na harina: at itutubos ng saserdote doon sa malilinis sa harap ng Panginoon."
+  },
+  {
+    "i": 3141,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 32,
+    "t": "Ito ang kautusan tungkol sa may salot na ketong, na ang kaniyang kaya ay hindi abot sa nauukol sa kaniyang paglilinis."
+  },
+  {
+    "i": 3142,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 33,
+    "t": "At sinalita ng Panginoon kay Moises at kay Aaron, na sinasabi,"
+  },
+  {
+    "i": 3143,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 34,
+    "t": "Pagka kayo'y nakapasok na sa lupain ng Canaan, na ibibigay kong pag-aari sa inyo, at ako'y naglagay ng salot na ketong sa alin mang bahay sa lupain ninyong inaari;"
+  },
+  {
+    "i": 3144,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 35,
+    "t": "Ay yayaon ang may-ari ng bahay at magbibigay alam sa saserdote, na sasabihin, Tila mandin mayroong parang salot sa bahay:"
+  },
+  {
+    "i": 3145,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 36,
+    "t": "At ipaguutos ng saserdote na alisan ng laman ang bahay bago pumasok ang saserdote na kilalanin ang tila salot, upang ang lahat na nasa bahay ay huwag mahawa: at pagkatapos ay papasok ang saserdote upang tingnan ang bahay:"
+  },
+  {
+    "i": 3146,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 37,
+    "t": "At titingnan ang salot, at kung makita ngang ang tila salot ay nasa mga panig ng bahay na may ukit na namemerde, o namumula at tila malalim kaysa panig;"
+  },
+  {
+    "i": 3147,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 38,
+    "t": "Ay lalabas nga ang saserdote sa bahay hanggang sa pintuan ng bahay at ipasasara ang bahay na pitong araw:"
+  },
+  {
+    "i": 3148,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 39,
+    "t": "At babalik ang saserdote sa ikapitong araw, at titingnan: at, narito, kung makita ngang kumalat ang salot sa mga panig ng bahay;"
+  },
+  {
+    "i": 3149,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 40,
+    "t": "Ay ipaguutos nga ng saserdote na bunutin ang mga batong kinaroonan ng tila salot at ipatatapon sa labas ng bayan sa dakong karumaldumal:"
+  },
+  {
+    "i": 3150,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 41,
+    "t": "At ipakakayas ang palibot ng loob ng bahay, at ang argamasang inalis na kinayas ay itatapon sa labas ng bayan sa dakong karumaldumal:"
+  },
+  {
+    "i": 3151,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 42,
+    "t": "At magsisikuha ng ibang mga bato, at ihahalili sa mga batong yaon, at magsisikuha ng ibang argamasa at siyang ihahaplos sa mga panig ng bahay."
+  },
+  {
+    "i": 3152,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 43,
+    "t": "At kung muling bumalik ang tila salot, at sumibol sa bahay, pagkatapos na mabunot ang mga bato; at pagkatapos makayas ang bahay, at pagkatapos na mahaplusan ng argamasa;"
+  },
+  {
+    "i": 3153,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 44,
+    "t": "Ay papasok nga ang saserdote at titingnan, at, narito, kung makita ngang ang salot ay kumalat sa bahay ay ketong na nakakahawa sa bahay; ito'y karumaldumal."
+  },
+  {
+    "i": 3154,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 45,
+    "t": "At gigibain niya ang bahay na yaon, ang mga bato at ang mga kahoy, at ang lahat ng argamasa ng bahay; ay dadalhin sa labas ng bayan sa dakong karumaldumal."
+  },
+  {
+    "i": 3155,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 46,
+    "t": "Bukod dito'y ang pumasok sa bahay na yaon ng buong panahong nasasara ay magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3156,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 47,
+    "t": "At ang mahiga sa bahay na yaon ay maglalaba ng kaniyang mga suot; at ang kumain sa bahay na yaon ay maglalaba ng kaniyang mga suot."
+  },
+  {
+    "i": 3157,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 48,
+    "t": "At kung papasok ang saserdote, at, narito, kung hindi nga kumalat ang salot sa bahay, pagkatapos na nahaplusan ng argamasa; ay ipakikilala nga ng saserdote na malinis ang bahay, sapagka't gumaling sa salot."
+  },
+  {
+    "i": 3158,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 49,
+    "t": "At upang linisin ang bahay ay kukuha ng dalawang ibon, at ng kahoy na cedro, at ng grana, at ng hisopo:"
+  },
+  {
+    "i": 3159,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 50,
+    "t": "At papatayin ang isa sa mga ibon sa isang sisidlang lupa sa ibabaw ng tubig na umaagos:"
+  },
+  {
+    "i": 3160,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 51,
+    "t": "At kukunin niya ang kahoy na cedro, at ang hisopo, at ang grana, at ang ibong buhay, at babasain sa dugo ng ibong pinatay, at sa tubig na umaagos, at wiwisikang makapito ang bahay:"
+  },
+  {
+    "i": 3161,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 52,
+    "t": "At kaniyang lilinisin ng dugo ng ibon ang bahay at ng agos ng tubig, at ng ibong buhay at ng kahoy na cedro, at ng hisopo, at ng grana:"
+  },
+  {
+    "i": 3162,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 53,
+    "t": "Datapuwa't pawawalan ang ibong buhay sa labas ng bayan, sa kalawakan ng parang: gayon tutubusin ang bahay: at magiging malinis."
+  },
+  {
+    "i": 3163,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 54,
+    "t": "Ito ang kautusan tungkol sa sarisaring salot na ketong at sa tina,"
+  },
+  {
+    "i": 3164,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 55,
+    "t": "At sa ketong ng suot, at ng bahay."
+  },
+  {
+    "i": 3165,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 56,
+    "t": "At sa pamamaga at sa langib, at sa pantal na makintab:"
+  },
+  {
+    "i": 3166,
+    "b": 2,
+    "c": 314,
+    "r": 314,
+    "o": 57,
+    "t": "Upang ituro kung kailan karumaldumal, at kung kailan malinis: ito ang kautusan tungkol sa ketong."
+  },
+  {
+    "i": 3167,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 1,
+    "t": "At sinalita ng Panginoon kay Moises at kay Aaron na sinasabi,"
+  },
+  {
+    "i": 3168,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 2,
+    "t": "Salitain ninyo sa mga anak ni Israel, at inyong sabihin sa kanila, Pagka ang sinomang tao ay inagasan sa kaniyang laman, ay magiging karumaldumal siya dahil sa kaniyang agas."
+  },
+  {
+    "i": 3169,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 3,
+    "t": "At ito ang magiging kaniyang karumalan sa kaniyang agas: maging ang kaniyang laman ay balungan dahil sa kaniyang agas, o ang kaniyang laman ay masarhan dahil sa kaniyang agas, ay kaniyang karumalan nga."
+  },
+  {
+    "i": 3170,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 4,
+    "t": "Bawa't higaang mahigan ng inaagasan ay magiging karumaldumal: at bawa't bagay na kaniyang kaupuan, ay magiging karumaldumal."
+  },
+  {
+    "i": 3171,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 5,
+    "t": "At sinomang tao na makahipo ng kaniyang higaan ay maglalaba ng kaniyang mga damit, at maliligo siya sa tubig, at magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3172,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 6,
+    "t": "At ang maupo sa anomang bagay na kaupuan ng inaagasan ay maglalaba ng kaniyang mga damit, at maliligo siya sa tubig, at magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3173,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 7,
+    "t": "At ang humipo ng laman niyaong inaagasan ay maglalaba ng kaniyang mga damit at maliligo siya sa tubig, at magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3174,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 8,
+    "t": "At kung ang inaagasan ay makalura sa taong malinis, ay maglalaba nga siya ng kaniyang mga damit, at maliligo siya sa tubig, at magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3175,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 9,
+    "t": "At alin mang siya na kasakyan ng inaagasan, ay magiging karumaldumal."
+  },
+  {
+    "i": 3176,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 10,
+    "t": "At ang alin mang taong humipo ng alinmang bagay na napalagay sa ilalim niyaon, ay magiging karumaldumal hanggang sa hapon: at ang magdala ng mga bagay na yaon ay maglalaba ng kaniyang mga damit at maliligo siya sa tubig, at magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3177,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 11,
+    "t": "At yaong lahat na mahipo ng inaagasan na hindi nakapaghugas ng kaniyang mga kamay sa tubig, ay maglalaba nga rin ng kaniyang mga damit, at maliligo siya sa tubig, at magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3178,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 12,
+    "t": "At ang sisidlang lupa na mahipo ng inaagasan, ay babasagin: at ang lahat ng kasangkapang kahoy ay babanlawan sa tubig."
+  },
+  {
+    "i": 3179,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 13,
+    "t": "At kung ang inaagasan ay gumaling sa kaniyang agas, ay bibilang siya ng pitong araw sa kaniyang paglilinis, at maglalaba ng kaniyang mga damit; at paliliguan din niya ang kaniyang laman sa tubig na umaagos, at magiging malinis."
+  },
+  {
+    "i": 3180,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 14,
+    "t": "At sa ikawalong araw ay magdadala siya ng dalawang batobato, o ng dalawang inakay ng kalapati, at ihaharap niya sa harap ng Panginoon sa pasukan ng tabernakulo ng kapisanan, at ibibigay niya sa saserdote."
+  },
+  {
+    "i": 3181,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 15,
+    "t": "At ihahandog ng saserdote, na ang isa'y handog dahil sa kasalanan, at ang isa'y handog na susunugin; at itutubos sa kaniya ng saserdote sa harap ng Panginoon, dahil sa kaniyang agas."
+  },
+  {
+    "i": 3182,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 16,
+    "t": "At kung ang sinomang tao ay labasan ng binhi ng pakikiapid, ay paliliguan nga niya ng tubig ang buong kaniyang laman, at magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3183,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 17,
+    "t": "At lahat ng damit at lahat ng balat na kinaroonan ng binhi ng pakikiapid, ay lalabhan sa tubig, at magiging karumaldumal hanggang hapon."
+  },
+  {
+    "i": 3184,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 18,
+    "t": "Ang babae rin namang sinipingan ng lalaking mayroong binhi ng pakikiapid, ay maliligo sila kapuwa sa tubig, at magiging karumaldumal sila hanggang sa hapon."
+  },
+  {
+    "i": 3185,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 19,
+    "t": "At kung ang babae ay agasan na ang umaagas sa kaniyang laman ay dugo, ay mapapasa kaniyang karumihan siyang pitong araw: at lahat ng humipo sa kaniya ay magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3186,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 20,
+    "t": "At bawa't kaniyang kahigaan sa panahon ng kaniyang karumihan, ay magiging karumaldumal: bawa't din namang kaupuan niya ay magiging karumaldumal."
+  },
+  {
+    "i": 3187,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 21,
+    "t": "At sinomang humipo ng kaniyang higaan ay maglalaba ng kaniyang mga damit, at maliligo sa tubig, at magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3188,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 22,
+    "t": "At ang sinomang humipo ng alin mang bagay na kaniyang kaupuan ay maglalaba ng kaniyang mga damit, at maliligo siya sa tubig, at magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3189,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 23,
+    "t": "At kung may nasa higaan o nasa anomang bagay na kinaupuan niya, ay magiging karumaldumal hanggang sa hapon ang humipo niyaon."
+  },
+  {
+    "i": 3190,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 24,
+    "t": "At kung ang sinomang lalake ay sumiping sa kaniya, at mapasa lalake ang karumihan niya, ay magiging karumaldumal ito na pitong araw; at bawa't higaang kaniyang hihigaan ay magiging karumaldumal."
+  },
+  {
+    "i": 3191,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 25,
+    "t": "At kung ang isang babae ay agasan ng kaniyang dugo ng maraming araw sa di kapanahunan ng kaniyang karumihan, o kung agasan sa dako pa roon ng panahon ng kaniyang karumihan; buong panahon ng agas ng kaniyang karumalan ay magiging para ng mga araw ng kaniyang karumihan: siya'y karumaldumal nga."
+  },
+  {
+    "i": 3192,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 26,
+    "t": "Bawa't higaan na kaniyang hinihigan buong panahon ng kaniyang agas, ay magiging sa kaniya'y gaya ng higaan ng kaniyang karumihan; at bawa't bagay na kaniyang kaupuan, ay magiging karumaldumal, na gaya ng karumalan ng kaniyang karumihan."
+  },
+  {
+    "i": 3193,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 27,
+    "t": "At sinomang humipo ng mga bagay na yaon ay magiging karumaldumal, at maglalaba ng kaniyang mga damit, at maliligo siya sa tubig, at magiging karumaldumal hanggang sa hapon."
+  },
+  {
+    "i": 3194,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 28,
+    "t": "Datapuwa't kung siya'y gumaling sa kaniyang agas, ay bibilang siya ng pitong araw, at pagkatapos niyaon ay magiging malinis siya."
+  },
+  {
+    "i": 3195,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 29,
+    "t": "At sa ikawalong araw ay kukuha siya ng dalawang batobato o ng dalawang inakay ng kalapati, at dadalhin niya sa saserdote sa pintuan ng tabernakulo ng kapisanan."
+  },
+  {
+    "i": 3196,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 30,
+    "t": "At ihahandog ng saserdote ang isa na handog dahil sa kasalanan, at ang isa'y handog na susunugin; at itutubos sa kaniya ng saserdote sa harap ng Panginoon, dahil sa agas ng kaniyang karumihan."
+  },
+  {
+    "i": 3197,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 31,
+    "t": "Ganito ihihiwalay ninyo ang mga anak ni Israel sa kanilang karumalan; upang huwag mangamatay sa kanilang karumalan, kung kanilang ihawa ang aking tabernakulo na nasa gitna nila."
+  },
+  {
+    "i": 3198,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 32,
+    "t": "Ito ang kautusan tungkol sa inaagasan, at sa nilalabasan ng binhi ng pakikiapid, na ikinarurumal;"
+  },
+  {
+    "i": 3199,
+    "b": 2,
+    "c": 315,
+    "r": 315,
+    "o": 33,
+    "t": "At sa babaing may sakit ng kaniyang karumihan, at sa inaagasan, sa lalake at sa babae, at doon sa sumisiping sa babaing karumaldumal."
+  }
+]

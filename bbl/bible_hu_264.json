@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26400,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 10,
+    "t": "A fösvény szűkölködik kenyérben, és aszály van az ő asztalánál."
+  },
+  {
+    "i": 26401,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 11,
+    "t": "Fiam, ha van miből, jól bánj magaddal, és ajánld fel az Úrnak az áldozatokat, melyeket kíván."
+  },
+  {
+    "i": 26402,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 12,
+    "t": "Ne feledd, hogy a halál nem késlekedik, és a seol szövetsége nem lett neked kinyilatkoztatva."
+  },
+  {
+    "i": 26403,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 13,
+    "t": "Mielőtt meghalsz, tégy jót barátaiddal, és képességeid szerint légy bőkezű."
+  },
+  {
+    "i": 26404,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 14,
+    "t": "Ne tagadd meg magadtól a jelen örömét, ne hagyd elszalasztani a jogos vágyat."
+  },
+  {
+    "i": 26405,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 15,
+    "t": "Nemde másoknak hagyod vagyonodat? És javaidat nem osztják-e szét sorsolással?"
+  },
+  {
+    "i": 26406,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 16,
+    "t": "Ajándékozz és fogadj, űzd el gondjaidat, mert a seolban nem lehet örömöt keresni."
+  },
+  {
+    "i": 26407,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 17,
+    "t": "Minden test elhasználódik, mint a ruha, az örök törvény az, hogy meg kell halni."
+  },
+  {
+    "i": 26408,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 18,
+    "t": "Mint a zöldellő lomb egy sűrű fán, hol lehull, hol újra kihajt, úgy a hús és vér nemzedékei: némelyek meghalnak, mások születnek."
+  },
+  {
+    "i": 26409,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 19,
+    "t": "Minden romlandó mű elvész, és alkotója elmegy vele együtt."
+  },
+  {
+    "i": 26410,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 20,
+    "t": "Boldog az az ember, aki elmélkedik a bölcsességen, és aki értelmesen gondolkodik,"
+  },
+  {
+    "i": 26411,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 21,
+    "t": "aki szívében átgondolja a bölcsesség útjait, és aki alkalmazkodik annak titkaihoz."
+  },
+  {
+    "i": 26412,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 22,
+    "t": "Úgy követi őt, mint a vadász, lesi az ő nyomát;"
+  },
+  {
+    "i": 26413,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 23,
+    "t": "hajlik az ő ablakaihoz, és hallgatózik az ő kapuinál;"
+  },
+  {
+    "i": 26414,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 24,
+    "t": "mindig közel marad az ő lakhelyéhez, és cöveket ver az ő falai közé;"
+  },
+  {
+    "i": 26415,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 25,
+    "t": "sátrat ver a közelben, és a boldogság rejtekében telepszik le;"
+  },
+  {
+    "i": 26416,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 26,
+    "t": "gyermekeit az ő védelme alá helyezi, és az ő ágai alatt menedéket talál;"
+  },
+  {
+    "i": 26417,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 27,
+    "t": "az ő árnyékában védve van a hőségtől, és az ő dicsőségében telepszik le."
+  },
+  {
+    "i": 26418,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 1,
+    "t": "Így tesz az, aki féli az Urat; aki megragadja a törvényt, bölcsességre talál."
+  },
+  {
+    "i": 26419,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 2,
+    "t": "Elébe jön, mint az anya, mint a szűz menyasszony fogadja őt;"
+  },
+  {
+    "i": 26420,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 3,
+    "t": "táplálja őt a bölcsesség kenyerével, és bölcsesség vizét adja inni;"
+  },
+  {
+    "i": 26421,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 4,
+    "t": "támaszkodik rá, és nem inog meg, ragaszkodik hozzá, és nem vall szégyent."
+  },
+  {
+    "i": 26422,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 5,
+    "t": "Felmagasztalja őt társai fölé, a gyülekezet közepén megnyitja az ő száját."
+  },
+  {
+    "i": 26423,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 6,
+    "t": "Örömre és öröm koszorújára talál, örök hírnevet kap örökségül."
+  },
+  {
+    "i": 26424,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 7,
+    "t": "Soha nem birtokolják azt a bolondok, és soha nem látják azt a bűnösök."
+  },
+  {
+    "i": 26425,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 8,
+    "t": "Távolságot tart a gőgtől, és a hazugok nem gondolnak rá."
+  },
+  {
+    "i": 26426,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 9,
+    "t": "A dicséret nem illik a bűnös szájába, mert azt nem az Úr adta neki."
+  },
+  {
+    "i": 26427,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 10,
+    "t": "Mert a dicséret bölcsességgel fejeződik ki, és az Úr az, aki azt vezeti."
+  },
+  {
+    "i": 26428,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 11,
+    "t": "Ne mondd: \"Az Úr az, aki vétkezésre vitt engem\", mert ő nem teszi azt, ami gyűlöletes előtte."
+  },
+  {
+    "i": 26429,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 12,
+    "t": "Ne mondd: \"Ő az, aki eltévelyített engem\", mert nincs szüksége bűnösre."
+  },
+  {
+    "i": 26430,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 13,
+    "t": "Az Úr gyűlöl mindenféle utálatosságot, és semmi sem kedves azoknak, akik őt félik."
+  },
+  {
+    "i": 26431,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 14,
+    "t": "Ő az, aki kezdetben megteremtette az embert, és az ő tanácsára bízta őt."
+  },
+  {
+    "i": 26432,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 15,
+    "t": "Ha akarod, megtartod a parancsolatokat, hogy hű maradj az ő jó akaratához."
+  },
+  {
+    "i": 26433,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 16,
+    "t": "Eléd tette a tüzet és a vizet, kívánságod szerint nyújtsd ki a kezed."
+  },
+  {
+    "i": 26434,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 17,
+    "t": "Az emberek előtt ott van az élet és a halál, tetszésük szerint az egyik vagy a másik adatik nekik."
+  },
+  {
+    "i": 26435,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 18,
+    "t": "Mert nagy az Úr bölcsessége, ő mindenható és mindent lát."
+  },
+  {
+    "i": 26436,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 19,
+    "t": "Tekintete azokra van irányulva, akik őt félik, ismeri az emberek minden cselekedetét."
+  },
+  {
+    "i": 26437,
+    "b": 45,
+    "c": 4715,
+    "r": 4715,
+    "o": 20,
+    "t": "Senkinek sem parancsolta, hogy gonosz legyen, senkinek sem adott engedélyt a bűnre."
+  },
+  {
+    "i": 26438,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 1,
+    "t": "Ne kívánj sok, semmire sem való utódot, és ne örülj a gonosz fiaknak."
+  },
+  {
+    "i": 26439,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 2,
+    "t": "Bármennyien legyenek is, ne örülj, ha nincs bennük az Isten félelme."
+  },
+  {
+    "i": 26440,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 3,
+    "t": "Ne számíts rájuk, hogy sokáig fognak élni, ne várd, hogy sokáig tartanak, mert siratni fogod a korai gyászt, hirtelen megismered a végüket. Igen, jobb egyetlen egy, mint ezer, és gyermekek nélkül meghalni, mint gonosz fiakat szülni."
+  },
+  {
+    "i": 26441,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 4,
+    "t": "Egyetlen okos ember által benépesül egy város, de a gonoszok fajtája elpusztul."
+  },
+  {
+    "i": 26442,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 5,
+    "t": "Sok hasonló dolgot láttam a saját szememmel, és még erősebbeket hallottam a fülemmel."
+  },
+  {
+    "i": 26443,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 6,
+    "t": "A bűnösök gyülekezetében tűz gyullad, a lázadó fajban felgerjedt a harag."
+  },
+  {
+    "i": 26444,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 7,
+    "t": "Isten nem bocsátott meg a régi óriásoknak, akik fellázadtak, büszkék lévén erejükre."
+  },
+  {
+    "i": 26445,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 8,
+    "t": "Nem kímélte a várost, ahol Lót lakott: iszonyat volt előtte az ő gőgjük."
+  },
+  {
+    "i": 26446,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 9,
+    "t": "Nem könyörült a veszedelem fajtáján: azokon, akik bűneikkel dicsekedtek. Mindezeket azért tette a kemény szívű nemzetekért, és szentjeinek sokaságát nem indította meg."
+  },
+  {
+    "i": 26447,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 10,
+    "t": "Ugyanígy bánt hatszázezer gyalogossal, akik szívük keménységében szövetkeztek. Ő megostoroz és megkönyörül, megsebez és meggyógyít: az Úr együttérzéssel és büntetéssel virraszt."
+  },
+  {
+    "i": 26448,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 11,
+    "t": "Még ha csak egyetlen kemény nyakú ember lenne is, hihetetlen lenne, hogy büntetlen maradjon, mert irgalom és harag tartozik az Úrhoz, aki hatalmas a megbocsátásban, aki haragot áraszt."
+  },
+  {
+    "i": 26449,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 12,
+    "t": "Amennyi az ő irgalma, annyi az ő elutasítása, az emberek tettei szerint fog ítélni."
+  },
+  {
+    "i": 26450,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 13,
+    "t": "Nem hagyja büntetlenül a bűnöst lopásaival, nem hiúsítja meg a jámbor ember türelmét."
+  },
+  {
+    "i": 26451,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 14,
+    "t": "Számításba vesz minden jótéteményt, és mindenki tettei szerint fog bánni."
+  },
+  {
+    "i": 26452,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 15,
+    "t": "Az Úr megkeményítette a Fáraó szívét, hogy ne ismerje el őt, hogy megismertesse tetteit az ég alatt."
+  },
+  {
+    "i": 26453,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 16,
+    "t": "Az egész teremtés iránt megnyilvánul az ő könyörülete, megosztotta fényét és árnyékát az emberek között."
+  },
+  {
+    "i": 26454,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 17,
+    "t": "Ne mondd: \"Elrejtőzöm, hogy elkerüljem az Urat; ott fent ki fog emlékezni rám? A tömeg közepén nem fognak felismerni, mi vagyok én a hatalmas teremtésben?"
+  },
+  {
+    "i": 26455,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 18,
+    "t": "Íme: az ég, az egek legmagasabbja, a mélység és a föld megrendülnek az ő látogatásakor. Az egész világegyetem az ő akarata által lett létrehozva és létezik."
+  },
+  {
+    "i": 26456,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 19,
+    "t": "Ugyanakkor a hegyek és a föld alapjai remegnek az ő tekintete alatt."
+  },
+  {
+    "i": 26457,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 20,
+    "t": "De mindezeken nem gondolkodnak el; ki törődik az ő útjával?"
+  },
+  {
+    "i": 26458,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 21,
+    "t": "A vihar is láthatatlan marad, műveinek nagy része titokban van."
+  },
+  {
+    "i": 26459,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 22,
+    "t": "\"Az igazság műveit ki fogja hirdetni? Ki fog rájuk várni? Mert a rendelet messze van.\" A végén mindenre kiterjedő vizsgálat fog történni."
+  },
+  {
+    "i": 26460,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 23,
+    "t": "Rövid elméjű az, aki ilyen gondolatokat tart; a bolond, eltévelyedett csak bolondságokat álmodik."
+  },
+  {
+    "i": 26461,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 24,
+    "t": "Hallgass rám, fiam, és szerezz ismeretet, fordítsd szíved az én szavaimra."
+  },
+  {
+    "i": 26462,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 25,
+    "t": "Mértékkel fogom neked feltárni a fegyelmet, gondosan fogom hirdetni az ismeretet."
+  },
+  {
+    "i": 26463,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 26,
+    "t": "Amikor kezdetben az Úr megteremtette műveit, mihelyst elkészültek, helyet jelölt ki nekik."
+  },
+  {
+    "i": 26464,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 27,
+    "t": "Megparancsolta műveit örökkévalóságra, eredetüktől a távoli nemzedékekig. Nem szenvednek éhséget és fáradtságot, és soha nem hagyják el feladatukat."
+  },
+  {
+    "i": 26465,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 28,
+    "t": "Egyik sem ütközött a másikba, és soha nem szegik meg az ő szavát."
+  },
+  {
+    "i": 26466,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 29,
+    "t": "Ezután az Úr a földre vetette a tekintetét, és betöltötte azt javaival."
+  },
+  {
+    "i": 26467,
+    "b": 45,
+    "c": 4716,
+    "r": 4716,
+    "o": 30,
+    "t": "Mindenféle állattal borította be a felszínét, és visszatérnek a földbe."
+  },
+  {
+    "i": 26468,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 1,
+    "t": "Az Úr a földből vette az embert, hogy aztán oda küldje vissza."
+  },
+  {
+    "i": 26469,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 2,
+    "t": "Pontos napok számát és meghatározott időt jelölt ki az embereknek, az ő hatalmukba bízta azt, ami a földön van."
+  },
+  {
+    "i": 26470,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 3,
+    "t": "Erővel ruházta fel őket, mint ő maga, az ő képmására teremtette őket."
+  },
+  {
+    "i": 26471,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 4,
+    "t": "Minden testbe félelmet táplált az ember iránt, hogy uralkodjon a vadállatok és a madarak felett."
+  },
+  {
+    "i": 26472,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 5,
+    "t": "Megkapták az Úr öt hatalmának használatát, hatodikként az értelmet kapták örökségül, hetedikként pedig az okot, hatalmainak értelmezőjét."
+  },
+  {
+    "i": 26473,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 6,
+    "t": "Adott nekik ítélőképességet, nyelvet, szemet, fület és szívet a gondolkodáshoz."
+  },
+  {
+    "i": 26474,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 7,
+    "t": "Betöltötte őket tudással és értelemmel, és megismertette velük a jót és a rosszat."
+  },
+  {
+    "i": 26475,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 8,
+    "t": "Szívükbe helyezte az ő félelmét, hogy megmutassa műveinek nagyságát. És megadta nekik, hogy örökké ünnepeljék az ő csodáit."
+  },
+  {
+    "i": 26476,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 9,
+    "t": "Dicsérni fogják az ő szent nevét,"
+  },
+  {
+    "i": 26477,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 10,
+    "t": "elbeszélve az ő műveinek nagyságát."
+  },
+  {
+    "i": 26478,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 11,
+    "t": "Adott nekik még ismeretet, megajándékozta őket az élet törvényével, hogy megértsék, hogy halandók ők, akik most léteznek."
+  },
+  {
+    "i": 26479,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 12,
+    "t": "örök szövetséget kötött velük, és megismertette velük az ő ítéleteit;"
+  },
+  {
+    "i": 26480,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 13,
+    "t": "Szemeik látták az ő felségének nagyságát, füleik hallották az ő hangjának dicsőségét."
+  },
+  {
+    "i": 26481,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 14,
+    "t": "És szólt hozzájuk: \"Őrizkedjetek minden gonosztól\", és parancsolatokat adott nekik, mindegyiknek a felebarátja iránt."
+  },
+  {
+    "i": 26482,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 15,
+    "t": "Viselkedésük mindig előtte van, soha nincs elrejtve tekintete elől."
+  },
+  {
+    "i": 26483,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 16,
+    "t": "Ifjúságuktól fogva útjaik a gonoszhoz vezetnek, és nem tudták kőszívüket hússzívre változtatni,"
+  },
+  {
+    "i": 26484,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 17,
+    "t": "mert a népek és az egész föld elosztásában minden nép fölé fejedelmet rendelt; de Izráel az Úrnak része,"
+  },
+  {
+    "i": 26485,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 18,
+    "t": "az ő elsőszülöttje, akit fegyelemmel táplál, akinek szeretetének fényét árasztja, el nem hagyva őt."
+  },
+  {
+    "i": 26486,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 19,
+    "t": "Minden cselekedetük előtte van, mint a nap, szemei szüntelenül figyelik viselkedésüket."
+  },
+  {
+    "i": 26487,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 20,
+    "t": "Igazságtalanságaik nincsenek elrejtve előle, minden bűnük az Úr előtt van."
+  },
+  {
+    "i": 26488,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 21,
+    "t": "De az Úr jó, és ismeri teremtményét, nem pusztítja el őket, sem nem hagyja el, hanem megkíméli őket."
+  },
+  {
+    "i": 26489,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 22,
+    "t": "Egy ember alamizsnája olyan neki, mint egy pecsét, jótéteményt őriz, mint a szeme fényét, megbánást ad fiainak és leányainak."
+  },
+  {
+    "i": 26490,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 23,
+    "t": "Egy napon felkel és megjutalmazza őket, fejükre hozza jutalmukat."
+  },
+  {
+    "i": 26491,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 24,
+    "t": "De akik megtérnek, azoknak visszafordulást ad, megvigasztalja azokat, akik elvesztették a kitartást."
+  },
+  {
+    "i": 26492,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 25,
+    "t": "Térj meg az Úrhoz, és mondj le bűneidről, esedezz neki szemtől szemben, hagyd abba a vétkezést ellene."
+  },
+  {
+    "i": 26493,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 26,
+    "t": "Térj vissza a Magasságoshoz, fordulj el az igazságtalanságtól, mert ő az, aki a sötétségből a szabadulás világosságába vezet téged. És gyűlöld erősen a gonoszságot."
+  },
+  {
+    "i": 26494,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 27,
+    "t": "Mert ki dicséri a Magasságost a seolban, ha az élők nem adnak neki dicsőséget?"
+  },
+  {
+    "i": 26495,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 28,
+    "t": "A dicséret ismeretlen a halottak számára, mint azok számára, akik nincsenek, aki él és egészséges, az dicsőíti az Urat."
+  },
+  {
+    "i": 26496,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 29,
+    "t": "Mily nagy az Úr irgalma, az ő türelme azok iránt, akik hozzá fordulnak!"
+  },
+  {
+    "i": 26497,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 30,
+    "t": "Mert az ember nem kaphat meg mindent, mivel az ember fia nem halhatatlan."
+  },
+  {
+    "i": 26498,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 31,
+    "t": "Mi fényesebb a napnál? Mégis eltűnik. A test és a vér csak álnokságot táplálhat."
+  },
+  {
+    "i": 26499,
+    "b": 45,
+    "c": 4717,
+    "r": 4717,
+    "o": 32,
+    "t": "Ő az, aki felügyeli a hatalmasságokat a magas mennyekben, és minden ember csak por és hamu."
+  }
+]

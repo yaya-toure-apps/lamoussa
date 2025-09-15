@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4600,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 24,
+    "t": "Così farete ogni giorno per sette giorni. È un cibo, un olocausto consumato in profumo di soavità per l'Eterno; sia offerto in aggiunta all'olocausto perpetuo e alla sua libazione congiunta."
+  },
+  {
+    "i": 4601,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 25,
+    "t": "Il settimo giorno avrete una santa convocazione; non farete alcun lavoro servile."
+  },
+  {
+    "i": 4602,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 26,
+    "t": "'Nel giorno delle primizie, quando offrirete all'Eterno un'oblazione di frutti nuovi, alla vostra festa delle Settimane, avrete una santa convocazione; non farete alcun lavoro servile."
+  },
+  {
+    "i": 4603,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 27,
+    "t": "Offrirete un olocausto, in profumo di soavità per l'Eterno: due tori, un montone, sette agnelli dell'anno."
+  },
+  {
+    "i": 4604,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 28,
+    "t": "L'oblazione congiunta, in fior di farina intrisa nell'olio, sarà di tre decimi per ogni toro, di due decimi per ogni montone,"
+  },
+  {
+    "i": 4605,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 29,
+    "t": "di un decimo per ciascuno dei sette agnelli."
+  },
+  {
+    "i": 4606,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 30,
+    "t": "E ci sarà un capro in sacrificio per il peccato, per fare su di voi il rito di espiazione."
+  },
+  {
+    "i": 4607,
+    "b": 3,
+    "c": 428,
+    "r": 428,
+    "o": 31,
+    "t": "Farete questo in aggiunta all'olocausto perpetuo, alla sua oblazione e alle libazioni congiunte."
+  },
+  {
+    "i": 4608,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 1,
+    "t": "'Nel settimo mese, il primo del mese, avrete una santa convocazione; non farete alcun lavoro servile. Sarà per voi il giorno delle Acclamazioni."
+  },
+  {
+    "i": 4609,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 2,
+    "t": "Offrirete un olocausto, in profumo di soavità per l'Eterno: un toro, un montone, sette agnelli dell'anno, senza difetto."
+  },
+  {
+    "i": 4610,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 3,
+    "t": "L'oblazione congiunta, in fior di farina intrisa nell'olio, sarà di tre decimi per il toro, di due decimi per il montone,"
+  },
+  {
+    "i": 4611,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 4,
+    "t": "di un decimo per ciascuno dei sette agnelli."
+  },
+  {
+    "i": 4612,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 5,
+    "t": "E ci sarà un capro in sacrificio per il peccato, per fare su di voi il rito di espiazione."
+  },
+  {
+    "i": 4613,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 6,
+    "t": "Questo in aggiunta all'olocausto mensile e alla sua oblazione, all'olocausto perpetuo e alla sua oblazione, alle loro libazioni congiunte secondo la regola, — in profumo di soavità, come cibo consumato per l'Eterno."
+  },
+  {
+    "i": 4614,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 7,
+    "t": "'Il decimo giorno di questo settimo mese, avrete una santa convocazione. Digiunerete e non farete alcun lavoro."
+  },
+  {
+    "i": 4615,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 8,
+    "t": "Offrirete un olocausto all'Eterno, in profumo di soavità: un toro, un montone, sette agnelli dell'anno, che sceglierete senza difetto."
+  },
+  {
+    "i": 4616,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 9,
+    "t": "L'oblazione congiunta, in fior di farina intrisa nell'olio, sarà di tre decimi per il toro, di due decimi per il montone,"
+  },
+  {
+    "i": 4617,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 10,
+    "t": "di un decimo per ciascuno dei sette agnelli."
+  },
+  {
+    "i": 4618,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 11,
+    "t": "Un capro sarà offerto in sacrificio per il peccato. Questo in aggiunta alla vittima per il peccato della festa delle Espiazioni, dell'olocausto perpetuo e della sua oblazione, e delle loro libazioni congiunte."
+  },
+  {
+    "i": 4619,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 12,
+    "t": "'Il quindicesimo giorno del settimo mese, avrete una santa convocazione, non farete alcun lavoro servile e per sette giorni celebrerete una festa per l'Eterno."
+  },
+  {
+    "i": 4620,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 13,
+    "t": "Offrirete un olocausto, cibo consumato in profumo di soavità per l'Eterno: tredici tori, due montoni, quattordici agnelli dell'anno, senza difetto."
+  },
+  {
+    "i": 4621,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 14,
+    "t": "Le oblazioni congiunte, in fior di farina intrisa nell'olio, saranno di tre decimi per ciascuno dei tredici tori, di due decimi per ciascuno dei due montoni,"
+  },
+  {
+    "i": 4622,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 15,
+    "t": "di un decimo per ciascuno dei quattordici agnelli."
+  },
+  {
+    "i": 4623,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 16,
+    "t": "Si aggiungerà un capro in sacrificio per il peccato. Questo in aggiunta all'olocausto perpetuo, alla sua oblazione e alla sua libazione."
+  },
+  {
+    "i": 4624,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 17,
+    "t": "Il secondo giorno: dodici tori, due montoni, quattordici agnelli dell'anno senza difetto;"
+  },
+  {
+    "i": 4625,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 18,
+    "t": "l'oblazione e le libazioni congiunte, fatte secondo la regola secondo il numero dei tori, dei montoni e degli agnelli;"
+  },
+  {
+    "i": 4626,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 19,
+    "t": "un capro per il sacrificio per il peccato; in aggiunta all'olocausto perpetuo, alla sua oblazione e alle sue libazioni."
+  },
+  {
+    "i": 4627,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 20,
+    "t": "Il terzo giorno: undici tori, due montoni, quattordici agnelli dell'anno, senza difetto;"
+  },
+  {
+    "i": 4628,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 21,
+    "t": "l'oblazione e le libazioni congiunte, fatte secondo la regola, secondo il numero dei tori, dei montoni e degli agnelli;"
+  },
+  {
+    "i": 4629,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 22,
+    "t": "un capro per il sacrificio per il peccato; in aggiunta all'olocausto perpetuo, alla sua oblazione e alla sua libazione."
+  },
+  {
+    "i": 4630,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 23,
+    "t": "Il quarto giorno: dieci tori, due montoni, quattordici agnelli dell'anno, senza difetto;"
+  },
+  {
+    "i": 4631,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 24,
+    "t": "l'oblazione e le libazioni congiunte, fatte secondo la regola, secondo il numero dei tori, dei montoni e degli agnelli;"
+  },
+  {
+    "i": 4632,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 25,
+    "t": "un capro per il sacrificio per il peccato; in aggiunta all'olocausto perpetuo, alla sua oblazione e alla sua libazione."
+  },
+  {
+    "i": 4633,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 26,
+    "t": "Il quinto giorno: nove tori, due montoni, quattordici agnelli dell'anno, senza difetto;"
+  },
+  {
+    "i": 4634,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 27,
+    "t": "le oblazioni e libazioni congiunte, fatte secondo la regola, secondo il numero dei tori, dei montoni e degli agnelli;"
+  },
+  {
+    "i": 4635,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 28,
+    "t": "un capro per il sacrificio per il peccato; in aggiunta all'olocausto perpetuo, alla sua oblazione e alla sua libazione."
+  },
+  {
+    "i": 4636,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 29,
+    "t": "Il sesto giorno: otto tori, due montoni, quattordici agnelli dell'anno, senza difetto;"
+  },
+  {
+    "i": 4637,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 30,
+    "t": "l'oblazione e le libazioni congiunte, fatte secondo la regola, secondo il numero dei tori, dei montoni e degli agnelli;"
+  },
+  {
+    "i": 4638,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 31,
+    "t": "un capro per il sacrificio per il peccato; in aggiunta all'olocausto perpetuo, alla sua oblazione e alle sue libazioni."
+  },
+  {
+    "i": 4639,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 32,
+    "t": "Il settimo giorno: sette tori, due montoni, quattordici agnelli dell'anno, senza difetto;"
+  },
+  {
+    "i": 4640,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 33,
+    "t": "le oblazioni e libazioni congiunte, fatte secondo la regola, secondo il numero dei tori, dei montoni e degli agnelli;"
+  },
+  {
+    "i": 4641,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 34,
+    "t": "un capro per il sacrificio per il peccato; in aggiunta all'olocausto perpetuo, alla sua oblazione e alla sua libazione."
+  },
+  {
+    "i": 4642,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 35,
+    "t": "L'ottavo giorno, avrete una riunione. Non farete alcun lavoro servile."
+  },
+  {
+    "i": 4643,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 36,
+    "t": "Offrirete un olocausto, cibo consumato in profumo di soavità per l'Eterno: un toro, un montone, sette agnelli dell'anno, senza difetto;"
+  },
+  {
+    "i": 4644,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 37,
+    "t": "l'oblazione e le libazioni congiunte, fatte secondo la regola, secondo il numero dei tori, dei montoni e degli agnelli;"
+  },
+  {
+    "i": 4645,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 38,
+    "t": "un capro per il sacrificio per il peccato; in aggiunta all'olocausto perpetuo, alla sua oblazione e alla sua libazione."
+  },
+  {
+    "i": 4646,
+    "b": 3,
+    "c": 429,
+    "r": 429,
+    "o": 39,
+    "t": "Questo è ciò che farete per l'Eterno, durante le vostre solennità, in aggiunta alle vostre offerte votive e alle vostre offerte volontarie, ai vostri olocausti, oblazioni e libazioni, e ai vostri sacrifici di comunione.'"
+  },
+  {
+    "i": 4647,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 1,
+    "t": "Mosè parlò agli Israeliti conformemente a tutto ciò che l'Eterno gli aveva ordinato."
+  },
+  {
+    "i": 4648,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 2,
+    "t": "Mosè parlò ai capi tribù degli Israeliti. Disse: 'Ecco ciò che l'Eterno ha ordinato."
+  },
+  {
+    "i": 4649,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 3,
+    "t": "Se un uomo fa un voto all'Eterno o prende con giuramento un impegno formale, non violerà la sua parola: tutto ciò che è uscito dalla sua bocca, lo eseguirà."
+  },
+  {
+    "i": 4650,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 4,
+    "t": "Se una donna fa un voto all'Eterno o prende un impegno formale, mentre, ancora giovane, abita nella casa di suo padre,"
+  },
+  {
+    "i": 4651,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 5,
+    "t": "e se questi, apprendendo il suo voto o l'impegno che ha preso, non le dice nulla, il suo voto, qualunque esso sia, sarà valido, e l'impegno che ha preso, qualunque esso sia, sarà valido."
+  },
+  {
+    "i": 4652,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 6,
+    "t": "Ma se suo padre, il giorno in cui lo apprende, vi fa opposizione, nessuno dei suoi voti e nessuno degli impegni che ha preso saranno validi. L'Eterno non le ne terrà conto, poiché è suo padre che vi ha fatto opposizione."
+  },
+  {
+    "i": 4653,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 7,
+    "t": "Se, essendo tenuta da voti o da un impegno uscito incautamente dalla sua bocca, si sposa,"
+  },
+  {
+    "i": 4654,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 8,
+    "t": "e se suo marito, apprendendolo, non le dice nulla il giorno in cui ne è informato, i suoi voti saranno validi e gli impegni che ha preso saranno validi."
+  },
+  {
+    "i": 4655,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 9,
+    "t": "Ma se, il giorno in cui lo apprende, suo marito le fa opposizione, annullerà il voto che la tiene o l'impegno che la obbliga, uscito incautamente dalla sua bocca. L'Eterno non le ne terrà conto."
+  },
+  {
+    "i": 4656,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 10,
+    "t": "Il voto di una donna vedova o ripudiata, e tutti gli impegni che ha preso, saranno validi per lei."
+  },
+  {
+    "i": 4657,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 11,
+    "t": "Se è nella casa di suo marito che ha fatto un voto, o preso un impegno con giuramento,"
+  },
+  {
+    "i": 4658,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 12,
+    "t": "e se, apprendendolo, suo marito non le dice nulla e non vi fa opposizione, il suo voto, qualunque esso sia, sarà valido e l'impegno che ha preso, qualunque esso sia, sarà valido."
+  },
+  {
+    "i": 4659,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 13,
+    "t": "Ma se suo marito, apprendendoli, li annulla il giorno in cui ne è informato, nulla sarà valido di ciò che è uscito dalla sua bocca, voti o impegni. Suo marito avendoli annullati, l'Eterno non le ne terrà conto."
+  },
+  {
+    "i": 4660,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 14,
+    "t": "Ogni voto e ogni giuramento che impegna la donna, suo marito può convalidarli o annullarli."
+  },
+  {
+    "i": 4661,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 15,
+    "t": "Se l'indomani suo marito non le ha detto nulla, è che convalida il suo voto, qualunque esso sia, o il suo impegno, qualunque esso sia. Li ha convalidati se non le dice nulla il giorno in cui ne è informato."
+  },
+  {
+    "i": 4662,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 16,
+    "t": "Ma se, informato, li annulla più tardi, è lui che porterà il peso della colpa che incomberà a sua moglie.'"
+  },
+  {
+    "i": 4663,
+    "b": 3,
+    "c": 430,
+    "r": 430,
+    "o": 17,
+    "t": "Tali sono le leggi che l'Eterno prescrisse a Mosè, per quanto riguarda la relazione tra un uomo e sua moglie, e tra un padre e sua figlia quando, ancora giovane, abita nella casa di suo padre."
+  },
+  {
+    "i": 4664,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 1,
+    "t": "L'Eterno parlò a Mosè e disse:"
+  },
+  {
+    "i": 4665,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 2,
+    "t": "'Compi la vendetta degli Israeliti sui Madianiti. Poi sarai riunito ai tuoi.'"
+  },
+  {
+    "i": 4666,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 3,
+    "t": "Mosè parlò così al popolo: 'Che alcuni di voi si armino per la campagna dell'Eterno contro Madian, per pagare a Madian il salario della vendetta dell'Eterno."
+  },
+  {
+    "i": 4667,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 4,
+    "t": "Metterete in campo mille uomini per ciascuna delle tribù d'Israele.'"
+  },
+  {
+    "i": 4668,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 5,
+    "t": "Le migliaia d'Israele fornirono, a ragione di un migliaio per tribù, dodici-mila uomini armati per la campagna."
+  },
+  {
+    "i": 4669,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 6,
+    "t": "Mosè li mise in campo, un migliaio per tribù, e unì loro Fineas, figlio di Eleazaro il sacerdote, portatore degli oggetti sacri e delle trombe per le acclamazioni."
+  },
+  {
+    "i": 4670,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 7,
+    "t": "Fecero campagna contro Madian, come l'Eterno aveva ordinato a Mosè, e uccisero tutti i maschi."
+  },
+  {
+    "i": 4671,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 8,
+    "t": "Inoltre, uccisero i re di Madian, Evi, Rechem, Cur, Hur e Reba, cinque re madianiti; passarono anche al fil di spada Balaam, figlio di Beor."
+  },
+  {
+    "i": 4672,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 9,
+    "t": "Gli Israeliti condussero prigioniere le donne dei Madianiti con i loro piccoli bambini, razziarono tutto il loro bestiame, tutte le loro greggi e tutti i loro beni."
+  },
+  {
+    "i": 4673,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 10,
+    "t": "Misero il fuoco alle città che abitavano così come a tutti i loro accampamenti."
+  },
+  {
+    "i": 4674,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 11,
+    "t": "Poi, prendendo tutto il loro bottino, tutto ciò che avevano catturato, bestie e gente,"
+  },
+  {
+    "i": 4675,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 12,
+    "t": "amenarono prigionieri, prede e bottino a Mosè, a Eleazaro il sacerdote e a tutta la comunità degli Israeliti, fino al campo, alle Steppe di Moab che si trovano presso il Giordano verso Gerico."
+  },
+  {
+    "i": 4676,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 13,
+    "t": "Mosè, Eleazaro il sacerdote e tutti i principi della comunità uscirono dal campo al loro incontro."
+  },
+  {
+    "i": 4677,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 14,
+    "t": "Mosè si adirò contro i comandanti delle forze, capi di migliaia e capi di centinaia, che tornavano da questa spedizione guerriera."
+  },
+  {
+    "i": 4678,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 15,
+    "t": "Disse loro: 'Perché avete lasciato la vita a tutte le donne?"
+  },
+  {
+    "i": 4679,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 16,
+    "t": "Sono loro che, su consiglio di Balaam, sono state per gli Israeliti una causa d'infedeltà all'Eterno nell'affare di Peor: da dove il flagello che ha colpito la comunità dell'Eterno.'"
+  },
+  {
+    "i": 4680,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 17,
+    "t": "Ora, dunque, trucidate ogni maschio infante e trucidate ogni donna che giacque con uomo."
+  },
+  {
+    "i": 4681,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 18,
+    "t": "Ma salvate per voi tutte le fanciulle che non conobbero uomo nel talamo nuziale."
+  },
+  {
+    "i": 4682,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 19,
+    "t": "E voi, dimorate fuori dell'accampamento per sette giorni, voi tutti che uccideste alcuno o toccaste cadavere. Purificatevi, voi e i vostri prigionieri, al terzo e al settimo giorno;"
+  },
+  {
+    "i": 4683,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 20,
+    "t": "e purificate ogni veste, ogni oggetto di cuoio, ogni tessuto di pelo di capra, ogni oggetto di legno."
+  },
+  {
+    "i": 4684,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 21,
+    "t": "Eleazaro il sacerdote disse ai guerrieri reduci da questa battaglia: \"Questo è un precetto che il Signore comandò a Mosè."
+  },
+  {
+    "i": 4685,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 22,
+    "t": "Or dunque, l'oro, l'argento, il bronzo, il ferro, lo stagno, il piombo,"
+  },
+  {
+    "i": 4686,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 23,
+    "t": "quanto può resistere al fuoco, fatelo passare per il fuoco, e sarà purificato; ma con l'acqua lustrale sarà mondato. Quanto non può resistere al fuoco, fatelo passare per l'acqua."
+  },
+  {
+    "i": 4687,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 24,
+    "t": "Lavate le vostre vesti al settimo giorno e sarete mondi. Poi potrete rientrare nell'accampamento."
+  },
+  {
+    "i": 4688,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 25,
+    "t": "Il Signore parlò a Mosè, dicendo:"
+  },
+  {
+    "i": 4689,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 26,
+    "t": "\"Prendi, con Eleazaro il sacerdote e con i capi delle famiglie della comunità, il computo delle prede e dei prigionieri, uomini e bestie."
+  },
+  {
+    "i": 4690,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 27,
+    "t": "Poi dividerai le prede, a metà, tra i combattenti che fecero la campagna e l'intera comunità."
+  },
+  {
+    "i": 4691,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 28,
+    "t": "Come tributo al Signore, preleverai, dalla parte dei combattenti che fecero la campagna, uno su cinquecento tra uomini, bestiame grosso, asini e bestiame minuto."
+  },
+  {
+    "i": 4692,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 29,
+    "t": "Prenderai ciò dalla metà che spetta loro, e lo darai a Eleazaro il sacerdote, come prelievo per il Signore."
+  },
+  {
+    "i": 4693,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 30,
+    "t": "Dalla metà che spetta agli Israeliti prenderai uno su cinquanta tra uomini, bestiame grosso, asini e bestiame minuto, di tutte le bestie, e lo darai ai Leviti che assolvono l'incarico della Dimora del Signore."
+  },
+  {
+    "i": 4694,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 31,
+    "t": "Mosè ed Eleazaro il sacerdote fecero come il Signore aveva comandato a Mosè."
+  },
+  {
+    "i": 4695,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 32,
+    "t": "Or le prede, il resto del bottino che la truppa partita in campagna aveva razziato, ammontavano a seicentomila capi di bestiame minuto,"
+  },
+  {
+    "i": 4696,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 33,
+    "t": "settantaduemila capi di bestiame grosso,"
+  },
+  {
+    "i": 4697,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 34,
+    "t": "sessantunmila asini,"
+  },
+  {
+    "i": 4698,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 35,
+    "t": "e, quanto a uomini, donne che non conobbero uomo nel talamo nuziale, sedicimila persone in tutto."
+  },
+  {
+    "i": 4699,
+    "b": 3,
+    "c": 431,
+    "r": 431,
+    "o": 36,
+    "t": "La metà ne fu assegnata a coloro che avevano fatto campagna, cioè 337.500 capi di bestiame minuto,"
+  }
+]

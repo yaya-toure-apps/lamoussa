@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "Portanto, reputareis impuro o arganaz, porque, ainda que rumine, não tem unhas fendidas;"
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "Também a lebre, porquanto rumina, mas não tem unhas fendidas, vos será imunda;"
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "Do mesmo modo, o porco, porque tem unhas fendidas, e a fenda das unhas se divide em duas, mas não rumina, este vos será imundo;"
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "Da sua carne não comereis, nem tocareis no seu cadáver; eles vos serão imundos;"
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "Estes comereis de tudo o que há nas águas: tudo o que tem barbatanas e escamas, nos mares e nos rios, isso comereis;"
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "Mas tudo o que não tem barbatanas, nem escamas, nos mares e nos rios, todo o réptil das águas, e todo o ser vivente que estiver nas águas, será para vós abominação;"
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "Sim, abominação vos serão; da sua carne não comereis, e abominareis o seu cadáver;"
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "Todo o que não tem barbatanas nem escamas nas águas, será para vós abominação;"
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "E estas são as aves que abominareis; não se comerão, abominação são: a águia, o quebrantosso, o abutre,"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "o milhafre, o falcão segundo a sua espécie,"
+  },
+  {
+    "i": 3010,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 15,
+    "t": "todo o corvo segundo a sua espécie,"
+  },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "o avestruz, o mocho, a gaivota, o gavião segundo a sua espécie,"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "o corujão, o corvo marinho, a coruja,"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "o íbis, o pelicano, o grifo,"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "a cegonha, a garça segundo a sua espécie, a poupa e o morcego;"
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "Todo inseto que voa, que anda sobre quatro pés, será para vós abominação;"
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "Contudo, isto comereis de todo o inseto que voa, que anda sobre quatro pés: o que tem pernas além dos seus pés, para saltar com elas sobre a terra;"
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "Deles comereis estes: a locusta segundo a sua espécie, o gafanhoto devastador segundo a sua espécie, o grilo segundo a sua espécie, e o gafanhoto voador segundo a sua espécie;"
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "Mas todo o outro inseto que voa, que tem quatro pés, será para vós abominação;"
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "E por estes vos tornareis imundos; qualquer que tocar o seu cadáver será imundo até a tarde;"
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "E qualquer que levar o seu cadáver lavará as suas vestes, e será imundo até a tarde;"
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "Todo animal que tem unhas fendidas, mas não as tem totalmente divididas, e não rumina, vos será imundo; qualquer que tocar neles será imundo;"
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "E todos os que andam sobre as suas patas, entre todos os animais que andam sobre quatro pés, vos serão imundos; qualquer que tocar nos seus cadáveres será imundo até a tarde;"
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "E quem levar os seus cadáveres lavará as suas vestes, e será imundo até a tarde; esses vos serão imundos;"
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "Estes também vos serão imundos entre os répteis que se arrastam sobre a terra: a doninha, o rato, o lagarto segundo a sua espécie,"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "o nambuco, a lagartixa, a lagarta, e o camaleão;"
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "Esses vos serão imundos entre todos os répteis; qualquer que tocar neles, quando estiverem mortos, será imundo até a tarde;"
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "E tudo aquilo sobre o que cair algum deles, depois de mortos, será imundo; seja vaso de madeira, ou veste, ou pele, ou saco, seja qualquer instrumento de que se faça alguma obra, será lavado com água, e será imundo até a tarde; depois será limpo;"
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "E todo vaso de barro, em que cair algum deles, tudo o que estiver dentro será imundo, e o vaso quebrareis;"
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "Todo alimento que se comer, sobre o qual vier água, será imundo; e toda bebida que se beber, em todo vaso, será imunda;"
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "E tudo aquilo sobre o que cair alguma parte do seu cadáver será imundo; seja forno, ou fogão, será quebrado; imundos são, portanto vos serão por imundos;"
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "Somente a fonte ou cisterna, em que se recolhe muita água, será limpa; mas o que tocar no seu cadáver será imundo;"
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "E se alguma parte do seu cadáver cair sobre alguma semente que se houver de semear, será limpa;"
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "Mas, se sobre a semente já houver caído água, e alguma parte do seu cadáver cair sobre ela, essa vos será imunda;"
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "E se morrer algum dos animais, que vos servem de alimento, quem tocar no seu cadáver será imundo até a tarde;"
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "E quem comer do seu cadáver lavará as suas vestes, e será imundo até a tarde; e quem levar o seu cadáver lavará as suas vestes, e será imundo até a tarde;"
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "Todo réptil que se arrasta sobre a terra é abominação; não se comerá;"
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "Tudo o que anda sobre o ventre, e tudo o que anda sobre quatro pés, ou que tem muitos pés, enfim, todo réptil que se arrasta sobre a terra, não os comereis, porque são abominação;"
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "Não vos façais abomináveis, portanto, com nenhum réptil que se arrasta; nem neles vos contaminareis, para que não sejais imundos;"
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "Porque eu sou o Senhor vosso Deus; portanto vós vos santificareis, e sereis santos, porque eu sou santo; e não vos contaminareis com nenhum réptil que se arrasta sobre a terra;"
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "Porque eu sou o Senhor, que vos faço subir da terra do Egito, para ser o vosso Deus; portanto sereis santos, porque eu sou santo;"
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "Esta é a lei dos animais e das aves, e de todo ser vivente que se move nas águas, e de todo ser que se arrasta sobre a terra;"
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "Para fazer separação entre o imundo e o limpo, e entre os animais que se podem comer e os animais que não se devem comer;"
+  },
+  {
+    "i": 3043,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 1,
+    "t": "Disse mais o Senhor a Moisés:"
+  },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Fala aos filhos de Israel, dizendo: Se uma mulher conceber e tiver um menino, será imunda sete dias; como nos dias da sua menstruação, será imunda;"
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "E ao oitavo dia se circuncidará ao menino a carne do seu prepúcio;"
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "Depois ficará ela trinta e três dias a purificar-se do seu sangue; não tocará coisa alguma sagrada, nem entrará no santuário até que se cumpram os dias da sua purificação;"
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "Mas, se tiver uma menina, será imunda duas semanas, como na sua menstruação; depois ficará sessenta e seis dias a purificar-se do seu sangue;"
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "E, cumpridos os dias da sua purificação, seja por filho seja por filha, trará um cordeiro de um ano para holocausto, e um pombinho ou uma rola para oferta pelo pecado, à porta da tenda da revelação, ao sacerdote;"
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "Ele os oferecerá perante o Senhor, e fará expiação por ela; e ela será limpa do fluxo do seu sangue; esta é a lei da que tiver um filho, seja menino ou menina;"
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "Mas, se as suas posses não lhe permitirem trazer um cordeiro, então tomará duas rolas, ou dois pombinhos, um para holocausto e o outro para oferta pelo pecado; assim o sacerdote fará expiação por ela, e ela será limpa;"
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "Disse mais o Senhor a Moisés e a Arão:"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "Quando um homem tiver na pele da sua carne tumor, ou pústula, ou mancha lustrosa, e isso se tornar praga de lepra na pele da sua carne, então será levado a Arão, o sacerdote, ou a um de seus filhos, os sacerdotes;"
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "O sacerdote examinará a praga na pele da carne; se o pêlo no lugar da praga se tiver tornado branco, e a praga parecer mais funda do que a pele da sua carne, é praga de lepra; o sacerdote, pois, o examinará, e o declarará imundo;"
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "Mas, se a mancha lustrosa for branca na pele da sua carne, e não parecer mais funda do que a pele, nem o pêlo se tiver tornado branco, então o sacerdote encerrará por sete dias o que tem a praga;"
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "E o sacerdote o examinará ao sétimo dia; se, em seu parecer, a praga tiver ficado na sua cor, e não se tiver estendido na pele, então o sacerdote o encerrará por outros sete dias;"
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "E o sacerdote o examinará outra vez ao sétimo dia; se a praga tiver diminuído, e não se tiver estendido na pele, então o sacerdote o declarará limpo; era pústula; portanto lavará as suas vestes, e será limpo;"
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "Mas se a pústula de qualquer maneira se estender na pele, depois que ele se mostrou ao sacerdote para ser declarado limpo, então se mostrará outra vez ao sacerdote;"
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "E o sacerdote o examinará; e, se a pústula se tiver estendido na pele, o sacerdote o declarará imundo; é lepra;"
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "Quando num homem houver praga de lepra, será levado ao sacerdote;"
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "O sacerdote o examinará, e se houver na pele um tumor branco, o qual tiver tornado branco o pêlo, e houver carne viva no tumor,"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "é lepra inveterada na pele da sua carne; pelo que o sacerdote o declarará imundo; não o encerrará, porque imundo está;"
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "Mas, se a lepra florescer grandemente na pele, e a lepra cobrir toda a pele do que tem a praga, desde a sua cabeça até aos seus pés, quanto podem ver os olhos do sacerdote,"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "Então o sacerdote o examinará; e, se a lepra tiver coberto toda a sua carne, declarará limpo o que tem a praga; porquanto toda ela se tornou branca, limpo está;"
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "Mas no dia em que aparecer nele carne viva, será imundo;"
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "O sacerdote examinará a carne viva, e o declarará imundo; a carne viva é imunda; é lepra;"
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "Porém, quando a carne viva tornar a mudar e se tornar branca, então virá ao sacerdote;"
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "E o sacerdote o examinará; e, se a praga se tiver tornado branca, então o sacerdote declarará limpo o que tem a praga; limpo está;"
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "Se a carne de alguém tiver tido na sua pele uma chaga, que sarou,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "E no lugar da chaga houver um tumor branco, ou uma mancha lustrosa, branca avermelhada, mostrar-se-á ao sacerdote;"
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "O sacerdote o examinará, e, se parecer mais funda do que a pele, e o pêlo se tiver tornado branco, o sacerdote o declarará imundo; é praga de lepra que brotou na chaga;"
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "Porém, se o sacerdote a examinar, e nela não houver pêlo branco, e não for mais funda do que a pele, mas estiver escura, então o sacerdote o encerrará por sete dias;"
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "E, se de alguma maneira se estender na pele, o sacerdote o declarará imundo; é praga;"
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "Mas se a mancha lustrosa ficar no seu lugar, e não se estender, então é cicatriz da chaga; pelo que o sacerdote o declarará limpo;"
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Ou, quando a carne de alguém tiver na sua pele uma queimadura de fogo, e sobre a queimadura houver uma mancha lustrosa, branca avermelhada, ou branca,"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "O sacerdote a examinará; e, se o pêlo na mancha lustrosa se tiver tornado branco, e ela parecer mais funda do que a pele, então é lepra que brotou na queimadura; pelo que o sacerdote o declarará imundo; é praga de lepra;"
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "Porém, se o sacerdote a examinar, e na mancha lustrosa não houver pêlo branco, nem for mais funda do que a pele, mas estiver escura, então o sacerdote o encerrará por sete dias;"
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "E o sacerdote o examinará ao sétimo dia; se de alguma maneira se houver estendido na pele, o sacerdote o declarará imundo; é praga de lepra;"
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "Mas, se a mancha lustrosa ficar no seu lugar, e não se estender na pele, mas estiver escura, então é tumor da queimadura; pelo que o sacerdote o declarará limpo, porque é cicatriz da queimadura;"
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "Quando um homem ou mulher tiver uma praga na cabeça ou na barba,"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "Então o sacerdote examinará a praga, e eis que, se a aparência da crosta for mais baixa do que a pele, e o pelo dela for amarelo ralo, então o sacerdote o declarará imundo; é tinha, é lepra da cabeça ou da barba."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "Mas, se o sacerdote examinar a praga da tinha, e eis que a sua aparência não for mais baixa do que a pele, e nela não houver pelo amarelo, então o sacerdote encerrará por sete dias aquele que tem a tinha."
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "E o sacerdote examinará a praga ao sétimo dia; e eis que, se a tinha não se tiver estendido, e nela não houver pelo amarelo, e a aparência da tinha não for mais baixa do que a pele,"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "Então se rapará, porém a tinha não rapará; e o sacerdote encerrará o que tem a tinha por outros sete dias."
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "Depois o sacerdote examinará a tinha ao sétimo dia; e eis que, se a tinha não se tiver estendido na pele, e a sua aparência não for mais baixa do que a pele, então o sacerdote o declarará limpo; e lavará as suas vestes, e será limpo."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "Mas, se a tinha se estender muito na pele, depois da sua purificação,"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "Então o sacerdote o examinará; e, se a tinha se houver estendido na pele, o sacerdote o declarará imundo; é lepra."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "Porém, se a tinha estiver ao seu parecer estática, e nela tiver crescido pelo preto, então a tinha está curada; limpo está, e o sacerdote o declarará limpo."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "Quando na pele do corpo do homem ou da mulher houver manchas lustrosas, manchas brancas,"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "Então o sacerdote as examinará; e, se as manchas na pele de seus corpos forem brancas escuras, é sarna que brotou na pele; limpo está."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "E, quando a cabeça de um homem se tornar calva, calvo é, limpo está."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "E, se a sua calva estiver à frente da sua cabeça, calvo da testa é, limpo está."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "Mas, se na calva ou na testa calva houver praga branco-avermelhada, é lepra que brotou na sua calva ou na sua testa calva."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "Então o sacerdote o examinará, e eis que, se a inchação da praga na sua calva ou na sua testa calva for branco-avermelhada, conforme a aparência da lepra na pele do corpo,"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "Leproso é; imundo está certamente; o sacerdote o declarará totalmente imundo; a sua praga está na sua cabeça."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "E as vestes do leproso, em quem está a praga, serão rasgadas, e a sua cabeça será descoberta, e cobrirá o lábio superior, e clamará: Imundo, imundo!"
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "Todos os dias em que a praga estiver nele, será imundo; imundo está, habitará só; a sua habitação será fora do arraial."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "Quando também alguma praga de lepra estiver em alguma veste, quer seja veste de lã, quer de linho,"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "Ou no fio urdido, ou na trama, de linho, ou de lã; ou em pele, ou em qualquer obra de peles,"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "E a praga for esverdeada ou avermelhada na veste, ou na pele, ou no fio urdido, ou na trama, ou em qualquer obra de peles, praga de lepra é, e mostrar-se-á ao sacerdote."
+  }
+]

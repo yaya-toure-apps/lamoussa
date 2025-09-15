@@ -1,0 +1,802 @@
+[
+  {
+    "i": 17000,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 9,
+    "t": "Een valse getuige zal niet ongestraft blijven, en hij die leugens spreekt, zal vergaan."
+  },
+  {
+    "i": 17001,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 10,
+    "t": "Het past een dwaas niet om in weelde te leven, laat staan een slaaf om over vorsten te heersen."
+  },
+  {
+    "i": 17002,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 11,
+    "t": "De wijsheid maakt een mens traag tot toorn, en zijn eer is het een overtreding door de vingers te zien."
+  },
+  {
+    "i": 17003,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 12,
+    "t": "De grimmigheid des konings is als het brullen van een leeuw, maar zijn gunst is als dauw op het gras."
+  },
+  {
+    "i": 17004,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 13,
+    "t": "Een dwaze zoon is een ramp voor zijn vader, en het gekijf van een vrouw is als een gestadig druppelen."
+  },
+  {
+    "i": 17005,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 14,
+    "t": "Huis en have zijn een erfenis van de vaderen, maar een verstandige vrouw komt van de Heere."
+  },
+  {
+    "i": 17006,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 15,
+    "t": "Luiheid doet in diepe slaap vallen, en een nonchalante ziel zal honger lijden."
+  },
+  {
+    "i": 17007,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 16,
+    "t": "Wie het gebod bewaart, bewaart zijn ziel, maar wie zijn wegen veracht, zal sterven."
+  },
+  {
+    "i": 17008,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 17,
+    "t": "Wie zich ontfermt over de arme, leent aan de Heere, Die hem zijn weldaad zal vergelden."
+  },
+  {
+    "i": 17009,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 18,
+    "t": "Tuchtig uw zoon, zolang er hoop is, maar laat uw ziel zich niet verheffen om hem te doden."
+  },
+  {
+    "i": 17010,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 19,
+    "t": "Een man van geweld zal een boete moeten betalen; want als u hem spaart, vermenigvuldigt u zijn kwaad."
+  },
+  {
+    "i": 17011,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 20,
+    "t": "Hoor naar raad en ontvang onderwijs, opdat u in uw laatste dagen wijs zult zijn."
+  },
+  {
+    "i": 17012,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 21,
+    "t": "Vele plannen zijn in het hart van een man, maar de raad des Heeren, die zal standhouden."
+  },
+  {
+    "i": 17013,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 22,
+    "t": "De wens van een mens is zijn barmhartigheid; een arme is beter dan een leugenaar."
+  },
+  {
+    "i": 17014,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 23,
+    "t": "De vreze des Heeren leidt tot het leven, en men zal verzadigd overnachten, zonder door kwaad bezocht te worden."
+  },
+  {
+    "i": 17015,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 24,
+    "t": "De luiaard steekt zijn hand in de schaal, maar zelfs tot zijn mond brengt hij hem niet terug."
+  },
+  {
+    "i": 17016,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 25,
+    "t": "Sla de spotter, en de onervarene zal wijs worden; bestraf een verstandig man, en hij zal kennis begrijpen."
+  },
+  {
+    "i": 17017,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 26,
+    "t": "Wie zijn vader mishandelt en zijn moeder wegjaagt, is een schandelijke en smadelijke zoon."
+  },
+  {
+    "i": 17018,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 27,
+    "t": "Houd op, mijn zoon, naar onderwijs te luisteren, om af te dwalen van de woorden der kennis."
+  },
+  {
+    "i": 17019,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 28,
+    "t": "Een verdorven getuige bespot het recht, en de mond der goddelozen slokt ongerechtigheid in."
+  },
+  {
+    "i": 17020,
+    "b": 19,
+    "c": 2119,
+    "r": 2119,
+    "o": 29,
+    "t": "Oordelen staan gereed voor spotters, en slagen voor de rug van dwazen."
+  },
+  {
+    "i": 17021,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 1,
+    "t": "Wijn is een spotter, drank is een luidruchtige; wie zich daardoor laat misleiden, is niet wijs."
+  },
+  {
+    "i": 17022,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 2,
+    "t": "De schrik des konings is als het brullen van een leeuw; wie hem tot toorn verwekt, zondigt tegen zijn eigen ziel."
+  },
+  {
+    "i": 17023,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 3,
+    "t": "Het is een eer voor een man om van twist af te zien, maar elke dwaas zal ruzie zoeken."
+  },
+  {
+    "i": 17024,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 4,
+    "t": "De luiaard ploegt niet in de herfst; daarom zal hij in de oogsttijd zoeken, maar er zal niets zijn."
+  },
+  {
+    "i": 17025,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 5,
+    "t": "Raad in het hart van een man is als diep water, maar een verstandig man zal het naar boven halen."
+  },
+  {
+    "i": 17026,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 6,
+    "t": "Velen roepen uit: Ik ben goedertieren! maar wie zal een betrouwbaar mens vinden?"
+  },
+  {
+    "i": 17027,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 7,
+    "t": "De rechtvaardige wandelt in zijn oprechtheid; gelukkig zijn zijn kinderen na hem!"
+  },
+  {
+    "i": 17028,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 8,
+    "t": "Een koning die zetelt op de rechterstoel, schift al het kwade met zijn ogen."
+  },
+  {
+    "i": 17029,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 9,
+    "t": "Wie kan zeggen: Ik heb mijn hart gereinigd, ik ben rein van mijn zonde?"
+  },
+  {
+    "i": 17030,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 10,
+    "t": "Tweeërlei gewicht, tweeërlei maat, beide zijn de Heere een gruwel."
+  },
+  {
+    "i": 17031,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 11,
+    "t": "Zelfs door zijn daden maakt een jongeman zich bekend, of zijn werk zuiver en of het recht is."
+  },
+  {
+    "i": 17032,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 12,
+    "t": "Het horende oor en het ziende oog, de Heere heeft ze beide gemaakt."
+  },
+  {
+    "i": 17033,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 13,
+    "t": "Heb de slaap niet lief, anders zult u arm worden; open uw ogen, dan zult u van brood verzadigd worden."
+  },
+  {
+    "i": 17034,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 14,
+    "t": "Slecht! slecht! zegt de koper, maar als hij weggaat, beroemt hij zich."
+  },
+  {
+    "i": 17035,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 15,
+    "t": "Er is goud, en een overvloed aan robijnen, maar de lippen der kennis zijn een kostbaar sieraad."
+  },
+  {
+    "i": 17036,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 16,
+    "t": "Neem iemands kleed in pand, want hij heeft zich borg gesteld voor een vreemde; en neem een onderpand van haar ten gunste van onbekenden."
+  },
+  {
+    "i": 17037,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 17,
+    "t": "Gestolen brood is zoet voor een man, maar daarna zal zijn mond vol grind zijn."
+  },
+  {
+    "i": 17038,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 18,
+    "t": "Door raad worden plannen bevestigd; voer daarom de oorlog met wijze beraadslaging."
+  },
+  {
+    "i": 17039,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 19,
+    "t": "Wie roddelt, onthult geheimen; laat u niet in met wie zijn lippen opendoet."
+  },
+  {
+    "i": 17040,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 20,
+    "t": "Wie zijn vader en zijn moeder vervloekt, diens lamp zal uitgedoofd worden in diepe duisternis."
+  },
+  {
+    "i": 17041,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 21,
+    "t": "Een erfdeel dat in het begin haastig verworven is, zal in het einde niet gezegend zijn."
+  },
+  {
+    "i": 17042,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 22,
+    "t": "Zeg niet: Ik zal kwaad vergelden! Wacht op de Heere, en Hij zal u verlossen."
+  },
+  {
+    "i": 17043,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 23,
+    "t": "Tweeërlei gewicht is de Heere een gruwel, en een valse weegschaal is niet goed."
+  },
+  {
+    "i": 17044,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 24,
+    "t": "De gang van een man is door de Heere; hoe kan dan een mens zijn weg begrijpen?"
+  },
+  {
+    "i": 17045,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 25,
+    "t": "Het is een valstrik voor een mens om haastig te zeggen: Dit is heilig! en na de geloften na te denken."
+  },
+  {
+    "i": 17046,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 26,
+    "t": "Een wijs koning schift de goddelozen en doet het rad over hen heen gaan."
+  },
+  {
+    "i": 17047,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 27,
+    "t": "De geest van een mens is een lamp des Heeren, die al de binnenste delen van het lichaam doorzoekt."
+  },
+  {
+    "i": 17048,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 28,
+    "t": "Goedertierenheid en waarheid bewaren de koning; door goedertierenheid wordt zijn troon geschraagd."
+  },
+  {
+    "i": 17049,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 29,
+    "t": "De luister van jonge mannen is hun kracht, en de sieraad van oude mannen is hun grijsheid."
+  },
+  {
+    "i": 17050,
+    "b": 19,
+    "c": 2120,
+    "r": 2120,
+    "o": 30,
+    "t": "Striemen zijn een geneesmiddel tegen het kwade, en slagen dringen door tot het binnenste van het lichaam."
+  },
+  {
+    "i": 17051,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 1,
+    "t": "Het hart van de koning is in de hand des Heeren als waterbeken; Hij neigt het tot alles wat Hem behaagt."
+  },
+  {
+    "i": 17052,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 2,
+    "t": "Alle wegen van een man zijn rein in zijn eigen ogen, maar de Heere weegt de harten."
+  },
+  {
+    "i": 17053,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 3,
+    "t": "Recht doen en gerechtigheid betrachten is voor de Heere aangenamer dan offers."
+  },
+  {
+    "i": 17054,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 4,
+    "t": "Hogere ogen en een trots hart, de lamp der goddelozen, is zonde."
+  },
+  {
+    "i": 17055,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 5,
+    "t": "De plannen van de vlijtige leiden slechts tot overvloed, maar van ieder die zich haast, slechts tot gebrek."
+  },
+  {
+    "i": 17056,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 6,
+    "t": "Schatten verwerven door een valse tong is een voorbijgaande zucht, een zoeken naar de dood."
+  },
+  {
+    "i": 17057,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 7,
+    "t": "De verwoesting der goddelozen zal hen meesleuren, want zij weigeren recht te doen."
+  },
+  {
+    "i": 17058,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 8,
+    "t": "De weg van een schuldige man is verdraaid, maar het werk van de reine is recht."
+  },
+  {
+    "i": 17059,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 9,
+    "t": "Het is beter te wonen in een hoek van het dak dan in een gemeenschappelijk huis met een twistzieke vrouw."
+  },
+  {
+    "i": 17060,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 10,
+    "t": "De ziel van de goddeloze verlangt naar het kwade; zijn naaste vindt geen genade in zijn ogen."
+  },
+  {
+    "i": 17061,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 11,
+    "t": "Wanneer de spotter gestraft wordt, wordt de onervarene wijs; en wanneer de wijze onderwijs ontvangt, neemt hij kennis aan."
+  },
+  {
+    "i": 17062,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 12,
+    "t": "De Rechtvaardige beschouwt het huis van de goddeloze: Hij stort de goddelozen in het ongeluk."
+  },
+  {
+    "i": 17063,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 13,
+    "t": "Wie zijn oor sluit voor het geroep van de arme, zal zelf ook roepen, maar zal niet gehoord worden."
+  },
+  {
+    "i": 17064,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 14,
+    "t": "Een geschenk in het verborgen keert de toorn af, en een geschenk in de schoot de hevige woede."
+  },
+  {
+    "i": 17065,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 15,
+    "t": "Het is een vreugde voor de rechtvaardige om recht te doen, maar voor de werkers van ongerechtigheid is het een verschrikking."
+  },
+  {
+    "i": 17066,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 16,
+    "t": "Een man die afdwaalt van de weg der wijsheid, zal rusten in de vergadering der schimmen."
+  },
+  {
+    "i": 17067,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 17,
+    "t": "Wie van vreugde houdt, zal arm blijven; wie van wijn en olie houdt, zal niet rijk worden."
+  },
+  {
+    "i": 17068,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 18,
+    "t": "De goddeloze is een losprijs voor de rechtvaardige; en voor de oprechten: de verrader."
+  },
+  {
+    "i": 17069,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 19,
+    "t": "Het is beter te wonen in een verlaten land dan bij een twistzieke en verdrietige vrouw."
+  },
+  {
+    "i": 17070,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 20,
+    "t": "In de woning van de wijze is een kostbare schat en olie, maar een dwaas verslindt het."
+  },
+  {
+    "i": 17071,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 21,
+    "t": "Wie gerechtigheid en goedertierenheid najaagt, zal leven, gerechtigheid en eer vinden."
+  },
+  {
+    "i": 17072,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 22,
+    "t": "Een wijze bestijgt de stad der helden en werpt de vesting neer waarop ze vertrouwde."
+  },
+  {
+    "i": 17073,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 23,
+    "t": "Wie zijn mond en zijn tong bewaart, bewaart zijn ziel van benauwdheden."
+  },
+  {
+    "i": 17074,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 24,
+    "t": "Hovaardig, hoogmoedig, spotter is zijn naam! Hij handelt in de overmoed van zijn hoogmoed."
+  },
+  {
+    "i": 17075,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 25,
+    "t": "De begeerte van de luiaard doodt hem, want zijn handen weigeren te werken."
+  },
+  {
+    "i": 17076,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 26,
+    "t": "De goddeloze begeert de hele dag, maar de rechtvaardige geeft en weigert nooit."
+  },
+  {
+    "i": 17077,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 27,
+    "t": "Het offer der goddelozen is een gruwel, vooral als ze het met boze bedoelingen brengen."
+  },
+  {
+    "i": 17078,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 28,
+    "t": "Een valse getuige zal vergaan, maar wie luistert, zal voor altijd spreken."
+  },
+  {
+    "i": 17079,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 29,
+    "t": "De goddeloze geeft zich een zelfverzekerd voorkomen, de oprechte maakt zijn eigen weg vast."
+  },
+  {
+    "i": 17080,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 30,
+    "t": "Er is geen wijsheid, noch verstand, noch raad tegenover de HEERE."
+  },
+  {
+    "i": 17081,
+    "b": 19,
+    "c": 2121,
+    "r": 2121,
+    "o": 31,
+    "t": "Het paard wordt toegerust voor de dag van de strijd, maar de overwinning is des HEEREN."
+  },
+  {
+    "i": 17082,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 1,
+    "t": "Een goede naam is te verkiezen boven grote rijkdom, gunst boven zilver en goud."
+  },
+  {
+    "i": 17083,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 2,
+    "t": "Rijk en arm ontmoeten elkander; de HEERE heeft hen allen gemaakt."
+  },
+  {
+    "i": 17084,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 3,
+    "t": "Een schrander mens ziet het kwaad en verbergt zich, maar de eenvoudigen gaan door en worden gestraft."
+  },
+  {
+    "i": 17085,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 4,
+    "t": "De beloning van ootmoed en vreze des HEEREN is rijkdom, eer en leven."
+  },
+  {
+    "i": 17086,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 5,
+    "t": "Doornen en strikken zijn op de weg van de verkeerde; wie zijn leven bewaart, verwijdert zich daarvan."
+  },
+  {
+    "i": 17087,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 6,
+    "t": "Oefen de jongeling overeenkomstig de eis van zijn weg, zelfs als hij oud geworden is, zal hij daarvan niet afwijken."
+  },
+  {
+    "i": 17088,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 7,
+    "t": "De rijke heerst over de armen, en wie leent, is een slaaf van de uitlener."
+  },
+  {
+    "i": 17089,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 8,
+    "t": "Wie onrecht zaait, zal onheil oogsten, en de roede van zijn toorn zal tenietgedaan worden."
+  },
+  {
+    "i": 17090,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 9,
+    "t": "Wie goedgunstig is, zal gezegend worden, want hij geeft van zijn brood aan de arme."
+  },
+  {
+    "i": 17091,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 10,
+    "t": "Drijf de spotter weg, en de twist zal verdwijnen, en de rechtszaak en de smaad zullen ophouden."
+  },
+  {
+    "i": 17092,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 11,
+    "t": "Wie reine harten liefheeft, wiens lippen beminnelijk zijn, die heeft de koning tot zijn vriend."
+  },
+  {
+    "i": 17093,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 12,
+    "t": "De ogen des HEEREN bewaren de kennis, maar Hij stort de woorden van de trouweloze omver."
+  },
+  {
+    "i": 17094,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 13,
+    "t": "De luiaard zegt: 'Er is een leeuw buiten; ik zou midden op de straat gedood kunnen worden!'"
+  },
+  {
+    "i": 17095,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 14,
+    "t": "Een diepe kuil is de mond van de vreemde vrouwen; wie door de HEERE vervloekt is, zal daarin vallen."
+  },
+  {
+    "i": 17096,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 15,
+    "t": "De dwaasheid is vastgebonden aan het hart van de jongeman, de roede van de tucht zal haar daaruit verdrijven."
+  },
+  {
+    "i": 17097,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 16,
+    "t": "Wie de arme onderdrukt om zijn eigen winst te vergroten, en wie de rijke geeft, beiden zullen arm worden."
+  },
+  {
+    "i": 17098,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 17,
+    "t": "Neig uw oor en hoor de woorden der wijzen, en richt uw hart op mijn kennis,"
+  },
+  {
+    "i": 17099,
+    "b": 19,
+    "c": 2122,
+    "r": 2122,
+    "o": 18,
+    "t": "want het zal aangenaam zijn, wanneer u ze in uw binnenste bewaart, en ze alle gereed zijn op uw lippen."
+  }
+]

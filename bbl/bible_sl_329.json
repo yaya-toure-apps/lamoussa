@@ -1,0 +1,802 @@
+[
+  {
+    "i": 32900,
+    "b": 52,
+    "c": 5410,
+    "r": 5410,
+    "o": 25,
+    "t": "Vse, kar se prodaja na trgu, jejte brez vpraševanja zaradi vesti;"
+  },
+  {
+    "i": 32901,
+    "b": 52,
+    "c": 5410,
+    "r": 5410,
+    "o": 26,
+    "t": "zakaj Gospodova je zemlja in vse, kar jo napolnjuje."
+  },
+  {
+    "i": 32902,
+    "b": 52,
+    "c": 5410,
+    "r": 5410,
+    "o": 27,
+    "t": "Če vas kdo neveren povabi in sprejmete povabilo, jejte vse, kar vam postrežejo, brez vpraševanja zaradi vesti."
+  },
+  {
+    "i": 32903,
+    "b": 52,
+    "c": 5410,
+    "r": 5410,
+    "o": 28,
+    "t": "Če pa vam kdo reče: »To je bilo darovano malikom,« ne jejte zaradi tistega, ki vas je opozoril, in zaradi vesti."
+  },
+  {
+    "i": 32904,
+    "b": 52,
+    "c": 5410,
+    "r": 5410,
+    "o": 29,
+    "t": "Govorim pa o vesti drugega, ne pa o tvoji; zakaj bi moja svoboda bila sojena po vesti drugega?"
+  },
+  {
+    "i": 32905,
+    "b": 52,
+    "c": 5410,
+    "r": 5410,
+    "o": 30,
+    "t": "Če uživam z zahvalo, zakaj naj bi bil obsojen zaradi tega, za kar se zahvaljujem?"
+  },
+  {
+    "i": 32906,
+    "b": 52,
+    "c": 5410,
+    "r": 5410,
+    "o": 31,
+    "t": "Ali torej jeste ali pijete, ali karkoli delate, vse delajte v Božjo slavo."
+  },
+  {
+    "i": 32907,
+    "b": 52,
+    "c": 5410,
+    "r": 5410,
+    "o": 32,
+    "t": "Ne dajajte spotike ne Judom, ne Grkom, ne Božji cerkvi,"
+  },
+  {
+    "i": 32908,
+    "b": 52,
+    "c": 5410,
+    "r": 5410,
+    "o": 33,
+    "t": "kakor se tudi jaz trudim v vsem ugajati vsem, ne iščem svoje koristi, temveč korist mnogih, da bi se rešili."
+  },
+  {
+    "i": 32909,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 1,
+    "t": "Posnemajte me, kakor jaz Kristusa."
+  },
+  {
+    "i": 32910,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 2,
+    "t": "Hvalim vas, ker se me spominjate v vsem in se držite izročil, kakor sem vam jih izročil."
+  },
+  {
+    "i": 32911,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 3,
+    "t": "Hočem pa, da veste, da je Kristus glava vsakemu moškemu, glava ženski pa je moški, glava Kristusu pa je Bog."
+  },
+  {
+    "i": 32912,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 4,
+    "t": "Vsak moški, ki moli ali prerokuje pokrite glave, sramoti svojo glavo."
+  },
+  {
+    "i": 32913,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 5,
+    "t": "Vsaka ženska pa, ki moli ali prerokuje z odkrito glavo, sramoti svojo glavo; to je tako, kakor če bi bila obrita."
+  },
+  {
+    "i": 32914,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 6,
+    "t": "Če se ženska ne pokriva, naj si tudi postriže lase; če pa je ženski v sramoto, da si postriže lase ali se obrije, naj se pokrije."
+  },
+  {
+    "i": 32915,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 7,
+    "t": "Moški pa si ne bi smel pokrivati glave, ker je Božja podoba in slava; ženska pa je moška slava."
+  },
+  {
+    "i": 32916,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 8,
+    "t": "Kajti moški ni iz ženske, ampak ženska iz moškega;"
+  },
+  {
+    "i": 32917,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 9,
+    "t": "tudi moški ni bil ustvarjen zaradi ženske, ampak ženska zaradi moškega."
+  },
+  {
+    "i": 32918,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 10,
+    "t": "Zato mora imeti ženska na glavi znak podrejenosti zaradi angelov."
+  },
+  {
+    "i": 32919,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 11,
+    "t": "V Gospodu pa ne ženska brez moškega ne moški brez ženske;"
+  },
+  {
+    "i": 32920,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 12,
+    "t": "kajti kakor je ženska iz moškega, tako je tudi moški po ženski; vse pa je iz Boga."
+  },
+  {
+    "i": 32921,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 13,
+    "t": "Presodite sami: ali je spodobno, da ženska moli Boga z odkrito glavo?"
+  },
+  {
+    "i": 32922,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 14,
+    "t": "Ali vas narava sama ne uči, da je moškemu v sramoto, če ima dolge lase,"
+  },
+  {
+    "i": 32923,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 15,
+    "t": "ženski pa je v slavo, če ima dolge lase? Kajti lasje so ji dani namesto pokrivala."
+  },
+  {
+    "i": 32924,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 16,
+    "t": "Če pa se kdo rad prepira, tega običaja nimamo mi niti Božje cerkve."
+  },
+  {
+    "i": 32925,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 17,
+    "t": "Ko že govorim o priporočilih, vas ne morem pohvaliti, da se vaše zbiranje ne izteče v dobro, temveč v škodo."
+  },
+  {
+    "i": 32926,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 18,
+    "t": "Kajti najprej slišim, da ko se zberete v cerkev, nastajajo med vami razprtije, in deloma verjamem."
+  },
+  {
+    "i": 32927,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 19,
+    "t": "Kajti morajo biti tudi ločine med vami, da se razkrijejo med vami tisti, ki so preizkušeni."
+  },
+  {
+    "i": 32928,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 20,
+    "t": "Ko se torej zberete skupaj, ne jeste več Gospodove večerje."
+  },
+  {
+    "i": 32929,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 21,
+    "t": "Kajti ko se je treba jesti, vsak vzame najprej svojo večerjo, in eden je lačen, drugi pa pijan."
+  },
+  {
+    "i": 32930,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 22,
+    "t": "Ali nimate hiš, da bi jedli in pili? Ali pa zaničujete Božjo cerkev in sramotite tiste, ki nimajo? Kaj naj vam rečem? Naj vas pohvalim? V tem vas ne hvalim."
+  },
+  {
+    "i": 32931,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 23,
+    "t": "Kajti jaz sem prejel od Gospoda, kar sem vam tudi izročil, da je Gospod Jezus tisto noč, ko je bil izdan, vzel kruh,"
+  },
+  {
+    "i": 32932,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 24,
+    "t": "se zahvalil, ga razlomil in rekel: »To je moje telo, ki je za vas; to delajte v spomin name.«"
+  },
+  {
+    "i": 32933,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 25,
+    "t": "Prav tako je po večerji vzel kelih in rekel: »Ta kelih je nova zaveza v moji krvi; kolikokrat ga boste pili, delajte to v spomin name.«"
+  },
+  {
+    "i": 32934,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 26,
+    "t": "Kajti kolikokrat jeste ta kruh in pijete ta kelih, oznanjate Gospodovo smrt, dokler ne pride."
+  },
+  {
+    "i": 32935,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 27,
+    "t": "Kdor koli torej jé kruh ali pije Gospodov kelih nevredno, bo kriv Gospodovega telesa in krvi."
+  },
+  {
+    "i": 32936,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 28,
+    "t": "Naj se torej človek preizkusi in tako jé od kruha in pije iz keliha;"
+  },
+  {
+    "i": 32937,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 29,
+    "t": "kajti kdor jé in pije, jé in pije svojo obsodbo, če ne razločuje telesa."
+  },
+  {
+    "i": 32938,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 30,
+    "t": "Zato je med vami veliko slabotnih in bolnih in mnogi umirajo."
+  },
+  {
+    "i": 32939,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 31,
+    "t": "Če bi se sami presojali, ne bi bili sojeni."
+  },
+  {
+    "i": 32940,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 32,
+    "t": "Ko nas pa Gospod sodi, nas vzgaja, da ne bi bili obsojeni s svetom."
+  },
+  {
+    "i": 32941,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 33,
+    "t": "Zato, bratje moji, ko se zberete k jedi, čakajte drug drugega."
+  },
+  {
+    "i": 32942,
+    "b": 52,
+    "c": 5411,
+    "r": 5411,
+    "o": 34,
+    "t": "Če je kdo lačen, naj jé doma, da se ne zberete v obsodbo. Ostalo pa bom uredil, ko pridem."
+  },
+  {
+    "i": 32943,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 1,
+    "t": "O duhovnih darovih pa, bratje, nočem, da bi bili nevedni."
+  },
+  {
+    "i": 32944,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 2,
+    "t": "Veste, da ste bili, ko ste bili pogani, vlečeni za nemimi maliki, kakor ste bili vodeni."
+  },
+  {
+    "i": 32945,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 3,
+    "t": "Zato vam dajem vedeti, da nihče, ki govori v Božjem Duhu, ne reče: »Jezus je preklet,« in nihče ne more reči: »Jezus je Gospod,« razen v Svetem Duhu."
+  },
+  {
+    "i": 32946,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 4,
+    "t": "Različni so darovi, vendar je isti Duh;"
+  },
+  {
+    "i": 32947,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 5,
+    "t": "različne so službe, vendar je isti Gospod;"
+  },
+  {
+    "i": 32948,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 6,
+    "t": "različna so dela, vendar je isti Bog, ki dela vse v vseh."
+  },
+  {
+    "i": 32949,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 7,
+    "t": "Vsakemu se daje razodetje Duha v korist."
+  },
+  {
+    "i": 32950,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 8,
+    "t": "Enemu se daje po Duhu beseda modrosti, drugemu beseda spoznanja po istem Duhu;"
+  },
+  {
+    "i": 32951,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 9,
+    "t": "drugemu vera v istem Duhu, drugemu darovi ozdravljanja v enem Duhu;"
+  },
+  {
+    "i": 32952,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 10,
+    "t": "drugemu delanje čudežev, drugemu prerokovanje, drugemu razločevanje duhov, drugemu govorjenje v različnih jezikih, drugemu razlaganje jezikov."
+  },
+  {
+    "i": 32953,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 11,
+    "t": "Vse to pa dela eden in isti Duh, ki deli vsakemu posebej, kakor hoče."
+  },
+  {
+    "i": 32954,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 12,
+    "t": "Kajti kakor je telo eno in ima veliko udov, vsi udje telesa pa, čeprav jih je veliko, so eno telo, tako je tudi Kristus."
+  },
+  {
+    "i": 32955,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 13,
+    "t": "Kajti v enem Duhu smo bili vsi krščeni v eno telo, bodisi Judje ali Grki, bodisi sužnji ali svobodni, in vsi smo bili napojeni z enim Duhom."
+  },
+  {
+    "i": 32956,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 14,
+    "t": "Kajti telo ni en sam ud, temveč mnogo."
+  },
+  {
+    "i": 32957,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 15,
+    "t": "Če bi rekla noga: »Ker nisem roka, ne spadam k telesu,« s tem še ne bi nehala pripadati telesu."
+  },
+  {
+    "i": 32958,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 16,
+    "t": "In če bi reklo uho: »Ker nisem oko, ne spadam k telesu,« s tem še ne bi nehala pripadati telesu."
+  },
+  {
+    "i": 32959,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 17,
+    "t": "Če bi bilo vse telo oko, kje bi bil sluh? Če bi bilo vse uho, kje bi bil vonj?"
+  },
+  {
+    "i": 32960,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 18,
+    "t": "Zdaj pa je Bog razporedil ude, vsakega posebej v telesu, kakor je hotel."
+  },
+  {
+    "i": 32961,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 19,
+    "t": "Če bi bil vse en ud, kje bi bilo telo?"
+  },
+  {
+    "i": 32962,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 20,
+    "t": "Zdaj pa je mnogo udov, vendar je eno telo."
+  },
+  {
+    "i": 32963,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 21,
+    "t": "Oko ne more reči roki: »Ne potrebujem te,« ali pa glava nogam: »Ne potrebujem vas.«"
+  },
+  {
+    "i": 32964,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 22,
+    "t": "Nasprotno, udje telesa, za katere se zdi, da so slabotnejši, so potrebni;"
+  },
+  {
+    "i": 32965,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 23,
+    "t": "in tiste, za katere se zdi, da so manj častni na telesu, obdamo z večjo častjo, in sramotni udje imajo večjo spodobnost;"
+  },
+  {
+    "i": 32966,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 24,
+    "t": "spodobni pa tega ne potrebujejo. Toda Bog je telo tako sestavil, da je dal več časti tistemu, česar mu primanjkuje,"
+  },
+  {
+    "i": 32967,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 25,
+    "t": "da ne bi bilo razpora v telesu, ampak bi udje enako skrbeli drug za drugega."
+  },
+  {
+    "i": 32968,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 26,
+    "t": "In če trpi en ud, trpijo z njim vsi udje; če je en ud počaščen, se z njim veselijo vsi udje."
+  },
+  {
+    "i": 32969,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 27,
+    "t": "Vi pa ste Kristusovo telo in vsak zase udje."
+  },
+  {
+    "i": 32970,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 28,
+    "t": "In Bog je v cerkvi postavil najprej apostole, drugič preroke, tretjič učitelje; nato čudeže, nato darove ozdravljanja, pomoči, upravljanja, različne jezike."
+  },
+  {
+    "i": 32971,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 29,
+    "t": "Ali so vsi apostoli? Ali so vsi preroki? Ali so vsi učitelji? Ali vsi delajo čudeže?"
+  },
+  {
+    "i": 32972,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 30,
+    "t": "Ali imajo vsi darove ozdravljanja? Ali vsi govorijo v jezikih? Ali vsi razlagajo?"
+  },
+  {
+    "i": 32973,
+    "b": 52,
+    "c": 5412,
+    "r": 5412,
+    "o": 31,
+    "t": "Prizadevajte si za večje darove. In še boljšo pot vam bom pokazal."
+  },
+  {
+    "i": 32974,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 1,
+    "t": "Če govorim človeške in angelske jezike, a nimam ljubezni, sem brneča medenina ali zveneča cimbala."
+  },
+  {
+    "i": 32975,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 2,
+    "t": "In če imam dar prerokovanja in poznam vse skrivnosti in vse znanje in če imam vso vero, tako da prestavljam gore, a nimam ljubezni, nisem nič."
+  },
+  {
+    "i": 32976,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 3,
+    "t": "In če razdam vse svoje imetje in dam svoje telo, da zgori, a nimam ljubezni, mi nič ne koristi."
+  },
+  {
+    "i": 32977,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 4,
+    "t": "Ljubezen je potrpežljiva, ljubezen je dobrotljiva, ni nevoščljiva, ljubezen se ne hvali, se ne napihuje,"
+  },
+  {
+    "i": 32978,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 5,
+    "t": "ne dela nič nespodobnega, ne išče svojega, se ne da razdražiti, ne misli hudega,"
+  },
+  {
+    "i": 32979,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 6,
+    "t": "se ne veseli krivice, veseli pa se resnice."
+  },
+  {
+    "i": 32980,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 7,
+    "t": "Vse opravičuje, vse veruje, vse upa, vse prenaša."
+  },
+  {
+    "i": 32981,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 8,
+    "t": "Ljubezen nikoli ne mine. Prerokbe? Izginejo. Jeziki? Umolknejo. Spoznanje? Izgine."
+  },
+  {
+    "i": 32982,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 9,
+    "t": "Zakaj delno je naše spoznanje in delno naše prerokovanje."
+  },
+  {
+    "i": 32983,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 10,
+    "t": "Kadar pa pride popolno, bo delno izginilo."
+  },
+  {
+    "i": 32984,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 11,
+    "t": "Ko sem bil otrok, sem govoril kot otrok, mislil kot otrok, umoval kot otrok; ko pa sem postal mož, sem opustil, kar je otročjega."
+  },
+  {
+    "i": 32985,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 12,
+    "t": "Zdaj namreč gledamo v ogledalu, v uganki, takrat pa iz obličja v obličje. Zdaj spoznavam delno, takrat pa bom spoznal, kakor sem spoznan."
+  },
+  {
+    "i": 32986,
+    "b": 52,
+    "c": 5413,
+    "r": 5413,
+    "o": 13,
+    "t": "Zdaj pa ostanejo vera, upanje, ljubezen, to troje; največja od teh pa je ljubezen."
+  },
+  {
+    "i": 32987,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 1,
+    "t": "Prizadevajte si za ljubezen, goreče pa si želejte duhovnih darov, zlasti daru prerokovanja."
+  },
+  {
+    "i": 32988,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 2,
+    "t": "Kdor namreč govori v jeziku, ne govori ljudem, ampak Bogu; nihče ga namreč ne razume, ampak v duhu govori skrivnosti."
+  },
+  {
+    "i": 32989,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 3,
+    "t": "Kdor pa prerokuje, govori ljudem: v pouk, spodbudo in tolažbo."
+  },
+  {
+    "i": 32990,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 4,
+    "t": "Kdor govori v jeziku, se izgrajuje sam, kdor pa prerokuje, izgrajuje cerkev."
+  },
+  {
+    "i": 32991,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 5,
+    "t": "Želim si, da bi vsi govorili v jezikih, še bolj pa, da bi prerokovali. Kdor prerokuje, je večji od tistega, ki govori v jezikih, razen če razlaga, da prejme cerkev pouk."
+  },
+  {
+    "i": 32992,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 6,
+    "t": "Kajti kaj bi vam koristilo, bratje, če bi prišel k vam in govoril v jezikih, pa vam ne bi prinesel ne razodetja, ne spoznanja, ne prerokovanja, ne pouka?"
+  },
+  {
+    "i": 32993,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 7,
+    "t": "Tako je tudi z glasbili: če piščal ali harfa ne dasta jasnih tonov, kako bo kdo vedel, kaj igra piščal ali harfa?"
+  },
+  {
+    "i": 32994,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 8,
+    "t": "In če trobenta da nejasen glas, kdo se bo pripravil na boj?"
+  },
+  {
+    "i": 32995,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 9,
+    "t": "Tako je tudi z vami: če z jezikom ne boste izgovarjali razumljivega govora, kako bo kdo vedel, kaj govorite? Govorili boste v veter."
+  },
+  {
+    "i": 32996,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 10,
+    "t": "Toliko vrst jezikov je gotovo na svetu, pa noben ni brez pomena."
+  },
+  {
+    "i": 32997,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 11,
+    "t": "Če torej ne razumem pomena jezika, bom tujec tistemu, ki govori, in tisti, ki govori, bo tujec meni."
+  },
+  {
+    "i": 32998,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 12,
+    "t": "Tako tudi vi: ker goreče hrepenite po duhovnih darovih, si prizadevajte, da jih imate v obilju za izgradnjo cerkve."
+  },
+  {
+    "i": 32999,
+    "b": 52,
+    "c": 5414,
+    "r": 5414,
+    "o": 13,
+    "t": "Zato naj tisti, ki govori v jeziku, prosi, da bi mogel razlagati."
+  }
+]

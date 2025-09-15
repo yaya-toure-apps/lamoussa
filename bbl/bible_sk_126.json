@@ -1,0 +1,802 @@
+[
+  {
+    "i": 12600,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 12,
+    "t": "A jeho bratia, vykonávajúci službu v chráme: osemsto dvadsaťdva; Adaja, syn Jerohama, syna Pelaljovho, syna Amciho, syna Zachariášovho, syna Pašhúrovho, syna Malkijovho,"
+  },
+  {
+    "i": 12601,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 13,
+    "t": "A jeho bratia, hlavy rodín: dvesto štyridsaťdva; a Amasaj, syn Azaréela, syna Achzajovho, syna Mešillemótovho, syna Imerovho,"
+  },
+  {
+    "i": 12602,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 14,
+    "t": "A jeho bratia, muži statoční: sto dvadsaťosem. Zabdiel, syn Haggadolov, im velil."
+  },
+  {
+    "i": 12603,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 15,
+    "t": "Medzi levitmi: Šemaja, syn Chaššúba, syna Azrikama, syna Chašabja, syna Bunniho;"
+  },
+  {
+    "i": 12604,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 16,
+    "t": "Šabtaj a Jozabad, tí z levitských predákov zodpovedných za vonkajšie záležitosti Božieho chrámu;"
+  },
+  {
+    "i": 12605,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 17,
+    "t": "Mattanja, syn Miku, syna Zabdiho, syna Asáfovho, ktorý viedol chválospevy, spieval vďakyvzdanie pri modlitbe; Bakbukja, druhý medzi jeho bratmi; Obadja, syn Šammua, syna Galala, syna Jedutúna."
+  },
+  {
+    "i": 12606,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 18,
+    "t": "Celkový počet levitov vo svätom meste: dvesto osemdesiatštyri."
+  },
+  {
+    "i": 12607,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 19,
+    "t": "Vrátnici: Akkúb, Talmón a ich bratia, ktorí strážili brány: sto sedemdesiatdva."
+  },
+  {
+    "i": 12608,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 20,
+    "t": "Čo sa týka ostatných Izraelitov, kňazov a levitov, prebývali vo všetkých judských mestách, každý vo svojom vlastníctve,"
+  },
+  {
+    "i": 12609,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 21,
+    "t": "\"Daní\" obývali Ófel; Cíha a Gišpa stáli na čele \"daných\" -"
+  },
+  {
+    "i": 12610,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 22,
+    "t": "Hlava levitov v Jeruzaleme bol Uzzi, syn Baniho, syna Chašabja, syna Mattanja, syna Miku; bol jedným zo synov Asáfových, spevákov poverených službou v Božom chráme;"
+  },
+  {
+    "i": 12611,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 23,
+    "t": "Lebo boli predmetom kráľovského nariadenia a ustanovenie určovalo spevákom ich úlohu deň po dni. -"
+  },
+  {
+    "i": 12612,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 24,
+    "t": "Petachja, syn Mešezabéela, ktorý patril k synom Zeracha, syna Júdu, bol k dispozícii kráľovi pre všetky záležitosti ľudu."
+  },
+  {
+    "i": 12613,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 25,
+    "t": "A vo dedinách ležiacich na ich poliach. Synovia Júdu prebývali v Kirjat-arba a v jeho závislostiach, v Dibóne a v jeho závislostiach, v Jekkabceéli a v dedinách jeho obvodu,"
+  },
+  {
+    "i": 12614,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 26,
+    "t": "V Jéšua, v Molade, v Bét-pélete,"
+  },
+  {
+    "i": 12615,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 27,
+    "t": "V Chacar-šuale, v Beeršebe a v jeho závislostiach,"
+  },
+  {
+    "i": 12616,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 28,
+    "t": "V Ciklagu, v Mekone a v jeho závislostiach,"
+  },
+  {
+    "i": 12617,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 29,
+    "t": "V En-rimmóne, v Korei, v Jarmúte,"
+  },
+  {
+    "i": 12618,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 30,
+    "t": "Zanoach, Adullam a dediny ich obvodu, Lakiš a jeho okolie, Azéka a jeho závislosti: usadili sa teda od Beeršeby až po údolie Hinnom."
+  },
+  {
+    "i": 12619,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 31,
+    "t": "Synovia Benjamína obývali Gebu, Mikmas, Ajju a Bétel, ako aj jeho závislosti,"
+  },
+  {
+    "i": 12620,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 32,
+    "t": "Anatót, Nób, Ananja,"
+  },
+  {
+    "i": 12621,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 33,
+    "t": "Chacór, Ráma, Gittajim,"
+  },
+  {
+    "i": 12622,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 34,
+    "t": "Hadid, Cebojim, Neballat,"
+  },
+  {
+    "i": 12623,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 35,
+    "t": "Lód a Óno a údolie remeselníkov."
+  },
+  {
+    "i": 12624,
+    "b": 15,
+    "c": 1611,
+    "r": 1611,
+    "o": 36,
+    "t": "Skupiny levitov sa nachádzali tak v Júdu, ako aj v Benjamínovi."
+  },
+  {
+    "i": 12625,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 1,
+    "t": "Toto sú kňazi a leviti, ktorí sa vrátili so Zorobábelom, synom Šealtielovým, a Jozue: Seraja, Jeremiáš, Ezdráš,"
+  },
+  {
+    "i": 12626,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 2,
+    "t": "Amarja, Mallúk, Chattúš,"
+  },
+  {
+    "i": 12627,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 3,
+    "t": "Šekanja, Rechum, Meremót,"
+  },
+  {
+    "i": 12628,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 4,
+    "t": "Iddo, Ginnetón, Abijja,"
+  },
+  {
+    "i": 12629,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 5,
+    "t": "Mijjámín, Maadja, Bilga,"
+  },
+  {
+    "i": 12630,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 6,
+    "t": "Šemaja; ďalej: Jojaríb, Jedaja,"
+  },
+  {
+    "i": 12631,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 7,
+    "t": "Sallú, Amók, Hilkijja, Jedaja. Toto boli predáci kňazov a ich bratia za čias Jozue,"
+  },
+  {
+    "i": 12632,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 8,
+    "t": "Teda leviti boli: Jozue, Binnui, Kadmiel, Šerebja, Júda, Mattanja - tento s bratmi viedol chválospevy vďakyvzdania,"
+  },
+  {
+    "i": 12633,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 9,
+    "t": "Zatiaľ čo Bakbukja, Unni a ich bratia im stáli zoči-voči, podľa svojich príslušných tried."
+  },
+  {
+    "i": 12634,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 10,
+    "t": "Jozue splodil Jojakima; Jojakim splodil Eljašiba; Eljašib Jojadu;"
+  },
+  {
+    "i": 12635,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 11,
+    "t": "Jojada splodil Jochánana; a Jochánan splodil Jaddua."
+  },
+  {
+    "i": 12636,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 12,
+    "t": "Za čias Jojakima mali kňazské rodiny za predákov: rodina Seraja: Meraja; rodina Jeremiáša: Chananja;"
+  },
+  {
+    "i": 12637,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 13,
+    "t": "Rodina Ezdráša: Mešullám; rodina Amarja: Jehochánan;"
+  },
+  {
+    "i": 12638,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 14,
+    "t": "Rodina Mallúka: Jonatán; rodina Šebanja: Jozef;"
+  },
+  {
+    "i": 12639,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 15,
+    "t": "Rodina Charima: Adna; rodina Merajota: Chelkaj;"
+  },
+  {
+    "i": 12640,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 16,
+    "t": "Rodina Idda: Zachariáš; rodina Ginnetóna: Mešullám;"
+  },
+  {
+    "i": 12641,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 17,
+    "t": "Rodina Abijja: Zikri; rodina Minjamína; rodina Moadja: Piltaj;"
+  },
+  {
+    "i": 12642,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 18,
+    "t": "Rodina Bilga: Šammua; rodina Šemaja: Jehonatán;"
+  },
+  {
+    "i": 12643,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 19,
+    "t": "Ďalej: rodina Jojariba: Mattena; rodina Jedaja: Uzzi;"
+  },
+  {
+    "i": 12644,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 20,
+    "t": "Rodina Sallaja: Kallaj; rodina Amóka: Eber;"
+  },
+  {
+    "i": 12645,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 21,
+    "t": "Rodina Hilkijja: Chašabja; rodina Jedaja: Netanél."
+  },
+  {
+    "i": 12646,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 22,
+    "t": "Za čias Eljašiba, Jojadu, Jochánana a Jaddua boli predáci kňazských rodín zapísaní v knihe Kroník až do vlády Dária Perzského."
+  },
+  {
+    "i": 12647,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 23,
+    "t": "Synovia Léviho. Predáci rodín boli zapísaní v knihe Kroník, ale iba po časy Jochánana, vnuka Eljašiba."
+  },
+  {
+    "i": 12648,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 24,
+    "t": "Predáci levitov boli: Chašabja, Šerebja, Jozue, Binnui, Kadmiel; a ich bratia, ktorí im stáli zoči-voči, aby vykonávali chválospevy a vďakyvzdanie podľa pokynov Dávida, muža Božieho, trieda zodpovedajúca druhej,"
+  },
+  {
+    "i": 12649,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 25,
+    "t": "Boli: Mattanja, Bakbukja a Obadja. Čo sa týka Mešullama, Talmóna a Akkúba, vrátnikov, strážili sklady pri bránach."
+  },
+  {
+    "i": 12650,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 26,
+    "t": "Títo žili za čias Jojakima, syna Jozueho, syna Joçadaqa, a za čias Nehemiáša, miestodržiteľa, a Ezdráša, kňaza-pisára."
+  },
+  {
+    "i": 12651,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 27,
+    "t": "Pri posviacke jeruzalemského hradieb boli leviti vyhľadaní všade, kde prebývali, aby ich priviedli do Jeruzalema: malo sa sláviť posviacku v radosti s chválospevmi a hudbou s cimbalmi, lutnami a citarami."
+  },
+  {
+    "i": 12652,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 28,
+    "t": "Speváci, synovia Léviho, sa zhromaždili teda z okolia Jeruzalema, z dedín Netofatských,"
+  },
+  {
+    "i": 12653,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 29,
+    "t": "Z Bét-hagilgala, z polí Geby a Azmavétu: lebo si speváci postavili dediny všade okolo Jeruzalema."
+  },
+  {
+    "i": 12654,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 30,
+    "t": "Kňazi a leviti sa očistili, potom očistili ľud, brány a hradby."
+  },
+  {
+    "i": 12655,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 31,
+    "t": "Potom som nechal vystúpiť judských predákov na hradby a zorganizoval som dva veľké zbory. Prvý kráčal po hrebeni hradieb, vpravo, smerom k bráne hnojiska;"
+  },
+  {
+    "i": 12656,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 32,
+    "t": "Za ním kráčali Hošaja a polovica judských predákov -"
+  },
+  {
+    "i": 12657,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 33,
+    "t": "Ako aj Azarja, Ezdráš, Mešullám,"
+  },
+  {
+    "i": 12658,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 34,
+    "t": "Júda, Benjamín, Šemaja a Jeremiáš,"
+  },
+  {
+    "i": 12659,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 35,
+    "t": "Vybraní spomedzi kňazov a vybavení trúbami; potom Zachariáš, syn Jonatána, syna Šemaju, syna Mattanja, syna Miku, syna Zakkúra, syna Asáfovho,"
+  },
+  {
+    "i": 12660,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 36,
+    "t": "So svojimi bratmi Šemajom, Azaréelom, Milalajom, Gilalajom, Maajom, Netanélom, Júdami, Chanánim, vybavení hudobnými nástrojmi Dávida, muža Božieho. A Ezdráš, pisár, kráčal na ich čele. -"
+  },
+  {
+    "i": 12661,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 37,
+    "t": "Pri bráne prameňa vystúpili priamo pred sebou, blízko schodov Dávidovho mesta, po hrebeni hradieb a po výstupe do Dávidovho paláca, až k vodnej bráne na východe."
+  },
+  {
+    "i": 12662,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 38,
+    "t": "Čo sa týka druhého zboru, kráčal naľavo: nasledoval som ho s polovicou vodcov ľudu po hrebeni hradieb, ponad vežu pecí a až k širokému múru,"
+  },
+  {
+    "i": 12663,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 39,
+    "t": "Potom ponad Efraimovu bránu, rybnú bránu, vežu Chananél a vežu sto, až k ovčej bráne; zastavili sa pri strážnej bráne."
+  },
+  {
+    "i": 12664,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 40,
+    "t": "Oba zbory zaujali potom miesto v Božom chráme. - Mal som so sebou polovicu magistrátov"
+  },
+  {
+    "i": 12665,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 41,
+    "t": "Ako aj kňazov Eljakima, Maaséju, Minjamína, Miku, Eljoenaja, Zachariáša, Chanánima, vybavených trúbami,"
+  },
+  {
+    "i": 12666,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 42,
+    "t": "Ďalej Maaséja, Šemaja, Eleazár, Uzzi, Jehochánan, Malkijja, Elam a Ezer. - Speváci sa ozývali pod vedením Jizrachja."
+  },
+  {
+    "i": 12667,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 43,
+    "t": "V ten deň obetovali dôležité obete a ľudia sa oddávali radosti: lebo im Boh dal veľký dôvod na radosť; aj ženy a deti sa radovali. A radosť Jeruzalema bolo počuť zďaleka."
+  },
+  {
+    "i": 12668,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 44,
+    "t": "V tom čase boli ustanovení do miestností určených na zásoby, dary, prvotiny a desiatky, muži, ktorí by tam zhromažďovali z územia miest diely, ktoré Zákon prisudzuje kňazom a levitom. Lebo Juda mal radosť z kňazov a levitov vo funkcii."
+  },
+  {
+    "i": 12669,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 45,
+    "t": "Oni zaisťovali službu svojho Boha a službu očisťovania - ako aj speváci a vrátnici -, podľa predpisov Dávida a jeho syna Šalamúna."
+  },
+  {
+    "i": 12670,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 46,
+    "t": "Lebo už od čias Dávida a Asáfa, dávno, existoval predák spevákov a chválospevov a vďakyvzdania Bohu."
+  },
+  {
+    "i": 12671,
+    "b": 15,
+    "c": 1612,
+    "r": 1612,
+    "o": 47,
+    "t": "Teda celý Izrael za čias Zorobábela a za čias Nehemiáša odovzdával spevákom a vrátnikom diely, ktoré im prináležali, podľa ich každodenných potrieb. Levitom sa odovzdávali posvätné poplatky a leviti ich odovzdávali synom Árona."
+  },
+  {
+    "i": 12672,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 1,
+    "t": "V tom čase sa ľudu čítalo z knihy Mojžišovej a našlo sa tam napísané: \"Amončan a Moábčan nebudú prijatí do zhromaždenia Boha, a to naveky,"
+  },
+  {
+    "i": 12673,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 2,
+    "t": "Lebo neprišli Izraelitom v ústrety s chlebom a vodou. Najali proti nim Balaama, aby ich preklial, ale náš Boh zmenil kliatbu na požehnanie."
+  },
+  {
+    "i": 12674,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 3,
+    "t": "Len čo sa vypočul Zákon, vylúčili z Izraela všetky cudzie prvky."
+  },
+  {
+    "i": 12675,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 4,
+    "t": "Ale predtým bol kňaz Eljašib ustanovený do miestností chrámu nášho Boha. Spriaznený s Tobijom,"
+  },
+  {
+    "i": 12676,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 5,
+    "t": "Zariadil mu priestrannú miestnosť, kde sa predtým umiestňovali obety, kadidlo, náčinie, desiatok z obilia, vína a oleja, teda diely levitov, spevákov a vrátnikov a to, čo sa vyberalo pre kňazov."
+  },
+  {
+    "i": 12677,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 6,
+    "t": "Počas toho všetkého som bol neprítomný v Jeruzaleme, lebo v tridsiatom druhom roku Artaxerxa, kráľa Babylonu, som odišiel ku kráľovi; ale po určitom čase som požiadal kráľa o prepustenie"
+  },
+  {
+    "i": 12678,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 7,
+    "t": "A vrátil som sa do Jeruzalema. Potom som sa dozvedel o zlom čine, ktorý urobil Eljašib v prospech Tobija, keď mu zariadil miestnosť v nádvorí Božieho chrámu."
+  },
+  {
+    "i": 12679,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 8,
+    "t": "To sa mi veľmi nepáčilo: vyhodil som teda na ulicu, z miestnosti, všetok Tobijov nábytok,"
+  },
+  {
+    "i": 12680,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 9,
+    "t": "I prikázal som, aby boli miestnosti očistené, a potom som tam znova umiestnil nádoby Božieho chrámu, obetné dary a kadidlo."
+  },
+  {
+    "i": 12681,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 10,
+    "t": "Tiež som sa dozvedel, že podiely levitov sa nevracali, a leviti a speváci, ktorí vykonávali službu, ušli každý na svoje pole."
+  },
+  {
+    "i": 12682,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 11,
+    "t": "Preto som karhal predstavených týmito slovami: \"Prečo je Boží chrám opustený?\" Zhromaždil som ich teda a navrátil do ich úradu."
+  },
+  {
+    "i": 12683,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 12,
+    "t": "Vtedy celý Júda priniesol do skladov desiatky z obilia, vína a oleja."
+  },
+  {
+    "i": 12684,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 13,
+    "t": "Ustanovil som nad skladmi kňaza Šelemju, pisára Sádoka, Pedaju, jedného z levitov, a na pomoc im Chánana, syna Zakkura, syna Mattanjovho, lebo boli pokladaní za bezúhonných. Ich úradom bolo rozdeľovať svojim bratom."
+  },
+  {
+    "i": 12685,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 14,
+    "t": "Preto pamätaj na mňa, môj Bože, a nevymaž skutky zbožnosti, ktoré som vykonal pre chrám môjho Boha a jeho zachovávanie."
+  },
+  {
+    "i": 12686,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 15,
+    "t": "V tých dňoch som videl v Júde ľudí, ktorí šliapali v lisoch v deň sabatu; iní prinášali snopy obilia, nakladali ich na osly s vínom, hroznom, figami a všelijakými bremenami, ktoré chceli vniesť do Jeruzalema v deň sabatu. Napomenul som ich, aby nepredávali potraviny."
+  },
+  {
+    "i": 12687,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 16,
+    "t": "V samotnom Jeruzaleme Týrčania, ktorí tam bývali, prinášali ryby a tovar každého druhu, aby ich predávali Júdejčanom v deň sabatu."
+  },
+  {
+    "i": 12688,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 17,
+    "t": "Preto som karhal kniežatá Júdove a vyhlásil som im: \"Akú ohavnosť to robíte, znesväcujúc deň sabatu!"
+  },
+  {
+    "i": 12689,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 18,
+    "t": "Či takto nekonali vaši otcovia? Vtedy náš Boh priviedol toto všetko nešťastie na nás a na toto mesto. A vy zvyšujete hnev proti Izraelu znesväcovaním sabatu."
+  },
+  {
+    "i": 12690,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 19,
+    "t": "Preto, keď tieň zastrel brány Jeruzalema, práve pred sabatom, prikázal som zatvoriť krídla brán a povedal som, aby sa znova neotvárali až po sabate. Postavil som niektorých zo svojich ľudí k bránam, aby nijaké bremeno nevošlo v deň sabatu."
+  },
+  {
+    "i": 12691,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 20,
+    "t": "Raz alebo dvakrát obchodníci, kupci s tovarom každého druhu strávili noc pred Jeruzalemom."
+  },
+  {
+    "i": 12692,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 21,
+    "t": "Ale napomenul som ich a vyhlásil som im: \"Prečo nocujete v blízkosti múru? Ak to znova urobíte, položím na vás ruku!\" Od toho okamihu už neprišli v deň sabatu."
+  },
+  {
+    "i": 12693,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 22,
+    "t": "Prikázal som levitom, aby sa očistili a prišli strážiť brány, aby sa sväto zachovával deň sabatu. Pre toto tiež pamätaj na mňa, môj Bože, a zmiluj sa nado mnou podľa svojho veľkého milosrdenstva!"
+  },
+  {
+    "i": 12694,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 23,
+    "t": "V tých dňoch som opäť videl Židov, ktorí sa oženili so ženami Ašdodskými, Amónskymi alebo Moabskými."
+  },
+  {
+    "i": 12695,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 24,
+    "t": "Čo sa týka ich detí, polovica hovorila Ašdodsky alebo jazykom toho či onoho národa, ale už nevedeli hovoriť po židovsky."
+  },
+  {
+    "i": 12696,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 25,
+    "t": "Karhal som ich a preklínal som ich, zbil som mnohých, vytrhal som im vlasy a zaprisahal som ich Bohom: \"Nesmiete dávať svoje dcéry ich synom, ani si brať za ženy žiadnu z ich dcér pre svojich synov alebo pre seba!"
+  },
+  {
+    "i": 12697,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 26,
+    "t": "Či práve v tom zhrešil Šalamún, kráľ Izraela? Medzi toľkými národmi sa mu žiadny kráľ nevyrovnal; bol milovaný svojím Bohom; Boh ho urobil kráľom nad celým Izraelom. Dokonca aj jeho cudzie ženy zviedli k hriechu!"
+  },
+  {
+    "i": 12698,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 27,
+    "t": "Má sa počuť, že aj vy sa dopúšťate tohto veľkého zločinu: zrádzate nášho Boha sobášením sa s cudzími ženami?"
+  },
+  {
+    "i": 12699,
+    "b": 15,
+    "c": 1613,
+    "r": 1613,
+    "o": 28,
+    "t": "Jeden zo synov Jojadu, syna Eljašiba, veľkňaza, bol zaťom Sanballata, Choronitského. Zahnal som ho preč od seba."
+  }
+]

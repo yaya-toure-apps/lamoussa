@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "Za nieczyste mieć będziecie góralka, bo choć przeżuwa, nie ma rozdzielonych kopyt;"
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "Zająca także za nieczystego miejcie, bo choć przeżuwa, nie ma rozdzielonych kopyt;"
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "Także i świnię za nieczystą miejcie, bo choć ma rozdzielone kopyto, czyli racicę rozdwojoną, jednak nie przeżuwa."
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "Mięsa ich nie jedzcie i padliny ich nie dotykajcie; za nieczyste miejcie je sobie."
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "To zaś jeść możecie ze wszystkiego, co żyje w wodzie: wszystko, co ma płetwy i łuski, czy to w morzach, czy w rzekach, możecie jeść."
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "Ale wszystko, co nie ma płetw ani łusek w morzach i rzekach, z wszystkiego, co się roi w wodach, i z wszelkiego stworzenia żyjącego w nich, będzie dla was obrzydliwością."
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "Będzie to dla was obrzydliwością, mięsa ich nie jedzcie, a padlinę ich miejcie w obrzydzeniu."
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "Wszystko, co w wodzie żyje, a nie ma płetw ani łusek, będzie dla was obrzydliwością."
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "Z ptactwa zaś te są, które w obrzydzeniu mieć będziecie i jeść ich nie będziecie, bo obrzydliwe są: orzeł, orzeł przedni i rybołów,"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "Kania czarna, i wszelki rodzaj kani rudej,"
+  },
+  {
+    "i": 3010,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 15,
+    "t": "I wszelki rodzaj kruka,"
+  },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "Struś, sowa, mewa i wszelki rodzaj jastrzębia,"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "Puszczyk, kormoran, i sowa uszata,"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "Ibisa, pelikana, i sęp białogłowy,"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "Bocian i wszelki rodzaj czapli, dudek, i nietoperz."
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "Wszelkie też płazy latające, które chodzą na czterech nogach, obrzydliwością wam będą."
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "Ale to jeść będziecie ze wszelkich płazów latających, które chodzą na czterech nogach, co mają golenie u nóg swych, aby nimi skakać po ziemi."
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "Z nich jeść będziecie: wszelki rodzaj szarańczy, wszelki rodzaj pasikonika, wszelki rodzaj świerszcza i wszelki rodzaj konika polnego."
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "Ale wszelkie inne płazy latające, które mają cztery nogi, obrzydliwością wam będą."
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "I przez te się splugawicie: kto dotknie padliny ich, nieczystym będzie aż do wieczora."
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "Kto poniesie padlinę ich, upierze szaty swoje i nieczystym będzie aż do wieczora."
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "Wszelkie zwierzę, które ma rozdzielone kopyto, ale nie rozdwojone, i nie przeżuwa, za nieczyste mieć będziecie; wszelki, któryby go dotknął, nieczystym będzie."
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "Wszelkie też zwierzę czworonożne, które chodzi na łapach swych, za nieczyste mieć będziecie; wszelki, któryby się dotknął padliny ich, nieczystym będzie aż do wieczora;"
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "A kto poniesie padlinę ich, upierze szaty swoje i nieczystym będzie aż do wieczora; za nieczyste miejcie je sobie."
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "A to wam będzie nieczyste z płazów, które pełzają po ziemi: kret, mysz i wszelki rodzaj jaszczurki;"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "Gekon, koah, letaah, kameleon i tinchamet."
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "Te wam będą nieczyste ze wszystkich płazów; wszelki, który się ich dotknie, gdy pomrą, nieczystym będzie aż do wieczora."
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "Wszystko, na co padnie który z nich, gdy pomrze, nieczystym będzie: wszelkie naczynie drewniane, szata, skóra, wór, wszelkie naczynie, którym się co robi, w wodę włożone, nieczystym będzie aż do wieczora, a potem będzie czyste."
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "Wszelkie naczynie gliniane, w które którykolwiek z nich wpadnie, co będzie w nim, nieczystym będzie, i samo rozbijecie."
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "Wszelki pokarm, który się jeść zwykło, jeśli wpadnie nań woda, nieczystym będzie, i wszelki napój, który pić można, w każdym naczyniu, nieczystym będzie."
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "Wszystko, na co padnie cokolwiek z padliny ich, nieczystym będzie; piec i ognisko zburzą się, nieczyste są i wam nieczystymi będą."
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "Tylko studnia, albo zbiornik wody będzie czysta; ale kto by się dotknął padliny ich, nieczystym będzie."
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "Jeśliby co z padliny ich wpadło na ziarno, które się sieje, czystym będzie,"
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "Ale jeśliby się woda wlała na ziarno, a co z padliny wpadło na nie, nieczystym wam będzie."
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "Jeśliby padło co z bydła, które wam jest na pokarm, kto się dotknie padliny jego, nieczystym będzie aż do wieczora."
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "Kto będzie jadł z padliny jego, upierze szaty swoje i nieczystym będzie aż do wieczora; i kto poniesie padlinę jego, upierze szaty swoje i nieczystym będzie aż do wieczora."
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "Wszelki płaz, który pełza po ziemi, obrzydliwy jest; nie będzie jedzony."
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "Wszystko, co pełza na brzuchu, i wszystko, co chodzi na czterech nogach, albo co ma wiele nóg, ze wszystkich płazów, które pełzają po ziemi, nie będziecie jedli, bo obrzydliwe są."
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "Nie plugawcie dusz waszych przez wszystkie płazy, które pełzają, ani się przez nie zanieczyszczajcie, abyście się przez nie nie splugawili."
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "Bo Ja jestem Pan, Bóg wasz; poświęćcie się i bądźcie świętymi, bo Ja jestem Święty; i nie plugawcie dusz waszych przez wszelkie płazy, które pełzają po ziemi."
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "Bo Ja jestem Pan, który was wywiodłem z ziemi Egipskiej, abym był Bogiem waszym; przetoż świętymi bądźcie, bo Ja jestem Święty."
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "Ta jest ustawa o bydlętach i o ptastwie, i o wszelkim stworzeniu żyjącym, które się rusza w wodach, i o wszelkim stworzeniu, które pełza po ziemi,"
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "Aby rozróżniano między czystym i nieczystym, i między zwierzęciem, które jeść można, a którego nie można jeść."
+  },
+  {
+    "i": 3043,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 1,
+    "t": "Potem rzekł Pan do Mojżesza, mówiąc:"
+  },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Mów do synów Izraelskich, a rzecz do nich: Gdyby niewiasta poczęła i urodziła płód męski, tedy nieczystą będzie przez siedm dni, jako we dniach odłączenia jej dla niemocy swojéj, będzie nieczystą."
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "A dnia ósmego obrzeże się napletek synaczkowi jego."
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "Potem trzydzieści i trzy dni zostanie dla oczyszczenia krwi swojéj; żadnéj rzeczy świętéj się nie dotknie, i do świątnice nie wnidzie, aż się wypełnią dni oczyszczenia jéj."
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "A jeśliby urodziła płód żeński, nieczystą będzie przez dwa tygodnie, jako we dniach odłączenia swojéj niemocy, a zostanie sześćdziesiąt i sześć dni dla oczyszczenia krwi swojéj."
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "A gdy się wypełnią dni oczyszczenia jéj, dla syna, albo dla córki, przyniesie baranka jednorocznego na ofiarę całopalną, i gołąbka, albo synogarlice na ofiarę za grzech, do drzwi przybytku świadectwa, do kapłana."
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "Który je ofiaruje przed Panem, i będzie prosił za nią, i będzie oczyszczona od biegu krwi swojéj; ta jest ustawa rodzącéj płód męski, albo żeński."
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "A jeśliby jéj nie stało na baranka, weźmie dwie synogarlice, albo dwoje gołąbków, jednégo na ofiarę całopalną, a drugiego na ofiarę za grzech, i będzie za nią prosił kapłan, i będzie oczyszczona."
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "I mówił Pan do Mojżesza i do Aarona, rzekąc:"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "Człowiek, na którego skórze ciała jego będzie miał puchlinę, albo strup, albo plamę jaśniejszą, i będzie na skórze ciała jego jako plaga trądu, przywiedzion będzie do Aarona kapłana, albo do którégo z synów jego kapłanów."
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "A obejrzy kapłan plagę na skórze ciała, a jeśliby włos w pladze się odmienił na biały, a plaga okazała się głębsza niż skóra ciała, jest plaga trądu, a gdy to obaczy kapłan, ogłosi go nieczystym."
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "A jeśliby plama jaśniejsza była na skórze ciała, i nie była głębsza niż skóra, a włos nie był odmieniony na biały, zamknie go kapłan na siedm dni."
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "A obejrzy go kapłan dnia siódmego; a jeśliby obaczył, że się plaga trzyma w miarę swojéj, a nie rozszerzyła się na skórze, zamknie go drugi raz na siedm dni."
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "A obejrzy go kapłan znowu dnia siódmego, jeśliby plaga była blada, i nie rozszerzyła się na skórze, ogłosi go kapłan czystym, bo to jest strup, a upierze szaty swoje, i będzie czysty."
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "A jeśliby się rozszerzył strup wielce na skórze, po tém jako obaczył go kapłan i ogłosił go czystym, ma być pokazan znowu kapłanowi."
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "A obaczy kapłan, a jeśliby obaczył, że się rozszerzył strup na skórze, ogłosi go nieczystym, bo to jest trąd."
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "Kiedy by na człowieku była plaga trądu, przywiedzion będzie do kapłana."
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "A obejrzy go kapłan, a jeśliby obaczył puchlinę białą na skórze, i włos odmieniony na biały, i żywe mięso w puchlinie,"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "Jest trąd stary na skórze ciała jego, i ogłosi go kapłan nieczystym, i nie zamknie go, bo jest nieczysty."
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "Ale jeśliby zakwitnął trąd wielce na skórze, i okrył wszystką skórę jego od głowy aż do nóg, po wszystkiém, co obaczy kapłan,"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "Obaczy kapłan, a jeśliby obaczył, że okrył trąd wszystką skórę jego, ogłosi zarażonego czystym, bo się wszystek odmienił na biały, przetoż jest czysty."
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "A kiedy się na nim pokaże żywe mięso, tedy będzie nieczysty."
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "A gdy obaczy kapłan mięso żywe, ogłosi go nieczystym; żywe mięso jest nieczyste, bo to jest trąd."
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "Ale jeśliby się wróciło mięso żywe, i odmieniło się w białe, pójdzie do kapłana."
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "A obaczy go kapłan, a jeśliby obaczył, że się odmieniła plaga w białość, tedy ogłosi kapłan zarażonego czystym."
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "Także i ciało, na którém by był wrzód, a był wyzdrowiał,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "I pokazałaby się na miejscu wrzodu puchlina biała, albo plama jaśniejsza czerwonawa, będzie pokazan kapłanowi."
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "A obaczy kapłan, a jeśliby obaczył, że niższa jest niż skóra, a włos się na niéj odmienił na biały, tedy go ogłosi kapłan nieczystym, bo to jest plaga trądu zakwitła we wrzodzie."
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "Ale jeśliby kapłan obaczył, że nie masz na niéj włosa białego, ani niższa jest niż skóra, ale jest blada, zamknie go kapłan na siedm dni."
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "A jeśliby się wielce rozszerzyła na skórze, ogłosi go nieczystym, bo to jest plaga trądu."
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "Ale jeśliby plama stała w miarę swojéj, a nie rozszerzyła się, to jest blizna po wrzodzie, a ogłosi go kapłan czystym."
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Także i ciało, na którego skórze by była gorzel, i żyłaby na gorzeli puchlina, albo plama biała czerwonawa, albo biała,"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "Obaczy ją kapłan, a jeśliby obaczył włos odmieniony na biały w plamię, a niższa była niż skóra, jest trąd zakwitły w gorzeli, a ogłosi go kapłan nieczystym, bo to jest plaga trądu."
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "Ale jeśliby kapłan obaczył, że nie masz na niéj włosa białego, ani nie jest niższa niż skóra, ale jest blada, zamknie go kapłan na siedm dni."
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "A obejrzy go kapłan dnia siódmego; jeśliby się wielce rozszerzyła na skórze, ogłosi go nieczystym, bo to jest plaga trądu."
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "Ale jeśliby plama stała w miarę swojéj, a nie rozszerzyła się na skórze, ale była blada, to jest puchlina po gorzeli; a ogłosi go kapłan czystym, bo to jest blizna po gorzeli."
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "Także mąż, albo niewiasta, na któréj głowie, albo brodzie będzie plaga,"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "Przeto kapłan obaczy tę plagę, a jeśli ujrzy w niej zagłębienie w skórze, a włos w niej cienki i żółtawy, tedy kapłan oznajmi go nieczystym; bo to jest czyściec, to jest trąd głowy albo brody."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "Jeźliby zaś kapłan obaczył plagę czyśćca, a nie było w niej zagłębienia w skórze, ani włosa żółtego, tedy zamknie kapłan tego, który ma plagę czyśćca, na siedm dni."
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "A obaczy go kapłan dnia siódmego; jeźliby się zdało, że się nie rozszerzył czyściec, a włos w nim nie pożółkł, ani też zagłębienie okazało się w skórze,"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "Ogolą go, tylko miejsca czyśćca nie ogolą; i zamknie go kapłan po wtóre na siedm dni."
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "A dnia siódmego obaczy go kapłan; jeźliby się zdało, że się nie rozszerzył czyściec na skórze, ani w nim zagłębienia, tedy kapłan oznajmi go czystym, a umywszy szaty swoje, będzie czysty."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "Ale jeźliby się potym rozszerzył czyściec na skórze, po oczyszczeniu jego,"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "Tedy go obaczy kapłan, a jeźliby się rozszerzył czyściec na skórze, nie będzie się pytał kapłan o włos żółty, nieczysty jest."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "Ale jeźliby się zdało, że stoi czyściec, a włos czarny wyrósł w nim, tedy się uleczył czyściec; czysty jest, i oznajmi go kapłan czystym."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "Gdyby się na skórze ciała człowieka albo niewiasty okazały plamy, plamy białe,"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "Tedy obaczy kapłan; a jeźliby się zdało, że są plamy na skórze ciała blado białe, to jest liszka wyrosła na skórze, czysty jest."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "Gdyby komu wyłysiała głowa z tyłu, tedy jest łysina potyliczna, czysty jest."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "A jeźliby mu wyłysiała głowa z przodu, tedy jest łysina czołowa, czysty jest."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "Ale jeźliby na łysinie potylicznej, albo czołowej, była plaga biało czerwona, to jest trąd wyrastający na łysinie potylicznej, albo czołowej."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "Tedy go obaczy kapłan, a jeźliby się zdało, że jest na łysinie plaga biało czerwona, podobna trądowi, który bywa na skórze ciała,"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "Tedy on jest człowiek trędowaty, nieczysty jest; oznajmi go kapłan koniecznie nieczystym, albowiem trąd jest na głowie jego."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "A trędowaty, na którym by była ta plaga, będzie miał szaty rozdarte, a głowa jego będzie odkryta, i brodę zakryje, a będzie wołał: Nieczysty, nieczysty!"
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "Po wszystkie dni, których będzie trędowaty, nieczysty będzie; bo nieczysty jest, sam będzie mieszkał, a poza obozem będzie mieszkanie jego."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "Gdyby też plaga trądu była w odzieży, albo w szacie wełnianej, albo lnianej,"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "Albo w osnowie, albo w wątku lnu, albo wełny, albo w skórze, albo w jakimkolwiek naczyniu skórzanym,"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "A okazałaby się plaga w odzieży, albo w skórze, albo w osnowie, albo w wątku, albo w jakimkolwiek naczyniu skórzanym, zielona, albo czerwona, tedy jest plaga trądu, i ma być kapłanowi pokazana."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 10700,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 26,
+    "t": "Prodi valorosi: Asael, fratello di Joab, Elchanan, figlio di Dodo, da Betlemme,"
+  },
+  {
+    "i": 10701,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 27,
+    "t": "Shamot l'Arorita, Helez il Pelonita,"
+  },
+  {
+    "i": 10702,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 28,
+    "t": "Ira, figlio di Ikkesh, da Tekoa, Abiezer d'Anatot,"
+  },
+  {
+    "i": 10703,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 29,
+    "t": "Sibbecai di Husha, Ilai di Aho,"
+  },
+  {
+    "i": 10704,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 30,
+    "t": "Maharai di Netofa, Heled, figlio di Baana, di Netofa,"
+  },
+  {
+    "i": 10705,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 31,
+    "t": "Itai, figlio di Ribai, da Ghibea dei figli di Beniamino, Benai di Pireaton,"
+  },
+  {
+    "i": 10706,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 32,
+    "t": "Hurai, dei torrenti di Gaash, Abiel di Bet-Ha-Araba,"
+  },
+  {
+    "i": 10707,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 33,
+    "t": "Azmavet di Bahurim, Eliahba di Shaalbon,"
+  },
+  {
+    "i": 10708,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 34,
+    "t": "Bene-Hashem di Ghizon, Jonathan, figlio di Shaghe, d'Arar,"
+  },
+  {
+    "i": 10709,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 35,
+    "t": "Ahiam, figlio di Sakar, d'Arar, Elifelet, figlio di Ur,"
+  },
+  {
+    "i": 10710,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 36,
+    "t": "Hefer di Mekera, Ahia il Pelonita,"
+  },
+  {
+    "i": 10711,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 37,
+    "t": "Hezro di Carmel, Naarai, figlio di Ezbai,"
+  },
+  {
+    "i": 10712,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 38,
+    "t": "Gioele, fratello di Natan, Mibhar, figlio di Hagri,"
+  },
+  {
+    "i": 10713,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 39,
+    "t": "Zelek l'Ammonita, Naharai di Beerot, scudiero di Joab, figlio di Zeruia,"
+  },
+  {
+    "i": 10714,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 40,
+    "t": "Ira di Jattir, Gareb di Jattir,"
+  },
+  {
+    "i": 10715,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 41,
+    "t": "Uria l'Ittita, Zabad, figlio di Ahlai,"
+  },
+  {
+    "i": 10716,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 42,
+    "t": "Adina, figlio di Shiza, il Rubenita, capo dei Rubeniti e responsabile dei Trenta,"
+  },
+  {
+    "i": 10717,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 43,
+    "t": "Hanan, figlio di Maaka, Giosafat il Mitnita,"
+  },
+  {
+    "i": 10718,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 44,
+    "t": "Uzzia d'Ashtarot, Shama e Ieuel, figli di Hotam d'Aroer,"
+  },
+  {
+    "i": 10719,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 45,
+    "t": "Iediael, figlio di Shimri e Ioha, suo fratello, il Tizita,"
+  },
+  {
+    "i": 10720,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 46,
+    "t": "Eliel il Mahavita, Ieribai e Gioshavia, figli di Elnaam, Jitma il Moabita,"
+  },
+  {
+    "i": 10721,
+    "b": 12,
+    "c": 1311,
+    "r": 1311,
+    "o": 47,
+    "t": "Eliel, Obed e Iaasiel, di Zoba."
+  },
+  {
+    "i": 10722,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 1,
+    "t": "Or questi furono coloro che si unirono a Davide a Ziklag, mentre egli era ancora impedito di andare da Saul, figlio di Kish; essi erano tra i prodi, gli aiutanti nella guerra,"
+  },
+  {
+    "i": 10723,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 2,
+    "t": "che sapevano usare l'arco con la mano destra e con la sinistra, lanciando pietre e saette. Costoro erano fratelli di Saul, della tribù di Beniamino:"
+  },
+  {
+    "i": 10724,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 3,
+    "t": "Ahiezer, il capo, e Joash, figli di Hashshema di Ghibea, Ieziel e Pelet, figli di Azmavet, Beraka e Jehu di Anatot,"
+  },
+  {
+    "i": 10725,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 4,
+    "t": "Ishmaiah di Gabaon, prode tra i Trenta, e capo dei Trenta;"
+  },
+  {
+    "i": 10726,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 5,
+    "t": "Geremia, Jahaziel, Johanan e Jozabad di Ghedera,"
+  },
+  {
+    "i": 10727,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 6,
+    "t": "Eluzai, Jerimot, Bealiah, Shemariah, Shefatiah di Harif;"
+  },
+  {
+    "i": 10728,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 7,
+    "t": "Elkana, Jishiah, Azareel, Joezer, Jashobeam, dei Coreiti,"
+  },
+  {
+    "i": 10729,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 8,
+    "t": "Joela e Zebadiah, figli di Jeroham, da Ghedor."
+  },
+  {
+    "i": 10730,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 9,
+    "t": "Alcuni dei Gaditi passarono dalla parte di Davide nel suo rifugio nel deserto. Erano uomini valorosi, guerrieri esperti nella battaglia, che sapevano maneggiare lo scudo e la lancia. Le loro facce erano come facce di leoni e nella velocità somigliavano alle gazzelle sui monti."
+  },
+  {
+    "i": 10731,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 10,
+    "t": "Ezer era il capo, Obadia il secondo, Eliab il terzo,"
+  },
+  {
+    "i": 10732,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 11,
+    "t": "Mishmanna il quarto, Geremia il quinto,"
+  },
+  {
+    "i": 10733,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 12,
+    "t": "Attai il sesto, Eliel il settimo,"
+  },
+  {
+    "i": 10734,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 13,
+    "t": "Johanan l'ottavo, Elzabad il nono,"
+  },
+  {
+    "i": 10735,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 14,
+    "t": "Geremia il decimo, Makbannai l'undicesimo."
+  },
+  {
+    "i": 10736,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 15,
+    "t": "Questi erano i figli di Gad, capi dell'esercito; il più piccolo era a capo di cento e il più grande di mille."
+  },
+  {
+    "i": 10737,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 16,
+    "t": "Costoro passarono il Giordano al primo mese, quando era in piena su tutte le sponde, e misero in fuga tutti gli abitanti delle valli a oriente e a occidente."
+  },
+  {
+    "i": 10738,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 17,
+    "t": "Anche alcuni dei figli di Beniamino e di Giuda si unirono a Davide nel suo rifugio."
+  },
+  {
+    "i": 10739,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 18,
+    "t": "Davide uscì loro incontro e, prendendo la parola, disse loro: \"Se siete venuti da me con intenzioni pacifiche, per aiutarmi, il mio cuore sarà unito al vostro; ma se siete venuti per tradirmi e consegnarmi ai miei nemici, mentre le mie mani non hanno commesso alcuna violenza, l'Iddio dei nostri padri lo veda e giudichi!"
+  },
+  {
+    "i": 10740,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 19,
+    "t": "Allora lo Spirito rivestì Amasai, capo dei Trenta, che disse: \"Noi siamo per te, o Davide, e con te, o figlio di Isai! Pace, pace a te, pace ai tuoi aiutanti, perché il tuo Dio ti aiuta!\". Davide li accolse e li mise tra i capi della sua schiera."
+  },
+  {
+    "i": 10741,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 20,
+    "t": "Alcuni di Manasse si unirono a Davide quando egli andò con i Filistei a combattere contro Saul; ma non li aiutarono, perché i principi dei Filistei, dopo essersi consultati, lo rimandarono dicendo: \"A costo delle nostre teste, egli passerà dalla parte del suo signore Saul!"
+  },
+  {
+    "i": 10742,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 21,
+    "t": "Quando egli andò a Ziklag, si unirono a lui di Manasse: Adnah, Jozabad, Jediael, Mikael, Jozabad, Elihu e Zillethai, capi di migliaia di Manasse."
+  },
+  {
+    "i": 10743,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 22,
+    "t": "Essi aiutarono Davide contro le bande armate, perché erano tutti uomini valorosi e furono fatti capi dell'esercito."
+  },
+  {
+    "i": 10744,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 23,
+    "t": "Infatti, giorno dopo giorno, si univano a Davide uomini per soccorrerlo, tanto che l'esercito divenne grande come un esercito di Dio."
+  },
+  {
+    "i": 10745,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 24,
+    "t": "Ecco il numero di coloro che, equipaggiati per la guerra, si unirono a Davide a Hebron, per trasferirgli il regno di Saul, secondo l'ordine dell'Eterno:"
+  },
+  {
+    "i": 10746,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 25,
+    "t": "Dei figli di Giuda, che portavano lo scudo e la lancia, seimilaottocento equipaggiati per la guerra;"
+  },
+  {
+    "i": 10747,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 26,
+    "t": "dei figli di Simeone, settemilacentoventi, prodi valorosi per la guerra;"
+  },
+  {
+    "i": 10748,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 27,
+    "t": "dei figli di Levi, quattromilaseicento;"
+  },
+  {
+    "i": 10749,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 28,
+    "t": "e Joiada, capo della famiglia di Aaronne, e con lui tremilasettecento;"
+  },
+  {
+    "i": 10750,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 29,
+    "t": "Zadok, giovane prode valoroso, e ventidue capi della sua famiglia;"
+  },
+  {
+    "i": 10751,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 30,
+    "t": "dei figli di Beniamino, fratelli di Saul, tremila; fino allora la maggior parte di loro era rimasta fedele alla casa di Saul;"
+  },
+  {
+    "i": 10752,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 31,
+    "t": "dei figli di Efraim, ventimilaottocento uomini valorosi, uomini illustri nelle loro famiglie;"
+  },
+  {
+    "i": 10753,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 32,
+    "t": "della mezza tribù di Manasse, diciottomila, designati nominativamente per andare a proclamare Davide re;"
+  },
+  {
+    "i": 10754,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 33,
+    "t": "dei figli di Issacar, che avevano conoscenza dei tempi per sapere ciò che Israele doveva fare, duecento capi e tutti i loro fratelli erano ai loro ordini;"
+  },
+  {
+    "i": 10755,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 34,
+    "t": "di Zabulon, cinquantamila uomini abili al servizio militare, in ordine di battaglia, con ogni sorta di armi da guerra, e pronti a soccorrere con cuore risoluto;"
+  },
+  {
+    "i": 10756,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 35,
+    "t": "di Neftali, mille capi e con loro trentasettemila uomini muniti di scudo e di lancia;"
+  },
+  {
+    "i": 10757,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 36,
+    "t": "dei Daniti, ventottomilaseicento in ordine di battaglia;"
+  },
+  {
+    "i": 10758,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 37,
+    "t": "di Ascer, quarantamila uomini che partivano per la guerra, in ordine di battaglia;"
+  },
+  {
+    "i": 10759,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 38,
+    "t": "di oltre il Giordano, centoventimila uomini di Ruben, di Gad, della mezza tribù di Manasse, con ogni sorta di armi da guerra."
+  },
+  {
+    "i": 10760,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 39,
+    "t": "Tutti questi uomini di guerra, venuti in buon ordine, si recarono a Hebron con cuore sincero per proclamare Davide re su tutto Israele; anche tutto il resto d'Israele era unanime nel conferire la regalità a Davide."
+  },
+  {
+    "i": 10761,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 40,
+    "t": "Per tre giorni rimasero là a mangiare e a bere con Davide. I loro fratelli avevano preparato ogni cosa per loro;"
+  },
+  {
+    "i": 10762,
+    "b": 12,
+    "c": 1312,
+    "r": 1312,
+    "o": 41,
+    "t": "inoltre, dagli immediati dintorni e fin da Issacar, Zabulon e Neftali, si facevano pervenire delle provviste, per mezzo di asini, cammelli, muli e buoi: farina, fichi e uva passa, vino e olio, bestiame grosso e minuto in abbondanza, perché vi era gioia in Israele."
+  },
+  {
+    "i": 10763,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 1,
+    "t": "Davide si consigliò con i capitani di migliaia e di centinaia e con tutti i comandanti."
+  },
+  {
+    "i": 10764,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 2,
+    "t": "Poi Davide disse a tutta l'assemblea d'Israele: \"Se vi sembra bene e se così piace all'Eterno, il nostro Dio, mandiamo dei messaggeri ai nostri fratelli rimasti in tutti i territori d'Israele, e ai sacerdoti e ai Leviti che sono nelle città a loro appartenenti con i loro pascoli, perché si uniscano a noi,"
+  },
+  {
+    "i": 10765,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 3,
+    "t": "e riportiamo presso di noi l'arca del nostro Dio, perché ai giorni di Saul non ce ne siamo presi cura\"."
+  },
+  {
+    "i": 10766,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 4,
+    "t": "Tutta l'assemblea disse di fare così, perché la cosa parve giusta a tutto il popolo."
+  },
+  {
+    "i": 10767,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 5,
+    "t": "Così Davide radunò tutto Israele, da Shihor, al confine con l'Egitto, fino all'ingresso di Hamat, per condurre da Kiriat-Jearim l'arca di Dio."
+  },
+  {
+    "i": 10768,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 6,
+    "t": "Davide con tutto Israele salì a Baala, cioè a Kiriat-Jearim, che apparteneva a Giuda, per far salire di là l'arca di Dio, davanti alla quale è invocato il Nome, il Nome dell'Eterno, che siede sui cherubini."
+  },
+  {
+    "i": 10769,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 7,
+    "t": "Trasportarono l'arca di Dio sopra un carro nuovo, togliendola dalla casa di Abinadab; Uzza e Ahio guidavano il carro."
+  },
+  {
+    "i": 10770,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 8,
+    "t": "Davide con tutto Israele danzava davanti a Dio con tutte le forze, cantando e suonando cetre, arpe, tamburelli, cembali e trombe."
+  },
+  {
+    "i": 10771,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 9,
+    "t": "Quando giunsero all'aia di Kidon, Uzza stese la mano per sostenere l'arca, perché i buoi avevano fatto un passo falso."
+  },
+  {
+    "i": 10772,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 10,
+    "t": "Allora l'ira dell'Eterno si accese contro Uzza e lo colpì perché aveva steso la mano sull'arca; egli morì lì, davanti a Dio."
+  },
+  {
+    "i": 10773,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 11,
+    "t": "Davide si adirò perché l'Eterno aveva fatto una breccia nel popolo, colpendo Uzza; e chiamò quel luogo Perez-Uzza, nome che porta ancora oggi."
+  },
+  {
+    "i": 10774,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 12,
+    "t": "In quel giorno Davide ebbe paura di Dio e disse: \"Come potrei far venire da me l'arca di Dio?"
+  },
+  {
+    "i": 10775,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 13,
+    "t": "Così Davide non portò l'arca presso di sé nella città di Davide, ma la fece condurre in casa di Obed-Edom di Gat."
+  },
+  {
+    "i": 10776,
+    "b": 12,
+    "c": 1313,
+    "r": 1313,
+    "o": 14,
+    "t": "L'arca di Dio rimase tre mesi presso la famiglia di Obed-Edom in casa sua; e l'Eterno benedisse la famiglia di Obed-Edom e tutto quello che gli apparteneva."
+  },
+  {
+    "i": 10777,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 1,
+    "t": "Hiram, re di Tiro, inviò a Davide degli ambasciatori, del legno di cedro, dei muratori e dei carpentieri per costruirgli una casa."
+  },
+  {
+    "i": 10778,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 2,
+    "t": "Allora Davide riconobbe che l'Eterno l'aveva confermato come re d'Israele e che il suo regno era grandemente esaltato a motivo del suo popolo d'Israele."
+  },
+  {
+    "i": 10779,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 3,
+    "t": "A Gerusalemme Davide prese ancora altre mogli e generò altri figli e figlie."
+  },
+  {
+    "i": 10780,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 4,
+    "t": "Or questi sono i nomi dei figli che gli nacquero in Gerusalemme: Sammua, Sobab, Natan, Salomone,"
+  },
+  {
+    "i": 10781,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 5,
+    "t": "Ibhar, Elisua, Elpalet,"
+  },
+  {
+    "i": 10782,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 6,
+    "t": "Noga, Nefeg, Iafia,"
+  },
+  {
+    "i": 10783,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 7,
+    "t": "Elisama, Baaliada, Elifelet."
+  },
+  {
+    "i": 10784,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 8,
+    "t": "Quando i Filistei udirono che Davide era stato unto re di tutto Israele, salirono tutti alla sua ricerca; ma Davide, udito ciò, uscì loro incontro."
+  },
+  {
+    "i": 10785,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 9,
+    "t": "I Filistei giunsero e si sparsero nella valle dei Refaim."
+  },
+  {
+    "i": 10786,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 10,
+    "t": "Allora Davide interrogò Dio, dicendo: «Devo salire contro i Filistei? Li darai tu nelle mie mani?». Il Signore gli rispose: «Sali, perché io li darò nelle tue mani»."
+  },
+  {
+    "i": 10787,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 11,
+    "t": "Così essi salirono a Baal-Perazim e Davide li sconfisse. Allora Davide disse: «Dio ha aperto una breccia tra i miei nemici per mia mano, come una breccia aperta dalle acque». Perciò quel luogo fu chiamato Baal-Perazim."
+  },
+  {
+    "i": 10788,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 12,
+    "t": "Essi abbandonarono lì i loro dèi e Davide comandò che fossero bruciati con il fuoco."
+  },
+  {
+    "i": 10789,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 13,
+    "t": "I Filistei si sparsero di nuovo nella valle."
+  },
+  {
+    "i": 10790,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 14,
+    "t": "Davide interrogò di nuovo Dio e Dio gli rispose: «Non salire contro di loro; aggirali, giungendo su di loro di fronte alle piante di gelso."
+  },
+  {
+    "i": 10791,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 15,
+    "t": "Quando sentirai un rumore di passi tra le cime delle piante di gelso, allora lanciati all'attacco, perché Dio sarà uscito davanti a te per sconfiggere l'esercito dei Filistei»."
+  },
+  {
+    "i": 10792,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 16,
+    "t": "Davide fece come Dio gli aveva comandato e sconfisse l'esercito dei Filistei da Gabaon fino a Ghezer."
+  },
+  {
+    "i": 10793,
+    "b": 12,
+    "c": 1314,
+    "r": 1314,
+    "o": 17,
+    "t": "La fama di Davide si sparse in tutti i paesi e il Signore lo rese temibile a tutte le nazioni."
+  },
+  {
+    "i": 10794,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 1,
+    "t": "Davide si costruì delle case nella città di Davide, preparò un luogo per l'arca di Dio e vi eresse una tenda,"
+  },
+  {
+    "i": 10795,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 2,
+    "t": "poi disse: «L'arca di Dio non può essere trasportata da altri che dai leviti, perché il Signore ha scelto loro per portare l'arca del Signore e per servirlo per sempre»."
+  },
+  {
+    "i": 10796,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 3,
+    "t": "Allora Davide radunò tutto Israele a Gerusalemme per far salire l'arca del Signore al luogo che egli le aveva preparato."
+  },
+  {
+    "i": 10797,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 4,
+    "t": "Radunò i figli di Aaronne e i figli di Levi:"
+  },
+  {
+    "i": 10798,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 5,
+    "t": "dei figli di Kehat, Uriele, il capo, e i suoi fratelli, centoventi,"
+  },
+  {
+    "i": 10799,
+    "b": 12,
+    "c": 1315,
+    "r": 1315,
+    "o": 6,
+    "t": "dei figli di Merari, Asaia, il capo, e i suoi fratelli, duecentoventi,"
+  }
+]

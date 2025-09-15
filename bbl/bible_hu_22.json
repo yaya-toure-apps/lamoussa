@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2200,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 6,
+    "t": "Olajat a világításhoz, illatszereket a felkenéshez való olajhoz és az illatos tömjénhez;"
+  },
+  {
+    "i": 2201,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 7,
+    "t": "Kornélius követ és köveket az efódba és a mellvértre való foglaláshoz."
+  },
+  {
+    "i": 2202,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 8,
+    "t": "Építs nekem szentélyt, hogy közöttük lakozhassak."
+  },
+  {
+    "i": 2203,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 9,
+    "t": "Mindent a Hajlék mintája és bútorzatának mintája szerint készíts el, amelyet megmutatok neked."
+  },
+  {
+    "i": 2204,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 10,
+    "t": "\"Készíts akácfából egy ládát, melynek hossza két és fél könyök, szélessége másfél könyök, magassága pedig másfél könyök legyen."
+  },
+  {
+    "i": 2205,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 11,
+    "t": "Borítsd be tiszta arannyal, belül és kívül, és készíts rá aranyból készült peremet körös-körül."
+  },
+  {
+    "i": 2206,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 12,
+    "t": "Önts hozzá négy arany karikát, és tedd azokat a négy lábához: két karikát az egyik oldalon és két karikát a másik oldalon."
+  },
+  {
+    "i": 2207,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 13,
+    "t": "Készíts akácfából rudakat is; borítsd be azokat arannyal,"
+  },
+  {
+    "i": 2208,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 14,
+    "t": "és dugd a rudakat a láda oldalain lévő karikákba, hogy azokkal hordozhassák."
+  },
+  {
+    "i": 2209,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 15,
+    "t": "A rudak maradjanak a láda karikáiban, és ne vegyék ki azokat."
+  },
+  {
+    "i": 2210,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 16,
+    "t": "A ládába tedd a Bizonyságot, amelyet neked adok."
+  },
+  {
+    "i": 2211,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 17,
+    "t": "Készíts tiszta aranyból egy engesztelő fedelet is, melynek hossza két és fél könyök, szélessége pedig másfél könyök legyen."
+  },
+  {
+    "i": 2212,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 18,
+    "t": "Készíts két kerubot kalapált aranyból, készítsd el azokat az engesztelő fedél két végén."
+  },
+  {
+    "i": 2213,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 19,
+    "t": "Az egyik kerubot készítsd el az egyik végén, a másik kerubot pedig a másik végén: a kerubokat az engesztelő fedéllel egy darabból készítsd el, annak két végén."
+  },
+  {
+    "i": 2214,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 20,
+    "t": "A kerubok szárnyaik legyenek felfelé terjesztve, és szárnyaikkal oltalmazzák az engesztelő fedelet, egymás felé nézve. A kerubok arca az engesztelő fedél felé legyen fordítva."
+  },
+  {
+    "i": 2215,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 21,
+    "t": "Tedd az engesztelő fedelet a láda tetejére, és a ládába tedd a Bizonyságot, amelyet neked adok."
+  },
+  {
+    "i": 2216,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 22,
+    "t": "Ott találkozom veled. Az engesztelő fedélről, a két kerub közül, amelyek a Bizonyság ládáján vannak, ott adom neked parancsaimat Izrael fiai számára."
+  },
+  {
+    "i": 2217,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 23,
+    "t": "\"Készíts akácfából egy asztalt, melynek hossza két könyök, szélessége egy könyök, magassága pedig másfél könyök legyen."
+  },
+  {
+    "i": 2218,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 24,
+    "t": "Borítsd be tiszta arannyal, és készíts rá körös-körül aranyból készült peremet."
+  },
+  {
+    "i": 2219,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 25,
+    "t": "Készíts rá körös-körül egy tenyérnyi széles lécet, és készíts a lécre körös-körül aranyból készült peremet."
+  },
+  {
+    "i": 2220,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 26,
+    "t": "Készíts hozzá négy arany karikát, és tedd a karikákat a négy láb által alkotott négy sarokba."
+  },
+  {
+    "i": 2221,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 27,
+    "t": "A karikákat helyezd a lécek közelébe, hogy a rudaknak legyen helyük, amelyekkel az asztalt hordozni fogják."
+  },
+  {
+    "i": 2222,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 28,
+    "t": "Készítsd el a rudakat akácfából, és borítsd be azokat arannyal; azokkal fogják hordozni az asztalt."
+  },
+  {
+    "i": 2223,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 29,
+    "t": "Készítsd el a tálait, csészéit, kancsóit, valamint az italáldozatokhoz való kelyheit; tiszta aranyból készítsd el azokat,"
+  },
+  {
+    "i": 2224,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 30,
+    "t": "és az asztalra mindig tedd ki elém a felajánlott kenyereket."
+  },
+  {
+    "i": 2225,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 31,
+    "t": "Készíts egy tiszta aranyból való gyertyatartót; a gyertyatartó, annak talpa és szára legyen kalapált; annak kelyhei, gombjai és virágai egy darabból legyenek vele."
+  },
+  {
+    "i": 2226,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 32,
+    "t": "Hat ág ágazzon ki belőle az oldalain: három ág a gyertyatartóból az egyik oldalon, három ág a gyertyatartóból a másik oldalon."
+  },
+  {
+    "i": 2227,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 33,
+    "t": "Az első ágon legyen három mandulavirág alakú kehely, gombbal és virággal; a második ágon is legyen három mandulavirág alakú kehely, gombbal és virággal; így legyen a gyertyatartóból kiinduló hat ágon."
+  },
+  {
+    "i": 2228,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 34,
+    "t": "Maga a gyertyatartó hordozzon négy mandulavirág alakú kelyhet, gombbal és virággal:"
+  },
+  {
+    "i": 2229,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 35,
+    "t": "egy gomb a gyertyatartóból kiinduló első két ág alatt, egy gomb a következő két ág alatt, és egy gomb az utolsó két ág alatt – tehát a gyertyatartóból kiágazó hat ágon."
+  },
+  {
+    "i": 2230,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 36,
+    "t": "A gombok és az ágak legyenek egy darabból a gyertyatartóval, és az egész legyen egy tömb tiszta, kalapált aranyból."
+  },
+  {
+    "i": 2231,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 37,
+    "t": "Aztán készítsd el annak hét lámpáját. Úgy helyezzék fel a lámpákat, hogy azok előre világítsanak."
+  },
+  {
+    "i": 2232,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 38,
+    "t": "Annak csipeszei és hamutartói legyenek tiszta aranyból."
+  },
+  {
+    "i": 2233,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 39,
+    "t": "Készítsd el azt, minden tartozékával együtt, egy talentum tiszta aranyból."
+  },
+  {
+    "i": 2234,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 40,
+    "t": "Vigyázz, és úgy készítsd el, ahogyan a hegyen megmutatták neked."
+  },
+  {
+    "i": 2235,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 1,
+    "t": "\"Ami a hajlékot illeti, készítsd el tíz drapériából, sodrott finom lenből, bíborlila és karmazsinvörösből és skarlátból. Hímeztesd azokat kerubokkal."
+  },
+  {
+    "i": 2236,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 2,
+    "t": "Egy drapéria hossza legyen huszonnyolc könyök, a szélessége négy könyök, és minden drapériának azonos méretűnek kell lennie."
+  },
+  {
+    "i": 2237,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 3,
+    "t": "Öt drapériát illessz össze egymással, és a másik öt drapériát is illessz össze egymással."
+  },
+  {
+    "i": 2238,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 4,
+    "t": "Készíts bíborlila hurkokat az első drapéria szélére, az illesztés végén, és ugyanígy készíts a második illesztést lezáró drapéria szélére is."
+  },
+  {
+    "i": 2239,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 5,
+    "t": "Készíts ötven hurkot az első drapériára, és ötven hurkot a második illesztés drapériájának a végére, a hurkok feleljenek meg egymásnak."
+  },
+  {
+    "i": 2240,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 6,
+    "t": "Készíts ötven arany kapcsot is, és illeszd össze a drapériákat egymással a kapcsokkal. Így a Hajlék egyetlen darabból álljon."
+  },
+  {
+    "i": 2241,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 7,
+    "t": "Készíts kecskeszőrből drapériákat, hogy sátrat alkoss a Hajlék fölé. Tizenegyet készíts."
+  },
+  {
+    "i": 2242,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 8,
+    "t": "Egy drapéria hossza legyen harminc könyök, a szélessége pedig négy könyök; a tizenegy drapériának azonos méretűnek kell lennie."
+  },
+  {
+    "i": 2243,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 9,
+    "t": "Illessz össze öt drapériát az egyik oldalon és hat drapériát a másik oldalon, és hajtsd vissza a hatodikat a sátor elejére."
+  },
+  {
+    "i": 2244,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 10,
+    "t": "Készíts ötven hurkot az első drapéria szélére, az első illesztés végén, és ötven hurkot a második illesztés drapériájának a szélére."
+  },
+  {
+    "i": 2245,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 11,
+    "t": "Készíts ötven bronz kapcsot, és illeszd a kapcsokat a hurkokba, hogy összeilleszd a sátrat, amely így egyetlen darabból álljon."
+  },
+  {
+    "i": 2246,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 12,
+    "t": "A sátor drapériáinak feleslegéből a felesleges drapéria fele hulljon le a Hajlék hátsó részére."
+  },
+  {
+    "i": 2247,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 13,
+    "t": "A drapériák hosszának mindkét oldalán lévő könyöknyi felesleg hulljon le a Hajlék oldalaira, mindkét oldalon, hogy befedje azt."
+  },
+  {
+    "i": 2248,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 14,
+    "t": "Készíts a sátor számára vörösre festett kosbőrből készült takarót, és fölé egy finom bőrből készült takarót."
+  },
+  {
+    "i": 2249,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 15,
+    "t": "\"Készíts a Hajlék számára akácfából kereteket, amelyeket állva kell felállítani."
+  },
+  {
+    "i": 2250,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 16,
+    "t": "Minden keret legyen tíz könyök hosszú és másfél könyök széles."
+  },
+  {
+    "i": 2251,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 17,
+    "t": "Minden kereten legyen két összeillesztett csap; ugyanígy készíts minden keretet a Hajlékhoz."
+  },
+  {
+    "i": 2252,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 18,
+    "t": "Készítsd el a kereteket a Hajlék felépítéséhez: húsz keretet a déli oldalra, dél felé."
+  },
+  {
+    "i": 2253,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 19,
+    "t": "Készíts negyven ezüst talpat a húsz keret alá: két talpat egy keret alá annak két csapjához, két talpat egy másik keret alá annak két csapjához."
+  },
+  {
+    "i": 2254,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 20,
+    "t": "A Hajlék másik oldalán, az északi oldalon húsz keret legyen,"
+  },
+  {
+    "i": 2255,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 21,
+    "t": "és negyven ezüst talp: két talp egy keret alá, két talp egy másik keret alá."
+  },
+  {
+    "i": 2256,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 22,
+    "t": "A Hajlék hátuljához, a tenger felé, készíts hat keretet,"
+  },
+  {
+    "i": 2257,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 23,
+    "t": "és készíts két keretet a Hajlék hátuljának sarkaihoz."
+  },
+  {
+    "i": 2258,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 24,
+    "t": "A kereteket illessz össze a talpuknál, és maradjanak úgy a tetejükig, az első karika magasságáig. Így legyen a két sarokhoz szánt két kerettel."
+  },
+  {
+    "i": 2259,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 25,
+    "t": "Tehát legyen nyolc keret az ezüst talpakkal, azaz tizenhat talp: két talp egy első keret alá, két talp egy másik keret alá."
+  },
+  {
+    "i": 2260,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 26,
+    "t": "Készíts akácfából tartógerendákat: ötöt a Hajlék első oldalának kereteihez,"
+  },
+  {
+    "i": 2261,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 27,
+    "t": "öt tartógerendát a Hajlék második oldalának kereteihez, és öt tartógerendát a Hajlék hátulját alkotó keretekhez, nyugat felé."
+  },
+  {
+    "i": 2262,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 28,
+    "t": "A középső tartógerenda, amely a fél magasságban van, kösse össze a kereteket az egyik végétől a másikig."
+  },
+  {
+    "i": 2263,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 29,
+    "t": "Borítsd be arannyal a kereteket, készíts nekik arany karikákat, amelyekben a tartógerendák helyet kapnak, és borítsd be a tartógerendákat arannyal."
+  },
+  {
+    "i": 2264,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 30,
+    "t": "Így állítsd fel a Hajlékot, a hegyen mutatott minta szerint."
+  },
+  {
+    "i": 2265,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 31,
+    "t": "\"Készíts egy függönyt bíborlila és karmazsinvörösből, skarlátból és sodrott finom lenből, amelyet kerubokkal hímeztél."
+  },
+  {
+    "i": 2266,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 32,
+    "t": "Tedd azt négy akácfa oszlopra, amelyek arannyal vannak bevonva, arany kampókkal vannak ellátva, és négy ezüst talpra vannak helyezve."
+  },
+  {
+    "i": 2267,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 33,
+    "t": "Helyezd a függönyt a kapcsok alá, ott, a függöny mögött helyezd el a Bizonyság ládáját, és a függöny jelölje ki a szent hely és a szentek szentje közötti elválasztást."
+  },
+  {
+    "i": 2268,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 34,
+    "t": "Helyezd az engesztelő fedelet a Bizonyság ládájára, a szentek szentjébe."
+  },
+  {
+    "i": 2269,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 35,
+    "t": "Helyezd az asztalt a függönyön kívülre, és a gyertyatartót szemben vele, a Hajlék déli oldalára, és tedd az asztalt az északi oldalra."
+  },
+  {
+    "i": 2270,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 36,
+    "t": "Készíts a sátor bejáratához egy hímzett függönyt bíborlila és karmazsinvörösből, skarlátból és sodrott finom lenből."
+  },
+  {
+    "i": 2271,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 37,
+    "t": "Készíts ehhez a függönyhöz öt akácfa oszlopot, és vond be azokat arannyal, azok kampói aranyból legyenek, és önts hozzájuk öt bronz talpat."
+  },
+  {
+    "i": 2272,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 1,
+    "t": "\"Készítsd el az oltárt akácfából; öt könyök hosszú és öt könyök széles, az oltár legyen négyzet alakú; legyen három könyök magas."
+  },
+  {
+    "i": 2273,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 2,
+    "t": "Készíts annak négy sarkára szarvakat, amelyek egy darabból vannak vele, és vond be azt bronzzal."
+  },
+  {
+    "i": 2274,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 3,
+    "t": "Készítsd el a tárolóedényeit a zsíros hamu eltávolításához, a lapátjait, a hintőcsészéit, a villáit és a füstölőit. Az oltár minden tartozékát készítsd el bronzból."
+  },
+  {
+    "i": 2275,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 4,
+    "t": "Készíts neki egy bronzhálót, és készíts ennek a hálónak a négy végére négy bronz karikát."
+  },
+  {
+    "i": 2276,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 5,
+    "t": "Helyezd azt az oltár pereme alá, alul, úgy, hogy az az oltár felének magasságában legyen."
+  },
+  {
+    "i": 2277,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 6,
+    "t": "Készíts rudakat az oltárhoz, akácfából készült rudakat, és vond be azokat bronzzal."
+  },
+  {
+    "i": 2278,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 7,
+    "t": "A rudakat illesszék a karikákba úgy, hogy a rudak az oltár mindkét oldalán legyenek, amikor azt szállítják."
+  },
+  {
+    "i": 2279,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 8,
+    "t": "Üregesre készítsd, deszkákból; úgy készítsd, ahogyan a hegyen megmutatták.e"
+  },
+  {
+    "i": 2280,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 9,
+    "t": "\"Készítsd el a hajlék udvarát. A déli oldalon, dél felé, az udvar függönyei finom sodrott lenből száz könyöknyi hosszúságúak legyenek (az első oldalon)."
+  },
+  {
+    "i": 2281,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 10,
+    "t": "Húsz oszlopa és húsz talpa legyen rézből; az oszlopok horgai és összekötő rudjai ezüstből."
+  },
+  {
+    "i": 2282,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 11,
+    "t": "Hasonlóképpen, az északi oldalon is száz könyöknyi hosszúságú függönyöket készíts, húsz oszlopát és húsz talpát rézből; az oszlopok horgai és összekötő rudjai ezüstből."
+  },
+  {
+    "i": 2283,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 12,
+    "t": "Az udvar szélessége a tenger felőli oldalon ötven könyöknyi függöny legyen, tíz oszlopával és tíz talpával."
+  },
+  {
+    "i": 2284,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 13,
+    "t": "Az udvar szélessége a keleti oldalon, kelet felé, ötven könyök legyen."
+  },
+  {
+    "i": 2285,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 14,
+    "t": "Tizenöt könyöknyi függöny legyen a bejárat egyik oldalán, három oszlopával és három talpával;"
+  },
+  {
+    "i": 2286,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 15,
+    "t": "a bejárat másik oldalán is tizenöt könyöknyi függöny, három oszlopával és három talpával."
+  },
+  {
+    "i": 2287,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 16,
+    "t": "Az udvar kapujánál húsz könyöknyi hímzett függöny legyen bíborból és skarlátból, karmazsinból és finom sodrott lenből, négy oszlopával és négy talpával."
+  },
+  {
+    "i": 2288,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 17,
+    "t": "Az udvar körüli összes oszlopot ezüst összekötő rudak fogják összetartani; a horgai ezüstből, talpai pedig rézből legyenek."
+  },
+  {
+    "i": 2289,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 18,
+    "t": "Az udvar hossza száz könyök, szélessége ötven könyök, magassága pedig öt könyök legyen. Minden függöny finom sodrott lenből készüljön, talpai pedig rézből."
+  },
+  {
+    "i": 2290,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 19,
+    "t": "A hajlék általános szolgálatához szükséges összes eszköz, minden cölöpje és az udvar cölöpei rézből legyenek."
+  },
+  {
+    "i": 2291,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 20,
+    "t": "\"Te pedig parancsold meg Izráel fiainak, hogy hozzanak neked tört olajbogyókból való olajat a világításhoz, hogy lámpás égjen állandóan."
+  },
+  {
+    "i": 2292,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 21,
+    "t": "Áron és fiai helyezzék el ezt a lámpást a találkozás sátorában, a függönyön kívül, amely a bizonyság előtt függ, hogy estétől reggelig égjen az Úr előtt. Ez örök törvény Izráel fiainak nemzedékei számára."
+  },
+  {
+    "i": 2293,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 1,
+    "t": "\"Te pedig hívd magadhoz Áront, a testvéredet és fiait Izráel fiai közül, hogy szolgáljanak nekem papként: Áront, Nádabot és Abihut, Eleázárt és Itamárt, Áron fiait."
+  },
+  {
+    "i": 2294,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 2,
+    "t": "Készíts Áronnak, a testvérednek szent ruhákat, amelyek dicsőséges díszek lesznek számára."
+  },
+  {
+    "i": 2295,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 3,
+    "t": "Szólj minden ügyes kezű emberhez, akiket ügyességgel áldottam meg, és készítsék el Áron ruháit, hogy szentelt legyen az én papságom gyakorlására."
+  },
+  {
+    "i": 2296,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 4,
+    "t": "Íme a ruhák, amelyeket készíteniük kell: egy mellvért, egy efód, egy köntös és egy hímzett tunika, egy turbán és egy öv. Készítsenek szent ruhákat Áronnak, a testvérednek és fiainak, hogy gyakorolják az én papságomat."
+  },
+  {
+    "i": 2297,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 5,
+    "t": "Vegyék az aranyat, a bíbort és a skarlátot, a karmazsint és a finom lent."
+  },
+  {
+    "i": 2298,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 6,
+    "t": "\"Készítsék el az efódot hímezve aranyból, bíborból és skarlátból, karmazsinból és finom sodrott lenből."
+  },
+  {
+    "i": 2299,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 7,
+    "t": "Két vállrészt rögzítsenek rá: a két szélén kell rögzíteni."
+  }
+]

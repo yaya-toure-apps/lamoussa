@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2700,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 38,
+    "t": "bàn thờ bằng vàng, dầu xức, hương thơm và bức màn che lối vào Lều Hội Ngộ;"
+  },
+  {
+    "i": 2701,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 39,
+    "t": "bàn thờ bằng đồng và lưới đồng của nó, các thanh xà và tất cả các phụ kiện của nó; chậu rửa và chân đế của nó;"
+  },
+  {
+    "i": 2702,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 40,
+    "t": "các bức màn của hành lang, các cột, các đế của nó và bức màn cho cổng hành lang, dây thừng, cọc của nó cũng như tất cả các phụ kiện phục vụ cho Đền Tạm, cho Lều Hội Ngộ;"
+  },
+  {
+    "i": 2703,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 41,
+    "t": "những y phục dùng trong các nghi lễ để hành lễ trong nơi thánh — những y phục thánh cho A-rôn, thầy tế lễ, và y phục cho các con trai của ông để hành chức thầy tế lễ."
+  },
+  {
+    "i": 2704,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 42,
+    "t": "Dân Y-sơ-ra-ên đã làm mọi công việc y như Đức Giê-hô-va đã truyền cho Môi-se."
+  },
+  {
+    "i": 2705,
+    "b": 1,
+    "c": 239,
+    "r": 239,
+    "o": 43,
+    "t": "Môi-se thấy mọi công việc: họ đã làm y như Đức Giê-hô-va đã truyền. Và Môi-se ban phước cho họ."
+  },
+  {
+    "i": 2706,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán với Môi-se rằng:"
+  },
+  {
+    "i": 2707,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 2,
+    "t": "\"Vào ngày đầu tháng giêng, ngươi sẽ dựng Đền Tạm, Lều Hội Ngộ,"
+  },
+  {
+    "i": 2708,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 3,
+    "t": "ngươi sẽ đặt hòm Chứng Ước vào đó và che hòm lại bằng bức màn."
+  },
+  {
+    "i": 2709,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 4,
+    "t": "Ngươi sẽ đem bàn thờ vào và bày biện đồ dùng trên bàn. Ngươi sẽ đem chân đèn vào và thắp đèn."
+  },
+  {
+    "i": 2710,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 5,
+    "t": "Ngươi sẽ đặt bàn thờ bằng vàng để dâng hương trước hòm Chứng Ước, và ngươi sẽ đặt bức màn ở lối vào Đền Tạm."
+  },
+  {
+    "i": 2711,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 6,
+    "t": "Ngươi sẽ đặt bàn thờ dâng của lễ thiêu trước lối vào Đền Tạm, Lều Hội Ngộ."
+  },
+  {
+    "i": 2712,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 7,
+    "t": "Ngươi sẽ đặt chậu rửa giữa Lều Hội Ngộ và bàn thờ, và ngươi sẽ đổ nước vào đó."
+  },
+  {
+    "i": 2713,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 8,
+    "t": "Ngươi sẽ đặt hành lang chung quanh và đặt bức màn ở cổng hành lang."
+  },
+  {
+    "i": 2714,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 9,
+    "t": "Ngươi sẽ lấy dầu xức và xức Đền Tạm cùng mọi vật ở trong đó; ngươi sẽ biệt riêng ra thánh, nó và tất cả các phụ kiện của nó, và nó sẽ là cực thánh."
+  },
+  {
+    "i": 2715,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 10,
+    "t": "Ngươi sẽ xức bàn thờ dâng của lễ thiêu và tất cả các phụ kiện của nó, ngươi sẽ biệt riêng bàn thờ ra thánh, và bàn thờ sẽ là cực thánh."
+  },
+  {
+    "i": 2716,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 11,
+    "t": "Ngươi sẽ xức chậu rửa và chân đế của nó và biệt riêng ra thánh."
+  },
+  {
+    "i": 2717,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 12,
+    "t": "Rồi ngươi sẽ dẫn A-rôn và các con trai của ông đến lối vào Lều Hội Ngộ, ngươi sẽ tắm rửa cho họ bằng nước,"
+  },
+  {
+    "i": 2718,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 13,
+    "t": "và ngươi sẽ mặc cho A-rôn những y phục thánh của ông, ngươi sẽ xức dầu cho ông và biệt riêng ông ra thánh để ông hành chức thầy tế lễ cho ta."
+  },
+  {
+    "i": 2719,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 14,
+    "t": "Các con trai của ông, ngươi sẽ dẫn đến, ngươi sẽ mặc cho họ áo dài,"
+  },
+  {
+    "i": 2720,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 15,
+    "t": "và ngươi sẽ xức dầu cho họ như ngươi đã xức dầu cho cha của họ, để họ hành chức thầy tế lễ cho ta. Điều này sẽ được thực hiện để sự xức dầu của họ ban cho họ chức thầy tế lễ đời đời, cho các thế hệ của họ."
+  },
+  {
+    "i": 2721,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 16,
+    "t": "Môi-se đã làm như vậy. Ông đã làm mọi điều y như Đức Giê-hô-va đã truyền."
+  },
+  {
+    "i": 2722,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 17,
+    "t": "Vào ngày đầu tháng giêng năm thứ hai, người ta dựng Đền Tạm."
+  },
+  {
+    "i": 2723,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 18,
+    "t": "Môi-se dựng Đền Tạm; ông đặt các đế, dựng các khung, đặt các thanh ngang và dựng các cột."
+  },
+  {
+    "i": 2724,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 19,
+    "t": "Ông trải lều ra trên Đền Tạm và đặt tấm phủ lều lên trên, y như Đức Giê-hô-va đã truyền cho Môi-se."
+  },
+  {
+    "i": 2725,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 20,
+    "t": "Ông lấy Chứng Ước, đặt vào hòm, đặt các thanh xà vào hòm và đặt nắp thi ân trên hòm."
+  },
+  {
+    "i": 2726,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 21,
+    "t": "Ông đưa hòm vào Đền Tạm và đặt bức màn che; như vậy ông che hòm Chứng Ước, y như Đức Giê-hô-va đã truyền cho Môi-se."
+  },
+  {
+    "i": 2727,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 22,
+    "t": "Ông đặt bàn thờ trong Lều Hội Ngộ, ở phía bắc của Đền Tạm, ở đầu bức màn,"
+  },
+  {
+    "i": 2728,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 23,
+    "t": "và ông bày bánh trên bàn trước mặt Đức Giê-hô-va, y như Đức Giê-hô-va đã truyền cho Môi-se."
+  },
+  {
+    "i": 2729,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 24,
+    "t": "Ông đặt chân đèn trong Lều Hội Ngộ, đối diện với bàn thờ, ở phía nam của Đền Tạm,"
+  },
+  {
+    "i": 2730,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 25,
+    "t": "và thắp đèn trước mặt Đức Giê-hô-va, y như Đức Giê-hô-va đã truyền cho Môi-se."
+  },
+  {
+    "i": 2731,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 26,
+    "t": "Ông đặt bàn thờ bằng vàng trong Lều Hội Ngộ, trước bức màn,"
+  },
+  {
+    "i": 2732,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 27,
+    "t": "và xông hương thơm trên đó, y như Đức Giê-hô-va đã truyền cho Môi-se."
+  },
+  {
+    "i": 2733,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 28,
+    "t": "Rồi ông đặt bức màn ở lối vào Đền Tạm."
+  },
+  {
+    "i": 2734,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 29,
+    "t": "Ông đặt bàn thờ dâng của lễ thiêu ở lối vào Đền Tạm, Lều Hội Ngộ, và dâng của lễ thiêu và của lễ chay trên đó, y như Đức Giê-hô-va đã truyền cho Môi-se."
+  },
+  {
+    "i": 2735,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 30,
+    "t": "Ông đặt chậu rửa giữa Lều Hội Ngộ và bàn thờ, và đổ nước vào đó để rửa,"
+  },
+  {
+    "i": 2736,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 31,
+    "t": "Môi-se, A-rôn và các con trai của ông dùng nước đó để rửa tay và chân."
+  },
+  {
+    "i": 2737,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 32,
+    "t": "Khi họ vào Lều Hội Ngộ hoặc đến gần bàn thờ, họ đều rửa, y như Đức Giê-hô-va đã truyền cho Môi-se."
+  },
+  {
+    "i": 2738,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 33,
+    "t": "Ông dựng hành lang xung quanh Đền Tạm và bàn thờ, và đặt bức màn ở cổng hành lang. Như vậy, Môi-se hoàn thành các công việc."
+  },
+  {
+    "i": 2739,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 34,
+    "t": "Mây bao phủ Lều Hội Ngộ, và vinh quang của Đức Giê-hô-va đầy dẫy Đền Tạm."
+  },
+  {
+    "i": 2740,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 35,
+    "t": "Môi-se không thể vào Lều Hội Ngộ, vì mây ở trên đó, và vinh quang của Đức Giê-hô-va đầy dẫy Đền Tạm."
+  },
+  {
+    "i": 2741,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 36,
+    "t": "Trong mọi chặng đường, khi mây bốc lên khỏi Đền Tạm, dân Y-sơ-ra-ên lên đường."
+  },
+  {
+    "i": 2742,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 37,
+    "t": "Nếu mây không bốc lên, họ không lên đường cho đến ngày mây bốc lên."
+  },
+  {
+    "i": 2743,
+    "b": 1,
+    "c": 240,
+    "r": 240,
+    "o": 38,
+    "t": "Vì ban ngày, mây của Đức Giê-hô-va ở trên Đền Tạm, và ban đêm, có lửa ở trong đó, trước mắt cả nhà Y-sơ-ra-ên, trong mọi chặng đường của họ."
+  },
+  {
+    "i": 2744,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 1,
+    "t": "Đức Giê-hô-va gọi Môi-se và phán với ông từ Lều Hội Ngộ, bảo rằng:"
+  },
+  {
+    "i": 2745,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 2,
+    "t": "Hãy nói với dân Y-sơ-ra-ên; hãy bảo họ rằng: Khi một người trong các ngươi dâng của lễ cho Đức Giê-hô-va, các ngươi có thể dâng của lễ bằng gia súc, lớn hay nhỏ."
+  },
+  {
+    "i": 2746,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 3,
+    "t": "Nếu của lễ của người ấy là của lễ thiêu bằng gia súc lớn, thì người ấy sẽ dâng một con đực không tì vết; người ấy sẽ dâng con vật đó ở lối vào Lều Hội Ngộ, để được chấp nhận trước mặt Đức Giê-hô-va."
+  },
+  {
+    "i": 2747,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 4,
+    "t": "Người ấy sẽ đặt tay lên đầu con vật, và con vật đó sẽ được chấp nhận để chuộc tội cho người ấy."
+  },
+  {
+    "i": 2748,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 5,
+    "t": "Rồi người ấy sẽ giết con bò đực trước mặt Đức Giê-hô-va, và các con trai của A-rôn, các thầy tế lễ, sẽ dâng huyết. Họ sẽ rưới huyết chung quanh bàn thờ ở lối vào Lều Hội Ngộ."
+  },
+  {
+    "i": 2749,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 6,
+    "t": "Sau đó, người ấy sẽ lột da con vật, xẻ nó ra từng miếng,"
+  },
+  {
+    "i": 2750,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 7,
+    "t": "các con trai của A-rôn, các thầy tế lễ, sẽ đem lửa đến trên bàn thờ và xếp củi lên lửa."
+  },
+  {
+    "i": 2751,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 8,
+    "t": "Rồi các con trai của A-rôn, các thầy tế lễ, sẽ xếp các miếng thịt, đầu và mỡ lên trên củi đã xếp trên lửa bàn thờ."
+  },
+  {
+    "i": 2752,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 9,
+    "t": "Người ấy sẽ rửa lòng và chân bằng nước, và thầy tế lễ sẽ xông mọi thứ trên bàn thờ. Của lễ thiêu này sẽ là một thức ăn dâng lên có mùi thơm làm vui lòng Đức Giê-hô-va."
+  },
+  {
+    "i": 2753,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 10,
+    "t": "Nếu của lễ của người ấy là chiên con hay dê con dâng làm của lễ thiêu, thì người ấy sẽ dâng một con đực không tì vết."
+  },
+  {
+    "i": 2754,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 11,
+    "t": "Người ấy sẽ giết con vật ở phía bắc của bàn thờ, trước mặt Đức Giê-hô-va, và các con trai của A-rôn, các thầy tế lễ, sẽ rưới huyết chung quanh bàn thờ."
+  },
+  {
+    "i": 2755,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 12,
+    "t": "Rồi người ấy sẽ xẻ con vật ra từng miếng, và thầy tế lễ sẽ xếp các miếng thịt đó, cùng với đầu và mỡ, lên trên củi đã xếp trên lửa bàn thờ."
+  },
+  {
+    "i": 2756,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 13,
+    "t": "Người ấy sẽ rửa lòng và chân bằng nước, và thầy tế lễ sẽ dâng mọi thứ đó mà xông trên bàn thờ. Của lễ thiêu này sẽ là một thức ăn dâng lên có mùi thơm làm vui lòng Đức Giê-hô-va."
+  },
+  {
+    "i": 2757,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 14,
+    "t": "Nếu của lễ của người ấy dâng cho Đức Giê-hô-va là của lễ thiêu bằng chim, thì người ấy sẽ dâng chim cu gáy hay chim bồ câu non."
+  },
+  {
+    "i": 2758,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 15,
+    "t": "Thầy tế lễ sẽ dâng con vật đó trên bàn thờ, và bóp cổ nó, xé đầu nó ra mà xông trên bàn thờ; rồi huyết con vật sẽ chảy ra trên vách bàn thờ."
+  },
+  {
+    "i": 2759,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 16,
+    "t": "Người ấy sẽ lấy diều và lông ra; người ấy sẽ ném chúng ở phía đông của bàn thờ, tại nơi đổ tro."
+  },
+  {
+    "i": 2760,
+    "b": 2,
+    "c": 301,
+    "r": 301,
+    "o": 17,
+    "t": "Người ấy sẽ xẻ con vật làm đôi, mỗi bên một cánh, nhưng không tách rời ra. Thầy tế lễ sẽ xông con vật trên bàn thờ, trên củi đã xếp trên lửa. Của lễ thiêu này sẽ là một thức ăn dâng lên có mùi thơm làm vui lòng Đức Giê-hô-va."
+  },
+  {
+    "i": 2761,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 1,
+    "t": "Nếu ai dâng của lễ chay cho Đức Giê-hô-va, thì của lễ của người ấy sẽ là bột mì mịn, trên đó người ấy sẽ đổ dầu và bỏ hương."
+  },
+  {
+    "i": 2762,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 2,
+    "t": "Người ấy sẽ đem của lễ đó đến cho các con trai của A-rôn, các thầy tế lễ; thầy tế lễ sẽ lấy một nắm đầy bột mì mịn và dầu, cùng với tất cả hương, mà xông trên bàn thờ để làm kỷ niệm, một thức ăn dâng lên có mùi thơm làm vui lòng Đức Giê-hô-va."
+  },
+  {
+    "i": 2763,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 3,
+    "t": "Phần còn lại của của lễ chay sẽ thuộc về A-rôn và các con trai của ông, phần chí thánh của các thức ăn dâng cho Đức Giê-hô-va."
+  },
+  {
+    "i": 2764,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 4,
+    "t": "Khi ngươi dâng của lễ chay bằng bánh nướng trong lò, thì bột mì mịn sẽ được làm thành bánh không men nhồi với dầu, hoặc bánh tráng không men phết dầu."
+  },
+  {
+    "i": 2765,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 5,
+    "t": "Nếu của lễ của ngươi là của lễ chay nướng trên vỉ, thì bột mì mịn nhồi với dầu sẽ không men."
+  },
+  {
+    "i": 2766,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 6,
+    "t": "Ngươi sẽ bẻ bánh ra thành từng miếng và đổ dầu lên trên. Đó là một của lễ chay."
+  },
+  {
+    "i": 2767,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 7,
+    "t": "Nếu của lễ của ngươi là của lễ chay nướng trong khuôn, thì bột mì mịn sẽ được làm trong dầu."
+  },
+  {
+    "i": 2768,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 8,
+    "t": "Ngươi sẽ đem của lễ chay đã làm như vậy đến cho Đức Giê-hô-va. Người ta sẽ dâng của lễ đó cho thầy tế lễ, và thầy tế lễ sẽ đem đến gần bàn thờ."
+  },
+  {
+    "i": 2769,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 9,
+    "t": "Từ của lễ chay, thầy tế lễ sẽ lấy phần kỷ niệm mà xông trên bàn thờ, một thức ăn dâng lên có mùi thơm làm vui lòng Đức Giê-hô-va."
+  },
+  {
+    "i": 2770,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 10,
+    "t": "Phần còn lại của của lễ chay sẽ thuộc về A-rôn và các con trai của ông, phần chí thánh của các thức ăn dâng cho Đức Giê-hô-va."
+  },
+  {
+    "i": 2771,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 11,
+    "t": "Không một của lễ chay nào các ngươi dâng cho Đức Giê-hô-va được làm bằng men, vì các ngươi không bao giờ được xông men hay mật ong lên bàn thờ làm thức ăn dâng cho Đức Giê-hô-va."
+  },
+  {
+    "i": 2772,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 12,
+    "t": "Các ngươi sẽ dâng các thứ đó cho Đức Giê-hô-va làm của lễ đầu mùa, nhưng chúng không được xông trên bàn thờ làm mùi thơm làm vui lòng."
+  },
+  {
+    "i": 2773,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 13,
+    "t": "Ngươi sẽ nêm muối cho mọi của lễ chay mà ngươi dâng, và ngươi không được quên bỏ muối giao ước của Đức Chúa Trời ngươi trên của lễ chay; ngươi sẽ thêm muối vào mọi của lễ của ngươi cho Đức Chúa Trời."
+  },
+  {
+    "i": 2774,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 14,
+    "t": "Nếu ngươi dâng của lễ đầu mùa cho Đức Giê-hô-va, thì ngươi sẽ dâng của lễ đầu mùa này dưới dạng bông lúa nướng trong lửa hoặc bánh làm bằng lúa giã."
+  },
+  {
+    "i": 2775,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 15,
+    "t": "Ngươi sẽ thêm dầu vào và bỏ hương; đó là một của lễ chay;"
+  },
+  {
+    "i": 2776,
+    "b": 2,
+    "c": 302,
+    "r": 302,
+    "o": 16,
+    "t": "và thầy tế lễ sẽ xông phần kỷ niệm với một phần của bánh và dầu (cùng với tất cả hương) để làm thức ăn dâng cho Đức Giê-hô-va."
+  },
+  {
+    "i": 2777,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 1,
+    "t": "Nếu của lễ của người ấy là của lễ thù ân và người ấy dâng gia súc lớn, đực hay cái, thì người ấy sẽ dâng một con vật không tì vết trước mặt Đức Giê-hô-va."
+  },
+  {
+    "i": 2778,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 2,
+    "t": "Người ấy sẽ đặt tay lên đầu con vật và giết nó ở lối vào Lều Hội Ngộ. Rồi các con trai của A-rôn, các thầy tế lễ, sẽ rưới huyết chung quanh bàn thờ."
+  },
+  {
+    "i": 2779,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 3,
+    "t": "Người ấy sẽ dâng một phần của của lễ thù ân này làm thức ăn dâng cho Đức Giê-hô-va: mỡ bao phủ lòng, tất cả mỡ ở trên lòng,"
+  },
+  {
+    "i": 2780,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 4,
+    "t": "hai quả thận, mỡ dính vào chúng cũng như vào hai bên hông, và mỡ che gan và thận."
+  },
+  {
+    "i": 2781,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 5,
+    "t": "Các con trai của A-rôn sẽ xông phần này trên bàn thờ cùng với của lễ thiêu, trên củi đã xếp trên lửa. Đó sẽ là một thức ăn dâng lên có mùi thơm làm vui lòng Đức Giê-hô-va."
+  },
+  {
+    "i": 2782,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 6,
+    "t": "Nếu người ấy dâng chiên con hay dê con làm của lễ thù ân cho Đức Giê-hô-va, thì người ấy sẽ dâng một con đực hay con cái không tì vết."
+  },
+  {
+    "i": 2783,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 7,
+    "t": "Nếu người ấy dâng một con chiên, người ấy sẽ dâng con vật đó trước mặt Đức Giê-hô-va,"
+  },
+  {
+    "i": 2784,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 8,
+    "t": "người ấy sẽ đặt tay lên đầu con vật và giết nó trước Lều Hội Ngộ, rồi các con trai của A-rôn sẽ rưới huyết con vật chung quanh bàn thờ."
+  },
+  {
+    "i": 2785,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 9,
+    "t": "Từ của lễ thù ân này, người ấy sẽ dâng mỡ làm thức ăn dâng cho Đức Giê-hô-va: toàn bộ đuôi, người ấy sẽ cắt bỏ gần xương cùng, mỡ bao phủ lòng, tất cả mỡ ở trên lòng,"
+  },
+  {
+    "i": 2786,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 10,
+    "t": "hai quả thận, mỡ dính vào chúng cũng như vào hai bên hông, và mỡ che gan và thận."
+  },
+  {
+    "i": 2787,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 11,
+    "t": "Thầy tế lễ sẽ xông phần này trên bàn thờ để làm thức ăn, làm đồ ăn dâng cho Đức Giê-hô-va."
+  },
+  {
+    "i": 2788,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 12,
+    "t": "Nếu của lễ của người ấy là một con dê, người ấy sẽ dâng con vật đó trước mặt Đức Giê-hô-va,"
+  },
+  {
+    "i": 2789,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 13,
+    "t": "người ấy sẽ đặt tay lên đầu nó và giết nó trước Lều Hội Ngộ, và các con trai của A-rôn sẽ rưới huyết con vật chung quanh bàn thờ."
+  },
+  {
+    "i": 2790,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 14,
+    "t": "Đây là những gì người ấy sẽ dâng sau đó làm thức ăn dâng cho Đức Giê-hô-va: mỡ bao phủ lòng, tất cả mỡ ở trên lòng,"
+  },
+  {
+    "i": 2791,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 15,
+    "t": "hai quả thận, mỡ dính vào chúng cũng như vào hai bên hông, và mỡ che gan và thận."
+  },
+  {
+    "i": 2792,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 16,
+    "t": "Thầy tế lễ sẽ xông những miếng này trên bàn thờ để làm thức ăn, làm đồ ăn có mùi thơm làm vui lòng. Tất cả mỡ đều thuộc về Đức Giê-hô-va."
+  },
+  {
+    "i": 2793,
+    "b": 2,
+    "c": 303,
+    "r": 303,
+    "o": 17,
+    "t": "Đây là một luật lệ đời đời cho mọi thế hệ các ngươi, bất cứ nơi nào các ngươi ở: các ngươi không được ăn mỡ hay huyết."
+  },
+  {
+    "i": 2794,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 1,
+    "t": "Đức Giê-hô-va phán với Môi-se rằng:"
+  },
+  {
+    "i": 2795,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 2,
+    "t": "Hãy nói với dân Y-sơ-ra-ên, hãy bảo họ: Nếu ai vô ý phạm tội nghịch lại một trong các điều răn của Đức Giê-hô-va và phạm một trong các hành động bị cấm này,"
+  },
+  {
+    "i": 2796,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 3,
+    "t": "nếu thầy tế lễ được xức dầu phạm tội và làm cho dân có tội, thì ông sẽ dâng cho Đức Giê-hô-va một con bò đực, một con vật lớn không tì vết, làm của lễ chuộc tội."
+  },
+  {
+    "i": 2797,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 4,
+    "t": "Ông sẽ dẫn con bò đực đó đến trước mặt Đức Giê-hô-va ở lối vào Lều Hội Ngộ, đặt tay lên đầu nó và giết nó trước mặt Đức Giê-hô-va."
+  },
+  {
+    "i": 2798,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 5,
+    "t": "Rồi thầy tế lễ được xức dầu sẽ lấy một ít huyết của con bò đực đó và đem vào Lều Hội Ngộ."
+  },
+  {
+    "i": 2799,
+    "b": 2,
+    "c": 304,
+    "r": 304,
+    "o": 6,
+    "t": "Ông sẽ nhúng ngón tay vào huyết và rảy bảy lần trước bức màn của nơi thánh, trước mặt Đức Giê-hô-va."
+  }
+]

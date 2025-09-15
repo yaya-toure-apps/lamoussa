@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26600,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 6,
+    "t": "Chi odia la riprensione percorre il sentiero del peccatore, chi teme il Signore si converte nel suo cuore."
+  },
+  {
+    "i": 26601,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 7,
+    "t": "Il bell'imbonitore è conosciuto ovunque, ma l'uomo riflessivo ne conosce le debolezze."
+  },
+  {
+    "i": 26602,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 8,
+    "t": "Edificare la propria casa con il denaro altrui è ammassare pietre per la propria tomba."
+  },
+  {
+    "i": 26603,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 9,
+    "t": "L'assemblea dei peccatori è un mucchio di stoppa che finirà nella fiamma e nel fuoco."
+  },
+  {
+    "i": 26604,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 10,
+    "t": "La via dei peccatori è ben lastricata, ma conduce al baratro dello Sheol."
+  },
+  {
+    "i": 26605,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 11,
+    "t": "Chi osserva la legge controlla il proprio impulso, la perfezione del timore del Signore è la sapienza."
+  },
+  {
+    "i": 26606,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 12,
+    "t": "Taluno non può imparare nulla per mancanza di doni naturali, ma vi sono doni che generano amarezza."
+  },
+  {
+    "i": 26607,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 13,
+    "t": "La scienza del saggio abbonda come un diluvio, e il suo consiglio è come una sorgente viva."
+  },
+  {
+    "i": 26608,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 14,
+    "t": "Il cuore dello stolto è come un vaso rotto che non trattiene alcuna conoscenza."
+  },
+  {
+    "i": 26609,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 15,
+    "t": "Se un uomo istruito ascolta una parola saggia, la apprezza e vi aggiunge del suo; se un dissoluto l'ascolta, essa gli dispiace, la respinge dietro di sé."
+  },
+  {
+    "i": 26610,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 16,
+    "t": "Il discorso dello stolto pesa come un fardello in viaggio, ma sulle labbra del saggio si trova la grazia."
+  },
+  {
+    "i": 26611,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 17,
+    "t": "La parola dell'uomo assennato è ricercata nell'assemblea, ciò che dice, ognuno lo medita nel suo cuore."
+  },
+  {
+    "i": 26612,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 18,
+    "t": "Una casa in rovina, tale è la sapienza dello stolto, e la scienza dell'insensato, sono discorsi incoerenti."
+  },
+  {
+    "i": 26613,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 19,
+    "t": "La disciplina per l'insensato sono ceppi ai suoi piedi e manette alla sua mano destra."
+  },
+  {
+    "i": 26614,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 20,
+    "t": "Lo stolto scoppia a ridere rumorosamente, il riso dell'uomo di senno è raro e discreto."
+  },
+  {
+    "i": 26615,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 21,
+    "t": "Per l'uomo assennato la disciplina è un gioiello d'oro, un braccialetto al suo braccio destro."
+  },
+  {
+    "i": 26616,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 22,
+    "t": "Lo stolto si affretta a fare il suo ingresso, l'uomo esperto assume un atteggiamento modesto;"
+  },
+  {
+    "i": 26617,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 23,
+    "t": "dalla porta l'insensato guarda all'interno, l'uomo ben educato resta fuori."
+  },
+  {
+    "i": 26618,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 24,
+    "t": "È proprio di un maleducato ascoltare alle porte, un uomo assennato ne sente il disonore."
+  },
+  {
+    "i": 26619,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 25,
+    "t": "Le labbra del chiacchierone sproloquiano di ciò che non le riguarda, le parole dei saggi sono accuratamente pesate."
+  },
+  {
+    "i": 26620,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 26,
+    "t": "Il cuore degli stolti è nella loro bocca, ma la bocca dei saggi è il loro cuore."
+  },
+  {
+    "i": 26621,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 27,
+    "t": "Quando l'empio maledice Satana, maledice se stesso."
+  },
+  {
+    "i": 26622,
+    "b": 45,
+    "c": 4721,
+    "r": 4721,
+    "o": 28,
+    "t": "Il maldicente fa del male a se stesso e si fa detestare dal suo entourage."
+  },
+  {
+    "i": 26623,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 1,
+    "t": "Il pigro è simile a una pietra imbrattata, tutti lo scherniscono per la sua infamia."
+  },
+  {
+    "i": 26624,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 2,
+    "t": "Il pigro è simile a una manciata di immondizia, chiunque lo tocchi scuote la mano."
+  },
+  {
+    "i": 26625,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 3,
+    "t": "È la vergogna di un padre aver dato alla luce un figlio maleducato, e se è una figlia, causa un danno."
+  },
+  {
+    "i": 26626,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 4,
+    "t": "Una figlia assennata troverà un marito, ma la figlia indegna è il dolore di chi l'ha generata."
+  },
+  {
+    "i": 26627,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 5,
+    "t": "Una figlia sfacciata disonora suo padre e suo marito, l'uno e l'altro la rinnegano."
+  },
+  {
+    "i": 26628,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 6,
+    "t": "Rimproveri inopportuni: musica in un giorno di lutto; colpi di frusta e correzione, ecco in ogni tempo la sapienza."
+  },
+  {
+    "i": 26629,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 7,
+    "t": "Figli che conducono una vita onesta senza mancare di nulla fanno dimenticare l'origine oscura dei loro genitori."
+  },
+  {
+    "i": 26630,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 8,
+    "t": "Figli sprezzanti, maleducati, gonfi di orgoglio, macchiano la nobiltà della loro famiglia."
+  },
+  {
+    "i": 26631,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 9,
+    "t": "È incollare cocci insegnare a uno stolto, è svegliare un uomo intorpidito dal sonno."
+  },
+  {
+    "i": 26632,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 10,
+    "t": "Ragionare con uno stolto è ragionare con un uomo assopito, alla fine dirà: \"Di cosa si tratta?"
+  },
+  {
+    "i": 26633,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 11,
+    "t": "Piangi un morto: ha perso la luce, piangi un insensato: ha perso l'intelletto; piangi più dolcemente il morto, perché ha trovato il riposo, per l'insensato la vita è più triste della morte."
+  },
+  {
+    "i": 26634,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 12,
+    "t": "Per un morto il lutto dura sette giorni, per l'insensato e l'empio, tutti i giorni della loro vita."
+  },
+  {
+    "i": 26635,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 13,
+    "t": "Non rivolgere lunghi discorsi all'insensato, non andare incontro allo stolto, perché, insensibile, ti coprirà di disprezzo, guardati da lui per non avere problemi, per non contaminarti al suo contatto. Allontanati da lui, troverai il riposo, le sue divagazioni non ti annoieranno."
+  },
+  {
+    "i": 26636,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 14,
+    "t": "Cosa c'è di più pesante del piombo? Come si chiama? L'insensato."
+  },
+  {
+    "i": 26637,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 15,
+    "t": "La sabbia, il sale, la massa di ferro sono più facili da portare dell'insensato."
+  },
+  {
+    "i": 26638,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 16,
+    "t": "Una struttura di legno assemblata in una costruzione non si lascia disgiungere da un terremoto; un cuore risoluto, dopo matura riflessione, non si lascia commuovere nell'ora del pericolo."
+  },
+  {
+    "i": 26639,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 17,
+    "t": "Un cuore appoggiato su una saggia riflessione è come un ornamento cesellato su un muro levigato."
+  },
+  {
+    "i": 26640,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 18,
+    "t": "Piccoli ciottoli sulla sommità di un muro non resistono al vento: il cuore dello stolto spaventato dalle sue immaginazioni non può resistere alla paura."
+  },
+  {
+    "i": 26641,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 19,
+    "t": "Colpendo l'occhio si fanno scorrere lacrime, colpendo il cuore si fanno apparire i sentimenti."
+  },
+  {
+    "i": 26642,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 20,
+    "t": "Chi lancia un sasso sugli uccelli li fa volare via, chi fa un rimprovero al suo amico uccide l'amicizia."
+  },
+  {
+    "i": 26643,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 21,
+    "t": "Se hai tirato fuori la spada contro il tuo amico, non disperare: può ritornare;"
+  },
+  {
+    "i": 26644,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 22,
+    "t": "se hai aperto la bocca contro il tuo amico, non temere: una riconciliazione è possibile, salvo il caso di oltraggio, disprezzo, tradimento di un segreto, colpo perfido, perché allora ogni amico se ne andrà."
+  },
+  {
+    "i": 26645,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 23,
+    "t": "Guadagna la fiducia del tuo prossimo nella sua povertà affinché, nella sua prosperità, tu goda con lui dei suoi beni; nei giorni di prova rimani fedele a lui affinché tu riceva, se viene a ereditare, la tua parte dell'eredità. Perché non si deve mai disprezzare il bell'aspetto né ammirare un ricco privo di senno."
+  },
+  {
+    "i": 26646,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 24,
+    "t": "Precedendo le fiamme si vede il vapore del braciere e il fumo; così, precedendo il sangue, le ingiurie."
+  },
+  {
+    "i": 26647,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 25,
+    "t": "Non mi vergognerò di proteggere un amico e di lui non mi nasconderò;"
+  },
+  {
+    "i": 26648,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 26,
+    "t": "e se mi capita del male per lui, tutti coloro che lo sapranno si guarderanno da lui."
+  },
+  {
+    "i": 26649,
+    "b": 45,
+    "c": 4722,
+    "r": 4722,
+    "o": 27,
+    "t": "Chi metterà una guardia alla mia bocca e sulle mie labbra il sigillo del discernimento affinché io non inciampi per colpa loro, che la mia lingua non causi la mia perdita?"
+  },
+  {
+    "i": 26650,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 1,
+    "t": "Signore, padre e maestro della mia vita, non lasciarmi inciampare per colpa loro."
+  },
+  {
+    "i": 26651,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 2,
+    "t": "Chi applicherà la frusta ai miei pensieri e al mio cuore la disciplina della sapienza, affinché non si risparmino i miei errori e che i miei peccati non sfuggano?"
+  },
+  {
+    "i": 26652,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 3,
+    "t": "Per paura che i miei errori non si moltiplichino e che i miei peccati non sovrabbondino, che io non cada nelle mani dei miei avversari e che il mio nemico non si prenda gioco di me. A loro è lontana la speranza della tua misericordia."
+  },
+  {
+    "i": 26653,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 4,
+    "t": "Signore, padre e Dio della mia vita, non abbandonarmi al loro capriccio fa' che i miei sguardi non siano sfrontati"
+  },
+  {
+    "i": 26654,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 5,
+    "t": "distogli da me la concupiscenza,"
+  },
+  {
+    "i": 26655,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 6,
+    "t": "che l'appetito sessuale e la lussuria non si impadroniscano di me, non mi consegnare al desiderio impudente."
+  },
+  {
+    "i": 26656,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 7,
+    "t": "Ascoltate, figli miei, un'istruzione sulla bocca, chi la custodisce non sarà confuso."
+  },
+  {
+    "i": 26657,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 8,
+    "t": "Il peccatore è preso dalle proprie labbra, esse fanno cadere il maldicente e l'orgoglioso."
+  },
+  {
+    "i": 26658,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 9,
+    "t": "Non abituare la tua bocca a fare giuramenti, non prendere l'abitudine di pronunciare il nome del Santo."
+  },
+  {
+    "i": 26659,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 10,
+    "t": "Perché come un domestico sempre sorvegliato non sfuggirà ai colpi, così colui che giura e invoca il Nome a torto e a traverso non sarà esente da colpa."
+  },
+  {
+    "i": 26660,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 11,
+    "t": "Un uomo prodigo di giuramenti è ripieno di empietà e il flagello non si allontanerà dalla sua casa. Se pecca, la sua colpa sarà su di lui; se ha agito alla leggera, ha peccato doppiamente; se ha fatto un falso giuramento, non sarà giustificato, perché la sua casa sarà piena di calamità."
+  },
+  {
+    "i": 26661,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 12,
+    "t": "C'è un modo di parlare che somiglia alla morte, che non sia in uso nell'eredità di Giacobbe, perché gli uomini pii respingono tutto ciò, non si sguazzano nel peccato."
+  },
+  {
+    "i": 26662,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 13,
+    "t": "Non abituare la tua bocca all'impurità grossolana dove si trova la parola del peccato."
+  },
+  {
+    "i": 26663,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 14,
+    "t": "Ricordati di tuo padre e di tua madre quando siedi in mezzo ai grandi, per timore che tu non ti dimentichi in loro presenza, che tu non ti conduca come uno stolto, e che tu non arrivi a desiderare di non essere nato e a maledire il giorno della tua nascita."
+  },
+  {
+    "i": 26664,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 15,
+    "t": "Un uomo abituato alle parole riprovevoli non si correggerà in vita sua."
+  },
+  {
+    "i": 26665,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 16,
+    "t": "Due tipi di esseri moltiplicano i peccati e il terzo attira la collera: la passione bruciante come un braciere: non si spegnerà finché non sarà saziata; l'uomo che desidera la propria carne: non avrà pace finché il fuoco non lo consumi;"
+  },
+  {
+    "i": 26666,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 17,
+    "t": "all'uomo impudico ogni cibo è dolce, non si calmerà che alla sua morte."
+  },
+  {
+    "i": 26667,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 18,
+    "t": "L'uomo infedele al proprio letto che dice in cuor suo: \"Chi mi vede? L'ombra mi circonda, i muri mi proteggono, nessuno mi vede, che dovrei temere? L'Altissimo non si ricorderà delle mie colpe."
+  },
+  {
+    "i": 26668,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 19,
+    "t": "Ciò che teme sono gli occhi degli uomini, non sa che gli occhi del Signore sono diecimila volte più luminosi del sole, che osservano tutte le azioni degli uomini e penetrano nei recessi più segreti."
+  },
+  {
+    "i": 26669,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 20,
+    "t": "Prima che creasse, tutte le cose gli erano note, lo sono ancora dopo il loro compimento."
+  },
+  {
+    "i": 26670,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 21,
+    "t": "In piena città quest'uomo sarà punito, quando meno se lo aspetta sarà preso."
+  },
+  {
+    "i": 26671,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 22,
+    "t": "Lo stesso vale per la donna infedele a suo marito che gli porta un erede concepito da uno straniero."
+  },
+  {
+    "i": 26672,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 23,
+    "t": "Innanzitutto ha disobbedito alla legge dell'Altissimo, quindi è colpevole verso suo marito; in terzo luogo si è contaminata con l'adulterio e ha concepito figli da uno straniero."
+  },
+  {
+    "i": 26673,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 24,
+    "t": "Sarà tradotta davanti all'assemblea e si esamineranno i suoi figli."
+  },
+  {
+    "i": 26674,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 25,
+    "t": "I suoi figli non avranno radici, i suoi rami non porteranno frutto."
+  },
+  {
+    "i": 26675,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 26,
+    "t": "Lascerà un ricordo di maledizione e la sua vergogna non sarà mai cancellata."
+  },
+  {
+    "i": 26676,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 27,
+    "t": "E coloro che vengono dopo di lei sapranno che nulla vale il timore del Signore e che nulla è più dolce che attaccarsi ai comandamenti del Signore."
+  },
+  {
+    "i": 26677,
+    "b": 45,
+    "c": 4723,
+    "r": 4723,
+    "o": 28,
+    "t": "Seguire Dio è un grande onore; è prolungare i tuoi giorni essere accolto da lui."
+  },
+  {
+    "i": 26678,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 1,
+    "t": "La Sapienza fa il proprio elogio, in mezzo al suo popolo mostra il suo orgoglio."
+  },
+  {
+    "i": 26679,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 2,
+    "t": "Nell'assemblea dell'Altissimo apre la bocca, e davanti alla sua Potenza mostra il suo orgoglio."
+  },
+  {
+    "i": 26680,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 3,
+    "t": "\"Io sono uscita dalla bocca dell'Altissimo, e come nebbia ho coperto la terra."
+  },
+  {
+    "i": 26681,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 4,
+    "t": "\"Ho abitato nei cieli, e il mio trono era una colonna di nube."
+  },
+  {
+    "i": 26682,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 5,
+    "t": "\"Io sola ho compiuto il giro del cielo, ho percorso la profondità degli abissi."
+  },
+  {
+    "i": 26683,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 6,
+    "t": "\"Nelle onde del mare, su tutta la terra, in ogni popolo e nazione, io ho regnato."
+  },
+  {
+    "i": 26684,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 7,
+    "t": "\"Tra tutti costoro ho cercato riposo, ho cercato in quale eredità stabilirmi."
+  },
+  {
+    "i": 26685,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 8,
+    "t": "\"Allora il creatore dell'universo mi ha dato un ordine, colui che mi ha creato mi ha fatto erigere la mia tenda, mi ha detto: 'Stabilisciti in Giacobbe, in Israele ricevi la tua eredità.'"
+  },
+  {
+    "i": 26686,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 9,
+    "t": "\"Prima dei secoli, fin dal principio egli mi ha creata, eternamente io sussisterò."
+  },
+  {
+    "i": 26687,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 10,
+    "t": "\"Nella Tenda santa, alla sua presenza, io ho officiato; così in Sion mi sono stabilita,"
+  },
+  {
+    "i": 26688,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 11,
+    "t": "\"e nella città amata ho trovato il mio riposo, in Gerusalemme esercito il mio potere."
+  },
+  {
+    "i": 26689,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 12,
+    "t": "\"Ho messo radici in un popolo pieno di gloria, nel dominio del Signore si trova la mia eredità."
+  },
+  {
+    "i": 26690,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 13,
+    "t": "\"Vi sono cresciuta come il cedro del Libano, come il cipresso sul monte Hermon."
+  },
+  {
+    "i": 26691,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 14,
+    "t": "\"Sono cresciuta come la palma di Engaddi, come le piante di rose di Gerico, come un olivo magnifico nella pianura, sono cresciuta come un platano."
+  },
+  {
+    "i": 26692,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 15,
+    "t": "\"Come il cinnamomo e l'acanto ho dato profumo, come una mirra di pregio ho fragranza, come il galbano, l'onice, il labdano, come il vapore d'incenso nella Tenda."
+  },
+  {
+    "i": 26693,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 16,
+    "t": "\"Ho esteso i miei rami come il terebinto, rami di gloria e di grazia sono."
+  },
+  {
+    "i": 26694,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 17,
+    "t": "\"Sono come una vite dai pampini graziosi, e i miei fiori sono prodotti di gloria e di ricchezza."
+  },
+  {
+    "i": 26695,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 18,
+    "t": "\"Io sono la madre del bell'amore e del timore, della conoscenza e della santa speranza. A tutti i miei figli io dono beni eterni, a coloro che egli ha scelto."
+  },
+  {
+    "i": 26696,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 19,
+    "t": "\"Venite a me, voi che mi desiderate; e saziatevi dei miei prodotti."
+  },
+  {
+    "i": 26697,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 20,
+    "t": "\"Poiché la mia memoria è più dolce del miele, la mia eredità più dolce di un favo di miele."
+  },
+  {
+    "i": 26698,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 21,
+    "t": "\"Coloro che mi mangiano avranno ancora fame, coloro che mi bevono avranno ancora sete."
+  },
+  {
+    "i": 26699,
+    "b": 45,
+    "c": 4724,
+    "r": 4724,
+    "o": 22,
+    "t": "\"Colui che mi obbedisce non dovrà arrossire e coloro che operano per mio mezzo non peccheranno."
+  }
+]

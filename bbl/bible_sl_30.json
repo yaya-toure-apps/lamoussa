@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3000,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 5,
+    "t": "In za nečistega imejte svizca, ker prežvekuje, a nima razcepljenih parkljev;"
+  },
+  {
+    "i": 3001,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 6,
+    "t": "In za nečistega imejte zajca, ker prežvekuje, a nima razcepljenih parkljev;"
+  },
+  {
+    "i": 3002,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 7,
+    "t": "In svinjo imejte za nečisto, ker ima sicer razcepljene, razklane parklje, a ne prežvekuje;"
+  },
+  {
+    "i": 3003,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 8,
+    "t": "od njih mesa ne jejte in njihovih mrh se ne dotikajte, nečiste naj vam bodo;"
+  },
+  {
+    "i": 3004,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 9,
+    "t": "To pa smete jesti izmed vsega, kar živi v vodi: vse, kar ima plavuti in luske v vodi, v morjih in rekah, to smete jesti;"
+  },
+  {
+    "i": 3005,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 10,
+    "t": "vse pa, kar nima plavuti in lusk, v morjih in rekah, izmed vsega, kar se giblje v vodi, in izmed vseh živih bitij, ki so v njej, to naj vam bo gnusoba;"
+  },
+  {
+    "i": 3006,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 11,
+    "t": "gnusoba naj vam bodo, njih mesa ne jejte in njih mrh naj vam bodo gnusne;"
+  },
+  {
+    "i": 3007,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 12,
+    "t": "vse, kar v vodi nima plavuti in lusk, naj vam bo gnusoba;"
+  },
+  {
+    "i": 3008,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 13,
+    "t": "To pa je izmed ptic, kar imejte za gnusobo: ne sme se jesti, gnusoba je: orel, jastreb, mrharica,"
+  },
+  {
+    "i": 3009,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 14,
+    "t": "škarnik, sokol po njegovih vrstah;"
+  },
+  {
+    "i": 3010,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 15,
+    "t": "vsi vrani po njihovih vrstah;"
+  },
+  {
+    "i": 3011,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 16,
+    "t": "nočni orel, uharica, galeb, sokol po njegovih vrstah;"
+  },
+  {
+    "i": 3012,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 17,
+    "t": "sova, kormoran, štorklja,"
+  },
+  {
+    "i": 3013,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 18,
+    "t": "ibis, pelikan, smrdljivka,"
+  },
+  {
+    "i": 3014,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 19,
+    "t": "čaplja, čaplje po njihovih vrstah, smrdokavra, netopir;"
+  },
+  {
+    "i": 3015,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 20,
+    "t": "vse, kar se plazi in ima peruti, pa hodi po štirih nogah, naj vam bo gnusoba;"
+  },
+  {
+    "i": 3016,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 21,
+    "t": "izmed vsega, kar se plazi in ima peruti, pa hodi po štirih nogah, pa smete jesti tisto, ki ima golenice nad nogami, da z njimi skače po zemlji;"
+  },
+  {
+    "i": 3017,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 22,
+    "t": "to smete jesti: kobilico po njenih vrstah, strašno kobilico po njenih vrstah, črička po njenih vrstah, konjička po njenih vrstah;"
+  },
+  {
+    "i": 3018,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 23,
+    "t": "vse pa, kar se plazi in ima peruti, pa ima štiri noge, naj vam bo gnusoba;"
+  },
+  {
+    "i": 3019,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 24,
+    "t": "po njih se boste onečistili: kdor se dotakne njihove mrhovine, bo nečist do večera;"
+  },
+  {
+    "i": 3020,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 25,
+    "t": "in kdor nosi njihovo mrhovino, naj opere svoje obleke in bo nečist do večera;"
+  },
+  {
+    "i": 3021,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 26,
+    "t": "vse živali, ki imajo parklje, a niso razcepljeni in ne prežvekujejo, nečiste naj vam bodo: kdor se jih dotakne, bo nečist;"
+  },
+  {
+    "i": 3022,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 27,
+    "t": "in vse, kar hodi po šapah, izmed vseh štirinožcev, nečiste naj vam bodo: kdor se dotakne njihove mrhovine, bo nečist do večera;"
+  },
+  {
+    "i": 3023,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 28,
+    "t": "in kdor nosi njihovo mrhovino, naj opere svoje obleke in bo nečist do večera: nečiste naj vam bodo;"
+  },
+  {
+    "i": 3024,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 29,
+    "t": "To pa je izmed plazečih se živali, ki se plazijo po zemlji, kar naj vam bo nečisto: podlasica, miš in kuščar po njegovih vrstah;"
+  },
+  {
+    "i": 3025,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 30,
+    "t": "jež, kameleon, krškonski kuščar, peščenjak in stenski kuščar;"
+  },
+  {
+    "i": 3026,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 31,
+    "t": "to naj vam bo nečisto izmed vseh plazilcev: kdor se jih dotakne, ko poginejo, bo nečist do večera;"
+  },
+  {
+    "i": 3027,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 32,
+    "t": "in vse, na kar pade kaj izmed njih, ko poginejo, bo nečisto: vsaka lesena posoda, obleka, koža, vreča, vsako orodje, s katerim se dela, naj se dene v vodo in bo nečisto do večera, potem pa bo čisto;"
+  },
+  {
+    "i": 3028,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 33,
+    "t": "in vsako glineno posodo, v katero pade kaj izmed njih, jo razbijte: vse, kar je v njej, bo nečisto;"
+  },
+  {
+    "i": 3029,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 34,
+    "t": "vsa jed, ki jo jeste, na katero priteče voda, bo nečista, in vsaka pijača, ki jo pijete, iz vsake posode, bo nečista;"
+  },
+  {
+    "i": 3030,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 35,
+    "t": "in vse, na kar pade kaj izmed njihove mrhovine, bo nečisto: peč in ognjišče naj se razdre, nečisto je; in nečisto naj vam bo;"
+  },
+  {
+    "i": 3031,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 36,
+    "t": "le studenec ali zbiralnik vode bosta čista; kdor pa se dotakne njihove mrhovine, bo nečist;"
+  },
+  {
+    "i": 3032,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 37,
+    "t": "če pade kaj izmed njihove mrhovine na kako seme, ki se ga seje, bo čisto;"
+  },
+  {
+    "i": 3033,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 38,
+    "t": "če pa se vlije voda na seme in pade kaj izmed njihove mrhovine nanj, naj vam bo nečisto;"
+  },
+  {
+    "i": 3034,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 39,
+    "t": "Če pogine katera izmed živine, ki jo imate za hrano, bo nečist, kdor se dotakne njene mrhovine, do večera;"
+  },
+  {
+    "i": 3035,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 40,
+    "t": "in kdor jé od njene mrhovine, naj opere svoje obleke in bo nečist do večera; in kdor nosi njeno mrhovino, naj opere svoje obleke in bo nečist do večera;"
+  },
+  {
+    "i": 3036,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 41,
+    "t": "Vse, kar se plazi po zemlji, je gnusoba, ne sme se jesti;"
+  },
+  {
+    "i": 3037,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 42,
+    "t": "vse, kar se plazi po trebuhu, in vse, kar hodi po štirih nogah, in vse, kar ima veliko nog, vse plazeče se živali, ki se plazijo po zemlji, jih ne smete jesti, ker so gnusoba;"
+  },
+  {
+    "i": 3038,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 43,
+    "t": "ne onečistite se z nobeno plazečo se živaljo in ne pomaznite se z njimi, da ne postanete nečisti;"
+  },
+  {
+    "i": 3039,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 44,
+    "t": "kajti jaz sem Gospod, vaš Bog; posvečujte se torej in bodite sveti, ker sem jaz svet; ne onečistite se z nobeno plazečo se živaljo, ki se plazi po zemlji;"
+  },
+  {
+    "i": 3040,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 45,
+    "t": "kajti jaz sem Gospod, ki sem vas pripeljal iz egiptovske dežele, da bi vam bil Bog; bodite torej sveti, ker sem jaz svet;"
+  },
+  {
+    "i": 3041,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 46,
+    "t": "to je zakon o živini in pticah in o vseh živih bitjih, ki se gibljejo v vodi, in o vseh živalih, ki se plazijo po zemlji,"
+  },
+  {
+    "i": 3042,
+    "b": 2,
+    "c": 311,
+    "r": 311,
+    "o": 47,
+    "t": "da se razloči med nečistim in čistim in med živaljo, ki se jo sme jesti, in živaljo, ki se je ne sme jesti;"
+  },
+  {
+    "i": 3043,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 1,
+    "t": "Gospod je govoril Mojzesu, rekoč:"
+  },
+  {
+    "i": 3044,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 2,
+    "t": "Govori Izraelovim sinovom, rekoč: Ako žena zanosi in rodi dečka, bo sedem dni nečista, kakor je nečista v času njene mesečne bolezni;"
+  },
+  {
+    "i": 3045,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 3,
+    "t": "osmi dan pa naj obrežejo kožico njegovega uda;"
+  },
+  {
+    "i": 3046,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 4,
+    "t": "potem pa naj ostane še triintrideset dni pri čiščenju svoje krvi; ne dotikaj se nobene svete stvari in ne hodi v svetišče, dokler se ne dopolnijo dnevi njenega čiščenja;"
+  },
+  {
+    "i": 3047,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 5,
+    "t": "ako pa rodi deklice, bo nečista dva tedna, kakor v času njene mesečne bolezni, in ostane še šestinšestdeset dni pri čiščenju svoje krvi;"
+  },
+  {
+    "i": 3048,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 6,
+    "t": "Kadar se dopolnijo dnevi njenega čiščenja, za sina ali za hčer, naj prinese enoletno jagnje za žgalno daritev in grlico ali golobiča za daritev za greh pred vrata shoda, h duhovniku;"
+  },
+  {
+    "i": 3049,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 7,
+    "t": "on pa naj daruje Gospodu in stori zanjo spravo, in bo čista njene krvne bolezni. To je zakon za ženo, ki rodi dečka ali deklice;"
+  },
+  {
+    "i": 3050,
+    "b": 2,
+    "c": 312,
+    "r": 312,
+    "o": 8,
+    "t": "ako pa njena roka ne doseže, da bi prinesla jagnje, naj vzame dve grlici ali dva golobiča, enega za žgalno daritev in drugega za daritev za greh; in duhovnik stori zanjo spravo, in bo čista;"
+  },
+  {
+    "i": 3051,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 1,
+    "t": "Gospod je govoril Mojzesu in Aaronu, rekoč:"
+  },
+  {
+    "i": 3052,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 2,
+    "t": "Če se pojavi na koži človeškega telesa oteklina ali krasta ali lisa in bi mogla biti kožna gobavost, naj se ga pripelje k duhovniku Aaronu ali h kateremu izmed njegovih sinov duhovnikov;"
+  },
+  {
+    "i": 3053,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 3,
+    "t": "duhovnik pa naj pogleda prizadeto mesto na koži; če se prizadeto mesto obeli in lasje na njem pobelijo, in se kaže vdolbina na prizadetem mestu, to je kožna gobavost: duhovnik naj ga pogleda in razglasi za nečistega;"
+  },
+  {
+    "i": 3054,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 4,
+    "t": "ako pa se na koži pojavi bela lisa, ki pa ni vdolbena in lasje na njej niso pobelili, naj duhovnik zapre bolnika sedem dni;"
+  },
+  {
+    "i": 3055,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 5,
+    "t": "sedmi dan pa ga duhovnik zopet pogleda; če se mu zdi, da se je bolezen nespremenjena in se ni razširila na koži, naj ga zopet zapre sedem dni;"
+  },
+  {
+    "i": 3056,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 6,
+    "t": "sedmi dan pa ga duhovnik zopet pogleda; če se mu zdi, da je lisa pobledela in se ni razširila na koži, naj ga duhovnik razglasi za čistega: to je krasta, naj opere svoje obleke in bo čist;"
+  },
+  {
+    "i": 3057,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 7,
+    "t": "če pa se je krasta razširila na koži, po tem, kar ga je duhovnik pogleda in razglasil za čistega, naj se zopet pokaže duhovniku;"
+  },
+  {
+    "i": 3058,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 8,
+    "t": "duhovnik pa naj ga pogleda; če se je krasta razširila na koži, naj ga duhovnik razglasi za nečistega: to je gobavost;"
+  },
+  {
+    "i": 3059,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 9,
+    "t": "Če se pojavi na komu bolezen gobavosti, naj se ga pripelje k duhovniku;"
+  },
+  {
+    "i": 3060,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 10,
+    "t": "duhovnik pa naj ga pogleda; če se mu zdi, da je na koži bela oteklina in da so lasje pobelili in se kaže živo meso v oteklini,"
+  },
+  {
+    "i": 3061,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 11,
+    "t": "to je stara gobavost na koži, naj ga duhovnik razglasi za nečistega; ne sme ga zapreti, ker je gotovo nečist;"
+  },
+  {
+    "i": 3062,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 12,
+    "t": "ako pa se gobavost zelo razširi na koži in pokrije vso kožo bolnikovo od glave do pet, kolikor more videti duhovnik,"
+  },
+  {
+    "i": 3063,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 13,
+    "t": "naj ga duhovnik pogleda; če se mu zdi, da je gobavost pokrila vse njegovo telo, naj razglasi bolnika za čistega: ves je pobelil, čist je;"
+  },
+  {
+    "i": 3064,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 14,
+    "t": "brž pa, ko se na njem pokaže živo meso, bo nečist;"
+  },
+  {
+    "i": 3065,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 15,
+    "t": "in duhovnik naj pogleda živo meso in razglasi bolnika za nečistega: živo meso je nečisto, gobavost je;"
+  },
+  {
+    "i": 3066,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 16,
+    "t": "če pa se živo meso zopet pobeli, naj pride k duhovniku,"
+  },
+  {
+    "i": 3067,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 17,
+    "t": "duhovnik pa naj ga pogleda; če se mu zdi, da je prizadeto mesto pobelilo, naj razglasi bolnika za čistega: čist je;"
+  },
+  {
+    "i": 3068,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 18,
+    "t": "Če se naredi na koži telesa tur in se izpozdravi,"
+  },
+  {
+    "i": 3069,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 19,
+    "t": "in se na mestu tura naredi bela oteklina ali lisasta, bledo rdeča lisa, naj se pokaže duhovniku;"
+  },
+  {
+    "i": 3070,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 20,
+    "t": "duhovnik pa naj jo pogleda; če se mu zdi, da je vdolbena in so lasje na njej pobelili, naj ga duhovnik razglasi za nečistega: gobava bolezen je, iz tura je vzklila;"
+  },
+  {
+    "i": 3071,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 21,
+    "t": "če pa jo duhovnik pogleda, pa na njej ni belih las in ni vdolbena, ampak je pobledela, naj ga duhovnik zapre sedem dni;"
+  },
+  {
+    "i": 3072,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 22,
+    "t": "če se je kaj razširila na koži, naj ga duhovnik razglasi za nečistega: to je gobavost;"
+  },
+  {
+    "i": 3073,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 23,
+    "t": "ako pa lisa stoji, se ni razširila, to je tur: duhovnik naj ga razglasi za čistega;"
+  },
+  {
+    "i": 3074,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 24,
+    "t": "Ali, če se pojavi na koži telesa opeklin in se naredi na opeklinenem mestu lisasta, bledo rdeča ali bela lisa,"
+  },
+  {
+    "i": 3075,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 25,
+    "t": "naj jo duhovnik pogleda; če se mu zdi, da so na lisi pobelili lasje in je vdolbena, to je gobavost, ki je vzklila na opeklinenem mestu: naj ga duhovnik razglasi za nečistega, ker je gobava bolezen;"
+  },
+  {
+    "i": 3076,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 26,
+    "t": "če pa duhovnik jo pogleda, pa na lisi ni belih las in ni vdolbena, ampak je pobledela, naj ga duhovnik zapre sedem dni;"
+  },
+  {
+    "i": 3077,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 27,
+    "t": "sedmi dan pa naj ga pogleda: če se je kaj razširila na koži, naj ga duhovnik razglasi za nečistega, ker je gobava bolezen;"
+  },
+  {
+    "i": 3078,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 28,
+    "t": "ako pa lisa stoji, se ni kaj razširila na koži, ampak je pobledela, to je oteklina od opekline: duhovnik naj ga razglasi za čistega, ker je brazgotina od opekline;"
+  },
+  {
+    "i": 3079,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 29,
+    "t": "Ako ima mož ali žena rano na glavi ali na bradi,"
+  },
+  {
+    "i": 3080,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 30,
+    "t": "In duhovnik naj preišče to rano, in če se pokaže, da je vdolbina v koži vidna, z rumenkasto in drobno dlako, naj bolnika razglasi za nečistega. To je garjavost, se pravi gobavost glave ali brade."
+  },
+  {
+    "i": 3081,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 31,
+    "t": "Če duhovnik pri pregledu te garjavosti ne najde vidne vdolbine v koži ali rumenkaste dlake, naj garjavega zapre za sedem dni."
+  },
+  {
+    "i": 3082,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 32,
+    "t": "Sedmi dan naj preišče bolezen, in če vidi, da se garjavost ni razširila, da na njej ni rumenkaste dlake, da ni vidne vdolbine v koži,"
+  },
+  {
+    "i": 3083,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 33,
+    "t": "naj se bolnik obrije, razen garjavega dela, in duhovnik naj ga zapre še drugič za sedem dni."
+  },
+  {
+    "i": 3084,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 34,
+    "t": "Sedmi dan naj preišče bolezen, in če vidi, da se ni razširila na koži, da ni vidne vdolbine v koži, naj duhovnik razglasi tega bolnika za čistega. Potem ko očisti svoja oblačila, bo čist."
+  },
+  {
+    "i": 3085,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 35,
+    "t": "Če pa se garjavost po tem očiščenju razširi na koži,"
+  },
+  {
+    "i": 3086,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 36,
+    "t": "naj jo duhovnik preišče: če vidi, da se je garjavost razširila na koži, je bolnik nečist in se ne bo preverjalo, ali je dlaka rumenkasta."
+  },
+  {
+    "i": 3087,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 37,
+    "t": "Če pa se garjavost pojavi mirujoča in na njej raste črna dlaka, je bolnik ozdravljen. Čist je, in duhovnik naj ga razglasi za čistega."
+  },
+  {
+    "i": 3088,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 38,
+    "t": "Če se pojavijo lise na koži moškega ali ženske in so te lise bele,"
+  },
+  {
+    "i": 3089,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 39,
+    "t": "naj jih duhovnik preišče. Če ugotovi, da so te lise na koži medle bele barve, gre za izpuščaj, ki se je razširil na koži: bolnik je čist."
+  },
+  {
+    "i": 3090,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 40,
+    "t": "Če moškemu izpadajo lasje na glavi, je to plešavost glave, je čist."
+  },
+  {
+    "i": 3091,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 41,
+    "t": "Če mu lasje izpadajo na sprednjem delu glave, je to plešavost čela, je čist."
+  },
+  {
+    "i": 3092,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 42,
+    "t": "Če pa je na glavi ali na čelu bela rdečkasta bolezen, se gobavost širi na glavi ali čelu tega moškega."
+  },
+  {
+    "i": 3093,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 43,
+    "t": "Duhovnik ga bo preiskal, in če ugotovi na glavi ali čelu belo rdečkasto tvorbo, enakega videza kot gobavost kože,"
+  },
+  {
+    "i": 3094,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 44,
+    "t": "je to gobavec; nečist je. Duhovnik ga mora razglasiti za nečistega, prizadet je z gobavostjo na glavi."
+  },
+  {
+    "i": 3095,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 45,
+    "t": "Gobavec, ki ga je doletela ta bolezen, naj ima raztrgana oblačila in razpuščene lase; pokrije naj si brke in vpije: \"Nečist! Nečist!"
+  },
+  {
+    "i": 3096,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 46,
+    "t": "Dokler traja njegova bolezen, bo nečist, in ker je nečist, bo prebival posebej: njegovo bivališče bo zunaj tabora."
+  },
+  {
+    "i": 3097,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 47,
+    "t": "Ko je oblačilo prizadeto z gobavostjo, bodisi volneno bodisi laneno,"
+  },
+  {
+    "i": 3098,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 48,
+    "t": "tkanina ali odeja iz volne ali lana, usnje ali katero koli delo iz usnja,"
+  },
+  {
+    "i": 3099,
+    "b": 2,
+    "c": 313,
+    "r": 313,
+    "o": 49,
+    "t": "če se madež na tem oblačilu, usnju, tkanini, odeji ali predmetu iz usnja pojavi zelenkast ali rdečkast, je to primer gobavosti, ki jo je treba pokazati duhovniku."
+  }
+]

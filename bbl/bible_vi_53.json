@@ -1,0 +1,795 @@
+[
+  {
+    "i": 5300,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 11,
+    "t": "Ngươi có thể ăn mọi loài chim thanh sạch,"
+  },
+  {
+    "i": 5301,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 12,
+    "t": "nhưng đây là những loài chim mà ngươi chớ nên ăn: chim kên kên, chim cắt, chim ó biển,"
+  },
+  {
+    "i": 5302,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 13,
+    "t": "diều hâu đen, các loài diều hâu đỏ,"
+  },
+  { "i": 5303, "b": 4, "c": 514, "r": 514, "o": 14, "t": "mọi loài quạ," },
+  {
+    "i": 5304,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 15,
+    "t": "chim đà điểu, cú mèo, mòng biển và các loài chim ưng,"
+  },
+  {
+    "i": 5305,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 16,
+    "t": "chim cú, chim lợn, cò quăm,"
+  },
+  {
+    "i": 5306,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 17,
+    "t": "bồ nông, kền kền Ai Cập, chim cốc,"
+  },
+  {
+    "i": 5307,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 18,
+    "t": "chim hạc và các loài diệc, chim đầu rìu, dơi."
+  },
+  {
+    "i": 5308,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 19,
+    "t": "Các ngươi phải coi mọi vật côn trùng có cánh là ô uế, chớ nên ăn."
+  },
+  {
+    "i": 5309,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 20,
+    "t": "Ngươi có thể ăn mọi loài chim thanh sạch."
+  },
+  {
+    "i": 5310,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 21,
+    "t": "Các ngươi chớ nên ăn con thú nào chết tự nhiên. Ngươi sẽ cho người ngoại kiều ở giữa ngươi ăn, hoặc bán cho người ngoại bang. Vì ngươi là một dân tộc thánh khiết thuộc về Yavê Thiên Chúa của ngươi. Ngươi chớ nấu dê con trong sữa mẹ nó."
+  },
+  {
+    "i": 5311,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 22,
+    "t": "Hằng năm, ngươi phải trích một phần mười tất cả hoa lợi ruộng đồng ngươi gặt hái được."
+  },
+  {
+    "i": 5312,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 23,
+    "t": "Trước nhan Yavê Thiên Chúa của ngươi, tại nơi Người sẽ chọn để danh Người ngự, ngươi sẽ ăn một phần mười lúa mì, rượu mới và dầu của ngươi, con đầu lòng của bò và chiên ngươi; như vậy ngươi sẽ học biết luôn kính sợ Yavê Thiên Chúa của ngươi."
+  },
+  {
+    "i": 5313,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 24,
+    "t": "Nếu đường quá xa, nếu ngươi không thể đem phần mười đến, vì nơi Yavê đã chọn để danh Người ngự, quá xa nhà ngươi, khi Yavê Thiên Chúa của ngươi đã chúc phúc cho ngươi,"
+  },
+  {
+    "i": 5314,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 25,
+    "t": "thì ngươi sẽ đổi nó thành tiền, gói tiền trong tay và đến nơi Yavê Thiên Chúa của ngươi đã chọn;"
+  },
+  {
+    "i": 5315,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 26,
+    "t": "tại đó, ngươi sẽ dùng tiền ấy mua mọi thứ ngươi thích, bò, chiên dê, rượu hay đồ uống có men, mọi thứ ngươi mong muốn. Ngươi sẽ ăn ở đó trước nhan Yavê Thiên Chúa của ngươi và vui mừng, ngươi và cả nhà ngươi."
+  },
+  {
+    "i": 5316,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 27,
+    "t": "Ngươi chớ bỏ rơi người Lêvi đang ở trong thành của ngươi, vì nó không có phần sản nghiệp nào như ngươi."
+  },
+  {
+    "i": 5317,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 28,
+    "t": "Cứ ba năm một lần, ngươi sẽ trích tất cả phần mười hoa lợi của năm ấy và đem ký thác tại các cổng thành của ngươi."
+  },
+  {
+    "i": 5318,
+    "b": 4,
+    "c": 514,
+    "r": 514,
+    "o": 29,
+    "t": "Người Lêvi (vì nó không có phần sản nghiệp nào như ngươi), người ngoại kiều, trẻ mồ côi và quả phụ trong thành của ngươi sẽ đến ăn và được no nê. Như vậy Yavê Thiên Chúa của ngươi sẽ chúc phúc cho ngươi trong mọi công việc tay ngươi làm."
+  },
+  {
+    "i": 5319,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 1,
+    "t": "Cứ bảy năm ngươi sẽ tha nợ."
+  },
+  {
+    "i": 5320,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 2,
+    "t": "Đây là cách tha nợ. Mọi chủ nợ đã cho người lân cận vay sẽ tha nợ cho người ấy; người ấy sẽ không xiết nợ người lân cận hay anh em mình, khi người này kêu cầu Yavê tha nợ."
+  },
+  {
+    "i": 5321,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 3,
+    "t": "Ngươi có thể xiết nợ người ngoại kiều, nhưng ngươi sẽ giải phóng anh em ngươi khỏi quyền lợi của ngươi đối với nó."
+  },
+  {
+    "i": 5322,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 4,
+    "t": "Như vậy, sẽ không có người nghèo nào trong xứ của ngươi. Vì Yavê sẽ ban phúc cho ngươi trong đất mà Yavê Thiên Chúa của ngươi ban cho ngươi làm gia nghiệp để chiếm hữu,"
+  },
+  {
+    "i": 5323,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 5,
+    "t": "nếu ngươi thực sự nghe tiếng Yavê Thiên Chúa của ngươi, bằng cách tuân giữ và thực hành tất cả các mệnh lệnh này mà ta truyền cho ngươi hôm nay."
+  },
+  {
+    "i": 5324,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 6,
+    "t": "Nếu Yavê Thiên Chúa của ngươi chúc phúc cho ngươi như Người đã hứa, ngươi sẽ cho nhiều nước vay, mà không cần vay mượn, và ngươi sẽ thống trị nhiều nước, mà chúng sẽ không thống trị ngươi."
+  },
+  {
+    "i": 5325,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 7,
+    "t": "Nếu trong xứ ngươi mà Yavê Thiên Chúa của ngươi ban cho ngươi, có một người anh em nghèo khó nào trong một trong các thành của ngươi, ngươi chớ chai dạ, cũng đừng khép tay lại trước người anh em nghèo khó ấy,"
+  },
+  {
+    "i": 5326,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 8,
+    "t": "nhưng hãy rộng tay giúp đỡ nó và cho nó vay điều nó thiếu."
+  },
+  {
+    "i": 5327,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 9,
+    "t": "Ngươi chớ để lòng mình nảy sinh những lời xấu xa: \"Năm thứ bảy, năm tha nợ, đã gần đến\", rồi nham hiểm nhìn người anh em nghèo khó và không cho nó gì cả; nó sẽ kêu cầu Yavê chống lại ngươi và ngươi sẽ mắc tội! "
+  },
+  {
+    "i": 5328,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 10,
+    "t": "Khi ngươi cho nó, ngươi phải cho nó với tấm lòng quảng đại, vì nhờ đó Yavê Thiên Chúa của ngươi sẽ chúc phúc cho ngươi trong mọi việc ngươi làm và trong mọi công việc của ngươi."
+  },
+  {
+    "i": 5329,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 11,
+    "t": "Chắc chắn, người nghèo sẽ không bao giờ hết trong xứ này; vì vậy ta truyền cho ngươi điều này: Ngươi phải rộng tay giúp đỡ anh em ngươi, người bị hạ nhục và nghèo khó trong xứ ngươi."
+  },
+  {
+    "i": 5330,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 12,
+    "t": "Nếu người anh em Hípri của ngươi, đàn ông hay đàn bà, bán mình cho ngươi, nó sẽ phục vụ ngươi sáu năm. Đến năm thứ bảy, ngươi sẽ thả nó ra tự do,"
+  },
+  {
+    "i": 5331,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 13,
+    "t": "khi thả nó ra tự do, ngươi sẽ không để nó ra đi tay không."
+  },
+  {
+    "i": 5332,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 14,
+    "t": "Ngươi sẽ cho nó chút sản phẩm từ đàn chiên của ngươi, từ sân đập lúa và bồn ép nho của ngươi; tùy theo Yavê Thiên Chúa của ngươi đã chúc phúc cho ngươi thế nào, ngươi sẽ cho nó như vậy."
+  },
+  {
+    "i": 5333,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 15,
+    "t": "Ngươi sẽ nhớ rằng ngươi đã làm nô lệ trong đất Aicập và Yavê Thiên Chúa của ngươi đã chuộc ngươi: vì vậy hôm nay ta ban cho ngươi mệnh lệnh này."
+  },
+  {
+    "i": 5334,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 16,
+    "t": "Nhưng nếu nó nói với ngươi: \"Tôi không muốn rời bỏ ông\", vì nó yêu mến ngươi và nhà ngươi, vì nó sống hạnh phúc với ngươi,"
+  },
+  {
+    "i": 5335,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 17,
+    "t": "thì ngươi sẽ lấy một cái dùi, xỏ tai nó vào cửa và nó sẽ làm nô lệ cho ngươi mãi mãi. Đối với nữ tỳ của ngươi, ngươi cũng sẽ làm như vậy."
+  },
+  {
+    "i": 5336,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 18,
+    "t": "Ngươi chớ thấy khó chịu khi phải thả nó ra tự do: nó đã phục vụ ngươi sáu năm, đáng giá gấp đôi tiền công của một người làm thuê. Và Yavê Thiên Chúa của ngươi sẽ chúc phúc cho ngươi trong mọi việc ngươi làm."
+  },
+  {
+    "i": 5337,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 19,
+    "t": "Mọi con đầu lòng đực của bò hay chiên ngươi, ngươi sẽ hiến dâng cho Yavê Thiên Chúa của ngươi. Ngươi chớ dùng con đầu lòng của bò làm việc, cũng đừng xén lông con đầu lòng của chiên."
+  },
+  {
+    "i": 5338,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 20,
+    "t": "Ngươi và nhà ngươi sẽ ăn nó hằng năm, trước nhan Yavê Thiên Chúa của ngươi tại nơi Yavê đã chọn."
+  },
+  {
+    "i": 5339,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 21,
+    "t": "Nếu nó có tật gì, nếu nó què chân hay mù mắt, hoặc bất cứ tật nặng nào, ngươi chớ dâng nó làm của lễ cho Yavê Thiên Chúa của ngươi;"
+  },
+  {
+    "i": 5340,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 22,
+    "t": "ngươi sẽ ăn nó tại nhà ngươi, cả người thanh sạch lẫn người ô uế cùng ăn, như ngươi ăn thịt linh dương hay nai;"
+  },
+  {
+    "i": 5341,
+    "b": 4,
+    "c": 515,
+    "r": 515,
+    "o": 23,
+    "t": "chỉ có điều, ngươi chớ ăn huyết nó, ngươi sẽ đổ huyết nó xuống đất như nước."
+  },
+  {
+    "i": 5342,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 1,
+    "t": "Hãy giữ tháng Abíp và cử hành Lễ Vượt Qua kính Yavê Thiên Chúa của ngươi, vì chính vào tháng Abíp, ban đêm, Yavê Thiên Chúa của ngươi đã đưa ngươi ra khỏi Aicập."
+  },
+  {
+    "i": 5343,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 2,
+    "t": "Ngươi sẽ dâng Lễ Vượt Qua kính Yavê Thiên Chúa của ngươi bằng chiên dê và bò, tại nơi Yavê Thiên Chúa của ngươi đã chọn để danh Người ngự."
+  },
+  {
+    "i": 5344,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 3,
+    "t": "Ngươi chớ ăn bánh có men với con vật làm lễ tế; trong bảy ngày ngươi sẽ ăn với nó bánh không men - bánh của sự khốn khổ - vì ngươi đã vội vã rời khỏi đất Aicập: như vậy ngươi sẽ nhớ, suốt những ngày đời ngươi, ngày ngươi ra khỏi đất Aicập."
+  },
+  {
+    "i": 5345,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 4,
+    "t": "Trong bảy ngày, người ta sẽ không thấy men trong nhà ngươi, trên khắp lãnh thổ của ngươi, và thịt mà ngươi đã dâng tế chiều ngày thứ nhất, sẽ không được giữ lại cho đến sáng hôm sau."
+  },
+  {
+    "i": 5346,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 5,
+    "t": "Ngươi không được dâng Lễ Vượt Qua trong bất cứ thành nào Yavê Thiên Chúa của ngươi đã ban cho ngươi,"
+  },
+  {
+    "i": 5347,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 6,
+    "t": "nhưng ngươi sẽ dâng Lễ Vượt Qua tại nơi Yavê Thiên Chúa của ngươi đã chọn để danh Người ngự, vào buổi chiều lúc mặt trời lặn, vào giờ ngươi ra khỏi Aicập."
+  },
+  {
+    "i": 5348,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 7,
+    "t": "Ngươi sẽ nướng nó và ăn tại nơi Yavê Thiên Chúa của ngươi đã chọn, rồi, buổi sáng, ngươi sẽ trở về lều của ngươi."
+  },
+  {
+    "i": 5349,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 8,
+    "t": "Trong sáu ngày ngươi sẽ ăn bánh không men; đến ngày thứ bảy, sẽ có một buổi họp mặt kính Yavê Thiên Chúa của ngươi; và ngươi sẽ không làm việc gì cả."
+  },
+  {
+    "i": 5350,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 9,
+    "t": "Ngươi sẽ đếm bảy tuần lễ. Khi lưỡi hái bắt đầu gặt lúa, thì ngươi sẽ bắt đầu đếm bảy tuần lễ này."
+  },
+  {
+    "i": 5351,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 10,
+    "t": "Rồi ngươi sẽ cử hành Lễ Các Tuần kính Yavê Thiên Chúa của ngươi, với của lễ tự nguyện mà tay ngươi dâng, tùy theo Yavê Thiên Chúa của ngươi đã chúc phúc cho ngươi."
+  },
+  {
+    "i": 5352,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 11,
+    "t": "Trước nhan Yavê Thiên Chúa của ngươi, ngươi sẽ vui mừng, tại nơi Yavê Thiên Chúa của ngươi đã chọn để danh Người ngự: ngươi, con trai và con gái ngươi, nô lệ nam và nô lệ nữ của ngươi, người Lêvi ở trong thành của ngươi, người ngoại kiều, trẻ mồ côi và quả phụ sống giữa ngươi."
+  },
+  {
+    "i": 5353,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 12,
+    "t": "Ngươi sẽ nhớ rằng ngươi đã làm nô lệ trong đất Aicập, và ngươi sẽ giữ những luật này để thi hành."
+  },
+  {
+    "i": 5354,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 13,
+    "t": "Ngươi sẽ cử hành Lễ Lều trong bảy ngày, vào thời điểm ngươi thu hoạch sản phẩm từ sân đập lúa và bồn ép nho của ngươi."
+  },
+  {
+    "i": 5355,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 14,
+    "t": "Ngươi sẽ vui mừng trong lễ của ngươi, ngươi, con trai và con gái ngươi, nô lệ nam và nô lệ nữ của ngươi, người Lêvi, người ngoại kiều, trẻ mồ côi và quả phụ ở trong thành của ngươi."
+  },
+  {
+    "i": 5356,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 15,
+    "t": "Trong bảy ngày, ngươi sẽ cử hành lễ kính Yavê Thiên Chúa của ngươi tại nơi Yavê đã chọn; vì Yavê Thiên Chúa của ngươi sẽ chúc phúc cho ngươi trong mọi mùa gặt và trong mọi công việc của ngươi, để ngươi được hoàn toàn vui mừng."
+  },
+  {
+    "i": 5357,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 16,
+    "t": "Ba lần một năm, mọi người nam trong xứ sẽ ra mắt Yavê Thiên Chúa của ngươi, tại nơi Người đã chọn: vào Lễ Bánh Không Men, vào Lễ Các Tuần, vào Lễ Lều. Không ai được ra mắt Yavê tay không;"
+  },
+  {
+    "i": 5358,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 17,
+    "t": "nhưng mỗi người sẽ dâng lễ vật, tùy theo phúc lộc Yavê Thiên Chúa của ngươi đã ban cho."
+  },
+  {
+    "i": 5359,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 18,
+    "t": "Ngươi sẽ đặt các thẩm phán và ký lục trong mọi thành Yavê Thiên Chúa của ngươi ban cho ngươi, cho mọi chi tộc của ngươi; họ sẽ xét xử dân chúng bằng những phán quyết công minh."
+  },
+  {
+    "i": 5360,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 19,
+    "t": "Ngươi chớ làm sai lệch công lý, ngươi chớ thiên vị và ngươi chớ nhận quà cáp, vì quà cáp làm mù mắt người khôn ngoan và hủy hoại vụ kiện của người công chính."
+  },
+  {
+    "i": 5361,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 20,
+    "t": "Ngươi sẽ theo đuổi sự công chính tuyệt đối, để được sống và chiếm hữu đất mà Yavê Thiên Chúa của ngươi ban cho ngươi."
+  },
+  {
+    "i": 5362,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 21,
+    "t": "Ngươi chớ trồng cột thờ, bằng bất cứ loại gỗ nào, bên cạnh bàn thờ của Yavê Thiên Chúa của ngươi mà ngươi sẽ xây dựng,"
+  },
+  {
+    "i": 5363,
+    "b": 4,
+    "c": 516,
+    "r": 516,
+    "o": 22,
+    "t": "và ngươi chớ dựng trụ đá, vì điều đó gớm ghiếc đối với Yavê Thiên Chúa của ngươi."
+  },
+  {
+    "i": 5364,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 1,
+    "t": "Ngươi chớ dâng cho Yavê Thiên Chúa của ngươi con vật lớn hay nhỏ nào có tật hay khuyết điểm gì, vì Yavê Thiên Chúa của ngươi ghê tởm điều đó."
+  },
+  {
+    "i": 5365,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 2,
+    "t": "Nếu trong giữa ngươi, trong một thành nào Yavê Thiên Chúa của ngươi ban cho ngươi, có người nam hay người nữ làm điều xấu trước mắt Yavê Thiên Chúa của ngươi, bằng cách vi phạm giao ước của Người,"
+  },
+  {
+    "i": 5366,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 3,
+    "t": "đi thờ các thần khác và sụp lạy chúng, sụp lạy mặt trời, mặt trăng hay bất cứ thiên binh nào, điều mà ta không hề truyền,"
+  },
+  {
+    "i": 5367,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 4,
+    "t": "và người ta tố cáo điều đó cho ngươi; nếu, sau khi nghe và điều tra kỹ, sự việc là thật và đã được chứng minh rằng điều ghê tởm này đã được thực hiện trong Israel,"
+  },
+  {
+    "i": 5368,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 5,
+    "t": "ngươi sẽ đưa người nam hay người nữ phạm tội ác này ra ngoài các cổng thành của ngươi, và ngươi sẽ ném đá người nam hay người nữ ấy cho đến chết."
+  },
+  {
+    "i": 5369,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 6,
+    "t": "Người ta chỉ có thể bị kết án tử hình khi có lời khai của hai hay ba nhân chứng, không ai bị kết án tử hình chỉ với lời khai của một nhân chứng."
+  },
+  {
+    "i": 5370,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 7,
+    "t": "Các nhân chứng sẽ là những người đầu tiên ra tay thi hành án tử hình, sau đó toàn dân sẽ ra tay. Ngươi sẽ trừ khử sự ác khỏi giữa ngươi."
+  },
+  {
+    "i": 5371,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 8,
+    "t": "Nếu ngươi phải xét xử một vụ vượt quá khả năng của ngươi, vụ giết người, tranh chấp hay hành hung, một vụ kiện nào đó trong thành của ngươi, ngươi sẽ lên đường đến nơi Yavê Thiên Chúa của ngươi đã chọn,"
+  },
+  {
+    "i": 5372,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 9,
+    "t": "ngươi sẽ đến gặp các tư tế Lêvi và vị thẩm phán đương nhiệm. Họ sẽ điều tra và cho ngươi biết phán quyết."
+  },
+  {
+    "i": 5373,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 10,
+    "t": "Ngươi sẽ tuân theo lời họ đã cho ngươi biết tại nơi Yavê đã chọn này, và ngươi sẽ cẩn thận hành động theo mọi chỉ thị của họ."
+  },
+  {
+    "i": 5374,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 11,
+    "t": "Ngươi sẽ tuân theo quyết định họ đã cho ngươi biết và phán quyết họ đã tuyên, không được đi trệch bên phải hay bên trái khỏi lời họ đã cho ngươi biết."
+  },
+  {
+    "i": 5375,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 12,
+    "t": "Nếu ai hành động kiêu ngạo, không vâng lời tư tế đang đứng đó để phục vụ Yavê Thiên Chúa của ngươi, cũng không vâng lời thẩm phán, người ấy sẽ chết. Ngươi sẽ trừ khử sự ác khỏi Israel."
+  },
+  {
+    "i": 5376,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 13,
+    "t": "Dân chúng sẽ nghe biết, sợ hãi và sẽ không còn hành động kiêu ngạo nữa."
+  },
+  {
+    "i": 5377,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 14,
+    "t": "Khi ngươi đến xứ mà Yavê Thiên Chúa của ngươi ban cho ngươi, ngươi đã chiếm hữu và cư ngụ ở đó, nếu ngươi tự nhủ: \"Tôi muốn lập một vua cai trị tôi, như mọi nước chung quanh\","
+  },
+  {
+    "i": 5378,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 15,
+    "t": "thì ngươi phải lập một vua do Yavê Thiên Chúa của ngươi chọn, một người anh em của ngươi, ngươi sẽ lập người ấy làm vua, ngươi không được đặt một người ngoại bang không phải là anh em của ngươi lên làm vua."
+  },
+  {
+    "i": 5379,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 16,
+    "t": "Nhưng vua ấy chớ nên tích trữ nhiều ngựa, và chớ nên đưa dân chúng trở lại Aicập để gia tăng kỵ binh của mình, vì Yavê đã phán với các ngươi: \"Các ngươi sẽ không bao giờ trở lại con đường đó nữa."
+  },
+  {
+    "i": 5380,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 17,
+    "t": "Vua ấy chớ nên có nhiều vợ, điều đó có thể làm cho lòng vua ấy đi lạc. Vua ấy chớ nên tích trữ quá nhiều bạc và vàng."
+  },
+  {
+    "i": 5381,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 18,
+    "t": "Khi vua lên ngai vàng, vua phải viết trên một cuộn giấy, cho mình, một bản sao Luật này, theo lời các tư tế Lêvi đọc."
+  },
+  {
+    "i": 5382,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 19,
+    "t": "Bản sao Luật này sẽ luôn ở bên vua; vua sẽ đọc nó mỗi ngày trong đời vua, để học biết kính sợ Yavê Thiên Chúa của vua bằng cách tuân giữ mọi lời của Luật này, cũng như các quy tắc này để thi hành."
+  },
+  {
+    "i": 5383,
+    "b": 4,
+    "c": 517,
+    "r": 517,
+    "o": 20,
+    "t": "Như vậy, vua sẽ tránh kiêu ngạo trên các anh em của mình, và vua sẽ không đi trệch khỏi các mệnh lệnh này bên phải hay bên trái. Với điều kiện đó, vua và con cháu vua sẽ được sống lâu trên ngai vàng ở Israel."
+  },
+  {
+    "i": 5384,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 1,
+    "t": "Các tư tế Lêvi, toàn thể chi tộc Lêvi, sẽ không có phần sản nghiệp nào như Israel: họ sẽ sống nhờ các của lễ dâng cho Yavê và nhờ gia sản của Người."
+  },
+  {
+    "i": 5385,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 2,
+    "t": "Chi tộc này sẽ không có gia sản giữa các anh em của mình; chính Yavê sẽ là gia sản của nó, như Người đã phán với nó."
+  },
+  {
+    "i": 5386,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 3,
+    "t": "Đây là quyền lợi của các tư tế đối với dân chúng, đối với những người dâng của lễ bằng bò hay chiên dê: người ta sẽ cho tư tế vai, quai hàm và dạ dày."
+  },
+  {
+    "i": 5387,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 4,
+    "t": "Ngươi sẽ cho tư tế hoa quả đầu mùa của lúa mì, rượu mới và dầu của ngươi, cũng như lông chiên đầu mùa."
+  },
+  {
+    "i": 5388,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 5,
+    "t": "Vì chính tư tế này mà Yavê Thiên Chúa của ngươi đã chọn giữa tất cả các chi tộc của ngươi để đứng trước Yavê Thiên Chúa của ngươi, để làm công việc phụng tự và ban phép lành nhân danh Yavê, nó và con cháu nó mãi mãi."
+  },
+  {
+    "i": 5389,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 6,
+    "t": "Nếu người Lêvi đang cư ngụ trong một thành của ngươi, bất cứ đâu trong Israel, đến, theo lòng mong muốn, đến nơi Yavê đã chọn,"
+  },
+  {
+    "i": 5390,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 7,
+    "t": "thì nó sẽ hành lễ nhân danh Yavê Thiên Chúa của nó như tất cả các anh em Lêvi của nó đang đứng đó trước nhan Yavê,"
+  },
+  {
+    "i": 5391,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 8,
+    "t": "ăn một phần bằng với phần của họ - không kể những gì nó có được do bán gia sản của mình."
+  },
+  {
+    "i": 5392,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 9,
+    "t": "Khi ngươi đã vào đất mà Yavê Thiên Chúa của ngươi ban cho ngươi, ngươi sẽ không học theo những điều ghê tởm mà các nước đó đã làm."
+  },
+  {
+    "i": 5393,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 10,
+    "t": "Nơi ngươi, không được thấy ai đem con trai hay con gái mình qua lửa, ai hành nghề bói toán, thuật số, chiêm tinh hay phù phép,"
+  },
+  {
+    "i": 5394,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 11,
+    "t": "ai dùng bùa chú, ai hỏi bóng vong hay thầy bói, ai cầu hồn người chết."
+  },
+  {
+    "i": 5395,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 12,
+    "t": "Vì bất cứ ai làm những điều này đều là điều ghê tởm đối với Yavê Thiên Chúa của ngươi, và chính vì những điều ghê tởm này mà Yavê Thiên Chúa của ngươi đã đuổi các nước này ra khỏi trước mặt ngươi."
+  },
+  {
+    "i": 5396,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 13,
+    "t": "Ngươi phải sống hoàn hảo trước nhan Yavê Thiên Chúa của ngươi."
+  },
+  {
+    "i": 5397,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 14,
+    "t": "Vì các nước mà ngươi đuổi khỏi đã nghe theo các thầy phù thủy và thầy bói, nhưng Yavê Thiên Chúa của ngươi không ban cho ngươi như vậy."
+  },
+  {
+    "i": 5398,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 15,
+    "t": "Yavê Thiên Chúa của ngươi sẽ cho ngươi trỗi dậy, từ giữa ngươi, giữa các anh em của ngươi, một vị tiên tri như ta, ngươi sẽ nghe theo vị ấy."
+  },
+  {
+    "i": 5399,
+    "b": 4,
+    "c": 518,
+    "r": 518,
+    "o": 16,
+    "t": "Chính điều đó ngươi đã xin Yavê Thiên Chúa của ngươi tại Hôrép, vào ngày Đại Hội: \"Để khỏi phải chết, tôi sẽ không nghe tiếng Yavê Thiên Chúa của tôi nữa và tôi sẽ không nhìn ngọn lửa lớn này nữa,"
+  }
+]

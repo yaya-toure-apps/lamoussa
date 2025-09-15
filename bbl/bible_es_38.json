@@ -1,0 +1,802 @@
+[
+  {
+    "i": 3800,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 10,
+    "t": "A cada cual volverán las cosas que haya consagrado; lo que cada uno entregue al sacerdote, será de éste."
+  },
+  {
+    "i": 3801,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 11,
+    "t": "Y Yavé habló a Moisés, diciendo:"
+  },
+  {
+    "i": 3802,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 12,
+    "t": "\"Habla a los hijos de Israel, y diles: Si alguna mujer se descarriare y cometiere infidelidad contra su marido,"
+  },
+  {
+    "i": 3803,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 13,
+    "t": "y alguno cohabitare con ella, y el marido no lo supiere, por haber ella amancillado su honor ocultamente, sin que haya testigo contra ella, ni ella fuere tomada en el acto,"
+  },
+  {
+    "i": 3804,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 14,
+    "t": "y viniere sobre él espíritu de celos, y tuviere celos de su mujer, habiéndose ella amancillado, o viniere sobre él espíritu de celos, y tuviere celos de su mujer, no habiéndose ella amancillado;"
+  },
+  {
+    "i": 3805,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 15,
+    "t": "entonces el marido llevará su mujer al sacerdote, y llevará por ella su ofrenda, la décima parte de un efa de harina de cebada; no echará sobre ella aceite, ni pondrá sobre ella incienso, porque es ofrenda de celos, ofrenda recordativa, que traerá a memoria el pecado."
+  },
+  {
+    "i": 3806,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 16,
+    "t": "Y el sacerdote hará que ella se acerque y se ponga delante de Yavé."
+  },
+  {
+    "i": 3807,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 17,
+    "t": "Luego tomará el sacerdote agua santa en un vaso de barro, y echará en el agua del polvo que haya en el suelo del Tabernáculo."
+  },
+  {
+    "i": 3808,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 18,
+    "t": "Y hará el sacerdote que la mujer esté delante de Yavé, y descubrirá la cabeza de la mujer, y pondrá sobre sus manos la ofrenda recordativa, que es la ofrenda de celos; y el sacerdote tendrá en su mano las aguas amargas que acarrean maldición."
+  },
+  {
+    "i": 3809,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 19,
+    "t": "Y el sacerdote hará jurar a la mujer, y le dirá: Si ninguno ha dormido contigo, y si no te has descarriado y amancillado, estando sujeta a tu marido, seas libre de estas aguas amargas que traen maldición."
+  },
+  {
+    "i": 3810,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 20,
+    "t": "Mas si te has descarriado, estando sujeta a tu marido, y si te has amancillado, y alguno ha dormido contigo fuera de tu marido..."
+  },
+  {
+    "i": 3811,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 21,
+    "t": "entonces el sacerdote hará jurar a la mujer con juramento de maldición, y dirá el sacerdote a la mujer: Yavé te haga objeto de maldición y de juramento en medio de tu pueblo, haciendo Yavé que tu muslo se enjute, y que se te hinche el vientre;"
+  },
+  {
+    "i": 3812,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 22,
+    "t": "y estas aguas que traen maldición entren en tus entrañas, y hagan hinchar tu vientre y enflaquecer tu muslo. Y la mujer dirá: ¡Amén, amén!"
+  },
+  {
+    "i": 3813,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 23,
+    "t": "El sacerdote escribirá estas maldiciones en un rollo, y las lavará con las aguas amargas."
+  },
+  {
+    "i": 3814,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 24,
+    "t": "Y dará a beber a la mujer las aguas amargas que traen maldición; y las aguas que traen maldición entrarán en ella para amargar."
+  },
+  {
+    "i": 3815,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 25,
+    "t": "Después tomará el sacerdote de la mano de la mujer la ofrenda de los celos, y mecerá la ofrenda delante de Yavé, y la ofrecerá sobre el altar."
+  },
+  {
+    "i": 3816,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 26,
+    "t": "Y tomará el sacerdote un puñado de la ofrenda en memoria, y lo quemará sobre el altar; y después hará beber a la mujer las aguas."
+  },
+  {
+    "i": 3817,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 27,
+    "t": "Y cuando le haya dado a beber las aguas, si fuere que ella se ha descarriado y ha cometido infidelidad contra su marido, las aguas que traen maldición entrarán en ella para amargar, y su vientre se hinchará, y su muslo se enjutará; y la mujer será maldición en medio de su pueblo."
+  },
+  {
+    "i": 3818,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 28,
+    "t": "Mas si la mujer no se ha amancillado, sino que está limpia, ella será libre, y concebirá simiente."
+  },
+  {
+    "i": 3819,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 29,
+    "t": "Ésta es la ley de los celos, cuando la mujer se descarriare y cometiere infidelidad contra su marido,"
+  },
+  {
+    "i": 3820,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 30,
+    "t": "o cuando viniere sobre el hombre espíritu de celos, y tuviere celos de su mujer, la presentará entonces delante de Yavé, y el sacerdote cumplirá en ella toda esta ley."
+  },
+  {
+    "i": 3821,
+    "b": 3,
+    "c": 405,
+    "r": 405,
+    "o": 31,
+    "t": "Y el varón será libre de pecado, y la mujer llevará su pecado."
+  },
+  {
+    "i": 3822,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 1,
+    "t": "Y Yavé habló a Moisés, diciendo:"
+  },
+  {
+    "i": 3823,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 2,
+    "t": "\"Habla a los hijos de Israel, y diles: Cuando alguno, hombre o mujer, hiciere voto especial, voto de nazareo, para dedicarse a Yavé,"
+  },
+  {
+    "i": 3824,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 3,
+    "t": "se abstendrá de vino y de sidra; no beberá vinagre de vino, ni vinagre de sidra; ni beberá ningún licor de uvas, ni comerá uvas frescas ni secas."
+  },
+  {
+    "i": 3825,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 4,
+    "t": "Todo el tiempo de su nazareato, de todo lo que se hace del vid, desde los granillos hasta el hollejo, no comerá."
+  },
+  {
+    "i": 3826,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 5,
+    "t": "Todo el tiempo de su voto de nazareato no pasará navaja sobre su cabeza; hasta que sean cumplidos los días de su consagración a Yavé, será santo, dejará crecer libremente el cabello de su cabeza."
+  },
+  {
+    "i": 3827,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 6,
+    "t": "Todo el tiempo que se aparte para Yavé, no entrará donde haya persona muerta."
+  },
+  {
+    "i": 3828,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 7,
+    "t": "Por su padre, ni por su madre, ni por su hermano, ni por su hermana, no se contaminará cuando mueran; porque la consagración de su Dios está sobre su cabeza."
+  },
+  {
+    "i": 3829,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 8,
+    "t": "Todo el tiempo de su nazareato, será santo para Yavé."
+  },
+  {
+    "i": 3830,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 9,
+    "t": "Y si alguno muriere súbitamente junto a él, y la cabeza de su nazareato se contaminare, entonces se raerá la cabeza el día de su purificación; al séptimo día se la raerá."
+  },
+  {
+    "i": 3831,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 10,
+    "t": "Y al día octavo traerá al sacerdote dos tórtolas o dos palominos, a la puerta del Tabernáculo de Reunión."
+  },
+  {
+    "i": 3832,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 11,
+    "t": "Y el sacerdote hará el uno en expiación, y el otro en holocausto; y hará expiación de él por lo que pecó a causa del muerto; y santificará su cabeza aquel día."
+  },
+  {
+    "i": 3833,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 12,
+    "t": "Y consagrará a Yavé los días de su nazareato, y ofrecerá un cordero de un año en expiación por la culpa; y los días primeros serán anulados, por cuanto fue contaminado su nazareato."
+  },
+  {
+    "i": 3834,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 13,
+    "t": "Ésta es la ley del nazareo: El día en que se cumplieren los días de su nazareato, será traído a la puerta del Tabernáculo de Reunión,"
+  },
+  {
+    "i": 3835,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 14,
+    "t": "y ofrecerá su ofrenda a Yavé, un cordero de un año sin defecto en holocausto, y una cordera de un año sin defecto en expiación, y un carnero sin defecto en ofrenda de paz;"
+  },
+  {
+    "i": 3836,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 15,
+    "t": "un canastillo de tortas sin levadura, de flor de harina amasadas con aceite, y hojaldres sin levadura untadas con aceite, y sus ofrendas y sus libaciones."
+  },
+  {
+    "i": 3837,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 16,
+    "t": "Y el sacerdote los ofrecerá delante de Yavé, y hará su ofrenda por el pecado y su holocausto."
+  },
+  {
+    "i": 3838,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 17,
+    "t": "Y ofrecerá el carnero en ofrenda de paz a Yavé, con el canastillo de las tortas sin levadura; ofrecerá asimismo el sacerdote su ofrenda y su libación."
+  },
+  {
+    "i": 3839,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 18,
+    "t": "Y el nazareo raerá a la puerta del Tabernáculo de Reunión la cabeza de su nazareato, y tomará el cabello de la cabeza de su nazareato, y lo pondrá sobre el fuego que está debajo de la ofrenda de paz."
+  },
+  {
+    "i": 3840,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 19,
+    "t": "Después tomará el sacerdote la espaldilla cocida del carnero, una torta sin levadura del canastillo, y una hojaldre sin levadura, y las pondrá sobre las manos del nazareo, después que fuere raída su cabeza."
+  },
+  {
+    "i": 3841,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 20,
+    "t": "Y el sacerdote las mecerá como ofrenda mecida delante de Yavé; es cosa santa, que pertenecerá al sacerdote, además del pecho mecido y de la espaldilla elevada; y después el nazareo podrá beber vino."
+  },
+  {
+    "i": 3842,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 21,
+    "t": "Ésta es la ley del que hace voto de nazareo, y de su ofrenda a Yavé por su nazareato, además de lo que sus recursos le permitieren. Según el voto que hiciere, así hará, conforme a la ley de su nazareato."
+  },
+  {
+    "i": 3843,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 22,
+    "t": "Y Yavé habló a Moisés, diciendo:"
+  },
+  {
+    "i": 3844,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 23,
+    "t": "\"Habla a Aarón y a sus hijos, y diles: Así bendeciréis a los hijos de Israel, diciéndoles:"
+  },
+  {
+    "i": 3845,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 24,
+    "t": "Yavé te bendiga, y te guarde;"
+  },
+  {
+    "i": 3846,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 25,
+    "t": "Yavé haga resplandecer su rostro sobre ti, y tenga de ti misericordia;"
+  },
+  {
+    "i": 3847,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 26,
+    "t": "Yavé alce sobre ti su rostro, y ponga en ti paz."
+  },
+  {
+    "i": 3848,
+    "b": 3,
+    "c": 406,
+    "r": 406,
+    "o": 27,
+    "t": "Y pondrán mi nombre sobre los hijos de Israel, y yo los bendeciré."
+  },
+  {
+    "i": 3849,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 1,
+    "t": "Aconteció que el día en que Moisés hubo acabado de levantar el Tabernáculo, lo ungió y lo santificó, con todos sus utensilios; también ungió y santificó el altar y todos sus utensilios."
+  },
+  {
+    "i": 3850,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 2,
+    "t": "Y los príncipes de Israel, los jefes de las casas paternas, que eran los príncipes de las tribus, los que estaban sobre los contados, ofrecieron;"
+  },
+  {
+    "i": 3851,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 3,
+    "t": "y trajeron sus ofrendas delante de Yavé, seis carros cubiertos y doce bueyes; por cada dos príncipes un carro, y cada uno un buey; y los presentaron delante del Tabernáculo."
+  },
+  {
+    "i": 3852,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 4,
+    "t": "Y Yavé habló a Moisés, diciendo:"
+  },
+  {
+    "i": 3853,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 5,
+    "t": "\"Tómalos de ellos, para el servicio del Tabernáculo de Reunión, y los darás a los levitas, a cada uno conforme a su oficio."
+  },
+  {
+    "i": 3854,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 6,
+    "t": "Entonces Moisés tomó los carros y los bueyes, y los dio a los levitas."
+  },
+  {
+    "i": 3855,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 7,
+    "t": "Dos carros y cuatro bueyes dio a los hijos de Gersón, conforme a su oficio."
+  },
+  {
+    "i": 3856,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 8,
+    "t": "Y cuatro carros y ocho bueyes dio a los hijos de Merari, conforme a su oficio, bajo la dirección de Itamar hijo del sacerdote Aarón."
+  },
+  {
+    "i": 3857,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 9,
+    "t": "Pero a los hijos de Coat no dio nada, porque el servicio del santuario era cargo de ellos; ellos lo llevaban sobre sus hombros."
+  },
+  {
+    "i": 3858,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 10,
+    "t": "Y los príncipes ofrecieron sus ofrendas para la dedicación del altar el día en que fue ungido, y los príncipes presentaron sus ofrendas delante del altar."
+  },
+  {
+    "i": 3859,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 11,
+    "t": "Y Yavé dijo a Moisés: \"Cada príncipe, por un día, ofrecerá su ofrenda para la dedicación del altar."
+  },
+  {
+    "i": 3860,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 12,
+    "t": "El que presentó su ofrenda el primer día fue Nahshón hijo de Aminadab, de la tribu de Judá."
+  },
+  {
+    "i": 3861,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 13,
+    "t": "Su ofrenda fue un plato de plata de ciento treinta siclos de peso, un cuenco de plata de setenta siclos, según el siclo del santuario, ambos llenos de flor de harina amasada con aceite, para ofrenda;"
+  },
+  {
+    "i": 3862,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 14,
+    "t": "una cuchara de oro de diez siclos, llena de incienso;"
+  },
+  {
+    "i": 3863,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 15,
+    "t": "un becerro, un carnero y un cordero de un año para holocausto;"
+  },
+  {
+    "i": 3864,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 16,
+    "t": "un macho cabrío para expiación;"
+  },
+  {
+    "i": 3865,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 17,
+    "t": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Nahshón hijo de Aminadab."
+  },
+  {
+    "i": 3866,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 18,
+    "t": "El segundo día ofreció Natanael hijo de Zuar, príncipe de Isacar."
+  },
+  {
+    "i": 3867,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 19,
+    "t": "Él ofreció un plato de plata de ciento treinta siclos de peso, un cuenco de plata de setenta siclos, según el siclo del santuario, ambos llenos de flor de harina amasada con aceite, para ofrenda;"
+  },
+  {
+    "i": 3868,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 20,
+    "t": "una cuchara de oro de diez siclos, llena de incienso;"
+  },
+  {
+    "i": 3869,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 21,
+    "t": "un becerro, un carnero y un cordero de un año para holocausto;"
+  },
+  {
+    "i": 3870,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 22,
+    "t": "un macho cabrío para expiación;"
+  },
+  {
+    "i": 3871,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 23,
+    "t": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Natanael hijo de Zuar."
+  },
+  {
+    "i": 3872,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 24,
+    "t": "El tercer día, Eliab hijo de Helón, príncipe de los hijos de Zabulón."
+  },
+  {
+    "i": 3873,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 25,
+    "t": "Su ofrenda fue un plato de plata de ciento treinta siclos de peso, un cuenco de plata de setenta siclos, según el siclo del santuario, ambos llenos de flor de harina amasada con aceite, para ofrenda;"
+  },
+  {
+    "i": 3874,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 26,
+    "t": "una cuchara de oro de diez siclos, llena de incienso;"
+  },
+  {
+    "i": 3875,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 27,
+    "t": "un becerro, un carnero y un cordero de un año para holocausto;"
+  },
+  {
+    "i": 3876,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 28,
+    "t": "un macho cabrío para expiación;"
+  },
+  {
+    "i": 3877,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 29,
+    "t": "y para ofrenda de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Ésta fue la ofrenda de Eliab hijo de Helón."
+  },
+  {
+    "i": 3878,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 30,
+    "t": "El cuarto día, Elizur hijo de Sedeur, príncipe de los hijos de Rubén."
+  },
+  {
+    "i": 3879,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 31,
+    "t": "Su ofrenda fue un plato de plata de ciento treinta siclos de peso, un cuenco de plata de setenta siclos, según el siclo del santuario, ambos llenos de flor de harina amasada con aceite, para ofrenda;"
+  },
+  {
+    "i": 3880,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 32,
+    "t": "una copa de oro de diez siclos, llena de incienso,"
+  },
+  {
+    "i": 3881,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 33,
+    "t": "un toro, un carnero y un cordero de un año para el holocausto,"
+  },
+  {
+    "i": 3882,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 34,
+    "t": "un macho cabrío para el sacrificio por el pecado,"
+  },
+  {
+    "i": 3883,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 35,
+    "t": "y para el sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos, cinco corderos de un año. Tal fue la ofrenda de Elisur hijo de Sedeur."
+  },
+  {
+    "i": 3884,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 36,
+    "t": "El que presentó su ofrenda el quinto día fue Selumiel hijo de Zurisadai, príncipe de los hijos de Simeón."
+  },
+  {
+    "i": 3885,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 37,
+    "t": "Su ofrenda fue: una copa de plata que pesaba ciento treinta siclos, una copa de aspersión de plata de setenta siclos (según el siclo del santuario), ambas llenas, para la ofrenda, de flor de harina amasada con aceite,"
+  },
+  {
+    "i": 3886,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 38,
+    "t": "una copa de oro de diez siclos, llena de incienso,"
+  },
+  {
+    "i": 3887,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 39,
+    "t": "un toro, un carnero y un cordero de un año para el holocausto,"
+  },
+  {
+    "i": 3888,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 40,
+    "t": "un macho cabrío para el sacrificio por el pecado,"
+  },
+  {
+    "i": 3889,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 41,
+    "t": "y para el sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos, cinco corderos de un año. Tal fue la ofrenda de Selumiel hijo de Zurisadai."
+  },
+  {
+    "i": 3890,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 42,
+    "t": "El que presentó su ofrenda el sexto día fue Eliasaf hijo de Deuel, príncipe de los hijos de Gad."
+  },
+  {
+    "i": 3891,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 43,
+    "t": "Su ofrenda fue: una copa de plata que pesaba ciento treinta siclos, una copa de aspersión de plata de setenta siclos (según el siclo del santuario), ambas llenas, para la ofrenda, de flor de harina amasada con aceite,"
+  },
+  {
+    "i": 3892,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 44,
+    "t": "una copa de oro de diez siclos, llena de incienso,"
+  },
+  {
+    "i": 3893,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 45,
+    "t": "un toro, un carnero y un cordero de un año para el holocausto,"
+  },
+  {
+    "i": 3894,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 46,
+    "t": "un macho cabrío para el sacrificio por el pecado,"
+  },
+  {
+    "i": 3895,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 47,
+    "t": "y para el sacrificio de paz, dos bueyes, cinco carneros, cinco machos cabríos, cinco corderos de un año. Tal fue la ofrenda de Eliasaf hijo de Deuel."
+  },
+  {
+    "i": 3896,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 48,
+    "t": "El que presentó su ofrenda el séptimo día fue Elisama hijo de Amiud, príncipe de los hijos de Efraín."
+  },
+  {
+    "i": 3897,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 49,
+    "t": "Su ofrenda fue: una copa de plata que pesaba ciento treinta siclos, una copa de aspersión de plata de setenta siclos (según el siclo del santuario), ambas llenas, para la ofrenda, de flor de harina amasada con aceite,"
+  },
+  {
+    "i": 3898,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 50,
+    "t": "una copa de oro de diez siclos, llena de incienso,"
+  },
+  {
+    "i": 3899,
+    "b": 3,
+    "c": 407,
+    "r": 407,
+    "o": 51,
+    "t": "un toro, un carnero y un cordero de un año para el holocausto,"
+  }
+]

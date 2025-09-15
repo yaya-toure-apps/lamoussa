@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4800,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 41,
+    "t": "Iškeliavo jie iš Horo kalno ir išsidėstė stovykla Calmonoje."
+  },
+  {
+    "i": 4801,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 42,
+    "t": "Iškeliavo jie iš Calmonos ir išsidėstė stovykla Punone."
+  },
+  {
+    "i": 4802,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 43,
+    "t": "Iškeliavo jie iš Punono ir išsidėstė stovykla Obote."
+  },
+  {
+    "i": 4803,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 44,
+    "t": "Iškeliavo jie iš Oboto ir išsidėstė stovykla Moabo teritorijoje, Ije-ha-Abarime."
+  },
+  {
+    "i": 4804,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 45,
+    "t": "Iškeliavo jie iš Ijimų ir išsidėstė stovykla Dibon-Gade."
+  },
+  {
+    "i": 4805,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 46,
+    "t": "Iškeliavo jie iš Dibon-Gado ir išsidėstė stovykla Almon-Diblatayime."
+  },
+  {
+    "i": 4806,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 47,
+    "t": "Iškeliavo jie iš Almon-Diblatayimo ir išsidėstė stovykla Abarimo kalnuose, priešais Nebo."
+  },
+  {
+    "i": 4807,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 48,
+    "t": "Iškeliavo jie iš Abarimo kalnų ir išsidėstė stovykla Moabo stepėse, prie Jordano, netoli Jericho."
+  },
+  {
+    "i": 4808,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 49,
+    "t": "Išsidėstė jie stovykla prie Jordano tarp Bet-ha-Ješimoto ir Abel-ha-Šitimo, Moabo stepėse."
+  },
+  {
+    "i": 4809,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 50,
+    "t": "Viešpats kalbėjo Mozei Moabo stepėse, prie Jordano, netoli Jericho, tardamas:"
+  },
+  {
+    "i": 4810,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 51,
+    "t": "\"Kalbėk Izraelio vaikams ir sakyk jiems: Kai pereisite Jordaną į Kanaano šalį,"
+  },
+  {
+    "i": 4811,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 52,
+    "t": "išvysite iš savo akiračio visus šalies gyventojus. Sunaikinsite jų tapytus paveikslus, sunaikinsite visas jų išlydytas statulas ir išdraskysite visas jų aukštumas."
+  },
+  {
+    "i": 4812,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 53,
+    "t": "Paveldėsite šią šalį ir joje gyvensite, nes aš jums daviau šią šalį kaip nuosavybę."
+  },
+  {
+    "i": 4813,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 54,
+    "t": "Pasidalysite ją burtais tarp savo giminių. Tam, kuris gausus, duosite didesnę paveldėjimo dalį, tam, kuris mažesnis, duosite mažesnę paveldėjimo dalį. Ten, kur burtai kiekvienam kris, ten bus jo nuosavybė. Pasidalysite ją pagal savo gentis."
+  },
+  {
+    "i": 4814,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 55,
+    "t": "Bet jei neišvysite iš savo akiračio šalies gyventojų, tie iš jų, kuriuos paliksite, taps dygliais jūsų akyse ir usnimis jūsų šonuose, jie jus engs šalyje, kurioje gyvensite."
+  },
+  {
+    "i": 4815,
+    "b": 3,
+    "c": 433,
+    "r": 433,
+    "o": 56,
+    "t": "Ir aš su jumis elgsiuosi taip, kaip buvau sumanęs su jais elgtis."
+  },
+  {
+    "i": 4816,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 1,
+    "t": "Viešpats kalbėjo Mozei, tardamas:"
+  },
+  {
+    "i": 4817,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 2,
+    "t": "\"Įsakyk Izraelio vaikams štai ką: Kai įeisite į šalį (Kanaano), štai šalis, kuri taps jūsų paveldu. Tai Kanaano šalis pagal jos sienas."
+  },
+  {
+    "i": 4818,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 3,
+    "t": "Pietinis jūsų nuosavybės regionas drieksis nuo Cino dykumos, kuri ribojasi su Edomu. Jūsų pietinė siena prasidės rytinėje pusėje, prie Sūriosios jūros galo."
+  },
+  {
+    "i": 4819,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 4,
+    "t": "Tada ji pasisuks į pietus, link Skorpionų pakilimo, praeis pro Ciną ir pietuose pasieks Kadeš-Barnėją. Tada ji eis link Hacar-Adaro ir praeis pro Asmoną."
+  },
+  {
+    "i": 4820,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 5,
+    "t": "Nuo Asmono siena pasisuks link Egipto upelio ir pasieks jūrą."
+  },
+  {
+    "i": 4821,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 6,
+    "t": "Jūros siena jums bus Didžioji jūra; ši riba jums bus siena vakaruose."
+  },
+  {
+    "i": 4822,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 7,
+    "t": "Štai jūsų šiaurinė siena. Nubrėšite liniją nuo Didžiosios jūros iki Horo kalno,"
+  },
+  {
+    "i": 4823,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 8,
+    "t": "tada nuo Horo kalno nubrėšite liniją iki Hamato įėjimo, ir siena pasieks Cedadą."
+  },
+  {
+    "i": 4824,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 9,
+    "t": "Ji eis link Zipfrono ir pasieks Hacar-Enaną. Tai bus jūsų šiaurinė siena."
+  },
+  {
+    "i": 4825,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 10,
+    "t": "Tada nubrėšite savo rytinę sieną nuo Hacar-Enano iki Šefamo."
+  },
+  {
+    "i": 4826,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 11,
+    "t": "Siena nusileis nuo Šefamo link Harbelo, į rytus nuo Ajino. Nusileidusi dar žemiau, ji palies rytinį Kinereto jūros krantą."
+  },
+  {
+    "i": 4827,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 12,
+    "t": "Tada siena seks Jordanu ir pasieks Sūriąją jūrą. Tokia bus jūsų šalis su sienomis, kurios ją supa."
+  },
+  {
+    "i": 4828,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 13,
+    "t": "Tada Mozė įsakė Izraelio vaikams štai ką: \"Štai šalis, kurią pasidalysite burtais, ir kurią Viešpats įsakė duoti devynioms gentims ir pusei genties."
+  },
+  {
+    "i": 4829,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 14,
+    "t": "Nes Rubeno sūnų gentis su savo šeimomis ir Gado sūnų gentis su savo šeimomis jau gavo savo paveldą; Manaseso pusė genties taip pat gavo savo paveldą."
+  },
+  {
+    "i": 4830,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 15,
+    "t": "Šios dvi gentys ir pusė genties gavo savo paveldą anapus Jordano, nuo Jericho, į rytus, į rytus."
+  },
+  {
+    "i": 4831,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 16,
+    "t": "Viešpats kalbėjo Mozei, tardamas:"
+  },
+  {
+    "i": 4832,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 17,
+    "t": "\"Štai vardai vyrų, kurie jums pasidalys šalį: kunigas Eleazaras ir Jozuė, Nūno sūnus,"
+  },
+  {
+    "i": 4833,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 18,
+    "t": "ir kiekvienai genčiai paimsite vieną kunigaikštį šalies padalijimui."
+  },
+  {
+    "i": 4834,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 19,
+    "t": "Štai šių vyrų vardai: Judos genčiai - Kalebas, Jefunės sūnus;"
+  },
+  {
+    "i": 4835,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 20,
+    "t": "Simeono sūnų genčiai - Šemuelis, Amihudo sūnus;"
+  },
+  {
+    "i": 4836,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 21,
+    "t": "Benjamino genčiai - Elidadas, Kislono sūnus;"
+  },
+  {
+    "i": 4837,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 22,
+    "t": "Dano sūnų genčiai - kunigaikštis Bukis, Joglio sūnus;"
+  },
+  {
+    "i": 4838,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 23,
+    "t": "Juozapo sūnums, Manaseso sūnų genčiai - kunigaikštis Hanielis, Efodo sūnus;"
+  },
+  {
+    "i": 4839,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 24,
+    "t": "ir Efraimo sūnų genčiai - kunigaikštis Kemuelis, Šiftano sūnus;"
+  },
+  {
+    "i": 4840,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 25,
+    "t": "Zabulono genčiai - kunigaikštis Elifasanas, Parnako sūnus;"
+  },
+  {
+    "i": 4841,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 26,
+    "t": "Isacharo sūnų genčiai - kunigaikštis Paltielis, Azano sūnus;"
+  },
+  {
+    "i": 4842,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 27,
+    "t": "Ašero sūnų genčiai - kunigaikštis Ahiudas, Šelomio sūnus;"
+  },
+  {
+    "i": 4843,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 28,
+    "t": "Neftalio sūnų genčiai - kunigaikštis Pedahelis, Amihudo sūnus."
+  },
+  {
+    "i": 4844,
+    "b": 3,
+    "c": 434,
+    "r": 434,
+    "o": 29,
+    "t": "Štai tie, kuriems Viešpats įsakė paskirti Izraelio vaikams jų paveldėjimo dalį Kanaano žemėje."
+  },
+  {
+    "i": 4845,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 1,
+    "t": "Viešpats kalbėjo Mozei Moabo stepėse, prie Jordano, netoli Jericho, tardamas:"
+  },
+  {
+    "i": 4846,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 2,
+    "t": "\"Įsakyk Izraelio vaikams duoti levitams iš paveldo, kurį jie turi, miestus, kuriuose jie gyventų, ir ganyklas aplink miestus. Duosite juos levitams."
+  },
+  {
+    "i": 4847,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 3,
+    "t": "Miestai bus jų gyvenamoji vieta, o prie jų esančios ganyklos bus jų galvijams, turtui ir visiems jų gyvuliams."
+  },
+  {
+    "i": 4848,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 4,
+    "t": "Ganyklos, esančios prie miestų, kuriuos duosite levitams, drieksis nuo miesto sienos tūkstančio uolekčių aplinkui."
+  },
+  {
+    "i": 4849,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 5,
+    "t": "Išmatavę už miesto du tūkstančius uolekčių rytinėje pusėje, du tūkstančius uolekčių pietinėje pusėje, du tūkstančius uolekčių vakarinėje pusėje, du tūkstančius uolekčių šiaurinėje pusėje, o miestas bus centre, tai bus šių miestų ganyklos."
+  },
+  {
+    "i": 4850,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 6,
+    "t": "Miestai, kuriuos duosite levitams, bus šeši prieglobsčio miestai, kuriuos jūs atiduosite, kad žudikas galėtų į juos pabėgti; bet papildomai duosite keturiasdešimt du miestus."
+  },
+  {
+    "i": 4851,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 7,
+    "t": "Levitams duosite iš viso 48 miestus, miestus su jų ganyklomis."
+  },
+  {
+    "i": 4852,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 8,
+    "t": "Šiuos miestus, kuriuos duosite iš Izraelio vaikų nuosavybės, paimsite didesnį skaičių iš to, kuris turi daug, mažesnį skaičių iš to, kuris turi mažai. Kiekvienas duos iš savo miestų levitams proporcingai paveldui, kurį gaus."
+  },
+  {
+    "i": 4853,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 9,
+    "t": "Viešpats kalbėjo Mozei, tardamas:"
+  },
+  {
+    "i": 4854,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 10,
+    "t": "\"Kalbėk Izraelio vaikams taip. Kai pereisite Jordaną, kad įgytumėte Kanaano žemę,"
+  },
+  {
+    "i": 4855,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 11,
+    "t": "rasite miestų, iš kurių padarysite prieglobsčio miestus, į kuriuos galėtų pabėgti žudikas, kuris netyčia užmušė ką nors."
+  },
+  {
+    "i": 4856,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 12,
+    "t": "Šie miestai jums bus prieglobstis nuo kraujo keršytojo, ir žudikas neturi mirti, kol nepasirodys teisme prieš bendruomenę."
+  },
+  {
+    "i": 4857,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 13,
+    "t": "Miestai, kuriuos duosite, bus jums šeši prieglobsčio miestai:"
+  },
+  {
+    "i": 4858,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 14,
+    "t": "trys, kuriuos duosite anapus Jordano, ir trys, kuriuos duosite Kanaano žemėje, bus prieglobsčio miestai."
+  },
+  {
+    "i": 4859,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 15,
+    "t": "Izraelio vaikams, kaip ir ateiviui bei svečiui, kurie gyvena pas jus, šie šeši miestai bus prieglobstis, į kurį galėtų pabėgti kiekvienas, kuris netyčia užmušė ką nors."
+  },
+  {
+    "i": 4860,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 16,
+    "t": "Bet jei jis užmušė jį geležiniu įrankiu ir taip sukėlė jo mirtį, tai yra žudikas. Žudikas bus nužudytas."
+  },
+  {
+    "i": 4861,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 17,
+    "t": "Jei jis užmušė jį akmeniu, kuriuo galima užmušti, ir jį užmušė, tai yra žudikas. Žudikas bus nužudytas."
+  },
+  {
+    "i": 4862,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 18,
+    "t": "Arba jei jis užmušė jį mediniu įrankiu, kuriuo galima užmušti, ir jį užmušė, tai yra žudikas. Žudikas bus nužudytas."
+  },
+  {
+    "i": 4863,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 19,
+    "t": "Kraujo keršytojas nužudys žudiką. Kai jį sutiks, nužudys jį."
+  },
+  {
+    "i": 4864,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 20,
+    "t": "Jei žudikas nustūmė auką iš neapykantos arba norėdamas ją pasiekti metė į ją mirtiną sviedinį,"
+  },
+  {
+    "i": 4865,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 21,
+    "t": "arba iš priešiškumo sužalojo ją mirtinais smūgiais, tas, kuris smogė, turi mirti; tai yra žudikas, kurį kraujo keršytojas nužudys, kai jį sutiks."
+  },
+  {
+    "i": 4866,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 22,
+    "t": "Bet jei jis nustūmė auką atsitiktinai, be priešiškumo, arba metė į ją kokį nors sviedinį, nesiekdamas jos pasiekti,"
+  },
+  {
+    "i": 4867,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 23,
+    "t": "arba nematydamas numetė ant jos akmenį, kuriuo galima užmušti, ir taip sukėlė jos mirtį, nors neturėjo jokios neapykantos jai ir nenorėjo jai jokio blogio,"
+  },
+  {
+    "i": 4868,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 24,
+    "t": "bendruomenė, pagal šias taisykles, teisins tarp to, kuris smogė, ir kraujo keršytojo,"
+  },
+  {
+    "i": 4869,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 25,
+    "t": "ir išgelbės žudiką iš kraujo keršytojo rankos. Ji parves jį į prieglobsčio miestą, į kurį jis pabėgo, ir jis ten gyvens iki vyriausiojo kunigo, kuris buvo pateptas šventu aliejumi, mirties."
+  },
+  {
+    "i": 4870,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 26,
+    "t": "Jei žudikas išeis iš prieglobsčio miesto, į kurį jis pabėgo, teritorijos,"
+  },
+  {
+    "i": 4871,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 27,
+    "t": "ir kraujo keršytojas jį sutiks už jo prieglobsčio miesto teritorijos ribų, kraujo keršytojas galės jį nužudyti nebijodamas atpildo:"
+  },
+  {
+    "i": 4872,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 28,
+    "t": "nes žudikas turi likti savo prieglobsčio mieste iki vyriausiojo kunigo mirties; tik po vyriausiojo kunigo mirties jis galės grįžti į šalį, kurioje yra jo nuosavybė."
+  },
+  {
+    "i": 4873,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 29,
+    "t": "Tai bus jums teisės taisyklė ir jūsų kartoms, visur, kur gyvensite."
+  },
+  {
+    "i": 4874,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 30,
+    "t": "Kiekvienoje žmogžudystės byloje žudikas bus nužudytas pagal liudytojų parodymus; bet vienas liudytojas negalės pateikti kaltinimo, už kurį baudžiama mirtimi."
+  },
+  {
+    "i": 4875,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 31,
+    "t": "Nepriimsite išpirkos už žudiko, už kurį baudžiama mirtimi, gyvybę; nes jis turi mirti."
+  },
+  {
+    "i": 4876,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 32,
+    "t": "Nepriimsite išpirkos iš žmogaus, kuris, pabėgęs į savo prieglobsčio miestą, nori grįžti gyventi į savo šalį prieš vyriausiojo kunigo mirtį."
+  },
+  {
+    "i": 4877,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 33,
+    "t": "Nepaniekinsite šalies, kurioje esate. Kraujas paniekina šalį, ir šaliai nėra jokio kraujo atpirkimo už išlietą kraują, tik per to, kuris jį išliejo, kraują."
+  },
+  {
+    "i": 4878,
+    "b": 3,
+    "c": 435,
+    "r": 435,
+    "o": 34,
+    "t": "Nepaverskite nešvaria šalies, kurioje gyvenate ir kurios viduryje aš gyvenu. Nes aš, Viešpats, gyvenu Izraelio vaikų viduryje."
+  },
+  {
+    "i": 4879,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 1,
+    "t": "Gileado sūnų, Machiro sūnaus, Manaseso sūnaus, vienos iš Juozapo sūnų giminių, šeimų vadai pasirodė. Jie prabilo Mozės ir kunigaikščių, Izraelio vaikų šeimų vadų, akivaizdoje,"
+  },
+  {
+    "i": 4880,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 2,
+    "t": "Ir tarė: \"Viešpats įsakė mano viešpačiui atiduoti kraštą izraelitams burtais, ir mano viešpats gavo iš Viešpaties įsakymą atiduoti mūsų brolio Celofechado paveldėtąją dalį jo dukterims."
+  },
+  {
+    "i": 4881,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 3,
+    "t": "Jei jos ištekės už kito Izraelio giminės nario, jų dalis bus atimta iš mūsų tėvų dalies. Prie giminės, kuriai jos priklausys, dalies bus pridėta, o dalis, kurią mums atidavė burtai, bus sumažinta."
+  },
+  {
+    "i": 4882,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 4,
+    "t": "Kai ateis izraelitų jubiliejus, šių moterų dalis bus pridėta prie giminės, kuriai jos priklausys, dalies, ir ji bus atimta iš mūsų giminės dalies."
+  },
+  {
+    "i": 4883,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 5,
+    "t": "Mozė, Viešpaties įsakymu, davė šį įsakymą izraelitams. Jis tarė: \"Juozapo sūnų giminė kalbėjo teisingai."
+  },
+  {
+    "i": 4884,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 6,
+    "t": "Štai ką Viešpats įsako dėl Celofechado dukterų: Jos tekės už to, kuris joms patiks, tik tegul išteka už savo tėvo giminės klano."
+  },
+  {
+    "i": 4885,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 7,
+    "t": "Izraelitų dalis nepereis iš giminės į giminę; izraelitai liks prisirišę kiekvienas prie savo giminės dalies."
+  },
+  {
+    "i": 4886,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 8,
+    "t": "Kiekviena duktė, kuri turi dalį vienoje iš Izraelio giminių, privalės ištekėti už savo tėvo giminės klano, kad izraelitai išsaugotų kiekvienas savo tėvo dalį."
+  },
+  {
+    "i": 4887,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 9,
+    "t": "Dalis negalės būti perkelta iš vienos giminės į kitą: kiekviena Izraelio giminė liks prisirišusi prie savo dalies."
+  },
+  {
+    "i": 4888,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 10,
+    "t": "Celofechado dukterys padarė taip, kaip Viešpats įsakė Mozei."
+  },
+  {
+    "i": 4889,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 11,
+    "t": "Mahla, Tirza, Hogla, Milka ir Noa, Celofechado dukterys, ištekėjo už savo tėvo dėdžių sūnų."
+  },
+  {
+    "i": 4890,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 12,
+    "t": "Kadangi jos ištekėjo už Juozapo sūnaus Manaso sūnų klanų, tai jų dalis atiteko jų tėvo giminės klanui."
+  },
+  {
+    "i": 4891,
+    "b": 3,
+    "c": 436,
+    "r": 436,
+    "o": 13,
+    "t": "Tai yra įsakymai ir įstatymai, kuriuos Viešpats įsakė izraelitams per Mozę Moabo stepėse, prie Jordano, priešais Jerichą."
+  },
+  {
+    "i": 4892,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 1,
+    "t": "Štai žodžiai, kuriuos Mozė pasakė visam Izraeliui už Jordano, dykumoje, Araboje, priešais Sufą, tarp Parano ir Tofelio, Labano, Haseroto ir Di-Zahabo. —"
+  },
+  {
+    "i": 4893,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 2,
+    "t": "Yra vienuolika dienų kelio nuo Horebo, per Seiro kalną, iki Kadeš-Barnė. —"
+  },
+  {
+    "i": 4894,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 3,
+    "t": "Tai buvo keturiasdešimtieji metai, vienuolikto mėnesio pirmą dieną, kai Mozė kalbėjo izraelitams pagal visa tai, ką Viešpats jam buvo įsakęs apie juos."
+  },
+  {
+    "i": 4895,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 4,
+    "t": "Jis buvo nugalėjęs Amoritų karalių Sihoną, kuris gyveno Hešbone, ir Bašano karalių Ogą, kuris gyveno Astarote ir Edrėjyje."
+  },
+  {
+    "i": 4896,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 5,
+    "t": "Tai už Jordano, Moabo krašte, Mozė nusprendė išraižyti šį Įstatymą. Jis tarė:"
+  },
+  {
+    "i": 4897,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 6,
+    "t": "Viešpats mūsų Dievas kalbėjo mums prie Horebo: \"Jūs pakankamai gyvenote šiame kalne."
+  },
+  {
+    "i": 4898,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 7,
+    "t": "Eikite, keliaukite ir eikite į Amoritų kalnus, pas visus, kurie gyvena Araba, Kalnuose, Žemumoje, Negebe ir jūros pakraštyje, eikite į Kanaano žemę ir į Libaną iki didžiosios upės, Eufrato."
+  },
+  {
+    "i": 4899,
+    "b": 4,
+    "c": 501,
+    "r": 501,
+    "o": 8,
+    "t": "Štai kraštas, kurį jums atidaviau; eikite ir užvaldykite kraštą, kurį Viešpats prisiekė jūsų tėvams, Abraomui, Izaokui ir Jokūbui, ir jų palikuonims po jų."
+  }
+]

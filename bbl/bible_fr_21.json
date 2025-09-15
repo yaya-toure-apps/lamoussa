@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2100,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 24,
+    "t": "œil pour œil, dent pour dent, pied pour pied,"
+  },
+  {
+    "i": 2101,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 25,
+    "t": "brûlure pour brûlure, meurtrissure pour meurtrissure, plaie pour plaie."
+  },
+  {
+    "i": 2102,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 26,
+    "t": "Si un homme frappe l’œil de son esclave ou l’œil de sa servante et l’éborgne, il lui rendra la liberté en compensation de son œil."
+  },
+  {
+    "i": 2103,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 27,
+    "t": "Et s’il fait tomber une dent de son esclave ou une dent de sa servante, il lui rendra la liberté en compensation de sa dent."
+  },
+  {
+    "i": 2104,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 28,
+    "t": "Si un bœuf encorne un homme ou une femme et cause sa mort, le bœuf sera lapidé et l’on n’en mangera pas la viande, mais le propriétaire du bœuf sera quitte."
+  },
+  {
+    "i": 2105,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 29,
+    "t": "Mais si le bœuf donnait déjà de la corne auparavant, et que le propriétaire, averti de cela, ne l’a pas surveillé, s’il cause la mort d’un homme ou d’une femme, ce bœuf sera lapidé et son propriétaire sera mis à mort."
+  },
+  {
+    "i": 2106,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 30,
+    "t": "Si on lui impose une rançon, il devra donner pour le rachat de sa vie tout ce qui lui est imposé."
+  },
+  {
+    "i": 2107,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 31,
+    "t": "Si c’est un garçon ou une fille qu’il encorne, on le traitera selon cette coutume."
+  },
+  {
+    "i": 2108,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 32,
+    "t": "Si c’est un esclave ou une servante que le bœuf encorne, son propriétaire versera le prix — trente sicles — à leur maître, et le bœuf sera lapidé."
+  },
+  {
+    "i": 2109,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 33,
+    "t": "Si quelqu’un laisse une citerne ouverte, ou si quelqu’un creuse une citerne sans la couvrir et qu’un bœuf ou un âne y tombe,"
+  },
+  {
+    "i": 2110,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 34,
+    "t": "le propriétaire de la citerne indemnisera, il dédommagera en argent son propriétaire, et la bête morte sera pour lui."
+  },
+  {
+    "i": 2111,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 35,
+    "t": "Si le bœuf de quelqu’un frappe le bœuf d’autrui et cause sa mort, les propriétaires vendront le bœuf vivant et s’en partageront le prix, ils se partageront aussi la bête morte."
+  },
+  {
+    "i": 2112,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 36,
+    "t": "Mais s’il est notoire que le bœuf donnait de la corne auparavant, et que son propriétaire ne l’a pas surveillé, il donnera un bœuf vivant en compensation du bœuf mort, et la bête morte sera pour lui."
+  },
+  {
+    "i": 2113,
+    "b": 1,
+    "c": 221,
+    "r": 221,
+    "o": 37,
+    "t": "\"Si quelqu’un vole un bœuf ou un agneau puis l’abat et le vend, il rendra cinq têtes de gros bétail pour le bœuf et quatre têtes de petit bétail pour l’agneau."
+  },
+  {
+    "i": 2114,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 1,
+    "t": "Si le voleur surpris à percer un mur reçoit un coup mortel, son sang ne sera pas vengé."
+  },
+  {
+    "i": 2115,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 2,
+    "t": "Mais si le soleil était déjà levé, son sang sera vengé. Il devra restituer, et s’il n’a pas de quoi, on le vendra pour rembourser ce qu’il a volé."
+  },
+  {
+    "i": 2116,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 3,
+    "t": "Si l’animal volé, bœuf, âne ou tête de petit bétail, est retrouvé vivant en sa possession, il restituera au double."
+  },
+  {
+    "i": 2117,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 4,
+    "t": "\"Si quelqu’un fait brouter un champ ou une vigne et laisse brouter le champ d’autrui, il restituera la partie broutée de ce champ d’après ce qu’il rapporte. S’il a laissé brouter le champ entier, il restituera sur la base de la meilleure récolte du champ"
+  },
+  {
+    "i": 2118,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 5,
+    "t": "Si un feu prend et rencontre des buissons épineux et qu’il consume meules, moissons ou champs, l’auteur de l’incendie restituera ce qui a brûlé."
+  },
+  {
+    "i": 2119,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 6,
+    "t": "Si quelqu’un donne en garde à un autre de l’argent ou des objets, et qu’on les vole chez celui-ci, le voleur, si on le découvre, devra restituer au double."
+  },
+  {
+    "i": 2120,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 7,
+    "t": "Si on ne découvre pas le voleur, le maître de la maison s’approchera de Dieu pour attester qu’il n’a pas porté la main sur le bien de l’autre."
+  },
+  {
+    "i": 2121,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 8,
+    "t": "Dans toute cause litigieuse relative à un bœuf, à un âne, à une tête de petit bétail, à un vêtement ou à n’importe quel objet perdu dont on dit : C’est bien lui, le différend sera porté devant Dieu. Celui que Dieu aura déclaré coupable restituera le doub"
+  },
+  {
+    "i": 2122,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 9,
+    "t": "Si quelqu’un confie à la garde d’un autre un âne, un taureau, une tête de petit bétail ou tout autre animal, et que la bête crève, se brise un membre ou est enlevée sans témoins,"
+  },
+  {
+    "i": 2123,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 10,
+    "t": "un serment par Yahvé décidera entre les deux parties si le gardien a porté la main sur le bien de l’autre ou non. Le propriétaire prendra ce qui reste et le gardien n’aura pas à restituer."
+  },
+  {
+    "i": 2124,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 11,
+    "t": "Mais si l’animal volé se trouvait auprès de lui, il le restituera à son propriétaire."
+  },
+  {
+    "i": 2125,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 12,
+    "t": "Si l’animal est déchiqueté par une bête de proie, il apportera en témoignage l’animal déchiqueté et n’aura pas à restituer."
+  },
+  {
+    "i": 2126,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 13,
+    "t": "Si quelqu’un emprunte une bête à un autre et qu’elle se brise un membre ou crève en l’absence de son propriétaire, il devra restituer."
+  },
+  {
+    "i": 2127,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 14,
+    "t": "Mais si le propriétaire est auprès de l’animal, il n’aura pas à restituer. Si le propriétaire est un loueur, il touchera son prix de louage."
+  },
+  {
+    "i": 2128,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 15,
+    "t": "\"Si quelqu’un séduit une vierge non encore fiancée et couche avec elle, il versera le prix et la prendra pour femme."
+  },
+  {
+    "i": 2129,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 16,
+    "t": "Si son père refuse de la lui donner, il versera une somme équivalente au prix fixé pour les vierges."
+  },
+  {
+    "i": 2130,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 17,
+    "t": "\"Tu ne laisseras pas en vie la magicienne."
+  },
+  {
+    "i": 2131,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 18,
+    "t": "Quiconque s’accouple avec une bête sera mis à mort."
+  },
+  {
+    "i": 2132,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 19,
+    "t": "Qui sacrifie à d’autres dieux sera voué à l’anathème."
+  },
+  {
+    "i": 2133,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 20,
+    "t": "Tu ne molesteras pas l’étranger ni ne l’opprimeras car vous-mêmes avez été étrangers dans le pays d’Égypte."
+  },
+  {
+    "i": 2134,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 21,
+    "t": "Vous ne maltraiterez pas une veuve ni un orphelin."
+  },
+  {
+    "i": 2135,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 22,
+    "t": "Si tu le maltraites et qu’il crie vers moi, j’écouterai son cri ;"
+  },
+  {
+    "i": 2136,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 23,
+    "t": "ma colère s’enflammera et je vous ferai périr par l’épée : vos femmes seront veuves et vos fils orphelins."
+  },
+  {
+    "i": 2137,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 24,
+    "t": "Si tu prêtes de l’argent à un compatriote, à l’indigent qui est chez toi, tu ne te comporteras pas envers lui comme un prêteur à gages, vous ne lui imposerez pas d’intérêts."
+  },
+  {
+    "i": 2138,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 25,
+    "t": "Si tu prends en gage le manteau de quelqu’un, tu le lui rendras au coucher du soleil."
+  },
+  {
+    "i": 2139,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 26,
+    "t": "C’est sa seule couverture, c’est le manteau dont il enveloppe son corps, dans quoi se couchera-t-il ? S’il crie vers moi je l’écouterai, car je suis compatissant, moi !"
+  },
+  {
+    "i": 2140,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 27,
+    "t": "Tu ne blasphémeras pas Dieu ni ne maudiras un chef de ton peuple."
+  },
+  {
+    "i": 2141,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 28,
+    "t": "\"Ne diffère pas d’offrir de ton abondance et de ton surplus. Le premier-né de tes fils, tu me le donneras."
+  },
+  {
+    "i": 2142,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 29,
+    "t": "Tu feras de même pour ton gros et ton petit bétail : pendant sept jours il restera avec sa mère, le huitième jour tu me le donneras."
+  },
+  {
+    "i": 2143,
+    "b": 1,
+    "c": 222,
+    "r": 222,
+    "o": 30,
+    "t": "Vous serez pour moi des hommes saints. Vous ne mangerez pas la viande d’une bête déchiquetée par un fauve dans la campagne, vous la jetterez aux chiens."
+  },
+  {
+    "i": 2144,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 1,
+    "t": "\"Tu ne colporteras pas de fausses rumeurs. Tu ne prêteras pas la main au méchant en témoignant injustement."
+  },
+  {
+    "i": 2145,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 2,
+    "t": "Tu ne prendras pas le parti du plus grand nombre pour commettre le mal, ni ne témoigneras dans un procès en suivant le plus grand nombre pour faire dévier le droit,"
+  },
+  {
+    "i": 2146,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 3,
+    "t": "ni ne favoriseras le miséreux dans son procès."
+  },
+  {
+    "i": 2147,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 4,
+    "t": "Si tu rencontres le bœuf ou l’âne de ton ennemi qui vague, tu dois le lui ramener."
+  },
+  {
+    "i": 2148,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 5,
+    "t": "Si tu vois l’âne de celui qui te déteste tomber sous sa charge, cesse de te tenir à l’écart ; avec lui tu lui viendras en aide."
+  },
+  {
+    "i": 2149,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 6,
+    "t": "Tu ne feras pas dévier le droit de ton pauvre dans son procès."
+  },
+  {
+    "i": 2150,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 7,
+    "t": "Tu te tiendras loin d’une cause mensongère. Ne fais pas périr l’innocent ni le juste et ne justifie pas le coupable."
+  },
+  {
+    "i": 2151,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 8,
+    "t": "Tu n’accepteras pas de présents, car le présent aveugle les gens clairvoyants et ruine les causes des justes."
+  },
+  {
+    "i": 2152,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 9,
+    "t": "Tu n’opprimeras pas l’étranger. Vous savez ce qu’éprouve l’étranger, car vous-mêmes avez été étrangers au pays d’Égypte."
+  },
+  {
+    "i": 2153,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 10,
+    "t": "\"Pendant six ans tu ensemenceras la terre et tu en engrangeras le produit."
+  },
+  {
+    "i": 2154,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 11,
+    "t": "Mais la septième année, tu la laisseras en jachère et tu en abandonneras le produit ; les pauvres de ton peuple le mangeront et les bêtes des champs mangeront ce qu’ils auront laissé. Tu feras de même pour ta vigne et pour ton olivier."
+  },
+  {
+    "i": 2155,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 12,
+    "t": "Pendant six jours tu feras tes travaux, et le septième jour tu chômeras, afin que se repose ton bœuf et ton âne et que reprennent souffle le fils de ta servante ainsi que l’étranger."
+  },
+  {
+    "i": 2156,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 13,
+    "t": "Vous prendrez garde à tout ce que je vous ai dit et vous ne ferez pas mention du nom d’autres dieux : qu’on ne l’entende pas sortir de ta bouche."
+  },
+  {
+    "i": 2157,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 14,
+    "t": "\"Tu me fêteras trois fois l’an."
+  },
+  {
+    "i": 2158,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 15,
+    "t": "Tu observeras la fête des Azymes. Pendant sept jours tu mangeras des azymes, comme je te l’ai ordonné, au temps fixé du mois d’Abib, car c’est en ce mois que tu es sorti d’Égypte. On ne se présentera pas devant moi les mains vides."
+  },
+  {
+    "i": 2159,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 16,
+    "t": "Tu observeras la fête de la Moisson, des prémices de tes travaux de semailles dans les champs, et la fête de la Récolte, en fin d’année, quand tu rentreras des champs le fruit de tes travaux."
+  },
+  {
+    "i": 2160,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 17,
+    "t": "Trois fois l’an, toute ta population mâle se présentera devant le Seigneur Yahvé."
+  },
+  {
+    "i": 2161,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 18,
+    "t": "Tu ne sacrifieras pas avec du pain levé le sang de ma victime, et la graisse de ma fête ne sera pas gardée jusqu’au lendemain."
+  },
+  {
+    "i": 2162,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 19,
+    "t": "Tu apporteras à la maison de Yahvé ton Dieu le meilleur des prémices de ton terroir. Tu ne feras pas cuire un chevreau dans le lait de sa mère."
+  },
+  {
+    "i": 2163,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 20,
+    "t": "\"Voici que je vais envoyer un ange devant toi, pour qu’il veille sur toi en chemin et te mène au lieu que je t’ai fixé."
+  },
+  {
+    "i": 2164,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 21,
+    "t": "Révère-le et écoute sa voix, ne lui sois pas rebelle, il ne pardonnerait pas vos transgressions car mon Nom est en lui."
+  },
+  {
+    "i": 2165,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 22,
+    "t": "Mais si tu écoutes bien sa voix et fais ce que je dis, je serai l’ennemi de tes ennemis et l’adversaire de tes adversaires."
+  },
+  {
+    "i": 2166,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 23,
+    "t": "Mon ange ira devant toi et te mènera chez les Amorites, les Hittites, les Perizzites, les Cananéens, les Hivvites, les Jébuséens, et je les exterminerai."
+  },
+  {
+    "i": 2167,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 24,
+    "t": "Tu ne te prosterneras pas devant leurs dieux ni ne les serviras ; tu ne feras pas ce qu’ils font, mais tu détruiras leurs dieux et tu briseras leurs stèles."
+  },
+  {
+    "i": 2168,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 25,
+    "t": "Vous servirez Yahvé votre Dieu, alors je bénirai ton pain et ton eau et je détournerai de toi la maladie."
+  },
+  {
+    "i": 2169,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 26,
+    "t": "Nulle femme dans ton pays n’avortera ou ne sera stérile et je laisserai s’achever le nombre de tes jours."
+  },
+  {
+    "i": 2170,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 27,
+    "t": "Je sèmerai devant toi ma terreur, je jetterai la confusion chez tous les peuples où tu pénétreras, et je ferai détaler tous tes ennemis."
+  },
+  {
+    "i": 2171,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 28,
+    "t": "J’enverrai devant toi des frelons qui chasseront les Hivvites, les Cananéens et les Hittites devant toi."
+  },
+  {
+    "i": 2172,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 29,
+    "t": "Je ne les chasserai pas devant toi en une seule année, de peur que le pays ne devienne un désert où se multiplieraient à tes dépens les bêtes des champs."
+  },
+  {
+    "i": 2173,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 30,
+    "t": "Je les chasserai devant toi peu à peu, jusqu’à ce que tu aies assez fructifié pour hériter du pays."
+  },
+  {
+    "i": 2174,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 31,
+    "t": "Je fixerai tes frontières de la mer des Roseaux à la mer des Philistins, et du désert au Fleuve, car je livrerai entre vos mains les habitants du pays, et tu les chasseras devant toi."
+  },
+  {
+    "i": 2175,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 32,
+    "t": "Tu ne feras pas alliance avec eux ni avec leurs dieux."
+  },
+  {
+    "i": 2176,
+    "b": 1,
+    "c": 223,
+    "r": 223,
+    "o": 33,
+    "t": "Ils n’habiteront pas ton pays, de peur qu’ils ne te fassent pécher contre moi, car tu servirais leurs dieux et ce serait pour toi un piège.\""
+  },
+  {
+    "i": 2177,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 1,
+    "t": "Il dit à Moïse : \"Montez vers Yahvé, toi, Aaron, Nadab, Abihu et soixante-dix des anciens d’Israël, et vous vous prosternerez à distance."
+  },
+  {
+    "i": 2178,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 2,
+    "t": "Moïse s’approchera seul de Yahvé. Eux n’approcheront pas et le peuple ne montera pas avec lui.\""
+  },
+  {
+    "i": 2179,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 3,
+    "t": "Moïse vint rapporter au peuple toutes les paroles de Yahvé et toutes les lois, et tout le peuple répondit d’une seule voix ; ils dirent : \"Toutes les paroles que Yahvé a prononcées, nous les mettrons en pratique.\""
+  },
+  {
+    "i": 2180,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 4,
+    "t": "Moïse mit par écrit toutes les paroles de Yahvé puis, se levant de bon matin, il bâtit un autel au bas de la montagne, et douze stèles pour les douze tribus d’Israël."
+  },
+  {
+    "i": 2181,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 5,
+    "t": "Puis il envoya de jeunes Israélites offrir des holocaustes et immoler à Yahvé de jeunes taureaux en sacrifice de communion."
+  },
+  {
+    "i": 2182,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 6,
+    "t": "Moïse prit la moitié du sang et la mit dans des bassins, et l’autre moitié du sang, il la répandit sur l’autel."
+  },
+  {
+    "i": 2183,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 7,
+    "t": "Il prit le livre de l’Alliance et il en fit la lecture au peuple qui déclara : \"Tout ce que Yahvé a dit, nous le ferons et nous y obéirons.\""
+  },
+  {
+    "i": 2184,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 8,
+    "t": "Moïse, ayant pris le sang, le répandit sur le peuple et dit : \"Ceci est le sang de l’Alliance que Yahvé a conclue avec vous moyennant toutes ces clauses.\""
+  },
+  {
+    "i": 2185,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 9,
+    "t": "Moïse monta, ainsi qu’Aaron, Nadab, Abihu et soixante-dix des anciens d’Israël."
+  },
+  {
+    "i": 2186,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 10,
+    "t": "Ils virent le Dieu d’Israël. Sous ses pieds il y avait comme un pavement de saphir, aussi pur que le ciel même."
+  },
+  {
+    "i": 2187,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 11,
+    "t": "Il ne porta pas la main sur les notables des Israélites. Ils contemplèrent Dieu puis ils mangèrent et burent."
+  },
+  {
+    "i": 2188,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 12,
+    "t": "Yahvé dit à Moïse : \"Monte vers moi sur la montagne et demeure là, que je te donne les tables de pierre — la loi et le commandement — que j’ai écrites pour leur instruction.\""
+  },
+  {
+    "i": 2189,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 13,
+    "t": "Moïse se leva, ainsi que Josué son serviteur, et ils montèrent à la montagne de Dieu."
+  },
+  {
+    "i": 2190,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 14,
+    "t": "Il dit aux anciens : \"Attendez-nous ici jusqu’à notre retour ; vous avez avec vous Aaron et Hur, que celui qui a une affaire à régler s’adresse à eux.\""
+  },
+  {
+    "i": 2191,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 15,
+    "t": "Puis Moïse monta sur la montagne. La nuée couvrit la montagne."
+  },
+  {
+    "i": 2192,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 16,
+    "t": "La gloire de Yahvé s’établit sur le mont Sinaï, et la nuée le couvrit pendant six jours. Le septième jour, Yahvé appela Moïse du milieu de la nuée."
+  },
+  {
+    "i": 2193,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 17,
+    "t": "L’aspect de la gloire de Yahvé était aux yeux des Israélites celui d’une flamme dévorante au sommet de la montagne."
+  },
+  {
+    "i": 2194,
+    "b": 1,
+    "c": 224,
+    "r": 224,
+    "o": 18,
+    "t": "Moïse entra dans la nuée et monta sur la montagne. Et Moïse demeura sur la montagne quarante jours et quarante nuits."
+  },
+  {
+    "i": 2195,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 1,
+    "t": "Yahvé parla à Moïse et lui dit :"
+  },
+  {
+    "i": 2196,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 2,
+    "t": "\"Dis aux Israélites de prélever pour moi une contribution. Vous prendrez la contribution de tous ceux que leur cœur incite."
+  },
+  {
+    "i": 2197,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 3,
+    "t": "Et voici la contribution que vous accepterez d’eux : de l’or, de l’argent et du bronze ;"
+  },
+  {
+    "i": 2198,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 4,
+    "t": "de la pourpre violette et écarlate, du cramoisi, du lin fin et du poil de chèvre ;"
+  },
+  {
+    "i": 2199,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 5,
+    "t": "des peaux de béliers teintes en rouge, du cuir fin et du bois d’acacia ;"
+  }
+]

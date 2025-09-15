@@ -1,0 +1,802 @@
+[
+  {
+    "i": 26300,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 19,
+    "t": "Quelle race est digne d'honneur ? La race de l'homme. Quelle race est digne d'honneur ? Ceux qui craignent le Seigneur. Quelle race est digne de mépris ? La race de l'homme. Quelle race est digne de mépris ? Ceux qui violent les préceptes."
+  },
+  {
+    "i": 26301,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 20,
+    "t": "Le chef est honoré parmi ses frères, ceux qui craignent le Seigneur sont honorés de lui."
+  },
+  {
+    "i": 26302,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 21,
+    "t": "Etre accepté de Dieu trouve son principe dans la crainte du Seigneur, mais le principe du rejet, c'est l'endurcissement et l'orgueil."
+  },
+  {
+    "i": 26303,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 22,
+    "t": "Prosélyte, étranger ou pauvre, leur fierté est dans la crainte du Seigneur."
+  },
+  {
+    "i": 26304,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 23,
+    "t": "Ce n'est pas bien de mépriser un pauvre intelligent, il ne convient pas d'honorer un pécheur."
+  },
+  {
+    "i": 26305,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 24,
+    "t": "Grand, magistrat, puissant sont dignes d'honneur, mais nul n'est plus grand que celui qui craint le Seigneur."
+  },
+  {
+    "i": 26306,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 25,
+    "t": "L'esclave sage a les hommes libres comme serviteurs et l'homme instruit ne se plaint pas."
+  },
+  {
+    "i": 26307,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 26,
+    "t": "Ne fais pas le malin quand tu accomplis ta besogne, ne fais pas le glorieux quand tu es dans la gêne."
+  },
+  {
+    "i": 26308,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 27,
+    "t": "Mieux vaut l'homme qui travaille et vit dans l'abondance que celui qui va se glorifiant et manque de pain."
+  },
+  {
+    "i": 26309,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 28,
+    "t": "Mon fils, glorifie-toi modestement et apprécie-toi à ta juste valeur."
+  },
+  {
+    "i": 26310,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 29,
+    "t": "Qui oserait justifier celui qui se fait tort à soi-même et estimer celui qui se méprise ?"
+  },
+  {
+    "i": 26311,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 30,
+    "t": "On honore le pauvre pour son savoir et le riche pour ses richesses."
+  },
+  {
+    "i": 26312,
+    "b": 45,
+    "c": 4710,
+    "r": 4710,
+    "o": 31,
+    "t": "Honoré dans la pauvreté, que serait-ce dans la richesse ! méprisé dans la richesse, que serait-ce dans la pauvreté !"
+  },
+  {
+    "i": 26313,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 1,
+    "t": "Le pauvre, s'il est sage, tient la tête haute et s'assied parmi les grands."
+  },
+  {
+    "i": 26314,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 2,
+    "t": "Ne félicite pas un homme pour sa prestance et ne prend personne en grippe d'après son apparence."
+  },
+  {
+    "i": 26315,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 3,
+    "t": "L'abeille est petite parmi les êtres ailés, mais ce qu'elle produit est d'une douceur exquise."
+  },
+  {
+    "i": 26316,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 4,
+    "t": "Ne sois pas fier des vêtements que tu portes et ne t'enorgueillis pas lorsqu'on t'honore : car les oeuvres du Seigneur sont admirables, mais elles sont cachées aux hommes."
+  },
+  {
+    "i": 26317,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 5,
+    "t": "Souvent des souverains étaient assis sur le pavé et un inconnu a reçu le diadème."
+  },
+  {
+    "i": 26318,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 6,
+    "t": "Souvent des puissants ont été durement humiliés et des hommes illustres sont tombés au pouvoir d'autrui."
+  },
+  {
+    "i": 26319,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 7,
+    "t": "Ne blâme pas avant d'avoir examiné, réfléchis d'abord, puis exprime tes reproches."
+  },
+  {
+    "i": 26320,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 8,
+    "t": "Ne réponds pas avant d'avoir écouté, n'interviens pas au milieu du discours."
+  },
+  {
+    "i": 26321,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 9,
+    "t": "Ne t'échauffe pas pour une affaire qui ne te regarde pas et ne te mêle pas des querelles des pécheurs."
+  },
+  {
+    "i": 26322,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 10,
+    "t": "Mon fils n'entreprends pas beaucoup d'affaires ; si tu les multiplies, tu ne t'en tireras pas indemne ; même en courant, tu n'arriveras pas et tu ne pourras échapper par la fuite."
+  },
+  {
+    "i": 26323,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 11,
+    "t": "Il en est qui peinent, se fatiguent et se hâtent pour n'en être que mieux distancés."
+  },
+  {
+    "i": 26324,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 12,
+    "t": "Il y a des faibles qui réclament de l'aide, pauvres de moyens et riches de dénuement ; le Seigneur les regarde avec faveur, il les relève de leur misère."
+  },
+  {
+    "i": 26325,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 13,
+    "t": "Il leur fait relever la tête et beaucoup s'en étonnent."
+  },
+  {
+    "i": 26326,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 14,
+    "t": "Bien et mal, vie et mort, pauvreté et richesse, tout vient du Seigneur."
+  },
+  {
+    "i": 26327,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 15,
+    "t": "La sagesse, la science et la connaissance de la Loi viennent du Seigneur, l'amour et la pratique des bonnes oeuvres viennent de lui."
+  },
+  {
+    "i": 26328,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 16,
+    "t": "La folie et les ténèbres sont créées pour les pécheurs ; de ceux qui se plaisent au mal, le mal accompagne la vieillesse."
+  },
+  {
+    "i": 26329,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 17,
+    "t": "Le don du Seigneur reste fidèle aux hommes pieux et sa bienveillance les conduira à jamais."
+  },
+  {
+    "i": 26330,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 18,
+    "t": "Il y a des gens qui s'enrichissent à force d'avarice, voici quelle sera leur récompense :"
+  },
+  {
+    "i": 26331,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 19,
+    "t": "Le jour où ils se disent : \"J'ai trouvé le repos, maintenant je peux vivre sur mes biens\", ils ne savent pas combien de temps cela durera : il leur faudra laisser cela à d'autres et mourir."
+  },
+  {
+    "i": 26332,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 20,
+    "t": "Sois attaché à ta besogne, occupe-t'en bien et vieillis dans ton travail."
+  },
+  {
+    "i": 26333,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 21,
+    "t": "Ne t'étonne pas des oeuvres du pécheur, confie-toi dans le Seigneur et tiens-toi à ta besogne. Car c'est chose facile aux yeux du Seigneur, rapidement, en un instant, d'enrichir un pauvre."
+  },
+  {
+    "i": 26334,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 22,
+    "t": "La bénédiction du Seigneur est la récompense de l'homme pieux, en un instant Dieu fait fleurir sa bénédiction."
+  },
+  {
+    "i": 26335,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 23,
+    "t": "Ne dis pas : \"De quoi ai-je besoin ? Désormais quel sera mon avoir ?\""
+  },
+  {
+    "i": 26336,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 24,
+    "t": "Ne dis pas : \"J'ai suffisamment, quelle malchance pourrait m'atteindre ?\""
+  },
+  {
+    "i": 26337,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 25,
+    "t": "Au jour du bonheur on ne se souvient pas des maux et au jour du malheur on oublie le bonheur."
+  },
+  {
+    "i": 26338,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 26,
+    "t": "C'est qu'il est aisé au Seigneur, au jour de la mort, de rendre à chacun selon ses actes."
+  },
+  {
+    "i": 26339,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 27,
+    "t": "Une heure d'épreuve fait oublier le bien-être et c'est à sa dernière heure que les oeuvres d'un homme sont dévoilées."
+  },
+  {
+    "i": 26340,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 28,
+    "t": "Ne vante le bonheur de personne avant la fin, car c'est dans sa fin qu'on se fait connaître."
+  },
+  {
+    "i": 26341,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 29,
+    "t": "N'introduis pas chez toi n'importe qui, car nombreuses sont les ruses de l'intrigant."
+  },
+  {
+    "i": 26342,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 30,
+    "t": "Comme une perdrix captive dans sa cage, ainsi le coeur de l'orgueilleux, comme l'espion, il guette ta ruine."
+  },
+  {
+    "i": 26343,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 31,
+    "t": "Changeant le bien en mal, il est à l'affût, aux meilleures qualités il trouve des tares."
+  },
+  {
+    "i": 26344,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 32,
+    "t": "Une étincelle allume un grand brasier, le pécheur est à l'affût pour faire couler le sang."
+  },
+  {
+    "i": 26345,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 33,
+    "t": "Prends garde au méchant car il complote le mal, crains qu'il ne t'inflige une flétrissure éternelle."
+  },
+  {
+    "i": 26346,
+    "b": 45,
+    "c": 4711,
+    "r": 4711,
+    "o": 34,
+    "t": "Introduis l'étranger, il mettra le trouble chez toi et il t'aliénera ta maisonnée."
+  },
+  {
+    "i": 26347,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 1,
+    "t": "Si tu fais le bien, sache à qui tu le fais et tes bienfaits ne seront pas perdus."
+  },
+  {
+    "i": 26348,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 2,
+    "t": "Fais le bien à un homme pieux, il te le rendra, sinon par lui-même, du moins par le Très-Haut."
+  },
+  {
+    "i": 26349,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 3,
+    "t": "Pas de bienfaits à qui persévère dans le mal et se refuse à faire la charité."
+  },
+  {
+    "i": 26350,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 4,
+    "t": "Donne à l'homme pieux et ne viens pas en aide au pécheur."
+  },
+  {
+    "i": 26351,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 5,
+    "t": "Fais le bien à qui est humble et ne donne pas à l'impie. Refuse-lui son pain, ne le lui donne pas, il en deviendrait plus fort que toi. Car tu serais payé au double en méchanceté pour tous les bienfaits dont tu l'aurais gratifié."
+  },
+  {
+    "i": 26352,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 6,
+    "t": "Car le Très-Haut lui-même a les pécheurs en horreur et aux impies il infligera une punition. Il les garde jusqu'au jour de leur châtiment."
+  },
+  {
+    "i": 26353,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 7,
+    "t": "Donne à l'homme bon, mais ne viens pas en aide au pécheur."
+  },
+  {
+    "i": 26354,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 8,
+    "t": "Dans la prospérité on ne peut reconnaître le véritable ami, et dans l'adversité l'ennemi ne peut se cacher."
+  },
+  {
+    "i": 26355,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 9,
+    "t": "Quand un homme est heureux, ses ennemis ont du chagrin ; quand il est malheureux, même son ami l'abandonne."
+  },
+  {
+    "i": 26356,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 10,
+    "t": "Ne te fie jamais à ton ennemi ; de même que l'airain se rouille, ainsi fait sa méchanceté."
+  },
+  {
+    "i": 26357,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 11,
+    "t": "Même s'il se fait humble et s'avance en courbant l'échine, veille sur toi-même et méfie-toi de lui. Agis envers lui comme si tu polissais un miroir, sache que sa rouille ne tiendra pas jusqu'à la fin."
+  },
+  {
+    "i": 26358,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 12,
+    "t": "Ne le mets pas près de toi, il pourrait te renverser et prendre ta place. Ne le fais pas asseoir à ta droite, il chercherait à te ravir ton siège, et finalement tu comprendrais mes paroles, tu te repentirais en songeant à mon discours."
+  },
+  {
+    "i": 26359,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 13,
+    "t": "Qui aurait pitié du charmeur que mord le serpent et de tous ceux qui affrontent les bêtes féroces ?"
+  },
+  {
+    "i": 26360,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 14,
+    "t": "Il en va de même de celui qui fait du pécheur son compagnon et qui prend part à ses péchés."
+  },
+  {
+    "i": 26361,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 15,
+    "t": "Il reste quelque temps avec toi, mais, si tu chancelles, il ne se contient plus."
+  },
+  {
+    "i": 26362,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 16,
+    "t": "L'ennemi n'a que douceur sur les lèvres, mais dans son coeur il médite de te jeter dans la fosse. L'ennemi a des larmes dans les yeux, et s'il trouve l'occasion il ne se rassasiera pas de sang."
+  },
+  {
+    "i": 26363,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 17,
+    "t": "Si le sort t'est contraire, tu le trouveras là avant toi, et sous prétexte de t'aider il te saisira le talon."
+  },
+  {
+    "i": 26364,
+    "b": 45,
+    "c": 4712,
+    "r": 4712,
+    "o": 18,
+    "t": "Il hochera la tête et battra des mains, il ne fera que murmurer et changer de visage."
+  },
+  {
+    "i": 26365,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 1,
+    "t": "Qui touche à la poix s'englue, qui fréquente l'orgueilleux en vient à lui ressembler."
+  },
+  {
+    "i": 26366,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 2,
+    "t": "Ne te charge pas d'un fardeau trop lourd, ne te lie pas à plus fort et plus riche que toi. Pourquoi mettre le pot de terre avec le pot de fer ? S'il le heurte il se brisera."
+  },
+  {
+    "i": 26367,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 3,
+    "t": "Le riche commet une injustice, il prend de grands airs ; le pauvre est lésé, il se fait suppliant."
+  },
+  {
+    "i": 26368,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 4,
+    "t": "Si tu lui es utile il se sert de toi, si tu fais défaut, il s'écartera de toi."
+  },
+  {
+    "i": 26369,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 5,
+    "t": "As-tu quelque bien ? Il vivra avec toi, il te dépouillera sans aucun remords."
+  },
+  {
+    "i": 26370,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 6,
+    "t": "A-t-il besoin de toi ? Il t'enjôlera, te fera des sourires et te donnera de l'espoir, il t'adressera de bonnes paroles et dira : \"De quoi as-tu besoin ?\""
+  },
+  {
+    "i": 26371,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 7,
+    "t": "Il t'humiliera au cours de ses festins, jusqu'à te dépouiller par deux et trois fois, et pour finir il se moquera de toi. Puis s'il t'aperçoit il s'écartera de toi en hochant la tête à ton sujet."
+  },
+  {
+    "i": 26372,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 8,
+    "t": "Prends garde de ne pas te laisser séduire, pour ne pas être humilié dans ta sottise."
+  },
+  {
+    "i": 26373,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 9,
+    "t": "Quand un grand t'appelle, dérobe-toi, il t'appellera de plus belle."
+  },
+  {
+    "i": 26374,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 10,
+    "t": "Ne te précipite pas, de peur d'être repoussé ; ne te tiens pas trop loin, de peur d'être oublié."
+  },
+  {
+    "i": 26375,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 11,
+    "t": "Ne t'avise pas d'être familier avec lui, ne te fie pas à sa faconde. Par son verbiage il te met à l'épreuve, comme en se jouant il s'informe."
+  },
+  {
+    "i": 26376,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 12,
+    "t": "Impitoyable est celui qui colporte les propos ; il ne t'épargne ni les coups ni les chaînes."
+  },
+  {
+    "i": 26377,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 13,
+    "t": "Prends garde et fais bien attention, car tu chemines en compagnie de ta propre ruine."
+  },
+  {
+    "i": 26378,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 14,
+    "t": "Quand tu entends cela dans ton sommeil, éveille-toi ; toute ta vie, aime le Seigneur et invoque-le pour ton salut."
+  },
+  {
+    "i": 26379,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 15,
+    "t": "Tout être vivant aime son semblable et tout homme son prochain."
+  },
+  {
+    "i": 26380,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 16,
+    "t": "Toute chair s'accouple selon son espèce et l'homme s'associe à son semblable."
+  },
+  {
+    "i": 26381,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 17,
+    "t": "Comment pourraient s'entendre le loup et l'agneau ? Ainsi en est-il du pécheur et de l'homme pieux."
+  },
+  {
+    "i": 26382,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 18,
+    "t": "Quelle paix peut-il y avoir entre l'hyène et le chien ? Et quelle paix entre le riche et le pauvre ?"
+  },
+  {
+    "i": 26383,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 19,
+    "t": "Les onagres au désert sont le gibier des lions, ainsi les pauvres sont la proie des riches."
+  },
+  {
+    "i": 26384,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 20,
+    "t": "Pour l'orgueilleux l'humilité est une abjection : ainsi le riche a le pauvre en horreur."
+  },
+  {
+    "i": 26385,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 21,
+    "t": "Quand le riche fait un faux pas, ses amis le soutiennent ; quand le malheureux fait une chute, ses amis le rejettent."
+  },
+  {
+    "i": 26386,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 22,
+    "t": "Quand le riche trébuche, beaucoup le reçoivent dans leurs bras, s'il dit des sottises, on lui donne raison. Quand le malheureux trébuche, on lui fait des reproches, s'il dit des choses sensées, il n'y a pas de place pour lui."
+  },
+  {
+    "i": 26387,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 23,
+    "t": "Quand le riche parle, tous se taisent et l'on porte aux nues son discours. Quand le pauvre parle, on dit : \"Qui est-ce ?\" Et s'il achoppe on le jette par terre."
+  },
+  {
+    "i": 26388,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 24,
+    "t": "La richesse est bonne quand elle est sans péché, la pauvreté est mauvaise aux dires de l'impie."
+  },
+  {
+    "i": 26389,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 25,
+    "t": "Le coeur de l'homme modèle son visage soit en bien soit en mal."
+  },
+  {
+    "i": 26390,
+    "b": 45,
+    "c": 4713,
+    "r": 4713,
+    "o": 26,
+    "t": "A coeur en fête, gai visage ; l'invention de proverbe suppose de pénibles réflexions."
+  },
+  {
+    "i": 26391,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 1,
+    "t": "Heureux l'homme qui n'a pas péché en paroles et qui n'est pas tourmenté par le regret de ses fautes."
+  },
+  {
+    "i": 26392,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 2,
+    "t": "Heureux l'homme qui ne se fait pas à lui-même de reproches et qui ne sombre pas dans le désespoir."
+  },
+  {
+    "i": 26393,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 3,
+    "t": "A l'homme mesquin ne sied pas la richesse, et pour l'homme cupide à quoi bon de grands biens ?"
+  },
+  {
+    "i": 26394,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 4,
+    "t": "Qui amasse en se privant amasse pour autrui, de ses biens d'autres se repaîtront."
+  },
+  {
+    "i": 26395,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 5,
+    "t": "Celui qui est dur pour soi-même, pour qui serait-il bon ? Il ne jouit même pas de ses propres biens."
+  },
+  {
+    "i": 26396,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 6,
+    "t": "Il n'y a pas homme plus cruel que celui qui se torture soi-même, c'est là le salaire de sa méchanceté."
+  },
+  {
+    "i": 26397,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 7,
+    "t": "S'il fait du bien, c'est par mégarde, finalement il laisse voir sa méchanceté."
+  },
+  {
+    "i": 26398,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 8,
+    "t": "C'est un méchant, l'homme aux regards cupides, qui détourne les yeux et méprise la vie d'autrui."
+  },
+  {
+    "i": 26399,
+    "b": 45,
+    "c": 4714,
+    "r": 4714,
+    "o": 9,
+    "t": "L'homme jaloux n'est pas content de ce qu'il a, la cupidité dessèche l'âme."
+  }
+]

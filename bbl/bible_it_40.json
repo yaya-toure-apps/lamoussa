@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4000,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 14,
+    "t": "E si levò innanzi la bandiera del campo dei figliuoli di Giuda, secondo le loro schiere; e sopra la sua schiera era Nahshon, figliuolo di Amminadab."
+  },
+  {
+    "i": 4001,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 15,
+    "t": "E sopra la schiera della tribù de' figliuoli d'Issacar era Nethaneel, figliuolo di Suar."
+  },
+  {
+    "i": 4002,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 16,
+    "t": "E sopra la schiera della tribù de' figliuoli di Zabulon era Eliab, figliuolo di Helon."
+  },
+  {
+    "i": 4003,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 17,
+    "t": "Poi smontato il Tabernacolo, i figliuoli di Ghershon, ed i figliuoli di Merari partirono, portando il Tabernacolo."
+  },
+  {
+    "i": 4004,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 18,
+    "t": "Poi si levò la bandiera del campo di Ruben, secondo le loro schiere; e sopra la sua schiera era Elisur, figliuolo di Sedeur."
+  },
+  {
+    "i": 4005,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 19,
+    "t": "E sopra la schiera della tribù de' figliuoli di Simeone era Shelumiel, figliuolo di Surisaddai."
+  },
+  {
+    "i": 4006,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 20,
+    "t": "E sopra la schiera della tribù de' figliuoli di Gad era Eliasaf, figliuolo di Deuel."
+  },
+  {
+    "i": 4007,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 21,
+    "t": "Poi partirono i Coatithi, portando il Santuario; ed intanto che arrivavano, l'altro poneva su il Tabernacolo."
+  },
+  {
+    "i": 4008,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 22,
+    "t": "Poi si levò la bandiera del campo de' figliuoli di Efraim, secondo le loro schiere; e sopra la sua schiera era Elishama, figliuolo di Ammihud."
+  },
+  {
+    "i": 4009,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 23,
+    "t": "E sopra la schiera della tribù de' figliuoli di Manasse era Gamaliel, figliuolo di Pedasur."
+  },
+  {
+    "i": 4010,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 24,
+    "t": "E sopra la schiera della tribù de' figliuoli di Beniamino era Abidan, figliuolo di Ghideoni."
+  },
+  {
+    "i": 4011,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 25,
+    "t": "Poi si levò la bandiera del campo de' figliuoli di Dan, come retroguardia di tutti i campi, secondo le loro schiere; e sopra la sua schiera era Ahiezer, figliuolo di Ammisaddai."
+  },
+  {
+    "i": 4012,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 26,
+    "t": "E sopra la schiera della tribù de' figliuoli di Aser era Paghiel, figliuolo di Ocran."
+  },
+  {
+    "i": 4013,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 27,
+    "t": "E sopra la schiera della tribù de' figliuoli di Neftali era Ahira, figliuolo di Enan."
+  },
+  {
+    "i": 4014,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 28,
+    "t": "Questo era l'ordine per lo partire de' figliuoli d'Israele, secondo le loro schiere; e così partirono."
+  },
+  {
+    "i": 4015,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 29,
+    "t": "E Mosè disse ad Hobab, figliuolo di Reuel, Madianita, suocero di Mosè: Noi ci partiamo per lo luogo, del quale l'Eterno ha detto: Io ve lo darò; vieni con noi, e noi ti faremo del bene; perciocchè l'Eterno ha promesso del bene ad Israele."
+  },
+  {
+    "i": 4016,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 30,
+    "t": "Ed egli gli rispose: Io non vi verrò, ma me ne andrò al mio paese, ed al mio parentado."
+  },
+  {
+    "i": 4017,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 31,
+    "t": "E Mosè disse: Deh! non lasciarci; conciossiachè tu sappia bene come noi ci dobbiam campeggiare nel deserto; perciò, sii tu a noi in vece d'occhi."
+  },
+  {
+    "i": 4018,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 32,
+    "t": "E sarà che, se tu vieni con noi, noi ti faremo del bene, secondo il bene che l'Eterno ci farà."
+  },
+  {
+    "i": 4019,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 33,
+    "t": "Così partirono dal monte dell'Eterno, camminando tre giornate; e l'Arca del patto dell'Eterno andava davanti a loro, per lo spazio di tre giornate, per cercar loro luogo di riposo."
+  },
+  {
+    "i": 4020,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 34,
+    "t": "E la nuvola dell'Eterno era sopra loro di giorno, quando partivano dal campo."
+  },
+  {
+    "i": 4021,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 35,
+    "t": "E quando l'Arca partiva, Mosè diceva: Levati, o Eterno, e sieno dispersi i tuoi nemici, e fuggano d'innanzi a te coloro che ti odiano."
+  },
+  {
+    "i": 4022,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 36,
+    "t": "E quando si posava, diceva: Ritorna, o Eterno, alle miriadi delle migliaia d'Israele."
+  },
+  {
+    "i": 4023,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 1,
+    "t": "OR il popolo si dolse con isdegno appo l'Eterno; e l'Eterno udì; onde l'ira sua si accese, ed il fuoco dell'Eterno arse fra loro, e consumò l'estremità del campo."
+  },
+  {
+    "i": 4024,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 2,
+    "t": "E il popolo gridò a Mosè; e Mosè pregò l'Eterno; ed il fuoco si spense."
+  },
+  {
+    "i": 4025,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 3,
+    "t": "E fu chiamato quel luogo Tabhera; perciocchè il fuoco dell'Eterno era arso fra loro."
+  },
+  {
+    "i": 4026,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 4,
+    "t": "Poi la gente promiscua, ch'era fra loro, si mosse a concupiscenza; e i figliuoli d'Israele altresì tornarono a piagnucolare, e dissero: Chi ci darà carne da mangiare?"
+  },
+  {
+    "i": 4027,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 5,
+    "t": "Noi ci ricordiamo de' pesci che mangiavamo in Egitto a bell'agio, de' cocomeri, de' melloni, de' porri, delle cipolle, e degli agli."
+  },
+  {
+    "i": 4028,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 6,
+    "t": "Ed ora l'anima nostra è seccata; non apparisce nulla ad altro che a questa manna, davanti agli occhi nostri."
+  },
+  {
+    "i": 4029,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 7,
+    "t": "Or la manna era come grano di coriandro, e il suo colore era come color di bdellio."
+  },
+  {
+    "i": 4030,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 8,
+    "t": "Il popolo andava attorno, e la raccoglieva, e la macinava con le macine, ovvero la pestava nel mortajo, e la faceva cuocere nelle pignatte, e ne faceva delle focacce; ed il suo sapore era come sapore di focaccia con olio."
+  },
+  {
+    "i": 4031,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 9,
+    "t": "E quando la rugiada scendeva di notte sopra il campo, la manna scendeva altresì sopra esso."
+  },
+  {
+    "i": 4032,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 10,
+    "t": "E Mosè udì il popolo che piangeva per tutte le sue famiglie, ciascuno all'uscio della sua tenda; onde l'ira dell'Eterno si accese grandemente; e Mosè ne fu disgustato."
+  },
+  {
+    "i": 4033,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 11,
+    "t": "E Mosè disse all'Eterno: Perchè hai tu fatto male al tuo servitore? e perchè non ho io trovata grazia appo te, che tu hai posta sopra me la soma di tutto questo popolo?"
+  },
+  {
+    "i": 4034,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 12,
+    "t": "Ho io forse conceputo tutto questo popolo? l'ho io forse partorito, che tu mi dica: Portalo nel tuo seno, come il nudrice porta il bambino lattante, fino al paese, il qual tu hai giurato a' suoi padri?"
+  },
+  {
+    "i": 4035,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 13,
+    "t": "Donde potrei io aver carne da dare a tutto questo popolo? perciocchè piangono appo me, dicendo: Dacci carne da mangiare."
+  },
+  {
+    "i": 4036,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 14,
+    "t": "Io non posso da me solo portare tutto questo popolo; perciocchè la soma è troppo grave per me."
+  },
+  {
+    "i": 4037,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 15,
+    "t": "E se tu mi hai da far così, deh! uccidimi pure, se io ho trovata grazia appo te; e non vegga più la mia afflizione."
+  },
+  {
+    "i": 4038,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 16,
+    "t": "E l'Eterno disse a Mosè: Adunami settanta uomini degli Anziani d'Israele, i quali tu sai che sono Anziani del popolo, e suoi Ufficiali; e conducili al Tabernacolo della convenenza, ed attendano quivi teco."
+  },
+  {
+    "i": 4039,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 17,
+    "t": "Ed io scenderò, e parlerò quivi teco; e prenderò dello spirito che è sopra te, e lo metterò sopra loro; acciocchè portino teco la soma del popolo, e tu non la porti più tu solo."
+  },
+  {
+    "i": 4040,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 18,
+    "t": "E di' al popolo: Santificatevi per domani, e mangerete carne; perciocchè voi avete pianto nel cospetto dell'Eterno, dicendo: Chi ci darà carne da mangiare? perciocchè noi stavamo bene in Egitto; onde l'Eterno vi darà carne, e voi ne mangerete."
+  },
+  {
+    "i": 4041,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 19,
+    "t": "Voi non ne mangerete un giorno, nè due, nè cinque, nè dieci, nè venti."
+  },
+  {
+    "i": 4042,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 20,
+    "t": "Ma un mese intero, finchè vi esca per le narici, e vi venga a nausea; perciocchè voi avete reietto l'Eterno, che è in mezzo di voi, ed avete pianto davanti a lui, dicendo: Perchè siamo noi usciti fuor d'Egitto?"
+  },
+  {
+    "i": 4043,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 21,
+    "t": "E Mosè disse: Questo popolo, in mezzo al quale io sono, è di seicentomila pedoni; e tu hai detto: Io darò loro carne da mangiare un mese intero."
+  },
+  {
+    "i": 4044,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 22,
+    "t": "Se si scannassero per loro delle gregge, e delle mandre, ne avrebbero essi a bastanza? ovvero, se si adunassero per loro tutti i pesci del mare, ne avrebbero essi a bastanza?"
+  },
+  {
+    "i": 4045,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 23,
+    "t": "E l'Eterno rispose a Mosè: La mano dell'Eterno è ella accorciata? ora vedrai, se la mia parola ti avverrà, ovvero no."
+  },
+  {
+    "i": 4046,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 24,
+    "t": "Mosè adunque uscì, e rapportò al popolo le parole dell'Eterno; poi adunò settanta uomini degli Anziani del popolo, e li fece stare intorno al Tabernacolo."
+  },
+  {
+    "i": 4047,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 25,
+    "t": "E l'Eterno discese nella nuvola, e gli parlò; e prese dello spirito ch'era sopra lui, e lo mise sopra i settanta Anziani; e quando lo spirito si posò sopra loro, profetarono, e non restarono più."
+  },
+  {
+    "i": 4048,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 26,
+    "t": "Or due uomini erano restati nel campo; il nome dell'uno era Eldad, e il nome dell'altro Medad; e lo spirito si posò sopra loro; or essi erano di quelli che erano stati notati; ma non erano usciti fuori al Tabernacolo; e profetavano nel campo."
+  },
+  {
+    "i": 4049,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 27,
+    "t": "E un giovane corse, e rapportò a Mosè, e disse: Eldad e Medad profetano nel campo."
+  },
+  {
+    "i": 4050,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 28,
+    "t": "E Giosuè, figliuolo di Nun, ministro di Mosè fin dalla sua fanciullezza, rispose, e disse: Mosè, signor mio, divietali."
+  },
+  {
+    "i": 4051,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 29,
+    "t": "E Mosè gli disse: Sei tu geloso per me? Oh! foss'egli che tutto il popolo dell'Eterno fosse profeta; e che l'Eterno mettesse sopra loro il suo spirito."
+  },
+  {
+    "i": 4052,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 30,
+    "t": "Poi Mosè si ritrasse nel campo, egli, e gli Anziani d'Israele."
+  },
+  {
+    "i": 4053,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 31,
+    "t": "E l'Eterno fece sorgere un vento, il qual menò delle quaglie dal mare, e le sparse sopra il campo, intorno intorno, per lo spazio d'un giorno di cammino, di qua e di là, ed alte circa due cubiti sopra la faccia della terra."
+  },
+  {
+    "i": 4054,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 32,
+    "t": "E il popolo s'alzò tutto quel giorno, e tutta quella notte, e tutto il giorno seguente, e raccolse le quaglie; e chi ne raccolse meno, ne raccolse dieci homer; e le distesero tutte intorno al campo."
+  },
+  {
+    "i": 4055,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 33,
+    "t": "Mentre la carne era ancora fra i lor denti, e non era ancora stata masticata, l'ira dell'Eterno si accese contro al popolo; e l'Eterno percosse il popolo d'una grandissima piaga."
+  },
+  {
+    "i": 4056,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 34,
+    "t": "E fu chiamato quel luogo Chibrot-hattaava; perciocchè quivi seppellirono il popolo che s'era dato alla concupiscenza."
+  },
+  {
+    "i": 4057,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 35,
+    "t": "Poi il popolo partì da Chibrot-hattaava per Haseroth; e dimorò in Haseroth."
+  },
+  {
+    "i": 4058,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 1,
+    "t": "OR Maria, ed Aaronne parlarono contro a Mosè, a cagione della donna Cusita, la qual egli avea tolta; perciocchè egli avea tolta una donna Cusita."
+  },
+  {
+    "i": 4059,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 2,
+    "t": "E dissero: Ha l'Eterno parlato solamente per Mosè? non ha egli parlato altresì per noi? e l'Eterno udì."
+  },
+  {
+    "i": 4060,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 3,
+    "t": "Or Mosè era uomo sommamente mansueto, più che tutti gli uomini che sono sopra la faccia della terra."
+  },
+  {
+    "i": 4061,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 4,
+    "t": "E l'Eterno disse subitamente a Mosè, ed ad Aaronne, ed a Maria: Uscite voi tre al Tabernacolo della convenenza. Ed uscirono essi tre."
+  },
+  {
+    "i": 4062,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 5,
+    "t": "E l'Eterno discese in una colonna di nuvola, e si fermò all'uscio del Tabernacolo; e chiamò Aaronne e Maria; ed amendue si fecero avanti."
+  },
+  {
+    "i": 4063,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 6,
+    "t": "E disse: Deh! udite le mie parole: se v'è fra voi alcun profeta, io, l'Eterno, mi manifesterò a lui in visione, gli parlerò in sogno."
+  },
+  {
+    "i": 4064,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 7,
+    "t": "Ma non è così del mio servitore Mosè, il quale è fedele in tutta la mia casa."
+  },
+  {
+    "i": 4065,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 8,
+    "t": "Io gli parlo a bocca a bocca, appresso di lui in visione, e non in similitudini; ed egli contempla la figura dell'Eterno; perchè dunque non siete voi stati in timore di parlare contro al mio servitore Mosè?"
+  },
+  {
+    "i": 4066,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 9,
+    "t": "E l'ira dell'Eterno si accese contro a loro; e si partì."
+  },
+  {
+    "i": 4067,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 10,
+    "t": "E la nuvola si ritrasse d'in sul Tabernacolo; ed ecco, Maria era lebbrosa, bianca come neve; ed Aaronne riguardò Maria, ed ecco, ella era lebbrosa."
+  },
+  {
+    "i": 4068,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 11,
+    "t": "Ed Aaronne disse a Mosè: Deh! signor mio, non imputare a noi questo peccato, il quale noi abbiamo follemente commesso, ed in cui abbiamo peccato."
+  },
+  {
+    "i": 4069,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 12,
+    "t": "Deh! non sia ella come quel che nasce morto, il quale, quando esce dal seno di sua madre, ha già la metà delle sue carni consumata."
+  },
+  {
+    "i": 4070,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 13,
+    "t": "Mosè adunque gridò all'Eterno, dicendo: Deh! Dio, sanala, ti prego!"
+  },
+  {
+    "i": 4071,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 14,
+    "t": "E l'Eterno disse a Mosè: Se pure il suo padre le avesse sputato in faccia, non ne sarebbe ella stata vituperevolmente svergognata per sette giorni? sia ella adunque rinchiusa sette giorni fuori del campo; e poi sia ricevuta di nuovo dentro."
+  },
+  {
+    "i": 4072,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 15,
+    "t": "Maria adunque fu rinchiusa sette giorni fuori del campo; e il popolo non partì, finchè Maria non fu ricevuta di nuovo dentro."
+  },
+  {
+    "i": 4073,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 16,
+    "t": "Poi il popolo partì da Haseroth, e si accampò nel deserto di Paran."
+  },
+  {
+    "i": 4074,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 1,
+    "t": "OR l'Eterno parlò a Mosè, dicendo:"
+  },
+  {
+    "i": 4075,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 2,
+    "t": "Manda degli uomini, acciocchè esplorino il paese di Canaan, il qual io do a' figliuoli d'Israele; mandate d'ogni tribù de' padri loro un uomo, ciascuno de' quali sia principe fra loro."
+  },
+  {
+    "i": 4076,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 3,
+    "t": "E Mosè li mandò dal deserto di Paran, per comandamento dell'Eterno; tutti quegli uomini erano capi de' figliuoli d'Israele."
+  },
+  {
+    "i": 4077,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 4,
+    "t": "E questi sono i lor nomi: per la tribù di Ruben, Sammua, figliuolo di Zaccur."
+  },
+  {
+    "i": 4078,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 5,
+    "t": "Per la tribù di Simeone, Safat, figliuolo di Hori."
+  },
+  {
+    "i": 4079,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 6,
+    "t": "Per la tribù di Giuda, Caleb, figliuolo di Iefunne."
+  },
+  {
+    "i": 4080,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 7,
+    "t": "per la tribù di Issacar, Igal, figlio di Giuseppe;"
+  },
+  {
+    "i": 4081,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 8,
+    "t": "per la tribù di Efraim, Osea, figlio di Nun;"
+  },
+  {
+    "i": 4082,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 9,
+    "t": "per la tribù di Beniamino, Palti, figlio di Rafu;"
+  },
+  {
+    "i": 4083,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 10,
+    "t": "per la tribù di Zabulon, Gadiel, figlio di Sodi;"
+  },
+  {
+    "i": 4084,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 11,
+    "t": "per la tribù di Giuseppe, per la tribù di Manasse, Gaddi, figlio di Susi;"
+  },
+  {
+    "i": 4085,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 12,
+    "t": "per la tribù di Dan, Ammiel, figlio di Ghemmalli;"
+  },
+  {
+    "i": 4086,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 13,
+    "t": "per la tribù di Ascer, Setur, figlio di Mikael;"
+  },
+  {
+    "i": 4087,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 14,
+    "t": "per la tribù di Neftali, Nacbi, figlio di Vapsi;"
+  },
+  {
+    "i": 4088,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 15,
+    "t": "per la tribù di Gad, Gheuel, figlio di Machi."
+  },
+  {
+    "i": 4089,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 16,
+    "t": "Questi sono i nomi degli uomini che Mosè mandò a esplorare il paese. E Mosè chiamò Osea, figlio di Nun, Giosuè."
+  },
+  {
+    "i": 4090,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 17,
+    "t": "Mosè li mandò a esplorare il paese di Canaan e disse loro: «Salite nel Neghev e poi salite sulle montagne."
+  },
+  {
+    "i": 4091,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 18,
+    "t": "Osservate che paese è, e se il popolo che lo abita è forte o debole, scarso o numeroso;"
+  },
+  {
+    "i": 4092,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 19,
+    "t": "e com'è il paese dove abita, se buono o cattivo; e come sono le città dove abita, se accampamenti o fortezze;"
+  },
+  {
+    "i": 4093,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 20,
+    "t": "e com'è il terreno, se fertile o sterile, se vi sono alberi o no. Abbiate coraggio e portate con voi dei frutti del paese». Era il tempo delle prime uve."
+  },
+  {
+    "i": 4094,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 21,
+    "t": "Essi dunque salirono ed esplorarono il paese dal deserto di Sin fino a Recob, all'ingresso di Amat."
+  },
+  {
+    "i": 4095,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 22,
+    "t": "Salirono per il Neghev e giunsero fino a Ebron, dove c'erano Achiman, Sesai e Talmai, figli di Anak. (Ebron era stata edificata sette anni prima di Zoan d'Egitto.)"
+  },
+  {
+    "i": 4096,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 23,
+    "t": "Giunsero alla valle di Escol, dove tagliarono un tralcio con un grappolo d'uva, che portarono in due con una stanga, e presero anche delle melagrane e dei fichi."
+  },
+  {
+    "i": 4097,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 24,
+    "t": "Quel luogo fu chiamato valle di Escol, a motivo del grappolo d'uva che gli Israeliti vi avevano tagliato."
+  },
+  {
+    "i": 4098,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 25,
+    "t": "Dopo quaranta giorni tornarono dall'esplorazione del paese."
+  },
+  {
+    "i": 4099,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 26,
+    "t": "Andarono a trovare Mosè, Aaronne e tutta la comunità d'Israele nel deserto di Paran, a Cades, e fecero il loro rapporto a loro e a tutta la comunità, e mostrarono loro i frutti del paese."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 2200,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 6,
+    "t": "Aliejus žvakidei, kvapai patepimo aliejui ir aromatiniams smilkalams;"
+  },
+  {
+    "i": 2201,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 7,
+    "t": "Karnelijos akmenys ir akmenys, skirti įtaisyti į efodą ir antkrūtinį."
+  },
+  {
+    "i": 2202,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 8,
+    "t": "Pastatyk man šventovę, kad galėčiau gyventi tarp jų."
+  },
+  {
+    "i": 2203,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 9,
+    "t": "Visa tai daryk pagal Padangtės modelį ir jos baldų modelį, kuriuos tau parodysiu."
+  },
+  {
+    "i": 2204,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 10,
+    "t": "\"Padaryk skrynią iš akacijos medienos: dvi su puse uolekties ilgio, pusantros uolekties pločio ir pusantros uolekties aukščio."
+  },
+  {
+    "i": 2205,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 11,
+    "t": "Apdėk ją grynu auksu iš vidaus ir iš išorės, ir apdėk ją aukso apvadu aplinkui."
+  },
+  {
+    "i": 2206,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 12,
+    "t": "Išliek jai keturis aukso žiedus ir pritvirtink juos prie keturių jos kojų: du žiedus vienoje pusėje ir du žiedus kitoje."
+  },
+  {
+    "i": 2207,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 13,
+    "t": "Taip pat padaryk kartis iš akacijos medienos ir apdėk jas auksu,"
+  },
+  {
+    "i": 2208,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 14,
+    "t": "ir įverk kartis į žiedus, pritvirtintus prie Skrynios šonų, kad būtų galima ją nešti."
+  },
+  {
+    "i": 2209,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 15,
+    "t": "Kartys turi likti Skrynios žieduose ir nebūti ištrauktos."
+  },
+  {
+    "i": 2210,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 16,
+    "t": "Įdėk į Skrynią Liudijimą, kurį tau duosiu."
+  },
+  {
+    "i": 2211,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 17,
+    "t": "Taip pat padaryk gailestingumo sostą iš gryno aukso: dvi su puse uolekties ilgio ir pusantros uolekties pločio."
+  },
+  {
+    "i": 2212,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 18,
+    "t": "Padaryk du cherubinus iš kalto aukso, padaryk juos abiejuose gailestingumo sosto galuose."
+  },
+  {
+    "i": 2213,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 19,
+    "t": "Padaryk vieną cherubiną viename gale ir kitą cherubiną kitame gale: padaryk cherubinus, sudarančius vieną kūną su gailestingumo sostu, abiejuose jo galuose."
+  },
+  {
+    "i": 2214,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 20,
+    "t": "Cherubinai turės sparnus išskleistus į viršų ir dengs gailestingumo sostą savo sparnais, žiūrėdami vienas į kitą. Cherubinų veidai bus atgręžti į gailestingumo sostą."
+  },
+  {
+    "i": 2215,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 21,
+    "t": "Uždėk gailestingumo sostą ant Skrynios viršaus ir įdėk į Skrynią Liudijimą, kurį tau duosiu."
+  },
+  {
+    "i": 2216,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 22,
+    "t": "Ten aš susitiksiu su tavimi. Nuo gailestingumo sosto, tarp dviejų cherubinų, kurie yra ant Liudijimo Skrynios, aš duosiu tau savo įsakymus Izraelio vaikams."
+  },
+  {
+    "i": 2217,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 23,
+    "t": "\"Padaryk stalą iš akacijos medienos, dvi uolektis ilgio, uolektį pločio ir pusantros uolekties aukščio."
+  },
+  {
+    "i": 2218,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 24,
+    "t": "Apdėk jį grynu auksu ir apdėk jį aukso apvadu aplinkui."
+  },
+  {
+    "i": 2219,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 25,
+    "t": "Aplinkui padaryk jam atramas, vienos delno pločio, ir apdėk atramas aukso apvadu."
+  },
+  {
+    "i": 2220,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 26,
+    "t": "Padaryk jam keturis aukso žiedus ir pritvirtink žiedus prie keturių kampų, suformuotų keturių kojų."
+  },
+  {
+    "i": 2221,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 27,
+    "t": "Žiedai bus padėti šalia atramų, kad laikytų kartis, kuriomis bus nešamas stalas."
+  },
+  {
+    "i": 2222,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 28,
+    "t": "Padaryk kartis iš akacijos medienos ir apdėk jas auksu; jos bus naudojamos stalui nešti."
+  },
+  {
+    "i": 2223,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 29,
+    "t": "Padaryk jo lėkštes, taures, ąsočius ir dubenis gėrimų aukoms; padaryk juos iš gryno aukso,"
+  },
+  {
+    "i": 2224,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 30,
+    "t": "ir visada padėk ant stalo, priešais mane, aukojamus duonos kepalus."
+  },
+  {
+    "i": 2225,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 31,
+    "t": "Padaryk žvakidę iš gryno aukso; žvakidė, jos pagrindas ir stiebas turi būti iškaliami; jos taurės, pumpurai ir žiedai turi sudaryti vieną kūną su ja."
+  },
+  {
+    "i": 2226,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 32,
+    "t": "Šešios šakos turi atsiskirti nuo jos šonų: trys žvakidės šakos vienoje pusėje, trys žvakidės šakos kitoje pusėje."
+  },
+  {
+    "i": 2227,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 33,
+    "t": "Pirmoji šaka turės tris taures migdolo žiedo pavidalo, su pumpuru ir žiedu; antroji šaka taip pat turės tris taures migdolo žiedo pavidalo, su pumpuru ir žiedu; taip bus visoms šešioms šakoms, išeinančioms iš žvakidės."
+  },
+  {
+    "i": 2228,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 34,
+    "t": "Pati žvakidė turės keturias taures migdolo žiedo pavidalo, su pumpuru ir žiedu:"
+  },
+  {
+    "i": 2229,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 35,
+    "t": "vienas pumpuras po pirmomis dviem šakomis, išeinančiomis iš žvakidės, vienas pumpuras po kitomis dviem šakomis ir vienas pumpuras po paskutinėmis dviem šakomis – taigi visoms šešioms šakoms, atsiskiriančioms nuo žvakidės."
+  },
+  {
+    "i": 2230,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 36,
+    "t": "Pumpurai ir šakos turi sudaryti vieną kūną su žvakide ir viskas turi būti padaryta iš vieno gryno aukso bloko, iškalto."
+  },
+  {
+    "i": 2231,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 37,
+    "t": "Tada padaryk jos septynis žibintus. Žibintai turi būti sumontuoti taip, kad apšviestų priešais ją."
+  },
+  {
+    "i": 2232,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 38,
+    "t": "Jos žnyplės ir peleninės turi būti iš gryno aukso."
+  },
+  {
+    "i": 2233,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 39,
+    "t": "Padaryk ją su visais jos priedais iš talento gryno aukso."
+  },
+  {
+    "i": 2234,
+    "b": 1,
+    "c": 225,
+    "r": 225,
+    "o": 40,
+    "t": "Žiūrėk ir daryk pagal modelį, kuris tau parodytas ant kalno."
+  },
+  {
+    "i": 2235,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 1,
+    "t": "\"Padangtę padaryk iš dešimties audeklo juostų iš plonos vytos lino, violetinės, purpurinės ir karmino spalvos. Padaryk jas išsiuvinėtas cherubinais."
+  },
+  {
+    "i": 2236,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 2,
+    "t": "Juostos ilgis bus dvidešimt aštuonios uolektys, jos plotis – keturios uolektys, ir visos juostos turės tą patį dydį."
+  },
+  {
+    "i": 2237,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 3,
+    "t": "Penkios juostos bus sujungiamos viena su kita, o kitos penkios juostos bus sujungiamos viena su kita."
+  },
+  {
+    "i": 2238,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 4,
+    "t": "Padaryk violetines kilpas ant pirmosios juostos krašto, junginio gale, ir padaryk tą patį ant juostos krašto, kuris užbaigia antrąjį junginį."
+  },
+  {
+    "i": 2239,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 5,
+    "t": "Padaryk penkiasdešimt kilpų ant pirmosios juostos ir penkiasdešimt kilpų ant antrojo junginio juostos krašto, kilpos atitiks viena kitą."
+  },
+  {
+    "i": 2240,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 6,
+    "t": "Taip pat padaryk penkiasdešimt auksinių sąsagų ir sujunk juostas viena su kita sąsagomis. Taip Padangtė bus viena visuma."
+  },
+  {
+    "i": 2241,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 7,
+    "t": "Padaryk audeklo juostas iš ožkos vilnos, kad sudarytų palapinę virš Padangtės. Padaryk jų vienuolika."
+  },
+  {
+    "i": 2242,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 8,
+    "t": "Juostos ilgis bus trisdešimt uolekčių, o jos plotis – keturios uolektys; visos vienuolika juostų turės tuos pačius matmenis."
+  },
+  {
+    "i": 2243,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 9,
+    "t": "Su junk penkias juostas vienoje pusėje ir šešias juostas kitoje pusėje ir atlenk šeštąją ant palapinės priekio."
+  },
+  {
+    "i": 2244,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 10,
+    "t": "Padaryk penkiasdešimt kilpų ant pirmosios juostos krašto, pirmojo junginio gale, ir penkiasdešimt kilpų ant antrojo junginio juostos krašto."
+  },
+  {
+    "i": 2245,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 11,
+    "t": "Padaryk penkiasdešimt bronzinių sąsagų ir įverk sąsagas į kilpas, kad sujungtum palapinę, kuri tokiu būdu bus viena visuma."
+  },
+  {
+    "i": 2246,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 12,
+    "t": "Tai, kas nukris pertekliumi nuo palapinės juostų, pusė perteklinės juostos nukris ant Padangtės galo."
+  },
+  {
+    "i": 2247,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 13,
+    "t": "Perteklinė uolektis iš vienos ir kitos pusės, išilgai palapinės juostų, nukris ant Padangtės šonų, iš vienos ir kitos pusės, kad ją apdengtų."
+  },
+  {
+    "i": 2248,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 14,
+    "t": "Padaryk palapinei apdangalą iš avinų kailių, nudažytų raudonai, ir apdangalą iš plonos odos viršuje."
+  },
+  {
+    "i": 2249,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 15,
+    "t": "\"Padaryk Padangtei rėmus iš akacijos medienos, kurie bus pastatyti stačiai."
+  },
+  {
+    "i": 2250,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 16,
+    "t": "Kiekvienas rėmas bus dešimt uolekčių ilgio ir pusantros uolekties pločio."
+  },
+  {
+    "i": 2251,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 17,
+    "t": "Kiekvienas rėmas turės du sujungtus kaiščius; padaryk tą patį visiems Padangtės rėmams."
+  },
+  {
+    "i": 2252,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 18,
+    "t": "Padaryk rėmus Padangtei sudaryti: dvidešimt rėmų pietinei pusei, į pietus."
+  },
+  {
+    "i": 2253,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 19,
+    "t": "Padaryk keturiasdešimt sidabrinių pagrindų po dvidešimčia rėmų: du pagrindus po vienu rėmu jo dviem kaiščiams, du pagrindus po kitu rėmu jo dviem kaiščiams."
+  },
+  {
+    "i": 2254,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 20,
+    "t": "Antroje Padangtės pusėje, šiaurinėje pusėje, bus dvidešimt rėmų,"
+  },
+  {
+    "i": 2255,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 21,
+    "t": "ir keturiasdešimt sidabrinių pagrindų: du pagrindai po vienu rėmu, du pagrindai po kitu rėmu."
+  },
+  {
+    "i": 2256,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 22,
+    "t": "Padangtės galui, į jūros pusę, padaryk šešis rėmus,"
+  },
+  {
+    "i": 2257,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 23,
+    "t": "ir padaryk du rėmus Padangtės galo kampams."
+  },
+  {
+    "i": 2258,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 24,
+    "t": "Rėmai bus sujungti prie jų pagrindo ir tokie liks iki jų viršaus, iki pirmojo žiedo aukščio. Taip bus abiem rėmams, skirtiems abiem kampams."
+  },
+  {
+    "i": 2259,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 25,
+    "t": "Taigi bus aštuoni rėmai su jų sidabriniais pagrindais, tai yra šešiolika pagrindų: du pagrindai po pirmuoju rėmu, du pagrindai po kitu rėmu."
+  },
+  {
+    "i": 2260,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 26,
+    "t": "Padaryk skersinius iš akacijos medienos: penkis Padangtės pirmosios pusės rėmams,"
+  },
+  {
+    "i": 2261,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 27,
+    "t": "penkis skersinius Padangtės antrosios pusės rėmams ir penkis skersinius rėmams, kurie sudaro Padangtės galą, į vakarus."
+  },
+  {
+    "i": 2262,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 28,
+    "t": "Vidurinis skersinis, padėtas pusiaukelėje, sujungs rėmus nuo vieno galo iki kito."
+  },
+  {
+    "i": 2263,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 29,
+    "t": "Apdėk rėmus auksu, padaryk jiems auksinius žiedus, kuriuose bus laikomi skersiniai, ir apdėk skersinius auksu."
+  },
+  {
+    "i": 2264,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 30,
+    "t": "Taigi pastatyk Padangtę pagal modelį, kuris tau buvo parodytas ant kalno."
+  },
+  {
+    "i": 2265,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 31,
+    "t": "\"Padaryk uždangą iš violetinės, purpurinės ir karmino spalvos bei plonos vytos lino, išsiuvinėtą cherubinais."
+  },
+  {
+    "i": 2266,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 32,
+    "t": "Uždėk ją ant keturių akacijos kolonų, apdėtų auksu, su auksiniais kabliais, pastatytų ant keturių sidabrinių pagrindų."
+  },
+  {
+    "i": 2267,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 33,
+    "t": "Padėk uždangą po sąsagomis, ten, už uždangos, įdėk Liudijimo Skrynią, ir uždanga atskirs jums Šventąją vietą nuo Šventų Švenčiausios."
+  },
+  {
+    "i": 2268,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 34,
+    "t": "Padėk gailestingumo sostą ant Liudijimo Skrynios, Šventų Švenčiausioje."
+  },
+  {
+    "i": 2269,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 35,
+    "t": "Pastatyk stalą už uždangos, o žvakidę priešais jį, pietinėje Padangtės pusėje, ir pastatyk stalą šiaurinėje pusėje."
+  },
+  {
+    "i": 2270,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 36,
+    "t": "Padaryk palapinės įėjimui užuolaidą, išsiuvinėtą violetine, purpurine ir karmino spalvomis bei plona vyta lino."
+  },
+  {
+    "i": 2271,
+    "b": 1,
+    "c": 226,
+    "r": 226,
+    "o": 37,
+    "t": "Padaryk šiai užuolaidai penkias akacijos kolonas ir apdėk jas auksu, jų kabliai bus iš aukso, ir išliek joms penkis bronzinius pagrindus."
+  },
+  {
+    "i": 2272,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 1,
+    "t": "\"Padaryk aukurą iš akacijos medienos; penkių uolekčių ilgio ir penkių uolekčių pločio, aukurass bus kvadratinis; jis bus trijų uolekčių aukščio."
+  },
+  {
+    "i": 2273,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 2,
+    "t": "Padaryk prie keturių jo kampų ragus, sudarančius vieną kūną su juo, ir apdėk jį bronza."
+  },
+  {
+    "i": 2274,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 3,
+    "t": "Padaryk jo indus riebalų pelenams pašalinti, jo kastuvus, jo dubenis apšlakstymui, jo šakutes ir jo smilkytuvus. Visus aukuro priedus padaryk iš bronzos."
+  },
+  {
+    "i": 2275,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 4,
+    "t": "Padaryk jam bronzinius grotelius tinklo pavidalu, ir padaryk prie keturių šio tinklo galų keturis bronzinius žiedus."
+  },
+  {
+    "i": 2276,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 5,
+    "t": "Padėk jį po aukuro karnizu, apačioje, taip, kad jis būtų aukuro pusiaukelėje."
+  },
+  {
+    "i": 2277,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 6,
+    "t": "Padaryk kartis aukurui, kartis iš akacijos medienos, ir apdėk jas bronza."
+  },
+  {
+    "i": 2278,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 7,
+    "t": "Kartys bus įveriamos į žiedus, taip, kad kartys būtų abiejose aukuro pusėse, kai jis bus transportuojamas."
+  },
+  {
+    "i": 2279,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 8,
+    "t": "Padaryk jį tuščiavidurį, iš lentų; padaryk jį taip, kaip tau buvo parodyta ant kalno."
+  },
+  {
+    "i": 2280,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 9,
+    "t": "\"Padaryk kiemą Padangtei. Pietų pusėje, į pietus, kiemo užuolaidos iš plonos susuktos drobės bus šimto uolekčių ilgio (pirmai pusei)."
+  },
+  {
+    "i": 2281,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 10,
+    "t": "Jo dvidešimt stulpų ir dvidešimt pagrindų bus iš vario; stulpų kabliukai ir jų skersiniai iš sidabro."
+  },
+  {
+    "i": 2282,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 11,
+    "t": "Taip pat šiaurės pusėje padaryk užuolaidas šimto uolekčių ilgio, dvidešimt stulpų ir jų dvidešimt pagrindų bus iš vario; stulpų kabliukai ir jų skersiniai iš sidabro."
+  },
+  {
+    "i": 2283,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 12,
+    "t": "Kiemo plotis jūros pusėje bus penkiasdešimt uolekčių užuolaidų, su dešimčia stulpų ir dešimčia pagrindų."
+  },
+  {
+    "i": 2284,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 13,
+    "t": "Kiemo plotis rytinėje pusėje, į rytus, bus penkiasdešimt uolekčių."
+  },
+  {
+    "i": 2285,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 14,
+    "t": "Penkiolika uolekčių užuolaidų vienai įėjimo pusei, su trimis stulpais ir trimis pagrindais;"
+  },
+  {
+    "i": 2286,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 15,
+    "t": "antrai įėjimo pusei penkiolika uolekčių užuolaidų, su trimis stulpais ir trimis pagrindais."
+  },
+  {
+    "i": 2287,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 16,
+    "t": "Prie kiemo vartų bus dvidešimt uolekčių damasko užuolaidų, iš purpurinės ir raudonos spalvos, iš karmazino ir plonos susuktos drobės, su keturiais stulpais ir keturiais pagrindais."
+  },
+  {
+    "i": 2288,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 17,
+    "t": "Visi stulpai aplink kiemą bus sujungti sidabriniais skersiniais; jų kabliukai bus iš sidabro, o pagrindai iš vario."
+  },
+  {
+    "i": 2289,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 18,
+    "t": "Kiemo ilgis bus šimtas uolekčių, jo plotis penkiasdešimt uolekčių, o aukštis penki uolektys. Visos užuolaidos bus iš plonos susuktos drobės, o jų pagrindai iš vario."
+  },
+  {
+    "i": 2290,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 19,
+    "t": "Visi reikmenys bendram Padangtės aptarnavimui, visi jos kuolai ir kiemo kuolai bus iš vario."
+  },
+  {
+    "i": 2291,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 20,
+    "t": "\"O tu įsakysi Izraelitams pristatyti tau alyvuogių aliejaus šviestuvui, kad lempa nuolat degtų."
+  },
+  {
+    "i": 2292,
+    "b": 1,
+    "c": 227,
+    "r": 227,
+    "o": 21,
+    "t": "Aaronas ir jo sūnūs pastatys šią lempą Susitikimo palapinėje, už uždangos, kabančios priešais Liudijimą, kad ji degtų nuo vakaro iki ryto prieš Viešpatį. Tai bus amžinas įstatymas Izraelitų kartoms."
+  },
+  {
+    "i": 2293,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 1,
+    "t": "\"O tu pritrauk prie savęs Aaroną, savo brolį, ir jo sūnus iš Izraelitų, kad jis eitų mano kunigo pareigas: Aaroną, Nadabą ir Abihu, Eleazarą ir Itamarą, Aarono sūnus."
+  },
+  {
+    "i": 2294,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 2,
+    "t": "Padaryk Aaronui, savo broliui, šventus drabužius, kurie jam suteiks šlovingą puošmeną."
+  },
+  {
+    "i": 2295,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 3,
+    "t": "Kreipkis į visus sumanius vyrus, kuriuos apdovanojau sumanumus, ir jie padarys Aarono drabužius, kad jis būtų pašventintas eiti mano kunigo pareigas."
+  },
+  {
+    "i": 2296,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 4,
+    "t": "Štai drabužiai, kuriuos jie padarys: antkrūtinį, efodą, apsiaustą ir išsiuvinėtą tuniką, turbaną ir juostą. Jie padarys šventus drabužius tavo broliui Aaronui ir jo sūnums, kad jie eitų mano kunigo pareigas."
+  },
+  {
+    "i": 2297,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 5,
+    "t": "Jie paims auksą, purpurinę ir raudoną spalvą, karmaziną ir ploną drobę."
+  },
+  {
+    "i": 2298,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 6,
+    "t": "\"Jie padarys efodą, išsiuvinėtą auksu, purpurine ir raudona spalva, karmazinu ir plona susukta drobe."
+  },
+  {
+    "i": 2299,
+    "b": 1,
+    "c": 228,
+    "r": 228,
+    "o": 7,
+    "t": "Dvi petnešos bus prie jo pritvirtintos: jis bus pritvirtintas prie jo abiem kraštais."
+  }
+]

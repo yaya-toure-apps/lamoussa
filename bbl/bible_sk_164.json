@@ -1,0 +1,802 @@
+[
+  {
+    "i": 16400,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 14,
+    "t": "Hospodin podopiera všetkých, ktorí klesajú, a pozdvihuje všetkých zohnutých."
+  },
+  {
+    "i": 16401,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 15,
+    "t": "Oči všetkých hľadia na Teba s nádejou, a Ty im dávaš pokrm v pravý čas."
+  },
+  {
+    "i": 16402,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 16,
+    "t": "Otvoríš svoju ruku a nasýtiš všetko živé podľa vôle."
+  },
+  {
+    "i": 16403,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 17,
+    "t": "Hospodin je spravodlivý vo všetkých svojich cestách a milostivý vo všetkých svojich skutkoch."
+  },
+  {
+    "i": 16404,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 18,
+    "t": "Blízky je Hospodin všetkým, ktorí Ho vzývajú, všetkým, ktorí Ho vzývajú v pravde."
+  },
+  {
+    "i": 16405,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 19,
+    "t": "Túžbu tých, ktorí sa Ho boja, plní, ich volanie počuje a zachraňuje ich."
+  },
+  {
+    "i": 16406,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 20,
+    "t": "Hospodin ochraňuje všetkých, ktorí Ho milujú, a všetkých bezbožných zničí."
+  },
+  {
+    "i": 16407,
+    "b": 18,
+    "c": 2045,
+    "r": 2045,
+    "o": 21,
+    "t": "Nech moje ústa hovoria chválu Hospodinovu a všetko telo nech zvelebí Jeho sväté meno naveky vekov!"
+  },
+  {
+    "i": 16408,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 1,
+    "t": "Haleluja! Chváľ Hospodina, moja duša!"
+  },
+  {
+    "i": 16409,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 2,
+    "t": "Chcem chváliť Hospodina, kým žijem, chcem hrať svojmu Bohu, kým trvám."
+  },
+  {
+    "i": 16410,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 3,
+    "t": "Nevkladajte svoju dôveru do kniežat, do syna zeme, on nemôže zachrániť!"
+  },
+  {
+    "i": 16411,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 4,
+    "t": "Vráti sa jeho duch, navráti sa do svojej zeme, v ten deň zahynú jeho plány."
+  },
+  {
+    "i": 16412,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 5,
+    "t": "Blahoslavený, kto má oporu v Bohu Jakobovom a svoju nádej v Hospodinovi, svojom Bohu,"
+  },
+  {
+    "i": 16413,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 6,
+    "t": "ktorý stvoril nebo a zem, more a všetko, čo je v nich! On zachováva pravdu naveky,"
+  },
+  {
+    "i": 16414,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 7,
+    "t": "On dáva spravodlivosť utláčaným, dáva hladným chlieb, Hospodin uvoľňuje spútaných."
+  },
+  {
+    "i": 16415,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 8,
+    "t": "Hospodin otvára oči slepým, Hospodin pozdvihuje zohnutých, Hospodin miluje spravodlivých,"
+  },
+  {
+    "i": 16416,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 9,
+    "t": "Hospodin ochraňuje cudzinca, podporuje sirotu a vdovu. Ale obracia cestu bezbožných,"
+  },
+  {
+    "i": 16417,
+    "b": 18,
+    "c": 2046,
+    "r": 2046,
+    "o": 10,
+    "t": "Hospodin kraľuje naveky, tvoj Boh, ó, Sion, z pokolenia na pokolenie."
+  },
+  {
+    "i": 16418,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 1,
+    "t": "Haleluja! Chváľte Hospodina — je dobré spievať, nášmu Bohu — sladká je chvála."
+  },
+  {
+    "i": 16419,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 2,
+    "t": "Staviteľ Jeruzalema, Hospodin! zhromažďuje vyhnancov Izraela,"
+  },
+  {
+    "i": 16420,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 3,
+    "t": "On uzdravuje zlomené srdcia a obväzuje ich rany;"
+  },
+  {
+    "i": 16421,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 4,
+    "t": "ktorý počíta počet hviezd a každú volá jej menom."
+  },
+  {
+    "i": 16422,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 5,
+    "t": "Veľký je náš Pán, všemohúci, Jeho múdrosť je nezmerateľná."
+  },
+  {
+    "i": 16423,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 6,
+    "t": "Hospodin podopiera pokorných, až na zem ponižuje bezbožných."
+  },
+  {
+    "i": 16424,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 7,
+    "t": "Spievajte Hospodinovi vzdávanie vďaky, hrajte nášmu Bohu na harfe:"
+  },
+  {
+    "i": 16425,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 8,
+    "t": "On zahaluje nebesá oblakmi, pripravuje dážď zemi, dáva rásť tráve na vrchoch a rastlinám na úžitok človeka,"
+  },
+  {
+    "i": 16426,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 9,
+    "t": "ktorý dáva dobytku jeho potravu, malým havranom, ktorí kričia."
+  },
+  {
+    "i": 16427,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 10,
+    "t": "Ani sila koňa sa Mu nepáči, ani noha muža Ho neteší;"
+  },
+  {
+    "i": 16428,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 11,
+    "t": "Hospodin nachádza záľubu v tých, ktorí sa Ho boja, v tých, ktorí dúfajú v Jeho milosť."
+  },
+  {
+    "i": 16429,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 12,
+    "t": "Sláv Hospodina, Jeruzalem, chváľ svojho Boha, ó, Sion!"
+  },
+  {
+    "i": 16430,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 13,
+    "t": "On posilnil závory tvojich brán, požehnal tvoje deti v tebe;"
+  },
+  {
+    "i": 16431,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 14,
+    "t": "zabezpečuje tvoju zem v pokoji, sýti ťa tukom pšenice."
+  },
+  {
+    "i": 16432,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 15,
+    "t": "Posiela svoje slovo na zem, rýchlo beží Jeho reč;"
+  },
+  {
+    "i": 16433,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 16,
+    "t": "On dáva sneh ako vlnu, rozsýpa mráz ako popol."
+  },
+  {
+    "i": 16434,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 17,
+    "t": "Hádže svoj ľad po kúskoch: pred Jeho chladom kto obstojí?"
+  },
+  {
+    "i": 16435,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 18,
+    "t": "Posiela svoje slovo a topí ich, veje Jeho vietor, vody plynú."
+  },
+  {
+    "i": 16436,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 19,
+    "t": "Zjavuje Jakubovi svoje slovo, svoje zákony a súdy Izraelu;"
+  },
+  {
+    "i": 16437,
+    "b": 18,
+    "c": 2047,
+    "r": 2047,
+    "o": 20,
+    "t": "ani jednému národu tak neurobil, žiadny nepozná Jeho súdy."
+  },
+  {
+    "i": 16438,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 1,
+    "t": "Haleluja! Chváľte Hospodina z nebies, chváľte Ho vo výsostiach,"
+  },
+  {
+    "i": 16439,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 2,
+    "t": "chváľte Ho, všetci Jeho anjeli, chváľte Ho, všetky Jeho zástupy!"
+  },
+  {
+    "i": 16440,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 3,
+    "t": "Chváľte Ho, slnko a mesiac, chváľte Ho, všetky hviezdy svetla,"
+  },
+  {
+    "i": 16441,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 4,
+    "t": "chváľte Ho, nebesia nebies, i vody nad nebesami!"
+  },
+  {
+    "i": 16442,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 5,
+    "t": "Nech chvália meno Hospodinovo: lebo On prikázal a boli stvorené;"
+  },
+  {
+    "i": 16443,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 6,
+    "t": "On ich postavil naveky a navždy, dal zákon, ktorý nepominie."
+  },
+  {
+    "i": 16444,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 7,
+    "t": "Chváľte Hospodina zo zeme, morské obludy a všetky hlbiny,"
+  },
+  {
+    "i": 16445,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 8,
+    "t": "oheň a ľadovec, sneh a hmla, víchor, ktorý plní Jeho slovo,"
+  },
+  {
+    "i": 16446,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 9,
+    "t": "hory a všetky pahorky, ovocné stromy a všetky cédre,"
+  },
+  {
+    "i": 16447,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 10,
+    "t": "divá zver a všetok dobytok, plaz a lietajúci vták,"
+  },
+  {
+    "i": 16448,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 11,
+    "t": "králi zeme a všetky národy, kniežatá a všetci sudcovia zeme,"
+  },
+  {
+    "i": 16449,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 12,
+    "t": "mládenci a panny, starci s deťmi!"
+  },
+  {
+    "i": 16450,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 13,
+    "t": "Nech chvália meno Hospodinovo: vznešené je Jeho meno, On jediný, Jeho majestát prevyšuje zem i nebo!"
+  },
+  {
+    "i": 16451,
+    "b": 18,
+    "c": 2048,
+    "r": 2048,
+    "o": 14,
+    "t": "On zveľadil silu svojho ľudu, slávu pre všetkých svojich svätých, pre synov Izraela, ľud Mu blízky."
+  },
+  {
+    "i": 16452,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 1,
+    "t": "Haleluja! Spievajte Hospodinovi novú pieseň: Jeho chválu v zhromaždení svätých!"
+  },
+  {
+    "i": 16453,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 2,
+    "t": "Nech sa Izrael raduje zo svojho Stvoriteľa, nech sa synovia Siona veseia vo svojom Kráľovi,"
+  },
+  {
+    "i": 16454,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 3,
+    "t": "nech chvália Jeho meno tancom, nech Mu hrajú na harfe a bubne!"
+  },
+  {
+    "i": 16455,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 4,
+    "t": "Lebo Hospodin má záľubu vo svojom ľude, spásou zdobí pokorných,"
+  },
+  {
+    "i": 16456,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 5,
+    "t": "nech Jeho svätí jasajú v sláve, nech plesajú na svojich lôžkach:"
+  },
+  {
+    "i": 16457,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 6,
+    "t": "chvály Božie v ich hrdlách a v ich rukách meč s dvoma ostrými hranami,"
+  },
+  {
+    "i": 16458,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 7,
+    "t": "aby vykonali pomstu na národoch, trest na ľuďoch,"
+  },
+  {
+    "i": 16459,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 8,
+    "t": "aby zviazali ich kráľov reťazami, ich slávnych železnými putami,"
+  },
+  {
+    "i": 16460,
+    "b": 18,
+    "c": 2049,
+    "r": 2049,
+    "o": 9,
+    "t": "aby na nich vykonali napísaný súd: sláva to bude pre všetkých Jeho svätých!"
+  },
+  {
+    "i": 16461,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 1,
+    "t": "Haleluja! Chváľte Boha v Jeho svätyni, chváľte Ho na oblohe Jeho moci,"
+  },
+  {
+    "i": 16462,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 2,
+    "t": "chváľte Ho pre Jeho mocné skutky, chváľte Ho pre Jeho nesmiernu veľkosť!"
+  },
+  {
+    "i": 16463,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 3,
+    "t": "Chváľte Ho zvukom trúby, chváľte Ho harfou a citarou,"
+  },
+  {
+    "i": 16464,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 4,
+    "t": "chváľte Ho tancom a bubnom, chváľte Ho strunami a flautami,"
+  },
+  {
+    "i": 16465,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 5,
+    "t": "chváľte Ho zvučnými cimbalmi, chváľte Ho víťaznými cimbalmi!"
+  },
+  {
+    "i": 16466,
+    "b": 18,
+    "c": 2050,
+    "r": 2050,
+    "o": 6,
+    "t": "Všetko, čo dýcha, nech chváli Hospodina!"
+  },
+  {
+    "i": 16467,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 1,
+    "t": "Príslovia Šalamúna, syna Dávidovho, kráľa izraelského:"
+  },
+  {
+    "i": 16468,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 2,
+    "t": "aby ste poznali múdrosť a výchovu, aby ste pochopili hlboké reči,"
+  },
+  {
+    "i": 16469,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 3,
+    "t": "aby ste získali rozumnú výchovu — spravodlivosť, právo, poctivosť —"
+  },
+  {
+    "i": 16470,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 4,
+    "t": "aby ste dali jednoduchým rozumnosť, mladému mužovi poznanie a rozvahu,"
+  },
+  {
+    "i": 16471,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 5,
+    "t": "múdry nech počúva a získa ešte viac, a rozumný nech získa umenie viesť."
+  },
+  {
+    "i": 16472,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 6,
+    "t": "Aby ste pochopili príslovia a temné reči, slová múdrych a ich hádanky."
+  },
+  {
+    "i": 16473,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 7,
+    "t": "Bázeň pred Hospodinom je počiatok poznania: blázni pohŕdajú múdrosťou a výchovou."
+  },
+  {
+    "i": 16474,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 8,
+    "t": "Počúvaj, syn môj, otcovo poučenie, neopúšťaj matkino učenie:"
+  },
+  {
+    "i": 16475,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 9,
+    "t": "je to veniec pôvabu pre tvoju hlavu, náhrdelník pre tvoj krk."
+  },
+  {
+    "i": 16476,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 10,
+    "t": "Syn môj, ak ťa hriešnici budú zvádzať, nechoď s nimi!"
+  },
+  {
+    "i": 16477,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 11,
+    "t": "Ak povedia: „Poď s nami, číhajme na krv, bez príčiny striehnime na nevinného;"
+  },
+  {
+    "i": 16478,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 12,
+    "t": "pohltíme ich zaživa ako podsvetie, celých, ako tých, ktorí zostupujú do jamy!"
+  },
+  {
+    "i": 16479,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 13,
+    "t": "Nájdeme všelijaké cennosti, naplníme naše domy korisťou;"
+  },
+  {
+    "i": 16480,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 14,
+    "t": "los s nami budeš mať podiel, všetci budeme mať spoločnú pokladnicu!"
+  },
+  {
+    "i": 16481,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 15,
+    "t": "Syn môj, nechoď s nimi cestou ich, odvráť nohu svoju od chodníka ich,"
+  },
+  {
+    "i": 16482,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 16,
+    "t": "lebo nohy ich bežia k zlému a ponáhľajú sa prelievať krv,"
+  },
+  {
+    "i": 16483,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 17,
+    "t": "lebo nadarmo sa rozprestiera sieť pred očami všetkého vtáctva."
+  },
+  {
+    "i": 16484,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 18,
+    "t": "Oni sami si číhajú na svoju krv, proti sebe samým si robia nástrahy,"
+  },
+  {
+    "i": 16485,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 19,
+    "t": "také sú cesty každého, kto sa lačne ženie za ziskom; zbavuje života tých, ktorí ho obývajú."
+  },
+  {
+    "i": 16486,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 20,
+    "t": "Múdrosť volá na ulici, na námestiach dvíha svoj hlas;"
+  },
+  {
+    "i": 16487,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 21,
+    "t": "na rohu križovatiek kričí, pri bránach, v meste hovorí svoje slová:"
+  },
+  {
+    "i": 16488,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 22,
+    "t": "Dokedy, hlúpi, budete milovať hlúposť? A posmievači sa budú kochať posmievaním? A blázni nenávidieť poznanie?"
+  },
+  {
+    "i": 16489,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 23,
+    "t": "Obráťte sa k môjmu karhaniu, a hľa, vylejem na vás svojho ducha a oznámim vám svoje slová."
+  },
+  {
+    "i": 16490,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 24,
+    "t": "Pretože som volala a vy ste odmietli, vystrela som svoju ruku, a nikto si nevšímal,"
+  },
+  {
+    "i": 16491,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 25,
+    "t": "ale ste pohrdli celou mojou radou a nechceli ste moje karhanie,"
+  },
+  {
+    "i": 16492,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 26,
+    "t": "preto aj ja sa budem smiať vašej skaze, budem sa posmievať, keď na vás príde hrôza,"
+  },
+  {
+    "i": 16493,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 27,
+    "t": "keď na vás príde hrôza ako búrka a vaša skaza sa privalí ako víchrica, keď na vás doľahne súženie a tieseň."
+  },
+  {
+    "i": 16494,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 28,
+    "t": "Vtedy ma budú volať, ale neodpoviem, budú ma hľadať, ale nenájdu ma,"
+  },
+  {
+    "i": 16495,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 29,
+    "t": "pretože nenávideli poznanie a nevybrali si bázeň pred Hospodinom,"
+  },
+  {
+    "i": 16496,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 30,
+    "t": "nechceli moju radu, pohrdli všetkým mojím karhaním,"
+  },
+  {
+    "i": 16497,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 31,
+    "t": "preto budú jesť ovocie svojich ciest a nasýtia sa svojimi radami!"
+  },
+  {
+    "i": 16498,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 32,
+    "t": "Lebo spupnosť hlúpych ich zabije a ľahostajnosť bláznov ich zahubí,"
+  },
+  {
+    "i": 16499,
+    "b": 19,
+    "c": 2101,
+    "r": 2101,
+    "o": 33,
+    "t": "ale kto mňa poslúcha, bude bývať v bezpečí a bude pokojný, nebojac sa zlého."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "i": 100,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 21,
+    "t": "Jo brolio vardas buvo Jubalas; jisai buvo visų arfų ir dūdų tėvas, kas jomis groja."
+  },
+  {
+    "i": 101,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 22,
+    "t": "O Cila pagimdė Tubalkainą, visų vario ir geležies kalvių tėvą; Tubalkaino sesuo buvo Naama."
+  },
+  {
+    "i": 102,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 23,
+    "t": "Lamechas tarė savo moterims: „Ada ir Cila, išgirskite mano balsą, Lamecho moterys, įsiklausykite į mano žodį: Aš nužudžiau vyrą už sužeidimą, jaunuolį už sumušimą.“"
+  },
+  {
+    "i": 103,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 24,
+    "t": "Jei Kainas bus atkeršytas septynis kartus, tai Lamechas – septyniasdešimt septynis kartus!“"
+  },
+  {
+    "i": 104,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 25,
+    "t": "Adomas pažino savo žmoną, ir ji pagimdė sūnų, ir pavadino jį Setu, „nes Dievas man paskyrė kitą palikuonį vietoj Abelio, kurį Kainas nužudė.“"
+  },
+  {
+    "i": 105,
+    "b": 0,
+    "c": 104,
+    "r": 104,
+    "o": 26,
+    "t": "Setui taip pat gimė sūnus, ir jis pavadino jį Enosas. Tuomet pradėta šauktis Viešpaties vardo."
+  },
+  {
+    "i": 106,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 1,
+    "t": "Štai Adomo giminės knyga: tą dieną, kai Dievas sukūrė Adomą, jis jį padarė panašų į Dievą."
+  },
+  {
+    "i": 107,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 2,
+    "t": "Vyrą ir moterį jis juos sukūrė, palaimino ir pavadino juos „Žmogumi“ tą dieną, kai jie buvo sukurti."
+  },
+  {
+    "i": 108,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 3,
+    "t": "Kai Adomui buvo metai, jis pagimdė sūnų, panašų į save, pagal savo atvaizdą, ir pavadino jį Setu."
+  },
+  {
+    "i": 109,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 4,
+    "t": "Po Seto gimimo Adomas gyveno aštuonis šimtus metų ir pagimdė sūnų ir dukterų."
+  },
+  {
+    "i": 110,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 5,
+    "t": "Visos Adomo gyvenimo dienos buvo devyni šimtai trisdešimt metų, ir jis mirė."
+  },
+  {
+    "i": 111,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 6,
+    "t": "Kai Setui buvo metai, jis pagimdė Enosą."
+  },
+  {
+    "i": 112,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 7,
+    "t": "Po Enoso gimimo Setas gyveno metus ir pagimdė sūnų ir dukterų."
+  },
+  {
+    "i": 113,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 8,
+    "t": "Visos Seto gyvenimo dienos buvo metai, ir jis mirė."
+  },
+  {
+    "i": 114,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 9,
+    "t": "Kai Enosui buvo devyniasdešimt metų, jis pagimdė Kenaną."
+  },
+  {
+    "i": 115,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 10,
+    "t": "Po Kenano gimimo Enosas gyveno metus ir pagimdė sūnų ir dukterų."
+  },
+  {
+    "i": 116,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 11,
+    "t": "Visos Enoso gyvenimo dienos buvo metai, ir jis mirė."
+  },
+  {
+    "i": 117,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 12,
+    "t": "Kai Kenanui buvo septyniasdešimt metų, jis pagimdė Mahalalelį."
+  },
+  {
+    "i": 118,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 13,
+    "t": "Po Mahalalelio gimimo Kenanas gyveno metus ir pagimdė sūnų ir dukterų."
+  },
+  {
+    "i": 119,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 14,
+    "t": "Visos Kenano gyvenimo dienos buvo metai, ir jis mirė."
+  },
+  {
+    "i": 120,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 15,
+    "t": "Kai Mahalaleliui buvo šešiasdešimt penkeri metai, jis pagimdė Jaredą."
+  },
+  {
+    "i": 121,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 16,
+    "t": "Po Jaredo gimimo Mahalalelis gyveno metus ir pagimdė sūnų ir dukterų."
+  },
+  {
+    "i": 122,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 17,
+    "t": "Visos Mahalalelio gyvenimo dienos buvo aštuoni šimtai aštuoniasdešimt penkeri metai, ir jis mirė."
+  },
+  {
+    "i": 123,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 18,
+    "t": "Kai Jaredui buvo šimtas šešiasdešimt dvejų metų, jis pagimdė Henochą."
+  },
+  {
+    "i": 124,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 19,
+    "t": "Po Henocho gimimo Jaredas gyveno aštuonis šimtus metų ir pagimdė sūnų ir dukterų."
+  },
+  {
+    "i": 125,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 20,
+    "t": "Visos Jaredo gyvenimo dienos buvo metai, ir jis mirė."
+  },
+  {
+    "i": 126,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 21,
+    "t": "Kai Henochui buvo šešiasdešimt penkeri metai, jis pagimdė Metušelą."
+  },
+  {
+    "i": 127,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 22,
+    "t": "Henochas vaikščiojo su Dievu. Po Metušelos gimimo Henochas gyveno tris šimtus metų ir pagimdė sūnų ir dukterų."
+  },
+  {
+    "i": 128,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 23,
+    "t": "Visos Henocho gyvenimo dienos buvo metai."
+  },
+  {
+    "i": 129,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 24,
+    "t": "Henochas vaikščiojo su Dievu, ir jo nebeliko, nes Dievas jį pasiėmė."
+  },
+  {
+    "i": 130,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 25,
+    "t": "Kai Metušelai buvo metai, jis pagimdė Lamechą."
+  },
+  {
+    "i": 131,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 26,
+    "t": "Po Lamecho gimimo Metušela gyveno metus ir pagimdė sūnų ir dukterų."
+  },
+  {
+    "i": 132,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 27,
+    "t": "Visos Metušelos gyvenimo dienos buvo metai, ir jis mirė."
+  },
+  {
+    "i": 133,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 28,
+    "t": "Kai Lamechui buvo metai, jis pagimdė sūnų."
+  },
+  {
+    "i": 134,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 29,
+    "t": "Ir pavadino jį Nojumi, sakydamas: „Šis mus paguos mūsų darbe ir mūsų rankų triūse dėl žemės, kurią Viešpats prakeikė.“"
+  },
+  {
+    "i": 135,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 30,
+    "t": "Po Nojaus gimimo Lamechas gyveno penkis šimtus devyniasdešimt penkerius metus ir pagimdė sūnų ir dukterų."
+  },
+  {
+    "i": 136,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 31,
+    "t": "Visos Lamecho gyvenimo dienos buvo septyni šimtai septyniasdešimt septyneri metai, ir jis mirė."
+  },
+  {
+    "i": 137,
+    "b": 0,
+    "c": 105,
+    "r": 105,
+    "o": 32,
+    "t": "Kai Nojui buvo penki šimtai metų, jis pagimdė Semą, Chamą ir Jafetą."
+  },
+  {
+    "i": 138,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 1,
+    "t": "Kai žmonės pradėjo daugintis žemės paviršiuje ir jiems gimė dukterų,"
+  },
+  {
+    "i": 139,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 2,
+    "t": "Dievo sūnūs pamatė, kad žmonių dukterys gražios, ir ėmė sau žmonomis tas, kurias pasirinko."
+  },
+  {
+    "i": 140,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 3,
+    "t": "Viešpats tarė: „Mano dvasia nepasiliks amžinai žmoguje, nes jis yra kūnas; jo gyvenimas tesis tik šimtą dvidešimt metų.“"
+  },
+  {
+    "i": 141,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 4,
+    "t": "Nephilimai buvo žemėje tais laikais (ir vėliau), kai Dievo sūnūs sueidavo su žmonių dukterimis ir jos jiems gimdydavo vaikus; jie buvo senovės didvyriai, garsūs vyrai."
+  },
+  {
+    "i": 142,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 5,
+    "t": "Viešpats matė, kad žmonių nedorumas didelis žemėje ir kad visos jų širdies mintys ir sumanymai nuolat pikti."
+  },
+  {
+    "i": 143,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 6,
+    "t": "Viešpats gailėjosi, kad sukūrė žmogų žemėje, ir jam skaudėjo širdį."
+  },
+  {
+    "i": 144,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 7,
+    "t": "Ir Viešpats tarė: „Išnaikinsiu nuo žemės paviršiaus žmones, kuriuos sukūriau, – kartu su žmonėmis gyvulius, roplius ir dangaus paukščius, – nes gailiuosi juos sukūręs.“"
+  },
+  {
+    "i": 145,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 8,
+    "t": "Bet Nojus rado malonę Viešpaties akyse."
+  },
+  {
+    "i": 146,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 9,
+    "t": "Štai Nojaus istorija: Nojus buvo teisus žmogus, nepriekaištingas savo kartoje, ir vaikščiojo su Dievu."
+  },
+  {
+    "i": 147,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 10,
+    "t": "Nojus pagimdė tris sūnus: Semą, Chamą ir Jafetą."
+  },
+  {
+    "i": 148,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 11,
+    "t": "Žemė sugedo Dievo akyse ir prisipildė smurto."
+  },
+  {
+    "i": 149,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 12,
+    "t": "Dievas matė žemę, ir štai ji sugedusi, nes visi kūnai žemėje sugedo."
+  },
+  {
+    "i": 150,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 13,
+    "t": "Dievas tarė Nojui: „Visų kūrinių galas atėjo prieš mane, nes žemė prisipildė smurto dėl jų, ir aš sunaikinsiu juos kartu su žeme."
+  },
+  {
+    "i": 151,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 14,
+    "t": "Pasidaryk sau skrynią iš gofermedžio; skirsniais padaryk skrynią ir aptepk ją derva iš vidaus ir iš išorės."
+  },
+  {
+    "i": 152,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 15,
+    "t": "Štai kaip tu ją darysi: trys šimtai uolekčių bus skrynios ilgis, penkiasdešimt uolekčių – jos plotis ir trisdešimt uolekčių – jos aukštis."
+  },
+  {
+    "i": 153,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 16,
+    "t": "Padaryk skryniai stogą ir užbaik ją uolekčia aukščiau; skrynios duris įstatyk šone ir padaryk pirmą, antrą ir trečią aukštus."
+  },
+  {
+    "i": 154,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 17,
+    "t": "Aš užleisiu žemę tvanu, kad sunaikinčiau po dangumi visus kūnus, turinčius gyvybės alsavimą; visa, kas yra žemėje, žus."
+  },
+  {
+    "i": 155,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 18,
+    "t": "Bet su tavimi aš sudarysiu sandorą, ir tu įeisi į skrynią: tu ir tavo sūnūs, tavo žmona ir tavo sūnų žmonos su tavimi."
+  },
+  {
+    "i": 156,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 19,
+    "t": "Iš visų gyvų būtybių, iš visų kūnų, įvesk į skrynią po du iš kiekvienos rūšies, kad išlaikytum juos gyvus su savimi; tebūna patinas ir patelė."
+  },
+  {
+    "i": 157,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 20,
+    "t": "Iš kiekvienos paukščių rūšies, iš kiekvienos gyvulių rūšies, iš kiekvienos žemės roplių rūšies po porą ateis pas tave, kad išlaikytum juos gyvus."
+  },
+  {
+    "i": 158,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 21,
+    "t": "Tu pasiimk su savimi visokių valgomų daiktų ir sukaupk atsargas, kad būtų maisto tau ir jiems.“"
+  },
+  {
+    "i": 159,
+    "b": 0,
+    "c": 106,
+    "r": 106,
+    "o": 22,
+    "t": "Nojus taip ir padarė; viską, ką Dievas jam įsakė, jis įvykdė."
+  },
+  {
+    "i": 160,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 1,
+    "t": "Viešpats tarė Nojui: „Įeik į skrynią, tu ir visa tavo šeima, nes mačiau, kad tu esi vienintelis teisus mano akyse šioje kartoje."
+  },
+  {
+    "i": 161,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 2,
+    "t": "Iš visų švarių gyvulių paimk po septynias poras, patiną ir patelę; iš nešvarių gyvulių paimk po vieną porą, patiną ir patelę,"
+  },
+  {
+    "i": 162,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 3,
+    "t": "(ir taip pat iš dangaus paukščių po septynias poras, patiną ir patelę), kad išlaikytum gyvą jų veislę visoje žemėje."
+  },
+  {
+    "i": 163,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 4,
+    "t": "Nes po septynių dienų aš leisdamas lisčiu ant žemės keturiasdešimt dienų ir keturiasdešimt naktų ir išnaikinsiu nuo žemės paviršiaus visus būtybes, kurias sukūriau.“"
+  },
+  {
+    "i": 164,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 5,
+    "t": "Nojus padarė viską, ką Viešpats jam įsakė."
+  },
+  {
+    "i": 165,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 6,
+    "t": "Nojui buvo šeši šimtai metų, kai užėjo tvanas, vandenys ant žemės."
+  },
+  {
+    "i": 166,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 7,
+    "t": "Nojus – su savo sūnumis, žmona ir savo sūnų žmonomis – įėjo į skrynią, kad išvengtų tvano vandenų."
+  },
+  {
+    "i": 167,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 8,
+    "t": "(Iš švarių gyvulių ir iš nešvarių gyvulių, iš paukščių ir iš visų, kas ropoja žeme,"
+  },
+  {
+    "i": 168,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 9,
+    "t": "po porą įėjo į skrynią pas Nojų, patinas ir patelė, kaip Dievas buvo įsakęs Nojui.)"
+  },
+  {
+    "i": 169,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 10,
+    "t": "Po septynių dienų užėjo tvano vandenys ant žemės."
+  },
+  {
+    "i": 170,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 11,
+    "t": "Nojaus gyvenimo šeši šimtai metais, antro mėnesio septynioliktą dieną, tą dieną prasiveržė visi didžiosios gelmės šaltiniai ir atsivėrė dangaus užtvankos."
+  },
+  {
+    "i": 171,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 12,
+    "t": "Lijo ant žemės keturiasdešimt dienų ir keturiasdešimt naktų."
+  },
+  {
+    "i": 172,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 13,
+    "t": "Tą pačią dieną Nojus ir jo sūnūs Semas, Chamas ir Jafetas, su Nojaus žmona ir trimis jo sūnų žmonomis įėjo į skrynią,"
+  },
+  {
+    "i": 173,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 14,
+    "t": "ir su jais visi laukiniai gyvūnai pagal savo rūšį, visi galvijai pagal savo rūšį, visi ropliai pagal savo rūšį, kas ropoja žeme, visi sparnuočiai pagal savo rūšį, visi paukščiai, viskas, kas turi sparnus."
+  },
+  {
+    "i": 174,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 15,
+    "t": "Pas Nojų į skrynią įėjo po porą iš visų kūnų, turinčių gyvybės alsavimą,"
+  },
+  {
+    "i": 175,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 16,
+    "t": "ir tie, kurie įėjo, buvo patinas ir patelė iš visų kūnų, kaip Dievas jam buvo įsakęs. Ir Viešpats uždarė duris už Nojaus."
+  },
+  {
+    "i": 176,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 17,
+    "t": "Tvanas tęsėsi keturiasdešimt dienų ant žemės; vandenys pakilo ir pakėlė skrynią, ir ji iškilo virš žemės."
+  },
+  {
+    "i": 177,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 18,
+    "t": "Vandenys kilo ir labai didėjo ant žemės, ir skrynia plaukiojo vandens paviršiumi."
+  },
+  {
+    "i": 178,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 19,
+    "t": "Vandenys kilo vis labiau ant žemės, ir buvo apsemti visi aukščiausi kalnai, kurie yra po visu dangumi."
+  },
+  {
+    "i": 179,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 20,
+    "t": "Vandenys pakilo penkiolika uolekčių aukščiau, užliedami kalnus."
+  },
+  {
+    "i": 180,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 21,
+    "t": "Tuomet žuvo visa kūnas, kuris judėjo žemėje: paukščiai, galvijai, žvėrys, visa, kas šliaužiojo žemėje, ir visi žmonės."
+  },
+  {
+    "i": 181,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 22,
+    "t": "Visa, kas turėjo gyvybės alsavimą savo šnervėse, tai yra, visa, kas buvo ant sausos žemės, mirė."
+  },
+  {
+    "i": 182,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 23,
+    "t": "Taip išnyko visi padarai, kurie buvo žemės paviršiuje, nuo žmogaus iki gyvulių, smulkių gyvūnų ir dangaus paukščių: jie buvo ištrinti nuo žemės, ir liko tik Nojus ir kas buvo su juo laive."
+  },
+  {
+    "i": 183,
+    "b": 0,
+    "c": 107,
+    "r": 107,
+    "o": 24,
+    "t": "Vandens tvanas žemėje truko šimtą penkiasdešimt dienų."
+  },
+  {
+    "i": 184,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 1,
+    "t": "Tuomet Dievas atsiminė Nojų ir visus žvėris bei visus galvijus, kurie buvo su juo laive; Dievas pervedė vėją per žemę, ir vandenys nuslūgo."
+  },
+  {
+    "i": 185,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 2,
+    "t": "Gelmių versmės ir dangaus užtvankos buvo uždarytos; lietaus sulaikyta, kad nekristų iš dangaus"
+  },
+  {
+    "i": 186,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 3,
+    "t": "ir vandenys pamažu traukėsi nuo žemės; vandenys nuslūgo po šimto penkiasdešimties dienų"
+  },
+  {
+    "i": 187,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 4,
+    "t": "ir septintą mėnesį, septynioliktą mėnesio dieną, laivas sustojo ant Ararato kalnų."
+  },
+  {
+    "i": 188,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 5,
+    "t": "Vandenys toliau slūgo iki dešimto mėnesio, ir pirmą dešimto mėnesio dieną pasirodė kalnų viršūnės."
+  },
+  {
+    "i": 189,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 6,
+    "t": "Po keturiasdešimties dienų Nojus atidarė langą, kurį buvo padaręs laive"
+  },
+  {
+    "i": 190,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 7,
+    "t": "ir išleido varną, kuris skrido pirmyn ir atgal, kol vandenys nudžiūvo ant žemės."
+  },
+  {
+    "i": 191,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 8,
+    "t": "Tuomet jis išleido balandį nuo savęs, kad pamatytų, ar vandenys sumažėjo žemės paviršiuje."
+  },
+  {
+    "i": 192,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 9,
+    "t": "Balandis, neradęs vietos savo kojoms padėti, grįžo pas jį į laivą, nes buvo vandens ant viso žemės paviršiaus; jis ištiesė ranką, paėmė jį ir įvedė atgal pas save į laivą."
+  },
+  {
+    "i": 193,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 10,
+    "t": "Jis dar palaukė septynias dienas ir vėl išleido balandį iš laivo."
+  },
+  {
+    "i": 194,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 11,
+    "t": "Balandis grįžo pas jį vakare, ir štai jis laikė savo snapelyje šviežią alyvuogių šakelę! Taip Nojus sužinojo, kad vandenys sumažėjo žemės paviršiuje."
+  },
+  {
+    "i": 195,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 12,
+    "t": "Jis dar palaukė septynias dienas ir išleido balandį, kuris daugiau nebegrįžo pas jį."
+  },
+  {
+    "i": 196,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 13,
+    "t": "Nojaus gyvenimo šeši šimtai pirmieji metai, pirmą mėnesį, pirmą mėnesio dieną, vandenys nudžiūvo ant žemės. Nojus nuėmė laivo dangtį; jis pažvelgė, ir štai žemės paviršius buvo sausas!"
+  },
+  {
+    "i": 197,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 14,
+    "t": "Antrą mėnesį, dvidešimt septintą mėnesio dieną, žemė buvo sausa."
+  },
+  {
+    "i": 198,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 15,
+    "t": "Tuomet Dievas tarė Nojui:"
+  },
+  {
+    "i": 199,
+    "b": 0,
+    "c": 108,
+    "r": 108,
+    "o": 16,
+    "t": "\"Išeik iš laivo tu ir tavo žmona, tavo sūnūs ir tavo sūnų žmonos su tavimi."
+  }
+]

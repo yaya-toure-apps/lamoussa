@@ -1,0 +1,802 @@
+[
+  {
+    "i": 4000,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 14,
+    "t": "Išėjo pirmas Judo vaikų stovyklos vėliava pagal savo būrius. Judo būrio vadas buvo Nahšonas, Aminadabo sūnus;"
+  },
+  {
+    "i": 4001,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 15,
+    "t": "Isacharo vaikų giminės būrio vadas pagal savo būrius buvo Netanelis, Cuaro sūnus;"
+  },
+  {
+    "i": 4002,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 16,
+    "t": "Zabulono vaikų giminės būrio vadas pagal savo būrius buvo Eliabas, Helono sūnus."
+  },
+  {
+    "i": 4003,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 17,
+    "t": "Tuomet palapinė buvo išmontuota, ir išėjo Geršono vaikai ir Merario vaikai, kurie nešė palapinę."
+  },
+  {
+    "i": 4004,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 18,
+    "t": "Po to išėjo Rubeno vaikų stovyklos vėliava pagal savo būrius. Jo būrio vadas buvo Elicuras, Šedeuro sūnus;"
+  },
+  {
+    "i": 4005,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 19,
+    "t": "Simeono vaikų giminės būrio vadas pagal savo būrius buvo Šelumielis, Curišadajaus sūnus;"
+  },
+  {
+    "i": 4006,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 20,
+    "t": "Gado vaikų giminės būrio vadas pagal savo būrius buvo Eljasafas, Reuelio sūnus."
+  },
+  {
+    "i": 4007,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 21,
+    "t": "Tuomet išėjo Kehato vaikai, kurie nešė šventovę (palapinė buvo pastatyta prieš jiems atvykstant)."
+  },
+  {
+    "i": 4008,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 22,
+    "t": "Po to išėjo Efraimo vaikų stovyklos vėliava pagal savo būrius. Jo būrio vadas buvo Elišama, Amihudo sūnus;"
+  },
+  {
+    "i": 4009,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 23,
+    "t": "Manaso vaikų giminės būrio vadas pagal savo būrius buvo Gamalielis, Pedacuro sūnus;"
+  },
+  {
+    "i": 4010,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 24,
+    "t": "Benjamino vaikų giminės būrio vadas pagal savo būrius buvo Abidanas, Gideonio sūnus."
+  },
+  {
+    "i": 4011,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 25,
+    "t": "Galiausiai, visų stovyklų užnugaryje, išėjo Dano vaikų stovyklos vėliava pagal savo būrius. Jo būrio vadas buvo Ahiezeras, Amišadajaus sūnus;"
+  },
+  {
+    "i": 4012,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 26,
+    "t": "Ašero vaikų giminės būrio vadas pagal savo būrius buvo Pagielis, Okrano sūnus;"
+  },
+  {
+    "i": 4013,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 27,
+    "t": "Neftalio vaikų būrio vadas pagal savo būrius buvo Ahira, Enano sūnus."
+  },
+  {
+    "i": 4014,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 28,
+    "t": "Tokia buvo izraelitų žygiavimo tvarka pagal savo būrius. Ir jie išėjo."
+  },
+  {
+    "i": 4015,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 29,
+    "t": "Mozė tarė Hobabui, madianiečiui Reuelio sūnui, savo uošviui: \"Mes keliaujame į šalį, apie kurią Viešpats pasakė: 'Aš ją jums duosiu'. Eik su mumis, ir mes tau padarysime gera, nes Viešpats pažadėjo Izraeliui laimę\" —"
+  },
+  {
+    "i": 4016,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 30,
+    "t": "\"Aš neisiu, - jam atsakė, - bet grįšiu į savo šalį ir pas savo gimines\" —"
+  },
+  {
+    "i": 4017,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 31,
+    "t": "\"Nepalik mūsų, - atsakė Mozė. - Nes tu žinai vietas, kur turėtume stovyklauti dykumoje, ir taip tu būsi mūsų akys."
+  },
+  {
+    "i": 4018,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 32,
+    "t": "Jei ateisi su mumis, tą laimę, kurią Viešpats mums duos, mes tau duosime."
+  },
+  {
+    "i": 4019,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 33,
+    "t": "Jie išėjo nuo Viešpaties kalno, kad eitų trijų dienų kelionę. Viešpaties Sandoros skrynia turėjo eiti prieš juos per tas tris dienas, ieškodama jiems stovyklavietės."
+  },
+  {
+    "i": 4020,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 34,
+    "t": "Dieną Viešpaties debesis buvo virš jų, kai jie iškeliavo iš stovyklos."
+  },
+  {
+    "i": 4021,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 35,
+    "t": "Kai skrynia iškeliaudavo, Mozė tardavo: \"Pakilk, Viešpatie, kad tavo priešai išsisklaidytų, kad tie, kurie tavęs nekenčia, bėgtų nuo tavęs!"
+  },
+  {
+    "i": 4022,
+    "b": 3,
+    "c": 410,
+    "r": 410,
+    "o": 36,
+    "t": "O stovykloje jis sakydavo: \"Sugrįžk, Viešpatie, pas Izraelio tūkstančių daugybes."
+  },
+  {
+    "i": 4023,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 1,
+    "t": "O žmonės kėlė blogą dejonę Viešpaties ausims, ir Viešpats ją išgirdo. Jo pyktis įsiliepsnojo, ir Viešpaties ugnis įsižiebė tarp jų: ji naikino vieną stovyklos pakraštį."
+  },
+  {
+    "i": 4024,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 2,
+    "t": "Žmonės kreipėsi į Mozę, kuris užtarė Viešpatį, ir ugnis užgeso."
+  },
+  {
+    "i": 4025,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 3,
+    "t": "Todėl ta vieta buvo pavadinta Tabera, nes Viešpaties ugnis įsižiebė tarp jų."
+  },
+  {
+    "i": 4026,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 4,
+    "t": "Žmonių mišrainė, kuri buvo susimaišiusi su žmonėmis, buvo pagauta godumo. Patys izraelitai vėl pradėjo verkti, sakydami: \"Kas mums duos mėsos valgyti?"
+  },
+  {
+    "i": 4027,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 5,
+    "t": "Ak, koks prisiminimas! Žuvis, kurią dykai valgėme Egipte, agurkai, melionai, salotos, svogūnai ir česnakai!"
+  },
+  {
+    "i": 4028,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 6,
+    "t": "Dabar mes nykstame, be nieko; mūsų akys temato tik maną!"
+  },
+  {
+    "i": 4029,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 7,
+    "t": "Mana buvo panaši į kalendros sėklą ir atrodė kaip bdelis."
+  },
+  {
+    "i": 4030,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 8,
+    "t": "Žmonės išsibėgiojo jos rinkti; paskui ją sumaldavo girnomis arba sutrindavo grūstuvu; galiausiai ją išvirdavo puode, kad padarytų papločius. Ji buvo kaip aliejuje keptas pyragas."
+  },
+  {
+    "i": 4031,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 9,
+    "t": "Kai naktį ant stovyklos krisdavo rasa, ten krisdavo ir mana."
+  },
+  {
+    "i": 4032,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 10,
+    "t": "Mozė išgirdo žmones verkiančius, kiekviena šeima prie savo palapinės įėjimo. Viešpaties pyktis įsiliepsnojo dideliu įkarščiu. Mozė buvo labai sukrėstas,"
+  },
+  {
+    "i": 4033,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 11,
+    "t": "ir jis tarė Viešpačiui: \"Kodėl tu skriaudi savo tarną? Kodėl aš neradau malonės tavo akyse, kad užkrauni man visų šitų žmonių naštą?"
+  },
+  {
+    "i": 4034,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 12,
+    "t": "Ar aš pradėjau visus šituos žmones, ar aš juos pagimdžiau, kad tu man sakytum: Nešk jį ant savo krūtinės, kaip žindyvė neša kūdikį prie krūties, į šalį, kurią aš prisiekiau jo tėvams?"
+  },
+  {
+    "i": 4035,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 13,
+    "t": "Kur aš rasiu mėsos duoti visiems šitiems žmonėms, kai jie mane užpuola su savo ašaromis, sakydami: Duok mums mėsos valgyti?"
+  },
+  {
+    "i": 4036,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 14,
+    "t": "Aš negaliu vienas nešti visų šitų žmonių: tai per sunku man."
+  },
+  {
+    "i": 4037,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 15,
+    "t": "Jei nori su manimi taip elgtis, verčiau mane nužudyk! Ak! Jei būčiau radęs malonę tavo akyse, kad daugiau nematyčiau savo nelaimės!"
+  },
+  {
+    "i": 4038,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 16,
+    "t": "Viešpats tarė Mozei: \"Surink man septyniasdešimt Izraelio seniūnų, kuriuos tu žinai esant seniūnais ir žmonių raštininkais. Tu juos atvesi prie Susitikimo Palapinės, kur jie stovės su tavimi."
+  },
+  {
+    "i": 4039,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 17,
+    "t": "Aš nužengsiu pasikalbėti su tavimi; bet paimsiu Dvasios, kuri yra ant tavęs, ir uždėsiu ją ant jų. Taip jie neš su tavimi šitų žmonių naštą, ir tu nebūsi vienas ją nešantis."
+  },
+  {
+    "i": 4040,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 18,
+    "t": "Šitiems žmonėms tu sakysi: Pasišventinkite rytojui, ir jūs valgysite mėsą, nes jūs verkėte Viešpaties ausims, sakydami: Kas mums duos mėsos valgyti? Mes buvome laimingi Egipte! Na štai! Viešpats duos jums mėsos valgyti."
+  },
+  {
+    "i": 4041,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 19,
+    "t": "Jūs nevalgysite jos tik vieną dieną, ar dvi, ar penkias, ar dešimt, ar dvidešimt,"
+  },
+  {
+    "i": 4042,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 20,
+    "t": "bet visą mėnesį, kol ji jums išeis pro nosį ir jums pasidarys šlykšti, nes jūs atmetėte Viešpatį, kuris yra tarp jūsų, ir jūs verkėte prieš jį, sakydami: Kodėl gi mes išėjome iš Egipto?"
+  },
+  {
+    "i": 4043,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 21,
+    "t": "Mozė tarė: \"Žmonių, kur aš esu, yra šeši šimtai tūkstančių vyrų pėsčiomis, o tu sakai: Aš duosiu jiems mėsos valgyti visą mėnesį!"
+  },
+  {
+    "i": 4044,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 22,
+    "t": "Jei būtų paskersti jiems smulkūs ir stambūs gyvuliai, ar jiems užtektų? Jei būtų surinktos jiems visos jūros žuvys, ar jiems užtektų?"
+  },
+  {
+    "i": 4045,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 23,
+    "t": "Viešpats atsakė Mozei: \"Ar Viešpaties ranka būtų tokia trumpa? Tu pamatysi, ar išsipildys žodis, kurį aš tau pasakiau, ar ne."
+  },
+  {
+    "i": 4046,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 24,
+    "t": "Mozė išėjo pasakyti žmonėms Viešpaties žodžių. Paskui jis surinko septyniasdešimt žmonių seniūnų ir pastatė juos aplink Palapinę."
+  },
+  {
+    "i": 4047,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 25,
+    "t": "Viešpats nužengė debesyje. Jis kalbėjo jam ir paėmė Dvasios, kuri ilsėjosi ant jo, ir uždėjo ją ant septyniasdešimties seniūnų. Kai Dvasia nusileido ant jų, jie pranašavo, bet jie nepradėjo iš naujo."
+  },
+  {
+    "i": 4048,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 26,
+    "t": "Du vyrai buvo likę stovykloje; vienas vadinosi Eldadas, o kitas Medadas. Dvasia nusileido ant jų; nors jie neatėjo prie Palapinės, jie buvo tarp įrašytųjų. Jie pradėjo pranašauti stovykloje."
+  },
+  {
+    "i": 4049,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 27,
+    "t": "Jaunuolis bėgo pranešti Mozei: \"Štai Eldadas ir Medadas, - tarė jis, - pranašauja stovykloje."
+  },
+  {
+    "i": 4050,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 28,
+    "t": "Jozuė, Nūno sūnus, kuris nuo jaunystės tarnavo Mozei, prabilo ir tarė: \"Moze, mano Viešpatie, uždrausk jiems!"
+  },
+  {
+    "i": 4051,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 29,
+    "t": "Mozė jam atsakė: \"Ar tu pavydi man? Ak! Kad visi Viešpaties žmonės būtų pranašai, Viešpats duodamas jiems savo Dvasią!"
+  },
+  {
+    "i": 4052,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 30,
+    "t": "Paskui Mozė grįžo į stovyklą, ir su juo Izraelio seniūnai."
+  },
+  {
+    "i": 4053,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 31,
+    "t": "Viešpaties siųstas vėjas pakilo, kuris, ateidamas nuo jūros, atnešė putpeles ir nuleido jas ant stovyklos. Jų buvo tiek toli, kiek vienos dienos kelias, iš vienos ir iš kitos stovyklos pusės, ir per du uolektis virš žemės."
+  },
+  {
+    "i": 4054,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 32,
+    "t": "Žmonės stovėjo visą dieną, visą naktį ir kitą dieną, kad rinktų putpeles: tas, kuris surinko mažiausiai, turėjo dešimt skiedrų; paskui jie jas išdėliojo aplink stovyklą."
+  },
+  {
+    "i": 4055,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 33,
+    "t": "Mėsa dar buvo tarp jų dantų, ji dar nebuvo sukramtyta, kai Viešpaties pyktis įsiliepsnojo prieš žmones. Viešpats ištiko juos labai didele maru."
+  },
+  {
+    "i": 4056,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 34,
+    "t": "Tai vietai buvo duotas Kibrot-ha-Tava pavadinimas, nes ten buvo palaidoti žmonės, kurie pasidavė savo godumui."
+  },
+  {
+    "i": 4057,
+    "b": 3,
+    "c": 411,
+    "r": 411,
+    "o": 35,
+    "t": "Iš Kibrot-ha-Tavos žmonės išėjo į Haserotą ir apsistojo Haserote."
+  },
+  {
+    "i": 4058,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 1,
+    "t": "Mirjama ir Aaronas kalbėjo prieš Mozę dėl kušitės moters, kurią jis buvo paėmęs. Nes jis buvo vedęs kušitę moterį."
+  },
+  {
+    "i": 4059,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 2,
+    "t": "Ir jie tarė: \"Ar Viešpats kalbėtų tik su Moze? Ar jis nekalbėjo ir su mumis?\" Viešpats išgirdo."
+  },
+  {
+    "i": 4060,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 3,
+    "t": "O Mozė buvo labai nuolankus žmogus, pats nuolankiausias žmogus, kokį žemė yra nešiojusi."
+  },
+  {
+    "i": 4061,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 4,
+    "t": "Staiga Viešpats tarė Mozei, Aaronui ir Mirjamai: \"Ateikite visi trys prie Susitikimo Palapinės.\" Jie nuėjo visi trys,"
+  },
+  {
+    "i": 4062,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 5,
+    "t": "ir Viešpats nužengė debesies stulpu ir atsistojo prie Palapinės įėjimo. Jis pašaukė Aaroną ir Mirjamą; jie abu priėjo."
+  },
+  {
+    "i": 4063,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 6,
+    "t": "Viešpats tarė: \"Klausykitės mano žodžių: Jei tarp jūsų yra pranašas, aš jam apsireiškiu vizijoje, aš su juo kalbu sapne."
+  },
+  {
+    "i": 4064,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 7,
+    "t": "Taip nėra su mano tarnu Moze, visas mano namas jam patikėtas."
+  },
+  {
+    "i": 4065,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 8,
+    "t": "Aš su juo kalbu akis į akį aiškiai, ne mįslėmis, ir jis mato Viešpaties pavidalą. Kodėl jūs išdrįsote kalbėti prieš mano tarną Mozę?"
+  },
+  {
+    "i": 4066,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 9,
+    "t": "Viešpaties pyktis įsiliepsnojo prieš juos. Jis išėjo"
+  },
+  {
+    "i": 4067,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 10,
+    "t": "ir debesis paliko Palapinę. Štai Mirjama tapo raupsuota, balta kaip sniegas. Aaronas atsisuko į ją: ji buvo tapusi raupsuota."
+  },
+  {
+    "i": 4068,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 11,
+    "t": "Aaronas tarė Mozei: \"Mano Viešpatie! Prašau, neužduok mums bausmės už nuodėmę, kurią mes kvailai padarėme ir dėl kurios esame kalti."
+  },
+  {
+    "i": 4069,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 12,
+    "t": "Aš tavęs prašau, tebūna ji ne kaip neišnešiotas kūdikis, kurio mėsa yra pusiau išėsta, kai jis išeina iš savo motinos įsčių!"
+  },
+  {
+    "i": 4070,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 13,
+    "t": "Mozė maldavojo Viešpatį: \"O Dieve, - tarė jis, - prašau, išgydyk ją!"
+  },
+  {
+    "i": 4071,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 14,
+    "t": "Tuomet Viešpats tarė Mozei: \"Ir jei jo tėvas spjautų jai į veidą, ar ji nebūtų septynias dienas gėdoje? Tebūna ji septynias dienas uždaryta už stovyklos, ir paskui tebūna vėl priimta."
+  },
+  {
+    "i": 4072,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 15,
+    "t": "Mirjama buvo uždaryta septynias dienas už stovyklos. Žmonės neiškeliavo, kol ji negrįžo."
+  },
+  {
+    "i": 4073,
+    "b": 3,
+    "c": 412,
+    "r": 412,
+    "o": 16,
+    "t": "Paskui žmonės iškeliavo iš Haseroto ir nuėjo apsistoti Parano dykumoje."
+  },
+  {
+    "i": 4074,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 1,
+    "t": "Viešpats kalbėjo Mozei ir tarė:"
+  },
+  {
+    "i": 4075,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 2,
+    "t": "\"Nusiųsk vyrus, po vieną iš kiekvienos giminės, kad apžiūrėtų Kanaano šalį, kurią aš duodu izraelitams. Jūs nusiųsite visus jų kunigaikščius."
+  },
+  {
+    "i": 4076,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 3,
+    "t": "Viešpaties įsakymu Mozė juos nusiuntė iš Parano dykumos. Visi šie vyrai buvo izraelitų vadai."
+  },
+  {
+    "i": 4077,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 4,
+    "t": "Štai jų vardai: Rubeno giminės atstovas - Šamua, Zakuro sūnus;"
+  },
+  {
+    "i": 4078,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 5,
+    "t": "Simeono giminės atstovas - Šafatas, Horio sūnus;"
+  },
+  {
+    "i": 4079,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 6,
+    "t": "Judo giminės atstovas - Kalebas, Jefunės sūnus;"
+  },
+  {
+    "i": 4080,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 7,
+    "t": "Iš Isacharo giminės – Jigalis, Juozapo sūnus;"
+  },
+  {
+    "i": 4081,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 8,
+    "t": "Iš Efraimo giminės – Ošėja, Nūno sūnus;"
+  },
+  {
+    "i": 4082,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 9,
+    "t": "Iš Benjamino giminės – Paltis, Rafu sūnus;"
+  },
+  {
+    "i": 4083,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 10,
+    "t": "Iš Zabulono giminės – Gadielis, Sodžio sūnus;"
+  },
+  {
+    "i": 4084,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 11,
+    "t": "Iš Juozapo giminės, iš Manaso giminės – Gadas, Susio sūnus;"
+  },
+  {
+    "i": 4085,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 12,
+    "t": "Iš Dano giminės – Amielis, Gemalio sūnus;"
+  },
+  {
+    "i": 4086,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 13,
+    "t": "Iš Ašero giminės – Setūras, Mykolo sūnus;"
+  },
+  {
+    "i": 4087,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 14,
+    "t": "Iš Neftalio giminės – Nachbis, Vapsio sūnus;"
+  },
+  {
+    "i": 4088,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 15,
+    "t": "Iš Gado giminės – Geuelis, Makio sūnus."
+  },
+  {
+    "i": 4089,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 16,
+    "t": "Štai vardai vyrų, kuriuos Mozė siuntė apžiūrėti krašto. Mozė pavadino Ošėją, Nūno sūnų, Jozuę."
+  },
+  {
+    "i": 4090,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 17,
+    "t": "Mozė išsiuntė juos apžiūrėti Kanaano krašto, tardamas: „Eikite į Negebą ir pakilkite į kalnus."
+  },
+  {
+    "i": 4091,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 18,
+    "t": "Apžiūrėkite, koks tas kraštas, ir kokie žmonės jame gyvena: ar jie stiprūs, ar silpni, ar jų mažai, ar daug."
+  },
+  {
+    "i": 4092,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 19,
+    "t": "Koks kraštas, kuriame jie gyvena, ar geras, ar blogas, ir kokie miestai, kuriuose jie gyvena, ar tai stovyklos, ar įtvirtinti miestai."
+  },
+  {
+    "i": 4093,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 20,
+    "t": "Koks kraštas, ar derlingas, ar skurdus, ar apaugęs medžiais, ar ne. Būkite drąsūs ir pasiimkite krašto vaisių.“ Tai buvo ankstyvųjų vynuogių metas."
+  },
+  {
+    "i": 4094,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 21,
+    "t": "Jie apžiūrėjo kraštą nuo Cino dykumos iki Rehobo, netoli Hamato įėjimo."
+  },
+  {
+    "i": 4095,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 22,
+    "t": "Jie pakilo į Negebą ir atvyko į Hebroną, kur gyveno Ahimanas, Šešajas ir Talmajas, Anakimų palikuonys. (Hebronas buvo pastatytas septyneriais metais anksčiau negu Tanis Egipte.)"
+  },
+  {
+    "i": 4096,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 23,
+    "t": "Jie pasiekė Eškolio slėnį; ten nupjovė vynuogienojį su keke vynuogių, kurią dviese nešė ant karties, taip pat granatų ir figų."
+  },
+  {
+    "i": 4097,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 24,
+    "t": "Ta vieta buvo pavadinta Eškolio slėniu dėl vynuogių kekės, kurią Izraelio sūnūs ten nupjovė."
+  },
+  {
+    "i": 4098,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 25,
+    "t": "Po keturiasdešimties dienų jie sugrįžo iš krašto apžiūros."
+  },
+  {
+    "i": 4099,
+    "b": 3,
+    "c": 413,
+    "r": 413,
+    "o": 26,
+    "t": "Jie nuėjo pas Mozę, Aaroną ir visą Izraelio bendruomenę į Parano dykumą, į Kadešą. Jie pateikė jiems ir visai bendruomenei ataskaitą ir parodė krašto vaisius."
+  }
+]

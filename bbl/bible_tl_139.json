@@ -1,0 +1,774 @@
+[
+  {
+    "i": 13900,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 4,
+    "t": "Makikipagtipan ba siya sa iyo, upang ariin mo siyang alipin magpakailan man?"
+  },
+  {
+    "i": 13901,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 5,
+    "t": "Makikipaglaro ka ba sa kaniya na gaya sa isang ibon? O iyong tatalian ba siya para sa iyong mga dalaga?"
+  },
+  {
+    "i": 13902,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 6,
+    "t": "Makakalakal ba siya ng mga pulutong ng mangingisda? Mababahagi ba siya nila sa mga mangangalakal?"
+  },
+  {
+    "i": 13903,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 7,
+    "t": "Mahihiwa mo ba ang kaniyang balat ng sundang na bakal, o ang kaniyang ulo ng panaksak ng isda?"
+  },
+  {
+    "i": 13904,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 8,
+    "t": "Ipatong mo ang iyong kamay sa kaniya; alalahanin mo ang pagbabaka at huwag mo nang gawin."
+  },
+  {
+    "i": 13905,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 9,
+    "t": "Narito, ang pagasa riyan ay walang kabuluhan: hindi ba malulugmok ang sinoman makita lamang yaon?"
+  },
+  {
+    "i": 13906,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 10,
+    "t": "Walang malakas na makapangahas kumilos niyaon: sino ngang makatatayo sa harap ko?"
+  },
+  {
+    "i": 13907,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 11,
+    "t": "Sinong naunang nagbigay sa akin upang aking bayaran siya? Anomang nasa silong ng buong langit ay akin."
+  },
+  {
+    "i": 13908,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 12,
+    "t": "Hindi ako tatahimik tungkol sa kaniyang mga sangkap ng katawan, ni sa kaniya mang dakilang kapangyarihan, ni sa kaniya mang mainam na hugis."
+  },
+  {
+    "i": 13909,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 13,
+    "t": "Sinong makapaglilitaw na karayagan ng kaniyang mga damit? Sinong makalalapit sa kaniyang magkasaping pangil?"
+  },
+  {
+    "i": 13910,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 14,
+    "t": "Sinong makapagbubukas ng mga pinto ng kaniyang mukha? Sa palibot ng kaniyang ngipin ay kakilabutan."
+  },
+  {
+    "i": 13911,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 15,
+    "t": "Ang kaniyang mga matibay na palikpik ay kaniyang kapalaluan, nangagkakadikit na maigi na gaya sa isang tatak na mahigpit."
+  },
+  {
+    "i": 13912,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 16,
+    "t": "Nagkakadikit sa isa't isa, na ang hangin ay hindi makaraan sa pagitan sa mga yaon."
+  },
+  {
+    "i": 13913,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 17,
+    "t": "Sila'y nagkakasugpongan sa isa't isa; Nagkakalakip na magkasama, na hindi maihihiwalay."
+  },
+  {
+    "i": 13914,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 18,
+    "t": "Ang kanilang mga bahin ay kumikislap ng apoy, at ang kanilang mga mata ay gaya ng mga bukang liwayway kung umaga."
+  },
+  {
+    "i": 13915,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 19,
+    "t": "Mula sa kaniyang bibig ay lumalabas ang nagliliyab na sulo, at mga alipatong apoy ay nagsisilabas."
+  },
+  {
+    "i": 13916,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 20,
+    "t": "Mula sa kaniyang mga butas ng ilong ay lumalabas ang usok, na gaya ng isang kumukulong talyasi at nagniningas na mga talahib."
+  },
+  {
+    "i": 13917,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 21,
+    "t": "Ang kaniyang hinga ay nagpapaningas ng mga baga, at isang alab ay lumalabas sa kaniyang bibig."
+  },
+  {
+    "i": 13918,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 22,
+    "t": "Sa kaniyang leeg ay tumitira ang kalakasan, at ang kakilabutan ay sumasayaw sa harap niya."
+  },
+  {
+    "i": 13919,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 23,
+    "t": "Ang mga kaliskis ng kaniyang laman ay nangagkakadikitan; nangagtutumibay sa kaniya; hindi magagalaw."
+  },
+  {
+    "i": 13920,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 24,
+    "t": "Ang kaniyang puso ay matatag na gaya ng isang bato; Oo, matatag na gaya ng batong pangibaba ng gilingan."
+  },
+  {
+    "i": 13921,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 25,
+    "t": "Pagka siya'y tumitindig ay natatakot ang makapangyarihan: dahil sa pagkagulat ay nangalilito sila."
+  },
+  {
+    "i": 13922,
+    "b": 17,
+    "c": 1841,
+    "r": 1841,
+    "o": 26,
+    "t": "Kung siya'y tagain ninoman ng tabak ay hindi tumatalab; ni ng sibat man, ng pana, ni ng matalas na tulis man."
+  },
+  {
+    "i": 13923,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 1,
+    "t": "Nang magkagayo'y sumagot si Job sa Panginoon, at nagsabi,"
+  },
+  {
+    "i": 13924,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 2,
+    "t": "Nalalaman ko na magagawa mo ang lahat ng mga bagay, at wala kang akala na mapipigil."
+  },
+  {
+    "i": 13925,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 3,
+    "t": "Sino itong nagkukubli ng payo na walang kaalaman? Kaya't aking sinambit na hindi ko nauunawa, mga bagay na totoong kagilagilalas sa akin na hindi ko nalalaman."
+  },
+  {
+    "i": 13926,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 4,
+    "t": "Dinggin mo, isinasamo ko sa iyo, at ako'y magsasalita; ako'y magtatanong sa iyo, at magpahayag ka sa akin."
+  },
+  {
+    "i": 13927,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 5,
+    "t": "Narinig kita sa pakikinig ng pakinig; nguni't ngayo'y nakikita ka ng aking mata,"
+  },
+  {
+    "i": 13928,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 6,
+    "t": "Kaya't ako'y nayayamot sa sarili, at nagsisisi ako sa alabok at mga abo."
+  },
+  {
+    "i": 13929,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 7,
+    "t": "At nangyari, na pagkatapos na masalita ng Panginoon ang mga salitang ito kay Job, sinabi ng Panginoon kay Eliphaz na Temanita, Ang aking poot ay nagaalab laban sa iyo, at laban sa iyong dalawang kaibigan: sapagka't hindi kayo nangagsalita tungkol sa akin ng bagay na matuwid, na gaya ng ginawa ng aking lingkod na si Job."
+  },
+  {
+    "i": 13930,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 8,
+    "t": "Kaya't magsikuha kayo sa inyo ngayon ng pitong guyang baka, at pitong lalaking tupa, at magsiparoon kayo sa aking lingkod na kay Job, at ihandog ninyo sa ganang inyo na pinakahandog na susunugin: at idadalangin kayo ng aking lingkod na si Job: sapagka't siya'y aking tatanggapin, baka kayo'y aking gawan ng ayon sa inyong kamangmangan; sapagka't hindi kayo nangagsasalita tungkol sa akin ng bagay na matuwid, na gaya ng aking lingkod na si Job."
+  },
+  {
+    "i": 13931,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 9,
+    "t": "Sa gayo'y nagsiyaon si Eliphaz na Temanita, at si Bildad na Suhita, at si Sophar na Naamatita, at ginawa ang ayon sa iniutos sa kanila ng Panginoon: at nilingap ng Panginoon si Job."
+  },
+  {
+    "i": 13932,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 10,
+    "t": "At inalis ng Panginoon ang pagkabihag ni Job, nang kaniyang idalangin ang kaniyang mga kaibigan; at binigyan ng Panginoon si Job na makalawa ang higit ng dami kay sa tinatangkilik niya ng dati."
+  },
+  {
+    "i": 13933,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 11,
+    "t": "Nang magkagayo'y nagsiparoon sa kaniya ang lahat niyang mga kapatid na lalake at babae, at lahat na naging kakilala niya ng una, at nagsikain ng tinapay na kasalo niya sa kaniyang bahay; at nakipagdamdam sa kaniya, at inaliw siya tungkol sa lahat na kasamaan na pinasapit sa kaniya ng Panginoon: bawa't tao nama'y nagbigay sa kaniya ng isang putol na salapi, at bawa't isa'y ng isang singsing na ginto."
+  },
+  {
+    "i": 13934,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 12,
+    "t": "Sa gayo'y pinagpala ng Panginoon, ang huling wakas ni Job na higit kay sa kaniyang pasimula: at siya'y nagkaroon ng labing apat na libong tupa, at anim na libong kamelyo, at isang libong tuwang na baka, at isang libong asnong babae."
+  },
+  {
+    "i": 13935,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 13,
+    "t": "Siya nama'y nagkaroon din ng pitong anak na lalake at tatlong anak na babae."
+  },
+  {
+    "i": 13936,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 14,
+    "t": "At tinawag niya ang pangalan ng una na Jemima; at ang pangalan ng ikalawa, Cesiah, at ang pangalan ng ikatlo, Keren-hapuch."
+  },
+  {
+    "i": 13937,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 15,
+    "t": "At sa buong lupain ay walang mga babaing masumpungan na totoong maganda na gaya ng mga anak na babae ni Job: at binigyan sila ng kanilang ama ng mana sa kasamahan ng kanilang mga kapatid."
+  },
+  {
+    "i": 13938,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 16,
+    "t": "At pagkatapos nito'y nabuhay si Job na isang daan at apat na pung taon, at nakita niya ang kaniyang mga anak, at ang mga anak ng kaniyang mga anak, hanggang sa apat na saling lahi."
+  },
+  {
+    "i": 13939,
+    "b": 17,
+    "c": 1842,
+    "r": 1842,
+    "o": 17,
+    "t": "Gayon namatay si Job, na matanda at puspos ng mga kaarawan."
+  },
+  {
+    "i": 13940,
+    "b": 18,
+    "c": 1901,
+    "r": 1901,
+    "o": 1,
+    "t": "Mapalad ang tao na hindi lumalakad sa payo ng masama, ni tumatayo man sa daan ng mga makasalanan, ni nauupo man sa upuan ng mga manglilibak."
+  },
+  {
+    "i": 13941,
+    "b": 18,
+    "c": 1901,
+    "r": 1901,
+    "o": 2,
+    "t": "Kundi ang kaniyang kasayahan ay nasa kautusan ng Panginoon; at sa kautusan niya nagbubulaybulay siya araw at gabi."
+  },
+  {
+    "i": 13942,
+    "b": 18,
+    "c": 1901,
+    "r": 1901,
+    "o": 3,
+    "t": "At siya'y magiging parang punong kahoy na itinanim sa siping ng mga agos ng tubig, na nagbubunga sa kaniyang kapanahunan, ang kaniyang dahon nama'y hindi malalanta; at anumang kaniyang gawin ay giginhawa."
+  },
+  {
+    "i": 13943,
+    "b": 18,
+    "c": 1901,
+    "r": 1901,
+    "o": 4,
+    "t": "Ang masama ay hindi gayon; kundi parang ipa na itinataboy ng hangin."
+  },
+  {
+    "i": 13944,
+    "b": 18,
+    "c": 1901,
+    "r": 1901,
+    "o": 5,
+    "t": "Kaya't ang masama ay hindi tatayo sa paghatol, ni ang mga makasalanan man sa kapisanan ng mga matuwid."
+  },
+  {
+    "i": 13945,
+    "b": 18,
+    "c": 1901,
+    "r": 1901,
+    "o": 6,
+    "t": "Sapagka't nalalaman ng Panginoon ang lakad ng mga matuwid: nguni't ang lakad ng masama ay mapapahamak."
+  },
+  {
+    "i": 13946,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 1,
+    "t": "Bakit ang mga bansa ay nangagugulo, at ang mga bayan ay nangagaakala ng walang kabuluhang bagay?"
+  },
+  {
+    "i": 13947,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 2,
+    "t": "Ang mga hari sa lupa ay nagsisihanda, at ang mga pinuno ay nagsasanggunian, Laban sa Panginoon at laban sa kaniyang pinahiran ng langis, na sinasabi:"
+  },
+  {
+    "i": 13948,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 3,
+    "t": "Lagutin natin ang kanilang tali, at ating iwaksi ang kanilang mga panali sa atin."
+  },
+  {
+    "i": 13949,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 4,
+    "t": "Siyang nauupo sa kalangitan ay tatawa: ilalagay sila ng Panginoon sa kakutyaan."
+  },
+  {
+    "i": 13950,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 5,
+    "t": "Kung magkagayo'y magsasalita siya sa kanila sa kaniyang poot, at babagabagin sila sa kaniyang malabis na sama ng loob:"
+  },
+  {
+    "i": 13951,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 6,
+    "t": "Gayon ma'y inilagay ko ang aking hari sa aking banal na bundok ng Sion."
+  },
+  {
+    "i": 13952,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 7,
+    "t": "Aking sasaysayin ang tungkol sa pasiya: sinabi ng Panginoon sa akin, Ikaw ay aking anak; sa araw na ito ay ipinanganak kita."
+  },
+  {
+    "i": 13953,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 8,
+    "t": "Humingi ka sa akin, at ibibigay ko sa iyo ang mga bansa na iyong pinakamana, at ang mga pinakadulong bahagi ng lupa ay iyong pinakaari."
+  },
+  {
+    "i": 13954,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 9,
+    "t": "Sila'y iyong babaliin ng isang pamalong bakal; iyong dudurugin sila na parang isang sisidlan ng magpapalyok."
+  },
+  {
+    "i": 13955,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 10,
+    "t": "Ngayon nga'y magpakapantas kayo, Oh kayong mga hari: mangatuto kayo, kayong mga hukom sa lupa."
+  },
+  {
+    "i": 13956,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 11,
+    "t": "Kayo'y mangaglingkod sa Panginoon na may takot, at mangagalak na may panginginig."
+  },
+  {
+    "i": 13957,
+    "b": 18,
+    "c": 1902,
+    "r": 1902,
+    "o": 12,
+    "t": "Hagkan ninyo ang anak, baka magalit siya, at kayo'y mangapahamak sa daan, sapagka't ang kaniyang poot ay madaling magalab. Mapapalad ang nanganganlong sa kaniya."
+  },
+  {
+    "i": 13958,
+    "b": 18,
+    "c": 1903,
+    "r": 1903,
+    "o": 1,
+    "t": "Panginoon, ano't ang aking mga kaaway ay nagsisidami! Marami sila na nagsisibangon laban sa akin."
+  },
+  {
+    "i": 13959,
+    "b": 18,
+    "c": 1903,
+    "r": 1903,
+    "o": 2,
+    "t": "Marami ang nagsasabi sa aking kaluluwa: walang tulong sa kaniya ang Dios. (Selah)"
+  },
+  {
+    "i": 13960,
+    "b": 18,
+    "c": 1903,
+    "r": 1903,
+    "o": 3,
+    "t": "Nguni't ikaw, Oh Panginoon ay isang kalasag sa palibot ko: aking kaluwalhatian; at siyang tagapagtaas ng aking ulo."
+  },
+  {
+    "i": 13961,
+    "b": 18,
+    "c": 1903,
+    "r": 1903,
+    "o": 4,
+    "t": "Ako'y dumadaing ng aking tinig sa Panginoon, at sinasagot niya ako mula sa kaniyang banal na bundok. (Selah)"
+  },
+  {
+    "i": 13962,
+    "b": 18,
+    "c": 1903,
+    "r": 1903,
+    "o": 5,
+    "t": "Ako'y nahiga, at natulog; ako'y nagising; sapagka't inaalalayan ako ng Panginoon."
+  },
+  {
+    "i": 13963,
+    "b": 18,
+    "c": 1903,
+    "r": 1903,
+    "o": 6,
+    "t": "Ako'y hindi matatakot sa sangpung libo ng bayan, na nagsihanda laban sa akin sa buong palibot."
+  },
+  {
+    "i": 13964,
+    "b": 18,
+    "c": 1903,
+    "r": 1903,
+    "o": 7,
+    "t": "Bumangon ka, Oh Panginoon; iligtas mo ako, Oh aking Dios: sapagka't iyong sinampal ang lahat ng aking mga kaaway; iyong binungal ang mga ngipin ng masasama."
+  },
+  {
+    "i": 13965,
+    "b": 18,
+    "c": 1903,
+    "r": 1903,
+    "o": 8,
+    "t": "Pagliligtas ay ukol sa Panginoon: sumaiyong bayan nawa ang iyong pagpapala. (Selah)"
+  },
+  { "i": 13966, "b": 18, "c": 1903, "r": 1903, "o": 9, "t": null },
+  {
+    "i": 13967,
+    "b": 18,
+    "c": 1904,
+    "r": 1904,
+    "o": 1,
+    "t": "Sagutin mo ako, pagka tumatawag ako, Oh Dios ng aking katuwiran; inilagay mo ako sa kaluwagan, nang ako'y nasa kagipitan: maawa ka sa akin, at dinggin mo ang aking dalangin."
+  },
+  {
+    "i": 13968,
+    "b": 18,
+    "c": 1904,
+    "r": 1904,
+    "o": 2,
+    "t": "Oh kayong mga anak ng tao, hanggang kailan magiging kasiraang puri ang aking kaluwalhatian? Gaano katagal iibigin ninyo ang walang kabuluhan, at hahanap sa kabulaanan? (Selah)"
+  },
+  {
+    "i": 13969,
+    "b": 18,
+    "c": 1904,
+    "r": 1904,
+    "o": 3,
+    "t": "Nguni't talastasin ninyo na ibinukod ng Panginoon sa ganang kaniyang sarili ang banal: didinggin ng Panginoon pagka ako'y tumawag sa kaniya."
+  },
+  {
+    "i": 13970,
+    "b": 18,
+    "c": 1904,
+    "r": 1904,
+    "o": 4,
+    "t": "Kayo'y magsipanginig, at huwag mangagkasala: mangagbulaybulay kayo ng inyong puso sa inyong higaan, at kayo'y magsitahimik."
+  },
+  {
+    "i": 13971,
+    "b": 18,
+    "c": 1904,
+    "r": 1904,
+    "o": 5,
+    "t": "Mangaghandog kayo ng mga hain ng katuwiran, at ilagak ninyo ang inyong tiwala sa Panginoon."
+  },
+  {
+    "i": 13972,
+    "b": 18,
+    "c": 1904,
+    "r": 1904,
+    "o": 6,
+    "t": "Marami ang mangagsasabi, sinong magpapakita sa amin ng mabuti? Panginoon, pasilangin mo ang liwanag ng iyong mukha sa amin."
+  },
+  {
+    "i": 13973,
+    "b": 18,
+    "c": 1904,
+    "r": 1904,
+    "o": 7,
+    "t": "Ikaw ay naglagay ng kasayahan sa aking puso, ng higit kay sa kanilang tinatangkilik nang ang kanilang butil, at kanilang alak ay magsidami."
+  },
+  {
+    "i": 13974,
+    "b": 18,
+    "c": 1904,
+    "r": 1904,
+    "o": 8,
+    "t": "Payapa akong hihiga at gayon din matutulog: sapagka't ikaw, Panginoon, pinatatahan mo akong mag-isa sa katiwasayan."
+  },
+  { "i": 13975, "b": 18, "c": 1904, "r": 1904, "o": 9, "t": null },
+  {
+    "i": 13976,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 1,
+    "t": "Pakinggan mo ang aking mga salita, Oh Panginoon, pakundanganan mo ang aking pagbubulaybulay."
+  },
+  {
+    "i": 13977,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 2,
+    "t": "Dinggin mo ang tinig ng aking daing, Hari ko, at Dios ko; sapagka't sa iyo'y dumadalangin ako."
+  },
+  {
+    "i": 13978,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 3,
+    "t": "Oh Panginoon, sa kinaumagaha'y didinggin mo ang aking tinig; sa kinaumagahan ay aayusin ko ang aking dalangin sa iyo, at magbabantay ako."
+  },
+  {
+    "i": 13979,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 4,
+    "t": "Sapagka't ikaw ay di isang Dios na may kaluguran sa kasamaan: ang masama ay hindi tatahang kasama mo."
+  },
+  {
+    "i": 13980,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 5,
+    "t": "Ang hambog ay hindi tatayo sa iyong paningin: iyong kinapopootan ang lahat na mga manggagawa ng kalikuan."
+  },
+  {
+    "i": 13981,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 6,
+    "t": "Iyong lilipulin sila na nangagsasalita ng mga kabulaanan: kinayayamutan ng Panginoon ang taong mabangis at magdaraya,"
+  },
+  {
+    "i": 13982,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 7,
+    "t": "Nguni't sa ganang akin, sa kasaganaan ng iyong kagandahang-loob ay papasok ako sa iyong bahay; sa takot sa iyo ay sasamba ako sa dako ng iyong banal na templo."
+  },
+  {
+    "i": 13983,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 8,
+    "t": "Patnubayan mo ako, Oh Panginoon, sa iyong katuwiran dahil sa aking mga kaaway; patagin mo ang iyong daan sa harapan ko."
+  },
+  {
+    "i": 13984,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 9,
+    "t": "Sapagka't walang pagtatapat sa kanilang bibig; ang kanilang kalooban ay tunay na kasamaan; ang kanilang lalamunan ay bukas na libingan; sila'y nanganunuya ng kanilang dila."
+  },
+  {
+    "i": 13985,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 10,
+    "t": "Bigyan mong sala sila, Oh Dios; ibuwal mo sila sa kanilang sariling mga payo: palayasin mo sila sa karamihan ng kanilang mga pagsalangsang; Sapagka't sila'y nanganghimagsik laban sa iyo,"
+  },
+  {
+    "i": 13986,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 11,
+    "t": "Nguni't iyong pagalakin ang lahat na nagsisipagkanlong sa iyo, pahiyawin mo nawa sila sa kagalakan magpakailan man, sapagka't iyong ipinagsasanggalang sila: mangagalak nawa rin sa iyo ang nagsisiibig ng iyong pangalan."
+  },
+  {
+    "i": 13987,
+    "b": 18,
+    "c": 1905,
+    "r": 1905,
+    "o": 12,
+    "t": "Sapagka't iyong pagpapalain ang matuwid; Oh Panginoon, lilibirin mo siya ng paglingap na gaya ng isang kalasag."
+  },
+  { "i": 13988, "b": 18, "c": 1905, "r": 1905, "o": 13, "t": null },
+  {
+    "i": 13989,
+    "b": 18,
+    "c": 1906,
+    "r": 1906,
+    "o": 1,
+    "t": "Oh Panginoon, huwag mo akong sawayin sa iyong galit, ni parusahan mo man ako sa iyong mahigpit na sama ng loob."
+  },
+  {
+    "i": 13990,
+    "b": 18,
+    "c": 1906,
+    "r": 1906,
+    "o": 2,
+    "t": "Maawa ka sa akin, Oh Panginoon; sapagka't ako'y naluluoy, Oh Panginoon, pagalingin mo ako; sapagka't ang aking mga buto ay nagsisipangalog."
+  },
+  {
+    "i": 13991,
+    "b": 18,
+    "c": 1906,
+    "r": 1906,
+    "o": 3,
+    "t": "Ang akin ding kaluluwa ay nababagabag na mainam: at ikaw, Oh Panginoon, hanggang kailan?"
+  },
+  {
+    "i": 13992,
+    "b": 18,
+    "c": 1906,
+    "r": 1906,
+    "o": 4,
+    "t": "Bumalik ka, Oh Panginoon, palayain mo ang aking kaluluwa: iligtas mo ako alangalang sa iyong kagandahang-loob."
+  },
+  {
+    "i": 13993,
+    "b": 18,
+    "c": 1906,
+    "r": 1906,
+    "o": 5,
+    "t": "Sapagka't sa kamatayan ay walang alaala sa iyo; sa Sheol ay sinong mangagpapasalamat sa iyo?"
+  },
+  {
+    "i": 13994,
+    "b": 18,
+    "c": 1906,
+    "r": 1906,
+    "o": 6,
+    "t": "Ako'y pagal ng aking pagdaing; gabigabi ay aking pinalalangoy ang aking higaan; Aking dinidilig ang aking hiligan ng aking mga luha."
+  },
+  {
+    "i": 13995,
+    "b": 18,
+    "c": 1906,
+    "r": 1906,
+    "o": 7,
+    "t": "Ang aking mga mata ay nangamumugto dahil sa kapanglawan; tumatanda ako dahil sa aking lahat na kaaway."
+  },
+  {
+    "i": 13996,
+    "b": 18,
+    "c": 1906,
+    "r": 1906,
+    "o": 8,
+    "t": "Magsilayo kayo sa akin, kayong lahat na manggagawa ng kasamaan: sapagka't narinig ng Panginoon ang tinig ng aking pagtangis."
+  },
+  {
+    "i": 13997,
+    "b": 18,
+    "c": 1906,
+    "r": 1906,
+    "o": 9,
+    "t": "Narinig ng Panginoon ang aking pananaing; tatanggapin ng Panginoon ang aking dalangin."
+  },
+  {
+    "i": 13998,
+    "b": 18,
+    "c": 1906,
+    "r": 1906,
+    "o": 10,
+    "t": "Lahat ng kaaway ko'y mapapahiya, at mababagabag na mainam: sila'y magsisibalik, sila'y mangapapahiyang kagyat."
+  },
+  { "i": 13999, "b": 18, "c": 1906, "r": 1906, "o": 11, "t": null }
+]

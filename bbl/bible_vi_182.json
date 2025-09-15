@@ -1,0 +1,802 @@
+[
+  {
+    "i": 18200,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 4,
+    "t": "Hãy tin cậy nơi Đức Giê-hô-va đời đời! Vì Đức Giê-hô-va là vầng đá vững bền muôn thuở."
+  },
+  {
+    "i": 18201,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 5,
+    "t": "Chính Ngài đã xô đổ dân cư nơi cao, thành cao sang kia; Ngài hạ thấp nó, hạ xuống tận đất, khiến nó phải liếm bụi tro."
+  },
+  {
+    "i": 18202,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 6,
+    "t": "Nó sẽ bị giày đạp dưới chân, bởi chân kẻ khốn khó, bởi bước chân người yếu đuối."
+  },
+  {
+    "i": 18203,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 7,
+    "t": "Đường lối của người công chính là ngay thẳng, Ngài san bằng con đường bằng phẳng cho người công chính."
+  },
+  {
+    "i": 18204,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 8,
+    "t": "Phải, trong đường lối phán xét của Ngài, chúng con đã trông đợi Ngài, Đức Giê-hô-va ôi! Lòng chúng con khao khát danh Ngài và sự tưởng nhớ Ngài."
+  },
+  {
+    "i": 18205,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 9,
+    "t": "Linh hồn con đã ước ao Ngài trong đêm tối, phải, tận đáy lòng con, tâm thần con tìm kiếm Ngài, vì khi Ngài thi hành sự phán xét trên đất, dân cư thế gian học được sự công bình."
+  },
+  {
+    "i": 18206,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 10,
+    "t": "Nếu kẻ ác được dung thứ mà không học được sự công bình, thì tại xứ ngay thẳng, nó vẫn làm điều ác, chẳng thấy sự oai nghiêm của Đức Giê-hô-va."
+  },
+  {
+    "i": 18207,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 11,
+    "t": "Đức Giê-hô-va ôi, tay Ngài đã giơ lên, mà chúng chẳng thấy! Chúng sẽ thấy, và xấu hổ vì lòng ghen ghét Ngài dành cho dân Ngài, phải, lửa dành cho kẻ thù Ngài sẽ thiêu đốt chúng."
+  },
+  {
+    "i": 18208,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 12,
+    "t": "Đức Giê-hô-va ôi, Ngài ban sự bình an cho chúng con, và ngay cả mọi việc chúng con làm, Ngài cũng hoàn thành cho chúng con."
+  },
+  {
+    "i": 18209,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 13,
+    "t": "Đức Giê-hô-va Đức Chúa Trời chúng con, ngoài Ngài ra, các chủ khác đã thống trị chúng con, nhưng chúng con chỉ kêu cầu danh Ngài."
+  },
+  {
+    "i": 18210,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 14,
+    "t": "Những người chết sẽ không sống lại, bóng ma sẽ không trỗi dậy, vì Ngài đã thăm viếng chúng, tiêu diệt chúng, hủy diệt cả sự tưởng nhớ về chúng."
+  },
+  {
+    "i": 18211,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 15,
+    "t": "Ngài đã làm cho chúng con thành một dân tộc, Đức Giê-hô-va ôi, Ngài đã làm cho chúng con thành một dân tộc và Ngài đã được tôn vinh. Ngài đã nới rộng các biên giới của xứ."
+  },
+  {
+    "i": 18212,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 16,
+    "t": "Đức Giê-hô-va ôi, trong cơn hoạn nạn, chúng đã tìm kiếm Ngài, chúng đã tuôn đổ lời cầu nguyện vì sự trừng phạt của Ngài ở trên chúng."
+  },
+  {
+    "i": 18213,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 17,
+    "t": "Như người đàn bà mang thai đến kỳ sinh nở, đau đớn và kêu la trong cơn quằn quại, thì chúng con cũng vậy trước mặt Ngài, Đức Giê-hô-va ôi."
+  },
+  {
+    "i": 18214,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 18,
+    "t": "Chúng con đã thụ thai, chúng con đã đau đớn, nhưng chỉ sinh ra gió, chúng con chẳng đem lại sự giải cứu cho đất, chẳng có dân cư nào sinh ra trên thế giới."
+  },
+  {
+    "i": 18215,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 19,
+    "t": "Những người chết của Ngài sẽ sống lại, xác chết của Ngài sẽ trỗi dậy. Hỡi những kẻ ở trong bụi đất, hãy thức dậy và ca hát, vì sương của Ngài là sương ban sự sống, và đất sẽ sinh ra bóng ma."
+  },
+  {
+    "i": 18216,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 20,
+    "t": "Hỡi dân ta, hãy vào phòng riêng của ngươi, đóng cửa lại trên ngươi; hãy ẩn mình trong một chốc lát, cho đến khi cơn giận qua đi."
+  },
+  {
+    "i": 18217,
+    "b": 22,
+    "c": 2426,
+    "r": 2426,
+    "o": 21,
+    "t": "Vì kìa, Đức Giê-hô-va ra khỏi nơi Ngài ở để trừng phạt tội lỗi của dân cư trên đất; và đất sẽ phơi bày máu của nó, nó sẽ không còn che đậy xác chết của nó nữa."
+  },
+  {
+    "i": 18218,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 1,
+    "t": "Ngày đó, Đức Giê-hô-va sẽ dùng gươm Ngài, gươm cứng rắn, lớn và mạnh, để trừng phạt Lê-vi-a-than, con rắn lẩn trốn, Lê-vi-a-than, con rắn quanh co; Ngài sẽ giết con rồng ở dưới biển."
+  },
+  {
+    "i": 18219,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 2,
+    "t": "Ngày đó, hãy hát về vườn nho tươi tốt!"
+  },
+  {
+    "i": 18220,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 3,
+    "t": "Ta, Đức Giê-hô-va, là người canh giữ nó, ta tưới nó mỗi lúc; để không ai làm hại nó, ta canh giữ nó đêm ngày."
+  },
+  {
+    "i": 18221,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 4,
+    "t": "Ta chẳng còn tường vây. Ai sẽ biến ta thành bụi gai và cây tật lê? Trong chiến tranh, ta sẽ giày đạp nó, ta sẽ đốt nó cùng một lúc."
+  },
+  {
+    "i": 18222,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 5,
+    "t": "Hoặc hãy kêu cầu sự che chở của ta, hãy làm hòa với ta, làm hòa với ta."
+  },
+  {
+    "i": 18223,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 6,
+    "t": "Về sau Gia-cốp sẽ đâm rễ, Y-sơ-ra-ên sẽ nảy chồi và nở hoa, mặt đất sẽ đầy dẫy hoa quả."
+  },
+  {
+    "i": 18224,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 7,
+    "t": "Há Ngài đã đánh nó như cách Ngài đã đánh những kẻ đánh nó? Há Ngài đã giết nó như cách Ngài đã giết những kẻ giết nó?"
+  },
+  {
+    "i": 18225,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 8,
+    "t": "Bằng cách đuổi nó, bằng cách trục xuất nó, Ngài đã thi hành sự phán xét, Ngài đã đuổi nó bằng cơn gió dữ dội, như gió đông."
+  },
+  {
+    "i": 18226,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 9,
+    "t": "Vì vậy, tội lỗi của Gia-cốp sẽ được tha thứ, đó là kết quả mà nó sẽ gặt hái được khi từ bỏ tội lỗi của mình, khi mọi hòn đá của bàn thờ bị đập tan như đá vôi, khi các tượng A-sê-ra và các lư hương không còn đứng vững."
+  },
+  {
+    "i": 18227,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 10,
+    "t": "Vì thành kiên cố đã trở nên hoang vắng, bị bỏ rơi, bị bỏ hoang như một sa mạc, nơi bê con gặm cỏ, nơi chúng nằm xuống và phá hoại các nhánh cây."
+  },
+  {
+    "i": 18228,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 11,
+    "t": "Khi các nhánh cây khô héo, người ta bẻ chúng, đàn bà đến và đốt chúng. Vì dân này không thông minh, nên Đấng Tạo Hóa của nó sẽ không thương xót nó, Đấng đã nắn nên nó sẽ không ban ân huệ cho nó."
+  },
+  {
+    "i": 18229,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 12,
+    "t": "Và sẽ xảy ra trong ngày đó, Đức Giê-hô-va sẽ đập lúa, từ dòng sông Ơ-phơ-rát đến khe Ê-díp-tô, và các ngươi, hỡi con cái Y-sơ-ra-ên, sẽ được nhặt từng người một."
+  },
+  {
+    "i": 18230,
+    "b": 22,
+    "c": 2427,
+    "r": 2427,
+    "o": 13,
+    "t": "Và sẽ xảy ra trong ngày đó, kèn lớn sẽ vang lên, thì những kẻ đang hấp hối tại đất A-si-ri, và những kẻ bị đày đến đất Ê-díp-tô, sẽ đến thờ phượng Đức Giê-hô-va trên núi thánh, tại Giê-ru-sa-lem."
+  },
+  {
+    "i": 18231,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 1,
+    "t": "Khốn thay cho vòng hoa kiêu hãnh của những kẻ say sưa Ép-ra-im, cho bông hoa tàn úa của sự huy hoàng tuyệt đẹp của nó, ngự trên đỉnh thung lũng phì nhiêu, cho những kẻ bị rượu đánh bại."
+  },
+  {
+    "i": 18232,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 2,
+    "t": "Kìa, một người mạnh mẽ và quyền năng phục vụ Đức Chúa, như một trận mưa đá, một cơn bão tàn khốc, như những dòng nước lớn trút xuống, Ngài dùng tay ném chúng xuống đất."
+  },
+  {
+    "i": 18233,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 3,
+    "t": "Vòng hoa kiêu hãnh của những kẻ say sưa Ép-ra-im sẽ bị giày đạp dưới chân,"
+  },
+  {
+    "i": 18234,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 4,
+    "t": "và bông hoa tàn úa của sự huy hoàng tuyệt đẹp của nó, ngự trên đỉnh thung lũng phì nhiêu. Nó giống như trái vả chín trước mùa hè: ai thấy nó liền hái và nuốt."
+  },
+  {
+    "i": 18235,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 5,
+    "t": "Ngày đó, Đức Giê-hô-va vạn quân sẽ trở thành vòng hoa huy hoàng và vương miện tuyệt đẹp cho phần còn lại của dân Ngài,"
+  },
+  {
+    "i": 18236,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 6,
+    "t": "thần linh công lý cho người phải xét xử, và sức mạnh cho những người đẩy lùi cuộc tấn công ở các cổng thành."
+  },
+  {
+    "i": 18237,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 7,
+    "t": "Cả chúng nữa, chúng bị rối loạn vì rượu, chúng lảo đảo vì say sưa. Thầy tế lễ và tiên tri, chúng bị rối loạn vì say sưa, chúng bị rượu chiếm đoạt, chúng lảo đảo vì say sưa, chúng bị rối loạn trong các khải tượng, chúng lảo đảo trong các phán quyết."
+  },
+  {
+    "i": 18238,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 8,
+    "t": "Phải, mọi bàn đều đầy những thứ ghê tởm, không còn chỗ sạch sẽ!"
+  },
+  {
+    "i": 18239,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 9,
+    "t": "Ngài dạy ai bài học? Ngài giải thích đạo lý cho ai? Cho những đứa trẻ vừa thôi bú, vừa lìa khỏi vú mẹ,"
+  },
+  {
+    "i": 18240,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 10,
+    "t": "khi Ngài nói: xả-v la-xả-v, xả-v la-xả-v; kav la-kav, kav la-kav; ze-êr sham, ze-êr sham."
+  },
+  {
+    "i": 18241,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 11,
+    "t": "Phải, chính bằng môi lắp bắp và tiếng ngoại bang mà Ngài sẽ phán với dân này."
+  },
+  {
+    "i": 18242,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 12,
+    "t": "Ngài đã phán với chúng: \"Đây là sự yên nghỉ! Hãy ban sự yên nghỉ cho người mệt mỏi; đây là một nơi yên tĩnh.\" Nhưng chúng không chịu nghe."
+  },
+  {
+    "i": 18243,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 13,
+    "t": "Vậy nên, Đức Giê-hô-va sẽ phán với chúng như sau: xả-v la-xả-v, xả-v la-xả-v; kav la-kav, kav la-kav; ze-êr sham, ze-êr sham để khi bước đi, chúng ngã ngửa, bị gãy, mắc bẫy, bị cầm tù."
+  },
+  {
+    "i": 18244,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 14,
+    "t": "Vậy nên, hãy nghe lời Đức Giê-hô-va, hỡi những kẻ kiêu ngạo, những kẻ cai trị dân này ở Giê-ru-sa-lem."
+  },
+  {
+    "i": 18245,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 15,
+    "t": "Các ngươi đã nói: \"Chúng ta đã kết ước với sự chết, chúng ta đã lập giao ước với âm phủ. Còn về tai họa đe dọa, nó sẽ qua đi mà không chạm đến chúng ta, vì chúng ta đã lấy sự dối trá làm nơi ẩn náu, và trong sự giả dối, chúng ta đã ẩn mình."
+  },
+  {
+    "i": 18246,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 16,
+    "t": "Vậy nên, Chúa Giê-hô-va phán như vầy: Nầy, ta sẽ đặt tại Si-ôn một viên đá, một viên đá hoa cương, đá góc tường, quý giá, viên đá nền vững chắc: ai tin cậy vào nó sẽ không bị rúng động."
+  },
+  {
+    "i": 18247,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 17,
+    "t": "Ta sẽ lấy sự công bình làm thước đo và sự công chính làm quả cân. Nhưng mưa đá sẽ quét sạch nơi ẩn náu dối trá và nước sẽ tràn ngập chỗ ẩn mình;"
+  },
+  {
+    "i": 18248,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 18,
+    "t": "giao ước của các ngươi với sự chết sẽ bị phá vỡ, giao ước của các ngươi với âm phủ sẽ không đứng vững. Về tai họa hủy diệt, khi nó đi qua, các ngươi sẽ bị giày đạp."
+  },
+  {
+    "i": 18249,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 19,
+    "t": "Mỗi khi nó đi qua, nó sẽ tóm lấy các ngươi, vì mỗi buổi sáng nó sẽ đi qua, cả ngày lẫn đêm, và chỉ có sự kinh hoàng mới làm cho người ta hiểu được sự mặc khải."
+  },
+  {
+    "i": 18250,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 20,
+    "t": "Vì giường sẽ quá ngắn để nằm, và chăn quá hẹp để đắp."
+  },
+  {
+    "i": 18251,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 21,
+    "t": "Phải, như tại núi Pê-ra-xim, Đức Giê-hô-va sẽ trỗi dậy, như tại thung lũng Ga-ba-ôn, Ngài sẽ rung chuyển, để thực hiện công việc của Ngài, công việc lạ lùng của Ngài, để hoàn thành nhiệm vụ của Ngài, nhiệm vụ mầu nhiệm của Ngài."
+  },
+  {
+    "i": 18252,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 22,
+    "t": "Vậy nên, hãy thôi nhạo báng, kẻo dây trói các ngươi thêm chặt, vì ta đã nghe điều nầy: Đức Chúa Giê-hô-va vạn quân đã quyết định dứt khoát chống lại cả xứ."
+  },
+  {
+    "i": 18253,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 23,
+    "t": "Hãy lắng tai và nghe tiếng ta; hãy chú ý, nghe lời ta."
+  },
+  {
+    "i": 18254,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 24,
+    "t": "Người cày ruộng có dành hết thời gian để cày cấy, để xới đất và bừa đất của mình không?"
+  },
+  {
+    "i": 18255,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 25,
+    "t": "Sau khi san bằng mặt đất, há người không gieo tiểu hồi, không rải đại hồi? Rồi người đặt lúa mì, lúa mạch, lúa mạch đen... và lúa mì hoang ở rìa."
+  },
+  {
+    "i": 18256,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 26,
+    "t": "Đức Chúa Trời của người đã dạy người quy tắc này và đã chỉ dẫn người."
+  },
+  {
+    "i": 18257,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 27,
+    "t": "Người ta không nghiền tiểu hồi bằng xe trượt, người ta không cho bánh xe lăn qua đại hồi. Người ta đập tiểu hồi bằng gậy, và đại hồi được đập bằng roi."
+  },
+  {
+    "i": 18258,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 28,
+    "t": "Khi người ta giã lúa mì, người ta không vội nghiền nát nó; người ta cho bánh xe và xe kéo của nó đi qua, người ta không nghiền nó."
+  },
+  {
+    "i": 18259,
+    "b": 22,
+    "c": 2428,
+    "r": 2428,
+    "o": 29,
+    "t": "Tất cả những điều này là ân tứ của Đức Giê-hô-va vạn quân, lời khuyên tuyệt vời làm nên những việc lớn lao."
+  },
+  {
+    "i": 18260,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 1,
+    "t": "Khốn thay, A-ri-ên, A-ri-ên, thành nơi Đa-vít đóng trại! Hãy thêm năm này qua năm khác, các lễ hội hãy hoàn thành chu kỳ của chúng,"
+  },
+  {
+    "i": 18261,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 2,
+    "t": "Ta sẽ đàn áp A-ri-ên; sẽ có tiếng than khóc và than thở, và nó sẽ là A-ri-ên đối với ta."
+  },
+  {
+    "i": 18262,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 3,
+    "t": "Ta sẽ đóng trại bao vây ngươi, ta sẽ tiến hành bao vây ngươi và ta sẽ đắp lũy chống lại ngươi."
+  },
+  {
+    "i": 18263,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 4,
+    "t": "Ngươi sẽ bị hạ thấp, tiếng ngươi sẽ cất lên từ đất, từ bụi đất nó sẽ cất lên như tiếng thì thầm; tiếng ngươi như tiếng vong từ đất, như từ bụi đất nó sẽ thì thầm."
+  },
+  {
+    "i": 18264,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 5,
+    "t": "Đoàn quân của kẻ thù ngươi sẽ như những hạt bụi, đoàn quân của chiến binh, như trấu bay. Và thình lình, trong giây lát,"
+  },
+  {
+    "i": 18265,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 6,
+    "t": "ngươi sẽ được Đức Giê-hô-va vạn quân thăm viếng trong tiếng ồn ào, tiếng động đất, tiếng náo động, bão tố và giông tố, ngọn lửa thiêu đốt."
+  },
+  {
+    "i": 18266,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 7,
+    "t": "Nó sẽ giống như một giấc mơ, một khải tượng ban đêm: đoàn quân của mọi nước tấn công A-ri-ên, tất cả những kẻ chiến đấu với nó, bao vây nó và đàn áp nó."
+  },
+  {
+    "i": 18267,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 8,
+    "t": "Và nó sẽ giống như giấc mơ của người đói: nầy, người ăn, rồi người tỉnh giấc, bụng đói meo; hoặc như giấc mơ của người khát: nầy, người uống, rồi người tỉnh giấc mệt mỏi, cổ họng khô khốc. Quân đoàn của mọi nước tấn công núi Si-ôn cũng sẽ như vậy."
+  },
+  {
+    "i": 18268,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 9,
+    "t": "Hãy ngu dại và kinh ngạc, hãy mù lòa và không thấy; hãy say sưa, nhưng không phải vì rượu, lảo đảo, nhưng không phải vì say sưa,"
+  },
+  {
+    "i": 18269,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 10,
+    "t": "vì Đức Giê-hô-va đã đổ thần buồn ngủ xuống trên các ngươi, Ngài đã nhắm mắt các ngươi (các tiên tri), Ngài đã che mặt các ngươi (những người thấy)."
+  },
+  {
+    "i": 18270,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 11,
+    "t": "Và mọi khải tượng đã trở nên đối với các ngươi như những lời của một cuốn sách đóng ấn, khi người ta trao nó cho một người biết đọc mà nói: \"Hãy đọc đi.\" Nhưng người đáp: \"Tôi không thể, vì nó đã được đóng ấn."
+  },
+  {
+    "i": 18271,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 12,
+    "t": "Và người ta trao cuốn sách cho một người không biết đọc mà nói: \"Hãy đọc đi.\" Nhưng người đáp: \"Tôi không biết đọc."
+  },
+  {
+    "i": 18272,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 13,
+    "t": "Chúa phán: Vì dân nầy đến gần ta bằng lời nói và tôn vinh ta bằng môi miệng, nhưng lòng chúng lại xa ta và sự kính sợ chúng chỉ là một điều răn của loài người, một bài học học thuộc lòng,"
+  },
+  {
+    "i": 18273,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 14,
+    "t": "thì nầy, ta sẽ tiếp tục làm cho dân nầy kinh ngạc bởi những dấu kỳ và phép lạ; sự khôn ngoan của người khôn ngoan sẽ tiêu tan và sự thông sáng của người thông sáng sẽ bay mất."
+  },
+  {
+    "i": 18274,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 15,
+    "t": "Khốn thay cho những kẻ rúc vào nơi kín để che giấu ý định của mình khỏi Đức Giê-hô-va, những kẻ âm mưu trong bóng tối hành động của mình và nói: \"Ai thấy chúng ta? Ai biết chúng ta?"
+  },
+  {
+    "i": 18275,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 16,
+    "t": "Thật là đồi bại! Há thợ gốm giống như đất sét, để tác phẩm dám nói với người làm ra nó: \"Nó không làm ra tôi\", và bình gốm nói với thợ gốm: \"Nó không biết làm việc?"
+  },
+  {
+    "i": 18276,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 17,
+    "t": "Chẳng phải là trong một thời gian ngắn nữa Li-băng sẽ trở lại thành một vườn cây ăn trái, và vườn cây ăn trái sẽ làm người ta nghĩ đến một khu rừng sao?"
+  },
+  {
+    "i": 18277,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 18,
+    "t": "Trong ngày đó, người điếc sẽ nghe những lời của cuốn sách và, được giải thoát khỏi bóng tối và bóng đêm, mắt của người mù sẽ thấy."
+  },
+  {
+    "i": 18278,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 19,
+    "t": "Những người khốn khó sẽ tìm thấy càng ngày càng có thêm niềm vui trong Đức Giê-hô-va, những người nghèo khổ nhất sẽ vui mừng vì Đấng Thánh của Y-sơ-ra-ên."
+  },
+  {
+    "i": 18279,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 20,
+    "t": "Vì kẻ bạo ngược sẽ không còn nữa, kẻ nhạo báng sẽ biến mất, tất cả những kẻ canh giữ gian ác sẽ bị truất phế:"
+  },
+  {
+    "i": 18280,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 21,
+    "t": "những kẻ dùng lời nói mà kết án, những kẻ giăng bẫy cho người xét đoán nơi cửa thành, và vô cớ làm cho người công chính thất bại."
+  },
+  {
+    "i": 18281,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 22,
+    "t": "Vậy nên, Đức Giê-hô-va, Đức Chúa Trời của nhà Gia-cốp, là Đấng đã chuộc Áp-ra-ham, phán như vầy: Từ nay Gia-cốp sẽ chẳng còn thất vọng, từ nay mặt nó chẳng còn tái nhợt,"
+  },
+  {
+    "i": 18282,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 23,
+    "t": "vì khi nó thấy con cái mình, là công việc tay ta làm, ở giữa nó, thì nó sẽ làm thánh danh ta, nó sẽ làm thánh Đấng Thánh của Gia-cốp, nó sẽ kính sợ Đức Chúa Trời của Y-sơ-ra-ên."
+  },
+  {
+    "i": 18283,
+    "b": 22,
+    "c": 2429,
+    "r": 2429,
+    "o": 24,
+    "t": "Những linh hồn lầm lạc sẽ học được sự khôn ngoan, và những kẻ lằm bằm sẽ nhận được sự dạy dỗ."
+  },
+  {
+    "i": 18284,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 1,
+    "t": "Khốn thay cho con cái bội nghịch! Đức Giê-hô-va phán. Chúng lập mưu, nhưng chẳng phải bởi ta; chúng kết ước, nhưng không phải bởi Thánh Linh ta, chồng chất tội lỗi thêm lên."
+  },
+  {
+    "i": 18285,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 2,
+    "t": "Chúng xuống Ê-díp-tô mà không hỏi ý ta, để nương náu dưới sự bảo vệ của Pha-ra-ôn và ẩn mình dưới bóng Ê-díp-tô."
+  },
+  {
+    "i": 18286,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 3,
+    "t": "Nhưng sự bảo vệ của Pha-ra-ôn sẽ trở nên sự hổ thẹn cho các ngươi, và sự ẩn mình dưới bóng Ê-díp-tô sẽ trở nên sự xấu hổ cho các ngươi."
+  },
+  {
+    "i": 18287,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 4,
+    "t": "Vì các quan trưởng của nó đã đến Cô-ân, và các sứ giả của nó đã đến Ha-nết."
+  },
+  {
+    "i": 18288,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 5,
+    "t": "Mọi người đều thất vọng bởi một dân tộc không thể cứu giúp, không đem lại sự giúp đỡ hay lợi ích gì, mà chỉ đem lại sự thất vọng và xấu hổ."
+  },
+  {
+    "i": 18289,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 6,
+    "t": "Lời tiên tri về các loài thú của Nê-ghép. Trong xứ lo âu và khốn khổ, của sư tử cái và sư tử gầm, của rắn lục và rồng bay, chúng chở của cải mình trên lưng lừa, chở châu báu mình trên bướu lạc đà, đến một dân tộc không thể cứu giúp:"
+  },
+  {
+    "i": 18290,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 7,
+    "t": "Ê-díp-tô, sự giúp đỡ của nó là hư không và vô ích; vì vậy ta đã đặt cho nó tên này: Ra-háp bị đánh bại."
+  },
+  {
+    "i": 18291,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 8,
+    "t": "Bây giờ hãy đi, viết điều đó trên bảng, khắc nó trên văn thư, để làm chứng cho ngày sau, đời đời vô cùng."
+  },
+  {
+    "i": 18292,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 9,
+    "t": "Vì đây là một dân tộc nổi loạn, những con cái dối trá, những con cái không chịu nghe Luật Pháp của Đức Giê-hô-va,"
+  },
+  {
+    "i": 18293,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 10,
+    "t": "chúng nói với các tiên kiến: \"Các ngươi đừng thấy gì cả,\" và với các tiên tri: \"Các ngươi đừng báo cho chúng ta điều gì rõ ràng. Hãy nói với chúng ta những điều xuôi tai, hãy thấy những khải tượng giả dối."
+  },
+  {
+    "i": 18294,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 11,
+    "t": "Hãy lìa khỏi đường, hãy tránh xa lối đi, hãy cất Đấng Thánh của Y-sơ-ra-ên khỏi trước mặt chúng ta!"
+  },
+  {
+    "i": 18295,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 12,
+    "t": "Vậy nên, Đấng Thánh của Y-sơ-ra-ên phán như vầy: Bởi vì các ngươi đã chối bỏ lời này và đã tin cậy vào sự gian lận và sự bất trung để nương tựa,"
+  },
+  {
+    "i": 18296,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 13,
+    "t": "vì cớ đó, lỗi này sẽ như một vết nứt xảy ra, một chỗ lồi lên ở trên cao của một bức tường, thình lình, trong một chốc lát, sẽ đổ sập xuống."
+  },
+  {
+    "i": 18297,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 14,
+    "t": "Ngài sẽ đập vỡ nó như người ta đập vỡ một cái bình gốm, vỡ ra từng mảnh không thương tiếc, đến nỗi trong những mảnh vỡ đó, người ta sẽ không tìm được một mảnh sành để cào lửa từ lò hay để múc nước từ bể."
+  },
+  {
+    "i": 18298,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 15,
+    "t": "Vì Chúa Giê-hô-va phán như vầy, là Đấng Thánh của Y-sơ-ra-ên: Trong sự trở lại và sự yên tĩnh, các ngươi sẽ được cứu; trong sự thanh thản và tin cậy, sức mạnh của các ngươi sẽ đến, nhưng các ngươi đã không muốn!"
+  },
+  {
+    "i": 18299,
+    "b": 22,
+    "c": 2430,
+    "r": 2430,
+    "o": 16,
+    "t": "Các ngươi đã nói: \"Không, vì chúng ta sẽ chạy trốn trên ngựa!\" Phải, các ngươi sẽ chạy trốn. Và thêm nữa: \"Chúng ta sẽ có những con ngựa nhanh nhẹn!\" Phải, những kẻ đuổi theo các ngươi sẽ nhanh nhẹn."
+  }
+]

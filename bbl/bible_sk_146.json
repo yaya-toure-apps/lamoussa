@@ -1,0 +1,802 @@
+[
+  {
+    "i": 14600,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 7,
+    "t": "Nie v luku svojom som mal dôveru, ani meč môj ma neučinil víťazom;"
+  },
+  {
+    "i": 14601,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 8,
+    "t": "skrze teba sme porazili protivníkov našich, ty si pokryl hanbou nepriateľov našich;"
+  },
+  {
+    "i": 14602,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 9,
+    "t": "v Bohu sa radujeme po celý deň, ustavične oslavujúc meno tvoje."
+  },
+  {
+    "i": 14603,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 10,
+    "t": "A predsa, zavrhol si nás a zahanbil, nevychádzaš viac s vojskami našimi;"
+  },
+  {
+    "i": 14604,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 11,
+    "t": "dávaš nám ustúpiť pred protivníkom, nepriatelia naši lúpili do sýtosti."
+  },
+  {
+    "i": 14605,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 12,
+    "t": "Ako zver na zabitie nás vydávaš a medzi národy si nás rozptýlil;"
+  },
+  {
+    "i": 14606,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 13,
+    "t": "predávaš ľud svoj za nízku cenu, bez toho, aby si sa obohatil na tomto obchode."
+  },
+  {
+    "i": 14607,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 14,
+    "t": "Učinil si nás posmechom susedov našich, bájkou a výsmechom okolia nášho;"
+  },
+  {
+    "i": 14608,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 15,
+    "t": "učinil si nás príslovím národov, potrasením hláv medzi ľuďmi."
+  },
+  {
+    "i": 14609,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 16,
+    "t": "Po celý deň je moja potupa predo mnou a hanba pokrýva tvár moju,"
+  },
+  {
+    "i": 14610,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 17,
+    "t": "pre krik urážky a rúhania, na pohľad nenávisti a pomsty."
+  },
+  {
+    "i": 14611,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 18,
+    "t": "Toto všetko nás postihlo bez toho, aby sme ťa boli zabudli, bez toho, aby sme zradili zmluvu tvoju,"
+  },
+  {
+    "i": 14612,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 19,
+    "t": "bez toho, aby sa srdcia naše boli obrátili späť, bez toho, aby kroky naše opustili cestu tvoju:"
+  },
+  {
+    "i": 14613,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 20,
+    "t": "rozdrvil si nás v príbytku šakalov, pokrývajúc nás tieňom smrti."
+  },
+  {
+    "i": 14614,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 21,
+    "t": "Ak by sme boli zabudli na meno Boha nášho, vztiahli ruky k bohu cudziemu,"
+  },
+  {
+    "i": 14615,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 22,
+    "t": "či by to Boh nebol spozoroval, on, ktorý pozná tajnosti srdca?"
+  },
+  {
+    "i": 14616,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 23,
+    "t": "Pre teba nás zabíjajú po celý deň, zaobchádzajúc s nami ako s ovcami na zabitie."
+  },
+  {
+    "i": 14617,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 24,
+    "t": "Vstaň, prečo spíš, Pane? Prebuď sa, nezavrhuj až do konca!"
+  },
+  {
+    "i": 14618,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 25,
+    "t": "Prečo skrývaš tvár svoju, zabúdaš na útlak náš, na biedu našu?"
+  },
+  {
+    "i": 14619,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 26,
+    "t": "Lebo duša naša je zničená v prachu, brucho naše priľnulo k zemi."
+  },
+  {
+    "i": 14620,
+    "b": 18,
+    "c": 1944,
+    "r": 1944,
+    "o": 27,
+    "t": "Vstaň, príď nám na pomoc, vykúp nás pre lásku svoju!"
+  },
+  {
+    "i": 14621,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 1,
+    "t": "Pre predného speváka. Na nápev: Ľalie... Pre synov Kórachových. Báseň. Pieseň lásky."
+  },
+  {
+    "i": 14622,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 2,
+    "t": "Srdce moje prekypuje krásnymi slovami: hovorím dielo svoje pre kráľa, jazyk môj je trstina rýchleho pisára."
+  },
+  {
+    "i": 14623,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 3,
+    "t": "Si krásny, najkrajší zo synov ľudských, milosť sa rozliala na perách tvojich. Preto ťa Boh požehnal naveky."
+  },
+  {
+    "i": 14624,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 4,
+    "t": "Pripáš si meč na stehno svoje, udatný, v nádhere a lesku"
+  },
+  {
+    "i": 14625,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 5,
+    "t": "choď, jazdi, pre vec pravdy, zbožnosti, spravodlivosti. Natiahni tetivu na luku, nech desí pravica tvoja!"
+  },
+  {
+    "i": 14626,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 6,
+    "t": "Šípy tvoje sú ostré, hľa, národy sú pod tebou, strácajú srdce, nepriatelia kráľa."
+  },
+  {
+    "i": 14627,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 7,
+    "t": "Tvoj trón je od Boha naveky a naveky! Žezlo spravodlivosti, žezlo kráľovstva tvojho!"
+  },
+  {
+    "i": 14628,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 8,
+    "t": "Miluješ spravodlivosť, nenávidiš bezbožnosť. Preto ťa Boh, Boh tvoj, pomazal olejom radosti ako nikoho z tvojich protivníkov;"
+  },
+  {
+    "i": 14629,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 9,
+    "t": "odev tvoj nie je nič iné ako myrha a aloe. Z palácov zo slonoviny ťa harfy potešujú."
+  },
+  {
+    "i": 14630,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 10,
+    "t": "Medzi milovanými tvojimi sú dcéry kráľovské; po pravici tvojej stojí dáma v zlate z Ofiru."
+  },
+  {
+    "i": 14631,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 11,
+    "t": "Počuj, dcéra moja, pozri a nakloň ucho, zabudni na ľud svoj a dom otca svojho,"
+  },
+  {
+    "i": 14632,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 12,
+    "t": "vtedy zatúži kráľ po kráse tvojej: on je Pán tvoj, klaňaj sa mu!"
+  },
+  {
+    "i": 14633,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 13,
+    "t": "Dcéra z Týru darmi obveselí tvár tvoju, i národy najbohatšie,"
+  },
+  {
+    "i": 14634,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 14,
+    "t": "mnohým šperkom osadeným zlatom. Oblečená"
+  },
+  {
+    "i": 14635,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 15,
+    "t": "v brokát, dcéra kráľovská je uvedená dovnútra ku kráľovi, panny v jej sprievode. Vedú spoločníčky, ktoré sú jej určené;"
+  },
+  {
+    "i": 14636,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 16,
+    "t": "v radosti a plesote vstupujú do paláca."
+  },
+  {
+    "i": 14637,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 17,
+    "t": "Na mieste otcov tvojich ti prídu synovia; urobíš z nich kniežatá po celej zemi."
+  },
+  {
+    "i": 14638,
+    "b": 18,
+    "c": 1945,
+    "r": 1945,
+    "o": 18,
+    "t": "Nech trvá meno tvoje z pokolenia na pokolenie, nech ťa národy chvália na veky vekov."
+  },
+  {
+    "i": 14639,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 1,
+    "t": "Pre predného speváka. Pre synov Kórachových. Na hoboj. Žalm."
+  },
+  {
+    "i": 14640,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 2,
+    "t": "Boh je pre nás útočisko a sila, pomoc v súžení vždy ponúknutá."
+  },
+  {
+    "i": 14641,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 3,
+    "t": "Preto sa nebudeme báť, ak sa zem zmení, ak sa vrchy zatrasú v srdci morí,"
+  },
+  {
+    "i": 14642,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 4,
+    "t": "keď hučia a vriajú vody ich a trasú sa vrchy ich pozdvihnutím. (S nami je Hospodin zástupov, pevnosť pre nás, Boh Jákobov!)"
+  },
+  {
+    "i": 14643,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 5,
+    "t": "Rieka! Jej ramená obveseľujú mesto Božie, posväcuje príbytky Najvyššieho."
+  },
+  {
+    "i": 14644,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 6,
+    "t": "Boh je v ňom; nemôže sa zakolísať, Boh ho zachraňuje na úsvite rána;"
+  },
+  {
+    "i": 14645,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 7,
+    "t": "národy hučali, kráľovstvá sa zakolísali, pozdvihol hlas svoj, zem sa rozplynula."
+  },
+  {
+    "i": 14646,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 8,
+    "t": "S nami je Hospodin zástupov, pevnosť pre nás, Boh Jákobov!"
+  },
+  {
+    "i": 14647,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 9,
+    "t": "Poďte, pohliadnite na vznešené činy Hospodinove, ktorý naplnil zem úžasmi."
+  },
+  {
+    "i": 14648,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 10,
+    "t": "Ukončuje vojny až po koniec zeme; luk zlomil, kopiju rozbil, štíty spálil v ohni."
+  },
+  {
+    "i": 14649,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 11,
+    "t": "\"Prestaňte, poznajte, že ja som Boh, vyvýšený nad národmi, vyvýšený nad zemou!"
+  },
+  {
+    "i": 14650,
+    "b": 18,
+    "c": 1946,
+    "r": 1946,
+    "o": 12,
+    "t": "S nami je Hospodin zástupov, pevnosť pre nás, Boh Jákobov!"
+  },
+  {
+    "i": 14651,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 1,
+    "t": "Pre predného speváka. Pre synov Kórachových. Žalm."
+  },
+  {
+    "i": 14652,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 2,
+    "t": "Všetky národy, tlieskajte rukami, oslavujte Boha vo výkrikoch radosti!"
+  },
+  {
+    "i": 14653,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 3,
+    "t": "Je to Hospodin, Najvyšší, hrozný, veľký Kráľ nad celou zemou."
+  },
+  {
+    "i": 14654,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 4,
+    "t": "Drží národy pod jarmom naším a národy pod nohami našimi."
+  },
+  {
+    "i": 14655,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 5,
+    "t": "Vybral pre nás dedičstvo naše, pýchu Jákoba, ktorú miluje."
+  },
+  {
+    "i": 14656,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 6,
+    "t": "Boh vystupuje medzi plesanie, Hospodin, pri zvuku rohu."
+  },
+  {
+    "i": 14657,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 7,
+    "t": "Hrajte Bohu nášmu, hrajte, hrajte Kráľovi nášmu, hrajte!"
+  },
+  {
+    "i": 14658,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 8,
+    "t": "Je to kráľ celej zeme: hrajte Bohu, nech sa to dozvedia!"
+  },
+  {
+    "i": 14659,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 9,
+    "t": "Boh kraľuje nad pohanmi, Boh sedí na tróne svätosti svojej."
+  },
+  {
+    "i": 14660,
+    "b": 18,
+    "c": 1947,
+    "r": 1947,
+    "o": 10,
+    "t": "Kniežatá národov sa spájajú: je to ľud Boha Abrahámovho. Bohu patria štíty zeme, na najvyššie vystúpil."
+  },
+  {
+    "i": 14661,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 1,
+    "t": "Pieseň. Žalm. Pre synov Kórachových."
+  },
+  {
+    "i": 14662,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 2,
+    "t": "Veľký je Hospodin a chvályhodný nadovšetko v meste Boha nášho, na vrchu svätom,"
+  },
+  {
+    "i": 14663,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 3,
+    "t": "vznešený v prudkosti, radosť celej zeme; vrch Sion, srdce Severu, mesto veľkého kráľa:"
+  },
+  {
+    "i": 14664,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 4,
+    "t": "Boh sa z prostriedku palácov svojich zjavil ako pevnosť."
+  },
+  {
+    "i": 14665,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 5,
+    "t": "Hľa, králi sa spolčili, postupujúc naraz;"
+  },
+  {
+    "i": 14666,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 6,
+    "t": "videli, a zrazu ohromení, preľaknutí, ušli."
+  },
+  {
+    "i": 14667,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 7,
+    "t": "Tam sa ich zmocnilo trasenie, triaška rodičky,"
+  },
+  {
+    "i": 14668,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 8,
+    "t": "to bol východný vietor, ktorý rozbíja lode z Taršíšu."
+  },
+  {
+    "i": 14669,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 9,
+    "t": "Ako nám bolo povedané, videli sme to v meste Boha nášho, v meste Hospodina zástupov; Boh ho upevnil naveky."
+  },
+  {
+    "i": 14670,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 10,
+    "t": "Rozjímame, Bože, o láske tvojej uprostred chrámu tvojho!"
+  },
+  {
+    "i": 14671,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 11,
+    "t": "Ako meno tvoje, Bože, chvála tvoja až po koniec zeme! Pravica tvoja je plná spravodlivosti,"
+  },
+  {
+    "i": 14672,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 12,
+    "t": "vrch Sion plesá; dcéry Júdove jasajú pred súdmi tvojimi."
+  },
+  {
+    "i": 14673,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 13,
+    "t": "Obíďte Sion, prejdite ho, spočítajte veže jeho;"
+  },
+  {
+    "i": 14674,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 14,
+    "t": "nech srdcia vaše priľnú k múrom jeho, podrobne opíšte paláce jeho; aby ste rozprávali vekom budúcim,"
+  },
+  {
+    "i": 14675,
+    "b": 18,
+    "c": 1948,
+    "r": 1948,
+    "o": 15,
+    "t": "že on je Boh, Boh náš na veky vekov, on nás povedie!"
+  },
+  {
+    "i": 14676,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 1,
+    "t": "Pre predného speváka. Pre synov Kórachových. Žalm."
+  },
+  {
+    "i": 14677,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 2,
+    "t": "Počujte toto, všetky národy, nakloňte ucho, všetci obyvatelia sveta,"
+  },
+  {
+    "i": 14678,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 3,
+    "t": "ľudia prostí i ľudia vysokého postavenia, bohatí i chudobní spolu!"
+  },
+  {
+    "i": 14679,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 4,
+    "t": "Ústa moje hovoria múdrosť a šepot srdca môjho, rozumnosť;"
+  },
+  {
+    "i": 14680,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 5,
+    "t": "Nakloňujem ucho k podobenstvu, hádanku svoju na citare vyriešim."
+  },
+  {
+    "i": 14681,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 6,
+    "t": "Prečo sa mám báť v dňoch zla, keď ma obklopuje zloba tých, ktorí mi päty striehnu?"
+  },
+  {
+    "i": 14682,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 7,
+    "t": "Tí, čo sa spoliehajú na svoj majetok a chvália sa množstvom svojho bohatstva,"
+  },
+  {
+    "i": 14683,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 8,
+    "t": "ani jeden z nich nevykúpi brata, Bohu nedá za neho výkupné,"
+  },
+  {
+    "i": 14684,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 9,
+    "t": "príliš drahé je vykúpenie ich duše, nikdy na to nebudú mať dosť,"
+  },
+  {
+    "i": 14685,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 10,
+    "t": "aby žili naveky a nevideli hrob."
+  },
+  {
+    "i": 14686,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 11,
+    "t": "Veď vidia, že zomierajú múdri, hynú aj blázni a nerozumní a svoj majetok zanechávajú iným."
+  },
+  {
+    "i": 14687,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 12,
+    "t": "Ich hrobmi sú ich domy naveky, ich príbytkami z pokolenia na pokolenie; svojím menom pomenúvajú svoje pozemky!"
+  },
+  {
+    "i": 14688,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 13,
+    "t": "Človek v sláve neobstojí, podobá sa dobytku nemému."
+  },
+  {
+    "i": 14689,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 14,
+    "t": "Taká je cesta tých, čo sa spoliehajú na seba, a koniec tých, ktorým sa páči ich reč."
+  },
+  {
+    "i": 14690,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 15,
+    "t": "Ako ovce sú vtláčaní do šeolu, smrť ich pasie, ráno ich premôžu spravodliví; ich podoba zanikne, šeol bude ich domovom!"
+  },
+  {
+    "i": 14691,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 16,
+    "t": "Ale Boh vykúpi moju dušu z moci šeolu, lebo ma prijme."
+  },
+  {
+    "i": 14692,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 17,
+    "t": "Neboj sa, keď človek bohatne, keď sa rozmnožuje sláva jeho domu."
+  },
+  {
+    "i": 14693,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 18,
+    "t": "Lebo pri svojej smrti si nič nevezme, jeho sláva s ním nezostúpi."
+  },
+  {
+    "i": 14694,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 19,
+    "t": "Ak si za života blahorečil svoju dušu, a chválili ťa, že si si dobre robil,"
+  },
+  {
+    "i": 14695,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 20,
+    "t": "predsa prídeš k pokoleniu svojich otcov, ktorí nikdy neuvidia svetlo."
+  },
+  {
+    "i": 14696,
+    "b": 18,
+    "c": 1949,
+    "r": 1949,
+    "o": 21,
+    "t": "Človek v sláve, ktorý nerozumie, podobá sa dobytku nemému."
+  },
+  {
+    "i": 14697,
+    "b": 18,
+    "c": 1950,
+    "r": 1950,
+    "o": 1,
+    "t": "Žalm. Asafov. Boh bohov, Hospodin, prehovoril a zavolal zem od východu slnka až po západ."
+  },
+  {
+    "i": 14698,
+    "b": 18,
+    "c": 1950,
+    "r": 1950,
+    "o": 2,
+    "t": "Zo Siona, vrcholu krásy, Boh zažiaril,"
+  },
+  {
+    "i": 14699,
+    "b": 18,
+    "c": 1950,
+    "r": 1950,
+    "o": 3,
+    "t": "prichádza náš Boh a nebude mlčať; pred ním pohlcujúci oheň a okolo neho silná víchrica."
+  }
+]
